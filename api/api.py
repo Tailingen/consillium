@@ -1,10 +1,11 @@
 from datetime import datetime
 from enum import Enum
 
+from fastapi import Body
 from fastapi.routing import APIRouter
 import requests
 from bs4 import BeautifulSoup
-
+from googletrans import Translator
 
 
 from consillium.etl import link_parsing, save_text, save_image
@@ -44,7 +45,21 @@ class Files(Enum):
 
 
 #Эндпоинт для векторизации
-@router.post("/api/vectorize/")
+@router.post("/parsing/vectorize/")
 async def text_vectorize(file: str):
     file = "files/" + file
-    return vectorize(file)
+    return await vectorize(file)
+
+@router.post("/request/")
+async def request_post(req: str = Body()):
+    request_eng = await consillium_translate(req)
+    return request_eng
+
+async def consillium_translate(text):
+    translator = Translator()
+    try:
+        translated = await translator.translate(text, src='ru', dest='en')
+        return translated.text
+    except Exception as e:
+        print(f"Translation error: {e}")
+        return text

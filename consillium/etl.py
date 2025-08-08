@@ -52,7 +52,7 @@ async def save_text(text: str, file_name: str):
         file.write(text)
 
 
-#ФФункция, которая сохраняет изображение
+#Функция, которая сохраняет изображение
 async def save_image(image, file_name):
     image = Image.open(io.BytesIO(image))
 
