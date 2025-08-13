@@ -1,14 +1,17 @@
 from datetime import datetime
 from enum import Enum
-
+from datetime import time
 from fastapi import Body
 from fastapi.routing import APIRouter
 import requests
 from bs4 import BeautifulSoup
 from googletrans import Translator
+import textwrap
 
 
 from consillium.etl import link_parsing, save_text, save_image
+from consillium.generator import MedicalTextGenerator
+from data_base.db_work import biobert_tokenizer, biobert_model, llm
 from vectorize import vectorize
 
 router = APIRouter()
@@ -53,7 +56,17 @@ async def text_vectorize(file: str):
 @router.post("/request/")
 async def request_post(req: str = Body()):
     request_eng = await consillium_translate(req)
-    return request_eng
+    with MedicalTextGenerator(biobert_tokenizer, biobert_model, llm) as generator:
+        print(f"Запрос: {request_eng}")
+        start = time.time()
+        result = generator.generate_medical_text(request_eng)
+        print(f"Затрачено: {time.time() - start:.2f} сек")
+        print(f"Результат:\n")
+
+        # for line in textwrap.wrap(result, width=150):
+        #     print(line)
+        # print("\n" + "-" * 50 + "\n")
+    return result
 
 async def consillium_translate(text):
     translator = Translator()
