@@ -66,6 +66,7 @@ async def request_post(req: str = Body()):
         # for line in textwrap.wrap(result, width=150):
         #     print(line)
         # print("\n" + "-" * 50 + "\n")
+    result = await consillium_translate(result)
     return result
 
 async def consillium_translate(text):
