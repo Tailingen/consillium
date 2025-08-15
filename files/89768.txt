@@ -1,0 +1,43 @@
+Testing the Addition of Copanlisib to Usual Treatment (Fulvestrant and Abemaciclib) in Metastatic Breast Cancer
+This phase I trial studies the effects (good and bad) of adding copanlisib to the usual therapy of fulvestrant and abemaciclib in treating patients with hormone receptor positive and HER2 negative breast cancer that has spread from where it first started (breast) to other places in the body (metastatic). Some breast cancer cells have receptors for the hormones estrogen or progesterone. These cells are hormone receptor positive and they need estrogen or progesterone to grow. This can affect how the cancer is treated. Hormone therapy using fulvestrant may fight breast cancer by blocking the use of estrogen by the tumor cells. Abemaciclib and copanlisib may stop the growth of tumor cells by blocking some of the enzymes needed for cell growth. Adding copanlisib to the usual therapy of fulvestrant and abemaciclib may work better than giving fulvestrant and abemaciclib alone in treating patients with breast cancer.
+Anatomic Stage IV Breast Cancer AJCC v8|Metastatic Breast Carcinoma|Metastatic HER2-Negative Breast Carcinoma|Metastatic Hormone Receptor-Positive Breast Carcinoma|Recurrent Breast Carcinoma
+DRUG: Abemaciclib|PROCEDURE: Biopsy|PROCEDURE: Biospecimen Collection|DRUG: Copanlisib Hydrochloride|PROCEDURE: Diagnostic Imaging|PROCEDURE: Echocardiography|DRUG: Fulvestrant|PROCEDURE: Multigated Acquisition Scan
+Dose-limiting Toxicity (DLT), DLT will be determined based on the incidence, intensity and duration of adverse events (AEs) that are related to the drug combinations and occur within 28 days of drug administration. The severity of AEs will be graded according to National Cancer Institute Common Terminology Criteria for Adverse Events version 5.0. AEs will be summarized by counts and percentages, overall as well as by dose levels and by patient characteristics., Up to 28 days from drug administration
+Progression-free Survival (PFS), Radiographic disease recurrence/progression will be assessed using the Response Evaluation Criteria in Solid Tumors (RECIST) 1.1 criteria. Will be estimated by the Kaplan-Meier (KM) product limit method and survival difference will be compared between the two arms by stratified log rank test. Hazard ratio with 95% confidence interval (CI) will be estimated between the two arms from the stratified Cox proportional hazard model, without and with adjustment for patient characteristics., Time from randomization to the event of disease recurrence/progression or death due to any cause, assessed up to 5 years|Objective Response Rate (ORR), Will be defined as the proportion of response-evaluable patients who achieve complete response (CR) or partial response (PR) and assessed by RECIST 1.1 criteria. Will be estimated with a 95% exact CI and difference between the two arms will be compared by Fisher's exact test. Raw and adjusted odds ratio (OR) will be derived with 95% CI from logistic regression without and with adjustment for patient characteristics., Up to 5 years|Clinical Benefit Rate, Will be defined as the proportion of response-evaluable patients who achieve CR or PR or stable disease for at least 6 months and assessed by RECIST 1.1 criteria. Will be estimated with a 95% exact CI and difference between the two arms will be compared by Fisher's exact test. Raw and adjusted OR will be derived with 95% CI from logistic regression without and with adjustment for patient characteristics, Up to 5 years|Overall Survival, Will be assessed by RECIST 1.1 criteria. Will be estimated by the KM product limit method and survival difference will be compared between the two arms by stratified log rank test. Hazard ratio with 95% CI will be estimated between the two arms from the stratified Cox proportional hazard model, without and with adjustment for patient characteristics., Time of randomization to time of death due to any cause or latest follow-up, whichever earlier, assessed up to 5 years
+PRIMARY OBJECTIVES:
+
+I. To evaluate the safety profile of fulvestrant + abemaciclib + copanlisib hydrochloride (copanlisib) (FAC) and determine the recommended phase 2 dose (RP2D).
+
+SECONDARY OBJECTIVES:
+
+I. To assess the objective response rate (ORR = partial response \[PR\] + complete response \[CR\]) and clinical benefit rate (CBR = PR + CR + stable disease \[SD\] \>= 6 months) of FAC and medium progression free survival (PFS) with FAC.
+
+EXPLORATORY OBJECTIVES:
+
+I. To assess whether triplet therapy with FAC inhibits AKT phosphorylation, reduces cyclin D1, and inhibits Rb phosphorylation.
+
+II. To assess whether the combination of abemaciclib and fulvestrant affect the copanlisib pharmacokinetics (PK).
+
+III. To assess the objective response rate (ORR), clinical benefit rate (CBR) and median PFS in the following molecularly defined subgroups treated with FAC such as mutations in genes in the PI3K pathway (PIK3CA, AKT, PTEN etc), ESR1, TP53, or PTEN IHC loss vs not.
+
+IV. To assess baseline and treatment induced changes in various cancer associated pathways, including but not limited to PI3K, MAPK, ER, cyclins, CDKs and CDK inhibitors; and to correlate with treatment response and progression.
+
+V. To correlate baseline and treatment induced changes in breast cancer intrinsic subtypes (PAM50), and PI3K messenger ribonucleic acid (mRNA) signature and expression of candidate genes with treatment response and benefit from adding copanlisib.
+
+VI. To evaluate ctDNA mutations at baseline and over time for response predictors at baseline, and clonal evolution associated with treatment.
+
+VII. To correlate ctDNA mutation profiles with tumor sequencing, and correlate baseline ctDNA mutations, particularly in components of the PI3K pathway with treatment response, and correlate early changes in ctDNA variant allele frequencies (VAFs) with PFS, assess emergent resistant mutations at progression.
+
+VIII. To assess resistance mechanisms to FAC at baseline and at disease progression.
+
+IX. To examine the molecular effects of FAC on tumor and circulating markers. X. To analyze tumor infiltrating lymphocytes at baseline, during treatment, and at disease progression.
+
+OUTLINE: This is a phase I two part, dose-escalation study of copanlisib hydrochloride and abemaciclib.
+
+PHASE I (PART A): Patients receive copanlisib hydrochloride intravenously (IV) over 1 hour on days 1, 8, and 15 or days 1 and 15 (depending on dose level) and abemaciclib orally (PO) twice daily (BID) on on days 2-28 of cycle 1 and on days 1-28 of subsequent cycles. Patients also receive fulvestrant intramuscularly (IM) on days 2 and 16 of cycle 1, and on day 1 of subsequent cycles. Cycles repeat every 28 days in the absence of disease progression or unacceptable toxicity. Patients undergo an echocardiography (ECHO) or multigated acquisition (MUGA) scan during screening. Patients also undergo blood sample collection pre-treatment, cycle 1 days 1, 8, 15, and 22, cycle 2 day 1, cycle 4 day 1, cycle 7 day 1, and then every 3 cycles thereafter and at time of progression. Patients undergo tissue biopsy pre-treatment and optionally on cycle 1 day 15 and at the time of progression. Patients also undergo imaging at screening and at the completion of cycle 3, then every 3 cycles thereafter.
+
+PHASE I (PART B): Patients receive copanlisib hydrochloride IV over 1 hour on days 1, 8, and 15 or days 1 and 15 (depending on dose level) and abemaciclib PO twice daily BID for 5 days each week (2 days off). Patients also receive fulvestrant IM on days 2 and 16 of cycle 1, and on day 1 of subsequent cycles. Cycles repeat every 28 days in the absence of disease progression or unacceptable toxicity. Patients undergo an ECHO or MUGA scan during screening. Patients also undergo blood sample collection pre-treatment, cycle 1 days 1, 8, 15, and 22, cycle 2 day 1, cycle 4 day 1, cycle 7 day 1, and then every 3 cycles thereafter and at time of progression. Patients undergo tissue biopsy pre-treatment and optionally on cycle 1 day 15 and at the time of progression. Patients also undergo imaging at screening and at the completion of cycle 3, then every 3 cycles thereafter.
+
+After completion of study treatment, patients are followed up every 3 months for 5 years.
+
+\* As of November 2023, Bayer has decided to voluntarily withdraw the NDA for copanlisib, phase II portion removed.

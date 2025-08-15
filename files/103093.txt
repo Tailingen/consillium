@@ -1,0 +1,26 @@
+Sunitinib Malate in Treating Patients With Thyroid Cancer That Did Not Respond to Iodine I 131 and Cannot Be Removed by Surgery
+This phase II trial studies how well sunitinib malate works in treating patients with thyroid cancer that did not respond to iodine I 131 (radioactive iodine) and cannot be removed by surgery. Sunitinib malate may stop the growth of tumor cells by blocking some of the enzymes needed for cell growth and by blocking blood flow to the tumor.
+Differentiated Thyroid Gland Carcinoma|Recurrent Thyroid Gland Carcinoma|Refractory Thyroid Gland Carcinoma|Stage III Thyroid Gland Follicular Carcinoma AJCC v7|Stage III Thyroid Gland Medullary Carcinoma AJCC v7|Stage IV Thyroid Gland Follicular Carcinoma AJCC v7|Stage IV Thyroid Gland Medullary Carcinoma AJCC v7|Stage IV Thyroid Gland Papillary Carcinoma AJCC v7|Stage IVA Thyroid Gland Follicular Carcinoma AJCC v7|Stage IVA Thyroid Gland Medullary Carcinoma AJCC v7|Stage IVA Thyroid Gland Papillary Carcinoma AJCC v7|Stage IVB Thyroid Gland Follicular Carcinoma AJCC v7|Stage IVB Thyroid Gland Medullary Carcinoma AJCC v7|Stage IVB Thyroid Gland Papillary Carcinoma AJCC v7|Stage IVC Thyroid Gland Follicular Carcinoma AJCC v7|Stage IVC Thyroid Gland Medullary Carcinoma AJCC v7|Stage IVC Thyroid Gland Papillary Carcinoma AJCC v7|Thyroid Gland Oncocytic Carcinoma|Unresectable Thyroid Gland Carcinoma
+OTHER: Laboratory Biomarker Analysis|OTHER: Pharmacogenomic Study|DRUG: Sunitinib|DRUG: Sunitinib Malate
+Objective Response Rate, Assessed Using the Response Evaluation Criteria in Solid Tumors (RECIST), Per Response Evaluation Criteria In Solid Tumors Criteria (RECIST v1.0) for target lesions and assessed by CT or MRI: Complete Response (CR), Disappearance of all target lesions; Partial Response (PR), \>=30% decrease in the sum of the longest diameter of target lesions; Overall Response (OR) = CR + PR.", Up to 2 years
+Incidence of Toxicity, Graded According to the Common Terminology Criteria for Adverse Events Version 3.0, Any grade toxicity of any type, regardless of attribution, From time of first treatment with sunitinib, assessed up to 2 years|Overall Survival, Kaplan-Meier curves will be generated and 95% confidence intervals will be derived for median overall survival., Up to 10 years|Time to Progression or Death Evaluated Using the RECIST, Time from start of treatment to time of progression or death of any cause, assessed up to 10 years
+Changes in Laboratory Correlates Analyzed Using Paired T-tests, Relevant laboratory correlates will be compared between responders and non-responders using the Wilcoxon rank sum test. The association between the presence or absence of RET gene rearrangements/mutations and tumor response, as well as the association between germ-line polymorphisms in the RET gene and response, will be analyzed using Fisher's exact test. The correlative and genetic data will also be entered as covariates (univariate analyses only due to the small sample size) in a Cox regression model of progression-free survival., Baseline to 2 years
+PRIMARY OBJECTIVES:
+
+I. Determine the response rate of single agent sunitinib (sunitinib malate) in patients with iodine refractory, unresectable well-differentiated thyroid cancer (WDTC) who have evidence of disease progression within 6 months of study enrollment.
+
+II. Determine the response rate of single agent sunitinib in patients with medullary thyroid cancer (MTC) who have evidence of disease progression within 6 months of study enrollment.
+
+III. Determine the toxicity, duration of response, progression free survival, and overall survival in patients with WDTC or MTC treated with single agent sunitinib.
+
+IV. Determine whether the presence of ret proto-oncogene (RET) gene rearrangements in patients with WDTC or RET mutations in patients with MTC predict response to sunitinib.
+
+V. Determine whether therapy with sunitinib affects phosphorylation of downstream RET effector, mitogen-activated protein kinase 1 (ERK), in WDTC and MTC tissue.
+
+VI. Determine whether specific germ-line polymorphisms in the RET gene are associated with favorable outcome in patients with WDTC treated with sunitinib.
+
+OUTLINE: Patients are assigned to 1 of 2 cohorts according to type of thyroid cancer (medullary vs well-differentiated).
+
+Patients receive sunitinib malate orally (PO) once daily (QD) on days 1-28. Cycles repeat every 6 weeks in the absence of disease progression or unacceptable toxicity.
+
+After completion of study treatment, patients are followed up periodically for up to 2 years.

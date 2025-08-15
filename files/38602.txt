@@ -1,0 +1,11 @@
+A Prospective Study to Evaluate Clinical Performance of Thermalytix in Detecting Breast Cancers
+The purpose of this study is to determine the clinical performance of AI-based Thermalytix with the current standard-of-care diagnostic modalities in women.
+Breast Cancer|Early Detection of Cancer
+DIAGNOSTIC_TEST: Thermalytix
+Sensitivity, Specificity, Positive Predictive Value and Negative Predictive Value of Thermalytix, To assess the clinical performance of Thermalytix as compared to standard screening modalities.
+
+Sensitivity, specificity, positive predictive value and negative predictive value of Thermalytix, 2 days
+Sensitivity and Specificity of Thermalytix for Women With Dense Breast Tissue (ACR Category C or D), To assess the influence of patient characteristics (Breast density) on the diagnostic accuracy of Thermalytix., 2 days|Sensitivity and Specificity of Thermalytix in Women With Breast Density ACR Category "A" or "B", To assess the influence of patient characteristics (Breast density) on the diagnostic accuracy of Thermalytix.
+
+Sensitivity and Specificity of Thermalytix in Women with Fatty Breasts - Breast Density ACR category "A" or "B", 2 days
+While mammography is the most accepted breast cancer screening test, it is less sensitive in women with dense breast tissue, who have a four fold high risk for developing breast cancer. Thermalytix is a novel automated breast cancer screening solution that uses artificial intelligence (AI) over thermal images to detect and localise breast cancer lesions in women. In this study the performance of Thermalytix over mammography is evaluated in women with dense and non-dense breast tissue who presented for a health check-up at a hospital. All women underwent Thermalytix and mammography, and participants who were reported as positive on either test were recommended for further investigations. Sensitivity, specificity, positive predictive value, and negative predictive value were calculated across age-groups, menopausal status, and breast densities against the current standard-of-care diagnostic modalities.

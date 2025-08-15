@@ -1,0 +1,28 @@
+Brain [18F]-FES PET/CT in Patients With Estrogen-Receptor Positive Breast Cancer
+The goal of this interventional study is to optimize the protocol of FES PET/CT in Estrogen Receptor positive Breast cancer patients with Brain metastases. Patients will undergo MRI of the brain and FDG PET/CT brain as part of standard of care for radiation treatment planning. An additional 18F-FES PET/CT brain scan will be completed before this standard of care radiation treatment. Patients will be followed prospectively with clinical and MRI assessments per standard-of-care for a total of 12 months.
+
+Study Population: Patients with ER-positive breast cancer with biopsy proven or suspected new or recurrent brain metastases (based on standard of care MRI) planned for radiation treatment of brain lesions.
+Breast Cancer|Brain Metastases
+DIAGNOSTIC_TEST: Brain Imaging with 18F-FES
+Mean SUV, Mean standardized uptake value within a region of interest placed based on MRI findings of suspicious brain lesion., 3 years|Maximum SUV, Maximum standardized uptake value within a region of interest placed based on MRI findings of suspicious brain lesion., 3 years|SUV Ratio, Standardized uptake value ratio of target lesion over reference region., 3 years|Target-to-Background Ratio, Qualitative appearance of lesion delineation on PET., 3 years|Influx (Ki), Parametric PET analysis results within the same region of interest as that for Maximum SUV., 3 years|Distribution volume (Vt) for scan times, Distribution volume (Vt), measured within the same region of interest as that for Maximum SUV, for scan times ranging between 45 min and 85 min with 5min intervals and corresponding results will be compared to those measured with the full dataset at 90mm., 3 years
+Proportion of cases in which there was a change in management based on FES PET/CT, We will compare RT plans devised based on contrast-enhanced brain MRI alone (gold standard) to RT plans incorporating FES PET/CT as an adjunct modality and will quantify the proportion of cases in which there was a change in management based on FES PET/CT., 3 years
+Objectives
+
+1. Evaluate the kinetics of dynamic brain FES PET/CT and optimize acquisition protocol.
+2. Evaluate utility of FES PET/CT as an adjunct modality in radiotherapy planning.
+3. (Exploratory aim) Determine correlation between FES PET metrics and survival metrics.
+
+Overall Design All subjects will undergo a MRI brain and FDG PET/CT brain scan as part of clinical standard- of-care for radiation treatment planning. An additional 18F-FES PET/CT brain scan will be performed as part of this study prior to standard of care radiation treatment. 18F-FES is clinically approved for the study population, however has to date not been widely used in the clinical context of differentiating brain metastases from radiation sequela. The 18F-FES PET/CT scan will be completed within approximately 2 days to 4 weeks of the 18F-FDG PET/CT, and 2 days to 4 weeks of the MRI brain, respectively. While MRI and PET can be performed on the same day if needed, the 18F-FDG PET/CT and 18F-FES PET/CT have to be separated by at least 1 day, to allow for 10 half-lives of 18F (10 times 108 minutes = 18 hours) to pass in order to avoid signal overlap on the second PET/CT scan. Subjects will be followed prospectively with clinical and MRI assessments per clinical standard-of-care for a total of 12 months.
+
+Aim 1
+
+* 5 mCi FES +/- 10% will be injected intravenously (per manufacturer's recommendations). FES PET/CT will be obtained in dynamic 3D list mode for 90 minutes starting from injection.
+* Kinetic analysis of dynamic PET images will be carried out using a reversible 1-tissue-2- compartment model as well as Logan Vt, and the influx rate constant, Ki, and distribution volume, Vt, will measured respectively.
+* Static 10min PET images will be generated for from 50 to 80 min on a 10min increment, and the corresponding SUV's and tumor-to-background ratios will be compared to that in the 80- 90min imageset, a workflow that previously established by our group using DOTATATE PET/MR in meningioma, and using FLT/FMISO PET/CT in high-grade glioma.
+* Tumor volume will be delineated using PMOD (PMOD, Zurich), a dedicated tool for PET analyses and kinetic modeling.
+
+Aim 2.
+
+* To evaluate utility of FES PET/CT in RT planning, planning treatment volumes will be delineated by a radiation oncologist in conjunction with a neurosurgeon based on MRI (gold standard); subsequently, the FES PET/CT data will be made available to the radiation oncologist, and the planning treatment volume (PTV) will be modified accordingly if necessary.
+* The clinical treatment plan will be modified (as a proof-of-concept) based on the MRI+FES PTV, and the target dose volume histograms (DVH) will be compared to the MRI-based (gold standard).
+* Change in management based on additional information provided in the PET data will be recorded. In an exploratory analysis, FES PET will be compared with standard of care FDG PET/CT or PET/MR for treatment planning.

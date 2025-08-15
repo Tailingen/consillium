@@ -1,0 +1,45 @@
+Modulatory Effect of Prodigiosin or Pioglitazone on TIME and the Crosstalk to Immune-Checkpoint Protein(s)
+Lung cancer is one of the most common and serious types of cancer. Lung tumor cells exploit immune checkpoint proteins (ICPs) to maintain immune tolerance and thus promote tumor progression and invasion. Inhibition of ICPs using antibody therapies is one of the most common approaches for the treatment of lung cancer. Unfortunately, these antibody-based therapies can lead to severe adverse events. Moreover, a significant number of patients do not respond to immune checkpoint inhibition due to tumor heterogeneity and the immunosuppressive tumor immune microenvironment (TIME). The use of small molecule targeted approach instead of antagonizing antibodies may have the potential advantage of being able to target multiple ICPs in TIME with a single agent as well as improved tumor distribution.
+Lung Cancer|NSCLC
+Gene Expression (mRNA levels), mRNA levels of HSP90, IL-6, STAT3,c-MYC and the novel immune checkpoint proteins by qRT-PCR from blood samples collected from NSCLC patients and cell pellets collected from lung cancer cell lines before and after pioglitazone or prodigiosin treatment, 36 months|Gene Expression (Protein levels), Protein levels of HSP90, IL-6, STAT3,c-MYC and the novel immune checkpoint proteins by immunoblotting from blood samples collected from NSCLC patients and cell pellets collected from lung cancer cell lines before and after pioglitazone or prodigiosin treatment, 36 months|cytotoxic effect, Cytotoxic effect of prodigiosin or pioglitazone on lung cancer cell line using MTT assay, 36 months|Anti-cancer efficiency of drug-loaded nanoparticles, Anticancer efficiency against lung cancer in vivo model using Urethan as lung cancer inducer or in vitro lung cancer cell line, 36 months
+1. Introduction 1.1. Background Components of the tumor microenvironment (TME) presented by immune cells, tumor cells, and their derived factors are known as Tumor immune microenvironment (TIME). Tumors can gradually shape TIME into an immunosuppressive state to hinder host immunity. Two opposing immune responses help shape TIME. One side of the immune cells represented by M1 macrophage, T-lymphocyte, Dendritic cells (DC), and Natural killer cells (NK) play a role in the antitumor immune response. On the contrary, tumor-promoting immune cells represented by regulatory T cells (Treg), myeloid-derived suppressor cells (MDSC), M2 macrophage, and group 2 innate lymphoid cells (ILC2) contribute to an immunosuppressive microenvironment.
+
+Under physiological conditions, several immune checkpoint proteins (ICPs) are expressed on various immune cells. These ICPs bind to their complementary ligand to activate T-cells' inhibitory signals, therefore they act as gatekeepers for normal cells. Among the first immune checkpoint proteins discovered were cytotoxic T-lymphocyte antigen number 4 (CTLA-4) and programmed cell death protein 1 (PD-1).. Recently, several immune checkpoint proteins have been discovered; T-cell immunoglobulin domain and mucin domain-containing molecule-3 (TIM-3), T-cell immunoglobulin and ITIM domain (TIGIT), B and T cell lymphocyte attenuator (BTLA), lymphocyte activation gene (LAG3) and V-domain Ig suppressor of T cell activation (VISTA). Unfortunately, tumor and tumor-promoting immune cells exploit these ICPs to escape immune system-mediated cell death.
+
+Several factors could control the expression of ICPs. HSP90 chaperone function plays a role in the regulation of immune cell function by controlling ICPs expression. Zavareh and his colleagues showed that HSP90 inhibitors have a direct inhibitory effect on the expression of ICPs including PD-L1 and PD-L2. Only one study implicated prodigiosin inhibitory effect on HSP90, yet, the effect of prodigiosin on novel immune checkpoint proteins and its modulatory effect on TIME via HSP90 has not been investigated.
+
+The expression of ICPs has also been shown to be controlled by the IL-6/JAK2/STAT3 pathway. High levels of STAT3 and JAK2 levels have been attributed to poor prognosis in non-small cell lung cancer (NSCLC) patients. c-MYC, one of the downstream targets of IL-6/STAT3 signaling, could promote tumor immune escape by increasing the levels ICPs . Pioglitazone, a peroxisome proliferator-activated receptor-γ agonist, inhibited c-MYC-mediated immune escape by inducing PD-L1 protein degradation. Pioglitazone could enhance cancer immunotherapy and T-cell activation by decreasing PD-L1 protein levels . The inhibitory effect of pioglitazone on STAT3 has been studied in different types of cancer . However, the modulatory effect of pioglitazone on novel ICPs via the IL-6/STAT3 pathway and c-MYC remains to be investigated.
+
+1.2. PROBLEM. 1.2.1.Lung Cancer is the leading cause of cancer death in both men and women aged 50 years and older. The response rate to current ICIs used for the treatment of lung cancer is far from satisfactory.
+
+1.2.2. Cancer cells escape from immune surveillance through "immune-editing". Further research is needed for a better understanding of different immune aspects of lung cancer, including immune escape, immunosuppression, immune editing, and tumor-intrinsic adaptive response.
+
+3. Proposal state of the art: 3.1. TIME is a dynamic process and despite heterogeneity across different cancer types and populations, the role of TIME in tumor progression is similar. 3.2. The expression of ICPs could be regulated by HSP90, IL-6/JAK2/STAT3 Pathway, and c-MYC. Thus, HSP90 inhibition by prodigiosin as well as IL-6/STAT3 and c-MYC inhibition by pioglitazone could have the potential to enhance immune surveillance and immune checkpoint protein blockade therapy.
+
+4. Aim of the work: 4.1. Measuring gene and protein expression of Heat shock Protein 90 (HSP90), IL-6, STAT3, c-MYC and novel immune checkpoint proteins from non-small cell lung cancer (NSCLC) patients.
+
+4.2. Studying the effect of prodigiosin on HSP90and pioglitazone of IL-6/STAT3 and c-MYC for modulating TIME via the expression of one of the novel immune checkpoint proteins.
+
+4.3. Investigate the difference in expression at both protein and mRNA levels following treatment of prodigiosin and pioglitazone on lung cancer cell line(s) (A549 or H460 or Calu-3).
+
+4.4. Loading both drugs in nano-sized particles (NPs) and testing the efficacy against lung cancer cell model both in-vivo and in-vitro.
+
+5. Research objectives: 5.1. Main objectives:
+
+Identifying and targeting promising molecular targets to help eradicate lung tumor cells and prevent the development of treatment resistance or immune resistance.
+
+5.2. Secondary objectives:
+
+5.2.1. Studying the cytotoxic effect of prodigiosin and pioglitazone on lung cancer cell line and in vitro safety assay towards normal human retina pigmented epithelial (RPE1) cell line.
+
+5.2.2. Identification of cell surface markers expressed by various immune cells on lung cancer cell lines (A549 or H460 or Calu-3) using flow cytometry.
+
+5.2.3. Cell treatment with prodigiosin and HSP90 transfection in lung cancer cell lines for further investigation of the modulatory effect of Prodigiosin on TIME.
+
+5.2.4. Cell treatment with pioglitazone and c-MYC transfection or using JAK2/STAT3 inhibitor in lung cancer cell lines for further investigation of the modulatory effect of Pioglitazone on TIME.
+
+5.2.5. Gene expression and measuring protein levels of HSP90 and the novel immune checkpoint proteins before and after the addition of prodigiosin in lung cancer cell line.
+
+5.2.6. Gene expression and measuring protein levels of IL-6, STAT3, c-MYC, and the novel immune checkpoint proteins before and after the addition of pioglitazone in lung cancer cell line.
+
+5.2.7. Studying the in-vivo and in-vitro effects of drug-load nanoparticles in lung cancer model.

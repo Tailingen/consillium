@@ -1,0 +1,28 @@
+Dynamic Contrast-Enhanced Magnetic Resonance Imaging in Measuring Effects of Pazopanib Hydrochloride in Patients With Metastatic Kidney Cancer
+The purpose of this study is to find out what effects pazopanib (pazopanib hydrochloride) (also called Votrient®) may have on MRI (magnetic resonance imaging) scans, blood pressure, and various proteins in the blood. Pazopanib is Food and Drug Administration (FDA) approved for treating renal cell cancer. It is an agent that prevents angiogenesis, which is new blood vessel formation. The use of pazopanib described in this study is a standard of care, but the additional MRI and blood tests that will be performed are experimental
+Clear Cell Renal Cell Carcinoma|Recurrent Renal Cell Cancer|Stage IV Renal Cell Cancer
+DRUG: pazopanib hydrochloride|OTHER: laboratory biomarker analysis|PROCEDURE: dynamic contrast-enhanced magnetic resonance imaging|OTHER: pharmacogenomic studies
+Disease Progression, Specifically, whether the change in K\^trans (the rise from nadir) as a time-dependent covariate, as assessed by the method described in Donner, is associated with disease progression.Progression was assessed using Response Evaluation Criteria in Solid Tumors (Progressive Disease (PD): At least a 20% increase in the sum of the longest diameter (LD) of target lesions, taking as reference the smallest sum recorded since the treatment started OR the appearance of one or more new lesions OR unequivocal progression of existing non-target lesions), 2 years
+Change in K^Trans From Baseline, K\^trans is a derived measure from dynamic contrast-enhanced magnetic resonance imaging that reflects perfusion rate and capillary permeability. The change is reported as the log-transformed ratio of K\^trans value at follow-up/baseline., Baseline and 1, 8, 16, and 24 weeks post-treatment|Changes in Blood Pressure From Baseline to Post-treatment, Baseline and 1 week post-treatment|Changes in sVEGFR2 From Baseline to Post-treatment, Baseline and 1 week post-treatment
+Progression-free Survival, Specifically, whether baseline K\^trans is associated with progression-free survival. Progression was assessed using Response Evaluation Criteria in Solid Tumors (Progressive Disease (PD): At least a 20% increase in the sum of the longest diameter (LD) of target lesions, taking as reference the smallest sum recorded since the treatment started OR the appearance of one or more new lesions OR unequivocal progression of existing non-target lesions), 2 years
+PRIMARY OBJECTIVES:
+
+I. To determine whether a K\^trans rise from nadir is predictive of subsequent tumor growth.
+
+SECONDARY OBJECTIVES:
+
+I. To determine the association between changes in mean ambulatory blood pressure measurements, K\^trans, and tumor size changes with pazopanib therapy.
+
+II. To determine the association between changes in soluble vascular endothelial growth factor receptor 2 (sVEGFR2) measurements, K\^trans, and tumor size changes with pazopanib therapy.
+
+TERTIARY OBJECTIVES:
+
+I. To explore previously described single nucleotide polymorphisms (SNP's) as pharmacogenomic biomarkers.
+
+II. To model tumor growth kinetics using radiologic tumor size measurements. III. To explore other serum and plasma based putative biomarkers of vascular endothelial growth factor (VEGF) pathway inhibition.
+
+OUTLINE:
+
+Patients receive pazopanib hydrochloride orally (PO) once daily (QD) in the absence of disease progression or unacceptable toxicity. Patients undergo dynamic contrast-enhanced MRI at baseline, day 8, and prior to courses 3, 5, and 7.
+
+After completion of study treatment, patients are followed up every 3 months for 2 years.

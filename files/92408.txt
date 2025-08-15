@@ -1,0 +1,27 @@
+Testing Trastuzumab and Pertuzumab in Patients With Higher Than Normal Copies of the HER2 Gene Found in Their Tumors (MATCH - Subprotocol J)
+This phase II MATCH treatment trial tests how well trastuzumab and pertuzumab work in treating patients with HER2-amplified non-breast, non-gastric/gastroesophageal junction, and non-colorectal cancers. Pertuzumab and trastuzumab are monoclonal antibodies and forms of targeted therapy that attach to a receptor protein called HER2. HER2 is found on some cancer cells. When pertuzumab or trastuzumab attach to HER2, the signals that tell the cells to grow are blocked and the tumor cell may be marked for destruction by the body's immune system. Trastuzumab is approved for the treatment of certain types of HER2-amplified cancers such as breast and gastric cancers. Research has shown that treatment with two anti-HER2 therapies in combination may be more effective at treating HER2-positive patients than giving one anti-HER2 therapy alone. Giving trastuzumab and pertuzumab in combination may be effective at treating patients with HER2-amplified cancers that aren't breast, gastric, or colorectal.
+Malignant Solid Neoplasm
+PROCEDURE: Biopsy Procedure|PROCEDURE: Biospecimen Collection|PROCEDURE: Echocardiography Test|BIOLOGICAL: Pertuzumab|PROCEDURE: Radiologic Examination|BIOLOGICAL: Trastuzumab
+Objective Response Rate, ORR is defined as the percentage of patients whose tumors have a complete or partial response to treatment among analyzable patients. Objective response is defined consistent with Response Evaluation Criteria in Solid Tumors version 1.1, the Cheson (2014) criteria for lymphoma patients, and the Response Assessment in Neuro-Oncology criteria for glioblastoma patients. Details about how to define complete response and partial response can be found in the master protocol. 90% two-sided binomial exact confidence interval is calculated for ORR., Tumor assessments occurred at baseline, then every 3 cycles for the first 33 cycles, and every 4 cycles thereafter until disease progression, up to 3 years post registration
+6-month Progression-Free Survival (PFS) Rate, Progression free survival is defined as time from treatment start date to date of progression or death from any cause, whichever occurs first. Disease progression was evaluated using the Response Evaluation Criteria in Solid Tumors version 1.1, the Cheson (2014) criteria for lymphoma patients, and the Response Assessment in Neuro-Oncology criteria for glioblastoma patients. Please refer to the protocol for detailed definitions of disease progression. 6 month PFS rate was estimated using the Kaplan-Meier method, which can provide a point estimate for any specific time point., Tumor assessments occurred at baseline, then every 3 cycles for the first 33 cycles, and every 4 cycles thereafter until disease progression, up to 3 years post registration|Progression Free Survival, PFS was defined as time from treatment start date to date of disease progression or death from any causes, whichever occurred first. Median PFS was estimated using the Kaplan-Meier method. Disease progression was evaluated using the Response Evaluation Criteria in Solid Tumors version 1.1, the Cheson (2014) criteria for lymphoma patients, and the Response Assessment in Neuro-Oncology criteria for glioblastoma patients. Please refer to the protocol for detailed definitions of disease progression., Tumor assessments occurred at baseline, then every 3 cycles for the first 33 cycles, and every 4 cycles thereafter until disease progression, up to 3 years post registration
+PRIMARY OBJECTIVE:
+
+I. To evaluate the proportion of patients with objective response (OR) to targeted study agent(s) in patients with advanced refractory cancers/lymphomas/multiple myeloma.
+
+SECONDARY OBJECTIVES:
+
+I. To evaluate the proportion of patients alive and progression free at 6 months of treatment with targeted study agent in patients with advanced refractory cancers/lymphomas/multiple myeloma.
+
+II. To evaluate time until death or disease progression. III. To identify potential predictive biomarkers beyond the genomic alteration by which treatment is assigned or resistance mechanisms using additional genomic, ribonucleic acid (RNA), protein and imaging-based assessment platforms.
+
+IV. To assess whether radiomic phenotypes obtained from pre-treatment imaging and changes from pre- through post-therapy imaging can predict objective response and progression free survival and to evaluate the association between pre-treatment radiomic phenotypes and targeted gene mutation patterns of tumor biopsy specimens.
+
+OUTLINE:
+
+Patients receive pertuzumab intravenously (IV) over 30-60 minutes and trastuzumab IV over 30 minutes on day 1 of each cycle. Cycles repeat every 3 weeks in the absence of disease progression or unacceptable toxicity. Patients also undergo radiologic evaluation throughout the trial, echocardiography (ECHO) at screening and end of treatment, and biopsy and collection of blood samples on trial and at end of treatment.
+
+After completion of study treatment, patients are followed up every 3 months for 2 years and then every 6 months for 1 year.
+
+THE MATCH SCREENING TRIAL:
+
+Please see NCT02465060 for information on the MATCH Screening Protocol and applicable documents.

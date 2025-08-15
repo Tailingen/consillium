@@ -1,0 +1,27 @@
+Nivolumab With or Without Bevacizumab or Ipilimumab Before Surgery in Treating Patients With Metastatic Kidney Cancer That Can Be Removed by Surgery
+This randomized pilot early phase I trial studies the side effects and how well nivolumab alone works compared to nivolumab with bevacizumab or ipilimumab before surgery in treating patients with kidney cancer, also referred to as renal cell cancer, that has spread to another place in body and can be removed by surgery. Immunotherapy with monoclonal antibodies, such as nivolumab, bevacizumab, and ipilimumab, may help the body's immune system attack the cancer, and may interfere with the ability of tumor cells to grow and spread.
+Clear Cell Renal Cell Carcinoma|Metastatic Kidney Carcinoma|Stage IV Renal Cell Cancer AJCC v7
+BIOLOGICAL: Bevacizumab|PROCEDURE: Biopsy|BIOLOGICAL: Ipilimumab|OTHER: Laboratory Biomarker Analysis|PROCEDURE: Metastasectomy|BIOLOGICAL: Nivolumab|PROCEDURE: Therapeutic Conventional Surgery
+Incidence of adverse events, defined any grade 3 or higher adverse event that is possibly, probably, or definitely related to any therapy received on this protocol, Descriptive statistical analyses will be performed to summarize the overall toxicity rate and individual adverse event rates including summary tables, scatter-plots, box-plots, proportions, median, means, and standard deviations., 6 weeks
+Immunological changes in tumor tissues and peripheral blood, Descriptive statistical analyses will be performed to summarize the immunological changes, including summary tables, scatter-plots, box-plots, proportions, median, means, and standard deviations. A mixed model accounting for patient effects will be used to analyze the longitudinal data on immunological values over time., Baseline to up to week 4|Objective response rates, Descriptive statistical analyses will be performed to summarize the response rates including summary tables, scatter-plots, box-plots, proportions, median, means, and standard deviations., Up to 5 years|Duration of response, Will be estimated with the methods of Kaplan and Meier., Up to 5 years|Progression-free survival, Progression-free survival will be estimated with the methods of Kaplan and Meier., Up to 5 years|Overall survival, Will be estimated with the methods of Kaplan and Meier., Up to 5 years
+PRIMARY OBJECTIVES:
+
+I. Safety and tolerability of therapy with nivolumab or nivolumab + bevacizumab or nivolumab + ipilimumab in metastatic renal cell carcinoma (mRCC) in the context of presurgical or prebiopsy therapy.
+
+SECONDARY OBJECTIVES:
+
+I. To study immunological changes in tumor tissues and peripheral blood in response to nivolumab versus (vs.) nivolumab + bevacizumab vs nivolumab + ipilimumab in renal cell carcinoma (RCC) therapy.
+
+II. To assess the efficacy of presurgical nivolumab or nivolumab + bevacizumab or nivolumab + ipilimumab therapy in RCC by evaluating objective response rate, duration of response, and progression free survival, and overall survival.
+
+OUTLINE: Patients are randomized to 1 of 3 treatment arms.
+
+ARM A: Patients receive nivolumab intravenously (IV) over 60 minutes on day 1 every 2 weeks for 6 weeks. Approximately 4 weeks later, patients undergo nephrectomy, metastasectomy or biopsy.
+
+ARM B: Patients receive nivolumab IV over 60 minutes and bevacizumab IV over 90 minutes on day 1 every 2 weeks for 6 weeks. Patients also undergo nephrectomy, metastasectomy or biopsy as in Arm A.
+
+ARM C: Patients receive nivolumab IV over 60 minutes and ipilimumab IV over 90 minutes on day 1 every 3 weeks for 6 weeks. Patients also undergo nephrectomy, metastasectomy or biopsy as in Arm A.
+
+Beginning 4-6 weeks after surgery, patients in all arms who have clinical response, stable disease, or even slight progression of disease to therapy preoperatively, receive maintenance nivolumab IV over 60 minutes on day 1. Cycles repeat every 4 weeks for 2 years in the absence of disease progression or unacceptable toxicity.
+
+After completion of study treatment, patients are followed up at 30 days and 86 days, every 3 months for 2 years, every 6 months for 1 year, and then annually thereafter.

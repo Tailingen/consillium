@@ -1,0 +1,18 @@
+Serial Magnetic Resonance Imaging for the Prediction of Radiation-Induced Changes in Normal Tissue of Patients With Oral Cavity or Skull Base Tumors
+This phase IV trial studies how well serial magnetic resonance imaging (MRI) after radiation therapy works in predicting radiation-induced changes in the normal tissue of patients with oral cavity or skull base tumors. Performing MRIs after radiation therapy for patients with oral cavity or skull base tumors may help to predict osteoradionecrosis (a change in non-cancerous tissue).
+Malignant Oral Cavity Neoplasm|Malignant Skull Base Neoplasm|Osteoradionecrosis
+OTHER: Contrast Agent|PROCEDURE: Magnetic Resonance Imaging|OTHER: Quality-of-Life Assessment|OTHER: Questionnaire Administration
+Radiotherapy-attributable imaging for normal tissue injury, Will correlate whether post-therapy alterations in the observed multi-parametric imaging features can be used as surrogate bio-markers of normal tissue injury, Up to 1 year|Dose-response correlation between imaging biomarkers, Penalized spline mixed regression will be used to characterize the induced functional relationships between the delivered dose and imaging biomarkers identified at each imaging time point. Doses for which 95% confidence interval estimates of mean trajectory fail to overlap will characterize ranges that yield significantly different levels of dose-dependent modulation., Up to 1 year|Dose-response correlation between subsequent radiation-induced effects, Penalized spline mixed regression will be used to characterize the induced functional relationships between the delivered dose and imaging biomarkers identified at each imaging time point. Doses for which 95% confidence interval estimates of mean trajectory fail to overlap will characterize ranges that yield significantly different levels of dosedependent modulation, Up to 1 year
+PRIMARY OBJECTIVES:
+
+I. Demonstrate the feasibility of serial magnetic resonance (MR) imaging biomarkers for assessment of early, intermediate, and late radiotherapy-attributable physiologic alteration of tumor and normal tissues and the kinetics thereof.
+
+II. Develop MR-biomarker inclusive predictive models for development of radiotherapy-attributable normal tissue injury.
+
+III. Define dose-response relationships between imaging biomarkers and subsequent radiation-induced effects.
+
+OUTLINE: Patients are assigned to 1 of 2 cohorts.
+
+COHORT I: Patients may receive a contrast agent intravenously (IV) and then undergo an MRI over 45-60 minutes at baseline, 3-5 weeks after starting standard of care radiation therapy, and then at 2 months, 6 months, 12 months, and 3 years after completing radiation therapy.
+
+COHORT II: Patients may receive a contrast agent IV and then undergo an MRI over 45-60 minutes at baseline, and at 5-10 weeks and 12 months after standard of care surgery.

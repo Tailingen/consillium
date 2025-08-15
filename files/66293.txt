@@ -1,0 +1,36 @@
+Iodine I-131 With or Without Selumetinib in Treating Patients With Recurrent or Metastatic Thyroid Cancer
+This phase II trial studies how well iodine I-131 works with or without selumetinib in treating patients with thyroid cancer that has returned (recurrent) or has spread from where it started to other places in the body (metastatic). Many thyroid cancers absorb iodine. Due to this, doctors often give radioactive iodine (iodine I-131) alone to treat thyroid cancer as part of standard practice. It is thought that the more thyroid tumors are able to absorb radioactive iodine, the more likely it is that the radioactive iodine will cause those tumors to shrink. Selumetinib may help radioactive iodine work better in patients whose tumors still absorb radioactive iodine. It is not yet known whether iodine I-131 is more effective with or without selumetinib in treating thyroid cancer.
+Metastatic Thyroid Gland Carcinoma|Poorly Differentiated Thyroid Gland Carcinoma|Recurrent Thyroid Gland Carcinoma|Stage IV Thyroid Gland Follicular Carcinoma AJCC v7|Stage IV Thyroid Gland Papillary Carcinoma AJCC v7|Stage IVA Thyroid Gland Follicular Carcinoma AJCC v7|Stage IVA Thyroid Gland Papillary Carcinoma AJCC v7|Stage IVB Thyroid Gland Follicular Carcinoma AJCC v7|Stage IVB Thyroid Gland Papillary Carcinoma AJCC v7|Stage IVC Thyroid Gland Follicular Carcinoma AJCC v7|Stage IVC Thyroid Gland Papillary Carcinoma AJCC v7
+RADIATION: Iodine I-131|OTHER: Placebo Administration|DRUG: Selumetinib
+Response at 6 Months, A patient will be classified as a responder if they have a partial or complete response at the 6-month time point when compared to the baseline, pre-study radiologic scan(s). A Complete Response (CR) is defined as the disappearance of all target lesions and thyroglobulin measured to be less than 0.2 ng/ml. A Partial Response (PR) is defined as at least a 30% decrease in PBSD (sum of the longest diameter for all target lesions plus the sum of the long or short axis of all the target lymph nodes (depending on which axis is being used for assessments) at current evaluation) taking as reference the baseline sum of dimensions (BSD).
+
+\>
+
+\> A patient will be classified as a responder if they have a partial or complete response at the 6-month time point. The proportion of patients with a response will be calculated and compared between the 2 Arms using a Fisher's Exact test., At 6 months
+Overall Response Rate, The best overall response rate will be compared between the two arms. This comparison will be done using a Fisher exact test. For a patient to be classified as a response, they need a partial or complete response that is confirmed at least 4 weeks later anytime during the study., 2 years|Progression Free Survival (PFS), PFS will be estimated using the Kaplan-Meier method, where the log-rank test will be used to compare the 2 treatment arms., 2 years|Changes in Serum Thyroglobulin Levels, Changes in serum thyroglobulin levels will be compared between the 2 treatment arms by 6 month response using the Wilcoxon Rank-Sum test., 6 months|Incidence of Adverse Events, The maximum grade for each type of adverse event will be summarized using Common Terminology Criteria for Adverse Events (CTCAE) version 4.0. The number and percentage of patients experiencing grade 3+ adverse events will be compared between the 2 treatment arms., 2 years
+Genomic and Transcriptomic Landscape of Radioactive Iodine-avid (RAIA) Tumors, Will explore the genomic and transcriptomic landscape of RAIA tumors for signatures that correlate to therapeutic benefit achieved in patients with RAI-avid recurrent and/or metastatic thyroid cancer treated with 131I in combination with placebo or selumetinib. Exploratory analysis will include correlating response to tumor genotypes. Descriptive statistics and graphical techniques will be used to summarize this data by treatment arm., Baseline
+PRIMARY OBJECTIVE:
+
+I. To determine the response rate at 6 months following treatment with 131I (iodine I-131) in combination with placebo or selumetinib for radioactive iodine-avid (RAIA) recurrent and/or metastatic thyroid cancer.
+
+SECONDARY OBJECTIVES:
+
+I. To determine the best overall response following treatment with 131I in combination with placebo or selumetinib for RAIA recurrent and/or metastatic thyroid cancer.
+
+II. To compare the progression-free survival of patients with RAIA recurrent and/or metastatic thyroid cancer treated with 131I in combination with placebo or selumetinib.
+
+III. To compare serum thyroglobulin changes for patients with RAIA recurrent and/or metastatic thyroid cancer treated with 131I in combination with placebo or selumetinib.
+
+IV. To evaluate the safety and tolerability of 131I in combination with placebo or selumetinib for patients with RAI-avid recurrent and/or metastatic thyroid cancer.
+
+CORRELATIVE OBJECTIVE:
+
+I. To explore the genomic and transcriptomic landscape of RAIA tumors for signatures that correlate to therapeutic benefit achieved with 131I in combination with placebo or selumetinib.
+
+OUTLINE: Patients are randomized to 1 of 2 treatment arms.
+
+ARM I: Patients receive selumetinib orally (PO) twice daily (BID) starting on week 1, day 1 and continuing through 2 days after iodine I-131 therapy has been administered. Approximately 3 weeks after beginning treatment with selumetinib, patients receive iodine I-131 PO.
+
+ARM II: Patients receive placebo PO BID starting on week 1, day 1 and continuing through 2 days after iodine I-131 therapy has been administered. Approximately 3 weeks after beginning treatment with placebo, patients receive iodine I-131 PO.
+
+After completion of study treatment, patients are followed up at 1 and 3 months, every 3 months for 12 months, and then every 6 months for 2 years.

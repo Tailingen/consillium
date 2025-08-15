@@ -1,0 +1,7 @@
+Using Clinicopathomic Markers to Predict Neoadjuvant Chemotherapy Response in Breast Cancer
+This study examines retrospective clinical data on patients diagnosed with breast cancer and monitor their response to neoadjuvant chemotherapy, incidence of locoregional recurrence, distant metastasis, and disease-free survival. The hypothesis of this study is that breast cancer patients who achieve a pathological complete response (pCR) to neoadjuvant chemotherapy demonstrate distinct clinicopathomic biomarker signatures.
+Breast Cancer|Invasive Ductal Breast Carcinoma|Invasive Lobular Breast Carcinoma
+DIAGNOSTIC_TEST: Radiomic, pathomic, and clinical markers
+Pathologic complete response (pCR), Evaluating the degree of absence of residual cancer cells, Up to 60 months
+Time to local breast recurrence, Evaluating the time until a recurrence event has occurred in the breast, Up to 60 months|Time to distant metastasis (months), Evaluating onset of distant metastasis, Up to 60 months|Time to death, Evaluating time to cancer-related death, Up to 60 months
+The specific aims of the study are to (1) to identify clinicopathomic biomarkers from pre-treatment core biopsies that are predictive of response to neoadjuvant chemotherapy, (2) determine patterns of metastasis from primary breast cancer to other distant sites, (3) determine the rates of local recurrence in breast cancer patients, and (4) to determine if there are significant radiomic, pathomic, and clinical markers for recurrence and distant metastasis.

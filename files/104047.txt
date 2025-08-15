@@ -1,0 +1,25 @@
+BAY1895344 and Copanlisib for the Treatment of Molecularly Selected Patients With Advanced Solid Tumors
+This phase Ib trial finds out the best dose, possible benefits and/or side effects of BAY1895344 and copanlisib in treating molecularly selected patients with solid tumors that have spread to other places in the body (advanced). BAY1895344 and copanlisib may stop the growth of tumor cells by blocking some of the enzymes needed for cell growth. Giving BAY1895344 and copanlisib together may help control the progression of the disease in patients with advanced solid tumors.
+Locally Advanced Malignant Solid Neoplasm|Metastatic Malignant Neoplasm in the Bone|Metastatic Malignant Solid Neoplasm|Recurrent Malignant Solid Neoplasm
+DRUG: Copanlisib|DRUG: Elimusertib
+Incidence of adverse events (AEs), Will assess the incidence and severity of AEs and serious AEs. Individual listings of AEs will be provided and coded using the National Cancer Institute Common Terminology Criteria for Adverse Events (CTCAE) version (v)5.0 dictionary if available. The incidence of treatment-emergent adverse events (TEAEs) and drug-related TEAEs, respectively, will be summarized by cohort and for the total study population in frequency tables using the CTCAE grade. Frequency tables will also be provided for the changes of worst CTCAE grade after the start of treatment versus baseline. In addition, the same analysis will be done using Medical Dictionary for Regulatory Activities terms. The incidence of laboratory toxicities will be summarized by worst CTCAE v5.0 grade and by cohort. Frequency tables will be provided for the changes of worst CTCAE grade after the start of treatment versus baseline., Up to 30 days after the last dose of study drug|Incidence of dose limiting toxicities (DLTs), Severity of AEs will be graded according to the NCI CTCAE v 5.0., Up to 28 days
+Objective response rate (ORR), ORR will be summarized by descriptive statistics. An 95% exact confidence interval of ORR will be estimated based on the Clopper-Pearson method., Up to 2 years|Clinical benefit rate (CBR), Assessed per Response Evaluation Criteria in Solid Tumors (RECIST) v1.1 or Prostate Cancer Working Group 3 (PCWG3) criteria. CBR is defined as complete response for any duration or partial response for any duration or stable disease \> 4 months., Up to 2 years|Time to response, Estimated using Kaplan-Meier method., Up to 2 years|Duration of response, Estimated using Kaplan-Meier method., Up to 2 years|Progression free survival, Estimated using Kaplan-Meier method., Up to 2 years|Overall survival, Estimated using Kaplan-Meier method., Up to 2 years
+PRIMARY OBJECTIVE:
+
+I. To evaluate the safety and determine the maximum tolerated dose (MTD) and/or the recommended phase 2 dose (RP2D) of the combination of copanlisib and elimusertib (BAY1895344) in patients with molecularly-selected advanced solid tumors.
+
+SECONDARY OBJECTIVES:
+
+I. To assess clinical benefit of copanlisib in combination with BAY1895344 in patients with molecularly-selected advanced solid tumors.
+
+II. To assess the pharmacokinetic and pharmacodynamic profile of the combination of copanlisib and BAY1895344.
+
+III. To assess predictive biomarkers of response and resistance to the combination of copanlisib and BAY1895344, as well as pharmacodynamic (PD) biomarkers.
+
+OUTLINE: This is a dose-escalation study. Patients are assigned to 1 of 2 arms.
+
+ARM I (SEQUENTIAL): Patients receive elimusertib orally (PO) twice daily (BID) on days 1-3 and 15-17, and copanlisib intravenously (IV) over 1 hour on days 4 and 18. Cycles repeat every 28 days in the absence of disease progression or unacceptable toxicity. Patients who experience disease progression may continue to receive elimusertib PO BID and copanlisib IV at the discretion of the treating physician.
+
+ARM II (CONCOMITANT): Patients receive elimusertib PO BID on days 1-3 and 15-17, and copanlisib IV over 1 hour on days 1 and 15. Cycles repeat every 28 days in the absence of disease progression or unacceptable toxicity. Patients who experience disease progression may continue to receive elimusertib PO BID and copanlisib IV at the discretion of the treating physician.
+
+After completion of study treatment, patients are followed up at 30 days, then every 12 weeks for up to 2 years.

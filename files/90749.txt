@@ -1,0 +1,38 @@
+Symptom Monitoring Using Patient-Report to Improve Medication Use
+This is an intervention targeting patients at risk for non-adherence to endocrine therapy after primary treatments for hormone-positive breast cancer. In a randomized study, the study team will collect patient-reported symptoms monthly from participants through surveys. Pharmacists who specialize in cancer at the patients' hospital will give patients recommendations to help improve their symptoms and address other barriers so they can continue daily endocrine therapy medications.
+Breast Cancer Early Stage Breast Cancer (Stage 1-3)|Endocrine Therapy
+BEHAVIORAL: Pharmacist delivered symptom monitoring and management
+Medication adherence, Defined as the proportion of total days' pills taken by patients measured by the opening of an electronic pill monitoring cap, From baseline to 12 months|Intervention durability on medication adherence, Assess the durability of AET adherence 1 year post intervention on patients assigned to the intervention phase first. Defined as the proportion of total days' pills taken by patients measured by the opening of an electronic pill monitoring cap, From 12 to 24 months
+Medication adherence, Medication adherence, based on prescription fill data (percent days covered, as used in screening), From baseline to 12 months|Pain, Patient-report collected via PROMIS Pain Interference measure, From baseline to 24 months|Fatigue, Patient-report collected via PROMIS Fatigue measure, From baseline to 24 months|Sleep, Patient-report collected via PROMIS Sleep-related Impairment measure, From baseline to 24 months|Anxiety, Patient-report collected via PROMIS Anxiety measure, From baseline to 24 months|Depression, Patient-report collected via PROMIS Depression measure, From baseline to 24 months|Sexual function, Patient-report collected via PROMIS Sexual Function and Satisfaction measure, From baseline to 24 months|Physical functioning, Patient-report collected via PROMIS Physical Functioning measure., From baseline to 24 months|Social functioning, Patient-report collected via PROMIS Ability to Participate in Social Roles and Activities measure, From baseline to 24 months|Self-efficacy to manage medications, Patient-report collected via PROMIS Self-efficacy to Manage Medications measure, From baseline to 24 months|Self-efficacy to manage symptoms, Patient-report collected via PROMIS Self-efficacy to Manage Symptoms measure, From baseline to 24 months|Social support, Patient-reported collected via PROMIS Instrumental Support measure, From baseline to 24 months|Team-patient communication quality, Team-patient communication quality collected using The Communication Assessment Tool, From baseline to 12 months
+This study will test whether oncology teams can adapt and combine models from intensive oncologic care and chronic noncancer care to support long-term oral oncologic medication adherence through better symptom monitoring and management. It will identify patients at risk of nonadherence through electronic health records and target them with a symptom monitoring and management intervention. The study will use patient-reported outcomes (PROs) to identify symptoms that may cause nonadherence and will involve clinical pharmacist-led follow-up.
+
+Objectives:
+
+1. Assess the impact of the intervention on adherence to oral endocrine therapy.
+2. Evaluate the durability of adherence one-year post-intervention.
+3. Describe the impact on symptoms and explore mechanisms for adherence improvement.
+
+Intervention:
+
+During the intervention phase, patients will receive symptom monitoring and pharmacist-led management based on patient-reported outcomes (PROs).
+
+Symptom Monitoring:
+
+1. Patients will report symptoms monthly for 12 months either online or via an interactive voice recording (IVR) system.
+2. Symptoms will be assessed using PROs focusing on issues like pain, hot flashes, anxiety, and more.
+3. Severe symptoms will trigger follow-up for management.
+
+Symptom Management:
+
+1. After the initial symptom report, patients will have a face-to-face or virtual visit with a clinical pharmacist.
+2. The visit will be tailored based on patient preference and pharmacist judgment.
+3. Pharmacists will discuss symptom reports, provide management recommendations, and coordinate with oncologists for prescriptions if needed.
+4. All interactions will be documented in the electronic health record (EHR) for research analysis.
+
+Control Phase:
+
+Breast cancer patients on AET are typically seen every six months over a 5 to 10-year course, with more frequent visits if complications arise. Control group participants will continue to follow this schedule and receive an FDA document with tips for medication adherence.
+
+Consent Process:
+
+Informed consent will be obtained in person or remotely.

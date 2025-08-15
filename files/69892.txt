@@ -1,0 +1,17 @@
+Chemotherapy Combined With Tislelizumab as Bladder Sparing Option for Patients With Muscle Invasive Bladder Cancer
+This study is designed prospectively to investigate the safety, efficacy and feasibility of cisplatin-based chemotherapy combined with tislelizumab as bladder sparing treatment for patients with muscle invasive bladder cancer (MIBC) which are eligible for cisplatin. The patients that achieved clinical remission after 4 cycles of cisplatin/gemcitabine and tislelizumab, will receive tislelizumab maintenance therapy for a year or 13 cycles. Tislelizumab, an anti-programmed death protein-1 (PD-1) monoclonal antibody, was engineered to minimize binding to FcγR on macrophages to abrogate antibody-dependent phagocytosis, a mechanism of T-cell clearance and potential resistance to anti-PD-1 therapy. The safety, tolerability, and efficacy of tislelizumab in patients with PD-L1 positive urothelial carcinoma who progressed during/following platinum-containing therapy was proved in a phase 2 trial (CTR20170071).
+
+This trial investigates the efficacy of cisplatin-based chemotherapy combined with Tislelizumab to induce clinical complete remission of muscle invasive bladder cancer and the feasibility to provide bladder sparing treatment for these patients.
+Muscle-Invasive Bladder Carcinoma
+DRUG: Tislelizumab|DRUG: Cisplatin|DRUG: Gemcitabine
+Clinical complete remission rate (cCR), The clinical complete remission rate (cCR) was defined as the proportion of patients with clinically confirmed cT0 or cTa(AJCC Cancer Staging Manual,8th ed. 2017 edition ).The cT0 or cTa was assessed by cystoscopy examination at 12 weeks after the initiation of combination therapy. Two-sided Clopper-Pearson 95% confidence intervals were constructed to evaluate the accuracy of cCR., Up to 24 months
+Duration of cCR, Duration of cCR was defined as the delay between date of reaching cCR and tumour relapse or progression.The status of cCR was evaluated by cystoscopy examination every 3 months after the combination therapy. Stratified Cox proportional hazards models will be used to estimate hazard ratios in all eligible patients., Up to 24 months|Bladder-intact event-free survival (BI-EFS), Bladder-intact event-free survival (BI-EFS) was defined as the time from initiation of combination therapy to the date of occurrence of any following event ：
+
+1. Recurrence of muscle-invasive bladder cancer based on follow-up cystoscopic evaluation
+2. Lymph node metastases based on CT/MR/PET-CT
+3. Distant metastases based on CT/MR/PET-CT
+4. Bladder cancer-related death
+5. Cystectomy due to any reason
+
+BI-EFS will be estimated with Kaplan-Meier estimators and corresponding 95% confidence intervals., Up to 24 months
+The patients that meet the Inclusion and Exclusion Criteria will treat with 4 cycles of cisplatin-based chemotherapy combined with Tislelizumab (200mg per cycle) prior to cystectomy discussion. The patients that show clinical benefit will receive tislelizumab for bladder sparing. Forty patients will be enrolled in this trial.

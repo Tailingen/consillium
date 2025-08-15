@@ -1,0 +1,30 @@
+Wearable Activity Tracking to Curb Hospitalizations
+This study is being done to collect patient generated health data to predict the risk of patients needing emergency department visits or hospitalization before, during. and after receiving radiation therapy.
+Hematopoietic Neoplasm|Malignant Solid Neoplasm|Lymphatic System Neoplasm
+DEVICE: Fitbit|DEVICE: Apple HealthKit-based devices
+Area under the receiver operating characteristic curve (AUC-ROC) of the step count model, The AUC-ROC of the step count model will measure the performance of a classification model by plotting the rate of true positives against false positives, and the score ranges from 0 - 1. The higher the AUC, the better the model's performance at distinguishing between the positive and negative classes. The AUC-ROC will be reported including both estimates and confidence intervals. All models will be reported per up-to-date guidelines, such as Minimum Information about Clinical Artificial Intelligence Modeling (MI-CLAIM) and Transparent Reporting of a multivariable prediction model for Individual Prognosis or Diagnosis (TRIPOD). The performance metrics will only be calculated with respect to first acute care event., Up to 3 years|Calculation of a Brier Score, The Brier Score is a strictly proper score function or strictly proper scoring rule that measures the accuracy of probabilistic predictions. A Brier Score can take on any value between 0 and 1, with 0 being the best score achievable and 1 being the worst score achievable. The lower the Brier Score, the more accurate the prediction(s). The score will be reported including both estimates and confidence intervals. All models will be reported per up-to-date guidelines, such as MI-CLAIM and TRIPOD. The performance metrics will only be calculated with respect to first acute care event., Up to 3 years|Calculation of Log-Loss Score, Logarithmic loss indicates how close a prediction probability comes to the actual/corresponding true value. The Log-Loss Score can take on any value between 0 and 1. The more the predicted probability diverges from the actual value, the higher is the log-loss value. The log-loss value will be reported including both estimates and confidence intervals. All models will be reported per up-to-date guidelines, such as MI-CLAIM and TRIPOD. The performance metrics will only be calculated with respect to first acute care event., Up to 3 years|Area Under the Precision-Recall Curves (AUCPR), The area under the precision-recall curve (AUCPR) is a single number summary of the information in the precision-recall (PR) curve. It represents the tradeoff between precision and recall for different thresholds, where high AUCPR indicates both high recall and high precision. The AUCPR will be reported including both estimates and confidence intervals. All models will be reported per up-to-date guidelines, such as MI-CLAIM and TRIPOD. The performance metrics will only be calculated with respect to first acute care event., Up to 3 years
+AUC-ROC for composite acute care, The AUC-ROC will be used to validate a previously developed model in the primary endpoint for predicting each ED visits or hospitalizations during external beam RT using continuous step counts before, during, and after treatment., Up to 3 years|Area under the receiver operating characteristic curve (AUC-ROC) for all cause acute care by group, The AUC-ROC will be used to validate the previously developed step-count model in the primary endpoint for predicting all-cause acute care for each of the two different device platforms., Up to 3 years|Mean squared error (MSE), The MSE will be used to validate concordance of step counts across each of the device's platforms in the Apple group. Mean Squared Error (MSE) is a fundamental concept in statistics and machine learning in assessing the accuracy of the predictive models which measures the average squared difference between predicted values and the actual values in the dataset., Up to 3 years|Area under the receiver operating characteristic curve (AUC-ROC) for the composite acute care endpoint.., Validate the previously developed SHIELD-RT EHR-based model for predicting unplanned acute care (ED visit or hospitalization) to discover additional variables which may be predictors not previously included., Up to 3 years
+PRIMARY OBJECTIVE:
+
+I. Validate a previously developed step-count model for predicting all-cause acute care (pooled across all devices).
+
+SECONDARY OBJECTIVES:
+
+I. Validate a previously developed model for predicting each ED visits or hospitalizations during external beam RT using continuous step counts before, during, and after treatment.
+
+II. Validate the previously developed step-count model for predicting all-cause acute care for each of the two different device platforms.
+
+III. Validate concordance of step counts across each of the device's platforms in the Apple group.
+
+IV. Validate the previously developed SHIELD-RT Electronic health record (EHR)-based model for predicting unplanned acute care (ED visit or hospitalization).
+
+EXPLORATORY OBJECTIVES:
+
+I. Refinement of the pre-existing models(step count and SHIELD-RT). II. Evaluate association between wearables collected parameters, EHR-based variables, and acute care events.
+
+III. Develop and validate a multi-modal predictive model for predicting acute care.
+
+OUTLINE: This is an observational study. Participants are assigned to 1 of 2 groups.
+
+* GROUP I: Participants receive Fitbit device and undergo non-interventional, standard of care, radiation therapy.
+* GROUP II: Participants receive Fitbit device and utilize their own personal Apple HealthKit-based device and undergo non-interventional, standard of care, radiation therapy.

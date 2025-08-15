@@ -1,0 +1,25 @@
+Guide for Prioritisation of Patients for Referral to Breast Clinics
+GPs in primary care in England currently refer over 2.17 million patients per year with vague symptoms to the urgent cancer referral pathway. While this catches over 150,000 cancer cases each year, 93% of the referred patients do not have cancer. For breast cancer, GPs refer 343,000 cases per year. Each of these patients are referred to a one stop clinic for diagnosis. The Leeds teaching Hospitals' Trusts' Breast Unit, receives 10,000 per year, with only 5% of patients actually being diagnosed with cancer.
+
+The breast cancer pathway involves a triple assessment process, which includes a clinical examination, imaging (mammogram or ultrasound) and possibly a biopsy test. It is a particularly expensive process as it is an imagingintense pathway; this places considerable strain on NHS diagnostic facilities. Small changes will not be enough to solve this problem - a new approach is needed. The purpose of this study is to see if we can develop a blood test that can support doctors in identifying patients for whom the likelihood of having breast cancer is extremely low. This would avoid unnecessary referral for those patients to the one stop clinic. Patients with higher chances of suspected breast cancer would be referred to the one stop clinic in the usual way.
+
+Key to the idea of safely "ruling-out" patients is that the test must not miss patients who do have cancer. By measuring a broad range of indicators (markers) in blood, the test will provide a more accurate picture of the underlying biology. The test is also being developed within the NHS, so that it can be adopted quickly into NHS computer systems and laboratories to maximise patient benefit, whilst being held to the NHS's high standards for clinical evidence and value.
+Breast Cancer
+OTHER: Single Blood Draw from each participant
+Primary Outcome, Positive diagnosis of cancer (as diagnosed by the TWW referral), 3 years
+Secondary Outcome, Positive outcome of non-cancer disease, 3 years|Secondary Outcome, Positive diagnosis with an interval cancer, despite being given the all-clear by their TWW referral, 3 years
+Following on from the service evaluation of retrospective TWW cases within The Leeds Teaching Hospitals Trust (between 2011-2018), the aim is to undertake a prospective analysis of a cohort of patients (4000) that have been referred from primary care (via their GP) for possible breast cancer diagnosis in the Leeds area. The analysis will include de-identified routine clinical data and blood tests from patients on the primary care referral cancer diagnosis pathway for cancer risk assessment.
+
+This is intended as a non-interventional study, where results from this study will not influence patient care.
+
+The study includes 3 phases/workstreams:
+
+1. Validate previously developed prototype algorithm (computer instructions)
+2. Update algorithm incorporating additional blood biomarkers and other relevant clinical data
+3. Validate diagnostic accuracy of updated algorithm The study will include 4000 patients on TWW pathways. Note: The TWW pathway constitutes part of the urgent cancer referral pathway. This study aims to address a major unmet clinical need for breast cancer services within the NHS by safely combining the wealth of routinely collected clinical data and testing of blood samples within the NHS, with secure IT infrastructure in the NHS and the University of Leeds, to efficiently develop a risk assessment tool (guide) to rule-out cancer within a routine NHS environment.
+
+Inclusion criteria are:
+
+* Age ≥ 18 years old
+* Male and female patient must have been referred from primary care for possible breast cancer diagnosis
+* Patient consented to have blood tests The data sets will be divided into a development and validation data set (50:50 split). A range of statistical approaches will be performed on the training data set. The algorithm parameters will then be 'locked down' and validated on the remaining test data set. Performance will be assessed via ROC (Receiver Operator Characteristic) curves, sensitivity and specificity, Area-Under-Curve, negative/positive predictive values and diagnostic odds ratios. The algorithm generation and data analysis will be conducted at the University of Leeds, specifically within a secure VRE within the Leeds Institute for Data analytics (LIDA). Particular scrutiny will be given to the test set patients most likely to be false negatives in this analysis (i.e. those patients with cancer whose predicted probability is very low). Key to further improvements in this approach will be to characterise this sub-group and identify possible ways in which they might be identified by an improved analysis in a future study. Eligible participants will be observed electronically for 2 years post blood testing to ensure any patients with undetected cancer, who develop cancer within a year, are not missed. The study will end once the consented sample and data retention periods have completed therefore the expected duration of project is 5 years.

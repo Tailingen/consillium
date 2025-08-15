@@ -1,0 +1,31 @@
+Nivolumab, Ipilimumab and Chemoradiation in Treating Patients With Resectable Gastric Cancer
+This pilot phase I/II trial studies the side effects and how well nivolumab and ipilimumab in combination with chemotherapy and radiation therapy work in treating patients with gastric cancer that can be removed by surgery. Immunotherapy with monoclonal antibodies, such as nivolumab and ipilimumab, may help the body's immune system attack the cancer, and may interfere with the ability of tumor cells to grow and spread. Drugs used in chemotherapy, such as oxaliplatin and fluorouracil, work in different ways to stop the growth of tumor cells, either by killing the cells, by stopping them from dividing, or by stopping them from spreading. Intensity-modulated radiation therapy uses thin beams of radiation of different strengths aimed at the tumor from many angles. This type of radiation therapy may reduce the damage to healthy tissue near the tumor. Giving nivolumab, ipilimumab, chemotherapy and radiation therapy may work better in treating patients with gastric cancer.
+Clinical Stage 0 Gastric Cancer AJCC v8|Clinical Stage 0 Gastroesophageal Junction Adenocarcinoma AJCC v8|Clinical Stage I Gastric Cancer AJCC v8|Clinical Stage I Gastroesophageal Junction Adenocarcinoma AJCC v8|Clinical Stage IIB Gastric Cancer AJCC v8|Clinical Stage IIB Gastroesophageal Junction Adenocarcinoma AJCC v8|Clinical Stage III Gastroesophageal Junction Adenocarcinoma AJCC v8|Clinical Stage IVA Gastric Cancer AJCC v8|Clinical Stage IVA Gastroesophageal Junction Adenocarcinoma AJCC v8|Gastric Adenocarcinoma|Localized Gastric Carcinoma|Localized Gastroesophageal Junction Adenocarcinoma|Pathologic Stage 0 Gastric Cancer AJCC v8|Pathologic Stage 0 Gastroesophageal Junction Adenocarcinoma AJCC v8|Pathologic Stage I Gastric Cancer AJCC v8|Pathologic Stage IA Gastric Cancer AJCC v8|Pathologic Stage IA Gastroesophageal Junction Adenocarcinoma AJCC v8|Pathologic Stage IB Gastric Cancer AJCC v8|Pathologic Stage IB Gastroesophageal Junction Adenocarcinoma AJCC v8|Pathologic Stage IC Gastroesophageal Junction Adenocarcinoma AJCC v8|Pathologic Stage II Gastroesophageal Junction Adenocarcinoma AJCC v8|Pathologic Stage IIA Gastric Cancer AJCC v8|Pathologic Stage IIA Gastroesophageal Junction Adenocarcinoma AJCC v8|Pathologic Stage IIB Gastric Cancer AJCC v8|Pathologic Stage IIB Gastroesophageal Junction Adenocarcinoma AJCC v8|Pathologic Stage IIIA Gastric Cancer AJCC v8|Pathologic Stage IIIB Gastroesophageal Junction Adenocarcinoma AJCC v8|Pathologic Stage IVA Gastroesophageal Junction Adenocarcinoma AJCC v8
+DRUG: Fluorouracil|RADIATION: Intensity-Modulated Radiation Therapy|BIOLOGICAL: Ipilimumab|BIOLOGICAL: Nivolumab|DRUG: Oxaliplatin|PROCEDURE: Therapeutic Conventional Surgery
+Incidence of adverse events, The Bayesian method of Thall, Simon and Estey will be implemented for toxicity monitoring. Safety data will be summarized using frequency tables by organ system, grade and attribution for the neoadjuvant period and adjuvant period separately., Up to 30 days
+Response rates, Response rates will be estimated along with the corresponding exact 95% confidence interval., Up to 5 years|Incidence of adverse events in patients with resected gastroesophageal junction (GEJ) or gastric cancer, The Bayesian method of Thall, Simon and Estey will be implemented for toxicity monitoring. Safety data will be summarized using frequency tables by organ system, grade and attribution for the neoadjuvant period and adjuvant period separately., Up to 5 years|Disease-free survival, Will be estimated using the method of Kaplan and Meier., From the date of surgery until disease relapse or death, whichever occurred first, assessed up to 5 years
+PRIMARY OBJECTIVES:
+
+I. To evaluate the safety and toxicity profile of intravenous nivolumab in combination with ipilimumab after standard chemotherapy and followed by intravenous nivolumab in combination with fluoropyrimidine and intensity-modulated radiation therapy (IMRT) for the treatment of localized gastroesophageal junction (GEJ) and/or gastric cancer.
+
+SECONDARY OBJECTIVES:
+
+I. To assess the efficacy of double checkpoint inhibition (nivolumab + ipilimumab) followed by nivolumab plus chemoradiation.
+
+II. To assess the overall safety and tolerability of adjuvant nivolumab in subjects with resected GEJ or gastric cancer.
+
+III. To evaluate disease free survival (DFS).
+
+IV. To explore changes in tumor stroma profile before and after immunotherapy and radiation therapy.
+
+V. To bank tumor and blood specimen for future correlative analysis, including, but not limited to, biomarker analysis.
+
+OUTLINE:
+
+INDUCTION CHEMOTHERAPY: Patients receive oxaliplatin intravenously (IV) over 2 hours and fluorouracil IV over 48 hours on day 1. Treatment repeats every 14 days for up to 4 courses in the absence of disease progression or unacceptable toxicity.
+
+Patients receive nivolumab IV over 30 minutes and ipilimumab IV over 30 minutes on day 1. Treatment with nivolumab repeats every 2 weeks for up to 6 courses in the absence of disease progression or unacceptable toxicity. Beginning course 4, patients also receive fluorouracil IV continuously for 5 days per week and undergo 25 fractions of IMRT for 5 weeks. Patients undergo surgical resection 5-7 weeks after completing radiation therapy.
+
+Within 8-12 weeks post-surgery, patients with residual disease may receive nivolumab IV over 30 minutes on day 1. Treatment repeats every 2 weeks for 8 courses (16 weeks) then every 4 weeks for up to 2 courses in the absence of disease progression or unacceptable toxicity.
+
+After completion of study treatment, patients are followed up at 30 and 84 days, every 12 weeks for 2 years, then every 6-12 months for up to 3 years.

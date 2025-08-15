@@ -1,0 +1,67 @@
+Sorafenib in Treating Patients With Regional or Metastatic Cancer of the Urothelium
+This phase II trial is studying how well sorafenib works in treating patients with progressive regional or metastatic cancer of the urothelium. Sorafenib may stop the growth of tumor cells by blocking some of the enzymes needed for cell growth and by blocking blood flow to the tumor.
+Adenocarcinoma of the Bladder|Distal Urethral Cancer|Metastatic Transitional Cell Cancer of the Renal Pelvis and Ureter|Proximal Urethral Cancer|Recurrent Bladder Cancer|Recurrent Transitional Cell Cancer of the Renal Pelvis and Ureter|Recurrent Urethral Cancer|Regional Transitional Cell Cancer of the Renal Pelvis and Ureter|Squamous Cell Carcinoma of the Bladder|Stage III Bladder Cancer|Stage IV Bladder Cancer|Transitional Cell Carcinoma of the Bladder|Urethral Cancer Associated With Invasive Bladder Cancer
+DRUG: sorafenib tosylate|OTHER: laboratory biomarker analysis
+Kaplan-Meier Estimate of Progression-free Survival at 4 Months, Survival estimate from the Kaplan-Meier curve of the proportion of patients alive and progression-free at 4 months.
+
+Progression-free survival is defined as the time from registration to progression or death, whichever occurs first.
+
+Progression is defined as at least a 20% increase in the sum of the longest diameters of target lesions, taking as reference the smallest sum longest diameter recorded since the baseline measurements, or the appearance of one or more new lesion(s) or unequivocal progression of existing nontarget lesions., Assessed every cycle while on treatment; after being off-treatment, assessed every 3 months for 2 years, then every 6 months for 1 year.
+Progression-free Survival, Time from registration to the earlier of disease progression or death. Patients alive and progression-free at last follow-up were censored.
+
+Progression is defined as at least a 20% increase in the sum of the longest diameters of target lesions, taking as reference the smallest sum longest diameter recorded since the baseline measurements, or the appearance of one or more new lesion(s) or unequivocal progression of existing nontarget lesions., Assessed every cycle while on treatment; after being off-treatment, assessed every 3 months for 2 years, then every 6 months for 1 year.|Overall Survival, Time from registration to death. Patients alive at last follow-up were censored., Assessed every cycle while on treatment; after being off-treatment, assessed every 3 months for 2 years, then every 6 months for 1 year.|Best Overall Response by RECIST, This outcome measure reports the best response a patient has ever experienced.
+
+\<Target Lesions\>
+
+Complete Response (CR):
+
+The disappearance of all target lesions, confirmed by assessments \>=4 weeks (wks) later.
+
+Partial Response:
+
+\>=30% decrease in the sum of the longest diameters of target lesions from baseline, confirmed by assessments \>=4 wks later.
+
+Progressive Disease (PD):
+
+\>=20% increase in the sum of the longest diameters of target lesions from the smallest sum longest diameter since baseline, or the appearance of new lesions.
+
+Stable Disease (SD):
+
+Neither response criteria nor progressive disease criteria are met for \>=8 wks.
+
+\<Nontarget Lesions\>
+
+CR:
+
+The disappearance of all nontarget lesions and normalization of tumor marker levels, confirmed by assessments \>=4 wks later.
+
+SD:
+
+Persistence of nontarget lesions or maintenance of tumor marker levels above the normal limits for \>=8 wks.
+
+PD:
+
+The appearance of new lesions or unequivocal progression of existing lesions., Assessed every cycle while on treatment; after being off-treatment, assessed every 3 months for 2 years, then every 6 months for 1 year.
+PRIMARY OBJECTIVES:
+
+I. To evaluate the 4-month progression-free survival rate, response rate and toxicity of BAY 43-9006 in patients with progressing regional or metastatic transitional cell carcinoma (or mixed histologies containing a component of TCC) of the urothelium who have progressed on one and only one prior systemic chemotherapy regimen for metastatic disease.
+
+SECONDARY OBJECTIVES:
+
+I. To determine the time to disease progression and overall survival with BAY 43-9006.
+
+II. To evaluate the frequency of polymorphisms in drug metabolizing enzymes and to correlate these polymorphisms with variations in BAY 43-9006 pharmacokinetics.
+
+III. To evaluate the frequency of raf kinase mutations in tumor specimens and correlate these with response rate.
+
+IV. To evaluate serum VEGF levels as potential markers of angiogenesis inhibition by BAY 43-9006.
+
+V. To evaluate markers of apoptosis and kinase inhibition in peripheral blood mononuclear cells as potential biomarkers of BAY 43-9006 activity.
+
+VI. To determine if there are proteins differentially translated from the genome in patients who respond to treatment with BAY 43-9006 versus patients who do not respond to BAY 43-9006.
+
+OUTLINE: This is a multicenter study.
+
+Patients receive oral sorafenib twice daily on days 1-56. Courses repeat every 56 days in the absence of disease progression or unacceptable toxicity.
+
+After completion of study treatment, patients are followed every 3 months until 2 years from study entry and then every 6 months until 3 years from study entry.

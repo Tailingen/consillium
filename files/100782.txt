@@ -1,0 +1,35 @@
+Weight Management and Health Behavior Intervention in Lowering Cancer Risk for BRCA Positive and Lynch Syndrome Families
+This trial studies how well weight management and health behavior intervention works in helping patients with hereditary breast and ovarian cancer and Lynch syndrome mutation carriers lose or maintain a healthy weight and lower their risk for cancer. Lifestyle behaviors such as physical activity, diet, and weight management may play a key role in preventing cancers and improving outcomes even in those with hereditary cancer syndromes.
+Hereditary Breast Carcinoma|Hereditary Ovarian Carcinoma|Lynch Syndrome
+BEHAVIORAL: Behavioral Dietary Intervention|OTHER: E-mail|BEHAVIORAL: Exercise Intervention|OTHER: Health Promotion and Education|OTHER: Internet-Based Intervention|OTHER: Questionnaire Administration|BEHAVIORAL: Telephone-Based Intervention
+Percent weight loss, The data from the proposed factorial experiment will be analyzed through analysis of variance (ANOVA) with repeated measures. The outcome variable is the percent weight loss of each participant at 4 months. The fixed covariates include indicator variables for all intervention components. The model includes a random intercept that introduces within-family correlation. The main effect of each intervention component will be tested in an F-test at alpha = 0.0125 level. The pairwise interactions of the intervention components will be studied in an exploratory fashion. The optimal intervention is defined to be the combination of the four components that produces the best percent weight loss result within the resource constraints. Data can also be analyzed jointly in a linear mixed model that includes intervention components and time as fixed effect, family as random intercept and longitudinal correlation between 4 and 8 month data., Baseline to 4 months
+Fruit and vegetable consumption, The data from the proposed factorial experiment will be analyzed through ANOVA with repeated measures. The fixed covariates include indicator variables for all intervention components. The model includes a random intercept that introduces within-family correlation. The main effect of each intervention component will be tested in an F-test at alpha = 0.0125 level. Similar ANOVA analysis will be conducted for the 8 month outcome to study whether the intervention effect persists 4 months after the end of the intervention. The 4- and 8-month data can also be analyzed jointly in a linear mixed model that includes intervention components and time as fixed effect, family as random intercept and longitudinal correlation between 4 and 8 month data., Up to 8 months|Percent energy from fat, The data from the proposed factorial experiment will be analyzed through ANOVA with repeated measures. The fixed covariates include indicator variables for all intervention components. The model includes a random intercept that introduces within-family correlation. The main effect of each intervention component will be tested in an F-test at alpha = 0.0125 level. Similar ANOVA analysis will be conducted for the 8 month outcome to study whether the intervention effect persists 4 months after the end of the intervention. The 4- and 8-month data can also be analyzed jointly in a linear mixed model that includes intervention components and time as fixed effect, family as random intercept and longitudinal correlation between 4 and 8 month data., Up to 8 months|Physical activity, The data from the proposed factorial experiment will be analyzed through ANOVA with repeated measures. The fixed covariates include indicator variables for all intervention components. The model includes a random intercept that introduces within-family correlation. The main effect of each intervention component will be tested in an F-test at alpha = 0.0125 level. Similar ANOVA analysis will be conducted for the 8 month outcome to study whether the intervention effect persists 4 months after the end of the intervention. The 4- and 8-month data can also be analyzed jointly in a linear mixed model that includes intervention components and time as fixed effect, family as random intercept and longitudinal correlation between 4 and 8 month data., Up to 8 months
+PRIMARY OBJECTIVES:
+
+I. Identify the most effective intervention components for weight loss (primary outcome) and percent energy from fat, vegetable and fruit consumption, physical activity, and theory based behavioral determinants (secondary outcomes), with the goal of developing an optimized weight management intervention for hereditary breast and ovarian cancer (HBOC) and Lynch syndrome (LS) mutation carriers and their family members.
+
+II. Identify the most effective intervention combination that could be delivered for a cost of $364 or less, which is the reimbursement level provided by Medicare for 6 months of intensive behavioral weight loss counseling.
+
+III. Explore the effects of each component on weight loss, vegetable and fruit consumption, percent energy from fat, and physical activity 4 months after the end of the intervention.
+
+IV. Evaluate whether the effects of the intervention components differ by mutation status, previous cancer diagnosis in the index participant, HBOC versus (vs) LS, family environment, and gender of index participant.
+
+V. Pilot test the intervention in MD Anderson's Cancer Prevention Center, to determine the feasibility of providing the intervention components in a clinical setting.
+
+OUTLINE:
+
+Participants are randomized to 1 of 24 conditions, each comprising weight management and health behavior intervention with different combinations of 4 components for 16 weeks. The 4 components are: telephone coaching vs email coaching vs no coaching, text messages vs no text messages, self-monitoring 4-7 days a week vs 1 day per week, and a family team intervention vs none.
+
+TELEPHONE COACHING: Participants receive 1 phone call each week from a coach over 30-45 minutes to discuss diet, physical activity and goal setting.
+
+EMAIL COACHING: Participants receive 1 phone call to discuss the process over 10-15 minutes and then receive 1 email each week for 16 weeks.
+
+NO COACHING: Participants receive 1 phone call the first week over 10-15 minutes to discuss the process.
+
+TEXT MESSAGING: Participants receive 7-12 text messages comprising information about diet and physical activity each week for 16 weeks.
+
+SELF-MONITORING: Participants record their food intake and weight directly into the Fitbit website or application 4-7 days each week or 1 day each week for 16 weeks.
+
+FAMILY TEAM INTERVENTION: Participants (patients and their family members) receive 2 group phone calls and join a Facebook group that is monitored by research staff where they can interact with each other and coaches. The Facebook group includes weekly updates on team progress, weekly family challenges and live online chats with a dietitian and exercise expert.
+
+After completion of study, patients are followed up at 4 and 8 months.

@@ -1,0 +1,51 @@
+SAHARA-04 : Adaptive Radiotherapy in Hypersensitive Patients and High Locoregional Risk Breast Cancer With ETHOS Technology
+* Prospective, open-label, bi-center study, assessing the clinical outcomes of adaptive breast radiotherapy with ETHOS in hypersensitive patients.
+* Bi-centric with ETHOS center : ICM (Institut du Cancer de Montpellier) and ISC (Institut Sainte Catherine) Avignon
+* 500 patients will be included:
+* COHORTE A = Treatment ETHOS RT :46 evaluable patients with high risk of LRR and bf+ risk
+* COHORT B = Conventional IMRT : 454 others patients with high risk of LRR and bf- risk
+Breast Cancer
+RADIATION: Treatment ETHOS radiotherapy|RADIATION: Conventional IMRT
+Rate of patients without any grade 2 and more toxicities within the planning target volume, A toxicity of grade 2 and more is defined as an observation of grade 2 and more, in case of late toxicities it should be at least confirmed by two consecutive visits., at 3 years
+rate of Acute & late toxicity, acute toxicity is defined as side effects observed from the start of RT to 12 weeks post RT, according to NCI-CTCAE v5. Late toxicity is defined as side effects observed from 12 weeks post RT to 3 years post RT, according to NCI-CTCAE v5, From the start of RT to 12 weeks post RT and from 12 weeks post RT to 3 years post RT|Quality of life by using QLQ-C30 (and BR 23 module) questionnaire score, score obtained by assessed questionnaires, at 0/3/6/12/18/24/30/36 months post RT|Quality of life by using GPAQ questionnaire score, score obtained by assessed questionnaires, at 0/3/6/12/18/24/30/36 months post RT|Quality of life by using MFI questionnaire score, score obtained by assessed questionnaires, at 0/3/6/12/18/24/30/36 months post RT|Local recurrence rate (LRR), LRR will be deducted from the local recurrence survival defined as the interval between date of inclusion and the occurrence of local relapse. Patients without relapse at the analysis will be censored at the date of last follow-up, at 3 years|Relapse-free survival (RFS) rate, RFS is defined as the interval between date of inclusion and the occurrence of relapse. Patients without relapse at the analysis will be censored at the date of last follow-up, at 3 years|Time to severe RT toxicities rate, Time to severe RT toxicities is defined as the interval between date of inclusion and the occurrence of radio-induced Gr2+ toxicities (i.e. event). Patients without event at the analysis will be censored at the date of last follow-up., at 3 years|Overall survival (OS) rate, OS is defined as the interval between date of inclusion and the occurrence of death, due to any cause. Patients alive at the analysis will be censored at the date of last follow-up, at 3 years
+1. Breast cancer (BC) patients with high risk of severe radio-induced side effects
+
+   Severe but also moderate toxicities after curative-intent radiotherapy (RT), such as fibrosis, retraction or telangiectasia can have a negative impact on quality of life and a marked effect on subsequent psychological outcome. A number of factors are known to increase the risk of radiation toxicity including individual radiosensitivity. While toxicity risks for populations of patients are known, the determination of an individual's normal tissue radiosensitivity is seldom possible before treatment.
+
+   Therefore, current practice standards commonly prescribe radiation dose according to clinical scenarios, without regard to the genotype or phenotype of the individual being irradiated.
+
+   In that context, several teams have developed and validated prospectively or retrospectively (a rapid (72 h) radiosensitivity assay based on flow cytometric assessment of radiation-induced CD8 T-lymphocyte apoptosis (RILA).
+
+   An excellent negative predictive value was found in the case of high RILA value and grade 0-1 late toxicity in breast cancers.
+
+   In addition, all severe side-effects (grade ≥2) were observed in patients with low values of RILA.
+
+   Recently, the REQUITE consortium aimed to establish a resource for multi-national validation of models and biomarkers that predict risk of late toxicity following radiotherapy.
+
+   This international, prospective cohort study recruited cancer patients in 26 hospitals in eight countries between April 2014 and March 2017.
+
+   RILA assay data were available for 1319 patients. More recently, at the last ESTRO Annual Meeting in Milan (April 2019), this Consortium found that low RILA was associated with long-term side effects such breast fibrosis (bf+) after adjuvant BC radiotherapy.
+
+   The median value of RILA was 9.51% in patients with grade ≥2 bf+ (n=17) vs. 17.15% in patients without toxicity (n=631), p=0.003. In the meantime, the German team presented results from a large prospective ISE cohort with a very long-term follow-up (median FU=11.6 years). High RILA values were inversely correlated with the risk of fibrosis (p=0,011) and telangiectasia (p\<0.001). Univariate ROC analysis and multivariate analysis showed higher AUC and c-stat values outside than within the surgical area.
+
+   With a level one of clinical evidence, the RILA assay is recommended by the French guidelines since 2022. The RILA assay has now clear potential to be a useful biomarker for selecting individuals likely to display an increased probability of toxicity to RT. A French Company (NovaGray) now industrializes this assay (NovaGray RILA Breast®).
+2. BC patients with high risk of locoregional relapse (LRR)
+
+   Node positive (pN+) patients after breast conserving surgery (BCS) and adjuvant systemic therapies had a high risk of LRR (among 16%) with most of LRR which occurred within 5 years.
+
+   Significant improvements of distant free survival (DFS) were observed in case of regional nodes irradiation in large phase III trials: the EORTC 22922/10925 trial and the MA20 trial. In addition, adjuvant postmastectomy radiotherapy (PMRT) is a standard of care after radical mastectomy in case of nodal involvement as chest wall and regional nodes irradiation reduced both recurrence and breast cancer mortality in particular in BC patients with one to three positive lymph nodes even when systemic therapy was given.
+
+   Therefore, there is a need in those pN+ BC patient's population to well cover planning target volume (PTV) of whole breast (WB) or chest wall (CW) and regional nodes. Intensity-modulated radiotherapy (IMRT) is an appropriate technique to that end.
+3. Personalized radiotherapy in BC patients with high risk of LRR and bf+ risk
+
+The present study aimed to assess acute and late toxicities after adaptive radiotherapy ETHOS in high risk of LRR and hypersensitive breast cancer (bf+ BC) patients.
+
+The investigators propose, in high risk of LRR/ bf+ BC patients, to reduce PTVs thanks to ETHOS technology, an adaptive image-guided IMRT radiotherapy.
+
+Usually, PTVs are generated by adding 7 mm-margins around CTVs. By decreasing intrafraction variability, PTV margins could be significantly reduced closed to clinical target volume (CTV). Therefore, target volumes will be significantly reduced.
+
+In an adaptive radiotherapy a new plan is generated every fraction based on the organ and clinical target volume (CTV) delineations of that fraction. With these daily adaptations, inter fractions modifications are taken into account.
+
+The hypothesis is therefore that acute and late RT side effects occurring after ETHOS adaptive RT in bf+ BC patients will not be superior than those obtained after IMRT RT in BC non-hypersensitive patients.
+
+This hypothesis is based on a personalized approach (driven by a predictive assay of late effects to select patients with high and undetermined risk toxicity: for each patient, NovaGray will provide a report including the result of the NovaGray RILA Breast® test as well as a binary risk category (low risk or undetermined risk or high risk).

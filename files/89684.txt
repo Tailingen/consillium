@@ -1,0 +1,26 @@
+Bomedemstat and Maintenance Immunotherapy for Treatment of Newly Diagnosed Extensive Stage Small Cell Lung Cancer
+This phase I/II trial studies the side effects of bomedemstat and maintenance immunotherapy with atezolizumab and to see how well they work in treating patients with newly diagnosed extensive stage small cell lung cancer. Bomedemstat may stop the growth of tumor cells by blocking some of the enzymes needed for cell growth. Immunotherapy with monoclonal antibodies, such as atezolizumab, may help the body's immune system attack the cancer, and may interfere with the ability of tumor cells to grow and spread. Giving bomedemstat and atezolizumab may work better in treating patients with extensive stage small cell lung cancer.
+Extensive Stage Lung Small Cell Carcinoma|Limited Stage Lung Small Cell Carcinoma
+DRUG: Bomedemstat|BIOLOGICAL: Atezolizumab
+Number of Participants Experiencing a Dose Limiting Toxicity (DLT), DLT to bomedemstat combined with atezolizumab is defined as the occurrence of any of the following toxicities by CTCAE 5.03 determined to be possibly, probably, or likely related to bomedemstat or atezolizumab occurring within 21 days of initiation of treatment. The specific events are:
+
+- Grade 4 non-hematologic toxicity (not laboratory).
+
+* Grade 3 non-hematologic toxicity (not laboratory) lasting \>3 days despite optimal supportive care.
+* Any Grade 3 or Grade 4 non-hematologic laboratory value if:
+
+  * Medical intervention is required to treat the patient, or
+  * The abnormality leads to hospitalization
+  * Thrombocytopenia leading to clinically significant sequelae (i.e., a clinically significant bleeding event or the need for prophylactic transfusions).
+  * Febrile neutropenia.
+  * Grade 5 toxicity., Up to 21 days from initiation of treatment|Progression Free Survival, Distributions for time-to-event outcomes will be evaluated using the method of Kaplan-Meier. For point estimates at landmark times, the associated 95% confidence interval (CI) will be calculated using Greenwood's formula and based on a log-log transformation applied on the survival function., From the date of study enrollment up to 2 years|Incidence Patients Experiencing Adverse Events, Only adverse events that meet the following definition will be recorded:
+
+1. All grade 3 and higher adverse events
+2. Grade 1-2 adverse events that require medical intervention, i.e. initiation of a new medication, or are otherwise clinically significant at the discretion of the investigator
+3. Any adverse event that requires a dose reduction or dose delay of either bomedemstat or atezolizumab Adverse events will be recorded from Cycle 1 Day 1 until the Safety Monitoring visit performed according to the Study Calendar (Section 7.0), using the Adverse Event case report forms/worksheets. For subjects who discontinue study therapy for a reason other than disease progression and are being followed with Monitoring visits (Section 8.5.3.3), adverse events should continue to be monitored. Adverse events related to either bomedemstat or atezolizumab will be followed until resolution or stabilization of the AE or until the beginning of a new anti-neoplastic therapy, whichever occurs first., From initial of treatment, up to 30 days after discontinuation of study treatment, up to 7 months
+Overall Survival, Distributions for time-to-event outcomes will be evaluated using the method of Kaplan-Meier. For point estimates at landmark times, the associated 95% CI will be calculated using Greenwood's formula and based on a log-log transformation applied on the survival function., From the date of study enrollment until death from any cause up to 2 years
+OUTLINE:
+
+Patients receive bomedemstat orally (PO) once daily (QD) on days 1-21 and atezolizumab intravenously (IV) on day 1. Cycles repeat every 21 days in the absence of disease progression or unacceptable toxicity.
+
+After completion of study treatment, patients are followed up at 30 days and then every 12 weeks thereafter.

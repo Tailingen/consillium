@@ -1,0 +1,25 @@
+Performance of Artificial Intelligence in Colonoscopy for Right Colon Polyp Detection
+The aim of the study is to assess whether the use of artificial intelligence improves polyp detection in a segment of the colon (the right colon).
+
+To achieve this objective, patients will be divided into two groups: one will undergo a standard colonoscopy, the other a colonoscopy with the artificial intelligence software connected to the machine.
+
+This software does not modify the colonoscopy technique in any way, and does not require the administration of any product to the patient.
+
+The study will compare the detection rate of right colon polyps between the group of patients who underwent standard colonoscopy and those who underwent colonoscopy with artificial intelligence. If this number does not differ between the two groups, the investigators can conclude that there is no point in using artificial intelligence.
+Colon Cancer|Colon Polyp|Colon Lesion|Colon Adenocarcinoma
+PROCEDURE: Colonoscopy
+Comparing the percentage of patients with at least one right colon polyp detected according to the randomization group, and adjusted for Boston Bowel preparation scale, for the operator, for the endoscope and for stratification factors., A multiple logistic regression comparing the percentage of patients with at least one right colon polyp detected according to the randomization group, and adjusted for Boston Bowel preparation scale (6-7 vs \>7), for the operator, for the endoscope (Pentax or Fuji) and for stratification factors (age and polyps or CRC history)., Inclusion visit
+Colorectal cancer (CRC) is the third most common cancer and remains one of the leading causes of mortality among neoplastic diseases in the world. Screening colonoscopy with detection and resection of colorectal polyps have reduced CRC incidence and mortality.
+
+Nevertheless, colonoscopy is an imperfect screening test and its effectiveness is influenced by a range of variables including the skill and expertise of the endoscopist. Indeed, a significant proportion of colorectal neoplasia is missed during colonoscopic examinations. In the majority of studies, the rate of interval CRC among all CRCs ranged from 2% to 9% and interval cancers occurred more likely in the right colon. Interval cancers can result from missed lesion, incomplete removal or newly developed cancer. Most missed polyps are smaller than 10 mm in diameter and are sessile or flat in appearance. Therefore, sessile serrated adenomas (SSAs), which predominantly occur in the right colon, are easily missed because they are small and sessile.
+
+Colonoscopy is less effective in screening right sided CRCs, mainly because of the increased miss rate for polyps with sessile or flat appearance. In recent years, artificial intelligence (AI) is increasingly applied in gastrointestinal endoscopy, especially in the detection of colorectal polyps. In 2019, the first prospective randomized controlled trial including 1058 patients and comparing the polyp detection rate in colonoscopy with or without AI showed a significantly higher detection rate in the group with AI (29.1% vs 20.3%). Other previous prospective studies have showed that AI had great potential for improving colonic polyp detection.
+
+To our knowledge, this is the first study to date to evaluate the performance of the AI in the detection of right colon polyps.
+
+In this study, the investigators aim first of all to compare the rate of right colon polyp detection with AI-aided colonoscopy (AIC) to the rate obtained by the Standard (high-definition) colonoscopy (SC) in patient undergoing diagnostic colonoscopy. Then, the investigators would to evaluate the following endpoints:
+
+1. Comparison of time required for AIC versus SC (withdrawal time)
+2. Comparison of histological classification of all polyps detected in each group
+3. Comparison of the number of right colon polyps detected in each group
+4. A subgroup analysis comparing the rate of colon polyp detection between the two groups will be realized according to the procedure starting time (accounting for operator fatigability).

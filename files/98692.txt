@@ -1,0 +1,27 @@
+Genomic Profiling in Recommending Treatment for Patients With Metastatic Solid Tumors
+This research trial studies using genomic profiling to recommend anticancer treatment to patients with cancer that has spread beyond the original site of the tumor (metastatic cancer). Genomic profiling studies the deoxyribonucleic acid (DNA) of a tumor to detect genetic changes or abnormalities. This information can then be used to recommend treatments that may be more likely to result in a beneficial response. It is not yet known whether genomic profiling will detect abnormalities that can be used to make treatment recommendations and whether treatment based on genomic profiling is more effective than standard treatment.
+Unspecified Adult Solid Tumor, Protocol Specific
+GENETIC: mutation analysis|OTHER: cytology specimen collection procedure|OTHER: laboratory biomarker analysis
+Feasibility, measured as the proportion of patients with at least one actionable alteration, An actionable alteration is defined as availability of targeted therapy, scored as: A) an FDA-approved drug, B) an FDA-approved drug in another tumor type, or C) a drug that is not yet approved but has a clinical trial open. The percentage of patients in the "profile" arm with successful profiling will be calculated and further characterized by availability category., Baseline
+Drugs (if any) that target alterations found in a patient's tumor material at baseline, as identified by the Molecular Tumor Board, Baseline|Drugs (if any) that target alterations found in a patient's peripheral blood at baseline, as identified by the Molecular Tumor Board, Baseline|Availability of targeted therapy from tumor material scored as category A, B, or C above or D) No target therapy available, or no genetic alterations found, Baseline|Overall survival, Overall survival of patients in each cohort will be characterized using Kaplan-Meier plots and the two cohorts will be compared using a Cox model to control for age and sex., Number of days from enrollment to death, assessed up to 24 months|Clinical response rate, assessed according to RECIST 1.1 criteria, Response will be compared using logistic regression, adjusting for the same risk factors., Up to 24 months|Incidence of adverse events, Categorized by grade and MedDRA preferred term., Up to 30 days after last dose of active treatment|Tumor-based genomics, Comparison of tumor-based genomics with peripheral-blood genomics will be carried out by comparing the list of genetic aberrations found in the two different samples (tumor vs ctDNA) and possible target drugs identified from each source. Agreement on success of profiling will be assessed using a kappa statistic., Baseline|Peripheral-blood genomics, Comparison of tumor-based genomics with peripheral-blood genomics will be carried out by comparing the list of genetic aberrations found in the two different samples (tumor vs ctDNA) and possible target drugs identified from each source. Agreement on success of profiling will be assessed using a kappa statistic., Baseline
+PRIMARY OBJECTIVES:
+
+I. Assess the feasibility of integrating tumor genomic profiling in the adult oncology clinic at the Stanford Cancer Institute.
+
+SECONDARY OBJECTIVES:
+
+I. Determine the percentage of tumors that harbor "actionable" genomic changes. II. Explore effects of individual molecular profiling including the percent of time that profiling changes the treatment.
+
+III. Determine the number of cases in which a genomically identified targeted therapy is available.
+
+IV. Determine the clinical benefit of genomic based therapy, as defined by: response rate (according to Response Evaluation Criteria in Solid Tumors \[RECIST\] 1.1 response criteria); the percent of patients with non-progression at 4 months, and overall survival, in patients whose therapy is selected based on profiling.
+
+V. Determine if circulating free tumor DNA (ctDNA) in the blood stream (liquid biopsy) yields similar genomic results as the metastatic tumor analysis.
+
+VI. Determine if ctDNA analysis during treatment correlates with RECIST 1.1 criteria in predicting response.
+
+OUTLINE:
+
+Tissue samples are collected at baseline and blood for liquid biopsy is collected at baseline and every 6-8 weeks during active treatment. Tissue samples are analyzed via sequencing for tumor genomic profiling.
+
+After completion of active treatment, participants are followed up at 4, 8, 12, 18, and 24 months.

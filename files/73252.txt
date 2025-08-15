@@ -1,0 +1,40 @@
+Testing the Combination of an Anti-cancer Drug, Iadademstat, With Other Anti-cancer Drugs (Atezolizumab or Durvalumab) at Improving Outcomes for Small Cell Lung Cancer
+This phase I/II trial tests the safety, side effects, and best dose of iadademstat when given together with atezolizumab or durvalumab, and studies the effect of the combination in treating patients with small cell lung cancer that has spread outside of the lung in which it began or to other parts of the body (extensive stage) who initially received standard of care chemotherapy and immunotherapy. Iadademstat may stop the growth of tumor cells by blocking some of the enzymes needed for cell growth. Immunotherapy with monoclonal antibodies, such as atezolizumab or durvalumab, may help the body's immune system attack the cancer, and may interfere with the ability of tumor cells to grow and spread. Adding iadademstat to either atezolizumab or durvalumab may be able to stabilize cancer for longer than atezolizumab or durvalumab alone in treating patients with extensive stage small cell lung cancer.
+Extensive Stage Lung Small Cell Carcinoma|Stage IV Lung Cancer AJCC v8
+BIOLOGICAL: Atezolizumab|PROCEDURE: Biopsy Procedure|PROCEDURE: Biospecimen Collection|PROCEDURE: Computed Tomography|BIOLOGICAL: Durvalumab|PROCEDURE: Echocardiography Test|DRUG: Iadademstat|PROCEDURE: Magnetic Resonance Imaging|PROCEDURE: Multigated Acquisition Scan
+Progression free survival, Will be estimated using the method of Kaplan and Meier and will be presented with 95% confidence intervals as measure of effect size., From start of treatment to time of progression or death, whichever occurs first, up to 2 years
+Objective response rate, Up to 2 years|Overall survival, Will be estimated using the method of Kaplan and Meier and will be presented with 95% confidence intervals as measure of effect size., Up to 2 years|Incidence of adverse events, Up to 30 days after last dose of study treatment
+Detection of circulating tumor deoxyribonucleic acid minimal residual disease, Up to 2 years|Impact of iadademstat on the correlation of immune checkpoint inhibitors (ICIs) and the presence of cachexia, Up to 2 years|Exposure response relationships of iadademstat in combination with ICIs, Up to 2 years|Changes to small cell lung cancer subtype, Up to 2 years
+PRIMARY OBJECTIVE:
+
+I. To compare the progression-free survival (PFS) between the combination of iadademstat plus immune checkpoint inhibitor (ICI) versus ICI maintenance alone.
+
+SECONDARY OBJECTIVES:
+
+I. To compare objective response rate (ORR) and overall survival (OS) between treatment arms.
+
+II. To evaluate the safety of combination iadademstat plus ICI.
+
+EXPLORATORY OBJECTIVES:
+
+I. To assess whether detection of circulating tumor deoxyribonucleic acid (DNA) (ctDNA) minimal residual disease correlates with disease progression.
+
+II. To assess whether iadademstat impacts the correlation of ICI (atezolizumab or durvalumab) baseline and time varying clearance with clinical outcomes (PFS and OS) and the presence of cachexia.
+
+III. To explore exposure response relationships of iadademstat in combination with ICIs.
+
+IV. To characterize changes to small cell lung cancer (SCLC) subtype throughout treatment.
+
+OUTLINE: This is a phase I dose-escalation study of iadademstat in combination with atezolizumab and durvalumab followed by a randomized phase II study.
+
+PHASE I: Patients receive iadademstat orally (PO) on days 1, 8, 15, and 22 or days 1 and 15 of each cycle. Patients also continue receiving their initial ICI treatment, either atezolizumab intravenously (IV) over 30-60 minutes on day 1 of each cycle or durvalumab IV over 60 minutes on day 1 of each cycle. Cycles repeat every 28 days in the absence of disease progression or unacceptable toxicity.
+
+PHASE II: Patients are randomized to 1 of 2 arms.
+
+ARM I: Patients receive iadademstat PO on days 1, 8, 15, and 22 or days 1 and 15 of each cycle. Patients also continue receiving their initial ICI treatment, either atezolizumab IV over 30-60 minutes on day 1 of each cycle or durvalumab IV over 60 minutes on day 1 of each cycle. Cycles repeat every 28 days in the absence of disease progression or unacceptable toxicity.
+
+ARM II: Patients continue receiving their initial ICI treatment, either atezolizumab IV over 30-60 minutes on day 1 of each cycle or durvalumab IV over 60 minutes on day 1 of each cycle. Cycles repeat every 28 days in the absence of disease progression or unacceptable toxicity.
+
+All patients also undergo multi-gated acquisition (MUGA) or echocardiogram (ECHO), brain magnetic resonance imaging (MRI) or brain computed tomography (CT) during screening, and CT scans and blood and urine sample collection throughout the trial. Patients may also undergo an optional tumor biopsy on study.
+
+After completion of study treatment, patients are followed up every 3 months for up to 12 months.

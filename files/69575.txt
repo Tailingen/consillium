@@ -1,0 +1,12 @@
+Study on the Biological Prediction Models of Radiation Pneumonitis
+Radiation pneumonitis is the most common complication and the major dose-limiting toxicity associated with radiotherapy, which can cause poor quality of life or life-threatening symptoms and might hinder the tumor-controlling effects of radiotherapy. Consequently, establishing reliable predictors for the occurrence of RP is of great significance such that the therapeutic effects of RT can be maximized while minimizing its adverse effects. The aim of this study is to figure out the biological prediction models of radiation pneumonitis.
+Radiation Pneumonitis
+radiation pneumonitis grade >=2 or 3, 12 months after radiotherapy
+1. Establish a clinical data base for the lung cancer patients treated with radiotherapy in Tongji Hospital.
+
+   Data including age, gender, smoking state, KPS, pulmonary function, disease history, histology, stage, surgery, chemotherapy, dosimetric parameters of radiotherapy were collected.
+
+   Peripheral blood was collected from all patients enrolled. All patients enrolled in this study are examined during and one month after radiotherapy. Then, the patients are followed every three months for the first year and every six months thereafter. At each follow-up visits, all patients are asked to undergo a chest X-ray or CT and clinical information, including symptoms, is collected. RP is graded by two radiation oncologists according to the Common Terminology Criteria for Adverse Events 4.0.
+2. Select candidate genes and pathways which may be associated with radiation pneumonitis and identify their tagSNPs by Haploview.
+3. Use Kaplan-Meier and Cox model to analyze the association of all the factors collected with radiation pneumonitis.
+4. Establish a biological prediction models for radiation pneumonitis based on the statistics analysis

@@ -1,0 +1,35 @@
+Atezolizumab With Chemotherapy in Treating Patients With Anaplastic or Poorly Differentiated Thyroid Cancer
+This phase II trial studies how well atezolizumab in combination with chemotherapy works in treating patients with anaplastic or poorly differentiated thyroid cancer. Immunotherapy with monoclonal antibodies, such as atezolizumab, may help the body's immune system attack the cancer, and may interfere with the ability of tumor cells to grow and spread. Vemurafenib and cobimetinib may stop the growth of cancer cells by blocking some of the enzymes needed for cell growth. Monoclonal antibodies, such as bevacizumab, may interfere with the ability of cancer cells to grow and spread. Drugs such as nab-paclitaxel and paclitaxel work in different ways to stop the growth of cancer cells, either by killing the cells, by stopping them from dividing, or by stopping them from spreading. This trial is being done to see if atezolizumab in combination with chemotherapy works better in treating patients with anaplastic or poorly differentiated thyroid cancer compared to standard treatments.
+Metastatic Thyroid Gland Carcinoma|Poorly Differentiated Thyroid Gland Carcinoma|Stage IVA Thyroid Gland Anaplastic Carcinoma AJCC v8|Stage IVB Thyroid Gland Anaplastic Carcinoma AJCC v8|Stage IVC Thyroid Gland Anaplastic Carcinoma AJCC v8|Thyroid Gland Anaplastic Carcinoma|Unresectable Thyroid Gland Carcinoma
+DRUG: Atezolizumab|BIOLOGICAL: Bevacizumab|DRUG: Cobimetinib|DRUG: Nab-paclitaxel|DRUG: Paclitaxel|DRUG: Vemurafenib
+Overall survival (OS) with targeted therapy + atezolizumab in cohorts 1 and 3 with anaplastic thyroid carcinoma (ATC), Overall survival is defined as the time from start date of cohort specific treatment to death from any cause will be estimated using the Kaplan-Meier method., 5 years
+Efficacy determined per Response Evaluation Criteria for Solid Tumors (RECIST) of targeted therapy + atezolizumab in Cohorts 1-3 with anaplastic thyroid carcinoma (ATC) and poorly differentiated thyroid cancer (PDTC), 5 years|Efficacy determined per immune related (ir)RECIST of targeted therapy + atezolizumab in Cohorts 1-3 with anaplastic thyroid carcinoma (ATC) and poorly differentiated thyroid cancer (PDTC), 5 years|Efficacy determined per RECIST of taxanes + atezolizumab in cohort 4 with poorly differentiated thyroid cancer (PDTC), 5 years|Progression-free survival anaplastic thyroid carcinoma (ATC) and poorly differentiated thyroid cancer (PDTC), Progression-free survival defined as the time from start date of cohort specific treatment to progression or death (whichever occurs first) will be estimated using the Kaplan-Meier method., 5 years|Adverse events of targeted therapy + atezolizumab in cohorts 1-3 with anaplastic thyroid carcinoma (ATC) and poorly differentiated thyroid cancer (PDTC), Adverse events recorded per The Common Terminology Criteria for Adverse Events (CTCAE)., 90 days after study drugs stopped|Adverse events of taxanes + atezolizumab in cohort 4 with poorly differentiated thyroid cancer (PDTC), Adverse events recorded per CTCAE., 90 days after study drugs stopped
+PRIMARY OBJECTIVE:
+
+I. To determine if targeted therapy + atezolizumab (cohorts 1-3) will lead to improved overall survival (OS) in patients with anaplastic thyroid carcinoma (ATC).
+
+SECONDARY OBJECTIVES:
+
+I. To evaluate the safety and efficacy (Response Evaluation Criteria in Solid Tumors \[RECIST\] response rate, progression-free survival \[PFS\]) of targeted therapy + atezolizumab (cohorts 1-3) in ATC and poorly differentiated thyroid cancer (PDTC).
+
+II. To determine the OS in patients with PDTC treated with targeted therapy + atezolizumab (cohorts 1-3).
+
+III. To determine the efficacy (RECIST/immune-related Response Criteria \[irRC\] response rate, progression-free survival \[PFS\]) and OS of ATC and PDTC patients treated with taxanes + atezolizumab (cohort 4).
+
+EXPLORATORY OBJECTIVES:
+
+I. To evaluate changes in the tumor-associated and systemic immune system biomarkers in ATC and PDTC patients treated with immunotherapy.
+
+II. To report radioactive iodine (RAI) uptake in patients who have a diagnostic whole body scan and therapeutic I-131 in cohort 2.
+
+OUTLINE: Patients are assigned to 1 of 4 cohorts.
+
+COHORT I (BRAF MUTATION): Patients receive vemurafenib orally (PO) twice daily (BID) on days 1-21, cobimetinib PO once daily (QD) on days 1-21, and atezolizumab intravenously (IV) over 30-60 minutes on days 1 and 15. Cycles repeat every 28 days in the absence of disease progression and unacceptable toxicity.
+
+COHORT II (RAS, NF1, OR NF2 MUTATION including patients with MAPK activating mutations at or above MEK): Patients receive cobimetinib PO QD on days 1-21 and atezolizumab IV over 30-60 minutes on days 1 and 15. Cycles repeat every 28 days in the absence of disease progression and unacceptable toxicity.
+
+COHORT III (NON-BRAF/NON-RAS MUTATION): Patients receive atezolizumab IV over 30-60 minutes and bevacizumab IV over 60-90 minutes on day 1. Cycles repeat every 21 days in the absence of disease progression and unacceptable toxicity.
+
+COHORT IV: Patients receive nab-paclitaxel IV over 30 minutes on days 1, 8, and 15 and atezolizumab IV over 30-60 minutes on day 1. Patients may receive paclitaxel IV over 30 minutes on day 1 as a substitute for nab-paclitaxel. Cycles repeat every 21 days in the absence of disease progression and unacceptable toxicity.
+
+After completion of study treatment, patients are followed up every 3 months for years 1-2, every 6 months for years 3-4, then yearly thereafter.

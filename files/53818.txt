@@ -1,0 +1,66 @@
+Immunotherapies in Combination With Stereotactic Body Radiation Radiotherapy in Microsatellite Stable (MSS) Metastatic Colorectal Cancer (mCRC)
+Background:
+
+Metastatic colorectal cancer (mCRC) is cancer that has spread beyond the colon and rectum. Most people with mCRC die within 5 years. New immune-based treatments are making progress with some types of colon cancer. But these treatments do little for people with a type of cancer that is microsatellite stable (MSS). MSS is a specific cancer biomarker. Better treatments are needed.
+
+Objective:
+
+To test 2 drugs (tiragolumab and atezolizumab) combined with radiation therapy in people with MSS mCRC.
+
+Eligibility:
+
+People aged 18 years and older with MSS mCRC.
+
+Design:
+
+Participants will be screened. They will have a physical exam with blood tests. They will have imaging scans and a test of their heart function. They will provide a tissue sample from their tumor; if one is not already available, a new sample will be taken. Their ability to perform normal tasks will be assessed.
+
+Tiragolumab and atezolizumab are both administered through a tube attached to a needle inserted into a vein. Participants will receive both drugs on day 1 of 3-week treatment cycles. Each study visit should last about 8 hours.
+
+Participants will receive radiation therapy on days 1, 3, and 5 of cycle 1 only.
+
+Blood samples and rectal swabs will be collected on day 1 of every cycle.
+
+Imaging scans will be repeated every 9 weeks. Additional tumor samples may be taken during treatment.
+
+Treatment will continue for up to 2 years.
+
+Participants will have a follow-up visit 1 month after treatment ends. Follow-up visits will continue every 3 months for 1 more year.
+Microsatellite Stable Metastatic Colorectal Cancer|Metastatic Colorectal Cancer|Colorectal Cancer
+BIOLOGICAL: Tiragolumab|BIOLOGICAL: Atezolizumab|RADIATION: Stereotactic Body Radiation Therapy (SBRT)
+Confirm the recommended phase II dose (RP2D) of the combination therapy, Dose-limiting toxicities (DLTs) will be collected and reported by type, grade and frequency., Start of therapy through cycle 1 day 21|Determine the proportion of participants without progression after 9 weeks of the combination therapy, Proportion of participants attaining 9-week progression-free survival will be evaluated and reported along with a 95% confidence interval., After 9 weeks of treatment
+Safety, For safety, the number of adverse events by grade and type will be reported. The adverse events noted within the safety lead-in Part A will be reported separately as well as being a portion of the overall safety profile for the trial., Start of therapy through 28 days after last study treatment intervention.|Tolerability, The proportions of participants who tolerated 2 cycles of tiragolumab and atezolizumab in combination with SBRT. The observed proportions will be reported along with a 95% confidence interval., Start of therapy through 28 days after last study treatment intervention.|Best overall response (Partial Response + Complete Response) according to RECIST v1.1, The BOR will be obtained along with a 95% confidence interval., Every 9 weeks during the study treatment and every 3 months after that until progression or 3 years after treatment initiation|Progression Free Survival, This secondary objective will provide the conventional PFS evaluation based on Kaplan-Meier curves reflecting censoring for participants not documented to reach this timepoint as appropriate. A 95% confidence interval for the median PFS will also be provided., Every 9 weeks during the study treatment and every 3 months after that until progression or 3 years after treatment initiation|Overall Survival, The OS will be determined using the Kaplan-Meier method beginning at the date the treatment begins, along with a 95% confidence interval for the median OS., Start of therapy until death or 3 years after treatment initiation
+Background:
+
+* Metastatic colorectal cancer (mCRC) is incurable for most patients and carries a poor diagnosis.
+* Immune-based approaches in solid tumor malignancies have seen much progress but these have limited efficacy for microsatellite stable (MSS) mCRC.
+* The Gastrointestinal Malignancies Section at NCI conducted a Pilot Study of the PD-1 Targeting Agent AMP-224 with low-dose cyclophosphamide and stereotactic body radiation therapy (SBRT) that supports potential antitumor efficacy of the combination of immunotherapy and radiation in MSS mCRC (NCT02298946).
+* T cell immunoreceptor with Ig and ITIM domains (TIGIT) is an inhibitory receptor expressed in multiple cancers on tumor-infiltrating cytotoxic T cells, helper T cells, natural killer (NK) cells, and regulatory T cells. Its main ligand, CD155, is expressed on tumor-infiltrating myeloid cells and upregulated on cancer cells, contributing to local immune-surveillance suppression.
+* Among inhibitory immune checkpoint molecules, a unique property of TIGIT blockade is that it enhances not only anti-tumor effector T-cell responses, but also NK-cell responses, and reduces the suppressive capacity of regulatory T cells.
+* Pre-clinical studies show that the co-blockade of TIGIT and the programmed cell death protein 1 (PD-1) / programmed cell death ligand 1 (PD-L1) pathway may lead to decreased tumor volume. Notably, this has been observed in anti-PD-1 resistant tumor models.
+* Preclinical and clinical evidence suggests further increased benefit to the double immune checkpoint blockade through increased expression of PD-L1 and neoantigens in response to SBRT.
+* Early results from clinical trials suggest clinical activity of anti-TIGITplus anti-PD-L1 in solid tumors and the effect of combining immunotherapy with radiation in heavily pretreated MSS mCRC patients providing a proof of concept that radiation enhances immunotherapy response.
+* A combination of anti-PD-L1, anti-TIGIT, and SBRT may increase CRC susceptibility to immune therapy given the promising activity of anti-TIGIT in combination with anti-PDL1 in preclinical studies of mice bearing subcutaneous CT26 colon tumors.
+
+Primary Objectives:
+
+* To confirm the Recommended Phase II dose (RP2D) of the combination therapy (tiragolumab and atezolizumab plus SBRT) in participants with MSS mCRC (Part A)
+* To determine the proportion of participants without progression after 9 weeks of the combination therapy (tiragolumab and atezolizumab plus SBRT) in participants with MSS mCRC (Part B)
+
+Eligibility:
+
+* Age \>= 18 years
+* Eastern Cooperative Oncology Group (ECOG) performance status \<= 1
+* Histopathologic confirmation of mCRC by the NCI Laboratory of Pathology (LP)
+* Disease not amenable to curative resection
+* At least 1 lesion amenable to SBRT and a second lesion outside the radiation field to serve as a target lesion
+* Adequate organ and marrow function
+
+Design:
+
+* This is a phase II, single-arm, non-randomized, trial using tiragolumab and atezolizumab in combination with SBRT.
+* A maximum of 30 participants with MSS mCRC will be enrolled.
+* Participants will receive atezolizumab and tiragolumab intravenously (IV) every 3 weeks (21-day cycles) with SBRT occurring on Days 1, 3, and 5 of Cycle 1 for 2 years.
+* Participants will be evaluated routinely for toxicity and will have re-staging imaging every 9 weeks (every 3 cycles).
+* Optional research biopsies will be done at baseline and during week 1 of cycle 2. If the participant has disease progression after cycle 3, a post-treatment biopsy may be performed.
+* The proportion of participants that are progression-free at 9 weeks will be evaluated as a binary endpoint.

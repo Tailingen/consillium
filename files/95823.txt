@@ -1,0 +1,26 @@
+Testing of the Anti Cancer Drugs CB-839 HCl (Telaglenastat) and MLN0128 (Sapanisertib) in Advanced Stage Non-small Cell Lung Cancer
+This phase I/Ib trial studies the side effects and best dose of CB-839 HCl when given together with sapanisertib in treating patients with non-small cell lung cancer that has spread to other places in the body (advanced). CB-839 HCl and sapanisertib may stop the growth of tumor cells by blocking some of the enzymes needed for cell growth.
+Leptomeningeal Neoplasm|Metastatic Lung Non-Small Cell Carcinoma|Metastatic Malignant Neoplasm in the Brain|Recurrent Lung Non-Small Cell Carcinoma|Stage IV Lung Cancer AJCC v8|Stage IVA Lung Cancer AJCC v8|Stage IVB Lung Cancer AJCC v8
+DRUG: Sapanisertib|DRUG: Telaglenastat Hydrochloride
+Maximum tolerated dose/recommended phase II dose of MLN0128 (sapanisertib) and CB-839 HCl (telaglenastat) in combination (dose-escalation), Will be evaluated according to dose-limiting toxicities during cycle 1 graded using National Cancer Institute Common Terminology Criteria for Adverse Events version 5.0., Up to 28 days|Response rate (dose-expansion), Response rate will be calculated for each cohort along with an exact 95% confidence interval., Up to 27 months|Median progression free survival (PFS) (dose-expansion), Median PFS will be determined using the Kaplan-Meier method individual for each cohort and for all patients as well., Up to 27 months
+Objective response rate (ORR), ORR will be assessed by Response Evaluation Criteria in Solid Tumors (RECIST) 1.1 criteria., Up to 27 months|PFS, Will be evaluated by Kaplan-Meier estimates., Up to 27 months|Disease control rate (DCR), DCR will be assessed by RECIST 1.1 criteria., Up to 27 months|Metabolic response (18Glutamine [GLN]-positron emission tomography [PET]/computed tomography [CT]; 18Fluorodeoxyglucose [FDG]-PET/CT), Change in tumor uptake of radio-labelled glutamine on PET from baseline to cycle 1 day 8 will be quantified by the standardized uptake value maximum (SUVmax) (a standard PET parameter) in the largest measurable lesion. The before and after 18F-Gln PET values will be compared using log(after/before) as a measure of relative change., Up to 27 months
+Genomic and metabolic signatures, Genomic and metabolic signatures will be correlated with responses. Changes in glutamine, glutamate, aspartate, and asparagine will be measured, and responders will be compared to non-responders using a two-sample t-test or Wilcoxon test., Up to 27 months
+PRIMARY OBJECTIVE:
+
+I. To determine the safety and tolerability of glutaminase inhibitor CB-839 hydrochloride (CB-839 HCl) (telaglenastat) in combination with MLN0128 (sapanisertib) and determine the recommended phase 2 dose (RP2D) of the combination.
+
+SECONDARY OBJECTIVES:
+
+I. To observe and record anti-tumor activity. II. To examine preliminary efficacy of CB-839 HCl (telaglenastat) and MLN0128 (sapanisertib) in squamous cell lung cancers (LSCC) and in select, molecularly-defined non-small cell lung cancer (NSCLC) cohorts.
+
+IIa. To evaluate the objective response rate (ORR), progression-free survival (PFS), and disease control rate (DCR) of patients treated with CB-839 HCl (telaglenastat) and MLN0128 (sapanisertib).
+
+EXPLORATORY OBJECTIVES:
+
+I. To correlate genomic and metabolomic signatures with response. II. To evaluate metabolic response (18Glutamine \[GLN\]-positron emission tomography \[PET\]/computed tomography \[CT\]; 18Fluorodeoxyglucose \[FDG\]-PET/CT) in NSCLC tumors treated with CB-839 HCl (telaglenastat) and MLN0128 (sapanisertib) in the dose expansion.
+
+OUTLINE: This is a dose-escalation study of glutaminase inhibitor CB-839 hydrochloride.
+
+Patients receive glutaminase inhibitor CB-839 hydrochloride orally (PO) twice daily (BID) and sapanisertib PO once daily (QD) on days 1-28. Cycles repeat every 28 days in the absence of disease progression or unacceptable toxicity.
+
+After completion of study treatment, patients are followed up quarterly.

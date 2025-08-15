@@ -1,0 +1,14 @@
+Photodynamic Therapy (PDT) Oncology Registry
+The data elements for the PDT Registry project include virtually all the elements in the standard hospital-based cancer registry record, although in some cases at a finer level of detail. All data points should be found in the participant's medical record. The principal difference between the PDT Registry data set and that collected by the registries is the inclusion of more information specific to PDT.
+Lung Cancer|Esophageal
+OTHER: Registry
+A Photodynamic Therapy (PDT) research repository and de-identified registry, Participating sites will be able to utilize aggregate, de-identified data to perform research on PDT, the patients receiving PDT, and their outcomes and complications after the procedure.
+
+Data collected includes the following:
+
+Table 1. Outline of Data Elements in the PDT Registry
+
+1. Patient Visit Form- Demographics Patient Identification Number Institution Number Study Type Surgeon ID Date of Birth Age at PDT Racial Background Gender Tobacco Use Alcohol Use Vital Status
+2. Pre-Treatment Primary Site Clinical Sta, Up to 3 years
+Survival following palliative and non-palliative PDT, calculated by date of PDT treatment and date of death (where applicable), Up to 3 years|Short and long term efficacy of PDT in presenting symptom improvement, Quality of Life Score before and after PDT, Up to 3 years|Complications after PDT, 30-day mortality (yes/no), length of stay in hospital (number of days), assessment of PDT-related complications (ex: phototoxic reaction (yes/no), urgent re-bronchoscopy (yes/no)), up to 3 years after
+Participating centers will need to describe its own mechanism for patient identification and eligibility screening. A data manager, identified by the Principal Investigator at each participating center, will screen all patients for eligibility. Appointment, diagnosis and treatment data will be reviewed using information such as clinic records, appointment lists, pathology department records, OR schedule and/or tumor registries. Patients meeting inclusion criteria will be enrolled in the 3-year registry which will comprise retrospective and prospective parts. Patients will be accrued retrospectively for the first 12-month period of the registry. The retrospective part will include patients who received PDT with Photofrin® from 2007 up to 2012. Patients who are eligible but die prior to enrollment will also be included to minimize bias resulting from non-inclusion of advanced stage patients. The prospective recruitment parts will be three years. The estimated length of follow-up for each patient will be 3 years. Follow-up will be conducted by research study staff at each institution via medical record review, under the direction of the Principal Investigator at that site. No patients will be contacted at any point to obtain study data or for follow-up.

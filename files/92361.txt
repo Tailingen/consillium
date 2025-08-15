@@ -1,0 +1,22 @@
+Zoledronate in Preventing Osteoporosis and Bone Fractures in Patients With Locally Advanced Nonmetastatic Prostate Cancer Undergoing Radiation Therapy and Hormone Therapy
+RATIONALE: Zoledronate may prevent bone loss in patients with prostate cancer undergoing radiation therapy and hormone therapy. It is not yet known whether zoledronate is more effective than calcium and vitamin D alone in preventing osteoporosis and bone fractures in patients with prostate cancer.
+
+PURPOSE: This randomized phase III trial is studying zoledronate to see how well it works compared to calcium and vitamin D alone in preventing osteoporosis and bone fractures in patients with locally advanced nonmetastatic prostate cancer undergoing radiation therapy and hormone therapy.
+Osteoporosis|Prostate Cancer
+DIETARY_SUPPLEMENT: Calcium|DIETARY_SUPPLEMENT: Zoledronic acid|RADIATION: radiation therapy|DRUG: LHRH|DIETARY_SUPPLEMENT: Vitamin D
+Freedom From Any Bone Fracture (FABF) Rate at Three Years, The time of failure was measured from the date of randomization to the date of documented bone fractures, defined as any fracture of the bone. The three-year FABF rate will be estimated by the Kaplan-Meier method., From randomization to 3 years
+Percent Change in Bone Mineral Density at 3 Years, Bone mineral density (BMD) was measured by DXA scan (Dual X-ray absorptiometry) for five locations: lumbar, right total hip, left total hip, right femoral neck, and left femoral neck. The percent change at 3 years was calculated for each location by the following formula: Percent Change BMD = (BMD_3 years - BMD_Baseline)/ BMD_Baseline \* 100., Baseline, 3 years from start of treatment|Changes in the Functional Assessment of Cancer Therapy-General (FACT-G) at 3 Years, The FACT-G is a validated, 27-item measure. In addition to a total QOL score, subscale scores for physical, functional, social and emotional well-being are produced. There are 5 responses options, with 0=Not a lot and 4=Very much. All items in a subscale are added together, multiplied by the number of items in the subscale, then divided by the number of items answered to obtain subscale totals. Scores range from 0-108 for the FACT-G total score, 0-28 for the physical, social and functional subscales, and 0-24 for the emotional subscale. Certain items, identified on the FACT-G scoring guides, must be reversed before it is added by subtracting the response from 4. All subscale totals are added together to form the FACT-G total score. Each subscale requires at least 50% of the items to be completed while the overall response rate must be greater than 80%. If items are missing, the subscale scores can be prorated. A higher score indicates better QOL., Baseline, 3 years from start of treatment|Utility of the Use of Bisphosphonates as Assessed by Quality-adjusted Survival, The EQ-5D is a standardized instrument for measuring generic health status used to generate health utilities, used to derive quality adjusted survival. Quality adjusted survival is computed using the weighted sum of times in different health states added up to a total quality-adjusted survival time. The log-rank test is used to compare quality-adjusted survivals between the treatment arms., From pre-treatment to 3 years from start of treatment
+OBJECTIVES:
+
+Primary
+
+* Compare the potential benefit of bisphosphonate therapy comprising zoledronate plus vitamin D and calcium supplement vs standard therapy with vitamin D and calcium supplement in the prevention of osteoporosis and associated bone fractures in patients with locally advanced nonmetastatic adenocarcinoma of the prostate undergoing radiotherapy and luteinizing hormone-releasing hormone (LHRH) agonist therapy.
+
+Secondary
+
+* Evaluate the potential benefit of these regimens on quality of life in these patients.
+* Evaluate the potential benefit in bone mineral density over a period of 3 years for patients treated with these regimens.
+
+OUTLINE: This is randomized multicenter study. Patients are stratified according to T score of the hip by dual x-ray absorptiometry (DXA) scan (\< -1.0 but \> -2.5 vs ≥ - 1.0) and planned duration of luteinizing hormone-releasing hormone (LHRH) agonist therapy (1-2½ years vs \> 2½ years). Patients are randomized to 1 of 2 treatment arms.
+
+Quality of life is assessed at baseline and every 6 months during treatment.

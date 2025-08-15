@@ -1,0 +1,48 @@
+Testing the Addition of Targeted Radiation Therapy to Surgery and the Usual Chemotherapy Treatment (Pemetrexed and Cisplatin [or Carboplatin]) for Stage I-IIIA Malignant Pleural Mesothelioma
+This trial studies how well the addition of targeted radiation therapy to surgery and the usual chemotherapy treatment works for the treatment of stage I-IIIA malignant pleural mesothelioma. Targeted radiation therapy such as intensity-modulated radiation therapy or pencil beam scanning uses high energy rays to kill tumor cells and shrink tumors. Drugs used in chemotherapy, such as pemetrexed, cisplatin, and carboplatin, work in different ways to stop the growth of tumor cells, either by killing the cells, by stopping them from dividing, or by stopping them from spreading. Giving targeted radiation therapy in addition to surgery and chemotherapy may work better than surgery and chemotherapy alone for the treatment of malignant pleural mesothelioma.
+Pleural Biphasic Mesothelioma|Pleural Epithelioid Mesothelioma|Stage I Pleural Malignant Mesothelioma AJCC v8|Stage IA Pleural Malignant Mesothelioma AJCC v8|Stage IB Pleural Malignant Mesothelioma AJCC v8|Stage II Pleural Malignant Mesothelioma AJCC v8|Stage IIIA Pleural Malignant Mesothelioma AJCC v8
+DRUG: Carboplatin|DRUG: Cisplatin|PROCEDURE: Decortication|RADIATION: Intensity-Modulated Radiation Therapy|DRUG: Pemetrexed|DRUG: Pemetrexed Disodium|RADIATION: Pencil beam scanning proton therapy|PROCEDURE: Pleurectomy
+Overall Survival (OS), Overall survival was to be estimated by the Kaplan-Meier method and arms were to be compared using a log-rank test. Analysis was to occur when at least 105 deaths had been reported. Given the small number of participants due to early study closure, only the number of patients last reported to be alive at time of study termination is reported., Randomization to the date of death or last follow-up. Maximum follow-up time from randomization was 25 months.
+Local-failure-free Survival (LFFS), Local failure is defined as local enlargement (LE) or local failure (LF) tumor response, marginal failure (MF), or death. LFFS was to be estimated by the Kaplan-Meier method and arms compared by log-rank test. Analysis was to occur when at least 105 deaths had been reported. Given the small number of participants due to early study closure, only the number of patients last reported to be alive without failure at time of study termination is reported, and no statistical testing was done.
+
+LE: ≥ 20% increase in the largest diameter (LD) of target lesion from the smallest LD recorded since the treatment start; based on computed tomography (CT) scan.
+
+LF: Progression of pleural tumor thickness or appearance of a site of pleural thickness \> 5 mm in the site of treated tumor.
+
+MF: The appearance of a new measurable site of pleural tumor \> 5mm within the treated site or enlarging tumor dimensions corresponding to a 20% increase in LD compared to initial appearance on imaging evaluation., From randomization to local failure, death, or last follow-up, whichever occurs first. Maximum follow-up was 25 months.|Distant-metastases-free Survival (DMFS), Distant failure (DF) is defined as the appearance of cancer deposits characteristic of metastatic dissemination from mesothelioma. DMFS was to be estimated by the Kaplan-Meier method and arms were to be compared using a log-rank test. Analysis was to occur when at least 105 deaths had been reported. Given the small number of participants due to early study closure, only the number of patients last reported to be alive without failure at time of study termination is reported, and no statistical testing was done., From randomization to distant failure, death, or last follow-up, whichever occurs first. Maximum follow-up was 25 months.|Progression-free Survival (PFS), Progression is defined as LE, LF, MF, DF, or death. PFS was to be estimated by the Kaplan-Meier method and arms compared by log-rank test. Analysis was to occur when ≥ 105 deaths had been reported. Given the small number of participants due to early study closure, only the number of patients last reported to be alive without progression at study termination is reported, and no statistical testing was done.
+
+LE: ≥ 20% increase in the largest diameter (LD) of target lesion from the smallest LD recorded since the treatment start; based on CT scan.
+
+LF: Progression of pleural tumor thickness or appearance of a site of pleural thickness \> 5 mm in the site of treated tumor.
+
+MF: The appearance of a new measurable site of pleural tumor \> 5mm within the treated site or enlarging tumor dimensions corresponding to a 20% increase in LD compared to initial appearance on imaging evaluation.
+
+DF: The appearance of cancer deposits characteristic of metastatic dissemination, From randomization to first progression, death, or last follow-up, whichever occurs first. Maximum follow-up was 25 months.|Number of Patients With Grade 3 or Higher Treatment-related Adverse Event After Randomization, Common Terminology Criteria for Adverse Events (version 5.0) grades adverse event severity as follows: 1 = mild, 2 = moderate, 3 = severe, 4 = life-threatening, 5 = death related to adverse event. Adverse events reported as possibly, probably, or definitely related to treatment are considered to be treatment-related adverse events., From randomization to death or last follow-up. Maximum follow-up time was 25 months.|Change From Randomization to 9 Months in Global Heath Status (GHS) Score of the European Organization for Research and Treatment of Cancer Quality of Life Questionnaire (EORTC QLQ-C30), Global Health Status is calculated from two questions on the EORTC QLQ-C30. The question responses range from 1 "very poor" to 7 "excellent" such that a higher response indicates better quality of life (QOL). The mean of these responses is linearly transformed to a range of 0 (worst) to 100 (best)., Randomization and 9 months
+Proportion of Patients With Under-staging, Concordant and Upstaging Between Centrally-reviewed Clinical Staging and Pathologic Staging, For each subject, the centrally-reviewed clinical staging (based on positron emission tomography, computed tomography and/or magnetic resonance imaging) will be compared with pathologic staging to determine whether it is under-staging (clinical staging is more extensive than pathologic staging), concordant (clinical staging is same as pathologic staging), or upstaging (clinical staging is less extensive than pathologic staging)., Up to 5 years|Association Between Radiation Dose to Gross Residual Disease and Local Control, Gross residual disease and local failure will be analyzed as competing risk data (death without gross residual disease or death without local failure as the respective competing event). Association between radiation dose to gross residual disease and local failure will be evaluated similarly in multivariable analyses using Fine-Gray regression model., Up to 5 years|Rate of R0/R1 and R2 Resections, by Type of Procedures (Extended Pleurectomy/Decortication (P/D), P/D and Partial Pleurectomy), Proportions of R0/R1 and R2 resections, by type of procedures (extended pleurectomy/decortication (P/D), P/D and partial pleurectomy)., Up to 5 years
+PRIMARY OBJECTIVE:
+
+I. To detect an improvement in overall survival with the addition of adjuvant hemithoracic intensity-modulated pleural radiation therapy (IMPRINT) to surgery and chemotherapy compared to surgery and chemotherapy alone.
+
+SECONDARY OBJECTIVES:
+
+I. To determine local failure-free survival, distant-metastases-free survival, and progression-free survival with the addition of adjuvant hemithoracic IMPRINT to surgery and chemotherapy compared to surgery and chemotherapy alone.
+
+II. To evaluate the treatment-related toxicities in both arms per Common Terminology Criteria for Adverse Events (CTCAE) version (v)5.0.
+
+III. To detect a clinically meaningful 10-point change in global health status mean scores at 9 months after randomization with the addition of adjuvant IMPRINT as compared to surgery and chemotherapy alone.
+
+EXPLORATORY OBJECTIVES:
+
+I. To evaluate the degree of under-staging, concordant and upstaging between centrally reviewed clinical staging (based on positron emission tomography (PET), computed tomography (CT) and/or magnetic resonance imaging (MRI)) and pathologic staging.
+
+II. To identify immunologic and pathologic biomarkers as predictors of response and potential targets for future combination trials.
+
+III. To determine the magnitude of radiation dose escalation to gross residual disease based on combined modality imaging and associated local control rates with dose-painting intensity-modulated radiation therapy (IMRT).
+
+IV. To determine the rate of R0/R1 and R2 resections, and type of procedures (extended pleurectomy/decortication \[P/D\], P/D and partial pleurectomy).
+
+V. To evaluate the trajectory of European Organization for Research and Treatment of Cancer Quality of Life Questionnaire Core 30 (EORTC QLQ-Q30) and lung cancer specific module (LC13) symptoms in patients treated with IMPRINT by comparing the proportion of patients who respond with "quite a bit" or "very much" LC13 symptoms at 9-12 months post-randomization compared to at 3 months post-randomization.
+
+VI. To evaluate changes in health-related quality of life, functional domains, and symptoms over time with the addition of adjuvant IMPRINT as compared to surgery and chemotherapy alone.
+
+After completion of study treatment, patients are followed up every 3 months for 2 years, then every 6 months for 3 years.

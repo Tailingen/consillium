@@ -1,0 +1,43 @@
+Ipatasertib in Combination With Carboplatin, Carboplatin/Paclitaxel, or Capecitabine/Atezolizumab in Treating Patients With Metastatic Triple Negative Breast Cancer
+This phase I trial studies best dose of ipatasertib and how well it works with carboplatin with or without paclitaxel in treating patients with triple negative breast cancer that has spread to other places in the body (metastatic). Ipatasertib may stop the growth of tumor cells by blocking some of the enzymes needed for cell growth. Drugs used in chemotherapy, such as carboplatin, paclitaxel, and capecitabine, work in different ways to stop the growth of tumor cells, either by killing the cells, by stopping them from dividing, or by stopping them from spreading. Immunotherapy with monoclonal antibodies, such as atezolizumab, may help the body's immune system attack the cancer, and may interfere with the ability of tumor cells to grow and spread. It is not yet known whether giving ipatasertib in combination with carboplatin, carboplatin/paclitaxel, or capecitabine/atezolizumab will work better in treating patients with triple negative breast cancer.
+Anatomic Stage IV Breast Cancer AJCC v8|Metastatic Triple-Negative Breast Carcinoma|Prognostic Stage IV Breast Cancer AJCC v8
+DRUG: Atezolizumab|DRUG: Capecitabine|DRUG: Carboplatin|DRUG: Ipatasertib|DRUG: Paclitaxel|OTHER: Quality-of-Life Assessment|OTHER: Questionnaire Administration
+Progression-free Survival (PFS), Estimated using the product-limit method of Kaplan and Meier. Failure defined as disease progression or death from any cause. Progression is defined using Response Evaluation Criteria In Solid Tumors Criteria (RECIST v1.1), as a 20% increase in the sum of the longest diameter of target lesions, or a measurable increase in a non-target lesion, or the appearance of new lesions., Up to 36 months
+Overall Response, Per Response Evaluation Criteria In Solid Tumors Criteria (RECIST v1.1) for target lesions and assessed by MRI: Complete Response (CR), Disappearance of all target lesions; Partial Response (PR), \>=30% decrease in the sum of the longest diameter of target lesions; Overall Response (OR) = CR + PR., Up to 36 months|Clinical Benefit Rate, Per Response Evaluation Criteria In Solid Tumors Criteria (RECIST v1.1) for target lesions and assessed by MRI: Complete Response (CR), Disappearance of all target lesions; Partial response (PR): At least a 30% decrease in the sum of diameters of all target lesions, taking as reference the baseline sum of diameters, in the absence of CR; Stable disease (SD): Neither sufficient shrinkage to qualify for CR or PR nor sufficient increase to qualify for PD; Progressive disease (PD): At least a 20% increase in the sum of diameters of target lesions, taking as reference the smallest sum of diameters on study (including baseline). Clinical Benefit Rate (CBR) = CR + PR + SD at 6 months., Up to 6 months|Overall Survival (OS), Estimated using the product-limit method of Kaplan and Meier. Failure defined as death from any cause., Up to 36 months
+PRIMARY OBJECTIVES:
+
+I. To determine the recommended phase II dose (RP2D) of ipatasertib plus carboplatin/paclitaxel (arm A), ipatasertib plus carboplatin (arm B), and ipatasertib, atezolizumab, and capecitabine (arm C) in patients with metastatic triple negative breast cancer (TNBC). (Phase I) II. To obtain initial evidence of activity by examining progression free survival for each dose regimen. (Phase IB)
+
+SECONDARY OBJECTIVES:
+
+I. To confirm the recommended phase II dose (RPIID) safety in expanded cohort by evaluating toxicities and confirm tolerability of the combinations.
+
+II. To obtain evidence of activity by examining response rate based on Response Evaluation Criteria in Solid Tumors (RECIST) 1.1.
+
+III. To evaluate clinical benefit rate (CBR), event-free survival, time-to-treatment failure and overall survival.
+
+IV. Further describe the cumulative toxicities (Common Terminology Criteria for Adverse Events \[CTCAE\] 5.0) of the combinations.
+
+V. To evaluate patient's quality of life (QOL).
+
+EXPLORATORY OBJECTIVES:
+
+I. To evaluate the progression-free survival and overall survival, based on the genomic alterations including PIK3CA/AKT/PTEN alterations and BRCA status.
+
+II. To study the association of TNBC messenger ribonucleic acid (mRNA) expression profiling including Vanderbilt molecular subtype and treatment response.
+
+III. To study the association of stool microbiome, calprotectin with diarrhea. IV. To study peripheral blood circulating tumor deoxyribonucleic acid (DNA). V. To study therapy resistance by analyzing tumor genomics and transcriptome analysis.
+
+VI. To study the profiles of peripheral blood mononuclear cells and its association with response to therapy.
+
+VII. To study genomic immune biomarkers and its association with response.
+
+OUTLINE: This is a phase I, dose-escalation trial of ipatasertib, followed by a phase II trial. Patients are randomized or assigned to 1 of 3 arms depending on available slots.
+
+ARM A: Patients receive ipatasertib orally (PO) once daily (QD) on days 1-28. Patients also receive carboplatin intravenously (IV) over 30 minutes and paclitaxel IV over 60 minutes on days 1, 8, and 15 or days 1 and 15. Cycles repeat every 28 days in the absence of disease progression or unacceptable toxicity.
+
+ARM B: Patients receive ipatasertib PO QD on days 1-28. Patients also receive carboplatin IV over 30 minutes on days 1, 8, and 15 or days 1 and 15. Cycles repeat every 28 days in the absence of disease progression or unacceptable toxicity.
+
+ARM C: Patients receive ipatasertib PO QD on days 1-21, capecitabine PO twice daily (BID) on days 1-7 and 15-21, and atezolizumab IV over 30-60 minutes on days 1 and 15. Cycles repeat every 28 days in the absence of disease progression or unacceptable toxicity.
+
+After completion of study treatment, patients are followed up every 3 months for 36 months.

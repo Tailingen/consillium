@@ -1,0 +1,27 @@
+Pembrolizumab After Radiation Therapy and Chemotherapy in Limited Stage Small Cell Lung Cancer
+This phase II trial studies how well pembrolizumab after standard treatment with radiation plus the following chemotherapy drugs: cisplatin or carboplatin, plus etoposide works in treating patients with limited stage small cell lung cancer (LS-SCLC). Immunotherapy with monoclonal antibodies, such as pembrolizumab, may help the body's immune system attack the cancer, and may interfere with the ability of tumor cells to grow and spread. Giving pembrolizumab after standard treatment with radiation plus chemotherapy may increase the ability of the immune system to fight LS-SCLC.
+Limited Stage Lung Small Cell Carcinoma|Stage I Lung Cancer|Stage II Lung Cancer|Stage III Lung Cancer
+DRUG: Cisplatin|DRUG: Carboplatin|DRUG: Etoposide|BIOLOGICAL: Pembrolizumab|PROCEDURE: Computed Tomography|PROCEDURE: Positron Emission Tomography|PROCEDURE: Magnetic Resonance Imaging|PROCEDURE: Biospecimen Collection|RADIATION: Radiation Therapy
+Progression-free survival, Time from the date of first treatment to progressive disease or death due to any cause, whichever occurs first, assessed up to 3 years
+Overall survival, Time from the date of first treatment to the date of death due to any cause, assessed up to 3 years|Incidence of adverse events, Will be assessed by National Cancer Institute's Common Terminology Criteria for Adverse Events version 5.0. Toxicities will be characterized in terms regarding seriousness, causality, toxicity grading, and action taken with regard to trial treatment., Up to 3 years
+PRIMARY OBJECTIVE:
+
+I. To investigate progression free survival per Response Evaluation Criteria in Solid Tumors 1.1 (RECIST 1.1) as assessed by the investigator in patients with limited stage small cell lung cancer treated with adjuvant pembrolizumab.
+
+SECONDARY OBJECTIVES:
+
+I. Assess median overall survival compared to the historical control dataset (CONVERT trial1) median overall survival (OS) of 30 months.
+
+II. Assess the safety and tolerability of adjuvant pembrolizumab in patients with limited stage SCLC.
+
+EXPLORATORY/TRANSLATIONAL OBJECTIVES:
+
+I. To determine whether patients with detectable circulating tumor deoxyribonucleic acid (ctDNA) after curative intent therapy ("minimal residual disease \[MRD\] positive") experience shorter median progression free survival (PFS) compared to patients without detectable ctDNA after curative intent therapy ("MRD negative.").
+
+II. Determination of whether patients with ctDNA clearance at any point during curative intent therapy have superior median PFS compared to patients who do not experience ctDNA clearance during curative intent therapy.
+
+OUTLINE:
+
+Patients undergo radiation therapy and receive cisplatin or carboplatin on day 1 of each cycle and etoposide on days 1-3 for 4 cycles. Patients then receive pembrolizumab intravenously (IV) over 30 minutes on day 1 of each cycle. Cycles repeat every 21 days for 1 year in the absence of disease progression or unacceptable toxicity. Patients undergo positron emission tomography (PET) scan during screening. Patients also undergo magnetic resonance imaging (MRI) throughout the trial as well as computed tomography (CT). Additionally, patients undergo blood sample collection throughout the trial.
+
+After completion of study treatment, patients are followed up at 30 days, and every 12 weeks for 2 years.

@@ -1,0 +1,9 @@
+MRg-NIRS Imaging System Breast Cancer Trial
+This trial is a study of 20 women with breast cancer to evaluate the addition of MR-guided (MRg) near-infrared spectroscopy (NIRS) with and without contrast, as part of a program to improve clinical management of women receiving breast magnetic resonance imaging (MRI).
+Breast Cancer
+DEVICE: MRg-NIRS
+Optical sensitivity of the MRg-NIRS platform, Optical data sensitivity will be measured (The sensitivity of the measurements to a given region identified by MRI, Sr, will be calculated as the sum of the log of the Jacobian times vector r. Here, r is a logical vector that identifies points within the region of interest and J is the Jacobian, the rate of change of measurements to a change in optical properties at a location in the region identified)., up to one hour on day of MRI
+Diagnostic performance of the MRg-NIRS platform, Diagnostic performance will be measured in terms of sensitivity, specificity and area under the receiver-operator characteristic curve (ROC)., up to one hour on day of MRI
+This trial is designed to determine if the MRg-NIRS system will contribute significantly to improved clinical management of women receiving breast magnetic resonance imaging (MRI) by achieving diagnostic performance comparable to or better than dynamic contrast-enhanced (DCE) breast MRI alone.
+
+The purpose of this clinical trial is to evaluate the addition of MRg-NIRS with and without contrast in 20 women with breast cancer. The women enrolled in the trial will be those who have a newly diagnosed breast cancer.

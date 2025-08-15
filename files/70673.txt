@@ -1,0 +1,15 @@
+Detection of Breast Cancer With Non-invasive Method Based on DNA Methylation of Circulated Tumor DNA, PBMC
+A central challenge in the fight against breast cancer is how to detect disease in a noninvasive manner before it is detectable by imaging methods. Although inroads have been made with more sensitive imaging techniques for earlier detection of breast cancer, these techniques are limited by the size of lesion that could be detected. Alternatively, several blood proteomic biomarkers have been proposed but none offer as of yet sufficient predictive power. Consequently, effective non-invasive tools as prognostic indicators and biomarkers of breast cancer are urgently needed.
+
+The purpose of this study is to develop and test non-invasive biomarkers based on methylation changes in PBMC and circulated tumor DNA in breast cancer patients.
+Breast Cancer|Breast Cancer Female
+DNA methylation of circulated tumor and PBMC DNA and its Correlation to Development and prediction of breast cancer, We will develop the linear model and a threshold value differentiating breast cancer from control based on the 100 patient training set. The model will be provided to the researchers:
+
+Methylation score=CG1\*b1+CG2\*b2+ CG3\*b3 + e
+
+CG1 is the methylation value of the first CG b1 is the regression coefficient for the first CG and e equals the intercept.
+
+We will develop the regression coefficient and intercept as well as the DNA methylation values for each patient for each CG. We will first compute the polygenic methylation score for each patient. Then based on the computer threshold based on the training cohort will call the samples as breast cancer or not., 6 months to 1 year
+A central challenge in the fight against breast cancer is how to detect disease in a noninvasive manner before it is detectable by imaging methods. Although inroads have been made with more sensitive imaging techniques for earlier detection of breast cancer, these techniques are limited by the size of lesion that could be detected. Alternatively, several blood proteomic biomarkers have been proposed but none offer as of yet sufficient predictive power. Consequently, effective non-invasive tools as prognostic indicators and biomarkers of breast cancer are urgently needed.
+
+The purpose of this study is to develop and test non-invasive biomarkers based on methylation changes in PBMC and circulated tumor DNA in breast cancer patients.

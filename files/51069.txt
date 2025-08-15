@@ -1,0 +1,32 @@
+Minnelide and Osimertinib for the Treatment of Advanced EGFR Mutated Non-Small Cell Lung Cancer
+This phase Ib trial tests the side effects and best dose of minnelide when given together with osimertinib for the treatment of non-small cell lung cancer that has spread to other places in the body (advanced) and has a change (mutation) in a gene called EGFR. Minnelide is a biologically inactive compound that can be broken down in the body to produce a drug that rapidly releases the active compound triptolide when exposed to phosphatases in the bloodstream. Sometimes, mutations in the EGFR gene cause EGFR proteins to be made in higher than normal amounts on some types of cancer cells. This causes cancer cells to divide more rapidly. Osimertinib may stop the growth of tumor cells by blocking EGFR that is needed for cell growth in this type of cancer. Minnelide and osimertinib may work better in treating patients with EGFR mutant advanced non-small cell lung cancer.
+Advanced Lung Non-Small Cell Carcinoma|Locally Advanced Lung Non-Small Cell Carcinoma|Stage III Lung Cancer AJCC v8|Stage IIIA Lung Cancer AJCC v8|Stage IIIB Lung Cancer AJCC v8|Stage IIIC Lung Cancer AJCC v8|Stage IV Lung Cancer AJCC v8|Stage IVA Lung Cancer AJCC v8|Stage IVB Lung Cancer AJCC v8|Unresectable Lung Non-Small Cell Carcinoma
+PROCEDURE: Biopsy|DRUG: Osimertinib|DRUG: Triptolide Analog
+Maximum tolerated dose (MTD) of osimertinib and minnelide, Up to 28 days|Recommended phase II dose (RP2D) of minnelide and osimertinib, Up to 28 days
+Pharmacodynamic effects of minnelide on heat shock protein (HSP)72 expression, To analyze the pharmacodynamic effects of Minnelide on HSP72 protein levels in serum collected at specific timepoints before and after treatment., Up to 2 years|Objective response rate, Assessed per Response Evaluation Criteria in Solid Tumors (RECIST) version (v) 1.1., Up to 2 years|Duration of overall response, Up to 2 years|Evidence of anti-tumor activity of minnelide when in combination with osimertinib, Assessed by objective radiographic assessment., Up to 2 years|Incidence of adverse events, Assessed per Common Terminology Criteria for Adverse Events (CTCAE) version 5.0., Up to 2 years|Progression-free survival (PFS), Assessed per RECIST v 1.1. Median PFS will be determined using the Kaplan-Meier method., Up to 2 years|Overall survival, Assessed per RECIST v 1.1., From the date of study enrollment to the date of death from any cause, assessed up to 2 years
+HSP levels pre and post therapy, Baseline and up to 2 years|Levels of minnelide in the blood, Up to 2 years|Cell free deoxyribonucleic acid (DNA) in blood, Up to 2 years|Evaluation of the microbiome, To evaluate the microbiome through amplicon sequencing of DNA extracted from fecal material collected by patients at baseline, restaging (2 cycles/8 weeks), and post-therapy (after disease progression/treatment discontinuation)., Up to 2 years|Determination of the exosomes, To determine potential biomarkers through whole exome sequencing of tumor specimen. In brief, whole exome sequencing using a structured exome design will be performed on paired tumor/normal samples.
+
+This assay enables identification of mutations within exons as well as detection of structural variants including copy number variants and translocation breakpoints., Up to 2 years
+PRIMARY OBJECTIVES:
+
+I. To determine the maximum tolerated dose (MTD) and the dose limiting toxicities (DLT) of triptolide analog (minnelide) capsules when given in combination with osimertinib.
+
+II. To establish the dose of minnelide capsules recommended for future phase II studies when given in combination with full dose osimertinib (recommended phase II dose \[RP2D\]).
+
+SECONDARY OBJECTIVES:
+
+I. To observe patients for any evidence of antitumor activity of minnelide capsules by objective radiographic assessment when in combination with osimertinib.
+
+II. To determine pharmacodynamic effects of minnelide capsules on heat shock protein (HSP)72 levels when given in combination with osimertinib.
+
+EXPLORATORY OBJECTIVES:
+
+I. Measure HSP levels, pre/post and during therapy as predictive biomarker. II. Determine levels of minnelide in the blood, and its effect. III. Determine the cell free deoxyribonucleic acid (DNA) in blood as biomarker. IV. Evaluate the microbiome pre-, during-, and post-therapy as potentiator of therapeutic response.
+
+V. Determine the exosomes as biomarker.
+
+OUTLINE: This is a dose-escalation study of minnelide.
+
+Patients receive minnelide orally (PO) once daily (QD) on days 1-21 and osimertinib PO QD on days 1-28. Cycles repeat every 28 days for 6 months in the absence of disease progression or unacceptable toxicity.
+
+After completion of study treatment, patients are followed up at 30 days and then every 3 months for 2 years.

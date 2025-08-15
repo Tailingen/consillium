@@ -1,0 +1,40 @@
+Low-Dose Melphalan and Dexamethasone Compared With High-Dose Melphalan Followed By Autologous Stem Cell Transplant in Treating Patients With Primary Systemic Amyloidosis
+RATIONALE: Drugs used in chemotherapy, such as melphalan and dexamethasone, work in different ways to stop the growth of plasma cells, either by killing the cells or by stopping them from dividing. Having an autologous stem cell transplant to replace the blood-forming cells destroyed by chemotherapy, allows higher doses of chemotherapy to be given so that more plasma cells are killed. By reducing the number of plasma cells, the disease may progress more slowly. It is not yet known whether combination chemotherapy is more effective than chemotherapy followed by an autologous stem cell transplant in treating primary systemic amyloidosis.
+
+PURPOSE: This randomized phase III trial is studying the side effects and how well giving low-dose melphalan together with dexamethasone works compared with high-dose melphalan followed by an autologous stem cell transplant in treating patients with primary systemic amyloidosis.
+Multiple Myeloma and Plasma Cell Neoplasm
+BIOLOGICAL: filgrastim|DRUG: dexamethasone|DRUG: melphalan|PROCEDURE: autologous hematopoietic stem cell transplantation
+Hematologic Response Rate, Response that was confirmed on 2 consecutive evaluations during treatment. A hematologic response consisted of a Complete response, Very Good Partial Response or Partial Response.
+
+* Complete Response (CR): Complete disappearance of M-protein from serum and urine on immunofixation, normalization of Free Light Chain (FLC) ratio and \<5% plasma cells in bone marrow.
+* Very Good Partial Response (VGPR): \>=90% reduction in serum M-component; Urine M-Component \<=100 mg per 24 hours.
+* Partial Response (PR): \>=50% reduction in serum M-component and/or Urine M-Component \>=90% reduction or \<200 mg per 24 hours; or \>=50% decrease in difference between involved and uninvolved FLC levels., 10 years
+3 Year Overall Survival, Percentage of patients who were alive at 3 years. The 3-year survival rate was estimated using the Kaplan Meier method., 3 years|Organ Response to Treatment, Organ response was evaluated on the basis of improvement of one or more affected organ; only one parameter was required to satisfy the criteria. Response needed to be maintained for a minimum of 3 months to be considered valid.
+
+Renal response required a 50% reduction in 24-hour urine protein excretion (at least 0.5 g/d) with stable creatinine. Cardiac response required one of \>= 2-mm reduction in the interventricular septal (IVS) thickness by echocardiogram, or improvement of ejection fraction by \>= 20%, or improvement by 2 NYHA classes without an increase in diuretic use. Hepatic response required either \>= 50% decrease in (or normalization of) an initially elevated alkaline phosphatase level or reduction in the size of the liver by at least 2 cm by radiographic determination. Gastrointestinal tract improvement was defined as normalization of a low serum carotene level, or reduction of diarrhea to \< 50% of previous movements/day, or decrease in fecal fat excretion by 50%., 10 years
+OBJECTIVES:
+
+Primary
+
+* Compare hematologic response rate in patients with primary systemic amyloidosis treated with conventional chemotherapy comprising low-dose melphalan and dexamethasone vs high-dose melphalan followed by autologous stem cell transplantation.
+* Compare the toxicity of these regimens in these patients.
+
+Secondary
+
+* Compare the overall and progression-free survival of patients treated with these regimens.
+* Compare the regression of organ involvement in patients treated with these regimens.
+* Compare the duration of response in patients treated with these regimens.
+* Correlate clonal burden and time to in vitro amyloid formation with clinical outcomes in patients treated with these regimens.
+* Compare quality of life of patients treated with these regimens.
+* Compare the information-seeking behavior in patients treated with these regimens.
+
+OUTLINE: This is a comprehensive cohort study comprising a randomized option and a nonrandomized option. Patients consenting to randomization are stratified by risk group (high vs low) and ECOG performance status (0-1 vs 2). They are then randomized to 1 of 2 treatment arms. Patients not consenting to randomization choose their treatment arm.
+
+* Arm I: Patients receive low-dose melphalan IV over 15-30 minutes on day 1 or orally once daily on days 1-7 and oral dexamethasone on days 1-4 and 22-25. Treatment repeats every 6 weeks for 10 courses in the absence of disease progression or unacceptable toxicity.
+* Arm II: Patients receive filgrastim (G-CSF) on days -7 to -3 and undergo autologous hematopoietic stem cell (HSC) collection. Patients receive high-dose melphalan IV over 1 hour on days -2 and -1 and undergo autologous HSC transplantation on day 0.
+
+Blood and bone marrow samples are collected at baseline. Samples are examined by PCR, cDNA, and nucleotide sequence analysis to determine VH and VL gene families and carrier status. Urine is collected at baseline and analyzed for light-chain protein levels by exclusion chromatography.
+
+Quality of life is assessed at baseline, at months 3, 9, and 12, at completion of study treatment, and then every 6 months for up to 5 years.
+
+After completion of study treatment, patients are followed every 6 months for up to 10 years.

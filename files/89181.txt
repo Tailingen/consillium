@@ -1,0 +1,21 @@
+Gallium-68 Labeled LM3 PET/CT in Neuroendocrine Tumors
+LM3 is a novel somatostatin receptor antagonist, while Gallium-68 DOTATATE is a typical somatostatin receptor agonist, This study is to evaluate the safety, biodistribution, dosimetry, and lesion detection ability of Gallium-68 labeled somatostatin receptor antagonist LM3 for the diagnostic imaging of metastatic, well-differentiated neuroendocrine tumors using positron emission tomography / computed tomography (PET/CT).
+
+The results will be compared between antagonist Gallium-68 labeled LM3 and agonist Gallium-labeled DOTATATE in the same group of patients.
+
+It will also be compared between the two different antagonists, Gallium-68 DOTA-LM3 and Gallium-68 NODAGA-LM3, in two parallel-designed arms.
+Neuroendocrine Tumors
+DIAGNOSTIC_TEST: Gallium-68 NODAGA-LM3 PET/CT|DIAGNOSTIC_TEST: Gallium-68 DOTA-LM3 PET/CT|DIAGNOSTIC_TEST: Gallium-68 DOTATATE PET/CT
+Blood pressure[Safety and tolerability], Measured in millimetre of mercury., Within 1 hour prior to the administration of radiopharmaceuticals.|Heart rate[Safety and tolerability], Measured in beats per minute., Within 1 hour prior to the administration of radiopharmaceuticals.|Pulse oximetry[Safety and tolerability], Measured in percentage., Within 1 hour prior to the administration of radiopharmaceuticals.|Electrocardiogram QT interval[Safety and tolerability], 3-lead electrocardiogram, Within 1 hour prior to the administration of radiopharmaceuticals.|Incidence of adverse effect[Safety and tolerability], According to version 4.03 of the Common Terminology Criteria for Adverse Events., From right after tracer injection to 24-hours post-injection
+Cmax (maximum concentration achieved in units of Bq/ml), Determination of Cmax for target lesion and discernible organs, From right after tracer injection to 2-hours post-injection|Tmax (time to achieve Cmax), Determination of Tmax for target lesion and discernible organs., From right after tracer injection to 2-hours post-injection|Standard uptake value (SUV), Determination of SUV for detected lesions and discernible organs of 68Ga-DOTA-LM3, 68Ga-NODAGA-LM3, and 68Ga-DOTATATE scan., From right after tracer injection to 2-hours post-injection|Lesion numbers, Determination of lesion numbers of 68Ga-DOTA-LM3, 68Ga-NODAGA-LM3, and 68Ga-DOTATATE scan., From right after tracer injection to 2-hours post-injection
+Patients with histologically confirmed metastatic, well-differentiated neuroendocrine tumors will be recruited in this study.
+
+All patients will be randomized into two groups: Gallium-68 NODAGA-LM3 group and Gallium-68 DOTA-LM3 group.
+
+The study will be divided into the following 2 parts:
+
+Part ONE, which will enroll 16 patients (8 in each group), focuses on the safety evaluation, biodistribution, and dosimetry. In Part A, patients will undergo serial whole-body PET/CT scans at multiple time points (5m, 10m, 20m, 40m, 1h, 2h) after administering 40ug/150-200MBq Gallium-68 NODAGA-LM3 or Gallium-68 DOTA-LM3 (according to their group).
+
+Part TWO, which will enroll 24 patients (12 in each group) and follows Part A study, focuses on lesion detection ability. In Part B, patients will undergo one whole-body PET/CT scan at 1 hour after administering 40ug/150-200MBq Gallium-68 NODAGA-LM3 or Gallium-68 DOTA-LM3 (according to their group).
+
+All patients need to do a Gallium-68 DOTATATE PET/CT scan (40ug/150-200MBq, 1h post-injection) for comparison on the next day.

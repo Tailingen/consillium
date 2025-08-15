@@ -1,0 +1,33 @@
+Testing Nivolumab to Prevent Disease From Coming Back After Treatment in Patients With Acute Myeloid Leukemia, REMAIN Trial
+This phase II trial studies how well nivolumab works in eliminating any remaining cancer cells and preventing cancer from returning in patients with acute myeloid leukemia that had a decrease in or disappearance of signs and symptoms of cancer after receiving chemotherapy. Immunotherapy with monoclonal antibodies, such as nivolumab, may help the body's immune system attack the cancer, and may interfere with the ability of tumor cells to grow and spread.
+Acute Myeloid Leukemia
+PROCEDURE: Biospecimen Collection|PROCEDURE: Bone Marrow Biopsy|OTHER: Clinical Observation|PROCEDURE: Echocardiography Test|BIOLOGICAL: Nivolumab
+Progression free survival (PFS), Kaplan-Meier plots will be used to estimate PFS in each arm and a stratified log rank test will be performed to compare the two groups. In addition, Cox proportional hazards models will be fit to provide estimates of the hazard ratio (HR) and associated 95% confidence interval (CIs), both unadjusted and adjusted for baseline covariates. Descriptive, subset analysis of PFS will be performed for minimal residual disease (MRD) positive patients., Time from randomization to disease relapse or death from any cause, assessed up to 2 years post-treatment
+Overall survival (OS), For overall survival, Kaplan-Meier plots will be generated for each treatment arm and the curves will be compared using a log rank test. Kaplan-Meier estimates with 95% CI will be summarized every 6 months using Greenwood's formula for the standard error of the Kaplan-Meier estimate. In addition to the Kaplan-Meier estimates, Cox proportional hazards models will be fit to estimate HRs and to assess and adjust for the effects of covariates. Descriptive, subset analysis of OS will be performed for MRD negative patients., Time from randomization to the date of death from any cause, assessed up to 2 years post-treatment|Non-relapse mortality (NRM), NRM will be analyzed using competing risks models with deaths due to relapse as a competing risk. Cumulative incidence curves will be generated and treatment effects summarized using the sub-distribution hazard ratio with and without adjustment for covariates, Duration between the date of randomization and the date of patient death due to reasons other than relapse, assessed up to 2 years post-treatment|Incidence of adverse effects of nivolumab, Will be assessed using National Cancer Institute Common Terminology Criteria for Adverse Events (CTCAE) version 5.0. Summary tables for adverse events (AEs) will include only AEs that started or worsened after randomization. The incidence of treatment-related adverse events (new or worsening from baseline after randomization) will be summarized by system organ class and/ or preferred term, severity (based on CTCAE grades), type of adverse event, and relation to study treatment by treatment group. Toxicity rates will be compared between the two treatment arms via chi-squares or Fisher's exact tests., Up to 100 days post-treatment
+PRIMARY OBJECTIVE:
+
+I. To evaluate and compare the progression free survival rate after randomization in the two treatment arms (nivolumab versus \[vs.\] observation).
+
+SECONDARY OBJECTIVES:
+
+I. To determine and compare the overall survival rates in the two arms. II. To determine and compare the incidence of non-relapse mortality in the two arms.
+
+III. To evaluate the toxicities of nivolumab as maintenance.
+
+EXPLORATORY OBJECTIVES:
+
+I. To analyze PD-L1 expression on acute myeloid leukemia (AML) cells from peripheral blood and/or bone marrow samples at diagnosis if available and at the time of study enrollment.
+
+II. To monitor AML minimal residual disease (MRD) by Wilms tumor 1 (WT1) polymerase chain reaction (PCR) at enrollment and at subsequent defined time points in the nivolumab-treated and control groups.
+
+III. To perform an exploratory analysis on the frequencies, absolute numbers and subsets of T cells (including regulatory T cells) in the nivolumab-treated and control groups with an emphasis on activation markers.
+
+IV. To perform deep sequencing of T cell receptor (TCR)-alpha and TCR-beta chains on polyclonal T cells at baseline and at subsequent time points in the nivolumab and control groups.
+
+OUTLINE: Patients are randomized to 1 of 2 treatment arms.
+
+ARM I: Patients receive nivolumab intravenously (IV) over 30 minutes once every 2 weeks. Treatment repeats every 2 weeks for 46 cycles in the absence of disease progression or unacceptable toxicity. Patients also undergo bone marrow biopsy at screening, months 3, 6, and 12, as clinically indicated, and at the time off study. Patients also undergo collection of blood samples at screening, weeks 9, 13, 25, and 53, and during off-study evaluation or at time of clinically suspected relapse. Patients may undergo echocardiography (ECHO) as clinically indicated.
+
+ARM II: Patients undergo standard of care clinical observation for up to 2 years. Upon disease relapse, patients may cross-over to Arm I. Patients also undergo bone marrow biopsy at screening, months 3, 6, and 12, as clinically indicated, and during off-study evaluation. Patients also undergo collection of blood samples at screening, weeks 9, 13, 25, and 53, and during off-study evaluation or at time of clinically suspected relapse. Patients may undergo ECHO as clinically indicated.
+
+After completion of study treatment, patients are followed up periodically for 2 years, every 6 months for 1 year, and then yearly thereafter.

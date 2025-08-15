@@ -1,0 +1,61 @@
+Comparing Cooling and/or Compression Approaches of Limbs for Prevention of Chemotherapy-Induced Peripheral Neuropathy
+This phase III trial compares the effect of 3 study approaches in preventing chemotherapy-induced peripheral neuropathy: 1) cryocompression, 2) continuous compression, and 3) low cyclic compression. Taxane chemotherapy drugs, such as paclitaxel or docetaxel, can cause a nerve disorder called peripheral neuropathy, which can cause numbness, tingling, or pain in the arms and legs. The 3 study approaches will use a device, called the Paxman Limb Cryocompression System, made of wraps that cool and/or compress the arms and legs. This study may help researchers determine if any of the study approaches are able to prevent taxane chemotherapy from causing peripheral neuropathy.
+Malignant Solid Neoplasm
+PROCEDURE: Biospecimen Collection|PROCEDURE: Cryocompression Therapy|PROCEDURE: Pneumatic Compression Therapy|PROCEDURE: Pneumatic Compression Therapy|OTHER: Quality-of-Life Assessment|OTHER: Questionnaire Administration
+Occurrence of clinically meaningful chemotherapy induced peripheral neuropathy (CIPN) (binary outcome: yes vs. no), Defined as an absolute increase of 8 or more points over baseline in the CIPN-20 sensory neuropathy subscale score. Analysis will be conducted multivariable logistic regression, adjusting for the baseline score and the stratification factor as covariates., At the 12-week assessment after randomization
+Mean sensory neuropathy scores, Will assess by study arm. Will examine the CIPN-20 sensory neuropathy subscale score as a continuous variable on the 0-100 scale. The differences by intervention study arm at 12 weeks in changes from baseline in objective sensory and motor function tests (Neuorpen, tuning fork, Get Up and Go test) will also be compared. Multiple linear regression analysis will be conducted, adjusting for the baseline score and the stratification factor as covariates., At 12 weeks|Dropouts, Any dropouts prior to the week 12 assessment as failures. Since death is anticipated to be unrelated to the intervention assignment, deaths will be censored. Failures will be analyzed with an aggregate failure variable defined as: experience of neuropathy according to the CIPN-20 sensory neuropathy subscale score or dropout prior to week 12 (yes vs. no). Logistic regression will be used, adjusted for the stratification factor as a covariate., Prior to the week 12 assessment|Trajectories over time, Trajectories over time by intervention study arm in clinically meaningful CIPN will be compared. Generalized estimating equations with a logit link and robust standard errors will be used, adjusting for the baseline score and the stratification factor as covariates., 6, 12, 24, and 52 weeks|Rates of adverse events, Rates of adverse events related to study device (including cold intolerance, skin changes, other AEs as assessed by (National Cancer Institute Common Terminology Criteria for Adverse Events \[NCI-CTCAE\]) between the three interventions will be compared., At 12 weeks
+PRIMARY OBJECTIVE:
+
+I. To compare the proportion of participants who develop clinically meaningful chemotherapy induced peripheral neuropathy (CIPN) at 12 weeks, in participants treated with taxane-based chemotherapy randomized to cryocompression therapy versus continuous compression therapy versus low cyclic compression therapy.
+
+SECONDARY OBJECTIVES:
+
+I. To compare trajectories over time (6, 12, 24, and 52 weeks) by intervention study arm in clinically meaningful CIPN.
+
+II. To compare mean European Organization for Research and Treatment of Cancer Chemotherapy-Induced Peripheral Neuropathy 20 (EORTC-CIPN-20) sensory neuropathy subscale scores at 12 weeks by intervention study arm.
+
+III. To compare differences by intervention study arm at 12 weeks in changes from baseline in objective sensory and motor function tests (Neuropen, tuning fork, Timed Get Up and Go test).
+
+IV. To compare the proportion of participants who develop clinically meaningful CIPN at 12 weeks in a sensitivity analysis with dropouts treated as failures.
+
+V. To compare rates of adverse events related to study device at 12 weeks (including cold intolerance, skin changes, other adverse events \[AEs\] as assessed by Common Terminology Criteria for Adverse Events \[CTCAE\]) between the three interventions.
+
+ADDITIONAL OBJECTIVES:
+
+I. To compare the proportion of participants who develop clinically meaningful CIPN separately at weeks 6, 24, and 52.
+
+II. To compare the proportion of participants who develop clinically meaningful CIPN at week 12 with additional covariate adjustment for age and body mass index (BMI).
+
+III. To compare differences by intervention study arm at 12 weeks in mean EORTC CIPN-20 motor subscale score and autonomic subscale score, and in mean individual Patient-Reported Outcomes Measurement Information System (PROMIS)-29 domain (Physical Functioning, Anxiety, Depression, Fatigue, Sleep Disturbance, Social Functioning, Pain Interference, and Pain Intensity) scores.
+
+IV. To compare trajectories over time (6, 12, 24, and 52 weeks) by intervention study arm in mean EORTC CIPN-20 sensory neuropathy subscale score, motor subscale score, and autonomic subscale score; and in mean PROMIS-29 individual domains (Physical Functioning, Anxiety, Depression, Fatigue, Sleep Disturbance, Social Functioning, Pain Interference, and Pain Intensity) scores; and in changes in objective sensory and motor function tests (Neuropen, tuning fork, Timed Get Up and Go test).
+
+V. To evaluate the differences by intervention study arm in proportion of participants who develop clinically meaningful CIPN at 12 weeks by chemotherapy regimen.
+
+VI. To assess the effect of the intervention in reducing CIPN occurring in the upper extremities and, separately, in the lower extremities.
+
+VII. To explore the relationship between duration of intervention received at the prescribed level and outcome, analogous to a dose-delivered analysis in a treatment trial.
+
+VIII. To compare rates by study arm of CTCAE Grade 2 or higher sensory and motor neuropathy at 12 weeks.
+
+IX. To evaluate tolerability of cryocompression compared to continuous compression therapy and low cyclic compression therapy, as assessed by rate of temperature and/or pressure adjustments, interruptions, and early discontinuation of the device.
+
+X. To determine participant satisfaction of cryocompression compared to continuous compression therapy and low cyclic compression therapy, assessed by patient questionnaire.
+
+XI. To compare taxane dose-reductions, treatment delays/discontinuation due to CIPN, and relative taxane dose intensity and total taxane dose received, between intervention study arms.
+
+XII. To evaluate differences of intervention effect by sex, race, and ethnicity.
+
+XIII. To confirm pretreatment biomarkers of CIPN risk (vitamin D) and on-treatment biomarker changes indicative of CIPN severity (Neurofilament light chain, NFL) as well as additional biomarkers of interest generated in S1714 for validation.
+
+BANKING OBJECTIVE:
+
+I. To bank specimens for future correlative studies.
+
+OUTLINE: Patients are randomized to 1 of 3 arms.
+
+ARM 1: Patients undergo cryocompression (cooling plus moderate and low pressure to the arms and legs) for 30-minutes pre-taxane chemotherapy infusion, during taxane chemotherapy infusion, and for 30 minutes after completion of each taxane infusion. Patients may also undergo collection of blood, serum and plasma samples during screening and on study.
+
+ARM 2: Patients undergo continuous compression (moderate, steady pressure to the arms and legs) for 30-minutes pre-taxane chemotherapy infusion, during taxane chemotherapy infusion, and for 30 minutes after completion of each taxane infusion. Patients may also undergo collection of blood, serum and plasma samples during screening and on study.
+
+ARM 3: Patients undergo low cyclic compression (low pressure that comes and goes to the arms and legs) for 30-minutes pre-taxane chemotherapy infusion, during taxane chemotherapy infusion, and for 30 minutes after completion of each taxane infusion. Patients may also undergo collection of blood, serum and plasma samples during screening and on study.

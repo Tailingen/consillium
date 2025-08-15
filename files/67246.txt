@@ -1,0 +1,15 @@
+Signature Development and Validation Protocol for an Epigenetic Assay in Diagnosing Lung Cancer
+The purpose of this research study is to test a new process for diagnosing lung cancer by examining changes to your DNA that can be detected from a blood test. The information we learn by doing this study could potentially help people in the future.
+
+Participants in this study will have blood samples collected, have their medical records reviewed by study personnel and fill out questionnaires at different time points during the study. Blood sample collection will occur during normal routine clinic visits. Participation in this study will last approximately 5 years.
+Lung Cancer|Lung Cancer Screening|Healthy Volunteers (HV)|Unhealthy Volunteers
+OTHER: Epigenetic Signature Assay
+Identification of tumor-associated host methylation signature, Genome-wide methylation profile of whole blood from lung cancer patients, pre-cancer patients, patients undergoing therapy, and control subjects., 5 years|Technology development, The investigators will develop array-based assays using whole-blood samples, focused on disease-specific methylation sites to provide early diagnosis, prognosis, and therapeutic efficacy prediction., 5 years|Technology validation, The investigators will validate identified blood-based circulating methylation signatures in patients with undiagnosed pulmonary nodules., 1 year
+EORTC QLQ-C30 Questionnaire, The EORTC QLQ-C30 questionnaire is a 30-item instrument meant to assess some of the different aspects that define the quality of life of cancer patients., 5 years|EORTC QLQ-LC13 Questionnaire, The EORTC QLQ-LC13 Questionnaire covers 13 typical symptoms of lung cancer patients., 5 years|SF-36v2 Questionnaire, The SF-36v2 questionnaire measures generic health concepts relevant across age, disease and treatment groups., 5 years
+This clinical testing research study outlines the validation process for an epigenetic assay targeting host peripheral blood cell and the associated host DNA methylation signatures designed to diagnose lung cancer. The overall protocol process will involve three distinct stages representing three patient cohorts with up to 250 subjects per cohort across 5 populations of patients. Cohort one will act as signature development phase; cohort two will act as signature finalization phase; and cohort three will act as a validation cohort phase. Each cohort will include the following patient populations with up to 50 patients per population:
+
+1. Lung cancer; No chemotherapy. Surgical resection or stereotactic body radiation therapy (SBRT) only
+2. Lung cancer; With chemotherapy. All stages including remission
+3. At risk group (Lung cancer screening population)
+4. Control group with mixed comorbid disease EXCLUDING tobacco use of greater than 10 pack years (PY) or chronic obstructive pulmonary disease (COPD)
+5. Healthy controls with no comorbid disease

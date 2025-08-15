@@ -1,0 +1,30 @@
+CD19 T-CAR for Treatment of Children and Young Adults With r/r B-ALL
+The purpose of this study is to evaluate the safety and efficiency of autologous CD19 CAR-T lymphocytes in a cohort of pediatric and young adult patients with relapsed /refractory B-lineage acute lymphoblastic leukemia
+B-cell Acute Lymphoblastic Leukemia|Acute Lymphocytic Leukemia, Pediatric
+BIOLOGICAL: Chimeric Antigen Receptor T-Cell Therapy|DRUG: Fludarabine|DRUG: Cyclophosphamide|DRUG: Tocilizumab|DRUG: Cytarabine|DRUG: Etoposide|DRUG: Dexamethasone
+Incidence of grade 3-5 SAE occurring within 30 days of CD19CAR T-cell infusion, incidence of grade 3-5 SAE according to the Common Terminology Criteria for Adverse Events (CTCAE) version 4.03 occurring within 30 days of CD19CAR T-cell infusion, 1 month|Incidence of grade 3-4 Severe Cytokine Release Syndrome following CD19 CAR T-cell infusion, incidence of grade 3-4 Severe Cytokine Release Syndrome, 1 month|Incidence of grade 3-5 neurotoxicity occurring within 30 days of CD19 CAR T-cell infusion, incidence of grade 3-5 neurotoxicity according to the Common Terminology Criteria for Adverse Events (CTCAE) version 4.03 occurring within 30 days of CD19 CAR T-cell infusion, 1 month|Proportion of patients in MRD-negative remission, Proportion of patients in MRD-negative remission among all enrolled patients, 1 month|Proportion of patients in hematologic remission, Proportion of patients in hematologic remission among all patients with morphological disease (NO CR) at enrollment, 1 months
+Duration of MRD-negative remission, Duration of MRD-negative remission, 2 years|Persistence/frequency of CD19 CAR T lymphocytes in peripheral (FC+qPCR), Persistence/frequency of CD19 CAR T lymphocytes in peripheral (FC+qPCR), 2 years|Duration of B-cell aplasia, Duration of B-cell aplasia and hypogammaglobulinemia, time 0 - day of CD19-CAR T cells infusion, 5 years|Overall survival, the probability of survival, time 0 - day of CD19-CAR T cells infusion, 5 years
+The main objectives of the study are:
+
+1. To investigate the safety of auto-CD19 CAR T-cells therapy among children and young adults with refractory/relapsed B-cell ALL on the basis of prospective evaluation of adverse affects frequency and severity according to CTCAE v.4
+2. To study the efficacy of auto-CD19 CAR T-cells therapy among children and young adults with refractory/relapsed B-cell ALL on the basis of proportion of patients in haematological and molecular remission at 28 days after infusion.
+3. To evaluate long-term efficacy of auto-CD19 CAR T-cells therapy among children and young adults with refractory/relapsed B-cell ALL on the basis of overall and event-free survival at 1 and 3 years after infusion.
+
+The novelty of this study will be cytokine release syndrome prophylaxis by tocilizumab Patients will receive fludarabine 120 mg/m2 (totally) intravenously (IV) over 30 minutes on days -5 to -2 and cyclophosphamide 750 mg/m2 IV over 60 minutes on day -2. One hour prior to infusion of CAR T-cells patients will receive tocilizumab IV 8 mg/kg (max 800 mg) over 1 hour. Patients then receive CD19-CAR T cells IV over 20-30 minutes on day 0.
+
+This is a dose-escalation study of CD19-CAR T cells. Dose escalation consistently:
+
+* Level 1 5х105/kg CD19 CAR-T lymphocytes
+* Level 2 1х106/kg CD19 CAR-T lymphocytes
+* Level 3 3х106/kg CD19 CAR-T lymphocytes
+* Level 0 1х105/kg CD19 CAR-T lymphocytes (in case of dose-limiting toxicity at dose Level 1) In case of severe side affects next dose will be reduced to the previous lower dose.
+
+Based on interim analysis the following dosing approach based on stratification by the initial leukemia burden will be implemented starting November 2019:
+
+• Patients with low disease burden (\<15% blast cells in BM) will receive a lymphodepletion chemotherapy of fludarabine IV (total dose 120mg/m2) and cyclophosphamide IV (total dose 750mg/m2) over 5 days.
+
+CD19 CAR-T cells will be infused IV in dose 1x106/kg on day 0.
+
+• Patients will high disease burden (\>15% blast cells in BM) will receive a lymphodepletion chemotherapy of fludarabine IV (total dose 120 mg/m2), cyclophosphamide IV (total dose 750 mg/m2), cytarabine IV (total dose 900 mg/m2), etoposide IV (total dose 450 mg/m2), dexamethasone IV (total dose 30 mg/m2) over 5 days.
+
+CD19 CAR-T cells 1st dose will be infused IV on day 0 - 0,1x106/kg, 2nd dose will be infused IV between day 7 and 14 - 0,9x106/kg.

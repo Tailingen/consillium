@@ -1,0 +1,32 @@
+Cabozantinib or Paclitaxel in Treating Patients With Persistent or Recurrent Epithelial Ovarian, Fallopian Tube, or Primary Peritoneal Cavity Cancer
+This randomized phase II trial studies how well giving cabozantinib-s-malate or paclitaxel works in treating patients with persistent or recurrent epithelial ovarian, fallopian tube, or primary peritoneal cavity cancer. Cabozantinib-s-malate may stop the growth of tumor cells by blocking some of the enzymes needed for cell growth. Drugs used in chemotherapy, such as paclitaxel, work in different ways to stop the growth of tumor cells, either by killing the cells or by stopping them from dividing. It is not yet known whether cabozantinib-s-malate or paclitaxel is more effective at treating patients with persistent or recurrent epithelial ovarian, fallopian tube, or primary peritoneal cavity cancer.
+Recurrent Fallopian Tube Carcinoma|Recurrent Ovarian Carcinoma|Recurrent Primary Peritoneal Carcinoma
+DRUG: Cabozantinib S-malate|OTHER: Laboratory Biomarker Analysis|DRUG: Paclitaxel
+Event Free Survival, Time from patient entry until progression, death, or beginning a subsequent therapy. Per Response Evaluation Criteria In Solid Tumors Criteria (RECIST v1.0) for target lesions and assessed by MRI: Complete Response (CR), Disappearance of all target lesions; Partial Response (PR), \>=30% decrease in the sum of the longest diameter of target lesions; Overall Response (OR) = CR + PR.",, The duration of time from study entry to time to progression or death,or begining a subsequent therapy, whichever occurs first, assessed up to 32 weeks
+Number of Participants With Grade 3 or Higher Adverse Events by Type, Toxicities will be characterized by their frequency and severity, grade 3 and above., Up to 30 days after completion of study treatment|Response, Assessed According to RECIST Version 1.1, Complete and Partial Tumor Response by RECIST. Per Response Evaluation Criteria In Solid Tumors Criteria (RECIST v1.1) for target lesions and assessed by MRI: Complete Response (CR), Disappearance of all target lesions; Partial Response (PR), \>=30% decrease in the sum of the longest diameter of target lesions; Overall Response (OR) = CR + PR, CT or MRI used to follow lesion every 8 weeks for the first 8 months, then every 12 weeks until disease progression, approximately 2.5 years|Percentage of Participants With CA125 Response., Complete and Partial Tumor Response by CA125. Per Response Evaluation Criteria In Solid Tumors Criteria (RECIST v1.0) for target lesions and assessed by MRI: Complete Response (CR), Disappearance of all target lesions; Partial Response (PR), \>=30% decrease in the sum of the longest diameter of target lesions; Overall Response (OR) = CR + PR.",, Prior to each cycle of treatment. Then follow-up every 3 months for 2 years then then every 6 months, up to 2.5 years.|Overall Survival, The time from randomization until death or date of last contact. Endpoint is death. Patients who are not observed with an endpoint are censored., The duration of time from study entry to time of death or the date of last contact, an average of 2.5 years.|To Estimate the Response Duration Among Patients Who Respond., The time participant is in response.Per Response Evaluation Criteria In Solid Tumors Criteria (RECIST v1.0) for target lesions and assessed by MRI: Complete Response (CR), Disappearance of all target lesions; Partial Response (PR), \>=30% decrease in the sum of the longest diameter of target lesions; Overall Response (OR) = CR + PR.",, From the time measurement criteria are met for CR or PR until the first date that recurrent or progressive disease is objectively documented or date of death from any cause, whichever came first, assessed up to 18 months.
+c-Met Expression, Baseline|c-MET Copy Number, Baseline
+PRIMARY OBJECTIVES:
+
+I. To assess the activity of cabozantinib (cabozantinib-s-malate) relative to weekly paclitaxel in patients with persistent or recurrent ovarian, fallopian tube, or primary peritoneal cancer with a log-rank test assessing progression-free survival (PFS) at 3.68 months (approximately pre-cycle 5) and 7.36 months (approximately pre-cycle 9).
+
+SECONDARY OBJECTIVES:
+
+I. To determine the frequency and severity of adverse events as assessed by Common Terminology Criteria for Adverse Events (CTCAE).
+
+II. To estimate and compare the proportion of patients responding to therapy by Response Evaluation Criteria for Solid Tumors (RECIST), cancer antigen 125 (CA125) response, the overall survival (OS), and the duration of response in each arm.
+
+TERTIARY OBJECTIVES:
+
+I. To retrospectively correlate c-met proto-oncogene (MET) expression with overall outcome.
+
+II. To retrospectively correlate c-MET copy number with overall outcome.
+
+OUTLINE: Patients are randomized to 1 of 2 treatment arms.
+
+ARM I: Patients receive cabozantinib-s-malate orally (PO) once daily (QD) on days 1-28.
+
+ARM II: Patients receive paclitaxel intravenously (IV) over 1 hour on days 1, 8, and 15.
+
+In both arms, courses repeat every 28 days in the absence of disease progression or unacceptable toxicity.
+
+After completion of study treatment, patients are followed up every 3 months for 2 years and then every 6 months for 3 years.

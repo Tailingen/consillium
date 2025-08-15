@@ -1,0 +1,66 @@
+Targeted Treatment for Metastatic Prostate Cancer, The PREDICT Trial
+This phase II trial evaluates whether genetic testing in prostate cancer is helpful in deciding which study treatment patients are assigned. Patient cancer tissue samples are obtained from a previous surgery or biopsy procedure and tested for deoxyribonucleic acid (DNA) and ribonucleic acid (RNA) abnormalities or mutations in their cancer. Valemetostat tosylate is in a class of medications called EZH1/EZH2 inhibitors. It blocks proteins called EZH1 and EZH2, which may help slow or stop the spread of tumor cells. Carboplatin is in a class of medications known as platinum-containing compounds. It works in a way similar to the anticancer drug cisplatin, but may be better tolerated than cisplatin. Carboplatin works by killing, stopping or slowing the growth of tumor cells. Cabazitaxel injection is in a class of medications called microtubule inhibitors. It works by slowing or stopping the growth of tumor cells. Abiraterone acetate blocks tissues from making androgens (male hormones), such as testosterone. This may cause the death of tumor cells that need androgens to grow. It is a type of anti-androgen. Enzalutamide is in a class of medications called androgen receptor inhibitors. It works by blocking the effects of androgen (a male reproductive hormone) to stop the growth and spread of tumor cells. Lutetium Lu 177 vipivotide tetraxetan is in a class of medications called radiopharmaceuticals. It works by targeting and delivering radiation directly to tumor cells which damages and kills these cells. Assigning patients to targeted treatment based on genetic testing may help shrink or slow the cancer from growing
+Castration-Resistant Prostate Carcinoma|Stage IVB Prostate Cancer AJCC v8
+OTHER: Genetic testing|DRUG: Valemetostat Tosylate|PROCEDURE: Magnetic Resonance Imaging|PROCEDURE: Computed Tomography|PROCEDURE: Bone scan|PROCEDURE: FDG-Positron Emission Tomography|PROCEDURE: PSMA PET Scan|PROCEDURE: Biospecimen Collection|DRUG: Carboplatin|DRUG: Cabazitaxel|DRUG: Abiraterone Acetate|DRUG: Enzalutamide|DRUG: Lutetium Lu 177 Vipivotide Tetraxetan
+Objective Response, Objective response is defined by modified Response Evaluation Criteria in Solid Tumors (RECIST) 1.1 and Prostate Cancer Working Group 3 (PCWG3) for patients with measurable disease., Within 6 months from the start of treatment
+Radiographic Progression Free Survival (rPFS), Radiographic progression is defined by PCWG-3 for patients with bone metastases and modified RECIST 1.1 criteria for patients with soft tissue metastases. The 9-month radiographic progression-free proportion will be estimated by treatment arm, where patients who withdraw from study after the start of treatment but prior to nine months of follow-up will be counted as failures. rPFS will be calculated from registration date under progression or death by any cause, censoring event-free patients at the date of last disease evaluation. Will be estimated in each treatment arm using the Kaplan-Meier method., From initiation of treatment up to 9 months|Overall Survival, Will be calculated from registration date until death due to any cause, censoring event-free patients at the date of last contact. Will be estimated in each treatment arm using the Kaplan-Meier method., Up to 5 years after study registration|Duration of Response, Will be estimated according to RECIST v1.1 for patients with measurable disease in each treatment arm using the cumulative incidence function., Up to 5 years after study registration|Prostate-specific antigen response, Defined as greater than or equal to 50% decline in PSA from baseline using PCWG-3 criteria. Will be estimated as a proportion in each treatment arm., Through treatment completion, an average of one year|Time to systematic skeletal events, A skeletal related event is defined as the use of external beam radiotherapy to relieve skeletal symptoms or the occurrence of new symptomatic pathological bone fractures (vertebral or non-vertebral) or the occurrence of spinal cord compression or a tumor related orthopedic surgical intervention. Will be estimated in each treatment arm using the cumulative incidence function., Up to 5 years after registration|Time to subsequent anti-cancer therapy, Defined as time from registration to first subsequent anti-cancer therapy or death, censoring event-free patients at date of last follow-up. Will be estimated in each treatment arm using the cumulative incidence function., Up to 5 years after registration|Rate of Grade 3+ AEs, Will be collected and graded according ot the NCI CTCAE v5.0 criteria and per PRO-CTCAE., Up to 6 months after completion of study treatment
+National Cancer Institute PRO-CTCAE™ data, Will evaluate patient scores relative to clinician graded AEs., Up to 5 years after completion of study treatment
+The primary and secondary objectives of the study:
+
+PRIMARY OBJECTIVE:
+
+I. Evaluate objective response rate in patients with measurable disease by Response Evaluation Criteria in Solid Tumors (RECIST) version 1.1 for measurable disease, in each treatment arm.
+
+SECONDARY OBJECITVES:
+
+I. To determine safety and tolerability as determined by Common Terminology Criteria in Adverse Events (CTCAE) version 5.0 in each treatment arm.
+
+II. To evaluate 9-month radiographic progression free survival in each arm as defined by Prostate Cancer Clinical Trials Working Group 3 (PCWG-3) for patients with bone metastases and RECIST version 1.1 for patients with measurable disease.
+
+III. To evaluate radiographic progression free survival in each arm as defined by PCWG-3 for patients with bone metastases and RECIST version 1.1 for patients with measurable disease.
+
+IV. To evaluate prostate-specific antigen (PSA) response defined as ≥ 50% decline in PSA from baseline using PCWG-3 criteria in patients in each treatment arm.
+
+V. To evaluate time to PSA progression as defined by PCWG-3 criteria in patients in each treatment arm.
+
+VI. To evaluate time to occurrence of first symptomatic skeletal event. VII. To evaluate time to first subsequent anti-cancer therapy (including androgen receptor signaling agents, cytotoxic chemotherapy, immunotherapy, or investigational agents) or death.
+
+VIII. To evaluate overall survival, defined as time from registration to death due to any cause censored at the date of last follow-up, in each treatment arm.
+
+IX. To evaluate patient-reported outcomes (PRO) via Patient-Reported Outcomes (PRO)-CTCAE in each treatment arm.
+
+X. To evaluate duration of response as defined by RECIST version 1.1 for patients with measurable disease.
+
+CORRELATIVE OBJECTIVES:
+
+I. Correlate presence of molecular abnormalities with baseline clinical characteristics.
+
+II. Evaluate co-occurring molecular alterations within each biomarker arm. III. Evaluate mechanisms of response and resistance using available tissue (archival or baseline) and circulating cell free tumor DNA (cfDNA) and circulating tumor cells (CTCs) at baseline, on treatment, and at progression.
+
+IV. Evaluate efficacy parameters (objective response rate \[ORR\], PSA response, 9-month radiographic progression-free survival \[rPFS\], rPFS) based on arm allocation by:
+
+IVa. DNA versus RNA qualifying molecular alterations; IVb. Blood versus tissue-based qualifying molecular alteration; IVc. Primary versus metastasis qualifying molecular alteration.
+
+V. Evaluate efficacy parameters (ORR, PSA response, 9-month rPFS, rPFS) based on the following clinical parameters:
+
+Va. Presence or absence of visceral metastases at baseline; Vb. Number of prior lines of therapy for metastatic castration resistant cancer (mCRPC) (one versus \&gt; 1); Vc. In patients having had prior exposure to taxane chemotherapy; Vd. Presence or absence of neuroendocrine differentiation at baseline. VI. Evaluate exceptional responders (defined as those with rPFS ≥ 18 months) and exceptional non-responders.
+
+VII. To determine how circulating biomarker quantification correlates with clinical features and outcomes.
+
+VIII. To determine the clinical impact of lineage plasticity alterations in predicting outcomes and response to therapy.
+
+EXPLORATORY OBJECTIVE:
+
+I. To compare patient-assessed adverse events via PRO-CTCAE™ with clinician-assessed adverse events in each treatment arm.
+
+OUTLINE: Patients undergo genetic testing on previously-collected tissue samples. Patients are then assigned to 1 of 3 arms based on genetic testing results and Molecular Tumor Board (MTB) decision.
+
+ARM A: Patients receive valemetostat tosylate orally (PO) once daily (QD) on days 1-28 of each cycle. Cycles repeat every 28 days in the absence of disease progression or unacceptable toxicity.
+
+ARM B: Patients receive carboplatin intravenously (IV) over 30 minutes and cabazitaxel IV over 60 minutes on day 1 of each cycle. Cycles repeat every 21 days in the absence of disease progression or unacceptable toxicity.
+
+ARM C: Patients receive one of the following treatment regimens per treating physician: 1) Cabazitaxel IV over 60 minutes on day 1 of each cycle. Cycles repeat every 21 days in the absence of disease progression or unacceptable toxicity. 2) Abiraterone acetate PO QD on days 1-28 of each cycle and prednisone PO twice daily (BID) on days 1-28 of each cycle. Cycles repeat every 28 days in the absence of disease progression or unacceptable toxicity. 3) Enzalutamide PO QD on days 1-28 of each cycle. Cycles repeat every 28 days in the absence of disease progression or unacceptable toxicity. 4) Lutetium Lu 177 vipivotide tetraxetan IV on day 1 of each cycle. Treatment repeats every 42 days for up to 6 cycles in the absence of disease progression or unacceptable toxicity.
+
+All patients also undergo magnetic resonance imaging (MRI) or computed tomography (CT) and bone scan throughout the trial. Patients may also undergo optional fludeoxyglucose F-18 (FDG) or prostate-specific membrane antigen (PSMA) positron emission tomography (PET), as well as optional blood collection throughout the trial.
+
+After completion of study treatment, patients without disease progression are followed every 2 months for the first 6 months and then every 3 months after that for up to 5 years. Patients with disease progression are followed every 6 months for 5 years.

@@ -1,0 +1,25 @@
+A Study of Bemarituzumab (FPA144) Combined With Modified FOLFOX6 (mFOLFOX6) in Gastric/Gastroesophageal Junction Cancer
+The main objective of the Phase 2 part of the study is to evaluate the efficacy of bemarituzumab (FPA144), a targeted antibody, in combination with modified FOLFOX6 compared to placebo in combination with modified FOLFOX6 in participants with advanced gastrointestinal cancer.
+Gastric Cancer
+BIOLOGICAL: Bemarituzumab|DRUG: Placebo|DRUG: Modified FOLFOX6
+Progression-Free Survival (PFS), PFS was defined as time from randomization until the date of radiographic disease progression based on investigator assessment using Response Evaluation Criteria in Solid Tumors (RECIST) version 1.1 or death from any cause, whichever came first. PFS was analyzed using Kaplan-Meier methods. Participants with no progression or death, or who started new anticancer therapy before documented progression or death without documented progression, or who had ≥ 2 consecutive missing tumor assessments before documented progression or death without documented progression were censored on the date of last adequate tumor assessment. Participants with no baseline tumor assessment, were censored at the date of randomization.
+
+The primary efficacy analysis was pre-specified to be conducted after at least 84 PFS events were observed., From randomization until the primary analysis data cut-off date of 23 September 2020; median time on follow-up was 10.9 months.
+Overall Survival (OS), OS is defined as time from randomization until death from any cause. Participants who were lost to follow-up or did not have a date of death were censored at the last date that they were known to be alive. Participants with confirmed death or alive status after the data cutoff date were censored at the data cutoff date. Median OS was estimated using a Kaplan-Meier analysis., From randomization until the primary analysis data cut-off date of 23 September 2020; median time on follow-up was 10.9 months.|Overall Response Rate (ORR), Tumor response assessment was performed by the investigator per Response Evaluation Criteria in Solid Tumors (RECIST) v1.1 guidelines. ORR is defined as the percentage of participants who achieved a best overall response (BOR) of either complete response (CR) or partial response (PR) based on investigator assessment of tumor lesions per RECIST v1.1.
+
+CR was defined as the disappearance of all lesions except lymph node short axis \< 10 mm; PR was defined as a ≥ 30% reduction in sum of diameters in target lesions., Tumor assessments were performed every 8 weeks until 12 months and then every 12 weeks thereafter until disease progression or additional anticancer therapy was initiated; the median duration of follow-up time was 10.9 months.|Number of Participants With Treatment-emergent Adverse Events (TEAEs), TEAEs are defined as adverse events (AEs) that started or worsened from the start of study drug to 28 days after permanent discontinuation of study drug.
+
+A serious AE is defined as any untoward medical occurrence that:
+
+* Resulted in death;
+* Was life-threatening;
+* Required inpatient hospitalization or prolongation of existing hospitalization;
+* Resulted in persistent or significant disability or incapacity;
+* Was a congenital anomaly or birth defect.
+
+The investigator assessed the causality/relationship between study treatment and each AE, and assessed the severity of each AE according to the National Cancer Institute Common Toxicity Criteria for Adverse Events (NCI-CTCAE), version 5.0 on a scale from mild (Grade 1), moderate (Grade 2), severe (Grade 3), life-threatening (Grade 4), or death due to the AE (Grade 5). Cornea and retina AEs were defined by Standardized Medical Dictionary for Regulatory Activities Queries (SMQs) of corneal disorders and retinal disorders (broad)., From first dose of study drug to 28 days after last dose of study drug. Actual median (min, max) duration of treatment emergent period was 29 (4.1, 157) weeks in the bemarituzumab + mFOLFOX6 group and 28 (4.3, 133) weeks in the placebo + mFOLFOX6 group.
+Study FPA144-004 is a phase 1/2, multicenter, global, double-blind, randomized, controlled study designed to evaluate the safety, tolerability, efficacy, and pharmacokinetics (PK) of bemarituzumab in combination with mFOLFOX6, compared with placebo in combination with mFOLFOX6, in adults with unresectable, locally advanced, or metastatic gastric cancer including cancer of the gastroesophageal junction (GEJ).
+
+This study includes a Phase 1 safety run-in portion and a Phase 2 portion. The Phase 1 safety run-in is an open-label dose-escalation of bemarituzumab + mFOLFOX6 in patients with GI tumors (not FGFR2 selected) that is reported separately (NCT03343301).
+
+The Phase 2 portion of the study (to follow the Phase 1 safety run-in) is described in this record.

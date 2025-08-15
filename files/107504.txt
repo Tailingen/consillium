@@ -1,0 +1,17 @@
+Myeloid Cell Reprogramming in Thyroid Carcinoma
+This study investigates the reprogramming of myeloid cells in patients with thyroid carcinoma. The investigators hypothesize that tumor-derived factors change the function of myeloid cells (peripheral blood and bone marrow-derived) in such a way that these immune cells promote tumor growth rather than combat the tumor.
+Thyroid Cancer
+Transcriptional reprogramming of myeloid cells, RNAseq, baseline|Epigenetic reprogramming of myeloid cells, ATAC-seq, baseline|Functional reprogramming of myeloid cells, Cytokine response, baseline
+Metabolites, Presence and level metabolites, baseline|Change of reprogramming after RAI treatment, RNAseq, baseline and 7 days after RAI treatment
+Description of the problem:
+
+Non-medullary thyroid carcinoma (TC) is the most common endocrine malignancy and its incidence is one of the most rapidly increasing among the cancer types. For many patients with advanced and poorly differentiated tumors, treatment options are limited and the prognosis of advanced stage metastatic disease remains poor.
+
+Envisioned solution/research direction:
+
+To improve the patients outcome and identify novel therapeutic targets, one needs a 'systems understanding' of the pathophysiology of tumors, particularly the complex interaction of the malignant cells with other cell types in the tumor en the tumor environment (TME), especially immune cells. Tumor-associated macrophages (TAMs), the most dominant myeloid population in aggressive thyroid tumors, exhibit a distorted phenotype functioning predominantly as tumor enhancer. Despite the progress in understanding the importance of TAMs, the in-depth characterization of different TAMs populations is lacking and the mechanisms governing the functional polarization of TAMs are largely unknown. Understanding the interplay between TAMs and tumor cells represents a crucial step towards development of additional therapeutic strategies in cancer.
+
+Hypothesis:
+
+1. We first propose that in advanced TC, not only TAMs, but also circulating monocytes and bone marrow (BM) myeloid progenitors are functionally reprogrammed by tumor-derived factors even before their recruitment in the TME.
+2. Radioactive iodide (I131)(RAI) is a very effective therapy for patients with TC, but is less effective in patients with advanced, metastatic tumors. We hypothesize that by exposing tumor antigens to the immune system, RAI might induce immunogenic effects at the level of the TME with reprogramming of both TAMs present in the TME and circulating monocytes, towards a tumor suppressive phenotype. This may further potentiate the effects of RAI. In addition this could be explored in the future as a basis for immunotherapy for tumors that are refractory to conventional treatment.

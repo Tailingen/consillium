@@ -1,0 +1,27 @@
+Temsirolimus in Treating Patients With Metastatic Solid Tumor or Lymphoma That Cannot Be Removed By Surgery Who Have Different Levels of Liver Function
+This phase I trial is studying the side effects and best dose of temsirolimus in treating patients with metastatic solid tumor or lymphoma that cannot be removed by surgery who have different levels of liver function. Temsirolimus may stop the growth of cancer cells by blocking some of the enzymes needed for cell growth. Temsirolimus may have different effects in patients who have changes in their liver function
+Hepatic Complications|Lymphoma|Unspecified Adult Solid Tumor, Protocol Specific
+DRUG: temsirolimus|OTHER: laboratory biomarker analysis|OTHER: pharmacological study
+RD, defined as the highest dose level at which less than 33% of at least six patients experience DLT, 28 days
+PK profile of temsirolimus in patients with varying degrees of hepatic function, Days 1, 2, 4, 5, 8, 9, 11, 12, 15 of course 1|PD profile of temsirolimus as measured by drug effects on p70s6 kinase phosphorylation in PBMC, Days 1, 2, 4, and 8 course 1|Incidence of non-dose limiting toxicities, Up to 30 days|Antitumor efficacy, Up to 30 days
+PRIMARY OBJECTIVES:
+
+I. To evaluate the safety, tolerability, and to establish the maximum tolerated recommended dose (RD) CCI-779 (temsirolimus) in cohorts of patients with varying degrees of hepatic dysfunction (mild, moderate, and severe) in order to provide appropriate dosing recommendations for CCI-779 (temsirolimus) in this population.
+
+SECONDARY OBJECTIVES:
+
+I. To characterize the pharmacokinetic (PK) profile of CCI-779 (temsirolimus) in patients with varying degrees of hepatic function.
+
+II. To determine if the pharmacodynamic (PD) profile of CCI-779 (temsirolimus) as measured by drug effects on p70s6 kinase and p4EBP1 phosphorylation and other markers of mTOR inhibition in peripheral blood mononuclear cells (PBMC) is altered in patients with varying degrees of hepatic function.
+
+III. To document the non-dose limiting toxicities and any anti-tumor efficacy associated with administration of CCI-779 (temsirolimus) in this patient population.
+
+IV. To compare the NCI ODWG criteria and the Child-Pugh classification of hepatic dysfunction in terms of their predictive value in reducing interpatient variability in the PK and PD of CCI-779 (temsirolimus).
+
+OUTLINE: This is a dose-escalation, multicenter study. Patients are stratified according to hepatic function (normal vs mild dysfunction vs moderate dysfunction vs severe dysfunction vs liver transplant).
+
+Patients receive temsirolimus IV over 30 minutes on days 1, 8, 15, and 22. Courses repeat every 28 days in the absence of disease progression or unacceptable toxicity.
+
+Cohorts of 3-6 patients receive escalating doses of temsirolimus until the maximum tolerated dose (MTD) is determined. The MTD is defined as the dose preceding that at which 2 of 3 or 2 of 6 patients experience dose-limiting toxicity. Up to 12 patients are treated at the MTD.
+
+After completion of study treatment, patients are followed periodically for 30 days.

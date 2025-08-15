@@ -1,0 +1,33 @@
+Combination Chemotherapy and Donor Stem Cell Transplant in Treating Patients With Aplastic Anemia or Hematologic Cancer
+RATIONALE: Giving chemotherapy drugs and total-body irradiation before a donor stem cell helps stop the growth of cancer or abnormal cells. It may also stop the patient's immune system from rejecting the donor's stem cells. When the healthy stem cells from a donor are infused into the patient they may help the patient's bone marrow make stem cells, red blood cells, white blood cells, and platelets. It is not yet known which combination chemotherapy regimen is most effective when given before a donor stem cell transplant in treating aplastic anemia or hematologic cancer.
+
+PURPOSE: This phase II/III trial is studying different combination chemotherapy regimens to compare how well they work when given before donor stem cell transplant in treating patients with aplastic anemia or hematologic cancer.
+Chronic Myeloproliferative Disorders|Leukemia|Lymphoma|Myelodysplastic Syndromes|Myelodysplastic/Myeloproliferative Diseases|Nonmalignant Neoplasm|Unspecified Adult Solid Tumor, Protocol Specific|Unspecified Childhood Solid Tumor, Protocol Specific
+BIOLOGICAL: anti-thymocyte globulin|DRUG: busulfan|DRUG: carboplatin|DRUG: cyclophosphamide|DRUG: etoposide|DRUG: fludarabine phosphate|DRUG: melphalan|DRUG: thiotepa|RADIATION: total-body irradiation
+CR Rate, Rate of Complete Remission by Day +100, day 100
+Toxicity/TRM at Day 100, Death due to treatment related causes before day +100 after BMT, Day +100|4 Year PFS, progression free survival estimate at 4 years post BMT (events are disease progression/relapse and death due to any cause), 4 years|4 yr OS, Overall survival estimate at 4 years post BMT, 4-year
+OBJECTIVES:
+
+* Compare the morbidity, mortality, and overall outcome of patients with severe aplastic anemia or hematologic malignancy treated with standard vs novel conditioning regimens followed by allogeneic stem cell transplantation.
+* Examine the influence of donor histocompatibility on outcome by comparing matched/related, mismatched/related (with or without T-cell depletion), and matched/unrelated transplants with stratification for type of preparative regimen.
+* Ensure that patients with uncommon diagnoses will be treated in a uniform fashion with the best therapy available.
+
+OUTLINE: Patients are stratified according to risk of relapse (standard-risk: acute leukemia in first complete remission, chronic myelogenous leukemia in first chronic phase, lymphoma in sensitive first relapse or second remission, primary or untreated myelodysplastic syndromes, or untreated severe aplastic anemia vs high-risk: all others).
+
+Patients are assigned to one of the following conditioning regimens based on diagnosis, risk of relapse, and donor relatedness:
+
+* Regimen 1: Patients receive busulfan IV over 2 hours every 6 hours on days -7 to -4 and cyclophosphamide IV over 2 hours on days -3 and -2.
+* Regimen 2: Patients receive cyclophosphamide IV over 2 hours on days -5 to -2 and anti-thymocyte globulin IV over 4-8 hours on days -5 to -3.
+* Regimen 3: Patients receive cyclophosphamide IV over 2 hours on days -5 and -4 and total-body irradiation (TBI) twice daily on days -3 to -1.
+* Regimen 4: Patients receive fludarabine IV over 30 minutes on days -6 to -2 and melphalan IV over 1 hour on days -3 and -2.
+* Regimen 5: Patients receive etoposide IV over 26 hours beginning on day -5, cyclophosphamide IV over 2 hours on day -4, and TBI twice daily on days -3 to -1.
+* Regimen 6: Patients receive cyclophosphamide IV over 24 hours, carboplatin IV over 24 hours, and thiotepa IV over 24 hours on days -7 to -4.
+* Regimen 7: Patients receive fludarabine IV over 30 minutes on days -5 to -1 and anti-thymocyte globulin IV over 4-8 hours on days -5 to -2.
+* Regimen 8: Patients receive cyclophosphamide IV over 2 hours on days -5 and -4, TBI twice daily on days -3 to -1, and anti-thymocyte globulin IV over 4-8 hours on days -3 to -1.
+* Regimen 9: Patients receive busulfan IV over 2 hours every 6 hours and anti-thymocyte globulin IV over 4-8 hours on days -7 to -4 and cyclophosphamide IV over 2 hours on days -3 and -2.
+
+All patients then receive donor stem cell infusions on day 0. Some patients may undergo involved-field radiotherapy 4-8 weeks after transplant.
+
+Patients will be taken off study after a minimum of 4 years of follow up.
+
+PROJECTED ACCRUAL: At least 405 patients will be accrued for this study within 5 years.

@@ -1,0 +1,17 @@
+Haploidentical Allogeneic Transplant With Post-transplant Infusion of Regulatory T-cells
+Patients with hematologic malignancies will receive myeloablative chemotherapy followed by stem cell rescue with bone marrow or hematopoietic peripheral blood stem cells collected by apheresis from a filgrastim- (G-CSF)-mobilized haploidentical related-donor, ie, hematopoietic peripheral blood stem cell transplant (HSCT).
+Leukemia, Acute|Chronic Myelogenous Leukemia (CML)|Myelodysplastic Syndrome (MDS)|Non-Hodgkin Lymphoma (NHL)|Chronic Lymphocytic Leukemia (CLL)|Acute Myelogenous Leukemia (AML)|Acute Lymphoblastic Leukemia (ALL)
+DRUG: Regulatory T-cells|DRUG: Conventional T-cells|DRUG: Melphalan|DRUG: Thiotepa|DEVICE: Fludarabine|DRUG: Anti-thymocyte globulin, rabbit|DRUG: CliniMACS CD34 Reagent System
+Maximum-tolerated Dose (MTD) of Regulatory and Conventional T-cells, The maximum-tolerated dose (MTD) was to be determined based on the safety and feasibility observed for a pre-determined set of cellular dose level combinations of regulatory T-cells (T-reg) and conventional T-cells (T-con)., 30 days after HSCT infusion
+Acute Graft-versus-Host-Disease (aGvHD), The primary outcome was incidence of grade 3 or 4 acute graft-vs-host-disease (aGvHD), reported as the number of participants developing grade 3 or 4 aGvHD., 1 year|Overall Survival (OS), 1 Year, Assessed as subjects remaining alive 12 months after CD34+ cell infusion (ie, excludes death due to any cause), 1 year|Median Overall Survival (OS), Reported as the median overall survival (OS) in months from infusion of the hematopoietic stem cells (HSCT), 25 months|To Measure the Incidence and Severity of Acute and Chronic GvHD, Population of participants that received HSCT and T-reg plus T-con, and developed actue, chronic, or any graft vs host disease (GvHD), 1 year|Serious Infections, Serious infections are reported as the number of participants experienced serious infections., 1 year
+This is dose-escalation study intended to evaluate the use of classification determinant 15-positive (CD15+), CD4+, CD127dim, and FoxP3+ regulatory T-cells (T-reg cells) supplemented by conventional T-cells (T-con cells), to enhance the efficacy of allogeneic (CliniMACS CD34+ selected) hematopoietic stem cell transplantation (allo-HSCT), in the setting of leukemia, lymphoma, and myelodysplastic syndrome (MDS). This study investigates amelioration of the impaired immune recovery and address the significant relapse incidence in the haploidentical HSCT setting.
+
+Pre-transplant myeloablative conditioning will be melphalan; thiotepa; fludarabine and rabbit antithymocyte globulin (rATG).
+
+Stem cell rescue will be with CD34+ selected cells. The rescue infusion will be supplemented with infusions of regulatory T-cells (T-reg) and conventional T-cells (T-con) from the same donor collection, on Treatment Days 14 and 16 respectively. CD34+ cell infusion day is Treatment Day 0.
+
+T-reg cells are those cells enriched by immunomagnetic selection of CD25+ cells, and further purified by flow cytometric cell sorting for the CD15+, CD4+, CD127dim, FoxP3+ cell population. These cells are an enriched but naturally-occurring T-cell population.
+
+T-con cells are unseparated/unfractionated cells, ie, as collected by the peripheral blood stem cells apheresis procedure.
+
+Post-transplant follow-up is for 5 years.

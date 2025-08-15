@@ -1,0 +1,29 @@
+Low Dose Ipilimumab With Pembrolizumab in Treating Patients With Melanoma That Has Spread to the Brain
+This phase II trial studies the side effects and how well low dose ipilimumab works in combination with pembrolizumab in treating patients with melanoma that has spread to the brain. Immunotherapy with monoclonal antibodies, such as ipilimumab and pembrolizumab, may help the body's immune system attack the cancer, and may interfere with the ability of tumor cells to grow and spread.
+Clinical Stage IV Cutaneous Melanoma AJCC v8|Metastatic Malignant Neoplasm in the Brain|Metastatic Melanoma|Pathologic Stage IV Cutaneous Melanoma AJCC v8
+BIOLOGICAL: Ipilimumab|BIOLOGICAL: Pembrolizumab
+Clinical benefit rate (CBR), CBR rate will be estimated along with a corresponding 95% credible interval by cohort., Up to 1 year
+Overall survival (OS), OS will be assessed using the Kaplan-Meier method. Associations between OS and PFS and demographic and clinical covariates of interest will be assessed by Cox proportional hazards regression models., From the start of first treatment to death, assessed up to 1 year|Progression-free survival (PFS), PFS will be assessed using the Kaplan-Meier method. Associations between OS and PFS and demographic and clinical covariates of interest will be assessed by Cox proportional hazards regression models., From start of first treatment to disease progression or death, assessed up to 1 year|Cytokine levels, Will be summarized using means, standard deviations, medians, minimums, and maximums. Within group changes will be evaluated using either paired t-test or Wilcoxon signed rank test, depending on the data distribution., Up to 1 year|Changes in the T-cell population in the cerebrospinal fluid (CSF) and blood, Will be summarized using means, standard deviations, medians, minimums, and maximums. Within group changes will be evaluated using either paired t-test or Wilcoxon signed rank test, depending on the data distribution., Baseline up to 1 year|Change in relative apparent diffusion coefficient and circulating cell-free deoxyribonucleic acid (cfDNA) by CBR (yes versus no), Will be evaluated by either two sample t-test or Wilcoxon rank-sum test, depending on the data distribution., Baseline up to 1 year|Incidence of adverse events and serious adverse events, Will be graded according to the National Cancer Institute Common Terminology Criteria for Adverse Events version 4.03. Safety will be assessed by adverse events and serious adverse events as well as by vital signs and laboratory assessments for all patients., Up to 1 year
+PRIMARY OBJECTIVE:
+
+I. To assess clinical benefit rate (CBR), defined as complete response (CR) + partial response (PR) + stable disease (SD) \> 6 months, in the brain in subjects with melanoma brain metastasis (MBM) per modified Response Evaluation Criteria in Solid Tumors (RECIST) 1.1 criteria who are treatment naive to anti-PD-1 agents in the metastatic setting (prior adjuvant anti-PD1 allowed).
+
+SECONDARY OBJECTIVES:
+
+I. To assess clinical benefit rate (CBR) in the brain in subjects with MBM per modified RECIST 1.1 in patients who previously progressed on PD-1 inhibitors.
+
+II. To assess overall survival (OS) and progression free survival (PFS). III. To evaluate the brain-specific safety and tolerability of the combination regimen in subjects with or without stereotactic radiotherapy (SRT) received prior to study entry, or on study.
+
+IV. To evaluate cytokine levels and changes in the T-cell population in the cerebrospinal fluid (CSF) and blood in patients treated with combination low dose ipilimumab and pembrolizumab.
+
+V. To assess changes in relative apparent diffusion coefficient as measured by magnetic resonance imaging (MRI) as an early predictor of response.
+
+VI. To assess changes in circulating cfDNA (cell-free deoxyribonucleic acid) as determinants of response and/or markers of early progression.
+
+VII. To evaluate molecular and immunological changes in extracranial lesions.
+
+OUTLINE:
+
+Patients receive ipilimumab intravenously (IV) over 90 minutes and pembrolizumab IV over 30 minutes on day 1. Treatment repeats every 3 weeks for up to 4 cycles for ipilimumab and up to 35 cycles for pembrolizumab in the absence of disease progression or unacceptable toxicity.
+
+After completion of study treatment, patients are followed up at 30 days, every 6 weeks for the first year, and then every 12 weeks thereafter.

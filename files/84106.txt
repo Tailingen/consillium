@@ -1,0 +1,21 @@
+Biomarkers in Predicting Treatment Response to Sirolimus and Chemotherapy in Patients With High-Risk Acute Myeloid Leukemia
+This pilot phase II trial studies whether biomarkers (biological molecules) in bone marrow samples can predict treatment response to sirolimus and chemotherapy (mitoxantrone hydrochloride, etoposide, and cytarabine \[MEC\]) in patients with acute myeloid leukemia (AML) that is likely to come back or spread (high-risk). Sirolimus inhibits or blocks the pathway that causes cancer cells to grow. Adding sirolimus to standard chemotherapy may help improve patient response. Studying samples of bone marrow from patients treated with sirolimus in the laboratory may help doctors learn whether sirolimus reverses or turns off that pathway and whether changes in biomarker levels can predict how well patients will respond to treatment.
+Recurrent Adult Acute Myeloid Leukemia|Secondary Acute Myeloid Leukemia|Untreated Adult Acute Myeloid Leukemia
+DRUG: Sirolimus|DRUG: Mitoxantrone|DRUG: Etoposide|DRUG: Cytarabine
+Biochemical response, Defined by change in phosphorylated ribosomal protein S6 (pS6) positive blasts, measured as the % reduction in pS6 positive blasts from baseline to day 4. Biochemical response will be described by mean, median, standard deviation, range and coefficient of variation. The association between biochemical response and clinical response will be tested by Fisher's exact test., Baseline to day 4|Clinical response, Based on hematologic recovery/day 45 marrow assessed according to International Working Group (IWG) criteria. The association between biochemical response and clinical response will be tested by Fisher's exact test., Day 45|Incidence of adverse events, Recorded and graded per National Cancer Institute Common Terminology Criteria for Adverse Events version 4.0. Worse toxicity grades observed during treatment will be described. Toxicities will be graded and tabled., Up to day 45
+Overall response rate (ORR) (complete response [CR], CR with incomplete platelet recovery [CRp], or partial response), Fraction of patients who achieve CR, CRp, or PR will be assessed. ORR and 95% exact confidence interval will be computed for all patients and for sensitive and resistant subgroups., Day 45|Relapse free survival (RFS), RFS will be estimated by the Kaplan-Meier method. A landmark analysis of RFS by clinical response (CR+CRp, CRi, PR or no response \[NR\]) will be computed from day 45 marrow assessment. Median values and 95% confidence intervals will be calculated., Time from study entry to first documented progression, death, or last contact, assessed up to 2 years|Overall survival (OS), OS will be estimated by the Kaplan-Meier method. A landmark analysis of RFS by clinical response (CR+CRp, CRi, PR or NR) will be computed from day 45 marrow assessment. Median values and 95% confidence intervals will be calculated., Time from study entry to death or last contact, assessed up to 2 years
+PRIMARY OBJECTIVES:
+
+I. To test the association between biochemical response and clinical response.
+
+SECONDARY OBJECTIVES:
+
+I. To estimate complete response rate of sirolimus MEC in patients with high risk AML.
+
+II. To estimate progression free survival in this patient population. III. To collect further information on the safety, tolerability, and efficacy of sirolimus in combination with MEC in patients with relapsed or refractory myeloid malignancies.
+
+OUTLINE:
+
+Patients undergo collection of bone marrow samples prior to sirolimus dosing on day 4 and within 1 week and no later than day 45 of hematologic recovery. Patients receive sirolimus orally (PO) on days 2-9 (loading dose on day 1 only), and standard MEC chemotherapy comprising mitoxantrone hydrochloride intravenously (IV) over 15 minutes, etoposide IV over 1 hour, and cytarabine IV over 1 hour every 24 hours on day 4-8.
+
+After completion of study treatment, patients are followed up every 3 months for 2 years.

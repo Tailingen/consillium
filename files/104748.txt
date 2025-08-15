@@ -1,0 +1,10 @@
+A Retrospective Cohort Study on Predicting Delayed Graft Function in Liver Transplant Patients with Hepatocellular Carcinoma: a Nomogram and Machine Learning Approaches.
+Background: This study aimed to develop a predictive model for delayed graft function (DGF) in liver transplant patients with hepatocellular carcinoma (HCC) based on preoperative biochemical indicators, using both logistic regression and XGBoost machine learning algorithms.
+
+Methods: A retrospective cohort study was conducted, including 131 liver transplant patients from January 2020 to April 2022. Preoperative biochemical markers and hematological parameters were analyzed. Logistic regression and XGBoost models were constructed to predict DGF, and their performance was evaluated using the area under the ROC curve (AUC). Shapley Additive Explanations (SHAP) analysis was employed to interpret the feature contributions.
+Hepatocellular Carcinoma (HCC)|DGF
+PROCEDURE: Liver transplantation
+TBIL/AST/ALT/INR, Results of biochemical examination on the 7th day after liver transplantation in patients with hepatocellular carcinoma.
+Background: This study aimed to develop a predictive model for delayed graft function (DGF) in liver transplant patients with hepatocellular carcinoma (HCC) based on preoperative biochemical indicators, using both logistic regression and XGBoost machine learning algorithms.
+
+Methods: A retrospective cohort study was conducted, including 131 liver transplant patients from January 2020 to April 2022. Preoperative biochemical markers and hematological parameters were analyzed. Logistic regression and XGBoost models were constructed to predict DGF, and their performance was evaluated using the area under the ROC curve (AUC). Shapley Additive Explanations (SHAP) analysis was employed to interpret the feature contributions.

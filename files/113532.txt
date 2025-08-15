@@ -1,0 +1,23 @@
+Narrative or Fact-Based Videos in Increasing Colorectal Cancer Screenings in African American Communities
+This randomized clinical trial studies narrative or fact-based videos in increasing colorectal cancer screenings in African American communities. Informational videotapes may help increase the number of participants who engage in colonoscopy screenings. It is not yet known whether narrative videos may be more effective than fact-based videos in increasing colorectal cancer screenings.
+Colorectal Cancer|Healthy, no Evidence of Disease
+BEHAVIORAL: behavioral intervention|BEHAVIORAL: behavioral intervention
+Change in likelihood of CRC screening in previously unscreened subjects, A change score (post-presentation minus pre-presentation) will be created and summarized. In addition, the change score will be further dichotomized (e.g. increase versus no increase in the likelihood of screening) and the percent of those who experienced an increased likelihood, denoted by pi, will be computed. A corresponding 95% confidence interval will be calculated. To test for differences in variables collected pre- and post-presentation, generalized mixed linear models will be used. Testing will be done at the 0.0.5 nominal significance level and using the approximate t-test method., Baseline to 6 months post-presentation
+Number of negative affective responses to CRC screening per Affective Associations and Affectively-Based Risk surveys, A linear mixed model (LMM) will be employed and implemented in the SAS program MIXED., Post-presentation up to 6 months|Number of positive cognitive responses to CRC screening per Cognitively-Based Perceived Risk survey, An LMM will be employed and implemented in the SAS program MIXED., Post-presentation up to 6 months|Number of participants who had or scheduled colonoscopy, A generalized linear model with a logit link function will be used., Up to 6 months|Number of participants who performed the fecal occult blood test (FOBT)/fecal immunohistochemistry test (FIT), A generalized linear model with a logit link function will be used., Up to 6 months|Number of participants who discussed CRC screening with their primary care physician, A generalized linear model with a logit link function will be used., Up to 6 months|Influential factors in behavior changes, assessed using qualitative analyses of text from participant interviews, including affective associations with the program, participants' cognitive-affective influences, and predisposing influences, Qualitative text from a text analysis program will be funneled into categories using the PEN-3 and analyzed according to the categories' role and influence. Findings will be examined in comparison to quantitative data regarding the content of the intervention., Baseline to 1 week post-presentation & 6-months|Influential factors in behavior changes, assessed using qualitative analyses of text from participant interviews, including affective associations with the program, participants' cognitive-affective influences, and predisposing influences, Qualitative text from a text analysis program will be funneled into categories using the PEN-3 and analyzed according to the categories' role and influence. Findings will be examined in comparison to quantitative data regarding the content of the intervention., 1 week post-presentation to 6 months
+PRIMARY OBJECTIVES:
+
+I. Assess both individual and environmental factors that guide decisions and behaviors to engage or not engage in colonoscopy screenings for African Americans in the two communities.
+
+II. Using a Community-Based Participatory Research (CBPR) approach, develop and pilot a peer-led, narrative-based colorectal cancer behavioral intervention for increasing colonoscopy screening behaviors in African Americans.
+
+III. Examine the efficacy of a narrative communication-style group intervention compared to a didactic intervention to influence African Americans' engagement in colorectal cancer screening, including examining the degree to which the community interventions impact cognitive and affective decision making factors about health care seeking.
+
+IV. Examine and explore contextual factors that may influence the process of behavior change to better understand colorectal cancer (CRC) screening and health care seeking behaviors.
+
+OUTLINE: Program locations are randomized to 1 of 2 arms.
+
+ARM I: Participants view videos with information about CRC and screening delivered by personal narrative.
+
+ARM II: Participants view videos with information about CRC and screening delivered by informative fact-based message.
+
+After completion of study, patients are followed up at 3 and 6 months.

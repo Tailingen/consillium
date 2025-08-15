@@ -1,0 +1,97 @@
+Metastatic Tumor Research and Outcomes Network
+The registry aims to collect patient information such as patient demographics, co-morbidities, clinical, diagnostic, and therapeutic data, as well as information on adverse events and HRQOL outcomes specific for patients with metastatic spine tumor(s).
+Metastatic Spine Tumor
+Patient details, The following patient data will be collected:
+
+* gender, year of birth, height, weight, race
+* work status, education level, marital status
+* smoking, alcohol and recreational drug use
+* medication use
+* nutrition and vitamin intake
+* presence of osteoporosis
+* comorbidities according to the Charlson Comorbidity Index - CCI, collected at baseline|Tumor details, Primary cancer
+
+* Site of the primary cancer
+* Year of diagnosis
+* Status of the tumor (removed completely, partially, or not removed)
+* Signs of local control or tumor progression
+* Tumor subtype
+* Tumor markers
+
+Spine metastases
+
+* Date of initial diagnosis of spine metastases
+* Identification of index target
+* Vertebral location (i.e., C1, T3-T5, etc.)
+* Details of spine metastases and other metastases, if any
+* Activity of systemic metastases
+* Local control of metastatic tumor
+* Presence of pathologic fracture
+* Radiographic evidence of new spine metastatic disease, collected at baseline, first prospective treatment and follow-up|Symptoms, For patients with metastatic spine tumor, it is important to understand the occurrence, location, and type of pain patients have at baseline and at follow-up visits. Pain symptoms assessed by the physician will therefore be collected in addition to the pain specific PROs.
+
+Bowel and bladder function will be assessed by the physician., collected at baseline, first prospective treatment and follow-up|Treatment details - previous treatment of the index of the spine, If the patient had previous treatment (surgery, radiation or systemic oncologic therapy) for the index target, the following information about the previous treatment will be collected at baseline:
+
+* Type(s) of treatment
+* Date(s) of treatment
+* Treated vertebrae level(s)
+* Procedure details
+* Hospital/center where the treatment was administered
+* ASIA impairment scale (applies only to previous surgical patients), Collected at baseline|Imaging information, Skeletal muscle and adipose tissue measurements will be made from CT scans. One transverse CT image of the inferior surface of L3 will be assessed by an independent assessor to calculate the visceral fat area to subcutaneous fat ratio (VFA/SFA ratio). This measurement will only be collected if the CT scan is according to standard of care and the method is described in a separate imaging manual. Additional CT scans will not be performed for this Registry.
+
+Imaging is critical to select the biopsy technique and for disease diagnosis. Follow-up imaging also plays an important role in monitoring disease status. Imaging data will be collected to serve as a data repository, so that images may be more easily retrieved later if necessary.
+
+Imaging data
+
+* Image type (e.g. MRI, CT, PET, etc.)
+* Date taken
+* Name of institution storing image, collected at baseline, first prospective treatment, discharge and at follow-up.|Patient reported outcomes - Euroqol EQ-5D-3L / - EQ-5D VAS, The EQ-5D-3L descriptive system comprises the following five dimensions: mobility, self-care, usual activities, pain/discomfort and anxiety/depression. Each dimension has 3 levels: no problems, some problems, and extreme problems. The patient is asked to indicate his/her health state by ticking the box next to the most appropriate statement in each of the five dimensions. This decision results into a 1-digit number that expresses the level selected for that dimension. The digits for the five dimensions can be combined into a 5-digit number that describes the patient's health state.
+
+The EQ VAS records the patient's self-rated health on a vertical visual analogue scale where the endpoints are labelled 'Best imaginable health state' and 'Worst imaginable health state'. The VAS can be used as a quantitative measure of health outcome that reflects the patient's own judgement., collected at baseline, first prospective treatment, discharge and at follow-up.|Ambulation, Details about the ability of the patient to walk, cause of ambulation loss, use of an assistive device, and timing will be collected.
+
+10 meter walk test (10 MWT) If the patient is able to ambulate without physical assistance (i.e. without help of a person), ambulation will be assessed by the 10MWT (walking aids are allowed). The 10MWT evaluates the time required to walk 10 meters. Patients should walk 10 meters with 2 meters for acceleration and deceleration. The patient will be timed from when the patient's toes of the leading foot cross the 2 meter line to when the patient's toes of the leading foot cross the 8 meter line. The test should be performed three times and the results will be averaged. The patient should be instructed to perform the test at a comfortable walking pace., collected at baseline, discharge and at follow-up.|Nutritional status tool, The Scored Patient-Generated Subjective Global Assessment (PG-SGA©) sets the standard of and is the preeminent interdisciplinary patient assessment (weight, intake, symptoms, functional status, disease state, metabolic stress and nutritional physical examination) in oncology and other chronic catabolic conditions.
+
+The Scored PG-SGA© includes the four patient-generated historical components ('Weight History', 'Food Intake', 'Symptoms' and 'Activities and Function'), the professional part (Diagnosis, Age, Metabolic stress, and Physical Exam), the Global Assessment (A = well nourished, B = moderately malnourished or suspected malnutrition, C = severely malnourished), the total numerical score, and nutritional triage recommendations. Subsequently, the Scored PG-SGA© allows for triaging of specific nutrition interventions, as well as facilitating quantitative outcomes data collection.
+
+This assessment is available in a variety of languages and as a metric as well as a non-metric version., collected at baseline, first prospective treatment, discharge and at follow-up.|Morbidity data - Adverse events, * related to surgery Intra- and postoperative complication data will be recorded for all surgically treated patients during the standard of care scheduled follow-up visits. Complications will be assessed by evaluating the patient's medical files from the time treatment was initiated until the day of follow-up. The Spine AdVerse Events Severity system, version 2 (SAVES V2) AE abstraction tool will be used to record the morbidity data.
+* related to radiation and/or systemic oncologic therapy
+
+For patients treated with RT and/or systemic oncologic therapy, complications and severity grade related to the treatment will be recorded during the standard of care scheduled follow-up visits according to a predefined list:
+
+The predefined list and severity grading system are according to the National Cancer Institute Guidelines., collected at first prospective treatment, discharge and at follow-up.|Local disease recurrence data, At every FU visit, each patient, regardless of which stage they are at in their treatment, will be evaluated for local disease control. Presence or absence of local control and distant metastases should be confirmed through imaging. The timing of the assessment will be performed in accordance with local standard of care scheduled FU visits., collected at baseline and at follow-up.|Survival, FU visits will be scheduled and performed according to the local standard of care and at each scheduled visit the patient's survival will be documented. In case a patient misses a scheduled visit it will be assessed if the patient is still alive., collected at first prospective treatment, discharge and at follow-up.|Treatment details - Current treatment of the index target of the spine, Since there is a spectrum of different treatment options and combinations for patients with a metastatic spine tumor, detailed information about the three main treatment options (surgery, radiation, and systemic oncologic therapy) for the index target will be collected. The treatment intent, including administration (primary, neo-adjuvant, and adjuvant) will also be collected., collected at first prospective treatment and at follow-up.|Treatment details - Current treatment for the primary cancer, Information on the status of the primary cancer as well as on ongoing treatment of the primary cancer will be collected at baseline and at follow-up., collected at baseline, first prospective treatment and at follow-up.|Patient reported outcomes - Pain Numeric Rating Scale, The Pain NRS is an 11-point scale where the end points are the extremes of no pain (0 points), or worst imaginable pain (10 points). It measures subjective intensity of pain and the patient rates his/her overall or average daily pain., collected at baseline, first prospective treatment, discharge and at follow-up.|Patient reported outcomes - Spine Oncology Study Group Outcome Questionnaire (SOSGOQ), This is a new HRQOL outcome tool which was developed specifically for metastatic spine tumor. It is currently available in English and Hungarian. It contains 20 items representing all four domains of the International Classification of Function and Disability. Additionally there are seven follow-up questions referring to treatment satisfaction. It is made up of five domains: physical function, neural function, pain, mental health and social function. It was developed as a comparison to the SF-36 for patients with spine tumors., collected at baseline, first prospective treatment, discharge and at follow-up.
+Symptoms: American Spinal Injury Association (ASIA) Impairment Scale, International Standards for Neurological Classification of Spinal Cord Injury (ISNCSCI) ISNCSCI is a standardized examination to determine neurologic function and has been a standard clinical assessment for patients with neurological deficit. The modified ISNCSCI used in this study will assess the Motor Score and the American Spinal Injury Association (ASIA) Impairment Scale, collected at baseline, first prospective treatment, discharge and at follow-up.|Symptoms: Eastern Cooperative Oncology Group (ECOG) classification, The ECOG developed a scale from 0 to 5 to assess the patient's disease progression and how the disease affects the patient's daily living abilities (9). The lower the score the better the status of the patient, being 0 fully active and 5 dead., collected at baseline, first prospective treatment, and at follow-up.|Symptoms: Epidural Compression Classification, The Spine Oncology Study Group developed and validated a 6-point grading system to describe the degree of epidural spinal cord compression based on axial T2-weighted MR images at the site of most severe compression. This assessment can be used to help guide treatment and can serve as a classification scheme., Collected at baseline|Spine Instability Neoplastic Score (SINS), The SOSG developed and validated a classification system to assist clinicians in defining tumor-related instability. It is assessed by adding together six individual component scores: spine location, pain, lesion bone quality, radiographic alignment, vertebral body collapse, and posterolateral involvement of the spinal elements. SINS has demonstrated clinically acceptable reliability among surgeons, radiation oncologists, and radiologists. The total SINS score can range from a score of 0 to 18. The total score has been divided into three categories of stability: stability (score of 0-6), indeterminate instability (score of 7-12), and instability (score of 13-18). Surgical consultation is recommended for patients with SINS scores ≥ 7. SINS will be assessed at baseline and/or prior to first prospective treatment. The most severe lesion within the index target should be assessed., collected at baseline and first prospective treatment,
+To prospectively determine the prognostic variables (clinical, diagnostic, and therapeutic) within patients diagnosed with metastatic spine tumor(s) that are associated with:
+
+* patient reported outcomes (HRQOL)
+* morbidity data
+* local tumor control
+* survival
+
+Outcome measures:
+
+Variables which will be collected in the registry that are applicable to patients with metastatic spine tumor include:
+
+* • Patient details
+* Details of previous treatment
+* Diagnosis
+* Symptoms
+* Treatment details for the index target
+* Imaging information
+
+The following outcome measures will be collected:
+
+* Patient reported outcomes:
+
+  * Euroqol EQ-5D-3L
+  * Euroqol EQ-5D VAS - Quality of Life
+  * Neck Pain Numeric Rating Scale (NRS)
+  * Arm Pain NRS
+  * Back Pain NRS
+  * Leg Pain NRS
+  * SOSGOQ
+  * Patient assessment
+* Ambulation
+* Pain medication
+* Nutritional Status Tool (PG-SGA©)
+* Morbidity data
+* Local disease recurrence data
+* Overall survival data

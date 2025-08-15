@@ -1,0 +1,30 @@
+Ibrutinib and Palbociclib in Treating Patients With Previously Treated Mantle Cell Lymphoma
+This phase I trial studies the side effects and best dose of ibrutinib and palbociclib in treating patients with previously treated mantle cell lymphoma. Ibrutinib and palbociclib may stop the growth of cancer cells by blocking some of the enzymes needed for cell growth. Palbociclib may also help ibrutinib work better by making cancer cells more sensitive to the drug.
+Recurrent Mantle Cell Lymphoma
+DRUG: Ibrutinib|OTHER: Laboratory Biomarker Analysis|DRUG: Palbociclib|OTHER: Pharmacological Study
+Recommended phase II dose of the combination of ibrutinib and palbociclib, Will be defined as the highest dose level at which no more than 1/6 patients present with a dose limiting toxicity (DLT). DLT will be assessed according to the National Cancer Institute (NCI) Common Terminology Criteria for Adverse Events (CTCAE) version 5.0., Up to 28 days
+Overall response rate (ORR), Will be evaluated according to the revised response criteria of the International Working Group., Up to 2 years|Complete response (CR) rate, Will be evaluated according to the revised response criteria of the International Working Group., Up to 2 years|Partial response rate, Will be evaluated according to the revised response criteria of the International Working Group., Up to 2 years|Progression-free survival (PFS), Estimated and plotted by Kaplan-Meier survival analysis and 95% confidence intervals will be calculated using Greenwood's formula. Log-rank test will be applied to compare the difference between survival curves with two-sided significance level of 0.05., Time from entry onto study until first documentation of objective tumor progression or death due to any cause, whichever occurs first, assessed up to 2 years|Response duration (RD), Estimated and plotted by Kaplan-Meier survival analysis and 95% confidence intervals will be calculated using Greenwood's formula. Log-rank test will be applied to compare the difference between survival curves with two-sided significance level of 0.05., Time from when criteria for response (CR or partial response [PR]) are met, until first documentation of relapse or progression, assessed up to 2 years|Incidence of toxicities, Will be assessed according to the National Cancer Institute Common Terminology Criteria for Adverse Events version 5.0. A listing of all adverse events (AEs) including detailed information for each AE will be presented. The number and percentage of patients who experienced any: AE, serious adverse events (SAE), treatment-related AE, and treatment-related SAE will be summarized. AE data will be presented by dose for all cycles, cycle 1 only and cycles \> 1, as appropriate. Additional summaries of AE data and of other safety data will be presented in tabular and/or graphical format and summarized descriptively, as appropriate., Up to 2 years
+Genetic alterations, Sequencing data will be evaluated for mutations and copy number variations (CNV) and the status of wild type and alterations will be assigned. Fisher's exact test will be used to assess the association between genetic alterations and response to study drugs. A moderated t-test will be applied to the transformed ribonucleic acid sequencing data to assess the expression difference between wild-type and altered genes. The Benjamini-Hochberg procedure will be used to adjust the p value and use the false discovery rate 10% as the cutoff to declare significance., Up to 2 years
+PRIMARY OBJECTIVE:
+
+I. To evaluate the safety of ibrutinib plus PD 0332991 (palbociclib) in patients with previously treated mantle cell lymphoma (MCL) and select the recommended phase 2 dose schedule.
+
+SECONDARY OBJECTIVES:
+
+I. To estimate the toxicity profile of ibrutinib plus PD 0332991 (palbociclib). II. To estimate the overall response rate (ORR) and complete response (CR) rates.
+
+III. To estimate the progression-free survival (PFS). IV. To estimate the response duration (RD).
+
+LABORATORY OBJECTIVES:
+
+I. To evaluate the genomic profile of MCL cells pre-treatment and at relapse. II. To estimate the pharmacokinetic profile of ibrutinib when given concurrently with PD 0332991 (palbociclib).
+
+III. To evaluate the level of cell-free tumor deoxyribonucleic acid (DNA) over time in conjunction with response to therapy.
+
+IV. To evaluate the presence of circulating MCL cells over time.
+
+OUTLINE: This is a dose-escalation study.
+
+Patients receive ibrutinib orally (PO) once daily (QD) on days 1-28 and palbociclib PO QD on days 1-21. Cycles repeat every 28 days in the absence of disease progression or unacceptable toxicity.
+
+After completion of study treatment, patients are followed up for 2 years.

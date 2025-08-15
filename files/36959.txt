@@ -1,0 +1,6 @@
+Radiomic Markers for Breast Cancer Metastasis and Treatment Response Using MRI
+The primary aim of the study is to identify radiomic features as biomarkers of metastatic progression following primary therapy.
+Invasive Breast Cancer
+Pathologic complete response (pCR), Evaluating the degree of absence of residual cancer cells, Up to 60 months
+Time to distant breast cancer recurrence (months), Evaluating the time until a recurrence event has occurred in the breast., Up to 60 months|Time to distant metastasis, Evaluating onset of distant metastasis, Up to 60 months|Time to death, Evaluating time to cancer-related death, Up to 60 months
+The study aims to evaluate radiomic markers in breast tumors to evaluate metastatic risk based on radiomic features following primary therapy. The investigators aim to analyze images at various time intervals before, during and after primary treatments using two advanced imaging techniques (DCE-MRI \& DWI-MRI).

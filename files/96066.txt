@@ -1,0 +1,11 @@
+Clinical Significance of Detecting CEA and CK20 mRNA-positive Cells in Colorectal Cancer Patients
+To determine whether the presence of circulating/disseminated tumor cells (CTCs/DTCs) in the blood and bone marrow of colorectal cancer (CRC) patients with localized disease is a negative prognostic factor, and to find correlations with other clinical/pathological disease characteristics.
+Colorectal Cancer|Circulating Tumor Cell
+DEVICE: CTC/DTC count
+CEA mRNA positive circulating tumor cells in colorectal cancer patients, The absolute gene expression of carcinoembryonic antigen (CEA mRNA) in circulating tumor cells (CTCs) purified from peripheral blood of patients before colorectal surgery will be measured using real-time RT-PCR method. The CEA gene expression will be normalized per microgram of total mRNA. The cut-off values identifying presence or absence of CEA mRNA positive CTCs in patients was established using the maxstat() function from the maxstat R package as a mode value of estimates obtained for 10 000 random samples. CEA mRNA levels above 190 CEA mRNA copies per microgram of RNA will indicate the presence of the CTCs in the peripheral blood sample., 1 day
+Cancer specific survival in CTC positive CRC patients, The cancer specific survival in months will be measured from the time of diagnosis to the time of cancer related death. Two groups of patients will be compared:
+
+A: Patients with the presence of CEA mRNA positive CTCs in peripheral blood before colorectal cancer surgery as described in primary outcome measure.
+
+B: Patients with the absence of CEA mRNA positive CTCs in peripheral blood before colorectal cancer surgery as described in primary outcome measure., 10 years
+To determine whether the presence of circulating/disseminated tumor cells (CTCs/DTCs) in the blood and bone marrow of colorectal cancer (CRC) patients with localized disease is a negative prognostic factor, and to find correlations with other clinical/pathological disease characteristics.

@@ -1,0 +1,50 @@
+Focal Therapy With Stereotactic Body Radiation Therapy (SBRT) for Patients With a Single Prostate Tumor
+Background:
+
+The current standard treatment of prostate cancer is either surgery or radiation. Typically, this includes either the removal or radiation of the whole prostate gland. Many people now seek out focal therapy options to decrease the side effects of treatment. Until now, several forms of physical destruction with heat (thermal ablation), cold (cryotherapy), sound waves (HIFU), laser (FLA), and electrical energy (IRE). A new type of radiation (SBRT) may be an effective way to cure men of early-stage prostate cancer with fewer side effects than standard treatments.
+
+Objective:
+
+To see how people with untreated localized prostate cancer will respond to focal therapy with SBRT.
+
+Eligibility:
+
+People aged 18 years and older with untreated localized prostate cancer (prostate cancer which has not spread outside of the prostate gland).
+
+Design:
+
+* Participants will undergo screening including blood tests, an MRI, a PSMA PET/CT (18F-DCFPyL), and a biopsy.
+* Small, non-radioactive, gold seeds about the size of a grain of rice will be placed in and/or around the tumor to help target the radiation treatment.
+* Radiation (SBRT) will occur in 2 separate sessions about 1 week apart. No sedation is used, these sessions are painless. Each session will take about 1-2 hours. Participants can go home afterwards.
+* Follow-up will continue for 2 years with repeat scans (MRI and PSMA PET/CT) and blood (PSA) tests.
+* After two years, a biopsy will be done to understand the impact of this new treatment on prostate cancer.
+Prostatic Neoplasms|Prostate Cancer|Prostate Adenocarcinoma
+DRUG: 18F-DCFPyL|RADIATION: Stereotactic Body Radiation Therapy
+Pathologic complete response rate, The primary objective of this trial is to determine the pathologic complete response rate on biopsy at two years in patients undergoing focal SBRT for prostate cancer. This will be defined by a negative biopsy at 2 years post-treatment., 2 years
+Longitudinal quality of life (QoL), The QoL scores will be summarized at baseline and for each visit. Linear mixed effects model will be used to model quality of life scores at baseline, during and after treatment. Changes of QoL scores from baseline at each timepoint treatment will be calculated from the estimated linear mixed effect model., baseline and 1, 3, 6, 9, 12, 15, 18, 21, and 24 months after focal SBRT|PSA kinetics, The PSA kinetics scores will be summarized at baseline and for each visit. Linear mixed effects model will be used to model PSA kinetics at baseline, during and after treatment. Changes of PSA kinetics during and after treatment will be calculated from the estimated linear mixed effect model. In the rare case where PSA test is done on outside laboratory assay, a sensitivity analysis will be conducted to analyze PSA kinetics with and without outside values to determine whether outside laboratory measurement influenced results., 1 week and 1, 3, 6, 9, 12, 15, 18, 21, 24 months after focal SBRT|Nadir PSA, The nadir PSA (time to nadir PSA and value of nadir PSA) will be described for this cohort (median, mean, standard deviation, and range)., 1 week and 1, 3, 6, 9, 12, 15, 18, 21, 24 months after focal SBRT|Absolute and relative fraction of free PSA to bound PSA, Descriptive statistics for the absolute amount and relative fraction of free PSA and bound PSA at the various timepoints detailed in 10.1 will be reported will be compared with baseline by paired Wilcoxon test., 1 week and 1, 3, 6, 9, 12, 15, 18, 21, 24 months after focal SBRT|Toxicity profile, Descriptive statistics will be used to summarize the toxicity profile of focal SBRT of prostate cancer., During the focal SBRT period and 1, 3, 6, 9, 12, 18, 24 months after focal SBRT|Rate of biochemical failure, The rate of biochemical failure as defined by nadir PSA + 2.0 ng/mL at 24 months will be described., 24 months after focal SBRT
+Background:
+
+* Prostate cancer is the most common cancer among American men.
+* The best current validated treatment options include whole gland radiotherapy and radical prostatectomy.
+* Based on recent advances in imaging, focal ablative therapies are under investigation in attempts to deliver comparable rates of tumor control with less side effects.
+* Thus far, focal therapies such as cryotherapy, high-intensity focused ultrasound, or focal laser ablation have resulted in poor local control with the exception of implanted radiation sources which have shown in-field control rates \> 90%.
+* As such, the proposed trial is designed to investigate the efficacy of a novel form of focal stereotactic body radiation therapy (SBRT) for the treatment of localized, unifocal prostate cancer.
+* Prostate specific membrane antigen (PSMA) targeted PET imaging was recently FDA approved for imaging men with suspected prostate cancer metastases who are potentially curable by radiation or surgery. 18F-DCFPyL, a second generation PSMA PET agent that binds with high affinity to PSMA yet clears rapidly from the blood pool will be used in this study.
+
+Objective:
+
+-To determine whether localized, tumor-directed SBRT can produce biopsy-confirmed tumor response at 24 months in participants with unifocal prostatic adenocarcinoma.
+
+Eligibility:
+
+* Histologically confirmed, low or intermediate risk prostatic adenocarcinoma verified by biopsy.
+* Unifocal prostate cancer defined as a single focus of prostate cancer on imaging which is correlated with a positive targeted biopsy.
+* Age \>= 18.
+* No concurrent systemic Androgen Deprivation Therapy (ADT) is planned.
+
+Design:
+
+* This is a single-arm phase II trial designed to measure the efficacy of a novel application of SBRT guided with advanced prostate-specific imaging techniques.
+* Participants will initially undergo a treatment planning CT, multiparametric MRI (mpMRI), 18F-DCFPyL PET/CT imaging, a biopsy, quality of life (QoL) questionnaires and laboratory evaluations. SBRT will be administered at 26Gy in two fractions on two separate days.
+* Following completion of treatment, participants will be followed for up to 2 years through clinical evaluation, laboratory evaluations (including a complete blood count (CBC), prostate specific antigen (PSA) and testosterone measurements), QoL assessments, mpMRI, 18FDCFPyL PET/CT imaging, and a biopsy.
+* The accrual ceiling is set to 42 participants with the goal of recruiting 30 evaluable participants.

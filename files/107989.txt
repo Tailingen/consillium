@@ -1,0 +1,55 @@
+Hippocampal-Avoiding Whole Brain Irradiation With Simultaneous Integrated Boost for Treatment of Brain Metastases
+The investigators hypothesize that avoidance of the hippocampal region with WBRT (Whole-Brain Radiotherapy ) may delay or reduce the onset, frequency, and/or severity of NCF (neurocognitive function) decline, as measured with clinical neurocognitive tools.
+Brain Neoplasms, Adult, Malignant
+RADIATION: Radiotherapy
+Mean Change in *Delayed* Recall Score by Hopkins Verbal Learning Test-Revised (HVLT-R DR) Score, The HVLT-R is a validated test to assess neurocognitive function and it incorporates 6 different forms, each including 12 nouns (targets) with 4 words drawn from 3 semantic categories.
+
+\*Delayed\*recall was measured by recalling the 12 targets after a 20-minute delay.
+
+1 point is awarded for each successfully recalled target. There is no range- recalling more is more memory.
+
+Mean change was calculated by the following formula: 100\*(3 month - baseline) / baseline, Baseline, 3 months
+Mean Change in *Immediate* Recall Score by Hopkins Verbal Learning Test-Revised (HVLT-R), The HVLT-R is a validated test to assess neurocognitive function and it incorporates 6 different forms, each including 12 nouns (targets) with 4 words drawn from 3 semantic categories.
+
+\*Immediate\* recall was measured by memorizing a list of 12 targets for 3 consecutive trials.
+
+1 point is awarded for each successfully recalled target. There is no range- recalling more is more memory.
+
+Mean change was calculated by the following formula: 100\*(3 month - baseline) / baseline, Baseline, at 3 months|Mean Change in *Delayed Recognition* Score by Hopkins Verbal Learning Test-Revised (HVLT-R), The HVLT-R is a validated test to assess neurocognitive function and it incorporates 6 different forms, each including 12 nouns (targets) with 4 words drawn from 3 semantic categories.
+
+\*Delayed recognition\* was measured by using recognition discrimination index.
+
+1 point is awarded for each successfully recalled target. There is no range- recalling more is more memory.
+
+Mean change was calculated by the following formula: 100\*(3 month - baseline) / baseline, Baseline, 3 months|Mean Change in Neurocognitive Function as Measured by Controlled Word Association Test, Controlled Word Association Test (COWAT) is used to assess language and executive/frontal skills. The patient produces as many words as possible in 1 min. (each) for a specific letter (C, F, L or P, R, W). Requires about 5 min to complete.
+
+1 point is awarded for each word produced. Mean change was calculated by the following formula: 100\*(3 month - baseline) / baseline, Baseline, at 3 months|Mean Change in Trail Making Test (TMT- A) Score, Trail Making Test (TMT) is a measure of visuospatial scanning, attention, sequencing, and speed and executive function. Patients must "connect the dots" either in a numbered sequence or alternating letters and numbers.
+
+The TMT has two parts that are referred to as the Trail Making Test Part A and the Trail Making Test Part B.
+
+In Part A, the circles are numbered 1 - 25, and the patient should draw lines to connect the numbers in ascending order.
+
+Possible score ranges from 0-3 minutes with higher score (more seconds/minutes) indicating significant cognitive impairment.
+
+Mean change was calculated by the following formula: 100\*(3 month - baseline) / baseline, Baseline, at 3 months|Mean Change in Trail Making Test (TMT- B) Score, Trail Making Test (TMT) is a measure of visuospatial scanning, attention, sequencing, and speed and executive function. Patients must "connect the dots" either in a numbered sequence or alternating letters and numbers.
+
+The TMT has two parts that are referred to as the Trail Making Test Part A and the Trail Making Test Part B.
+
+In Part B, the circles include both numbers (1 - 13) and letters (A - L). Possible score ranges from 0-5 minutes with higher score (more seconds/minutes) indicating significant cognitive impairment., Baseline, at 3 months|Mean Change in Cognitive Function as Measured by Medical Outcomes Scale (MOS), Medical Outcomes Scale (MOS) assess cognitive function with possible score range from 0-100, with higher scores indicating better outcome.
+
+Mean change was calculated by the following formula: 100\*(3 month - baseline) / baseline, Baseline, at 3 months|Mean Change in Cognitive Function as Measured by Mini-Mental Status Examination (MMSE), Mini-Mental Status Examination (MMSE) is a brief, standardized tool to grade patients' global cognitive function. Possible scores range from 0-30, with lower score indicating severe cognitive impairment.
+
+Mean change was calculated by the following formula: 100\*(3 month - baseline) / baseline, Baseline, at 3 months|Mean Change in Relative Fatigue as Measured by Multidimensional Fatigue Inventory (MFI-20) Scores, The MFI-20 is a multidimensional, self-reporting instrument designed to measure fatigue. It covers the following dimensions: general fatigue, physical fatigue, mental fatigue, reduced motivation, and reduced activity. Possible subscore ranges from 4 to 20 is reported for each dimension, with 20 corresponding to maximal fatigue., Baseline, 3 months|Cumulative Incidence of Local Failure, Cumulative incidence of local failure, defined as tumor recurrence . Percent local failure at 1 year.
+
+The Cox proportional hazards regression model will be used to evaluate Cumulative incidence of local failure.
+
+This is to evaluate local control of brain metastases treated with integrated boost., 1 year|Cumulative Incidence of Intracranial Failure, Cumulative incidence of intracranial failure was estimated by the Cox proportional hazards regression model.
+
+Intracranial failure is any failure in the brain., 1 year|Percentage of Participants With Local Failures Within the Region of Brain Within the CTV Receiving 20 Gy, Percentage of participants with local failures within the region of brain within the CTV (Clinical Target Volume ) receiving 20 Gy, 1 year|Number of Participants With Recurrence in the Hippocampus, Recurrence in the hippocampus was noted after hippocampal-sparing whole brain irradiation with simultaneous integrated boost (HSIB-WBRT), 5 months|Median Progression Free Survival, Tumor progression is measured radiographically. The Kaplan-Meier estimator was used to determine the median time to death for this patient population., 39 months|Median Overall Survival., Overall survival is measured by the Kaplan-Meier estimator used to determine the median overall survival for this patient population., 39 months|Number of Adverse Events Grade 3 or Higher Based on CTCAE (Common Terminology Criteria for Adverse Events) Criteria., The adverse event (AE) including any adverse event would be assessed by Common Terminology Criteria for Adverse Events (CTCAE) version 4.0, From start of treatment up to 39 months|Health-related Quality of Life as Assessed by the Functional Assessment of Cancer Therapy With Brain Subscale (FACT-BR), Quality of life will be assessed using the Functional Assessment of Cancer Therapy with Brain Subscale (FACT-BR). The FACT-BR is a multidimensional, self-report quality of life instrument specifically designed and validated for use with brain malignancy patients. It is written at the 4th grade reading level and can be completed in 5-10 minutes with little or no assistance in patients who are not neurologically incapacitated. It measures quality of life related to symptoms or problems across 5 scales: physical well-being (7 items); social/family well-being (7 items);emotional well-being (6 items); functional well-being (7 items); and concerns relevant to patients with brain tumors (23 items).
+
+Items are rated on a 5-point scale (0-5): 0-"not at all", 1- "a little bit", 2-"somewhat", 3-"quite a bit" and 4-"very much", with HIGHER scores indicating a better quality of life., 39 months|Health-related Quality of Life as Assessed by Euroqol EQ-5D, The EQ (Euroqol)-5D (5 Dimension) health related quality of life questionnaire is a standardized instrument for use as a measure of health outcome.
+
+Applicable to a wide range of health conditions and treatments, it provides a simple descriptive profile and a single index value for health status. . The US version of the EQ-5D will be used, to enable mapping of general HR-QoL (Health-related quality of life) scores from EQ-5D scores into health state utility scores (ranging from 0 to 1) for the US population.
+
+Possible scores range from 0 to 1, with HIGHER scores indicating a better quality of life., 39 months
+We propose to use conformal avoidance of the hippocampal region during whole brain radiotherapy to reduce the dose to the hippocampi, thereby putatively limiting the radiation-induced inflammation of the hippocampal region and subsequent alteration of the microenvironment of the neural progenitor cells

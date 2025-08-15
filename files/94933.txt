@@ -1,0 +1,33 @@
+4B951, Combination Chemotherapy in Treating Patients With Bladder Cancer
+RATIONALE: Drugs used in chemotherapy use different ways to stop tumor cells from dividing so they stop growing or die. Combining more than one drug may kill more tumor cells. It is not yet known whether combination chemotherapy is more effective than observation alone in treating bladder cancer.
+
+PURPOSE: This randomized phase III trial is studying combination chemotherapy to see how well it works compared to observation alone in treating patients with bladder cancer.
+Bladder Cancer
+DRUG: cisplatin|DRUG: doxorubicin hydrochloride|DRUG: methotrexate|DRUG: vinblastine
+Probability of Recurring, p53 positive patients randomized to MVAC (arm I) compared to p53 positive patients randomized to observation (arm II). Time from registration to the first observation of disease recurrence, censoring patients who died of unrelated causes. Probabilities of recurring were based on cumulative incidence curves.
+
+Recurrence is defined as first radiological appearance of bladder cancer, per local standard of care., 5 years
+Probability of Overall Survival, p53 positive patients randomized to MVAC (arm I) compared to p53 positive patients randomized to observation (arm II). Survival is calculated from registration to death due to any cause. Probabilities of survival were based on the Kaplan-Meier product-limit method., 5 years|Probability of Recurrence, Patients with tumors demonstrating alteration in p53 compared to patients with no p53 alterations.
+
+Probabilities of recurring were based on cumulative incidence curves. Recurrence is defined as first radiological appearance of bladder cancer, per local standard of care., 5 years|Probability of Overall Survival, Patients with tumors demonstrating alteration in p53 compared to patients with no p53 alterations. Probabilities of survival were based on the Kaplan-Meier product-limit method., 5 years
+OBJECTIVES:
+
+* Compare the recurrence-free and overall survival in patients with transitional cell carcinoma of the bladder with p53 gene alterations treated with methotrexate, vinblastine, doxorubicin, and cisplatin vs observation alone.
+* Compare the recurrence-free and overall survival in patients with or without p53 gene alterations treated with observation alone.
+* Examine the expression of p53 and other genes, particularly RB, p21, and p16, involved in cell cycle regulation that may be involved in the response to chemotherapy in these patients.
+* Correlate p53 mutational gene status with p53 protein expression by immunohistochemistry, outcome (recurrence-free and overall survival), response to chemotherapy, and expression of key molecules in the p53-mediated apoptotic pathway in patients treated with this regimen vs observation alone.
+
+OUTLINE: This is a randomized, multicenter study. Patients are assigned to 1 of 2 treatment groups based on the status of the p53 gene in the bladder tumor.
+
+* Group A (p53 gene alteration, defined by greater than 10% nuclear reactivity): Patients are stratified according to age (under 65 vs 65 and over), stage (P1 vs P2a vs P2b), grade (1 or 2 vs 3 or 4), and p21 status. Patients are randomized to 1 of 2 treatment arms within 10 weeks after radical cystectomy and bilateral pelvic lymphadenectomy and within 2 weeks after registration.
+
+  * Arm I: Within 2 weeks after randomization, patients receive methotrexate IV on days 1, 15, and 22; vinblastine IV on days 2, 15, and 22; and doxorubicin IV and cisplatin IV on day 2. Treatment repeats every 4 weeks for 3 courses in the absence of disease progression or unacceptable toxicity.
+  * Arm II: Patients undergo observation for recurrence but do not receive adjuvant chemotherapy after surgery.
+
+Patients who are eligible for randomization but decline to be randomized undergo observation for recurrence.
+
+* Group B (p53 gene normal, defined by less than 10% nuclear reactivity): Patients undergo observation for recurrence but do not receive adjuvant chemotherapy after surgery.
+
+Patients are followed every 6 months for 5 years and then annually thereafter.
+
+PROJECTED ACCRUAL: A total of 800 patients will be accrued for this study within 4.75 years.

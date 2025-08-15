@@ -1,0 +1,27 @@
+STAT3 Inhibitor WP1066 in Treating Patients With Recurrent Malignant Glioma or Progressive Metastatic Melanoma in the Brain
+This phase I trial studies the side effects and best dose of STAT3 inhibitor WP1066 in treating patients with malignant glioma that has come back or melanoma that has spread to the brain and is growing, spreading, or getting worse. STAT3 inhibitor WP1066 may stop the growth of tumor cells and modulate the immune system.
+Metastatic Malignant Neoplasm in the Brain|Metastatic Melanoma|Recurrent Brain Neoplasm|Recurrent Glioblastoma|Recurrent Malignant Glioma
+OTHER: Laboratory Biomarker Analysis|OTHER: Pharmacological Study|DRUG: STAT3 Inhibitor WP1066
+Maximum tolerated dose (MTD) of JAK2 inhibitor WP1066, defined as the dose level at which 0/6 or 1/6 patients experience a dose limiting toxicity (DLT) with at least 2 patients experiencing DLT at the next higher dose level, A DLT will be defined as an adverse event or an abnormal laboratory value assessed as being at least possibly related to the investigation agent that occurs during the first 28 days after administration of the first dose of JAK2 inhibitor WP1066 and will be assigned a grade based on National Cancer Institute (NCI) Common Terminology Criteria (CTC). Any grade toxicity at least possibly related to WP1066 that leads to dose delay of \>= 2 weeks will be considered a DLT., 28 days|Incidence of adverse events assessed using NCI CTC, Up to 2 months after the last study drug dose
+Pharmacokinetic analysis of the in vivo bioavailability of JAK2 inhibitor WP1066, Days 1, 2, 14, and 15 of course 1|Proportion of patients reaching complete response or partial response, Estimated with a 95% confidence interval., Up to 2 months after the last study drug dose|Duration of response, Estimated using Kaplan-Meier survival curves. Cox proportional hazards regression methodology may be used to assess the association between duration of response or survival and clinical and demographic characteristics of interest., Up to 2 months after the last study drug dose|Overall survival, Estimated using Kaplan-Meier survival curves. Cox proportional hazards regression methodology may be used to assess the association between duration of response or survival and clinical and demographic characteristics of interest., Up to 2 months after the last study drug dose|Progression free survival, Estimated using Kaplan-Meier survival curves. Cox proportional hazards regression methodology may be used to assess the association between duration of response or survival and clinical and demographic characteristics of interest., Up to 2 months after the last study drug dose|The proportion of patients who develop additional melanoma metastatic lesions, Estimated with a 95% confidence interval., Up to 2 months after the last study drug dose|Change in regulatory T cell numbers, Tested using paired t-tests or Wilcoxon signed-rank tests, as appropriate. The longitudinal analysis for all markers will be similar using generalized linear mixed-effects (GLMM) models to assess the significance of the changing values over time and estimating the trajectory., Baseline up to 2 months after the last study drug dose|Change in the number of peripheral blood mononuclear cells expressing phosphorylated STAT3, Tested using paired t-tests or Wilcoxon signed-rank tests, as appropriate. The longitudinal analysis for all markers will be similar using GLMM models to assess the significance of the changing values over time and estimating the trajectory., Baseline up to 2 months after the last study drug dose
+PRIMARY OBJECTIVES; I. Identify the maximum tolerated dose (MTD) of STAT3 inhibitor WP1066 (WP1066) in patients with recurrent malignant glioma (glioblastoma, anaplastic glioma), and melanoma patients with progressive brain metastasis.
+
+II. Assess the safety and tolerability of WP1066 in patients with recurrent malignant glioma and melanoma patients with progressive brain metastasis using the National Cancer Institute (NCI) Common Toxicity Criteria (CTC) with special attention directed at determining whether any induced autoimmune reactions occur.
+
+SECONDARY OBJECTIVES:
+
+I. Pharmacokinetic analysis of the in vivo bioavailability of WP1066. II. Assess overall response rate (ORR) in patients with recurrent malignant gliomas and progressive metastatic melanoma to the brain.
+
+III. Assess immunological response in patients with recurrent malignant glioma and melanoma patients with progressive brain metastasis treated with WP1066.
+
+IV. Assess time to radiographically assessed progression and/or response in patients treated with WP1066.
+
+V. Assess progression-free survival (PFS) and overall survival (OS) in patients treated with WP1066.
+
+VI. Estimate the proportion of patients treated with WP1066 who develop additional melanoma metastatic lesions, including those in the central nervous system (CNS).
+
+OUTLINE: This is a dose-escalation study.
+
+Patients receive STAT3 inhibitor WP1066 orally (PO) twice daily (BID) on Monday, Wednesday, and Friday of weeks 1 and 2. Courses repeat every 28 days in the absence of disease progression or unacceptable toxicity.
+
+After completion of study treatment, patients are followed up at 1 and 2 months.

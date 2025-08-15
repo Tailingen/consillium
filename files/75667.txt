@@ -1,0 +1,15 @@
+Using Deep Learning Methods to Analyze Automated Breast Ultrasound and Hand-held Ultrasound Images, to Establish a Diagnosis, Therapy Assessment and Prognosis Prediction Model of Breast Cancer.
+The purpose of this study is using a deep learning method to analyze the automated breast ultrasound (ABUS) and hand-held ultrasound(HHUS) images, establish and evaluate a diagnosis, therapy assessment and prognosis prediction model of breast cancer. The model would provide important references for further early prevention, early diagnosis and personalized treatment.
+Breast Cancer
+DIAGNOSTIC_TEST: ABUS and HHUS
+sensitivity, Proportion of corrected-marked malignant lesions by the model, 4 years|false-positive per volume, the number of uncorrected-marked malignant lesions by the model, 4 years|area under curve, area under receiver operating characteristic (ROC) curve in percentage (%), 4 years|overall survival(OS) time, It measures the time from the date of cancer diagnosis to any cause of death., up to 10 years|Disease-free survival (DFS) time, The time that the patient is free of the signs and symptoms of a disease after treatment., up to 5 years
+1. Establishing a database By collecting ABUS, HHUS and comprehensive breast images data, essential information, clinical treatment information, prognosis, and curative effect information, a complete breast image database is constructed.
+2. Marking ABUS images Three doctors use a semi-automatic method to frame the lesions on the image.
+3. Building the model Using the deep learning method to preprocess, analyze and train the marked images, and finally get a model diagnosis, efficacy evaluation and prognosis prediction model of breast cancer.
+4. Evaluating the model 1）Self-validation： Analyze the sensitivity, AUC of the breast cancer diagnosis model and the false-positive number on each ABUS volume.
+
+2) Compared the sensitivity, AUC and the false-positive number with a commercial diagnosis model.
+
+3)To test the screening and diagnostic efficacy of computer-aided diagnosis systems through prospective or retrospective studies.
+
+4)By analyzing the size and characteristics of the lesions after neoadjuvant chemotherapy, and predicting the OS and DFS time, the therapy assessment and prognosis prediction model were evaluated.

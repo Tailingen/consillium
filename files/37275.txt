@@ -1,0 +1,19 @@
+Biologically Optimized Infusion Schedule of Gemcitabine and Nab-Paclitaxel for the Treatment of Metastatic Pancreatic Cancer
+This phase II trial studies how well a biologically optimized infusion schedule of gemcitabine and nab-paclitaxel works in treating patients with pancreatic cancer that has spread to other places in the body (metastatic). Drugs used in chemotherapy, such as gemcitabine and nab-paclitaxel, work in different ways to stop the growth of tumor cells, either by killing the cells, by stopping them from dividing, or by stopping them from spreading. Altering the timing of the nab-paclitaxel infusion may improve response in patients with pancreatic cancer.
+Metastatic Pancreatic Adenocarcinoma|Stage IV Pancreatic Cancer AJCC v8
+DRUG: Gemcitabine|DRUG: Nab-paclitaxel
+Overall response rate (ORR), ORR will be assessed by Response Evaluation Criteria in Solid Tumors 1.1 in patients with advanced pancreatic adenocarcinoma to receive optimized infusion schedule of gemcitabine plus nab-paclitaxel. The ORR will be calculated as the proportion of patients who achieve a response to therapy divided by the total number of evaluable patients. All evaluable patients will be included in calculating the ORR for the study along with corresponding 95% binomial confidence intervals (CIs) (assuming that the number of patients who respond is binomially distributed)., Up to 2 years
+Incidence of adverse events (AEs), AEs will be assessed by Common Terminology Criteria for Adverse Events version 5.0 of optimized infusion schedule of gemcitabine plus nab-paclitaxel. Frequency and severity of AEs and tolerability of the regimen will be collected and summarized by descriptive statistics. The maximum grade for each type of toxicity will be recorded for each patient, and frequency tables will be reviewed to determine toxicity patterns. All patients who have received at least one dose of the therapeutic agents will be evaluable for toxicity and tolerability., Up to 2 years|Disease control rate, Disease control rate is calculated as the proportion of patients who achieve a response and stable disease to therapy divided by the total number of evaluable patients. Disease control rate will be calculated along with corresponding 95% binomial CIs (assuming that the number of patients who respond is binomially distributed)., Up to 2 years|Relative dose intensity, Relative dose intensity is calculated as the ratio of "delivered" to the "planned" dose over the period of therapy and will be summarized using descriptive statistics., Up to 2 years|Progression-free survival (PFS), PFS will initially be modeled using Kaplan-Meier methods, resulting in median survival times with 95% CI, assuming sufficient events have occurred., From initiation of therapy to documented progression or death without progression, assessed up to 2 years|Overall survival (OS), OS will initially be modeled using Kaplan-Meier methods, resulting in median survival times with 95% CI, assuming sufficient events have occurred., From initiation of therapy to death from any cause, assessed up to 2 years
+PRIMARY OBJECTIVE:
+
+I. To report overall response rate (ORR) for the optimized schedule according to Response Evaluation Criteria in Solid Tumors (RECIST) 1.1 guidelines.
+
+SECONDARY OBJECTIVES:
+
+I. To report toxicity of the infusion schedule. II. To report disease control rate. III. To calculate relative dose intensity. IV. To report the overall survival (OS). V. To report progression free survival (PFS). VI. To correlate exploratory biomarkers with clinical outcomes.
+
+OUTLINE:
+
+Patients receive gemcitabine intravenously (IV) over 30 minutes on days 1 and 15 and nab-paclitaxel IV over 30 minutes on days 3 and 17. Cycles repeat every 28 days in the absence of disease progression or unacceptable toxicity.
+
+After completion of study treatment, patients are followed up monthly for 3 months and then every 3 months thereafter.

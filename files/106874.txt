@@ -1,0 +1,20 @@
+Safety Study of CALAA-01 to Treat Solid Tumor Cancers
+Rationale: CALAA-01 is a targeted therapeutic designed to inhibit tumor growth and/or reduce tumor size. The active ingredient in CALAA-01 is a small interfering RNA (siRNA). This siRNA inhibits tumor growth via RNA interference to reduce expression of the M2 subunit of ribonucleotide reductase (R2). The CALAA-01 siRNA is protected from nuclease degradation within a stabilized nanoparticle targeted to tumor cells.
+
+PURPOSE: This phase I trial will:
+
+* Determine the safety, toxicity, and the maximum tolerated dose (MTD) of CALAA-01 when administered intravenously to patients with relapsed or refractory cancer.
+* Characterize the pharmacokinetics (PK) of CALAA-01 after intravenous administration.
+* Provide preliminary evidence of efficacy of intravenous CALAA-01 by evaluating tumor response.
+* Recommend a dose of intravenous CALAA-01 for future clinical studies.
+* Evaluate immune response, by measuring antibody and cytokine levels, and the effect of intravenous CALAA-01 on complement.
+Cancer|Solid Tumor
+DRUG: CALAA-01
+To determine the tolerability, safety profile and maximum tolerated dose (MTD) of intravenous CALAA-01., 3 months
+To characterize the pharmacokinetics (PK) of CALAA-01 after intravenous administration., 3 Months|To determine preliminary efficacy of intravenous CALAA-01 by evaluating tumor response., 3 months|To recommend an intravenous dose of CALAA-01 for future clinical studies., 3 month|To evaluate immune response, by measuring antibody and cytokine levels, and effect of intravenous CALAA-01 on complement., 3 month
+CALAA-01 is a targeted nanocomplex that contains anti-R2 siRNA. The complete nanocomplex formulation consists of four components:
+
+1. a duplex of synthetic, non-chemically-modified siRNA (C05C)
+2. a cyclodextrin-containing polymer (CAL101),
+3. a stabilizing agent (AD-PEG), and
+4. a targeting agent (AD-PEG-Tf) that contains the human transferrin protein (Tf). The cationic polymer interacts electrostatically with anionic siRNA to assemble into nanocomplexes below approximately 100 nm in diameter that protect the siRNA from nuclease degradation in serum. The siRNA-containing nanocomplexes are targeted to cells that over express the transferrin receptor (TfR). Upon reaching a target cell, transferrin binds to TfRs on the cell surface and the siRNA-containing nanocomplex enters the cell by endocytosis. Inside the cell, chemistry built into the polymer achieves unpackaging of the siRNA from the nanocomplex, permitting it to function via RNA interference.

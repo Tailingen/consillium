@@ -1,0 +1,43 @@
+Preoperative Hypofractionated Radiotherapy With FOLFOX for Esophageal or Gastroesophageal Junction Adenocarcinoma
+This phase II trial tests how well preoperative (prior to surgery) radiation therapy with fluorouracil, oxaliplatin, and leucovorin calcium (FOLFOX) works for the treatment of stage I-III esophageal or gastroesophageal junction adenocarcinoma. Hypofractionated radiation therapy delivers higher doses of radiation therapy over a shorter period of time and may kill more tumor cells and have fewer side effects. Fluorouracil stops cells from making deoxyribonucleic acid (DNA) and it may kill tumor cells. Leucovorin is not a chemotherapy medication but is given in conjunction with chemotherapy. Leucovorin is used with the chemotherapy medication fluorouracil to enhance the effects of the fluorouracil, in other words, to make the drug work better. Oxaliplatin is in a class of medications called platinum-containing antineoplastic agents. It damages the cell's DNA and may kill tumor cells. Giving preoperative hypofractionated radiation with fluorouracil and oxaliplatin may kill more tumor cells in patients with stage I-III esophageal or gastroesophageal junction adenocarcinoma.
+Clinical Stage I Esophageal Adenocarcinoma AJCC v8|Clinical Stage I Gastroesophageal Junction Adenocarcinoma AJCC v8|Clinical Stage II Esophageal Adenocarcinoma AJCC v8|Clinical Stage II Gastroesophageal Junction Adenocarcinoma AJCC v8|Clinical Stage III Esophageal Adenocarcinoma AJCC v8|Clinical Stage III Gastroesophageal Junction Adenocarcinoma AJCC v8
+PROCEDURE: Biospecimen Collection|PROCEDURE: Computed Tomography|PROCEDURE: Endoscopic Ultrasound|PROCEDURE: Esophagogastroduodenoscopy|DRUG: Fluorouracil|RADIATION: Hypofractionated Radiation Therapy|DRUG: Leucovorin Calcium|DRUG: Oxaliplatin|PROCEDURE: Positron Emission Tomography|OTHER: Survey Administration|DRUG: Docetaxel
+Pathologic complete response, A single-group design will be used to test whether the proportion is potentially non-inferior, with a non-inferiority proportion (P0) of 0.13 (H0: P ≤ 0.13 versus H1: P \> 0.13)., Up to 5 years after completion of chemoradiation
+Incidence of acute ≥ gastrointestinal (GI) adverse events (AEs), Report acute grade ≥ 3 GI AEs per Common Terminology Criteria for Adverse Events (CTCAE) version 5.0 criteria. Will be summarized descriptively., Up to 6 weeks after completion of chemoradiation|Incidence of post operative AEs, Determined by the Clavien-Dindo Classification. Will be summarized descriptively., From surgery up to 6 months after completion of chemoradiation|Patient-reported quality of life (QOL), Per Functional Assessment of Cancer Therapy- Esophageal. Will be assessed over time. Wilcoxon signed-rank tests will be used to calculate p-values. Descriptive statistics and graphical methods will also be used to summarize the data., Up to 24 months after completion of chemoradiation|Financial toxicity, Financial toxicity will be measured using the COmprehensive Score for financial Toxicity (COST), a patient-reported outcome measure that describes the financial distress experienced by cancer patients. The survey consists of 12 questions, each answered with a 0-4 scale where 0=Not at all, 1=A little bit, 2=Somewhat, 3=Quite a bit, and 4=Very much. Results will be reported descriptively and include separate consideration of individual item scores., Up to 24 months after completion of chemoradiation|Overall survival (OS), Will be assessed graphically using the Kaplan-Meier method. Summary statistics will be reported, including medians, 95% confidence intervals, etc., From study entry to death from any cause, up to 5 years after completion of chemoradiation|Progression-free survival (PFS), Will be assessed graphically using the Kaplan-Meier method. Summary statistics will be reported, including medians, 95% confidence intervals, etc., From study entry to the first of either disease progression or death, up to 5 years after completion chemoradiation|Long-term toxicity secondary to trimodality therapy, Will be reported descriptively using CTCAE version 5.0 criteria., Up to 5 years after completion of chemoradiation|Event free survival, Will be assessed graphically using the Kaplan-Meier method. Summary statistics will be reported, including medians, 95% confidence intervals, etc., From study entry to the first of either disease progression or recurrence or relapse or death, up to 5 years after completion of chemoradiation|Outcomes for patients treated with hypofractionated radiotherapy and FOLFOX but who did not proceed to esophagectomy, OS and PFS will be assess using Kaplan-Meier methodology. Summary statistics will be reported, including medians, 95% confidence intervals, etc. AEs and QOL data will be reported with summary statistics and graphical methods, as appropriate., Up to 5 years after completion of chemoradiation|Toxicity of chemoradiation between patients receiving proton based versus photon-based radiotherapy, Will be done descriptively, reporting frequencies and percentages between patients., Up to 5 years after completion of chemoradiation|Toxicity of chemoradiation between groups receiving proton based versus photon-based radiotherapy, Will be done descriptively, reporting toxicity rates between groups using the chi-square test., Up to 5 years after completion of chemoradiation
+PRIMARY OBJECTIVE:
+
+I. To demonstrate non-inferiority of pathologic complete response (pCR) with hypofractionated radiotherapy and concurrent FOLFOX compared to historical controls.
+
+SECONDARY OBJECTIVES:
+
+I. Report targeted acute grade ≥ 3 gastrointestinal (GI) toxicity, per Common Terminology Criteria for Adverse Events (CTCAE) version (v)5.0.
+
+II. Assess post-operative toxicity for patients undergoing esophagectomy, as determined by the Clavien-Dindo Classification.
+
+III. Analyze patient-reported quality of life, per Functional Assessment of Cancer Therapy- Esophageal (FACT-E).
+
+IV. Determine the financial toxicity of hypofractionated radiotherapy, using Comprehensive Score for Financial Toxicity (COST-FACIT).
+
+V. Report overall survival and progression-free survival. VI. Report long-term toxicity secondary to trimodality therapy. VII. Report event-free survival. VIII. Assess outcomes for patients treated with hypofractionated radiotherapy and FOLFOX but who did not proceed to esophagectomy.
+
+IX. Compare toxicity of chemoradiation between patients receiving proton based versus (vs.) photon-based radiotherapy.
+
+CORRELATIVE OBJECTIVES:
+
+I. Explore the predictive and prognostic role for circulating tumor DNA in esophageal cancer.
+
+II. Study the utility of whole exome and germline sequencing to predict chemoradiation treatment response.
+
+III. Explore the predictive power of whole exome sequencing regarding chemoradiotherapy toxicity.
+
+IV. Implement whole exome and germline sequencing to personalize immunotherapy in esophageal cancer.
+
+V. Study the predictive and prognostic role of tumor-derived extracellular vesicles in esophageal cancer.
+
+OUTLINE:
+
+INDUCTION CHEMOTHERAPY (FLOT \[5-FU/leucovorin/oxaliplatin/docetaxel\]): Patients receive 5-FU intravenously (IV) over 24 hours on day 1, leucovorin calcium IV over 10-120 minutes on day 1, oxaliplatin IV over 2-6 hours on day 1, and docetaxel IV over 1 hour on day 1 of each cycle. Treatment repeats every 2 weeks for a total of up to 4 cycles in the absence of disease progression or unacceptable toxicity. After completion of FLOT, patients undergo radiation therapy daily for 3 weeks with 2 concurrent cycles of FOLFOX.
+
+FOLFOX: Patients receive oxaliplatin IV over 2-6 hours on day 1, leucovorin calcium IV over 10-120 minutes on day 1, and and fluorouracil IV over 46-48 hours on days 1 and 2. of each cycle. Treatment repeats every 2 weeks for a total of 3 cycles in the absence of disease progression or unacceptable toxicity. Starting at cycle 2, patients undergo radiation therapy daily on Monday through Friday for a total of 15 treatments. Patients undergo esophagogastroduodenoscopy (EGD) and/or endoscopic ultrasound (EUS) during screening and undergo computed tomography (CT)/position emission tomography (PET) scan and CT scan as well as blood and tissue sample collection throughout the study.
+
+After completion of study treatment, patients are followed up at 6,12 and 24 months and then up to 5 years.

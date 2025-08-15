@@ -1,0 +1,22 @@
+Radiation Therapy With RapidPlan Knowledge-based Planning vs Human-Driven Planning for Treatment of Prostate Cancer
+This phase III trial compares the effects of radiation therapy using RapidPlan, trademark, knowledge-based planning to human-driven planning in treating patients with prostate cancer. Radiation therapy uses high energy x-rays, particles, or radioactive seeds to kill tumor cells and shrink tumors. Successful delivery of radiation requires planning to develop a treatment plan for how and where the radiation is to be delivered. RapidPlan is a knowledge-based treatment planning tool that automatically creates an optimal treatment plan based on identified targets and organs at risk for radiation exposure. Human-driven treatment planning by a dosimetrist, the current standard of care, requires significant resources and time and may vary within and among radiation centers. Giving radiation therapy with RapidPlan knowledge-based planning may have similar or less side effects compared to human-driven planning in treating patients with prostate cancer.
+Prostate Carcinoma
+PROCEDURE: Biospecimen Collection|PROCEDURE: Magnetic Resonance Imaging|RADIATION: Photon Beam Radiation Therapy|PROCEDURE: Positron Emission Tomography|OTHER: Questionnaire Administration|RADIATION: Radiation Therapy Treatment Planning and Simulation|RADIATION: Radiation Therapy Treatment Planning and Simulation
+Incidence of grade 3 or higher genitourinary (GU) and gastrointestinal (GI) adverse events (AEs), AEs will be defined using Common Terminology Criteria for Adverse Events (CTCAE) version 5.0. Comparisons between treatment arms will be made using a non-inferiority test for the difference between two proportions with an alpha level of 5%. The proportion of patients experiencing grade 3 or higher GU or GI AEs over the number of patients eligible for toxicity will be estimated., Up to 3 months post-radiotherapy
+PRIMARY OBJECTIVE:
+
+I. To determine if RapidPlan knowledge-based planning is non-inferior to human-driven planning regarding treatment-related rates of grade 3 or higher genitourinary (GU) and gastrointestinal (GI) adverse events at 3 months post-radiotherapy for prostate cancer.
+
+EXPLORATORY OBJECTIVES:
+
+I. After completion of radiation therapy, determine the incidence of:
+
+Ia. Grade 2 or greater GU and GI toxicity at 3 months (Common Terminology Criteria for Adverse Events \[CTCAE\] version 5); Ib. Quality of life 3 months post-radiotherapy; Ic. Rate of achieving dose-volume constraints. II. Determine if there are any statistical differences in dose-volumes results with RapidPlan knowledge-based planning.
+
+OUTLINE: Patients are randomized to 1 of 2 arms.
+
+ARM A (HUMAN-DRIVEN): Patients receive human-driven treatment planning and undergo radiation therapy over 15-30 minutes on 5-44 fractions per standard of care. Additionally, patients undergo magnetic resonance imaging (MRI) pre-treatment and blood sample collection and positron emission tomography (PET) throughout study.
+
+ARM B (KNOWLEDGE-BASED): Patients receive RapidPlan treatment planning and undergo radiation therapy over 15-30 minutes on 5-44 fractions per standard of care. Additionally, patients undergo MRI pre-treatment and blood sample collection and PET throughout study.
+
+After completion of study treatment, patients are followed up at 3 and 12 months then yearly for up to year 5.

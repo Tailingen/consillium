@@ -1,0 +1,38 @@
+Androgen Ablation Therapy With or Without Chemotherapy in Treating Patients With Metastatic Prostate Cancer
+RATIONALE: Androgens can cause the growth of prostate cancer cells. Androgen ablation therapy may stop the adrenal glands from making androgens. Drugs used in chemotherapy, such as docetaxel, work in different ways to stop the growth of tumor cells, either by killing the cells or by stopping them from dividing. It is not yet known whether androgen-ablation therapy is more effective with or without docetaxel in treating metastatic prostate cancer.
+
+PURPOSE: This randomized phase III trial is studying androgen-ablation therapy and chemotherapy to see how well they work compared to androgen-ablation therapy alone in treating patients with metastatic prostate cancer.
+Metastatic Hormone-sensitive Prostate Cancer
+DRUG: androgen-deprivation therapy|DRUG: docetaxel
+Overall Survival, Overall survival is defined as the time from randomization to death or date last known alive. Survival data reflects the database as of December 23, 2013., Assessed every 3 months if patient is < 2 years from study entry; every 6 months if patient is 2 - 5 years from study entry; then annually if patient is 5 - 10 years from study entry
+Time to Clinical Progression, Time to clinical progression is defined as the time from randomization to clinical progression. Clinical progression is defined as increasing symptomatic bone metastases, progression per Response Evaluation Criteria In Solid Tumors (RECIST) criteria or clinical deterioration due to cancer per investigator's opinion. Patients without documented clinical progression were censored at the date of last disease assessment. Secondary endpoint data reflect the database as of December 23, 2014., Assessed every 3 months if patient is < 2 years from study entry; every 6 months if patient is 2 - 5 years from study entry; then annually if patient is 5 - 10 years from study entry|Time to Castration Resistant Prostate Cancer (Hormone Refractory Disease), Time to castration resistant prostate cancer is defined as the time from randomization to PSA progression or clinical progression, whichever occurred first. Patients without documented progression were censored at the date of last disease assessment. Secondary endpoint data reflect the database as of December 23, 2014., Assessed every 3 months if patient is < 2 years from study entry; every 6 months if patient is 2 - 5 years from study entry; then annually if patient is 5 - 10 years from study entry|Proportion of Patients With PSA Complete Response (CR) at 6 Months, PSA CR is defined as a PSA level less than 0.2 ng/ml measured for 2 consecutive measurements at least 4 weeks apart. Patients who met the criterion of PSA CR and had PSA level less than 0.2 ng/ml before and after the 6-month time point are considered as having a PSA CR at 6 months., Assessed at 6 months|Proportion of Patients With PSA Complete Response (CR) at 12 Months, PSA CR is defined as a PSA level less than 0.2 ng/ml measured for 2 consecutive measurements at least 4 weeks apart. Patients who met the criterion of PSA CR and had PSA level less than 0.2 ng/ml before and after the 12-month time point are considered as having a PSA CR at 12 months., Assessed at 12 months|QOL Change From Baseline to 3 Months, The primary QOL change was evaluated by the Functional Assessment of Cancer Therapy - Prostate (FACT-P) instrument. FACT-P is a self-report measure of both general and disease-specific QOL. Higher scores represent better QOL. The FACT-P (version 4) contains 39 likert items distributed over 5 subscales: physical (7 items), social/family (7 items), emotional (6 items), and functional (7 items) well-being, and the additional concerns related to prostate cancer scale (12 items). The FACT-P total score is calculated by summing all these 5 subscales and ranges from 0 to 156., Assessed at baseline and 3 months
+OBJECTIVES:
+
+Primary
+
+* Evaluate the ability of early chemotherapy to improve overall survival of patients commencing androgen deprivation for metastatic prostate cancer.
+
+Secondary
+
+* Determine whether early chemotherapy can increase the time to clinical progression (radiographic or symptomatic deterioration due to disease) over hormonal therapy alone.
+* Determine whether early chemotherapy can increase the time to development of hormone-refractory disease over hormonal therapy alone.
+* Determine whether early chemotherapy can increase the time to serological progression over hormonal therapy alone.
+* Determine rates of biochemical response at 6 months and 12 months in the chemohormonal arm versus the hormonal therapy alone arm.
+* Determine the frequency of adverse events and the tolerability of chemotherapy combined with hormonal therapy versus hormonal therapy alone.
+* Determine whether the postulated clinically meaningful increase in disease control is associated with an alteration in overall quality of life using the Functional Assessment of Cancer Therapy-Prostate questionnaire.
+* Determine the ability of prostate-specific antigen (PSA) changes to be a surrogate for clinical benefit from therapy and overall survival.
+
+Tertiary
+
+* Determine whether there are proteins differentially translated from the genome in hormone-sensitive prostate cancer, prostate cancer that has responded to hormonal therapy, and hormone-refractory prostate cancer.
+* Determine the frequency of constitutive polymorphisms of enzymes involved in steroid metabolism and other carcinogenic processes.
+* Determine whether the amount and frequency of certain carcinogenic proteins in prostate cancer tissue such as C-X-C chemokine receptor type 4 (CXCR-4) and manganese superoxide dismutase can be correlated with a poor prognosis.
+
+OUTLINE: This is a randomized, multicenter study. Patients are stratified according to age (≥ 70 vs \< 70), ECOG performance status (0-1 vs 2), combined androgen blockade for \> 30 days (yes vs no), duration of prior adjuvant hormonal therapy (\> 12 months vs ≤ 12 months), concurrent bisphosphonate use (yes vs no), and volume of disease (low vs high). Patients are randomized to 1 of 2 treatment arms.
+
+* Arm A (Androgen-Deprivation Therapy and Docetaxel): Patients receive androgen-deprivation therapy (including luteinizing hormone-releasing hormone \[LHRH\] agonist therapy, LHRH antagonist therapy, or surgical castration). Patients also receive docetaxel intravenously (IV) over 1 hour on day 1. Treatment with docetaxel repeats every 21 days for up to 6 courses in the absence of disease progression or unacceptable toxicity.
+* Arm B (Androgen-Deprivation Therapy alone): Patients receive androgen-deprivation therapy (as in arm A) alone.
+
+Quality of life is assessed at baseline and at months 3, 6, 9 and 12.
+
+After completion of study treatment, patients are followed up periodically for up to 10 years.

@@ -1,0 +1,31 @@
+Palliative Radiation Therapy in Reducing Pain in Patients With Bone Metastasis
+This randomized phase II trial studies how well palliative radiation therapy works in reducing pain in patients with cancer that has spread from the original (primary) tumor to the bone (bone metastasis). Palliative radiation therapy using external beam radiation therapy may help patients with bone metastasis to relieve symptoms and reduce pain caused by cancer.
+Malignant Neoplasm|Metastatic Malignant Neoplasm in the Bone|Pain
+RADIATION: External Beam Radiation Therapy|RADIATION: Palliative Radiation Therapy|OTHER: Quality-of-Life Assessment|OTHER: Questionnaire Administration
+Re-Treatment rRates, The primary analysis will use a one-sided Z-test for proportions to test the null hypothesis., Up to 6 months post-treatment
+Change in Pain Intensity/Narcotic Use Assessed Using the Numerical Rating Pain Scale NRPS), Measured on a continuous scale and will be compared between groups using 2-sample t-tests.
+
+The variable for pain response is categorical rather than continuous and will be compared between groups using a Fisher's exact test. Patients categorized as Complete or Partial Responders will be compared with those categorized as stable or worsening pain responders. The rating pain scale is from 0-10, with 0 being no pain 8-10 worst possible pain., Baseline to up to 6 months post-treatment|Change in Quality of Life Measured Using the Quality of Life Questionnaire (QLQ) core(C)15-palliative (PAL), Analyses will be performed that examine whether there are associations between quality of life and treatment outcome (re-treatment rates or amount of pain relief). Measured on a continuous scale and will be compared between groups using 2-sample t-tests. Either multiple logistic regression (for binary outcomes) models or analysis of covariance (ANCOVA) models for continuous outcomes will be used. The QLQ-C15-PAL has high sensitivity and specificity for identifying clinically important symptoms and functional health impairments. Scores range from 0 to 100 with higher values indicating a better quality of life., Baseline to up to 6 months post-treatment|Incidence of Adverse Events, Will be graded according to the National Cancer Institute Common Terminology Criteria for Adverse Events version 4.0. Groups will be compared to determine whether there are any differences in the number or severity of toxicities. When comparing severity of toxicities between groups, chi-square tests will be examined. The Cochran-Armitage trend test can be used to determine if there is evidence a trend in severity of toxicities when comparing groups., Up to 6 months post-treatment|Number of Participants with Patient Satisfaction of Treatment Outcome, Analyses will be performed that examine whether there are associations between patient satisfaction and treatment outcome (re-treatment rates or amount of pain relief). Satisfaction will be measured by answering a series of questions with a scoring scale range of 1 (strongly agree) to 5 (strongly disagree). The higher the total score the less satisfaction with treatment received., Up to 6 months post-treatment|Number Participants with Perceived Stress of Treatment Outcome, Analyses will be performed that examine whether there are associations between perceived stress measures and treatment outcome (re-treatment rates or amount of pain relief). Scoring scale is 1 (never) to 5 (very often) when monitoring stress, the higher the total score the more stress the participant has experienced., Up to 6 months post-treatment|Number of Participants with Social Support Assessed Via Self-Reported Surveys, Association between social support and treatment outcomes will be assessed. Social support will be measured by answering a series of questions with a scoring scale range of 1 (definitely false for you) to 4 (definitely true for you). The higher the total score the more support the participants receive from their support network., Up to 6 months post-treatment
+PRIMARY OBJECTIVES:
+
+I. To determine whether 8 gray (Gy) x 2 fractions results in lower re-treatment rates compared to 8 Gy x 1 fraction.
+
+SECONDARY OBJECTIVES:
+
+I. To determine whether 8 Gy x 2 fractions provides superior pain and narcotic relief compared to 8 Gy x 1 fraction.
+
+II. To determine whether 8 Gy x 2 fractions is associated with improved quality of life compared to 8 Gy x 1 fraction.
+
+III. To determine whether use of a bone strengthening agent is associated with improved pain relief, narcotic relief and re-treatment rates.
+
+IV. To determine if 8 Gy x 2 fractions is associated with increased toxicity. V. To correlate patient satisfaction, perceived stress, and social support with treatment outcomes.
+
+TERTIARY OBJECTIVES:
+
+OUTLINE: Patients are randomized to 1 of 2 arms.
+
+ARM I: Patients undergo 1 fraction of external beam radiation therapy (EBRT) over 30 minutes.
+
+ARM II: Patients undergo 2 fractions of EBRT over 30 minutes. The 2 fractions will be separated by 3-7 days.
+
+After completion of study treatment, patients are followed up at 30 days and at 3 months.

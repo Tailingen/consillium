@@ -1,0 +1,28 @@
+A Phase II Clinical Trial Comparing the Efficacy of RO7198457 Versus Watchful Waiting in Patients with CtDNA-positive, Resected Stage II (high Risk) and Stage III Colorectal Cancer
+This is a multi-site, open-label, Phase II, randomized, trial to compare the efficacy of RO7198457 versus watchful waiting in patients with circulating tumor DNA (ctDNA) positive, surgically resected Stage II/III rectal cancer, or Stage II (high risk)/Stage III colon cancer.
+Colorectal Cancer Stage II|Colorectal Cancer Stage III
+DRUG: RO7198457 intravenous (IV)|OTHER: Observational group (no intervention)
+Disease-free survival (DFS), DFS defined as the time from randomization to occurrence of any of the following events, whichever occurs first:
+
+* Locoregional recurrence or distant metastases as determined by an independent central radiology assessment.
+* Occurrence of second primary (same or other) cancer as determined by an independent central radiology assessment.
+* Death from any cause.
+* Loss to follow-up is censored., Through study completion, up to 5 years
+Relapse-free survival (RFS), RFS is defined as the time from randomization to occurrence of any of the following events, whichever occurs first:
+
+* Locoregional recurrence or distant metastases as determined by the investigator.
+* Death from any cause.
+* Occurrence of second primary (same or other) cancer as determined by the investigator is ignored.
+* Loss to follow-up is censored., Through study completion, up to 5 years|Time to recurrence (TTR), TTR is defined as the time from randomization to occurrence of any of the following events (i.e., events related to the same cancer), whichever occurs first:
+
+* Locoregional recurrence or distant metastases as determined by the investigator.
+* Death from same cancer.
+* Occurrence of second primary (same or other) cancer as determined by the investigator is ignored.
+* Loss to follow-up and deaths from other cancer, non-cancer-related deaths, treatment-related deaths are censored., Through study completion, up to 5 years|Time to treatment failure (TTF), TTF is defined as the time from randomization to occurrence of any of the following events, whichever occurs first:
+
+* Locoregional recurrence or distant metastases as determined by the investigator.
+* Occurrence of second primary (same or other) cancer as determined by the investigator.
+* Death from any cause except non-cancer related death.
+* Start of new cancer therapy.
+* Loss to follow-up and non-cancer-related deaths are censored., Through study completion, up to 5 years|Overall survival (OS), OS defined as the time from randomization to death from any cause., Through study completion, up to 5 years|Change of ctDNA status (approximately every 3 months), Through study completion, up to 5 years|Occurrence of treatment emergent adverse event (TEAE), TEAE, including Grade 3+, serious, fatal TEAE by relationship (adverse events graded according to the National Cancer Institute Common Terminology Criteria for Adverse Events, version 5.0)., 15 months|Occurrence of dose reduction and discontinuation of RO7198457 due to a TEAE., 15 months
+Patients will receive up to 15 doses of RO7198457 over the course of trial treatment.

@@ -1,0 +1,31 @@
+Prospective Study of EndoAim: ASUS AI Solution for Colorectal Polyp Diagnosis
+"The colorectal cancer mortality rate in Taiwan ranks third among all cancers, so it is crucial to prevent colorectal cancer through regular colonoscopy screenings and remove polyps with higher cancer risk. However, during colonoscopy, doctors tend to miss about 22% to 28% of polyps, and 20% to 24% of these missed polyps may turn into cancerous adenomas. Introducing an Artificial Intelligence (AI) assisted system can improve the overall quality of colonoscopy.
+
+This study aims to evaluate the effectiveness of the ASUS AI-assisted system (EndoAim) in diagnosing polyps during colonoscopy. It includes comparing the outcomes of colonoscopy with and without the use of EndoAim and assessing the impact of EndoAim on diagnostic effectiveness across different subgroups.
+
+Each participant will be randomly assigned to undergo a colonoscopy with or without the assistance of EndoAim. The performance of the AI-assisted system in colonoscopy will be comprehensively evaluated using indicators such as APC(Adenoma Per Colonoscopy), ADR(Adenoma Detection Rate), PDR(Polyp Detection Rate), and Positive Predictive Value (PPV).. A subgroup analysis will also be conducted based on several important factors. Polyps will be biopsied and sent for pathological examination, with the pathology report serving as the final diagnosis for subsequent analysis."
+Adenoma Colon Polyp
+DEVICE: Use ASUS EndoAim as an assistant software to perform colonoscopy
+APC(Adenoma per colonocopy), Rate of Adenoma Per Colonoscopy (APC) Increase in AI(Artificial Intelligence)-Assisted Group Compared to Standard Group Total Adenoma Polyps Findings/Total Performed Colonoscopy, 30 days
+"Background: According to the Health Promotion Administration of Taiwan and the American Cancer Society, colorectal cancer ranks 3rd in cancer-related deaths in Taiwan and 2nd in the United States. Each year, about 900,000 people die from colorectal cancer in the U.S. Before progressing to cancer, the removal of polyps can prevent colorectal cancer. Studies show that increasing the polyp detection rate by just 1% can reduce the risk of fatal colorectal cancer by 5%.
+
+Colonoscopy is considered the gold standard for polyp removal. However, this procedure is technically demanding, time-consuming, and requires highly skilled physicians. Research indicates that 22% to 28% of polyps and 20% to 24% of precancerous adenomas are missed during colonoscopy. The main reasons include polyps being too small or flat, making them difficult to detect, or incomplete coverage of the colon during the procedure.
+
+Recent advancements in Artificial Intelligence (AI) technology, especially in medical imaging, offer great potential in assisting diagnosis. AI-assisted systems can analyze images to help physicians detect and diagnose polyps more quickly and accurately during colonoscopies. This not only improves accuracy but also reduces the workload of physicians and increases the efficiency of the examination.
+
+Implementing AI systems in colonoscopy can enhance the Adenoma Detection Rate (ADR) and Adenoma Per Colonoscopy (APC), while assisting in polyp characterization to help physicians determine treatment strategies. Thus, AI-supported colonoscopy procedures can improve both safety and effectiveness. While ADR has traditionally been the focus of most studies, APC provides a more comprehensive view of whether all adenomas are successfully removed. Therefore, this study will focus on APC as the primary indicator.
+
+Study Design Objective:
+
+This study aims to evaluate the effectiveness of the AI-assisted system (EndoAim) in diagnosing colorectal polyps during colonoscopy. The specific goals include:
+
+* Comparing the effectiveness of standard colonoscopy with AI-assisted colonoscopy using EndoAim.
+* Assessing the diagnostic performance of EndoAim across different subgroups (screening vs. surveillance, bowel cleanliness, physician experience, and polyp location).
+
+Significance:
+
+Building on existing literature, this study seeks to provide further evidence of the practical application of AI in colonoscopy. Through rigorous clinical trial design and extensive data analysis, robust proof of AI's utility in assisting diagnosis and support for broader clinical application will be offered.
+
+Endpoints:
+
+The primary endpoint is Adenoma Per Colonoscopy (APC). Secondary endpoints include Adenoma Detection Rate (ADR), Polyp Detection Rate (PDR), and Positive Predictive Value (PPV). These metrics will provide a comprehensive assessment of the effectiveness of the AI-assisted system in colonoscopy."

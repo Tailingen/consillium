@@ -1,0 +1,41 @@
+Women's MoonShot: Neoadjuvant Treatment With PaCT for Patients With Locally Advanced TNBC
+This phase II trial studies how well panitumumab, carboplatin and paclitaxel work in treating patients with newly diagnosed triple negative breast cancer that is limited to the breast and possibly to the nearby lymph nodes (locally advanced). This treatment study is linked to NCI-2015-00191 protocol, which uses a baseline biopsy to determine the neoadjuvant therapy that matches the sub-type of triple negative breast cancer (TNBC). Immunotherapy with panitumumab, may induce changes in body's immune system and may interfere with the ability of tumor cells to grow and spread. Drugs used in chemotherapy, such as carboplatin and paclitaxel, work in different ways to stop the growth of tumor cells, either by killing the cells, by stopping them from dividing, or by stopping them from spreading. Giving panitumumab, carboplatin and paclitaxel before surgery may be an effective treatment for breast cancer by making the tumor smaller and reducing the amount of normal tissue that needs to be removed.
+Stage I Breast Cancer AJCC v7|Stage IA Breast Cancer AJCC v7|Stage IB Breast Cancer AJCC v7|Stage II Breast Cancer AJCC v6 and v7|Stage IIA Breast Cancer AJCC v6 and v7|Stage IIB Breast Cancer AJCC v6 and v7|Stage III Breast Cancer AJCC v7|Stage IIIA Breast Cancer AJCC v7|Stage IIIB Breast Cancer AJCC v7|Stage IIIC Breast Cancer AJCC v7|Triple-Negative Breast Carcinoma
+DRUG: Carboplatin|DRUG: Paclitaxel|BIOLOGICAL: Panitumumab
+Pathologic compete response (pCR) (residual cancer burden [RCB]-0) or RCB-I response rates of patients with localized triple-negative breast cancer (TNBC) treated with panitumumab, carboplatin and paclitaxel (PaCT), Will estimate the proportion of patients with pCR (RCB-0) or RCB-I as the response rate along with an appropriate 95% confidence interval. Will estimate the proportion of patients in the remaining RCB categories with confidence intervals as well., Up to 2 years
+Progression free survival (PFS), PFS distribution will be estimated using the Kaplan-Meier method., Time from enrollment to progression of disease (> 20% increase in tumor size) or death whichever comes first, assessed up to 2 years|Changes of EGFR levels, Potential biomarkers of response will be correlated with pathologic response to this treatment using appropriate statistical analyses for the biomarker of interest., Baseline up to 1 week after 1 dose of panitumumab|Pathologic complete response (pCR) (residual cancer burden [RCB]-0) or RCB-I response rates of patients treated with panitumumab, carboplatin and paclitaxel (PaCT), Assessed by radiographic imaging. The proportion of patients with pCR (RCB-0) or RCB-I as the response rate will be estimated along with an appropriate 95% confidence interval. The proportion of patients in the remaining RCB categories will be estimated with confidence intervals., Up to 4 courses (84 days)|Overall survival (OS), OS distribution will be estimated using the Kaplan-Meier method., Up to 2 years after completion of study treatment
+PRIMARY OBJECTIVE:
+
+I. To evaluate the pathologic complete response (pCR), residual cancer burden (RCB)-0 and RCB-I rates of patients with localized TNBC who were treated with panitumumab, carboplatin and paclitaxel (PaCT) in the neoadjuvant setting.
+
+SECONDARY OBJECTIVES:
+
+I. To estimate progression free survival (PFS) distribution of localized TNBC patients who were non-responders to initial anthracycline and cyclophosphamide chemotherapy, and who were treated with the PaCT regimen in the neoadjuvant setting.
+
+II. Determine changes of epidermal growth factor receptor (EGFR) downstream biomarkers one week after 1 dose of panitumumab.
+
+III. Determine response rate after 4 cycles of PaCT using radiographic imaging. IV. Correlate pathologic response with EGFR expression as measured by immunohistochemistry (IHC).
+
+V. Determine toxicity associated to 4 cycles of PaCT in the neoadjuvant setting.
+
+VI. Compare pathologic response to 4 cycles of PaCT in EGFR overexpressing tumors versus (vs.) non-EGFR overexpressing tumors.
+
+VII. Compare pathologic response in tumors to 4 cycles of PaCT vs. 12 weeks of weekly paclitaxel (using data collected in conjunction with protocol 2014-0185).
+
+EXPLORATORY OBJECTIVES:
+
+I. Determine the correlation between EGFR expression by IHC and the presence of enhanced EGFR gene signatures at the time of initial tumor biopsy prior to neoadjuvant setting (NACT) (using gene expression data obtained from the protocol 2014-0185).
+
+II. Determine rates of pCR in patients with EGFR overexpressed tumors identified by gene signatures (using gene expression data obtained from protocol 2014-0185) and compare to pCR rates in non-EGFR overexpressed tumors.
+
+III. Determine the correlation between EGFR expression by IHC and the changes of EGFR downstream changes induced in surgery sample after completion of PaCT regimen.
+
+IV. Determine the change in programmed cell death ligand 1 (PD-L1) glycosylation induced by panitumumab, and correlation with efficacy.
+
+V. Determine the change after treatment in blood-based markers, if any, and use these to predict a response to panitumumab treatment.
+
+OUTLINE:
+
+Patients receive panitumumab intravenously (IV) over 30 minutes and paclitaxel IV over 30 minutes on days 1, 8, and 15. Patients also receive carboplatin IV over 30 minutes on day 1. Treatment repeats every 21 days for up to 4 cycles in the absence of disease progression or unacceptable toxicity.
+
+After completion of study treatment, patients are followed up every 3-4 months.

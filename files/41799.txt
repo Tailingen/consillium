@@ -1,0 +1,32 @@
+IRX-2, Cyclophosphamide, and Nivolumab in Treating Patients With Recurrent or Metastatic and Refractory Liver Cancer
+This phase Ib trial studies the side effects and best dose of IRX-2 when given together with cyclophosphamide and nivolumab in treating patients with liver cancer that has come back or spread to other parts of the body and does not response to treatment. Biological therapies, such as IRX-2, may stimulate or suppress the immune system in different ways and stop tumor cells from growing. Drugs used in chemotherapy, such as cyclophosphamide, work in different ways to stop the growth of tumor cells, either by killing the cells, by stopping them from dividing, or by stopping them from spreading. Immunotherapy with monoclonal antibodies, such as nivolumab, may help the body's immune system attack the cancer, and may interfere with the ability of tumor cells to grow and spread. Giving IRX-2, cyclophosphamide, and nivolumab may work better than the IRX?2 regimen alone in treating patients with hepatocellular carcinoma.
+Recurrent Hepatocellular Carcinoma|Refractory Liver Carcinoma|Stage IV Hepatocellular Carcinoma AJCC v8|Stage IVA Hepatocellular Carcinoma AJCC v8|Stage IVB Hepatocellular Carcinoma AJCC v8
+DRUG: Cyclophosphamide|BIOLOGICAL: Cytokine-based Biologic Agent IRX-2|BIOLOGICAL: Nivolumab
+Recommended phase II dose, This is based on Simon?s MiniMax design., Up to 28 days|Incidence of adverse events, Per National Cancer Institute (NCI) Common Terminology Criteria for Adverse Events version 5.0., Up to 2 years
+Overall response rate, Assessed by Response Evaluation Criteria in Solid Tumors (RECIST) version 1.1. Best response and the percentage of participants with a best response of partial response or better will be summarized., Up to 2 years|Median progression-free survival (PFS), Per RECIST 1.1. PFS will be summarized using Kaplan?Meier methods., Time between study enrollment and when objective evidence of disease progression is documented, assessed up to 2 years|PFS, PFS rate will be summarized using Kaplan?Meier methods., At 6 months|Overall survival, Time between study enrollment and death, assessed up to 2 years
+Circulation T cell profiles, Up to 2 years|Tumor neoantigen, Using multiplex proteomic assay., Up to 2 years|Circulating immune cell profiles circulating tumor deoxyribonucleic acid (DNA), From peripheral blood., Up to 2 years
+PRIMARY OBJECTIVES:
+
+I. To determine the safety profile of combination IRX?2 regimen and nivolumab in anti?PD?1/PD?L1 naive patients who have failed or not tolerated at least one line of treatment.
+
+SECONDARY OBJECTIVES:
+
+I. To evaluate the overall response rate of IRX?2 regimen combined with nivolumab using Response Evaluation Criteria in Solid Tumors (RECIST) 1.1 and immune modified RECIST criteria.
+
+II. To evaluate the rate of 6?month progression?free survival in patients treated with combination IRX?2 regimen with nivolumab.
+
+III. To evaluate median progression?free survival and overall survival.
+
+EXPLORATORY OBJECTIVES:
+
+I. To evaluate the circulating T cell profiles in patients before and after therapy with the combination IRX?2 regimen and nivolumab.
+
+II. To explore identification of tumor tissue neoantigens through a multiplex proteomic assay (MHC?PepSeq) paired with tumor genomic and transcriptomic sequencing.
+
+III. To explore putative biomarkers (including circulating tumor deoxyribonucleic acid \[DNA\] and immune cell profiles) in peripheral blood to generate hypotheses for response to treatment with combination IRX?2 regimen and nivolumab.
+
+OUTLINE: This is a dose-escalation study of IRX-2.
+
+Patients receive nivolumab intravenously (IV) over 30 minutes on day 1, cyclophosphamide IV on day 1, and IRX-2 subcutaneously (SC) for 10 days between days 4 and 15. Cycles repeat every 28 days for up to 18 months in the absence of disease progression or unacceptable toxicity. Patients receive booster IRX-2 SC at 3, 6, 9, 12, and 15 months.
+
+After completion of study treatment, patients are followed up every 12 weeks.

@@ -1,0 +1,67 @@
+Testing the Role of DNA Released From Tumor Cells Into the Blood in Guiding the Use of Immunotherapy After Surgical Removal of the Bladder for Bladder Cancer Treatment, MODERN Study
+This phase II/III trial examines whether patients who have undergone surgical removal of bladder, but require an additional treatment called immunotherapy to help prevent their bladder cancer from coming back, can be identified by a blood test. Many types of tumors tend to lose cells or release different types of cellular products including their DNA which is referred to as circulating tumor DNA (ctDNA) into the bloodstream before changes can be seen on scans. Health care providers can measure the level of ctDNA in blood or other bodily fluids to determine which patients are at higher risk for disease progression or relapse. In this study, a blood test is used to measure ctDNA and see if there is still cancer somewhere in the body after surgery and if giving a treatment will help eliminate the cancer. Immunotherapy with monoclonal antibodies, such as nivolumab and relatlimab, can help the body's immune system to attack the cancer, and can interfere with the ability of tumor cells to grow and spread. This trial may help doctors determine if ctDNA measurement in blood can better identify patients that need additional treatment, if treatment with nivolumab prolongs patients' life and whether the additional immunotherapy treatment with relatlimab extends time without disease progression or prolongs life of bladder cancer patients who have undergone surgical removal of their bladder.
+Muscle Invasive Bladder Urothelial Carcinoma|Stage II Bladder Urothelial Carcinoma AJCC v6 and v7|Stage III Bladder Urothelial Carcinoma AJCC v6 and v7|Stage IV Bladder Urothelial Carcinoma AJCC v7
+PROCEDURE: Biospecimen Collection|OTHER: cfDNA or ctDNA Measurement|PROCEDURE: Computed Tomography|PROCEDURE: Magnetic Resonance Imaging|BIOLOGICAL: Nivolumab|OTHER: Quality-of-Life Assessment|OTHER: Questionnaire Administration|BIOLOGICAL: Relatlimab
+Proportion of patients who are circulating tumor DNA negative (ctDNA[-]) (Cohort A Phase II), Will be determined for each treatment arm as the number of patients who are ctDNA(-) after 12 weeks of treatment divided by the total number of patients on the treatment arm. Patients who do not have a 12-week ctDNA result will be deemed to be ctDNA(+). The comparison of the proportions of patients who are ctDNA(-) after 12 weeks of treatment between the two arms will be performed with a chi-square test., At week 12 from treatment start date|Overall survival (OS) (Cohort A Phase III), The analysis will be performed using a stratified log-rank test that uses the specified stratification variables. An additional analysis will be perform using a stratified Cox regression model to generate the point estimate and 90% confidence interval for the hazard ratio (HR) (comparing Arm 2 to Arm 1)., From randomization until death due to any cause, assessed up to 5 years after completion of study treatment|Disease-Free Survival (DFS) (Cohort B), A stratified Cox model (using the randomization stratification variables will be used to generate a 90% confidence interval (CI) for the HR. If the 90% confidence interval (CI) does not contain 1.39, Arm 4 (surveillance with ctDNA serial testing to determine whether patient is treated with nivolumab) will be deemed to be non-inferior to treating patients immediately with nivolumab., From randomization until confirmed disease recurrence as assessed by the treating physician or death due to any cause, assessed up to 5 years after completion of study treatment
+Proportion of patients who are ctDNA(-) (Cohort A Phase III) from treatment start date, Will be determined for each treatment arm as the number of patients who are ctDNA(-) after 12 weeks of treatment divided by the total number of patients on the treatment arm. Patients who do not have a 12-week ctDNA result will be deemed to be ctDNA(+)., At week 12|OS (Cohort A Phase II), If the trial does not continue to phase III, OS will be a secondary endpoint., From randomization until death due to any cause, assessed up to 5 years after completion of study treatment|DFS (Cohort A Phase II or III), This will be a secondary endpoint for the phase III trial, if completed, or for the phase II trial if the phase III trial is not performed., From randomization until confirmed disease recurrence as assessed by the treating physician or death due to any cause, assessed up to 5 years after completion of study treatment|Incidence of adverse events (Cohort A), Will be assessed using Common Terminology Criteria for Adverse Events (CTCAE) version (v)5.0. Adverse events (AEs) will be summarized with frequencies and relative frequencies. The maximum grade for an AE will be recorded for each patient by treatment arm. The number (percent) of patients that experience each observed adverse event will be summarized by treatment arm. In addition, the proportion of patients that experience a grade 3+, grade 4+, and grade 5 adverse event will be summarized as the number and percent of patients by treatment arm. The primary summary will be regardless of attribution., Up to 5 years after completion of study treatment|OS (Cohort B), From randomization until death due to any cause, assessed up to 5 years after completion of study treatment|Cumulative incidence of ctDNA(+) conversion (Cohort B), From randomization until a patient becomes ctDNA(+), assessed up to 5 years after completion of study treatment|Lead time for ctDNA(+) conversion (Cohort B), From when a patient becomes ctDNA(+) until a confirmed radiographic disease recurrence, assessed up to 5 years after completion of study treatment|Incidence of adverse events (Cohort B), Will be assessed using CTCAE v5.0. Adverse events will be summarized with frequencies and relative frequencies. The maximum grade for an AE will be recorded for each patient by treatment arm. The number (percent) of patients that experience each observed adverse event will be summarized by treatment arm. In addition, the proportion of patients that experience a grade 3+, grade 4+, and grade 5 adverse event will be summarized as the number and percent of patients by treatment arm. The primary summary will be regardless of attribution., Up to 5 years after completion of study treatment
+PRIMARY OBJECTIVES:
+
+I. To compare the ctDNA clearance proportion (i.e., ctDNA positive \[+\] --\> ctDNA negative \[-\]) at 12 weeks in patients enrolled in Cohort A treated with adjuvant nivolumab versus nivolumab + relatlimab (phase 2 portion).
+
+II. To compare overall survival in patients enrolled in Cohort A treated with adjuvant nivolumab versus nivolumab + relatlimab (phase 3 portion).
+
+III. To compare disease-free survival in patients enrolled in Cohort B randomized to immediate treatment with nivolumab to those randomized to surveillance with subsequent treatment with nivolumab only upon converting to ctDNA(+)
+
+SECONDARY OBJECTIVES:
+
+I. To compare disease-free survival in patients enrolled in Cohort A treated with adjuvant nivolumab versus nivolumab + relatlimab.
+
+II. To define the association between ctDNA clearance and disease-free survival and overall survival for Cohort A patients.
+
+III. To compare overall survival in patients enrolled in Cohort B randomized to immediate treatment with nivolumab to those randomized to surveillance with subsequent treatment with nivolumab only upon converting to ctDNA(+).
+
+IV. To determine the lead time from a ctDNA(+) assay to radiographic recurrence in patients initially ctDNA(-) post-definitive surgery enrolled in Cohort B.
+
+V. To estimate the proportion of Cohort B patients on Arm 4 who become ctDNA(+) and receive nivolumab.
+
+VI. To compare the cumulative incidence of Cohort B patients who become ctDNA(+) between Arms 3 and 4.
+
+VII. To determine the safety of adjuvant nivolumab plus relatlimab. VIII. To compare disease-free survival and overall survival in patients enrolled in Cohort A treated with adjuvant nivolumab versus nivolumab + relatlimab according to receipt of neoadjuvant immune checkpoint blockade-containing therapy versus no neoadjuvant immune checkpoint blockade-containing therapy.
+
+IX. To compare disease-free survival and overall survival in patients enrolled in Cohort B treated with adjuvant nivolumab versus nivolumab + relatlimab according to receipt of neoadjuvant immune checkpoint blockade-containing therapy versus no neoadjuvant immune checkpoint blockade-containing therapy.
+
+EXPLORATORY OBJECTIVES:
+
+I. To explore the kinetics of quantitative ctDNA levels (mean number of tumor molecules observed per mL of plasma or MTM/ml) over time and the association between ctDNA kinetics and time-to-event outcomes.
+
+II. To estimate the costs and value of care in patients with a ctDNA(+) assay post-radical surgery treated with adjuvant nivolumab versus nivolumab + relatlimab.
+
+III. To estimate the costs and value of care in patients with a ctDNA(-) assay post-radical surgery treated with adjuvant nivolumab versus surveillance with subsequent treatment with nivolumab at the time of conversion to ctDNA(+).
+
+QUALITY OF LIFE OBJECTIVES:
+
+I. Within each cohort, to compare quality-adjusted survival among randomized arms using European Quality of Life Five Dimension Five Level Scale (EQ-5D-5L).
+
+II. Within Cohort B, to compare overall quality of life (QOL) as measured by the European Organization for the Research and Treatment of Cancer (EORTC) Quality of Life Questionnaire-Core 30 (QLQ-C30) between baseline and 42 months (calculated as the area under the curve) among randomized arms.
+
+III. Within each cohort, to compare overall QOL as measured by the EORTC QLQ-C30 at each time point among randomized arms.
+
+IV. Within each cohort, to compare bladder cancer-specific QOL as measured by the EORTC Bladder Cancer Muscle-Invasive 30 Questionnaire (QLQ-BLM30) at each time point among randomized arms.
+
+V. Within each cohort, to compare patient-reported fatigue as measured by Patient Reported Outcomes Measurement Information System (PROMIS)-Fatigue at each time point among randomized arms.
+
+OUTLINE: Patients are assigned to 1 of 2 cohorts based on ctDNA results.
+
+COHORT A: Patients who are ctDNA(+) are randomized to 1 of 2 arms:
+
+ARM I: Patients receive nivolumab intravenously (IV) over 30 minutes on day 1 of each cycle. Treatment repeats every 28 days for up to 12 cycles in the absence of disease progression or unacceptable toxicity. Patients also undergo collection of tissue during screening and collection of blood throughout the trial. Patients also undergo computed tomography (CT) or magnetic resonance imaging (MRI) and may undergo cystoscopy throughout the trial.
+
+ARM II: Patients receive nivolumab IV over 30 minutes and relatlimab IV over 30 minutes on day 1 of each cycle. Treatment repeats every 28 days for up to 12 cycles in the absence of disease progression or unacceptable toxicity. Patients also undergo collection of tissue during screening and collection of blood throughout the trial. Patients also undergo CT or MRI and may undergo cystoscopy throughout the trial.
+
+COHORT B: Patients who are ctDNA(-) are randomized to 1 of 2 arms:
+
+ARM III: Patients receive nivolumab IV over 30 minutes on day 1 of each cycle. Treatment repeats every 28 days for up to 12 cycles in the absence of disease progression or unacceptable toxicity. Patients also undergo collection of tissue during screening and collection of blood throughout the trial. Patients also undergo CT or MRI and may undergo cystoscopy throughout the trial.
+
+ARM IV: Patients undergo ctDNA surveillance consisting of collection of tissue and blood during screening and collection of blood only on study and during follow up. Patients who convert to ctDNA(+) during surveillance then receive nivolumab IV over 30 minutes and relatlimab IV over 30 minutes on day 1 of each cycle. Treatment repeats every 28 days for up to 12 cycles in the absence of disease progression or unacceptable toxicity. Patients also undergo collection of tissue during screening and collection of blood throughout the trial. Patients also undergo CT or MRI and may undergo cystoscopy throughout the trial.
+
+After completion of study treatment, patients are followed up at weeks 60, 72, 84, 96, 120, 144, 196, and 248.

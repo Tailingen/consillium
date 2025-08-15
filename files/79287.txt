@@ -1,0 +1,31 @@
+Epacadostat and Vaccine Therapy in Treating Patients With Stage III-IV Melanoma
+This pilot phase II trial studies how well epacadostat and vaccine therapy work in treating patients with stage III-IV melanoma. Epacadostat may stop the growth of tumor cells by blocking some of the enzymes needed for cell growth. Vaccines made from peptides and antigens may help the body build an effective immune response to kill tumor cells. Giving epacadostat with vaccine therapy may be an effective treatment for advanced melanoma.
+Mucosal Melanoma|Recurrent Melanoma|Recurrent Uveal Melanoma|Stage IIIA Skin Melanoma|Stage IIIA Uveal Melanoma|Stage IIIB Skin Melanoma|Stage IIIB Uveal Melanoma|Stage IIIC Skin Melanoma|Stage IIIC Uveal Melanoma|Stage IV Skin Melanoma|Stage IV Uveal Melanoma
+DRUG: Epacadostat|BIOLOGICAL: MELITAC 12.1 Peptide Vaccine
+Changes in the Concentration and Number of CD8+ Cells Infiltrating Tumor by IHC by Normalization of Kyn/Trp Ratios., Immunohistochemistry: Tumors were assessed by IHC for pattern of T-cell distribution and infiltration of cells expressing CD3 and CD8., Baseline to up to day 21|Changes in the Concentration and Number of CD8+ Cells Infiltrating Tumor by IHC by Normalization of Kyn/Trp Ratios in Combination With MELITAC 12.1, Immunohistochemistry: Tumors (day 21 \& day 42) were assessed by IHC for pattern of T-cell distribution and infiltration of cells expressing CD3 and CD8., Day 21 up to Day 42
+Change in PBMC Transcriptome_v2, Analysis of PBMC gene signature. This may be compared to immunologic response, tumor biopsy data and clinical response, Baseline to up to 16 week|Change in the Number and Character of PBMC Populations, Including T and NK Cells, as Evaluated by Multiparameter Flow Cytometry_v2, Baseline to up to 1 year|Changes in Expression of IDO1 Protein by IHC in Tumor or Tumor-infiltrating Cells_v2, Baseline to up to 16 weeks|Changes in the Level or Character of the Vaccine-induced CD8+ and CD4+ Specific T-cell Immune Responses by IFN-gamma ELISPOT_v2, Assessment of immunologic response will be based on a fold-increase measure from baseline as well as using a positivity threshold, Baseline to up to 16 weeks|Incidence of Adverse Events Using the National Cancer Institute Common Terminology Criteria for Adverse Events Version 4.0_v2, Up to 1 year|Overall Response Rate Using the RECIST or Immune-Related Response Criteria (irRC)_v2, Up to 1 year|Overall Survival_v2, From the time measurement criteria are met for complete response or partial response until the first date that recurrent and progressive disease is objectively documented, assessed up to 1 year|Time to Tumor Progression Using RECIST or irRC_v2, Up to 1 year
+PRIMARY OBJECTIVES:
+
+I. To determine the extent to which a regimen of INCB024360 (epacadostat) that normalizes serum kynurenine (Kyn)/ tryptophan (Trp) ratios alters the tumor microenvironment of melanoma, including determining the number and character of tumor-infiltrating lymphocytes as determined by examination of serial biopsies with immunohistochemistry (IHC) and gene signatures.
+
+II. To determine the extent to which continued INCB024360 treatment plus the addition of the multipeptide melanoma vaccine, MELITAC 12.1 (MELITAC 12.1 peptide vaccine), further alters the tumor microenvironment of melanoma, including determining the number and character of tumor-infiltrating lymphocytes as determined by serial biopsies evaluating IHC and gene signatures.
+
+SECONDARY OBJECTIVES:
+
+I. To determine whether a regimen of INCB024360 that normalizes serum Kyn/Trp ratios plus MELITAC 12.1 vaccine changes the level or character of the vaccine-induced clusters of differentiation (CD) 8+ and CD4+ T-cell immune responses as measured in peripheral blood, as compared to prior published experience.
+
+II. To evaluate the extent to which INCB024360 plus MELITAC 12.1 vaccine alters the number and character of peripheral blood mononuclear cell (PBMC) populations, including T and natural killer (NK) cells, as evaluated by multiparameter flow cytometry.
+
+III. To evaluate the extent to which INCB024360 plus MELITAC 12.1 vaccine alters the PBMC transcriptome.
+
+IV. To assess the safety and tolerability of INCB024360 plus MELITAC 12.1 vaccine.
+
+V. To obtain preliminary data on the tumor response rate of INCB024360 plus MELITAC 12.1 vaccine by objective response rate (ORR), time to tumor progression, and overall survival.
+
+VI. To associate any observed changes with the expression of IDO1 protein by IHC in tumor or tumor-infiltrating cells.
+
+OUTLINE:
+
+Patients receive epacadostat orally (PO) twice daily (BID) on days 1-98 and receive MELITAC 12.1 peptide vaccine intradermally (ID)/subcutaneously (SC) on days 21, 28, 35, 56, 77, and 98. Treatment with epacadostat may repeat every 98 days for up to 3 additional courses in the absence of disease progression or unacceptable toxicity.
+
+After completion of study treatment, patients are followed up for 1 year.

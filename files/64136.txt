@@ -1,0 +1,41 @@
+Venetoclax, Dasatinib, Prednisone, Rituximab and Blinatumomab for the Treatment of Newly Diagnosed or Relapsed Philadelphia Chromosome Positive Acute Lymphoblastic Leukemia or Mixed Phenotype Acute Leukemia
+This phase Ib trial studies the effects of venetoclax in combination with dasatinib, prednisone, rituximab and blinatumomab in treating patients with Philadelphia chromosome positive acute lymphoblastic leukemia (ALL) that is newly diagnosed or that has come back (relapsed). Venetoclax may stop the growth of cancer cells by blocking Bcl-2, a protein needed for cancer cell survival. Dasatinib may stop the growth of cancer cells by blocking some of the enzymes needed for cell growth. Anti-inflammatory drugs, such as prednisone lower the body's immune response and are used with other drugs in the treatment of some types of cancer. Rituximab and blinatumomab are monoclonal antibody that may interfere with the ability of cancer cells to grow and spread. Giving venetoclax in combination with dasatinib, prednisone, and rituximab and blinatumomab may help treat patients with newly diagnosed or relapsed Philadelphia chromosome positive acute lymphoblastic leukemia.
+B Acute Lymphoblastic Leukemia|B Acute Lymphoblastic Leukemia With t(9;22)(q34.1;q11.2); BCR-ABL1|Mixed Phenotype Acute Leukemia|Recurrent B Acute Lymphoblastic Leukemia|Recurrent Mixed Phenotype Acute Leukemia
+DRUG: Dasatinib|DRUG: Methotrexate|DRUG: Prednisone|BIOLOGICAL: Rituximab|DRUG: Venetoclax|BIOLOGICAL: Blinatumomab|PROCEDURE: Bone Marrow Aspiration and Biopsy|PROCEDURE: Lumbar Puncture|PROCEDURE: Biospecimen Collection
+Incidence of dose-limiting toxicities, A dose-limiting toxicity (DLT) is defined as an adverse event or abnormal laboratory value assessed as unrelated to disease, disease progression, inter-current illness, or concomitant medications. In order to be declared a dose-limiting toxicity, an adverse experience must be determined related (definitely, probably, or possibly) to study drug. Point estimates and 95% exact confidence intervals will be reported for all patients in the safety set as well as in subgroups defined by whether or not a patient received blinatumomab consolidation therapy., At day 32 (after 30 days of combination therapy)|Incidence of adverse events, Adverse events will be graded and categorized according to the Common Terminology Criteria for Adverse Events version 5.0. Point estimates and 95% exact confidence intervals will be reported., Up to 90 days after last dose of study drug
+Rate of complete molecular remission (CMR), Up to completion of cycle 3 (1 cycle = 28 days)|Duration of complete molecular response (CMR), The proportion of subjects with CMR as previously defined and its 95% exact confidence interval will be estimated using the efficacy analysis set. Will be estimated using the Kaplan-Meier method along with 95% exact confidence interval., From date of CMR to date of molecular relapse, death or date of last follow-up, assessed up to 12 months after discontinuing study therapy|Progression-free survival, Will be estimated using the Kaplan-Meier method along with 95% exact confidence interval., From first dose of dasatinib to relapse, disease progression, death, date of last follow-up, assessed up to 12 months after discontinuing study therapy|Overall survival, Will be estimated using the Kaplan-Meier method along with 95% exact confidence interval., From first dose of dasatinib to death from any cause, assessed up to 12 months after discontinuing study therapy
+PRIMARY OBJECTIVES:
+
+I. Determine amaximum tolerated dose (MTD) and a subsequently recommended phase II dose (RP2D) of venetoclax in combination with dasatinib.
+
+II. Evaluate the safety of venetoclax in combination with dasatinib by assessing the frequency, type, and severity of adverse events.
+
+SECONDARY OBJECTIVES:
+
+I. Assess preliminary response to venetoclax in combination with dasatinib based on minimal residual disease (MRD) negativity.
+
+II. Estimate progression-free and overall survival.
+
+EXPLORATORY OBJECTIVES:
+
+I. Evaluate the distribution of BCR-ABL fusion sub-types. II. Assess changes in BCL-family dependence. III. Presence of co-occurring leukemia-specific mutations. IV. Assess ex vivo sensitivity to venetoclax and dasatinib using inhibitor plates and colorimetric cell viability (MTS) assay.
+
+V. Evaluate differences between two methods of detecting MRD for B ALL/mixed phenotype acute leukemia (MPAL): Real-time quantitative polymerase chain reaction (RQ PCR) analysis of BCR-ABL and next generation (NextGen) sequencing.
+
+VI. Assess response after consolidation with blinatumomab, venetoclax, and dasatinib.
+
+OUTLINE: This is dose-escalation study of venetoclax.
+
+INDUCTION PHASE CYCLE 1: Patients receive prednisone orally (PO) once daily (QD) on days -6 to 21 and rapid taper from days 22-28, dasatinib PO QD days 1-28, venetoclax PO QD days 3-28 or days 3-21, rituximab (for CD20+ patients) intravenously (IV) on days 8 and 15, and methotrexate intrathecally (IT) once during week 1 and once during week 3 as prophylaxis or once a week (QW) as therapy in the absence of disease progression or unacceptable toxicity.
+
+INDUCTION PHASE CYCLES 2-3: Patients receive dasatinib PO QD days 1-28, venetoclax PO QD on days 1-28 or 1-21, rituximab (for CD20+ patients) IV on days 1 and 15, and methotrexate IT on days 1 and 15. Treatment repeat every 28 days for up to 2 cycles in the absence of disease progression or unacceptable toxicity. Patients with clinical benefit may continue to receive treatment for up to 12 months per the discretion of the physician.
+
+CONSOLIDATION CYCLES 4-7 (ALL PATIENTS ONLY): Patients receive blinatumomab IV on days 1-28. Cycles repeat every 42 days in the absence of disease progression or unacceptable toxicity. Patients continue to receive dasatinib PO QD and venetoclax PO QD as taken in cycles 1-3 and, if clinically indicated, methotrexate IT on day 1. Cycles repeat every 28 days for up to 4 cycles in the absence of disease progression or unacceptable toxicity. Patients undergo bone marrow biopsy and aspiration, lumbar puncture, and blood sample collection throughout the study
+
+MAINTENANCE THERAPY CYCLES 8+: Patients receive dasatinib PO QD and venetoclax PO QD as in consolidation cycles and, if clinically indicated, methotrexate IT on day 1 of cycles 8 and 9. Cycles repeat every 28 days for up to 5 cycles in the absence of disease progression or unacceptable toxicity.
+
+After completion of study treatment, patients are followed up at 4 weeks and then every 12 weeks for up to 1 year.
+
+Additionally, patients undergo bone marrow biopsy and aspiration, lumbar puncture, and blood sample collection throughout the study.
+
+After completion of study treatment, patients are followed up at 4 weeks and then for up to 1 year.

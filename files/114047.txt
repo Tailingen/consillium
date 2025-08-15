@@ -1,0 +1,31 @@
+Pembrolizumab, Carboplatin, and Paclitaxel in Treating Patients With Stage III-IV Ovarian, Primary Peritoneal, or Fallopian Tube Cancer
+This phase II trial studies how well pembrolizumab works when given in combination with carboplatin and paclitaxel in treating patients with stage III-IV ovarian, primary peritoneal, or fallopian tube cancer. Immunotherapy with monoclonal antibodies, such as pembrolizumab, may help the body's immune system attack the cancer, and may interfere with the ability of tumor cells to grow and spread. Drugs used in chemotherapy, such as carboplatin and paclitaxel, work in different ways to stop the growth of tumor cells, either by killing the cells, by stopping them from dividing, or by stopping them from spreading. Giving pembrolizumab in combination with carboplatin and paclitaxel may be a better treatment for ovarian, primary peritoneal, or fallopian tube cancer.
+Stage III Fallopian Tube Cancer AJCC v7|Stage III Ovarian Cancer AJCC v6 and v7|Stage III Primary Peritoneal Cancer AJCC v7|Stage IIIA Fallopian Tube Cancer AJCC v7|Stage IIIA Ovarian Cancer AJCC v6 and v7|Stage IIIA Primary Peritoneal Cancer AJCC v7|Stage IIIB Fallopian Tube Cancer AJCC v7|Stage IIIB Ovarian Cancer AJCC v6 and v7|Stage IIIB Primary Peritoneal Cancer AJCC v7|Stage IIIC Fallopian Tube Cancer AJCC v7|Stage IIIC Ovarian Cancer AJCC v6 and v7|Stage IIIC Primary Peritoneal Cancer AJCC v7|Stage IV Fallopian Tube Cancer AJCC v6 and v7|Stage IV Ovarian Cancer AJCC v6 and v7|Stage IV Primary Peritoneal Cancer AJCC v7
+DRUG: Carboplatin|OTHER: Laboratory Biomarker Analysis|DRUG: Paclitaxel|BIOLOGICAL: Pembrolizumab|OTHER: Pharmacological Study
+To Evaluate Progression-free Survival of Paclitaxel/Carboplatin and Pembrolizumab in Patients With Advanced Stage, Metastatic Ovarian Cancer Undergoing NACT, PFS was defined from the start of neoadjuvant therapy until the date of disease progression or death, whichever occurred first. Disease progression was evaluated using RECIST v1.1 guidelines. Patients who were alive without disease progression were censored at their last evaluation date or until withdrawal of consent. Patients who were removed off protocol for reasons other than disease progression, death, treatment toxicity, or withdrawal of consent were censored at the start date of their non-protocol treatment. Feasibility was defined as the ability to complete all planned 3 cycles of adjuvant carboplatin, paclitaxel, and pembrolizumab., Up to 3 years
+To Describe the Feasibility of Combination Therapy and Maintenance Pembrolizumab in This Population, Pembrolizumab with chemotherapy was feasible and resulted in PFS within the historical range for this EOC population., Up to 3 years|To Evaluate the Safety of Combination and Maintenance Pembrolizumab, Toxicity was evaluated via grading and recording treatment-related adverse events (TRAE) according to the National Cancer Institute Common Terminology Criteria for Adverse Events, version 4.0., up to 3 years
+PRIMARY OBJECTIVES:
+
+I. To evaluate progression-free survival of paclitaxel/carboplatin and pembrolizumab in patients with advanced stage, metastatic ovarian cancer undergoing neoadjuvant chemotherapy (NACT).
+
+SECONDARY OBJECTIVES:
+
+I. To describe the feasibility of combination therapy with pembrolizumab in this population.
+
+II. To evaluate the safety of combination and maintenance pembrolizumab. III. To report overall survival.
+
+EXPLORATORY OBJECTIVES:
+
+I. To describe the sequential effects of chemotherapy on immune response and PD-1 expression and receptor occupancy.
+
+II. To evaluate circulating lymphoid populations (subsets). III. To determine tissue PD-L1 expression and T-cell infiltration.
+
+OUTLINE:
+
+NACT: Patients receive paclitaxel intravenously (IV) over 1 hour on days 1, 8, and 15, and carboplatin IV over 1 hour on day 1. Treatment repeats every 21 days for 3 cycles in the absence of disease progression or unacceptable toxicity. Patients then undergo surgery.
+
+ADJUVANT THERAPY: Beginning 3-6 weeks after surgery, paclitaxel IV over 1 hour on days 1, 8, and 15, patients receive carboplatin IV over 1 hour on day 1, and pembrolizumab IV over 30 minutes on day 1. Treatment repeats every 21 days for 3 cycles in the absence of disease progression or unacceptable toxicity.
+
+MAINTENANCE THERAPY: Patients receive pembrolizumab IV over 30 minutes on day 1. Treatment repeats every 21 days for up to 20 cycles in the absence of disease progression or unacceptable toxicity.
+
+After completion of study treatment, patients are followed up every 12 weeks.

@@ -1,0 +1,30 @@
+Veliparib and Floxuridine in Treating Patients With Metastatic Epithelial Ovarian, Primary Peritoneal Cavity, or Fallopian Tube Cancer
+This phase I trial studies the side effects and best dose of veliparib when given together with floxuridine in treating patients with epithelial ovarian, primary peritoneal cavity, or fallopian tube cancer that has spread to other places in the body. Veliparib may stop the growth of tumor cells by blocking some of the enzymes needed for cell growth. Drugs used in chemotherapy, such as floxuridine, work in different ways to stop the growth of tumor cells, either by killing the cells, by stopping them from dividing, or by stopping them from spreading. Giving veliparib together with floxuridine may kill more tumor cells.
+Stage IV Fallopian Tube Cancer AJCC v6 and v7|Stage IV Ovarian Cancer AJCC v6 and v7|Stage IV Primary Peritoneal Cancer AJCC v7
+DRUG: Floxuridine|OTHER: Laboratory Biomarker Analysis|OTHER: Pharmacological Study|DRUG: Veliparib
+Maximum tolerated dose defined as the dose level below the lowest dose that induces dose-limiting toxicity in at least one-third of patients using Common Terminology Criteria for Adverse Events (CTCAE) version 4.0, The number and severity of all adverse events (overall, by dose-level, and by tumor group) will be tabulated and summarized in this patient population. The grade 3+ adverse events will also be described and summarized in a similar fashion. This will provide an indication of the level of tolerance for this treatment combination in this patient group., 21 days
+Incidence of adverse events, The number and severity of all adverse events (overall, by dose-level, and by tumor group) will be tabulated and summarized in this patient population. The grade 3+ adverse events will also be described and summarized in a similar fashion. This will provide an indication of the level of tolerance for this treatment combination in this patient group., Up to 3 months|Incidence of toxicities assessed using CTCAE version 4.0, Overall toxicity incidence as well as toxicity profiles by dose level, patient and tumor site will be explored and summarized. Frequency distributions, graphical techniques and other descriptive measures will form the basis of these analyses., Up to 3 months|Incidence of non-hematologic toxicities evaluated via the CTC standard toxicity grading, Frequency distributions, graphical techniques and other descriptive measures will form the basis of these analyses., Up to 3 months|Incidence of hematologic toxicity, Hematologic toxicity measures of thrombocytopenia, neutropenia, and leukopenia will be assessed using continuous variables as the outcome measures (primarily nadir) as well as categorization via CTC standard toxicity grading. Frequency distributions, graphical techniques and other descriptive measures will form the basis of these analyses., Up to 3 months|Response profile assessed using Response Evaluation Criteria in Solid Tumors, Responses will be summarized by simple descriptive summary statistics delineating complete and partial responses as well as stable and progressive disease in this patient population (overall and by tumor group)., Up to 3 months|Time until any treatment related toxicity, Will be summarized descriptively., Up to 3 months|Time until treatment related grade 3+ toxicity, Will be summarized descriptively., Up to 3 months|Time until hematologic nadirs (white blood cell, absolute neutrophil count [ANC], platelets), Will be summarized descriptively., Up to 3 months|Time to progression, Will be summarized descriptively., Up to 3 months|Time to treatment failure, Will be summarized descriptively., From registration to documentation of progression, unacceptable toxicity, or refusal to continue participation by the patient, assessed up to 3 months
+Pharmacokinetic parameters, Data will be presented in mean and standard deviation in table form., Prior to administration of floxuridine and veliparib, 0.25, 0.5, 1, 2, 4, 6, and 9 hours (day 1 and 3 of course 1), prior to administration of floxuridine and veliparib on days 4-5 of course 1, and prior to administration of veliparib on day 6 course 1
+PRIMARY OBJECTIVES:
+
+I. To determine the maximum tolerated dose of the combination of ABT-888 (veliparib) and intraperitoneal (IP) floxuridine in adult patients with advanced ovarian, primary peritoneal or fallopian tube cancer.
+
+SECONDARY OBJECTIVES:
+
+I. To describe the adverse event profile associated with this treatment combination.
+
+II. To assess for preliminary evidence of efficacy, such as tumor responses, of the treatment combination.
+
+III. To assess progression free survival (PFS) in the maximum tolerated dose (MTD) cohort.
+
+TERTIARY OBJECTIVES:
+
+I. Assess the pharmacokinetic profile of ABT-888 and floxuridine when given in combination.
+
+II. Assess whether the presence of mutations in the homologous recombination pathway or loss of expression of non-homologous end joining (NHEJ) components correlates with response to floxuridine + ABT-888.
+
+OUTLINE: This is a dose-escalation study of veliparib.
+
+Patients receive veliparib orally (PO) twice daily (BID) on days 1-10 and floxuridine IP on days 3-5. Courses repeat every 21 days in the absence of disease progression or unacceptable toxicity.
+
+After completion of study treatment, patients are followed up for 3 months.

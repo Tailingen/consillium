@@ -1,0 +1,21 @@
+BPM31510 in Treating Patients With Recurrent High-Grade Glioma Previously Treated With Bevacizumab
+This phase I trial studies the side effects and best dose of ubidecarenone injectable nanosuspension (BPM31510) in treating patients with high-grade glioma (anaplastic astrocytoma or glioblastoma) that has come back and have been previously treated with bevacizumab. BPM31510 may stop the growth of tumor cells by blocking some of the enzymes needed for cell growth.
+Gliosarcoma|Recurrent Glioblastoma|Astrocytoma of Brain|Glioblastoma
+OTHER: Laboratory Biomarker Analysis|OTHER: Pharmacological Study|DRUG: Ubidecarenone Injectable Nanosuspension
+Percentage of patients with dose-limiting toxicities defined as thrombocytopenia >= grade 3, hemorrhage >= grade 3, and INR elevation >= grade 2 assessed by CTCAE v4.03, Will be tabulated at each dose, along with the result of the pooled adjacent violators algorithm as implemented in the Modified Toxicity Probability Interval (equal weights, and the weighted mean solver)., Up to 28 days
+Incidence of adverse events graded according to the Common Toxicity Criteria for Adverse Events (CTCAE) version (v)4.03, Will be tabulated separately for each dose cohort, by Medical Dictionary for Regulatory Activities (MedDRA) major organ system and severity., Up to 30 days after last dose of BPM3150
+Brain tumor metabolism as measured by PET, Standardized uptake value (SUV) of the HGG will be measured. SUV is the standard PET measure., Up to 8 weeks|Overall survival (OS), Kaplan-Meier survival estimates for OS will be presented for data at the maximum tolerated dose, with a 95% confidence interval using Greenwood's formula at 3.5 months and 7 months., From the date of BPM31510 initiation to death, assessed for up to 3 years|PFS assessed by RANO criteria, Up to 3 years|Response rate assessed by RANO criteria, Up to 3 years
+Primary Objective:
+
+* Assess the safety and tolerability of BPM31510 plus vitamin K in subjects with high-grade glioma(HGG), defined as anaplastic astrocytoma (AA) or glioblastoma (GB) that has recurred on a BEV containing regimen.
+
+Secondary Objectives:
+
+* To evaluate plasma pharmacokinetics (PK) when BPM31510 plus vitamin K is given to subjects with HGG recurrent on a BEV containing regimen.
+
+Exploratory Objectives:
+
+* Estimate the overall survival in subjects with HGG recurrent on a BEV containing regimen from the 1st day of infusion of BPM31510 plus vitamin K to death.
+* To evaluate the effects of BPM31510 plus vitamin K on shifting HGG metabolism to aerobic respiration by PET imaging.
+* To evaluate the effects of BPM1510 plus vitamin K on MRI imaging by Response Assessment in Neuro Oncology (RANO) criteria \[specifically progression free survival (PFS) and response rate (RR)\].
+* To evaluate plasma pharmacodynamics (PD) when BPM31510 plus vitamin K is given to subjects with HGG recurrent on a BEV containing regimen.

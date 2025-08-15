@@ -1,0 +1,27 @@
+Pan FGFR Kinase Inhibitor BGJ398 and Combination Chemotherapy in Treating Patients With Untreated Metastatic Pancreatic Cancer
+This phase Ib/II trial studies the side effects and best dose of pan fibroblast growth factor receptor (FGFR) kinase inhibitor BGJ398 when given together with fluorouracil, irinotecan hydrochloride and oxaliplatin (combination chemotherapy) in treating patients with untreated pancreatic cancer that has spread to another place in the body. Pan FGFR kinase inhibitor BGJ398 may stop the growth of tumor cells by blocking some of the enzymes needed for cell growth. Drugs used in chemotherapy, such as fluorouracil, irinotecan hydrochloride and oxaliplatin, work in different ways to stop the growth of tumor cells, either by killing the cells, by stopping them from dividing, or by stopping them from spreading. Giving pan FGFR kinase inhibitor BGJ398 together with fluorouracil, irinotecan hydrochloride and oxaliplatin may be a better treatment for pancreatic cancer.
+Colon Adenocarcinoma|Metastatic Pancreatic Adenocarcinoma|Pancreatic Adenocarcinoma|Pancreatic Ductal Adenocarcinoma|Rectal Adenocarcinoma|Stage III Pancreatic Cancer|Stage IIIA Colon Cancer|Stage IIIA Rectal Cancer|Stage IIIB Colon Cancer|Stage IIIB Rectal Cancer|Stage IIIC Colon Cancer|Stage IIIC Rectal Cancer|Stage IV Pancreatic Cancer|Stage IVA Colon Cancer|Stage IVA Rectal Cancer|Stage IVB Colon Cancer|Stage IVB Rectal Cancer
+DRUG: Fluorouracil|DRUG: Irinotecan Hydrochloride|OTHER: Laboratory Biomarker Analysis|DRUG: Oxaliplatin|DRUG: pan FGFR Kinase Inhibitor BGJ398|OTHER: Pharmacological Study
+Incidence of dose-limiting toxicity (DLT) graded according to the National Cancer Institute (NCI) Common Terminology Criteria for Adverse Events (CTCAE) version 4.0 (Phase Ib), Up to 28 days|Maximum tolerated dose (MTD) and recommended phase II dose of BGJ398 in combination with mFOLFIRINOX, defined as the dose with a probability of DLT of 0.30 graded according to the NCI CTCAE version 4.0 (Phase Ib), The MTD will be estimated using isotonic regression (cumulative cohort design)., 28 days|Overall survival (Phase II), The overall survival will be summarized using Kaplan-Meier methods, from which an estimate of the 6-month survival rate and corresponding standard error will be obtained using the methods proposed by Breslow and Day., Time from the start of the study treatment until death, last follow-up or drop-out, assessed at 6 months
+Changes in CA19-9 expression levels (Phase II), The CA19-9 expression will be reported by time as mean, median, standard deviation, and percentiles. Changes in expression will be evaluated using the paired t-test or Wilcoxon signed rank test, as appropriate., Baseline to 2 years|Incidence of adverse events graded according to the NCI CTCAE version 4.0, The frequency of toxicities will be tabulated by grade across all dose levels and cycles. The frequency of toxicities will also be tabulated for the dose estimated to be the MTD and RP2D in phase Ib., Up to 28 days after completion of study treatment|Objective tumor response (Phase II), The objective tumor responses will be reported as frequencies and relative frequencies, with the response rates estimated with Clopper-Pearson 95% confidence intervals., Up to 2 years|Progression free survival (Phase II), The progression free survival will be summarized using standard Kaplan-Meier methods, with estimates of median survival and given survival rates (i.e., 1 year) will be obtained with 95% confidence intervals., Up to 2 years|Potential associations between response rate and tumor biomarkers (Phase II), Will be evaluated using logistic regression models and associated exact methods., Up to 2 years
+PRIMARY OBJECTIVES:
+
+I. To determine dose-limiting toxicity, the maximum tolerated dose and recommended phase II dose of BGJ398 (pan FGFR kinase inhibitor BGJ398) administered in combination with modified (m)FOLFIRINOX (fluorouracil, irinotecan hydrochloride and oxaliplatin) in patients with advanced pancreatic and colorectal cancer patients. (Phase Ib)
+
+II. To determine the 6-month overall survival rate of patients with treatment-naïve metastatic pancreatic ductal adenocarcinoma treated with BGJ398 plus mFOLFIRINOX. (Phase II)
+
+SECONDARY OBJECTIVES:
+
+I. To determine the pharmacokinetic profile of BGJ398, fluorouracil, oxaliplatin, irinotecan (irinotecan hydrochloride) and their metabolites when administered in combination and explore for drug-drug interactions. (Phase Ib)
+
+II. To determine the 1-year overall survival rate, response rate, progression free survival and cancer antigen (CA)19-9 changes in treatment-naïve metastatic pancreatic cancer patients treated with BGJ398 plus mFOLFIRINOX. (Phase II)
+
+III. To determine the safety and tolerability of BGJ398 in combination with mFOLFIRINOX in the study population.
+
+IV. To explore plasma and tumor biomarkers associated with efficacy to the study combination.
+
+OUTLINE: This is a phase Ib, dose-escalation study of pan FGFR kinase inhibitor BGJ398 followed by a phase II study.
+
+Patients receive oxaliplatin intravenously (IV) over 2 hours, irinotecan hydrochloride IV over 90 minutes, and fluorouracil IV continuously over 46 hours on days 1 and 15. Patients also receive pan FGFR kinase inhibitor BGJ398 orally (PO) once daily (QD) on days 8-28. Courses repeat every 28 days in the absence of disease progression or unacceptable toxicity.
+
+After completion of study treatment, patients are followed up for 28 days and then every 4 months for up to 2 years.

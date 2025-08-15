@@ -1,0 +1,9 @@
+Evaluation of Neoplasia with Artificial Intelligence in Gastrointestinal Endoscopy
+This study aims to validate and evaluate AI algorithms for detection and characterization of early GI neoplasia.
+Gastrointestinal Neoplasms
+OTHER: collection of endoscopic images and videos
+neoplasia detection rate, neoplasia detection rate of the AI algorithms in different locations of the GI tract., during the procedure, up to 24 weeks, at 1 year, through study completion
+Accuracy of AI diagnosis, Accuracy of real time optical diagnosis (characterization) of GI neoplasia by the AI algorithm., during the procedure, up to 24 weeks, at 1 year, through study completion|Endoscopist neoplasia detection rate, Detection rate of endoscopists at various levels of experience, during the procedure, up to 24 weeks, at 1 year, through study completion
+This is an investigator initiated; multi-centre study and will be conducted in two phases. Validation \& Optimization phase, where routinely collected and anonymized endoscopic images and videos from the departmental teaching and training library will be used to validate, and if needed fine-tune and improve, the accuracy of an AI algorithm. Testing phase, where the evaluation of AI algorithms performance will be conducted on a prospective basis. The ground truth (standard) will be expert assessment and histological diagnosis.
+
+This study has no direct impact on patient's clinical care, and collection of all endoscopic data will take place during standard endoscopy procedures done for purely clinical indications. No additional procedures, biopsies or interventions will be performed as a part of this study.

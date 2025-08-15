@@ -1,0 +1,8 @@
+Developing Artificial Intelligence-based Algorism to Predict Side Effects and Symptoms From Chemotherapy
+In this study, the investigators obtain wearable disease based biomarkers from patients diagnosed with cancer and undergoing chemotherapy, and simultaneously measure patient self-reported adverse events through an app to evaluate chemotherapy completion rates, emergency room visits, and frequency of CTCAE adverse events.
+
+The investigators will develop an artificial intelligence-based algorism that can predict patients' side effects based on biomarkers alone.
+Lung Cancer|Head and Neck Cancer|Esophageal Cancer
+OTHER: Fitbit smartwatch
+Developing artificial intelligence prediction algorism, PRO data and treatment information collected from the wearable are used to evaluate correlations through methods such as linear regression to determine valid variables, utilizing LSTM models, etc., Through study completion, an average of 30 months
+In this study, patients diagnosed with lung, head and neck, and esophageal cancers and undergoing chemotherapy will be measured for self-reported side effects using a wearable device to collect biomarkers through an app, and the association between patient quality of life and side effects and biomarkers obtained from the wearable device will be analyzed. On the other hand, blood (EDTA 3cc) for pharmacogenomics testing will be tested once at any point during the study period as an indicator associated with side effects after chemotherapy.

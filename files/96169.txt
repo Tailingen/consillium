@@ -1,0 +1,99 @@
+Lymph Node Microenvironment Modifications in Patients With CLL Treated With Venetoclax-based Regimens
+CLL subjects who should receive treatment with a venetoclax-based regimen as per standard of care will be enrolled into this trial, after providing informed consent.
+
+The following evaluations will be performed baseline before starting treatment:
+
+Baseline assessments:
+
+In addition to standard staging procedures before treatment initiation, including blood tests and BM aspirate and biopsy, the following procedures will be performed per protocol:
+
+* Peripheral blood sample drawing for pharmacodynamics studies, MRD assessment and cfDNA evaluation
+* Ultrasound-guided lymph node CNB
+* Tailored ultrasound evaluation of nodal sites and spleen
+* Bone marrow MRD sample drawing (optional) The nodal site for the biopsy will be selected based on the size (the largest nodal lesion will be considered) and the procedure feasibility (only superficial cervical, axillary or inguinal lymph nodes will be considered suitable for biopsy).
+
+On treatment assessments:
+
+Peripheral blood sampling and ultrasound-guided lymph node CNB will be repeated in patients on venetoclax-based therapy:
+
+* 7 days after completion of venetoclax ramp up phase,
+* +12 months after completion of venetoclax ramp-up phase. Patients with residual lymph nodes that are not suitable for ultrasound-guided lymph node CNB will continue the ultrasound monitoring only
+
+Patients will follow an intensive ultrasound monitoring schedule, which requires tailored ultrasound evaluation being repeated at the following timepoints:
+
+* 4 weeks after venetoclax ramp-up completion
+* Every 2 months thereafter until disease progression or unacceptable toxicity leading to permanent treatment discontinuation.
+
+Assessments at progression:
+
+A tailored ultrasound of nodal sites and spleen will be performed within 2 weeks from the first signs and/or symptoms of suspected progression. US assessment can be delayed at Investigator's discretion in case pseudo-progression is suspected based on potentially confounding concomitant conditions, e.g. infection.
+
+In progressive cases, the same assessments (including BM aspirate and biopsy) will be repeated at the time of disease progression.
+
+In patients progressing with bulky lymph nodes an incisional lymph node biopsy (instead of an ultrasound-guided CNB) will be performed to exclude Richter's transformation as per standard of care.
+Chronic Lymphocytic Leukemia
+DRUG: Venetoclax
+To evaluate lymph node changes in CLL patients treated with venetoclax-based regimens both at molecular level, Gene expression profile of CLL cells derived from lymph nodes of patients treated with venetoclax-based regimens, 24 months|To evaluate lymph node changes in CLL patients treated with venetoclax-based regimens both at ultrasound level, Ultrasound characteristics of lymph nodes of patients treated with venetoclax-based regimens, 24 months
+LN, PB and BM mononuclear cells collected from CLL patients at specified timepoints will be tested by:
+
+* High-throughput ex vivo drug assay (2D platforms)
+* Global transcriptome analysis by RNA sequencing
+* Flow cytometry including activation and adhesion/migration markers, e.g. CD69, CD80, CD86, HLA-DR, CD38, CD49d, CXCR4;
+* Phospho-flow assays, to assess the phosphorylation state of proteins involved in BCR signaling transduction, e.g. AKT and ERK;
+* Western blot of nuclear lysates and cytoplasmic protein fractions to validate the expression of relevant genes
+* Targeted deep-sequencing by a previously validated panel
+
+Minimal residual disease evaluation will be performed by:
+
+* 6-color flow cytometry
+* NGS CfDNA will be analysed by targeted NGS.
+
+The following features will be evaluated by tailored ultrasound:
+
+Superficial nodal sites (linear probe 7.5 MHz):
+
+* Site
+* Size: long and short diameter (sensitivity \<5 mm)
+* Shape
+* Border
+* echo-structure of the cortex; assessment of possible intranodal reticulation
+* Echogenic description of the hilum: presence, absence and irregular echo-morphology
+
+Optional parameters:
+
+* Doppler evaluation: vascular distribution, vascular resistance
+* Contrast enhanced ultrasound (CEUS): 7.5 MHz linear probe (optional);Quantitative assessment with dedicated software (wash-in and wash-out curves): optional
+
+Deep nodal sites (probe 3.5-5 MHz):
+
+* Site
+* Presence/absence of deep lymphoadenopathies
+* Size (sensitivity \<5 mm)
+* Echo-structure of the cortex (only if superficial, e.g. external iliac LN)
+
+Optional parameters:
+
+* Vascular pattern by: color doppler, two-dimensional power doppler and MicroV (only if superficial, e.g. external iliac LN)
+* Contrast enhanced ultrasound (CEUS) (optional): vascular pattern present vs absent, intensity
+
+Spleen:
+
+* Size (dedicated software to more precisely define the bipolar diameter) : in cm
+* Cross sectional area in cm2
+
+Optional parameters:
+
+* Splenic artery resistive index
+* Portal vein flow (forward or non-forward portal flow): Vmax ("maximum velocity expressed in cm" and "mean Velocity expressed in cm")
+* Splenic stiffness (with Fibroscan or point share wave or share wave 2D) expressed in kPa
+
+Liver:
+
+* Size
+* Echo-structure
+
+Optional parameters:
+
+* Portal vein flow parameters
+* Liver artery resistive index
+* Liver stiffness expressed in kPa

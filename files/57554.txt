@@ -1,0 +1,25 @@
+Evaluation of CPX-351 Monotherapy in Acute Myeloid Leukemia Secondary to Myeloproliferative Neoplasm
+The three classic myeloproliferative neoplasms (MPNs) include polycythemia Vera (PV), essential thrombocythemia (ET) and primary myelofibrosis (PMF). The natural history of these MPNs is the possible progression to acute myeloid leukemia (MPN-blast phase) at variable percentage depending the entity. Leukemic transformation of MPN occurs in 8% to 23% of primary myelofibrosis (PMF) patients in the first 10 years after diagnosis and in 4% to 8% of polycythemia vera (PV) and essential thrombocytosis (ET) patients within 18 years after diagnosis. The risk for leukemic transformation is increased by exposure to cytotoxic chemotherapy. The molecular pathogenesis of MPN-blast phase remains an area of active research.
+
+The prognosis of blast phase MPNs is very poor : approximately 50% of the patients are deemed eligible for intensive treatment (ie. conventional induction chemotherapy regimen with anthracyclines and cytarabine). The patients who are not fit for such intensive treatment approach due to age or comorbidities, are treated with Hypomethylating agents, low dose palliative chemotherapy, or supportive care. Nevertheless, there is a need for more effective and better tolerated treatment approaches in order to increase the response rate and hence, the transplant rates which should translate into improved survival.
+
+CPX-351 is a new formulation of cytarabine and daunorubicin encapsulated at a fixed 5:1 molar-ratio in liposomes that exploits molar ratio-dependent drug-drug synergy to enhance antileukemic efficacy.
+
+Based on similarities between post-myelodysplastic syndrome (MDS) and post-MPN secondary AML in terms of disease resistance to chemotherapy, of fragile patient profile, The hypotheses made is that CPX-351 may improve the results of induction chemotherapy without increasing its toxicity and therefore may increase the proportion of patients who could benefit from an allogeneic Stem Cell Transplantation (SCT).
+Acute Myeloid Leukemia|Myeloproliferative Syndrome
+DRUG: CPX-351
+Rate of CR/CRi after first induction therapy, Rate of CR/CRi according to ELN2017 criteria, After 28 to 42 days after one cycle of 5 days of CPX351|Rate of CR/CRi after second induction therapy, Rate of CR/CRi according to ELN2017 criteria, If applicable, after 28 to 31 days after a second cycle of 3 days of CPX351
+The primary objective of the study is to evaluate the Complete Remission (CR/CRi) rate after treatment with CPX-351 in patients with AML secondary to myeloproliferative neoplasms (post-MPN AML).
+
+The hypotheses made is that treatment with CPX-351 will improve the historical response rate from 45% to 65%. The exact single stage Phase II design was used to calculate the number of patients. The null hypothesis H0 is that the probability p of CR/CRi rate with CPX351 is equal or lower than the historical rate p0 of 45% (H0: p≤p0). The alternative hypothesis H1 that is p\>p0, supposing that CR/CRi rate will be 65% using CPX351. Considering an alpha risk of 5% and a power of 80%, 42 patients will be included, and H0 will be rejected if at least 25 patients achieve CR /CRi (R-project, "clinfun" package).
+
+Inclusion period : 36 months
+
+Treatment period (6 months) :
+
+* one or two cycles of induction treatment with CPX-351 (depending on CR/CRi achieving). If CR/CRi is not achieved following the induction phase, patients will go off study.
+* 2 courses of consolidation therapy with CPX-351 (patients for whom an allo-SCT is planned will receive a maximum of one consolidation cycle)
+
+All included patients will be followed for 60 days after the End of Treatment (EOT) or at the date of allogeneic stem cell transplantation when appropriate : the day-60 follow-up visit will be the End Of Study (EOS) visit. The anti-leukemic chemotherapy administrated after relapse will be recorded.
+
+After completion of the study, subjects will be followed-up at regular intervals (every 3 months) to collect information on the subjects' survival and disease (relapse) status. Survival status will be collected until death, or withdrawal of consent or lost to follow-up, whichever occurs first..

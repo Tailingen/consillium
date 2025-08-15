@@ -1,0 +1,27 @@
+Pacritinib in Combination With a BTK Inhibitor for the Treatment of Patients With Relapsed or Refractory Mantle Cell Lymphoma
+This phase I trial tests the safety and side effects of pacritinib in combination with a Bruton's tyrosine kinase (BTK) inhibitor and how well it works in treating patients with mantle cell lymphoma that has come back after a period of improvement (relapsed) or that has not responded to previous treatment (refractory). Pacritinib may stop the growth of tumor cells by blocking some of the enzymes needed for cell growth. BTK inhibitors block a protein called BTK which is present on B-cell (a type of white blood cell) cancers such as mantle cell lymphoma at abnormal levels. This may help keep tumor cells from growing and spreading. Giving pacritinib in combination with a BTK inhibitor may be safe, tolerable and/or effective in treating patients with relapsed or refractory mantle cell lymphoma.
+Recurrent Mantle Cell Lymphoma|Refractory Mantle Cell Lymphoma
+PROCEDURE: Biopsy|PROCEDURE: Biospecimen Collection|PROCEDURE: Bone Marrow Aspiration|PROCEDURE: Bone Marrow Biopsy|DRUG: BTK Inhibitor|PROCEDURE: Computed Tomography|DRUG: Pacritinib|PROCEDURE: Positron Emission Tomography
+Incidence of adverse events (AEs), Will be graded using National Cancer Institute Common Terminology Criteria for Adverse Events version 5.0. AEs will be summarized by type, severity, and attribution., Up to 30 days after last dose of study drug
+Overall response rate (ORR), Will be defined as the proportion of response evaluable participants that achieve a best response of either complete metabolic response (CMR) or partial metabolic response (PMR) after the start of protocol therapy and prior to disease progression and/or start of other anti-lymphoma therapy. ORR will be estimated along with the 95% exact binomial confidence interval., Up 12 months|Duration of response (DOR), DOR will be estimated using the product-limit method of Kaplan and Meier along with the Greenwood estimator of standard error, 95% confidence interval will be constructed based on log-log transformation. Median DOR will be estimated when available. Descriptive analyses may be done separately for particular Bruton's tyrosine kinase (BTK) inhibitor(s) depending on the number of patients treated., From the first achievement of PMR or CMR to time of progressive disease or death, whichever is earlier, assessed up to 12 months|Progression-free survival (PFS), PFS will be estimated using the product-limit method of Kaplan and Meier along with the Greenwood estimator of standard error, 95% confidence interval will be constructed based on log-log transformation. Median PFS will be estimated when available. Descriptive analyses may be done separately for particular BTK inhibitor(s) depending on the number of patients treated., From start of protocol treatment to time of disease relapse/progression or death due to any cause, whichever occurs earlier, assessed up to 12 months
+PRIMARY OBJECTIVE:
+
+I. Obtain a preliminary estimate of the safety and tolerability of the combination of pacritinib with a covalent BTK inhibitor (e.g., ibrutinib, acalabrutinib, zanubrutinib) in patients with relapsed/refractory (R/R) mantle cell lymphoma (MCL).
+
+SECONDARY OBJECTIVES:
+
+I. Obtain a preliminary estimate of the overall response rate (ORR) of the combination of pacritinib with a BTK inhibitor in patients with R/R MCL.
+
+II. Obtain a preliminary estimate of the duration of response and progression-free survival in patients with R/R MCL treated with a combination of pacritinib with a BTK inhibitor.
+
+EXPLORATORY OBJECTIVES:
+
+I. Explore the association between clinical outcomes, elimination of tumor associated macrophages (TAMs), and expression of IL-10.
+
+II. Evaluate minimal residual disease (MRD) in patients who obtain a complete metabolic response to therapy.
+
+OUTLINE:
+
+Patients receive pacritinib orally (PO) twice daily (BID) on days 1-28 of each cycle. Cycles repeat every 28 days in the absence of disease progression or unacceptable toxicity. Patients also continue to receive BTK inhibitor per standard of care. Additionally, patients undergo blood sample collection, optional tissue biopsy, bone marrow biopsy and aspiration and positron emission tomography (PET)/computed tomography (CT) throughout the study.
+
+After completion of study treatment, patients are followed up at 30 days. Patients without progression are followed up every 3 months.

@@ -1,0 +1,35 @@
+Treatment of Newly Diagnosed High Risk Pediatric Acute Lymphoblastic Leukemia
+* Clinical and genetic factors consistent with High risk : Induction → Consolidation
+
+  1. BM MRD \&lt; 0.01% : IM #1 → DI #1 → IM #2 → Maintenance
+  2. BM MRD ≥ 0.01% : IM #1 → DI #1 → IM #2 → DI #2 → Maintenance
+  3. BM MRD ≥ 0.01% after Consolidation
+
+  <!-- -->
+
+  1. T cell ALL : Change to very high risk regimen
+  2. Pre-B ALL : IM #1 → Intensification
+
+     1. BM MRD \&lt; 0.01% after IM #1 : DI #1 → IM #2 → DI #2 → Maintenance
+     2. BM MRD ≥ 0.01% after IM #1 : Change to Very high risk regimen
+
+        * Difference in the number of \&#39;interim maintenance(IM)\&#39; and \&#39;delayed intensification(DI)\&#39; is important for chemotherapies based on MRD.
+Pediatric Acute Lymphoblastic Leukemia
+DRUG: ALL, High risk
+Event Free Survival, Event-free survival rate for 5 years from the date of registration, Up to 5 years
+Overall Survival, The time until defined by date of all-cause mortality from the date of 1st infusion, Up to 5 years|Recurred rate, As the period from enrollment to disease progression/recurrence, Up to 5 years|Death rate related to infusion, The time until defined by date of drug-related mortality from the date of 1st infusion, Up to 5 years
+* Clinical and genetic factors consistent with High risk : Induction → Consolidation
+
+  1. BM MRD \&lt; 0.01% after both Induction and Consolidation : IM #1 → DI #1 → IM #2 → Maintenance
+  2. BM MRD ≥ 0.01% after Induction, \&lt; 0.01% after Consolidation : IM #1 → DI #1 → IM #2 → DI #2 → Maintenance
+  3. BM MRD ≥ 0.01% after Consolidation
+
+  <!-- -->
+
+  1. T cell ALL : Change to very high risk regimen
+  2. Pre-B ALL : IM #1 → Intensification
+
+     1. BM MRD \&lt; 0.01% after IM #1 : DI #1 → IM #2 → DI #2 → Maintenance
+     2. BM MRD ≥ 0.01% after IM #1 : Change to Very high risk regimen
+
+        * T cell ALL patients with M1 BM post-Consolidation will start IM #1. However, the patients will switch to Very high risk regimen at the next chemotherapy cycle once post-Consolidation MRD ≥ 0.01% has been reported.

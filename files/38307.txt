@@ -1,0 +1,30 @@
+Imaging of Solid Tumors Using FAP-2286
+This is a multi-arm prospective trial that evaluates the ability of a novel imaging radiolabeled agents to detect metastatic cancer in participants with solid tumors using a gallium 68 (68Ga-) or copper 64 (64Cu-) FAP-2286 tracer. FAP-2286 is a peptidomimetic molecule that that binds to Fibroblast Activation Protein (FAP). FAP is a transmembrane protein expressed on cancer-associated fibroblasts, and has been shown to be present on a number of solid tumors.
+Solid Tumors, Adult|Metastatic Cancer
+DRUG: Gallium-68 labelled (68Ga-) FAP-2286|PROCEDURE: Positron Emission Tomography (PET) imaging|DRUG: Copper-64 labeled (64Cu-) FAP-2286
+Count of participants with treatment-emergent adverse events, The frequency and severity of treatment emergent adverse events following FAP-2286 injection will be descriptively reported as classified and graded by National Cancer Institute Common Terminology Criteria for Adverse Events (NCI CTCAE) version 5.0, Up to 3 days|Proportion of radiation-absorbed doses of radiolabeled FAP-2286 (Cohorts 1a/1b only), Volumes of interest of 68Ga- and 64Cu- will be drawn around regions identified on the scans, including the liver, spleen, kidneys, urinary bladder, the central sacrum (for hematopoietic marrow) and whole body. Data will be fitted using the Simulation, Analysis, and Modeling Software II (SAAM II) software. Time integrals of activity will be entered into the Organ Level INternal Dose Assessment/EXponential Modeling (OLINDA/EXM) software, using the reference adult model. The results from all patients enrolled will be combined to allow the calculation of mean, standard deviation (SD), and range of radiation-absorbed doses to individual organs, Up to 3 days|Standardized Uptake Values (SUVs) (Cohort 2 only), The maximum Standardized Uptake Value (SUVmax) will be calculated for up to five lesions in each patient, with mediastinal blood pool being used as background activity., Up to 3 days|Tumor-to-background (TBR) Ratio (Cohort 2 only), TBR ratios will be calculated for up to five lesions in each patient, with mediastinal blood pool being used as background activity. The median and range of the measured TBRs will be reported across all RECIST measurable lesions as a table broken down by location (organ metastases, nodal metastases and bone metastases)., Up to 3 days|Proportion of positive lesions on FAP-2286 PET (Cohort 3 only), Conventional imaging will be reviewed in conjunction with the FAP-2286 PET images. Lesions will be characterized as positive on FAP-2286 PET if uptake is greater than 1.5 times higher than mediastinal blood pool and uptake cannot be attributed to physiologic or inflammatory reasons. Conventional imaging will be interpreted as positive by each lesion if the short axis dimension of lymph nodes is greater than 1 centimeter (cm), and organ metastases measure greater than 1 cm in long axis. The gold standard will be the combination of conventional imaging and FAP-2286 PET in combination with clinical follow-up and histopathology (if available). The number of lesions detected by each modality will be compared and sensitivity will be computed. Since this is a proof-of-concept study, it is not powered for the test of agreement. Nevertheless, the agreement will be tested using McNemar's test., Up to 3 days
+Initially the investigator(s) will focus on imaging breast, pancreas, sarcoma, prostate cancer, bladder cancer, colon cancer, and head and neck cancer.
+
+STUDY AIMS
+
+1. Determine the dosimetry for gallium-68 labelled (68Ga-) and 64Cu- FAP-2286.
+2. Evaluate the uptake and retention of radiotracer in a variety of solid tumors with FAP-2286.
+3. Evaluate the ability of FAP-2286 to detect metastatic disease.
+
+PRIMARY OBJECTIVES
+
+1. All cohorts: Safety of 68Ga- and 64Cu-FAP-2286.
+2. Cohort 1a: determine the organ dosimetry of 68Ga-FAP-2286.
+3. Cohort 1b: determine the organ dosimetry of 64Cu-FAP-2286.
+4. Cohort 2: To assess the feasibility of detecting tumor uptake using FAP-2286.
+5. Cohort 3: To determine the feasibility of detecting metastatic disease using FAP-2286.
+
+EXPLORATORY OBJECTIVES
+
+1. To detect the sensitivity of FAP-2286 PET compared to conventional imaging for the detection of metastatic disease, and when available sensitivity compared to Fluorodeoxyglucose (FDG) PET (FDG-PET).
+2. Correlation of FAP-2286 uptake with FAP expression determined by immunohistochemistry.
+3. Compare biodistribution of 68Ga-FAP-2286 and 64Cu-FAP-2286 in normal organs and blood pool based on renal function.
+4. Determine impact of administered dose of FAP-2286 on image quality.
+5. Compare the feasibility of detecting tumor uptake using 68Ga-FAP-2286 and 64Cu-FAP-2286
+
+A repeat radiolabeled FAP-2286 PET may be obtained after initiation of subsequent treatment in order to evaluate changes in PET uptake due to treatment effect. Patients will be followed for up to 3 days after the injection of radiolabeled ligand for evaluation of adverse events.

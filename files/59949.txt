@@ -1,0 +1,43 @@
+Cisplatin-Based Chemotherapy and/or Surgery in Treating Young Patients With Adrenocortical Tumor
+This phase III clinical trial is studying how well cisplatin-based chemotherapy and/or surgery works in treating young patients with stage I, stage II, stage III or stage IV adrenocortical cancer. Drugs used in chemotherapy, such as cisplatin, work in different ways to stop the growth of tumor cells, either by killing the cells or by stopping them from dividing. Giving more than one drug (combination chemotherapy) may kill more tumor cells. Giving chemotherapy before surgery may make the tumor smaller and reduce the amount of normal tissue that needs to be removed. Giving it after surgery may kill any tumor cells that remain after surgery.
+Stage I Adrenal Cortical Carcinoma AJCC v7|Stage II Adrenal Cortical Carcinoma AJCC v7|Stage III Adrenal Cortical Carcinoma AJCC v7|Stage IV Adrenal Cortical Carcinoma AJCC v7
+DRUG: Cisplatin|PROCEDURE: Conventional Surgery|DRUG: Doxorubicin Hydrochloride|DRUG: Etoposide|BIOLOGICAL: Filgrastim|DRUG: Mitotane|BIOLOGICAL: Pegfilgrastim
+Five Year Event-free Survival (EFS), The model used for comparison will be an exponential model with a constant failure rate of 0.053 (stratum I), 0.347 (stratum II), 0.602 (stratum III and IV) per year for the first two years and 0 after that. The one-sample one-sided log-rank test comparing the observed data with the hypothesized model (Woolson, 1981) of size 0.05 will be used to assess whether the data are consistent with the target models. Since this test has independent increments, the method of Lan and DeMets will be used to derive the p-values for testing procedure., Up to five years after enrollment
+Toxicity Associated With Chemotherapy Using National Cancer Institute (NCI) Common Terminology Criteria for Adverse Events (CTCAE) Version 4.0, The proportion of patients assigned to receive chemotherapy that experience CTC Version 4 grade 3 or higher anemia at any time during protocol therapy, Up to 182 Days After Enrollment|Complications Associated With Radical Adrenalectomy and RLND, Any patient who dies because of surgery or has a grade 3 or 4 toxicity possibly, probably or likely related to surgery will be considered as having experienced a surgical complication. The complication rate is estimated as the proportion of evaluable patients that have a complication., Up to 1 month after surgery|Frequency of Lymph Node Involvement by Imaging., The number eligible patients who have lymph node involvement by imaging at study enrollment., At study enrollment|Incidence and Type of Germline TP53 Mutations in Non-Brazilian Children and Children From Southern Brazil by Deoxyribonucleic Acid (DNA) Sequencing and Affymetrix Gene Chip Analysis., The proportion of patients in each subpopulation are compared.This test is dependent on the number of patients from whom blood can be obtained as well as the frequency of the relevant mutation in each group., At study enrollment|Molecular Alterations and Embryonal Markers in Children With ACT - A43 del33bp Mutation of (Beta)-Catenin., The number of eligible patients who have A43 del33bp mutation of (beta)-catenin., Patients who had surgery at time of enrollment.|Frequency of Tumor Spillage at the Time of Tumor Resection, The number of eligible patients who have surgical resection of the primary tumor and have tumor spillage at the time of resection., Up to one year or while on protocol therapy, whichever is less
+PRIMARY OBJECTIVES:
+
+I. Describe the outcome of patients with stage I adrenocortical tumor (ACT) treated with surgery alone.
+
+II. Describe the outcome of patients with stage II ACT treated with radical adrenalectomy plus regional retroperitoneal lymph node dissection.
+
+III. Describe the outcome of patients with unresectable or metastatic ACT treated with mitotane and a cisplatin-based chemotherapy regimen.
+
+SECONDARY OBJECTIVES:
+
+I. Determine the feasibility and complications associated with the use of radical adrenalectomy and regional node dissection (RLND) in these patients.
+
+II. Determine the toxicity of mitotane when administered with cisplatin, etoposide, and doxorubicin hydrochloride in patients with residual disease after surgery, inoperable tumors, or metastatic disease at diagnosis.
+
+III. Determine, prospectively, the frequency of tumor spillage during surgery in these patients.
+
+IV. Determine the frequency of lymph node involvement in these patients. V. Compare the incidence and type of germline p53 mutation in non-Brazilian children and children from Southern Brazil.
+
+VI. Characterize the cooperating molecular alterations associated with ACT. VII. Determine the presence of embryonal markers in children with ACT.
+
+OUTLINE:
+
+STRATUM I (stage I disease): Patients undergo primary tumor resection and retroperitoneal lymph node sampling followed by observation. Patients who have undergone prior surgery without nodal sampling undergo observation only.
+
+STRATUM II (stage II disease): Patients undergo primary tumor resection and extended regional lymph node dissection followed by observation. Patients who have undergone prior surgery with simple resection of the primary tumor undergo exploratory surgery with extended regional lymph node dissection followed by observation.
+
+STRATUM III (stage III or IV disease):
+
+INDUCTION CHEMOTHERAPY: Patients receive cisplatin-based chemotherapy comprising oral mitotane four times daily on days 1-21; cisplatin IV over 6 hours on days 1-2; etoposide IV over 1 hour on days 1-3; and doxorubicin hydrochloride IV over 1 hour on days 4-5. Patients also receive filgrastim (G-CSF) subcutaneously (SC) once daily beginning on day 6 and continuing until blood counts recover OR pegfilgrastim SC once on day 6. Treatment repeats every 21 days for 2-4 courses in the absence of disease progression or unacceptable toxicity. Patients with stable disease or partial response proceed to surgery. Patients with a complete response proceed directly to continuation chemotherapy.
+
+SURGERY: Patients with stage III disease undergo extended surgery and regional lymph node dissection. Patients with stage IV disease undergo primary tumor resection (if feasible) with regional lymph node dissection and resection of the metastases. Patients then proceed to continuation chemotherapy.
+
+CONTINUATION CHEMOTHERAPY: Patients receive additional cisplatin-based chemotherapy (as in induction chemotherapy) for 4-6 courses followed by mitotane alone for an additional 2 months. Patients with stage IV disease then proceed to additional surgery when feasible.
+
+ADDITIONAL SURGERY: Patients with stage IV disease may undergo additional primary tumor resection with regional lymph node dissection and resection (or re-resection) of the metastases.
+
+After completion of study treatment, patients are followed periodically for at least 5 years.

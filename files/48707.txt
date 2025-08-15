@@ -1,0 +1,22 @@
+Mechanisms of Resistance to PSMA Radioligand Therapy
+This is a multicenter, correlative study to existing Lutetium based prostate-specific membrane antigen (PSMA)-targeted radioligand therapy (RLT) trials and uses.
+Prostate Cancer
+PROCEDURE: Single-photon emission computed tomography|PROCEDURE: Blood Draw|PROCEDURE: Tumor Biopsy
+Mean whole body tumor absorbed dose (WB Dose) across all metastatic lesions, The unit density sphere model will be implemented using OLINDA, a second-generation personal computer software for internal dose assessment in nuclear medicine to measure mean dose across all metastatic lesions. This approach uses the three time-point SPECT/CTs to create a whole-body dose map, which can then be segmented. Using OLINDA, the total dose to each tumor will be calculated as the integral of activity over time estimated out to 500 hours. Dose will be calculated in gray (Gy)., Up to 6 months|Median PORTOS score, PORTOS is a gene signature that predicts salvage radiation success. A PORTOS score of zero (called a "low" PORTOS) means it predicts no benefit from salvage radiotherapy. A PORTOS greater than zero (called a "high" PORTOS score) predicts a benefit from salvage radiation., Up to 6 months
+PRIMARY OBJECTIVES:
+
+I. To determine the relationship between whole body tumor absorbed dose and response Lutetium based prostate-specific membrane antigen-targeted radioligand therapy (177Lu-PSMA-RLT).
+
+II. To determine the relationship between Post-Operative Radiation Therapy Outcomes Score (PORTOS) score and response to 177Lu-PSMA-RLT.
+
+III. To determine the relative importance of radiation dose (whole body tumor absorbed dose) and radiation sensitivity (PORTOS score) as a marker of response to 177Lu-PSMA-RLT.
+
+EXPLORATORY OBJECTIVES:
+
+I. To develop novel signature of radiation sensitivity.
+
+II. To evaluate tumor biopsies to understand mechanisms of resistance.
+
+III. To understand utility of post-cycle 4 single-photon emission computed tomography (SPECT/CT) to evaluate treatment response.
+
+Study participants will undergo a biopsy and blood draw prior to the initiation of planned therapy, as well as SPECT/CT imaging performed after the first and fourth treatments. One SPECT/CT scan will be performed 24 (+/- 6) after the first treatment, and after the fourth treatment, a 24 +/- 6-hour post-treatment SPECT/CT will be performed. Additionally, study participants may choose to undergo optional biopsy and blood draw at time of progression.

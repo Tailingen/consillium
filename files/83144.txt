@@ -1,0 +1,20 @@
+Reminder Modality for CRC Screening
+This is a randomized controlled trial that will evaluate the effectiveness of different reminder modalities for a population-based mailed FIT program at the VA Puget Sound among average risk Veterans who are due for annual colorectal cancer (CRC) screening.
+Colorectal Cancer
+OTHER: Reminder Phone|OTHER: Reminder Text
+Percentage of returned FIT Kits, the return rate at three months post randomization, three months post randomization
+Percentage of returned FIT Kits, the return rate at six months post randomization, six months post randomization
+Interim analysis, z-statistic will be calculated from the proportional difference between the combined treatment groups (all reminders) vs. control, At 50% (n = 1327) of estimated sample size
+This is a prospective, randomized controlled trial that will evaluate the effectiveness of two different reminder modalities in improving adherence to annual CRC screening.
+
+Veterans eligible for enrollment into the trial will be randomized in a 1:1:1 allocation using permuted block randomization (with random block sizes of 3 and 6) to the following interventions:
+
+1. Control arm: No reminder
+
+   a. Intervention Type: No intervention
+2. Arm 2: Automated phone reminder
+
+   a. Intervention Type: Standard reminder via phone (audiocare)
+3. Arm 3: Text reminder a. Intervention Type: Standard reminder via text (VEText)
+
+Randomization will be stratified within arms by prior screening status (prior screener vs. never screener)

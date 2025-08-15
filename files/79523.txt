@@ -1,0 +1,201 @@
+Grouping Immune-modulation With Cryoablation (LOGIC) for Breast Cancers
+Summary Points:
+
+1. High Risk Breast Cancers: Triple negative cancer is considered high risk due to high rate of local and systemic failure. Newer innovative treatment strategies are needed to improve systemic control of disease and survival.
+2. Immune system modulation: is an emerging modality in cancer treatment. Tumor antigens can stimulate T cells to identify and destroy cancer cells. Cancers express "altered self" antigens that tend to induce weaker responses than the "foreign" antigens expressed by infectious agents. Thus, immune stimulants and adjuvant approaches have been explored widely. Opportunities to develop effective cancer vaccines may benefit from seminal recent advances in understanding how immunosuppressive barricades are erected by tumors to mediate immune escape. This concept is precisely applicable to triple negative breast cancer due to their antigenicity. Checkpoint inhibitors are an attractive method for treatment of high-risk breast cancers. However, to leverage the efficacy of checkpoint inhibition, approaches are needed to enhance delivery of cancer antigens to the T cells.
+3. Cryoablation: offers an efficacious and safe method to enhance tumor antigen presentation to the immune cells while destroying the primary tumor. This ablation method is superior by virtue of antigen preservation in situ despite toxicity to the tumor cell. Impact of cryoablation in enhancing immunological responses in tumor microenvironment are well established; however, cryoablation can also cause tumor antigen tolerance via non-specific stimulation of T cells.
+4. Rationale for combining cryoablation and checkpoint inhibitors: Since checkpoint inhibitors curtail the tolerance developed by tumor antigens, and cryoablation enhances antigen presentation and T cell recruitment, it is intuitive that combination of these two approaches presents an ideal opportunity to leverage the benefits of both approaches while curtailing the limitations of either. Therefore, the investigators hypothesize in this study that their combination will improve the response rate and the degree of response.
+Triple Negative Breast Cancer
+DEVICE: Cryoablation|COMBINATION_PRODUCT: Cryoablation combined with PD1 Inhibitor
+Rate of Complete Pathological Response, Pathological analysis of tumor after completion of local and neoadjuvant therapy, 6-8 months
+Percent change is Tumor Infiltrating Lymphocytes Score, All tissue specimens that undergo routine pathology reporting will be evaluated for TIL score at baseline and at lumpectomy after systemic therapy. TIL score will be reported according to guidelines put forth by the International TILs Working Group. We hypothesize that percent TIL score will increase by 30% from baseline., 6-8 month
+AIMS:
+
+The main goal of proposed study is to assess synergy of tumor cryoablation and immune checkpoint inhibitor in high-risk breast cancer in humans. This will be achieved by comparing cryoablation alone and cryoablation in combination with pembrolizumab - a \[checkpoint inhibitor (anti PD-1/PD-L1 antibody) currently FDA approved as cancer therapy\] with the current standard of care including surgical resection. The current standard of neoadjuvant/ adjuvant therapies will remain unchanged for ethical reasons of providing best-known standard of care to all patients.
+
+OBJECTIVES:
+
+The investigators propose a prospective randomized exploratory trial where patients with clinical stage I/II, triple negative invasive breast cancer will be randomized to one of the three arms of the study:
+
+1. Standard of care - neoadjuvant therapy followed by surgical resection followed by appropriate adjuvant therapy as needed.
+2. Cryoablation arm - cryoablation followed by appropriate neoadjuvant therapy followed by surgical resection followed by appropriate adjuvant therapy as needed.
+3. Cryoablation with Pembrolizumab - Single dose of Pembrolizumab of 200 mg before (within 24-48 hours) of cryoablation followed by appropriate neoadjuvant therapy followed by surgical resection followed by appropriate adjuvant therapy as needed.
+
+   Outcome measures will include blood and tumor analysis of immune response with flow cytometry and cytokine analysis at baseline, after intervention, and before surgery. Tissue from core biopsy at baseline, repeat biopsy before chemotherapy and tumor resection will also be analyzed for tumor microenvironment.
+
+   INTRODUCTION / BACKGROUND / SIGNIFICANCE:
+
+   High Risk Breast Cancer and Need for Newer Treatment Approaches: Triple- negative breast cancer, which represent 15-20% of all breast cancer diagnoses are considered high-risk. While surgical resection remains the mainstay of treatment, therapeutic backbone includes neoadjuvant and adjuvant chemotherapy. For patients who continue to have significant residual disease even after surgical resection and completion of chemotherapy, further aggressive systemic therapies such as capecitabine are performed. Triple-negative subtype is associated with the highest number of mutations across the genome and non-metastatic disease is associated with 17-20% local failure and 35- 40% distant failure at 5-10 years of follow up. These data suggest that micrometastatic hematogenous spread happens in a substantial number of patients with operable high-risk breast cancer and newer approaches are required that potentiate local control while simultaneously controlling the systemic spread of disease.
+
+   Scope of Immune-modulation: Cancer immunotherapy has experienced extraordinary success in recent decades. Antigens that can evoke anti-tumor immune responses form a suitable immunotherapeutic target. The approach of T cell checkpoint blockade therapies has shown remarkable clinical responses in several types of solid cancers such as, melanoma, non-small cell lung cancer, bladder cancer and mismatch repair- deficient cancers. An effective anti-tumor immune response is thought to be initiated by the taking up of tumor antigens by antigen- presenting cells (APCs), which is turn present them, and provide co-stimulatory signals to both CD4+ and CD8+ T cells. APCs, particularly dendritic cells, process antigens through an exogenous antigen processing pathway where tumor cell material is phagocytosed and converted into HLA class I and class II binding peptides that are presented to CD8+ (cross-presentation) and CD4+ T cells, respectively. Utilizing this knowledge, recent phase 1 trials have reported enhanced response to immune checkpoint inhibitor therapy in combination with conventional chemotherapy in triple-negative breast cancers. Certainly, percentage of tumor infiltrating lymphocytes (TILs) has been identified as an important immunologic parameter, particularly for high-risk breast cancers, that correlates with response to systemic therapy, suggesting a strong role of host immune response in cancer control irrespective of therapeutic intervention.
+
+   Limitation of Immune-modulation - T cells are key players in anti-tumor immunity and therefore form the major target for immunotherapeutic research. The current breakthrough in cancer immunotherapy results from the identification and targeting of checkpoint mechanism involving CTLA-4, PD-1, and PD-L1. CTLA-4 and PD-1 are co-inhibitory receptors found on the surface of T cells. Upon binding to their corresponding ligands (CD 80/86 and PD-L1/L2, respectively), T cells become anergic - a physiologic mechanism of tolerance. In the context of tumor microenvironment, the aberrant expression along with chronic exposure to tumor antigens can lead to undesirable suppression of T cell immunity.
+
+   Recently developed checkpoint blockers, such as PD-1/ PD-L1 inhibitor, pembrolizumab, has provide a new weapon against cancer with durable clinical responses and long-term remissions. However, checkpoint blockade has been shown to be most effective in tumors with high mutation burden, in line with the notion that T cell recognition of neo-antigens plays a major role in checkpoint blockade. Many studies show that when the tumor-reactive T cell infiltrate is absent or low (low percentage of TILs), the substrate for checkpoint blockade is lacking. Additionally, majority of patients with so called hyper-mutated tumors do not respond to checkpoint blockade due to immune-editing, which compromises the T cells' ability to fulfill their cytotoxic activity of adequate tumor infiltration and recognition of tumor-antigen-loaded HLA class I molecules. Therefore enhancing antigen presentation within the tumor is essential for checkpoint blockade to be effective.
+
+   Role of Ablative Therapies - Particularly Cryoablation: Thermal ablation with cryotherapy, laser, radiofrequency, microwave, and focused ultrasound present a unique opportunity to address both, the primary tumor and the micrometastatic disease. The effects of tumor ablation are multifold: (1) the destruction of tumor mass, lowering tumor burden and (2) the release of tumor antigens, making them available for uptake by antigen presenting cells (APCs) and the treatment itself leads to (3) the release of damage associated molecular patterns (DAMPs) and (4) the induction of a physiological wound healing response. Ablation leads to creation of an in situ antigen depot containing all types of tumor protein, which leads to initiation of systemic anti-tumor immune response that can potentially eliminate occult metastatic disease. Ablation of tumors at temperatures above 65 °C leads to denaturation of proteins. This can affect immune responses in opposing ways as high temperatures denature immune activating signals, such as danger signals like heat shock proteins (HSPs). Therefore cryoablation is the most promising ablative technique, as it offers minimal invasiveness, less damage to surrounding tissues, and better preservation of tumor antigens, and most robust data on immune stimulation.
+
+   Immune Stimulation Effected by Cryoablation - Deep freezing and thawing during cryoablation induces necrosis and the up-regulation of DAMP molecules that render tumor cells more susceptible to APCs and tumor specific T-cell-mediated killing. Cryoablation upregulates DAMPs, such as HMG1, calreticulin, S100A8/A9 and HSP70, which stimulate the immune system through Receptor for Advanced Glycosylation End-products (RAGE) and toll-like receptors and enhance antigen presentation. Additionally, the central zone cytokine milieu resulting from cryoablation is typically a Th1 cytokine profile of IL-2, INF-γ, TNF-α, and IL-12. These cytokines and DAMPs presumably drive the cytotoxic CD8+ T-cell response. Preclinical evidence supporting immune response of cryoablation: Several preclinical studies on cryoimmunology explored whether freezing the tumor and leaving it in situ would render the animal resistant to a re-challenge. Animal models utilizing carcinoma and sarcoma cell lines in rabbits and mice demonstrated tumor- specific resistance to re-challenge. Re-challenge with same tumor cell lines showed resistance to growth in animals after cryoablation compared to surgical resection. Similar experience was reported by Blackwood and Cooper with models involving rats inoculated with myosarcoma and carcinosarcoma cell lines. Rats with cryoablated tumors were more likely to resist re-challenge, and demonstrated regression of secondary tumors compared to surgically treated rats. Bagley compared cryoablation with surgery in using MCA-10 fibrosarcoma in C57BL/6 mice, harvesting splenic lymphocytes at weekly intervals after treatment for cytotoxicity assays. Mice undergoing cryoablation had significantly higher cytotoxicity than surgically treated or untreated mice. Sabel studied MT-901 mammary adenocarcinoma tumors in BALB/c mice treated with cryoablation or surgical resection. After re-challenge, 86% of mice treated with surgery developed second tumors compared with 16% of mice treated with cryoablation. This was tumor- specific, as the cryoablation offered no protection against challenge with other cell lines. More recently, Kim utilizing renal cell carcinoma cell lines in BALB/c mice reported similar results. More recently, abscopal effect of tumor regression in untreated tumors in animal models where only one of the implanted tumors was cryoablated, has been reported as a result of systemic immune response.
+
+   Clinical evidence supporting immune response of cryoablation: Although clinical use of cryoablation for cancer has recently expanded, there are relatively few studies examining the immunological impact in humans. Ravindranath measured the level of serum tumor gangliosides and their antibody titers in patients receiving cryoablation, radiofrequency ablation or resection of liver metastasis from colorectal cancer. Serum ganglioside levels were significantly higher in cryoablated patients compared to radiofrequency or surgery. Cryoablated patients also demonstrated higher titers of IgM against tumor gangliosides. Si studied 20 patients with prostate cancer undergoing cryoablation of primary tumor and reported an increase in in cytolytic activity against LNCaP, and an increase in number of IFN-ɣ producing T cells. Thakur conducted a pilot study of cryoablation and GM-SCF for patients with renal cell carcinoma metastatic to lung. GM-CSF was infiltrated near a lung metastatic lesion selected for cryoablation. Additional GM-CSF therapy was used post-procedure. The combination of GM-CSF and cryoablation produced an enhanced immune response in terms of cytotoxicity and serum antibodies.
+
+   Limitation of Cryoablation: Despite the data reviewed above, immune response to cryoablation has not been uniform. Some preclinical studies on osteogenic sarcoma, and prostate cancer models, failed to show any increase in immune function after cryoablation. More importantly, several studies have reported immune suppression with cryosurgery. The majority of these studies involved fibrosarcoma cell lines in rats and showed decreased resistance to re-challenge after cryoablation, as well increased growth of metastatic tumors and secondary tumors. From a breast cancer perspective, Sabel reported that a high freeze rate resulted in increased tumor-specific T-cells in the tumor draining lymph nodes, reduction in lung metastasis and improved survival compared to low freeze rates which also had more Tregs (CD3,CD4,CD127-,CD25+). Therefore, the magnitude of systemic effect induced by cryotherapy alone has proven to be either insufficient or counter-productive. Current understanding is that close to the ablative source, direct injury and cell death with necrosis releases tumor antigens and (DAMPs) which recruit and activate dendritic cells that in turn stimulate proliferation of T cells and immune components. Transition zone away from the ablative source causes indirect cellular injury and apoptotic cell death without release of DAMPs, which causes release of suppressive cytokines and T-cell clonal deletion and anergy. Intuitively, cryoablation stimulates an immune response but the ultimate clinical impact is dictated by the ratio of CD4+ T-effector cells to T-regulatory cells. Higher T-effector to T-regulatory cell ratio promotes the more favorable CD8 cytotoxic T cell response. While CD8+ cytotoxic cells eliminate the primary tumor and systemic micrometastasis, it is important that anergy is kept in check and both effector (CD45RO+, CCR7-) and central (CCR7+, CD45RO+) memory T-cells are established for long-term protective anti- tumor immunity.
+
+   HYPOTHESIS:
+
+   "Combination of cryoablation with Pembrolizumab for local control in high-risk triple negative breast cancer is superior to surgical resection alone or cryoablation alone in generating antitumor immune response".
+
+   METHODS:
+
+   Site of Study:
+
+   Proposed exploratory work is a randomized trial that will be conducted at Texas Tech University Health Sciences Center-Breast Center of Excellence, UMC Cancer Center.
+
+   Type of study:
+
+   Prospective Randomized Trial - hypothesis driven
+
+   Experimental Design:
+
+   The investigators propose a single blinded prospective randomized trial, where women with Stage I/II triple negative breast cancer will be enrolled in one of the three arms in 1:1:1 randomized fashion: (I) Control arm with neoadjuvant chemotherapy followed by lumpectomy/mastectomy with sentinel node biopsy +/- axillary dissection; (II) Intervention with cryoablation alone followed by neoadjuvant chemotherapy followed by lumpectomy/mastectomy with sentinel node biopsy +/- axillary dissection; (III) Intervention with cryoablation + Pembrolizumab followed by neoadjuvant chemotherapy followed by lumpectomy/mastectomy with sentinel node biopsy +/- axillary dissection. The treatment schedule is designed to optimize antigen exposure time. The trial will be registered at the National Clinical Trials Network once IRB approval is obtained.
+
+   Subjects:
+
+   All patients 18 and older with clinical stage I/II triple negative disease will be offered to participate. These patients will be screened during an oncology/surgery appointment by the study team. A computerized randomization list will be used for treatment arm assignment using the website:
+
+   https://www.sealedenvelope.com/simple-randomiser/v1/lists
+
+   Inclusion Criteria:
+   * Females
+   * Stage I/II Cancer
+   * Age range 18 - 90 years
+   * Diagnoses: Invasive carcinoma, ER -, PR-, HER2- (triple negative)
+   * Radiology findings: Unifocal disease visible on ultrasound
+
+   Exclusion Criteria:
+   * Additional primary cancer
+   * Inflammatory breast cancer
+   * History of autoimmune disease
+   * History of chronic immunosuppression
+   * Prior immunotherapy
+   * Recent vaccination (within 4 wks.)
+   * Prior radiation therapy
+   * Prior investigational agent therapy within last 1 year
+   * Pregnancy at the time of diagnosis and/ or treatment
+   * Breast feeding
+
+   Study visits:
+
+   Informed consent will be obtained then the patient will be randomized. All visit will coincide with standard of care visits. Next, the following will occur:
+
+   Visit 1: Day 1:
+
+   Baseline Blood draw; up to 20ml will be collected in EDTA tubes; the blood will be centrifuged at TTUHSC. Plasma will be used for cytokine analysis and phenotyping at TTU lab. One EDTA tube will be sent to University of Houston (throughout the study time-points). Following outcomes will be measured:
+
+   Cytokine analysis
+   * RNA seq PBMC analysis Baseline core biopsy tissue (already available from diagnostic workup) will be evaluated for: (2 unstained slides will be prepared for RNA seq from fixed tissue)
+   * TIL %
+   * RNA Seq tumor tissue
+
+   Visit 2 (Group II \& III Only) After Cryoablation: Day 3 (+/- 7 days):
+
+   Post-ablation blood draw (Group II \& III)- up to 10ml of blood in EDTA tube(s):
+
+   • Cytokine analysis
+
+   Visit 3 (All groups) Pre Neoadjuvant Chemotherapy: Day 21 (+/- 14 days):
+
+   Blood draw at the time of port insertion for chemotherapy- up to 20ml of blood in EDTA tubes:
+   * Immune phenotyping by flow cytometry
+   * Cytokine analysis
+   * RNA seq PBMC analysis
+   * Tumor biopsy will be repeated for TIL and RNA seq analysis
+
+   Visit 4 (All groups): Post Chemotherapy Resection (approximately 6 months after original biopsy):
+
+   Preoperative blood draw- up to 20ml blood in EDTA tubes (similar to baseline):
+   * Immune phenotyping by flow cytometry
+   * Cytokine analysis
+   * RNA seq PBMC analysis Surgical specimen tissue analysis (2 unstained slides from fixed tissues will be prepared for RNA seq)
+   * TIL%
+   * RNA seq tumor tissue
+
+   Sample Size:
+
+   Tumor-infiltrating lymphocytes (TILs), particularly in the stroma of triple negative breast cancer are prognostic and predictive of response to therapy. Therefore, recommendations by the International TILs Working Group were used to calculate the sample size for this project. The percentage change of TILs is assumed to be 10% for the control arm and 50% for the treatment arm. A sample of 10 patients per group can achieve 80% power to detect a mean difference of 0.4 (0.5 vs. 0.1) with a standard deviation of 0.3, using a two-sided two-sample equal variance t-test (alpha=0.05). Assuming 30% drop out rate, a total of 12 patients in each arm would suffice for a total of 36 patients; this would achieve a 90% power. This means that a minimum of 10 patients per arm and a maximum of 12 patients per arm will lead to a statistically meaningful study.
+
+   Statistical Plan:
+
+   Descriptive statistics will be used to compute the ranges, means, and variances for the independent variables standard care, cryo, cryo+pembro. This will suggest that the concentration of the observations around the mean, and variation of the observations from the means. The normality test will be considered to check whether or not data follow normal distribution. Normal quantile-quantile plots (also called q-q plots) will be utilized to determine if data sets come from a normal population. To detect the outliers (if there is any) several statistical measures will be taken into consideration. To check the homogeneity of variances for the independent variables standard care, cryo, cryo+pembro, Levene's test will be performed by setting up null and alternative hypotheses. To compare the significance difference among the means of the variables, a one-way analysis of variance (ANOVA) will be performed. The null and alternative hypotheses for the means will be introduced. In ANOVA, statistical significance of the means will be tested (α = 0.05) by using the F-test statistic. If the means are found statistical significant difference then the post-hoc multiple comparisons tests will be performed. Post-hoc multiple comparisons tests (LSD, Bonferroni, Scheffe, Tukey, etc.) will be utilized to detect the appropriate significant group means. If the samples do not meet the normality assumptions then several non-parametric tests will be considered for the statistical analyses.
+
+   Tumor Cryoablation:
+
+   All registered patients will be randomized to one of the three arms of the study. Patients in arm II and III will receive cryoablation according to the following protocol (similar to the protocol used in ACOSOG Z1072 trial).
+
+   Cryoablation Device: Cryoablation will be performed using the commercially available ProSense Cryosurgical System (IceCure Medical Ltd, Caesarea, Israel) consisting of a console, cryoprobe and associated liquid nitrogen (cryogen) Case Dewars. The console is a self-contained unit that features an interface for controlling and monitoring the cryoablation procedure. It operates with standard 120 VAC (60Hz) power.
+
+   Device Operation: The ProSense Cryosurgical System uses a closed system to circulate liquid nitrogen within the cryoprobe tip creating sub-freezing temperatures that result in ablation of target tissue. The lesion is identified with ultrasound and the cryoprobe is placed in the center of the lesion under ultrasound guidance after adequate local anesthesia, and ablation is carried out according to predetermined freeze-thaw-freeze algorithm. The probe is then warmed by an internal electrical resistance heater and removed from the patient. Cryoablation Procedure: Tumor is identified using high-resolution linear array ultrasound probe in two orthogonal views. Longest dimension of the tumor is identified for parallel insertion of the probe. This dimension is entered into the console; the console provides the length of cryoprobe tip to be past the lesion upon insertion. After insertion, the probe position is confirmed in two orthogonal views. Cryoablation is done using the freeze-thaw-freeze cycle according to the tumor size. Entire procedure is monitored under vision and saline is infiltrated to avoid skin frostbite by hydro- dissecting the skin away from the ice-ball. Size of ice-ball is recorded in orthogonal dimensions. In our protocol, if a patient has more than one lesions, only one lesion will be ablated; however biopsies from other lesions will be studied for abscopal affect.
+
+   Infusion of Pembrolizumab and Dosing:
+
+   As an initial step, the investigators confirmed the safety and tolerability of immune checkpoint inhibitors with tumor cryoablation in women with newly diagnosed breast cancer. One important consideration was selection of an immune modulating antibody. Pembrolizumab, an FDA-approved antibody against PD-1/PD-L1, has a well-established safety profile, and induces long-term remissions lasting \>10 years in 10-20% of advanced melanoma patients. Furthermore, because T cells acutely upregulate expression of PD-1/PD-L1 after being exposed to antigens, which in turn may blunt the cytotoxic response, pembrolizumab is ideally suited for immune modulation in combination with cryoablation. Memorial Sloan Kettering Cancer Center (MSKCC) published a pilot study on this combination; no serious side effects attributable to ipilimumab were reported; no surgery was delayed. MSKCC used 10 mg/Kg as a single dose; however, since the studies report higher adverse events at that dose, the investigator propose the recommended 200 mg for IV over 90 minutes dose before cryoablation, which is the currently utilized dose in clinical setting for triple negative cancers.
+
+   Methodology for Outcome Measures:
+
+   The investigators will observe and monitor the immune response(s) following the cryoablation procedures with and without the pembrolizumab. Blood samples will be collected in EDTA-blood collection tubes and then aliquoted for T-cell phenotypic analysis, and plasma collection for cytokine/chemokine, and for RNA seq analysis, at the indicated time points. Pathology slides will be made for research from core biopsy samples at baseline and from lumpectomy and sentinel nodes at the time of surgery. Five slides will be made per specimen (after completion of routine pathology) for H\&E and immunohistochemistry for immune cell infiltrates to calculate TILs percentage. All collaborators/Key personnel involved in performing the outcome measure analysis will be blinded to the randomization groups.
+
+   Following are the details for outcome analysis:
+
+   TIL Calculation: All tissue specimens that undergo routine pathology reporting will be evaluated for TIL reporting according to guidelines put forth by the International TILs Working Group. Change in TIL score between original core biopsy tissue and surgical tissue will be the focus of analysis to assess the impact of proposed interventions.
+
+   Measurement of T-cell Changes in Blood: T-cell subtypes can be defined by differential expression of cell surface markers. The investigators will monitor T-cells for activation, increased CD8+ effector T-cells and development of effector and central memory. For T-cell phenotyping, whole blood staining (100 µl/stain) will be performed with antibodies to CD3, CD4, CD8, CD25, CD27, CD45RO, CD127, CD137, ICOS, CCR7 and Ki67 with appropriate isotype controls. Following RBC lysis, the stained mononuclear cells will be run on an Attune NxT 14-color flow cytometer (Thermofisher, Waltham, MA) and analyzed using FlowJo software (Becton, Dickinson and Company). T-cells (CD3+, CD4+ or CD8+) will be analyzed for changes in naïve (CD27+, CCR7+, CD45RO-), effector (CCR7-, CD45RO-), effector memory (CD27-, CCR7-,CD45RO+) and central memory (CD27+, CCR7+, CD45RO+) phenotypic markers as well as for activation (ICOS and CD137) and proliferation (Ki67). The investigators will further analyze for percentages of T-regulatory cells (CD25+, CD127-). The investigators will use this data to determine a T-cell immune signature to correlate the effectiveness of the cryoabalation+/- Pembrolizumab to predict the long-term anti-tumor immunity.
+
+   Plasma Cytokine/Chemokine Analysis: Our initial analysis will be to determine which cytokines/chemokines and what concentrations are detected in the blood following cryoablation +/- pembrolizumab and how their profiles are altered. The investigators will focus on the inflammatory and helper T-cell cytokine profiles and how these cytokines influence and direct the T-cell response. Additionally, the investigators will look at changes in chemokines. Their altered expression in malignancies have been shown to dictate leukocyte recruitment and activation, angiogenesis, cancer cell proliferation, and metastasis in all the stages of the disease. At baseline, 24-48 hours post ablation, between pre chemotherapy, blood will be collected and plasma isolated by centrifuging 1-2 mls of blood at 1-2000 x g for 10 minutes and then aliquoting 120 µl into 0.65 mL microcentrifuge tubes. Standard of care group will only have 3 blood sample time points. Plasma samples will be analyzed with a Bio-Plex 200 at Eve Technologies Corporation (Calgary, AB Canada) using the Human High Sensitivity T-Cell Discovery Array 14-plex (HDHSTC14): GM-CSF, IFNy, IL-1B, IL-2, IL-4, IL-5, IL-6, IL-8, IL-10, IL-12p70, IL-13, IL-17A, IL-23, TNF-a.
+
+   DATA SHEET:
+
+   See Excel spreadsheet. The RNA seq will be collected as heat maps for differentially expressed genes.
+
+   RISKS:
+
+   Blood draw risks:
+
+   The risks of a blood draw include: pain, discomfort, bleeding, bruising, redness, infection where the needle enters the skin; feeling lightheaded, fainting.
+
+   Cryoablation related risks:
+
+   Cryoablation has been a very safe procedure; PI has been routinely offering this procedure to benign and cancer disease in the breast; so far, 18 cancer patients and 36 benign lesions have been subjected to the procedure. The following mild complications have been reported thus far:
+   * Bruising at the site of ablation - self-limited.
+   * Pain - managed with OTC analgesics.
+   * Skin necrosis is a theoretical possibility however, following the procedure protocol; the investigators have never had this complication.
+
+   Pembrolizumab related risks:
+
+   There have been extensive studies on toxicities of immune checkpoint inhibitors. Standard recommended dose for Pemrolizumab is 200 mg IV per dose (approved by the FDA). Anticipated adverse effects include:
+   * Rash
+   * Diarrhea
+   * Constipation
+   * Nausea
+   * Weight loss
+   * Dry eyes
+   * Fatigue
+   * Headache
+   * Fever
+   * Joint pain
+   * Thyroid dysfunction
+
+   Loss of Confidentiality:
+
+   All data will be maintained in password-protected files within the CRI and PI's office. All data will be de-identified for compilation and analysis. All protocols for HIPAA compliance will be followed. However, minimal risk of breach in confidentiality is possible due to human error.
+
+   BENEFITS:
+
+   The patients in arm II and III may benefit by participation in the trial. If our intuition of immune modulation via combination of cryotherapy and checkpoint inhibitor drug actually affects the control of tumor, these two groups will directly benefit form participation. However, the control arm I is not going to benefit from the trial beyond providing a comparison arm for the study. The main goal of the proposed study is to identify a novel low-risk treatment approach to these high-risk cancers, which will ultimately benefit the future cancer patients.
+
+   MONITORING:
+
+   To ensure compliance with the study protocol, GCP guidelines, and TTUHSC Human Research Protection Program research policies and procedures during the conduct of the study, as well as quality data, a monitor in the Clinical Research Institute will conduct the monitoring of the study. The first monitoring visit will be conducted within two weeks after the first subject has been enrolled into the study. The succeeding monitoring visits will be scheduled periodically, but no less than every 2 months when there is an active study participant, at a mutually agreed timeframe by the PI and study monitor. All data collected will be 100% source document verified. The study monitor may inspect and audit all study documents, i.e. data collection forms, questionnaires, drug accountability, and medical records within the applicable confidentiality regulations.
+
+   FUNDING:
+
+   Applied for NIH grant R21

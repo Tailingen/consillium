@@ -1,0 +1,14 @@
+Developing a MRI-based Deep Learning Model to Predict MMR Status
+In order to develop a convenient, cheap and comprehensive method to preoperatively predict dMMR and reduce the number of people requiring dMMR-related immunohistochemical or genetic testing after surgery, this study aims to establish a deep learning model based on MRI to predict the MMR status of endometrial cancer. Patients diagnosed with endometrial cancer after surgery and who had completed pelvic MRI before surgery were collected. Deep learning was used to combine the clinical model with MR Image data to build the model. ROC curves were constructed for the testing group, internal verification group and external verification group, and the area under ROC curves were calculated to evaluate the diagnostic effect and stability of the model.
+
+The dual threshold triage strategy was used to screen out the pMMR population (below the lower threshold), dMMR population (above the upper threshold) and the uncertain part of the population (between the thresholds).
+Endometrial Cancer
+OTHER: randomly divided
+Area under receiver operating characteristic curve (AUROC), The area under receiver operating characteristic curve (AUROC) was used to evaluate the performance of the models, one year
+In this study, patients diagnosed with endometrial cancer after surgery and who had completed pelvic MRI before surgery were collected from 2017 to 2022. It is expected to collect 500 cases in our hospital, which are divided into 375 cases (experimental group) and 125 cases (internal verification group).
+
+100 cases of Sun Yat-sen University Cancer Center for external verification. Clinical data (age, gender, BMI, CA125, CA19-9, MR-T staging, immunohistochemical results of MMR-related proteins) of the study population were collected and logistics regression analysis was conducted to establish clinical models. Extract, segment, integrate and enhance MR Image data.
+
+Deep learning was used to combine the clinical model with MR Image data to build the model. ROC curves were constructed for the testing group, internal verification group and external verification group, and the area under ROC curves were calculated to evaluate the diagnostic effect and stability of the model.
+
+The dual threshold triage strategy was used to screen out the pMMR population (below the lower threshold), dMMR population (above the upper threshold) and the uncertain part of the population (between the thresholds). If the predictive score is above the lower threshold, the patient is advised to undergo further immunohistochemical or genetic testing to confirm MMR status or dMMR type

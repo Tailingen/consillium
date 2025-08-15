@@ -1,0 +1,53 @@
+FGFR4 Chimeric Antigen Receptor (CAR) T Cells in Children and Young Adults With Recurrent or Refractory Rhabdomyosarcoma
+Background:
+
+Rhabdomyosarcoma (RMS) is a cancer of soft tissues. It is the most common soft tissue sarcoma seen in children. RMS cancer cells have a protein called FGFR4 on their surface. Researchers want to try a new kind of treatment for RMS: They will collect a person s own T cells, a type of immune cell; then they will change the T cells so they are better able to target the FGFR4 protein and attack RMS tumor cells. The modified T cells are chimeric antigen receptor (CAR) T cells. The treatment in this study is called FGFR4-CAR T cells.
+
+Objective:
+
+To test FGFR4-CAR T cells in children and young adults with RMS.
+
+Eligibility:
+
+People aged 3 to 39 years with RMS. The RMS must have failed to respond or returned after at least 2 rounds of standard treatment.
+
+Design:
+
+Participants will be screened. They will have physical exam, imaging scans, blood tests, and tests of their heart. They may have a tissue sample taken from their tumor.
+
+They will undergo apheresis: Blood will be taken from the body through a catheter. The blood will pass through a machine that separates out the T cells, and the remaining blood will be returned to the body. The collected T cells will be taken to a lab to create FGFR4-CAR T cells.
+
+Once the FGFR4-CART cells are ready, participants can receive these T cells. For 4 days they will receive drugs to prepare their body for the FGFR4-CAR T cells. After this, the modified T cells will be infused into a vein.
+
+Participants will be then monitored closely to watch for any side effects from the CART cells and be followed to see what effect the CART cells have on their tumors. They will have follow-up visits for up to 5 years. Long-term follow-up will be another 10 years.
+Rhabdomyosarcoma
+DRUG: fludarabine|DRUG: cyclophosphamide|DRUG: cetuximab|BIOLOGICAL: FGFR4-CAR T Cells
+Estimate the MTD of FGFR4-CAR T cells in children and young adults with recurrent or refractory rhabdomyosarcoma following a cyclophosphamide/fludarabine lymphodepletion regimen, Estimation of MTD using evaluation of adverse events considered to be a DLT within DLT period as explained in sections Dose Limiting Toxicity (DLT) and Dose Escalation (Arm 1), 28 days
+Evaluate the feasibility of manufacturing FGFR4-CAR T cells for children and young adults with recurrent or refractory rhabdomyosarcoma, The fraction of participants who can successfully manufacture the targeted dose number meeting the requirements of the certificate of analysis, Initiation of manufacturing FGFR4-CAR T cells of the first participant until completion of CART cell manufacturing of the last participant.|Evaluate the safety of FGFR4-CAR T cells therapy in children and young adults with recurrent or refractory rhabdomyosarcoma, The frequency of adverse events among treated participants and reporting the results, by maximum grade of event and type of toxicity noted, this will also include a description of the number of participants with CRS at each dose level., 6 months|Evaluate progression-free survival, PFS will be reported along with 80% and 95% two-sided confidence intervals, Baseline, Day 30, 3, 6, 9, 12 months after cell infusion, every 3 months after that for year 2, every 12 months for years 3-5.|Evaluate ORR for those with measurable disease defined as CR + PR according to RECIST 1.1 in children and young adults with rhabdomyosarcoma, ORR will be summarized as the fraction of participants with measurable disease who experience a response (PR + CR) by dose level. The best overall response will be based upon the disease assessments recorded during the study visits, and reported by dose level in terms of confirmed CR/PR, unconfirmed CR/PR, SD, or PD, Baseline, Day 30, 3, 6, 9, 12 months after cell infusion, every 3 months after that for year 2, every 12 months for years 3-5.
+Background:
+
+* Rhabdomyosarcoma (RMS) is the most common soft tissue sarcoma of childhood with an annual incidence of 4.5 cases per 1 million children and is the third most prevalent extracranial solid tumor of childhood after neuroblastoma and Wilms tumor.
+* RMS is divided into two main subtypes, fusion negative (FN-RMS) driven by RAS pathway mutations, and fusion positive rhabdomyosarcoma (FP-RMS) driven by PAX3/PAX7-FOXO1 fusion genes. Patients with low-risk disease have a 5-year overall survival (OS) that approaches 90% and relapse-free survival that has recently improved to 70-80%, albeit with significant toxicity. However, patients with highrisk or recurrent disease have a dismal prognosis (5-year survival \<30% or 17% respectively).
+* We have previously reported that FGFR4 is expressed universally in RMS, high expression is associated with an adverse outcome, and approximately 10% of FNRMS have activating mutations of FGFR4.
+* We recently reported that fusion gene PAX3-FOXO1, the main oncogenic driver of FP-RMS, establishes a super enhancer in the FGFR4 locus, driving its continual high expression.
+* FP-RMS patient tumors that harbor the PAX3 fusions are more likely to be metastatic at presentation, relapse despite aggressive therapy, and have very poor survival, underscoring the critical need to develop novel therapeutic strategies for this subset of patients.
+* These data indicate that FGFR4 is universally expressed and a driver oncogene in RMS and therefore is a tractable target for immunotherapy.
+
+Objective:
+
+-To estimate the maximum tolerated dose (MTD) of FGFR4-CAR T cells in children and young adults with recurrent or refractory rhabdomyosarcoma following a cyclophosphamide/fludarabine lymphodepletion regimen.
+
+Eligibility:
+
+* Age \>= 3 and \<= 39 years old
+* Weight \>= 15 kg
+* Confirmed diagnosis of rhabdomyosarcoma
+* Relapsed or refractory rhabdomyosarcoma after at least 2 cancer treatment regimens
+
+Design:
+
+* Phase I, dose-escalation scheme will be used at 4 dose levels (DL) (+/- 20%): DL1 (3 x 10\^5 transduced T cells/kg); DL2 (1 x 10\^6 transduced T cells/kg); DL3: (3 x 10\^6 transduced T cells/kg); DL4 (1 x 10\^7 transduced T cells/kg), using a standard 3 + 3 dose-escalation design. Dose level -1 (+/- 20%): 1 x 10\^5 transduced T cells/kg may be used if toxicity is noted at dose level 1.
+* Upon enrollment, apheresis is performed to collect T cells for transduction prior to preparative chemotherapy. Peripheral blood mononuclear cells (PBMC) may be cryopreserved if necessary, prior to initiation of CAR transduction. CAR transduced T cells will be manufactured and cryopreserved prior to administration.
+* Participants will receive a standard lymphodepleting preparative regimen of fludarabine (30 mg/m\^2/d on Days -5, -4, -3 and -2) and cyclophosphamide (500 mg/m\^2/d on Days -4, -3, and -2)
+* Day 0: CAR T cell infusion
+* Participants will be monitored for toxicity, antitumor response, CAR expansion, and persistence as well as other biologic correlates

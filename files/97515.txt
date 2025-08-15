@@ -1,0 +1,28 @@
+Effect of TEAS on the Incidence Rate of SIRS in Patients Undergoing Abdominal Surgery
+The purpose of this study is to access the effect of Transcutaneous Electrical Acupoint Stimulation(TEAS) on the Incidence rate of Systemic Inflammatory Response Syndrome (SIRS) in patients undergoing radical surgery for gastric cancer
+Systemic Inflammatory Response Syndrome|Inflammation
+DEVICE: TEAS|DEVICE: Sham TEAS
+Incidence rate of SIRS, SIRS is defined as 2 or more of the following variables :
+
+1. Fever of more than 38°C (100.4°F) or less than 36°C (96.8°F)
+2. Heart rate of more than 90 beats per minute
+3. Respiratory rate of more than 20 breaths per minute or arterial carbon dioxide tension (PaCO2) of less than 32mm Hg
+4. Abnormal white blood cell count (\>12,000/µL or \< 4,000/µL or \>10% immature granulocyte forms)
+
+Incidence rate of SIRS is calculated using the following formula:
+
+(Number of SIRS Cases within the group) / (Number of Cases within the group), 1st day after surgery
+Change of Inflammatory cytokines, Venous blood samples were collected before general anesthesia induction,1th day and 3rd day after surgery. Inflammatory cytokines index including interleukin-6,interleukin-10,TNF-α,Interferon-γ(IFN-γ),Monocyte Chemotactic Protein 1(MCP-1),IgG,IgM were measured., 30 minutes before general anesthesia induction and 1st and 3rd day after the surgery|Incidence rate of SIRS, SIRS is defined as 2 or more of the following variables :
+
+Fever of more than 38°C (100.4°F) or less than 36°C (96.8°F) Heart rate of more than 90 beats per minute Respiratory rate of more than 20 breaths per minute or arterial carbon dioxide tension (PaCO2) of less than 32mm Hg Abnormal white blood cell count (\>12,000/µL or \< 4,000/µL or \>10% immature granulocyte forms)
+
+Incidence rate of SIRS is calculated using the following formula:
+
+(Number of SIRS Cases within the group) / (Number of Cases within the group), 3rd day after surgery
+Patients undergoing elective radical surgery for gastric cancer under general anesthesia were randomly assigned to three groups, control group , TEAS group and sham TEAS group.
+
+TEAS group receiving TEAS before general anesthesia induction , 1th day and 2nd day after surgery. TEAS was given through electrodes attached to specific acupoints. The time for TEAS was 30min.
+
+Sham TEAS group receiving sham TEAS before general anesthesia induction , 1th day and 2nd day after surgery. Sham TEAS was given through electrodes attached to non-acupoints. The time for sham TEAS was also 30min.
+
+Control group were given no TEAS. Incidence rates of SIRS in each group were compared .Venous blood samples from all groups(control group , TEAS group and sham TEAS group) were collected before general anesthesia induction,1th day and 3rd day after surgery. Inflammatory cytokines index including interleukin-6,interleukin-10,Tumor Necrosis Factor- alpha(TNF-α),Interferon-γ(IFN-γ),Monocyte Chemotactic Protein 1(MCP-1),IgG,IgM were measured.

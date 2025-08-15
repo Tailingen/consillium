@@ -1,0 +1,27 @@
+Nab-Paclitaxel and Bevacizumab Followed By Bevacizumab and Erlotinib in Metastatic Breast Cancer
+This phase II trial studies how well giving paclitaxel albumin-stabilized nanoparticle (Nab-paclitaxel) formulation together with bevacizumab followed by bevacizumab and erlotinib hydrochloride work in treating patients with metastatic breast cancer. Drugs used in chemotherapy, such as paclitaxel albumin-stabilized nanoparticle formulation, work in different ways to stop the growth of tumor cells, either by killing the cells or by stopping them from dividing. Monoclonal antibodies, such as bevacizumab, can prevent cancer growth by blocking the ability of cancer cells to grow and spread. Erlotinib hydrochloride may stop the growth of tumor cells by blocking some of the enzymes needed for cell growth. This trial evaluates a maintenance treatment with erlotinib and bevacizumab after Nab-paclitaxel and bevacizumab which may control cancer growth with biologic therapies.
+Estrogen Receptor-negative Breast Cancer|HER2-negative Breast Cancer|Progesterone Receptor-negative Breast Cancer|Recurrent Breast Cancer|Stage IV Breast Cancer|Triple-negative Breast Cancer
+DRUG: paclitaxel albumin-stabilized nanoparticle formulation|BIOLOGICAL: bevacizumab|DRUG: erlotinib hydrochloride
+Progression-free Survival (PFS), Progression is defined using Response Evaluation Criteria In Solid Tumors Criteria (RECIST v1.0), as a 20% increase in the sum of the longest diameter of target lesions, or a measurable increase in a non-target lesion, or the appearance of new lesions. Kaplan-Meier survival curves will be used. A 95% confidence interval for the median PFS will be calculated. A lower bound greater than 8 months would be strong evidence that Nab-Paclitaxel- bevacizumab induction therapy followed by bevacizumab-erlotinib hydrochloride maintenance therapy is superior to paclitaxel and bevacizumab. However, a median PFS of 13 months or greater (regardless of whether the 95% confidence interval for the median extends below 8 months) could also indicate promising results., Time from date of registration to date of first documentation of progression or symptomatic deterioration or death due to any cause, assessed up to 8 years
+Overall Survival, Kaplan-Meier survival curves will be used., Time from date of registration to date of death due to any cause, assessed up to 8 years|Percentage of Participants With Response, Per Response Evaluation Criteria In Solid Tumors Criteria (RECIST v1.0) for target lesions and assessed by MRI: Complete Response (CR), Disappearance of all target lesions; Partial Response (PR), \>=30% decrease in the sum of the longest diameter of target lesions; Overall Response (OR) = CR + PR., Up to 8 years|Incidence of Adverse Events as Assessed by National Cancer Institute CTCAE Version 3.0, Adverse events that meet severity grade 2 or greater will be collected and reported. The number and percent of subjects reporting adverse events (all, severe or worse, serious and related) will be summarized for all patients, and stratified by center and other subgroups of interest., Up to 30 days after treatment discontinuation|EGFR and SPARC Expression in the Primary Tumor, Up to 8 years|Changes in Levels of Circulating Tumor Cells, Descriptive statistics, such as mean, standard deviation, and range, will be summarized for circulating tumor cells at baseline and last visit., Baseline to up to 8 years|Changes in Levels of Circulating Endothelial Cells, Descriptive statistics, such as mean and standard deviation, will be summarized for circulating endothelial cells at baseline and last visit., Baseline to up to 8 years
+PRIMARY OBJECTIVES:
+
+I. Progression free survival.
+
+SECONDARY OBJECTIVES:
+
+I. Response rate.
+
+II. Overall survival.
+
+III. Safety and toxicity.
+
+IV. Exploratory biomarkers will be assessed as potential predictors of response to treatment including: expression of epidermal growth factor receptor (EGFR) and secreted protein acidic and rich in cysteine (SPARC) in the primary tumor and changes in levels of circulating tumor cells (CTCs) and circulating endothelial cells (CECs).
+
+OUTLINE:
+
+INDUCTION THERAPY: Patients receive paclitaxel albumin-stabilized nanoparticle formulation intravenously (IV) on days 1, 8, and 15 and bevacizumab IV over 30-90 minutes on days 1 and 15. Treatment repeats every 28 days for 6 courses in the absence of disease progression or unacceptable toxicity.
+
+MAINTENANCE THERAPY: Patients achieving complete response, partial response, or stable disease after completion of induction therapy will receive bevacizumab IV over 30-90 minutes once every 14 or 21 days and erlotinib hydrochloride orally (PO) once daily (QD) in the absence of disease progression or unacceptable toxicity.
+
+After completion of study treatment, patients are followed up per physician discretion.

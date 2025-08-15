@@ -1,0 +1,31 @@
+Evaluating Safety and Efficacy of Verity-BCG in BCG-naïve Patients with Intermediate and High-risk Non-muscle Invasive Bladder (NMIBC)
+The aim of this study is to evaluate the effect of Verity-BCG in patients with intermediate and high-risk non-muscle-invasive bladder cancer (NMIBC) and to compare our findings to the standard of care BCG formulation, OncoTICE (BCG) in order to examine our hypothesis that Verity-BCG is at least non-inferior to OncoTICE in achieving 24-month Recurrence Free Survival in NMIBC patients who are at high risk of recurrence and have never been treated with intradermal or intravesical BCG before, with the exception of tuberculosis vaccination in childhood.
+Bladder Cancer|Bladder Cancer Recurrent|Neoplasm Recurrence|Urothelial Carcinoma Bladder|Urothelial Carcinoma Recurrent|Non-Invasive Bladder Urothelial Carcinoma
+DRUG: Bacillus Calmette-Guerin: Strain Russian BCG-I|DRUG: Bacillus Calmette-Guerin: Strain TICE
+Recurrence Free Survival (RFS) at 24 months, Cumulative Recurrence Free Survival (RFS) at 24 months following 1st intravesical instillation as estimated using the Kaplan - Meier estimator of the survival function.
+
+Recurrence will be defined as the reappearance of any of the NMIBC tumors as confirmed by cystoscopic biopsy or TURBT., 24 months
+Recurrence Free Survival (RFS), Cumulative Recurrence Free Survival (RFS) at 36 months following 1st intravesical instillation as estimated using the Kaplan - Meier estimator of the survival function., 36 months|Progression Free Survival (PFS), Progression Free Survival (PFS) at 24 months as estimated using the Kaplan - Meier estimator of the survival function., 24 months|Progression Free Survival (PFS), Progression Free Survival (PFS) at 36 months as estimated using the Kaplan - Meier estimator of the survival function., 36 months|Overall Survival (OS), Overall Survival (OS) at 36 months as estimated using the Kaplan - Meier estimator of the survival function., 36 months|Change in Quality of Life, Change in Quality of Life as measured by the European Organisation for Research and Treatment of Cancer (EORTC) Quality of Life questionnaire for NMIBC (EORTC-QLQ-NMIBC24) over 36 months.
+
+The EORTC QLQ-NMIBC24 is a 24-item self-administered questionnaire that measures health-related quality of life in patients with intermediate to high-risk NMIBC. Items are ranked by the patient from 1 to 4 indicating the extent to which they have experienced those symptoms or problems. 1 = Not at All, 2 = A little, 3=Quite a bit, 4 = Very Much.
+
+- High Score is equivalent to more problems, except for items on sexual function and sexual enjoyment for which a high score is interpreted as better function., 36 months|Change in functioning and symptom status, Change in functioning and symptom status as measured by the European Organisation for Research and Treatment of Cancer (EORTC) Quality of Life questionnaire for Cancer Patients (EORTC-QLQ-C30) over 36 months.
+
+The EORTC QLQ-C30 consists of 30 items and measures Health Related Quality of Life as well as presence of symptoms across all cancer types. The QLQ-C30 includes nine multi-item scales:
+
+* 5 functional scales (physical, role, cognitive, emotional, and social)
+* 3 symptom scales (fatigue, pain, and nausea and vomiting);
+* A global health and quality-of-life scale\*
+* Several single-item symptom measures
+
+  28 Items are ranked 1 to 4. 1 = Not at All, 2 = A little, 3=Quite a bit, 4 = Very Much.
+
+  \*2 items are ranked 1 to 7. 1=Very Poor, 7 = Excellent.
+
+High score = More symptoms or worse problems
+
+\*High Score = Better overall health or Quality of life., 36 months
+Safety: Incidence of treatment-emergent AEs and SAEs, Incidence of treatment-emergent AEs and SAEs defined according to the CTCAE v5.0;, 36 months|Safety: Number of discontinued subjects, Number of subjects discontinuing study drug due to AEs, 36|Safety: concomitant medications, Usage of concomitant medications over time., 36 months
+This study is a randomized, active control, double-blind clinical trial aimed at demonstrating non - inferiority of VERITY-BCG to OncoTICE, the current standard of care, with respect to two-year Recurrence Free Survival (RFS) rates in NMIBC BCG - naïve patients that are at high risk for recurrence (defined as \>50%).
+
+• Recurrence will be defined as the reappearance of any of the NMIBC tumors as confirmed by cystoscopic biopsy or TURBT.

@@ -1,0 +1,42 @@
+A First Step Towards Ultra-hypofractionation for Unfavourable Intermediate and High-risk Prostate Cancer
+This study aims to make a first step towards ultra-hypofractionation for high-risk prostate cancer by proving the technical feasibility of margin reduction of the seminal vesicles by combining the intra-fraction fiducial tracking with an online re-planning workflow for each fraction to account for the inter-fraction seminal vesicle motion.
+Prostate Cancer
+RADIATION: Adaptive radiotherapy according to UPRATE protocol
+Feasibility of margin reduction expressed as percentage of underdosage at the seminal vesicles, Percentage of patients for which in 0 or 1 fraction out 6 fractions the seminal vesicles were underdosed. Underdosage being defined as 95% of the volume of SV receiving \< 95% of prescribed dose. In the case of unavoidable underdosage of the target on the reference plan, coverage below the achieved coverage in the reference plan will be seen as an underdosed fraction. The margin reduction of the SV is considered feasible when ≥90% of patients received successful treatments., 17 months
+Acute toxicity (RTOG/EORTC), Quantify and assess toxicity using questionnaires and doctor reported outcomes. Expressed using Radiation Therapy Oncology Group and European Organization for Treatment of Cancer (RTOG/EORTC) toxicity scores: Grade 0-4 with 4 indicating highest toxicity, 20 months|Acute toxicity (CTCAE), Quantify and assess toxicity using questionnaires and doctor reported outcomes. Expressed using Common Terminology Criteria for Adverse Events (CTCAE Version 5.0). Scale from 0-5 with 5 indicating highest toxicity, 20 months|Late toxicity (RTOG/EORTC), Quantify and assess toxicity using questionnaires and doctor reported outcomes. Expressed using Radiation Therapy Oncology Group and European Organization for Treatment of Cancer (RTOG/EORTC) toxicity scores: Grade 0-4 with 4 indicating highest toxicity, 4 years|Late toxicity (CTCAE), Quantify and assess toxicity using questionnaires and doctor reported outcomes. Expressed using Common Terminology Criteria for Adverse Events (CTCAE Version 5.0). Scale from 0-5 with 5 indicating highest toxicity, 4 years
+Rationale:
+
+One of the key treatment modalities for prostate cancer is external beam radiation therapy. Considering the relatively low alpha/beta ratio of prostate cancer, increasing the dose per fraction could yield higher tumour control rates with acceptable toxicity in a reduced number of treatment fractions (hypofractionation). Ultrahypofractionation (fraction dose \> 5 Gy) has shown promising results for low- and intermediate risk prostate cancer.
+
+Ultrahypofractionation for high-risk prostate cancer however is challenging as the seminal vesicles (SV) are included in the target volume, which is not the case for intermediate and low-risk prostate cancer patient. These SV belong to the male reproduction system and their exact shape and size can differ substantially. The SV are attached bilaterally to the prostate and, similarly to the prostate, their motion is caused by changes in bladder and rectal filling status. However, although the cause of motion is similar for both the prostate and the SV, multiple studies report that the inter- and intra-fraction motion of the SV remain significant and largely uncorrelated to the prostate motion.
+
+Considering the SV must be included in the target volume, the significant SV motion has to be accounted for during treatment. A solution is to use safety margins to extend the clinical target volume (CTV) to the planning target volume (PTV). Due to their substantial inter- and intra-fraction motion, the SV require a relatively large PTV-margin of 8 mm, which causes the bladder and rectum to receive more dose per fraction, which in combination with a higher fraction dose could result in unacceptable genitourinary and gastrointestinal toxicity rates.
+
+This means that to safely introduce ultra-hypofractionation for high-risk prostate cancer patients, strategies to minimize PTV-margins around the SV are required. To account for the inter-fraction motion of the SV, adaptive radiotherapy (ART) in the form of online re-planning could be the solution. Online re-planning is a workflow in which a new treatment plan is generated for each fraction, optimized on the anatomy of the day. ART accounting for the intra-fraction motion of the prostate has been studied well, for example by tracking the intra-prostatic markers with the CyberKnife system. Using the in-room Computed Tomography (CT) scan of our institution's CyberKnife, it is feasible to combine online re-planning with intra-fraction fiducial tracking.
+
+A few papers have recently been published regarding the feasibility of ultra-hypofractionation when including the SV in the target volume, using different methods than the investigators are proposing here. And while these studies showed feasibility in principle, the overall conclusions were that further research is needed.
+
+To summarize, this study aims to make a first step towards ultra-hypofractionation for high-risk prostate cancer by proving the technical feasibility of margin reduction of the SV by combining the intra-fraction fiducial tracking with an online re-planning workflow for each fraction to account for the inter-fraction SV motion.
+
+Objective: to take a first step towards ultrahypofractionation for high-risk prostate cancer by showing the technical feasibility of PTV-margin reduction around the SV using adaptive radiotherapy.
+
+Primary objective: To assess the feasibility of reducing the PTV-margins around the SV using online adaptive re-planning.
+
+Secondary objective:
+
+* To assess treatment tolerance using a standardized questionnaire.
+* To assess possibilities for further treatment optimisation, regarding organs at risk dose, for patients without clinical or radiological SV involvement
+
+Study design: see Study design
+
+Study population: Patients (n=61) with histologically proven prostate cancer with radiologically proven limited metastatic disease, referred to the Erasmus Medical Centre, after multidisciplinary consensus, for local radiotherapy treatment, similar to the STAMPEDE trial.
+
+Intervention (if applicable): Patients will be treated according to current clinical practice and following the procedures and protocols derived from the STAMPEDE trial. Six weekly fractions of 6 Gy will be given and before and after each fraction a CT-scan will be made.
+
+The target volume will be defined according to our standard current practice, i.e. the whole prostate and the basis of or the whole SV. For these patients a treatment plan will be generated using the pre-fraction CT-scan and online re-planning to account for differences in daily anatomy, hence justifying treatment with reduced SV PTV-margins. By means of a post-fraction CT-scan dose volume histograms (DVH) parameters will be extracted to estimate the achieved intra-fraction coverage of the SV.
+
+In patients without SV involvement on imaging and no clinical need for including the SV, the SV will be excluded from the target volume. This group of patients will receive an un-adapted treatment plan based on the original planning CT. A pre- and post-treatment CT scan will be made, to simulate offline SV target coverage and gather data for potential Organ at risk (OAR) sparing.
+
+Main study parameters/endpoints: see outcome measures Secondary endpoints: See outcome measures
+
+Nature and extent of the burden and risks associated with participation, benefit and group relatedness: The additional burden for the patients consists of a longer treatment fraction duration and filling out questionnaires at regular intervals. The additional risks associated with partaking in this study are, firstly, the added radiation dose associated with the extra CT-scans at the start and end of each fraction (175mGy). Secondly, the possible underdosage of the target volume in the SV. However, considering the SV were not included in the target volume for the STAMPEDE trial, the effect of this underdosage on the efficacy of the treatment is expected to be minimal. The benefits are (1) a significant reduction from 20 to 6 treatment fractions, and thus fewer hospital appointments for a palliative group of patients. (2) A smaller margin for prostate and SV, which the investigators expect to correspond to less toxicity.

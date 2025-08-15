@@ -1,0 +1,15 @@
+Everolimus After (Chemo)Embolization for Liver Metastases From Digestive Endocrine Tumors
+Determine wether 24 months treatment with everolimus prolongs progression free survival rate (based on a central assessment) after embolisation ou chemoembolisation for liver metastases.
+
+* H0 a 24 months progression free survival rate less than 35% is unacceptable
+* H1 a 24 months progression free survival rate greater than 35% would show that everolimus treatment is beneficial, the expected 24 months progression free survival rate being 50%
+Neuroendocrine Tumors|Hepatic Metastases|Metastases
+DRUG: Everolimus|DEVICE: embolization|DRUG: Doxorubicin
+Rate of Hepatic Progression Free Survival at 24 Months, Hepatic progression free survival rate as defined in RECIST 1.1 (with death considered as progression) during the 24 months of treatment with everolimus.
+
+Progression-free survival rate (PFS) (based on the investigator) according to RECIST v1.1 according to RECIST v1.1 will be defined as the time from the date of inclusion to the date of hepatic progression or death (due to any cause). For patients who are alive with no hepatic progression, it will be defines as the time from the date of inclusion and the date of the last tumor assessment., Up to 24 months
+Progression-free Survival (Hepatic or Not), Progression-free survival rate was defined as the time from the date of inclusion to the date of disease progression (hepatic or not) evaluated by RECIST V1.1 criteria or death (due to any cause) or the date of the last news for alive patients, From randomization until the date of first progression (clinical or radiological) or death from any cause whichever came first, assessed up to 3 years|Overall Survival, Overall survival was defined as the time from the date of inclusion to the date of death, regardless of the cause of death, or the date of last contact for patients who are alive., From randomization until death or last news for alive patients
+Determine wether 24 months treatment with everolimus prolongs progression free survival rate (based on a central assessment) after embolisation ou chemoembolisation for liver metastases.
+
+* H0 a 24 months progression free survival rate less than 35% is unacceptable
+* H1 a 24 months progression free survival rate greater than 35% would show that everolimus treatment is beneficial, the expected 24 months progression free survival rate being 50%

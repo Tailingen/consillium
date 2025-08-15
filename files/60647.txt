@@ -1,0 +1,47 @@
+BGB-290 and Temozolomide in Treating Patients With Recurrent Gliomas With IDH1/2 Mutations
+This phase I/II trial studies the side effects and how well BGB-290 and temozolomide work in treating patients with gliomas (brain tumors) with IDH1/2 mutations that have come back. BGB-290 may stop the growth of tumor cells by blocking some of the enzymes needed for cell growth. Drugs used in chemotherapy, such as temozolomide, work in different ways to stop the growth of tumor cells, either by killing the cells, by stopping them from dividing, or by stopping them from spreading. Giving BGB-290 and temozolomide may work better in treating patients with recurrent gliomas.
+IDH1 Mutation|IDH2 Mutation|Recurrent Glioblastoma|Recurrent WHO Grade II Glioma|Recurrent WHO Grade III Glioma
+DRUG: PARP Inhibitor BGB-290|DRUG: Temozolomide|PROCEDURE: Therapeutic Conventional Surgery
+Participants With Dose Limiting Toxicity (DLT) Rate Less Than or Equal to 33% (Dose Level 1), DLTS defined as the combination regimen that yields a dose limiting toxicity (DLT) rate less than, or equal to 33%. A DLT is defined as a clinically significant adverse event or abnormal laboratory value assessed as unrelated to disease progression, intercurrent illness, or concomitant medications and meets any of the criteria below. Any DLT must be a toxicity considered at least possibly related to pamiparib (BGB-290) or TMZ., up to 28 days|Maximum Tolerated Dose, Patients treated with TMZ 20mg Days 1-28, highest dose level/schedule. If DTL observed, dose level/schedule will de-escalated treatment schedule if necessary (days 1-21; days 1-14; days 1-7) BGG held constant at 60mg PO BID, up to 28 days|Phase II: Overall Best Response Rate for Arm A and Arm B, Number of participants with response as defined by Response Assessment in Neuro-oncology (RANO) criteria: Complete Response (CR)= no change in size of T1-gadolinium-enhancing (T1-Gd+) disease, stable or reduced T2/FLAIR signal, no new lesion, no corticosteroid use, and stable or improved clinical status; Partial Response (PR)= ≥50% change in size of T1-Gd+ disease, stable or reduced T2/FLAIR signal, no new lesion, stable or reduced corticosteroid use, and stable or improved clinical status; Stable Disease (SD)= \<50% reduction to \<25% increase size of T1-Gd+ disease, stable or reduced T2/FLAIR signal, no new lesion, stable or reduced corticosteroid use, and stable or improved clinical status; Progressive Disease (PD)= ≥25% increase size of T1-Gd+ disease, or increased T2/FLAIR signal, or presence of new lesion, or worsening clinical status., up to 2 years
+Phase II: Progression-free Survival (PFS) in Arm A and Arm B, Time from date of treatment start to date of initial scan indicating progression, up to 2 years|Phase II: Overall Survival (OS) for Arm A and Arm B, Median time from start date of treatment to date of death, up to 2 years|Duration of Response Phase 2, Time from date of initial scan indicating complete or partial response to a date of the initial scan deemed tumor progression. Response is defined by RANO criteria as follows: Complete Response (CR)= no change in size of T1-gadolinium-enhancing (T1-Gd+) disease, stable or reduced T2/FLAIR signal, no new lesion, no corticosteroid use, and stable or improved clinical status; Partial Response (PR)= ≥50% change in size of T1-Gd+ disease, stable or reduced T2/FLAIR signal, no new lesion, stable or reduced corticosteroid use, and stable or improved clinical status; Progressive Disease (PD)= ≥25% increase size of T1-Gd+ disease, or increased T2/FLAIR signal, or presence of new lesion, or worsening clinical status., up to 2 years
+PRIMARY OBJECTIVES:
+
+(Phase I) I. Determine the safety and tolerability of the combination of PARP inhibitor BGB-290 (BGB-290) and temozolomide (TMZ) in patients with recurrent IDH1/2 mutant glioma, including the maximum tolerated dose (MTD) and characterization of dose-limiting toxicities (DLTs) in the Phase I portion.
+
+(Phase II) II. Determine the overall response rate of BGB-290 with TMZ in patients with recurrent IDH1/2-mutant gliomas that have progressed on TMZ and another alkylator (Arm A) in the Phase II portion.
+
+III. Determine the overall response rate of BGB-290 with TMZ in patients with recurrent IDH1/2-mutant glioma that have failed one alkylator with \>= 12 months since last treatment (Arm B) in the Phase II portion.
+
+SECONDARY OBJECTIVES:
+
+I. Determine the progression-free survival (PFS) and overall survival (OS) after treatment with BGB-290 and TMZ in recurrent IDH1/2-mutant gliomas in Arms A and B.
+
+II. Determine the duration of response to therapy in recurrent IDH1/2-mutant glioma.
+
+III. Confirm the safety and tolerability of BGB-290 in combination with TMZ.
+
+EXPLORATORY OBJECTIVES:
+
+I. Assess tumor response rates, PFS, and OS in patients with World Health Organization (WHO) grade IV glioblastoma (GBM) treated with BGB-290 and TMZ.
+
+II. Assess the mutational landscape via whole-exome sequencing (WES). III. Assess gene expression patterns using ribonucleic acid (RNA) sequencing (RNAseq).
+
+IV. Assess the methylation profiling with Infinium methylation assays. V. Quantify 2-hydroxyglutarate (2HG) in archival formalin-fixed paraffin-embedded (FFPE) specimens via liquid chromatography mass spectrometry (LC-MS) detection and correlate with treatment response.
+
+VI. Correlate response with 2HG levels, somatic alterations, gene expression/methylation patterns in FFPE tumor tissue.
+
+VII. Assess tumor tissue BGB-290 levels, 2HG, and PolyADP-ribosylation (PARylation) in a patient subset treated with drug prior to re-resection.
+
+VIII. Evaluate changes in tumor growth rate in subjects with non-enhancing glioma based on fluid attenuated inverse recovery (FLAIR) tumor volume measurements of serial MRI exams.
+
+IX. Assess if change in tumor growth rate (based on FLAIR tumor volume) in subjects with non-enhancing glioma before and after treatment is associated with progression by Response Assessment in Neuro-Oncology for Low Grade Gliomas (RANO LGG; phase II patients only) or survival.
+
+OUTLINE: This is a phase I, dose de-escalation study of temozolomide followed by a phase II study.
+
+PHASE I: Patients receive PARP inhibitor BGB-290 orally (PO) twice daily (BID) on days 1-28 and temozolomide PO once daily (QD) on days 1-28, 1-21, 1-14, or 1-7. Courses repeat every 28 days in the absence of disease progression or unacceptable toxicity.
+
+SURGICAL PORTION: 10 patients eligible for re-resection at the time of recurrence receive PARP inhibitor BGB-290 PO BID on days 1-6 and QD on day 7 (the morning of surgery). Within 45 days after surgery, patients receive PARP inhibitor BGB-290 PO BID on days 1-28 and temozolomide on the schedule established in Phase I. Courses repeat every 28 days in the absence of disease progression or unacceptable toxicity.
+
+PHASE II: Patients receive PARP inhibitor BGB-290 PO BID on days 1-28 and temozolomide PO QD on the schedule established in Phase I. Courses repeat every 28 days in the absence of disease progression or unacceptable toxicity.
+
+After completion of study treatment, patients are followed up for 30 days, every 2 months for 2 years, then every 6 months thereafter.

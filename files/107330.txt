@@ -1,0 +1,47 @@
+SerUm and Plasma MicroRNAs in Malignant Ovarian gERm Cell Tumours
+The goal of this observational case-control study is to learn about the circulating and tissue microRNA expression, imaging and radiomic profiles of malignant ovarian germ cell tumours (MOGCT) compared to patients with a benign OGCT and no ovarian pathology.
+
+The main question\[s\] it aims to answer are:
+
+1. To understand the circulating miRNA expression of malignant ovarian germ cell tumours (MOGCTs) compared to those with benign ovarian germ cell tumours (BOGCTs)
+2. To understand the imaging profile of MOGCTs compared to that of BOGCTs
+3. To establish the relationship between serum and plasma miRNA expression in response to treatment and relapse of disease
+4. To discover if miRNA expression correlates with radiomic features of OGCTs on both ultrasound and MRI
+5. To see if we can link the micro RNAs in tumour samples to those found in blood samples, and to find a plausible explanation for why these micro RNAs are raised (in terms of the tumour biology itself).aims
+
+Participants will have serial blood tests at different time points in their care to assess how circulating miRNA levels are affected by treatment and/or remission and/or relapse. If they have surgery, a pathology sample will be taken from the main tumour specimen. Radiomic analysis will take place on existing ultrasound images of their mass.
+
+Researchers will compare the circulating miRNA profile of patients with a benign ovarian germ cell tumour and no ovarian pathology to see where the differences lie. If a patient with a BOGCT requires surgery, a pathology sample will be taken from the main tumour specimen. Radiomic analysis will take place on existing ultrasound images of their benign mass.
+Germ Cell Ovarian Cancer|Germ Cell Tumor|Germ Cell Cancer|Germ Cell Neoplasia|Ovary Cancer|Ovary Neoplasm|Ovarian Cancer|Ovarian Neoplasms
+DIAGNOSTIC_TEST: Blood test|DIAGNOSTIC_TEST: Pathology specimen miRNA expression
+Difference in microRNA expression (plasma) between benign and malignant masses, Comparison of heatmaps based on mean expression of clusters across samples, 24 months|Difference in microRNA expression (serum) between benign and malignant masses, Comparison of heatmaps based on mean expression of clusters across samples, 24 months|microRNA expression (plasma), Differential expression of microRNAs (assessed using a moderated t statistic and P values adjusted for multiple testing), 24 months|microRNA expression (serum), Differential expression of microRNAs (assessed using a moderated t statistic and P values adjusted for multiple testing), 24 months
+Quantitative measure of circulating miRNA before treatment, miRNA expression in plasma samples of women with a diagnosis of a MOGCT compared to those of women with BOGCTs using nCounter miRNA Expression panels, 24 months|Quantitative measure of circulating miRNA before treatment, miRNA expression in serum samples of women with a diagnosis of a MOGCT compared to those of women with BOGCTs using nCounter miRNA Expression panels, 24 months|Quantitative measure of circulating miRNA after treatment, miRNA expression in plasma samples of women with a diagnosis of a MOGCT compared to those of women with BOGCTs using nCounter miRNA Expression panels, 24 months|Quantitative measure of circulating miRNA after treatment, miRNA expression in serum samples of women with a diagnosis of a MOGCT compared to those of women with BOGCTs using nCounter miRNA Expression panels, 24 months|Performance of segmentation model on ultrasound images, Correlation between identification of region of interest (ROI) to examiner segmentation. Dice surface coefficient (DICE)., 24 months|Performance of segmentation model on MRI images, Correlation between identification of region of interest (ROI) to examiner segmentation. Dice surface coefficient (DICE), 24 months|Performance of classification model on ultrasound images, Correlation between benign or malignant diagnosis by model vs ultrasound subjective assessment or histopathological diagnosis (area under the ROC curve (AUC), F1-score), 24 months|Performance of classification model on MRI images, Correlation between benign or malignant diagnosis by model vs ultrasound subjective assessment or histopathological diagnosis (area under the ROC curve (AUC), F1-score), 24 months
+Case population (MOGCTs):
+
+1. Serum aFP (alpha fetoprotein), hCG (human chorionic gonadotrophin), LDH (lactate dehydrogenase) and Ca125 (cancer antigen 125) tumour markers measured at time of diagnosis
+2. Additional serum and plasma sample to be obtained at the same time as initial bloods
+3. Subsequent serum and plasma samples to be obtained as per study arms 1-3 based on cancer staging
+4. Tissue samples will be obtained at the time of surgery
+
+Control population:
+
+Participants acting as controls will be identified from those attending for TV-USS where either a benign teratoma or no pathology is identified (e.g. from a gynaecology clinic). A total of 26ml of blood will be taken. Serum aFP, hCG, LDH and Ca125 will be measured as per routine clinical practice in patients with a benign OGCT.
+
+Patients in the control population (benign germ cell tumours or patients with no known gynaecological pathology) will have a single blood test for miRNA analysis.
+
+If participants require an operation for the benign GCT, tissue samples will be obtained at the time of surgery.
+
+miRNA analysis will be performed using NanoString for the discovery panel. Further targeted sequencing will be performed in the larger prospective study using specific miRNA panels. This may be done using NanoString or a custom MiRNA assay primer.
+
+Endpoint The pilot will be completed after the final patient has completed 12 months of follow up. The pilot data analysis will take place at that point.
+
+We anticipate that the study will end 12 months after the final participant has completed 24 months of follow up, which gives 12 months for analysis of the samples. The number of participants to take part will be based on a power calculation performed at the time of analysis of the pilot data.
+
+DATA COLLECTION AND MANAGEMENT Patients will enter study arm 1-3 based on cancer staging, or will belong to the control group.
+
+Each participant will be followed up for a maximum of 2 years after they receive their definitive treatment (surgery and/or (neo)adjuvant chemotherapy). We anticipate this will be a maximum of 30 months total time in the study.
+
+An interim analysis of data will be performed at 12 months, with a view to:
+
+1. Identify key miRNAs for prospective validation
+2. Allow for appropriate power calculation of the prospective validation study

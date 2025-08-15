@@ -1,0 +1,15 @@
+Magnetic Resonance Imaging in Radiotherapy for Breast Cancer
+This is a single-center, prospective pilot study evaluating feasibility and efficacy of incorporating magnetic resonance imaging (MRI) simulation into the planning of radiation treatment (RT) for breast cancer.
+Breast Cancer
+DIAGNOSTIC_TEST: Magnetic Resonance Imaging Simulation
+Percentage of participants who completed scan, Feasibility feasibility of acquiring MRI simulation prior to RT planning is defined as successfully acquiring MRI data at the specified time point in a participant's radiotherapy (RT) care plan, Day of MR imaging (1 day)
+Median absolute change in size of target, To evaluate the absolute change in size of target based on CT data, versus with MRI data, the change in volume (measured in cubic centimeters (cc)) of the target with MRI simulation will be calculated compared to CT., Day of MR imaging (1 day)|Median relative difference in size of target, To evaluate the relative difference in size of target based on CT data, versus with MRI data, the change in volume (measured in cubic centimeters (cc)) of the target with MRI simulation will be calculated compared to CT., Day of MR imaging (1 day)
+PRIMARY OBJECTIVE:
+
+I. To determine feasibility of acquiring MRI simulation prior to RT planning.
+
+EXPLORATORY OBJECTIVE:
+
+I. To determine change in target volume with MRI simulation compared to Computerized tomography (CT) simulation.
+
+OUTLINE: MRI simulation will be performed once at baseline. There is no follow up planned for study purposes. Patients will be followed as part of their regular clinical care.

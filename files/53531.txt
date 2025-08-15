@@ -1,0 +1,40 @@
+Rintatolimod and IFN Alpha-2b for the Treatment of COVID-19 in Cancer Patients
+This phase I/IIa trial studies the best dose and side effects of rintatolimod and interferon (IFN) alpha-2b in treating cancer patients with COVID-19 infection. Interferon alpha is a protein important for defense against viruses. It activates immune responses that help to clear viral infection. Rintatolimod is double stranded ribonucleic acid (RNA) designed to mimic viral infection by stimulating immune pathways that are normally activated during viral infection. Giving rintatolimod and interferon alpha-2b may activate the immune system to limit the replication and spread of the virus.
+Hematopoietic and Lymphoid Cell Neoplasm|Malignant Solid Neoplasm|Symptomatic COVID-19 Infection Laboratory-Confirmed
+OTHER: Best Practice|BIOLOGICAL: Recombinant Interferon Alfa-2b|DRUG: Rintatolimod
+Incidence of adverse events (AEs), This refers to the frequency of grade 3 or 4 AEs considered to be probably or definitely related to the treatment regimen. Toxicity will be assessed according to the National Cancer Institute (NCI) Common Terminology Criteria for Adverse Events Version 5.0 (CTCAE version \[v\] 5.0)., Up to 30 days post treatment intiation|Kinetics of viral load, Will be assessed as cycle threshold values in nasopharyngeal swabs based on quantitative polymerase chain reaction (PCR) in the course of treatment and days 7 and 14., Up to 14 days post treatment initiation
+Clinical efficacy, Will be assessed by the frequency of these complications: (i) progression of infection requiring hospitalization; (ii) respiratory failure requiring mechanical ventilation (primary efficacy endpoint); and (iii) death within 30 days. If present, acute respiratory distress syndrome will be graded by Berlin criteria., Up to 30 days post treatment initiation|Kinetics of viral load, Will be assessed as cycle threshold values in the peripheral blood and nasopharyngeal swab based on quantitative PCR in the course of treatment and days 7 and 14., Up to 14 days post treatment initiation|Kinetics of changes of the immune subsets and circulating inflammatory mediators in peripheral blood, The circulatory inflammatory mediators include C-reactive protein (CRP), cytokines, chemokines, interferons., Baseline up to day 14 post treatment initiation
+Known mediators of antiviral immunity, Will assess the induction of known mediators of antiviral immunity that include (myxovirus resistance gene, MxA; protein Kinase R; oligoadenylate synthetase-2; RNAse-L, IFN-stimulated gene-15 (ISG15); IFN-induced proteins with tetratricopeptide repeats, and IFN-inducible transmembrane protein 3, TLR3, RIG-I, MDA5, IRF3, IRF7, in nasopharyngeal swabs material and blood cells of patients on all tiers of treatment. Will also assess the expression of ACE2 (receptor for severe acute respiratory syndrome coronavirus 2 \[SARS-Cov-2\] entry) and potentially other genes involved in SARS-CoV-2 infection will be tested in nasopharyngeal samples., Up to 30 days post treatment initiation
+PRIMARY OBJECTIVES:
+
+I. To determine the safety of the combination of intravenous (i.v.) rintatolimod administered with or without i.v. IFN alpha (recombinant interferon alfa-2b \[Intron A\]) in patients with cancer with coronavirus disease 2019 (COVID-19).
+
+II. Determine the kinetics of viral load in nasopharyngeal swabs in the course of treatment and Days 7 and 14.
+
+SECONDARY OBJECTIVES:
+
+I. To assess the efficacy of the treatment combination in patients with cancer with COVID-19.
+
+II. Determine the kinetics of viral load in the peripheral blood in the course of treatment and Days 7 and 14.
+
+III. Determine the kinetics of changes of the immune subsets and circulating inflammatory mediators (including C-reactive protein \[CRP\], cytokines, chemokines, interferons) in peripheral blood in the course of treatment and Days 7 and 14.
+
+IV. Determine the induction of known mediators of antiviral immunity that include (myxovirus resistance gene, MxA; protein Kinase R (PKR); oligoadenylate synthetase-2 (OAS2); RNAse-L, IFN-stimulated gene-15 (ISG15); IFN-induced proteins with tetratricopeptide repeats (IFIT1) and IFN-inducible transmembrane protein 3 (IFITM3), TLR3, RIG-I, MDA5, IRF3, IRF7, in nasopharyngeal swabs material and blood cells of patients on all tiers of treatment.
+
+OUTLINE: This is a phase I, dose-escalation study of recombinant interferon alfa-2b followed by a phase II study.
+
+LEAD-IN PHASE: Patients receive rintatolimod IV over 2.5-3 hours on day 1 and day 3 (or 4).
+
+Subsequent patients are randomized to 1 of 2 arms.
+
+ARM I: Patients receive rintatolimod IV over 2.5-3 hours and recombinant interferon alfa-2b IV over 20 minutes on day 1 and on day 3 or 4 in the absence of disease progression or unacceptable toxicity.
+
+ARM II: Patients receive standard of care.
+
+EXPANSION COHORT: Patients are randomized to 1 of 2 arms.
+
+ARM III: Patients receive rintatolimod IV over 2.5-3 hours once.
+
+ARM IV: Patients receive standard of care.
+
+Patients are followed up at days 7, 14 and 30 after initiation of the study regimen.

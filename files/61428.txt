@@ -1,0 +1,82 @@
+Predictive Model to Early Diagnosis of Anastomotic Leak After Esophagectomy and Gastrectomy.
+The PROFUGO study (PRedictive Model for the early diagnosis of anastomotic leak after esophagectomy and gastrectomy) is proposed as a prospective and multicenter study at spanish national level that aims to develop, with the help of artificial intelligence methods, a tool and predictive model that allows identifying cases with a high risk of anastomotic leak (AF) and/or major complications through the analysis of different clinical and analytical variables collected during the perioperative period of patients undergoing esophagectomy or gastrectomy.
+
+2.-HYPOTHESIS
+
+Early identification of patients at high risk of developing AF and/or major complications after esophagogastric surgery can be carried out through the perioperative study of objective clinical variables and analytical markers.
+
+3.-OBJECTIVE
+
+The main objective of the study is to design a predictive model based on clinical and analytical variables that allow the identification of patients with a high risk of anastomotic leak (main variable) and/or major complication during the postoperative period of esophagogastric surgery.
+
+4.-MATERIAL AND METHODS
+
+* DESIGN: Prospective and multicenter study of 1 year duration.
+* STUDY POPULATION: Patients diagnosed with neoplasia of the esophagus or stomach with an indication for oncological surgery with curative intent.
+* INCLUSION CRITERIA: patients with surgical indication and curative intention due to esophagogastric neoplasm who do not meet exclusion criteria and recruited by hospitals nationwide that decide to participate in the study.
+* EXCLUSION CRITERIA
+* Patients under 18 or over 85 years
+* Patients with chronic infections
+* Patients with synchronous tumors in other locations
+* Patients with autoimmune disease
+* Patients who die in the operating room
+* Patients who do not sign the informed consent to participate in the study
+* Patients in clinical stage IVB
+* Surgical resection R2 (there are macroscopic remains of the tumor in the surgical field after performing the resection of the surgical piece)
+* Combined intraoperative resection of other organs
+* Surgeries without anastomosis
+* MONITORING: The patient will be monitored during the first 90 postoperative days.
+
+  5.-DURATION OF THE STUDY The time for the inclusion of patients in the study will be 1 year in each center from the incorporation of the first of their patients.
+Esophagus Cancer|Gastric Cancer|Leak, Anastomotic|Complication
+OTHER: audit of complications, prospective data collection
+anastomotic leak, a categorical variable divided into the following categories, according to the consensus definitions of the Consensus Group on Complications of Esophagectomy (ECCG) (27), which in this study will be applicable both to fistulas occurred after esophagectomy and after gastrectomy:
+
+* NO: If this complication did not occur.
+* I: Defect that does not require specific treatment or that can be treated medically or with diet modification
+* II: Defect that requires some intervention, but not surgical, such as: drainage by interventional radiology, prosthesis placement, opening of the wound at the bedside, compression or wound healing.
+* III: Defect requiring surgical intervention, 90 postoperative days
+major complication, Clavien Dindo \> III, 90 postoperative days|chylothorax, Categorical variable divided into the categories according to the consensus definitions of the Consensus Group on Complications of Esophagectomy (ECCG), 90 postoperative days|plasty necrosis, Categorical variable divided into the categories according to the consensus definitions of the Consensus Group on Complications of Esophagectomy (ECCG), 90 postoperative days|recurrent nerve plasy, Categorical variable divided into the categories according to the consensus definitions of the Esophagectomy Complications Consensus Group (ECCG), 90 postoperative days|infection, Dichotomous variable: YES/NO., 90 postoperative days
+The methodological properties of the study are described below:
+
+1. - Type of design
+
+   Prospective and multicenter study that aims to develop, with the help of artificial intelligence methods, a tool and predictive model that allows identifying cases with a high risk of anastomotic leak and/or major complications through the analysis of different clinical and analytical variables collected during the postoperative period. of patients undergoing esophagectomy or gastrectomy.
+2. - Study population
+
+   Patients diagnosed with neoplasia of the esophagus or stomach with an indication for oncological surgery with curative intent in any of the centers participating in the study.
+3. - Inclusion and exclusion criteria
+
+   Patients with a surgical indication and curative intent due to esophagogastric neoplasia who do not meet exclusion criteria and recruited by hospitals nationwide that decide to participate in the study will be included.
+
+   The study exclusion criteria are:
+   * Patients under 18 or over 85 years
+   * Patients with chronic infections
+   * Patients with synchronous tumors in other locations
+   * Patients with autoimmune disease
+   * Patients who die in the operating room
+   * Patients who do not sign the informed consent to participate in the study
+   * Patients in clinical stage IVB
+   * Surgical resection R2 (there are macroscopic remains of the tumor in the surgical field after performing the resection of the surgical piece)
+   * Combined intraoperative resection of other organs
+   * Surgeries without anastomosis
+
+   In addition, the following situations are considered criteria for abandonment or withdrawal of the patient from the study:
+   * Revocation of the informed consent expressed by the patient at any time during the study.
+   * Patient loss during study follow-up
+   * Incorrect data collection according to the indications provided
+4. - Sample size The purpose of the study is to recruit as many patients as possible from all national centers who wish to participate.
+
+   For an alpha error of 5% (95% confidence) with a precision of 3% and estimating a number of patients with major complications (including AF) around 30%, the calculation of the sample size yields a total of 847 patients. However, the final sample size may be smaller depending on the proportion of complications detected and the statistical and artificial intelligence models to create the predictive model will be adapted to the event rate provided by the recruited sample.
+5. - Recruitment All patients who meet the inclusion and exclusion criteria will be offered preoperative participation in this study. Once the information has been understood (Annex 1) and the written informed consent (Annex 2) has been signed, each patient will be assigned a code that will be used to anonymously manage any of their information obtained during the study. Thus, the confidentiality of the data belonging to all the patients included in the study will be guaranteed at all times from the moment of recruitment.
+6. - Intervention The patient will undergo the indicated surgical intervention depending on whether it is an esophageal or gastric neoplasm, with curative intent with or without prior neoadjuvant treatment. Surgical intervention and postoperative care will be carried out in each of the centers of the national territory that commit to participate according to their usual clinical practice. Thus, the perioperative management and care protocol will be that of each center without the need to apply exceptional measures (beyond the control of the clinical and analytical variables of this study) or a homogeneous protocol in all the participating centers.
+
+   The analysis and control of the preoperative clinical variables must be carried out the day before or the same day of the surgical intervention prior to it.
+7. - Follow up The patient will be monitored during the first 90 postoperative days, compiling all the specific variables of this study and the possible complications and mortality that occurred in this period.
+
+   During the immediate postoperative period, apart from the care applied routinely in each center, patients should be evaluated daily and the clinical and laboratory variables specified later should be collected on days 1, 2, 3, 4 and 6 postoperatively. In the same way, in this postoperative course, the possible complications that appeared during the hospital stay will be compiled.
+
+   Subsequently, if the patient is discharged from the hospital, a follow-up will be carried out in the outpatient consultations at 30 and 90 days to evaluate the possible complications that appear in this period and other variables studied will be completed.
+8. - Database and study variables
+
+The variables collected throughout the study protocol will be collected on the following dates of assistance, care, control and follow-up of the patient.

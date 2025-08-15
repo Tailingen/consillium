@@ -1,0 +1,7 @@
+Artificial Intelligence Analysis for Magnetic Resonance Imaging in Screening Breast Cancer in High-risk Women
+Use Convolutional Neural Networks Analysis for Classification of Contrast-enhancing Lesions at Multiparametric Breast MRI. Build an abbreviated protocal, and investigate whether an abbreviated protocol was suitable for breast magnetic resonance imaging screening for breast cancer in high-risk Chinese women, which can shorten the examination time and avoid enhanced imaging while ensuring the accuracy of the diagnosis.
+Breast Cancer|Magnetic Resonance Imaging
+OTHER: no intervention
+screening yield, compare the rates of detection of breast cancers in the screening of high-risk populations between the Breast MRI full sequence, contrast-enhanced and non-contrast-enhanced sequence., 5 years
+The accuracy of radiologists and deep learning models, compare the sensitivity，specificity， positive predictive value and negative predictive value of breast tumor detection by radiologists and deep learning models., 5 years
+Use Convolutional Neural Networks Analysis for Classification of Contrast-enhancing Lesions at Multiparametric Breast MRI. Build an abbreviated protocal, and investigate whether an abbreviated protocol was suitable for breast magnetic resonance imaging screening for breast cancer in high-risk Chinese women, which can shorten the examination time and avoid enhanced imaging while ensuring the accuracy of the diagnosis.

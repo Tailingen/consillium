@@ -1,0 +1,93 @@
+The Sagittarius Trial
+Background \& Rationale:
+
+Colon cancer is a leading cause of cancer deaths, with a high recurrence rate in stage II high-risk and stage III patients due to undetectable micro-metastases. Liquid biopsy (LB) detects residual cancer DNA post-surgery and monitors treatment response.
+
+Primary Objective:
+
+Show that therapy based on tumor genetics and LB improves outcomes and quality of life for high-risk stage II and stage III colon cancer patients compared to conventional therapy.
+
+Secondary Objectives:
+
+Compare recurrence times. Evaluate side effects and quality of life. Assess cost differences. Validate LB accuracy.
+
+Study Design: Patients are randomized into standard or personalized treatment groups based on LB results.
+
+For positive LB results:
+
+Randomized to standard or customized therapy. Monitor treatment response with LB.
+
+For negative LB results:
+
+Randomized to standard chemotherapy or follow-ups, starting treatment if a positive result appears.
+
+Treatments:
+
+Standard Chemotherapy:
+
+CAPOX (capecitabine and oxaliplatin) FOLFOX (folinic acid, fluorouracil, and oxaliplatin)
+
+Personalized Treatments:
+
+Customized chemotherapy with CAPOX. Immunotherapy with nivolumab and ipilimumab. Targeted therapy with trastuzumab and pertuzumab. FOLFOX with anti-EGFR (epidermal growth factor receptor) therapy (panitumumab).
+
+Population: 700 patients with operable stage III and high-risk stage II colon cancer.
+
+Inclusion Criteria:
+
+Aged 18 or older. Confirmed diagnosis. Tumor tissue sample available.
+
+Exclusion Criteria:
+
+History of other tumors within five years. Incomplete colonoscopy or recent polyp removal. Metastatic disease or recent experimental study participation. Major cardiovascular diseases, intestinal obstruction, autoimmune diseases, neuropathy, HIV (Human Immunodeficiency Virus), active TB (Tuberculosis), or hepatitis B/C infection.
+
+Medical conditions contraindicating treatment.
+
+Endpoints:
+
+Primary:
+
+Evaluate disease recurrence after two years.
+
+Secondary:
+
+Assess disease recurrence and overall survival at 3 and 5 years. Measure treatment safety and tolerability. Validate LB accuracy. Monitor quality of life using questionnaires.
+
+The study will last 5 years and be conducted in 25-30 hospitals across Italy, Spain, and Germany.
+Colon Cancer Stage II|Colon Cancer Stage III
+DRUG: Oxaliplatin|DRUG: Capecitabine|DRUG: Folinic acid|DRUG: Fluorouracil|DRUG: Temozolomide|DRUG: Irinotecan|DRUG: Nivolumab|DRUG: Ipilimumab|DRUG: Trastuzumab|DRUG: Pertuzumab|DRUG: Panitumumab
+2-Year Recurrence-Free Survival (RFS), The primary outcome measure is the 2-year recurrence-free survival (RFS) rate, defined as the proportion of patients who remain free of disease recurrence two years after surgery. This metric is assessed using regular clinical evaluations and imaging studies. Recurrence is determined by the reappearance of colon cancer as confirmed by histological, radiological, or clinical findings., Assessed at 2 years post-surgery
+3-Year Recurrence-Free Survival (RFS), The secondary outcome measure is the 3-year recurrence-free survival (RFS) rate, defined as the proportion of patients who remain free of disease recurrence three years after surgery. This metric is assessed using regular clinical evaluations and imaging studies. Recurrence is determined by the reappearance of colon cancer as confirmed by histological, radiological, or clinical findings., Assessed at 3 years post-surgery|5-Year Overall Survival (OS), The secondary outcome measure is the 5-year overall survival (OS) rate, defined as the proportion of patients who are alive five years after surgery, regardless of disease status. This metric is assessed using regular clinical evaluations and follow-ups., Assessed at 5 years post-surgery|Treatment Safety and Tolerability, This secondary outcome measure evaluates the safety and tolerability of the treatments, including both standard and personalized therapies. It involves recording and analyzing the incidence, severity, and type of adverse events experienced by patients during the treatment period, using the Common Terminology Criteria for Adverse Events (CTCAE) version 5.0., Assessed throughout the treatment period, up to 6 months|Sensitivity and Specificity of Liquid Biopsy in Detecting Residual Disease, This outcome measure evaluates the effectiveness of liquid biopsy in detecting residual disease by comparing its results with traditional imaging techniques (CT scans, MRIs) and clinical findings. Sensitivity will be measured by the ability of liquid biopsy to correctly identify patients with residual disease, expressed as a percentage of positive results confirmed by imaging and clinical findings. Specificity will be measured by the ability to correctly identify patients without residual disease, also expressed as a percentage of negative results confirmed. The study will also assess the correlation between liquid biopsy results and traditional methods to ensure consistency in detecting residual disease., Assessed at regular intervals post-surgery, up to 2 years|Assessment of Quality of Life Using FACT-C Questionnaire, This secondary outcome measure evaluates the impact of treatment on patients' quality of life specific to colorectal cancer using the Functional Assessment of Cancer Therapy-Colorectal (FACT-C) questionnaire. The FACT-C assesses quality of life across physical, social/family, emotional, and functional well-being domains. The questionnaire provides a score based on patient responses to various questions, with each question rated on a scale from 0 to 4, with higher scores indicating better quality of life., Assessed at regular intervals during the treatment period and during follow-up, up to 3 years or up to the date of first documented progression or the date of consent withdrawal|Assessment of Quality of Life Using EQ-5D-5L Questionnaire, This secondary outcome measure evaluates the impact of treatment on patients' quality of life across five dimensions using the EuroQol 5-Dimension 5-Level (EQ-5D-5L) questionnaire. The EQ-5D-5L evaluates quality of life in mobility, self-care, usual activities, pain/discomfort, and anxiety/depression. Each dimension is rated on a scale from 1 to 5, with 1 indicating no problems and 5 indicating extreme problems. The index score ranges from 0 to 1, with higher scores indicating better quality of life. Additionally, the EQ-5D-5L includes a visual analog scale (VAS) ranging from 0 (worst health imaginable) to 100 (best health imaginable) to assess the patient's overall health., Assessed at regular intervals during the treatment period and during follow-up, up to 3 years or up to the date of first documented progression or the date of consent withdrawal
+Background \& Rationale:
+
+Colon cancer (CC) is the second most lethal malignancy, accounting for nearly 10% of all cancer-related deaths. Despite over two-thirds of CC patients undergoing surgical resection, 50% of stage III patients relapse within 5 years. Adjuvant chemotherapy (ACT), typically involving oxaliplatin combined with a fluoropyrimidine, offers only a 10-15% survival advantage over 5-fluorouracil alone. The benefit from ACT is predicted by clinical and pathological parameters rather than metastatic propensity or biological sensitivity, and its success is limited by high toxicity levels, particularly oxaliplatin-induced peripheral sensory neuropathy.
+
+Liquid biopsy (LB) profiling circulating tumor DNA (ctDNA) has emerged as an effective diagnostic tool for early cancer detection, staging, prognosis, monitoring drug resistance, and detecting minimal residual disease (MRD). Retrospective studies show that ctDNA detection post-surgery and post-ACT is associated with high recurrence risk and worse recurrence-free survival (RFS) in stage I-III colorectal cancer (CRC) patients. Prospective studies confirm ctDNA's prognostic value post-surgery and ACT.
+
+SAGITTARIUS Trial Objectives:
+
+Diagnosing MRD After Surgery: Utilize post-surgical LB to identify high-risk tumors and stratify stage II high-risk and stage III CC patients, enabling targeted treatments and reducing unnecessary chemotoxicity.
+
+Establishing the Efficacy of Adjuvant Chemotherapy and Targeted Therapies: Tailor treatment based on the individual tumor genomic landscape to improve clinical outcomes and quality of life compared to conventional chemotherapy.
+
+Study Design:
+
+The SAGITTARIUS trial is a randomized phase III study designed to demonstrate the efficacy of ctDNA detection in guiding adjuvant clinical management of stage III and high-risk stage II CC patients. The trial employs the CE-IVD marked tumor-informed MRD assay Signatera (NATERA® Inc.) and comprehensive tumor genomic profiling (TruSight Oncology Comprehensive (EU), TSOComp, Illumina, Inc.). These tools will provide a detailed molecular genomic landscape of each patient's tumor, with results available within 8 weeks post-surgery for timely adjuvant treatment initiation.
+
+Patient Stratification and Randomization:
+
+Patients are stratified based on ctDNA status into two main trials:
+
+Trial-1 (ctDNA Positive Patients): Includes further stratification based on MSS/MMRp extended RAS/RAF mutation status and MSI-H/MMRd status. Treatment arms include standard chemotherapy (CAPOX/FOLFOX) or personalized treatments with reassessment of ctDNA status guiding subsequent therapies.
+
+Trial-2 (ctDNA Negative Patients): Patients are randomized to either a physician-choice chemotherapy regimen or intensive follow-up, with interventional LBs at specified intervals.
+
+Therapeutic Approaches:
+
+Standard Chemotherapy Regimens: CAPOX (capecitabine and oxaliplatin) and FOLFOX (folinic acid, fluorouracil, and oxaliplatin).
+
+Personalized Therapies: Include options such as FOLFIRI or TEMIRI for RAS/RAF-mutated tumors, double immunotherapy (nivolumab and ipilimumab) for MSI-H/MMRd, anti-HER2 therapy (trastuzumab and pertuzumab) for HER2-amplified tumors, and FOLFOX combined with anti-EGFR (panitumumab) for multiple wild-type tumors.
+
+Data Collection and Analysis:
+
+Data will be collected through regular clinical evaluations, imaging studies, and questionnaires to assess various endpoints, including RFS, overall survival, treatment safety, tolerability, and quality of life. The primary endpoint is the 2-year RFS in ctDNA positive patients, while secondary endpoints include 3 and 5-year RFS, overall survival, and the accuracy of LB in detecting residual disease. Statistical analyses will follow the intention-to-treat principle, utilizing the Kaplan-Meier method for time-to-event data and stratified log-rank tests for comparison.

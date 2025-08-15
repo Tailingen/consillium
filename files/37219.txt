@@ -1,0 +1,31 @@
+Testing the Addition of an Anti-Cancer Drug, Irinotecan, to the Standard Chemotherapy Treatment (FOLFOX) After Long-Course Radiation Therapy for Advanced-Stage Rectal Cancers to Improve the Rate of Complete Response and Long-Term Rates of Organ Preservation
+This phase II trial compares the effect of irinotecan versus oxaliplatin after long-course chemoradiation in patients with stage II-III rectal cancer. Combination chemotherapy drugs, such as FOLFIRINOX (fluorouracil, irinotecan, leucovorin, and oxaliplatin), FOLFOX (leucovorin, fluorouracil, oxaliplatin, and irinotecan ), and CAPOX (capecitabin and oxaliplatin) work in different ways to stop the growth of tumor cells, either by killing the cells, by stopping them from dividing, or by stopping them from spreading. FOLFOX or CAPOX are used after chemoradiation as usual treatment for rectal cancer. Giving FOLFIRINOX after chemoradiation may increase the response rate and lead to higher rates of clinical complete response (with a chance of avoiding surgery) compared to FOLFOX or CAPOX after chemoradiation in patients with locally advanced rectal cancer.
+Locally Advanced Rectal Carcinoma|Stage II Rectal Cancer AJCC v8|Stage III Rectal Cancer AJCC v8
+DRUG: Capecitabine|DRUG: 5-fluorouracil|DRUG: Leucovorin calcium|DRUG: Irinotecan|DRUG: Oxaliplatin|RADIATION: Long Course Chemoradiotherapy|PROCEDURE: Computed Tomography|PROCEDURE: Magnetic Resonance Imaging|PROCEDURE: Sigmoidoscopy|PROCEDURE: biopsy
+Clincal Complete Response (cCR) Rates, efined as the number of patients who achieved cCR at the end of total neoadjuvant therapy (TNT) divided by number of patients included in the analysis population. This endpoint will be assessed within 8-12 weeks after completion of TNT. If there is a cCR, then the patient will be counted in the numerator. If there is a near-complete response (nCR) then a re-evaluation within 4-8 weeks will be performed. If the tumor has evolved to a cCR, then the patient will be counted in the numerator. Otherwise, the patient will be deemed as NOT achieving cCR status.
+
+divided by number of patients included in the analysis population., Up to 5 years
+Disease-free survival (DFS) rate, Defined as the time from date of randomization to the date of first occurrence of the following events: death due to all causes, tumor that recurs locally after an R0 total mesorectal excision (TME), tumor that regrows after an initial apparent clinical and radiological CR and cannot be surgically removed with an R0 TME, and M1 disease diagnosed at any point after the initiation of treatment., rom date of randomization, assessed up to 5 years|Organ-preservation-time (OPT), Defined as time from the date of randomization to the date of the first occurrence of the following events: TME performed or attempted, tumor that regrows after an initial apparent clinical and radiological complete response (CR), and death due to all causes., From date of randomization, assessed up to 5 years|Time to distant metastasis (TDM), Will be estimated, in each arm, using the method of Kaplan-Meier and compared by a stratified Cox regression model., From the date of randomization to the date of first documented distant metastasis, assessed up to 5 years|Overall survival (OS), Will be estimated, in each arm, using the method of Kaplan-Meier and compared by a stratified Cox regression model., From the date of randomization to the date of death due to all causes, assessed up to 5 years|Incidence of adverse events (AEs), Defined as the proportion of patients experienced at least one Grade 3, Grade 4, or Grade 5 of each type of AE. The overall adverse event rates for grade 3 or higher adverse events will be compared between two treatment groups using Chi-square test (or Fisher's exact test if the data in the contingency table is sparse)., Up to 5 years
+PRIMARY OBJECTIVE:
+
+I. To evaluate and compare the clinical complete response (cCR) rates in patients with locally advanced rectal cancer treated with neoadjuvant long-course neoadjuvant radiotherapy (LCRT) followed by neoadjuvant modified fluorouracil, irinotecan, leucovorin, and oxaliplatin (mFOLFIRINOX) versus neoadjuvant LCRT followed by neoadjuvant modified leucovorin , fluorouracil, and oxaliplatin (mFOLFOX6).
+
+SECONDARY OBJECTIVES:
+
+I. To evaluate and compare organ-preservation-time (OPT) between two treatment arms.
+
+II. To evaluate and compare the disease-free survival (DFS) time between the two treatment arms.
+
+III. To evaluate and compare time to distant metastasis between two treatment arms.
+
+IV. To evaluate and compare overall survival (OS) between two treatment arms. V. To evaluate and compare toxicity profiles of total neoadjuvant therapy (TNT) between two treatment arms.
+
+EXPLORATORY OBJECTIVE:
+
+I. Evaluation of circulating tumor deoxyribonucleic acid (ctDNA) kinetics during neoadjuvant therapy \& surveillance and to correlate with radiographic, pathologic, and clinical outcomes.
+
+OUTLINE: Patients are randomized to 1 of 2 arms.
+
+GROUP I: Patients receive long-course chemoradiation therapy on study and then receive either: FOLFOX regimen consisting of leucovorin intravenously (IV), fluorouracil IV, and oxaliplatin IV or CAPOX consisting of capecitabine orally (PO), and oxaliplatin IV on study. Patients undergo computed tomography (CT) scan, magnetic resonance imaging (MRI), and biospecimen collection throughout the trial. Patients also undergo sigmoidoscopy throughout the trial and biopsy during screening.
+
+GROUP II: Patients receive long-course chemoradiation therapy on study and then receive FOLFIRINOX regimen consisting of leucovorin IV, fluorouracil IV, irinotecan IV, and oxaliplatin IV on study. Patients undergo CT scan, MRI scan, and blood specimen collection throughout the trial. Patients undergo sigmoidoscopy throughout the trial and biopsy during screening.

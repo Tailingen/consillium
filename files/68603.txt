@@ -1,0 +1,44 @@
+Mycophenolate Mofetil in Combination With Standard of Care for the Treatment of Glioblastoma
+This phase I/Ib trial tests the safety, side effects, and best dose of mycophenolate mofetil in combination with temozolomide and/or radiation therapy (standard of care) in treating patients with glioblastoma. Mycophenolate mofetil is an immunosuppressant drug that is typically used to prevent organ rejection in transplant recipients. However, mycophenolate mofetil may also help chemotherapy with temozolomide work better by making tumor cells more sensitive to the drug. The purpose of this trial is to determine if mycophenolate mofetil combined with temozolomide can stop glioblastoma.
+Astrocytoma|Glioblastoma|Glioblastoma, IDH-Wildtype|MGMT-Unmethylated Glioblastoma|Recurrent Glioblastoma
+DRUG: Mycophenolate Mofetil|OTHER: Quality-of-Life Assessment|RADIATION: Radiation Therapy|DRUG: Temozolomide
+Maximum tolerated dose/recommended phase 2 dose (MTD/RP2D) for mycophenolate mofetil (MMF) (Group 1), Will be based on treatment-emergent and drug related toxicity of grade \>= 3 during the first cycle of treatment. MTD indicates maximum tolerated dose for dose limiting toxicity (DLT). DLT is defined as side effects of a drug or other treatment that are serious enough to prevent an increase in dose or level of that treatment. Recommended phase 2 dose (RP2D) is the highest dose of a drug or treatment that does not cause unacceptable side effects. For the purposes of this study, RP2D is interchangeable with MTD. DLTs and Adverse Events (AEs) will be assessed by Common Terminology Criteria for Adverse Events (CTCAE) version (v). 5.0., Up to completion of first cycle of treatment + 7 days (1 cycle = 28 days)|MTD/RP2D for MMF (Group 2), Will be based on treatment-emergent and drug related toxicity of grade \>= 3 during focal radiation treatment. MTD indicates maximum tolerated dose for DLT. DLT is defined as side effects of a drug or other treatment that are serious enough to prevent an increase in dose or level of that treatment. RP2D is the highest dose of a drug or treatment that does not cause unacceptable side effects. For the purposes of this study, RP2D is interchangeable with MTD. DLTs and AEs will be assessed by CTCAE v.5.0., Up to 6 weeks + 7 days
+Frequency of adverse events, The occurrence of toxicity (including \[AEs\] and serious adverse events \[SAEs\]), and the number of patients who discontinue treatment due to toxicity, as assessed by CTCAE v. 5.0. This endpoint will collect and report the frequency of adverse events by type, severity (grade), timing, and attribution to MMF, according the National Cancer Institute (NCI)-CTCAE v. 5.0., Up to 30 days after completion of study treatment|Progression Free Survival (PFS), Progression will be determined by clinical progression or by radiographic imaging as assessed by Response Assessment in Neuro-Oncology Criteria (RANO). If disease progression or death from any cause is not observed prior to initiating subsequent anti-cancer therapy or completing study participation, the PFS will be censored as the last available disease assessment. Kaplan-Meier curves will be plot. Log-rank test will be used to compare it with historical standard care control in literature., From baseline until the patient experiences disease progression, initiates subsequent anti-cancer therapy, completes study participation, or experiences death from any cause (whichever is sooner), assessed up to 18 months|Overall survival (OS), If death from any cause is not observed prior to initiating subsequent anti-cancer therapy or completing study participation, the OS will be censored as the last available follow-up. will be described by Kaplan-Meier curve. The median and corresponding 95% confidence interval will also be estimated., From time of diagnosis until the patient initiates subsequent anti-cancer therapy, completes study participation, or experiences death from any cause (whichever is sooner), assessed up to 18 months|Overall response rate (ORR), Overall response rate will be assessed by RANO criteria. To determine the ORR, this endpoint will calculate the proportion of treated patients who experience an overall response (complete response \[CR\] or partial response \[PR\] per RANO criteria). The date of first response for either CR or PR will be used for the calculation of ORR. Will be estimated using the expansion cohort, along with its 95% confidence interval., From baseline, the patient experiences disease progression, the patient initiates subsequent anti-cancer therapy, or the patient completes study participation (whichever occurs first), assessed up to 18 months|Quality of life (QOL), The quality of life indicated by FACT-Br will be evaluated by estimating its mean, standard deviation and 95% confidence interval using the expansion cohort. Patients who received at least 1 dose of temozolomide (TMZ) and/or MMF, and completed at least baseline and cycle 2 day 1 (C2D1) FACT-Br QOL (for Groups 1-3) will be evaluable for this secondary endpoint., Up to 6 cycles (1 cycle = 28 days)
+Mycophenolic acid levels, Will measure in patients' plasma by using the Food and Drug Administration (FDA)-approved protocol Analytical Chemistry Division at the Illinois Institute of Technology Research Institute., Days 1, 3 and 7 post-MMF administration for cycles 1 and 2|XMP concentration, Will utilize an established clinical protocol and a highly sensitive liquid chromatography-mass spectrometry method in peripheral blood mononuclear cells (PBMCs) isolated from glioblastoma patients receiving MMF in combination with TMZ in order to determine IMPDH activity. This is a clinically validated protocol in which the analytical methods yielded acceptable within samples and within individual variability. Peripheral blood samples taken at baseline and day 1 of each adjuvant TMZ+MMF cycle will be used to test this., Up to 6 cycles (1 cycle = 28 days)
+PRIMARY OBJECTIVE:
+
+I. To evaluate the recommended phase 2 dose (RP2D) for mycophenolate mofetil (MMF) in combination with radiation therapy as well as in combination with temozolomide (TMZ).
+
+SECONDARY OBJECTIVES:
+
+I. To evaluate the safety profile of mycophenolate mofetil (MMF) in combination with temozolomide (TMZ).
+
+II. To estimate progression free survival (PFS) per Response Assessment in Neuro-Oncology Criteria (RANO).
+
+III. To estimate overall survival (OS). IV. To estimate the overall response rate (ORR) per RANO criteria. V. To evaluate quality of life per Functional Assessment of Cancer Therapy Scale-Brain (FACT-Br) for patients treated with mycophenolate mofetil and/or temozolomide.
+
+EXPLORATORY OBJECTIVES:
+
+I. To investigate the relationship between the molecular signature of individual glioblastoma multiforme (GBM) with clinical outcome, by measuring levels of serum mycophenolic acid in patient's plasma post MMF administration.
+
+Ia. Perform molecular characterization of all GBM tissues by ribonucleic acid sequencing (RNAseq) analysis.
+
+Ib. Perform bulk metabolomics for GBM tissue. Ic. Measure plasma and serum concentration of mycophenolic acid, the MMF's primary active metabolite, during and after combination therapy.
+
+Id. Measure IMPDH activity assay in patients' peripheral blood mononuclear cells (PBMCs) as well as in GBM tissue.
+
+OUTLINE: This is a dose-escalation study of MMF (Part 1), followed by a dose-expansion study (Part 2).
+
+PART 1: Patients are assigned to 1 of 3 groups.
+
+GROUP 1: Patients who have already undergone surgery or biopsy followed by chemoradiation receive TMZ orally (PO) once daily (QD) on days 1-5 of each cycle and MMF PO twice daily (BID). Treatment repeats every 28 days for up to 6 cycles in the absence of disease progression or unacceptable toxicity.
+
+GROUP 2: Patients with unmethylated glioblastoma who have already undergone surgery or biopsy receive TMZ PO QD on days 1-5 of each cycle and MMF PO BID. Treatment repeats every 28 days for up to 6 cycles in the absence of disease progression or unacceptable toxicity. Starting at the same time as TMZ and MMF administration, patients also receive radiation therapy daily, 5 days per week, for 6 weeks.
+
+GROUP S: Patients planning to undergo surgery receive MMF PO BID and TMZ PO QD for 5 days prior to surgery in the absence of disease progression or unacceptable toxicity.
+
+PART 2: Patients are assigned to Group 3.
+
+GROUP 3: Patients who have already undergone surgery or biopsy receive TMZ PO QD on days 1-5 of each cycle and MMF PO BID. Treatment repeats every 28 days for up to 6 cycles in the absence of disease progression or unacceptable toxicity. Starting at the same time as TMZ and MMF administration, patients also receive radiation therapy daily, 5 days per week, for 6 weeks.
+
+After completion of study treatment, patients are followed up at 30 days and then every 3 months for up to 18 months.

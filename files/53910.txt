@@ -1,0 +1,32 @@
+Nanoparticle Albumin-Bound Rapamycin in Treating Patients With Advanced Cancer With mTOR Mutations
+This pilot trial studies how well nanoparticle albumin-bound rapamycin works in treating patients with cancer that as has spread to other places in the body and usually cannot be cured or controlled with treatment (advanced cancer) and that has an abnormality in a protein called mechanistic target of rapamycin (mTOR). Patients with this mutation are identified by genetic testing. Patients then receive nanoparticle albumin-bound rapamycin, which may stop the growth of cancer cells by blocking the mTOR enzyme, which is needed for cell growth and multiplication. Using treatments that target a patient's specific mutation may be a more effective treatment than the standard of care treatment.
+Advanced Malignant Neoplasm|Cervical Squamous Cell Carcinoma|Endometrial Carcinoma|Malignant Uterine Neoplasm|Recurrent Bladder Carcinoma|Recurrent Breast Carcinoma|Recurrent Cervical Carcinoma|Recurrent Head and Neck Carcinoma|Recurrent Malignant Neoplasm|Recurrent Ovarian Carcinoma|Recurrent Prostate Carcinoma|Recurrent Renal Cell Carcinoma|Solid Neoplasm|Stage III Bladder Cancer|Stage III Prostate Cancer|Stage III Renal Cell Cancer|Stage IIIA Breast Cancer|Stage IIIA Cervical Cancer|Stage IIIA Ovarian Cancer|Stage IIIB Breast Cancer|Stage IIIB Cervical Cancer|Stage IIIB Ovarian Cancer|Stage IIIC Breast Cancer|Stage IIIC Ovarian Cancer|Stage IV Breast Cancer|Stage IV Ovarian Cancer|Stage IV Prostate Cancer|Stage IV Renal Cell Cancer|Stage IVA Bladder Cancer|Stage IVA Cervical Cancer|Stage IVB Bladder Cancer|Stage IVB Cervical Cancer
+OTHER: Laboratory Biomarker Analysis|DRUG: Nanoparticle Albumin-Bound Rapamycin|OTHER: Quality-of-Life Assessment
+Proportion of confirmed responses, evaluated using the RECIST v1.1, The proportion of confirmed responses will be estimated by the number of confirmed responses divided by the total number of evaluable patients. An exact binomial confidence interval for the true confirmed response proportion will be calculated. Analysis will be carried out overall and within disease groups where warranted by sample size., Up to 21 days
+Clinical benefit rate defined as the proportion of patients with a confirmed response or stable disease (complete response+partial response+stable disease) divided by the total number of evaluable patients, An exact binomial confidence interval for the true confirmed clinical benefit rate will be calculated. Analysis will be carried out overall and within disease groups where warranted by sample size., Up to 5 years|Incidence of adverse events, using the National Cancer Institute Common Terminology Criteria for Adverse Events v4.0, The maximum grade for each type of adverse event will be recorded for each patient, and frequency tables will be reviewed to determine patterns. Additionally, the relationship of the adverse event(s) to the study treatment will be taken into consideration. Analysis will be carried out overall and within disease groups where warranted by sample size., Up to 30 days after last dose of study treatment|Survival time, The distribution of survival time will be estimated using the method of Kaplan-Meier. Analysis will be carried out overall and within disease groups where warranted by sample size., Time from registration to death due to any cause, assessed up to 5 years|Time to disease progression, The distribution of time to progression will be estimated using the method of Kaplan-Meier. The 6-month progression-free rate will be provided. Analysis will be carried out overall and within disease groups where warranted by sample size., Time from registration to the earliest date of documentation of disease progression, assessed up to 5 years
+Quality of life, measured using the EORTC QLQ-C30, Scale score trajectories over time will be examined using stream plots and mean plots with standard deviation error bars overall and by disease group where warranted by sample size. Changes from baseline at each cycle will be statistically tested using paired t-tests, and standardized response means (mean of the change from baseline scores at a given cycle, divided by the standard deviation of the change scores) will be interpreted (after applying Middel's adjustment) using Cohen's cut-offs., Up to 24 weeks|Rate of individual mTOR pathway aberrations, Will be described, and association with confirmed response will be investigated using a Fisher's exact test. Associations with time to progression and overall survival will be investigated using log-rank tests. Analysis will be carried out overall and within disease groups where warranted by sample size., Up to 5 years
+PRIMARY OBJECTIVES:
+
+I. To investigate efficacy of groups of patients defined by disease type, genomic aberration and treatment regimen.
+
+II. To assess the confirmed response rate of nanoparticle albumin-bound rapamycin (nab-rapamycin) in mTOR aberrant advanced cancers. (Sub-protocol Arm A)
+
+SECONDARY OBJECTIVES:
+
+I. To estimate other clinical outcomes (e.g., progression-free and overall survival) of groups of patients defined by disease type, genomic aberration and treatment regimen.
+
+II. To describe the adverse event profile of each regimen. III. To assess the clinical benefit rate of nab-rapamycin in mTOR aberrant advanced cancers. (Sub-protocol Arm A).
+
+IV. To estimate progression-free survival (specifically at 6 months) and overall survival of these patients. (Sub-protocol Arm A) V. To estimate the adverse event profile of nab-rapamycin. (Sub-protocol Arm A)
+
+TERTIARY OBJECTIVES:
+
+I. To describe patient health-related quality of life (HRQOL) and symptoms using the European Organization for Research and Treatment of Cancer (EORTC) Quality of Life Questionnaire-Core (QLQ-C)30 in groups of patients defined by disease type and/or treatment regimen and to correlative HRQOL/symptoms with genomic markers.
+
+II. To assess the rate of individual mTOR pathway aberrations and assess the association between individual mTOR pathway aberrations and clinical outcome both across disease indications and within disease indications. (Sub-protocol Arm A)
+
+OUTLINE:
+
+Patients receive nanoparticle albumin-bound rapamycin intravenously (IV) over 30 minutes on days 1 and 8. Treatment repeats every 21 days for 24 weeks in the absence of disease progression or unacceptable toxicity.
+
+After completion of study treatment, patients are followed up periodically.

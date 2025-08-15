@@ -1,0 +1,24 @@
+Probe-based and Needle-based Confocal Laser Endomicroscopy During Gynaecological Procedures.
+The protocol aims at demonstrating the technical feasibility and safety of doing endomicroscopic imaging (both probe-based confocal laser endomicroscopy (pCLE) and needle-based confocal laser endomicroscopy, nCLE) during colposcopy, hysteroscopy, and surgical procedures (open surgery and laparoscopic robot assisted or not) to examine all pelvic tissues including cervix, uterus, adnexia, peritoneum, normal and pathologic aspect.
+Cervix Cancer|Endometrium Cancer|Ovarian Cancer|Carcinoma in Situ of Fallopian Tube
+DEVICE: Confocal Laser Endomicroscopy (CLE)
+The number of participants with adverse events, their type and severity., 8 months
+Number of interpretable images per organ and per pathology, Each sequence acquired during the cases will be annotated as to which organ it is, and the final diagnosis of the specimen (healthy, cancerous, inflammation, etc...). Thanks to this, a more complete atlas of images obtained gynaecological organs and conditions will be developed. This atlas will be used to describe image interpretation criteria for endomicroscopic images of various organs and conditions. This work will be done in conjunction by the investigators the histopathologist, and an Mauna Kea Technologies representative familiar with image interpretation in current endomicroscopy indications., 8 months
+This is a prospective study: about 75 patients (25 for each pathology) scheduled for a colposcopy or hysteroscopy examination or for a surgical treatment of the cervix/endocervix/endometrium/ovarian or tubal cancer will be enrolled. They will undergo the diagnostic consultation or surgical procedure, as per standard of care, plus an additional pCLE/nCLE procedure with the prototype probes, which will add between 5 and 10 minutes maximum to the examination.
+
+The confocal miniprobe will be positioned against the surface of these organs or inside these same organs if the tumor is intratissular through a needle, and sequences will be acquired. Final diagnosis will be obtained for the patient, either through the result of the biopsies or through surgical pathology if the patient's lesion is surgically resected. Then imaging will be performed as well ex vivo on the resected specimens to provide additional stable imaging, and compare image quality to in vivo imaging.
+
+The clinical endpoints of the study are:
+
+* One or several Confocal Miniprobe designs optimized for use during colposcopy and hysteroscopy
+* An optimized protocol of operations when using the designed Confocal Miniprobes during colposcopy and hysteroscopy as well as in the surgical setting, robotized or not (staining, use of accessories to hold the probes, etc...)
+* A first atlas of endomicroscopic images obtained in the cervix, endocervix and endometrium
+* The number, type and severity of recorded adverse events (to evaluate the safety).
+
+Final objectives of CLE in gynecology:
+
+* During colposcopic examination of the exocervix and conization, CLE is intended to be used to target biopsy and guide resection.
+* During hysteroscopic examination of the endocervix, CLE is intended to be used to target biopsy and guide resection. Its ability to diagnose endocervical cancer will be evaluated.
+* For endometrium cancer, CLE is to be used to target biopsy during hysteroscopy procedures and to evaluate cancer extension by examining lymphe node invasion during surgical procedures.
+* During adjuvant surgery, the cervix is to be imaged by CLE to describe area altered by radio-chemotherapy.
+* Ovaries and tubes are to be imaged by CLE before chemotherapy to diagnose cancer and after chemotherapy to detect residual tumor or fibrosis.

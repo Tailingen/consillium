@@ -1,0 +1,162 @@
+Postoperative EGFR-TKI Therapy forContralateral Pulmonary Nodules in Patients With EGFR-Mutant NSCLC（ARMOR2501）
+Background Synchronous multifocal primary lung cancer (sMPLC) presents a therapeutic challenge, particularly for bilateral lesions. While surgical resection is standard for unilateral sMPLC, bilateral surgery carries high perioperative risks. This study evaluates postoperative adjuvant therapy with almonertinib, a third-generation EGFR-TKI, to reduce secondary surgery rates by targeting residual contralateral lesions in EGFR-mutant NSCLC patients.
+
+Objective
+
+* Primary: Assess the secondary surgery rate within one year after three months of almonertinib therapy.
+* Secondary: Evaluate tumor response (ORR, EGFR-TKI response rate), survival outcomes (DFS, OS), treatment safety, and surgical feasibility post-therapy.
+
+Study Design
+
+* Phase: Single-arm, open-label, phase II trial.
+* Population: 32 patients with bilateral sMPLC (EGFR exon 19 deletion/L858R mutations) after unilateral resection.
+* Intervention: Oral almonertinib (110 mg/day) for three months, initiated 4-10 weeks post-surgery.
+* Endpoints:
+
+  * Primary: Proportion requiring secondary surgery due to lesion persistence/progression.
+  * Secondary: ORR (RECIST 1.1), DFS, OS, adverse events (CTCAE v5.0), and safety of delayed surgery.
+* Inclusion Criteria:
+
+  * sMPLC diagnosis (MM/ACCP criteria), T1-2N0M0 primary lesion, residual contralateral nodules (≥8 mm, confirmed malignant).
+  * ECOG 0-1, age 18-75 years, compliance with follow-up.
+* Exclusion Criteria: Metastasis, severe organ dysfunction, prior malignancies (5 years), or concurrent QT-prolonging drugs.
+
+Statistical Analysis
+
+* Sample size calculated (α=0.05, power=0.95) to detect a reduction in secondary surgery rate from 100% (baseline) to 90%, accounting for 10% dropout.
+* Survival analysis via Kaplan-Meier curves and Cox regression; descriptive statistics for response rates.
+
+Safety Monitoring
+
+• Adverse events graded by CTCAE v5.0, including interstitial lung disease (ILD), cardiac toxicity, and laboratory abnormalities. Dose adjustments (55 mg) or discontinuation mandated for grade ≥3 events.
+
+Ethics and Compliance
+
+* Conducted per Good Clinical Practice (GCP) and Declaration of Helsinki.
+* Informed consent required; independent review committee (IRC) evaluates imaging outcomes.
+
+Expected Outcomes
+
+* Almonertinib may reduce secondary surgery rates by suppressing residual lesions, supported by prior efficacy in NSCLC (median PFS: 19.3 months in AENEAS trial).
+* Results will inform postoperative management strategies for bilateral sMPLC. Timeline Enrollment and preliminary efficacy analysis to conclude by December 2025. Conclusion ARMOR2501 aims to validate almonertinib's role in minimizing repeat surgeries for EGFR-mutant sMPLC, balancing efficacy and safety. Successful outcomes could establish a novel adjuvant paradigm for high-risk patients.
+Lung Cancer (NSCLC)
+DRUG: Postoperative EGFR-TKI Therapy
+Secondary Surgery Rate, The proportion of enrolled patients who, following the completion of a three-month EGFR-TKI treatment regimen, undergo surgical resection of residual lesions due to either disease progression or the persistence of lesions., From enrollment to end of the completion of a three-month EGFR-TKI treatment regimen
+EGFR-TKI Response Rate, The proportion of patients exhibiting a measurable reduction in the diameter of any residual lesion on CT imaging, as determined by an independent review committee (IRC) during follow-up radiological assessments., From enrollment to end of the completion of a three-month EGFR-TKI treatment regimen|Objective Response Rate (ORR), Defined as the proportion of patients achieving a significant reduction in tumor burden, encompassing cases of complete response (CR) and partial response (PR), as per standardized oncological criteria., From enrollment to end of the completion of a three-month EGFR-TKI treatment regimen|Overall Survival (OS), Defined as the duration from the date of patient enrollment to all-cause mortality., Defined as the duration from the date of patient enrollment to all-cause mortality.|Disease-Free Survival (DFS), Defined as the interval from patient enrollment to the first confirmed occurrence of disease recurrence, progression, or mortality., Defined as the interval from patient enrollment to the first confirmed occurrence of disease recurrence, progression, or mortality.|Treatment-Related Adverse Events:, The incidence and severity of adverse events associated with EGFR-TKI therapy, classified according to the Common Terminology Criteria for Adverse Events (CTCAE) version 5.0., From enrollment to the completion of adjuvant therapy
+1. Background Lung cancer is the most prevalent and deadliest malignancy worldwide. It is estimated that 0.2%-20% of lung cancer patients have synchronous multiple primary lung cancer (sMPLC) at the time of diagnosis, with most lesions appearing as multiple bilateral ground-glass opacities (GGOs) on imaging1。In clinical practice, the surgical resection strategy for sMPLC depends on factors such as the number, anatomical location, and size of the lesions, while also considering the patient's age and lung function. This approach is often influenced by the surgeon's subjective judgment.2 For unilateral sMPLC, complete eradication can be achieved through a single surgery. However, for bilateral sMPLC, simultaneous bilateral surgery carries a high risk of perioperative complications, especially for elderly patients or those with poor lung function, making it difficult to tolerate.3Conversely, staged surgery exposes patients to the trauma of a second operation and additional perioperative and anesthesia-related risks.4-6If the contralateral lesion left untreated after initial surgery is malignant, the patient faces a high risk of disease progression. Therefore, effective postoperative treatment is necessary to prevent recurrence or progression while minimizing the trauma and financial burden associated with a second surgery.7However, there is currently no established standard therapy for residual contralateral operable lesions after initial surgery.
+
+   The epidermal growth factor receptor (EGFR) is a protein tyrosine kinase receptor located on chromosome 7p13-q22, spanning 200 kb and composed of 28 exons encoding 1,186 amino acids. The glycoprotein has a molecular weight of approximately 170 kDa and is widely distributed in all tissue cells except mature skeletal muscle cells, mesodermal tissues, and hematopoietic tissues. The EGFR family consists of four structurally similar receptor molecules: ErbB1 (EGFR), ErbB2 (HER2), ErbB3 (HER3), and ErbB4 (HER4), all of which belong to the receptor tyrosine kinase (RTK) family. They contain an extracellular ligand-binding domain, a transmembrane domain, and an intracellular tyrosine kinase domain, with the intracellular region being highly homologous to the erbB oncogene product.
+
+   Aberrant EGFR activation mechanisms include receptor amplification, ligand overexpression, activating mutations, and the loss of negative regulatory pathways, with EGFR mutation activation being the primary driver of tumor cell abnormal biological behavior. Anti-tumor agents targeting EGFR include small-molecule EGFR kinase inhibitors and anti-EGFR antibodies. Small-molecule EGFR tyrosine kinase inhibitors (TKIs) competitively bind to the ATP-binding site within the EGFR kinase domain, inhibiting kinase activity and blocking signal transduction pathways related to cancer cell proliferation and metastasis.
+
+   In sMPLC, a high proportion of patients harbor EGFR mutations.8,9 According to the National Comprehensive Cancer Network (NCCN) guidelines, adjuvant therapy with EGFR-TKIs is recommended for patients with EGFR-mutant IB-IIIA non-small cell lung cancer (NSCLC). 10However, the efficacy of EGFR-TKIs for residual contralateral operable lesions following surgical resection of an EGFR-mutant tumor remains unclear. A retrospective study showed that in EGFR-mutant sMPLC patients, EGFR-TKI therapy led to a reduction in the diameter of some residual GGOs, with an objective response rate of approximately 15%.7 However, this retrospective study did not specify the location, size, or nature of the residual GGOs, nor did it confirm whether they received standardized anti-inflammatory treatment. In a small-scale exploratory study conducted by our research team on early-stage sMPLC patients with bilateral operable lesions, the largest lesion was subjected to genetic testing following complete surgical resection of one lung. If EGFR L858R or exon 19 deletion mutations were detected, the patients received EGFR-TKI therapy for three months, followed by chest CT re-evaluation. A total of 12 patients were included in the analysis, of whom 3 exhibited significant regression of contralateral operable lesions, yielding a response rate of 25%.
+
+   Based on previous literature and our preliminary research findings, we propose a prospective study enrolling early-stage sMPLC patients with bilateral operable lesions. After surgical resection of one side and confirmation of EGFR mutation positivity, third-generation EGFR-TKI therapy will be administered for residual contralateral operable lesions. This study aims to validate the efficacy and safety of EGFR-TKI treatment for EGFR-mutant sMPLC residual lesions, providing a foundation for future postoperative adjuvant treatment strategies in bilateral sMPLC patients.
+2. Objective 2.1 Primary To explore the secondary surgery rate within one year after three months of EGFR-TKI treatment for contralateral residual lesions in patients with bilateral sMPLC with EGFR mutations who have undergone unilateral surgery.
+
+2.2 Secondary
+
+1. To evaluate the response of contralateral operable lesions to EGFR-TKI treatment.
+2. To assess the objective response rate (ORR) of contralateral residual lesions treated with EGFR-TKI.
+3. To investigate the correlation between EGFR-TKI treatment and disease-free survival (DFS) as well as overall survival (OS).
+4. To evaluate the safety of EGFR-TKI treatment in patients.
+5. To assess disease progression in contralateral lesions during EGFR-TKI treatment.
+6. To evaluate the safety of secondary surgery after EGFR-TKI treatment, including perioperative complication rates and surgical difficulty.
+
+3. Study Design 3.1 Sample Size This study calculated the sample size based on the estimated secondary surgery rate in the target population. According to existing literature and clinical experience, the current secondary surgery rate in the target population is 100%. Following EGFR-TKI treatment, the secondary surgery rate is projected to decrease to 90%. Using an exact probability one-sided test (α=0.05) with a statistical power of 0.95, the required sample size was determined to be 29 patients. To account for a potential 10% dropout rate, a total of 32 patients will be enrolled in the study.
+
+3.2 Intervention This study plans to prospectively enroll 32 patients with bilateral sMPLC, each presenting with operable lesions. In accordance with international guidelines, one side of the lesion will undergo curative surgical resection, and enrollment will only be permitted upon confirmation of an EGFR-sensitive mutation through genetic testing. Prior to formal enrollment, participants must be completely free from perioperative complications or must have recovered from any postoperative complications.
+
+Enrolled patients will undergo a baseline follow-up within 4 to 10 weeks postoperatively and will commence a three-month regimen of EGFR-TKI treatment on the same day. Additionally, a CT imaging follow-up will be conducted at the third month following baseline evaluation. If a patient experiences intolerable treatment-related adverse effects, EGFR-TKI therapy will be discontinued.
+
+If residual lesions persist after three months of EGFR-TKI treatment, a multidisciplinary team (MDT) will convene to collectively determine the necessity of surgical intervention.
+
+3.3 Study Endpoints Primary Endpoints： Secondary Surgery Rate: The proportion of enrolled patients who, following the completion of a three-month EGFR-TKI treatment regimen, undergo surgical resection of residual lesions due to either disease progression or the persistence of lesions.
+
+Secondary Endpoints：
+
+1. EGFR-TKI Response Rate: The proportion of patients exhibiting a measurable reduction in the diameter of any residual lesion on CT imaging, as determined by an independent review committee (IRC) during follow-up radiological assessments.
+2. Objective Response Rate (ORR): Defined as the proportion of patients achieving a significant reduction in tumor burden, encompassing cases of complete response (CR) and partial response (PR), as per standardized oncological criteria.
+3. Overall Survival (OS): Defined as the duration from the date of patient enrollment to all-cause mortality.
+4. Disease-Free Survival (DFS): Defined as the interval from patient enrollment to the first confirmed occurrence of disease recurrence, progression, or mortality.
+5. Treatment-Related Adverse Events: The incidence and severity of adverse events associated with EGFR-TKI therapy, classified according to the Common Terminology Criteria for Adverse Events (CTCAE) version 5.0.
+6. Disease Progression Rate During Treatment: Defined as the proportion of patients experiencing disease progression in contralateral operable lesions while undergoing EGFR-TKI therapy, relative to the total study cohort.
+
+Tumor response and disease progression will be evaluated in accordance with RECIST 1.1 criteria by study investigators. For patients who remain alive and free of disease recurrence at the time of data analysis, the date of their most recent radiological assessment will be used as the censoring time point.
+
+4. Study population 4.1 Inclusion Criteria
+
+Disease-Related Inclusion Criteria:
+
+1. Patients diagnosed with sMPLC (according to MM/ACCP clinical criteria). Preoperative chest CT (1mm slice thickness) reveals multiple bilateral lesions, all meeting surgical criteria \[≥8mm (pure ground-glass nodules (GGNs) must be \>1cm) and unchanged after standard anti-inflammatory treatment\].
+2. Patients received standard anti-inflammatory treatment before surgery.
+3. The primary lesion in the operated lung is staged as T1-2N0M0.
+4. Patients have undergone surgical resection of one side of the lung, with pathology confirming adenocarcinoma and an EGFR-sensitive mutation (exon 19 deletion or exon 21 L858R point mutation).
+5. After unilateral resection, the contralateral lung must have at least one suspected malignant residual nodule \[≥8mm (pure GGNs must be \>1cm) and \<3cm, unchanged after standard anti-inflammatory treatment\], which must be confirmed as malignant by a qualified radiologist and thoracic surgeon.
+6. ECOG performance status (PS) score of 0-1.
+
+General Inclusion Criteria:
+
+1. Patients voluntarily participate in the study and sign written informed consent.
+2. Patients demonstrate good compliance.
+3. Patients are capable of oral medication.
+4. Patients aged between 18 and 75 years.
+5. Patients who can tolerate postoperative EGFR-TKI adjuvant therapy, with an ECOG performance status of 0-1 and an expected survival of more than three months.
+
+4.2 Exclusion Criteria
+
+1. Patients with lymph node metastasis or distant metastasis.
+2. Patients with severe heart, lung, liver, or kidney dysfunction who cannot tolerate surgery.
+3. Patients with a history of other malignancies within five years (except effectively controlled basal cell carcinoma, cervical carcinoma in situ, ductal carcinoma in situ of the breast, papillary thyroid carcinoma, and superficial bladder tumors).
+4. Patients taking medications known to prolong the QTc interval or induce ventricular tachycardia who need to continue such medications during the study period.
+5. Patients with a history of interstitial lung disease (ILD) or drug-induced ILD.
+6. Patients with severe gastrointestinal dysfunction, diseases, or clinical symptoms that may affect drug intake, transport, or absorption.
+7. Patients with active hepatitis B, hepatitis C, or HIV infections.
+8. Pregnant or lactating women or women of childbearing potential who have not taken contraceptive measures.
+9. Patients with uncontrolled neurological or psychiatric disorders or mental illnesses.
+10. Patients participating in other clinical trials or expected to receive other anti-tumor treatments during this trial.
+11. Other conditions deemed unsuitable for the study by the investigators 4.3 Recruitment
+
+Considerations:
+
+* Outpatients from the Department of Thoracic Surgery at Sun Yat-sen University Cancer Center;
+* Recruitment through physician referral, where eligible patients are introduced to the study during routine clinical consultations;
+* The cost of EGFR-TKI treatment during the study will be fully covered, with no financial burden on the patients.
+
+4.4 Criteria for Discontinuation of Treatment/Withdrawal from the Study 4.4.1 Discontinuation of Study Treatment Subjects may discontinue treatment at any time and for any reason. Additionally, investigators may determine whether to discontinue treatment if any adverse event occurs. Furthermore, treatment may be terminated if the subject is deemed unsuitable for continued therapy, violates the study protocol, or if discontinuation is required for administrative and/or safety reasons.
+
+Subjects must discontinue treatment under any of the following circumstances but may continue to be monitored within the study:
+
+The subject or the subject's legal representative requests to discontinue treatment.
+
+An adverse event occurs that, according to the study protocol, necessitates treatment discontinuation.
+
+The subject develops a new malignancy requiring active treatment. A comorbid condition arises that precludes further treatment. The investigator decides to withdraw the subject from the study. The subject's serum pregnancy test returns a positive result. The subject demonstrates poor compliance. The investigator determines that, based on the subject's disease status or personal circumstances, continued administration of the investigational drug would expose the subject to unnecessary risk.
+
+Completion of the protocol-specified treatment. 4.4.2 Withdrawal from the Study For patients who withdraw from the study, the investigator must inquire about the reason for withdrawal and whether any adverse events (AEs) have occurred. If feasible, the investigator should conduct follow-up visits and assessments for withdrawn patients. The reason for withdrawal and the date of discontinuation (i.e., the date of the last dose of the study drug) must be documented in the Case Report Form (CRF). Patients should return all remaining study medications.
+
+At the time of withdrawal, if there are newly developed or aggravated Grade 3 or 4 laboratory abnormalities according to the Common Terminology Criteria for Adverse Events (CTCAE), the patient must undergo further examinations. The results should be recorded in the relevant section of the CRF until the laboratory values return to Grade 1 or 2, unless the abnormalities are deemed irreversible due to the underlying disease. For such cases, the investigator must document their assessment in both the CRF and the patient's medical record.
+
+All ongoing study-related toxicities and serious adverse events (SAEs) at the time of study discontinuation must be followed up until resolution, unless the investigator determines that resolution is unlikely due to the patient's underlying disease.
+
+After study treatment discontinuation, the investigator must monitor all pre-existing or newly occurring AEs within 30 days of the last dose of the study drug. Any new AEs and SAEs occurring within this period must be reported, with SAEs requiring notification to the sponsor within 24 hours. Follow-up must continue until the resolution of the adverse event as described above.
+
+If a patient dies during the study or within 28 days after study completion, the investigator must document the cause of death in detail in the SAE report form and submit it within 24 hours.
+
+5. Follow-up Enrolled patients will undergo a baseline follow-up at 4 weeks postoperatively (no later than 10 weeks) and initiate a 3-month course of EGFR-TKI treatment on the same day. Additionally, patients will undergo a CT imaging follow-up at the third month after baseline evaluation. If a patient experiences intolerable treatment-related adverse reactions, EGFR-TKI therapy will be discontinued. If residual lesions persist after three months, a multidisciplinary team (MDT) will convene to determine whether surgical intervention is warranted.
+
+All patients receiving postoperative EGFR-TKI treatment will be followed up for five years postoperatively. The follow-up schedule for the first year is as follows:
+
+* Follow-up every three months, including assessments of general health status, symptoms and signs, routine blood tests, routine biochemical tests, contrast-enhanced chest CT scans, and abdominal ultrasound (covering liver, gallbladder, spleen, pancreas, bilateral kidneys, and bilateral adrenal glands).
+* Safety monitoring visits every 4-6 weeks during treatment, including assessments of general health status, symptoms and signs, routine blood tests, and routine biochemical tests.
+* Cranial MRI and bone scans will be performed based on clinical indications at the discretion of the investigator.
+
+The follow-up schedule for years 2-3 is as follows:
+
+* Follow-up every six months, including assessments of general health status, symptoms and signs, routine blood tests, routine biochemical tests, contrast-enhanced chest CT scans, and abdominal ultrasound (covering liver, gallbladder, spleen, pancreas, bilateral kidneys, and bilateral adrenal glands).
+* Cranial MRI and bone scans will be conducted as clinically indicated by the investigator.
+
+The follow-up schedule for years 3-5 is as follows:
+
+* Follow-up every 12 months, including assessments of general health status, symptoms and signs, routine blood tests, routine biochemical tests, contrast-enhanced chest CT scans, and abdominal ultrasound (covering liver, gallbladder, spleen, pancreas, bilateral kidneys, and bilateral adrenal glands).
+* Cranial MRI and bone scans will be performed based on clinical necessity as determined by the investigator.

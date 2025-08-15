@@ -1,0 +1,81 @@
+Thermoradiotherapy for Locally Advanced Head and Neck Cancer Patients
+Patients with head and neck cancer treated with radiotherapy (RT) have a substantial change of recurrence of the tumor in the pharynx or lymph nodes in the neck. Once tumor and/or lymph nodes have recurred, the prognosis is poor. To increase the efficacy of RT, usually chemotherapy is added to the treatment. However, due to age or co-morbidity chemotherapy is not always feasible to give in all patients. In head and neck patients unfit for chemotherapy, there is a clinical need to increase the effectiveness of RT, without adding substantial toxicity. To this end, the use of thermotherapy in this disease site is investigated.
+
+The goal of this clinical trial is to learn about the recommended dose of thermotherapy in addition to radiotherapy for patients with head and neck cancer. This recommended dose is the dose that is tolerable and does not give additional side effects.
+
+The main question our study aims to answer is:
+
+"What is the recommended dose of thermotherapy for patients with primary head and neck cancer treated with radiotherapy?"
+
+Participants will receive thermotherapy once a week in addition to the standard radiotherapy. Researchers will investigate if side effects occur during the treatment and until 6 months after the last treatment has been given.
+
+The thermotherapy will be applied using a device that was made in Erasmus MC and allows for precise heating of the tumor and lymph nodes.
+Head and Neck Cancer|Oropharyngeal Carcinoma|Hypopharyngeal Carcinoma|Laryngeal Cancer|Head and Neck Squamous Cell Carcinoma
+PROCEDURE: Thermotherapy|RADIATION: standard radiotherapy
+Dose Limiting Toxicity of Thermotherapy, Trismus is objectively scored by measuring the mouth opening using a caliper according to standardized protocol. When the mouth opening is \<35 mm, the patient is scored with trismus and this will be a dose limiting toxicity (DLT). Using a Time to Event Bayesian Optimal Interval Design, we will measure any significant increase over the baseline 28% occurence of trismus with Radiotherapy alone.
+
+Upon occurence of the following severe DLTs, the dose level will be stopped immediately:
+
+* Grade III trismus
+* Grade IV mucositis
+* Grade IV dermatitis
+* Grade III or IV osteo- or soft tissue necrosis
+* Grade IV Burn wound
+* Grade IV tumor hemorrhage
+* Grade IV laryngeal edema, 8 months (treatment period + follow-up period)|Feasibility of Thermotherapy, To find the recommended dose, the feasibility of increasing dose levels is investigated. A dose level is infeasible if for \>33% of the patients the intended dose is considered intolerable and is eliminated., 7 weeks (treatment period)
+The prognosis of patients with stage III and IV, so-called locally advanced (LA) head and neck squamous cell carcinoma (HNSCC) is generally poor, with an overall 5-year survival of only 50%. In the Netherlands, the total incidence of head and neck cancer is around 3200 per year (Dutch Cancer Registration). Stage I and II HNSCCs are treated with a single modality consisting of surgery or radiotherapy (RT), while stage III and IV (LA-)HNSCCs are preferably treated with combined modality (surgery, RT, and/or chemotherapy). This is because of the abovementioned low survival rates, which are for a large part dependent on the ability to achieve local control of the primary tumor and regional lymph nodes, which are the regions with macroscopic tumor. Thermotherapy has the potential to directly target the areas at risk for local failure, by focally heating all macroscopic tumor sites.
+
+In LA-HNSCC, RT is generally applied using the simultaneous integrated boost (SIB) technique, delivering 54.25Gy of RT dose to regions with high risk to contain microscopic tumor cells and 70Gy of dose to the regions with macroscopic tumor. To enhance the effectivity of the radiotherapy treatment, especially in the macroscopic tumor regions, Cisplatin chemotherapy is often added to the RT in LA-HNSCC. However, in patients above 70 the addition of Cisplatin to radiotherapy is debatable due to lack of efficacy and increased toxicity. The additional effect of Cisplatin on survival is not observed in patients over 70 years and there is an increase from 6% to 15% in tube feeding dependency after 6 months by Cisplatin chemotherapy. Since RT alone is already resulting in significant toxicity in the elderly patients, a new sensitizer with a low toxicity profile is needed for these patients.
+
+Thermotherapy, also called mild hyperthermia, is the elevation of tissue temperature to fever-like levels, between 40 and 44 degrees Celsius. Thermotherapy is proven to be effective as radio sensitizer and is reimbursed as part of routine clinical care for cervical carcinoma patients. Preclinical evidence suggests that thermotherapy directly kills cells that are relatively resistant to radio- or chemotherapy. It inhibits the repair of DNA damage caused by radio- or chemotherapy and improves oxygenation in the tumor area, thereby enhancing the effect of RT.
+
+In a review of 6 studies using thermotherapy as an adjuvant to RT in HNSCC patients, complete response rate improved from 39,6% to 62,5%, compared to RT alone. However, these results, although promising, were obtained using so called superficial thermotherapy techniques, only allowing heating up to limited depths. These superficial techniques seem less suitable for HNSCC, because tumors and lymph nodes are mostly located deeper into the tissues. For this reason, at the department of radiotherapy at Erasmus MC, the HyperCollar3D was developed. This is a medical device that -for the first time- allows this so-called deep thermotherapy in the head and neck region, while avoiding sensitive structures. The device is equipped with advanced treatment planning software that enables the physician to mark the tumor area and predict the energy distribution.
+
+Two retrospective cohorts are reported using the HyperCollar (27 patients) and the next generation device, the HyperCollar3D (22 patients) to apply thermotherapy in a compassionate use indication; patients having a recurrent or second primary HNSCC following previous RT in the HN area. In the latter cohort, using the HyperCollar3D, researchers observed an unexpected incidence of acute trismus (limited mouth opening) maximal grade II in 4 out 22 patients. Notably, following the first 3 cases of trismus in the first 5 patients, the dose rate to the tumor region was lowered, after which in only 1/17 patients a trismus was observed, suggesting a dose-effect relationship. Whether occurrence of trismus or other toxicity was related to the thermotherapy is not known. Since thermotherapy dosage in the past was empirical and analysis was performed post-hoc, dose effect relations could not be determined reliably. In addition, it is also unclear whether the applied dose in these recurrent HNSCC patients, would be the optimal dose in previously untreated, primary HNSCC patients.
+
+As the research is now moving away from a 'last resort/compassionate use' treatment in the re-irradiation setting, towards the first line treatment of primary HNSCC patients, a dose finding phase I trial is initiated. The reasons for a dose finding study are 1.) to obtain more evidence of the safety of thermoradiotherapy in the HN region and 2.) to find the highest dose that is tolerable and does not lead to unacceptable acute and/or late side effects. The latter is highly important given the temperature-effect relation of thermotherapy, as clearly observed in other tumor sites.
+
+Until today, it has not been possible to predict the temperatures in the heated area due to unknown tumor and normal tissue blood perfusion, which varies between patients and tumors. Invasive measurement of temperatures in head and neck tumors is notably difficult, due to inability to reach the primary tumor in the pharynx or larynx and complication risks like bleeding and infection. Therefore, dosage of thermotherapy in this study will not be based on measured or modelled temperatures, but instead on the delivered energy, with a physical unit expressed by Joule/kilogram.
+
+The dose levels are selected based on previous data from our center and others. The dose to achieve a therapeutic rise in temperature in the target as well as the dose at which toxicity was observed in the normal tissues (studies and unpublished data) are taken into consideration. As the primary endpoint of this trial is the recommended phase II dose (RP2D) consisting of feasibility and dose limiting toxicity (DLT), the dose escalation is based on the maximal dose to the normal tissues. Since the maximal dose to the normal tissues is linearly correlated to dose to the target (unpublished data from previous HN cohort), the dose to the target is escalated in a linear manner.
+
+In thermotherapy a target temperature of at least 40 degrees Celsius is considered therapeutic. Although the dose escalation is based on energy applied in this study, the study aims to determine the target temperature whenever possible. In selected cases, the head and neck surgeon can safely insert a temperature probe in the neck in or close to a pathologically enlarged lymph node (=target). To determine if therapeutic temperatures are reached during the dose escalation, a separate informed consent will be asked to patients that would be amenable, to insert a neck catheter with temperature sensor and measure target temperature in one or two of the thermotherapy fractions. The temperature probe, which' intended use is to measure temperature within the electromagnetic field of the hyperthermia, will be inserted into this catheter during the thermotherapy fraction. This procedure has an individual informed consent form because of the risk of bleeding and infection due to the catheter placement. In addition, already a few patients willing to have invasive temperature measurements, would already suffice to reach the goal of determining obtained target temperatures in the dose escalation process.
+
+The primary endpoint of the phase I dose escalation trial will be the RP2D of thermoradiotherapy in primary HNSCC patients. The RP2D is tolerable and does not lead to relevant increased acute and late effects compared radiotherapy alone. This trial will be conducted in patients, who currently are treated with radiotherapy as monotherapy, but have a clear need for radio-sensitization.
+
+Secondary endpoints will be to:
+
+* Evaluate local control, Disease Free Survival and Overall Survival of thermoradiotherapy.
+* Doctor and patient reported outcome measures on acute and late toxicity after thermoradiotherapy.
+* Measure reached target temperatures (in patients providing additional informed consent).
+* Evaluate the safety and performance of the HyperCollar3D.
+
+The safety of addition of thermotherapy to radiotherapy will be evaluated in a phase I dose finding study. The thermotherapy dose will be increased per group of patients and the tolerability and toxicity will be closely monitored.
+
+The RP2D is defined as the dose level below the dose level for which any of these events occur:
+
+1. the incidence of dose limiting toxicity (DLT) trismus is not higher than trismus induced by radiotherapy alone
+2. any occurrence of severe DLT
+3. the infeasibility to apply the dose level is more than 33%.
+
+Rationale of DLT definition:
+
+In previous cohorts, no increased late toxicity was observed other than trismus (limited mouth opening) maximal grade II following thermoradiotherapy in 4/22 patients. Therefore, trismus is a potential toxicity to occur that could be dose limiting. A recent study by the group of prof. Dijkstra (UMCG) reported on the incidence of trismus at 6 months post treatment in HNSSC patients treated with radiotherapy. Trismus was defined as a mouth opening of \<=35 mm, which included potentially all CTCAE gradings, but mostly grade I trismus (personal communication dr. Dijkstra). The incidence of new trismus in patient having no trismus before treatment, was 28% until 6 months post-treatment.
+
+Therefore, the RP2D is considered the dose for which the incidence of the DLT trismus (defined by a mouth opening of \<=35 mm) until 6 months is at most 28%. The incidence of trismus as defined above is monitored using the TITE-BOIN dose-escalation design.
+
+In addition to trismus as objectified by a mouth opening of \<=35 mm, the following toxicities are defined as severe DLT until 6 months:
+
+* Grade III trismus
+* Grade IV mucositis
+* Grade IV dermatitis
+* Grade III or IV osteo- or soft tissue necrosis
+* Grade IV Burn wound
+* Grade IV tumor hemorrhage
+* Grade IV laryngeal edema
+
+These severe DLTs are not expected to occur at all. Therefore, as soon as a single severe DLT (as defined above) is observed, the dose level will immediately be closed for inclusion of new patients, irrespective of any escalation rule from the TiTE-BOIN design. Those rules are only used for trismus as ordinary DLT (i.e., mouth opening of \<=35 mm, but not trismus grade III (trismus resulting in inability to adequately hydrate or aliment orally).
+
+If a patient experiences any DLT, the thermotherapy will be stopped for this patient and this patient will not be evaluated for feasibility.
+
+In this single center study, the local data manager and local investigator will ensure to keep the study database (e-CRF) up to date, ensuring all patients enrolled for a certain dose level (maximal 12) are update on DLT at the time of inclusion of a new patient.

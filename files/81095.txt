@@ -1,0 +1,79 @@
+T-cells Expressing an Anti-SLAMF7 CAR for Treating Multiple Myeloma
+Background:
+
+Multiple myeloma is a blood cancer that is usually incurable. T cells are part of the immune system. Researchers think changing a person's T cells to recognize their cancer could help the person's body kill tumor cells. This is a new approach that uses a patient's own cells to target multiple myeloma.
+
+Objective:
+
+To see if giving anti-Signaling lymphocytic activation molecule F7 (SLAM7) chimeric antigen receptor (CAR) T cells with a stop switch to people with multiple myeloma is safe and to see if adding a gene to stop T-cell activity can limit toxicity of this therapy.
+
+Eligibility:
+
+People ages 18-73 with multiple myeloma for which prior standard treatment has not worked
+
+Design:
+
+Participants will be screened with:
+
+* Medical history
+* Physical exam
+* Blood, urine, and heart tests
+* Bone marrow samples: A needle inserted into the participant's bone will remove marrow.
+* Imaging scans: Participants will lie in a machine that takes pictures of the body.
+
+Participants will have apheresis. They will receive a catheter or central line: A plastic tube will be inserted into a chest or arm vein. Blood will be removed and the T cells separated. The rest of the blood will be returned to the participant. The T cells will be manipulated in the lab.
+
+Participants will get chemotherapy through the central line for 3 days.
+
+Participants will receive the manipulated T cells through the central line. They will stay in the hospital at least 9 days.
+
+Participants will have follow-up visits 2 weeks then 1, 2, 3, 4, 6, 9, and 12 months after the infusion. They will then have visits every 6 months for 3 years. Then they will be contacted once per year for 15 years. All visits will include blood tests, and 3 visits will include bone marrow biopsies....
+Myeloma-Multiple|Myeloma, Plasma-Cell
+DRUG: Cyclophosphamide|DRUG: Fludarabine|DRUG: Rimiducid|BIOLOGICAL: Anti-Signaling lymphocytic activation molecule F7 (SLAMF7) chimeric antigen receptor (CAR) T cells
+Number of Participants That Had Any Grade ≤2, and 3, 4 and 5 Adverse Events Following Administration of T Cells Expressing Anti- Signaling Lymphocytic Activation Molecule F7 (SLAMF7) Chimeric Antigen Receptor (CAR), Adverse Events were assessed by the Common Terminology Criteria for Adverse Events (CTCAE v5.0). Grade1 is mild, Grade 2 is moderate, Grade 3 is severe, Grade 4 is life-threatening or disabling, and Grade 5 is fatal., Date treatment consent signed to date off study, approximately 3 months and 27 days for Level 1, 3 months and 18 days for Level 2, 5 months and 23 days for Level 3, and 1 month and 29 days for Level 4.
+Number of Participants With Serious and/or Non-serious Adverse Events Assessed by the Common Terminology Criteria for Adverse Events (CTCAE v5.0), Here is the number of participants with serious and/or non-serious adverse events assessed by the Common Terminology Criteria for Adverse Events (CTCAE v5.0). A non-serious adverse event is any untoward medical occurrence. A serious adverse event is an adverse event or suspected adverse reaction that results in death, a life-threatening adverse drug experience, hospitalization, disruption of the ability to conduct normal life functions, congenital anomaly/birth defect or important medical events that jeopardize the patient or subject and may require medical or surgical intervention to prevent one of the previous outcomes mentioned., Date treatment consent signed to date off study, approximately 3 months and 27 days for Level 1, 3 months and 18 days for Level 2, 5 months and 23 days for Level 3, and 1 month and 29 days for Level 4.|Number of Participants With a Response, Response was assessed by the International Uniform Response Criteria for Multiple myeloma 2016 updated version. Complete Remission (CR) is negative immunofixation on the serum and urine, and disappearance of any soft tissue plasmacytomas. Very Good Partial Remission (VGPR) is serum and urine M-protein detectable by immunofixation but not on electrophoresis, or 90% or greater reduction in serum M-protein plus urine M-protein level \<100mg per 24 h. Partial Remission (PR) is 50% or greater reduction of serum M-protein and 90% or greater reduction in 24-h urinary M-protein (or to less than 200mg per 24 h). Progressive Disease (PD) is serum M-component (minimum absolute increase of 0.5g/dL), or urine M-component (minimum absolute increase of 200mg/24h). Stable Disease (SD) is not meeting criteria for CR, VGPR, PR or progressive disease., At two and five weeks for stable disease and partial remission, respectively, and up to 5 months and 23 days for progressive disease
+Background:
+
+* Multiple myeloma (MM) is a nearly always incurable malignancy of plasma cells.
+* T cells can be genetically modified to express chimeric antigen receptors (CARs) that target malignancy-associated antigens.
+* Signaling lymphocytic activation molecule F7 (SLAM7) is highly and uniformly expressed on MM cells but is absent on normal tissues except for some leukocytes, including a subset of cluster of differentiation 8 (CD8)+ T cells, natural killer (NK) cells, B cells, plasma cells and monocytes.
+* We have constructed a novel anti-SLAMF7 CAR that can specifically recognize SLAMF7- expressing target cells and eradicate SLAMF7-expressing tumors in mice.
+* This protocol will test genetic modification of autologous T cells with genes encoding an inducible caspase 9 (IC9) cell-suicide system plus the anti-SLAMF7 CAR.
+* Administration of the dimerizer drug Rimiducid (AP1903) is necessary to activate the inducible caspase 9 (IC9) suicide gene and eliminate CAR T cells.
+* In this protocol, the suicide gene system will be used to eliminate CAR-expressing T cells in case of severe toxicities caused by the CAR T cells.
+* Possible toxicities include cytokine-associated toxicities such as hypotension, and neurological toxicities. Elimination of NK cells and normal plasma cells could make patients more susceptible to infections. Unknown toxicities are also possible.
+
+Objectives:
+
+Primary
+
+- Determine the safety, feasibility of administering T cells expressing an anti-SLAMF7 CAR plus IC9 cell-suicide system to patients with MM.
+
+Eligibility:
+
+* Greater than or equal to 18 years of age and less than or equal to age 73.
+* Patients must have measurable MM defined as a serum M-protein \>=0.6 g/dL or a urine M-protein \>=200 mg/24 hours or an involved serum free light chain (FLC) level \>=10 mg/dL (provided FLC ratio is abnormal) or a biopsy-proven plasmacytoma of 1.5 cm or more in largest dimension, or greater than or equal to 30% bone marrow plasma cells.
+* Patients must have previously received at least 3 different treatment regimens for MM.
+* Patients must have prior exposure to an immunomodulatory drug (IMiD) such as lenalidomide, and a proteasome inhibitor
+* Patients must have a creatinine level of less than or equal to 1.5 mg/dL
+* Patients must have a cardiac ejection fraction \>= 50%.
+* An Eastern Cooperative Oncology Group (ECOG) performance status of 0-2 is required.
+* Patients on any anticoagulant medications except aspirin are not eligible.
+* No active infections are allowed.
+* Absolute neutrophil count \>= 1000/microL, platelet count \>= 55,000/microL, hemoglobin \>= 8g/dL
+* Alanine aminotransferase (ALT) and aspartate aminotransferase (AST) less than or equal to 2.5-fold higher than the upper limit of normal.
+* At least 14 days must elapse between the time of any prior systemic treatment (including corticosteroids) and the required leukapheresis.
+* At least 14 days must elapse between the time of any prior systemic treatment and initiation of protocol treatment. Systemic therapy includes corticosteroids at a dose equivalent to more than 5 mg of prednisone.
+* Bone marrow plasma cells must make up less than or equal to 50% of total bone marrow cells less than or equal to 24 days prior to the start of protocol treatment.
+* The patient's MM will need to be assessed for SLAMF7 expression by flow cytometry or immunohistochemistry performed at the National Institutes of Health (NIH). The myeloma must express SLAMF7. If unstained, paraffin-embedded bone marrow or plasmacytoma sections are available from prior biopsies, these can be used to determine SLAMF7 expression by immunohistochemistry; otherwise patients will need to come to the NIH for a bone marrow biopsy or other biopsy of a plasmacytoma to determine SLAMF7 expression. The sample for SLAMF7 expression can come from a biopsy obtained at any time before enrollment.
+
+Design:
+
+* This is a phase I dose-escalation trial
+* Patients will undergo leukapheresis, and T cells will be modified to express the IC9-anti-SLAMF7 CAR construct.
+* The chemotherapy conditioning regimen is cyclophosphamide 300 mg/m\^2 daily for 3 days and fludarabine 30 mg/m\^2 daily for 3 days. The intent of chemotherapy is to enhance CAR T-cell activity.
+* After the chemotherapy ends, the patients will have two days with no treatments and then receive an infusion of CAR T cells.
+* The initial dose level will be 0.66x10\^6 Anti-SLAMF7-CAR + T cells/kg of recipient bodyweight.
+* The cell dose administered will be escalated for up to 4 doses until a maximum tolerated dose is determined.
+* Following the T-cell infusion, there will be a mandatory 9-day minimum inpatient hospitalization to monitor for toxicity.
+* Outpatient follow-up is planned for 2 weeks, and 1, 2, 3, 4, 6, 9, and 12 months after the CAR T-cell infusion. Afterwards, follow-up will be every six months up to at least 3 years after infusion.

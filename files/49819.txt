@@ -1,0 +1,26 @@
+Genetic Mutations in Blood and Tissue Samples in Predicting Response to Treatment in Patients With Locally Advanced Rectal Cancer Undergoing Chemoradiation
+This research trial studies genetic mutations in blood and tissue samples to see if they can be used to predict treatment response in patients with locally advanced rectal cancer undergoing chemoradiation. Studying samples of blood and tumor tissue in the laboratory from patients with cancer may help doctors learn more about genetic mutations or changes that occur in deoxyribonucleic acid (DNA) and help doctors understand how patients respond to treatment.
+Mucinous Adenocarcinoma of the Rectum|Recurrent Rectal Cancer|Signet Ring Adenocarcinoma of the Rectum|Stage IIA Rectal Cancer|Stage IIB Rectal Cancer|Stage IIC Rectal Cancer|Stage IIIA Rectal Cancer|Stage IIIB Rectal Cancer|Stage IIIC Rectal Cancer
+OTHER: cytology specimen collection procedure|OTHER: laboratory biomarker analysis
+Proportion of the randomly chosen samples that are successfully sequenced, If \>= 90% of the specimens (at least 72 out of 80) are useable, the method will be considered feasible., Up to 3 years|Tumor response measured using the tumor regression grading system, Whether mutations in any gene on the CancerCode mutation panel are associated with tumor response will be assessed. In each sample, the presence or absence of mutations (0/1) for each gene on the panel will be evaluated. Each gene will be tested separately for its association with tumor response using a two-sample Mann-Whitney-Wilcoxon test with a type-I error of 0.05 for a two-sided test., Up to 3 years
+Tumor heterogeneity in patients with partial response to radiation, Whether there are differences in the mutation profiles in the 4 tumor samples will be assessed, with differences being considered evidence of possible heterogeneity., Up to 3 years
+Progression-free survival (PFS), PFS will be calculated using the methods of Kaplan and Meier. If promising mutations are identified, survival between mutation positive and negative patients will be compared using the log-rank test., Up to 3 years|Overall survival, OS will be calculated using the methods of Kaplan and Meier. If promising mutations are identified, survival between mutation positive and negative patients will be compared using the log-rank test., Up to 3 years|Changes in mutation profiles, Any differences between pre- and post- test results (a different mutation status for any gene on the panel) will be considered evidence of a change. The overall proportion of patients exhibiting pre-post differences will be characterized, and particular genes of interest may be tested individually with an exact test of marginal homogeneity., Baseline to up to 3 years|PET-computed tomography parameters, Maximum standardized uptake value will be calculated, as well as textural measures such as coarseness, busyness, contrast, and complexity. The Mann-Whitney-Wilcoxon tests will be used to examine association between image measures and response. Image measures before and after radiation using the Wilcoxon signed rank test for paired data will be compared and differences in textural measures across tumor grades 0-3 will be assessed using the Kruskal-Wallis test. Associations between textural measures and tumor mutation profiles will be explored, also using non-parametric tests., Up to 3 years
+PRIMARY OBJECTIVES:
+
+I. To evaluate the tumor-specific mutation(s) detected using the CancerCode™ mutation panel as a predictor of pathologic response to chemoradiation for patients with rectal adenocarcinoma undergoing chemoradiation.
+
+SECONDARY OBJECTIVES:
+
+I. To assess the feasibility of utilizing biopsy specimens from locally advanced rectal adenocarcinoma to perform CancerCode™ mutation panel genetic testing.
+
+II. To assess disease-free survival (DFS) and overall survival (OS) of patients treated on study.
+
+III. To collect pilot data regarding the clonal heterogeneity of rectal adenocarcinoma, and the relationship of this heterogeneity with treatment response.
+
+IV. To evaluate the treatment response utilizing multiple fludeoxyglucose F 18-positron emission tomography (FDG-PET) parameters including heterogeneity and textural features as an exploratory study.
+
+OUTLINE:
+
+Patients undergo collection of blood and tissue samples for analysis via sequencing.
+
+After completion of study, patients are followed up every 3 months for 3 years.

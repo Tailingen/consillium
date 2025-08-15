@@ -1,0 +1,30 @@
+Lung-MAP: Rilotumumab and Erlotinib Hydrochloride or Erlotinib Hydrochloride Alone as Second-Line Therapy in Treating Patients With Recurrent Stage IV Squamous Cell Lung Cancer and Positive Biomarker Matches
+This randomized phase II/III compares rilotumumab when given together with erlotinib hydrochloride against erlotinib hydrochloride alone in treating patients with stage IV squamous cell lung cancer that has come back after previous treatment. This is a sub-study that includes all screened patients positive for the met proto-oncogene (MET)/hepatocyte growth factor (HGF) biomarker. HGF can interact with MET and can cause tumor cells to grow more quickly. Rilotumumab may decrease the activity of HGF and may be able to shrink tumors. Erlotinib hydrochloride may stop the growth of tumor cells by blocking some of the enzymes needed for cell growth. It is not yet known whether giving rilotumumab with erlotinib hydrochloride works better than erlotinib hydrochloride alone (standard treatment) in treating squamous cell lung cancer.
+MET Positive|Recurrent Squamous Cell Lung Carcinoma|Stage IV Squamous Cell Lung Carcinoma AJCC v7
+DRUG: Erlotinib Hydrochloride|OTHER: Laboratory Biomarker Analysis|BIOLOGICAL: Rilotumumab
+Investigator-assessed Progression-free Survival Between Arms, A stratified (using randomization stratification factors) log-rank test will be used to test the primary hypotheses related to investigator-assessed progression-free survival, comparing the two treatment arms., From date of sub-study registration to date of first documentation of progression assessed by local review or symptomatic deterioration, or death due to any cause, assessed up to 18 months since completion of accrual|Objective Response Rate (Confirmed and Unconfirmed, Complete and Partial) Between Arms, Up to 3 years
+Frequency and Severity of Toxicities Associated With Investigational Therapy Versus Standard of Care, Up to 3 years
+Treatment Arm Randomization Acceptance Rate, Monitored by the percentage of patients that receive at least one dose of the treatment they are randomized to., Up to 3 years
+PRIMARY OBJECTIVES:
+
+I. To evaluate if there is sufficient evidence to continue to the phase III component of S1400E by comparing investigator-assessed progression-free survival (IA-PFS) between rilotumumab plus erlotinib versus erlotinib in patients registered to S1400E. (Phase II) II. To determine if there is both a statistically and clinically-meaningful difference in IA-PFS between patients randomized to receive rilotumumab plus erlotinib versus erlotinib. (Phase III) III. To compare overall survival (OS) in patients randomized to rilotumumab plus erlotinib versus erlotinib. (Phase III)
+
+SECONDARY OBJECTIVES:
+
+I. To compare response rates (confirmed and unconfirmed, complete and partial responses) among patients randomized to receive rilotumumab plus erlotinib versus erlotinib. (Phase II) II. To evaluate the frequency and severity of toxicities associated with rilotumumab plus erlotinib versus erlotinib. (Phase II) III. To compare the response rates (confirmed and unconfirmed, complete and partial) among patients randomized to receive rilotumumab plus erlotinib versus erlotinib. (Phase III) IV. To evaluate the frequency and severity of toxicities associated with rilotumumab plus erlotinib versus erlotinib. (Phase III)
+
+TERTIARY OBJECTIVES:
+
+I. To evaluate the treatment arm randomization acceptance rate within each treatment arm of S1400E defined as the percentage of patients randomized to a treatment arm that receive any protocol treatment.
+
+II. To identify additional predictive or prognostic tumor/blood biomarkers beyond the chosen biomarker.
+
+III. To identify potential resistance biomarkers at disease progression. IV. To establish a tissue/blood repository from patients with refractory squamous cell cancer.
+
+OUTLINE: Patients are randomized to 1 of 2 treatment arms.
+
+ARM I (CLOSED TO ACCRUAL AND INTERVENTION11/25/2014): Patients receive rilotumumab intravenously (IV) over 60-120 minutes on day 1 and erlotinib hydrochloride orally (PO) daily on days 1-21. Courses repeat every 21 days in the absence of disease progression or unacceptable toxicity.
+
+ARM II (CLOSED TO ACCRUAL AND INTERVENTION11/25/2014): Patients receive erlotinib hydrochloride PO daily on days 1-21. Courses repeat every 21 days in the absence of disease progression or unacceptable toxicity.
+
+After completion of study treatment, all patients will be followed until death or 3 years after sub-study registration, whichever occurs first.

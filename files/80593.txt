@@ -1,0 +1,43 @@
+Acalabrutinib and Venetoclax With or Without Early Obinutuzumab for the Treatment of High Risk, Recurrent, or Refractory Chronic Lymphocytic Leukemia or Small Lymphocytic Lymphoma
+This phase II trial studies how well acalabrutinib and venetoclax with or without early obinutuzumab work for the treatment of chronic lymphocytic leukemia or small lymphocytic lymphoma that is high risk, has come back (recurrent), or does not respond to treatment (refractory). Acalabrutinib may stop the growth of cancer cells by blocking some of the enzymes needed for cell growth. Venetoclax may stop the growth cancer cells by blocking BCL-2 protein needed for cell growth. Immunotherapy with monoclonal antibodies, such as obinutuzumab, may help the body's immune system attack the cancer, and may interfere with the ability of tumor cells to grow and spread. Giving acalabrutinib and venetoclax together with early obinutuzumab may improve clinical outcomes and control the disease.
+Recurrent Chronic Lymphocytic Leukemia|Recurrent Small Lymphocytic Lymphoma|Refractory Chronic Lymphocytic Leukemia|Refractory Small Lymphocytic Lymphoma
+DRUG: Acalabrutinib|BIOLOGICAL: Obinutuzumab|DRUG: Venetoclax
+Disease assessment of bone marrow (BM) undetectable-minimal residual disease,10-4 sensitivity (MRD4) (Treatment-naive [TN] cohort), Up to 1 year end of cycle 9; each cycle 28 days|Disease assessment of BM undetectable-MRD4 (Relapsed/refractory [R/R] cohort), Up to 1 year end of cycle 14; each cycle 28 days
+Incidence of adverse events, Toxicities (defined as prolonged grade \>= 3 neutropenia or thrombocytopenia lasting \> 42 days; febrile neutropenia; hospitalization due to infection; early death; major bleeding due to thrombocytopenia) will be monitored for each treatment arm separately using the Bayesian method of Thall, Simon and Estey., From the start of combination therapy up to end of cycle 4; each cycles 28 days
+PRIMARY OBJECTIVES:
+
+I. Demonstrate improvement in bone marrow (BM) undetectable-minimal residual disease,10-4 sensitivity (MRD4) from 40% to 70% after 7 courses of combined acalabrutinib (ACA) and venetoclax (VEN) (end of C9 overall) with addition of early obinutuzumab (OBIN). (Treatment-naive \[TN\] cohort) II. Demonstrate improvement in BM undetectable-MRD4 from 40% to 70% after 12 courses of combined acalabrutinib (ACA) and venetoclax (VEN) (end of cycle \[C\]14 overall) with addition of early obinutuzumab (OBIN). (Relapsed/refractory \[R/R\] cohort)
+
+SECONDARY AND EXPLORATORY OBJECTIVES:
+
+I. Determine the safety of combined acalabrutinib, venetoclax obinutuzumab. II. Determine the overall best response rates (complete response \[CR\], partial response \[PR\], overall response \[OR\]) for each cohort and each treatment arm by International Workshop on Chronic Lymphocytic Leukemia (iwCLL) 2018 criteria.
+
+III. Estimate the time to best response for each cohort and each treatment arm with this combination.
+
+IV. Estimate the progression-free (PFS) for each cohort and each treatment arm. V. Estimate proportion of patients with blood/BM undetectable-MRD4, blood/BM undetectable-MRD6 (10-6 sensitivity), CR after 12 and 24 courses combination with VEN (end of C14 and C26 overall) (by cohort and OBIN status).
+
+VI. Determine the proportion of patients who receive late OBIN (C15-C20 overall) and conversion rate for blood/BM undetectable-MRD4 and blood/BM undetectable-MRD6 and CR in those who receive late OBIN.
+
+VII. Correlate plasma cell-free deoxyribonucleic acid (DNA) (cfDNA) with cell-based blood/BM undetectable-MRD4, blood/BM undetectable-MRD6 status at all response assessment time points.
+
+VIII. Determine proportion of patients who discontinue treatment early based on undetectable-MRD results.
+
+IX. Determine time-to-blood MRD6 relapse for those who achieve undetectable-MRD6.
+
+X. Determine response to re-treatment upon relapse. XI. Assess clonal evolution at relapse and correlate with plasma cell-free DNA (cfDNA).
+
+XII. Determine OBIN pharmacokinetics - free drug level assessments to optimize dosing.
+
+XIII. Determine VEN pharmacokinetics - free drug levels to assess changes in exposure with combination.
+
+XIV. Determine ACA pharmacokinetics - free drug levels to assess changes in exposure with combination.
+
+XV. Identify predictive markers for response and outcomes.
+
+OUTLINE: Patients are randomized to 1 of 2 arms.
+
+ARM I: Patients receive acalabrutinib orally (PO) twice daily (BID) on days 1-28. Beginning cycle 3, patients receive venetoclax PO BID on days 1-28. Patients who are BM MRD4-positive or in PR also receive obinutuzumab intravenously (IV) over 4-6 hours on days 1, 2, 8, and 15 of cycle 15 and day 1 of cycles 16-20. Treatment repeats every 28 days (or 42 days for cycle 14) for up to 26 cycles in the absence of disease progression or unacceptable toxicity.
+
+ARM II: Patients receive acalabrutinib PO BID on days 1-28 beginning cycle 2 and venetoclax PO BID on days 1-28 beginning cycle 3. Patients also receive obinutuzumab IV over 4-6 hours on days 1, 2, 8, and 15 of cycle 1 and day 1 of cycles 2-6. Patients who are BM MRD4-positive or in PR receive obinutuzumab IV over 4-6 hours on day 1 cycles 15-20. Treatment repeats every 28 days (or 42 days for cycle 14) for up to 26 cycles in the absence of disease progression or unacceptable toxicity.
+
+After completion of study treatment, patients are followed up periodically.

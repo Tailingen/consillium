@@ -1,0 +1,33 @@
+Bevacizumab, Temozolomide, and External Beam Radiation Therapy as First-Line Therapy in Treating Patients With Newly Diagnosed Glioblastoma Multiforme or Gliosarcoma
+RATIONALE: Monoclonal antibodies, such as bevacizumab, can block tumor growth in different ways. Some block the ability of tumor cells to grow and spread. Others find tumor cells and help kill them or carry tumor-killing substances to them. Bevacizumab may also stop the growth of tumor cells by blocking blood flow to the tumor. Drugs used in chemotherapy, such as temozolomide, work in different ways to stop the growth of tumor cells, either by killing the cells or by stopping them from dividing. Radiation therapy uses high energy x-rays to kill tumor cells. Giving bevacizumab together with temozolomide and radiation therapy may kill more tumor cells.
+
+PURPOSE: This phase II trial is studying the side effects and how well giving bevacizumab together with temozolomide and external beam radiation therapy works when given as first-line therapy in treating patients with newly diagnosed glioblastoma multiforme or gliosarcoma.
+Brain and Central Nervous System Tumors
+BIOLOGICAL: bevacizumab|DRUG: temozolomide|RADIATION: external beam radiation therapy
+Overall Survival, 2 years
+Time to Disease Progression, Progression is defined using Response Evaluation Criteria In Solid Tumors Criteria (RECIST v1.0), as a 20% increase in the sum of the longest diameter of target lesions, or a measurable increase in a non-target lesion, or the appearance of new lesions., 2 years|Progression-free Survival at 6 Months, participants who were alive and disease progression free at 6 months, 6 months|Radiographic Response (When Evaluable), Radiation therapy (RT) median from diagnosis to RT. Patients will have brain MRI evaluation of response and progression every 8 weeks starting from the day 56 scan obtained 2 weeks after completion of radiation and daily temozolomide and assessment will be conducted on a 7-point scale. This scale is expected to be more useful in this study because many newly-diagnosed patients are likely not to have evaluable disease due to gross total resections. Determination of whether progression occurs based on the day 56 scan will take into account the untreated window between baseline MRI and day of 1 of study.
+
+7 Point Likert Scale: 3 to -3, 3 means complete resolution of tumor, and -3 means new lesion. A -2 or -3 assessment will be taken as tumor progression.
+
+complete resolution of tumor: 3
+
+tumor resolved 3 tumor definitely smaller: 2 tumor probably smaller: 1 tumor unchanged: 0 tumor probably worse: -1 tumor definitely worse: -2 New Lesion: -3, 2 years|Median Overall Survival (OS) Based on the MGMT Promoter Methylation Status, IDH1 and MGMT methylation are important independent prognostic biomarkers that have to be included in a Cox regression model. In addition, subgroup analysis could reveal differential sensitivities to the treatment arm. The MGMT promoter methylation status, IDH1 mutation status were not available for all of the control samples. Therefore, only the samples with both info available were included in the analysis. Baseline analysis results are included in the Baseline Characteristics module., 2 years
+OBJECTIVES:
+
+Primary
+
+* To investigate the safety and tolerability of bevacizumab in combination with temozolomide and external beam fractionated regional radiotherapy as first-line treatment in patients with newly diagnosed glioblastoma multiforme or gliosarcoma. (Pilot phase)
+* To estimate the overall survival of patients treated with this regimen. (Expansion phase)
+
+Secondary
+
+* To further investigate the safety and tolerability of this regimen in these patients. (Expansion phase)
+* To isolate DNA, RNA, and protein from frozen and paraffin-embedded archival tumor samples for evaluations, such as immunohistochemical pathway profiling of vascular endothelial growth factor (VEGF)-dependent angiogenic pathways, gene expression microarray, and O-6 methylguanine DNA methyltransferase (MGMT) promoter methylation status to define important molecular features of treatment response.
+
+OUTLINE: This is a multicenter study.
+
+Patients undergo external beam fractionated regional radiotherapy once daily 5 days a week for 6 weeks and receive concurrent oral temozolomide once daily for 6 weeks. Patients also receive bevacizumab IV over 30-90 minutes every 2 weeks beginning on the first day of radiotherapy and continuing in the absence of disease progression or unacceptable toxicity. Beginning 2-5 weeks after completion of radiotherapy, patients receive oral temozolomide on days 1-5. Treatment with temozolomide repeats every 28 days for up to 24 courses in the absence of disease progression or unacceptable toxicity.
+
+Blood and frozen and paraffin-embedded tumor tissue samples are collected for biomarker and genetic analysis.
+
+After completion of study treatment, patients are followed up periodically.

@@ -1,0 +1,31 @@
+CJNJ-67652000 and Prednisone for Treatment of Metastatic Castration-Resistant Prostate Cancer and SPOP Gene Mutations
+This phase II trial tests how well abiraterone acetate/niraparib (CJNJ-67652000 \[niraparib/abiraterone acetate fixed-dose combination\]) and prednisone works in treating patients with castration-resistant prostate cancer that has spread from where it first started (primary site) to other places in the body (metastatic) and who have a mutation in the SPOP gene. CJNJ-67652000 (niraparib/abiraterone acetate fixed-dose combination) is a drug which stops certain cancer cells from being able to repair themselves from damage, leading to the death of the cancer cell. Prednisone is in a class of medications called corticosteroids. It is used to reduce inflammation and lower the body's immune response to help lessen the side effects of chemotherapy drugs. Giving CJNJ-67652000 and prednisone may kill more tumor cells in patients with metastatic prostate cancer than giving these drugs alone.
+Castration-Resistant Prostate Carcinoma|Metastatic Prostate Adenocarcinoma|Stage IVB Prostate Cancer AJCC V8
+DRUG: Abiraterone Acetate/Niraparib|PROCEDURE: Biospecimen Collection|PROCEDURE: Bone Scan|PROCEDURE: Computed Tomography|PROCEDURE: Magnetic Resonance Imaging|DRUG: Prednisone
+Prostate specific antigen (PSA) response rate (PSA decline by >= 50% [PSA50]), PSA50 response rate is defined as \> 50% PSA decrease as compared to baseline. The proportion of PSA responses will be estimated by the number of PSA responses divided by the total number of evaluable patients. 95% exact binomial confidence intervals will be computed. The frequency and relative frequency of individual PSA response categories will also be computed. In addition, the maximum percentage change for PSA will be computed and displayed graphically via waterfall plots for individual patients., Baseline to end of treatment
+Radiologic progression-free survival (rPFS), The distribution of survival time will be estimated using the method of Kaplan-Meier. In addition, the proportional hazards model will be applied to assess rPFS while adjusting for important baseline covariates., From registration until radiologic progression or death due to any cause, assessed up to 2 years|Incidence of adverse events, The maximum grade for each type of adverse event will be recorded for each patient, and frequency tables will be reviewed to determine patterns.
+
+Additionally, the relationship of the adverse event(s) to the study treatment will be taken into consideration. The rate of grade 3 or higher non-hematologic adverse events, and the rate of grade 4 or higher adverse event (hematologic and non-hematologic) will be computed each with a 95% exact binomial confidence interval., Up to 30 days after last treatment dose|Time to progression, The distribution of progression-free survival will be estimated using the method of Kaplan-Meier., From registration to the earliest date of documentation of progression, assessed up to 2 years
+PRIMARY OBJECTIVE:
+
+I. To determine the efficacy of abiraterone acetate/niraparib (CJNJ-67652000 \[niraparib/abiraterone acetate fixed-dose combination\]) and prednisone as assessed by prostate-specific antigen decline \>= 50% (PSA50) response rate in patients with metastatic castrate-resistant prostate cancer (mCRPC) who have failed prior treatment with androgen receptor (AR)-targeted therapy and have a qualifying, deleterious SPOP mutation.
+
+SECONDARY OBJECTIVES:
+
+I. To assess the radiologic progression free survival (rPFS) of CJNJ-67652000 (niraparib/abiraterone acetate fixed-dose combination) and prednisone treatment in patients with mCRPC who have failed prior treatment with AR-targeted therapy and have a qualifying, deleterious SPOP mutation.
+
+II. To assess best radiographic response using Prostate Cancer Working Group 3 (PCWG3) criteria.
+
+III. To assess time to prostate specific antigen (PSA) progression. IV. To assess safety and tolerability using National Cancer Institute (NCI) Common Toxicity Criteria Version 5.0.
+
+CORRELATIVE RESEARCH OBJECTIVES:
+
+I. To explore the landscape of genomic alterations occurring after use of CJNJ-67652000 (niraparib/abiraterone acetate fixed-dose combination) and prednisone.
+
+II. To use blood, tissue, or organoid lines for identifying predictive biomarkers of response, investigating drug resistance mechanisms, and for future drug efficacy studies.
+
+III. To explore the relationship of other genomic alterations in the tumor tissue with overall response rate (ORR) and disease progression.
+
+OUTLINE:
+
+Patients receive CJNJ-67652000 orally (PO) and prednisone PO on study. Patients also undergo blood specimen collection, computed tomography (CT) or magnetic resonance imaging (MRI), and bone scan throughout the trial.

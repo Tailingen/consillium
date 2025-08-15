@@ -1,0 +1,31 @@
+Biomarker Trial of Everolimus in Patients With Advanced Renal Cell Carcinoma
+The purpose of this study is to determine if certain features of tumor specimens sampled prior to therapy can predict for the likelihood of responding to everolimus.
+Renal Cell Carcinoma|Renal Cancer
+DRUG: Everolimus
+Difference in Median Progression Free Survival Time Between Favorable and Unfavorable Biomarker Group, The biomarkers of interest are pS6 and pAkt. Expression will be classified as low, intermediate, or high based on a composite score of staining intensity and % of tumor cells staining positive. The difference in progression free survival (PFS) time in the "low" to "high" groups is analyzed. PFS is the time from start of treatment to disease progression (PD) or death (estimated by Kaplan Meier method)s. Patients without PD and alive are censored at last date patient is known PD-free. PD is defined by Response Evaluation Criteria In Solid Tumors Criteria 1.1 (RECIST) as follows:
+
+* \>20% increase in the sum of the diameters (SD) of target lesions, referencing the smallest SD on study (including baseline). Must be an increase of \>5 mm.
+* New lesions or PD of non-target lesions. Must be represent overall disease status change, not a single lesion increase. Patients with PD at the first on-treatment imaging assessment, will remain on study at investigator discretion until later confirmed., Follow-up time was up to 39 months from treatment start date.|Median Progression Free Survival, Progression free survival (PFS) is defined as the time from start of treatment to disease progression (PD) or death from any cause as estimated by Kaplan Meier methods. Patients who have not progressed and are alive are censored at the date the patient is known to be progression-free. Progression is defined by Response Evaluation Criteria In Solid Tumors Criteria 1.1 (RECIST) as follows:
+
+- \>20% increase in the sum of the diameters of target lesions, taking as reference the smallest sum on study (including baseline if it's the smallest). The sum must also demonstrate an increase of \>5 mm.
+
+OR
+
+-Appearance of new lesions and/or unequivocal progression of non-target lesions. It must be representative of overall disease status change, not a single lesion increase. For patients with PD at the first on-treatment imaging assessment, patients will be allowed to remain on study until confirmation at the next assessment at investigator discretion if patient is benefiting from treatment., Follow-up time was up to 39 months from treatment start date.
+Best Overall Response Rate, The best overall response rate is the percentage of participants achieving complete response (CR) or partial response (PR) as the best response recorded on treatment based on Response Evaluation Criteria In Solid Tumors Criteria (RECIST 1.1) criteria.
+
+CR and PR must meet the following lesion criteria without having any new lesions as well:
+
+Target Lesion:
+
+(CR): Disappearance of all target lesions. Any pathological lymph nodes (whether target or non-target) must have reduction in short axis to \<10 mm.
+
+(PR): At least a 30% decrease in the sum of the diameters of target lesions, taking as reference the baseline sum diameters.
+
+Non-Target Lesion:
+
+(CR): Disappearance of all non-target lesions and normalization of tumor marker level. All lymph nodes must be non-pathological in size (\<10 mm short axis).
+
+Non-CR/Non-Progressive Disease: Persistence of one or more non-target lesion(s) and/or maintenance of tumor marker level above the normal limits. Must have PR in target lesion., Evaluated while on treatment. Up to 36 months.|Best Overall Response by PI3K-AKT-MTOR Mutation, Next generation sequencing was used to identify participants with PI3K-AKT-MTOR mutations. Best overall response rate was analyzed with mutant versus wild-type pathways. Please see Best Overall Response Rate for response definition., Evaluated while on treatment. Up to 36 months
+* Participants will undergo a CT or ultrasound guided biopsy of an accessible tumor lesion before beginning the study medication.
+* Everolimus tablets will be taken orally once a day. Participants will undergo a physical exam and will be asked questions about their general health and specific questions about any problems they might be having. Photographs will be taken of the tumor to assess the response to treatment. This will be done by a CT or MRI scan. Blood tests will be performed every 4 weeks. In addition, blood for research purposes will be done on day 1 of every other cycle. A urine test will be done every 4 weeks.

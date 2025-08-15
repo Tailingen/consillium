@@ -1,0 +1,30 @@
+Ultralow Dose PET Imaging for PSMA Expression
+The goal of this clinical trial is to evaluate an investigational ultralow dose PET imaging technique for prostate cancer detection and monitoring. The main question it aims to answer is:
+
+Can the investigators optimize the timing, scan duration, and image reconstruction to reduce the radiation dose 10-100 fold of the current clinical standard?
+
+Participants will be injected with a radioactive tracer called 18F-DCFPyL and be imaged on a new type of high sensitivity PET scanner for up to 3 hours
+Healthy Volunteer|Prostate CA
+DRUG: Piflufolastat F18
+Signal-to-Noise Ratio (SNR), Measurement of signal-to-noise ratio for image quality assessment across different scan durations, reconstruction techniques, and AI-enhanced image reconstructions.
+
+Unit of Measure: SNR (unitless, numeric ratio), Evaluated annually (once per year), based on pooled images acquired during the preceding 12-month period.|Contrast-to-Noise Ratio (CNR), Measurement of contrast-to-noise ratio for image quality assessment across different scan durations, reconstruction techniques, and AI-enhanced image reconstructions.
+
+Unit of Measure: CNR (unitless, numeric ratio), Evaluated annually (once per year), based on pooled images acquired during the preceding 12-month period.|Coefficient of Variation (COV), Measurement of the coefficient of variation in selected regions for evaluating image consistency across different scan durations, reconstruction techniques, and AI-enhanced image reconstructions.
+
+Unit of Measure: Percentage (%), Evaluated annually (once per year), based on pooled images acquired during the preceding 12-month period.|Spatial Resolution (Full Width at Half Maximum - FWHM), Assessment of spatial resolution using full width at half maximum (FWHM) across different scan durations, reconstruction techniques, and AI-enhanced image reconstructions.
+
+Unit of Measure: Millimeters (mm), Evaluated annually (once per year), based on pooled images acquired during the preceding 12-month period.|Target-to-Background Ratio (TBR), Assessment of target-to-background ratio for evaluating PSMA-expressing tissue contrast across different scan durations, reconstruction techniques, and AI-enhanced image reconstructions.
+
+Unit of Measure: Ratio (unitless numeric ratio), Evaluated annually (once per year), based on pooled images acquired during the preceding 12-month period.|Qualitative Image Quality Score (Likert Scale), Independent qualitative evaluation of overall image quality, lesion detectability, image noise, and artifacts by nuclear medicine physicians, assessed using a 5-point Likert scale.
+
+Unit of Measure: Score on Likert Scale (1-5; 1 = worst, 5 = best), Evaluated annually (once per year), based on pooled images acquired during the preceding 12-month period.|Inter-reader Agreement (Weighted Kappa Statistics), Measurement of agreement among readers evaluating qualitative image quality scores, analyzed using weighted kappa statistics.
+
+Unit of Measure: Weighted kappa statistic (numeric value ranging from 0 to 1, 0 = no agreement, 1 = perfect agreement), Evaluated annually (once per year), based on pooled images acquired during the preceding 12-month period.
+This research study aims to evaluate an investigational ultralow dose PET imaging technique for prostate cancer detection and monitoring. "Investigational" means that the procedure or drug being studied is not yet approved by the FDA for the specific use being tested in this research. The PET imaging technique used in this study is considered investigational because it is being tested at an ultralow radiation dose that has not yet been approved for clinical use. The radiotracer, 18F-DCFPyL, is FDA-approved for detecting prostate cancer at standard doses.
+
+18F-DCFPyL attaches to a protein called PSMA, which is often found at higher levels on certain cancer cells, such as prostate cancer cells. In this study, investigators will use a very small amount of this tracer (less than 1/20th of the standard dose) along with advanced PET imaging technology to see if it is possible to create clear images while using much less radiation. This study aims to develop a safer imaging technique that could potentially be used more frequently for screening and monitoring prostate cancer.
+
+Investigators will enroll individuals with and without prostate cancer to evaluate how ultralow dose PET imaging detects PSMA in different type of tissue.
+
+Approximately 200 people will be enrolled in this study at the Nuclear Imaging Institute.

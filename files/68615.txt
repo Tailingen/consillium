@@ -1,0 +1,49 @@
+Effects of Using a Storybook, to Explain Leukemia to Children Versus the Standard Child Life Intervention, on Parental Stress.
+The goal of this clinical trial is to measure the effects of using a storybook versus standard child life intervention with parents of children newly diagnosed with leukemia on parental stress.
+
+The main questions it aims to answer are:
+
+* What effect will the storybook have on parent/legal guardian stress at three timepoints: baseline, discharge, and follow up?
+* Will this storybook impact parent/legal guardian comfort levels and improve their child's understanding?
+
+Participants will be asked to complete surveys at three timepoints, prior to and following child life intervention and about 3.5 months later. During child life interventions, participants will receive resources and support to explain leukemia to their school aged, 3-16-year-old, child (patient or sibling).
+
+Researchers will compare Intervention and Control Groups to see if parental stress is lower in those who received the storybook in addition to the standard child life intervention versus the standard child life intervention alone.
+Leukemia
+BEHAVIORAL: "Who is Luke Eemia?" Storybook
+Parental Stress, prior to and following child life intervention, All participating parents/legal guardians will be given the Parenting Stress Index -4 Short Form \[PSI™-4-SF\] at baseline (before child life intervention), discharge (about 1 week following the child life intervention for extended admissions), and about 3.5 months after the initial survey. The PSI™-4-SF form is a 36-item scale, available in English and Spanish. The form is broken into two domains (child and parent). The questions in the Parent Domain look at identifying sources of stress., 10 minutes at each timepoint (30 minutes total over the study).
+Parent's Comfort Explaining Aspects of Leukemia Diagnosis, All parents/legal guardians will be given the Comfort Survey to assess parent comfort levels and parent perception of their child's understanding of the leukemia diagnosis prior to receiving the child life intervention. The Comfort Survey is a non-standardized survey, designed by the PI to elicit information about parental comfort explaining the diagnosis at baseline, at Baseline|Parental Impression of the Storybook Tool using a Likert scale (1-week post baseline)., Parents/legal guardians randomized to the Intervention Group will complete the Storybook Assessment survey. The Storybook Assessment will measure the parent's overall impression of the educational storybook intervention tool., Baseline to 1 week|Parent perception of the child's stress, All participating parents/legal guardians will be given the PSI™-4-SF at baseline (before child life intervention), discharge (about 1 week following the child life intervention for extended admissions), and about 3.5 months after the initial survey. The PSI™-4-SF form is a 36-item scale, available in English and Spanish. The form is broken into two domains (child and parent). The Child Domain will explore questions around the parent's perception of the child's stress., 10 minutes at each timepoint (30 minutes total over the study).|Parent comfort, readiness, and importance, explaining aspects of the diagnosis at the discharge (1-week post baseline)., All parents/legal guardians will be given the Discharge Survey to assess the parent's perceived importance, comfort, and readiness around discussing aspects of the diagnosis with their child at the time of discharge (about 1 week following the child life intervention). The Discharge Survey will elicit information about their comfort and readiness to explain the diagnosis following child life intervention., Baseline to 1 week
+Research Design:
+
+This is a pilot randomized controlled study.
+
+Control Group will receive the standard child life care and interventions following a new leukemia diagnosis. This includes meeting one of the primary hematology oncology inpatient certified child life specialists (CCLS) to discuss patient/sibling understanding, language used, family experiences or stressors, and family goals when disclosure information about the diagnosis. Interventions may include books about cancer, personalized learning stories, or interactive activities to explain leukemia, cancer, and chemotherapy.
+
+Intervention Group will receive the standard child life care described in the Control Group above, plus the "Who Is Luke Eemia?" Storybook intervention tool created for this study. This storybook was designed by the PI to offer education on leukemia, cancer, chemotherapy, and hair loss through a child life lens. The CCLS will introduce the storybook and discuss common developmental considerations, offering parents suggestions on how to use it with their child, and answer additional questions.
+
+Study Procedures:
+
+70 Parent/Child Dyads will be enrolled in this study.
+
+The study team will screen patients upon admission to the inpatient unit, identifying patients newly diagnosed with leukemia. Eligibility criteria requires a patient or sibling to be English or Spanish speaking, and between the ages of 3-16 years of age (without any cognitive or developmental delays or chronic medical conditions). Parent participation requires child assent to enroll.
+
+Enrolled parents will be randomized in the storybook group (intervention), or the standard child life support (control). The school-aged children will be enrolled as research subjects, though all study measures will be completed by parents, including parental impression of their child's understanding.
+
+To assess the effects of the storybook intervention tool, versus the standard child life intervention, parents will complete surveys at three timepoints:
+
+Baseline:
+
+* Parenting Stress Index Short Form (PSI™-4-SF)
+* Comfort Survey
+
+Discharge:
+
+* Discharge Survey
+* Storybook Assessment (Intervention Group Only)
+* The Parenting Stress Index Short Form (PSI™-4-SF)
+
+Follow Up (about 3.5 months after Baseline):
+
+- The Parenting Stress Index Short Form (PSI™-4-SF)
+
+Summary statistics means, medians, standard deviations and interquartile range will be calculated to summarize variables, we will trend data using graphs, and we will perform pre planned statistical tests in R.

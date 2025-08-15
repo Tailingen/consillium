@@ -1,0 +1,17 @@
+Icotinib as First-line and Maintenance Treatment in EGFR Mutated Patients With Lung Adenocarcinoma
+This study is designed to compare the efficacy and safety of first-line icotinib treatment and first-line chemotherapy followed by maintenance treatment with icotinib.
+EGFR Positive Non-small Cell Lung Cancer|Adenocarcinoma
+DRUG: Experimental|DRUG: Chemotherapy|DRUG: Chemotherapy
+Progression-free survival, PFS was defined as the time from the date of first dose of study medication to the date of first documentation of tumor progression or death due to any cause, whichever occurred first., 8 months
+Overall survival, OS was assessed via calculation of the time to death due to any cause from the date of randomization. A patient was censored at the last date they were known to be alive., 24 months|Time to Tumor Progression, TTP was defined as the time from the date of first dose of study medication to first documentation of objective tumor progression. If tumor progression data included more than 1 date, the first date was used. TTP (in weeks) was calculated as (first event date minus first dose date +1)/7. Kaplan-Meier method was used., 8 months|Objective response rate, Number of Subjects With Overall Confirmed Objective Disease Response According to the Response Evaluation Criteria in Solid Tumors(RECIST)1.1., 3 months|Number of participants with adverse events, Adverse events assessed by CTCAE4.0., 24 months
+This study is designed to compare the efficacy and safety of first-line icotinib treatment and first-line chemotherapy followed by maintenance with icotinib.
+
+Primary endpoint:
+
+Progression-free survival between first-line icotinib treatment and first-line chemotherapy followed by maintenance with icotinib
+
+Secondary endpoint:
+
+1. Overall survival between icotinib and chemotherapy
+2. Time to Progression between icotinib and chemotherapy
+3. Objective response rate and disease control rate between icotinib and chemotherapy

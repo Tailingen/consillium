@@ -1,0 +1,22 @@
+Ketoconazole in Treating Participants With Ongoing EGFR Inhibitor-Induced Rash
+This early phase I trial studies the side effects of ketoconazole and how well it works in treating participants with ongoing EGFR inhibitor-induced rash. Ketoconazole may reduce the symptoms related to EGFR inhibitor therapy and improve EGFR inhibitor-induced rash.
+Malignant Neoplasm
+DRUG: Ketoconazole|OTHER: Laboratory Biomarker Analysis|OTHER: Placebo Administration|OTHER: Quality-of-Life Assessment|OTHER: Questionnaire Administration
+Proportion of patients who report an improvement in skin rash, Assessed by Skindex-16. Will be estimated using the cumulative incidence function with time to improvement defined as the time from randomization to the first of the two consecutive weeks of improved symptom. The cumulative incidence of rash improvement after 4 weeks of treatment will be summarized separately by treatment arm. The difference in rash improvement incidences will be estimated and will be compared using two-sample Z-test., Up to 4 weeks
+Incidence of skin toxicity, As measured by the Skindex-16. Responses to the Skindex-16 will be categorized into three subscales: symptom, emotional, and functional. Analysis of the total scales and subscales of the Skindex-16 will involve a t-test and Wilcoxon rank sum procedures (as appropriate) at each time point as well as linear mixed modeling. Descriptive factors will be used as covariates in the modeling analysis. The change from baseline in the total score and subscales of the Skindex-16 will be compared between two arms by a two-sample, two-sided t-test. If there is evidence of non-normality (via Shapiro-Wilk testing), a non-parametric procedure such as Wilcoxon rank sum will be used., Up to 4 weeks|Incidence of skin toxicity, As measured by the Skin Toxicity Assessment Tool (STAT). Responses to the STAT will be categorized into three subscales: symptom, emotional, and functional. Analysis of the total scales and subscales of the STAT will involve a t-test and Wilcoxon rank sum procedures (as appropriate) at each time point as well as linear mixed modeling. Descriptive factors will be used as covariates in the modeling analysis. The change from baseline in the total score and subscales of the STAT will be compared between two arms by a two-sample, two-sided t-test. If there is evidence of non-normality (via Shapiro-Wilk testing), a non-parametric procedure such as Wilcoxon rank sum will be used., Up to 4 weeks|Incidence of adverse events for ketoconazole, Adverse events will be tabulated by treatment arm. Frequencies of various types of adverse events (AEs) will be compared using Fisher's exact test. Will explore the difference in reliability of the direct versus (vs.) indirect AE attribution approaches in the placebo arm., Up to 4 weeks
+Change in PLA2G4D, PLOD2, and SALL4, Assessed by ribonucleic acid (RNA) sequencing. Will explore the association between baseline/change in PLA2G4D, PLOD2, and SALL4 with rash improvement. Baseline gene expression level and change from baseline in gene expression level for the androgen-related genes such as PLA2G4D, PLOD2, and SALL4 will be compared between arms by t-test and Wilcoxon rank sum procedures (as appropriate). Mixed Models for Logistic Regression will also be implemented to explore the association between PLA2G4D, PLOD2, and SALL4 with rash improvement by adjusting the baseline gene expression level and change from baseline in gene expression levels for each gene. Descriptive factors will be used as covariates in the modeling analysis., Baseline up to 4 weeks
+PRIMARY OBJECTIVES:
+
+I. To demonstrate that topical ketoconazole, an anti-androgen, palliates EGFR inhibitor-induced rash within a group of racially diverse cancer patients.
+
+II. To explore the role of ribonucleic acid (RNA) sequencing to identify other targets that might be used at a later date for rash palliation.
+
+III. To evaluate toxicities associated with topical ketoconazole.
+
+OUTLINE: Participants are randomized to 1 of 2 arms.
+
+ARM I: Participants apply ketoconazole topically twice daily (BID) on days 1-28.
+
+ARM II: Participants apply placebo topically BID on days 1-28.
+
+After completion of study treatment, participants are followed up at 1 week.

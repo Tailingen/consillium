@@ -1,0 +1,30 @@
+Comparison of Flat Colorectal Lesion Detection by Artificial Intelligence-assisted Colonoscopy Versus Endoscopists
+The development of artificial intelligence (AI) systems in the field of colorectal endoscopy is currently booming, colorectal cancer being, by its frequency and severity, a real public health problem.
+
+In terms of image analysis, AI is indeed able to perform many tasks simultaneously (lesion detection, classification, and segmentation) and to combine them.
+
+Lesion detection is thus the starting point of the whole chain to choose at the end the most appropriate treatment for the patient. Large-scale studies have demonstrated the superiority of artificial intelligence-assisted detection over the usual detection by gastroenterologists, mainly for the detection of sub-centimeter polyps.
+
+However, the investigators have shown that a recent computer-aided detection system (CADe) such as the ENDO-AID software in combination with the EVIS X1 video column (Olympus, Tokyo, Japan) may present difficulties in the detection of flat lesions such as sessile serrated lesions (SSLs) and non-granular laterally spreading tumors (LST-NGs).
+
+This represents a major challenge because in addition to their shape being difficult to identify for the human eye in practice and where AI assistance would be of great value, these rare lesions are associated with advanced histology.
+
+In addition, the investigators recently described the case of a worrisome false negative of AI-assisted colonoscopy, which failed to detect a flat adenocarcinoma in the transverse colon.
+
+Therefore, it is important to measure the false negative rate of AI detection based on the macroscopic shape of the lesion. Comparing this rate to the human endoscopist's false negatives would improve the performance of AI for this specific lesion subtype in the future.
+Flat Colorectal Lesion
+PROCEDURE: proportion of colorectal lesions
+Evaluation of the proportion of colorectal lesions, Evaluation of the proportion of colorectal lesions detected by a computer-aided detection system (CADe) compared with experienced endoscopists and correlation with final histology reading., Time point can be reached either 2 weeks after endoscopic resection or between 2-4 months later in case of surgery
+The development of artificial intelligence (AI) systems in the field of colorectal endoscopy is currently booming, colorectal cancer being, by its frequency and severity, a real public health problem.
+
+In terms of image analysis, AI is indeed able to perform many tasks simultaneously (lesion detection, classification, and segmentation) and to combine them.
+
+Lesion detection is thus the starting point of the whole chain to choose at the end the most appropriate treatment for the patient. Large-scale studies have demonstrated the superiority of artificial intelligence-assisted detection over the usual detection by gastroenterologists, mainly for the detection of sub-centimeter polyps.
+
+However, the investigators have shown that a recent computer-aided detection system (CADe) such as the ENDO-AID software in combination with the EVIS X1 video column (Olympus, Tokyo, Japan) may present difficulties in the detection of flat lesions such as sessile serrated lesions (SSLs) and non-granular laterally spreading tumors (LST-NGs).
+
+This represents a major challenge because in addition to their shape being difficult to identify for the human eye in practice and where AI assistance would be of great value, these rare lesions are associated with advanced histology.
+
+In addition, the investigators recently described the case of a worrisome false negative of AI-assisted colonoscopy, which failed to detect a flat adenocarcinoma in the transverse colon.
+
+Therefore, it is important to measure the false negative rate of AI detection based on the macroscopic shape of the lesion. Comparing this rate to the human endoscopist's false negatives would improve the performance of AI for this specific lesion subtype in the future.

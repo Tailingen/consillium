@@ -1,0 +1,81 @@
+Clinical Relevance of Pathologic Regression IN Lymph Node for Locally Advanced Rectal Cancer
+We evaluated all related clinical and pathologic data of patients with Locally Advanced Rectal Cancer following Neoadjuvant Chemoradiotherapy, including the pathologic regression grading in the primary tumor site and lymph node, and other histopathologic characteristics. Finally, the present study was aimed at (1) clarifying the clinical significance of the Major Pathologic Regression for Locally Advanced Rectal Cancer following Locally Advanced Rectal Cancer in the primary tumor site and lymph node, and (2) comparing different Neoadjuvant Chemoradiotherapy treatments of this uncommon disease through conducting a large, multi-center cohort study.
+Rectal Cancer|Lymph Node Metastasis
+PFS, Progression free survival, 10 years|OS, Overall survival, 10 years
+This large-scale, multi-center cohort study investigates the clinical significance of Pathologic Regression in lymph nodes (LNs) of patients with Locally Advanced Rectal Cancer (LARC) following Neoadjuvant Chemoradiotherapy (NCRT). Additionally, it compares the efficacy of diverse NCRT regimens in achieving pathologic regression and improving survival outcomes.
+
+Study Design Type: Retrospective and prospective observational cohort study. Setting: Multi-center collaboration across 14 academic and community hospitals. Timeframe: Data from patients treated between 2014 and 2025 will be analyzed, with prospective follow-up ongoing until 2026.
+
+Primary Objectives
+
+Clarify the clinical significance of tumor regression in LN:
+
+Define MPR thresholds for both primary tumor (e.g., ≤10% residual viable tumor) and lymph nodes (e.g., complete LN regression \[ypN-Reg+\] versus residual LN disease \[ypN+\]).
+
+Correlate MPR status in the primary tumor and LNs with long-term outcomes:
+
+Primary endpoints: Progression-Free Survival (PFS), Overall Survival (OS). Secondary endpoints: Local recurrence rate, distant metastasis-free survival.
+
+Compare NCRT regimens:
+
+Evaluate differences in MPR rates and survival outcomes between fluoropyrimidine-based, oxaliplatin-containing, and immunotherapy-augmented NCRT protocols.
+
+Assess the impact of radiation dose escalation (e.g., 50.4 Gy vs. 45 Gy) on pathologic regression.
+
+Study Population
+
+Inclusion Criteria:
+
+Adults (≥18 years) with histologically confirmed LARC (clinical stage II-III). Completion of NCRT followed by total mesorectal excision (TME). Availability of standardized pathologic reports and digitized whole-slide images (WSIs) for both primary tumor and LNs.
+
+Exclusion Criteria:
+
+Metastatic disease at diagnosis. Incomplete NCRT or surgical resection. Data Collection
+
+Clinical Variables:
+
+Demographics, NCRT regimen (drugs, doses, duration), surgical complications, adjuvant therapy, recurrence patterns.
+
+Pathologic Variables:
+
+Primary tumor: Residual viable tumor percentage, necrosis extent, tumor-infiltrating lymphocyte (TLS) density.
+
+Lymph nodes: Regression grading (ypN-Reg+/-), number of regressed vs. metastatic LNs.
+
+AI-driven quantitative analysis: Necrosis-to-tumor ratio (NECR-TD), TLS-to-necrosis ratio (T/NR), and spatial distribution of regressive features (Figure S2).
+
+Imaging and Biomarkers:
+
+Pre-treatment MRI-based tumor staging, post-treatment radiomic features (if available).
+
+Statistical Analysis
+
+Survival Analysis:
+
+Kaplan-Meier curves and multivariable Cox regression to identify predictors of DFS/OS, adjusting for age, stage, and treatment regimen.
+
+Subgroup analysis of LN regression (ypN-Reg+ vs. ypN-Reg-) in patients with ypN0 status.
+
+Comparative Effectiveness:
+
+Propensity score matching to balance baseline characteristics across NCRT regimens.
+
+Meta-analysis of pooled multi-center data to assess heterogeneity in treatment effects.
+
+Machine Learning:
+
+Develop prognostic models integrating MPR status, histopathologic parameters, and clinical variables.
+
+Ethical Considerations Approved by the Institutional Review Boards (IRBs) of all participating centers Innovation and Impact
+
+Dual Focus on Primary Tumor and LNs:
+
+First study to evaluate MPR thresholds simultaneously in primary tumor and LNs, addressing their independent prognostic roles.
+
+Translational Insights:
+
+Link LN regression to systemic immune responses (e.g., abscopal effect) and molecular heterogeneity between primary and metastatic sites.
+
+Clinical Utility:
+
+Provide evidence for standardizing MPR definitions in LARC and optimizing NCRT regimens based on tumor biology.

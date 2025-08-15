@@ -1,0 +1,11 @@
+Afatinib Osimertinib Sequencing NIS
+This is a non-interventional, multi-country, multi-centre cohort study based on existing data from medical records of patients with EGFR mutation-positive advanced NSCLC treated with afatinib (Gi(l)otrif®) as the first-line treatment followed by osimertinib in case the T790M resistance mutation was developed.
+Carcinoma, Non-Small-Cell Lung
+DRUG: Afatinib|DRUG: Osimertinib
+Time on Treatment With Afatinib (Gi(l)Otrif®) Followed by Osimertinib, Time on treatment, which was defined as time in months from the start date of Afatinib (Gi\[l\]otrif®) treatment ('start date of initial dose' for First-Line Treatment) to the end date of Osimertinib treatment (maximum between 'end date of initial dose' and the last 'end date of dose modification' for Second-Line Treatment) or death date due to any cause ('date of death').
+
+Time on treatment (months) = Time on treatment (days)/30.4375.
+
+'Time on treatment was analysed using Kaplan-Meier method, and the median along with two-sided 90% confidence interval was displayed using the Greenwood's formula for estimation of standard errors., Data collected from start of treatment until data entry completion, up to 96.8 months for first analysis and up to 114.1 months for the extension analysis.
+The Percentage of Participants With Different Types of Mutations After Categorisation, Different types of resistance mutations identified at the time of discontinuation of osimertinib treatment were systematically reviewed and categorised., Data collected from start of treatment until data entry completion; up to 96.8 months.
+This is a non-interventional, multi-country, multi-centre cohort study based on existing data from medical records of patients with EGFR mutation-positive advanced NSCLC treated with afatinib (Gi(l)otrif®) as the first-line treatment followed by osimertinib in case the T790M resistance mutation was developed.

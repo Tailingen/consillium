@@ -1,0 +1,27 @@
+The PLATINUM Trial: Optimizing Chemotherapy for the Second-Line Treatment of Metastatic BRCA1/2 or PALB2-Associated Metastatic Pancreatic Cancer
+This phase II/III trial compares the effect of the 3-drug chemotherapy combination of nab-paclitaxel, gemcitabine, plus cisplatin versus the 2-drug chemotherapy combination of nab-paclitaxel plus gemcitabine for the treatment of patients with pancreatic cancer that has spread to other places in the body (metastatic) and a known genetic mutation in the BRCA1, BRCA2, or PALB2 gene.
+Pancreatic Acinar Cell Carcinoma|Pancreatic Adenocarcinoma|Pancreatic Adenosquamous Carcinoma|Pancreatic Carcinoma|Pancreatic Ductal Adenocarcinoma|Pancreatic Squamous Cell Carcinoma|Stage IV Pancreatic Cancer AJCC v8
+DRUG: Nab paclitaxel|DRUG: Gemcitabine|DRUG: Cisplatin|PROCEDURE: Magnetic Resonance Imaging|PROCEDURE: Computed Tomography|PROCEDURE: Biospecimen Collection
+Overall response rate (ORR) (Phase II), Will be assessed by the proportion of patients who achieve complete response (CR) or partial response (PR) per Response Evaluation Criteria in Solid Tumors version 1.1 (RECIST v1.1) during the protocol treatment. Fisher's exact test will be conducted based on the first 32 patients in each arm who meet PP population criteria., Up to 12 months|Overall Survival (OS) (Phase III), Will be conducted on modified intention-to-treat population. Stratified Cox model will be constructed to compare OS in the experimental arm to OS in the control arm., From the date of randomization to the date of death due to all causes, assessed up to 5 years
+Progression-free survival, Will be assessed per RECIST 1.1. Will be estimated, in each arm, using the method of Kaplan-Meier and compared by stratified Cox regression model., From the date of randomization to the date of first documented disease progression or death due to all causes, whichever occurs first, assessed up to 5 years|Incidence of adverse events, The maximum grade for each type of adverse events that are possibly, probably, or definitely related to study treatments will be recorded for each patient., Up to 30 days after the last dose of study treatment
+PRIMARY OBJECTIVES:
+
+I. To evaluate and compare overall response rate (ORR) in patients with BRCA1/2 or PALB2 mutant pancreas cancer whose disease has progressed on front-line fluorouracil, irinotecan, leucovorin and oxaliplatin (FOLFIRINOX) treated with nab-paclitaxel, gemcitabine, and cisplatin (NABPLAGEM) = nab-paclitaxel, gemcitabine, and cisplatin (arm 1) versus nab-paclitaxel and gemcitabine (arm 2). (Phase II) II. To evaluate and compare overall survival (OS) time in patients with BRCA1/2 or PALB2 mutant whose disease has progressed on front-line FOLFIRINOX treated with 1) NABPLAGEM = nab-paclitaxel, gemcitabine, and cisplatin (arm 1) versus nab-paclitaxel and gemcitabine (arm 2). (Phase III)
+
+SECONDARY OBJECTIVES:
+
+I. To evaluate and compare progression-free survival (PFS) per Response Evaluation Criteria in Solid Tumors 1.1 (RECIST 1.1) criteria between 2 treatment arms.
+
+II. To evaluate and compare duration of response (DoR) between 2 treatment arms.
+
+III. To evaluate and compare CA19-9 response (defined as patients with a baseline CA19-9 \>= 2x upper limit of normal (ULN) who demonstrate a minimum 25% decrease in CA19-9 at any time point) between 2 treatment arms.
+
+IV. To evaluate and compare toxicity profile as assessed by treating clinicians between 2 treatment arms.
+
+OUTLINE: Patients are randomized to 1 of 2 arms.
+
+ARM I: Patients receive nab-paclitaxel intravenously (IV) over 30-40 minutes, gemcitabine IV over 30-40 minutes, and cisplatin IV over 30-60 minutes on days 1 and 15 of each cycle. Cycles repeat every 28 days in the absence of disease progression or unacceptable toxicity. Patients also undergo magnetic resonance imaging (MRI) or computed tomography (CT) throughout the trial. Patients may optionally undergo blood sample collection at baseline and on study.
+
+ARM II: Patients receive nab-paclitaxel IV over 30-40 minutes and gemcitabine IV over 30-40 minutes on days 1 and 15 of each cycle. Cycles repeat every 28 days in the absence of disease progression or unacceptable toxicity. Patients also undergo MRI or CT throughout the trial. Patients may optionally undergo blood sample collection at baseline and on study.
+
+After completion of study treatment, patients are followed up within 30 days and then every 3 months for 2 years or until death, whichever comes first.

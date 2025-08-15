@@ -1,0 +1,48 @@
+Atezolizumab and CYT107 in Treating Participants With Locally Advanced, Inoperable, or Metastatic Urothelial Carcinoma
+This phase II trial studies how well atezolizumab when given with glycosylated recombinant human interleukin-7 (CYT107) works in treating patients with urothelial carcinoma that has spread to nearby tissue or lymph nodes (locally advanced), cannot be removed by surgery (inoperable), or has spread to other places in the body (metastatic). Immunotherapy with monoclonal antibodies, such as atezolizumab, may help the body's immune system attack the cancer, and may interfere with the ability of tumor cells to grow and spread. CYT107 is a biological product naturally made by the body that may stimulate the immune system to destroy tumor cells. Giving atezolizumab and CYT107 may work better in treating patients with locally advanced, inoperable, or metastatic urothelial carcinoma compared to atezolizumab alone.
+Advanced Bladder Urothelial Carcinoma|Advanced Ureter Urothelial Carcinoma|Metastatic Bladder Urothelial Carcinoma|Metastatic Renal Pelvis Urothelial Carcinoma|Metastatic Ureter Urothelial Carcinoma|Metastatic Urethral Urothelial Carcinoma|Metastatic Urothelial Carcinoma|Recurrent Bladder Urothelial Carcinoma|Recurrent Renal Pelvis Urothelial Carcinoma|Recurrent Ureter Urothelial Carcinoma|Recurrent Urethral Urothelial Carcinoma|Stage III Bladder Cancer AJCC v8|Stage III Renal Pelvis Cancer AJCC v8|Stage III Ureter Cancer AJCC v8|Stage III Urethral Cancer AJCC v8|Stage IV Bladder Cancer AJCC v8|Stage IV Renal Pelvis Cancer AJCC v8|Stage IV Ureter Cancer AJCC v8|Stage IV Urethral Cancer AJCC v8|Stage IVA Bladder Cancer AJCC v8|Stage IVB Bladder Cancer AJCC v8|Unresectable Bladder Urothelial Carcinoma|Unresectable Renal Pelvis Urothelial Carcinoma|Unresectable Ureter Urothelial Carcinoma
+DRUG: Atezolizumab|PROCEDURE: Biopsy|PROCEDURE: Biospecimen Collection|PROCEDURE: Computed Tomography|BIOLOGICAL: Glycosylated Recombinant Human Interleukin-7|OTHER: Laboratory Biomarker Analysis|PROCEDURE: Magnetic Resonance Imaging|PROCEDURE: Positron Emission Tomography and Computed Tomography Scan
+Objective Response Rate (ORR), ORR is defined as the proportion of patients who have achieved Complete Response (CR) - disappearance of all target lesions or Partial Response (PR) - \>=30% decrease in the sum of the longest diameter of target lesions according to Response Evaluation Criteria in Solid Tumors (RECIST) version 1.1; Overall Response (OR) = CR + PR., Up to 2 years
+Clinical Benefit Rate (CBR) Measured by RECIST v1.1, CBR is defined as the percentage of patients with advanced or metastatic cancer who have achieved CR (disappearance of all target lesions), PR (\>=30% decrease in the sum of the longest diameter of target lesions), and stable disease (SD) (neither sufficient shrinkage to qualify for PR nor sufficient increase to qualify for disease progression, taking as reference the smallest sum diameters of target lesions) according to Response Evaluation Criteria in Solid Tumors (RECIST) version 1.1; CBR = CR + PR + SD.
+
+Will also assess CBR in patients stratified by PD-L1 expression levels in the tumor microenvironment., Up to 2 years|Progression-free Survival (PFS), Progression is defined, per RECIST v1.1, as a 20% increase in the sum of the longest diameter of target lesions (the sum must demonstrate an absolute increase of at least 5 mm), or the appearance of new lesions and/or unequivocal progression of non-target lesions.
+
+PFS will be summarized using Kaplan-Meier estimates. Will also assess PFS in patients stratified by PD-L1 expression levels in the tumor microenvironment., Time from start of treatment to time of progression or death, whichever occurs first, assessed up to 2 years.|Duration of Response (DOR), DOR is measured by RECIST v1.1. DOR will be summarized using Kaplan-Meier estimates. Will also assess DOR in patients stratified by PD-L1 expression levels in the tumor microenvironment., Time interval between the date of first response (CR/PR) and the date of progression, assessed up to 2 years.|Overall Survival (OS), OS will be summarized using Kaplan-Meier estimates. Will also assess OS in patients stratified by PD-L1 expression levels in the tumor microenvironment., Time interval between start of treatment to death due to any cause, assessed up to 48 months.
+Assessment of Investigation Treatment Combination on the Immune-bias of the Tumor Microenvironment, The evaluation of the effect of the investigation treatment combination on the immune-bias of the tumor microenvironment, based upon baseline and post-baseline tumor biopsy comparisons of number, distribution, and phenotype of tumor-infiltrating cells; PD-L1 expression, and expression of Interferon gamma (IFN-gamma) and associated proinflammatory gene expression in the tumor microenvironment., Up to 2 years
+PRIMARY OBJECTIVE:
+
+I. To determine the clinical efficacy of the investigational treatment combination.
+
+SECONDARY OBJECTIVES:
+
+I. To determine the clinical activity and toxicity of the investigational treatment combination.
+
+II. The clinical benefit rate (CBR), progression-free survival (PFS), duration of response (DOR), as measured by Response Evaluation Criteria in Solid Tumors (RECIST) 1.1 and immune-related response criteria (irRC), and overall survival (OS).
+
+III. The CBR, PFS, DOR, and OS in all patients and patients stratified by PD-L1 expression levels in the tumor microenvironment.
+
+IV. The safety and toxicity of addition of CYT107 to atezolizumab.
+
+EXPLORATORY OBJECTIVES:
+
+I. To determine the immune correlates of the clinical activity of the investigational treatment combination.
+
+II. Explore the effect of the investigational treatment combination on the number and phenotype of tumor-specific T cells in the peripheral blood.
+
+III. Investigate for evidence that the investigational treatment combination increases the exposure of bladder cancer-specific antigens (e.g., cancer/testis antigens or neoantigens).
+
+IV. Investigate changes in tumor microenvironment that correlate with response or provide information on potential actionable causes for lack of clinical benefit.
+
+V. Investigate the potential that administration of atezolizumab with CYT107 may perturb the pharmacokinetics and immunogenicity of CYT107.
+
+OUTLINE:
+
+SAFETY RUN-IN PHASE: Patients assigned to the experimental arm (atezolizumab + CYT107). If the treatment combination of the experimental arm demonstrates an acceptable safety profile in the Safety Run-In (one or fewer patient experiences a protocol-defined Dose Limiting-Toxicity), randomized enrollment into the trial will begin. The Run-in phase patients will be analyzed and reported separately both for safety and for efficacy.
+
+Patients are randomized to 1 of 2 groups.
+
+GROUP 1 (experimental arm): Patients receive CYT107 intramuscularly (IM) on days 1, 8, 15, and 22, and atezolizumab intravenously (IV) over 60 minutes on day 8 of cycle 1. Following cycle 1, patients receive atezolizumab IV over 30-60 minutes on day 1. Cycles with atezolizumab repeat every 21 days for up to 2 years in the absence of disease progression or unacceptable toxicity. Patients also undergo computed tomography (CT) and/or magnetic resonance imaging (MRI) scans, and collection of blood and stool samples on study. Patients may also undergo tumor biopsy at screening and on study.
+
+GROUP 2 (control arm): Patients receive atezolizumab IV over 60 minutes on cycle 1. Following cycle 1, patients receive atezolizumab IV over 30-60 minutes on day 1. Cycles repeat every 21 days for up to 2 years in the absence of disease progression or unacceptable toxicity. Patients also undergo CT and/or MRI scans, and collection of blood and stool samples on study. Patients may also undergo tumor biopsy at screening and on study.
+
+After completion of study treatment, patients are followed up at 30 days and then every 12 weeks for up to 2 years.

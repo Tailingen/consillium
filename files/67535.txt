@@ -1,0 +1,35 @@
+Pembrolizumab With or Without Chemotherapy Before Surgery in Treating Patients With Stage I-IIIA Non-Small Cell Lung Cancer
+This phase II trial studies how well pembrolizumab with or without chemotherapy works when given before surgery in treating patients with stage I-IIIA non-small cell lung cancer. Immunotherapy with pembrolizumab, may induce changes in body?s immune system and may interfere with the ability of tumor cells to grow and spread. Drugs used in chemotherapy, such as cisplatin and pemetrexed, work in different ways to stop the growth of tumor cells, either by killing the cells, by stopping them from dividing, or by stopping them from spreading. Giving pembrolizumab with or without chemotherapy may shrink the cancer prior to surgery and decrease the likelihood of the cancer returning following surgery.
+Lung Non-Small Cell Carcinoma|Stage I Lung Cancer AJCC v8|Stage IA1 Lung Cancer AJCC v8|Stage IA2 Lung Cancer AJCC v8|Stage IA3 Lung Cancer AJCC v8|Stage IB Lung Cancer AJCC v8|Stage II Lung Cancer AJCC v8|Stage IIA Lung Cancer AJCC v8|Stage IIB Lung Cancer AJCC v8|Stage IIIA Lung Cancer AJCC v8
+DRUG: Cisplatin|BIOLOGICAL: Pembrolizumab|DRUG: Pemetrexed|DRUG: Pemetrexed Disodium|PROCEDURE: Therapeutic Conventional Surgery
+Proportion of patients with a >= 2-fold increase in the number of tumor-infiltrating immune cells (TIICs) in post- versus (vs.) pre-pembrolizumab treatment tumor specimens, Will be summarized by descriptive statistics (median and range)., Up to 2 years
+Proportion of participants reporting treatment-related adverse events (AEs), AEs determined to be treatment-related will be assessed by using National Cancer Institute (NCI) Common Terminology Criteria for Adverse Events (CTCAE) version 5.0., Up to 2 years|Overall Response Rate, Response rate is the proportion of participants with a complete response or partial response as defined by Response Evaluation Criteria in Solid Tumors (RECIST) version 1.1., Up to 2 years|Clinical Benefit Rate, Clinical benefit rate is defined as the proportion of participants with a complete response, partial response, or stable disease as defined by Response Evaluation Criteria in Solid Tumors (RECIST) version 1.1., Up to 2 years|Median Progression-Free Survival (PFS), Median PFS following surgical resection is defined as the time from objective response (complete response or partial response) to the time in which a diagnosis of disease progression has occurred. Kaplan-Meier estimates will be generated and participants will be censored at 12 months., 12 months|Median Progression-Free Survival (PFS), Median PFS following surgical resection is defined as the time from objective response (complete response or partial response) to the time in which a diagnosis of disease progression has occurred. Kaplan-Meier estimates will be generated and participants will be censored at 24 months., 24 months
+PRIMARY OBJECTIVES:
+
+I. To determine the impact of neoadjuvant pembrolizumab-based combination therapy on the composition, phenotype, and function of tumor-infiltrating immune cells (TIICs) in patients with early stage non-small cell lung cancer (NSCLC).
+
+SECONDARY OBJECTIVES:
+
+I. To determine the safety and tolerability of neoadjuvant pembrolizumab alone and in combination with chemotherapy as measured by the National Cancer Institute (NCI) Common Terminology Criteria for Adverse Events (CTCAE) 5.0.
+
+II. To determine the clinical efficacy of neoadjuvant pembrolizumab alone and in combination with chemotherapy.
+
+EXPLORATORY OBJECTIVES:
+
+I. To explore the relationship between changes in TIICs and clinical efficacy in patients with early stage NSCLC treated with neoadjuvant pembrolizumab-based combination therapy.
+
+II. To characterize changes in the frequency and number of circulating immune cells induced by neoadjuvant pembrolizumab-based combination therapy in patients with early stage NSCLC.
+
+III. To determine the impact of neoadjuvant pembrolizumab-based combination therapy on the composition and phenotype of the tumor microenvironment (including tumor and stromal cells) in patients with NSCLC.
+
+III. To determine the change in T cell repertoire within the tumor and blood induced by neoadjuvant pembrolizumab-based combination therapy in patients with early stage NSCLC.
+
+IV. To explore molecular profiles to identify potentially predictive biomarkers for patients with early stage NSCLC treated with immunotherapy.
+
+OUTLINE: Patients are assigned to 1 of 2 cohorts.
+
+COHORT A: Patients receive pembrolizumab intravenously (IV) over 30 minutes on day 1. Treatment repeats every 21 days for up to 2 cycles in the absence of disease progression or unacceptable toxicity. Patients then undergo surgery within 4 weeks following study treatment.
+
+COHORT B: Patients receive pembrolizumab IV over 30 minutes and chemotherapy (cisplatin/pemetrexed) IV on day 1. Treatment repeats every 21 days for up to 2 cycles in the absence of disease progression or unacceptable toxicity. Patients then undergo surgery within 4 weeks following study treatment.
+
+After completion of study treatment, patients are followed up every 3 months for up to 2 years.

@@ -1,0 +1,73 @@
+MRI-Guided Adaptive Radiation Therapy for Organ Preservation in Rectal Cancer
+This study is a prospective, open-label, phase I design.
+Rectal Adenocarcinoma
+DRUG: Capecitabine|DEVICE: Initial Dose of Radiation before Dose Escalation|DEVICE: Cohort A: Dose Escalation Radiation|DEVICE: Cohort B: Dose Escalation Radiation|DEVICE: Cohort C: Dose Escalation Radiation|DRUG: FOLFOX
+The number of subjects in Cohort A with serious adverse events during radiation., This will be measured by NCI Common Terminology Criteria for Adverse Events (CTCAE v5.0). Grades 3, 4 and 5 will be serious., Up to 11.5-week period|The number of subjects in Cohort B with serious adverse events during radiation., This will be measured by NCI Common Terminology Criteria for Adverse Events (CTCAE v5.0). Grades 3, 4 and 5 will be serious., Up to 11.5-week period|The number of subjects in Cohort C with serious adverse events during radiation., This will be measured by NCI Common Terminology Criteria for Adverse Events (CTCAE v5.0). Grades 3, 4 and 5 will be serious., Up to a 12.1-week period.
+The number of subjects in Cohort A with a complete clinical response (CCR) to treatment., Four weeks following completion of chemotherapy, radiation therapy (RT), and neoadjuvant systemic chemotherapy, the patient will be evaluated by the study surgeon to assess local response.
+
+CCR is defined as meeting the following criteria:
+
+1. No palpable tumor on digital exam.
+2. Endoscopic evaluation consistent with the following.
+
+   1. Flat scar with no ulceration and intact mucosa.
+   2. Disappearance of neoplastic pit pattern without use of magnification.
+   3. Disappearance of neoplastic nodule or stenosis., 31.5 weeks|The number of subjects in Cohort B with a complete clinical response (CCR) to treatment., Four weeks following completion of chemotherapy, RT, and neoadjuvant systemic chemotherapy, the patient will be evaluated by the study surgeon to assess local response.
+
+CCR is defined as meeting the following criteria:
+
+1. No palpable tumor on digital exam.
+2. Endoscopic evaluation consistent with the following.
+
+   1. Flat scar with no ulceration and intact mucosa.
+   2. Disappearance of neoplastic pit pattern without use of magnification.
+   3. Disappearance of neoplastic nodule or stenosis., 31.5 weeks|The number of subjects in Cohort C with a complete clinical response (CCR) to treatment., Four weeks following completion of chemotherapy, RT, and neoadjuvant systemic chemotherapy, the patient will be evaluated by the study surgeon to assess local response.
+
+CCR is defined as meeting the following criteria:
+
+1. No palpable tumor on digital exam.
+2. Endoscopic evaluation consistent with the following.
+
+   1. Flat scar with no ulceration and intact mucosa.
+   2. Disappearance of neoplastic pit pattern without use of magnification.
+   3. Disappearance of neoplastic nodule or stenosis., 32.1 weeks|The number of subjects in Cohort A with a noncomplete response (NCR) to treatment., Four weeks following completion of chemotherapy, RT, and neoadjuvant systemic chemotherapy, the patient will be evaluated by the study surgeon to assess local response.
+
+A noncomplete clinical response is defined as any state not meeting the following criteria:
+
+1. No palpable tumor on digital exam.
+2. Endoscopic evaluation consistent with the following.
+
+   1. Flat scar with no ulceration and intact mucosa.
+   2. Disappearance of neoplastic pit pattern without use of magnification.
+   3. Disappearance of neoplastic nodule or stenosis. If the tumor site does not meet the above criteria, the patient will be classified as noncomplete response (NCR)., 31.5 weeks|The number of subjects in Cohort B with a noncomplete response (NCR) to treatment., Four weeks following completion of chemotherapy, RT, and neoadjuvant systemic chemotherapy, the patient will be evaluated by the study surgeon to assess local response.
+
+A noncomplete clinical response is defined as any state not meeting the following criteria:
+
+1. No palpable tumor on digital exam.
+2. Endoscopic evaluation consistent with the following.
+
+   1. Flat scar with no ulceration and intact mucosa.
+   2. Disappearance of neoplastic pit pattern without use of magnification.
+   3. Disappearance of neoplastic nodule or stenosis. If the tumor site does not meet the above criteria, the patient will be classified as noncomplete response (NCR)., 31.5 weeks|The number of subjects in Cohort C with a noncomplete response (NCR) to treatment., Four weeks following completion of chemotherapy, RT, and neoadjuvant systemic chemotherapy, the patient will be evaluated by the study surgeon to assess local response.
+
+A noncomplete clinical response is defined as any state not meeting the following criteria:
+
+1. No palpable tumor on digital exam.
+2. Endoscopic evaluation consistent with the following.
+
+   1. Flat scar with no ulceration and intact mucosa.
+   2. Disappearance of neoplastic pit pattern without use of magnification.
+   3. Disappearance of neoplastic nodule or stenosis. If the tumor site does not meet the above criteria, the patient will be classified as noncomplete response (NCR)., 32.1 weeks|Circulating tumor deoxyribonucleic acid (ctDNA), Blood samples (10 mL each time) will be collected. ctDNA is measured in percentage: variant allele fraction percentage. For simplicity this will be reported at baseline, the end of radiation, the end of neoadjuvant treatment and annually for two years., Baseline, 12.1 weeks, 32 weeks, one year and two years.|The number of subjects with dose-limiting toxicities in Cohort A., Number of subjects experiencing a dose-limiting toxicity (DLT) as per NCI CTCAE version 5, encompasses the need for additional treatments including the following: transfusion, invasive intervention, or hospitalization indicated. The presence of such a DLT would result in the halting of radiation therapy and impact on the dose levels of radiation therapy applied in the trial., 11.5-week period|The number of subjects with dose-limiting toxicities in Cohort B., Number of subjects experiencing a dose-limiting toxicity (DLT) as per NCI CTCAE version 5, encompasses the need for additional treatments including the following: transfusion, invasive intervention, or hospitalization indicated. The presence of such a DLT would result in the halting of radiation therapy and impact on the dose levels of radiation therapy applied in the trial., 11.5-week period|The number of subjects with dose-limiting toxicities in Cohort C., Number of subjects experiencing a dose-limiting toxicity (DLT) as per NCI CTCAE version 5, encompasses the need for additional treatments including the following: transfusion, invasive intervention, or hospitalization indicated. The presence of such a DLT would result in the halting of radiation therapy and impact on the dose levels of radiation therapy applied in the trial., 12.1- week period|Change from baseline in the EQ-5D-SL quality of life questionnaire, The descriptive system comprises five dimensions: mobility, self-care, usual activities, pain/discomfort and anxiety/depression. Each dimension has 5 levels: no problems (coded as 1), slight problems (coded as 2), moderate problems (coded as 3), severe problems (coded as 4) and extreme problems (coded as 5). The score is expressed as a five-digit number. The second part of the instrument (EQ VAS) records the patient's self-rated health on a vertical visual analogue scale, where the endpoints are labelled 'The best health you can imagine' (score of 100) and 'The worst health you can imagine' (score of 0)., Baseline and up to 12.1 weeks.|Change from baseline in the Memorial Sloan Kettering Bowel Function Index (MSKCC BFI) Score, The MSKCC BFI comprises 18 items covering the frequency of various symptoms and is divided into three sub-scales and four single items. It is scored on a 5-point Likert scale ranging from "always" to "never". The sub-scales scores are summarised as: A 6-item frequency sub-scale (6-30), a four-item dietary sub-scale (4-20), and a four-item urgency sub-scale (4-20). A global score can be calculated as the sum of the sub-scale scores. A total score (possible score range 18-90) can be calculated by adding all the item scores (sub-scale scores plus single item scores). A higher score indicates better bowel function., Baseline and up to 12.1 weeks.|Change from baseline in the Wexner Fecal Incontinence Score, This scoring system cross-tabulates frequencies and different anal incontinence presentations (Gas/Liquid/Solid/Pad use/Need for lifestyle alterations) and sums the returned score to a total of 0-20 (where 0 = perfect continence and 20 = complete incontinence). Each of the incontinence presentations is graded equally., Baseline and up to 12.1 weeks.
+Study Rationale: There are limited studies evaluating real-time adaptive radiation therapy for locally advanced (Stage I-III) rectal adenocarcinoma with the goal of accomplishing organ preservation. We are testing higher doses of radiation therapy, using a novel method of real-time adaptive MRI-based radiation therapy treatment.
+
+Hypothesis: We hypothesize that adaptive magnetic resonance (MR) -guided radiation therapy will result in acceptable toxicity and that a maximum-tolerated dose can be determined in a phase I setting.
+
+Intervention Description: The intervention in this circumstance is higher doses of radiation therapy focused within the tumor given using adaptive MR guidance. Radiation Doses being applied in this study:
+
+Cohort A- 64 Gy over 32 fractions, prophylactic nodes treated to 50 Gy over 25 fractions, boost to tumor and radiologically positive nodes to total dose of 64 Gy over 32 total fractions.
+
+Cohort B- 68 Gy over approximately 34 fractions, prophylactic nodes treated to 50 Gy over 25 fractions, boost to tumor and radiologically positive nodes to 68 Gy over 34 total fractions.
+
+Cohort C- 72 Gy over 36 total fractions, prophylactic nodes treated to 50 Gy over 25 fractions, boost to tumor and radiologically positive nodes to 72 Gy over 36 total fractions.
+
+Dose-Limiting Toxicity from Radiation Therapy: A dose-limiting toxicity (DLT) as per NCI CTCAE version 5. Specifically, this encompasses the need for additional treatments including the following: transfusion, invasive intervention, or hospitalization indicated. The presence of such a DLT would result in the halting of radiation therapy and impact on the dose levels of radiation therapy applied in the trial.

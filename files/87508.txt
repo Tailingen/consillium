@@ -1,0 +1,37 @@
+Venetoclax and Acalabrutinib in Treating Patients With Relapsed or Refractory Mantle Cell Lymphoma
+This phase II trial studies how well venetoclax and acalabrutinib work in treating patients with mantle cell lymphoma that did not respond to previous treatment or has come back. Venetoclax may cause cancer cell death by blocking the mechanism that cancer cells use to stay alive. Acalabrutinib may stop the growth of cancer cells by blocking some of the enzymes needed for cell growth. Giving venetoclax and acalabrutinib together may kill more cancer cells in patients with mantle cell lymphoma.
+Blastoid Variant Mantle Cell Lymphoma|CCND1 Protein Overexpression|CD20 Positive|CD5 Positive|FCER2 Negative|Pleomorphic Variant Mantle Cell Lymphoma|Recurrent Mantle Cell Lymphoma|Refractory Mantle Cell Lymphoma|t(11;14)(q13;q32)
+DRUG: Acalabrutinib|DRUG: Venetoclax
+Complete response (CR), Assessed by Lugano criteria - positron emission tomography (PET)-computed tomography, and in a subset of patients by bone marrow flow cytometry, circulating tumor deoxyribonucleic acid and endoscopy if at baseline there is gut involvement. Response will be calculated separately with and without knowledge of the PET result by International Working Group criteria, in order to provide context in relation to historical control data. Will estimate the CR along with the 95% credible interval., 16 weeks
+Overall response rate, 5 years|Duration of response, Will be estimated using the method of Kaplan and Meier. Comparison of time-to-event endpoints by important subgroups will be made using the log-rank test., 5 years|Event free survival, Will be estimated using the method of Kaplan and Meier. Comparison of time-to-event endpoints by important subgroups will be made using the log-rank test., 5 years|Progression free survival, Will be estimated using the method of Kaplan and Meier. Comparison of time-to-event endpoints by important subgroups will be made using the log-rank test., 5 years|Overall survival, Will be estimated using the method of Kaplan and Meier. Comparison of time-to-event endpoints by important subgroups will be made using the log-rank test., 5 years|Incidence of adverse events, Safety data will be summarized by frequency tables for all patients. Per-treated analysis will be performed to include any patient who received the treatment regardless of the eligibility nor the duration or dose of the treatment received., 5 years
+PRIMARY OBJECTIVES:
+
+I. To evaluate the efficacy of a combination of venetoclax and acalabrutinib, in patients with previously treated relapsed/refractory mantle cell lymphoma (MCL).
+
+SECONDARY OBJECTIVES:
+
+I. To evaluate the efficacy of this combination regimen in previously treated subjects with relapsed/refractory MCL with overall response rate (ORR), duration of response (DOR), event free survival (EFS), progression free survival (PFS), and overall survival (OS).
+
+II. To evaluate the safety and tolerability of venetoclax and acalabrutinib in previously treated subjects with relapsed/refractory MCL.
+
+CORRELATIVE/TRANSLATIONAL COMPONENT OBJECTIVES:
+
+I. Sequential peripheral blood (PB)/plasma/tissue fine needle aspirate will be stored.
+
+II. Clonal evolution with targeted sequencing (seq) and/or whole exome sequencing (WES) in sequential samples.
+
+III. Pattern of mutation changes with Bruton tyrosine kinase inhibitor (BTKi) or with venetoclax resistance.
+
+IV. Response predictors - mutations, cytokine-chemokines, clonal evolution (CE).
+
+V. Minimal residual disease (MRD) assay using circulating tumor deoxyribonucleic acid (ctDNA) analysis, flow cytometry at various time points from peripheral blood (PB)/ bone marrow (BM).
+
+VI. Sequential immunologic studies with cytokines/chemokines, T cell numbers, and immunoglobulins (Ig).
+
+VII. Tissue microenvironmental studies with simultaneous assessment of PB, BM and lymph nodes for gene expression profiling (GEP), single cell seq, ribonucleic acid (RNA) seq and clonal heterogeneity and the impact of acalabrutinib - venetoclax (A-V) treatment.
+
+OUTLINE: This is a dose escalation study of venetoclax.
+
+Patients receive acalabrutinib orally (PO) twice daily (BID) on days 1-28. Starting cycle 2 day 1, patients also receive venetoclax PO daily. Cycles repeat every 28 days in the absence of disease progression or unacceptable toxicity.
+
+After completion of study treatment, patients are followed up within 30 days, then every 4 months for 2 years, then every 6 months for the next 2 years, and then annually thereafter.

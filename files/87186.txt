@@ -1,0 +1,42 @@
+Postoperative Chemotherapy With or Without Bevacizumab for Patients With Stage II or III Rectal Cancer
+Drugs used in chemotherapy, such as oxaliplatin, leucovorin, and fluorouracil, work in different ways to stop the growth of tumor cells, either by killing the cells or by stopping them from dividing. Monoclonal antibodies, such as bevacizumab, can block tumor growth in different ways. Some block the ability of tumor cells to grow and spread. Others find tumor cells and help kill them or carry tumor-killing substances to them. Bevacizumab may also stop the growth of tumor cells by blocking blood flow to the tumor. Giving more than one drug (combination chemotherapy) together with bevacizumab after surgery may kill any tumor cells that remain after surgery. It is not yet known whether oxaliplatin, leucovorin, and fluorouracil is more effective with or without bevacizumab in treating rectal cancer. This randomized phase III trial is studying combination chemotherapy to see how well it works with or without bevacizumab in treating patients who have had surgery for stage II or stage III rectal cancer.
+Adenocarcinoma of the Rectum|Stage II Rectal Cancer|Stage III Rectal Cancer
+DRUG: oxaliplatin|DRUG: fluorouracil|DRUG: leucovorin calcium|DRUG: bevacizumab
+5-year Overall Survival Rate, Overall survival (OS) was defined as time from randomization to date of death from any cause. Patients who were still alive were censored at last date of known alive. Kaplan-Meier method was used to estimate the 5-year OS rate., Follow-up assessments performed every 3 months for patients < 2 years from randomization, every 6 months for patients 2-5 years from randomization, and every 12 months for patients 5-10 years from randomization
+5-year Disease-free Survival Rate, Disease-free survival (DFS) was defined as time from randomization to recurrence, second invasive primary cancer or death, whichever occurred first. Patients who were still alive and had no DFS events were censored at the last disease assessment date known to be free of DFS events. Kaplan-Meier method was used to estimate 5-year DFS rate., Follow-up assessments performed every 3 months for patients < 2 years from randomization, every 6 months for patients 2-5 years from randomization, and every 12 months for patients 5-10 years from randomization|Patterns of Failure, Failure included recurrence, second primary cancer and death without recurrence., Follow-up assessments performed every 3 months for patients < 2 years from randomization, every 6 months for patients 2-5 years from randomization, and every 12 months for patients 5-10 years from randomization|Proportion of Patients Who Completed 12 Cycles of Treatment, In the study, treatment was repeated every 2 weeks for a total of 12 cycles on both arms. The total number of cycles of treatment patient received until going off treatment due to any reason was recorded. It was a measure of the tolerance of the therapy., assessed at the end of treatment
+Change in Rectal Function Between Baseline and 12 Months, Change in rectal function between baseline and 12 months was measuring the long-term rectal function among the patients. Rectal function was measured using the Bowel Function Questionnaire at baseline and 12 months after randomization. The total score of the questionnaire was calculated as the number of problems with bowel function (score range 0-11). Change in rectal function between baseline and 12 months= total score at 12 months - total score at baseline. A negative value indicated improved rectal function. This change in score was calculated for each individual patient who had the data., assessed at baseline and 12 months after randomization|Change in Oxaliplatin-related Neurotoxicity Between Baseline and 12 Months, Change in oxaliplatin-related neurotoxicity between baseline and 12 months was measuring the long-term symptom of oxaliplatin-related neurotoxicity among the patients. Oxaliplatin-related neurotoxicity was measured using the FACT/GOG-Ntx subscale at baseline and 12 months after randomization. The range of the total score of the scale was between 0 and 44, and lower values indicate higher neurotoxicity. Change in oxaliplatin-related neurotoxicity between baseline and 12 months= total score at 12 months - total score at baseline. A negative value indicated worsened symptom. This change in score was calculated for each individual patient who had the data., assessed at baseline and 12 months after randomization
+PRIMARY OBJECTIVES:
+
+I. Compare the overall survival of patients who have undergone prior surgery and neoadjuvant chemoradiotherapy for clinical stage II or III rectal cancer treated with adjuvant oxaliplatin, leucovorin calcium, fluorouracil with vs without bevacizumab.
+
+SECONDARY OBJECTIVES:
+
+I. Evaluate tolerance of treatment, patterns of failure, and disease-free survival in patients treated with these regimens
+
+EXPLORATORY OBJECTIVES:
+
+I. Assess long-term rectal function using the Patient Bowel Function/Uniscale questionnaire and the Functional Assessment of Cancer (FACT)-Diarrhea subscale in patients treated with these regimens.
+
+II. Validate the FACT-Diarrhea subscale. III. Assess long-term symptoms of oxaliplatin-related neurotoxicity using the FACT/Gynecologic Oncology Group (GOG)-Neurotoxicity subscale in patients treated with these regimens.
+
+IV. Correlate TS, DPD and TP expression (key targets for fluorouracil); retention of chromosome 18q alleles and microsatellite instability (MSI) with TGFβ1RII mutation (markers for fluorouracil efficacy); ERCC1, ERCC2, and XPF expression (participants in repair of adducts from oxaliplatin); and p53 gene mutation and possibly other molecular markers pertinent to vascular endothelial growth factor in tumor tissue specimens with treatment efficacy in these patients.
+
+V. Correlate tumor molecular prognostic markers (chromosome 18q allelic loss and MSI) with survival in patients treated with this regimen.
+
+OUTLINE:
+
+This is a randomized study. Patients are stratified according to Eastern Cooperative Oncology Group (ECOG) performance status (0 vs 1), clinical staging (high risk \[T3, N+, M0 or T4, any N, M0\] vs low risk \[T1-2, N+, M0 or T3, N0, M0\]), prior pre-operative oxaliplatin (yes vs no), and prior radiotherapy dose (40-50 Gy vs \> 50-55.8 Gy). Patients are randomized to 1 of 2 treatment arms in a 1:1 ratio.
+
+ARM I: Patients receive oxaliplatin intravenously (IV) over 2 hours, leucovorin calcium IV over 2 hours, and fluorouracil IV on day 1 followed by fluorouracil IV continuously over 46 hours on days 1 and 2. Treatment repeats every 2 weeks for up to 12 courses\* in the absence of disease progression or unacceptable toxicity.
+
+ARM II: Patients receive bevacizumab\*\* IV over 30-90 minutes on day 1. Patients also receive oxaliplatin, leucovorin calcium, and fluorouracil as in arm I\*.
+
+\[Note: \*Patients who received prior neoadjuvant oxaliplatin including patients on protocol NSABP-R-04 receive up to 9 courses of treatment followed by leucovorin calcium IV and fluorouracil IV with (arm II) or without (arm I) bevacizumab for up to 3 courses.\]
+
+\[Note: \*\*Patients no longer receive bevacizumab as of 4/29/2009 when accrual was terminated due to slow accrual for the study)\]
+
+Patients complete 10-15 minute questionnaires about bowel function at randomization, end of treatment, 12 months post-treatment and then annually to 5 years post-treatment.
+
+After completion of study treatment, patients are followed periodically for approximately 10 years.
+
+PROJECTED ACCRUAL: 2100 patients

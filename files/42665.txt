@@ -1,0 +1,21 @@
+ALPP CAR-T Cells for ALPP-Positive Advanced Solid Tumors
+Alkaline phosphatase (ALP) is a membrane-bound glycoprotein that catalyzes the hydrolysis of phosphates at alkaline pH values. As one of the earliest discovered oncofetal antigens, ALP has emerged as a significant biomarker for various malignant tumors, such as ovarian cancer, breast cancer, trophoblastic tumors, germ cell tumors, endometrial cancer, testicular tumors, cervical intraepithelial neoplasia, and gastrointestinal tumors.
+Advanced Solid Tumors
+BIOLOGICAL: ALPP CAR-T cells|DRUG: Fludarabine|DRUG: Cyclophosphamide
+Dose Limiting Toxicity or Maximum Tolerated Dose (MTD), Dose Limiting Toxicity (DLT) is defined as patients with the adverse event (AE) or laboratory abnormality assessed by the principal investigator (PI). These should be possibly related to ALPP CAR-T cell therapy, and should be unrelated to the disease itself, disease progression, concomitant diseases or concomitant medication. The MTD is the highest dose at which no more than one out of six patients experiences DLT, or the highest dose level tested if no DLTs are observed across all dose levels., Day 28 post-initial ALPP CAR-T infusion|Overall response rate, The efficacy of ALPP CAR-T is assessed by the objective response rate (ORR) according to RECIST 1.1 and iRECIST. ORR is defined as patients who have achieved either a partial response (PR) or a complete response (CR)., Day 0 - Day 730|Treatment-related adverse events as assessed by CTCAE v5.0, The type, incidence and severity of adverse events include clinically significant post-treatment abnormal laboratory examination results, abnormal physical examination and blood examination results, bone marrow examination results, etc. Clinical and laboratory AEs will be classified according to the National Cancer Institute general terminology standard for adverse events (NCI CTCAE) version 5.0., Day 0 - Day 730
+Duration of response, The efficacy of ALPP CAR-T will be assessed by duration of response (DOR). The DOR refers to the length of time from the first appearance of a treatment response to the first occurrence of progressive disease or recurrence., Day 0 - Day 730|Progression free survival, The efficacy of ALPP CAR-T will be assessed by progression free survival (PFS). The PFS refers to the time from treatment to progressive disease or death for any reason., Day 0 - Day 730|Overall survival, The efficacy of ALPP CAR-T will be assessed by overall survival (OS). The OS refers to the time from treatment to death., Day 0 - Day 730|Expansion and persistence of ALPP CAR-T cells in peripheral blood or serous effusion (if present), Blood and serous effusion (if present) samples were collected to measure persistence of infused ALPP CAR-T using polymerase chain reaction of a vector specific sequence in deoxyribonucleic acid (DNA) extracted from peripheral blood mononuclear cell (PBMC)., Day 0 - Day 730|Cell cytokine levels and tumor biomarkers in peripheral blood and serous effusion (if present), Blood samples and serous effusion (if present) were collected to measure cytokines IL-6, TNF-α, IL-8, IFN-γ, C-reactive protein (CRP), as well as ALPP concentration, Alpha-fetoprotein (AFP), Human chorionic gonadotropin (hCG), etc., Day 0 - Day 730
+This is a single-center, open-label, study of CAR-T cells for the treatment of the recurrent/metastatic solid tumors patients who had failed standard therapy.
+
+Objective:
+
+To evaluate the safety and efficacy of CAR-T cells in the treatment of advanced solid tumors.
+
+Eligibility:
+
+Adults aging 18-70 with advanced solid tumors
+
+Design:
+
+1. Patients will undergo a comprehensive set of screening tests, including imaging procedures, evaluation of cardiac and pulmonary function, as well as a range of laboratory assessments.
+2. After meeting the eligibility criteria and enrolling in the trial, patients will undergo leukapheresis for collection of autologous lymphocytes, which will be sent to manufacturing facilities.
+3. Once cells have been manufactured, patients will then proceed to lymphodepleting chemotherapy followed by the infusion of ALPP CAR T-cells.

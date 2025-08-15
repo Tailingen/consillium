@@ -1,0 +1,29 @@
+Atezolizumab in Combination With a Multi-Kinase Inhibitor for the Treatment of Unresectable, Locally Advanced, or Metastatic Liver Cancer
+This phase II trial tests whether atezolizumab in combination with a multi-kinase inhibitor (cabozantinib or lenvatinib) compared to multi-kinase inhibitor alone in treating patients with liver cancer that cannot be removed by surgery (unresectable), has spread to has spread to nearby tissue or lymph nodes (locally advanced), or has spread to other places in the body (metastatic), for which the patient has received treatment in the past (previously treated). Immunotherapy with monoclonal antibodies, such as atezolizumab, may help the body's immune system attack the cancer, and may interfere with the ability of tumor cells to grow and spread. Cabozantinib and lenvatinib may stop the growth of tumor cells by blocking some of the enzymes needed for cell growth. Giving atezolizumab with cabozantinib or lenvatinib may kill more tumor cells in patients with liver cancer.
+Locally Advanced Hepatocellular Carcinoma|Metastatic Hepatocellular Carcinoma|Stage III Hepatocellular Carcinoma AJCC v8|Stage IIIA Hepatocellular Carcinoma AJCC v8|Stage IIIB Hepatocellular Carcinoma AJCC v8|Stage IV Hepatocellular Carcinoma AJCC v8|Stage IVA Hepatocellular Carcinoma AJCC v8|Stage IVB Hepatocellular Carcinoma AJCC v8|Unresectable Hepatocellular Carcinoma
+BIOLOGICAL: Atezolizumab|DRUG: Cabozantinib|DRUG: Lenvatinib
+Overall survival (OS), The final analysis for OS will be conducted when 84 OS events are observed, approximately 36 months after first subject in and will be evaluated with a one-sided p-value from stratified log-rank test., From randomization to death from any cause, assessed up to 3 years|Progression-free survival (PFS), PFS analysis will be conducted when 89 PFS events are observed. The one-sided p-value from stratified log-rank test will be used for decision making., From randomization to first documentation of disease progression (per Response Evaluation Criteria in Solid Tumors [RECIST] 1.1) or death, assessed up to 2 years
+Objective response rate (ORR), Objective response is defined as either a complete response (CR) or partial response (PR) (as defined by the RECIST 1.1). ORR will be calculated by the number of subjects experience objective response divided by the number of evaluable subjects in each arm. Confidence intervals for the ORR will be calculated using a normal approximation and the corresponding 95% confidence interval will be reported., Up to 2 years|Duration of response, For subjects who experience a CR or PR, duration of response is defined as the time from the date of first response (CR or PR) to progression or death, whichever is earliest. Median duration for each arm and corresponding 95% confidence interval, calculated using Kaplan-Meier method and Brookmeyer-Crowley, will be reported., Up to 2 years|Incidence of adverse events (AEs), Common Terminology Criteria for Adverse Events (CTCAE) AEs will be recorded for each subject. The overall adverse event rates for grade 3 or higher AEs will be reported by arm., Up to 30 days after last dose
+PRIMARY OBJECTIVE:
+
+I. To determine the progression-free and overall survival in subjects with advanced hepatocellular carcinoma who previously progressed on atezolizumab/bevacizumab who are treated using atezolizumab plus a multi-kinase inhibitor compared to multi-kinase inhibitor alone.
+
+SECONDARY OBJECTIVES:
+
+I. To determine the overall response rate per Response Evaluation Criteria in Solid Tumors (RECIST) version (v) 1.1 response in subjects who are treated using atezolizumab plus a multi-kinase inhibitor compared to multi-kinase inhibitor alone.
+
+II. To determine the duration of response in subjects who are treated using atezolizumab plus a multi-kinase inhibitor compared to multi-kinase inhibitor alone.
+
+III. To determine the safety profile of adding atezolizumab to multi-kinase inhibitor in subjects who are treated using atezolizumab plus a multi-kinase inhibitor compared to multi-kinase inhibitor alone.
+
+EXPLORATORY OBJECTIVE:
+
+I. To explore for potential predictive biomarkers for response and resistance to anti-PD-L1 and/or multi-kinase inhibitor therapy in subject population.
+
+OUTLINE: Patients are randomized to 1 of 2 arms.
+
+ARM A: Patients receive atezolizumab intravenously (IV) over 30-60 minutes on day 1 and cabozantinib orally (PO) once daily (QD) or lenvatinib PO QD on days 1-21. Cycles repeat every 21 days in the absence of disease progression or unacceptable toxicity.
+
+ARM B: Patients receive cabozantinib PO QD or lenvatinib PO QD on days 1-21. Cycles repeat every 21 days in the absence of disease progression or unacceptable toxicity.
+
+After completion of study treatment, patients are followed-up every 9 weeks for up to 2 years.

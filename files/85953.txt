@@ -1,0 +1,29 @@
+Lenvatinib With Everolimus Versus Cabozantinib for Second-Line or Third-Line Treatment of Metastatic Renal Cell Cancer
+This phase II trial compares the effects of lenvatinib given in combination with everolimus to the effects of cabozantinib given alone in treating patients with renal cell cancer (RCC) that has spread to other parts of the body (metastatic) and that got worse on a previous PD-1/PD-L1 checkpoint inhibitor. Lenvatinib, everolimus, and cabozantinib may stop the growth of tumor cells by blocking some of the enzymes needed for cell growth.
+Advanced Clear Cell Renal Cell Carcinoma|Metastatic Clear Cell Renal Cell Carcinoma|Stage III Renal Cell Cancer AJCC v8|Stage IV Renal Cell Cancer AJCC v8
+DRUG: Cabozantinib|DRUG: Everolimus|DRUG: Lenvatinib|OTHER: Questionnaire Administration
+Progression-Free Survival (PFS), To be compared between lenvatinib + everolimus versus cabozantinib. Monitored using Bayesian optimal phase 2 (BOP2) design with time-to-event endpoint., Time from start of study drug until disease progression defined by Response Evaluation Criteria in Solid Tumors (RECIST) 1.1, assessed up to 2 years
+Objective Response Rate (ORR), ORR is defined as complete response (CR) plus partial response (PR)., Up to 2 years|Disease Control Rate (DCR), Defined as CR + PR + stable disease., Up to 2 years|Health-Related Quality of Life (HRQoL), Evaluated using standardized questionnaires, including Functional Assessment of Cancer Therapy-Kidney Symptom Index 19 (FKSI-19), Patient-Reported Outcomes Measurement Information System (PROMIS)-10, Center for Epidemiologic Studies Depression Scale (CES-D), Social Provisions Scale, and the Finding Meaning in Cancer Scale (FMCS)., Up to 2 years|Incidence of grade 3 or 4 adverse events, Defined by the National Cancer Institute Common Terminology Criteria for Adverse Events (CTCAE) version 5.0., Up to 2 years|Overall survival (OS), OS is compared between lenvatinib + everolimus versus cabozantinib in patients with metastatic renal cell carcinoma who developed progressive disease after 1-2 lines of therapy, including a PD-1/PD-L1 checkpoint inhibitor., Start of study drug to death due to any cause, assessed up to 2 years
+PRIMARY OBJECTIVE:
+
+I. To compare the efficacy of lenvatinib plus everolimus versus cabozantinib in patients with mRCC who developed progressive disease after 1-2 lines of therapy, including a PD-1/PD-L1 checkpoint inhibitor.
+
+SECONDARY OBJECTIVES:
+
+I. To compare tumor responses to lenvatinib plus everolimus versus cabozantinib in patients with mRCC who developed progressive disease after 1-2 lines of therapy, including a PD-1/PD-L1 checkpoint inhibitor.
+
+II. To compare health-related quality of life (HRQoL) and safety of lenvatinib plus everolimus versus cabozantinib in patients with mRCC who developed progressive disease after 1-2 lines of therapy, including a PD-1/PD-L1 checkpoint inhibitor.
+
+III. To compare overall survival (OS) with lenvatinib plus everolimus versus cabozantinib in patients with mRCC who developed progressive disease after 1-2 lines of therapy, including a PD-1/PD-L1 checkpoint inhibitor.
+
+EXPLORATORY OBJECTIVE:
+
+I. To assess whether alterations to c-MET, VEGF, mTOR, and FGFR are associated with response to therapy.
+
+OUTLINE: Patients are randomized to 1 of 2 arms.
+
+ARM A: Patients receive lenvatinib orally (PO) once daily (QD) and everolimus PO QD. Cycles repeat every 30 days in the absence of disease progression or unacceptable toxicity.
+
+ARM B: Patients receive cabozantinib PO QD. Cycles repeat every 30 days in the absence of disease progression or unacceptable toxicity.
+
+After completion of study treatment, patients are followed up every 3 months.

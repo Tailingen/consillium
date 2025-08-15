@@ -1,0 +1,8 @@
+Multi-parametric Imaging in Personalized Radiotherapy
+The study consists in the retrospective and prospective collection of imaging data (along with clinical information related to treatment) of skull-base chordoma patients treated with particle therapy, to derive imaging biomarkers which, integrated with advanced mathematical models, will allow predicting treatment outcome on a multi-scale basis.
+Skull Base Chordoma
+DIAGNOSTIC_TEST: diffusion MRI sequences
+collect data from MRI acquisition, The prospective part of the study aims to collect data from MRI acquisition. It is not focused on patients treatment., 1 year from the treatment provided in routine clinical setting
+The study design consists of the retrospective collection of routinely-acquired data (CT, MRI and dose maps, along with relevant clinical information) and the prospective acquisition of optimized non-invasive MR imaging data, of skull-based chordoma patients treated with particle therapy (PT) at the National Center for Oncological Hadrontherapy (CNAO, Pavia, Italy).
+
+This data will be stored in a proper repository under CNAO's control, shared with Politecnico di Milano through encrypted channels, and it will be used to implement mathematical models able to predict treatment outcome at different scales (macroscopic, microscopic and radiobiological).

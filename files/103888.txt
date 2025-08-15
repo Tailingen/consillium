@@ -1,0 +1,60 @@
+CAR T Cell Receptor Immunotherapy Targeting EGFRvIII for Patients With Malignant Gliomas Expressing EGFRvIII
+Background:
+
+The National Cancer Institute (NCI) Surgery Branch has developed an experimental therapy for treating patients with gliomas that involves taking white blood cells from the patient, growing them in the laboratory in large numbers, genetically modifying these specific cells with a type of virus (retrovirus) to attack only the tumor cells, and then giving the cells back to the patient. This type of therapy is called gene transfer. In this protocol, we are modifying the patient's white blood cells with a retrovirus that has the gene for epidermal growth factor receptor (EGFR) vIII incorporated in the retrovirus.
+
+Objective:
+
+The purpose of this study is to determine a safe number of these cells to infuse and to see if these particular tumor-fighting cells (anti-EGFRvIII cells) are a safe and effective treatment for advanced gliomas.
+
+Eligibility:
+
+- Adults age 18-70 with malignant glioma expressing the EGFRvIII molecule.
+
+Design:
+
+Work up stage: Patients will be seen as an outpatient at the National Institutes of Health (NIH) clinical Center and undergo a history and physical examination, scans, x-rays, lab tests, and other tests as needed
+
+Leukapheresis: If the patients meet all of the requirements for the study they will undergo leukapheresis to obtain white blood cells to make the anti-EGFRvIII cells. {Leukapheresis is a common procedure, which removes only the white blood cells from the patient.}
+
+Treatment: Once their cells have grown, the patients will be admitted to the hospital for the conditioning chemotherapy, the anti-EGFRvIII cells, and aldesleukin. They will stay in the hospital for about 4 weeks for the treatment.
+
+Follow up: Patients will return to the clinic for a physical exam, review of side effects, lab tests, and scans every month for the first year, and then every 1-2 months as long as their tumors are shrinking. Follow up visits will take up to 2 days.
+Malignant Glioma|Glioblastoma|Brain Cancer|Gliosarcoma
+BIOLOGICAL: Epidermal growth factor receptor(EGFRv)III Chimeric antigen receptor (CAR) transduced PBL|DRUG: Aldesleukin|DRUG: Fludarabine|DRUG: Cyclophosphamide
+Number of Treatment Related Adverse Events, Aggregate of all adverse events ≥Grade 3 that are possibly, probably, and definitely related to treatment. Adverse events were assessed by the Common Terminology Criteria in Adverse Events (CTCAE v4.0). Per CTCAE, Grade 3 adverse events are severe, Grade 4 is life threatening, and Grade 5 is death., From 4 weeks after cell infusion up to 77 days|Progression Free Survival, Progression was assessed by the Response Assessment in Neuro-Oncology (RANO) criteria and is defined as the circumstance when the magnetic resonance imaging (MRI) scan is ranked -2 (definitely worse) or -3 (development of a new lesion)., Time from the date of registration to the date of first observation of progressive disease up to 6 months after end of treatment
+Number of Patients With an Objective Response, Objective response was assessed by comparison with baseline dynamic contrast enhanced magnetic resonance imaging with perfusion using Neuro-oncology Working Group proposed guidelines. Complete Response is disappearance of all measurable and non-measurable disease for at least 4 weeks. Partial Response is \>/= 50% decrease in lesions for at least 4 weeks. Stable Disease does not meet the criteria for complete response, partial response or progression and requires stable lesions compared with baseline. Progression is \>/= 25% increase in lesions., 4 weeks after cell infusion and monthly as feasible up to 12 months|Circulating Chimeric Antigen Receptor (CAR+) Cells in Peripheral Blood at 1 Month Post Treatment, CAR and vector presence were quantitated in peripheral blood mononuclear cell (PBMC) samples using established polymerase chain reaction (PCR) techniques, 1 month post transplant|Number of Participants With Serious and Non-serious Adverse Events Assessed by the Common Terminology Criteria in Adverse Events (CTCAE v4.0), Here is the count of participants with serious and non-serious adverse events assessed by the Common Terminology Criteria in Adverse Events (CTCAE v4.0). A non-serious adverse event is any untoward medical occurrence. A serious adverse event is an adverse event or suspected adverse reaction that results in death, a life threatening adverse drug experience, hospitalization, disruption of the ability to conduct normal life functions, congenital anomaly/birth defect or important medical events that jeopardize the patient or subject and may require medical or surgical intervention to prevent one of the previous outcomes mentioned., 51 dys Grp A, Cohort 1; Cohort 2:68 dys; Cohort 3:40 dys; Grp B, Cohort 1:67 dys; Cohort 2:48 dys; Cohort 3:55 dys; Cohort 4: 46 dys; Cohort 5:147 dys; C. Ster/No Ster Grp, Cohort 6:12 mos, 26 dys; Cohort 7:11 mos, 18 dys; Cohort 8:7 dys; Cohort 9:70 dys.
+BACKGROUND:
+
+- Patients with recurrent gliomas have very limited treatment options. Epidermal growth factor receptor (EGFR).
+
+(EGFRvIII) is the most common mutant variant of EGFR and is present in 24-67% of patients with glioblastoma.
+
+* EGFRvIII expression promotes oncogenesis and is associated with poor prognosis.
+* EGFRvIII is not expressed in normal tissue and is an attractive target for immunotherapy.
+* We have constructed a retroviral vector that contains a chimeric antigen receptor (CAR) that recognizes the EGFRvIII tumor antigen, which can be used to mediate genetic transfer of this CAR with high efficiency without the need to perform any selection.
+
+OBJECTIVES:
+
+Primary Objectives
+
+* To evaluate the safety of the administration of anti-EGFRvIII CAR engineered peripheral blood lymphocytes in patients receiving the non-myeloablative, lymphodepleting preparative regimen and aldesleukin.
+* Determine the six month progression free survival of patients receiving anti-EGFRvIII CAR-engineered peripheral blood lymphocytes and aldesleukin following a nonmyeloablative, lymphodepleting preparative regimen.
+
+ELIGIBILITY:
+
+* Histologically proven glioblastoma or gliosarcoma expressing EGFRvIII as determined by immunohistochemistry (IHC) or Reverse transcription polymerase chain reaction (RT-PCR)
+* Failed prior standard treatment with radiotherapy with or without chemotherapy
+* Karnofsky performance score (KPS) greater than or equal to 60
+* Cardiac, pulmonary and laboratory parameters within acceptable limits
+
+DESIGN:
+
+* The study will be conducted using a Phase I/II design.
+* Patients will receive a non-myeloablative, lymphodepleting preparative regimen consisting of cyclophosphamide and fludarabine followed by intravenous infusion of ex vivo tumorreactive, CAR gene-transduced peripheral blood mononuclear cells (PBMC), plus intravenous (IV) aldesleukin.
+* Once the maximum tolerated cell dose (MTD) has been determined, the study will proceed to the phase II portion.
+* In the phase II portion of the trial, patients will be accrued to two cohorts:
+
+  * Patients with recurrent malignant glioma receiving steroids at the time of treatment.
+  * Patients with recurrent malignant glioma not receiving steroids at the time of treatment.
+* A total of 107 patients may be enrolled over a period of 7 years.

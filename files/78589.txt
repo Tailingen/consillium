@@ -1,0 +1,69 @@
+Emergency Medicine Palliative Care Access
+This is a two-arm, multi-site randomized controlled trial of 1,350 older adults (50+ years) with either advanced cancer (defined as metastatic solid tumor) or poor prognosis end-stage organ failure (New York Heart Association (NYHA) Class III or IV Congestive Heart Failure (CHF), End-Stage Renal Disease (ESRD), defined as Glomerular Filtration Rate (GFR) \< 15 ml/min/m2 or dialysis ; or Global Initiative for Chronic Obstructive Lung Disease (GOLD) Stage III or higher, or oxygen-dependent chronic obstructive pulmonary disease (COPD) who present to the Emergency Department (ED), along with 675 of their informal caregivers. Investigators will compare the effectiveness of two distinct palliative care models: a) nurse-led telephonic case management; and b) facilitated, outpatient specialty palliative care.
+Advanced Cancer|End Stage Organ Failure
+BEHAVIORAL: Nurse-led telephonic case management|BEHAVIORAL: Facilitated,outpatient specialty palliative care
+Change in Quality of Life for Patients, as Measured by the Functional Assessment of Cancer Therapy - General (FACT-G), * Measured by change from enrollment to 6 months
+* Used to measure a person's quality of life
+* 27 questions total
+* 5-point Likert scale
+* Reverse code select items per scoring guidelines at facit.org, then calculate a summary score for each respondent. The total score ranges from 0-108 points; higher scores indicate greater quality of life., Baseline, Month 6
+Number of Emergency Department (ED) Revisits, Measured from enrollment to 12 months as a count of ED revisits, via self-report and EHR abstraction., Up to Month 12|Number of Inpatient Days, Measured from enrollment to 12 months as the number of inpatient days, via self-report and EHR extraction., Up to Month 12|Proportion of Participants Who Used Hospice, Measured from enrollment to 12 months as the proportion of participants who used hospice, via self-report and EHR abstraction., Up to Month 12|Change in Loneliness, as Measured by the Three-Item Loneliness Scale, * Used to measure how often a person feels disconnected from others
+* Three questions total
+* 3-point rating scale (1 = Hardly ever, 2 = Some of the time, 3 = Often)
+* Total score is the sum of responses and ranges from 3 to 9; higher scores indicate greater loneliness.
+* measured by change from enrollment to 3 months, Baseline, Month 3|Change in Loneliness, as Measured by the Three-Item Loneliness Scale, * Used to measure how often a person feels disconnected from others
+* Three questions total
+* 3-point rating scale (1 = Hardly ever, 2 = Some of the time, 3 = Often)
+* Total score is the sum of responses and ranges from 3 to 9; higher scores indicate greater loneliness.
+* measured by change from enrollment to 6 months, Baseline, Month 6|Change in Loneliness, as Measured by the Three-Item Loneliness Scale, * Used to measure how often a person feels disconnected from others
+* Three questions total
+* 3-point rating scale (1 = Hardly ever, 2 = Some of the time, 3 = Often)
+* Total score is the sum of responses and ranges from 3 to 9; higher scores indicate greater loneliness.
+* measured by change from enrollment to 12 months, Baseline, Month 12|Change in Symptom Burden, as Measured by Edmonton Symptom Assessment Scale Revised (ESAS-r), * Used to measure severity of symptoms
+* 10 questions
+* Each item is rated on a 0-10 scale (0= none to 10 worst possible)
+* Total score ranges from 0 to 100; higher scores indicate greater severity of symptoms.
+* measured by change from enrollment to 3 months, Baseline, Month 3|Change in Symptom Burden, as Measured by Edmonton Symptom Assessment Scale Revised (ESAS-r), * Used to measure severity of symptoms
+* 10 questions
+* Each item is rated on a 0-10 scale (0= none to 10 worst possible)
+* Total score ranges from 0 to 100; higher scores indicate greater severity of symptoms.
+* measured by change from enrollment to 6 months, Baseline, Month 6|Change in Symptom Burden, as Measured by Edmonton Symptom Assessment Scale Revised (ESAS-r), * Used to measure severity of symptoms
+* 10 questions
+* Each item is rated on a 0-10 scale (0= none to 10 worst possible)
+* Total score ranges from 0 to 100; higher scores indicate greater severity of symptoms.
+* measured by change from enrollment to 12 months, Baseline, Month 12|Change in Caregiver Physical Health Quality of Life, as Measured by the Patient-Reported Outcome Measurement Information System (PROMIS-10), * Quality of life for informal caregivers will be measured using the 10-item Patient-Reported Outcome Measurement Information System (PROMIS-10), an instrument designed to measure perceptions of health using global health items. It contains a global physical health scale and a global mental health scale.
+* Scored by reverse coding with a raw score ranging from 0-20; 0 points represent the patient's most severe physical and/or mental impairment, while 20 points represent the best possible state of health. Scales are scored using the raw sum to T-score tables for physical health and mental health. T-scores range from 0-100; higher scores reflect better functioning.
+* measured by change from enrollment to 3 months, Baseline, Month 3|Change in Caregiver Physical Health Quality of Life, as Measured by the Patient-Reported Outcome Measurement Information System (PROMIS-10), * Quality of life for informal caregivers will be measured using the 10-item Patient-Reported Outcome Measurement Information System (PROMIS-10), an instrument designed to measure perceptions of health using global health items. It contains a global physical health scale and a global mental health scale.
+* Scored by reverse coding with a raw score ranging from 0-20; 0 points represent the patient's most severe physical and/or mental impairment, while 20 points represent the best possible state of health. Scales are scored using the raw sum to T-score tables for physical health and mental health. T-scores range from 0-100; higher scores reflect better functioning.
+
+  * measured by change from enrollment to 6 months, Baseline, Month 6|Change in Caregiver Physical Health Quality of Life, as Measured by the Patient-Reported Outcome Measurement Information System (PROMIS-10), * Quality of life for informal caregivers will be measured using the 10-item Patient-Reported Outcome Measurement Information System (PROMIS-10), an instrument designed to measure perceptions of health using global health items. It contains a global physical health scale and a global mental health scale.
+* Scored by reverse coding with a raw score ranging from 0-20; 0 points represent the patient's most severe physical and/or mental impairment, while 20 points represent the best possible state of health. Scales are scored using the raw sum to T-score tables for physical health and mental health. T-scores range from 0-100; higher scores reflect better functioning.
+
+  * measured by change from enrollment to 12 months, Baseline, Month 12|Caregiver Bereavement, as Measured by the Texas Inventory of Grief, * Measured at 3 months post-patient death
+* Used to measure a caregiver's bereavement
+* 19 items; each rated on a 5-point scale from 0 (never) to 4 (always)
+* Total score is the sum of responses and ranges from 0 to 76; higher scores indicate greater levels of grief, 3 Months Post-Patient Death|Change in Caregiver Strain, as Measured by the Zarit Burden Interview (ZBI-12), * Measured as change from enrollment to Month 3
+* Used to measure a caregiver's strain
+* 12 items; each rated on a 3-point scale from 0 (yes, on a regular basis) to 3 (no)
+* Total score is the sum of responses and ranges from 0 to 48; higher scores indicate greater burden, Baseline, Month 3|Change in Caregiver Strain, as Measured by the Zarit Burden Interview (ZBI-12), * Measured as change from enrollment to Month 6
+* Used to measure a caregiver's strain
+* 12 items; each rated on a 3-point scale from 0 (yes, on a regular basis) to 3 (no)
+* Total score is the sum of responses and ranges from 0 to 48; higher scores indicate greater burden, Baseline, Month 6|Change in Caregiver Strain, as Measured by the Zarit Burden Interview (ZBI-12), * Measured as change from enrollment to Month 12
+* Used to measure a caregiver's strain
+* 12 items; each rated on a 3-point scale from 0 (yes, on a regular basis) to 3 (no)
+* Total score is the sum of responses and ranges from 0 to 48; higher scores indicate greater burden, Baseline, Month 12|Change in Quality of Life for Patients, as Measured by the FACT-G, * Measured by change from enrollment to 3 months
+* Used to measure a person's quality of life
+* 27 questions total
+* 5-point Likert scale
+* Reverse code select items per scoring guidelines at facit.org, then calculate a summary score for each respondent. The total score ranges from 0-108 points; higher scores indicate greater quality of life., Baseline, Month 3|Change in Quality of Life for Patients, as Measured by the FACT-G, * Measured by change from enrollment to 12 months
+* Used to measure a person's quality of life
+* 27 questions total
+* 5-point Likert scale
+* Reverse code select items per scoring guidelines at facit.org, then calculate a summary score for each respondent. The total score ranges from 0-108 points; higher scores indicate greater quality of life., Baseline, Month 12|Change in Caregiver Mental Health Quality of Life, as Measured by the Patient-Reported Outcome Measurement Information System (PROMIS-10), * Quality of life for informal caregivers will be measured using the 10-item Patient-Reported Outcome Measurement Information System (PROMIS-10), an instrument designed to measure perceptions of health using global health items. It contains a global physical health scale and a global mental health scale.
+* Scored by reverse coding with a raw score ranging from 0-20; 0 points represent the patient's most severe physical and/or mental impairment, while 20 points represent the best possible state of health. Scales are scored using the raw sum to T-score tables for physical health and mental health. T-scores range from 0-100; higher scores reflect better functioning.
+* Measured by change from enrollment to 3 months, Baseline, Month 3|Change in Caregiver Physical Health Quality of Life, as Measured by the Patient-Reported Outcome Measurement Information System (PROMIS-10), * Quality of life for informal caregivers will be measured using the 10-item Patient-Reported Outcome Measurement Information System (PROMIS-10), an instrument designed to measure perceptions of health using global health items. It contains a global physical health scale and a global mental health scale.
+* Scored by reverse coding with a raw score ranging from 0-20; 0 points represent the patient's most severe physical and/or mental impairment, while 20 points represent the best possible state of health. Scales are scored using the raw sum to T-score tables for physical health and mental health. T-scores range from 0-100; higher scores reflect better functioning.
+* Measured by change from enrollment to 6 months, Baseline, Month 6|Change in Caregiver Physical Health Quality of Life, as Measured by the Patient-Reported Outcome Measurement Information System (PROMIS-10), * Quality of life for informal caregivers will be measured using the 10-item Patient-Reported Outcome Measurement Information System (PROMIS-10), an instrument designed to measure perceptions of health using global health items. It contains a global physical health scale and a global mental health scale.
+* Scored by reverse coding with a raw score ranging from 0-20; 0 points represent the patient's most severe physical and/or mental impairment, while 20 points represent the best possible state of health. Scales are scored using the raw sum to T-score tables for physical health and mental health. T-scores range from 0-100; higher scores reflect better functioning.
+* Measured by change from enrollment to 6 months, Baseline, Month 12
+This is a two-arm, multi-site randomized controlled trial of 1,350 older adults (50+ years) with either advanced cancer (defined as metastatic solid tumor) or poor prognosis end-stage organ failure (New York Heart Association (NYHA) Class III or IV Congestive Heart Failure (CHF), End-Stage Renal Disease (ESRD), defined as Glomerular Filtration Rate (GFR) \< 15 ml/min/m2 or dialysis ; or Global Initiative for Chronic Obstructive Lung Disease (GOLD) Stage III or higher, or oxygen-dependent chronic obstructive pulmonary disease (COPD) who present to the Emergency Department (ED), along with 675 of their informal caregivers. Investigators will compare the effectiveness of two distinct palliative care models: a) nurse-led telephonic case management; and b) facilitated, outpatient specialty palliative care.

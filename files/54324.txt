@@ -1,0 +1,42 @@
+UCN-01 (7-Hydroxystaurosporine) to Treat Relapsed T-Cell Lymphomas
+This study will examine the effects of an experimental drug called UCN-01 (7-hydroxystaurosporine) on T-cell lymphomas. UCN-01 inhibits the growth of several different tumor cells, and, in laboratory studies, it has worked particularly well on tumor cells taken from patients with T cell lymphomas.
+
+Patients 9 years of age and older with T cell lymphoma that has relapsed or is not responding to chemotherapy may be eligible for this study. Candidates will be screened with a medical histories and physical examinations, blood and urine tests, electrocardiograms, chest x-rays, and computed tomography (CT) scans of the chest, abdomen and pelvis. Additional tests may be done if clinically indicated, such as positron emission tomography (PET) scans, bone marrow aspirations and biopsies, lumbar punctures (spinal taps) and CT's or magnetic resonance imaging (MRI) scans if there is evidence of central nervous system disease.
+
+Participants are given UCN-01 in 28-day treatment cycles. The drug is given by vein in a continuous 72-hour infusion on the first cycle and in 36-hour infusions on subsequent cycles. The total number of cycles patients receive depends on how well the tumor responds to the drug and how well the patient tolerates drug side effects. Patients who do well may receive treatment for up to 1 year. Patients whose disease worsens with treatment or who do not tolerate the therapy are taken off the study.
+
+Some or all of the screening tests are repeated periodically during the course of treatment to monitor safety and treatment response. X-rays and scans are done every other treatment cycle for the first 6 cycles and then, if the cancer is stable or improving, the interval between these imaging studies is lengthened to every 4 cycles. Patients whose tumors can be safely biopsied undergo this procedure before entering the study and 3 to 5 days after completing the first UCN-01 treatment. Biopsies requiring open surgery (e.g., in the chest or abdomen) are done only if absolutely necessary for medical care. Biopsy tissue, blood, and other fluids are analyzed for gene and protein studies related to lymphoma research.
+Lymphoma, Large-Cell, Ki-1|Lymphoma, T-Cell
+DRUG: UCN-01 (7-hydroxystaurosporine)
+Clinical Response Rate, Clinical Response Rate is the percentage of participants with a response assessed by the International Workshop to Standardize Response Criteria. Complete response (CR) is complete disappearance of all detectable clinical and radiographic evidence of disease. Complete response unconfirmed (CRu) is per CR criteria except that if a residual node is \>1.5cm, it must have regressed by \>75%. Partial response (PR) is no increase in size of nodes, liver or spleen. Progressive disease (PD) is a greater than or equal to 50% increase from nadir. Details re: response criteria, see the protocol link module, 74.5 months|Progression Free Survival (PFS), PFS is defined as the time interval from start of treatment to documented evidence of disease progression. Disease progression is assessed by the International Workshop to Standardize Response Criteria for non-Hodgkin's Lymphomas and is defined as a ≥50% increase from nadir in the sum of the products of the greatest diameters of any previously identified abnormal node for partial response's or non-responders or appearance of any new lesion during or at the end of therapy., 3.6 months|Overall Survival (OS), OS is defined as the date of on-study to the date of death from any cause or last follow up., 55 months
+Number of Participants With Adverse Events, Here is the number of participants with adverse events. For a detailed list of adverse events, see the adverse event module., 76 months
+Effect of UCN-01 on Soluble TAC Cluster of Differentiation 25 (CD25), Soluble TAC (CD25) levels will be assessed in patients with anaplastic large cell lymphoma., Day 3-5 after drug administration|Evaluation of Mature T-cell Lymphoma Cells by Complementary Double-Stranded Deoxyribonucleic Acid (cDNA) Microarray, Mature T-cells will be analyzed to identify gene expression changes that correlate with loss of a tumor suppressor gene in a human melanoma cell line., Day 3-5 after drug administration|Effect of UCN-01 on Anaplastic Lymphoma Kinase (ALK) Expression in ALCL, Gene expression patterns in participants ALK positive tumors will be assessed., Day 3-5 after drug administration
+Background:
+
+* UCN-01 (7-hydroxystaurosporine), a non-specific protein kinase C (PKC) inhibitor appears to have several mechanisms of action including protein kinase C (PKC) isoenzyme inhibition and cyclin dependent kinase activation and inhibition.
+* We have demonstrated that cell lines derived from T-cell lymphomas, including those with the t (2; 5) translocation, are very sensitive to UCN-01. The t (2; 5) translocation, associated with three quarters of cases of anaplastic large cell lymphomas (ALCL), is an oncogenic fusion protein - nucleophosmin-anaplastic lymphoma kinase (NPM-ALK).
+* Anaplastic lymphoma receptor tyrosine kinase (ALK) is one potential target for UCN-01 action, and anaplastic large cell lymphoma (ALCL) derived SUDHL-1 cells containing the NPM-ALK protein have been shown to be very sensitive to UCN-01.
+
+Objectives:
+
+* To assess the clinical response to UCN-01 and progression-free and overall survival in patients with relapsed or refractory systemic Anaplastic Large Cell and other mature T-cell Lymphomas.
+* To assess the effect of UCN-01 on ALK expression in ALCL cells.
+* To assess the effect of UCN-01 on soluble tetrameric antibody complexes (TAC) (CD25).
+* To evaluate mature T-cell lymphoma malignant cells by complimentary deoxyribonucleic acid (cDNA) microarray.
+
+Eligibility:
+
+* Relapsed or refractory systemic Anaplastic Large Cell Lymphoma (ALCL) with T or Null phenotype or relapsed or refractory mature T-cell lymphomas.
+* All patients should have evaluable or measurable disease on entry to study.
+* Requires systemic therapy
+* Performance Status Eastern Cooperative Oncology Group (ECOG) less than or equal to 2
+* Age 7 years or older
+* Human immunodeficiency virus (HIV) negative
+* Patients should not have received systemic cytotoxic chemotherapy within 3 weeks of study entry.
+
+Design:
+
+* The study will be a Phase II study.
+* Patients will receive the first cycle of UCN-01 over 72 hours on days 1-3 and subsequent cycles over 36 hours. Patients with stable disease may receive UCN-01 for up to 1 year beyond achieving maximum response or stable disease, and restaging will be done every 2 cycles for the first 6 cycles and every 4 cycles thereafter.
+* Two sequential biopsies will be performed to investigate complimentary deoxyribonucleic acid (cDNA) expression by microarray. Soluble Tac (CD25) will be serially followed in patients.
+* For each of the two histologies, this study will be conducted using a Simon two-stage optimal design. Up to 37 patients will be treated.

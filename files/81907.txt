@@ -1,0 +1,41 @@
+Contribution of Cerebral 18F-DOPA PET-CT Scan in High-grade Recurrent Gliomas
+High-grade gliomas represent 60 to 70% of adult glial tumors and are highly aggressive with average survival from 12 to 15 months for glioblastomas (WHO grade IV gliomas) and from 2 to more than 5 years for WHO grade III gliomas. The treatment of initial stage high-grade gliomas is made with the most complete excision surgery possible followed by adjuvant radiochemotherapy or an exclusive radiochemotherapy if excision is impossible. Most often, these treatments are followed by adjuvant chemotherapy.
+
+Treatment of recurrence is most often re-irradiation according to stereotaxic modalities. Determination of the volumes to be irradiated conditions effectiveness and tolerance in the planning of these treatments.
+
+The definition of Gross Tumor Volume (GTV) is based on enhancing - T1 magnetic resonance imaging (MRI) after gadolinium injection. A margin of 1-2 mm is applied to define the PTV (Planning Target Volume) or irradiated volume, approximately equal to the GTV-MRI.
+
+Amino acid PET-CT (Positon Emission Tomography with Computed Tomography) could be an interesting alternative to tumor delineation because its results, do not depend on the rupture of the blood-brain barrier. Several studies have used amino acid PET in the planning of radiotherapy treatment for high-grade gliomas, but without a well-conducted prospective study. In the recurrent high-grade glioma population, no studies have been performed with 18F-DOPA.( 6-fluoro-\[18F\]-L-dihydroxyphenylalanine) The question therefore relates to the interest of cerebral 18F-DOPA PET-CT to improve the delineation of the volumes to be re-irradiated, during the recurrence of high-grade gliomas, and on the optimal methodology for determining GTV- PET.
+
+To compare GTV-TEP and GTV-MRI volumes with each other, and the r-GTV, volume corresponding to the relapse objectified on the follow-up MRI, the analysis will be based on 3 parameters:
+
+* DICE index, similarity index between 2 volumes,
+* Contoured Common Volume (VCC), intersection of 2 volumes between them,
+* Additional Contoured Volume (VSC), total volume delineated with imaging minus the common volume between 2 imageries.
+
+Thus, within the rGTV relapse volume, it's important to know whether VSC of 18F-DOPA PET-CT is significant compared to that of MRI and would thus allow better definition of the volumes to be irradiated.
+High Grade Glioma
+DEVICE: Brain PET-CT of 18F-DOPA
+To determine the contribution of 18F-DOPA PET/CT in the prediction of the extension of recurrences of high-grade gliomas (method1), Percentage of additional volume contouring (VSC) from 18F-DOPA PET/CT versus MRI within the relapse volume after re-irradiation, using method 1 for GTV PET., 1 year
+To determine the contribution of 18F-DOPA PET/CT in the prediction of the extension of recurrences of high-grade gliomas with 2 other methods (method2 and 3), Percentage of additional volume contouring (VSC) from 18F-DOPA brain PET/CT versus brain MRI within the relapse volume after re-irradiation using the other two original delineation methods:
+
+(i) Method 2 (ii) Method 3, 1 year|Determine the optimal method for GTV-PET delineation from brain 18F-FDOPA PET/CT with respect to its relationship to rGTV., Concordance of the 3 different GTV-TEP and rGTV assessed by the DICE index.
+
+The DICE index is interpreted as a Kappa value:
+
+* \<0: High disagreement
+* 0.21-0.40 : Low agreement
+* 0.41-0.6 : Medium agreement
+* 0.61-0.8 : Strong agreement
+* 0.81-1 : Excellent agreement, 1 year|Determine the relationships between the 3 GTV-PETs and the GTV-MRI or initial radiation volume., Concordance of the 3 different GTV-PET and GTV-MRI assessed by the DICE index., 1 year
+The use of contrast enhancement in enhancing -T1 MRI, due to the rupture of the blood-brain barrier may underestimate the volume to be irradiated. The natural course of these gliomas after first irradiation is a second relapse within 12 months with, in 40% of cases, relapses outside the initial radiation field.
+
+Amino acid PET-CT (Positon Emission Tomography with Computed Tomography) could be an interesting alternative to tumor delineation because its results, do not depend on the rupture of the blood-brain barrier. Several studies have used amino acid PET in the planning of radiotherapy treatment for high-grade gliomas, but without a well-conducted prospective study. In the recurrent high-grade glioma population, no studies have been performed with 18F-DOPA.( 6-fluoro-\[18F\]-L-dihydroxyphenylalanine) The question therefore relates to the interest of cerebral 18F-DOPA PET-CT to improve the delineation of the volumes to be re-irradiated, during the recurrence of high-grade gliomas, and on the optimal methodology for determining GTV- PET.
+
+To compare GTV-TEP and GTV-MRI volumes with each other, and the r-GTV, volume corresponding to the relapse objectified on the follow-up MRI, the analysis will be based on 3 parameters:
+
+* DICE index, similarity index between 2 volumes,
+* Contoured Common Volume (VCC), intersection of 2 volumes between them,
+* Additional Contoured Volume (VSC), total volume delineated with imaging minus the common volume between 2 imageries.
+
+Thus, within the rGTV relapse volume, it's important to know whether VSC of 18F-DOPA PET-CT is significant compared to that of MRI and would thus allow better definition of the volumes to be irradiated.

@@ -1,0 +1,25 @@
+[68Ga]Ga-FAPI-46 Positron Emission Tomography (PET) Scan to Improve the Imaging of Pancreatic and Bile Duct Cancer
+The goal of this clinical trial is to evaluate the clinical use of \[68Ga\]Ga-FAPI-46 PET (positron emission tomography)/CT (computed tomography) imaging in patients with pancreatic or bile duct cancer. The study consists of three parts and patients can only participate in one part of the study.
+
+The main questions the study aims to answer are:
+
+* In part A: What is the best timing and scanprotocol of a \[68Ga\]Ga-FAPI-46 PET/CT scan?
+* In part B: Are the results of the simplified scan protocol repeatable?
+* In part C: What is the accuracy of \[68Ga\]Ga-FAPI-46 PET/CT to detect pancreatic cancer and is it able to detect the effect of chemotherapy on pancreatic cancer lesions?
+
+Participants in this study will be asked to undergo the following:
+
+* In part A: participants will undergo 1 \[68Ga\]Ga-FAPI-46 PET/CT scan and will have 2 venous canullas and 1 arterial cannula placed.
+* In part B: participants will undergo 2 \[68Ga\]Ga-FAPI-46 PET/CT scans and will have a venous cannula placed for each scan.
+* In part C: participants will undergo 2 \[68Ga\]Ga-FAPI-46 PET/CT scans and will have a venous cannula placed for each scan.
+Pancreatic Cancer|Cholangiocarcinoma
+DIAGNOSTIC_TEST: [68Ga]Ga-FAPI-46 PET/CT
+Semi quantitative measurements of [68Ga]Ga-FAPI-46 tracer, \[68Ga\]Ga-FAPI-46 tracer uptake (SUV max, SUVmean and SUVpeak) in primary tumour, lymph node and distant metastases and background uptake in a dynamic scan protocol (expressed in Standardised Uptake Values)., 3 months|Blood activity measurements of [68Ga]Ga-FAPI-46 tracer, \[68Ga\]Ga-FAPI-46 blood activity concentration (expressed in kBq/ml), 3 months|Plasma to blood ratio of [68Ga]Ga-FAPI-46 tracer, \[68Ga\]Ga-FAPI-46 plasma to blood ratio (expressed in kBq/ml), 3 months|Repeatability, The daily variability (average percentage of difference) of the preferred simplified method for quantification of \[68Ga\]Ga-FAPI-46., 3 months|Diagnostic accuracy, Per lesion analysis of diagnostic accuracy of \[68Ga\]Ga-FAPI-46 PET/CT using visual, semi quantitative and histopathological results., 3 months|Response monitoring, Accuracy of response monitoring of neoadjuvant therapy using \[68Ga\]Ga-FAPI-46 PET/CT in comparison to conventional imaging and histopathological results., 3 months
+Agreement imaging and pathology, Percentage of agreement between tumor uptake on the \[68Ga\]Ga-FAPI-46 PET/CT scan, histopathologic evidence of tumor, and the expression of FAP (IHC)., 3 months|Agreement imaging modalities, Percentage of agreement between different imaging modalities (\[68Ga\]Ga-FAPI-46 PET/CT and CT , MRI or FDG PET/CT)., 3 months|Imaging and tumor regression, Correlation between \[68Ga\]Ga-FAPI-46 PET/CT signal to tumor regression (MDACC method)., 3 months|Change of therapy management, Percentage of potential change of therapy management enabled by \[68Ga\]Ga-FAPI-46 PET/CT., 3 months|Response prediction first scan, Sensitivity of response prediction of neoadjuvant therapy based on the first \[68Ga\]Ga-FAPI-46 PET/CT., 3 months|Resectability (based on DPCG criteria), Accuracy of determining surgical resectability, based on DPCG criteria, using \[68Ga\]Ga-FAPI-46 PET/CT., 3 months|Diagnostic accuracy of incidental findings, Determine the diagnostic accuracy of incidental findings on \[68Ga\]Ga-FAPI-46 PET/CT using other imaging modalities, histopathological results, biopsy results, follow-up or a combination of the previous., 3 months
+Pancreaticobiliary cancer patients have a dismal prognosis. Therefore, patient stratification for the proper primary treatment is crucial to prevent unnecessary surgery and opens up the opportunity for novel (multimodal) treatment. Unfortunately, conventional imaging modalities are not sensitive enough to detect small tumor lesions or differentiate between benign and malignant tissue after neoadjuvant therapy. Tumor-specific imaging, using PET/CT imaging, can identify tumor tissue more accurately and therefore can improve lesion detection and patient stratification. Fibroblast activation protein (FAP) shows promise as a target to identify pancreaticobiliary cancers, lymph node metastases, and residual disease after neoadjuvant therapy. The FAP targeted inhibitor (FAPI) is developed to target FAP and has been labelled to the Gallium-68 (68Ga) radioisotope, resulting in the \[68Ga\]Ga-FAPI-46 tracer.
+
+This study will be a three part monocenter study focusing on the clinical evaluation of \[68Ga\]Ga-FAPI-46.
+
+* In part A, the pharmacokinetics of this tracer will be studied and the simplified method(s) to quantify tracer uptake will be validated.
+* In part B, a test-retest study will be performed to assess the repeatability of these simplified quantitative methods.
+* In part C, the sensitivity and feasibility of therapy response monitoring will be investigated.

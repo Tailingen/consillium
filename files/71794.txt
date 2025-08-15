@@ -1,0 +1,57 @@
+Tamoxifen Citrate or Letrozole With or Without Bevacizumab in Treating Women With Stage IIIB or Stage IV Breast Cancer
+This randomized phase III trial studies tamoxifen citrate or letrozole together with bevacizumab to see how well it works compared with tamoxifen citrate or letrozole alone in treating women with stage IIIB or stage IV breast cancer. Estrogen can cause the growth of breast cancer cells. Hormone therapy using tamoxifen citrate or letrozole may fight breast cancer by blocking the use of estrogen by the tumor cells. Immunotherapy with monoclonal antibodies, such as bevacizumab, may induce changes in the body's immune system and may interfere with the ability of tumor cells to grow and spread. It is not yet known whether giving hormone therapy is more effective with or without bevacizumab in treating advanced breast cancer.
+Invasive Breast Carcinoma|Recurrent Breast Carcinoma|Stage III Breast Cancer AJCC v6|Stage IV Breast Cancer AJCC v6 and v7
+BIOLOGICAL: Bevacizumab|OTHER: Laboratory Biomarker Analysis|DRUG: Letrozole|OTHER: Questionnaire Administration|DRUG: Tamoxifen Citrate
+Progression-free Survival, The Primary Endpoint for this study was to compare the progression-free survival of letrozole therapy alone with the combination of letrozole therapy plus bevacizumab as first-line treatment in women with estrogen- and/or progesterone-receptor-positive advanced breast cancer. Progression-free survival (PFS) was defined as the time from randomization until disease progression or death, whichever occurs first. The median PFS was estimated using the Kaplan-Meier method. Progression was assessed per RECIST criteria, and defined as at least a 20% increase in the sum of the longest diameters of target lesions from baseline or the appearance of new lesions., From randomization until disease progression or death whichever occurs first, assessed up to 5 years
+12 Month Progression Free Survival Rate, The 12 month progression-free survival rate was defined as the proportion of patients who were alive progression-free 12 months after registration into the study., At 12 months|6 Month Progression-Free Survival Rate, The 6 month progression-free survival rate was defined as the proportion of patients who were alive progression-free 6 months after registration into the study., At 6 months|Objective Response Rate, Response was defined using RECIST criteria: Complete Response (CR): disappearance of all target lesions; Partial Response (PR) 30% decrease in sum of longest diameter of target lesions., Assessed up to 5 years|Overall Survival (OS), OS is defined as the time from study entry to death from any cause. The median OS was estimated using the Kaplan-Meier method., Assessed up to 5 years|Duration of Tumor Response, Defined by RECIST criteria., From the time measurement criteria are met for CR/PR (whichever is first recorded) until the first date that recurrent or progressive disease is objectively documented, assessed up to 5 years|Probability of Surviving Until 36 Months, At 36 months|Site of Progression, Up to 5 years|Time-to-treatment Failure, From randomization until first disease progression, early termination of protocol therapy due to toxicity or withdrawn consent, or going onto non-protocol therapy. Defined by RECIST criteria. The proportional hazards model will be used to compare the arms on time-to-treatment-failure, Up to 5 years|Treatment Related Toxicity, Graded using the National Cancer Institute Common Terminology Criteria for Adverse Events version 4.0. Tabulated by type, grade, and arm., Up to 5 years
+PRIMARY OBJECTIVES:
+
+I. To compare the progression-free survival of letrozole therapy alone with the combination of letrozole therapy plus bevacizumab as first-line treatment in women with estrogen- and/or progesterone-receptor-positive advanced breast cancer.
+
+SECONDARY OBJECTIVES:
+
+I. To compare the proportion of patients receiving letrozole alone, who remain progression-free at 6 and 12 months, to those receiving letrozole plus bevacizumab.
+
+II. To compare the incidence of objective response (complete response \[CR\] + partial response \[PR\]) in patients receiving letrozole with and without bevacizumab, as determined by Response Evaluation Criteria in Solid Tumors (RECIST) criteria, excluding patients with non-measurable disease.
+
+III. To compare the incidence of clinical benefit (CR + PR + stable disease \>= 6 months) in patients receiving letrozole with and without bevacizumab.
+
+IV. To compare the duration of objective response in patients receiving letrozole with and without bevacizumab.
+
+V. To compare the time to treatment failure in patients receiving letrozole with and without bevacizumab.
+
+VI. To compare the overall survival of patients receiving letrozole with and without bevacizumab, including the probability of survival until 36 months.
+
+VII. To compare toxicity levels between the bevacizumab arm and the arm without bevacizumab in both the letrozole-treated patients and in the tamoxifen-treated patients.
+
+VIII. To compare progression-free survival and overall survival of all patients receiving endocrine therapy with and without bevacizumab (by combining both letrozole and tamoxifen\* patient subgroups).
+
+CORRELATIVE OBJECTIVES:
+
+I. To compare baseline and changes in serial levels of circulating endothelial cells and circulating tumor cells in patients treated with endocrine therapy alone or endocrine therapy plus bevacizumab, and to explore the relationship of these markers with progression free survival.
+
+II. To conduct proteomic analysis of longitudinal samples from patients with advanced-stage disease undergoing hormonal therapy to define new serum-based biomarkers related to disease activity.
+
+III. To identify biologic correlates that will predict progression-free survival (PFS) and response to therapy.
+
+IV. To conduct pharmacogenomic assessment of candidate variants in the VEGF, CYP2D6, and CYP19 genes and evaluate their association with PFS and other study outcomes.
+
+V. To identify single nucleotide polymorphisms (SNPs) associated with progression free survival in the genome-wide approach (GWAS).
+
+VI. To identify factors other than chronological age that predict the risk of grade 3, 4 or 5 toxicity with bevacizumab and endocrine therapy by means of functional age assessment measures.
+
+VII. To perform an exploratory analysis of the ability of the other factors included in the functional age assessment (either individual or in combination), to predict the risk of grade 3, 4 or 5 toxicity.
+
+VIII. To evaluate longitudinal changes in the parameters of the factors described in objective VI while on therapy.
+
+OUTLINE: Patients are randomized to 1 of 2 treatment arms.
+
+NOTE: The placebo-controlled portion of the study was canceled on 5-15-10.
+
+ARM I: Patients receive endocrine therapy\* (tamoxifen citrate or letrozole) orally (PO) once daily (QD) on days 1-21 and bevacizumab intravenously (IV) over 30-90 minutes on day 1. Treatment repeats every 21 days in the absence of disease progression or unacceptable toxicity.
+
+ARM II: Patients receive endocrine therapy\* (tamoxifen citrate or letrozole) PO QD on days 1-21. Treatment repeats every 21 days in the absence of disease progression or unacceptable toxicity.
+
+After completion of study therapy, patients are followed up every 6 months for the first 2 years and then annually for up to 3 years.
+
+\* NOTE: As of 5/15/2011, patients only receive letrozole.

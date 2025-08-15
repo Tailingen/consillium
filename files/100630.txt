@@ -1,0 +1,22 @@
+Immediate Allogeneic Hematopoietic Stem Cell Transplantation Versus Re-treatment for Patients With High-Risk Acute Myeloid Leukemia
+This study aims to investigate whether immediate HSCT for patients with high-risk AML and intermediate-risk AML who have not achieved complete remission (CR) after their first induction therapy is non-inferior to re-treatment with chemotherapy.
+AML
+OTHER: ImmediateAllogeneic Hematopoietic Stem Cell Transplantation|OTHER: Retreatment
+treatment success, The primary endpoint, treatment success defined as complete remission on day 56 after allogeneic HCT, was defined as dichotomous success rate., day 56 after allogeneic HCT
+Cumulative Incidences of Allogeneic HSCT, 1. Starting point: Randomization
+2. Event: allogeneic HCT
+3. Competing events: death, withdrawal, HSCT rates at 4,8,16, and 24 weeks|Incidence of Complete Remission from Randomisation, 1. Starting point: randomization
+2. Event: Date of first documented CR or CRi or CRchim
+3. Competing Event: Death before CR/CRi/CRchim
+4. Administrative Censoring: not achieve a CR or CRi by six months
+
+b) Starting point: day 56 c) Events: Relapse (both, hematologic or molecular) and death, Date of first documented CR or CRi or CRchim Death before CR/CRi/CRchim not achieve a CR or CRi by six months|Overall survival after HCT, 1. Starting point: HCT
+2. Event: Death, Death|Event-free survival after HCT, 1. Starting point: HCT
+2. Events: death before relapse, relapse (both, hematological or molecular), and failure to achieve a CR at final remission assessment, death before relapse, relapse (both, hematological or molecular), and failure to achieve a CR at final remission assessment|Leukemia-free survival from day 56 after alloHCT for patients who met the primary endpoint, efined only for per-protocol treated patients who met the primary endpoint b) Starting point: day 56 c) Events: Relapse (both, hematologic or molecular) and death, day 56|Rate of MRD Negative from Day 56 after HSCT, 1. defined only for per-protocol treated patients who met the primary endpoint
+2. Starting point: day 56
+3. Events: MRD Negative (including MPFC, qPCR and NGS) and death, day 56|7. Overall Survival from Randomization: Measured from the start of randomization, with the primary event being death., 1. Starting point: Randomization
+2. Event: Death, Death
+1. Disease control group: patients proceeded to allogeneic HSCT as soon as possible. Patients were allowed to receive low-dose chemotherapy that is not intended for the purpose of achieving a second remission.
+2. Retreatment group: Receive a second course of anti-leukemic treatment prior to allogeneic HSCT. The anti-leukemic treatment regimen will be determined based on the genetic mutation status. Patients without targetable mutations will receive a combination of BCL-2 inhibitors and demethylating agents as salvage chemotherapy. Patients with targetable mutations will receive appropriate targeted therapy (e.g., FLT3 inhibitors, IDH inhibitors).
+
+For patients who have already received targeted therapy during induction treatment, the researchers may choose the treatment regimen based on the individual patient's condition.

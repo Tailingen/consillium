@@ -1,0 +1,33 @@
+Vudalimab (XmAb20717) in Combination With Standard of Care Treatment in Patients With Metastatic Castration Sensitive Prostate Cancer
+This phase I trial tests the safety and effectiveness of vudalimab (XmAb20717) in combination with standard of care treatment abiraterone, enzalutamide, or abiraterone plus docetaxel in treating patients with castration sensitive prostate cancer that has spread to other places in the body (metastatic). Immunotherapy with monoclonal antibodies, such as vudalimab, may help the body's immune system attack the cancer, and may interfere with the ability of tumor cells to grow and spread. Adding vudalimab to standard of care treatments may be effective in treating metastatic castration sensitive prostate cancer.
+Castration-Sensitive Prostate Carcinoma|Metastatic Prostate Adenocarcinoma|Stage IVB Prostate Cancer AJCC v8
+DRUG: Abiraterone|PROCEDURE: Biospecimen Collection|PROCEDURE: Bone Scan|PROCEDURE: Computed Tomography|DRUG: Docetaxel|DRUG: Enzalutamide|PROCEDURE: FDG-Positron Emission Tomography|PROCEDURE: Magnetic Resonance Imaging|PROCEDURE: PSMA PET Scan|DRUG: Vudalimab
+Incidence of Adverse Events, Will be assessed using the National Cancer Institute, Common Terminology Criteria for Adverse Events, Version 5.0 where, Grade 1: Mild; asymptomatic or mild symptoms; clinical or diagnostic observations only; intervention not indicated.
+
+Grade 2: Moderate; minimal, local or noninvasive intervention indicated; limiting age appropriate instrumental activities of daily living.
+
+Grade 3: Severe or medically significant but not immediately life-threatening; hospitalization or prolongation of hospitalization indicated; disabling; limiting self-care activities of daily living Grade 4: Life-threatening consequences; urgent intervention indicated. Grade 5: Death related to adverse event. Descriptive statistics will be used to summarize the toxicity profile of the intervention. Toxicities will be tabulated by grade, association, and cycle number., Up to 70 days post treatment|Radiographic Progression-Free Survival, Will be assessed per Prostate Cancer Working Group modified Response Evaluation Criteria in Solid Tumors (RECIST 1.1) as outlined in Prostate Cancer Working Group 31 (soft tissue to be assessed by RECIST 1.1, and bone disease to be assessed by Prostate Cancer Working Group 3) by radiologic evaluation.
+
+PSA response rate: PSA decline greater than or equal to 50% from baseline up to 24 weeks from treatment initiation., Up to 3 years
+Objective Response Rate, Will be summarized with the 2-sided 95% CI using the Clopper-Pearson method. Kaplan-Meier methods will be used to estimate median survival time or time-specific survival rate with a 95% confidence interval for rPFS or a time-to-event outcome., Up to 3 years|PSA Response Rate, PSA decline \>= 50% and will be calculated along with 95% exact confidence intervals.
+
+The fold change of the numbers of CD8 T-cells or other tumor-specific T-cells before and after treatment will be described by summary statistics (mean, median, Q1, Q3, standard deviation)., Baseline up to 24 weeks from treatment initiation|PSA undetectable rate, PSA undetectable rate will be assessed by PSA \< 0.2 ng/mL up to 24 weeks from treatment initiation. Will be estimated with the Kaplan-Meier method with time-specific rate estimated with 95%CI., Baseline up to 24 weeks from treatment initiation|Duration of response, Will be assessed per PCWG-modified RECIST 1.1 and calculated along with 95% exact confidence intervals., Up to 3 years
+PRIMARY OBJECTIVE:
+
+I. To determine the safety and tolerability of vudalimab (XmAb20717) in combination with standard of care treatment in subjects with metastatic castration sensitive prostate cancer (mCSPC) as assessed by frequency and intensity of adverse events.
+
+SECONDARY OBJECTIVE:
+
+I. To assess the preliminary antitumor activity of vudalimab (XmAb20717) with standard of care treatment.
+
+TERTIARY/EXPLORATORY OBJECTIVE:
+
+I. To identify factors that may be indicative of response to vudalimab (XmAb20717) in combination with standard of care treatments.
+
+OUTLINE: Patients are assigned to 1 of 3 cohorts.
+
+COHORT A: Patients receive vudalimab intravenously (IV) on days 1 and 15 plus abiraterone orally (PO) once daily (QD) of 4-week cycles on study. Patients also undergo prostate-specific membrane antigen (PSMA) positron emission tomography (PET) and fludeoxyglucose (FDG) PET scans during screening. Patients also undergo computed tomography (CT) and/or magnetic resonance imaging (MRI) scans, bone scans, and blood sample collection throughout the study.
+
+COHORT B: Patients receive vudalimab IV on days 1 and 15 plus enzalutamide PO QD of 4-week cycles on study. Patients also undergo PSMA PET and FDG PET scans during screening. Patients also undergo CT and/or MRI scans, bone scans, and blood sample collection throughout the study.
+
+COHORT C: Patients receive vudalimab IV on days 1 and 15, docetaxel IV on days 1 and 22 plus abiraterone PO QD of 6-week cycles on study. Patients also undergo PSMA PET and FDG PET scans during screening. Patients also undergo CT and/or MRI scans, bone scans, and blood sample collection throughout the study.

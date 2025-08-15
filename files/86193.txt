@@ -1,0 +1,44 @@
+CC-4047 in Treating Patients With Myelofibrosis
+RATIONALE: Biological therapies, such as CC-4047, may stimulate the immune system in different ways and stop cancer cells from growing. CC-4047 may also stop the growth of cancer cells by blocking blood flow to the cancer.
+
+PURPOSE: This trial is studying the side effects and best dose of CC-4047 and to see how well it works in treating patients with myelofibrosis.
+Chronic Myeloproliferative Disorders|Secondary Myelofibrosis
+DRUG: CC-4047
+Determine the Maximum Tolerated Dose of CC-4047, Starting at a dose level of 2.5 mg/d on days 1-21 in every 28 day cycle, participants were accrued in cohorts of three to assess dose limiting toxicities (DLT) and determine the maximum tolerated dose (MTD). Dose escalation at increments of 0.5 mg/d was done if no subject had a DLT (a grade 4 or higher hematologic toxicity or a grade 3 or higher febrile neutropenia or a grade 3 or higher non-hematologic toxicity) in cycle 1. Subsequent cohorts were treated until the maximum tolerated dose (MTD) was reached (dose level before that which results in a DLT in \>1 of 6 subjects). Subsequent participants were treated at the MTD, those without response at the MTD after 3 cycles were lowered to the minimal efficacious dose (MED) of 0.5 mg daily. Here, we are reporting the percentage of participants in Phase I with a DLT at each dose level., The first 28-day cycle of treatment.|Best Overall Response Over the First 6 Cycles of Treatment, Response evaluation:
+
+Complete Remission (CR):
+
+Neutrophil count between 1 to 10 x 10\^9/L without peripheral blasts in blood or bone marrow.
+
+Partial Hematologic Response/Partial Remission (PR):
+
+Increase in neutrophil by 50% + above 10\^9/L for neutropenia)
+
+Clinical Improvement (CI):
+
+Increase in Neutrophil count, hemoglobin, platelet count or reduction in blood/marrow blasts., Every cycle of treatment for 6 cycles. Each cycle is 28 days.
+Number of Participants With Treatment Related Adverse Events., Adverse events (AE) that are classified as either possibly, probably, or definitely related to study treatment according to the National Cancer Institute Common Toxicity Criteria for Adverse Events (NCI CTCAE version 3.0). The maximum grade for each type of AE will be recorded for each patient. The number of participants with grade 3 or higher adverse events at least possibly related to study treatment are reported here., During treatment and every 6 months until 3 years from registration or progression.|Duration of Response Time, Duration of response is defined as the date at which the patient's objective status is first noted to be a CR, PR or CI to the date progression is documented (if one has occurred) or to the date of last follow-up(for those patients who have not progressed)., Time from response to disease progression, intolerance of study drug, or death.|Time to Response, The time to response is defined as the time from study registration to the first date at which the patient's objective status was classified as a response (CR, PR or CI). In patients who do not achieve a response, time to response will be censored at the patient's last evaluation date. The distribution for each of these event-time variables (duration of response and time to response) will be estimated by Kaplan-Meier curves., Time from registration to the first date of response within twelve 28-day cycles of treatment.
+OBJECTIVES:
+
+Phase I:
+
+Primary
+
+* To determine the Maximum Tolerated Dose of CC-4047 in the treatment of Primary, Post Polycythemia Vera, or Post Essential Thrombocythemia Myelofibrosis (PMF, post-PV MF, or post-ET MF).
+
+Phase II:
+
+Primary
+
+* Best overall response as determined by International Working Group Criteria over the first 6 cycles (168 days) of study treatment.
+
+Secondary
+
+* Safety (type, frequency, severity \[National Cancer Institute (NCI) Common Terminology Criteria for Adverse Events (CTCAE) version 3.0\] of adverse events (AEs), and relationship of AEs to CC-4047.
+* Duration of response.
+* Time to response.
+* Best overall response as determined by International Working Group Criteria over the first 12 cycles (336 days) of study treatment.
+
+OUTLINE: Patients receive oral CC-4047. Treatment repeats every 28 days in the absence of disease progression or unacceptable toxicity.
+
+After completion of study treatment, patients are followed at 28 days and then every 6 months for up to 3 years.

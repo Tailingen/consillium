@@ -1,0 +1,22 @@
+SBRT as a Vaccination for Metastatic Melanoma
+Immunotherapy with PD-1 blockade is a first-line treatment for patients with advanced melanoma, but unfortunately most patients progress on this therapy. Recent evidence suggests that radiation can enhance the immune response in the presence of checkpoint blockade. The investigators aim to determine if radiation can elicit increased immune responses in patients who have stable or progressive disease on nivolumab.
+Metastatic Melanoma
+DRUG: Nivolumab 10 MG/ML Intravenous Solution [OPDIVO]|RADIATION: Stereotactic Body Radiation Therapy (SBRT)
+Safety of SBRT in the presence of immune checkpoint blockade (ICB) as measured by number of participants experiencing adverse events, Number of participants with advanced unresectable melanoma, receiving SBRT in the presence of ICB who experience metabolic or hematological, or non-hematological adverse events Grade 3 or higher, as defined by CTCAE v4.0, 12 weeks
+Clinical abscopal effect as assessed by number of unradiated lesions with response per RECIST 1.1., Number of lesions that are not targeted by SBRT with any response as defined by RECIST 1.1 criteria. Complete response (CR) = disappearance of all target lesions and normalization of tumor marker levels; Partial response (PR) = decrease from baseline \>= 30% in the sum of the longest diameter of all target lesions., 12 weeks
+To determine safety of stereotactic body radiation therapy (SBRT) in presence of ICB in patients with advanced unresectable melanoma. Toxicity will be deemed acceptable if the rate of Grade 3+ adverse events (CTC v4) is ≤ 33%, with relevant AEs defined as either of the following occurring between the start of SBRT and 12 weeks following SBRT completion:
+
+* Any grade 3-5 metabolic or hematological toxicity that is related, probably related or possibly related to nivolumab or SBRT.
+* Any grade 3-5 non-hematological toxicity that is related, probably related or possibly related to SBRT.
+
+Secondary Endpoints:
+
+• To determine whether SBRT results in a clinical abscopal effect on unirradiated lesions. The hypothesized rate of abscopal effect is \>14%.
+
+Exploratory Correlative studies:
+
+* In select patients for whom TCRseq reveals clonal expansion in non-irradiated tumor and serial blood specimens, the relevance of such expansion to tumor-specific responses will be investigated using mutation-associated neoantigens (MANAFEST) assays.
+* Serial stool specimens will be studied to correlate potential changes in microbiome with abscopal effect.
+* To determine whether SBRT promotes clonal expansion of melanoma-specific T-cells, in both peripheral blood and within TME of non-irradiated lesions.
+* To determine whether TCR clonal expansion correlates with clinically observed abscopal response.
+* To identify additional immunological biomarkers in the non-irradiated (abscopal) TME using intratumoral gene expression profiling to assess for induction and upregulation of a Type I IFN signature among responders1-3. IHC in TME will be used to characterize modulation of immune cell populations pre- and post-SBRT, and to assess correlation of PD-L1 and other immune-checkpoint receptor expression with responsiveness to SBRT and changes in TME post-SBRT.

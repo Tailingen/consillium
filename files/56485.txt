@@ -1,0 +1,67 @@
+An Observational Study, Called DEAR, to Learn More About Treatment With Darolutamide, Enzalutamide and Apalutamide in Men With Non-metastatic Castration-resistant Prostate Cancer in Real World Settings
+This is an observational study in which patient data from the past on men with non-metastatic castration-resistant prostate cancer are studied. In observational studies, only observations are made without specified advice or interventions.
+
+Non-metastatic castration-resistant prostate cancer (nmCRPC) is a type of cancer of the prostate that has not yet spread to other parts of the body, but that no longer responds adequately to initial hormone therapy/androgen deprivation therapy (ADT).
+
+Androgens are male sex hormones such as testosterone. As they stimulate the growth of prostate cancer cells, low androgen levels are needed to reduce or slow the growth of these tumors. To reduce androgen levels in prostate cancer patients, the testes are removed through surgery or radiotherapy and subsequently androgen deprivation therapy (ADT) is started.
+
+In men with nmCRPC, the cancer worsens despite low testosterone levels (also called castration resistant). This worsening is called "biochemical progression" as there is an increase in the blood level of cancer biomarkers, such as prostate specific antigen \[PSA\] without detectable disease.
+
+PSA is a protein that is made by both normal cells and by cancerous cells in the body. Thus, PSA levels can be taken as a marker for prostate cancer development. Men with nmCRPC usually have higher levels of PSA than normal. They are considered "high risk" if they show signs of quickly increasing PSA levels as this could mean that the tumor is growing and might spread to other parts of the body.
+
+Second generation androgen receptor inhibitors (SGARIs) including Darolutamide, Apalutamide, and Enzalutamide are available for the treatment of nmCRPC in addition to ADT. SGARIs work by blocking androgens from attaching to proteins in cancer cells in the prostate.
+
+It is already known that men with nmCRPC benefit from these treatments, but as men with nmCRPC commonly have no symptoms, an important therapeutic goal is to minimize side effects which can impact the patients' quality of life and potentially lead to the patient stop the treatment.
+
+Comparative studies using data from the same database to show how treatment with Darolutamide, Apalutamide, and Enzalutamide differ from each other, are missing. In addition, there are only limited information regarding using Darolutamide, Apalutamide, and Enzalutamide in real-world settings.
+
+In this study data are collected from the same database to learn how Darolutamide, Enzalutamide and Apalutamide are used and how safe they are under real world conditions in men with nmCRPC, who had not been treated before with SGARI or another drug called abiraterone.
+
+The main purpose is to learn to what extent SGARI treatments are taken as prescribed. To find this out, the researchers will count the number of participants who have stopped their treatment with Darolutamide, Enzalutamide or Apalutamide at or before:
+
+* 6 months
+* 12 months
+* 18 months of treatment in usual practice. In addition, characteristics of each participant group and the reason for discontinuation (stopping the treatment) will be collected and described.
+
+The researchers will also collect any medical problems during treatment and up to 30 days after stopping the treatment and that may or may not be related to the study treatment. These medical problems are also known as "adverse events" (AE).
+
+The data for this study will come from the US urology EMR ( Electronic Medical Record) database.
+
+This study will include all US patients identified in the Precision Point Specialty (PPS) urology electronic medical record (EMR) database between August 1, 2019 and September 30, 2021. The researchers will collect data from each patient for a minimum of 6 months after initiation of the SGARI treatment and up to the end of the study (March 31, 2022) or latest data cut available at the start of data extraction.
+
+There are no required visits in this study and treatment will not be influenced.
+Non-metastatic Castration-resistant Prostate Cancer
+DRUG: Darolutamide (Nubeqa, BAY1841788)|DRUG: Enzalutamide|DRUG: Apalutamide
+Composite event of treatment discontinuation/progression, Retrospective analysis from 01-Aug-2019 to 31-Mar-2022
+Time to Composite event of discontinuation/progression, Retrospective analysis from 01-Aug-2019 to 31-Mar-2022|Treatment Discontinuation (non-composite event) of index treatment, Retrospective analysis from 01-Aug-2019 to 31-Mar-2022|Time to treatment discontinuation (days) (non-composite event) of each treatment cohort, Time from index date (first SGARI initiation) to the date medication was discontinued. Patients will be censored if they discontinued from study for any reason other than death or disease progression, e.g., lost to follow-up or end of study period or if patients had their care transferred, or were admitted to hospice., Retrospective analysis from 01-Aug-2019 to 31-Mar-2022|Reason for discontinuation of each treatment cohort, Reasons for discontinuation (if available) will be ascertained from patient charts summarized by SGARI group using frequencies and percentages, and will be grouped into the following categories: AE-related; Cost-related; Metastatic disease; Death; Other; Unknown., Retrospective analysis from 01-Aug-2019 to 31-Mar-2022|Proportion of patients switching to another SGARI therapy of each treatment cohort, Switching will be defined as switching from one SGARI to another, within 60 days from date of discontinuation of the first SGARI. If the structured data or patient charts indicate that another SGARI was prescribed, then the patient would be considered to have discontinued on the previous treatment., Retrospective analysis from 01-Aug-2019 to 31-Mar-2022|Dose changes during the follow-up period of each treatment cohort, All dose reductions or increases prescribed during the follow-up period will be recorded., Retrospective analysis from 01-Aug-2019 to 31-Mar-2022|Dose intensity during the follow-up period of each treatment cohort, Dose intensity will be estimated as the ratio of the actual dose given throughout the follow-up period, divided by the amount that should have been prescribed according to the initial dose., Retrospective analysis from 01-Aug-2019 to 31-Mar-2022|Frequency of all types of AEs of each treatment cohort, AEs during the index treatment will be identified from patient charts and supplemented with diagnosis codes from structured data. Frequency of all AEs, frequency of AEs of special interest (falls, fractures, rash, cognitive disorders, hypertension and fatigue) and of AEs leading to discontinuation will be described., Retrospective analysis from 01-Aug-2019 to 31-Mar-2022
+This is an observational study in which patient data from the past on men with non-metastatic castration-resistant prostate cancer are studied. In observational studies, only observations are made without specified advice or interventions.
+
+Non-metastatic castration-resistant prostate cancer (nmCRPC) is a type of cancer of the prostate that has not yet spread to other parts of the body, but that no longer responds adequately to initial hormone therapy/androgen deprivation therapy (ADT).
+
+Androgens are male sex hormones such as testosterone. As they stimulate the growth of prostate cancer cells, low androgen levels are needed to reduce or slow the growth of these tumors. To reduce androgen levels in prostate cancer patients, the testes are removed through surgery or radiotherapy and subsequently androgen deprivation therapy (ADT) is started.
+
+In men with nmCRPC, the cancer worsens despite low testosterone levels (also called castration resistant). This worsening is called "biochemical progression" as there is an increase in the blood level of cancer biomarkers, such as prostate specific antigen \[PSA\] without detectable disease.
+
+PSA is a protein that is made by both normal cells and by cancerous cells in the body. Thus, PSA levels can be taken as a marker for prostate cancer development. Men with nmCRPC usually have higher levels of PSA than normal. They are considered "high risk" if they show signs of quickly increasing PSA levels as this could mean that the tumor is growing and might spread to other parts of the body.
+
+Second generation androgen receptor inhibitors (SGARIs) including Darolutamide, Apalutamide, and Enzalutamide are available for the treatment of nmCRPC in addition to ADT. SGARIs work by blocking androgens from attaching to proteins in cancer cells in the prostate.
+
+It is already known that men with nmCRPC benefit from these treatments, but as men with nmCRPC commonly have no symptoms, an important therapeutic goal is to minimize side effects which can impact the patients' quality of life and potentially lead to the patient stop the treatment.
+
+Comparative studies using data from the same database to show how treatment with Darolutamide, Apalutamide, and Enzalutamide differ from each other, are missing. In addition, there are only limited information regarding using Darolutamide, Apalutamide, and Enzalutamide in real-world settings.
+
+In this study data are collected from the same database to learn how Darolutamide, Enzalutamide and Apalutamide are used and how safe they are under real world conditions in men with nmCRPC, who had not been treated before with SGARI or another drug called abiraterone.
+
+The main purpose is to learn to what extent SGARI treatments are taken as prescribed. To find this out, the researchers will count the number of participants who have stopped their treatment with Darolutamide, Enzalutamide or Apalutamide at or before:
+
+* 6 months
+* 12 months
+* 18 months of treatment in usual practice. In addition, characteristics of each participant group and the reason for discontinuation (stopping the treatment) will be collected and described.
+
+The researchers will also collect any medical problems during treatment and up to 30 days after stopping the treatment and that may or may not be related to the study treatment. These medical problems are also known as "adverse events" (AE).
+
+The data for this study will come from the US urology EMR ( Electronic Medical Record) database.
+
+This study will include all US patients identified in the Precision Point Specialty (PPS) urology electronic medical record (EMR) database between August 1, 2019 and September 30, 2021. The researchers will collect data from each patient for a minimum of 6 months after initiation of the SGARI treatment and up to the end of the study (March 31, 2022) or latest data cut available at the start of data extraction.
+
+There are no required visits in this study and treatment will not be influenced.

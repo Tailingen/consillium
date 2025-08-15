@@ -1,0 +1,18 @@
+Quality of Life as a Predictor of OS and PFS in Patients With Lung Cancer
+By 2020, lung cancer continues leading the first cause of cancer mortality and the second most common type of cancer in the world. There are limitations to early detection and then more than 60% of patients are diagnosed in advanced stages where there are no longer curative options; that situation is associated with high mortality and poor survival. It is known that some clinical and biochemical parameters of the disease have been recognized as prognostic factors; however, it has been described that a reduction in the overall global quality of life score, mainly by physical function, increased pain, and dysphagia, are associated with mortality, and having high social well-being and global quality of life scores are associated with a lower risk of death.
+
+Objective: This study will measure association between Health-Related Quality of Life levels and mortality and progression free survival in advanced non-small cell lung cancer patients
+
+Patients and methods:
+
+This study will include patients with lung cancer histopathological confirmed including bronchus or trachea.
+
+Methodologically, the study has two components: One related to the exposure variable (HRQL), which involves a scale validation study, and other related to the measurement of the association between HRQoL and survival outcomes, which involves a prospective cohort analytical observational study. This last component will be carried out specifically with a sample of patients with non-small cell lung cancer (NSCLC).
+
+Results and impact: The project contribute to the implementation of tools adapted and validated in the Colombian context to assess the quality of life in patients with lung cancer. Additionally, knowing the relationship between quality of life and traditional oncological outcomes will provide tools to give patients with comprehensive treatment, and to have a prognosis of the disease that incorporates psychosocial aspects
+Lung Cancers|Lung Cancer, Non-Small Cell
+Overall survival, Overall survival (OS) is the average amount of time a patient survives after being diagnosed with or starting treatment for a disease, 36 months
+Disease-Free Survival (DFS), Disease-free survival (DFS) is the time after treatment when a patient is free of cancer signs and symptoms, 36 months
+The validation process of the scale includes the evaluation of internal consistency, content validity, sensitivity to change, test-retest reliability and the data will be analyzed according to the item response theory. In the cohort study, the association between HRQoL levels, mortality and progression-free survival will be measured in 250 patients with non-small cell lung cancer.
+
+Analysis plan: Conventional methods of descriptive statistics will be applied in accordance with the characteristics of the variables. For validation procedures, exploratory and confirmatory factorial analysis techniques, estimation of correlation and internal consistency coefficients, and methods to compare means in repeated measures (ANOVA of repeated measures) will be used. In the cohort study, time-to-event models will be used (Cox proportional hazards models or parametric models, depending on the fulfillment of assumptions). Since the independent variable will have different times of measurement, time-to-event models will include methods that handle covariates that change over time.

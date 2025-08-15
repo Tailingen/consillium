@@ -1,0 +1,17 @@
+An Exosome-Based Liquid Biopsy for the Differential Diagnosis of Primary Liver Cancer
+It is sometimes difficult to precisely understand whether a primary liver cancer is a hepatocellular carcinoma or a cholangiocarcinoma. The researchers will develop and validate a liquid biopsy, based on exosomal content analysis and powered by machine learning, to help clinicians differentiate these two cancers before surgery.
+Hepatocellular Carcinoma|Intrahepatic Cholangiocarcinoma|Cholangiocarcinoma|Primary Liver Cancer|Primary Liver Carcinoma|Hepatic Cancer|Hepatic Carcinoma
+DIAGNOSTIC_TEST: ELUCIDATE
+Sensitivity, True Positive Rate: the probability of a positive test result, conditioned on the individual truly being positive, Through study completion, an average of 1 year
+Specificity, True Negative Rate: the probability of a negative test result, conditioned on the individual truly being negative, Through study completion, an average of 1 year|Proportion of correct predictions (true positives and true negatives) among the total number of cases (i.e., accuracy), A measure of trueness: proportion of correct predictions (both true positives and true negatives) among the total number of cases examined, Through study completion, an average of 1 year
+Primary liver cancers (PLCs) encompass a diverse group of malignancies originating from the liver, collectively ranking as the third leading cause of cancer-related mortality worldwide in 2020. Among PLCs, intrahepatic cholangiocarcinoma (ICC) and hepatocellular carcinoma (HCC) represent the most predominant subtypes. Despite their collective grouping as PLCs, ICC and HCC patients exhibit distinct etiologies, pathologies, and clinical characteristics, necessitating different treatment approaches. Accurate differentiation between ICC and HCC is paramount to optimize patient outcomes and guide personalized treatment decisions. However, a definitive diagnosis is often obtained only after the pathological review of the resected neoplastic tissue, which requires invasive tumor sampling and poses risks of complications such as hemorrhage and tumor cell seeding. Consequently, there is a pressing clinical need to develop noninvasive diagnostic approaches to achieve an accurate differential diagnosis for patients with these distinct forms of PLCs.
+
+This study involves the development and validation of a liquid biopsy, assessing circulating exosomal microRNAs (exo-miRNA) for indirect sampling of tumor tissue in the bloodstream. The researchers intend to harness machine learning and bioinformatics to create a cost-efficient, non-invasive, clinic-friendly assay with high sensitivity and specificity, aiding the differential diagnosis between ICC and HCC.
+
+The researchers intend to do so in three phases:
+
+1. To perform comprehensive small RNA-Seq from exo-miRNA from patients with ICC and HCC.
+2. To develop and train a differential diagnosis panel based on advanced machine-learning models to obtain a final differential diagnosis biomarker.
+3. To validate the findings in an independent cohort of ICC and HCC.
+
+In summary, this proposal promises to improve patient care and help clinicians perform a more reliable differential diagnosis between ICC and HCC in patients with primary liver cancer.

@@ -1,0 +1,14 @@
+Study of E7777 Prior to Kymriah for R/R DLBCL
+This is a single institution Phase I study to determine the maximum tolerated dose (MTD) of E7777 when given prior to cyclophosphamide/fludarabine (CY/Flu) lymphodepletion (LD) chemotherapy and Kymriah, a commercial tisagenlecleucel product, for the treatment of relapsed/refractory diffuse large B-cell lymphoma (DLBCL) who are at a higher risk for failure of CAR-T therapy.
+DLBCL|Diffuse Large B Cell Lymphoma|High-grade B-cell Lymphoma|DLBCL Arising From Follicular Lymphoma
+DRUG: E7777
+Number of participants experiencing dose limiting toxicity events, Dose Limiting Toxicity (DLT) is defined as any of the following events based on CTCAE v5 from the 1st infusion of E7777 through 21 days after the administration of tisagenlecleucel (\~28 days after E7777).
+
+* Grade 4 infusion related reaction (IRR) associated with E7777
+* Grade 4 or Grade 3 capillary leak syndrome (CLS)
+* Grade 3 or 4 liver function test abnormality that do not resolve to \<Grade 2 within 5 days
+* Grade 3 or 4 non-hematologic toxicity event that occurs after the administration of E7777 and before lymphodepleting therapy
+* Any adverse event that results in a delay of lymphodepleting therapy for more than 72 hours and attributed to E7777
+* Any Grade 5 adverse event, 28 Days Post E7777 infusion
+Number of participants experiencing adverse events, Number of participants experiencing adverse events related to E7777 to determine safety of the E7777, 100 days Post E7777 infusion|Number of participants experiencing disease free survival (DFS), Number of participants experiencing disease free survival (DFS) at 1 year, 1 year Post E7777 infusion|Number of participants experiencing overall survival (OS), Number of participants experiencing overall survival (DFS) at 1 year, 1 year Post E7777 infusion|Number of non-relapse mortality incidents at day 100, Number of participants experiencing non-relapse mortality at day 100 post E7777 infusion, 100 days Post E7777 infusion|Number of Grade 3 or 4 cytokine release syndrome (CRS) incidents, Number of participants experiencing Grade 3 or 4 cytokine release syndrome (CRS) after tisagenlecleucel therapy., 28 Days Post E7777 infusion|Number of Grade 3 or 4 immune effector cell associated neurotoxicity (ICAN) syndrome incidents, Number of participants experiencing Grade 3 or 4 immune effector cell associated neurotoxicity (ICAN) syndrome after tisagenlecleucel therapy., 28 Days Post E7777 infusion
+E7777 is a recombinant fusion toxin consisting of full-length human IL-2 fused to the catalytic domains of diphtheria toxin. This trial is designed to augment lymphodepletion prior to CAR-T cells by administration of a targeted immunotoxin against CD25-expressing T-cells. CD25 is expressed at high levels on Tregs but also on activated effector T cells. The use of the CAR-T cell product and associated apheresis and LD chemotherapy is considered standard of care (SOC).

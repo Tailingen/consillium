@@ -1,0 +1,114 @@
+Current Microsatellite Stability Results in Colon Cancer
+The goal of this prospective observational study is to learn more about how a specific type of DNA repair issue-called mismatch repair deficiency (dMMR)-affects colon cancer in people living in Turkey. The study will look at how often dMMR occurs, how it is reported, and how it relates to treatment outcomes.
+
+The main questions it aims to answer are:
+
+* How common is dMMR in colon cancer, and does it vary by where the tumor is in the colon?
+* How often is MSI (microsatellite instability) status reported in colon cancer biopsy reports before surgery?
+* How do different types of dMMR (such as MLH1/PMS2 loss, MSH2/MSH6 loss, or sporadic cases) affect survival over three years?
+
+Participants will:
+
+* Be people who had surgery for colon cancer between June 1, 2025 and May 31, 2026 at hospitals in Turkey that treat more than 30 colon cancer cases each year.
+* Have their medical and pathology data reviewed, including information about tumor location, biopsy results, surgery, and treatment.
+
+This study will not involve any new treatments. Instead, it will use existing medical records to better understand how to improve care and identify people who may benefit from immunotherapy. Results from this study will be shared at scientific meetings and published in medical journals.
+Colon Adenocarcinoma|MSI Positive Colorectal Cancer|MSI Negative Colorectal Cancer
+Prevalence and Anatomical Distribution of dMMR in Colon Cancer in Turkey, The proportion of colon cancer patients with mismatch repair deficiency (dMMR), stratified by tumor location (right-sided vs left-sided colon). This will be determined using immunohistochemical analysis of MMR protein expression (MLH1, PMS2, MSH2, MSH6) in resection specimens., Within 30 days post-operative based on final pathology report
+Frequency of MSI Reporting in Preoperative Endoscopic Biopsies, The percentage of colon cancer cases in which MSI status is documented in the preoperative endoscopic biopsy pathology report. The goal is to evaluate the current national practice of early MSI testing prior to definitive surgery., At time of initial diagnostic biopsy (baseline)|Three-Year Disease-Free Survival (DFS) and Overall Survival Across MMR Subtypes, Comparison of 3-year disease-free survival (DFS) among patients with MLH1/PMS2 loss, MSH2/MSH6 loss, and pMMR (sporadic) tumors. DFS is defined as the time from surgery to the first recurrence, metastasis, or death from any cause., 3 years from date of surgery
+This is a prospective, multicenter observational study designed to evaluate the distribution and clinical relevance of microsatellite instability (MSI) and mismatch repair (MMR) subtypes in patients undergoing curative colon cancer surgery across Turkey. The study will run between June 1, 2025, and May 31, 2026, and is being conducted to address gaps in national data on MSI frequency and subtype patterns, which have critical prognostic and therapeutic implications.
+
+Mismatch repair deficiency (dMMR) leads to genetic instability and is commonly associated with high levels of microsatellite instability (MSI-H). This condition results from the loss of expression in key MMR proteins-MLH1, PMS2, MSH2, and MSH6-and is linked to distinct tumor behaviors, including:
+
+* Improved overall survival compared to MMR-proficient tumors
+* Reduced risk of nodal and distant metastases
+* Increased resistance to 5-fluorouracil (5-FU) and potential sensitivity to oxaliplatin
+* Favorable response to immune checkpoint inhibitors, including neoadjuvant immunotherapy in selected patients with MSI-H/dMMR tumors
+
+The primary objective of this study is to determine the prevalence and anatomical distribution of dMMR in colon cancer.
+
+The secondary objective is to assess how frequently MSI status is reported in preoperative endoscopic biopsies.
+
+The tertiary objective is to compare 3-year disease-free survival (DFS) and overall survival (OS) across three subtypes:
+
+* MLH1/PMS2 loss
+* MSH2/MSH6 loss
+* Sporadic cases
+
+Study Procedures:
+
+Participating Centers:
+
+Hospitals with an annual volume of \>30 curative colon cancer surgeries will be invited to participate. Each center will assign a local principal investigator and sign a collaboration agreement.
+
+Data Collection:
+
+Demographic, clinical, surgical, histopathological, and molecular data will be collected. Specific variables include:
+
+* Age, sex
+* Clinical TNM stage
+* Tumor size and location
+* MSI status in both biopsy and resection specimens
+* Neoadjuvant treatment details
+* Histologic subtype and grade
+* Number of retrieved and metastatic lymph nodes
+* Presence of lymphatic, perineural, and venous invasion
+* Tumor budding
+* Immunohistochemical expression of MMR proteins (MLH1, PMS2, MSH2, MSH6)
+
+Eligibility:
+
+* Inclusion Criteria:
+* Signed informed consent
+* Undergoing curative colon cancer surgery between study dates
+* Routine MSI reporting available on biopsy and/or surgical specimens
+* Exclusion Criteria:
+* Non-adenocarcinoma malignancies of the colon
+* Rectal cancers
+
+Sample Size Assessment:
+
+To detect differences among three dMMR subtypes in terms of 3-year DFS and OS, a power analysis (Cohen's f = 0.25, α = 0.05, power = 80%) indicates a need for at least 122 dMMR patients. Assuming a dMMR prevalence of 8-15% and factoring in a 10% dropout rate, the total sample size is set at 1,500 patients.
+
+-
+
+Registry Quality and Data Management Plan (if registry or similar infrastructure is used):
+
+* Data Validation \& Quality Assurance:
+
+A centralized data monitoring team will oversee data quality. Double entry and logic checks will be applied to ensure internal consistency, and site investigators will be asked to verify a random subset of submitted data.
+
+* Source Data Verification:
+
+Data will be cross-checked with local hospital records or pathology databases, particularly for key variables like MSI status, protein loss, and survival endpoints.
+
+* Data Dictionary:
+
+A comprehensive data dictionary will define each variable, data source, coding conventions (e.g., WHO-DD or MedDRA), and applicable clinical thresholds (e.g., tumor size cutoffs, lymph node positivity).
+
+* Standard Operating Procedures (SOPs):
+
+SOPs will be established for:
+
+* Patient recruitment and consent
+* Data entry and verification
+* Histopathologic data review
+* MSI/MMR testing techniques
+* Management of missing or ambiguous data
+* Adverse event reporting (if applicable)
+* Periodic internal audits
+* Plan for Missing Data:
+
+Incomplete entries will be flagged and queried back to the site. Predefined rules will classify data as "missing," "not applicable," or "unavailable." Imputation will not be used for primary endpoints.
+
+* Statistical Analysis Plan:
+
+Descriptive statistics will summarize the distribution of dMMR and MSI status by tumor localization and other clinicopathological factors. Chi-square or Fisher's exact test will compare categorical variables.
+
+* Kaplan-Meier curves and log-rank tests will compare DFS and OS between subtypes.
+* Multivariable Cox regression models will adjust for confounders such as age, sex, stage, and treatment modality.
+* MSI reporting frequency in biopsy specimens will be expressed as percentages and evaluated by hospital characteristics.
+
+Dissemination Plan:
+
+Study results will be submitted to national and international congresses and peer-reviewed journals. Aggregated, de-identified datasets may be shared upon request with institutional permission.

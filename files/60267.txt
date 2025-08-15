@@ -1,0 +1,32 @@
+Lenalidomide With or Without Ixazomib Citrate and Dexamethasone in Treating Patients With Residual Multiple Myeloma After Donor Stem Cell Transplant
+This randomized phase II trial studies how well lenalidomide alone compared to lenalidomide, ixazomib citrate, and dexamethasone work in treating patients with multiple myeloma that remains (residual) after donor stem cell transplant. Lenalidomide may help the immune system kill abnormal blood cells or cancer cells and may also prevent the growth of new blood vessels that are needed for cancer growth. Ixazomib citrate may stop the growth of cancer cells by interfering with proteins necessary for cell growth. Drugs used in chemotherapy, such as dexamethasone, work in different ways to stop the growth of cancer cells, either by killing the cells, by stopping them from dividing, or by stopping them from spreading. It is not yet known whether lenalidomide is more effective with or without ixazomib citrate and dexamethasone in treating residual multiple myeloma.
+Plasma Cell Myeloma|Residual Disease
+DRUG: Ixazomib Citrate|DRUG: Lenalidomide|DRUG: Dexamethasone
+Rate of MRD between the two arms, as measured by flow cytometry and sequencing, The comparison will be made using a one sided test at the 10% significance level. This comparison will be performed using a Cochran Mantel-Haenszel (CMH) test stratified by very good partial response (VGPR) status and risk factors vs. no risk factors., At 12 months
+Overall response rate defined as an improvement from very good partial response (VGPR) to near complete response (nCR) or better than nCR including conversion from complete response (CR) to MRD negative disease according to IMWG criteria, The rate of overall response will be reported along with its exact 95% binomial confidence interval., At 6 months|Overall response defined as an improvement from VGPR to nCR or better than nCR including conversion from CR to MRD negative disease according to IMWG criteria, The rate of overall response will be reported along with its exact 95% binomial confidence interval., At 12 months|Duration of response (MRD-negative disease), Duration of response will be assessed conditionally upon achieving at least a partial response., From the date of the clinical examination, which confirmed the response, until the date of disease progression, or censoring at the date of last clinical follow-up, assessed up to 2 years|Time to progression, Time to event will be estimated using the product-limit method of Kaplan and Meier., Up to 2 years|Estimated PFS, Time to event will be estimated using the product-limit method of Kaplan and Meier. MRD status will be correlated with PFS., From the date of randomization until the date of documented disease progression or death, assessed up to 2 years|Estimated OS, Time to event will be estimated using the product-limit method of Kaplan and Meier., Up to 2 years|Incidence, intensity, and type of adverse events as graded by the National Cancer Institute Common Terminology Criteria for Adverse Events version 4.0, Safety variables will be tabulated and presented for all patients in the study. Exposure to study drug and reasons for discontinuation of study treatment will be tabulated. Group comparisons will be performed using chi-square or Fisher's exact test., Up to 30 days post-treatment
+Markers of response, Correlative biomarkers will be assessed for association with response in the experimental arm using nonparametric tests given the relatively small number of responders anticipated (20%). A Wilcoxon rank-sum test will be used to compare baseline (pre-treatment) biomarker levels in the responders vs. non-responders., Baseline
+PRIMARY OBJECTIVES:
+
+I. To determine the rate of minimal residual disease (MRD)-negative disease by multiparameter-flow cytometry at 12 months after randomization.
+
+SECONDARY OBJECTIVES:
+
+I. Evidence of response as demonstrated by the improvement of the depth of response by at least one category according to International Myeloma Working Group (IMWG) response criteria.
+
+II. Progression free survival (PFS). III. Overall survival (OS). IV. Duration of MRD-negative disease. V. Safety and tolerability of experimental arm (ixazomib citrate, lenalidomide, and low dose dexamethasone \[IRd\]) vs. control arm (lenalidomide \[Rd\]).
+
+TERTIARY OBJECTIVES:
+
+I. Determination of markers of response based on pre-treatment characteristics using methods described in correlative research.
+
+II. Evaluation of MRD by gene sequencing method using the Sequenta platform (LymphoSIGHT®) in parallel with multi-parameter flow cytometry (MFC).
+
+OUTLINE: Patients are randomized to 1 of 2 treatment arms.
+
+ARM I: Patients receive ixazomib citrate orally (PO) on days 1, 8, and 15, lenalidomide PO once daily (QD) on days 1-21, and dexamethasone PO on days 1, 8, 15, and 22 (of courses 1-4 only).
+
+ARM II: Patients receive lenalidomide PO as in Arm I.
+
+In both arms, treatment repeats every 28 days for 12 courses in the absence of disease progression or unacceptable toxicity.
+
+After the completion of treatment, patients are followed up at 30 days and then every 3 months for 2 years.

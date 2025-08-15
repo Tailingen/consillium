@@ -1,0 +1,34 @@
+Clofarabine and Rituximab in Treating Patients With Relapsed Non-Hodgkin Lymphoma
+RATIONALE: Drugs used in chemotherapy, such as clofarabine, work in different ways to stop the growth of cancer cells, either by killing the cells or by stopping them from dividing. Monoclonal antibodies, such as rituximab, can block cancer growth in different ways. Some block the ability of cancer cells to grow and spread. Others find cancer cells and help kill them or carry cancer-killing substances to them. Giving clofarabine together with rituximab may kill more cancer cells.
+
+PURPOSE: This phase I/II trial is studying the side effects and best dose of clofarabine when given together with rituximab and to see how well they work in treating patients with relapsed B-cell non-Hodgkin lymphoma.
+Lymphoma
+BIOLOGICAL: rituximab|DRUG: clofarabine|GENETIC: DNA methylation analysis|GENETIC: gene expression analysis|GENETIC: microarray analysis|GENETIC: polymerase chain reaction|OTHER: high performance liquid chromatography|OTHER: laboratory biomarker analysis
+The Maximum Tolerated Dose (MTD) of Oral Clofarabine in Adult Patients With Relapsed CD20+ Non-Hodgkin Lymphoma(NHL), Initially, 3 patients will be enrolled into a dose level during the dose-escalation portion:
+
+* If no patient experiences dose-limiting toxicities during the first 4 weeks, then 3 patients will be enrolled into the next dose level.
+* If one of the three patients develops dose-limiting toxicities, then 3 additional patients will be enrolled in that cohort. If none of the additional 3 patients experiences dose-limiting toxicities, then further dose-escalation occurs.
+* If one additional patient experiences dose-limiting toxicities, then the maximum tolerated dose is exceeded., 14 days for up to 8 cycles (1 cycle equals 14 days on drug, 14 days off drug) for a total of up to 224 days|Estimate Objective Response Rates of Oral Clofarabine in Combination With Rituximab in Relapsed CD20+NHL, Oral Clofarabine x 14 days for up to 8 cycles (1 cycle equals 14 days on drug, 14 days off drug) for a total of up to 224 days AND Rituximab weekly for 4 weeks than monthly for up to 8 cycles on day 1 of cycle
+Determine One-year Progression Free Survival Using the MTD of Clofarabine With Rituximab in Relapsed CD20+NHL, One year after study drug(s) have been given. Duration of study up to 1 year.|Determine the Safety and Efficacy of Clofarabine in Combination With Rituximab, Duration of the study, up to 1 year.|Whether Clofarabine Acts as an Inhibitor of DNA Methylation Similar to Cladribine by Performing Scientific Correlates, Duration of the study, up to 1 year.|Whether Response to Clofarabine Alone or in Combination With Rituximab Correlates With Changes in Global Serum DNA Methylation Index, Duration of the study, up to 1 year.|Identity of the Gene Activated by Clofarabine Therapy by Using Genomic DNA and RNA Array Technology, Twice monthly at standard of care visits for 3 months post last cycle of chemotherapy.
+OBJECTIVES:
+
+Primary
+
+* To determine the maximum tolerated dose of clofarabine in adult patients with relapsed CD20-positive B-cell non-Hodgkin lymphoma (NHL).
+* To estimate objective response rates of clofarabine in combination with rituximab in these patients.
+
+Secondary
+
+* To determine the 1-year progression-free survival of this regimen using the mean tolerated dose in these patients.
+* To determine the safety and efficacy of this regimen in these patients.
+* To determine if clofarabine acts as an inhibitor of DNA methylation similar to cladribine by performing scientific correlates.
+* To determine whether response to clofarabine alone or in combination with rituximab correlates with changes in global serum DNA methylation index.
+* To identify the gene activated by clofarabine therapy by using genomic DNA and RNA array technology.
+
+OUTLINE: This is a phase I, dose-escalation study of clofarabine followed by a phase II study.
+
+Patients receive oral clofarabine once daily on days 1-14 of all courses and rituximab IV on days 1, 8, 15, and 22 of course one and then on day 1 of courses 2-8. Courses repeat every 4 weeks. After 2 courses of therapy, patients who are eligible for stem cell transplantation may either undergo transplantation or continue receiving study drugs until disease progression or unacceptable toxicity for up to a total of 8 courses of treatment.
+
+Patients undergo blood sample collection periodically for correlative studies. Samples are analyzed to identify global DNA methylation differences and correlate changes in methylation index (MI) with patient outcome after treatment with clofarabine with or without rituximab via high performance liquid chromatography (HPLC); to determine differences in gene expression via microarray analysis and micro-RNA (miRNA) expression via quantitative polymerase chain reaction (PCR) in patients with high compared to low global DNA methylation index and miRNA expression for CD5+ B-lymphocytes obtained from pediatric tonsils and from B-lymphocytes of 5 healthy controls; and to determine gene expression and miRNA profiles in patients before and after treatment with clofarabine with or without rituximab via genomic DNA arrays.
+
+After completion of study treatment, patients are followed once a year for 2 years.

@@ -1,0 +1,26 @@
+Adavosertib Before Surgery in Treating Patients With Advanced High Grade Ovarian, Fallopian Tube, or Primary Peritoneal Cancer
+This pilot early phase I trial studies how adavosertib affects the tumor deoxyribonucleic acid (DNA) of patients undergoing surgery for high grade (fast growing or aggressive) ovarian, fallopian tube, or primary peritoneal cancer that has spread to other places in the body (advanced). Certain characteristics in the DNA of these patients may affect how well they respond to treatment. Learning how adavosertib affects DNA in tumor cells may help doctors plan effective treatment.
+Advanced Fallopian Tube Carcinoma|Advanced Ovarian Carcinoma|Advanced Primary Peritoneal Carcinoma|Carcinomatosis|Fallopian Tube High Grade Serous Adenocarcinoma|Ovarian High Grade Serous Adenocarcinoma|Primary Peritoneal High Grade Serous Adenocarcinoma|Stage III Fallopian Tube Cancer AJCC v7|Stage III Ovarian Cancer AJCC v6 and v7|Stage III Primary Peritoneal Cancer AJCC v7|Stage IIIA Fallopian Tube Cancer AJCC v7|Stage IIIA Ovarian Cancer AJCC v6 and v7|Stage IIIA Primary Peritoneal Cancer AJCC v7|Stage IIIB Fallopian Tube Cancer AJCC v7|Stage IIIB Ovarian Cancer AJCC v6 and v7|Stage IIIB Primary Peritoneal Cancer AJCC v7|Stage IIIC Fallopian Tube Cancer AJCC v7|Stage IIIC Ovarian Cancer AJCC v6 and v7|Stage IIIC Primary Peritoneal Cancer AJCC v7|Stage IV Fallopian Tube Cancer AJCC v6 and v7|Stage IV Ovarian Cancer AJCC v6 and v7|Stage IV Primary Peritoneal Cancer AJCC v7
+DRUG: Adavosertib|OTHER: Laboratory Biomarker Analysis
+Change in level of deoxyribonucleic acid (DNA) copy number in p53-related pathways, Descriptive statistics and graphical methods will be used to summarize the change in DNA copy number from pre-treatment to post-treatment with adavosertib. These changes for untreated patients will also be summarized. A paired t-test will be used to test that mean changes from pre-treatment to post-treatment are different from 0 if the changes are found to be normally distributed. Otherwise, median changes from pre-treatment to post-treatment will be tested with a Wilcoxon signed-rank test. A 2-sample t-test will be used to compare mean changes between treated and untreated patients if the changes are normally distributed. Otherwise, median changes will be compared between treated and untreated patients with a Wilcoxon rank sum test., Baseline up to 28 days|Change in level of mutation in p53-related pathways, Baseline up to 28 days|Change in level of ribonucleic acid (RNA) expression in p53-related pathways, Descriptive statistics and graphical methods will be used to summarize the change in RNA protein expression from pre-treatment to post-treatment with adavosertib. These changes for untreated patients will also be summarized. A paired t-test will be used to test that mean changes from pre-treatment to post-treatment are different from 0 if the changes are found to be normally distributed. Otherwise, median changes from pre-treatment to post-treatment will be tested with a Wilcoxon signed-rank test. A 2-sample t-test will be used to compare mean changes between treated and untreated patients if the changes are normally distributed. Otherwise, median changes will be compared between treated and untreated patients with a Wilcoxon rank sum test. RNA protein expression will also be determined as present/absent. An exact binomial test will be used to assess the proportion of patients treated with adavosertib that exhibit an increase (or decrease) in RNA protein expression greater than 50%., Baseline up to 28 days|Change in level of protein expression in p53-related pathways, McNemar's test will be used to compare changes based on protein expression results. Fisher's exact test will be used to compare protein expression results between treated and untreated patients., Baseline up to 28 days
+PRIMARY OBJECTIVE:
+
+I. To explore baseline levels and effects of adavosertib (AZD1775) on DNA copy number, mutation, and level of ribonucleic acid (RNA) and protein expression (together described as "molecular results") in tumor protein p53 (p53)-related pathways before and after treatment in women with primary advanced high grade serous ovarian, fallopian tube, or primary peritoneal cancer.
+
+SECONDARY OBJECTIVES:
+
+I. To correlate molecular results to clinical endpoints including response and survival.
+
+II. To correlate molecular results to pathologic endpoints including tumor volume and apoptosis.
+
+III. To compare DNA copy number and level of RNA and protein expression in p53-related pathways in tissue from patients treated with AZD1775 to those untreated with AZD1775 in the preoperative period.
+
+IV. To determine the toxicity of AZD1775 given preoperatively, with a focus on postoperative wound healing.
+
+V. To determine the feasibility of treating preoperatively with AZD1775.
+
+OUTLINE:
+
+Patients receive adavosertib orally (PO) once daily (QD) on days 1-5. Patients then undergo standard of care laparoscopy. Patients may also receive adavosertib PO QD on days 8-12, 15-19, and 22-26 for up to 28 days based on surgery schedule.
+
+After completion of study treatment, patients are followed up at 30 days and then every 3 months thereafter.

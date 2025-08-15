@@ -1,0 +1,23 @@
+SBRT/RT in Oligometastatic Stage IV NSCLC
+The core hypothesis to be tested is that the use of consolidative SBRT followed by maintenance chemotherapy in patients with less than or equal to 10 metastatic sites will improve progression-free survival (PFS) with acceptable toxicity compared to maintenance chemotherapy alone.
+Non Small Cell Lung Cancer
+PROCEDURE: Chemotherapy|PROCEDURE: Radiotherapy (RT) + Stereotactic Body Ratio Therapy (SBRT)|PROCEDURE: Maintenance chemotherapy
+Grade of Toxicity, Grade of toxicity of the treatment will be assessed according to the Common Terminology Criteria for Adverse Events (CTCAE), version 4, up to 12 months|Progression-Free Survival, Progression-free survival (PFS) will be observed (in months), up to 12 months
+Overall Survival, Overall survival (OS) will be observed (in months), up to 12 months|Time to new lesion, Time to new lesion will be observed (in months), up to 12 months)|Duration of maintenance chemotherapy, Duration of maintenance chemotherapy will be observed (in months), up to 12 months|Restriction volume of pulmonary capacity, The restriction volume of pulmonary capacity (in %, compared to the vital capacity and total lung capacity), up to 12 months
+Lung cancer is the main cause of death from cancer in the Czech Republic and in the world. Non-small cell lung cancer (NSCLC) accounts for more than 80% of all cancer types. Lung cancer is the cause of almost five and a half thousand deaths a year in the Czech Republic, the mortality/incidence ratio is around 85%. The reason is mainly the late recognition of the tumor only in advanced stages - stage III and IV when long-term control of the disease is a rarity. In patients with advanced-stage NSCLC, chemotherapy prolongs overall survival by less than a year on average, which is still a very disappointing result. Therefore, other treatment approaches are being developed to help change this statistic. Radiotherapy (RT) also plays an important role in the treatment of lung cancer, which has a proven therapeutic benefit in both radical and palliative indications for up to 76% of all patients.
+
+Stereotactic Robotic Radiotherapy (SBRT) achieves extraordinary precision due to the precise definition of the target volume with maximum sparing of surrounding tissues. It also allows you to focus on bearings that show movement, especially during the breathing cycle. Radiotherapy, whether conventional or stereotactic, is a non-invasive treatment method.
+
+The aim of the study is to verify the feasibility of consolidation SBRT - CyberKnife with subsequent maintenance chemotherapy in patients in IV. The stage of non-small cell lung cancer with a maximum of 10 metastatic foci, with acceptable toxicity, while maintaining a good quality of life. The time to progression (worsening of the disease), overall survival, the number of foci with local control, the time to the appearance of new foci, the duration of maintenance chemotherapy, and the finding of predictive molecular markers of treatment response will be evaluated.
+
+Design: prospective, interventional trial (University Hospital Ostrava) 3 months of chemotherapy platin doublet (cDDP / CBDCA + Pemetrexed, NVB) if SD/PD: RT to primary tumour + SBRT to all oligometa (max. 10 intra / extrarnial leasions, intracranial SD / PR) SBRT V \< 100 ml, if technically possible fractionation RT (40 - 50 Gy / 16 - 20 fractions), SBRT (30 Gy / 1 fraction, 50 - 60 Gy / 3 - 5 fractions) 3 - 6 weeks ... maintenance
+
+Preliminary examination: PET/CT, ECHO, spirometry, MR (only if neurological symptomatology)
+
+Endpoints:
+
+Primary Endpoints: toxicity (CTCAE ver. 4), PFS Secondary Endpoints: OS, local control, time to new lesion, duration of maintenance chemotherapy, restriction volume according to spirometry, EF
+
+Ad hoc analysis: PDL1 expression, Ki67 status, smoking history, KPS
+
+Restage: every three 3 months

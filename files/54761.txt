@@ -1,0 +1,27 @@
+Breast Cancer Vaccine in Combination With Pembrolizumab for Treatment of Persistent, Recurrent, or Metastatic Breast Cancer
+This phase I/II trial studies the side effects of a breast cancer vaccine (SV-BR-1-GM) and how well it works in combination with pembrolizumab for the treatment of breast cancer that is persistent, has come back (recurrent), or has spread to other places in the body (metastatic). Breast cancer vaccine SV-BR-1-GM is a human breast cancer cell line that has been genetically engineered to produce a substance called "GM-CSF" (granulocyte-macrophage colony stimulating factor) which occurs naturally in the body. GM-CSF is normally produced by white blood cells and helps the body develop immunity to disease-causing germs. Immunotherapy with monoclonal antibodies such as pembrolizumab may help the body's immune system attack the cancer and may interfere with the ability of tumor cells to grow and spread. Anti-cancer drugs such as cyclophosphamide may help boost the immune response. Interferon alpha 2b may help stimulate the immune system to fight cancer. This trial may help doctors see whether SV-BR-1-GM injections help boost the immune system and/or help control or help shrink breast cancer along with the other drugs that also boost the immune system.
+Anatomic Stage IV Breast Cancer AJCC v8|Metastatic Breast Carcinoma|Prognostic Stage IV Breast Cancer AJCC v8|Recurrent Breast Carcinoma|Refractory Breast Carcinoma
+DRUG: Cyclophosphamide|BIOLOGICAL: Allogeneic GM-CSF-secreting Breast Cancer Vaccine SV-BR-1-GM|BIOLOGICAL: Pembrolizumab|BIOLOGICAL: Recombinant Interferon Alpha 2b-like Protein|OTHER: Questionnaire Administration|OTHER: Quality of Life Assessment
+Incidence of adverse events, Toxicity will be determined using the Common Terminology Criteria for Adverse Events (CTCAE v 5.0)., up to 1 year|Objective response rate (ORR), Will be defined as complete response (CR), partial response (PR) or stable disease (SD) per Response Evaluation Criteria in Solid Tumors (RECIST) 1.1 and immune-modified (i)RECIST. The method of Atkinson and Brown will be used to allow for the two-stage design., up to 1 year
+Non-progressive rate, Defined as time to progression of disease, measured by CR, PR or SD per RECIST 1.1 and iRECIST. This will be estimated using the Kaplan-Meier method., Up to one year|Durability of response, Defined in time as time to progressive disease., Up to one year|Delayed type hypersensitivity (DTH) skin tests, Will be evaluated comparing pre-dose with post-dose samples using simple statistical testing (e.g. Student's t-Test)., Up to 1 year|T cell responses to SV-BR-1, Will be evaluated comparing pre-dose with post-dose samples using simple statistical testing (e.g. Student's t-Test)., Up to 1 year|Tumor expression of PD-L1, Up to 1 year|Tumor expression of PD-L2, Up to 1 year|Tumor expression of cancer/testis antigens such as PRAME, Up to 1 year|Type of breast cancer (estrogen receptor [ER] positive, HER2 positive, triple negative), Up to 1 year|Edmonton Symptom Assessment Survey, Assessment of nine symptoms commonly seen in cancer patients. Patients rate on scale of 0-10 with 0 meaning the symptom is absent and 10 meaning the worst possible severity., Up to 1 year
+PRIMARY OBJECTIVES:
+
+I. To evaluate the safety of the allogeneic GM-CSF-secreting breast cancer vaccine SV-BR-1-GM (SV-BR-1-GM) regimen when administered in combination with pembrolizumab in patients with human leukocyte antigen (HLA) match. (Phase I) II. To evaluate the overall response rate of the SV-BR1-GM regimen in combination with pembrolizumab. (Phase II)
+
+SECONDARY OBJECTIVES:
+
+I. To evaluate the non-progressive rate of the SV-BR-1-GM regimen in combination with pembrolizumab.
+
+II. To evaluate the duration of response of the SV-BR-1-GM regimen in combination with pembrolizumab.
+
+III. To evaluate immune responses elicited by the SV-BR-1-GM regimen when administered in combination with pembrolizumab.
+
+IV. To evaluate patient and tumor characteristics that may be predictive of responses to the SV-BR-1-GM regimen when administered in combination with pembrolizumab.
+
+V. To evaluate quality of life (QOL) in patients administered the SV-BR-1-GM regimen in combination with pembrolizumab by the Edmonton Symptom Assessment Survey.
+
+OUTLINE:
+
+Patients receive cyclophosphamide intravenously (IV) over 1-2 hours on day 1, SV-BR-1-GM intradermally (ID) on day 3, pembrolizumab IV over 30 minutes on day 5, and interferon-alpha-2b ID on days 5 and 7. Cycles repeat every 21 days for up to 2 years in the absence of disease progression or unacceptable toxicity.
+
+After completion of study treatment, patients are followed up at 2-4 weeks and then every 3 months for 1 year.

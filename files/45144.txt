@@ -1,0 +1,27 @@
+Cisplatin, Intensity-Modulated Radiation Therapy, and Pembrolizumab in Treating Patients With Stage III-IV Head and Neck Squamous Cell Carcinoma
+This phase I trial studies the side effects and best dose of pembrolizumab when given together with cisplatin and intensity-modulated radiation therapy, in treating patients with stage III-IV squamous cell carcinoma of the head and neck. Monoclonal antibodies, such as pembrolizumab, may block tumor growth in different ways by targeting certain cells. Drugs used in chemotherapy, such as cisplatin, work in different ways to stop the growth of tumor cells, either by killing the cells, by stopping them from dividing, or by stopping them from spreading. Intensity-modulated radiation therapy uses high-energy x-rays to kill tumor cells and shrink tumors. Giving pembrolizumab with cisplatin and intensity-modulated radiation therapy may work better in treating patients with squamous cell carcinoma of the head and neck.
+Stage III Hypopharyngeal Squamous Cell Carcinoma AJCC v7|Stage III Laryngeal Squamous Cell Carcinoma AJCC v6 and v7|Stage III Oral Cavity Squamous Cell Carcinoma AJCC v6 and v7|Stage III Oropharyngeal Squamous Cell Carcinoma AJCC v7|Stage IVA Hypopharyngeal Squamous Cell Carcinoma AJCC v7|Stage IVA Laryngeal Squamous Cell Carcinoma AJCC v7|Stage IVA Oral Cavity Squamous Cell Carcinoma AJCC v6 and v7|Stage IVA Oropharyngeal Squamous Cell Carcinoma AJCC v7|Stage IVB Hypopharyngeal Squamous Cell Carcinoma AJCC v7|Stage IVB Laryngeal Squamous Cell Carcinoma AJCC v7|Stage IVB Oral Cavity Squamous Cell Carcinoma AJCC v6 and v7|Stage IVB Oropharyngeal Squamous Cell Carcinoma AJCC v7
+DRUG: Cisplatin|RADIATION: Intensity-Modulated Radiation Therapy|OTHER: Laboratory Biomarker Analysis|BIOLOGICAL: Pembrolizumab
+Dose limiting toxicities in patients with high-risk head and neck squamous cell carcinoma treated with adjuvant cisplatin, intensity-modulated radiation therapy, and pembrolizumab, Will be summarized using proportions for binary outcome per cohort., Up to 4 weeks post intensity-modulated radiation therapy
+Disease free survival, Descriptive statistics for disease free survival will be estimated using the Kaplan-Meier method., Up to 1 year|Overall survival, Descriptive statistics for overall survival will be estimated using the Kaplan-Meier method, Up to 1 year|Local-regional failure, Descriptive statistics for rates local-regional failure will be estimated using the cumulative incidence method., Up to 1 year|Distant metastases, Descriptive statistics for distant metastasis will be estimated using the cumulative incidence method., Up to 1 year|Incidence of acute toxicities by National Cancer Institute Common Terminology Criteria for Adverse Events version 4.0, Adverse events will be estimated using a binomial distribution along with their associated 95% confidence intervals., Up to 1 year|Incidence of late toxicities by National Cancer Institute Common Terminology Criteria for Adverse Events version 4.0, Adverse events will be estimated using a binomial distribution along with their associated 95% confidence intervals., Up to 1 year|Levels of PDL1, Will be assessed in tumor tissue by light microscopy., Up to 1 year|Immune-inflammatory biomarkers, Will be correlated in both tumor and tumor infiltrating lymphocytes, Up to 1 year|Change in expression of peripheral immune-inflammatory biomarkers, Change in expression will be assessed., Up to 1 year
+PRIMARY OBJECTIVES:
+
+I. To determine the recommended phase II dose (RP2D) for the combination of MK-3475 (pembrolizumab) and standard, adjuvant cisplatin-radiotherapy in patients with high-risk, human papillomavirus (HPV)-negative head and neck squamous cell carcinoma (HNSCC), based upon dose-limiting toxicity (DLT).
+
+SECONDARY OBJECTIVES:
+
+I. To describe 1-year disease-free survival (DFS), overall survival (OS), local-regional failure (LRF), and rate of distant metastases following treatment with adjuvant cisplatin-radiotherapy and MK-3475 (pembrolizumab).
+
+II. To describe the toxicity of the combination of cisplatin-radiotherapy and MK-3475 (pembrolizumab) according to Common Terminology Criteria for Adverse Events (CTCAE) version (v.) 4, including immune-related adverse events (AEs).
+
+III. To describe the relationship between baseline programmed cell death 1 ligand 1 (PD-L1) expression 1-year disease-free survival (DFS).
+
+IV. To describe baseline immune-inflammatory biomarkers in both tumor and tumor-infiltrating lymphocytes (TILs), and correlate them with 1-year DFS.
+
+V. To describe baseline and change in expression of peripheral immune-inflammatory biomarkers, including a panel of candidate tumor antigen (TA)-specific memory T cells, and correlate with 1-year DFS.
+
+OUTLINE:
+
+Patients receive cisplatin intravenously (IV) over 1-2 hours once weekly for weeks 1-6 and pembrolizumab IV over 30 minutes every 3 weeks in weeks 9, 12, 15, 18, and 21. Patients also undergo intensity-modulated radiation therapy (IMRT) in weeks 1-6. Patients may also receive pembrolizumab IV over 30 minutes in weeks 3, 6, 24, and 27.
+
+After completion of study treatment, patients are followed up at months 6, 9, 12, 15, 18, 21, 24, 30, and 36.

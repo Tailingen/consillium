@@ -1,0 +1,33 @@
+Testing the Addition of a New Anti-cancer Drug, Venetoclax, to the Usual Treatment (Ibrutinib and Obinutuzumab) in Untreated, Older Patients With Chronic Lymphocytic Leukemia
+This phase III trial compares adding a new anti-cancer drug (venetoclax) to the usual treatment (ibrutinib plus obinutuzumab) in older patients with chronic lymphocytic leukemia who have not received previous treatment. The addition of venetoclax to the usual treatment might prevent chronic lymphocytic leukemia from returning. This trial also will investigate whether patients who receive ibrutinib plus obinutuzumab plus venetoclax and have no detectable chronic lymphocytic leukemia after 1 year of treatment, can stop taking ibrutinib. Ibrutinib may stop the growth of cancer cells by blocking some of the enzymes needed for cell growth. Immunotherapy with obinutuzumab may induce changes in body's immune system and may interfere with the ability of cancer cells to grow and spread. Venetoclax is in a class of medications called B-cell lymphoma-2 (BCL-2) inhibitors. It may stop the growth of cancer cells by blocking Bcl-2, a protein needed for cancer cell survival. Giving ibrutinib and obinutuzumab with venetoclax may work better at treating chronic lymphocytic leukemia compared to ibrutinib and obinutuzumab.
+Chronic Lymphocytic Leukemia|Small Lymphocytic Lymphoma
+DRUG: Ibrutinib|BIOLOGICAL: Obinutuzumab|OTHER: Observation Activity|DRUG: Venetoclax
+Progression-free survival (PFS), PFS will be compared between the experimental and control treatment strategy groups using a stratified log-rank test (stratified on Rai stage, intermediate versus \[vs.\] high, and del(17p13.1) by fluorescence in situ hybridization \[FISH\], present vs. absent). The Kaplan-Meier method will be used to estimate PFS distributions. Five-year PFS estimates, medians, and corresponding hazard ratios will be provided with 95% confidence intervals for each treatment strategy., From randomization date until the earlier of disease progression or death from any cause, assessed up to 10 years
+Bone marrow (BM) minimal residual disease (MRD)- complete response (CR) rate, BM MRD- CR rate will be calculated and will be estimated using the number of patients meeting the BM MRD- CR criteria divided by the total number of patients randomized to each of the treatment arms. The stratified Cochran-Mantel-Haenszel test will be used to compare the BM MRD- CR rates between treatment arms (stratified on Rai stage, intermediate vs. high, and del(17p13.1) by FISH, present vs. absent)., Up to 10 years|Overall survival (OS), The Kaplan-Meier method will be used to estimate the OS distribution for each treatment strategy. Estimates at 5 years will be calculated with corresponding 95% confidence intervals, and differences in these estimates between the treatment strategies will be tested using a stratified chi-square test based on the complementary log-log transformation of the Kaplan-Meier estimates. Comparisons in OS curves between experimental and control treatment strategies will use a stratified log-rank test (stratified on Rai stage, intermediate vs. high, and del(17p13.1) by FISH, present vs. absent). Hazard ratios with 95% confidence intervals will be estimated from the corresponding, stratified proportional hazard model., From randomization date until death from any cause, assessed up to 10 years|Incidence of adverse events, Will be defined as adverse events that are classified as either possibly, probably, or definitely related to study treatment, graded per National Cancer Institute Common Terminology Criteria for Adverse Events version 5.0. Frequency and severity of adverse events and tolerability for each treatment strategy group will be summarized using descriptive statistics. The maximum grade for each type of toxicity will be recorded for each patient, and frequency tables will be reviewed to determine toxicity patterns. The incidence of severe (grade 3+) adverse events or toxicities will be described., Up to 10 years
+PRIMARY OBJECTIVE:
+
+I. To compare the progression-free survival (PFS) between control treatment and experimental treatment strategies: ibrutinib/obinutuzumab (IO) with ibrutinib maintenance (IM) versus ibrutinib/venetoclax/obinutuzumab (IVO) regardless of IM or observation.
+
+SECONDARY OBJECTIVES:
+
+I. To compare bone marrow (BM) minimal residual disease (MRD)- complete response (CR) rates, MRD- rates, and depth of response at cycle 15 day 1 between patients treated with IO versus IVO.
+
+II. To compare overall survival (OS) between the control and experimental treatment strategies: IO with IM versus IVO regardless of IM or observation.
+
+III. To compare the 5-year PFS and overall survival (OS) for the control and experimental treatment strategies: IO with IM versus IVO regardless of IM or observation.
+
+IV. To describe the toxicity profile for each of the treatment strategies and by each treatment course.
+
+CORRELATIVES SCIENCE OBJECTIVES:
+
+I. To compare MRD status between blood and bone marrow at the end of induction treatment/cycle 15 day 1 to determine whether blood MRD can be used as a surrogate to bone marrow MRD with these treatment regimens.
+
+II. To compare peripheral blood MRD status by standard central flow cytometry to next generation sequencing (NGS) using ClonoSeq technique to determine the agreement in MRD negativity of the two techniques.
+
+OUTLINE: Patients are randomized to 1 of 2 arms.
+
+ARM I: Patients receive ibrutinib orally (PO) once daily (QD) on days 1-28. Patients also receive obinutuzumab intravenously (IV) on days 1, 2, 8, and 15 of cycle 1, and on day 1 of cycles 2-6. Treatment repeats every 28 days for up to 14 cycles in the absence of disease progression or unacceptable toxicity. Beginning cycle 15, patients receive ibrutinib PO QD every 28 days in the absence of disease progression or unacceptable toxicity.
+
+ARM II: Patients receive ibrutinib PO QD on days 1-28. Patients also receive obinutuzumab IV on days 1, 2, 8, and 15 of cycle 1, and on day 1 of cycles 2-6. Beginning cycle 3, patients also receive venetoclax PO QD on days 1-28. Treatment repeats every 28 days for 14 cycles in the absence of disease progression or unacceptable toxicity. All patients will then receive a 15th cycle of ibrutinib. Beginning cycle 16, patients who do not achieve a BM MRD negative CR, receive ibrutinib PO QD every 28 days in the absence of disease progression or unacceptable toxicity. Patients who achieve a BM MRD negative CR undergo observation every 3 cycles for 6 years, then every 6 cycles thereafter.
+
+After completion of study treatment, patients are followed every 6 months until 10 years from registration.

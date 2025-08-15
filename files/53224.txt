@@ -1,0 +1,42 @@
+S1406 Phase II Study of Irinotecan and Cetuximab With or Without Vemurafenib in BRAF Mutant Metastatic Colorectal Cancer
+This randomized phase II trial studies how well irinotecan hydrochloride and cetuximab with or without vemurafenib works in treating patients with colorectal cancer that has spread to nearby tissue or lymph nodes, that has spread to other places in the body, or cannot be removed by surgery. Irinotecan hydrochloride and vemurafenib may stop the growth of tumor cells by blocking some of the enzymes needed for cell growth. Monoclonal antibodies, such as cetuximab, may block the ability of tumor cells to grow and spread. It is not yet known whether irinotecan hydrochloride and cetuximab are more effective with or without vemurafenib in treating colorectal cancer.
+Colorectal Cancer
+BIOLOGICAL: cetuximab|DRUG: irinotecan hydrochloride|DRUG: vemurafenib
+Progression-free Survival, From date of randomization to date of first documentation of progression or symptomatic deterioration, or death due to any cause. Patients last known to be alive and progression free are censored at date of last contact. Progression is defined as one or more of the following: 20% increase in the sum of appropriate diameters of target measurable lesions over smallest sum observed (over baseline if no decrease during therapy) using the same techniques as baseline, as well as an absolute increase of at least 0.5 cm; unequivocal progression of non-measurable disease in the opinion of the treating physician; appearance of any new lesion/site; and/or death due to disease without prior documentation of progression and without symptomatic deterioration., Up to 3 years from randomization
+Number of Patients With Grade 3 Through 5 Adverse Events That Are Related to Study Drug, Only adverse events that are possibly, probably or definitely related to study drug are reported., Up to 3 years
+Overall Survival, From date of randomization to date of death due to any cause. Patients last known to be alive are censored at date of last contact., Up to 3 years from randomization|Overall Response Rate, Confirmed response (CR) is two or more objective statuses of CR a minimum of four weeks apart documented before progression or symptomatic deterioration. Partial response (PR) is two or more objective statuses of PR or better a minimum of four weeks apart documented before progression or symptomatic deterioration. Unconfirmed CR is one objective status of CR documented before progression or symptomatic deterioration but not qualifying as CR or PR. Unconfirmed PR is one objective status of PR documented before progression or symptomatic deterioration but not qualifying as CR, PR or unconfirmed CR., Up to 3 years from randomization|Progression-free Survival in Patients Who Register to Arm 3 (Crossover) After Disease Progression on Arm 1, From date of Step 3 Crossover registration to date of first documentation of progression or symptomatic deterioration, or death due to any cause. Patients last known to be alive without report of progression are censored at date of last contact. Progression is defined as one or more of the following: 20% increase in the sum of appropriate diameters of target measurable lesions over smallest sum observed (over baseline if no decrease during therapy) using the same techniques as baseline, as well as an absolute increase of at least 0.5 cm; unequivocal progression of non-measurable disease in the opinion of the treating physician; appearance of any new lesion/site; and/or death due to disease without prior documentation of progression and without symptomatic deterioration., Up to 3 years from randomization|Overall Survival in Patients Who Register to Arm 3 (Crossover) After Disease Progression on Arm 1, From date of randomization to date of death due to any cause. Patients last known to be alive are censored at date of last contact., Up to 3 years from randomization|Overall Response Rate in Patients Who Register to Arm 3 (Crossover) After Disease Progression on Arm 1, Confirmed response (CR) is two or more objective statuses of CR a minimum of four weeks apart documented before progression or symptomatic deterioration. Partial response (PR) is two or more objective statuses of PR or better a minimum of four weeks apart documented before progression or symptomatic deterioration. Unconfirmed CR is one objective status of CR documented before progression or symptomatic deterioration but not qualifying as CR or PR. Unconfirmed PR is one objective status of PR documented before progression or symptomatic deterioration but not qualifying as CR, PR or unconfirmed CR., Up to 3 years from randomization
+PRIMARY OBJECTIVES:
+
+I. To evaluate the progression-free survival (PFS) of v-raf murine sarcoma viral oncogene homolog B (BRAF) mutant metastatic colorectal cancer patients treated with irinotecan (irinotecan hydrochloride), cetuximab, and vemurafenib, compared to a control arm of irinotecan and cetuximab.
+
+SECONDARY OBJECTIVES:
+
+I. To evaluate the frequency and severity of toxicity associated with each of the treatment arms in this patient population.
+
+TERTIARY OBJECTIVES:
+
+I. To evaluate overall survival (OS) in treatment Arms 1 and 2. II. To evaluate the overall response rate (ORR), including confirmed and unconfirmed, complete and partial response, in treatment Arms 1 and 2 in the subset of patients with measurable disease.
+
+III. To estimate rates of OS, ORR, and PFS in patients who register to Arm 3 after disease progression on Arm 1.
+
+IV. To evaluate low-frequency Kirsten rat sarcoma viral oncogene homolog (KRAS) or neuroblastoma RAS viral (v-ras) oncogene homolog (NRAS) mutations as detected by high-depth sequencing as predictive biomarkers of efficacy.
+
+V. To evaluate phosphatidylinositol-4,5-bisphosphate 3-kinase, catalytic subunit alpha (PIK3CA) pathway activation through PIK3CA mutations or phosphatase and tensin homolog (PTEN) protein loss as a predictive biomarker of innate resistance to this regimen.
+
+VI. To evaluate gene expression signatures from screened patients with v-raf murine sarcoma viral oncogene homolog B wild type (BRAFWT) and BRAFV600E tumors.
+
+VII. To provide validation of BRAF immunohistochemistry (IHC) using complementary sequencing methodology from screened patients with BRAFWT and BRAFV600E tumors.
+
+VIII. To confirm the estimated sensitivity of detectable BRAF V600E circulating cell-free deoxyribonucleic acid (DNA) as a non-invasive biomarker for BRAF V600E mutation as detected by IHC in the primary tumor.
+
+IX. To correlate radiographic tumor response with change in quantification of BRAFV600E alleles in circulating cell-free DNA.
+
+X. To monitor for known mechanism of acquired resistance to epidermal growth factor receptor (EGFR) inhibition in circulating cell-free DNA (KRAS, NRAS mutations).
+
+OUTLINE: Patients are randomized to 1 of 2 treatment arms.
+
+ARM I: Patients receive cetuximab intravenously (IV) and irinotecan hydrochloride IV on days 1 and 14. Courses repeat every 28 days in the absence of disease progression or unacceptable toxicity. Patients with disease progression may cross over to Arm II.
+
+ARM II: Patients receive cetuximab and irinotecan hydrochloride as in Arm I and vemurafenib orally (PO) twice daily (BID) on days 1-28. Courses repeat every 28 days in the absence of disease progression or unacceptable toxicity.
+
+After completion of study treatment, patients are followed up every 2-6 months for 3 years.

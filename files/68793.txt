@@ -1,0 +1,15 @@
+Preoperative PSMA PET/CT As Triage for EPLND in Patients Scheduled for RALP (PrePSMA)
+Extended pelvic lymph node dissection (ePLND) is considered the gold standard for nodal staging in men with prostate cancer (PCa). The aim of this project is to determine if preoperative prostate specific membrane antigen (PSMA) positron emission tomography (PET)/computed tomograpy (CT) can safely replace ePLND as a staging method in PCa patients undergoing robot-assisted laparoscopic radical prostatectomy (RALP).
+Prostate Cancer
+DIAGNOSTIC_TEST: extended pelvic lymph node dissection (ePLND)
+Difference between Arm A and Arm B in biochemical recurrence (BCR) rate between groups within 2 years after initiation of RALP, BCR is defined as PSA ≥ 0.2 ng/ml, 2 years after initiation of primary treatment
+Difference between Arm A and Arm B in incidence and types of surgical complications, Clavien Dindo classification of complications will be used, 3 months follow up|Difference between Arm A and Arm B in persistent PSA after RALP, If the PSA value 6 weeks postoperatively is \> 0.10 ng/ml the patient has persistent PSA, 2 months after RALP|Difference between Arm A and Arm B in initiation of salvage therapy, Salvage therapy is salvage radiation therapy, salvage surgery and ADT, 2 years follow up
+Due to the latest change in EAU guidelines in May 2024, all eligible patients will undergo PSMA PET/CT. Patients will then be randomized between RALP and ePLND (Arm A) and RALP +/- ePLND (arm B): If PSMA PET/CT detect suspicious pelvic nodes, the patient will undergo ePLND concomitant with RALP. If PSMA PET/CT is negative, only RALP will be performed .
+
+Primary outcome measures:
+
+Difference in biochemical recurrence (BCR) rate between arm A and arm B within 2 years after initiation of primary treatment (BCR ≥ 0.2 ng/ml).
+
+Secondary outcome measures:
+
+Difference between Arm A and Arm B for surgical complications, persistent PSA after RALP and initiation of salvage therapy

@@ -1,0 +1,25 @@
+S0016 Combination Chemotherapy With Monoclonal Antibody Therapy in Newly Diagnosed Non-Hodgkin's Lymphoma
+RATIONALE: Drugs used in chemotherapy work in different ways to stop cancer cells from dividing so they stop growing or die. Monoclonal antibodies can locate tumor cells and either kill them or deliver radioactive tumor-killing substances to them without harming normal cells. It is not yet known which monoclonal antibody plus combination chemotherapy regimen is more effective in treating non-Hodgkin's lymphoma.
+
+PURPOSE: This randomized phase III trial is comparing 2 different monoclonal antibodies given together with combination chemotherapy to see how well they work in treating patients with newly-diagnosed non-Hodgkin's lymphoma.
+Lymphoma
+BIOLOGICAL: rituximab|DRUG: cyclophosphamide|DRUG: doxorubicin|DRUG: prednisone|DRUG: vincristine|RADIATION: tositumomab
+Progression-free Survival at 2 Years, Measured from time of registration to date of of first observation of progression/relapse, or death due to any cause, or last contact date, 0-2 years|Progression-free Survival at 5 Years, Measured from time of registration to date of of first observation of progression/relapse, or death due to any cause, or last contact date, 0-5 years|Overall Survival at 2 Years, Measured from date of registration to date of death due to any cause, 0-2 years|Overall Survival at 5 Years, Measured from date of registration to date of death due to any cause, 0-5 years
+Objective Response (Confirmed and Unconfirmed Complete and Partial Responses), Complete Response(CR) is a complete disappearance of all disease with the exception of nodes. No new lesions. previously enlarged organs must have regressed and not be palpable. Bone marrow(BM) must be negative if positive at baseline. Normalization of markers. CR Unconfirmed (CRU) does not qualify for CR above, due to a residual nodal mass or an indeterminate BM. Partial Response(PR) is a 50% decrease in the sum of products of greatest diameters (SPD) for up to 6 identified dominant lesions, including spleenic and hepatic nodules from baseline. No new lesions and no increase in the size of liver, spleen or other nodes., Assessed 200 days and 365 days after initiation of therapy and then every 6 months until death|Number of Patients With Grade 3 Through Grade 5 Adverse Events That Are Related to Study Drug, Adverse Events (AEs) are reported by the NCI Common Terminology Criteria for Adverse Events (CTCAE) version 2.0. For each patient, worst grade of each event type is reported. Grade 3 = Severe, Grade 4 = Life-threatening, Grade 5 = Fatal, Patients were assessed for adverse events at end of cycle 1-6 of CHOP or R-CHOP, the end of cycle 1-6 of CHOP and once 2 weeks after the completion of I-131 treatment. For either arm, once 3 months after removal from protocol treatment
+OBJECTIVES:
+
+* Compare the progression-free survival and overall survival of patients with newly diagnosed follicular non-Hodgkin's lymphoma treated with cyclophosphamide, doxorubicin, vincristine, and prednisone (CHOP) with or without either rituximab or iodine I 131 tositumomab (monoclonal antibody anti-B1). (CHOP chemotherapy alone arm closed to accrual as of 12/15/02)
+* Compare the response rate of these patients treated with these regimens.
+* Compare the toxic effects of these regimens in these patients.
+* Compare the molecular remission rates of this patient population treated with these regimens.
+* Determine the incidence and time to development of human anti-mouse antibody positivity.
+
+OUTLINE: This is a randomized, multicenter study. Patients are stratified according to whether microglobulin is greater than upper limit of normal (yes vs no). Patients are randomized to 1 of 3 treatment arms. (Arm I closed to accrual as of 12/15/02)
+
+* Arm I (CHOP only): Patients receive cyclophosphamide IV over 15 minutes, doxorubicin IV over 5-20 minutes, and vincristine IV over 5-15 minutes on day 1. Patients also receive oral prednisone daily on days 1-5. Treatment continues every 21 days for up to 6 courses in the absence of disease progression or unacceptable toxicity. (Arm I closed to accrual as of 12/15/02)
+* Arm II (CHOP + rituximab): Patients receive cyclophosphamide IV over 15 minutes, doxorubicin IV over 5-20 minutes, and vincristine IV over 5-15 minutes on days 8, 29, 50, 71, 92, and 113. Patients also receive oral prednisone daily on days 8-12, 29-33, 50-54, 71-75, and 113-117 and rituximab IV over 4-6 hours on days 1, 6, 48, 90, 134, and 141.
+* Arm III (CHOP + tositumomab): Patients receive chemotherapy as in arm I and tositumomab (monoclonal antibody anti-B1) IV over 1 hour followed by iodine I 131 tositumomab IV over 20 minutes on days 134 and 141.
+
+Patients are followed on day 200, at 1 year, every 6 months for 2 years, and then annually thereafter.
+
+PROJECTED ACCRUAL: Approximately 500 patients (250 per treatment arm) will be accrued for this study within 5.5 years. (Arm I closed to accrual as of 12/15/02)

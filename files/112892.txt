@@ -1,0 +1,24 @@
+E-Health Support Program (PACK Health Program) in Supporting Patient Reported Symptoms in Newly Diagnosed Patients With Breast Cancer
+This trial studies how well an electronic (e)-health support program, called the PACK Health Program, supports patient reported symptoms in newly diagnosed patients with breast cancer. PACK Health offers a symptom management program involving both interpersonal interaction, as well as e-modules for patients diagnosed with cancer to better manage pain, fatigue, depression, anxiety, and to navigate care more effectively through e-health coaching and tools. Participating in the PACK Health Program may support breast cancer patients' reported side effects and experience of care during chemotherapy treatment and may ultimately improve overall health.
+Breast Carcinoma
+OTHER: Questionnaire Administration|PROCEDURE: Supportive Care|PROCEDURE: Supportive Care
+Impact of electronic (e)-health support program on patient reported outcomes, Measured with the National Institutes of Health Patient Reported Outcomes Measurement Information System (PROMIS) Global Health Scale. Summary statistics and box plots will be used to describe PROMIS scores by intervention arm and assessment time. A 2-sample t-test will be used to compare PROMIS scores at 3 months between intervention groups. Linear mixed effects models (LMMs) will be used to assess PROMIS scores over time. The models will include assessment time, intervention and baseline score as fixed effects and intercept as a random effect. Additional models will be created to include possible confounding covariates.
+
+PROMIS instrument scores will be reviewed and patients referred to the primary medical team if they score 1 on items 1-6, and 9, indicating poor health state and 4 or greater on items 8 and 10, indicating potential emotional distress or moderate to severe fatigue., Baseline up to 3 months
+PRIMARY OBJECTIVE:
+
+I. To examine the impact of an e-health support program on patient reported outcomes.
+
+SECONDARY OBJECTIVES:
+
+I. To evaluate the effect of e-health support program in comparison with standard of care support services, on the symptom experience of patients receiving chemotherapy in the ambulatory setting.
+
+II. To evaluate the effect of e-health support program in comparison with standard of care support services, on the satisfaction of patients receiving chemotherapy in the ambulatory setting.
+
+III. To evaluate the effect of e-health support program, in comparison with standard of care support services, on the frequency of emergency room visits and hospital admissions for patients receiving chemotherapy in the ambulatory setting.
+
+OUTLINE: Patients are randomized to 1 of 2 groups.
+
+GROUP I: Patients participate in the PACK Health Program which includes up to 60 scheduled touch points via phone, text, email and a mobile application, as well as weekly interaction with a health coach over 3 months. Patients also have access to standard of care support services at MD Anderson including a telephone triage line 5 days a week between 8 a.m. and 5 p.m.
+
+GROUP II: Patients receive standard of care support services with a telephone triage line available 5 days a week between 8 a.m. and 5 p.m.

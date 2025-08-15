@@ -1,0 +1,27 @@
+Lenalidomide and Combination Chemotherapy in Treating Patients With Relapsed or Refractory Acute Myeloid Leukemia
+This phase I trial studies the side effects and the best dose of lenalidomide when given together with combination chemotherapy in treating patients with relapsed or refractory acute myeloid leukemia. Lenalidomide may stop the growth of acute myeloid leukemia by blocking blood flow to the cancer. Drugs used in chemotherapy, such as mitoxantrone hydrochloride, etoposide, and cytarabine, work in different ways to stop the growth of cancer cells, either by killing the cells or by stopping them from dividing. Giving lenalidomide and combination chemotherapy may be an effective treatment for acute myeloid leukemia.
+Adult Acute Megakaryoblastic Leukemia (M7)|Adult Acute Minimally Differentiated Myeloid Leukemia (M0)|Adult Acute Monoblastic Leukemia (M5a)|Adult Acute Monocytic Leukemia (M5b)|Adult Acute Myeloblastic Leukemia With Maturation (M2)|Adult Acute Myeloblastic Leukemia Without Maturation (M1)|Adult Acute Myeloid Leukemia With 11q23 (MLL) Abnormalities|Adult Acute Myeloid Leukemia With Del(5q)|Adult Acute Myeloid Leukemia With Inv(16)(p13;q22)|Adult Acute Myeloid Leukemia With t(16;16)(p13;q22)|Adult Acute Myeloid Leukemia With t(8;21)(q22;q22)|Adult Acute Myelomonocytic Leukemia (M4)|Adult Erythroleukemia (M6a)|Adult Pure Erythroid Leukemia (M6b)|Recurrent Adult Acute Myeloid Leukemia
+DRUG: lenalidomide|DRUG: mitoxantrone hydrochloride|DRUG: etoposide|DRUG: cytarabine
+MTD of lenalidomide when used in combination with MEC determined by DLT using the Cancer Therapy Evaluation Program Common Terminology Criteria for Adverse Events (CTCAE), version 4.0, Hematologic and non-hematologic toxicities will be tabulated., 42 days
+Response rate (complete remission [CR], CR with incomplete blood count recovery [CRi], partial remission [PR] or stable disease [SD]) using LeukemiaNet guidelines, Proportions of these patients in each response category will be tabulated; the combined proportion in categories CR, CRi, PR, and SD will be computed along with an exact 95% confidence interval., Up to 6 months|Response duration, Summarized using a Kaplan-Meier plot., From start of induction, assessed up to 6 months|Early mortality, Summarized using a Kaplan-Meier plot., From start of induction, assessed up to 6 months
+PRIMARY OBJECTIVES:
+
+I. To determine the maximum tolerated dose (MTD) of lenalidomide when used in combination with mitoxantrone hydrochloride, etoposide, and cytarabine (MEC) in patients with relapsed or refractory acute myeloid leukemia (AML).
+
+II. To determine the dose-limiting toxicities (DLTs) of this combination in this patient population.
+
+SECONDARY OBJECTIVES:
+
+I. To determine whether the combination of lenalidomide priming prior to re-induction chemotherapy with MEC has clinical activity in patients with relapsed or refractory AML.
+
+OUTLINE: This is a dose-escalation study of lenalidomide.
+
+LENALIDOMIDE PRIMING: Patients receive lenalidomide orally (PO) for 5 or 7 days.
+
+RE-INDUCTION CHEMOTHERAPY: Patients receive etoposide intravenously (IV) over 1 hour, cytarabine IV over 3 hours, and mitoxantrone hydrochloride IV over 15-30 minutes on days 1-5. Patients failing to achieve blast count \< 5% at 21 days may receive a second course of induction therapy. Patients achieving complete remission proceed to lenalidomide priming.
+
+LENALIDOMIDE PRIMING: Within 4-6 weeks, patients receive lenalidomide PO for 5 or 7 days and then proceed to consolidation therapy.
+
+CONSOLIDATION CHEMOTHERAPY: Patients receive etoposide IV over 1 hour, cytarabine IV over 3 hours, and mitoxantrone hydrochloride IV over 15-30 minutes on days 1-4. Treatment repeats every 28-35 days for up to 2 courses in the absence of disease progression or unacceptable toxicity.
+
+After completion of study treatment, patients are followed up for 6 months.

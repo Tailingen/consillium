@@ -1,0 +1,46 @@
+Diagnosing Clinically Significant Prostate Cancer In African American and White Men With Elevated PSA
+This randomized phase II trial studies how well systematic random biopsy or magnetic resonance imaging (MRI)-ultrasound image (US) fusion biopsy work in diagnosing prostate cancer in patients with elevated prostate specific antigen. Systematic random biopsy and MRI-US fusion biopsy may work better in improving the accuracy of prostate cancer detection.
+Health Status Unknown|Elevated PSA
+PROCEDURE: Biopsy of Prostate|OTHER: Laboratory Biomarker Analysis|DIAGNOSTIC_TEST: Magnetic Resonance Imaging|DIAGNOSTIC_TEST: MRI Ultrasound Fusion Guided Biopsy
+Biopsy detection rate of clinically significant prostate cancer, Will code patients as having clinically significant prostate cancer if they are diagnosed with Gleason score \>= 7 or any Gleason score with core length \>= 5 mm or any Gleason score that includes Gleason pattern \>= 4 at initial systematic random biopsy., Up to 5 years
+Presence of any of the complications, Will be summarized in the complications checklist. Will determine any striking co-morbidities that are present post-biopsy and were absent pre-biopsy within each arm, and next determine if the prevalence of any of these identified post-biopsy morbidities differs between the two arms. For these analyses, regression methods (linear, logistic, multinomial logistic as appropriate for the "dependent" variable being analyzed) will be used. Standard descriptive methods will be used to summarize and display the results., Up to 5 years
+Highest Gleason score, Will assess the highest Gleason score in magnetic resonance imaging-ultrasound image fusion biopsy and systematic random biopsy. Will evaluated using agreement metrics such as percent agreement, Cohen's kappa (k) statistic and Krippendorff's alpha statistic. Significance will be considered if p \< 0.05., Up to 5 years
+PRIMARY OBJECTIVES:
+
+I. To compare the detection of clinically significant prostate cancer (CSPCa) in Arm 1 versus Arm 2.
+
+II. To compare between African American (AA) and white men the probability of developing CSPCa within three years of initial biopsy at the start of the study.
+
+SECONDARY OBJECTIVES:
+
+I. To determine complications and patient morbidity associated with either systematic random prostate biopsy (SR-Bx) versus (vs) magnetic resonance imaging-ultrasound image fusion biopsy (MRUS-Bx) + SR-Bx.
+
+TERTIARY OBJECTIVES:
+
+I. To compare Gleason score between MRUS-Bx and radical prostatectomy (RP) specimen among men who elect RP (\~110 in the randomized controlled trial \[RCT\]).
+
+II. To assess within Arm 1 the detection of CSPCa three months after SR-Bx among men initially diagnosed with clinically insignificant prostate cancer (CinsPCa) or no cancer.
+
+III. To identify among men invited to participate and those actually enrolled in the RCT: determinants of study participation.
+
+IV. To identify among men invited to participate and those actually enrolled in the RCT: determinants of treatment decision (active surveillance \[AS\] vs radiation vs RP) including the diagnostic method.
+
+OUTLINE: Patients are randomized into 1 of 2 arms.
+
+ARM I: SR-Bx group
+
+* Patients undergo SR-Bx
+
+  * If SR-Bx doesn't reveal clinically significant cancer, then MRI in 3 months, and if lesion is present (PIRADS ≥ 3) schedule for MRUS-Bx.
+  * If there is no lesion, then no biopsy - schedule MRI in 12 months after the initial MRI.
+
+ARM II: MRUS-Bx group
+
+* Patients undergo MRI. Must be scheduled at least 1 day before MRUS Biopsy.
+
+  * MRI shows no lesion present (PIRADS 1-2): no MRUS-Bx, schedule for SR-Bx only.
+  * MRI lesion present (PIRADS ≥ 3): schedule for MRUS-Bx, which will be done first and followed immediately after by SR-Bx.
+
+FOLLOW UP:
+
+After completion of procedure, patients are followed up at 2-4 weeks, 3, 6, 9, and 12 months, and then periodically for up to 5 years.

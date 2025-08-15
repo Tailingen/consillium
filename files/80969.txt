@@ -1,0 +1,29 @@
+A Randomised Study of Consolidation CTRT Versus Observation After First Line Chemotherapy in Advanced Gallbladder Cancer
+This will be a phase III randomized trial of advanced gall bladder cancers. 140 patients will be randomized. Randomisation will be on a 1:1 ratio between the experimental arm and the control arm.
+
+Observation Arm : 6 cycles of Chemotherapy with Gemcitabine and Cisplatin will be followed by observation Chemotherapy followed by Chemo-radiotherapy Arm (CTRT): 6 cycles of Chemotherapy with Gemcitabine and Cisplatin will be followed by Concurrent Chemo-radiation with capecitabine (experimental arm).
+Gallbladder Cancer Unresectable
+RADIATION: chemoradiation
+Overall survival, Time from diagnosis to death, one year
+Progression free survival, time from diagnosis to evidence of disease progression, one year|Toxicity due to consolidation chemoradiation, Toxicity during and after completion of chemo-radiotherapy, 24 weeks|Hepatobiliary symptom index, Hepatobiliary symptom index ((physical, social, emotional and functional well being according to Fact-hep score), 24 weeks
+Treatment:
+
+Chemotherapy followed by Chemo-radiotherapy:
+
+Patients in experimental arm will be administered 6 cycles of gemcitabine 1000 mg/m2 d 1+8 and cisplatin 25mg/m2 d 1+8 repeated 3 weekly followed by abdominal radiotherapy using a standardized 3 dimensional conformal radiotherapy (3DCRT) technique on a linear accelerator operating at beam energy of \>= 6MV.The total target dose of RT will be 45Gy in 25 fractions of 1.8 Gy to GBC and lymphatics (GBC, liver infiltration, periportal coeliac, superior mesenteric and paraortic lymphnodes till L2) followed by a boost of 9 Gy to the GBC. GBC mass alongwith liver infiltration would be GTV, and a 5mm margin around it would be GB_CTV. Nodal CTV would be delineated after combining PV, CA, SMA and aortic nodes. A Boolean of GB_CTV and Nodal CTV would be Final CTV. PTV margin would be 1 cm around Final CTV. DVH constraints would be : mean liver dose\<30 Gy (liver would be delineated after subtracting GB_CTV), mean kidney dose \<18 Gy (combining both kidneys). Other OAR to be delineated: stomach, bowel and their doses to be noted. Concurrent capecitabine to be given @1250 mg/m2 (Monday to Friday). Weekly clinical ,haemogram, LFT assessments will be done during the treatment.
+
+Toxicities documented during adjuvant therapy will be recorded using the CTCAE version 3.0 (NCI 2006 scale). Toxicities arising more than 90 days since the completion of radiation therapy and attributed to radiation will be assessed according to CTCAE criteria and counted as late radiation toxicities.
+
+Observation : enrolled patients will be administered 6 cycles of gemcitabine 1000 mg/m2 d 1+8 and cisplatin 25mg/m2 d 1+8 repeated 3 weekly for 6 cycles and then kept on observation.
+
+QOL forms would be taken at baseline (before randomization, 2nd week RT and one week after completion of RT.)
+
+Follow-up:
+
+Interim analysis will be done at 50% recruitment or at 1.5 years of study whichever is earlier. After completion of treatment patients will be followed up and assessed clinically every month till disease progression. A CECT abdomen at 2 months would be done to assess response to treatment. Patients who develop symptoms of disease progression would be advised CECT scan to confirm disease progression before administering second-line chemotherapy (CAPIRI). Quality of Life assessment: This will be done using FACT hepatic scale at the time of randomization, second week of radiotherapy and one month after completion of radiotherapy.
+
+In the control arm it will be assessed at the time of randomization, and at one month and 3 months of follow-up. Sample size estimation Assuming 2 year survival probability of the patients were 0.25 and 0.08 in the treatment (group1) and control (group2), at minimum two sided 95% confidence interval and 80% power of the study, overall sample size came out to be 132 subjects (66 in the group1 and 66 in the group2) using a two-sided log rank test. The proportion dropping out in each of the treatment and control group was 0.10 (ie10%). The proportion of switching from the treatment to control or control to treatment is assumed to be Nil.
+
+Therefore in this study 70-70 patients will be included in the treatment and control groups (total 140).
+
+Sample size was estimated using power analysis and sample size version-8 (PASS-2008).

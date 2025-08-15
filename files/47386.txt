@@ -1,0 +1,13 @@
+AI-aided Optical Coherence Tomography for the Detection of Basal Cell Carcinoma
+Basal cell carcinoma (BCC) is the most common form of cancer among the Caucasian population. A BCC diagnosis is commonly establish by means of an invasive punch biopsy (golden standard). Optical coherence tomography (OCT) is a safe non-invasive diagnostic modality which may replace biopsy if an OCT assessor is able to establish a high confidence BCC diagnosis. Hence, for clinical implementation of OCT, diagnostic certainty should be as high as possible. Artificial intelligence in the form of a clinical decision support system (CDSS) may improve the diagnostic certainty of newly trained OCT assessors by highlighting suspicious areas on OCT scans and by providing diagnostic suggestions (classification). This study will evaluate the effect of a CDSS on the diagnostic certainty and accuracy of OCT assessors.
+Basal Cell Carcinoma|Optical Coherence Tomography
+DIAGNOSTIC_TEST: Optical coherence tomography
+Proportion of high-confidence diagnoses, The difference in percentage of high-confidence diagnoses will be evaluated between AI-OCT and unaided OCT., 31-12-2023
+Diagnostic accuracy of high-confidence diagnoses, Diagnostic parameters (sensitivity, specificity, positive predictive value, negative predicted value, diagnostic odds ratio) will be estimated for high-confidence diagnoses made by AI-OCT and unaided OCT., 31-12-2023|Diagnostic parameters for BCC subtyping, Differences in diagnostic parameters for BCC subtyping (sBCC/nBCC/iBCC) will be evaluated (explorative), 31-12-2023
+In this diagnostic case control design, OCT assessors will retrospectively evaluate OCT scans of equivocal BCC lesions twice (once with, and once without the help of the CDSS). A total of 124 scans (62 BCC/62 non-BCC) will be included in the study. Cases will be shuffled to prevent recall bias. AI-aided OCT scans and unaided OCT scans will be presented in alternating order. The assessors will express their certainty level on a 5-point confidence scale. The diagnostic certainty and diagnostic accuracy of OCT assessment with CDSS and without CDSS will be compared.
+
+Research questions:
+
+1. Does AI-aided OCT assessment result in an increase in high-confidence diagnoses compared to unaided OCT assessment?
+2. Does AI-aided OCT assessment result in a significant increase in sensitivity for BCC detection without compromising specificity compared to unaided OCT assessment?
+3. Does AI-aided OCT assessment result in more accurate BCC subtyping compared to unaided OCT assessment (explorative)

@@ -1,0 +1,64 @@
+Lu-177-DOTATATE (Lutathera) in Combination With Olaparib in Inoperable Gastroenteropancreatico Neuroendocrine Tumors (GEP-NET)
+Background:
+
+A neuroendocrine tumor is a rare type of tumor. It comes from body cells called neuroendocrine cells. Sometimes, these tumors develop in the gastrointestinal tract and pancreas. Researchers want to find out if a combination of drugs can shrink these tumors.
+
+Objective:
+
+To learn if people with certain neuroendocrine tumors can take a combination of 2 drugs, Lutathera and Olaparib, without having severe side effects, and if this treatment makes the tumors shrink.
+
+Eligibility:
+
+Adults 18 and older who have a neuroendocrine tumor in the pancreas or intestine that cannot be cured by surgery and has somatostatin receptors on the cells.
+
+Design:
+
+Eligible participants will get Lutathera through an intravenous (IV) infusion every 8 weeks for 4 cycles. One cycle is 8 weeks. Each cycle includes a follow-up visit at week 4. For the IV, a small plastic tube is put into an arm vein.
+
+Participants will also take Olaparib by mouth twice a day for 4 weeks of each cycle. They will use a medicine diary to track the doses.
+
+During the study, participants will have physical exams. They will have blood and urine tests. They will fill out questionnaires about their general well-being and function. Their heart function will be tested. They will have scans of their chest, abdomen, and pelvis. One type of scan will use an IV infusion of a radioactive tracer.
+
+Participants will have a follow-up visit about 4 weeks after treatment ends. Then they will have follow-up visits every 12 weeks for 3 years. Then they will have yearly phone calls.
+Gastroenteropancreatico Tumors|Neuroendocrine Tumors|Neuroendocrine Neoplasms
+DRUG: Lu-177-DOTATATE|DRUG: Olaparib|DIAGNOSTIC_TEST: Ga dotatate scanning|DIAGNOSTIC_TEST: FDG-PET scanning|DRUG: Amino Acid infusion
+Phase 1: Maximum Tolerated Dose, Depending on what the speed of dose escalation and the final MTD dose, it is estimated that for 4 dose levels with up to 6 patients at each level, approximately 12 to 24 patients will be required for the phase I portion of the study. Standard 3+3 design will be used., End of cycle 1|Phase 2: Overall Response Rate, Proportion of patients who have a partial or complete response to therapy., At disease progression
+Phase 2: PFS and OS of BRCA participants, Preliminary evidence of exceptional efficacy of the combination at MTD in a sub-cohort of participants with BRCA mutation. Participants from the BRCA cohort will be analyzed together with other phase 2 participants as well as separately using descriptive data only., Disease progression|Phase 1: BOR and PFS, Preliminary information on the BOR will be presented as a percentage with 95% confidence intervals. Only evaluate patients will be included. Kaplan-Meier curves of PFS will be constructed. Median PFS will be reported with 95% confidence intervals., Disease progression|Phase 2: PFS and OS, Kaplan-Meier curves of PFS and OS will be constructed. Median PFS and OS will be reported with 95% confidence intervals., Death
+Background:
+
+* Neuroendocrine tumors (NETs) of the gastrointestinal tract and pancreas are a rare and heterogeneous, but clinically important, group of neoplasms with unique tumor biology, natural history, and clinical management issues.
+* While the treatment of localized NETs is surgical resection, a variety of therapeutic options are available for patients with advanced NETs. These include medical control of excess hormone levels and associated symptoms, cytoreductive surgery for patients with advanced disease, radioembolization, chemoembolization, systemic chemotherapy, interferon, longacting somatostatin analogs, receptor-targeted radionuclide therapy, and or liver transplantation.
+* Somatostatin receptors (SSTR) have been shown to be overexpressed in a number of human tumors, including neuroblastoma, prostate cancer, pheochromocytomas, paragangliomas, and NETs, among many others.
+* Lu-177-DOTATATE (Lutathera) is a SSTR-agonist agent which emits ionizing radiation that causes DNA damage to its target cells through both direct and indirect mechanisms. In addition, ionizing radiation has also been shown to induce cell death through what is known as the bystander effect, a phenomenon where cellular signaling from irradiated cells towards non-irradiated cells induces cellular damage and eventually death in nearby surrounding cells.
+* Olaparib is a PARP inhibitor indicated as monotherapy in patients with deleterious or suspected deleterious germline BRCA-mutated advanced ovarian cancer who have been treated with three or more prior lines of chemotherapy. Olaparib has an established safety
+
+profile and it is under investigation in several different cancers.
+
+- The rationale behind using combination therapies in cancer stems from the potential of synergistic mechanisms of action of the involved agents. Olaparib is a PARP-inhibitor which blocks the repair of single-stranded DNA breaks and is especially effective when combined with other agents which induces DNA damage.
+
+Objectives:
+
+* Phase I:
+
+  * Characterize the safety profile and tolerability of the olaparib + Lu-177-DOTATATE combination.
+  * Determine the maximum tolerated dose (MTD) dose of the combination using the 3+3 dose escalation design.
+* Phase II:
+
+  * Measure the Best Overall Response Rate (BOR) by RECIST 1.1 at the MTD dose at completion of 4 cycles of treatment.
+
+Eligibility:
+
+* Clinical diagnosis of GEP-NET disease, histologically confirmed to be consistent with neuroendocrine tumor.
+* Inoperable disease (metastatic, non-candidate for surgery with curative intent, locally advanced into vessels or other critical structures, etc.).
+* Age \>=18 years.
+* Must have presence of SSTR+ disease as documented by positive Ga-68-DOTATATE PET scan within 12 weeks prior to anticipated treatment.
+* ECOG Performance Status \<= 1.
+
+Design:Design:
+
+* Open-label, single-arm, single-center, phase I/II study evaluating the safety and efficacy of the Lu-177-DOTATATE + olaparib combination in patients with inoperable GEP-NET.
+* Each cycle consists of 30 days of olaparib, one infusion of Lu-177 followed by 4 weeks off drug. There will be a total of 4 cycles for each patient, in both phase I and II.
+* For the Phase I portion, Lu-177-DOTATATE will be given at the fixed, FDA-approved dose regimen of 200 mCi (7.4 GBq) IV every 8 (+/- 2) weeks for a total of 4 administrations, while olaparib will be evaluated as a radiosensitizer and be dose-escalated from a starting total dose of 100 mg PO up to total dose of 600 mg PO. Administration of olaparib will start 2 days prior to each administration of Lu-177-DOTATATE and will continue daily until 4 weeks after each administration of Lu-177-DOTATATE, and will be restarted 2 days prior to next administration of Lu-177-DOTATATE.
+* For the Phase II portion, patients will receive Lu-177-DOTATATE at a fixed dose of 200 mCi (7.4 GBq) in combination with olaparib at the MTD dose as determined in Phase I.
+* All patients will be contacted by phone within a week after each Lu-177-DOTATATE treatment for a toxicity assessment. They will also be seen in the NIH clinic every 4 (+/- 1) weeks.
+* Approximately 30 days (+/- 1 week) after last dose of study drug, patients will be invited for a safety end of treatment (EOT) visit. After the EOT visit, patients will continue to be invited to NIH CC every 12 weeks until 3 years after the end of treatment visit. Thereafter, all participants will be contacted yearly through any NIH approved platform to assess for disease status.

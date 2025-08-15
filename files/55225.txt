@@ -1,0 +1,20 @@
+Development and Evaluation of an Artificial Intelligence Tool for Colposcopy Assistance
+Project aiming to develop an algorithm to help the interpretation of colposcopy images, then to evaluate the effectiveness of this algorithm by using it on new cases and comparing the results obtained to the impression of expert clinicians
+Cervical Cancer|HSIL|LSIL|Cervical Ectropion
+OTHER: data collection
+Development of an algorithm to help interpret colposcopy images, Creation of an imaging database with correlation to clinical and histological data, using data from care at the Pitié-Salpêtrière Hospital. A hundred cases will be selected for the study from the hundreds available in the department.
+
+Annotation of colposcopy photos according to the recommendations of the French Society of Colposcopy and Cervico Vaginal Pathology (SFCPCV), then correlation with histological data.
+
+Development of an algorithm for recognizing and analyzing colposcopy photos, with the help of a computer science student, using the analyzed data., 4 month after inclusion
+Evaluate the effectiveness of this algorithm, Comparison of algorithm correlation rate to histological data with clinician correlation rate to histological data, 4 month after inclusion
+Due to the increase in the number of colposcopies following changes in recommendations regarding cervical cancer screening, the investigators wondered about the benefit of assistance provided by the computer tool. Several teams have already developed algorithms to aid in the interpretation of colposcopy, but the studies were carried out in countries that do not have the colposcopic expertise of French practitioners, and no algorithm has has demonstrated its effectiveness to our knowledge, the different results being inhomogeneous. The investigators therefore wanted to develop an algorithm to aid colposcopy based on clinical cases carried out by practitioners considered experts, then evaluate its effectiveness.
+
+The investigators manually collect data concerning adult patients who underwent colposcopy by an expert doctor at La Pitié-Salpêtrière between September 1, 2022 and December 31, 2023, for whom the photographs of the colposcopic examination (without staining, after acid acetic and after Lugol) are available and usable and for which the clinical context is known. If a biopsy has been performed, the histological result is considered the gold standard. If this is not the case (normal and satisfactory colposcopy), the investigators consider by default that the histology is normal. The investigators excluded all patients for whom photographs were of poor quality or unavailable.
+
+Development of the algorithm with the help of a computer science student, aiming to answer the following 2 questions:
+
+* assumed histological result
+* localization of the targeted biopsy if necessary
+
+Evaluation of the algorithm: use of the algorithm for new cases, then comparison of the results obtained with the response given by expert clinicians (reading of images by 2 colposcopists). The aim will be to highlight the non-inferiority of the algorithm.

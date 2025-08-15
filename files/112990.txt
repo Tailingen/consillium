@@ -1,0 +1,34 @@
+Testing the Effect of the Broccoli Seed and Sprout Extract, Avmacol ES, on the Cancer Causing Substances of Tobacco in Heavy Smokers
+This phase II trial tests whether broccoli seed and sprout extract works to break down cancer causing substances of tobacco in heavy smokers. Smokers are at increased risk for developing lung, head and neck, and other cancers. Broccoli seed and sprout extract may help break down and remove toxic substances caused by tobacco use and possibly produce substances that may protect cells from tobacco smoke-induced damage in current smokers.
+Cigarette Smoking-Related Carcinoma
+PROCEDURE: Biospecimen Collection|DIETARY_SUPPLEMENT: Broccoli Sprout/Broccoli Seed Extract Supplement|DRUG: Placebo Administration|OTHER: Questionnaire Administration
+Detoxification of benzene and acrolein, Measured by changes in the urinary levels of their respective mercapturic acids, SPMA and 3-HPMA, from baseline., At baseline and 2, 4, 8, and 12 weeks
+Incidence of adverse events (AE)s, Measured by National Cancer Institute Common Terminology Criteria for Adverse Events version 5. The frequency and associated percentage of each specific AE will be tabulated by the treatment group and then compared via Fisher's exact test. The tolerability will be measured by the adherence rate and will be compared between the broccoli seed and sprout extract (BSSE) and placebo groups via Fisher's exact test., Up to 12 weeks|Increases in detoxification of crotonaldehyde, Will determine whether BSSE sustainably increases the detoxification of crotonaldehyde, as measured by changes in the creatinine-normalized urinary levels of its mercapturic acid metabolite, 3-HMPMA, over time. Similar to the carcinogens, benzene and acrolein, the detoxification of crotonaldehyde will be measured by change at 2 weeks, 4 weeks, 8 weeks and 12 weeks in the urinary excretion of 3-HMPMA from baseline, and a linear mixed effects model will be fit to changes in log-transformed urinary 3-HMPMA levels from baseline., At baseline and 2, 4, 8, and 12 weeks|Bioavailability of BSSE, Measured by urinary sulforaphane (SF) metabolites., At baseline and 2, 4, 8, and 12 weeks|Dose-response relationship between effective SF dose and the detoxification of benzene and acrolein, A dose-response relationship between SF metabolites and detoxification of benzene and/or acrolein will be assessed by a linear mixed effects model with random intercepts, in which changes from baseline in each of the log-transformed urinary mercapturic acid levels as the dependent variable (response) and changes from baseline in SF metabolites as the independent variable (dose)., Baseline up to 12 weeks|Genetic modulators of detoxification of tobacco carcinogens, Will assess whether the GSTM1 and GSTT1 genotypes are important genetic modulators of detoxification of tobacco carcinogens in the setting of prolonged exposure to BSSE. The association of GSTM1 and GSTT1 genotypes with detoxification of benzene and/or acrolein will be assessed by a linear mixed effects model with random intercepts for changes from baseline in each of the log transformed mercapturic acid levels, in which the fixed effects include BSSE, genotype and time indicators and two-way and three-way interactions of BSSE, genotype and time indicators. This will allow us to study whether 1) the BSSE effect if significant is modulated by the genotypes, 2) the time effect if significant is modulated by the genotypes, or 3) the interaction effect between BSSE and time if significant is modulated by the genotypes., Up to 12 weeks
+Change in mucosal signatures of NRF2 activation, inflammation, and innate immunity, Measured by the NanoString nCounter PanCancer panel., Baseline up to 12 weeks|Modulation of nasal epithelial gene signatures, Will assess modulation of nasal epithelial gene signatures including smoking, lung cancer, and squamous dysplasia., Up to 12 weeks
+PRIMARY OBJECTIVE:
+
+I. To determine whether broccoli sprout/broccoli seed extract supplement (broccoli seed and sprout extract \[BSSE\]) sustainably increases the urinary excretion of the mercapturic acids of the tobacco carcinogens benzene and/or acrolein over a 12-week exposure period in otherwise healthy, current smokers.
+
+SECONDARY OBJECTIVES:
+
+I. To evaluate the safety and tolerability of BSSE over a 12-week exposure period.
+
+II. To evaluate whether BSSE sustainably increases the urinary excretion of the mercapturic acid of the tobacco carcinogen crotonaldehyde.
+
+III. To evaluate the bioavailability of BSSE measured as sulforaphane (SF) metabolites and assess for a dose-response relationship between the effective SF dose delivered by BSSE and the detoxification of benzene and acrolein.
+
+IV. To determine whether the GSTM1 and GSTT1 genotypes are important genetic modulators of detoxification of tobacco carcinogens in the setting of prolonged exposure to BSSE.
+
+EXPLORATORY OBJECTIVES:
+
+I. To evaluate modulation of mucosal signatures of nuclear factor-erythroid factor 2-related factor 2 (NRF2) activation, inflammation, and innate immunity.
+
+II. To evaluate modulation of nasal epithelial gene signatures including smoking, lung cancer, and squamous dysplasia.
+
+OUTLINE: Patients are randomized to 1 of 2 groups.
+
+GROUP I: Patients receive broccoli seed and sprout extract orally (PO) once daily (QD) for 12 weeks in the absence of unacceptable toxicity. Patients undergo the collection of blood, nasal epithelial cell, and buccal cell samples throughout the study.
+
+GROUP II: Patients receive placebo PO QD for 12 weeks in the absence of unacceptable toxicity. Patients undergo the collection of blood, nasal epithelial cell, and buccal cell samples throughout the study.
+
+After completion of study, patients are followed up at 2-4 weeks.

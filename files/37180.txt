@@ -1,0 +1,8 @@
+Comparative Study of 99mTc-FAPI SPECT/CT and 68Ga-FAPI PET/CT
+The purpose of this study is to compare the similarities and differences of 99mTc-FAPI quantitative SPECT/CT and 68Ga-FAPI PET/CT in the diagnosis and staging of gastrointestinal tumors, and clinical diagnosis and economic value of 99mTc-FAPI quantitative SPECT/CT for the gastrointestinal tumors.
+99mTc-FAPI-positive Gastrointestinal Tumor
+DIAGNOSTIC_TEST: 99mTc-FAPI
+SUV of primary and metastases lesions, The standardized uptake values (SUV) in deferent organs and lesions, 2 hours after injection
+5 healthy volunteers with whole body 99mTc-FAPI quantitative SPECT/CT scans at 1, 2, 4, 6 and 24 hours after tracer injection (mean dose, 20.0 ± 2.0 mCi) will be performed. During the imaging period, 1 mL blood samples will be obtained specifically at 1, 2, 4, 6 and 24 hours after the injection, for time-activity curve calculations. The estimated radiation doses will be calculated by using OLINDA/EXM software.
+
+Forty patients with confirmed or suspected gastrointestinal tumors, whole body 99mTc-FAPI quantitative SPECT/CT scans will be performed on the first day, and whole body 68Ga-FAPI PET/CT scans will be performed on the next day.According to the scans results of the two agents, with SUVmax and SUVmean as the analysis indicators, the number and uptake difference of primary tumor and metastatic lesions will be compared and analyzed.

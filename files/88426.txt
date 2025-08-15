@@ -1,0 +1,19 @@
+Frailty Score-guided Dosing of Lenalidomide, Dexamethasone and Daratumumab Induction Therapy
+The purpose of this study is to determine if using a subject's baseline frailty score to guide the dosing of lenalidomide in a combination with dexamethasone and daratumumab (DRd lite).
+Multiple Myeloma
+DRUG: Lenalidomide Pill|DRUG: Dexamethasone|DRUG: Daratumumab
+Response Rate, Based on the International Myeloma Working group criteria, 3 months|Response Rate, Based on the International Myeloma Working group criteria, 6 months|Response Rate, Based on the International Myeloma Working group criteria, 12 months|Response Rate, Based on the International Myeloma Working group criteria, Best response achieved (up to but no longer than 2 years)|Side Effects, Evaluated based on CTCAE version 5.0, up to 730 days
+Time on therapy, From the start of treatment till the end of treatment (of all 3 drugs), up to 730 days|Progression free survival, From the start of the treatment until the date of disease progression or death due to any cause. Subjects not progressing or dying will be censored at last disease evaluation date., up to 730 days|Time to the next line of therapy, Duration between the start of the study therapy of all 3 drugs and the start of any new line of therapy., up to 730 days|European Organization for the Research and Treatment of Cancer Quality of Life Questionnaire, EORTC QLQ-C30, Monthly (months 1-6), then every 3 months until treatment end (up to but no longer than 2 years)|Quality of Life- Myeloma, EORTC QLQ-MY20, Monthly (months 1-6), then every 3 months until treatment end (up to but no longer than 2 years)
+This is a multi-institution, prospective, single arm Phase II trial of lenalidomide in a combination with dexamethasone and daratumumab (DRd lite) with no blinding or randomization. This study will enroll 44 patients over 36 months.
+
+Primary Objectives:
+
+1. Evaluate Response rate
+2. Evaluate Side effects
+
+Secondary Objectives:
+
+1. Evaluate Time on therapy
+2. Evaluate Progression free survival
+3. Evaluate Time to the next line of therapy
+4. Assess Quality of life

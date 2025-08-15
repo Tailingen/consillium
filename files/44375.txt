@@ -1,0 +1,36 @@
+Testing Two Different Treatment Schedules of Dabrafenib and Trametinib for Skin Cancer Which Has Spread
+This phase II trial compares the effect of dabrafenib and trametinib given continuously to given with a break in treatment (intermittent) in treating patients with stage III-IV melanoma that cannot be removed by surgery and contains a B-Raf proto-oncogene, serine/threonine kinase (BRAF) mutation. Dabrafenib and trametinib may stop the growth of tumor cells by blocking some of the enzymes needed for cell growth. Giving dabrafenib and trametinib with intermittent dosing may be as effect as when given continuously in treating patients with stage III-IV melanoma with a BRAF mutation that cannot be removed by surgery.
+Stage III Cutaneous Melanoma AJCC v7|Stage IV Cutaneous Melanoma AJCC v6 and v7|Unresectable Melanoma
+PROCEDURE: Biospecimen Collection|PROCEDURE: Computed Tomography|DRUG: Dabrafenib Mesylate|PROCEDURE: Echocardiography Test|PROCEDURE: Multigated Acquisition Scan|PROCEDURE: Positron Emission Tomography|DRUG: Trametinib Dimethyl Sulfoxide
+Progression-free survival (PFS), Testing of the superiority of intermittent dosing of dabrafenib and trametinib compared to continuous dosing with these two same agents will be based on progression-free survival. Stratified Cox regression models stratified by stratification factors will be used for all analyses., Measured from date of randomization, assessed up to 5 years
+Overall survival, Overall survival between patients on each arm and survival after progression will be compared using Cox regression models., Up to 5 years|Response rates, Response rates between arms will be compared using Fisher's exact test., Up to 5 years|Rates of fever, Defined as \>= grade 3 per Common Terminology Criteria for Adverse Events (CTCAE) version (v)4.0 with attribution possibly, probably, or definitely related to treatment; or any \>= grade 1 per CTCAE v4.0 with attribution possibly, probably, or definitely related to treatment with chills, dehydration, hypotension, dizziness, or muscle weakness per CTCAE v4.0 with attribution possibly, probably, or definitely related to treatment reported during the same course. Rates of fever between arms will also be compared using Fisher's exact test., Up to 5 years
+Molecular events leading to reactivation of the MAPK pathway, Compared between patients of the two treatment groups., Up to 5 years|Change in biomarkers associated with PFS of archived tissue, Cox regression analyses will be used to evaluate biomarkers' associations with PFS., Baseline up to 5 years|Interaction between baseline biomarkers and treatment arm, Cox regression analyses will be used to evaluate biomarkers' associations with PFS., Baseline up to 5 years
+PRIMARY OBJECTIVE:
+
+I. To compare progression-free survival with intermittent dosing and continuous dosing of dabrafenib and trametinib among patients with metastatic BRAF V600E/K mutant melanoma.
+
+SECONDARY OBJECTIVES:
+
+I. To estimate the frequency and severity of toxicities of the two dosing schedules.
+
+II. To compare the frequency and severity of fever \>= grade 1 per Common Terminology Criteria for Adverse Events (CTCAE) 4.0 of the two dosing schedules.
+
+III. To compare the response rate (complete and partial response, confirmed and unconfirmed), overall survival, and survival after progression between the two dosing schedules on step 2.
+
+TRANSLATIONAL MEDICINE OBJECTIVES:
+
+I. To evaluate whether acquired molecular events leading to reactivation of the MAPK pathway are more common among patients on the continuous dosing arm than on the intermittent dosing arm using circulating tumor deoxyribonucleic acid (DNA) (ctDNA).
+
+II. To assess the prognostic association between baseline biomarkers and early molecular events with progression free survival (PFS).
+
+III. To explore the potential interaction between treatment arm and baseline biomarkers/early molecular events with PFS.
+
+IV. To bank tissue and whole blood in anticipation of future studies to evaluate molecular events associated with clinical benefit and disease progression in patients treated with continuous versus intermittent dabrafenib and trametinib.
+
+OUTLINE: Patients are randomized to 1 of 2 treatment arms.
+
+ARM I (CONTINUOUS DOSING): Patients receive dabrafenib orally (PO) twice daily (BID) and trametinib PO once daily (QD) on days 1-56 of each cycle. Cycles repeat every 56 days in the absence of disease progression or unacceptable toxicity. Patients also undergo positron emission tomography/computed tomography (PET/CT) or CT scans in week 1 of cycle 2 and at off treatment follow up prior to progression. Additionally, patients undergo blood sample collection, echocardiography (ECHO) or multigated acquisition scan (MUGA) on study.
+
+ARM II (INTERMITTENT DOSING): Patients receive dabrafenib PO BID and trametinib PO QD on days 1-7 and 29-56 of each cycle. Cycles repeat every 56 days in the absence of disease progression or unacceptable toxicity. Patients also undergo PET/CT or CT scans in week 1 of cycle 2 and at off treatment follow up prior to progression. Additionally, patients undergo blood sample collection, ECHO or MUGA on study.
+
+After completion of study treatment, patients are followed up every 6 months for 3 years and then yearly for 2 years.

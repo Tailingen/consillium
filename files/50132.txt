@@ -1,0 +1,16 @@
+Personalised Health Recommendations to the General Population Through an Integrated AI Guided
+This clinical study aims to be used to implement and validate the AIDA tool in two phases:
+
+* Phase 1: Risk stratification and personalised recommendations \& Model development
+* Phase 2: Mechanistic Model (Bioresource) development \& testing
+Gastric Cancer|Cancer Prevention|Helicobacter Pylori Infection|Artificial Intelligence
+BEHAVIORAL: Health reccommendations
+Risk of developing Gastric Cancer based on medical records, Scoring patients as low (\>30) / medium / high risk (\<6) according to:
+
+* Degree of 'healthiness' of lifestyle (1 to 10, with 10 as very low and 10 as very high)
+* Co-morbidities (Yes = 1 / No = 5)
+* H. pylori infection history (Yes = 1 / No = 5)
+* Previous gastric intestinal metaplasia (Yes = 1 / No = 5)
+* Dysplasia or atrophy related to chronic gastritis (Yes = 1 / No = 5)
+* Family history of cancer (Yes = 1 / No = 5), At the recruitment stage|H. pylori Eradication Therapy Recommendation, AI driven H. pylori Eradication Therapy Recommendation, From 30 days after the H.Pylori positive test result to one year after the first recommendation|GIM risk score assessment using imaging modalities, AI driven GIM risk score assessment of pre-cancerous lesions using imaging modalities based on: QLQ C30 and STO22 EORTC questionnaire, Healthy lifestyle questionnaire (adapted from EPICs), Baseline clinical data, If H. pylori positive: adherence to treatment: yes/no; eradication yes/no, If GIM: adherence to follow-up guidelines yes/no, At the recruitment stage
+The AIDA objective (project) is to develop and validate a multidisciplinary AI-powered assistant that helps clinicians diagnose precancerous inflammation, suggests personalised therapeutic strategies for medical treatment and follow-up, and makes personalised recommendations for monitoring patient health status, thus contributing to gastric cancer prevention. This prospective clinical study aims to implement and validate such tool.

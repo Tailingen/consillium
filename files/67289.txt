@@ -1,0 +1,19 @@
+Pembrolizumab in Treating Patients With Relapsed or Refractory Stage IB-IVB Mycosis Fungoides or Sezary Syndrome
+This phase II trial studies how well pembrolizumab works in treating patients with stage IB-IVB mycosis fungoides or Sezary syndrome that has returned after a period of improvement or has not responded to at least one type of treatment. Monoclonal antibodies, such as pembrolizumab, may block cancer growth in different ways by targeting certain cells.
+Recurrent Mycosis Fungoides and Sezary Syndrome|Refractory Mycosis Fungoides and Sezary Syndrome|Stage IB Mycosis Fungoides and Sezary Syndrome AJCC v7|Stage IIA Mycosis Fungoides and Sezary Syndrome AJCC v7|Stage IIB Mycosis Fungoides and Sezary Syndrome AJCC v7|Stage IIIA Mycosis Fungoides and Sezary Syndrome AJCC v7|Stage IIIB Mycosis Fungoides and Sezary Syndrome AJCC v7|Stage IVA Mycosis Fungoides and Sezary Syndrome AJCC v7|Stage IVB Mycosis Fungoides and Sezary Syndrome AJCC v7
+OTHER: Laboratory Biomarker Analysis|BIOLOGICAL: Pembrolizumab
+Objective Response Rate (ORR), Defined as a Confirmed Partial Response (PR) or Complete Response (CR) Using Global Assessment Standard Response Criteria for Mycosis Fungoides and Sezary Syndrome, A generalized linear model for the objective response rate used a binominal error distribution. The model included as covariates all available baseline predictors of the missing outcomes., Up to 3.2 years
+Duration of Response, Was estimated using the Kaplan-Meier method (Duration of Response Probability)., The time interval between the date of first response (CR/PR) and the date of progression as assessed by standard Mycosis Fungoides and Sezary Syndrome response criteria, assessed at 26 and 52 weeks|Progression Free Survival (PFS), Was estimated using the Kaplan-Meier method (Progression Free Survival Probability)., The time from allocation to the first documented disease progression or death due to any cause, whichever occurs first, assessed at 26 and 52 weeks|Overall Survival (OS), Was estimated using the Kaplan-Meier method (Overall Survival Probability)., The time from randomization to death due to any cause, assessed at 52, 104 and 156 weeks|Time to Onset of First Drug-related Toxicity, Summary statistics (mean and SD) for time to onset of first drug-related toxicity was provided., Up to 4 years|Incidence of Adverse Events Graded Using the Common Terminology Criteria for Adverse Events Version 5.0, Adverse events were summarized as counts and frequencies by toxicity grade., Up to 4 years
+PRIMARY OBJECTIVES:
+
+I. To assess the response rate of MK-3475 (pembrolizumab) in subjects with relapsed/refractory mycosis fungoides/Sezary syndrome (MF/SS).
+
+SECONDARY OBJECTIVES:
+
+I. To explore the clinical activity of MK-3475 in subjects with relapsed/refractory MF and SS with respect to the following endpoints: duration of response (DOR); progression-free survival (PFS); overall survival (OS).
+
+OUTLINE:
+
+Patients receive pembrolizumab intravenously (IV) over 30 minutes on day 1. Courses repeat every 3 weeks for up to 2 years (6 months for patients achieving complete response \[CR\]) in the absence of disease progression or unacceptable toxicity.
+
+After completion of study treatment, patients are followed up for 30 days and then every 12 weeks.

@@ -1,0 +1,32 @@
+Neoadjuvant Concomitant Modulated Electro-hyperthermia in HER2-negative Breast Cancer
+The aim of this study is to investigate whether the application of concomitant modulated electro-hyperthermia in a neoadjuvant chemotherapeutic setting is beneficial for patients with HER2-negative, stage II-III breast cancer.
+HER2-negative Breast Cancer
+DEVICE: Oncotherm EHY-2030|DRUG: Paclitaxel|DRUG: Carboplatin|DRUG: Cyclophosphamide/Doxorubicin|PROCEDURE: Breast cancer removal surgery
+Residual size of the primary tumor, determined by imaging techniques (in percentage), Using breast MR measurements, the the residual size of the primary tumor will be specified for all patients (in percentage). The comparison of these between the two study arms will serve as the primary outcome measure.
+
+Calculation: The tumor size after the 6-months treatment period (in mm) will be divided by the size measured prior treatment (in mm). The quotient will be given as a percentage and subtracted from 100., change from baseline at 6 months
+Percentage of complete pathological response, Comparison of the percentage of complete pathological responses between the two groups, 9 months|Treatment response patterns, Comparison of the pathological response categories (pCR : pPR : pNR) between the two groups, 9 months|Comparison of surgical procedure ratios, It will be compared whether the ratio of two main breast surgery types (breast-conserving surgery vs. total mastectomy) differ between the two study arms., 9 months|Effect of treatment on white blood cell counts, White blood cell counts (in G/L) will be measeured at every patient visit, and their longitudinal change will be analyzed using mixed-effect statistical modeling techniques., through study completion, an average of ~8 months|Effect of treatment on red blood cell counts, Red blood cell counts (in T/L) will be measeured at every patient visit, and their longitudinal change will be analyzed using mixed-effect statistical modeling techniques., through study completion, an average of ~8 months|Effect of treatment on platelet counts, Platelet counts (in G/L) will be measeured at every patient visit, and their longitudinal change will be analyzed using mixed-effect statistical modeling techniques., through study completion, an average of ~8 months|Effect of treatment on hemoglobin levels, Hemoglobin level of patients (in g/L) will be measeured at every patient visit, and their longitudinal change will be analyzed using mixed-effect statistical modeling techniques., through study completion, an average of ~8 months|Effect of treatment on hematocrit levels, Hematocrit level of patients (in L/L) will be measeured at every patient visit, and their longitudinal change will be analyzed using mixed-effect statistical modeling techniques., through study completion, an average of ~8 months|Number of treatments where the planned power output of the Oncotherm EHY-2030 device could not be reached, For an optimal treatment, the Oncotherm EHY-2030 device must reach its maximum output for 30 minutes. The number of treatments where this optimal outpur could not be reached will be reported., 3 months|Longitudinal analysis of the EORTC QLQ-C30 questionnaire's total scores, The European Organisation for Research and Treatment of Cancer 30-item quality of life questionnaire for cancer patients (EORTC QLQ-C30) total scores will be calculated as per the official quidelines, and their longitudinal change will be analyzed using mixed-effect statistical modeling techniques.
+
+Scoring of the questionnaire will be performed as per the official instructions of EORTC, through study completion, an average of ~8 months|Longitudinal analysis of the EORTC QLQ-BR23 questionnaire's total scores, The European Organisation for Research and Treatment of Cancer 23-item quality of life questionnaire for breast cancer patients (EORTC QLQ-BR23) total scores will be calculated as per the official quidelines, and their longitudinal change will be analyzed using mixed-effect statistical modeling techniques.
+
+Scoring of the questionnaire will be performed as per the official instructions of EORTC, through study completion, an average of ~8 months|Longitudinal analysis of the EQ-5D-5L questionnaire scores, The questionnaire will be assessed as per official guidelines.
+
+EuroQol's 5-dimension health-related quality of life instrument (EQ-5D-5L) questionnaire scores' longitudinal change will be analyzed using mixed-effect statistical modeling techniques.
+
+Scoring of the questionnaire will be performed as per the official instructions of EuroQol., through study completion, an average of ~8 months
+Incidence of Treatment-Emergent Adverse Events as assessed by the Common Terminology Criteria for Adverse Events (CTCAE) version 4.03., All adverse events will be assessed and classified by the Common Terminology Criteria for Adverse Events (CTCAE) version 4.03.
+
+Using descriptive statistics, the number of occurrances will be listed for both study arms., through study completion, an average of ~8 months
+This study is a pivotal, randomized (1:1), open-label, two-treatment group, single-centre trial of Oncotherm EHY-2030, a modulated electro-hyperthermia (mEHT) device. Female patients aged 18 years or older with locally advanced, unilaterally localized HER2-negative breast cancer requiring neoadjuvant treatment are eligible for the study.
+
+In the study, the wTAX (+ carboplatin) +AC neoadjuvant chemotherapy protocol will be administered according to the routine daily regimen, with or without mEHT three times a week during the wTAX (+ carboplatin) period. Carboplatin will be administered for patients with triple-negative breast cancer only.
+
+Primary objective: to compare whether the percentage of tumor size decrease determined by imaging techniques is different in the two treatment groups?
+
+Secondary and other objectives:
+
+* Is complete pathological response (pCR) more common in the mEHT-treated group?
+* Does the pattern of treatment response (pCR : pPR : pNR) differ between the two groups?
+* Is the quality of life of patients different in the two study groups?
+* Is there any treatment-related changes in the routine laboratory parameters such as blood count, liver enzymes, renal function? And do these differ in the two study arms?
+* Safety and tolerability analysis of the device.

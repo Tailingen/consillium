@@ -1,0 +1,44 @@
+A Prospective Observational Study to Describe Clinical Outcomes, Treatment Patterns, Patients Characteristics Among Patients With HR+/HER2- Advanced BC Initiating Treatment With Risarg®, Piqray®, Endocrine Therapy or Chemotherapy in Routine Clinical Practice in Russia
+This study is planned as a prospective multicenter NIS. This study is observational in nature and does not impose a therapy protocol, diagnostic/therapeutic interventions or a visit schedule. Patients with HR+/ HER2- advanced or metastatic BC that initiated treatment with ribociclib, alpelisib, mono endocrine therapy or chemotherapy will be included into the study across seven Russian districts.
+Breast Cancer
+OTHER: ribociclib|OTHER: aplelicib|OTHER: mono endocrine therapy|OTHER: chemotherapy
+Time to treatment failure (TTF), Defined as the time from study treatment initiation to the earliest of date of progression, date of death due to any cause, or date of discontinuation due to reasons other than 'Protocol violation' or 'Administrative problems'. The time to treatment failure for patients who did not experience treatment failure will be censored at last adequate tumor assessment., Up to 24 months
+Line of treatment, Line of advanced breast cancer therapy when treatment of interest was prescribed
+
+* 1st
+* 2nd
+* 3rd
+* Later lines, Baseline|ECOG status, Eastern Cooperative Oncology Group (ECOG) Performance status: describes a patient's level of functioning in terms of their ability to care for themself, daily activity, and physical ability (walking, working, etc.). Scores can range from a lower value of 0 (fully active, able to carry on all pre-disease performance without restriction) up to 5 (dead), Up to 24 months|Location of metastases, Locations of metastatic sited at study entry:
+
+* Local
+* Lung
+* Liver
+* Central nervous system (CNS)
+* Bone
+* Other, Baseline|Menopausal status, Menopausal status
+
+* Premenopausal
+
+  * Ovarian suppression
+  * Ovarian ablation
+* Perimenopausal
+
+  * Ovarian suppression
+  * Ovarian ablation
+* Postmenopausal, Baseline|Number of patients with comorbidities, Number of patients with comorbidities will be presented, Baseline|PIK3CA mutation status, PIK3CA mutation status
+
+* Confirmed PIK3CA mutation
+* Confirmed absence of PIK3CA mutation
+* No data available, Baseline|Proportions of patients by treatment pattern, Proportions of patients receiving the pre-stablished treatments, Up to 24 months|Proportions (%) of patients by treatment sequence, Proportions (%) of patients by treatment sequence:
+
+* ribociclib in 1st line --\> alpelisib in 2nd line.
+* alpelisib in 1st line --\> ribociclib or other CDK4/6 inhibitor in 2nd line, Up to 24 months|Progression free survival (PFS), Defined as the time from index date to the date of the first documented progression or death due to any cause. If a patient has not had an event, PFS will be censored at the date of the last adequate tumor assessment by local BC management guidelines., Up to 24 months|Overall survival (OS), Defined as the time from index date to date of death due to any cause. If a patient is not known to have died, then OS will be censored at the latest date the patient was known to be alive (on or before the cut-off date)., Up to 24 months|Time to chemotherapy (TTC), Defined as the time from index date to the date of initiation of chemotherapy in patient who did not receive chemotherapy for advanced breast cancer at the inclusion. The time to chemotherapy for patients who did not receive any chemotherapy will be censored at the end of follow-up period., Up to 24 months|Proportion (%) of patients with permanent discontinuation, Proportion of patients with permanent discontinuation to becollected, Up to 24 months|Reasons of permanent discontinuation, Reason of treatment discontinuation (if initial treatment was discontinued)
+
+* Cancer progression
+* Adverse event
+* Death
+* Patient decision
+* Other, Up to 24 months|Proportion (%) of patients with dose adjustment, Proportion of patients with dose adjustment will be collected, Up to 24 months|Reasons of dose adjustment, Reasons of dose adjustment will be collected, Up to 24 months|Quality of life (EORTC QLQ-C30), The changes from baseline to each visit where measured using QLQ-C30. EORTC-QLQ-C30 is a 30-item questionnaire developed to assess the quality of life of cancer patients. Subject's responses to 28 questions about their physical functioning, disease symptoms, global health status and utilities are scored on a 4-point scale (1=Not at all to 4=Very much), a low score indicates a high / healthy level of functioning. And the responses to 2 questions about health-related QoL are scored on a 7-point scale (1=Very poor to 7=Excellent), a high score indicates a high / healthy level of functioning.
+
+Using linear transformation, raw scores are standardized, so that scores range from 0 to 100., Baseline|Quality of life (EQ-5D-5L), EQ-5D-5L is a standardized participant completed questionnaire that measures health-related quality of life and translates that score into an index value or utility score. EQ-5D-5L consists of two components: a health state profile and an optional visual analogue scale (VAS). EQ-5D health state profile is comprised of 5 dimensions: mobility, self-care, usual activities, pain/discomfort and anxiety/depression. Each dimension has 5 levels: 1= no problems, 2= slight problems, 3=moderate problems, 4= severe problems, and 5= extreme problems. Higher scores indicated greater levels of problems across each of the five dimensions., Baseline
+Patients will attend the sites in accordance with routine clinical practice. It is assumed that visits will be conducted every 3-4 months. Patients will undergo standard procedures and tests according to clinical guidelines and physician's judgement. Available data from routine clinical management of the patients will be collected at patients' visits to the clinical site. Patients enrolled in the study will be followed up until death or study close whichever occurs first. The recruitment period is planned for 24 months, observation period for maximum of 24 months, with total duration of study 4 years. Patients may discontinue from this NIS at any time.

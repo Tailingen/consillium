@@ -1,0 +1,26 @@
+Celecoxib and Docetaxel or Pemetrexed in Treating Patients With Advanced Recurrent Non-Small Cell Lung Cancer
+RATIONALE: Celecoxib may stop the growth of tumor cells by blocking some of the enzymes need for cell growth. Drugs used in chemotherapy, such as docetaxel, work in different ways to stop the growth of tumor cells, either by killing the cells or by stopping them from dividing. Giving celecoxib together with docetaxel or pemetrexed may kill more tumor cells.
+
+PURPOSE: This phase II trial is studying how well celecoxib given together with docetaxel or pemetrexed works in treating patients with advanced or recurrent non-small cell lung cancer.
+Lung Cancer
+DRUG: celecoxib|DRUG: Docetaxel|DRUG: pemetrexed disodium|OTHER: laboratory biomarker analysis
+Median Survival, Estimated probable duration of life from on-study date to date of death from any cause, using the Kaplan-Meier method with censoring (see analysis population description for additional details), 2 years from date of registration
+Overall Response Rate, Overall response rate is measured by complete response + partial response. Number of patients in each response category, per RECIST v1.1, summarized as follows for target lesion criteria (see RECIST v1.1 for additional details): complete response (CR),disappearance of target lesions; partial response (PR), \>=30% decrease in sum of longest diameter of target lesions; progressive disease (PD), \>=20% increase in sum of LD of target lesions or appearance of new lesions; stable disease (SD), insufficient change in target lesions or new lesions to qualify as either PD or SD. Patients are categorized according to the best response achieved prior to occurrence of progressive disease, where best response hierarchy is CR\>PR\>SD\>PD., On-treatment date to date of disease progression (assessed at 6 weeks up to 2 years)|Time to Progression, Estimated probable duration from on-study date to date of disease progression, using the Kaplan-Meier method with censoring (see analysis population description for additional details). Disease progression is defined under RECIST v1.1 as \>=20% increase in sum of longest diameters of target lesions, unequivocal progression of non-target lesions, or appearance of new lesions., 2 years from date of registration
+Effect of Celecoxib on Urinary Metabolites of PGE2, PG12 and Thromboxane, At 1 year|Changes in Urinary PGE-M and Survival as Assessed by Immunohistochemistry, At 1 year
+OBJECTIVES:
+
+Primary
+
+* To determine the efficacy of celecoxib when administered with standard chemotherapy comprising docetaxel or pemetrexed disodium in patients with advanced, recurrent non-small cell lung cancer (NSCLC) exhibiting cyclooxygenase (COX) dependence.
+
+Secondary
+
+* To determine the overall response rate and time to progression in patients with COX-dependent recurrent NSCLC treated with celecoxib and docetaxel or pemetrexed disodium.
+* To determine the effect of celecoxib on the urinary metabolites of PGE_2 , PGI_2, and thromboxane in patients with COX-dependent recurrent NSCLC.
+* To correlate changes in urinary PGE-M and survival with intratumoral expression of COX-2, mPGES, and 15-PGDH as assessed by IHC.
+
+OUTLINE: Patients with no prior taxane exposure receive docetaxel IV over 1 hour on day 1; patients with prior taxane exposure or for whom docetaxel treatment is contraindicated receive pemetrexed disodium IV over 10 minutes on day 1. Treatment with docetaxel or pemetrexed disodium repeats every 3 weeks for up to 6 courses in the absence of disease progression or unacceptable toxicity. All patients receive oral celecoxib twice daily beginning 5-7 days prior to the first docetaxel or pemetrexed disodium infusion and continuing for up to 1 year in the absence of disease progression or unacceptable toxicity.
+
+Patients undergo blood and urine sample collection at baseline and periodically during study for biomarker correlative studies. Urine samples are assessed for PGE-M levels. Blood samples are analyzed for serum celecoxib levels, VEGF, endostatin, and cytokine assays.
+
+After completing the last dose of celecoxib, patients are followed at 4-6 weeks and then every 3 months thereafter for up to 2 years from study entry.

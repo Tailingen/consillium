@@ -1,0 +1,122 @@
+Robot-assisted Surgery for Colorectal Cancer Resection: A Population-based Analysis of Prevalence, Trends and Outcomes
+The objective of this research project is to conduct a comparative analysis of short- and long-term outcomes between conventional laparoscopic and robot-assisted resection procedures for colorectal cancer. The analysis will utilize population-based DRG data and clinical cancer registry data from Germany. The rationale behind this project is that the number of conversions to open surgery in robotic procedures is approximately half that observed in laparoscopic procedures. Furthermore, it has been demonstrated that conversions are associated with a markedly elevated risk of postoperative complications. The aim of this project is to estimate the number of avoidable adverse outcomes resulting from the use of robot-assisted surgery.
+
+Multiple studies have shown, that the conversion rate for robot-assisted surgery (RAS) is consistently lower than that for conventional laparoscopic (LAP) surgery. Additionally, conversions have been reported to be associated with an increased risk of adverse surgical outcomes. However, most studies have not achieved statistical significance, due to limited sample sizes and insufficient statistical power. A comprehensive review of the existing literature reveals three key findings. First, the conversion rate for RAS procedures is approximately half that of LAP procedures. Second, conversions are associated with a significantly higher incidence of adverse short-term outcomes, including increased morbidity and mortality, as well as prolonged hospitalization. Third, although not significant due to low case numbers, there is some evidence suggesting improved long-term survival with RAS.
+
+The hypothesis is that the lower conversion rate in RAS for colorectal surgery is associated with fewer adverse outcomes compared to LAP procedures. This study aims to estimate the number of short-term adverse outcomes that could be prevented through avoided conversions when surgeries are performed using RAS rather than LAP. Furthermore, it will estimate the potential life years saved due to improved survival resulting from fewer conversions. To analyze avoidable short-term adverse outcomes, Germany's nationwide diagnosis-related group (DRG) data for the years 2016-2023 will be used. Multiple logistic regression analyses will be conducted, and estimated marginal means will be computed to provide population-based estimates. To estimate potential life years saved, clinical cancer registry data will be analyzed using Cox proportional hazards regression models. Long-term survival curves (three-year overall and disease-free survival) will be computed and compared between RAS and LAP surgeries, with a focus on converted operations.
+
+The quality of surgical outcomes (perioperative and short-term postoperative outcomes) for RAS and LAP colorectal surgery will compared using DRG data. This study will analyze the factors that moderate the difference in conversion rates and their relationship to outcome quality. Inclusion criteria will comprise patients who underwent elective resection for a primary malignant colorectal neoplasm. The study further aims to compare long-term overall survival (OS) and disease-free survival (DFS) between RAS and laparoscopic surgery using clinical cancer registry data.
+
+This project represents the first comprehensive analysis in Germany of the use of robotic assistance systems in colorectal surgery based on routine data. A key objective is to assess the prevalence of robotic assistance systems in clinical practice and to estimate the number of conversions-and corresponding adverse outcomes-that could be avoided through their use.
+Colorectal Cancer (CRC)|Robotic Surgical Procedures|Laparoscopic Abdominal Surgery|Outcome Assessment
+DEVICE: Use of robot surgical system
+Proportion of procedures performed with robotic assistance systems, Change in the proportion of surgical resection procedures across time, stratified by procedure type and indication at the patient level (Study-Part I), During surgery (intraoperative)|Conversion rate, Rate of conversions to open surgery for laparoscopic procedures and robot-assisted procedures (Study-Part II), During surgery (intraoperative)|Mortality rate, Proportion of patients that died after surgical intervention (Study-Part II), 30 days|3-year overall survival rates, Death from any cause within three years after the operation (Study-Part III), 3 years after index operation
+Patient characteristics, Age, Sex, Indication for surgery, Comorbidities (Study-Part I), At the beginning of the index operation|Length-of-stay, Duration of the postoperative inpatient stay (Study-Part II), From the day of the index operation to hospital discharge (up to 90 days post-operation, on average)|Postoperative complications, Presence of Anastomotic insufficiency, Surgical site infection, Urinary tract infection, Acquired pneumonia, Thrombosis, Pulmonary embolism, Renal insufficiency, Myocardial infarction, Haemorrhage, Shock, Vomiting (Study-Part II), 30 days postoperatively|Revision surgery, (Study part II), 30 days postoperatively|Stay in intensive care unit, Stay in intensive care unit after index operation for complications (Study-Part II), 30 days postoperatively|Disease-Free 3-year survival, For all patients that had a R0 residual status after resection: the length of time without any signs or symptoms of cancer (Study-Part III), 3 years after index operation
+Number of hospitals using robot-assistance systems, Change in the number of hospitals that perform surgical resection procedures with robot-assistance systems across time, stratified by procedure type and indication (Study-Part I), During surgery (intraoperative)|Characteristics of hospitals which use robot-assistance systems, Intervention volume, geographical distribution (Study-Part I), During surgery (intraoperative)
+OVERVIEW
+
+To address the central objectives, the planned research project comprises three work packages.
+
+In the first work package, a descriptive-epidemiological evaluation of the nationwide Diagnosis-related group statistics (DRG-statistics) will be conducted to analyze the use of RAS over time and across regions. All patients who have undergone colorectal surgery (complete or partial colon or rectal resections) due to colon or rectal cancer will be analyzed with regard to the surgical approach (open, laparoscopic, robotic) and conversion rates.
+
+In the second work package, the quality of surgical outcomes (perioperative and short-term postoperative outcomes) for RAS and LAP colorectal surgery will be comparatively analyzed using the DRG data. In particular, the factors moderating the difference in conversion rates between procedure types and outcome quality will be examined. For these analyses, only patients who have undergone elective resection for a primary malignant colorectal neoplasm will be included.
+
+In the third work package, 3-year overall survival (OS) and disease-free survival (DFS) will be compared between patients who underwent RAS and LAP surgery, using clinical cancer registry data.
+
+DATASETS
+
+The data source for the first two work packages is nationwide billing data (DRG statistic) covering the period from 1 January 2016 to 31 December 2023. This dataset comprises an almost complete record of all inpatient hospital stays in Germany. Given the relevance of the data for hospital billing and the extensive quality assurance measures in place, such as plausibility and conformity checks by the Institute for the Hospital Remuneration System and the Federal Statistical Office, it can be assumed that the data is of high quality.
+
+For the third work package, clinical cancer registry data will be utilized. The registries collect and manage detailed information on cancer diagnoses, treatments, and outcomes for individual persons on the population level. The data includes patient demographics, tumor characteristics, staging information, therapeutic interventions, and follow-up outcomes. The implementation of independent and regular external quality controls, in addition to legally defined quality standards and the financial independence of the cancer registries, ensures the high quality of this data.
+
+PATIENT COHORT
+
+For the first part of the project, all adults diagnosed with a malignant neoplasm of the colon or rectum (ICD-10-GM codes C18-C20, as either the main or secondary diagnosis) who have undergone a resection appropriate to the diagnosis will be identified. The analysis covers the years 2016 to 2023 (8 years). The performed medical procedures will be identified using the Operation and Procedure Codes (OPS), the German modification of the International Classification of Procedures in Medicine (ICPM). For example, a patient who underwent resection for colon carcinoma can be identified by the ICD-10-GM code C18.4 (malignant neoplasm of the transverse colon) in combination with the OPS code 5-456.0\* (colectomy). The surgical approach is indicated by the 6th digit of the OPS code, which distinguishes between open (0-4), laparoscopic (5-7), and converted (8) approaches. The additional OPS code 5-987 (use of a surgical robot) identifies the use of RAS during the procedure.
+
+The second part of the project focuses on the quality of outcomes associated with various surgical procedures. Again, all cases involving resection due to colorectal carcinoma are analyzed. This includes all patients diagnosed with a malignant neoplasm of the colon (C18), rectosigmoid junction (C19), or rectum (C20) as the main diagnosis, who underwent a corresponding resection (colon or rectal). Patients with metastatic carcinomas (ICD-10 codes from chapter C00-C97 as a secondary diagnosis) and non-elective procedures are excluded. In Germany, approximately 57,000 new patients are diagnosed with colorectal cancer each year. Of these, around 70% are in UICC stages I-III and therefore eligible for primary bowel surgery (n ≈ 40,000). Approximately 40% of these patients undergo minimally invasive surgery (n ≈ 16,000). The proportion of RAS resections in colorectal surgery is about 28%. Over the 8-year study period, we expect to analyze approximately 128,000 patients in the minimally invasive group (laparoscopic + robotic), of whom around 35,000 will have undergone RAS.
+
+For the third part of the project, the same patient cohort analyzed in the second part will be used. To incorporate the three-year follow-up period, only patients diagnosed between 2016 and 2020 will be included in this analysis.
+
+OUTCOMES
+
+First part The primary endpoint is to determine the proportion of procedures using RAS over time, stratified by procedure type and indication. The procedure types analyzed include colon (OPS codes 5-454, 5-455, 5-456) and rectal resections (OPS codes 5-484, 5-485), based on the 5-digit OPS procedure definitions. Additional secondary endpoints are listed below and include descriptions of patient populations, the number and geographical distribution of hospitals, as well as characteristics of hospitals that utilize RAS.
+
+Endpoints of the first part of the project
+
+1. Proportion of intereventions with RAS: Proportions over time, stratified by procedure type
+2. Patient characteristics: Age, sex, indication for surgery, comorbidities, stratified by type of intervention and procedure type
+3. Number and proportion of hospitals using RAS: Overall and stratified by procedure type
+4. Characteristics of hospitals using RAS: Procedure volume (specific and overall), geographical distribution (federal states, urban vs. rural)
+
+Second part
+
+The conversion rate and in-hospital mortality are analyzed as primary endpoints. Additional secondary outcomes will be assessed to provide a comprehensive assessment of surgical quality. An overview of hypotheses and endpoints is provided below:
+
+The research hypotheses are as follows:
+
+1. The conversion rate is significantly higher for LAP resections compared to RAS resections.
+2. Higher conversion rates in laparoscopic procedures are associated with more complications and longer hospital stays (percentage-wise) than in RAS procedures.
+3. Higher conversion rates in laparoscopic procedures are associated with more complications and longer hospital stays than in RAS procedures.
+4. Due to higher conversion rates, a greater proportion of patients die after LAP resections compared to RAS resections.
+5. Length of stay is shorter after RAS than LAP resections.
+6. The need for transfusion is lower for RAS than for LAP resections.
+7. The anastomotic insufficiency rate is lower with RAS than with LAP resections. Consequently, the frequency of revision surgery, sepsis, and peritonitis are also lower with RAS.
+8. Postoperative urinary incontinence is less frequent after RAS rectal resections due to improved pelvic visualization and precision.
+
+Enpoints of the second part:
+
+1. Mortality
+2. Lengh of stay
+3. Intensive care unit stay
+4. Blood loss (OPS: 8-800.\*)
+5. Revision surgery (OPS: 5-464; 5-467.5)
+6. Anastomotic insufficiency (OPS: 5-467.5; ICD-10: K91.83) if an anastomosis was also coded in the primary procedure (e.g. OPS: 5-456.05, laparoscopic colectomy with anastomosis)
+7. Surgical site infection (ICD-10: T81.4)
+8. Urinary tract infection (ICD-10: N39.0)
+9. Acquired pneumonia (ICD-10: J12 - J18)
+10. Thrombosis (ICD-10: I80)
+11. Pulmonary embolism (ICD-10: I26)
+12. Renal insufficiency (ICD-10: N17, N19, N99.0)
+13. Myocardial infarction (ICD-10: I21)
+14. Conversion rate (identified via the 6th digit of the respective OPS procedure codes, e.g. 5-455.\*7= conversion during partial colon resection, or 5-456.08 = conversion during colectomy)
+15. Hemorrhage(ICD-10: T81.0)
+16. Vomiting (ICD-10: K91.0)
+17. Shock (ICD-10: T81.1)
+
+Third part The primary outcome is 3-year overall survival, defined as death from any cause for all resected patients. A subgroup analysis will include only those patients who underwent resection with curative intent will be included.
+
+The secondary outcome is 3-year disease-free survival, which will be analyzed among all patients who underwent resection and had an R0 residual tumor status after surgery.
+
+STATISTICAL ANALYSIS
+
+First part For the analyses, patients will be stratified by surgical procedure. A detailed distinction is made based on the specific 5-digit OPS code (e.g., 5-456.0 = colectomy; 5-456.1 = proctocolectomy). The frequency of multiple procedures per patient is assessed and described descriptively. For further analysis, interventions are hierarchically assigned to the most complex surgical procedure associated with the highest hospital mortality, to prevent multiple counting of a single treatment case. The type of surgical access (open vs. laparoscopic) is identified by the 6th digit of the OPS code as described above. The use of RAS is identified by the unique procedure OPS code 5-987.
+
+The following analyses are planned to address the study endpoints:
+
+1. The proportion of various surgical approaches in the total annual surgical volume will be determined. The Cochran-Armitage trend test will be applied to analyze changes in the proportion of robotic surgery over time, both overall and stratified by procedure.
+2. Patient characteristics will be determined and compared univariately between groups. The following comparisons are pre-specified: open vs. laparoscopic/robotic and laparoscopic vs. robotic. Chi-square tests, Welch's t-tests, or Mann-Whitney U tests will be used, depending on the variable type and distribution.
+3. Clinics that have used a robotic assistance system at least once in a given year for visceral surgery are identified. The number of such clinics is analyzed over time - both across all procedures and stratified by specific procedure types. The trend is again evaluated using the Cochran-Armitage test. Within these clinics, the distribution of open, laparoscopic, and robotic procedures is assessed over time. The spread of RAS usage across different intervention areas is also examined by analyzing the timing and types of procedures adopted following initial RAS implementation.
+4. Clinics using RAS are compared to those not using it. Analyses include average annual case volumes for visceral procedures overall and by specific procedure, the geographical distribution of RAS hospitals by federal state, and classification of location type (urban, suburban, rural).
+
+Second part Initially, frequencies or means (including standard deviation, median, and interquartile range) of the defined outcomes are calculated, stratified by primary diagnosis and hierarchically defined surgical procedure. In the second step, these metrics are further stratified by surgical approach (laparoscopic vs. RAS) and the presence of conversion. This results in four analysis groups: surgery performed and completed laparoscopically (LF), started laparoscopically with conversion (LC), performed and completed robotically (RF) and started robotically with conversion (RC).
+
+An univariate comparison of endpoints is conducted across these groups. Subsequently, multivariable logistic regression models are applied, adjusting for age, sex, treatment year, comorbidities, hospital case volume, primary diagnosis, and type of resection. Comorbidities are identified using the Quan-Elixhauser method.
+
+Key predictors are the type of surgical intervention and the presence of conversion, including their interaction. Based on the regression results, estimated marginal means (EMMs) are calculated to quantify adjusted effects of intervention type and conversion. The impact of RAS on adverse outcomes is then estimated using these adjusted effects. Given the hypothesis that conversion rates are lower with RAS than with laparoscopic surgery, the number of avoidable adverse events at the population level is estimated from the EMMs. To enhance interpretability, the number of avoidable adverse outcomes is translated into the number needed to treat (NNT).
+
+Numerous studies confirm that case volume correlates positively with outcomes, as a proxy for surgical expertise. To account for this, procedure volumes per clinic are determined via the institution identifier in the DRG dataset, allowing longitudinal linkage. Volumes are assessed:
+
+* Per procedure, regardless of access type (overall expertise)
+* Separately for laparoscopic and robotic interventions (minimally invasive expertise)
+* Exclusively for robotic procedures (robotic expertise)
+
+Two subgroup analyses are planned:
+
+* Volume-based exclusion: Only hospitals with ≥30 (colon) or ≥20 (rectal) annual resections are included, in line with German Cancer Society certification thresholds, to reduce bias from "occasional surgery" providers.
+* Learning curve adjustment: For robotic surgery, hospitals with \<25 cumulative RAS colorectal procedures are excluded, based on literature regarding proficiency thresholds.
+
+Third part A survival analysis will be performed using Kaplan-Meier curves for all resected patients. Differences in survival between robotic and laparoscopic resections will be assessed, focusing on the four analysis groups (LC, LF, RC, RF). A Cox proportional hazards regression will be conducted to adjust for potential confounders, including age, sex, UICC stage, and ECOG performance status.
+
+The proportional hazards assumption will be tested using Schoenfeld residuals. Hazard ratios (HRs) with 95% confidence intervals (CIs) will quantify the relative risk of adverse outcomes by surgical approach.
+
+To estimate the number of life-years potentially saved through avoided conversions with RAS, the survival function from the Cox model will be used to calculate expected life-years per group. The difference in expected life-years between LAP and RAS represents the average additional life-years saved if patients treated laparoscopically had instead undergone robotic surgery.

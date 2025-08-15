@@ -1,0 +1,77 @@
+A Study to Evaluate Lanraplenib (LANRA) in Combination With Gilteritinib in Participants With FLT3-mutated Relapsed or Refractory Acute Myeloid Leukemia (AML)
+The primary objective of this study is to evaluate the safety of lanraplenib (LANRA) in combination with the FMS-like tyrosine kinase 3 (FLT3) inhibitor gilteritinib, in participants with relapsed or refractory (R/R) FLT3-mutated acute myeloid leukemia (AML).
+Acute Myeloid Leukemia|Relapsed Acute Myeloid Leukemia|Refractory Acute Myeloid Leukemia
+DRUG: Lanraplenib|DRUG: Gilteritinib
+Number of Participants Who Experienced a Treatment-emergent Adverse Event (TEAE), A TEAE was any unfavorable or unintended sign, symptom, laboratory abnormality or disease (new or exacerbated) temporally associated with the use of a study drug, whether considered causally related to the study drug or not that started after the first dose of the earliest study drug through the lesser of non-protocol anti-leukemic therapy initiation or end of treatment visit.
+
+A serious TEAE was defined as any TEAE that:
+
+* Resulted in death.
+* Was life-threatening.
+* Required or prolonged a pre-existing hospitalization.
+* Resulted in disability/incapacity.
+* Was a congenital anomaly/birth defect.
+* Was considered a significant medical event by the investigator.
+
+TEAEs were graded for severity based on the National Cancer Institute-Common Terminology Criteria for Adverse Events (NCI-CTCAE) version 5.0 as follows:
+
+* Grade 1 - Mild.
+* Grade 2 - Moderate.
+* Grade 3 - Severe.
+* Grade 4 - Life-threatening.
+* Grade 5 - Death related to adverse event (AE)., Cycle 1 Day 1 (each cycle was 28 days) to 30 days after last dose of either LANRA or gilteritinib or initiation of non-protocol antileukemic therapy, whichever was earlier (maximum duration of treatment was 183 days)|Number of Participants Who Experienced a Dose-limiting Toxicity (DLT) for LANRA, A DLT was defined as any of the following occurring within the DLT assessment period:
+
+* A nonhematologic toxicity of Grade ≥ 3 that was at least possibly related to LANRA (with noted exceptions).
+* Any toxicity that resulted in administration of \< 80% of the cumulative, Cycle 1 dose for either LANRA or gilteritinib.
+* Grade 4 neutropenia or thrombocytopenia lasting \> 28 days after treatment onset that was not attributed to active acute myeloid leukemia (AML) and was at least possibly related to LANRA.
+* Any toxicity that resulted in reduction in the dose of LANRA in Cycle 1.
+
+DLTs were graded for severity based on the NCI-CTCAE version 5.0 as follows:
+
+* Grade 3 - Severe.
+* Grade 4 - Life-threatening., Cycle 1 Day 1 to pre-dose Cycle 2 Day 1 (each cycle was 28 days)|Maximally Tolerated Dose (MTD)/Recommended Phase 2 Dose (RP2D) of LANRA in Combination With Standard Doses of Gilteritinib, The MTD/RP2D was defined as the highest dose with either 0 of 3 or no more than 1 of 6 patients with LANRA-related DLTs. All decisions regarding dose escalation including declaration of the MTD/RP2D were made by the dose-escalation committee (DEC)., Cycle 1 Day 1 to pre-dose Cycle 2 Day 1 (each cycle was 28 days)
+Maximal Plasma Concentration (Cmax) of LANRA, Cmax was derived from plasma concentrations of LANRA using standard non-compartmental methods and actual sample times., Cycle 1 Day 1 and Cycle 1 Day 15: Pre-dose and 0.5, 1, 2, 3, 4, 6, 8 and 24 hours post-dose.|Time to Cmax (Tmax) of LANRA, Tmax was derived from plasma concentrations of LANRA using standard non-compartmental methods and actual sample times., Cycle 1 Day 1 and Cycle 1 Day 15: Pre-dose and 0.5, 1, 2, 3, 4, 6, 8 and 24 hours post-dose.|Area of the Plasma Concentration x Time Curve From Hour 0 to the Last Measurable Time Point (AUC0-last) of LANRA, AUC0-last was derived from plasma concentrations of LANRA using standard non-compartmental methods and actual sample times., Cycle 1 Day 1 and Cycle 1 Day 15: Pre-dose and 0.5, 1, 2, 3, 4, 6, 8 and 24 hours post-dose.|Cmax of Gilteritinib, Cmax was derived from plasma concentrations of gilteritinib using standard non-compartmental methods and actual sample times., Cycle 1 Day 15: Pre-dose and 0.5, 1, 2, 3, 4, 6, 8 and 24 hours post-dose.|Tmax of Gilteritinib, Tmax was derived from plasma concentrations of gilteritinib using standard non-compartmental methods and actual sample times., Cycle 1 Day 15: Pre-dose and 0.5, 1, 2, 3, 4, 6, 8 and 24 hours post-dose.|AUC0-last of Gilteritinib, AUC0-last was derived from plasma concentrations of gilteritinib using standard non-compartmental methods and actual sample times., Cycle 1 Day 15: Pre-dose and 0.5, 1, 2, 3, 4, 6, 8 and 24 hours post-dose.|Composite Complete Remission (cCR) Rate Per European LeukemiaNet (ELN) 2017 Criteria, Percentage of participants with cCR included CR and CR with partial hematologic recovery (CRh).
+
+CR required all of the following, per ELN 2017 criteria:
+
+* Bone marrow blasts \< 5 %.
+* Absence of circulating blasts and blasts with Auer rods.
+* Absence of extramedullary disease (ie, leukemia outside of bone marrow confirmed by biopsy).
+* Absolute neutrophil count \> 1.0 x 10\^9/L (1,000/μL).
+* Platelet count \>100 x 10\^9/L (100,000/μL).
+
+CRh required all aforementioned CR criteria except for the below:
+
+* Absolute neutrophil count \> 0.5 x 10\^9/L (500/μL) and/or;
+* Platelet count \> 50 x 10\^9/L (50,000/μL)., Cycle 1 Day 1 until occurrence of documented CR or CRh (maximum duration of follow-up was 16.1 months).|Duration of Response (DOR), DOR was defined as the time from first qualifying response (CR/CRh) until relapse or death from any cause, as assessed by study investigators.
+
+CR required all of the following:
+
+* Bone marrow blasts \< 5 %.
+* Absence of circulating blasts and blasts with Auer rods.
+* Absence of extramedullary disease (ie, leukemia outside of bone marrow confirmed by biopsy).
+* Absolute neutrophil count \> 1.0 x 10\^9/L (1,000/μL).
+* Platelet count \>100 x 10\^9/L (100,000/μL).
+
+CRh required all aforementioned CR criteria except for the below:
+
+* Absolute neutrophil count \> 0.5 x 10\^9/L (500/μL) and/or;
+* Platelet count \> 50 x 10\^9/L (50,000/μL).
+
+Relapse was defined as the reappearance of circulating blasts or ≥ 5% blasts in the bone marrow not attributable to any other cause or reappearance of cytologically or biopsy documented extramedullary disease., From first qualifying response (CR/CRh) until relapse or death from any cause (maximum duration of follow-up was 16.1 months).|Event-free Survival (EFS), EFS was defined as the time from treatment onset until treatment failure (ie, failure to achieve CR/CRh, relapse from CR/CRh, or death from any cause).
+
+CR required all of the following:
+
+* Bone marrow blasts \< 5 %.
+* Absence of circulating blasts and blasts with Auer rods.
+* Absence of extramedullary disease (ie, leukemia outside of bone marrow confirmed by biopsy).
+* Absolute neutrophil count \> 1.0 x 10\^9/L (1,000/μL).
+* Platelet count \>100 x 10\^9/L (100,000/μL).
+
+CRh required all aforementioned CR criteria except for the below:
+
+* Absolute neutrophil count \> 0.5 x 10\^9/L (500/μL) and/or;
+* Platelet count \> 50 x 10\^9/L (50,000/μL).
+
+Relapse was defined as the reappearance of circulating blasts or ≥ 5% blasts in the bone marrow not attributable to any other cause or reappearance of cytologically or biopsy documented extramedullary disease., Cycle 1 Day 1 to treatment failure (ie, failure to achieve CR or CRh, relapse from CR/CRh or death from any cause) (maximum duration of follow-up was 16.1 months).|Overall Survival, Overall survival was defined as the time from enrollment until death from any cause. Overall survival was estimated using Kaplan-Meier methodology., Enrollment until death from any cause (maximum duration of follow-up was 16.1 months).
+The primary objective of this study is to evaluate the safety of lanraplenib (LANRA) in combination with the FMS-like tyrosine kinase 3 (FLT3) inhibitor gilteritinib, in participants with relapsed or refractory (R/R) FLT3-mutated acute myeloid leukemia (AML).

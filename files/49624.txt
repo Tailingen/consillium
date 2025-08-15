@@ -1,0 +1,30 @@
+Ibrutinib in Treating Patients With Relapsed Hairy Cell Leukemia
+This phase II trial studies how well ibrutinib works in treating patients with hairy cell leukemia that has returned after a period of improvement. Ibrutinib may stop the growth of cancer cells by blocking some of the enzymes needed for cell growth.
+Hairy Cell Leukemia|Hairy Cell Leukemia Variant|Recurrent Hairy Cell Leukemia|Recurrent Hairy Cell Leukemia Variant
+PROCEDURE: Biospecimen Collection|PROCEDURE: Bone Marrow Aspiration|PROCEDURE: Bone Marrow Biopsy|PROCEDURE: Computed Tomography|DRUG: Ibrutinib|PROCEDURE: Ultrasound Imaging
+Overall response rate (complete response [CR] and partial response [PR]), Calculated as the proportion of patients who achieve a PR or CR to therapy within the first 32 weeks of therapy divided by the total number of evaluable patients., 32 weeks
+Incidence of adverse events, Frequency and severity of adverse events and tolerability of the regimen in each of the patient groups will be collected and summarized by descriptive statistics and will be graded according to the National Cancer Institute Common Terminology Criteria for Adverse Events version 5.0., Up to 30 days after treatment|Progression-free survival, Kaplan-Meier curves will be used to estimate overall survival and time to next treatment., From the date of study registration to the date of event or the date of last follow-up if no event has occurred, assessed up to 3 years|Overall survival, Kaplan-Meier curves will be used to estimate overall survival and time to next treatment., From the date of study registration to the date of event or the date of last follow-up if no event has occurred, assessed up to 3 years|Rate of molecular remission (minimal residual disease [MRD]-negative CR), Defined as resolution of all detectable disease below the limits of detection by immunohistochemistry and 4-color flow cytometry assay will be examined., Up to 32 weeks|Immunologic outcomes during single agent ibrutinib administration, Up to 12 months|Expression BRAFV600E in hairy cell leukemia cells, Markers will be summarized univariately in a quantitative manner and also summarized by clinical outcome group (e.g. responders vs. not). Graphical analyses will be largely used to assess potential patterns and relationships; e.g. side-by-side boxplots to assess differences in continuous marker levels between those with vs. without the clinical improvement., Baseline|Protein kinase regulation, Pharmacodynamic effects of BTK inhibition on phosphorylated ERK regulation, as well as other possible protein kinase targets of ibrutinib including B lymphoid tyrosine kinase and BMX non-receptor tyrosine kinase/Etk will be assessed., Up to day 29 (day 1 of cycle 2)|Serum soluble IL-2 receptor level, Markers will be summarized univariately in a quantitative manner and also summarized by clinical outcome group (e.g. responders vs. not). Graphical analyses will be largely used to assess potential patterns and relationships; e.g. side-by-side boxplots to assess differences in continuous marker levels between those with vs. without the clinical improvement., Up to 3 years|MRD level following maximal response, Will be with flow cytometric analysis and immunohistochemical stains of the bone as predictor of remission duration after ibrutinib therapy., Up to 30 days after completing study treatment
+Pharmacokinetic (PK) parameters, Computed using non-compartmental and compartmental methods. Graphical analyses will be used as well as repeated measure models (linear or nonlinear mixed models, generalized estimating equation) to assess the PK markers in relation to clinical treatment outcomes., Predose, 0.5, 1, 2, 4, 6, and 24 hours post-dose on days 1 and 8 of cycle 1 and predose and 2 hours on days 15 and 22 of cycle 1 and day 1 of cycle 2
+PRIMARY OBJECTIVE:
+
+I. To determine the overall response rate (complete response \[CR\] and partial response \[PR\]) of hairy cell leukemia (HCL) at 32 weeks after beginning therapy with single-agent ibrutinib.
+
+SECONDARY OBJECTIVES:
+
+I. To characterize the toxicity and tolerability of single-agent ibrutinib when administered to patients with HCL.
+
+II. To characterize the progression-free (PFS) and overall survival (OS) of single-agent ibrutinib when administered to patients with HCL.
+
+III. To determine the rate of molecular remission (minimal residual disease \[MRD\]-negative CR) among all patients, defined as resolution of all detectable disease below the limits of detection by immunohistochemistry and/or 4-color flow cytometry assay at 32 weeks after beginning ibrutinib therapy.
+
+IV. To characterize immunologic outcomes during single agent ibrutinib administration.
+
+V. To explore the effect of ibrutinib (PCI-32765) on traditional and new biomarkers in HCL including:
+
+Va. Confirmation of expression BRAFV600E in leukemia cells Vb. Pharmacodynamic effects of BTK inhibition on phosphorylated (phospho) ERK regulation, as well as other potential protein kinase targets of ibrutinib (exploratory) Vc. Serum soluble IL-2 receptor correlation with response to ibrutinib therapy Vd. Documentation of and quantification of minimal residual disease following maximal response, with flow cytometric analysis and immunohistochemical stains of the bone marrow, as predictors of remission duration after ibrutinib therapy.
+
+OUTLINE:
+
+Patients receive ibrutinib orally (PO) once daily (QD) on days 1-28. Cycles repeat every 28 days for up to 8 cycles if lack of response to therapy, up to 12 cycles if failure to achieve an objective response (CR/PR), or continually at per physician discretion in the absence of disease progression or unacceptable toxicity. Additionally, patients undergo bone marrow aspiration and biopsy, blood sample collection, and computed tomography (CT) or ultrasound throughout the study.
+
+After completion of study treatment, patients are followed up every 3 months.

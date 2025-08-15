@@ -1,0 +1,27 @@
+Usability and Clinical Effectiveness of an Interpretable Deep Learning Framework for Post-Hepatectomy Liver Failure Prediction
+The goal of this in-silico clinical trial is to learn about the usability and clinical effectiveness of an interpretable deep learning framework (VAE-MLP) using counterfactual explanations and layerwise relevance propagation for prediction of post-hepatectomy liver failure (PHLF) in patients with hepatocellular carcinoma (HCC). The main questions it aims to answer are:
+
+* To investigate the usability of the VAE-MLP framework for explanation of the deep learning model.
+* To investigate the clinical effectiveness of VAE-MLP framework for prediction of post-hepatectomy liver failure in patients with hepatocellular carcinoma.
+
+In the usability trial the clinicians and radiologists will be shown the counterfactual explanations and layerwise relevance propagation (LRP) plots to evaluate the usability of the framework.
+
+In the clinical trial the clinicians and radiologists will make the prediction under two different conditions: with model explanation and without model explanation with a washout period of at least 14 days to evaluate the clinical effectiveness of the explanation framework.
+Post-hepatectomy Liver Failure|Hepatocellular Carcinoma|Artificial Intelligence
+OTHER: The explanation of deep learning framework (VAE-MLP) , including counterfactual explanations and layerwise relevance propagation|OTHER: The model prediction|OTHER: The model prediction and the explanation of deep learning framework (VAE-MLP) , including counterfactual explanations and layerwise relevance propagation
+Clinical effectiveness of the explanation framework, The accuracy, sensitivity and specificity will be compared between the prediction made with and without the explanation of the DL model to determine the clinical effectiveness of the explanation framework., From enrollment to the end of trial at 8 weeks
+Usability of the explanation framework, The score of the Likert scale of a designed questionnaire is used to evaluate the usability of the framework. Each item is given a score from 1 to 5. Higher scores mean a better outcome., From enrollment to the end of trial at 8 weeks
+Post-hepatectomy liver failure (PHLF) is a severe complication after liver resection. It is important to develop an interpretable model for predicting PHLF in order to facilitate effective collaboration with clinicians for decision-making. Two-dimensional shear wave elastography (2D-SWE) is a liver stiffness measurement (LSM) technology that was proven to be useful in liver fibrosis staging. Therefore 2D-SWE shows the potential value for liver function assessment and PHLF prediction. 2D-SWE images display color-coded tissue stiffness map of liver parenchyma, with red representing a solid tissue (higher stiffness) and blue representing a soft tissue (lower stiffness). Routine analysis of 2D-SWE fails to fully utilize all information available in the images and also suffers from inter-observer variance in choosing the optimal quantification region.
+
+Deep learning (DL) has demonstrated state-of-the-art performance on many medical imaging tasks such as classification or segmentation. However, despite significant progress in DL, the clinical translation of DL tools has so far been limited, partially due to a lack of interpretability of models, the so-called "black box" problem. Interpretability of DL systems is important for fostering clinical trust as well as timely correcting any faulty processes in the algorithms.
+
+Here, the investigators present a novel interpretable DL framework (VAE-MLP) which incorporates counterfactual analysis for the explanation of 2D medical images and LRP for the explanation of feature attributions of both medical images and clinical variables.
+
+The goal of this in-silico clinical trial is to learn about the usability and clinical effectiveness of an interpretable deep learning framework (VAE-MLP) using counterfactual explanations and layerwise relevance propagation for prediction of post-hepatectomy liver failure (PHLF) in patients with hepatocellular carcinoma. The main questions it aims to answer are:
+
+* To investigate the usability of the the interpretable deep learning framework (VAE-MLP) for explanation of the deep learning model.
+* To investigate the clinical effectiveness of the interpretable deep learning framework (VAE-MLP) for prediction of post-hepatectomy liver failure in patients with hepatocellular carcinoma.
+
+In the usability trial the clinicians and radiologists will be shown the counterfactual explanations and layerwise relevance propagation plots of 6 examples. The score of the Likert scale of a designed questionnaire is used to evaluate the usability of the framework.
+
+In the clinical trial the clinicians and radiologists will make the prediction under two different conditions: with model explanation and without model explanation with a washout period of at least 14 days. The accuracy, sensitivity and specificity is used to compare the clinical effectiveness of the explanation framework.

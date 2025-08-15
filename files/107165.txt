@@ -1,0 +1,47 @@
+Repeat CT for Evaluation of Inter- and Intrafraction Changes During Curative Thoracic Radiotherapy
+Radiotherapy (combined with chemotherapy) is increasingly applied in the curative treatment of tumours located in the thoracic region (esophageal cancer, lung cancer, breast cancer, and (non) Hodgkin lymphoma). Accurate radiotherapy planning and delivery is essential for the treatment to be effective. However, this accuracy is compromised by tumour and organ motion. Radiotherapy treatment planning is typically performed on a planning-CT scan recorded several days prior to commencement of radiotherapy. Inter-fraction set up variations and organ motion during treatment can lead to differences between the calculated dose distribution on the planning-CT and the radiation dose actually received by the tumour and normal organs. Accurate assessment of these effects is essential to determine optimal margins in order to irradiate the tumour adequately while minimizing the dose to the organs at risk (OARs).
+
+In the near future, patients with esophageal cancer, lung cancer, breast cancer and (non) Hodgkin lymphoma are excellent candidates for proton beam therapy (PBT), which enables marked reductions of the radiation dose to the OARs and thus decreasing the risk of radiation induced cardiac and lung toxicity. However, for PBT using pencil beam scanning (PBS), knowledge of tumour and organ motion will be even more important. The potential major advantages of PBS for tumours in the thoracic region are challenged by the respiratory motion of the tumour, breast, esophagus, diaphragm, heart, stomach, and lungs. Setup errors and inter- and intra-fraction organ motion cause geometric displacement of the tumours and normal tissues, which can cause underdosage of the target volumes and overdosage of the organs at risk. Furthermore, it can result in changes in tissue densities in the beam path, which can alter the position of the Bragg peaks and lead to distorted dose distributions. If pencil beam scanning techniques are used to treat moving tumours, there is interplay between the dynamic pencil beam delivery and target motion. This phenomenon can cause additional deterioration of the delivered dose distribution, usually manifesting as significant local under and/or over dosage. It is therefore essential to incorporate motion-related uncertainties during treatment planning.
+
+The main objective of this study is to evaluate the impact of inter-fraction tumour and organ motion - while taking into account intra-fraction movements appropriately - on photon and proton radiotherapy treatment planning in order to yield robust intensity modulated photon and/or proton treatment plans.
+
+Objective: To evaluate the impact of inter-fraction tumour and organ geometrical dislocation for moving tumours on photon and proton radiotherapy treatment plans in order to create robust intensity modulated photon- and/or proton treatment plans.
+
+Study design: Pilot-study (80 patients).
+
+Study population: Patients with esophageal cancer (EC), (non) small cell lung cancer ((N)SCLC) stage III, breast cancer, or (non) Hodgkin lymphoma who will be treated with radiotherapy (with or without chemotherapy) with curative intent.
+
+Intervention (if applicable): Not applicable.
+
+Main study parameters/endpoints: Robustness parameters (homogeneity index; coverage of clinical target volume), dose to organs at risk (OARs), such as the heart (mean heart dose, MHD) and the lungs (mean lung dose, MLD).
+
+Nature and extent of the burden and risks associated with participation, benefit and group relatedness: During the radiotherapy treatment course, patients will undergo weekly repeat planning CT scans in treatment position without contrast agents in order to evaluate the impact of inter-fraction tumour and organ motion.
+
+Furthermore, additional CBCTs are collected after 10 radiotherapy fractions to assess the intra-fraction motion.
+
+The additional radiation dose of these 3-6 4D-CT's and 10 CBCTs is low (4-6 x 25-30mSv + 10 x 7mSv results in an effective dose \< 250mSv) compared to the therapeutic radiation dose (40-60Gy). The risks are therefore negligible and the burden is low.
+Thoracic Tumor
+RADIATION: Repeat CT scan
+Changes in dose volume histogram (DVH) parameters (in Gy or volume %) during weekly evaluation of the intra- and inter fraction motion., 3-6 weeks
+Intrafraction variation in tumour position and organ motion during 3-6 weeks of radiotherapy, 3-6 weeks|Interfraction variation in tumour position and organ motion during 3-6 weeks of radiotherapy, 3-6 weeks
+Radiotherapy (combined with chemotherapy) is increasingly applied in the curative treatment of tumours located in the thoracic region (esophageal cancer, lung cancer, breast cancer, and (non) Hodgkin lymphoma). Accurate radiotherapy planning and delivery is essential for the treatment to be effective. However, this accuracy is compromised by tumour and organ motion. Radiotherapy treatment planning is typically performed on a planning-CT scan recorded several days prior to commencement of radiotherapy. Inter-fraction set up variations and organ motion during treatment can lead to differences between the calculated dose distribution on the planning-CT and the radiation dose actually received by the tumour and normal organs. Accurate assessment of these effects is essential to determine optimal margins in order to irradiate the tumour adequately while minimizing the dose to the organs at risk (OARs).
+
+In the near future, patients with esophageal cancer, lung cancer, breast cancer and (non) Hodgkin lymphoma are excellent candidates for proton beam therapy (PBT), which enables marked reductions of the radiation dose to the OARs and thus decreasing the risk of radiation induced cardiac and lung toxicity. However, for PBT using pencil beam scanning (PBS), knowledge of tumour and organ motion will be even more important. The potential major advantages of PBS for tumours in the thoracic region are challenged by the respiratory motion of the tumour, breast, esophagus, diaphragm, heart, stomach, and lungs. Setup errors and inter- and intra-fraction organ motion cause geometric displacement of the tumours and normal tissues, which can cause underdosage of the target volumes and overdosage of the organs at risk. Furthermore, it can result in changes in tissue densities in the beam path, which can alter the position of the Bragg peaks and lead to distorted dose distributions. If pencil beam scanning techniques are used to treat moving tumours, there is interplay between the dynamic pencil beam delivery and target motion. This phenomenon can cause additional deterioration of the delivered dose distribution, usually manifesting as significant local under and/or over dosage. It is therefore essential to incorporate motion-related uncertainties during treatment planning.
+
+The main objective of this study is to evaluate the impact of inter-fraction tumour and organ motion - while taking into account intra-fraction movements appropriately - on photon and proton radiotherapy treatment planning in order to yield robust intensity modulated photon and/or proton treatment plans.
+
+Objective: To evaluate the impact of inter-fraction tumour and organ geometrical dislocation for moving tumours on photon and proton radiotherapy treatment plans in order to create robust intensity modulated photon- and/or proton treatment plans.
+
+Study design: Pilot-study (80 patients).
+
+Study population: Patients with esophageal cancer (EC), (non) small cell lung cancer ((N)SCLC) stage III, breast cancer, or (non) Hodgkin lymphoma who will be treated with radiotherapy (with or without chemotherapy) with curative intent.
+
+Intervention (if applicable): Not applicable.
+
+Main study parameters/endpoints: Robustness parameters (homogeneity index; coverage of clinical target volume), dose to organs at risk (OARs), such as the heart (mean heart dose, MHD) and the lungs (mean lung dose, MLD).
+
+Nature and extent of the burden and risks associated with participation, benefit and group relatedness: During the radiotherapy treatment course, patients will undergo weekly repeat planning CT scans in treatment position without contrast agents in order to evaluate the impact of inter-fraction tumour and organ motion.
+
+Furthermore, additional CBCTs are collected after 10 radiotherapy fractions to assess the intra-fraction motion.
+
+The additional radiation dose of these 3-6 4D-CT's and 10 CBCTs is low (4-6 x 25-30mSv + 10 x 7mSv results in an effective dose \< 250mSv) compared to the therapeutic radiation dose (40-60Gy). The risks are therefore negligible and the burden is low.

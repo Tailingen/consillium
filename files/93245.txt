@@ -1,0 +1,26 @@
+Copanlisib and Nivolumab in Treating Patients With Richter's Transformation or Transformed Indolent Non-Hodgkin Lymphoma
+This phase I trial studies the best dose and how well copanlisib when given together with nivolumab works in treating patients with Richter's transformation or transformed indolent non-Hodgkin lymphoma. Copanlisib may stop the growth of tumor cells by blocking some of the enzymes needed for cell growth. Immunotherapy with monoclonal antibodies, such as nivolumab, may help the body's immune system attack the cancer, and may interfere with the ability of tumor cells to grow and spread. Giving copanlisib and nivolumab may work better in treating patients with Richter's transformation or transformed non-Hodgkin lymphoma.
+Chronic Lymphocytic Leukemia|Diffuse Large B-Cell Lymphoma|Follicular Lymphoma|Indolent Non-Hodgkin Lymphoma|Lymphoplasmacytic Lymphoma|Marginal Zone Lymphoma|Richter Syndrome
+DRUG: Copanlisib|BIOLOGICAL: Nivolumab
+Incidence of dose-limiting toxicities of copanlisib in combination with nivolumab, Will be summarized for the safety population by dose level. All adverse events (AEs) will be coded by system organ class, Medical Dictionary for Regulatory Activities (MedDRA) preferred term, and severity grade using National Cancer Institute (NCI) Common Terminology Criteria for Adverse Events (CTCAE) version (v) 5., Up to day 28|Incidence of adverse events, Will be assessed by CTCAE v5. All adverse events will be tabulated and summarized by major organ category, grade, anticipation, and drug attribution. Serious adverse events (SAE) specific incidence and exact 95% confidence interval will be provided where appropriate., Up to 48 weeks
+Overall response rate (ORR) or complete response (CR) + partial response (PR), Will be summarized with 95% confidence intervals., Up to 48 weeks|Duration of response, Will be summarized descriptively using means and standard deviation along with 95% confidence interval., Up to 48 weeks|Progression-free survival (PFS), Will be summarized descriptively using the Kaplan-Meier estimate along with 95% confidence interval. We will also perform subset analysis with subjects who were treated at the maximum tolerated dose (MTD)., Up to 48 weeks
+Tumor response, Will explore the association between tumor PD-L1 expression., Up to 48 weeks|Evaluation of T-cell repertoire of patients with transformed chronic lymphocytic leukemia (CLL)/non-Hodgkin's lymphoma (NHL) after receiving nivolumab, Up to 48 weeks
+PRIMARY OBJECTIVE:
+
+I. To evaluate the maximum-tolerated dose (MTD) of copanlisib administered in combination with nivolumab in patients with transformed chronic lymphocytic leukemia (CLL)/non-Hodgkin's lymphoma (NHL).
+
+SECONDARY OBJECTIVE:
+
+I. To evaluate the preliminary efficacy of copanlisib administered in combination with nivolumab in patients with transformed CLL/NHL.
+
+EXPLORATORY OBJECTIVES:
+
+I. To evaluate the T-cell repertoire and activation patterns following dual targeting of PI3K and PD-1.
+
+II. To establish if PD-1/PD-L 1 expression correlates with response to the combination of copanlisib and nivolumab.
+
+OUTLINE: This is a dose-escalation study of copanlisib.
+
+Patients receive copanlisib intravenously (IV) over 60 minutes on days 1, 8, and 15 and nivolumab IV over 30 minutes on days 1 and 15. Treatment repeats every 28 days for up to 24 cycles in the absence of disease progression or unacceptable toxicity.
+
+After completion of study treatment, patients are followed up every 3 months for 1 year.

@@ -1,0 +1,44 @@
+Metastatic Thyroid Cancer Therapy Optimization With 124I PET Dosimetry
+Failure of conventional radioiodine therapy of metastatic differentiated thyroid cancer could be explained by:
+
+* a suboptimal therapeutic approach, based on the administration of empirically fixed amount of radioactivity
+* the presence of lesions with impaired iodine uptake, due to the expression of specific mutations
+
+The study aims to:
+
+* optimize therapy with pre-treatment 124-I blood and lesion dosimetry
+* collect genetic data to check if specific mutations and/or miRNA over-expression could be related to low iodine uptake or to radioresistance
+Metastatic Differentiated Thyroid Cancer
+DRUG: Radioiodine optimized therapy
+Response, Evaluation of complete response (CR) rate on soft tissue metastases 6 months after treatment, or later. The best response will be considered.
+
+RECIST 1.1 Evaluation of the best response rate on soft tissue metastases, 6 months, repeated through study completion, an average of 2 year
+Association between presence/absence of metastatic pre-treatment FDG uptake and response, Statistical tests will be applied to test the significance of the association., 6 months, repeated through study completion, for an average of 2 year|Association between the presence/absence of specific mutations in neoplastic thyroid tissue and response, Statistical tests will be applied to test the significance of the association., 6 months, repeated through study completion, for an average of 2 year|Association between circulating miRNA deregulation and response, Statistical tests will be applied to test the significance of the association., 6 months, repeated through study completion, for an average of 2 years|Progression Free Survival interval (PFS) [months] from the first iodine treatment., PFS will be assessed according to the standard clinical practice, every 6 months or more frequently, through study completion, for an average of 2 years|Overall Survival [months] from the first iodine treatment., Survival status will be collected, At the end of the study, an average of 2 years
+Number of participants with treatment-related adverse events as assessed by CTCAE v4.0, The frequece and the grade of sialoadenitis as well as the occurrence of xerostomia will be reported as adverse event, as well as hematological toxicity nadir., Through study completion, an average of 2 years
+TRIAL DESIGN
+
+This is a one-stage, phase II, single-arm, bi-centric study. Enrollment centres are the Istituto Nazionale Tumori in Milan, and the Sacro Cuore Don Calabria Hospital in Negrar, close to Verona. Both centres are located in North Italy. 124-I is produced by cyclotron in Negrar Radiopharmacy unit, while high-activity 131-I therapy will be delivered in Milan.
+
+Patients with ascertained metastatic differentiated thyroid cancer are studied with FDG PET and CT. 124-I blood and lesion PET dosimetry is used to optimize the 131-I therapeutic activity. The same 124-I PET scans are repeated 6 months after therapy as response assessment. 124-I and 131-I administration are performed after hormon withdrawal.
+
+Primary tumour tissue and circulating miRNA will be analyzed to check the genetical features.
+
+According to 124-I dosimetric PET data published by Jentzen et al, good efficacy (Tumour Control Probability \> 80%) is obtained with absorbed dose \> 80 Gy to soft tissue metastases, and \> 650 Gy to bone metastases. Seen this difference, only soft tissue lesions are considered as target for the calculation of the complete response rate.
+
+However, for ethical reasons, therapeutic activity will be chosen in order to be effective both on soft tissue and bone lesions. Patients with too low predicted lesion absorbed dose even administering the Maximum Tolerable Activity (2 Gy to blood) will exit the protocol to receive the standard of care.
+
+PRIMARY END-POINT
+
+Evaluation of complete response (CR) rate on soft tissue metastases 6 months after treatment, or later. The best response will be considered.
+
+SECONDARY END-POINTS
+
+Assessment of:
+
+* acute toxicity rate and severity
+* the association among pre-treatment glucose metabolism, 124-I uptake and therapy response
+* the association among genetic mutations (BRAF V600E, TERT promoter, others) on thyroid cancer tissue, pre- and post-treatment miRNA expression, pre- and post-treatment glucose metabolism, iodine uptake, and 131-I therapy response
+
+SAMPLE SIZE AND POPULATION
+
+By considering a complete response (CR) rate in patients of soft tissue metastases after fixed activity approach as published by Klubo-Gwiezdzinska et al and by assuming an increment of 15% in CR rate after dosimetry-based administration, 46 evaluable patients will be required to test the above hypotheses.

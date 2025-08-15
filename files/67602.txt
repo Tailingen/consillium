@@ -1,0 +1,29 @@
+Photoimmunotherapy With ASP-1929 and Cemiplimab for the Treatment of Refractory, Inoperable, and Metastatic Stage IIIB-IV Non-small Cell Lung Cancer
+This phase II trial tests how well photoimmunotherapy (PIT) with ASP-1929 in combination with cemiplimab works in treating patients with stage IIIB-IV non-small cell lung cancer (NSCLC) that has not responded to previous treatment (refractory), that is not suitable for surgery (inoperable), or that has spread from where it first started to other places in the body (metastatic). PIT is a treatment that combines drugs that become active when exposed to light, such as ASP-1929, with immunotherapy to target and kill tumor cells. ASP-1929 combines cetuximab with a light-sensitive component, sarotalocan. Cetuximab is in a class of medications called monoclonal antibodies. It binds to a protein called epidermal growth factor receptor (EGFR), which is found on some types of tumor cells. This may help keep tumor cells from growing. Sarotalocan is a fluorescent dye, infrared-activated fluorescent dye 700, that is light sensitive, and when activated by a special type of laser light, helps destroy or change tumor cells. Immunotherapy with monoclonal antibodies, such as cemiplimab, may help the body's immune system attack the tumor, and may interfere with the ability of tumor cells to grow and spread. Giving PIT with ASP-1929 in combination with cemiplimab may kill more tumor cells in patients with refractory, inoperable, or metastatic stage IIIB-IV NSCLC.
+Lung Non-Small Cell Carcinoma|Metastatic Lung Non-Small Cell Carcinoma|Refractory Lung Non-Small Cell Carcinoma|Stage IIIB Lung Cancer AJCC v8|Stage IIIC Lung Cancer AJCC v8|Stage IV Lung Cancer AJCC v8
+PROCEDURE: Biospecimen Collection|BIOLOGICAL: Cemiplimab|BIOLOGICAL: Cetuximab Sarotalocan Sodium|PROCEDURE: Computed Tomography|OTHER: Electronic Health Record Review|PROCEDURE: Endobronchial Ultrasound Bronchoscopy|PROCEDURE: Magnetic Resonance Imaging|PROCEDURE: Photoimmunotherapy|PROCEDURE: Photoimmunotherapy|PROCEDURE: Positron Emission Tomography|PROCEDURE: Robotic Bronchoscopy|PROCEDURE: Video-Assisted Thoracic Surgery
+Overall response rate, Will be defined as the proportion of patients who have a partial or complete response to therapy and will be assessed according to immune-modified Response Evaluation Criteria in Solid Tumors (RECIST) version (v) 1.1., Up to 2 years
+Overall survival, Will be defined as the time the patient is alive without tumor progression after treatment according to RECIST v 1.1. Will be estimated using the Kaplan-Meier estimator., From the treatment to time of death from any reason, assessed up to 2 years|Median progression free survival (PFS), Will be defined as the time the patient is alive without tumor progression after treatment according to RECIST v 1.1. Will be estimated using the Kaplan-Meier estimator. Corresponding median PFS will be estimated along with the respective 95% confidence interval., Up to 2 years|Relationship between the light irradiance and fluence in the photoimmunotherapy treated tumor and the objective response of treated and untreated tumors, Will be determined by computing the dose volume histogram of the irradiance and fluence in the illuminated tumor/s and measuring the objective tumor response according to RECIST v 1.1. Will be analyzed using multivariate and univariate mixed effects logistic and standard logistic regression modeling., Up to 2 years|Incidence of adverse events, Will be evaluated in accordance with Common Terminology Criteria for Adverse Events v 5.0., From the first day of the administration of the ASP-1929 up to 30 days after last treatment of ASP-1929 with cemiplimab
+PRIMARY OBJECTIVE:
+
+I. To assess objective response rate of tumors and lymph nodes following photoimmunotherapy and anti-PD1.
+
+SECONDARY OBJECTIVES:
+
+I. Overall survival following photoimmunotherapy and anti-PD1. II. To assess median progression free survival following photoimmunotherapy and anti-PD1.
+
+III. To assess the relationship between light irradiance and fluence dose volume histograms and objective tumors response following photoimmunotherapy and anti-PD1.
+
+IV. To evaluate the safety of cetuximab sarotalocan sodium (ASP-1929) photoimmunotherapy in combination with immune checkpoint inhibitors in patients with refractory inoperable and metastatic non-small cell lung cancer.
+
+EXPLORATORY OBJECTIVES:
+
+I. To assess the relationship between changes of circulating tumor deoxyribonucleic acid (DNA) (ctDNA) levels and objective response of tumors.
+
+II. To assess the relationship between levels of EGFR expression and the objective response of tumors.
+
+OUTLINE:
+
+Patients receive cemiplimab intravenously (IV) over 30 minutes on days 1, 22, and 43 of each cycle and ASP-1929 IV over 2 hours on day 8 of each cycle. Patients undergo external beam (EB)-PIT via standard of care video-assisted thoracic surgery (VATS) once on day 9 of cycle 1 or interstitial (I)-PIT via endobronchial ultrasound (EBUS) or robotic bronchoscopy up to 3 times on day 9 of cycles 1, 2, and/or 3. Cycles repeat every 9 weeks for up to 2 years in the absence of disease progression or unacceptable toxicity. Additionally, patients undergo blood sample collection, computed tomography (CT) and/or positron emission tomography (PET)/CT or magnetic resonance imaging (MRI) throughout the study.
+
+After completion of study treatment, patients are followed up every 3 months for up to 2 years.

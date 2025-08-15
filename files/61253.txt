@@ -1,0 +1,16 @@
+Inotuzumab Ozogamicin and Chemotherapy in Treating Patients With Recurrent or Refractory B-cell Acute Lymphoblastic Leukemia
+This phase I trial studies the best dose of inotuzumab ozogamicin in combination with chemotherapy in treating patients with B-cell acute lymphoblastic leukemia that has come back (recurrent) or that does not respond to treatment (refractory). Inotuzumab ozogamicin is a monoclonal antibody, called inotuzumab, linked to a toxic agent called ozogamicin. Inotuzumab attaches to CD22 positive cancer cells in a targeted way and delivers ozogamicin to kill them. Drugs used in chemotherapy, such as etoposide, prednisone, vincristine, cyclophosphamide, and doxorubicin, work in different ways to stop the growth of cancer cells, either by killing the cells, by stopping them from dividing, or by stopping them from spreading. Giving inotuzumab ozogamicin in combination with chemotherapy may kill more cancer cells than with chemotherapy alone in treating patients with recurrent or refractory B-cell acute lymphoblastic leukemia.
+Recurrent B Acute Lymphoblastic Leukemia|Recurrent B Lymphoblastic Lymphoma|Refractory B Acute Lymphoblastic Leukemia|Refractory B Lymphoblastic Lymphoma
+DRUG: Etoposide|DRUG: Doxorubicin|DRUG: Vincristine|DRUG: Prednisone|DRUG: Cyclophosphamide|BIOLOGICAL: Inotuzumab Ozogamicin
+Maximum tolerated dose (MTD) of inotuzumab ozogamicin (InO), Will be defined as the highest dose of InO administered in which the incidence of dose limiting toxicities (DLTs) is \< 33%, assuming at least 6 patients have been treated at this dose. DLTs assessed by:
+
+* Non-hematologic toxicities \>= grade 3 evaluated using the National Cancer Institute (NCI) Common Terminology Criteria for Adverse Events (CTCAE) version (v) 5.0 (except for febrile neutropenia/infection, unless felt to be a direct consequence of treatment-related toxicity \[e.g., intestinal infection following mucosal barrier breakdown\]).
+* Any instance of possible, probably, or definite SOS/VOD
+* Inability to complete 1 full cycle due to treatment-related adverse events
+* Any treatment delays \> 3 weeks (i.e., to Day 50 of Cycle 1) for recovery of prolonged toxicity, Up to 5 years
+Complete response (CR) rate, Rate of complete response (CR) by bone marrow morphology and/or imaging., Up to 5 years|Rate of complete minimal residual disease (MRD) response, Assessed by multiparameter flow cytometry (MFC)., Up to 5 years|Progression-free survival, Up to 5 years|Relapse-free survival, Up to 5 years|Overall survival, Up to 5 years|Rate at which patients proceed to subsequent allogeneic hematopoietic cell transplantation (HCT), Up to 5 years
+This is a dose-escalation study of inotuzumab ozogamicin.
+
+Patients receive etoposide, doxorubicin, and vincristine intravenously (IV) via continuous infusion on days 1-4, prednisone orally (PO) or IV twice daily (BID) on days 1-5, and cyclophosphamide IV over 1 hour on day 5. Patients also receive inotuzumab ozogamicin IV over 1 hour on days 8 and 15. Treatment repeats every 28 days for up to 4 cycles in the absence of disease progression or unacceptable toxicity.
+
+After completion of study treatment, patients are followed up at 30 days then annually for up to 5 years.

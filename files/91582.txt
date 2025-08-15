@@ -1,0 +1,14 @@
+Next Generation Chest X-Ray Tomosynthesis for Screening of Lung Cancer
+The goal of this observational clinical trial is to learn if chest tomosynthesis is a potential alternative to computed tomography for the detection of lung cancer. It will also develop artificial intelligence tools to aid in the diagnosis of lung cancer on chest tomosynthesis images. The main questions it aims to answer are:
+
+* What is the accuracy of chest X-ray tomosynthesis in diagnosing lung cancer in a population of individuals undergoing lung cancer screening or evaluation of a suspicious lung nodule?
+* Can artificial intelligence help us detect lung cancer on chest tomosynthesis images?
+
+Researchers will compare chest tomosynthesis images to computed tomography scans for each participant to see how they compare in diagnosing lung cancer.
+
+Participants will a chest tomosynthesis scan in addition to their routine clinical computed tomography scan.
+Lung Cancer
+DIAGNOSTIC_TEST: Chest X-ray Tomosynthesis
+Chest X-ray tomosynthesis detection of lung cancer, Diagnostic accuracy of chest tomosynthesis in identifying biopsy-proven lung cancer, through 12/31/2026
+Chest X-ray tomosynthesis detection of suspicious nodules, Diagnostic accuracy of chest tomosynthesis in identifying pulmonary nodules seen on chest CT at multiple minimum size thresholds: 6-mm, 8-mm, 10-mm, through 12/31/2026
+Lung cancer remains the most common cause of cancer death in the United States for which low-dose CT has proven benefit for early detection and survival from lung cancer. However, adoption remains low. Furthermore, \>95% of nodules detected on low-dose CT, especially those smaller than 6 mm, do not represent cancer. We have partnered to develop a novel chest x-ray tomosynthesis (CXRT) device with the hypothesis that this device might be an alternative to CT for detection of lung cancer. We seek to recruit a cohort of patients to undergo CXRT, composed of patients concurrently undergoing lung cancer screening CT and diagnostic CT for new lung cancer. We will determine the effectiveness of CXRT for detecting lung cancer in this population, evaluating its sensitivity and specificity for detecting cancer and lung nodules at multiple size thresholds in a multireader study. We will additionally develop artificial intelligence algorithms and evaluate their efficacy to further enhance cancer detection.

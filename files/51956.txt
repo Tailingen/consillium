@@ -1,0 +1,48 @@
+Dysphagia Assessment After Swallowing Sparing RadioTherapy
+To prospectively assess post-radiation late dysphagia by using MDADI questionnaire (deglutition-related quality of life) and objective instrumental assessment by means of Fiberoptic Endoscopic Evaluation of Swallowing (FEES) and Videofluoroscopy (VFS) in patients affected by nasopharynx and oropharynx cancers candidates to radiochemotherapy. Radiotherapy is delivered by using Intensity and Modulated Technique (IMRT) with a planning dose optimization to the swallowing related structures (SWOARs-sparing IMRT).
+
+The primary aim is to assess the variations of MDADI, FEES and VFS from baseline to 6 and 12 months after treatment.
+
+The secondary aim is to correlate clinical and instrumental results as well as radiation dose received by the different swallowing related structures (SWOARs) to the variations of clinical (MDADI) and instrumental (FEES and VFS) scores.
+Cancer of Oropharynx|Cancer of Nasopharynx
+To assess the changes of deglutition-related quality of life by means of MDADI questionnaire from before to after radiochemotherapy, All patients will be evaluated by using MDADI questionnaire at baseline and at 6 and 12 months after radiochemotherapy. The variations of MDADI questionnaire scores from before to after treatment will be analysed., Baseline, 6 and 12 months treatment|To assess the changes of deglutition function by means of Fiberoptic Endoscopic Evaluation of Swallowing (FEES) from before to after radiochemotherapy, All patients will be evaluated by using FEES at baseline and at 6 and 12 months after radiochemotherapy. The variations of FEES scores from before to after treatment will be analysed, Before, 6 and 12 months after treatment|To assess the changes of deglutition function by means of Videofluoroscopy (VFS) from before to after radiochemotherapy, All patients will be evaluated by using VFS at baseline and at 6 and 12 months after radiochemotherapy. The variations of VFS scores from before to after treatment will be analysed, Before, 6 and 12 months after treatment
+To correlate MDADI score (deglutition-related quality of life) changes with FEES and VFS score (deglutition function) changes from before to after treatment, The correlation between clinical (MDADI) and instrumental (FEES and VFS) scores will be performed according to the following dichotomy:
+
+MDADI \>80 vs MDADI \<80 (optimal vs adequate or poor) FEES P-score 4-7 vs 8-11 (no/mild dysphagia vs adequate/severe dysphagia) VFS PAS score 1-2 vs 3-8 (safe deglutition vs penetration or aspiration), Before, 6 and 12 months after treatment|To correlate radiation dose features received by the different swallowing related structures (SWOARs) to the changes of MDADI, FEES and VFS scores from before to after treatment by using a Machine Learning Methodology, Correlation between MDADI, FEES and VFS score changes with radiation dose received by the SWOARs will be performed according to the following criteria.
+
+The following radiation dose features (Gy) will be extracted for each SWOAR from dose volume hystograms (DVHs): V35, V45, V55, V65, minimum dose (Dmin), maximum dose (Dmax), mean dose (Dmean) and the dose corresponding to the absolute maximum of the differential DVH, hence the modal dose (Dmp).
+
+The abovementioned dose features will be correlated with the following outcome measures and according to the following stratification criteria:
+
+MDADI \>80 vs MDADI \<80 (optimal vs adequate or poor) FEES P-score 4-7 vs 8-11 (no/mild dysphagia vs adequate/severe dysphagia) VFS PAS score 1-2 vs 3-8 (safe deglutition vs penetration or aspiration), At baseline and at 6 and 12 months
+The aim of the study is to prospectively investigate the impact of radiochemotherapy on both the deglution-related quality of life (QoL) by means of MDADI questionnaire and the swallowing function by means of Fiberoptic Endoscopic Evaluation of Swallowing (FEES) and Videofluoroscopy (VFS).
+
+Radiotherapy All patients requiring bilateral neck irradiation will be considered.
+
+The clinical target volumes (CTVs) is directly delineated by the radiation oncologist according to the guidelines of the Italian Association of Radiation Oncology-Head and Neck Working Group 27 and the corresponding planning target volumes (PTVs) is automatically created by uniform expansions of 0.3 cm.
+
+Patients positioning is assessed by weekly cone beam CT (CBCT) and online correction to reduce systematic set-up errors.
+
+The prescribed doses is 66 Gy at 2.2 Gy per fraction to the high risk gross volume PTV and 60-54 Gy at 2.0-1.8 Gy per fraction to the intermediate (optional) and low risk subclinical PTVs, respectively, delivered concomitantly in 30 daily fractions.
+
+Eight different SWOARs are defined in each CT slice and included in IMRT planning objective functions: superior, middle and inferior constrictor muscle (SPCM, MPCM and IPCM), supraglottic larynx (SL), glottis larynx (GL), cricopharyngeus muscle (CPM) and cervical oesophagus (CE). Thereafter, the mean dose received by each swallowing structures as well as by parotid glands and oral cavity will be recorded.
+
+In the IMRT optimisation cost function, target coverage replace sparing of any SWOARs, parotid glands and oral cavity, but the spinal cord.
+
+The IMRT plans set target prescription goals and spinal cord maximum dose (Dmax) as the highest priority, whereas SWOAR constraints are set as secondary.
+
+Medical therapy
+
+Chemotherapy is given weekly using Cisplatin 40 mg/mq for a maximum of 6 cycles or 100 mg/mq every 3 weeks during the 6-week RT course for a maximum of 3 cycles.
+
+MDADI questionnaire
+
+All the enrolled patients fill in the MDADI questionnaire at baseline and at 6 and 12 months after ChemoRT. The validated Italian version of MDADI is used. A MDADI score of at least 80 represents an "optimal" deglutition-related QoL, a score between 60 and 80 represents an "adequate" deglutition-related QoL, and a score less than 60 represents a "poor" deglutition-related QoL. A 10-point difference in the MDADI composite score is considered a minimal clinically important difference (MCID) in the deglutition-related QoL.
+
+Fiberoptic Endoscopic Evaluation of Swallowing (FEES)
+
+This exam is specifically used to evaluate the severity of post-swallowing pharyngeal residue according to Farneti pooling score (P-score), a reliable and validated tool that significantly predicts aspirations.
+
+Videofluoroscopy (VFS)
+
+This exam is specifically used to evaluate the pattern of penetration and aspiration based on the Penetration-Aspiration Scale (PAS)

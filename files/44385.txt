@@ -1,0 +1,28 @@
+Cisplatin, Docetaxel, and Pembrolizumab in Treating Patients With Stage II-III Laryngeal Cancer
+This phase II trial studies how well cisplatin, docetaxel, and pembrolizumab work in treating patients with stage II-III laryngeal cancer. Drugs used in chemotherapy, such as cisplatin and docetaxel, work in different ways to stop the growth of tumor cells, either by killing the cells, by stopping them from dividing, or by stopping them from spreading. Immunotherapy with monoclonal antibodies, such as pembrolizumab, may help the body's immune system attack the cancer, and may interfere with the ability of tumor cells to grow and spread. Giving cisplatin, docetaxel, and pembrolizumab may help to control the disease.
+Laryngeal Squamous Cell Carcinoma|Stage II Laryngeal Cancer AJCC v8|Stage III Laryngeal Cancer AJCC v8
+DRUG: Carboplatin|DRUG: Cisplatin|DRUG: Docetaxel|BIOLOGICAL: Pembrolizumab
+Disease control rate, Will monitor using the Bayesian optimal phase 2 (BOP2) design., Up to 2 years|Pathological complete response rate, Will monitor using the BOP2 design., Up to 2 years
+Incidence of adverse events, Toxicity data will be summarized by frequency tables., After 2 cycles (each cycle is 21 days)|Laryngeal preservation rate, At 2 years|Relapse-free survival, Will be estimated by the Kaplan-Meier method. Median survival, 2-year rate, and the corresponding 95% confidence intervals will be calculated. Log-rank test and Cox regression will be applied whenever appropriate., At 2 years|Overall survival, Will be estimated by the Kaplan-Meier method. Median survival, 2-year rate, and the corresponding 95% confidence intervals will be calculated. Log-rank test and Cox regression will be applied whenever appropriate., Up to 2 years|Patient-reported outcomes of quality of life: MD Anderson Symptom Inventory - Head and Neck Module Scale (MDASI-Head and Neck), Participants will answer a survey questions (paper/on line) using the MD Anderson Symptom Inventory - Head and Neck Module Scale (MDASI-Head and Neck). The MDASI-HN is a brief questionnaire developed to measure severity or burden of overall and head and neck cancer-specific symptoms and their interference with patients' daily functioning. Each symptom is scored on a 0 to 10 scale to indicate the presence and severity of the symptom, with 0 being "not present" and 10 being "as bad as you can imagine."Since swallowing is a functional priority top-ranked by patients before and after head and neck cancer treatment and is an independent driver of quality of life, we will use DIGEST (Dynamic Imaging Grade of Swallowing Toxicity), a 5-point grading scale determined by a modified barium swallow exam, to evaluate swallowing function pre, during, and post-treatment., Up to 2 years
+Predictive tissue and blood-biomarkers of benefit, Tissue and blood will be banked for future biomarker assessment. Since the oncology field is evolving fast and we currently don't have funding for biomarker analysis, we have not specified in the protocol what will be done besides PD-L1 staining by immunohistochemistry. By the time we finish accrual and have biological specimen and funding to analyze the specimens new data and amount of tissue obtained will guide what we will be prioritizing., Up to 2 years
+PRIMARY OBJECTIVES:
+
+I. To determine the clinical benefit rate (CBR) of patients with stage II or III larynx squamous cell carcinoma (SCC) after 2 cycles of pembrolizumab, cisplatin and docetaxel (PCD), and the pathologic complete response (pCR) rate after 4 cycles of PCD.
+
+SECONDARY OBJECTIVES:
+
+I. To determine safety and tolerability of PCD in patients with larynx SCC. II. To determine the laryngeal preservation rate (LPR) at 2 years in the overall population and in the subgroup who achieves a pCR.
+
+III. To determine the 2 year relapse-free survival (RFS) and overall survival (OS) in the overall population and in the subgroup who achieves a pCR.
+
+IV. To determine patient-reported outcomes (PROs) using M. D. Anderson Symptom Inventory-Head and Neck (MDASI-HN) and swallow function using Dynamic Imaging Grade of Swallowing Toxicity (DIGEST).
+
+EXPLORATORY OBJECTIVES:
+
+I. To assess predictive tissue and blood-based biomarkers of benefit from PCD in larynx SCC.
+
+OUTLINE:
+
+Patients receive cisplatin intravenously (IV) over 1 hour, docetaxel IV over 1 hour (patients who develop significant adverse events to cisplatin treatment may receive carboplatin IV over 1 hour instead), and pembrolizumab IV over 30 minutes on day 1. Treatment repeats every 21 days for up to 4 cycles in the absence of disease progression or unacceptable toxicity. Patients who completely respond to the study drugs (the disease appears to go away) then receive pembrolizumab IV over 30 minutes on day 1 for 4 additional cycles in the absence of disease progression or unacceptable toxicity.
+
+After completion of study treatment, patients are followed up at 3 weeks, then every 6-12 weeks for up to 2 years.

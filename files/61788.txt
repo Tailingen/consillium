@@ -1,0 +1,20 @@
+Liver Cancer and Immunotherapy in the Liquid Biopsy Era
+The goal of this prospective clinical trial is to identify a predictive biomarker in patients with advanced HCC (stage B and C) using a combinatorial approach of the liquid biopsy.
+
+The main questions it aims to answer are:
+
+* Is multi-omic liquid biopsy approach able to identify a strong predictive biomarker of immunotherapy efficiency?
+* Is there a correlation between tissue biopsy (PD-L1 tissue level of expression) and liquid biopsy (detection of CTC expressing PD-L1) in HCC patients?
+
+Participants blood will be collected at several time points.
+Hepatocellular Carcinoma|BCLC Stage B Hepatocellular Carcinoma|BCLC Stage C Hepatocellular Carcinoma|Immune Checkpoint Inhibitor|Liquid Biopsy
+BIOLOGICAL: Liquid Biopsy
+Percentage of patients with CTCs-PD-L1+ by CellSearch® technique, A CTC is being defined as: EpCAM(+)/PanCK(+)/Dapi(+)/CD45(-). The PD-L1 status will be observed only on these cells. CTC-PD-L1- = 0 vs CTC-PD-L1+ ≥1, At inclusion
+Number of CTCs-PD-L1+ measured by CellSearch® technique, 0 vs. 1 vs. 2-3 vs. 4 vs. ≥5, At inclusion|Presence of CTCs at inclusion by CellSearch® technique, Percentage of patients with CTCs, At inclusion|Number of CTCs measured by CellSearch® technique, 0 vs 1 vs 2-3 vs 4 vs ≥5, At inclusion|Immune profiling, FACS study of immune system cells (T cells, NK cells, B cells, macrophages, immune-checkpoint and platelets), 24 month follow up|Expression of PD-L1 by immuno-histochemical analysis of tissue samples, PD-L1 expression on biopsy or surgical specimen previously preserved in the Montpellier University Hospital tumor library, At inclusion|Tumor control defined by mRECIST criteria, Best response: complete response + partial response + stable vs progression, 24 month follow up|Tumor control defined by RECIST criteria, Best response: complete response + partial response + stable vs progression, 24 month follow up|Overall Survival, Time from immunotherapy start date to date of death from any cause, 24 month follow-up|Progression Free Survival, Time from immunotherapy start date to date of first progression or date of death from any cause, 24 month follow-up
+In solid cancers, some more aggressive tumor cells actively detach from the primary lesion and then travel through the circulating compartment to reach distant organs and form micro-metastases. Detecting CTCs in the blood is also relevant for assessing tumor progression, prognosis and therapeutic follow-up. The non-invasive, highly sensitive for CTCs analysis is called "liquid biopsy". Over the past few years, a multi-analyses approach (CTCs, circulating tumor DNA, extracellular vesicles, miRNA...) of liquid biopsy has been developed.
+
+Hepatocellular carcinoma (HCC) is the predominant pathological type of primary liver cancer. It represents the sixth most common incidence worldwide and the third most common cause of cancer mortality.
+
+Since 2021, the gold standard treatment for patients with advanced and/or unresectable HCC is the combination of atezolizumab (anti-PD-L1) and bevacizumab (VEGF inhibitor) in cases where chemoembolization is not indicated (patients with lymph node invasion and/or distant lesions or patients with portal flow abnormality). Indeed, this therapy offers a significant benefit in overall survival (19.2 vs 13.4 months, HR 0.66, p\<0.0009) as well as in progression-free survival (6.9 vs 4.3 months, HR 0.65, p=0.0001). However, to date, there is no predictive biomarker for the efficacy of immune checkpoint inhibitors (ICI)
+
+The purpose of this research project is to identify a predictive biomarker in patients with advanced HCC (stage B and C) using a combinatorial approach of the liquid biopsy (CTC, CTC expressing PD-L1, immune cell profiling).

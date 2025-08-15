@@ -1,0 +1,30 @@
+UF-KURE-BCMA CAR-T Cells in Patients With Relapsed or Refractory Multiple Myeloma
+The purpose of this study is to determine if UF-KURE-BCMA (B-Cell Maturation Antigen) chimeric antigen receptor T cells (CAR-T cells) can be used to treat relapsed or treatment refractory multiple myeloma (RRMM). This treatment uses T cells already present within the body that have been modified outside of the body by a virus and then returned by an infusion to fight cancer. The investigators are evaluating UF-KURE-BCMA because it uses a manufacturing process that is shorter than other Food and Drug Administration (FDA) approved CAR-T cells and only requires a simple blood draw. The standard treatments require weeks to manufacture the cells as well a special procedure to get an individual's cells. While the shorter manufacture time can be an advantage, the safety of this approach has not been demonstrated. The use of UF-KURE-BMCA is investigational and is not approved by the FDA outside of clinical trials. This is the first study of UF-KURE-BCMA in patients.
+
+Participants will give a pint of blood, which is the amount one would provide if they were to donate blood. The blood will be used to make the UF-KURE-BCMA cells. Participants will then receive chemotherapy followed by a one-time infusion of the experimental modified CAR-T cells. After this infusion, participants will be watched for side effects and follow up will continue for up to 15 years.
+Multiple Myeloma|Multiple Myeloma in Relapse|Multiple Myeloma, Refractory
+BIOLOGICAL: UF-KURE-BCMA CAR T-cells|DRUG: Cyclophosphamide|DRUG: Fludarabine
+To recommend a phase two cell dose for UF-KURE-BCMA., Patients will be enrolled sequentially using a 3+3 design no sooner than every 28 days during the dose escalation phase and monitored for excessive dose limiting toxicities (DLT). If more than one DLT is observed in 6 patients treated, that dose is considered too toxic.
+
+The following serious adverse events are deemed DLTs. DLTs are graded per CTACAE V5 or ASTCT grading for CRS or ICANS.
+
+* Any death unless due to disease progression
+* Grade 4 CRS.
+* Grade 3 CRS that does not improve to ≤ grade 2 in 72 hours after treatment.
+* Grade 3 or higher ICANS.
+* Grade 4 neutropenia or thrombocytopenia that does not improve to ≤ Grade 2 within 42 days. Grade 3 thrombocytopenia with clinically significant bleeding.
+* Grade 3 or higher organ toxicity of any duration (Exception Grade 3 or 4 abnormal hepatic or renal function tests that improve to ≤ Grade 2 within 7 days).
+* All other Grade 3 toxicities, not attributable to disease or chemo that do not resolve to ≤ Grade 2 within 72 hours., 28 days|Incidence of trial stopping rule event, In the event of any of the following, study enrollment will be suspended pending safety review.
+
+1. Any treatment-related death (Grade 5 event) that occurs following treatment with UF-KURE-BCMA T cells and not related to disease progression.
+2. Unexpected severe toxicities such as
+
+   1. Occurrence of Grade 4 DLTs in 2 subjects at the same dose level.
+   2. Uncontrolled CAR T cell proliferation requiring CAR T cell ablation.
+   3. Grade 4 neurotoxicity with cerebral edema.
+   4. New malignancy distinct from recurrence/progression of previously treated malignancy and at least possibly related to IP.
+   5. Replication-competent lentivirus (RCL) detection in any subjects.
+
+To re-initiate study enrollment, the sponsor and principal investigator will submit a study reactivation plan to the Food and Drug Administration for approval, including additional safeguards to prevent and minimize subsequent adverse events., 28 days
+Clinical responses of RRMM patients treated with UF-KURE-BCMA., Clinical response will be defined by International Myeloma Working Group (IMWG) consensus response criteria using MM disease serologies, % bone marrow plasma cells, and next-generation sequencing MRD testing obtained at 30, 60, and 90 days post CAR-T infusion., 90 days|Median duration of response (DOR) in RRMM patients treated with UF-KURE-BCMA., DOR will be defined as the time in months from the deepest clinical response as defined by IMWG criteria until disease progression or death, whichever comes first. Median DOR is the time at which 50% of patients have progressed., 2 years|Progression-free survival (PFS) in RRMM patients treated with UF-KURE-BCMA., Progression free survival will be defined as the time from enrollment until either disease progression or death, which ever comes first. Median PFS will be defined as the time in months at which 50% of patients exhibit progressive disease or have died., 2 year|Feasibility of manufacturing UF-KURE-BCMA using peripheral blood., Peripheral manufacturing of CAR T-cells from peripheral blood will be deemed feasible if the produced CAR T-product meets release criteria in 75% or more cases., 1 week|Overall survival (OS) in RRMM patients treated with UF-KURE-BCMA., OS will be defined as the time from enrollment until death. Median OS will be defined as the time from enrollment in months at which 50% of patients have died., 2 years
+UF-KURE-BCMA is an autologous CAR-T cell therapy consisting of autologous cluster of differentiation 4 (CD4) positive and cluster of differentiation 8 (CD8) positive human T cells that are genetically engineered using a novel ultrafast lentiviral manufacturing system to express a humanized BCMA CAR-T that targets the BCMA receptor to eliminate multiple myeloma cells using simple peripheral blood draws instead of invasive leukapheresis. This ultrafast platform optimizes CAR-T potency and allows for quicker and cheaper manufacturing of these agents. The goal of this phase 1 study is to find recommended phase 2 dose of UF-KURE-BCMA for treatment of patients with relapsed or refractory multiple myeloma

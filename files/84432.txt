@@ -1,0 +1,25 @@
+Recombinant EphB4-HSA Fusion Protein and Azacitidine or Decitabine for Relapsed or Refractory Myelodysplastic Syndrome, Chronic Myelomonocytic Leukemia, or Acute Myeloid Leukemia Patients Previously Treated With a Hypomethylating Agent
+This trial studies the side effects of recombinant EphB4-HSA fusion protein when given together with azacitidine or decitabine in treating patients with myelodysplastic syndrome, chronic myelomonocytic leukemia, or acute myeloid leukemia that has come back or has not responded to previous treatment with a hypomethylating agent. Recombinant EphB4-HSA fusion protein may stop the growth of tumor cells by blocking some of the enzymes needed for cell growth. Hypomethylating agents, such as azacitidine and decitabine, slow down genes that promote cell growth and can kill cells that are dividing rapidly. Giving recombinant EphB4-HSA fusion protein together with azacitidine or decitabine may work better in treating patients with myelodysplastic syndrome, chronic myelomonocytic leukemia, or acute myeloid leukemia.
+Acute Myeloid Leukemia Arising From Previous Myelodysplastic Syndrome|Chronic Myelomonocytic Leukemia|Previously Treated Myelodysplastic Syndrome|Recurrent Acute Myeloid Leukemia With Myelodysplasia-Related Changes|Recurrent Adult Acute Myeloid Leukemia
+DRUG: Azacitidine|DRUG: Decitabine|OTHER: Laboratory Biomarker Analysis|OTHER: Pharmacological Study|BIOLOGICAL: Recombinant EphB4-HSA Fusion Protein
+Incidence of adverse events graded according to the National Cancer Institute (NCI) Common Terminology Criteria for Adverse Events (CTCAE) version (v)4.0, Will be tabulated and reported according to grade, type, cycle, and attribution., Up to 30 days of the last dose of protocol treatment|Overall response defined as the occurrence of complete response, marrow complete response, partial response, or hematological improvement assessed by the IWG Working Group Criteria for MDS and AML, Will be calculated based on all patients who began treatment; exact 95% confidence intervals will be constructed., Up to 56 days (2 courses of protocol treatment)|Time to death from any cause, Will be displayed with Kaplan-Meier plots., From start of treatment to death from any cause, assessed for up to 3 years|Time to disease progression, Will be displayed with Kaplan-Meier plots., From the start of treatment to the first disease progression or recurrence, assessed for up to 3 years|Tolerability defined as the ability to complete two courses of treatment without the occurrence of dose limiting toxicity and the ability to begin course 3 within 4 weeks and graded according to the NCI CTCAE v4.0, Will be tabulated and reported according to grade, type, cycle, and attribution., Up to 4 weeks following completion of course 2
+Change in the percent of bone marrow and peripheral blood blasts expressing EphB4 assessed by flow cytometry, Baseline up to 3 years|T-cell subset profile assessed by flow cytometry, Baseline up to 3 years
+PRIMARY OBJECTIVES:
+
+I. To describe the toxicities and assess the tolerability of recombinant EphB4-HSA fusion protein (sEphB4-HSA) in combination with an approved hypomethylating agent (HMA) among patients with myelodysplastic syndrome (MDS) who are refractory to or have lost their response to one or more HMAs and among patients with relapsed/refractory acute myeloid leukemia (AML) previously treated with a HMA.
+
+SECONDARY OBJECTIVES:
+
+I. To measure the expression of EphB4 among marrow and peripheral blood blasts in patients with MDS \& AML at baseline and over the course of treatment.
+
+II. To measure the expression of immune check-point activating ligands (such as PD-L1, PD-L2) on marrow and peripheral blood blasts in patients treated with HMA and sEphB4-HSA in combination.
+
+III. To profile immune subsets (activated and exhausted T cells, natural killer \[NK\] cells, T regulatory cells, and myeloid derived suppressor cells) in the peripheral blood and marrow in patients treated with HMA and sEphB4-HSA in combination.
+
+IV. To assess efficacy of sEphB4-HSA in combination with an HMA as manifest by International Working Group (IWG) response criteria, as well as time to development of acute myeloid leukemia (AML) in patients with MDS and time to progression.
+
+OUTLINE:
+
+Patients receive recombinant EphB4-HSA fusion protein intravenously (IV) over 60 minutes on days 1 and 15. Patients also receive azacitidine IV or subcutaneously (SC) on days 1-7 or days 1-5 and 8-9, or decitabine IV on days 1-5. Administration of recombinant EphB4-HSA fusion protein occurs before or after the HMA (not concurrently). Treatment repeats every 28 days for up to 12 courses in the absence of disease progression or unacceptable toxicity.
+
+After completion of study treatment, patients are followed up every 6 months.

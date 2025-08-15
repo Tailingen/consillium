@@ -1,0 +1,27 @@
+Grid Radiation Therapy for the Treatment of Stage IV Non-Small Cell Lung Cancer
+This phase II trial tests the safety and effectiveness of the combination of grid radiation therapy and standard of care (SOC) immunotherapy in treating patients with stage IV non-small lung cancer (NSCLC). Conventional radiation therapy treatments typically deliver the same radiation dose to the entire tumor. Spatially fractionated radiation therapy or grid therapy is approved and a technique which permits the delivery of high doses of radiation to small regions of the tumor which can lead to enhanced tumor cell killing. Grid therapy has been shown to produce dramatic relief of severe symptoms, significant tumor regression (decrease in the size of a tumor), and above average local control rates often exceeding those expected with conventionally delivered radiation treatments, all with minimal associated toxicity. Immunotherapy has become combined into treating patients, which has led improvements in survival and quality of life. Immunotherapy is now the cornerstone of SOC therapy for stage IV NSCLC. Grid radiation therapy combined with immunotherapy may be safe and effective in treating patients with stage IV NSCLC.
+Lung Non-Small Cell Carcinoma|Stage IV Lung Cancer AJCC v8
+PROCEDURE: Biospecimen Collection|PROCEDURE: Computed Tomography|OTHER: Immunotherapy|RADIATION: Palliative Radiation Therapy|RADIATION: Spatially-fractionated Radiation Therapy
+Rate of grade 3+ adverse events, Will be assessed using any Common Terminology Criteria for Adverse Events (CTCAE) version 5.0. Will not utilize a formal statistical design. The maximum grade for each type of adverse event will be recorded for each patient, and frequency tables will be provided. Additionally, the relationship of the adverse event(s) to the study treatment will be taken into consideration. Will be considered official if the rate is less than 40% possibly related to study treatment., Up to 3 months post-grid treatment
+Objective response rate, Will be defined as the number of evaluable patients achieving a response (partial response or better) during treatment with study therapy divided by the total number of evaluable patients. Will be estimated using the Immune-based Response Evaluation Criteria in Solid Tumors in non-irradiated lesion(s) after grid therapy. Point estimates will be generated with 90% confidence intervals using Fisher's exact method. Graphical methods will be used as well, such as waterfall plots., Up to 3 months post-grid treatment
+PRIMARY OBJECTIVE:
+
+I. To describe the safety and toxicity of grid + immunotherapy in stage IV NSCLC using any Common Terminology Criteria for Adverse Events (CTCAE) version (v)5.0.
+
+SECONDARY OBJECTIVE:
+
+I. Evaluation of objective response rate using Immune-based Response Evaluation Criteria in Solid Tumors (iRECIST) in non-irradiated lesion(s) after grid therapy in the setting of ongoing immunotherapy.
+
+CORRELATIVE RESEARCH:
+
+I. Monitoring of peripheral blood T cell activation and immunity markers before and after grid therapy.
+
+II. Evaluation of objective response rate using RECIST in the irradiated lesion after grid therapy.
+
+III. Evaluation of time to change in systemic therapy. IV. Evaluation of overall survival.
+
+OUTLINE:
+
+Patients undergo grid radiation therapy over a single fraction on day 1 and palliative radiation therapy over 5 fractions on days 2 and -1 post-grid in the absence of disease progression or unacceptable toxicity. Patients also receive SOC immunotherapy and undergo computed tomography (CT) at the discretion of the physician and undergo blood sample collection throughout the study.
+
+After completion of study treatment, patients are followed up at 30 days then every 8-12 weeks and every 3 months up to 5 years.

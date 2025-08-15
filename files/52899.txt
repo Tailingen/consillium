@@ -1,0 +1,23 @@
+Filgrastim, Cladribine, Cytarabine, and Mitoxantrone Hydrochloride in Treating Patients With Newly Diagnosed or Relapsed/Refractory Acute Myeloid Leukemia or High-Risk Myelodysplastic Syndromes
+This phase I/II trial studies the side effects and best dose of mitoxantrone hydrochloride when given together with filgrastim, cladribine, and cytarabine and to see how well they work in treating patients with acute myeloid leukemia or high-risk myelodysplastic syndromes that is newly diagnosed, has returned, or does not respond to treatment. Drugs used in chemotherapy, such as filgrastim, cladribine, cytarabine, and mitoxantrone hydrochloride, work in different ways to stop the growth of cancer cells, either by killing the cells, by stopping them from dividing, or by stopping them from spreading.
+Acute Biphenotypic Leukemia|de Novo Myelodysplastic Syndrome|Previously Treated Myelodysplastic Syndrome|Recurrent Adult Acute Myeloid Leukemia|Untreated Adult Acute Myeloid Leukemia|Secondary Acute Myeloid Leukemia
+DRUG: Cladribine|DRUG: Cytarabine|BIOLOGICAL: Filgrastim|OTHER: Laboratory Biomarker Analysis|DRUG: Mitoxantrone Hydrochloride
+Number of Participants With Dose Limiting Toxicities of Mitoxantrone (Phase I, Dose Level 4), Defined as the highest dose studied in which the incidence of dose-limiting toxicity is \< 33%, graded according to NCI Common Terminology Criteria for Adverse Events version 4.0, Up to day 45 after start of induction chemotherapy|Minimal Residual Disease Negative Complete Remission Rate in Patients With Newly Diagnosed Disease (Phase II), Remission Rate defined as Recist Category of Complete Resposne (CR) Disappearance of all non-target lesions and normalization of tumor marker level. All lymph nodes must be non-pathological in size(\<10 mm short axis)., Up to day 45 after start of second course of induction chemotherapy
+Overall Survival (Phase II), Number of subjects that have survived, From date of randomization until the date of death from any cause, assessed up to 12 months|Remission Rate (Complete Remission and Complete Remission With Incomplete Platelet Count Recovery) of This Regimen in Patients With Relapsed/Refractory Disease (Phase II), Up to 5 years
+PRIMARY OBJECTIVES:
+
+I. Estimate the maximum tolerated dose (MTD) of dose-intensified mitoxantrone hydrochloride (mitoxantrone) as part of the filgrastim (G-CSF), cladribine, cytarabine, mitoxantrone hydrochloride (G-CLAM) regimen separately for adults with newly diagnosed acute myeloid leukemia (AML) and those with relapsed/refractory AML receiving first or greater salvage therapy.
+
+SECONDARY OBJECTIVES:
+
+I. To determine, within the limits of a phase 1/2 study, disease response and duration of remission separately for patients with newly diagnosed and relapsed/refractory AML.
+
+II. To describe, within the limits of a phase 1/2 study, the toxicity profile of the study regimen separately for patients with newly diagnosed and relapsed/refractory AML.
+
+OUTLINE: This is a phase I, dose-escalation study of mitoxantrone hydrochloride followed by phase II study.
+
+INDUCTION CHEMOTHERAPY (G-CLAM): Patients receive G-CLAM chemotherapy comprising filgrastim subcutaneously (SC) daily on days 0-5, mitoxantrone hydrochloride intravenously (IV) over 60 minutes on days 1-3, cladribine IV over 2 hours daily on days 1-5, and cytarabine IV over 2 hours daily on days 1-5. Patients achieving complete remission with incomplete peripheral blood count recovery (CRi), partial remission, or persistent disease may receive a second course of induction chemotherapy. Patients achieving complete remission (CR) or CR with incomplete platelet count recovery (CRp) may continue on to Consolidation Chemotherapy.
+
+CONSOLIDATION CHEMOTHERAPY (G-CLA): Beginning within 6 weeks of achieving CR/CRp/CRi, patients receive G-CLA comprising filgrastim SC on days 0-5, cladribine IV over 2 hours daily on days 1-5, and cytarabine IV over 2 hours daily on days 1-5. Treatment continues for up to 4 courses in the absence of disease progression or unacceptable toxicity.
+
+After completion of study treatment, patients are followed up periodically for up to 5 years.

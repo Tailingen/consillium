@@ -1,0 +1,41 @@
+S1501 Carvedilol in Preventing Cardiac Toxicity in Patients With Metastatic HER-2-Positive Breast Cancer
+This phase III trial studies how well carvedilol works in preventing cardiac toxicity in patients with human epidermal growth factor receptor (HER)-2-positive breast cancer that has spread to other places in the body. A beta-blocker, such as carvedilol, is used to treat heart failure and high blood pressure, and it may prevent the heart from side effects of chemotherapy.
+Cardiotoxicity|HER2/Neu Positive|Metastatic Malignant Neoplasm in the Brain|Recurrent Breast Carcinoma|Stage IV Breast Cancer AJCC v6 and v7
+DRUG: Carvedilol|OTHER: Laboratory Biomarker Analysis|OTHER: Patient Observation
+Time to the first identification of cardiac dysfunction, Real-time, blinded, central echocardiography (ECHO) read as a decrease in the left ventricular ejection fraction (LVEF) of \>= 10 percentage points from baseline to a value of \< 50% OR decrease of LVEF by \>= 5 percentage points from baseline to LVEF \< 50% in those baselines having a baseline LVEF of 50-54%. The distributions of time to cardiac dysfunction will be described using cumulative incidence estimates, with the statistical significance of treatment arm differences assessed by Cox and Fine-Gray regression models with adjustment for stratification factors. Gray's test will also be applied, Up to 108 weeks
+Incidence of adverse events associated with beta blocker treatment, Adverse events associated with beta blocker treatment will be assessed., Up to 108 weeks|Rate of first interruption of trastuzumab, The distributions of time to interruption of trastuzumab-based therapy will be described using cumulative incidence estimates, with the statistical significance of treatment arm differences assessed by Cox and Fine-Gray regression models with adjustment for stratification factors. Gray?s test will also be applied to the primary endpoint to assess whether the results are sensitive to different model assumptions., Up to 108 weeks|Rate of death, Will compare rate of death from competing causes between treatment arms via Cox regression to evaluate whether those rates impact the primary analysis comparison., Up to 108 weeks|Time to first occurrence of cardiac event, any of the following treating physician documented events requiring hospitalization or medical treatment, and subsequent temporary or permanent discontinuation of trastuzumab- based HER-2 targeted therapy: arrhythmia, unstable angina, non-ST segment elevated myocardial infarction, myocardial infarction, or congestive heart failure., Up to 108 weeks|Drug adherence, Patients on the active arm will be asked to record study drug consumption on a monthly intake calendar. Amount of study drug taken among patients randomized to the active arm and study drug adoption among patients randomized to the no intervention arm (i.e., contamination) will be recorded by study site staff on a case report form at each follow-up visit to assess the sensitivity of the primary treatment effect to observed conditions., Up to 108 weeks
+PRIMARY OBJECTIVES:
+
+I. To assess whether prophylactic beta blocker therapy with carvedilol compared with no intervention reduces the risk of subsequent cardiac dysfunction in patients with metastatic breast cancer receiving trastuzumab?based HER-2 targeted therapy.
+
+SECONDARY OBJECTIVES:
+
+I. To assess whether prophylactic beta blocker therapy with carvedilol compared with no intervention reduces the risk of predefined subsequent cardiac events in patients with metastatic breast cancer receiving trastuzumab?based HER-2 targeted therapy.
+
+II. To evaluate if prophylactic carvedilol compared with no intervention results in a longer time to first interruption of trastuzumab?based HER-2 targeted therapy due to either cardiac dysfunction or events.
+
+III. To assess whether prophylactic beta blocker therapy with carvedilol compared with no intervention reduces the risk of subsequent cardiac dysfunction OR events in this population.
+
+IV. To establish and prospectively collect a predefined panel of baseline core cardiovascular measures and develop a predictive model of cardiac dysfunction.
+
+V. To evaluate the rate of cardiac dysfunction in an observational arm consisting of individuals otherwise eligible for the study except for use of beta blockers, angiotensin receptor blocker (ARB), or angiotensin converting enzyme (ACE) inhibitors for other medical reasons.
+
+TERTIARY OBJECTIVES:
+
+I. To evaluate the isoleucine (lle) 655 valine (Val) and and alanine (Ala)ll70 proline (Pro) single nucleotide polymorphisms (SNPs) of the HER-2 gene as a predictive biomarker of study-defined cardiac dysfunction.
+
+II. To evaluate plasma neuregulin-1 at baseline and over study time as a predictive biomarker of study-defined cardiac dysfunction.
+
+III. To evaluate the feasibility of performing serial left ventricular strain in a National Clinical Trials Network (NCTN) group setting, with the goal of 75% of patients contributing both a baseline and at least one follow-up strain measurement.
+
+IV. To bank blood for future translational medicine studies such as brain natriuretic peptide (BNP), additional SNPs, and high sensitivity troponin.
+
+OUTLINE: Patients are randomized to 1 of 2 arms. Patients taking beta blocker, ARB, or ACE inhibitor at registration are assigned to Arm III.
+
+ARM I: Patients not taking beta blocker, ARB, or ACE inhibitor at registration receive carvedilol orally (PO) twice daily (BID). Courses repeat every 12 weeks for 108 weeks in the absence of disease progression or unacceptable toxicity.
+
+ARM II: Patients not taking beta blocker, ARB, or ACE inhibitor at registration receive no study intervention for up to 108 weeks.
+
+ARM III: Patients undergo observation for up to 108 weeks.
+
+After completion of study, patients are followed up for up to 108 weeks.

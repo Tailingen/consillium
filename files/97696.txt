@@ -1,0 +1,38 @@
+Rituximab, Alemtuzumab, and GM-CSF As First-Line Therapy in Treating Patients With Early-Stage Chronic Lymphocytic Leukemia
+RATIONALE: Monoclonal antibodies, such as rituximab and alemtuzumab, can block cancer growth in different ways. Some block the ability of cancer cells to grow and spread. Others find cancer cells and help kill them or carry cancer-killing substances to them. Colony-stimulating factors, such as GM-CSF, may increase the number of immune cells found in bone marrow or peripheral blood. Giving monoclonal antibody therapy together with GM-CSF may be an effective treatment for early-stage chronic lymphocytic leukemia.
+
+PURPOSE: This phase II trial is studying the side effects of giving rituximab and alemtuzumab together with GM-CSF and to see how well it works in treating patients with early-stage chronic lymphocytic leukemia.
+Leukemia
+BIOLOGICAL: Alemtuzumab|BIOLOGICAL: Rituximab|BIOLOGICAL: Sargramostim
+Number of Confirmed Responses (Complete or Partial Response Noted as the Objective Status for a Duration of at Least 2 Months) at 6 Months, Response, as defined by the National Cancer Institute Working Group (NCIWG), requires the following for a period of at least 2 months:
+
+* CR: no lymphadenopathy, hepatomegaly, splenomegaly or constitutional symptoms; normal complete blood count; confirmed by bone marrow (BM) aspirate \& biopsy
+* PR: 50% decrease in peripheral blood lymphocytes, lymphadenopathy, liver/spleen size, presence/absence of constitutional symptoms; plus ≥1 of the following: ≥1500/μL polymorphonuclear leukocytes, \>100,000/μL platelets, \>11.0 g/dL hemoglobin or 50% improvement for these parameters without transfusions, 6 months
+Progression Free Survival, Progression free survival (PFS) is defined as the time from the date of randomization to the date of disease progression or death resulting from any cause, whichever comes first. Progression is defined according to the standard NCI-WG96 criteria. The median and 95% confidence intervals are estimated using the Kaplan-Meier estimator., Time from registration to progression (up to 5 years)|Duration of Response, Duration of response (DOR) is defined as the time from documentation of response (CR or PR) to disease progression. The median DOR with 95% CI was estimated using the Kaplan Meier method.Response, as defined by the National Cancer Institute Working Group (NCIWG), requires the following for a period of at least 2 months:
+
+* CR: no lymphadenopathy, hepatomegaly, splenomegaly or constitutional symptoms; normal complete blood count; confirmed by bone marrow (BM) aspirate \& biopsy
+* PR: 50% decrease in peripheral blood lymphocytes, lymphadenopathy, liver/spleen size, presence/absence of constitutional symptoms; plus ≥1 of the following: ≥1500/μL polymorphonuclear leukocytes, \>100,000/μL platelets, \>11.0 g/dL hemoglobin or 50% improvement for these parameters without transfusions, time from start of response to progression (up to 5 years)|Time to Next Treatment, Time to next treatment was defined as the time from end of active (protocol) treatment to the start of subsequent treatment. The median and 95% CI was estimated using the Kaplan Meier method., time from end of protocol treatment to subsequent treatment (up to 5 years)|Overall Survival, Overall Survival (OS) was defined as the time from registration to death of any cause. Participants were followed for a maximum of 5 years from registration. The median OS with 95% CI was estimated using the Kaplan Meier method., Time from registration to death (up to 5 years)
+OBJECTIVES:
+
+Primary
+
+* To assess the rate of complete and overall response in patients with high-risk, early-stage, chronic lymphocytic leukemia (CLL) treated with alemtuzumab, rituximab, and sargramostim (GM-CSF).
+* To monitor and assess toxicity of this regimen in these patients through clinical evaluation and serial monitoring of cytomegalovirus antigenemia by polymerase chain reaction (PCR).
+
+Secondary
+
+* To determine the overall and progression-free survival, time to response, time to next treatment, and duration of response in patients treated with this regimen.
+* To assess the correlation between individual prognostic markers (i.e., 17p-, 11q-, unmutated VH gene, use of VH3-21, ZAP70+, CD38+) and clinical outcome.
+
+Correlative Studies
+
+* To assess response in these patients using an expanded definition of response, including minimal residual disease (MRD) by sensitive flow cytometry in patients in complete clinical remission.
+* To assess MRD status of responding patients using sensitive flow cytometry and molecular assays (i.e., spectral karyotype analysis of CLL cells) before treatment and at relapse to identify subpopulations that could contribute to disease resistance and relapse.
+* To detail the in vivo effect of this regimen on critical aspects of the immune system in CLL.
+* To determine if GM-CSF, β-glucan, and CpG7909 can increase antibody dependent cellular cytotoxicity to improve efficacy against CLL cells and clinical response to treatment.
+
+OUTLINE: Patients receive rituximab IV over 30 minutes on day 3 of weeks 2-5, alemtuzumab subcutaneously (SC) on days 3, 4, and 5 in week 1 and on days 1, 3, and 5 in weeks 2-5, and sargramostim SC on days 1, 3, and 5 in weeks 1-6. Treatment continues in the absence of disease progression or unacceptable toxicity.
+
+Patients undergo blood sample collection for measurement of serum cytomegalovirus DNA copy number by polymerase chain reaction at baseline, weekly during treatment, and monthly for the 6 months after completion of treatment. Patients also undergo bone marrow biopsy and aspirate at two months and then again at 12 months (if in complete remission). Blood samples are collected periodically during study for evaluation of prognostic biomarkers (i.e., 11q-, 17p-, unmutated IgVH gene, VH3-21 gene segment use, and CD38 and ZAP-70 expression) by fluorescent in situ hybridization (FISH) and for immunophenotyping by flow cytometry. Blood samples are collected from patients at the Mayo Clinic Rochester site at baseline and periodically during study for immunological and other correlative studies, including minimal residual disease (in responding patients only).
+
+After completion of study therapy, patients are followed periodically for up to 5 years.

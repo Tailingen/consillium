@@ -1,0 +1,9 @@
+Clinical Study of VG161 in Subjects With Advanced Malignant Solid Tumors
+VG161 is a recombinant human-IL12/15/PDL1B oncolytic HSV-1 Injectable. This Phase I study will be conducted in HSV-seropositive subjects with advanced malignant solid tumors that are refractory to conventional therapies. This is an open label study to determine the safety and tolerability of VG161, and recommended dose of VG161 for Phase II trials.
+Advanced Malignant Solid Tumor
+DRUG: Recombinant Human IL12/15-PDL1B Oncolytic HSV-1 Injection (Vero Cell))
+MTD/RP2D, MTD (Maximum tolerable dose) / RP2D (Recommended dose for phase II), 1 month|Occurence of DLT, Occurence of DLT (Dose Limiting Toxicity), 1 month|Numbers of DLT, Numbers of DLT (Dose Limiting Toxicity), 1 month|Occurence of AE and SAE（NCI CTCAE 5.0）, Occurence of Adverse Event (AE) and Serious Adverse Event (SAE) （NCI CTCAE 5.0）, 7 months|Frequency of AE and SAE（NCI CTCAE 5.0）, Frequency of Adverse Event (AE) and Serious Adverse Event (SAE) （NCI CTCAE 5.0）, 7 months
+Tmax(h), Time to peak, At the end of Cycle 1 (each cycle is 28 days)|Cmax(copies/ugDNA), Maximum concentration, At the end of Cycle 1 (each cycle is 28 days)|ORR, Evaluate Objective Response Rate by RECIST 1.1., 7 months|DCR, Evaluate Disease Control Rate by RECIST 1.1., 7 months|mPFS, Evaluate medium Progression Free Survival by RECIST 1.1., 7 months|CD3+, CD4+, CD8+, Concentration of CD3+, CD4+, CD8+, 7 months|IL15, Concentration of IL15, 7 months|PD-L1, PD-1, Concentration of PD-L1, PD-1,, 7 months|Existence of Biomarkers, PD-L1, Nectin2, HVEM, 4 months
+The trial will be conducted in 7 dose ascending cohorts, including 3 single dose accelerated titration design pilots and 4 multiple dose escalation groups.
+
+Descriptive statistics will be used to summarize all data.

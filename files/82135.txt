@@ -1,0 +1,26 @@
+Vincristine Pharmacokinetics in Infants
+This pilot trial compares drug exposure levels using a new method for dosing vincristine in infants and young children compared to the standard dosing method based on body surface area (BSA) in older children. Vincristine is an anticancer drug used to a variety of childhood cancers. The doses anticancer drugs in children must be adjusted based on the size of the child because children vary significantly in size (height, weight, and BSA) and ability to metabolize drugs from infancy to adolescence. The dose of most anticancer drugs is adjusted to BSA, which is calculated from a patient's weight and height. However, infants and young children have more severe side effects if the BSA is used to calculate their dose, so new dosing models have to be made to safely give anticancer drugs to the youngest patients. This new method uses a BSA-banded approach to determine the dose. Collecting blood samples before and after a dose of the drug will help researchers determine whether this new vincristine dosing method results in equivalent drug levels in the blood over time in infants and young children compared to older children.
+Hematopoietic and Lymphoid Cell Neoplasm|Malignant Solid Neoplasm
+PROCEDURE: Biospecimen Collection|DRUG: Vincristine
+Area under the concentration time curve for the elimination phase (AUCelim) by age group, Estimate (95% CI) of the mean area under the concentration time curve for the elimination phase assessed at 0, 2, 6-8, and 18-24 hours after vinCRISTine dose by age group., Up to 24 hours post vincristine dose
+Intra- and inter-age coefficient of variation (CV), Estimate of the intra- and inter-age coefficient of variation using non-compartmental analysis (NCA) and population pharmacokinetic (PK) methods., Up to 42 days
+Correlation of AUC for the elimination phase with CYP3A4 and CYP3A5 single nucleotide polymorphisms (SNPs), Correlate AUCelim with the presence of functionally impaired single nucleotide polymorphisms (SNP) of CYP3A4 and CYP3A5., Up to 24 hours|Number of patients requiring vincristine dose modifications, Number of patients requiring vincristine dose modifications stratified by age group., Up to 42 days
+PRIMARY OBJECTIVE:
+
+I. To validate body surface area (BSA)-banded infant dosing tables by comparing vinCRIStine drug exposure, defined as the area under the concentration-time curve for the elimination phase (AUCelim), in infants and young children dosed according to the table to older children dosed according to BSA.
+
+SECONDARY OBJECTIVE:
+
+I. To estimate intra- and inter-age group variability (CV) using non-compartmental analysis (NCA) and population pharmacokinetic (PK) methods.
+
+EXPLORATORY OBJECTIVES:
+
+I. To correlate higher AUCelim with the presence of functionally impaired single nucleotide polymorphisms (SNP) of CYP3A4 and CYP3A5.
+
+II. To assess vinCRIStine dose modifications in infants receiving weekly vinCRIStine dosed according to the BSA-banded infant dosing tables.
+
+OUTLINE:
+
+Patients receive vincristine intravenously (IV) per standard of care (SOC). Patients undergo collection of blood samples at baseline (before first vincristine dose), and 2, 6-8, and 18-24 hours after a dose of vincristine. Patients may also undergo collection of blood samples with a second SOC vincristine dose at the same time points.
+
+Patients are followed for dose modifications for a period of 42 days (when receiving weekly dosing of vincristine).

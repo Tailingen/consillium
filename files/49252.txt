@@ -1,0 +1,19 @@
+Blinatumomab in Treating Patients With B-cell Acute Lymphoblastic Leukemia With Minimal Residual Disease
+This phase II trial studies how well blinatumomab works in treating patients with B-cell acute lymphoblastic leukemia whose disease is in remission (causes no symptoms or signs) but is still present in a small number of cells in the body (minimal residual disease). Immunotherapy with monoclonal antibodies, such as blinatumomab, may induce changes in the body's immune system and may interfere with the ability of tumor cells to grow and spread.
+Adult Acute Lymphoblastic Leukemia in Complete Remission|B Acute Lymphoblastic Leukemia|Minimal Residual Disease|Philadelphia Chromosome Positive
+BIOLOGICAL: Blinatumomab|OTHER: Laboratory Biomarker Analysis
+Relapse-free survival (RFS), RFS will be estimated using the method of Kaplan and Meier. Will compute the Bayesian posterior probability. As a secondary analysis, will perform a competing risk analysis treating stem cell transplant as a competing event for RFS. In addition, will assess the RFS in the subgroup of patients with minimal residual disease (MRD) positivity in at least marrow complete remission (CR) 2 beyond, or in the subgroup of patients with and without allogenic stem cell transplant (ASCT), if permitted by the sample size. Landmark analysis may be performed to assess the difference in RFS between patients with or without receiving ASCT, if permitted by the sample size., From date of treatment start until the date of death or hematologic or extramedullary disease relapse, assessed up to 18 months
+Event-free survival, Defined as RFS in addition to lack of achievement of negative MRD status after 2 cycles of blinatumomab (events will include death, lack of response after 2 cycles, and loss of response/progression, including MRD recurrence)., Up to 18 months|Overall survival (OS), OS will be estimated using the method of Kaplan and Meier. Will assess OS in the subgroup of patients with MRD positivity in at least marrow CR 2 beyond; or in the subgroup of patients with and without ASCT, if permitted by the sample size. Landmark analysis may be performed to assess the difference in OS between patients with or without receiving ASCT, if permitted by the sample size., Up to 18 months|MRD negativity rate, Will be estimated along with the exact 95% confidence interval., Up to 18 months|MRD negativity rate after course 1, Will be estimated along with the exact 95% confidence interval., Up to 6 weeks|Incidence of toxicity, All treated patients are included in the safety analysis set. The adverse events will be summarized by organ type, grade and attribution to study treatment., Up to 18 months
+PRIMARY OBJECTIVES:
+
+I. To evaluate the clinical efficacy of blinatumomab in patients B-cell acute lymphoblastic leukemia in complete morphologic remission with positive minimal residual disease (MRD) in terms of relapse-free survival (RFS).
+
+SECONDARY OBJECTIVES:
+
+I. To evaluate other efficacy endpoints such as overall survival and MRD negativity rate by flow cytometry and/or polymerase chain reaction (PCR) overall and after the first cycle, as well as safety of blinatumomab in this setting.
+
+OUTLINE:
+
+Patients receive blinatumomab intravenously (IV) continuously on days 1-28. Treatment repeats every 6 weeks for up to 5 cycles in the absence of disease progression or unacceptable toxicity. Patients who do not proceed with stem cell transplantation may receive blinatumomab IV maintenance therapy with one cycle every 3 months for up to 4 cycles. Patients who remain in MRD remission for 3 months and then become MRD positive again can be retreated following the same treatment plan previously received.
+
+After completion of study treatment, patients are followed up every 6 months.

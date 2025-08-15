@@ -1,0 +1,17 @@
+MRI-Guided Radiation Therapy in Treating Patients Who Have Undergone Surgery to Remove the Prostate
+This is a prospective clinical trial examining the use of MRI to measure internal organ motion and any resulting changes in the target volume (shape and location) during a course of post-operative radiation therapy for prostate cancer. The goal is to better understand and characterize these physiologic variations so that they can be accounted for during the treatment planning process. The ultimate longer-term clinical goal here is to provide a form of adaptive radiation therapy in the future, such that if major changes are seen over an 8-week course of radiation therapy in our study. This may argue for hypofractionating those patients who are most likely to have major shifts over time.
+Prostate Cancer|Adenocarcinoma of the Prostate|Stage I Prostate Cancer|Stage II Prostate Cancer|Stage III Prostate Cancer
+PROCEDURE: radiation therapy treatment planning/simulation|PROCEDURE: intensity-modulated radiation therapy|PROCEDURE: image-guided radiation therapy|PROCEDURE: magnetic resonance imaging|PROCEDURE: computed tomography
+Clinical treatment target motion and deformation as quantified by co-registration of weekly MRI scans with original treatment planning MRI scans|Avoidance of any unexpected grade 3 or 4 toxicities
+Comparison of MRI and CT delineated target volumes defined during the treatment planning process|Distributions of clinical target volume (CTV), bladder and rectum volumes, and percent change from baseline|Incidence of CTV falling outside the planned treatment volume (PTV)|Distributions of the proportion of the total CTV which falls outside the PTV|Dose-volume exposures
+PRIMARY OBJECTIVES:
+
+I. To evaluate the use of MRI in delineating clinical target volumes, as well as endorectal balloon target immobilization in patients treated with radiation following radical prostatectomy.
+
+SECONDARY OBJECTIVES:
+
+II. Trends over time in CTV, bladder and rectum volumes and percent change from baseline at each time point. III. Frequency of events in which the CTV falls outside the PTV. IV. Proportion of the total CTV which falls outside the PTV at each event. V. Trends over time in dose-volume exposures for bladder and rectum.
+
+OUTLINE: Patients undergo MRI and CT scan-based simulation for treatment planning with endorectal balloon target immobilization. The treatment target volumes and surrounding organs at risk are contoured, treatment plan developed and approved.
+
+Patients then undergo 39 fractions of image-guided intensity-modulated radiotherapy over 8 weeks. Patients also undergo weekly MRI scans of the pelvis (in the planned treatment position) during radiotherapy.

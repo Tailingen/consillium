@@ -1,0 +1,29 @@
+Pemetrexed Response in Relation to Tumor Alterations of Gene Status for the Treatment of Patients With Metastatic Urothelial Bladder Cancer and Other Solid Tumors
+This phase II trial tests how well pemetrexed works in treating patients with urothelial bladder cancer and other solid tumors that have spread from where they first started (primary site) to other places in the body (metastatic) with mutations that result in a loss of function in the MLL4-protein/KMT2D-gene or UTX-protein/KDM6A-gene or MTAP enzyme. Loss of function due to a genetic mutation means a gene's activity may be reduced or eliminated. Mutations that result in a loss of function in the MLL4-protein or KMT2D-gene are found in 9.96% of all cancers including bladder carcinoma patients, esophageal squamous cell carcinoma and esophageal adenocarcinoma patients. In addition, mutations that result in a loss of function in the UTX-protein or KDM6A-gene are found in approximately 5% of all tumors, including bladder cancers, endometrial cancer, and esophagogastric cancer amongst many other tumor types. Pemetrexed is in a class of medications called antifolate antineoplastic agents. It works by stopping cells from using folic acid to make deoxyribonucleic acid and may kill tumor cells. Giving pemetrexed may increase response in patients with metastatic urothelial bladder cancer and other solid tumors with the loss of function in the MLL4-protein/KMT2D-gene or UTX-protein/KDM6A-gene or MTAP enzyme.
+Metastatic Bladder Urothelial Carcinoma|Metastatic Malignant Solid Neoplasm|Stage IV Bladder Cancer AJCC v8
+PROCEDURE: Biospecimen Collection|PROCEDURE: Computed Tomography|DRUG: Pemetrexed
+Overall response rate (ORR), ORR is defined as the proportion of treated patients who experience an objective response (complete response \[CR\] or partial response \[PR\]). The date of first response for either CR or PR will be used to calculate ORR. Will be measured every 9 weeks +/- 10 days according to Response Evaluation Criteria in Solid Tumors version 1.1 (RECIST v1.1). CR and PR need to be confirmed by a subsequent scan. Will compute two-sided 90% confidence intervals (CIs) for ORR using the exact binomial method. The statistical significance of the ORR will be assessed using chi-square tests or Fisher's exact tests, depending on the sample size., From baseline until the subject experiences disease progression, the subject initiates subsequent anti-cancer therapy, or the subject completes study participation (whichever occurs first), assessed up to 12 months
+Progression-free survival (PFS), PFS will be analyzed using Kaplan-Meier survival analysis to estimate the survival distribution. The median PFS and corresponding 95% confidence intervals will be reported. Log-rank tests will be used to compare PFS between different subgroups. Additionally, Cox proportional hazards models will be used to evaluate the impact of various covariates on PFS, providing hazard ratios (HRs) and 95% CIs., Time from the start of treatment to the first documented progression or death from any cause, whichever comes first, assessed up to 12 months|Overall survival (OS), OS will be analyzed using Kaplan-Meier survival analysis. The median OS and corresponding 95% confidence intervals will be reported. Log-rank tests will be utilized to compare OS between different subgroups. Cox proportional hazards models will also be employed to assess the effect of covariates on OS, with results presented as HRs and 95% CIs., Time from the start of treatment to death from any cause, assessed up to 12 months|Duration of response (DOR), DOR will be assessed by disease progression, defined as experiencing progressive disease per RECIST v1.1, or death due to disease. If disease progression or death from any cause is not observed prior to initiating subsequent anti-cancer therapy the DOR will be censored as the last available disease assessment based on clinical or radiographic evaluation., Time from first response (complete or partial) until progression or death, assessed up to 12 months|Incidence of adverse events, Will be graded according to National Cancer Institute Common Terminology Criteria for Adverse Events version 5.0 and will be documented by clinical or radiographic evaluation or death from any cause., Up to 12 months
+PRIMARY OBJECTIVE:
+
+I. To determine the overall response rate (ORR) in patients with metastatic solid tumors and MLL4-protein (KMT2D-gene) and UTX-protein (KDM6A-gene) or MTAP loss of function mutations treated with pemetrexed will assess pemetrexed.
+
+SECONDARY OBJECTIVES:
+
+I. To determine the progression-free survival (PFS) for patients with metastatic solid tumors and MLL4-protein (KMT2D-gene) and UTX-protein (KDM6A-gene) or MTAP loss of function mutations treated with pemetrexed.
+
+II. To determine the overall survival (OS) for patients with metastatic solid tumors and MLL4-protein (KMT2D-gene) and UTX-protein (KDM6A-gene) or MTAP loss of function mutations treated with pemetrexed.
+
+III. To determine the duration of response (DOR) for patients with metastatic solid tumors and MLL4-protein (KMT2D-gene) and UTX-protein (KDM6A-gene) or MTAP loss of function mutations treated with pemetrexed.
+
+IV. To assess safety and tolerability of pemetrexed in patients with metastatic solid treated with pemetrexed.
+
+EXPLORATORY OBJECTIVE:
+
+I. To collect plasma and urine samples for future translational studies to determine mechanisms of resistance to pemetrexed.
+
+OUTLINE:
+
+Patients receive pemetrexed intravenously (IV) over 10 minutes on day 1 of each cycle. Cycles repeat every 21 days in the absence of disease progression or unacceptable toxicity. Patients undergo blood and urine sample collection on study as well as computed tomography (CT) throughout the trial.
+
+After completion of study treatment, patients are followed up every 3 months for up to 12 months.

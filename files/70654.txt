@@ -1,0 +1,27 @@
+Dabrafenib and Trametinib Before and After Surgery in Treating Patients With Stage IIIB-C Melanoma With BRAF V600 Mutation
+This is a single arm phase II trial focused on how dabrafenib and trametinib before and after surgery works in treating patients with stage IIIB-C melanoma that has a specific mutation in the BRAF gene. Dabrafenib and trametinib may stop the growth of tumor cells by blocking some of the enzymes needed for cell growth. Giving dabrafenib and trametinib before surgery may make the tumor smaller and reduce the amount of normal tissue that needs to be removed. Giving dabrafenib and trametinib after surgery may kill any remaining tumor cells.
+Stage IIIB Cutaneous Melanoma AJCC v7|Stage IIIC Cutaneous Melanoma AJCC v7
+DRUG: Dabrafenib|OTHER: Laboratory Biomarker Analysis|PROCEDURE: Therapeutic Conventional Surgery|DRUG: Trametinib
+Relapse-free survival (RFS), RFS will be compared between patients with a pathologic complete response (pCR) and patients without a pCR using a two-sided log-rank test., Up to 1 year
+Overall survival (OS), The association between RFS and OS and covariates of interest will be assessed using Cox proportional hazards regression analysis., Up to 1 year|Complete pathologic response, Logistic regression will be used to assess the association between the probability of complete pathologic response and clinical and disease covariates of interest., Up to 1 year|Incidence of adverse events, Safety parameters will be tabulated by using Fisher's exact tests for categorical variables and Wilcoxon rank-sum tests for continuous variables., Up to 1 year|Markers predictive of response collected by serial blood draws and biopsies, Indicators of treatment response and resistance will be obtained by analysis of serial blood and tumor biopsy samples. Specific assays include analysis of circulating tumor deoxyribonucleic acid (DNA), flow cytometry, immunohistochemistry and genomic sequencing. Patterns of these factors will be correlated with pathologic response., Up to 1 year
+PRIMARY OBJECTIVE:
+
+I. To compare relapse-free survival (RFS) between patients who develop a pathologic complete response (pCR) or do not achieve a pCR following dabrafenib and trametinib neoadjuvant combination therapy in patients with locally advanced BRAF V600 mutated melanoma.
+
+SECONDARY OBJECTIVES:
+
+I. To compare overall survival of patients with pathologic complete response (pCR) and patients without pCR who are receiving dabrafenib and trametinib neoadjuvant therapy followed by adjuvant combination therapy.
+
+II. To identify biomarkers predictive of response through collection of serial blood draws and biopsies in patients receiving neoadjuvant dabrafenib and trametinib combination therapy.
+
+III. To evaluate the safety of dabrafenib and trametinib in combination in this patient population.
+
+EXPLORATORY OBJECTIVE:
+
+I. To evaluate and perform further advanced imaging analysis on magnetic resonance imaging (MRI), computed tomography (CT), and positron emission tomography (PET) scanned (if available) images collected on patients enrolled onto this study.
+
+OUTLINE:
+
+Patients receive dabrafenib orally (PO) twice daily (BID) and trametinib PO once daily (QD) for 8 weeks. After completion of 8 weeks of dabrafenib and trametinib, patients undergo surgery. Approximately 1 week after surgery, patients receive dabrafenib PO BID and trametinib PO QD for 44 additional weeks in the absence of disease progression or unacceptable toxicity.
+
+After completion of study treatment, patients are followed up every 3 months for 1 year.

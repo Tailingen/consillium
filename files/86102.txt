@@ -1,0 +1,15 @@
+Clinical Study of Camrelizumab Combined With APatinib and Albumin Paclitacxel in Patients With Advanced Lung Adenocarcinoma
+This study is a single arm, open label, national multicenter study, to explore the efficacy and safety of the combination of Camrelizumab, apatinib and albumin paclitaxel in advanced untreated EGFR Wild Type and ALK-negative Lung Adenocarcinoma. The study does not consider PD-L1 expression, but tumor samples need to be explored by PD-L1 detection and other exploratory analysis.
+Adenocarcinoma of the Lung
+DRUG: Camrelizumab|DRUG: Albumin Paclitacxel|DRUG: Apatinib
+PFS, Progression free survival (PFS) evaluated by investigators based on the RECIST 1.1 criteria., Up to 24 months
+ORR, Objective Remission Rate (ORR) evaluated by researchers based on the RECIST 1.1 criteria., Up to 24 months|OS, Overall Survival (OS) evaluated by researchers based on the RECIST 1.1 criteria., Up to 24 months|DCR, Disease Control Rate（DCR）evaluated by researchers based on the RECIST 1.1 criteria., Up to 24 months|DOR, Duration of Response (DOR) evaluated by researchers based on the RECIST 1.1 criteria., Up to 24 months|The change of quality of life, The change of quality of life is measured using the European Organization for Reasearch and Treatment of Cancer Quality of Life Questionnaire（EORTC QLQ）, Up to 24 months|AE, The overall incidence of adverse events (AE); the incidence of grade 3 or above AE; the incidence of serious adverse events (SAE); the incidence of AE leading to the termination of the trial drug; the incidence of AE leading to the suspension of the trial drug, Up to 24 months
+Primary outcome:
+
+1. progression free survival (PFS) evaluated according to RECIST1.1.
+
+Secondary outcome:
+
+1. Objective Response Rate (ORR), Overall Survival (OS), Disease Control Rate (DCR), Duration of Response (DOR) evaluated according to RECIST1.1, and Quality of Life(QOL).
+2. The overall incidence of adverse events (AE); the incidence of grade 3 or above AE; the incidence of serious adverse events (SAE); the incidence of AE leading to the termination of the trial drug; the incidence of AE leading to the suspension of the trial drug.
+3. Exploratory analysis of potential biomarkers related to efficacy. The characteristics of tumor tissue PD-L1expression, panel-captured next generation sequencing(NGS), RNA-seq, T-Cell Repertoire (TCR), multiple immunofluorescence and other biomarkers, and the correlation analysis of biomarkers with efficacy and safety.

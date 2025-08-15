@@ -1,0 +1,29 @@
+OSE2101 Alone or in Combination With Pembrolizumab vs BSC in Patient With Platinum-sensitive Recurrent OC
+The proposed study is an international randomized phase II, multicenter, open-label, three arms trial to assess best supportive care (BSC) vs OSE2101 and vs OSE2101 + pembrolizumab as maintenance treatment for patients with platinum sensitive relapsed ovarian cancers, previously treated with chemotherapy (regardless of the number of prior lines of platinum-based chemotherapy), bevacizumab (if eligible) and a PARP inhibitor (if eligible).
+
+Patients in Complete Response, Partial Response, or Stable Disease at the end of chemotherapy with at least 4 cycles of platinum based chemotherapy will be randomized in one of the three arms (randomization 1:1:2). They will receive one or the two study treatments or BSC until progression, or intolerance, or up to 2 years (from 1st study treatment dose).
+Platinum-sensitive Ovarian Cancer|Relapsed Ovarian Cancer
+DRUG: OSE2101|DRUG: Pembrolizumab 25 MG/ML [Keytruda]
+Progression free survival (PFS), Progression-free survival (PFS) is the time from randomization to progression measured radiologically using RECIST v1.1 guidelines as reported by the investigator or death, whatever the cause, whichever comes first. Patients alive and free of progression at the cut-off date will be censored at the last tumor assessment date, from date to randomization to date of event, assessed up to 4 years
+Objective response rate (ORR), Objective response rate is defined using RECIST v1.1. Best overall response is defined as the best radiological response observed over the whole evaluation period before progression or subsequent anti-cancer treatment. Proportion of partial and complete responses over the treated population will be computed., from date to randomization to date of event, assessed up to 4 years|Incidence of treatment emergent adverse events, Incidence of treatment emergent adverse events will be assessed based on NCI CTC-AE version 5.0 grade and according MedDRA terms (version 23.0), from date to randomization to date of study end, assessed up to 4 years|Time to subsequent first treatments (TTST-1), Time to subsequent treatment (TTST) is the time from randomization to initiation of a first subsequent treatment (including treatment change due to toxicity or investigator's decision). Deaths will be counted as events. Patients alive and not receiving a subsequent treatment will be censored at the last assessment date., from date to randomization to date of event, assessed up to 4 years|Time to subsequent second treatments (TTST-2), Time to subsequent treatment (TTST) is the time from randomization to initiation of second subsequent treatment (including treatment change due to toxicity or investigator's decision). Deaths will be counted as events. Patients alive and not receiving a subsequent treatment will be censored at the last assessment date., from date to randomization to date of event, assessed up to 4 years|Overall Survival (OS), Overall Survival (OS) is defined as time from randomization to the date of death, whatever the cause. Patients alive at the cut-of date will be censored at the last date they are known to be alive, from date to randomization to death from any cause, assessed up to 4 years
+The only therapeutic option for ovarian cancer patients presenting platinum sensitive relapse post- both bevacizumab and a PARPi is a platinum combination x 6 cycles followed by observation. There is no currently approved maintenance therapy in this setting. There is an urgent need for novel strategies for OC in relapse post bevacizumab and PARPi, in particular for novel maintenance strategies to prolong chemotherapy-free intervals.
+
+One attractive strategy to turn OC from 'cold' tumors into a 'hot' tumor is via vaccination with tumor associated, or specific epitopes that have been modified to increase MHC and TCR binding.
+
+OSE2101 is a multi-neoepitope vaccine covering relevant TAAs in OC, including p53 (mutated in 95% of high-grade OC). In addition, the combination of OSE2101with an ICI may most effectively harness anti-tumor immunity.
+
+If novel IO approaches are proposed in OC, they should be investigated early in the disease setting when host immunity is still robust, and with low tumor burden (platinum sensitive relapse and after 6 cycles of platinum chemotherapy).
+
+The hypothesis being tested is that OSE2101 alone or in combination with Pembrolizumab as maintenance treatment in patients with ovarian cancer platinum-sensitive relapse could potentially bring benefit to subjects with high unmet medical need.
+
+A total of 180 patients with HLA-A2 positive phenotype will be randomized using an Interactive Web Response System (IWRS) according to the following stratification factor:
+
+• Best response to platinum therapy: SD vs PR/CR
+
+In a 1:1:2 ration on the 3 study arms:
+
+* Arm A (n=45): Observation/best supportive care
+* Arm B (n=45): OSE2101: every 3 weeks until week 18, then every 6 weeks up to week 48, then every 12 weeks until disease progression, intolerance, patient withdrawal of consent or up to 2 years
+* Arm C (n=90): OSE2101 + Pembrolizumab: OSE2101 same schedule as arm B plus pembrolizumab IV every 6 weeks until disease progression, intolerance, patient withdrawal of consent or up to 2 years
+
+Patient with phenotype HLA-A2 negative will be followed in a separate cohort to record treatment and outcomes.

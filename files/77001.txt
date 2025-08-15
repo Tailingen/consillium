@@ -1,0 +1,23 @@
+ABT-751 in Treating Children With Neuroblastoma That Has Relapsed or Not Responded to Previous Treatment
+This phase II trial is studying how well ABT-751 works in treating children with neuroblastoma that has relapsed or not responded to previous treatment. Drugs used in chemotherapy, such as ABT-751, work in different ways to stop the growth of tumor cells, either by killing the cells or by stopping them from dividing.
+Disseminated Neuroblastoma|Recurrent Neuroblastoma
+DRUG: ABT-751|PROCEDURE: quality-of-life assessment
+Median Time to Progression as Assessed by Response Evaluation Criteria in Solid Tumors, Median time to progression observed on ABT-751, along with 95% confidence intervals., From time to enrollment to death due to any cause, assessed up to 5.1 years|1-year Progression-free Survival, PFS probabilities calculated using the Kaplan-Meier method, along 95% confidence intervals, separately for each stratum., From the day of enrollment to the date of disease progression/recurrence , or the date of death (all causes of mortality) if disease progression/recurrence is not reached, assessed up to 1 yr. Pts were to be followed for 5 yrs after completion of therapy
+Objective Response Rate, The percentage of patients who are responders will be tabulated, including a 95% confidence interval on the percentage. Responders were defined as patients who achieved a best overall response of complete response (CR) or partial response (PR) at any time on the study including patients who achieved ≥PR and later had progressive disease or relapse. Response in patients with measurable disease will be assessed by Response Evaluation Criteria in Solid Tumors (RECIST) version 1.0 or by Curie criteria for measuring response by MIBG scans in patients with evaluable disease by 123I-MIBG scan. Per RECIST: CR= Disappearance of all target lesions; PR= at least 30% decrease in the sum of the longest diameter of target lesions. Per Curie criteria: CR= complete resolution of all MIBG positive lesions; PR= resolution of at least one MIBG positive lesion with persistence of other MIBG positive lesions., Duration of protocol therapy, up to 3 years|Quality of Life Measured by PedsQL™ Generic Core Scale Version 4.0, The QOL score will be reverse linearly transformed to a 0-100 percentage point scale (0=100, 1=75, 2=50, 3=25, 4=0), with higher scores indicating better health-related quality of life, and the average of all 23 items will be calculated as the composite score., At baseline|Percentage of Participants With Grade 3 or Higher Toxicity, Percentage of patients with at least one Grade 3 or higher toxicity, as assessed by Common Terminology Criteria for Adverse Events version 3.0, will be tabulated., From enrollment until 30 days after the end of protocol therapy|Pharmacokinetics of ABT-751: Cmax, Values of the maximum observed concentration (Cmax) will be determined for the first dose.Descriptive statistics for these variables will be provided., After the first dose of ABT-751, at 0.5, 1, 2, 3, 5, 8, 10-12, and 24 hours post-dose.|Pharmacokinetics of ABT-751: Tmax, Values of the time to maximum observed concentration (Tmax) will be determined for the first dose.Descriptive statistics for these variables will be provided., After the first dose of ABT-751, at 0.5, 1, 2, 3, 5, 8, 10-12, and 24 hours post-dose.|Pharmacokinetics of ABT-751: AUC, Values of the area under concentration time curve \[AUC(0-∞)\] will be determined for the first dose. Descriptive statistics for these variables will be provided., After the first dose of ABT-751, at 0.5, 1, 2, 3, 5, 8, 10-12, and 24 hours post-dose.
+PRIMARY OBJECTIVES:
+
+I. Compare the time to disease progression in children with refractory or relapsed neuroblastoma treated with ABT-751 vs historical controls.
+
+SECONDARY OBJECTIVES:
+
+I. Determine the objective response rate in patients with measurable disease treatment with this drug.
+
+II. Determine whether ABT-751 improves quality of life of these patients. III. Determine the toxicity of ABT-751. IV. Determine the pharmacokinetic profile of ABT-751 in these patients.
+
+OUTLINE:
+
+Patients receive oral ABT-751 once daily on days 1-7. Treatment repeats every 21 days for 52 courses in the absence of disease progression or unacceptable toxicity.
+
+Blood is collected periodically during course 1 for pharmacokinetic studies. Quality of life is assessed at baseline and prior to each course of treatment.
+
+After completion of study treatment, patients are followed up for up to 5.1 years.

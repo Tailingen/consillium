@@ -1,0 +1,32 @@
+CB-839 HCl in Combination With Carfilzomib and Dexamethasone in Treating Patients With Recurrent or Refractory Multiple Myeloma
+This phase I trial studies the best dose of CB-839 HCl when given together with carfilzomib and dexamethasone in treating patients with multiple myeloma that has come back or does not respond to previous treatment. CB-839 HCl and carfilzomib may stop the growth of cancer cells by blocking some of the enzymes needed for cell growth. Drugs used in chemotherapy, such as dexamethasone work in different ways to stop the growth of cancer cells, either by killing the cells, by stopping them from dividing, or by stopping them from spreading. Giving CB-839 HCl, carfilzomib, and dexamethasone may work better in treating patients with multiple myeloma.
+Recurrent Multiple Myeloma|Refractory Multiple Myeloma
+DRUG: Carfilzomib|DRUG: Dexamethasone|DRUG: Telaglenastat Hydrochloride
+Maximum tolerated dose (MTD) and recommended phase II dose (RP2D), MTD will be determined by dose limiting toxicity (DLT). MTD is defined as the dose level below the lowest dose that induces DLT in at least 2 patients (out of 6). The highest dose is defined as the RP2D. A standard cohort 3+3 design will be used., Up to 28 days
+Incidence of adverse events, Incidence of adverse events will be graded according to Common Terminology Criteria for Adverse Events version 5.0. The number and severity of all AEs (overall and by dose-level) will be tabulated and summarized in this patient population. These data will be summarized with and without regard to the relationship to the treatment (i.e., ignoring the relationship data and after sub-setting the data to only events that are at least possibly related to study drug)., Up to 30 days after study treatment|Overall response rate (ORR), The ORR will be defined as the percentage of patients that achieve at least a partial response (as their best response). Properties of the binomial distribution will be used in order to construct an exact 95% confidence interval around this proportion., Up to 1 year
+Pharmacokinetic (PK) profiles and pharmacodynamic effect, PK and pharmacodynamic data will be examined in an exploratory manner., Days 1 and 15 of cycle 1
+PRIMARY OBJECTIVES:
+
+I. To determine the maximum tolerated dose (MTD) or recommended phase 2 dose (RP2D) of glutaminase inhibitor CB-839 hydrochloride (CB-839 HCl) in combination with carfilzomib and dexamethasone.
+
+SECONDARY OBJECTIVES:
+
+I. Evaluate the safety and tolerability of CB-839 HCl in combination with carfilzomib and dexamethasone.
+
+II. To determine the overall response rate (ORR) associated with the combination of CB-839 HCl with carfilzomib and dexamethasone.
+
+CORRELATIVE RESEARCH OBJECTIVES:
+
+I. Evaluate plasma pharmacokinetic (PK) profiles of CB-839 HCl and carfilzomib when used in combination.
+
+II. To perform molecular profiling assays on malignant and normal tissues, including, but not limited to, whole exome sequencing (WES), messenger ribonucleic acid (RNA) sequencing (RNAseq), circulating cell free (cf) deoxyribonucleic acid (DNA) analysis, flow cytometry assessments, immunohistochemical (IHC) staining, and metabolomics-based assessments in order to identify potential predictive and prognostic biomarkers, and identify resistance mechanisms using genomic DNA, RNA, flow cytometry, IHC, and metabolomics-based assessment platforms.
+
+III. To contribute genetic analysis data from de-identified biospecimens to Genomic Data Commons (GDC), a well annotated cancer molecular and clinical data repository, for current and future research.
+
+IV. To bank CD138+ multiple myeloma (MM) cells from the bone marrow, and blood (for cfDNA analysis) obtained from patients at the Experimental Therapeutics Clinical Trials Network (ETCTN) Biorepository at Nationwide Children's Hospital.
+
+OUTLINE: This is a dose escalation study of glutaminase inhibitor CB-839 hydrochloride.
+
+Patients receive glutaminase inhibitor CB-839 hydrochloride orally (PO) every 12 hours on days 1-28, dexamethasone PO on days 1, 2, 8, 9, 15, 16, and 23, and carfilzomib intravenously (IV) over 10 minutes on days 1, 2, 8, 9, 15, and 16. Cycles repeat every 28 days in the absence of disease progression or unacceptable toxicity.
+
+After completion of study treatment, patients are followed up at 30 days and then periodically for up to 1 year.

@@ -1,0 +1,13 @@
+Reduced Planning Target Volume (PTV) Margins for the Treatment of Prostate Cancer Using the Calypso 4D Localization System
+This prospective study evaluates the clinical utility of a novel real-time localization system allowing for smaller volumes of normal tissue to be included in radiation field and determines dosimetric parameters and adverse effect profiles of radiation therapy using this technology. Subjects will have beacon transponders implanted into the prostate to more precisely localize the position of the organ during radiation therapy. Hypothesis: 1. Treatment with highly targeted radiation therapy can be delivered in a daily treatment time consistent with routine clinical practice. 2. Highly targeted radiation therapy with reduced PTV margin will result in a significant decrease in rectal and bladder volume treated.
+Prostate Cancer
+Radiation therapy with reduced treatment margins can be adopted as feasible for routine clinical use, During each radiation treatment fraction, therapists will record set up time, treatment time, total time and number of treatment interventions (repositioning/pausing) as well as the duration of the intervention caused by organ/target motion beyond planning target volume (PTV) margin using real time localization and tracking., Approximately 8.5 weeks (43 fractions per pt.)
+Analyze dosimetric characteristics of treatment planning, Standard methods vs. reduced planning target volume expansions will be analyzed:
+
+1. Dose Volume Histogram (DVH), bladder and rectum
+2. Volume receiving 77.4Gy by the prescription dose (V77.4Gy), V70Gy, and V50Gy of bladder and rectum, usually within the first 2 weeks after beacon placement (done at simulation CT)|Assess incidence of acute bladder and rectal toxicity, toxicity is based on the RTOG/NCI CTC and EPIC quality of life survey., approximately 25 months (assessed prior to beacons are placed and then throughout treatment and follow-up)
+This study will seek to establish the clinical feasibility of a novel real-time localization and tracking system for use of reduced PTV margins during intensity modulated radiation therapy (IMRT), which will allow treatment of smaller volumes of normal tissue during radiation therapy. Such a reduction in the PTV margins and the exposure of healthy tissue during treatment may allow for several future improvements in prostate radiotherapy including:
+
+* decreased acute and chronic adverse effects with similar local tumor control
+* dose escalation to achieve higher cure rates with similar adverse effects to standard dose treatment
+* hypofractionation to shorten the time of, and lower the expense of, treatment without increased adverse effects.

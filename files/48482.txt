@@ -1,0 +1,31 @@
+MPDL3280A and Stereotactic Ablative Radiotherapy in Patients With Non-small Cell Lung Cancer
+This pilot phase I trial compares administration schedules of anti-programmed cell death-1 ligand 1 (PD-L1) monoclonal antibody MPDL3280A and stereotactic ablative radiotherapy in treating patients with stage IV non-small cell lung cancer. Monoclonal antibodies, such as anti-PD-L1 monoclonal antibody MPDL3280A, may block tumor growth in different ways by targeting certain cells. Stereotactic ablative radiotherapy, also known as stereotactic body radiation therapy, is a specialized radiation therapy that delivers a single, high dose of radiation directly to the tumor and may kill more tumor cells and cause less damage to normal tissue. Giving anti-PD-L1 monoclonal antibody MPDL3280A with stereotactic ablative radiotherapy may be a better treatment for non-small cell lung cancer. However, it is not yet known what the best administration schedule is for these treatments.
+Recurrent Non-Small Cell Lung Carcinoma|Stage IV Non-Small Cell Lung Cancer
+DRUG: Anti-PD-L1 Monoclonal Antibody MPDL3280A|RADIATION: Stereotactic Body Radiation Therapy
+Incidence of adverse events, Adverse events observed will be summarized in terms of type (organ affected or laboratory determination), severity (by National Cancer Institute CTCAE v4 and nadir or maximum values for the laboratory measures), time of onset (i.e. course number), duration, and reversibility or outcome. Tables will be created to summarize these toxicities and side effects by dose and by course., Up to 30 days after completion of study treatment|Response rate using irRECIST, All responses will be reported. Response rate among patients with measurable disease will be summarized by exact binomial confidence intervals., Up to 30 days after completion of study treatment|Progression free survival using RECIST 1.1 and irRECIST, Progression free survival will be summarized with Kaplan-Meier plots to describe the outcome of patients treated on this protocol. The median progression free survival time will be estimated using standard life table methods., From start of treatment to time of progression or death, whichever occurs first, assessed up to 30 days after completion of study treatment
+Changes in biomarkers, Correlative biomarker endpoints (PD-L1, CD8, CD4, FoxP3) are exploratory and hypothesis generating. Descriptive statistics will be applied to characterize differences within a given patient pre-treatment to post-treatment and between responders and non-responders and to provide a preliminary estimate of prognostic value for survival and freedom from progression., Baseline to up to 30 days after completion of study treatment
+PRIMARY OBJECTIVES:
+
+I. To determine which administration schedule of MPDL3280A (anti-PD-L1 monoclonal antibody MPDL3280A) and stereotactic ablative radiotherapy (SAR) will be most promising to move forward to a phase II trial based on safety and objective response rate.
+
+SECONDARY OBJECTIVES:
+
+I. To define the safety and toxicity profile of MPDL3280A plus SAR using Common Terminology Criteria for Adverse Events (CTCAE) version 4 (v4).
+
+II. Radiographic response rates by immure-related Response Evaluation Criteria in Solid Tumors (irRECIST).
+
+III. Progression free survival using Response Evaluation Criteria in Solid Tumors (RECIST) 1.1 and irRECIST.
+
+TERTIARY OBJECTIVES:
+
+I. Conduct correlative immunologic endpoints.
+
+OUTLINE: Patients are assigned to 1 of 3 arms.
+
+ARM I (CONCURRENT COHORT): Patients receive anti-PD-L1 monoclonal antibody MPDL3280A intravenously (IV) over 30-60 minutes on day 1. Courses repeat every 3 weeks in the absence of disease progression or unacceptable toxicity. Beginning on day 1 of course 1, patients also undergo SAR 2-3 times per week (with a minimum of 40 hours and a maximum of 96 hours between fractions) over 1.5-2 weeks for a total of 5 fractions.
+
+ARM II (INDUCTION COHORT): Patients receive anti-PD-L1 monoclonal antibody MPDL3280A IV over 30-60 minutes on day 1. Courses repeat every 3 weeks in the absence of disease progression or unacceptable toxicity. Beginning on day 1 of course 3, patients also undergo SAR 2-3 times per week (with a minimum of 40 hours and a maximum of 96 hours between fractions) over 1.5-2 weeks for a total of 5 fractions.
+
+ARM III (SEQUENTIAL COHORT): Patients undergo SAR 2-3 times per week (with a minimum of 40 hours and a maximum of 96 hours between fractions) over 1.5-2 weeks for a total of 5 fractions beginning on day 1 of course 1. After completion of SAR (beginning on day 1 of course 2), patients receive anti-PD-L1 monoclonal antibody MPDL3280A IV over 30-60 minutes on day 1. Courses repeat every 3 weeks in the absence of disease progression or unacceptable toxicity.
+
+After completion of study treatment, patients are followed up for 30 days.

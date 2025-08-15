@@ -1,0 +1,33 @@
+Study on Predictive Biomarkers of Neoadjuvant Chemoradiotherapy for Rectal Cancer
+Backgrounds: A multicenter randomized phase III trial (NCT02605265) proved that adding irinotecan guided by UGT1A1 to capecitabine-based neoadjuvant chemoradiotherapy significantly increases complete tumor response. The treatment toxicities were increased but tolerable.
+
+Purposes: This study aims to identify the predictive biomarkers (from patients' tumor biopsy samples and peripheral blood samples before neoadjuvant therapy) for predicting the response and toxicities to neoadjuvant therapy to stratify patients and optimize treatment strategy.
+Rectal Neoplasm Malignant Carcinoma|Chemoradiotherapy|Neoadjuvant Therapy|Predictive Biomarkers|Adenocarcinoma
+RADIATION: Radiation|DRUG: Capecitabine-Irinotecan Combination
+TRG, Tumor regression grade, Surgery scheduled 6-8 weeks after the end of neoadjuvant therapy|Toxicities, Number of participants with chemoradiation-related adverse events as assessed by CTCAE v4.0, Up to 2 years
+Overall Survival, The total survival time of the participants from joining the group to the death, 3 years|Progression-free Survival, The time period that from participants joining the groups to the progression of disease (recurrence or metastasis) or death of any cause., 3 years|Local Control rate, The time period that from participants joining the groups to the date of first documented pelvic failure., 3 years|pCR, Pathologic Complete Response, Surgery scheduled 6-8 weeks after the end of neoadjuvant therapy
+OBJECTIVES:
+
+Primary:
+
+* Establish a predictive model for response based on tissue RNA and plasma exosome RNA
+* Establish a predictive model for toxicities based on tissue RNA and plasma exosome RNA
+
+Secondary:
+
+* Internal validation of the established predictive models
+* External validation of the established predictive models
+
+OUTLINE:
+
+-Treatment: Patients receive neoadjuvant therapy and surgery per the protocol. Samples collection Tumor tissue and peripheral blood will be collected prior to neoadjuvant therapy.
+
+-Grouping: Response: Patients will be dichotomized into two groups based on the TRG. TRG of 0-1 is defined as good response. TRG of 2-3 is defined as poor response.
+
+Toxicities: Patients will be dichotomized into two groups based on the grade of AEs. No grade 3-4 toxicities occurs during neoadjuvant therapy is defined as light toxicities. Grade 3-4 toxicities occur during neoadjuvant therapy is defined as heavy toxicities.
+
+-Predictive Model Construction: Using RNA sequencing method to obtain the whole genome transcription profiles of the tumor tissue and plasm exosome RNA. Compare the gene expression differences between the two response groups and the two toxicity groups. Predictive models of response and toxicities are constructed.
+
+-Internal Validation: Patients treated at Fudan University Shanghai Cancer Center (N=50) per the protocol will be enrolled as the internal validation cohort. Samples of tissue and plasm will be collected and analyzed. The performance of the model will be evaluated by the correlation of the predicted response/toxicities and the actual response/toxicities.
+
+-External Validation: Patients treated at Liao'ning Cancer Hospital \& Institute (N=50) and Harbin Medical University Cancer Hospital (N=50) per the protocol will be enrolled as two external validation cohorts. Samples of tissue and plasm will be collected and analyzed. The performance of the model will be evaluated by the correlation of the predicted response/toxicities and the actual response/toxicities.

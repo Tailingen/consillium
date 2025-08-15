@@ -1,0 +1,23 @@
+Dasatinib, Temsirolimus, and Cyclophosphamide in Treating Patients With Advanced, Recurrent, or Refractory Solid Tumors
+This phase I trial studies the side effects and best dose of dasatinib and temsirolimus when given together with cyclophosphamide in treating patients with solid tumors that have spread to other places in the body, have come back, or have not respond to previous treatment. Dasatinib and temsirolimus may stop the growth of tumor cells by blocking some of the enzymes needed for cell growth. Drugs used in chemotherapy, such as cyclophosphamide, work in different ways to stop the growth of tumor cells, either by killing the cells, by stopping them from dividing, or by stopping them from spreading. Giving dasatinib and temsirolimus together with cyclophosphamide may be a better treatment for advanced solid tumors.
+Advanced Malignant Solid Neoplasm|Recurrent Brain Neoplasm|Recurrent Malignant Solid Neoplasm|Refractory Brain Neoplasm
+DRUG: Cyclophosphamide|DRUG: Dasatinib|OTHER: Laboratory Biomarker Analysis|DRUG: Temsirolimus
+Maximum tolerated dose (MTD) defined as the highest dose level tested at which =< 2/6 patients experience dose limiting toxicities (DLT) graded according to the National Cancer Institute (NCI) Common Toxicity Criteria (CTCAE) version 4.0, Up to day 35|Incidence of adverse events (AEs) graded according to NCI CTCAE version 4.0, AEs will be tabulated by dose, grade, and attribution., Up to 28 days post-treatment
+Best response (complete response [CR], partial response [PR], stable disease [SD], and progressive disease [PD]) using the Response Evaluation Criteria in Solid Tumors from the NCI for assessment of radiographic response, Tabulated by dose and disease category (CR, PR, SD, and PD)., Up to 4 weeks post-treatment|Levels of biological markers measured in tissue, blood, or plasma, Correlation of biomarkers between tissue and blood will be assessed. The association among various continuous and discrete variables (including response variable) will be assessed first by the exploratory data analysis graphically and then tested using t-test/analysis of variance or Wilcoxon rank sum test/Kruskal-Wallis test, when appropriate. Correlation among continuous biomarkers will be examined by Pearson or Spearman rank correlation coefficients. The association between discrete variables will be tested by chi-square or Fisher's exact test., Up to 4 weeks post-treatment
+PRIMARY OBJECTIVES:
+
+I. To determine the maximum tolerated dose (MTD) and dose-limiting toxicities (DLT) of combination treatment with dasatinib, cyclophosphamide and temsirolimus.
+
+II. To define and describe the toxicities of the combination of dasatinib, cyclophosphamide and temsirolimus administered on this schedule.
+
+SECONDARY OBJECTIVES:
+
+I. To preliminarily define the antitumor activity of the combination of dasatinib, cyclophosphamide and temsirolimus within the confines of a phase 1 study.
+
+II. Preliminary assessment of biological markers and correlates of response.
+
+OUTLINE: This is a dose-escalation study of dasatinib and temsirolimus.
+
+Patients receive dasatinib orally (PO) twice daily (BID) on days 1-21, cyclophosphamide PO once daily (QD) on days 1-21, and temsirolimus intravenously (IV) over 30-60 minutes on days 1, 8, and 15. Treatment repeats every 28 days for 6 courses in the absence of disease progression or unacceptable toxicity. Patients experiencing stable disease or better may continue treatment with the approval of the study chair.
+
+After completion of study treatment, patients are followed up for 4 weeks.

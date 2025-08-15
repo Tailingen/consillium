@@ -1,0 +1,18 @@
+Breast Cancer Screening With Diffusion-weighted MRI in Women at High Risk for Breast Cancer
+A prospective observational multicenter study to compare the outcome of breast cancer surveillance using mammography, breast US, contrast-enhanced MRI, and diffusion-weighted MR imaging (DWI) as a screening tool, in the high-risk women for breast cancer.
+
+* Primary objective: To compare the sensitivity of mammography, breast US, contrast-enhanced MRI, and DWI for the detection of breast cancer
+* Secondary objective:
+
+  1. To compare the specificity of mammography, breast US, contrast-enhanced MRI, and DWI for the detection of breast cancer
+  2. To compare the cancer detection rate of mammography, breast US, contrast-enhanced MRI, and DWI
+  3. To compare the characteristics of detected cancers
+Breast Cancer
+Sensitivity, Number of positive examinations with a tissue diagnosis of cancer within 1 year / All cancers present in the population examined in the same time period, Baseline to up to 1 year
+Specificity, Number of negative examinations without tissue diagnosis of cancer within 1 year / All examinations without tissue diagnosis of cancer within the same period, Baseline to up to 1 year|Cancer detection rate (CDR), Number of detected cancers (invasive and in situ cancer) /1000 examinations, Baseline to up to 1 year|Biologic characteristics of breast cancer, histologic type, tumor grade, and molecular subtype of breast cancers, Baseline to up to 1 year
+* Mammography, breast US, contrast-enhanced MRI, and DWI will be performed on the same day or within 1 month at baseline and then after 1 year, and images will be interpreted independently according to the Breast Imaging Reporting and Data System (BI-RADS) by experienced radiologists.
+* Each eligible woman, who provides informed consent for this study, will undergo mammography, breast US, contrast-enhanced MRI, and DWI at a 3T MR scanner.
+* Contrast-enhanced breast MRI will be performed before and after a gadolinium-based contrast agent injection.
+* Before contrast injection, DWI with b-value of 0, 800 and 1200 s/mm2 will be performed and will transfer into the server.
+* A total of 890 high-risk women for breast cancer will be enrolled in this study.
+* The BI-RADS 3 or higher is defined as test-positive. The reference standard will be a biopsy or at least 1 year of follow-up.

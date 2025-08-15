@@ -1,0 +1,49 @@
+Ipilimumab, Nivolumab, and Radiation Therapy in Treating Patients With HPV Positive Advanced Oropharyngeal Squamous Cell Carcinoma
+This phase II trial studies the side effects and best dose of ipilimumab, nivolumab, and radiation therapy and how well they work in treating patients with advanced human papillomavirus (HPV) positive oropharyngeal squamous cell carcinoma. Immunotherapy with monoclonal antibodies, such as ipilimumab and nivolumab, may help the body's immune system attack the cancer, and may interfere with the ability of tumor cells to grow and spread. Radiation therapy uses high energy x-rays to kill tumor cells and shrink tumors. Giving ipilimumab, nivolumab, and radiation therapy may work better in treating patients with HPV positive oropharyngeal squamous cell carcinoma.
+Clinical Stage I HPV-Mediated (p16-Positive) Oropharyngeal Carcinoma AJCC v8|Clinical Stage II HPV-Mediated (p16-Positive) Oropharyngeal Carcinoma AJCC v8|Human Papillomavirus Positive Oropharyngeal Squamous Cell Carcinoma|Oropharyngeal Basaloid Carcinoma|Pathologic Stage I HPV-Mediated (p16-Positive) Oropharyngeal Carcinoma AJCC v8|Pathologic Stage II HPV-Mediated (p16-Positive) Oropharyngeal Carcinoma AJCC v8|Posterior Tongue Squamous Cell Carcinoma|Soft Palate Squamous Cell Carcinoma|Stage III Oropharyngeal Squamous Cell Carcinoma AJCC v7|Stage IVA Oropharyngeal Squamous Cell Carcinoma AJCC v7|Tonsillar Squamous Cell Carcinoma
+RADIATION: Intensity-Modulated Radiation Therapy|BIOLOGICAL: Ipilimumab|BIOLOGICAL: Nivolumab|OTHER: Quality-of-Life Assessment|OTHER: Questionnaire Administration
+Dose limiting toxicity (DLT) (safety lead-in), Defined as any \>= grade 3 adverse event (Common Terminology Criteria for Adverse Events \[CTCAE\], version \[v.\] 4) that is related to immunotherapy (IO) that does not resolve to grade 1 or less within 28 days., Up to 28 days post-completion of radiation therapy|Complete response rate (Phase II), At 6 months|Progression-free survival (PFS) (Phase II), From start of therapy to progression or disease or death from any cause, assessed up to 2 years
+Number of patients who experience a >= grade 3 treatment-related adverse event (safety lead-in), Up to 28 days post-completion of radiation therapy|Number of patients who tolerated protocol therapy (safety lead-in), The number of patients who tolerated protocol therapy, including completion of radiotherapy without a treatment break and who were administered immunotherapy (IO) will be assessed., Up to 12 weeks (end of cycle 2)|Number of patients who achieve a clinical complete response (safety lead-in), Up to 28 weeks after radiation therapy|Incidence of acute and chronic adverse events (Phase II), Incidence of adverse events (acute and chronic toxicities) will be assessed per CTCAE Patient Reported Outcome (PRO)., Up to 3 months from the end of intensity-modulated radiation therapy (IMRT)|Acute toxicity profiles (Phase II), Will be assessed by CTCAE v 4., At the end of radiation therapy, end of IO, and 6 months|Number of patients who experience >= grade 3 treatment-related adverse event (Phase II), At the end of radiation therapy, end of IO, and 6 months|Late toxicity profiles (Phase II), Will be assessed per CTCAE v 4., At 1 and 2 years|Patient-reported swallowing outcomes (Phase II), At 1 and 2 years|Patterns of failure (local-regional relapse versus [vs] distant) (Phase II), At 1 and 2 years|Overall survival (Phase II), At 1 and 2 years
+PRIMARY OBJECTIVES:
+
+I. To evaluate the safety, tolerability and feasibility of ipilimumab and nivolumab when administered concurrently with reduced-field radiotherapy (intensity-modulated radiation therapy \[IMRT\]).
+
+II. To evaluate the clinical complete response rate to ipilimumab, nivolumab and IMRT with reduced field at six months as indicated by fluorodeoxyglucose - positron emission tomography/computed tomography (FDG-PET/CT) post completion of radiation therapy (RT).
+
+III. To evaluate the 2-year progression-free survival (PFS) rate of subjects with low-intermediate volume, local-regionally advanced, human papilloma virus (HPV)-positive squamous cell carcinoma of the head and neck (SCCHN) treated with ipilimumab, nivolumab and reduced-field IMRT.
+
+SECONDARY OBJECTIVES:
+
+I. To evaluate overall response rate to six weeks of induction immunotherapy (IO).
+
+II. To evaluate the frequency of pharyngeal dysphasia as measured by Dynamic Imaging (Dynamic Imaging Grade of Swallowing Toxicity \[DIGEST\]) grade on modified barium swallow (MBS) and patient-reported symptoms (MD Anderson Dysphagia Inventory \[MDADI\]) at 6 month, 1 and 2 years after radiotherapy (\[IMRT\].
+
+III. To measure acute and chronic toxicities per Patient-Reported Outcomes Common Terminology Criteria for Adverse Events (CTCAE PRO).
+
+IV. To measure acute toxicity profiles at the end of radiation therapy and IO and at 6 months.
+
+V. To measure late toxicity profiles at 1 and 2 years. VI. To determine local and regional control at 6 and 12 months. VII. To determine patterns of failure (local-regional relapse vs. distant) at 1 and 2 years.
+
+VIII. To determine overall survival (OS) at 1 and 2 years.
+
+CORRELATIVE OBJECTIVES:
+
+I. To evaluate associations between total mutational load, interferon (INF) gamma score, T cell clonality at diagnosis with clinical response to induction, combination CTLA-4 PD-1 checkpoint blockade.
+
+II. To evaluate changes in the tumor immune microenvironment (CD8 + INF gamma score, T cell clonality, in tumor biopsy specimens pre and post induction immunotherapy (IO).
+
+III. To evaluate dynamic changes in and clearance of oral HPV and cell-free deoxyribonucleic acid (cfDNA) viral load during therapy and to investigate associations with PFS and OS.
+
+EXPLORATORY OBJECTIVES:
+
+I. To evaluate changes in peripheral blood lymphocyte phenotypes and serum cytokine profiles before and after induction IO.
+
+II. To evaluate changes in the T cell receptor repertoire in tumor-infiltrating lymphocyte (TIL) and the peripheral blood in tumor biopsy specimens pre and post induction IO.
+
+III. To determine the negative and positive predictive values (NPV and PPV) of FDG-PET/CT 12-14 weeks after end of RT for 1 year and 2 year PFS and OS.
+
+OUTLINE:
+
+Patients receive nivolumab intravenously (IV) over 30 minutes on days 1, 15, and 29 and ipilimumab IV over 30 minutes on day 1. Treatment repeats every for 6 weeks for 2 cycles in the absence of disease progression or unacceptable toxicity. Beginning on day 1 of cycle 2, patients also undergo IMRT 5 days a week (Monday-Friday) for 6 weeks in the absence of disease progression or unacceptable toxicity.
+
+After completion of study treatment, patients are followed up at 2 weeks, every 3 months for 2 years, every 6 months for 3 years, and then annually thereafter.

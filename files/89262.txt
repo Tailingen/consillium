@@ -1,0 +1,47 @@
+Disitamab Vedotin Combined With Ivonescimab in Cisplatin-Ineligible Muscle-Invasive Bladder Cancer
+This is a single-arm, open-label, Phase Ib/II clinical trial designed to evaluate the efficacy and safety of Disitamab Vedotin combined with Ivonescimab in the perioperative treatment of cisplatin-ineligible patients with muscle-invasive bladder cancer (MIBC). The study will enroll MIBC patients scheduled for radical cystectomy who have not received prior immunotherapy, targeted therapy, or biological therapy, except for cisplatin chemotherapy. The trial will consist of a neoadjuvant treatment phase (Disitamab Vedotin and Ivonescimab), followed by surgery and an adjuvant treatment phase. Primary efficacy endpoints include the pathological complete response (pCR) rate, while secondary endpoints include disease-free survival, recurrence-free survival, overall survival, and clinical objective response rate. Safety will be monitored throughout the study, and biomarker testing (HER2 and PD-L1) will be conducted to assess treatment efficacy. The study aims to explore the potential of this combination therapy in improving outcomes for MIBC patients.
+Bladder Cancer|Muscle-invasive Bladder Cancer
+DRUG: Disitamab Vedotin Injection|DRUG: Ivonescimab（AK112，a PD-1/VEGF bispecific antibody）|PROCEDURE: Radical Cystectomy with Pelvic Lymph Node Dissection
+Pathological Complete Response (pCR) Rate, The percentage of patients who achieve a pathological complete response (pT0N0) after surgery following neoadjuvant treatment with Disitamab Vedotin combined with Ivonescimab., 4 months
+Pathological Response Rate, The percentage of patients with pathological complete response (pT0N0) or pathological partial response (≤ ypT1N0M0) during surgery., 4 months|1-3 Year Disease-Free Survival (DFS) Rate, The percentage of patients who remain free from local or distant recurrence, or death from any cause, as confirmed by imaging or pathological examination, at 1, 2, or 3 years after surgery., Up to 3 years|Recurrence-Free Survival (RFS), The rate of recurrence of the disease after completion of treatment as confirmed by imaging or clinical evidence., Up to first recurrence of disease or up to 5 years|Overall Survival (OS), The time from the first dose of neoadjuvant treatment to death from any cause., Up to death or up to 5 years|Clinical Objective Response Rate (ORR), Tumor evaluations will be conducted according to RECIST 1.1 criteria for all patients with evaluable lesions at baseline, and responses will be assessed at each tumor assessment., Up to 5 years
+This open-label, single-arm Phase Ib/II clinical trial aims to assess the efficacy and safety of combining Disitamab Vedotin with Ivonescimab for treating muscle-invasive bladder cancer (MIBC) in patients who are ineligible for cisplatin-based chemotherapy. The trial consists of two primary phases: a safety run-in phase and subsequent treatment phases (neoadjuvant and postoperative adjuvant).
+
+Study Phases:
+
+Safety Run-In Phase:
+
+The first 6 participants will receive an initial dose of Disitamab Vedotin (2.0 mg/kg) and Ivonescimab (20 mg/kg). If ≥2 dose-limiting toxicities (DLTs) occur, dose adjustments will be made (Disitamab Vedotin reduced to 1.5 mg/kg, Ivonescimab to 15 mg/kg). If no significant toxicity occurs, the trial will continue with the original doses.
+
+Neoadjuvant Phase:
+
+Participants will receive 6 cycles of Disitamab Vedotin (2.0 mg/kg, Q2W) and 4 cycles of Ivonescimab (20 mg/kg, Q3W) over 12 weeks. After treatment, patients will undergo radical cystectomy with pelvic lymph node dissection.
+
+Postoperative Adjuvant Phase:
+
+Following surgery, patients will receive 4 cycles of Disitamab Vedotin (2.0 mg/kg, Q3W) and 9 cycles of Ivonescimab (20 mg/kg, Q3W) to reduce the risk of recurrence.
+
+Evaluation:
+
+Tumor Response:
+
+Tumor assessments will be conducted using RECIST 1.1 criteria in the neoadjuvant phase, with imaging follow-up every 12 weeks during the adjuvant phase. The primary endpoint is the objective response rate (ORR).
+
+Biomarker Correlation:
+
+HER2 and PD-L1 expression levels will be assessed as secondary objectives to evaluate their correlation with treatment outcomes.
+
+Safety Monitoring and Data Management:
+
+Adverse events will be documented and evaluated. Regular data checks will ensure the integrity and completeness of patient data. A strict confidentiality protocol will be followed, ensuring the protection of participant information.
+
+Study Population:
+
+Approximately 30 patients with MIBC who are ineligible for cisplatin chemotherapy will be enrolled. Inclusion criteria include documented HER2 expression and eligibility for transurethral resection and radical cystectomy.
+
+Statistical Analysis:
+
+Descriptive statistics will summarize baseline characteristics and treatment outcomes. Kaplan-Meier methods will be used to analyze progression-free survival (PFS) and overall survival (OS), while regression analysis will assess biomarker correlations.
+
+Conclusion:
+
+This trial will provide valuable insights into the potential of Disitamab Vedotin and Ivonescimab as a perioperative treatment for cisplatin-ineligible MIBC patients, offering a new therapeutic option for this challenging patient population.

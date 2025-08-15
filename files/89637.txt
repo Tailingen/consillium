@@ -1,0 +1,21 @@
+PRE-VENT Study in Hospitalized Patients With Severe COVID-19 With or Without Cancer
+This is a Phase 2 randomized, double-blind, placebo-controlled, multicenter study to evaluate the efficacy and safety of pacritinib in hospitalized patients with severe COVID-19 with or without cancer.
+COVID19|COVID-19|COVID
+DRUG: Pacritinib|DRUG: Placebo
+Percentage of Participants With Progression to IMV and/or ECMO or Death, The percentage is calculated as the number of patients who progress to IMV/ECMO or death divided by the total number of patients in the ITT population (n/N \* 100)., Baseline to Day 28
+The Number of Ventilator-Free Days, the number of days that patients are alive and not intubated, from randomization to Day 28, Baseline to Day 28|The Mortality Rate at Day 28, the number of patients with outcome of death during the 28 days following randomization, Baseline to Day 28|The Mortality Rate at Day 15, the number of patients with outcome of death in the 15 days following randomization, Baseline to Day 15|The Time to Improvement by at Least 2 Points Relative to Baseline on the 7-point Ordinal Scale of Clinical Status, Time to Improvement (days) = Date of improvement - Date of randomization + 1. Date of Improvement was defined as the time to first ordinal scale assessment 2 points or more lower than the baseline clinical status assessment., Baseline, Day 8, 15, 22, and 28.|The Clinical Status as Assessed by the 7-point Ordinal Scale of Clinical Status at Days 8, 15, 22, and 28, Clinical status assessment based on the adapted scale from Cao et al. The patient CS is summarized by study visit.
+
+STATUS:
+
+1. not hospitalized with resumption of normal activities;
+2. not hospitalized but unable to resume normal activities;
+3. hospitalization, not requiring supplemental oxygen;
+4. hospitalization, requiring supplemental oxygen not meeting the criteria for categories 5 or 6;
+5. hospitalization, on non-invasive positive pressure ventilation or high-flow nasal cannula;
+6. hospitalization, requiring IMV and/or ECMO;
+7. death., Baseline, Day 8, 15, 22, 28|The Rate of Use of Immunomodulatory Agents as Treatment for COVID-19, the proportion of patients reporting use of medications such as corticosteroids, tocilizumab, anakinra, or eculizumab as treatment for COVID-19, during 28 days following randomization, Baseline to Day 28
+This is a Phase 2 randomized, double-blind, placebo-controlled, multicenter study to evaluate the efficacy and safety of pacritinib in hospitalized patients with severe COVID-19 with or without cancer. Severe COVID-19 is defined as confirmed disease in patients who are hospitalized with hypoxia (blood oxygen saturation \[SpO2\] ≤93% on room air at sea level), respiratory rate \>30, arterial oxygen partial pressure \[PaO2\]/ fraction of inspired oxygen \[FiO2\] \<300, or lung infiltrates \>50% but do not require IMV.
+
+Patients will be randomized 1:1 to receive pacritinib (400 mg once daily \[QD\] on Day 1, then 200 mg twice daily \[BID\] from Day 2 to Day 14) + SOC or placebo + SOC.
+
+Assigned treatment will continue for up to Day 14 or until the patient experiences intolerable adverse events (AEs), withdraws consent, or initiates another investigational therapy or until the study is terminated. Assigned therapy may be given for an additional 7 days (for a total of 21 days) with the approval of the Medical Monitor if, in the opinion of the investigator, the patient's clinical signs and symptoms are improving and the potential benefit outweighs the potential risk.In the event of hospital discharge, patients will complete treatment with the assigned therapy as an outpatient.

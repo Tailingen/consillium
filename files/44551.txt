@@ -1,0 +1,21 @@
+Erlotinib in Treating Patients With Unresectable Liver Cancer and Liver Dysfunction
+Phase I trial to study the effectiveness of erlotinib in treating patients who have unresectable liver cancer and liver dysfunction. Biological therapies such as erlotinib may interfere with the growth of tumor cells and slow the growth of the tumor
+Adult Primary Hepatocellular Carcinoma|Advanced Adult Primary Liver Cancer|Localized Unresectable Adult Primary Liver Cancer|Recurrent Adult Primary Liver Cancer
+DRUG: erlotinib hydrochloride|OTHER: pharmacological study|OTHER: laboratory biomarker analysis
+Dose-limiting toxicity and maximum tolerated dose as measured by NCI CTCAE v3.0 continuously, 28 days|Pharmacokinetic (PK) and pharmacodynamic profile, as measured by Cmax, Tmax, AUC0-24, AUC0-infinity, Cl/F, T1/2, accumulation ratio, and Cssmin, PK parameters characterized by use of descriptive statistics. Nonparametric statistical test for several unrelated (Kruskal-Wallis ANOVA) or related (Wilcoxon matched-pairs signed-rank test) parameters used. Relationships between drug dose and indices that reflect drug exposure (Cmax, AUC, Cssmin) evaluated with Kruskal-Wallis one-way ANOVA test. Extent of drug exposure (Cmax, AUC, Cssmin) compared among patients with various grades of toxicity using nonparametric statistical tests for two (Mann-Whitney U test) or several (Kruskal-Wallis one-way ANOVA) independent samples., Days 8-28
+Objective response rates (partial, complete, stable disease), as measured by CT scans using RECIST criteria, Response rates will be calculated as a proportion of the number of patients who are evaluable using 95% confidence intervals., Up to 3 years
+PRIMARY OBJECTIVES:
+
+I. Establish the maximum tolerated dose (MTD) and dose-limiting toxicity (DLT) of OSI-774 in patients with unresectable hepatocellular carcinoma (HCC) with moderate liver dysfunction.
+
+II. Establish the pharmacokinetic and pharmacodynamic profile of OSI-774 in HCC patients with moderate liver dysfunction.
+
+SECONDARY OBJECTIVES:
+
+I. Assess possible anti-tumor effects of OSI-774 in patients with advanced hepatocellular carcinoma in terms of partial response (PR) and complete response (CR) as assessed by tumor shrinkage by RECIST criteria.
+
+OUTLINE: This is a dose-escalation study.
+
+Patients receive oral erlotinib once daily. Courses repeat every 28 days in the absence of disease progression or unacceptable toxicity.
+
+Cohorts of 3-6 patients receive escalating doses of erlotinib until the maximum tolerated dose (MTD) is determined. The MTD is defined as the dose preceding that at which at least 2 of 3 or 2 of 6 patients experience dose-limiting toxicity.

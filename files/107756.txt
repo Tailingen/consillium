@@ -1,0 +1,17 @@
+EXploring Immune-related Adverse Events of Immune checkpoinT Inhibitors Using VigiBase, the WHO Pharmacovigilance Database
+This is an observational, retrospective pharmacovigilance study based on reports registered and transmitted in VigiBase®, the WHO's international database.
+
+This study includes all reports identified as exposure to an ICI and suspect of inducing adverse drug reaction.
+
+The aim of the study is to characterize immune-related adverse reactions associated with immune-checkpoint inhibitors, particularly their time-to-onset, co-occurence, factors associate with their over-report and fatality.
+Cancer|Immune-related Adverse Event|Immune Checkpoint Inhibitor-Related Myocarditis
+DRUG: Immune checkpoint inhibitor
+Factors associated with an increased rate of fatality among reports with an immune-related adverse event (irAE)., Reports with a fatal outcome will be compared to reports with no fatal outcome. Odds ratio will be calculated to compare covariates potentially associated with an increase risk of fatality, including irAE type, cancer type reported, patient's age, gender, comorbidities, type of ICI or ICI combination and other treatments., any report prior to january 2023
+Factors associated with an increased reporting of main irAE types, Main irAEs are identified through MedDRA terms declared. For each irAE and each risk factors, an odds ratio will be calculated to assess a potential over-reporting. Factors evaluated will include but will not be limited to: cancer type, anticancer treatment type, socio-demographic variables (gender, age, country of reporting etc ...), year of reporting among others., any report prior to january 2023|Time to onset for each irAE type, any report prior to january 2023|Rate of relapse with treatment rechallenge, For each irAE, the rate (percentage) of irAE reccurence after treatment rechallenge., any report prior to january 2023
+Over the past ten years, immuno-oncology (IO) has gradually integrated the therapeutic arsenal of cancer treatment. CTLA-4, program-death 1 (PD1) and its ligand (PD-L1) and LAG3 were found to be major targets active in multiple tumor types. Immune checkpoint inhibitors (ICI) are antibodies blocking these targets and became a cornestone of cancer treatment.
+
+This is an observational, retrospective pharmacovigilance study based on reports registered and transmitted in VigiBase®, the WHO's international database. VigiBase is managed by the Uppsala Monitoring Centre (UMC, Uppsala, Sweden) and contains about 30 million reports (as of Jan 2023) submitted by national pharmacovigilance centers since 1967.
+
+The use of VigiBase® for pharmacovigilance analyses is not dependent on institutional review board approval. It is conditioned on institutional access provided and approved by the Uppsala Monitoring Centre. Since spontaneous reporting systems are based on anonymity and the process only requires patient non-opposition, no informed consent was requested to use VigiBase® in this study.
+
+This study includes all reports associated with an ICI. The query is performed using the Medical Dictionary for Regulatory Activities (MedDRA), between January 1st 2008 (year of first report of ICI in VigiBase), and January 1st 2023. The analysis focused on reports suspected to be induced by an ICI (as opposed to concurrent use).

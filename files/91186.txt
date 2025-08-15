@@ -1,0 +1,33 @@
+Photon Craniospinal Irradiation for the Treatment of Leptomeningeal Disease Secondary to Breast Cancer or Non-small Cell Lung Cancer
+This phase II trial tests how well craniospinal irradiation (CSI) using photon volumetric modulated arc radiotherapy (VMAT) works in treating patients with breast cancer or non-small cell lung cancer (NSCLC) that has spread from the original (primary) tumor to the cerebrospinal fluid and meninges (thin layers of tissue that cover and protect the brain and spinal cord) (leptomeningeal disease). Radiation therapy uses high energy x-rays, particles, or radioactive seeds to kill cancer cells and shrink tumors. CSI (radiation therapy directed at the brain and spinal cord to kill tumor cells) may be able to target all of the areas of possible leptomeningeal tumor spread. Photon-VMAT-CSI may be an effective treatment option for patients with leptomeningeal disease secondary to breast cancer or NSCLC.
+Anatomic Stage IV Breast Cancer AJCC v8|Metastatic Breast Carcinoma|Metastatic Lung Non-Small Cell Carcinoma|Metastatic Malignant Neoplasm in the Leptomeninges|Stage IV Lung Cancer AJCC v8
+PROCEDURE: Biospecimen Collection|RADIATION: Craniospinal Irradiation|OTHER: Electronic Health Record Review|PROCEDURE: Lumbar Puncture|PROCEDURE: Magnetic Resonance Imaging|PROCEDURE: Ommaya Reservoir Tap|OTHER: Questionnaire Administration|RADIATION: Volume Modulated Arc Therapy
+Central nervous system (CNS)-progression free survival, Will be estimated using the Kaplan-Meier estimator, and its associating 95% confidence limit will be calculated using the logit transformation and the Greenwood variance estimate., From start of treatment to CNS relapse, CNS progression, death (from any cause), or last contact, whichever occurs first, assessed up to 1 year
+Radiographic response, Will be assessed per European Organization for Research and Treatment of Cancer (EORTC) Response Assessment in Neuro-Oncology. Will be characterized using a (generalized) linear mixed effects model., Every 3 months after treatment until CNS disease progression or death, assessed up to 1 year|Quality of life, Will be assessed per EORTC Quality-of-Life Questionnaire Brain 20, EORTC Core Quality-of-Life Questionnaire 30, Patient Reported Outcome Measurement Information System (PROMIS) Anxiety short form and PROMIS Cognition short form. Will be characterized using a (generalized) linear mixed effects model., At baseline, 1 month, and every 3 months until CNS disease progression or death, assessed up to 1 year|Incidence of adverse events, Will be assessed and graded according to the Common Terminology Criteria for Adverse Events version 5.0. Will be tabulated to show the number and percentage as well as the timing, severity, and attribution of the toxicity., Up to 30 days after the last day of treatment|Overall survival, Will be estimated using the Kaplan-Meier estimator, and its associating 95% confidence limit will be calculated using the logit transformation and the Greenwood variance estimate., From start of treatment to death (from any cause), or last contact, whichever occurs first, assessed up to 1 year
+PRIMARY OBJECTIVE:
+
+I. To evaluate the efficacy of photon-VMAT-CSI; assessed by median central nervous system progression free survival (CNS-PFS).
+
+SECONDARY OBJECTIVES:
+
+I. To estimate and assess central nervous system (CNS) response rate, response duration, and overall survival probability.
+
+II. To summarize and assess toxicities including: type, frequency, severity, attribution, time course and duration.
+
+III. To characterize and evaluate patient reported outcomes (PROs), including quality of life (QOL), measures:
+
+IIIa. QOL Questionnaire Brain 20 (European Organization for Research and Treatment of Cancer \[EORTC\]-Quality of Life Questionnaire \[QLQ\]-Brain 20 \[BN20\]); IIIb. Core QOL Questionnaire 30 (EORTC-QLQ-Core 30 \[C30\]); IIIc. Patient reported outcomes measurement information system (PROMIS) for Anxiety; IIId. PROMIS Cognition.
+
+EXPLORATORY OBJECTIVES:
+
+I. To characterize inflammatory markers over time. II. To explore the potential association between inflammatory markers and radiation-related toxicity.
+
+III. To evaluate the potential association between circulating cell-free deoxyribonucleic acid (cfDNA), imaging, and response.
+
+IV. To evaluate possible genomic predictors of CNS progression.
+
+OUTLINE:
+
+Patients undergo photon-VMAT-CSI once daily (QD) for 10 treatments over 10-20 days (Monday-Friday) in the absence of disease progression or unacceptable toxicity. Patients undergo magnetic resonance imaging (MRI) during screening and follow-up and undergo collection of blood samples throughout the trial. Patients also undergo lumbar puncture LP or Ommaya reservoir tap for cerebrospinal fluid (CSF) sample collection during screening and follow-up.
+
+After completion of study treatment, patients are followed up at 1 month and then every 3 months for up to 1 year.

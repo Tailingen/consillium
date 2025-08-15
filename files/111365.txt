@@ -1,0 +1,21 @@
+CADx - Radiomics to Distinguish the Origin of Ovarian Tumors
+In women with an ovarian tumor, it is often unclear whether the tumor is benign or malignant. To differentiate, tumor markers (CA125 and CEA), a transvaginal ultrasound and, depending on the ultrasound image and the CA125 concentration, a CT scan are performed. The quality of radiological imaging in diagnosing abdominal pathology is often not accurate enough, making additional interventions no-dig for proper classification and interpretation of the tumor.
+
+Objective: To improve accuracy for distinguishing benign from malignant disease in patients presenting with an ovarian mass by using a computer aided detection algorithm.
+Ovarian Cancer
+DIAGNOSTIC_TEST: CT-scan algorithm
+Sensitivity and specificity of CADx algorithm, Percentage of correct determination of malignancy by the Risk of Malignancy Index (RMI) compared to exact determination by CAD assessment in patients with an ovarian tumor, 3 - 4 years
+Sensitivity and specificity of CADx algorithm with additional variables, Correlation of the findings from CAD analysis in some patients with analysis of circulating tumor (ct) DNA and protein tumor markers or other additional clinical variables, 3 - 4 years
+This research focuses on improving the accuracy of the determination of the nature (benign or malignant) of ovarian tumors by making use of artificial intelligence by creating a CT-scan algorithm. This because a correct preoperative classification of ovarian tumors is essential for appropriate treatment. Existing prediction models often lead to unnecessary referrals to gynecological oncology hospitals, resulting in higher costs and increased stress for the patient. It is therefore important to evaluate other strategies to differentiate between benign and malignant ovarian tumors.
+
+Artificial Intelligence (AI) for radiology is currently being developed by the Eindhoven University of Technology (TU/e) and Philips Research Europe and may provide a potential solution to this problem.
+
+The currently developed algorithm (CADx), using a support vector machine (SVM), showed within a small population of about 100 patients a sensitivity of 74% and specificity of 74%. These are promising results to train this algorithm even further with more CT-scans images and the addition of clinical variables and even liquid biopsies.
+
+Type of study: Retrospective study cohort This is a retrospective analysis on known data in which definitive patients diagnosis has already been established and current analysis will not affect treatment plan.
+
+No products for patients are used, only computer aided diagnosis is used on existing radiological imaging, namely CT-scans.
+
+This study is linked to two other Dutch trials in which ovarian tumor biomarkers are assessed in order to find out the origin of ovarian tumors preoperatively.
+
+The first is the HE4-prediction study, with local protocol ID NL58253.031.16. The second is the OVI-DETECT study, with clinicaltrial.gov number NCT04971421.

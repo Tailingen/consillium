@@ -1,0 +1,71 @@
+Real-life Prospective Evaluation of Computer-aided Detection (CAD) of Barrett's Neoplasia
+Barrett's oesophagus is a pre-cancerous condition in which normal cells in the lining of gullet undergo cell changes and this increases the risk of developing adenocarcinoma (a type of cancer) of the gullet. This type of cancer is the 5th most common type of cancer in the UK. To minimise this risk of developing cancer, patients with Barret's oesophagus have regular gastroscopy (a small camera at the tip of the slim tube) every 2-5 years to detect early cancer cell changes. During the procedure, the whole of oesophagus is carefully inspected, and small tissue samples (biopsies) are taken from visible abnormal area within Barrett's oesophagus and sent to the lab to check for cell changes. This is called targeted biopsies. As the endoscopist cannot always tell during gastroscopy where cells are changing, biopsies from each quarter of the gullet (called quadrantic biopsies) are also taken to reduce the risk of pre-cancerous cells being missed. However, this process is time consuming and expensive as numerous biopsies are required.
+
+Recently, there has been a huge development in artificial intelligence (AI). One of these developments is the aid of computer to detect (called computer-aided detection - CAD) the abnormal cell changes within Barrett's during gastroscopy. This system has recently been trained and tested on videos and photos to prove that its performance is as good as expert endoscopists. This system has been already approved to use in the UK. However, this system needs to be tested further and incorporated into real life use to prove that the CAD is useful in detecting cell changes during gastroscopy for targeted biopsies and therefore, the random biopsies can be avoided.
+
+A sample of patients with Barrett's oesophagus will be invited to participate in this study. Participants will have a gastroscopy as part of their usual care for Barrett's oesophagus. Endoscopist will inspect Barrett's oesophagus using AI and will take both targeted biopsies if clinically deemed appropriate along with quadrantic biopsies. Participants will continue to receive usual care and no additional follow up or procedures will be required as part of the study.
+Gastroscopy|Barrett's Esophagus
+Number of additional Barrett's neoplasia found on quadrantic biopsies, The primary endpoint of the study is the number of additional neoplasia found on quadrantic biopsies. This will be collected and calculated from histology data of the targeted and quadrantic biopsies., From enrolment to end of follow up at 2 month when histology results are available.
+Impact of AI (WISE VISION) in real-life, Number of neoplasia missed by WISE VISION® CAD system, From enrolment to end of follow up at 2 month when histology results are available.|Impact of AI (WISE VISION) in real-life, Sensitivity of WISE VISION® CAD system, From enrolment to end of follow up at 2 month when histology results are available.|Impact of AI (WISE VISION) in real-life, Specificity of WISE VISION® CAD system, From enrolment to end of follow up at 2 month when histology results are available.|Impact of AI (WISE VISION) in real-life, Accuracy of WISE VISION® CAD system, From enrolment to end of follow up at 2 month when histology results are available.|Impact of AI (WISE VISION) in real-life, Positive predictive value of WISE VISION® CAD system, From enrolment to end of follow up at 2 month when histology results are available.|Impact of AI (WISE VISION) in real-life, Negative predictive value of WISE VISION® CAD system, From enrolment to end of follow up at 2 month when histology results are available.|Impact of AI (WISE VISION) in real-life, Missed rate of WISE VISION® CAD system calculated from additional neoplasia on histology results of quadrantic biopsies., From enrolment to end of follow up at 2 month when histology results are available.
+Barrett's oesophagus is precursor to oesophageal adenocarcinoma and it affects 0.5-2% of the western population. It has 0.5-3% risk of yearly progression to cancer from which \<20% will survive at 5 years after diagnosis of cancer. Diagnosing early cancer including dysplasia in Barrett's oesophagus improves survival. Current surveillance practice for Barrett's neoplasia includes regular gastroscopy with careful inspection of Barrett's mucosa along with quadrantic biopsies every 2 cm of Barrett's length as per Seattle protocol. This practice of non-targeted biopsies is labour intensive, expensive and still misses neoplasia. Recently, multiple computer-aided detection (CAD) systems with the use of deep learning have been developed and validated in vitro studies to detect neoplasia. However, further real-life studies are required to determine the efficacy and practicality of CAD in detecting Barrett's neoplasia.
+
+The investigators hypothesise that WISE VISION® CAD system to detect Barrett's neoplasia can improve the detection rate of targeted biopsies, hence making protocol-guided biopsy unnecessary.
+
+Study Procedure
+
+This will be a real-life prospective study using WISE VISION®, NEC Japan, CAD system which is already validated and approved for use in the UK and EU. Gastroscopy will be performed on Barrett's oesophagus patients, who are willing to participate, for surveillance or assessment of neoplasia as per the clinical need.
+
+Necessary preparations to achieve a good mucosal view of oesophagus will be advised during procedure. This may include the use mucolytic drink (simeticone + N-acetylcystine) for mucosal toileting, washing with a water jet and aspiration and the use of hyoscine butylbromide to reduce oesophageal contractions as it would be performed as a standard practice during routine gastroscopy.
+
+A quick white light imaging (WLI) withdrawal of endoscope will be done to ensure that all mucosa is clean and exposed. If any obvious neoplastic lesion is detected by the endoscopist, this will be noted down for future targeted biopsy.
+
+Next will be a WLI withdrawal with the WISE VISION® CAD system to detect any neoplasia. The withdrawal will be repeated with rotation of the endoscope (12 o'clock position on the screen to 6 o'clock position). Areas detected by the CAD system will be biopsied as per endoscopist's discretion and the endoscopist will be asked to make a call as to whether it is neoplasia or non-neoplasia. Location of any targeted biopsies will be recorded. This will be followed by protocol-guided quadrantic biopsies while avoiding repeat biopsies of previously targeted areas.
+
+Participants are expected to visit once for gastroscopy as a day case as part of their standard of care. No additional visits are required. The gastroscopy will be performed as per standard care and as detailed above. WISE VISION® CAD system is already in use in participating centres, and this has become standard of care in these centres.
+
+Study population
+
+This will be a multi-centre study led by Queen Alexandra Hospital (QAH), Portsmouth, UK, which is the Sponsor site. The study population is enriched with known Barrett's oesophagus who are undergoing surveillance or assessment of neoplasia in Barrett's oesophagus. The study population will include local patients and tertiary referrals received by QAH.
+
+This study will also be open to other external sites which have an organized Barrett's endoscopy service and already use and are familiar with the WISE VISION® CAD system.
+
+Statistical plan
+
+The Chief Investigator of this study is highly experienced in developing and running endoscopy clinical trials, including studies on the application of AI and CAD in endoscopy. All co-investigators and members of the Sponsor site research team are GCP certified and have experience in running various endoscopy-based studies. From clinical experience as a tertiary centre, the investigators believe that the rate of neoplasia in enriched Barrett's population at any tertiary referral centre would be around 25%, Our preliminary video-based experience suggests that the sensitivity and specificity of CAD in detecting neoplasia in Barrett's is around 90%.
+
+The sample size is based on achieving a reasonably precise estimate of the percentage of patients in which neoplasia would be missed by AI and detected by multiple biopsies. It is estimated that 5% of patients would have a missed neoplasia. The sample size is based on obtaining an estimate of this outcome that is correct to within ±6% of the population value, deemed to be an acceptable level of uncertainty. Using a 95% confidence level, it is calculated that 51 patients with neoplasia are required. It is estimated that only 40% of all recruited patients would have one or more neoplasia. Thus, in total it is proposed to recruit 127 patients in total into the study.
+
+Data collection
+
+Patient data collected at baseline will include:
+
+* Demographics: ethnicity and occupation, social and lifestyle factors: smoking, alcohol consumption
+* History of Barrett's including date of first diagnosis of Barrett's and subsequent treatments
+* Previous endoscopy and histology reports
+* Current relevant medications
+
+The first part of the CRF will be completed before gastroscopy. Consent can be withdrawn at any point. Consent will be taken by delegated, GCP certified research personnel after appropriate training has been completed and once deemed competent to take consent by the PI. Patients who at this point decline consent will continue to have a standard gastroscopy on the research list which will not be part of the study. Reason for decline will be collected and added to the screening log.
+
+Participants will attend hospital as outpatients for their gastroscopy. Preparation for the procedure and all other activities and medications provided during the procedure will be carried out according to standard clinical practice, except for the use of CAD system for detection prior to biopsy during gastroscopy.
+
+The following data will be recorded during gastroscopy:
+
+* Duration of gastroscopy
+* Use of sedation
+* Length of Barrett's, using the Prague criteria
+* Presence / absence and location of islands of Barrett's (distance in cm from incisor and clock face direction in endoscope neutral position)
+* Presence of endoscopically visible inflammation
+* For targeted biopsies
+
+  * Location, size, morphology, optical diagnosis of each neoplastic area (grade of dysplasia or cancer)
+  * CAD positive or negative
+
+    * If positive, agreement/disagreement with endoscopist to biopsy to rule out neoplasia
+    * If not, reason for disagreement (counted as false positive)
+* For quadrantic biopsies
+
+  * Location of biopsies and indication of whether it is part of the neoplasia detected by AI and/or endoscopist
+
+Post procedure
+
+After gastroscopy, patients remain in standard care. At this point all histology results (from targeted and mapping biopsies) will be processed and released as soon as possible. This will result in a delay of a maximum of eight weeks for histology to become available. Cancer is usually clinically obvious and it would be unlikely to be missed at gastroscopy during the study, and where obvious invasive cancer is suspected, samples will be sent as urgent and immediate referral for treatment made. Unexpected cancer found in histopathology specimens would again result in immediate referral for treatment via the established NHS cancer pathways with the patient leaving the study. Therefore, clinical care would not be compromised.

@@ -1,0 +1,26 @@
+Ponatinib for Patients Whose Advanced Solid Tumor Cancer Has Activating Mutations Involving the Following Genes: FGFR1, FGFR2, FGFR3, FGFR4, RET, KIT.
+This phase II trial studies how well ponatinib hydrochloride works in treating patients with cancer that has spread to other parts of the body (metastatic), has failed previous treatment (refractory), and has one of several alterations, or mutations, in its deoxyribonucleic acid (DNA) sequence. Ponatinib hydrochloride may stop the growth of cancer cells by blocking some of the enzymes needed for cell growth. It is not yet known whether a patient's genetic alterations may affect how well ponatinib hydrochloride works.
+Malignant Neoplasm
+DRUG: ponatinib hydrochloride|OTHER: laboratory biomarker analysis
+Overall Response, Defined as the Number of Patients Who Achieve Any Response According to Disease Type in the First 6 Courses of Treatment, The proportion of responses for the purposes of the decision rule will be calculated out of all eligible patients who receive any treatment. Assuming the number of responses is binomially distributed, 95% binomial confidence intervals will also be calculated for the estimate of the proportion of responses. Response for tumors was assessed using the RECIST 1.1 criteria (using computed tomography \[CT\] scans), where response was defined as a partial or complete response., Up to 6 months
+Percentage of Participants With Adverse Events, Defined as Adverse Events That Are Classified as Either Possibly, Probably, or Definitely Related to Study Treatment Per National Cancer Institute Common Terminology Criteria for Adverse Events Version 4.0, Frequency and severity of adverse events will be collected and summarized by descriptive statistics. The maximum grade for each type of toxicity will be recorded for each patient, and frequency tables will be reviewed to determine toxicity patterns for each of the cohorts as well as across cohorts. In addition, all adverse event data that is graded as 3, 4, or 5 will be reviewed and classified as either "unrelated" or "unlikely to be related" to study treatment in the event of an actual relationship developing., Up to 30 days after last dose of study drug, up to a total of 6 years|Tolerability of the Regimen, Assessed by the Number of Patients Who Required Dose Modifications and/or Dose Delays, Collected and summarized by descriptive statistics., Up to 30 days after last dose of study drug|Overall Survival, Kaplan-Meier curves will be used to estimate the survival distribution., The time from treatment initiation to death, assessed up to 72 months|Progression Free Survival, Kaplan-Meier curves will be used to estimate the survival distribution., The time from treatment initiation to progression or death, assessed up to 2 years|Clinical Benefit Rate (CBR), Calculated by the number of patients who have achieve a response and/or are progression-free and alive at 6 months divided by the total number of evaluable patients. Exact binomial 95% confidence intervals for CBR will be calculated., 6 months
+Correlative Gene and Protein Markers, Correlative gene and protein markers will be summarized univariately in a quantitative manner and also summarized by clinical outcome group (e.g. response vs. no response). Graphical analyses will be largely used to assess potential patterns and relationships; e.g. side-by-side boxplots to assess differences in continuous marker levels between those with vs. without the clinical improvement (e.g. response vs. no response). Overall, hypothesis testing will largely be avoided given the sample size limitations., Up to 3 years (time of progression)
+PRIMARY OBJECTIVES:
+
+I. To evaluate the response of ponatinib (ponatinib hydrochloride) in patients with fibroblast growth factor receptor (FGFR) altered cancers.
+
+SECONDARY OBJECTIVES:
+
+I. To assess the safety and tolerability of ponatinib in advanced solid tumors with genomic FGFR alterations.
+
+II. To assess progression free survival (PFS) and overall survival (OS) with ponatinib.
+
+III. To determine candidate genomic and proteomic biomarkers of sensitivity and resistance to ponatinib using unbiased high throughput approaches (exome, transcriptome, reverse phase protein array \[RPPA\]).
+
+IV. To assess response of ponatinib in advanced cancers with subsets of genomic FGFR alterations (fusions vs. amplifications vs. mutations).
+
+OUTLINE:
+
+Patients receive ponatinib hydrochloride orally (PO) once daily (QD) on days 1-28. Courses repeat every 28 days in the absence of disease progression or unacceptable toxicity.
+
+After completion of study treatment, patients are followed up for 52 weeks.

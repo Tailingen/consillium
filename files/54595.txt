@@ -1,0 +1,37 @@
+Dasatinib in Treating Patients With Previously Treated Malignant Mesothelioma
+RATIONALE: Dasatinib may stop the growth of tumor cells by blocking some of the enzymes needed for cell growth.
+
+PURPOSE: This phase II trial is studying how well dasatinib works in treating patients with previously treated malignant mesothelioma.
+Malignant Mesothelioma
+DRUG: dasatinib
+24 Week Progression Free Survival, Percentage of participants who were alive and progression free at 24 weeks. The 24 week progression free survival, with 95% confidence interval, was estimated using the Kaplan Meier method., 24 weeks
+Number of Participants With Overall Tumor Response, Response was defined using Response Evaluation Criteria In Solid Tumors (RECIST) criteria:
+
+* Complete Response (CR): disappearance of all target lesions;
+* Partial Response (PR) 30% decrease in sum of longest diameter of target lesions;
+* Progressive Disease (PD): 20% increase in sum of longest diameter of target lesions;
+* Stable Disease (SD): small changes that do not meet above criteria.
+
+Overall tumor response is the total number of CR and PRs., Duration of study until progression (up to 3 years)|Overall Survival, Overall survival (OS) was defined as the time from registration to death of any cause. Surviving patients were censored at the date of last follow-up. The median OS with 95% CI was estimated using the Kaplan Meier method., Time from registration to death (up to 3 years)|Progression Free Survival, Progression free survival (PFS) was defined as the time from registration to progression or death of any cause. Progression free and alive patients were censored at the date of last follow-up. The median PFS with 95% CI was estimated using the Kaplan Meier method., Time from registration to progression or death (up to 3 years)
+OBJECTIVES:
+
+Primary
+
+* To determine the rate of progression-free survival (PFS) at 24 weeks (or 5.5 months) in patients with malignant mesothelioma treated with dasatinib.
+
+Secondary
+
+* To determine the response rate (partial response \[PR\] and complete response \[CR\]) in patients with malignant mesothelioma treated with dasatinib.
+* To determine the response duration in patients with malignant mesothelioma treated with dasatinib.
+* To describe the overall survival (OS) of patients with malignant mesothelioma treated with dasatinib.
+* To describe the toxicity profile of dasatinib in patients with malignant mesothelioma.
+* To determine whether the amount of expression of EphA2 and PDGFRβ, as measured by immunohistochemistry from tumor specimens, correlates with PFS in patients with malignant mesothelioma.
+* To determine whether plasma levels of VEGF and PDGFRβ, serum levels of CSF-1, and soluble mesothelin-related protein correlate with PFS in patients with malignant mesothelioma.
+* To determine whether inhibition of Src phosphorylation in PBMC correlates with PFS.
+* To assess inhibition of phosphorylation of Src, EphA2, and PDGFRβ in tumor tissue by dasatinib.
+
+OUTLINE: Patients receive oral dasatinib twice daily on days 1-28. Treatment repeats every 28 days in the absence of disease progression or unacceptable toxicity.
+
+Patients undergo tumor tissue and blood sample collection periodically for correlative studies. Tumor tissue samples are analyzed for EphA2 and PDGFRβ expression by immunohistochemistry. Tumor tissue samples may also be analyzed for phosphorylation of Src, EphA2, and PDGFRβ by western blot. Blood samples are analyzed for concentration of VEGF and PDGF by quantitative sandwich enzyme immunoassay technique; mesothelin-related protein level by Mesomark® assay; CSF-1 level by ELISA assay; and phosphorylation of Src by phospho-Src (pTyr418) human ELISA.
+
+After completion of study treatment, patients are followed at least every 2 months for 1 year, then every 4 months for 1 year, then every 6 months for 1 year.

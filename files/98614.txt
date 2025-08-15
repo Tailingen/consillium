@@ -1,0 +1,18 @@
+Investigating How Childhood Tumours and Congenital Disease Develop
+Every cell and every organ in the human body derives from a fertilised egg. As the fertilised egg divides, a human being develops and grows. The process of how the fertilised egg divides and forms a human being is very sophisticated and is directed by the genetic information, the DNA, that is present in every cell.
+
+When errors, mutations, in the DNA code arise, the orderly process of human development can be disrupted. This can lead to the development of tumours during childhood and congenital diseases (that is, abnormalities that children are born with).
+
+The aim of this study is to define exactly which DNA errors underpin childhood tumours and congenital diseases.
+Childhood Tumor|Congenital Disorders
+OTHER: sample collection|OTHER: Seeking consent and assent
+Description of the genetic mutations of each tumour and congenital anomaly., For each tumour a catalogue of mutations will be derived from sequencing reads. The catalogues will be compared across tumour types / anomalies to identify the mutations that drive individual tumour types / anomalies. The life history of each tumour / anomaly will be determined.
+
+Methylation data will be analysed to derive a methylation profile for each tumour. The profiles of individual tumours will then be compared with each other to see whether tumour-type specific methylation profiles exist., 9.5 years
+Cancers and some congenital anomalies are caused by changes (mutations) in the genetic code (DNA) of cells. The use of Next Generation Sequencing (NGS) has enabled the study of the genetic changes that underpin these diseases, genome wide and at base pair resolution.
+
+A key question about the molecular pathogenesis of a range of childhood tumours and congenital anomalies that remains unanswered is the order in which the different mutations arise. To define the order in which mutations arise, the investigators will need to reconstruct the life history of individual tumours / anomalies. This can be achieved by segregating the major clone ('ancestral' cell) from sub-clones or by studying multiple areas from the same lesion. Although this approach allows timing of mutations to some degree, in childhood tumours and congenital lesions this approach is fundamentally limited by the inability to define embryonic mutations. The basis of the limitation is that the lesions in question is conventionally compared to the patient's germline (the genetic information they have from birth). In such a comparison embryonic mutations will be misclassified as either germline or somatic (acquired).
+
+To overcome this limitation one would have to compare the lesion to the parental germline.
+
+Thus, here this study proposes to perform the first NGS study of childhood tumours and congenital anomalies, focusing on defining the embryonic pathogenesis. A unique feature of this study will be that lesions will be compared to the parental germline to define embryonic mutations. A focus of the analysis will be to define order in which mutations arise.

@@ -1,0 +1,12 @@
+Optimising Renal Tumour Management Through Artificial Intelligence Modules
+The goal of this observational study is to improve the management of people with renal tumour by multimodal artificial intelligence(AI). It will also measure the accuracy of the predictions from AI models. The main questions it aims to answer are:
+
+1. whether the AI module can accurately provide tumor-related information such as Benign or malignant, subtypes, grading, stage, etc. by learning from preoperative CT images.
+2. whether the AI module can help clinicians find out the most suitable surgical programme for people with renal tumor.
+3. whether the AI module can integrate CT images and pathology slides, offering supplementary prognostic information to improve postoperative survival.
+
+Participants who complete a CT(usually Contrast-enhanced CT, CECT) examination and undergo radical or partial nephrectomy will carry out active surveillance and record postoperative survival data for 5 years.
+Renal Neoplasms|Pathology|Renal Cell Cancer
+Assessing the performance of AI models by the "AUC" comprehensive assessment model, "AUC" refers to the area under the ROC (Receiver Operating Characteristic) curve, which indicates the performance of the model in predicting immunohistochemistry-related pathological information of prostate cancer after surgery, and the AUC ranges from 0-1, with the larger value indicating the better prediction effect., From enrollment to the end of 5-years' follow up
+Assessing the model's performance to predict participants' prognosis post-surgery by Kaplan-Meier Survival Analysis, Kaplan-Meier Survival Analysis s a non-parametric statistic mainly used to figure out factors which indicate survival., From enrollment to the end of 5-years' follow up
+In this study, AI model will explore and clarify features in renal tumor CT images and pathological images that are difficult to detect manually, and then correlate them with clinical outcomes, thereby improving the diagnosis and treatment process for renal tumors. Firstly, the model can accurately distinguish renal tumor subtypes and predict stage, grade, and complexity so as to svoid misdiagnosis and assist clinicians in formulating treatment plans. Secondly, by learning from surgical videos, the model can provide additional information during surgerys, such as important anatomical landmarks, location of tumors. Finally, combining radiomics and pathomics, the model can differentiate between high-risk and low-risk patients after surgery, thus providing personalized prognostic guidance.

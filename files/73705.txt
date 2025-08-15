@@ -1,0 +1,25 @@
+Testing AZD1775 in Advanced Solid Tumors That Have a Mutation Called SETD2
+This phase II trial studies how well adavosertib works in treating patients with SETD2-deficient solid tumors that have spread to other places in the body (advanced/metastatic). Adavosertib may stop the growth of tumor cells by blocking some of the enzymes needed for cell growth.
+Clear Cell Renal Cell Carcinoma|Locally Advanced Clear Cell Renal Cell Carcinoma|Locally Advanced Malignant Solid Neoplasm|Metastatic Malignant Solid Neoplasm|Metastatic Renal Cell Carcinoma|Stage III Renal Cell Cancer AJCC v8|Stage IV Renal Cell Cancer AJCC v8
+DRUG: Adavosertib
+Objective response rate, Will be assessed by Response Evaluation Criteria in Solid Tumors (RECIST) 1.1 criteria. The median duration of response will be descriptively reported using Kaplan-Meier product limit method along with 95% confidence interval. The objective response rate between cohorts will be compared using the chi-squared test., Up to 2 years
+Clinical benefit rate, Will be defined as patients who experience either objective response or stable disease for \>= 6 months from start of study treatment. The clinical benefit rate across the entire study cohort will be descriptively reported along with 95% confidence interval., Up to 2 years|Duration of response, The median duration of response will be descriptively reported using Kaplan-Meier product limit method along with 95% confidence interval., Up to 2 years|Incidence and severity of adverse events, Will be graded by Common Toxicity Criteria version 5.0, will be descriptively reported for the safety-evaluable population., Up to 2 years|H3K36me3 mark, Will be assessed by immunohistochemistry., Up to 2 years|Progression free survival, The median progression-free survival for each cohort will be determined using the Kaplan-Meier product limit method and compared between cohorts using the log-rank test., Up to 2 years
+PRIMARY OBJECTIVES:
+
+I. To determine the objective response rate by Response Evaluation Criteria in Solid Tumors (RECIST) 1.1 criteria of adavosertib (AZD1775) in advanced solid tumor malignancies other than clear cell renal cell carcinoma with evidence of pathogenic loss of SETD2 using next-generation sequencing panel.
+
+II. To determine the objective response rate by RECIST 1.1 criteria of AZD1775 in clear cell renal cell carcinoma with evidence of loss of SETD2 using next-generation sequencing panel.
+
+SECONDARY OBJECTIVES:
+
+I. To determine the clinical benefit rate and duration of response of AZD1775 in SETD2-deficient tumors other than clear cell renal cell carcinoma.
+
+II. To determine the clinical benefit rate and duration of response of AZD1775 in SETD2-deficient clear cell renal cell carcinoma subgroup.
+
+III. To characterize the safety profile of AZD1775. IV. To determine whether H3K36me3 expression by immunohistochemical assay is associated with clinical outcomes.
+
+OUTLINE:
+
+Patients receive adavosertib orally (PO) once daily (QD) on days 1-5 and 8-12. Cycles repeat every 21 days in the absence of disease progression or unacceptable toxicity.
+
+After completion of study treatment, patients are followed up for 30 days.

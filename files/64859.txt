@@ -1,0 +1,31 @@
+Ipilimumab With or Without Bevacizumab in Treating Patients With Stage III-IV Melanoma That Cannot Be Removed by Surgery
+This randomized phase II trial studies how well ipilimumab with or without bevacizumab works in treating patients with stage III-IV melanoma that cannot be removed by surgery. Immunotherapy with monoclonal antibodies, such as ipilimumab and bevacizumab, may help the body's immune system attack the cancer, and may interfere with the ability of tumor cells to grow and spread.
+Stage IIIC Cutaneous Melanoma AJCC v7|Stage IV Cutaneous Melanoma AJCC v6 and v7|Unresectable Melanoma
+BIOLOGICAL: Bevacizumab|BIOLOGICAL: Ipilimumab
+Overall Survival (OS), OS distributions will be estimated using the Kaplan-Meier method. The distribution of OS will be compared using the stratified log rank test with one-sided overall type I error rate of 0.100 (adjusting for the one interim analysis) and the hazard ratio of OS will be estimated using the stratified Cox proportional hazard model and one-sided 90% repeated confidence interval will be constructed., Time from randomization to death from any cause, assessed up to 5 years
+Progression-free Survival (PFS), Evaluated based on international criteria proposed by the Response Evaluation Criteria in Solid Tumors (RECIST) guideline (version 1.1). Progression is defined as at least a 20% increase in the sum of the diameters of target lesions, taking as reference the smallest sum on study (this includes the baseline sum if that is the smallest on study). In addition to the relative increase of 20%, the sum must also demonstrate an absolute increase of at least 5 mm. (Note: The appearance of one or more new lesions is also considered progression). Will be estimated using the Kaplan-Meier method. PFS distributions will be compared using the log-rank test., Time from randomization to disease progression or death (whichever occurs first), assessed up to 5 years|Clinical Response Rate, Clinical Response Rate is defined as the percentage of patients whose tumors have a complete response (CR) or partial response (PR) to treatment. Defined by Response Evaluation Criteria in Solid Tumors version 1.1. CR: Disappearance of all target lesions. Any pathological lymph nodes (whether target or non-target) must have reduction in short axis to \<10 mm. PR: At least a 30% decrease in the sum of the diameters of target lesions, taking as reference the baseline sum diameters., Up to 5 years|Incidence of Adverse Events (AE), Treatment-related grade 3-5 worst degree AEs rate. Defined using the Common Terminology Criteria for Adverse Events version 4.0 criteria (version 5.0 effective April 1,2018)., Up to 90 days after completion of study treatment, up to 5 years post-registration.|Immune-related (ir) Responses Rate (Ir-CR+Ir-PR), Assessed using the utility of irRC. Immune-Related Complete Response (irCR): Complete disappearance of all tumor lesions (target and non-target together with no new measurable/unmeasurable lesions) for at least 4 weeks from the date of documentation of complete response. Immune-Related Partial Response (irPR): The sum of the products of the two largest perpendicular diameters of all target lesions is measured and captured as the SPD baseline. At each subsequent tumor assessment, the SPD of the two largest perpendicular diameters of all target lesions and of new measurable lesions are added together to provide the Immune Response Sum of Product Diameters (irSPD). A decrease, relative to baseline of the irSPD compared to the previous SPD baseline, of 50% or greater is considered an immune Partial Response (irPR)., Up to 5 years
+PRIMARY OBJECTIVES:
+
+I. To compare overall survival for patients receiving ipilimumab plus bevacizumab versus ipilimumab alone.
+
+SECONDARY OBJECTIVES:
+
+I. To evaluate the progression free survival, response rate and safety in patients receiving ipilimumab plus bevacizumab versus ipilimumab alone.
+
+II. To evaluate the utility of immune related response criteria (irRC) in patients receiving ipilimumab plus bevacizumab versus ipilimumab alone.
+
+OUTLINE: Patients are randomized to 1 of 2 arms.
+
+ARM A:
+
+INDUCTION THERAPY: Patients receive ipilimumab intravenously (IV) over 90 minutes on day 1. Treatment repeats every 21 days for 4 cycles in the absence of disease progression or unacceptable toxicity.
+
+MAINTENANCE THERAPY: Beginning cycle 8, patients receive ipilimumab IV over 90 minutes on day 1. Cycles repeat every 12 weeks in the absence of disease progression or unacceptable toxicity.
+
+ARM B:
+
+INDUCTION THERAPY: Patients receive ipilimumab IV over 90 minutes and bevacizumab IV over 30-90 minutes on day 1. Treatment repeats every 21 days for 4 cycles in the absence of disease progression or unacceptable toxicity.
+
+MAINTENANCE THERAPY: Patients receive bevacizumab as in Induction Therapy. Beginning cycle 8, patients also receive ipilimumab IV over 90 minutes on day 1. Cycles repeat every 12 weeks in the absence of disease progression or unacceptable toxicity.
+
+After completion of study treatment, patients are followed up for 5 years.

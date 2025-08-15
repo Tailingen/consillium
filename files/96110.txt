@@ -1,0 +1,28 @@
+MK2206 and Paclitaxel in Treating Patients With Locally Advanced or Metastatic Solid Tumors or Metastatic Breast Cancer
+This phase I trial studies the side effects and best dose of Akt inhibitor MK2206 (MK2206) when given together with paclitaxel and to see how well they work in treating patients with solid tumors that have spread to other places in the body and usually cannot be cured or controlled with treatment or breast cancer that has spread to other places in the body. Akt inhibitor MK2206 may stop the growth of tumor cells by blocking some of the enzymes needed for cell growth. Drugs used in chemotherapy, such as paclitaxel, work in different ways to stop the growth of tumor cells, either by killing the cells, by stopping them from dividing, or by stopping them from spreading. Giving Akt inhibitor MK2206 and paclitaxel may be a better treatment for solid tumors or breast cancer.
+Adult Solid Neoplasm|Recurrent Breast Carcinoma|Stage IV Breast Cancer
+DRUG: Akt Inhibitor MK2206|OTHER: Laboratory Biomarker Analysis|DRUG: Paclitaxel|OTHER: Pharmacological Study
+Antitumor activity of the combination in metastatic breast cancer (Expansion phase), Up to 3 weeks after completion of study treatment|MTD of the combination of MK-2206 and paclitaxel defined as the dose level in which less than or equal to 1 out of 6 patients develop dose limiting toxicity assessed using Common Terminology Criteria for Adverse Events version 4 (Phase I), 21 days
+Change in average number of circulating tumor cells (CTCs), Will be determined by chi-square analysis or Fisher's Exact test and compared by Student t-test., Baseline to up to 2 weeks|Change in multiplex proteomics, Baseline to up to day 17|Change in percentage of biomarkers assessed using immunohistochemistry, Baseline to up to 2 weeks|Change in percentage of marker of proliferation Ki-67 (Ki-67) positive cells, Will be calculated using a two-sided one-sample t-test, at a significance level of 0.05., Baseline to up to 2 weeks|Change in reverse phase proteomic arrays (RPPA), Will be analyzed using the Wilcoxon rank test., Baseline to up to day 8|Pharmacokinetic parameters of Akt inhibitor MK2206, Standard analyses for the pharmacokinetic endpoints will be conducted, including summary of descriptive measures, e.g., tabulation of frequencies for categorical variables, numerical (mean, range, standard deviation, 95% confidence intervals) and graphical (box plots, histograms) summary of the distribution for continuous endpoints, correlation analyses (Pearson and Spearman), and linear and nonlinear regression analyses, etc., On days 1-3, 5, 8, 16, 17, and 19 of course 1 and then on day 1 of all subsequent courses|Pharmacokinetic parameters of paclitaxel, Standard analyses for the pharmacokinetic endpoints will be conducted, including summary of descriptive measures, e.g., tabulation of frequencies for categorical variables, numerical (mean, range, standard deviation, 95% confidence intervals) and graphical (box plots, histograms) summary of the distribution for continuous endpoints, correlation analyses (Pearson and Spearman), and linear and nonlinear regression analyses, etc., On days 1, 2, 15, and 16 of course 1
+Change in expression of plasma markers, The marker expression will be compared by Student t-test., Baseline to up to day 17|PIK3CA mutation status, Chi-square or Fisher's exact status will be used to calculate associations between PIK3CA status and clinical parameters., Up to day 17|Prevalence of single nucleotide polymorphisms (SNPs) in PI3K pathway genes, Descriptive analysis will be performed., Up to day 17
+PRIMARY OBJECTIVES:
+
+I. To determine the maximum tolerated dose (MTD) of the combination of MK-2206 and weekly paclitaxel. (Dose-escalation phase) II. To determine the safety and anti-tumor activity of the combination in metastatic breast cancer. (Expansion phase)
+
+SECONDARY OBJECTIVES:
+
+I. To determine the pharmacokinetics of MK-2206 and weekly paclitaxel used in combination.
+
+II. To determine the safety of MK-2206 and weekly paclitaxel used in combination.
+
+III. To evaluate the toxicities and tolerability of the combination. IV. To document anti-tumor activity. V. To determine baseline molecular markers that may predict clinical activity. VI. To determine pharmacodynamic markers in blood and tumor tissue that may predict an increase in apoptosis (by cleaved caspase 3) and clinical activity.
+
+VII. To determine concordance of phosphatidylinositol-4,5-bisphosphate 3-kinase, catalytic subunit alpha (PIK3CA) and phosphatase and tensin homolog (PTEN) status between primary tumor and distant metastasis.
+
+VIII. To determine concordance of PIK3CA status of circulating tumor cells and distant metastasis.
+
+OUTLINE: This is a dose-escalation study of Akt inhibitor MK2206.
+
+Patients receive paclitaxel intravenously (IV) over 1 hour on days 1, 8, and 15 and Akt inhibitor MK2206 orally (PO) once daily (QD) on days 2, 9, and 16. Courses repeat every 21 days in the absence of disease progression or unacceptable toxicity.
+
+After completion of study treatment, patients are followed up for 3 weeks.

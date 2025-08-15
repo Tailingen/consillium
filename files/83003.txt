@@ -1,0 +1,34 @@
+64Cu-TLX592 Phase I Safety, PK, Biodistribution and Dosimetry Study (CUPID Study)
+This is a Phase 1 trial of TLX592, a humanised, engineered monoclonal antibody HuX592r conjugated with a DOTA chelator and radiolabelled with 64Cu (64Cu-TLX592). TLX592 is being developed as a PSMA-targeting antibody to be radiolabelled with a therapeutic radiosotope for the treatment of PSMA-expressing tumours, therefore this study has been designed to assess the safety and tolerability, pharmacokinetics, whole body biodistribution and radiation dosimetry of 64Cu-TLX592.
+Metastatic Prostate Cancer
+DRUG: 64Cu-DOTA-TLX592
+Number of Participants With Treatment-Related Adverse Events as Assessed by CTCAE v5.0, Treatment emergent adverse events (TEAE) will be classified according to MedDRA (Medical Dictionary for Regulatory Activities), frequency, severity according to NCI CTCAE V5.0, seriousness, and relationship of study treatment will be assessed. Laboratory abnormalities will be assessed according to the NCI CTCAE v.5.0, Day 1 to 28|Pharmacokinetics of 64Cu-TLX592, Patient plasma samples at 0h, 1h, 4 ± 0.5h, 20 ± 4h and 48 ± 4h after the administration of 64Cu-TLX592 will be counted for radioactivity., Day 1-4 after a single administration of 64Cu-TLX592|Biodistribution of 64Cu-TLX592, On Days 0, Day 1 and potentially at 36-120h after administration of the investigational product, the biodistribution and tumour imaging will be performed. An end of study visit will be conducted on Day 28 ± 2 days. 64Cu-TLX592 images will be centrally analysed for absorbed organ and whole body doses in a standardised fashion. In addition, tumour absorbed doses will be determined for scientific purposes (estimation of achievable tumour doses of therapeutic nuclides labelled to TLX592), Up to 24h after a single administration of 64Cu-TLX592|Dosimetry of 64Cu-TLX592, For dosimetry analysis, biodistribution whole body PET/CT imaging will be performed at 1h, 4 ± 0.5h, 20 ± 4h, with the option for a an additional two scans to be performed between the 36-120 hours., Up to 5 days after a single administration of 64Cu-TLX592
+Optimal antibody dose of TLX592, The optimal antibody mass dose and its effect on the biological clearance of 64Cu- TLX592 from blood and radiation dose to tumour will be conducted on Day 0, Day 1 and potentially at 36-120h. The optimal antibody mass dose will be performed using gated or list mode acquisition, for generation of sub-partitioned data. Such data will allow the mathematical generation of statistically independent images for various dose levels, based on the actual dose administered in the trial., Single diagnostic administration 1 day, followed by a diagnostic scan on Day 1|Comparison of PSMA-targeting of different PMSA-imaging agents, To evaluate the comparability of PET images and PSMA-targeting characteristics between 64Cu-TLX592 and 68Ga-PSMA-11 and 18F-DCFPyl PSMA imaging agents., Single diagnostic administration 1 day, followed by a diagnostic scan on Day 1.
+The optimisation dose and imaging conditions will be conducted in prostate cancer patients with with oligometastatic disease ( (defined as 5 sites or less outside of the prostate bed). On determining the optimal dose and imaging conditions, an additional cohort of patients with a higher tumour burden such as multiple metastatic sites across ≥10 regions will be assessed.
+
+Study conduct:
+
+Nine, prostate cancer patients with oligometastatic disease as detected using 68Ga-PSMA-11 or 18F-DCFPyl PSMA PET/CT scanning (defined as 5 sites or less outside of the prostate bed) will be randomised to one of three treatment groups to receive a single injection of:
+
+* Group 1: 2mg of TLX592, labelled with 300 MBq (± 10%) 64Cu.
+* Group 2: 2mg of TLX592, labelled with 300 MBq (± 10%) 64Cu combined with 8mg of unlabelled TLX592 (mass dose of 10mg).
+* Group 3: 2mg of TLX592, labelled with 300 MBq (± 10%) 64Cu combined with 18mg of unlabelled TLX592 (mass dose of 20mg). If one of the three patients in a specific group experiences a dose-limiting toxicity, three more patients will be treated at the same dose level.
+
+Patients with a higher tumour burden such as multiple metastatic sites across ≥10 regions \[regions: prostate bed, pelvic lumph nodes, skeleton, distant sites (including viscera)\] as detected on 68Ga-PSMA or 18F-DCFPyl PMSA imaging agent will be allocated to a fourth group.
+
+• Group 4: based on the result of Groups 1-3, the optimal dose and imaging timepoints will be selected to treat 3 patients with higher tumour burden (≥10 metastatic sites and/or visceral disease as detected on a 68Ga-PSMA-11 or 18F-DCFPyl PSMA PET/CTscan).
+
+For dosimetry analysis, biodistribution whole body PET/CT imaging will be performed at 1, 4 ± 0.5h, 20 ± 4h, with the option for a an additional two scans to be performed between the 36-120 hours post administration of the investigational product. The additional scans after the 20h timepoint will be at the discretion of the investigator. Patients will be imaged on a Siemens Biographe scanner, offering the possibility of TOF (time-of-flight) and non-TOF reconstruction.
+
+Comparative tumour PET/CT imaging:
+
+On Days 0, 1 and potentially at 36-120h the biodistribution and tumour imaging will be performed using gated or list mode acquisition, for generation of sub-partitioned data.Such data will allow the mathematical generation of statistically independent images for various dose levels, based on the actual dose administered in the trial.
+
+An end of study visit will be conducted on Day 28 ± 2 days. 64Cu-TLX592 images will be centrally analysed for absorbed organ and whole body doses in a standardised fashion. In addition, tumour absorbed doses will be determined for scientific purposes (estimation of achievable tumour doses of therapeutic nuclides labelled to TLX592). All image data analyses will be performed / confirmed centrally.
+
+Pharmacokinetic analysis:
+
+Blood samples will be taken at the following times and counted in a gamma counter:
+
+* Pre-dose
+* 1, 4 ± 0.5h, 20 ± 4h and 48 ± 4h after the administration of 64Cu-TLX592.

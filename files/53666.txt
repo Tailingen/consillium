@@ -1,0 +1,41 @@
+S1211 Bortezomib, Dexamethasone, and Lenalidomide With or Without Elotuzumab in Treating Patients With Newly Diagnosed High-Risk Multiple Myeloma
+This partially randomized phase I/II trial studies the side effects and best dose of elotuzumab and to see how well it works when given together with lenalidomide, bortezomib, and dexamethasone in treating patients with newly diagnosed multiple myeloma that is likely to recur (come back), or spread (high-risk). Lenalidomide and bortezomib may stop the growth of multiple myeloma by blocking blood flow to the tumor. Also, bortezomib may stop the growth of tumor cells by blocking some of the enzymes needed for cell growth. Drugs used in chemotherapy, such as lenalidomide and dexamethasone, also work in different ways to kill cancer cells, by stopping them from dividing, or by stopping them from spreading. Giving elotuzumab together with lenalidomide, bortezomib, and dexamethasone may be a better way to block cancer growth.
+DS Stage I Plasma Cell Myeloma|DS Stage II Plasma Cell Myeloma|DS Stage III Plasma Cell Myeloma
+DRUG: Bortezomib|DRUG: Dexamethasone|BIOLOGICAL: Elotuzumab|OTHER: Laboratory Biomarker Analysis|DRUG: Lenalidomide
+Phase I: Maximum Tolerated Dose (MTD) of Elotuzumab in Combination With Bortezomib, Lenalidomide and Dexamethasone, Assess safety of elotuzumab in combination with bortezomib, lenalidomide and dexamethasone and select the optimal dose of elotuzumab for the Phase II portion from 10mg/kg on each cycle, to 5mg/kg on each cycle MTD reflects the highest dose that had a dose-limiting toxicity (DLT) rate of ≤ 1/6 participants. DLTs were defined as treatment regimen related: grade ≥ 3 non-hematologic toxicity; grade 3 nausea or diarrhea despite anti-emetic and anti-diarrheal therapy; grade 3 hyperglycemia if symptomatic or glucose level \> 300mg/ml despite insulin and/or oral diabetic therapy; grade 4 neutropenia ≥ 7 days or grade 3/4 neutropenia with fever (≥ 38.5 oC); grade 4 thrombocytopenia ≥ 7 days or associated with hemorrhage; delay of treatment with any agent by \> 2 weeks due to drug related toxicity.
+
+DLT were graded using the NCI CTCAE version 4.0
+
+Note:
+
+i) the second, lower dose level was not tested as the first dose level was deemed safe ii) 6 participants were evaluable at phase I analysis, time from first participants randomized until at least 6 patients were evaluable for DLTs. DLTs were assessed only during Cycle 1 (21 days)|Progression-free Survival, From date of registration to date of first documentation of progression or death due to any cause.
+
+Per the International Uniform Response Criteria for Multiple Myeloma, progression is defined as \>=1 of Serum M protein increase \>= 25% from lowest response level, with an absolute increase of \>= 0.5g/dL; Urine M protein increase \>= 25% from lowest response level, with an absolute increase of \>= 200 mg/24 hrs; If participant had serum M protein \<1 g/dL, urine M protein \<200 mg/24 hrs, and an involved serum free light chain level \>= 10mg/dL at baseline: \>= 25% increase in the difference between involved and uninvolved serum free light chain level with an absolute increase of \>= 10 mg/dL; Bone marrow plasma cell % increase =25% from baseline with the absolute plasma cell % \>=10%; New bone lesions or soft tissue plasmocytomas, or definite increase in size of existing bone lesions or soft tissue plasmocytomas; Development of hypercalcemia that can be attributed solely to multiple myeloma, Up to 6 years post registration
+Number of Participants With Gr 3 Through 5 Adverse Events That Are Related to Study Drugs, Adverse Events (AEs) are reported by CTCAE Version 4.0. Only adverse events that are possibly, probably or definitely related to study drug are reported., Duration of treatment and follow up until death or 6 years post registration, whichever occurs first.|Overall Survival, From date of registration to date of death due to any cause, Up to 6 years post registration|Response (Partial Response [PR] or Better) Rate, Percentage of participants with PR or better to treatment per the International Uniform Response Criteria for Multiple Myeloma stringent Complete Response- CR criteria + normal serum free light chain (FLC) ratio + absence of clonal cells in bone marrow (BM) by immunohistochemistry or immunofluorescence CR- Negative immunofixation (IFX) on serum \& urine M proteins + \<5% plasma cells in BM + disappearance of soft tissue plasmocytomas (STP) very good PR- PR criteria + serum \& urine M proteins detectable by IFX but not on electrophoresis or \>=90% reduction (RED) in serum M protein \& urine M protein \<100 g/24 hrs PR- \>=50% RED in size of STP, if present at baseline \& \>=50% RED in plasma cells, if \>=30% plasma cells in BM at baseline: \& RED in serum M protein of \>=50% \& in urine M protein of \>= 90% or to 200 mg/24hr OR if serum M protein \<1 g/dL, urine M protein \<200 mg/24 hrs, \& involved serum FLC level \>= 10 mg/dl at baseline: \>= 50% RED in (involved-uninvolved) serum FLC levels, Up to 6 years post registration
+PRIMARY OBJECTIVES:
+
+I. To determine the appropriate Phase II dose of elotuzumab to use in combination with lenalidomide, bortezomib, and dexamethasone for patients with multiple myeloma. (Phase I) II. To assess whether incorporation of the novel agent elotuzumab into the treatment algorithm of high-risk multiple myeloma (HRMM) will improve progression-free survival (PFS). (Phase II) III. To estimate the frequency and severity of toxicities of this treatment strategy in this patient population. (Phase II)
+
+OUTLINE: This is a phase I, dose-escalation study of elotuzumab, followed by a phase II, randomized study.
+
+PHASE I:
+
+INDUCTION: Patients receive bortezomib subcutaneously (SC) or intravenously (IV) on days 1, 4, 8, and 11; lenalidomide orally (PO) once daily (QD) on days 1-14; and dexamethasone PO or IV on days 1, 2, 4, 5, 8, 9, 11, and 12 (and on day 15 of courses 1 and 2 only). Patients also receive elotuzumab IV on days 1, 8, and 15 of courses 1 and 2 and on days 1 and 11 of courses 3-8. Treatment repeats every 21 days for 8 courses in the absence of disease progression or unacceptable toxicity.
+
+MAINTENANCE: Patients receive bortezomib SC or IV on days 1, 8, and 15; lenalidomide PO QD on days 1-21; dexamethasone PO on days 1, 8, and 15; and elotuzumab IV on days 1 and 15. Treatment repeats every 28 days in the absence of disease progression or unacceptable toxicity.
+
+PHASE II: Patients are randomized to 1 of 2 treatment arms.
+
+ARM I:
+
+INDUCTION: Patients receive bortezomib SC or IV on days 1, 4, 8, and 11; lenalidomide PO QD on days 1-14; and dexamethasone PO or IV on days 1, 2, 4, 5, 8, 9, 11, and 12. Treatment repeats every 21 days for 8 courses in the absence of disease progression or unacceptable toxicity (patients who received a course of chemotherapy prior to registration will begin protocol treatment with course 2 and receive a total of 7 courses of protocol therapy).
+
+MAINTENANCE: Patients receive bortezomib SC or IV on days 1, 8, and 15; lenalidomide PO QD on days 1-21; and dexamethasone PO on days 1, 8, and 15. Courses repeat every 28 days in the absence of disease progression or unacceptable toxicity.
+
+ARM II:
+
+INDUCTION: Patients receive bortezomib, lenalidomide, and dexamethasone as in Arm I. Patients also receive elotuzumab IV on days 1, 8, and 15 of courses 1 and 2 and on days 1 and 11 of courses 3-8. Treatment repeats every 21 days for 8 courses in the absence of disease progression or unacceptable toxicity.
+
+MAINTENANCE: Patients receive bortezomib, lenalidomide, and dexamethasone as in Arm I. Patients also receive elotuzumab IV on days 1 and 15. Courses repeat every 28 days in the absence of disease progression or unacceptable toxicity.
+
+After completion of study treatment, patients are followed up every 3 months for up to 6 years.

@@ -1,0 +1,31 @@
+Non-chemotherapeutic Interventions for the Improvement of Quality of Life and Immune Function in Patients With Multiple Myeloma
+This clinical trial investigates the effect of non-chemotherapeutic interventions in patients with multiple myeloma or MDS. Non-chemotherapeutic interventions such as physical activity and nutritional interventions (e.g., modifications in diet) have been shown to positively affect the immune system and improve overall quality of life. Another purpose of this study is for researchers to learn how the addition of a beta-blocker (propranolol) to the standard treatment regimen in patients with newly diagnosed multiple myeloma affects immune response and quality of life. A study from the Mayo Clinic looked at multiple myeloma patients who were on a beta-blocker while undergoing chemotherapy and found that the use of a beta-blocker resulted in improved patient survival outcomes. Non-chemotherapeutic treatment options may help decrease symptoms and improve quality of life for patients with multiple myeloma.
+Plasma Cell Myeloma|Recurrent Plasma Cell Myeloma|Refractory Plasma Cell Myeloma|Smoldering Plasma Cell Myeloma
+BEHAVIORAL: Behavioral Intervention|DRUG: Beta-Adrenergic Antagonist|DRUG: Propranolol|OTHER: Quality-of-Life Assessment|OTHER: Questionnaire Administration|OTHER: Resistance Training|OTHER: Short-Term Fasting
+Changes in immune cell subsets, Will be assessed by flow cytometry, comparing levels before and after one of three lifestyle interventions (physical exercise, intermittent fasting, beta blocker therapy). Will use a linear mixed model. Since the form of the model is unknown a priori, the power calculations are based on comparing any two timepoints using a two-sided paired t-test. With n=100, we have 80% power (at alpha = 0.05/3) to detect a difference of at least 0.33 standard deviations (SD)., At baseline and at 1 year
+Changes in the gut microbiome, Fecal samples will be collected and compared from group with physical exercise,compared to group doing intermittent fasting)., At 1 and 3 months|Comparison in bone markers, Will be assessed from intermittent fasting serum samples compared to serum samples of those doing physical exercise., At 1 and 3 months|Changes in body composition, Dexa (bone density scan) will be performed at 1 and 3 months, 3 months|Changes in stress, Significant differences among groups in the mean Perceived Stress Scale (PSS) score, which measures the stress severity perceived by the subjects in the last month. The scale is constituted by 10 items that are self-rated by the subject on a 0-4 Likert scale. The scale minimum total score is 0, the maximum is 40. Higher total scores indicate a worse outcome, At 1 and 3 months|Changes in anxiety, As assessed by the Generalized Anxiety Disorder 7-item Scale, At 1 and 3 months|Changes in fatigue as assessed by EORTC-LQLQ-FA12, 12-item multidimensional fatigue questionnaire.The scale scores from 1 to 4: 1 ("Not at all"), 2 ("A little"), 3 ("Quite a bit") and 4 ("Very much"). The range is 3. For the raw score, less points are considered to have a better outcome., At 1 and 3 months|Change in functional status, basic assessment of physical activity before diagnosis will be compared to one administered at follow up, At 1 and 3 months|Changes in nutritional behavior before and after intermittent fasting, Will be modeled using a GEE logistic model. Rates of positive nutritional behavior will be compared beween time points., Up to 5 months|Changes in stress-related biomarkers, Will be evaluated using a linear mixed model and will be used to compare mean levels between timepoints., Up to 6 months
+PRIMARY OBJECTIVES:
+
+I. To assess the impact of different lifestyle and low side effect interventions (exercise, nutrition, stress effects reduction) on immune markers in patients with monoclonal plasma cell and other hematologic disorders.
+
+SECONDARY OBJECTIVES:
+
+I. To assess the impact of different lifestyle and low side effect interventions (exercise, nutrition) on bone turnover parameters, body composition, the microbiome and physical fitness in patients with monoclonal plasma cell and other hematologic disorders.
+
+II. To assess the impact of different lifestyle and low side effect interventions (exercise, nutrition, stress effect reduction) on parameters of stress, mental health and quality of life in patients with monoclonal plasma cell and other hematologic disorders.
+
+OUTLINE: Patients are assigned to Module A, B C or D. (MDS patients will only be assigned in Module D)
+
+MODULE A: Patients undergo strength training sessions twice weekly supervised by a licensed and specialized personal trainer via the internet (e.g., remote access) for 6 months. Patients also wear a FitBit device and receive prompts via email or text on a cell phone or other electronic device to incrementally increase physical activity over 6 months.
+
+MODULE B: Patients undergo intermittent fasting for 1 month. This consists of restricting all eating to a consecutive 8-hour time period each day followed by 16 consecutive hours of not eating.
+
+MODULE C: Patients are assigned to group 1 (are not currently taking beta-blockers) or group 2 (current taking beta-blockers).
+
+GROUP I: Patients receive propranolol orally (PO) twice daily (BID) for 3 months.
+
+GROUP II: Patients continue receiving beta-blocker regimen as per standard of care (SOC) for 3 months.
+
+MODULE D: Patients will receive resistance training twice a week for 6 months.
+
+After completion of the study interventions, patients in module A are followed every 3 months for 1 year. Patients in module B are followed at 3 and 5 months. Patients in module C are followed for 3 months.

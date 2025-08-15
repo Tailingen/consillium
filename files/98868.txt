@@ -1,0 +1,29 @@
+Abatacept in Immune Checkpoint Inhibitor Myocarditis
+The primary aim is to test whether abatacept, as compared to placebo, is associated with a reduction in major adverse cardiac events (MACE) among participants hospitalized with myocarditis secondary to an immune checkpoint inhibitor (ICI). The primary outcome, MACE, is a composite of first occurrence of cardiovascular death, non-fatal sudden cardiac arrest, cardiogenic shock, significant ventricular arrythmias, significant bradyarrythmias, or incident heart failure.
+Myocarditis Acute|Cancer
+DRUG: Abatacept plus|DRUG: Placebo
+Major adverse cardiac events, The rates of a composite of cardiovascular death, non-fatal sudden cardiac arrest, cardiogenic shock, significant ventricular arrhythmias, significant bradyarrhythmias, or incident heart failure., 6 months
+The individual components of the primary endpoint., The rates of the following between groups: cardiovascular death, non-fatal sudden cardiac arrest, cardiogenic shock, significant ventricular arrhythmias, significant bradyarrhythmias, or incident heart failure, 6 months|Myocarditis illness severity using a 7-point ordinal severity scale containing each of the individual endpoints in a hierarchical ranking order., The worst score on a 7-point ordinal myocarditis severity scale during the 6 month period from first study treatment. The 7-point ordinal myocarditis severity scale is as follows with more severe outcomes ranked with a higher number:
+
+1. - No component of the primary endpoint;
+2. - Incident heart failure;
+3. - Significant bradyarrhythmia;
+4. - Significant ventricular tachyarrhythmias;
+5. - Cardiogenic shock;
+6. - Sudden cardiac arrest;
+7. - Cardiovascular death;, 6 months|The increase in serum troponin levels, The proportion of participants in each group with a \>50% increase in serum troponin value at any time during the incident hospitalization and following administration of study drug., 6 months|The combination of the rates of the primary outcome plus the proportion of patients with a troponin increase., The rates of a composite of cardiovascular death, non-fatal sudden cardiac arrest, cardiogenic shock, significant ventricular arrhythmias, significant bradyarrhythmias, or incident heart failure plus the proportion of participants in each group with a \>50% increase in serum troponin value at any time during the incident hospitalization and following administration of study drug., 6 months|Clinical status at 90 days after first infusion of study drug, Clinical status at visit 6 (day 90) on an ordinal scale with highest being the worst:
+
+1. - Alive and off corticosteroids for myocarditis;
+2. - Alive and on corticosteroids (provide dose) for myocarditis;
+3. - Alive and on cellcept (provide dose) for myocarditis;
+4. - Alive and on both corticosteroids (provide dose) and cellcept (provide dose) for myocarditis
+5. - Dead (cancer, cardiovascular or other)., 6 months|Clinical status at 6 months after first infusion of study drug, Clinical status at visit 7 (6 months) with the highest being the worst:
+
+1. - Alive and off corticosteroids for myocarditis;
+2. - Alive and on corticosteroids (provide dose) for myocarditis;
+3. - Alive and on cellcept (provide dose) for myocarditis;
+4. - Alive and on both corticosteroids (provide dose) and cellcept (provide dose) for myocarditis
+5. - Dead (cancer, cardiovascular or other)., 6 months|Fatal and non-fatal DVT and PE, The proportion of patients in each group with a fatal and non-fatal DVT and PE will be compared., 6 months|Other immune-related adverse events between the two groups, Rates of other immune-related adverse events between the two groups will be compared., 6 months
+This investigator-initiated randomized trial is being conducted to test whether abatacept, as compared to placebo, is associated with a reduction in MACE among participants who develop myocarditis after treatment with an ICI. Immune checkpoint inhibitors leverage the immune system to treat a wide variety of cancers. Myocarditis is an uncommon immune related adverse event (irAE) secondary to treatment with an ICI. The guideline recommended treatment for ICI myocarditis is cessation of the ICI and administration of corticosteroids. However, despite administration of corticosteroids, the rate of MACE with ICI myocarditis is high. Data from multiple independent international cohorts have shown that the rate of MACE with ICI myocarditis despite administration of corticosteroids ranges from 25-50%.For comparison, the rate of MACE with myocarditis unrelated to an ICI is \<5%.
+
+Abatacept is a selective co-stimulation modulator that inhibits T cell (T lymphocyte) activation by binding to CD80 and CD86, thereby blocking its interaction with CD28. This interaction provides a costimulatory signal necessary for full activation of T lymphocytes. In animal studies of ICI myocarditis, the administration of abatacept led to a reduction in cardiac immune activation and an increase in survival. In retrospective unpublished clinical data, the administration of abatacept to participants with ICI myocarditis on corticosteroids was associated with a reduction in risk of MACE. There are no prospective studies testing whether abatacept is effective among participants with ICI myocarditis. Therefore, the primary aim of this trial is to test in a randomized double-blind placebo-controlled study whether abatacept, administered concurrently with corticosteroids, is associated with a reduction in MACE among participants with recently diagnosed ICI myocarditis

@@ -1,0 +1,55 @@
+Study of Ferumoxytol Enhanced MRI for Detecting Lymph Node Metastases in Prostate, Bladder, and Kidney Cancers
+Background:
+
+People with prostate, bladder, or kidney cancer often have their cancer spread (metastasize) to lymph nodes. It is important for your doctor to know if this has occurred but currently it can be hard to determine if this has occurred on standard imaging studies like computed tomography (CT) or magnetic resonance imaging (MRI). This study uses an agent called Ferumoxytol to identify lymph nodes that might be involved by cancer.
+
+Objective:
+
+- To see how well Ferumoxytol can detect lymph node metastases in patients with prostate, bladder, or kidney cancer.
+
+Eligibility:
+
+-Adults over age 18 with prostate, bladder, or kidney cancer with lymph node involvement.
+
+Design:
+
+* Participants will be screened with a medical history.
+* Participants will have blood drawn and a physical exam. Their vital signs will be measured. They will answer questions about their health and current medications.
+* Participants should not have a history of iron overload or have an allergy to Ferumoxytol.
+* Participants will have a magnetic resonance imaging (MRI) scan. The scanner is a metal cylinder with a strong magnetic field. Participants will lie on a table that slides in and out of the scanner. They will have a standard sensor, known as a coil, wrapped around their abdomen to improve the scan. This is like a small blanket with wiring inside. Participants will need to lie still on the scanning table for about 1 hour.
+* Participants will have an ultrasound. This uses harmless sound waves to provide pictures of organs or tissues inside the body.
+* Participants will receive an injection of Ferumoxytol through an intravenous line. A very thin plastic tube will be inserted into a vein in order to inject the agent.
+* Participants will have another MRI and ultrasound 24 and 48 hours after injection.
+* The study will follow participants medical course for at least 1 year.
+Prostate Cancer|Bladder Cancer|Kidney Cancer
+DRUG: Ferumoxytol|DIAGNOSTIC_TEST: Magnetic Resonance Imaging (MRI)
+Percentage Change (From Baseline to 24 Hours) Between Metastatic and Benign Nodes, Visible nodes were quantified with manually contoured regions of interest on axial T2\*W MRI to obtain the mean signal intensity (SInode). The SI of the visible lymph node was normalized using the mean SI of the adjacent muscle tissue on the same slice (SImuscle). The following equation was used to obtain the normalized SI from the lymph node (SInormal): SInormal=SInode/SImuscle. The calculation formula was 100% \* ((SInormal(24hrs)- SInormal(baseline))/ SInormal(baseline)).This image processing method was performed at baseline, 24-hours post-injection MRI studies to define the SI change differences between benign and malignant lymph nodes from baseline to 24 hours post injection., Baseline and 24 hours
+Percentage Change for Imaging (From Baseline to 48 Hours) Between Metastatic and Benign Nodes, Visible nodes were quantified with manually contoured regions of interest on axial T2\*W MRI to obtain the mean signal intensity (SInode). The SI of the visible lymph node was normalized using the mean SI of the adjacent muscle tissue on the same slice (SImuscle). The following equation was used to obtain the normalized SI from the lymph node (SInormal): SInormal=SInode/SImuscle. The calculation formula was 100% \* ((SInormal(48hrs)- SInormal(baseline))/ SInormal(baseline))). This image processing method was performed at baseline, 48-hours post-injection MRI studies to define the SI change differences between benign and malignant lymph nodes from baseline to 48 hours post-injection., Baseline to 48 hours post injection|Percent Change in Signal Difference Within Metastatic Nodes in Prostate, Kidney, Bladder Cancer Patients at Ultrasonography, Patients will undergo ultrasound examination of imageable lymph nodes at pre-infusion, 24 hours and 48 hours. The signal changes at post-infusion ultrasound will be visually evaluated to determine if the uptake of ferumoxytol alters sonographic features., pre-infusion, 24 hours and 48 hours|Number of Participants With Serious and Non-Serious Adverse Events, Here is the count of participants with serious and non-serious adverse events assessed by the Common Terminology Criteria in Adverse Events (CTCAE v4.0). A non-serious adverse event is any untoward medical occurrence. A serious adverse event is an adverse event or suspected adverse reaction that results in death, a life threatening adverse drug experience, hospitalization, disruption of the ability to conduct normal life functions, congenital anomaly/birth defect or important medical events that jeopardize the patient or subject and may require medical or surgical intervention to prevent one of the previous outcomes mentioned., Adverse events were assessed from the date treatment consent signed to date off study, approximately 3 years, 3 months, and 11 days on the Prostate Cancer Arm/Group; 2 years, 5 months, and 19 days on the Bladder Cancer Arm/Group, and 1 year, 6 months, and
+Background:
+
+* Conventional imaging modalities (e.g. computed tomography \[CT\] and magnetic resonance imaging \[MRI\]) are currently used for the detection of lymph node metastases in many cancer types, including prostate, bladder and kidney cancers, however diagnosis is based on node enlargement which is neither sensitive nor specific (i.e. small nodes harbor metastases, large nodes can be hyperplastic).
+* As a consequence, the standard of care is to remove numerous lymph nodes during surgery or to biopsy enlarged nodes to ascertain lymph node status.
+* In 2003 Dextran coated ultra small superparamagnetic iron oxide particles (USPIO), also known as Ferumoxtran-10 (Combidex, AMAG Pharmaceuticals, Inc. Lexington, Massachusetts (MA), United States (US)) was shown to localize lymph node metastases with much greater accuracy than unenhanced MRI. Although a large study in prostate cancer was successful, and Food and Drug Administration (FDA) Advisory Panel did not recommend approval and the company abandoned the agent.
+* In 2009 Ferumoxytol (Feraheme AMAG Pharmaceuticals, Inc. Lexington, MA, United States (US)) a semi-synthetic carbohydrate coated, magnetic iron oxide preparation similar to ferumoxtran 10 was approved for iron replacement therapy. Like ferumoxtran 10, this compound is taken up by normal lymph nodes and excluded from malignant nodal tissue.
+* Results of a recent National Cancer Institute (NCI) trial (11-C-0098) in 15 patients revealed that using the dose of 7.5 mg/kg Fe is safe and yields homogenous and accurate signal changes in benign lymph nodes in comparison with the 4 and 6 mg/kg Fe doses. This dose was further tested in 5 patient's with known or suspected nodal involvement from prostate cancer and in four of five patients positive lymph nodes had a lower signal drop than the benign nodes. The one case in which there was uptake by positive nodes may have been on a vascular basis. This pilot study stimulated interest in a larger study involving a variety of cancer types.
+
+Primary Objective:
+
+-To compare the difference in signal between metastatic and normal nodes in prostate, kidney and bladder cancer patients.
+
+Eligibility
+
+* Subject must be greater than or equal to 18 years old.
+* Eastern Cooperative Oncology Group Performance score of 0 to 2.
+* There are 3 parallel arms in this study. All patients must have evidence of lymph node involvement (with a short axis diameter greater than or equal to 1.5 cm).
+* In addition:
+* Arm 1: Subject must have a documented diagnosis of prostate cancer.
+* Arm 2: Subject must have a documented diagnosis of bladder cancer (transitional cell carcinoma).
+* Arm 3: Subject must have a documented diagnosis of kidney cancer (all renal cell cancer types).
+
+Design:
+
+* This is a single site 3-arm (arm 1=prostate cancer, arm 2=bladder cancer, arm 3=kidney cancer) study enrolling 50 evaluable patients (30 evaluable in each arm 1, 10 evaluable in arms 2 and 3) with documented prostate, bladder or kidney cancer with evidence of lymph node involvement \[with a size of greater than or equal to 1.5 cm measured on conventional imaging (e.g. CT, MRI)\].
+* All subjects will undergo pre-infusion, 24, 48 hours post-Ferumoxytol infusion (dose of 7.5mg/kg Fe) MRI consisting of T1 weighted (W), T2W and T2\*W 3 Tesla MRI.
+* Imaging will be correlated with histology of resected or biopsied lymph nodes when available. Occasionally, patients may not undergo biopsy or surgical excision of their lymph nodes. This may occur if their lymph nodes are overtly large and therefore highly likely to represent lymph node involvement. In such cases, patients will be evaluated with clinical follow up which typically occurs every three months in most NCI protocols. If the lesion demonstrates growth or regression based on Response Evaluation Criteria in Solid Tumors (RECIST) 1.1 criteria on these follow up studies' then the lesion will be considered positive for tumor. If it is stable for at least one year, then it will be considered non-malignant. The MR imaging analysis will be intra-patient.
+* Patients will also undergo ultrasound examination of imageable lymph nodes (e.g. inguinal nodes) at pre-infusion and 24, 48 hours post-Ferumoxytol infusion time points. The signal changes at post-infusion ultrasound will be visually evaluated to determine if the uptake of ferumoxytol alters sonographic features.

@@ -1,0 +1,7 @@
+Evaluation of Treatment Efficacy by Circulating Tumor Cell Phenotype Surveillance in Breast Cancer Patients
+The phenotype of circulating tumor cells (CTCs) is supposed to be significant indicator that is correlated the prognosis of breast cancer patients who have completed neoadjuvant chemotherapy, primary tumor surgery with/without adjuvant chemotherapy. The aim of this observational study is to assess the efficacy of CTCs surveillance in predicting the prognosis of breast cancer patients.
+Breast Neoplasms|Neoplastic Cells, Circulating|Chemotherapy Effect
+DIAGNOSTIC_TEST: CTC detection
+iDFS, The survival time from the date of tumor resection to the date of the relapse of the invasive disease., From date of enrollment through study completion, up to 10 years.
+overall survival, The survival time from the date of recruitment to the date of death., From date of enrollment through study completion, up to 10 years.|Pathological complete response rate, pCR is defined as no infiltrating tumor cells in pathological examination in the primary breast and axillary lymph nodes., From date of enrollment up to 24 weeks
+The aim of this observational study is to assess the efficacy of CTCs surveillance in predicting the treatment response of neoadjuvant chemotherapy, surgery and adjuvant chemotherapy. This study also aims to evaluate the efficacy of CTCs surveillance in predicting invasive-disease free survival (iDFS), overall survival (OS) and metastasis. Additionally, this study evaluate the expression of PDL1 and FOXC3 on CTCs.

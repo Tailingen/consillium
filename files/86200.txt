@@ -1,0 +1,30 @@
+Cemiplimab Before and After Surgery for the Treatment of High Risk Cutaneous Squamous Cell Cancer
+This phase I trial studies how well cemiplimab before and after surgery works in treating patients with high risk cutaneous squamous cell cancer. Immunotherapy with monoclonal antibodies, such as cemiplimab, may help the body's immune system attack the cancer, and may interfere with the ability of tumor cells to grow and spread. Giving cemiplimab before surgery may improve risk of the cancer returning in patients with high risk cutaneous squamous cell cancer.
+Metastatic Skin Squamous Cell Carcinoma|Recurrent Skin Squamous Cell Carcinoma
+BIOLOGICAL: Cemiplimab|RADIATION: Radiation Therapy|PROCEDURE: Therapeutic Conventional Surgery
+Pathologic response rate, Defined as the number of complete and partial responses divided by the total number of patients, as assessed by pathology. Pathological complete response (pCR) (no viable tumor) or pathological partial response (pPR) (less than 50% viable tumor) as well as near pCR (less than 10% viable tumor) in the tumor bed will be documented by pathology from the resection specimen. Pathologic response rate will be summarized using frequency and percentage, and a 95% exact confidence interval will be reported using the Clopper-Pearson method., From screening up to 10 years post-treatment
+Time to local recurrence, Local recurrence-free survival will be estimated using the Kaplan-Meier method., From screening to local recurrence, death, or last known follow-up, assessed up to 10 years post-treatment|Time to systemic recurrence, Systemic recurrence-free survival will be estimated using the Kaplan-Meier method., From screening to systemic recurrence, death, or last known follow-up, assessed up to 10 years post-treatment|Overall survival (OS), OS will be estimated using the Kaplan-Meier method. 6-month, 12-month, and 24-month OS estimates will be reported along with 95% confidence intervals., From screening to death from any cause or last known follow-up, assessed up to 2 years post-treatment|Recurrence-free survival (RFS), RFS will be estimated using the Kaplan-Meier method. 6-month, 12-month, and 24-month RFS estimates will be reported along with 95% confidence intervals., From screening to recurrence, death, or last known follow-up, assessed up to 2 years post-treatment
+Change in immune system biomarkers, Pre- and post-surgery assessments of biomarkers extracted from tissue and blood samples will be summarized using frequencies and percentages for categorical variables, and mean, median, standard deviation, and range for numeric variables. Pre- versus (vs.) post-surgery values will be compared using paired t-tests or McNemar's tests, where appropriate. Biomarkers extracted from blood samples will also be collected at progression or completion of adjuvant therapy. In those cases, mixed models with a random intercept will be explored to assess the impact of time on change in biomarker status. Change in biomarker will be compared across response (yes/no) using two-sample t-tests or Mann Whitney U tests, where appropriate, and the and the impact of pre-surgery, post-surgery, and change in biomarker will be compared across survival endpoints using log-rank tests and univariate Cox proportional hazards models., From baseline up to 10 years post-treatment
+PRIMARY OBJECTIVE:
+
+I. To establish the pathologic response rate of neoadjuvant cemiplimab in cutaneous squamous cell carcinoma (cSCC).
+
+SECONDARY OBJECTIVES:
+
+I. To document the local recurrence rate of high-risk cSCC treated with adjuvant cemiplimab.
+
+II. To document the systemic recurrence rate of high-risk cSCC treated with adjuvant cemiplimab.
+
+III. To document the 6-month, 12-month, 2-year overall survival (OS), recurrence-free survival (RFS) for patients with high risk cSCC.
+
+TERTIARY/EXPLORATORY OBJECTIVE:
+
+I. To evaluate the immune profile of fresh tumor tissue, blood in patients with cSCC treated with cemiplimab.
+
+OUTLINE:
+
+NEOADJUVANT PHASE: Prior to standard of care surgery, patients receive cemiplimab intravenously (IV) over 30 minutes on day 1. Treatment repeats every 21 days for up to 3 cycles in the absence of disease progression or unacceptable toxicity.
+
+ADJUVANT PHASE: Within 2-6 weeks after completion of standard of care radiation therapy (or surgery if no radiation therapy), patients receive cemiplimab IV over 30 minutes on day 1. Treatment repeats every 21 days for up to 18 cycles in the absence of disease progression or unacceptable toxicity.
+
+After completion of study treatment, patients are followed up every 12 weeks for 2 years, every 6 months for the next 3 years, and then annually for up to 10 years.

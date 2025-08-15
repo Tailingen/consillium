@@ -1,0 +1,21 @@
+Patient Specific Implants (PSIs) for the Decompression of Odontogenic Cysts
+This study aims to assess the feasibility of the decompression of odontogenic cysts using Patient Specific Implants anchored subperiosteally using osteosynthesis screws.
+Odontogenic Cysts|Odontogenic Keratocyst
+DIAGNOSTIC_TEST: Preoperative Cone Beam Computed Tomography (CBCT) scan|PROCEDURE: Cystostomy|DIAGNOSTIC_TEST: Histology to confirm the initial diagnosis|DEVICE: Patient Specific Implant|PROCEDURE: Cyst decompression|DIAGNOSTIC_TEST: CBCT|PROCEDURE: Enucleation|DIAGNOSTIC_TEST: Histology performed on the entire lining of the cyst
+Success of the treatment of the odontogenic cyst by the approach described, The odontogenic cyst is resolved clinically and radiologically by bony healing, Decompression may take at least 6 months up to 18 months and lasts until the enucleation may be carried out with minimal risk of complicatios to anatomical landmarks included in the cyst.|Recurrence, During follow up recurrence of the odontogenic cyst is observed, One year after enucleation|Intra- and postoperative complications associated with surgery, Number of cases where bleeding, damage to neighboring teeth, roots, and anatomical structures, nerve damage, antro-oral communication or fistula, antro-nasal communication or fistula, inflammation is observed during follow up., through study completion, an average of 1 years
+Volumetric changes, Volumetric changes of the cyst cavity during decompression., 6 months to 18 months. The timeframe of decompression.
+Preoperative Imaging and PSIs The digital impression of the dentition or the edentulous jaw is captured using an intraoral scanner and a CBCT scan is performed for each patient enrolled in the study.
+
+Standard Tessellation Language (STL) and Digital Imaging and Communications in Medicine (DICOM) files are imported and registered in the software used for designing the Patient Specific Implants (PSI). The PSI consists of a plate that enables the fixation of the appliance subperiosteally on the bone using osteosynthesis screws and a tube allowing the continuous discharge of the cystic liquid into the oral cavity. The decreased pressure within the cyst enables bone regeneration during the decompression period.
+
+The PSI is produced using Selective Laser Melting (SLM) technology with Titanium. Before the surgical procedure, the PSI undergoes disinfection and sterilization.
+
+Surgical Interventions Under local anesthesia, a full-thickness flap is prepared and cystostomy is performed. A sample of the cyst lining is sent for histological diagnosis. The PSI is fixed on the surface of the bone using osteosynthesis screws. The flap is sutured around the tube of the PSI. After one week the sutures are removed.
+
+Patients are recalled monthly for controls and panoramic X-rays are performed to monitor the decompression.
+
+A post-operative CBCT scan is conducted six months after cystostomy to assess whether the cyst volume has sufficiently decreased for enucleation to be performed with minimal risk of damaging anatomical landmarks.
+
+Under local anesthesia, a full-thickness flap is raised and the PSI is removed by unscrewing the osteosynthesis screws. The wall of the cyst is completely enucleated and the flap is sutured. The residual cyst lining is sent for histopathologic examination.
+
+Data acquisition The complications are documented in the patient's chart after surgical interventions and during follow-up appointments. The volume of the cyst is measured on the CBCT reconstructions before and after decompression to evaluate the effectiveness of the approach described.

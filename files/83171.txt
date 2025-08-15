@@ -1,0 +1,128 @@
+Evaluation of an Algorithmically Enhanced Personalized Music-based Intervention on Stress Reduction in Cancer Patients
+Receiving a cancer diagnosis is a life-altering event for patients and their families that not only carries serious physical health implications but also causes significant stress and emotional distress.
+
+After initial diagnosis, restaging appointments can bring back additional fear, sadness, and anxiety. Music listening interventions can alleviate stress associated with cancer diagnosis by improving patients' ability to cope with the mental and emotional strain that accompanies their disease. Yet, current music listening interventions lack personalization and moment-to-moment adjustments that accompany traditional music therapy in the hands of a seasoned professional. Rubato Life™ (RL) application uses a proprietary algorithm for music selection that utilizes machine-learning and deep neural network to select music that reduces stress as measured by heart rate variability in real time, offering improved personalization of stress-reducing music. We hypothesize that using personalized musical playlists, through RL, will improve stress and anxiety outcomes for patients undergoing cancer restaging more than participant-selected music.
+
+This 3-week longitudinal study will include 200 patients from St. Elizabeth's Medical Center who have scheduled appointments for cancer restaging. Participants will be randomized into one of two groups: a) an intervention group, in which patients will listen to music using Rubato Life app, and b) a control group, in which patients listen to music of their own choice that they believe to be stress reducing. Patients in both groups will be asked to listen to at least 45 minutes per day, for a period of 2 weeks coming up to their scheduled restaging appointment (or at least 12 total hours of listening), and for one hour immediately after the appointment. Patients in the Intervention group will wear smartwatches to monitor heart rate variability throughout the study. Patients will be asked to complete assessments of anxiety (STAI-S) prior to randomization, on the day of their restaging, and following one hour of post-restaging music listening.
+Cancer|Stress
+BEHAVIORAL: Rubato Life Music|BEHAVIORAL: Music of their desire
+State-Anxiety (STAI-S), A standardized 20-item assessment of state-level (momentary, situational) anxiety (Spielberger et al., 1999). Example items include "I am tense", "I am worried" and "I feel calm", "I feel secure". STAI has an internal consistency ranging between 0.86 -0.95 and test-retest reliability from 0.65-0.75., 2 weeks
+A. Specific Aims/Objectives:
+
+• Primary Aim:
+
+Determine if Rubato Life (RL) music selection is effective at reducing anxiety (STAI-S) in cancer patients undergoing restaging.
+
+B. Background and Significance
+
+The field of music-based interventions (MBI) is growing rapidly as part of the treatment of patients with chronic diseases such as schizophrenia, cardiovascular disease, dementia, chronic pain and cancer (Sihvonen et al., 2017). MBI can be divided into Music Therapy (MT) and Music Medicine (MM).
+
+In MT, patients are guided through a music intervention by trained music therapist. In MM, patients listen to live or recorded music, or participate in other music interventions without the personalized care of a music therapist (Stanczyk et al., 2011).
+
+Music listening has been shown to reduce anxiety, and lower blood pressure (Panteleeva et al., 2018), as well as help patients cope with negative emotions (Miranda and Claes, 2009). Previous studies have shown that MBI in the form of MM is a valuable addition to the treatments of patients diagnosed with cancer by improving outcomes and helping patients cope with the mental and emotional strain that accompanies their disease (Bradt et al., 2015; Gramaglia et al., 2019; Jasemi et al., 2016). Other studies also found that there is a growing interest in MBI among patients with cancer (Burns et al., 2005).
+
+Nonetheless, traditional MM compared to effective MT lacks the personalization and moment-to-moment adjustments that accompany music therapy in the hands of a seasoned professional. There are adverse effects of music, such as increases in stress that can accompany listening to music that one finds aversive, which music therapists can mitigate. There is a need for a similar approach in MM, especially when limitations make the presence of a music therapist impractical.
+
+There is also more work to be done to separate more and less effective MM interventions. Recognizing the need for a better understanding of the role of music in clinical medicine, the NIH has reissued RFA-AT-19-001 (Promoting Research on Music and Health: Phased Innovation Award for Music Interventions (R61/R33, Clinical Trial Optional). This signifies a recognition of the need for a better understanding of music in the clinical setting.
+
+One aspect of MBI that has not been extensively investigated in prior studies involving MM is the selection of music patients listen to. Often, patients are not asked regarding their preferred musical genres and the musical taste or opinion of an experimenter or medical provider is used to select the music. Alternatively, the patient is asked to list their music preferences and a single individualized playlist is created, which is time consuming and may induce stress (Stanczyk et al., 2011). There's also evidence that a single playlist, when repeated too many times, can lose its power to reduce stress.
+
+Despite the proven effectiveness of music-induced relaxation, making a music intervention patient-specific has significant challenges: the cost associated with a professional music therapist or personalized music curator operator dependence, lack of reproducibility, and lack of increasing effectiveness. This leads to MBI not being widely practiced. Rubato Life™ (RL) provides a low cost and effective MBI using a proprietary algorithm for music selection that improves with feedback from a patient's physiological responses. More specifically, machine-learning and deep neural network learning are applied to select music that is reduces stress as measured by heart rate variability in real time. Additionally, demographic information from prior published studies (Yamasaki et al., 2016) and unpublished work is used to further improve of music selection, and the curation of patient-specific playlists.
+
+This study aims to determine the effect of the RL music selection algorithm on cancer patients' physiological and psychological state during re-staging appointments. In this change from baseline study design, we will examine the stress and anxiety levels of patients during restaging appointments to determine the ability of RL decrease state anxiety of individual patients undergoing cancer restaging. Further, we will compare this change to that of a group of patients who undergo MBI based on commercially available music selection (chosen by participants) that does not use individual heart rate variability measures in real time.
+
+D. Design and Methodology:
+
+1) Study Design
+
+200 adult patients with cancer undergoing restaging will be enrolled. Participants will be recruited during their appointments for cancer restaging
+
+The Primary Surgical Attending, will approach the patients at first, and a deeper explanation of the Study will be given to patients by the Study Coordinator.
+
+An interim analysis will be performed after the first 30 patients' complete participation
+
+Enrolled patients will submit demographic, socioeconomic and medical information, initial music preference, and will complete a standardized stress and anxiety questionnaire to establish baseline stress and anxiety levels.
+
+Patients will then be randomized 1:1 into 2 groups: (a) the intervention group in which patients will be asked to listen to a minimum of 45 minutes per day of music for a period of a 2 weeks (or a total of 12 hours) coming up to their scheduled appointment using the RL music selection application while wearing an individual smart bracelet aimed to build their optimal music therapy profile; and (b) the control group in which patients will be asked to listen to a minimum of 45 minutes per day of music (or a total of 12 hours), of their desire, which the participant considers as stress relief music for the same time period.
+
+On the day of their restaging appointments, patients from both groups will be asked to complete a baseline STAI-S stress and anxiety questionnaire followed by either one hour of RL selected music in the intervention group or patient selected music for the control group. At completion of one hour of listening, another STAI-S will be completed to assess change in stress levels thereby allowing for a change from baseline levels of stress and anxiety.
+
+2) Inclusion/Exclusion Criteria
+
+Inclusion criteria:
+
+1. Aged 18 or older
+2. Diagnosed with cancer, requiring restaging imaging between September 2022 and May 2023,
+3. Have access to a smartphone and able to operate smartphone
+4. Have a Google or Apple ID.
+
+Exclusion criteria:
+
+1. Participants with hearing disorders who do not use hearing aids
+2. Participants who have extreme dislike of music.
+3. Participants who cannot comply with the minimum time Rubato Life application requires to be used
+
+No subjects in this study require special consideration
+
+3) Description of Study Treatments or Exposures
+
+Participants will be randomly assigned (1:1) to be in either the Intervention or Control group. The Intervention group will be given a smartwatch, the Rubato Life App downloaded to their smartphone, and a Spotify acocunt. The Control group will be given a Spotify account. Participants in both groups will be asked to listen to at least 45 minutes of music per day (or a total of 12 hours) for 2 weeks prior to their restaging visit. Music for the Control group will be participant-selected, at their leisure. Music for the Intervention group will be a personalized playlist distributed to the participant through the Rubato Life application. All participants will be asked to listen to music for one hour immediately following the restaging appointment.
+
+4) Definition of Primary and Secondary Outcomes/Endpoints
+
+Primary outcome: Anxiety, as measured through the State-Trait Anxiety Inventory, State component (STAI-S). Participants will be asked to complete the STAI-S prior to randomization, the day of their restaging appointment, and one hour after their restaging appointment.
+
+5) Data Collection Methods, Assessments, Interventions and Schedule
+
+Demographic questionnaire: A questionnaire for recording participants' age, race, patient race, age, sex, income (range options), insurance status, music background, English proficiency (range options), medications.
+
+Brief Music Experience Questionnaire (BMEQ): A validated questionnaire to assess general music preferences (Werner et al., 2006).
+
+State-Trait Anxiety Inventory- State (STAI-S): A standardized 20-item assessment of state-level (momentary, situational) anxiety (Spielberger et al., 1999). Example items include "I am tense", "I am worried" and "I feel calm", "I feel secure". STAI has an internal consistency ranging between 0.86 -0.95 and test-retest reliability from 0.65-0.75.
+
+6) Confidentiality: Participant privacy and confidentiality will be maintained by coding all data upon enrollment.
+
+The research data will be destroyed in 5 years.
+
+7) Adverse Event Criteria and Reporting Procedures: There are not adverse event considered in listenint to music.
+
+8) Study Timeline:
+
+Rolling recruitment will take place upon study approval and will continue until 200 participants are enrolled.
+
+E. Risks and Discomforts:
+
+Participants may feel uncomfortable will answering certain questions about their current anxiety. Participants may experience discomfort from wearing a smartwatch.
+
+To minimize effects of risks, participants may skip questions that make them feel uncomfortable.
+
+Participants may contact study coordinator if discomfort arises from wearing smartwatch and measures to reduce discomfort will be taken, such as loosening the watch. Participants will be asked to report any other anxiety provoking events that happened/happening during the study period.
+
+Participants may discontinue participation at any time.
+
+F. Potential Benefits:
+
+There are no direct benefits to participants for participating in this study. Participation in this study may benefit society by helping scientists understand how music impacts anxiety associated with cancer restaging. The benefits to society outweigh potential risks associated with this study.
+
+G. Data Management, Recordkeeping and Analysis
+
+1. Data Management Methods:
+
+   Data will be managed by the study coordinator, using Flask Data Manager, which is an electronic recordkeeping program. The data will be coded upon enrollment and connections from codes to identifiers will be stored in a password protected file separate from the data. Data monitoring will be performed by the study coordinator and the PI.
+2. Quality Control Methods:
+
+   Only previously-validated assessments are used in this study, which have high reliability and validity. All study members will be trained on appropriate study protocols and responsible conduct of research. Study progress will be monitored after collection of 30 participants with an interim analysis.
+3. Data Analysis Plan:
+
+   Categorical variables will be compared using the Chi-square test. Continuous variables will be compared using the Mann-Whitney U test and expressed as median values (range), with scores grouped into 10-point ranges (0-9, 10-19, 20-29, etc).
+
+   Data will be analyzed after collection of 30 participants and at the conclusion of the study, after all participant data has been collected.
+4. Statistical Power and Sample Considerations:
+
+The sample size will be set at a significance level of 0.05, power of 0.80, with a proportion of subjects from each group of 0.5 with and Standardized effect size of 0.400.
+
+Total sample size will be of 200 subjects, 100 in the Intervention group, and 100 in the control group.
+
+H. Study Organization:
+
+This study will be overseen by Dr. Conrad, while daily research activities will be completed primarily by the Study Coordinator.

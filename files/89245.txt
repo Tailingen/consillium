@@ -1,0 +1,22 @@
+Erlotinib, Modified FOLFOX6, and Bevacizumab as First-Line Therapy Metastatic Colorectal Cancer
+RATIONALE: Erlotinib may stop the growth of tumor cells by blocking some of the enzymes needed for cell growth. Drugs used in chemotherapy, such as oxaliplatin, leucovorin, and fluorouracil, work in different ways to stop the growth of tumor cells, either by killing the cells or by stopping them from dividing. Monoclonal antibodies, such as bevacizumab, can block tumor growth in different ways. Some block the ability of tumor cells to grow and spread. Others find tumor cells and help kill them or carry tumor-killing substances to them. Erlotinib may help chemotherapy work better by making tumor cells more sensitive to the drugs. Giving erlotinib together with combination chemotherapy and bevacizumab may kill more tumor cells.
+
+PURPOSE: This phase I trial is studying the side effects and best dose of erlotinib when given together with combination chemotherapy and bevacizumab as first-line therapy in treating patients with metastatic colorectal cancer.
+Colorectal Cancer
+BIOLOGICAL: bevacizumab|DRUG: erlotinib hydrochloride|DRUG: fluorouracil|DRUG: leucovorin calcium|DRUG: oxaliplatin
+Number of patients that develop study drug related toxicity, Dose-limiting toxicities will be tracked in the first three cycles. The occurrence of DLT in 2 of the first 6 patients, 3 of the first 9 patients, or 4 of the first 12 patients (whichever occurs soonest)will require that subsequent patients are enrolled to the study at 100 mg erlotinib daily., 3 courses (6 weeks)
+Patient Response to Treatment Measured by RECIST Criteria, The overall response is the number of participants who experience a confirmed complete (CR) or partial response (PR) of the total analysis population. Per the Response Evaluation Criteria In Solid Tumors (RECIST): CR = all detectable tumor has disappeared, PR = a \>=30% decrease in the sum of the longest dimensions of the target lesions taking as a reference the baseline sum, Progressive disease (PD) = a \>=20% increase in target lesions, Stable Disease = small changes that do not meet previously given criteria., 3 courses (6 weeks)|Number of patients that can increase the erlotinib dose to 200mg, The number of patients requiring an increase in erlotinib dose to 200 mg will be reported as well as the toxicities observed at 200 mg daily erlotinib, the median onset to grade 2 or higher rash and diarrhea at 200 mg erlotinib, and the number of patients requiring a decrease in erlotinib from 200 mg., 14 days
+OBJECTIVES:
+
+* Determine the toxicity of erlotinib, mFOLFOX6, and bevacizumab in patients with metastatic colorectal cancer.
+* Determine the efficacy of this regimen in these patients.
+* Determine the feasibility of escalating the dose of erlotinib in order to maximize the likelihood of developing a grade 2 skin rash in select patients.
+
+OUTLINE: This is a multicenter study.
+
+* Single-agent erlotinib: Patients receive oral erlotinib once daily on days 1-14 (course 1).
+* Erlotinib, modified FOLFOX6, and bevacizumab chemotherapy: Patients receive oral erlotinib\* once daily on days 1-14, oxaliplatin IV over 2 hours and leucovorin calcium IV over 2 hours on day 1, and fluorouracil IV continuously over 46 hours on days 1 and 2 in course 2. Beginning in course 3, patients also receive bevacizumab IV over 30 minutes. Courses repeat every 14 days in the absence of disease progression or unacceptable toxicity.
+
+NOTE: Patients who do not develop grade 2 toxicity after the first 3 courses (6 weeks) will have their erlotinib dose escalated.
+
+PROJECTED ACCRUAL: A total of 22 patients will be accrued for this study.

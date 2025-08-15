@@ -1,0 +1,41 @@
+Phase 2 Study Assessing Efficacy and Safety of Crizotinib in Patients Harboring an Alteration on ALK, MET or ROS1
+This is a biology driven, trans-tumoral, multicentric phase II trial assessing the efficacy and the safety of the targeted agent crizotinib as a monotherapy in 23 cohorts of patients with identified activating molecular alterations in the crizotinib target genes. A cohort is defined by a pathology and a crizotinib-target alteration (eg gastric cancer with MET amplification).
+
+For each cohort a two-stage design will be implemented. In the situation where expected accrual allows for a sufficient number of patients to be accrued, the alpha and beta errors will be fixed at 10%. However, in very rare diseases, such as inflammatory myofibroblastic tumor (IMT), neuroblastoma, glioblastoma, and rhabdomyosarcoma (RMS), it is anticipated that the target number may not be achievable in a reasonable timeframe; for these cohorts, the alpha and beta errors will be fixed at 15%. Consequently three different statistical designs will be a priori considered according to the expected response rate and incidence.
+Hematologic Cancers|Solid Tumors|Metastatic Cancer
+DRUG: Crizotinib
+The efficacy of crizotinib as a single agent across diverse type of tumors guided by the presence of identified activating molecular alterations in the crizotinib target genes, per cohort, per pathology, and per target., Anti-tumor activity of crizotinib, as the primary objective of the trial, will be carried out by the determination of the objective response assessed in each cohort defined by a pathology associated with a crizotinib target alteration.
+
+The objective response is defined as either a complete response (CR) or partial response (PR) according to Response Evaluation Criteria in Solid Tumors (RECIST) 1.1 criteria.
+
+The objective response after 2 cycles (8 weeks) will be reported to define a success in the 2-stage design., Determined after 8 weeks (2 cycles) of treatment
+The safety profile of crizotinib., Toxicities will be assessed by clinical and paraclinical examinations at every scheduled visit during the whole treatment period and the post-treatment follow-up period (around 2.5 years) This study will use the International Common Terminology Criteria for Adverse Events (CTCAE), version 4.0, for adverse event reporting., Safety profile will be assessed during the whole treatment period (6 months expected in average) followed by a 2-year post-treatment follow-up period, and reported during the visits scheduled by the study flow chart|Disease control rate, Disease Control Rate will be the percentage of patients with a CR, PR or Stable Disease (SD) according to RECIST at the end of cycle 2 (8 weeks) and at the end of cycle 4 (16 weeks) in the group of patients evaluable for response, After 8 weeks (2 cycles) and 16 weeks (4 cycles) of treatment|response duration, Response duration will be the time interval between the date that the criteria of CR/PR (whichever is first recorded) are met for the first time and the first date of documented re-appearance of the disease (recurrence, progression or death). If neither event has been observed, then the patient is censored at the date of the last follow up examination., interval between the objective response (CR or PR) and time of progression, recurrence or death|Progression-free survival, Progression-free survival will be the time interval between the date of registration and the day of first documented sign of disease progression (first day when RECIST criteria of progression are met) or day of death whatever the cause (events). If neither event has been observed, then the patient is censored at the date of the last follow up examination., from registration until time of disease progression or death|Overall survival, Overall survival will be the time interval between the date of registration and the date of death, whatever the cause of death. Patients still alive at follow-up are censored at the date of last follow up., from registration until date of death
+Twenty cohorts are identified, a cohort being defined as \[one pathology, one target alteration\] such as \[gastric cancer with MET amplification (6%)\].
+
+One cohort will be dedicated to miscellaneous, very rare pediatric diseases identified through INCa platforms or pan-genome programs (e.g. MOSKIDO, IGR) and will recruit up to 10 patients.
+
+Two cohorts will be dedicated to a couple of diseases harbouring at least one specific alteration in one crizotinib target, same or different from those listed above, e.g. in AXL gene, arising from pan-genome trials.
+
+1. ALCL, adults and children, ALK-translocated
+2. Colorectal cancer, adults, ALK-translocated
+3. Colorectal cancer, adults, MET amplified
+4. Colorectal cancer, adults, MET mutated
+5. NSCLC, adults, MET amplified
+6. NSCLC, adults, ROS1-translocated
+7. Breast cancer, adults, ALK-translocated
+8. Gastric cancer, adults, MET amplified
+9. Cholangiocarcinoma, adults, ROS1-translocated
+10. Ovarian cancer, adults, MET amplified
+11. Clear cell renal cell carcinoma, adults, ALK-translocated
+12. Clear cell renal cell carcinoma, adults, ALK-amplified
+13. Papillary renal cell carcinoma, adults, MET mutated (+ MET amplified)
+14. Hepatocarcinoma, adults, MET amplified
+15. Neuroblastoma, adults and children, ALK-amplified + ALK mutated
+16. IMT, adults and children, ALK-translocated
+17. Rhabdomyosarcoma (alveolar and embryonal), adults and children, ALK-amplified
+18. Glioblastoma, adults, MET amplified. This cohort will only be open after amendment
+19. Anaplastic thyroid cancer, adults, ALK mutated
+20. Thyroid cancer (follicular + medullary + papillary), adults, MET mutated
+21. Miscellaneous rare pediatric diseases associated to at least one specific alteration in one crizotinib target, same or different from those listed above
+22. One another pathology associated to at least one specific alteration in one crizotinib target, same or different from those listed above.
+23. One another pathology associated to at least one specific alteration in one crizotinib target, same or different from those listed above.

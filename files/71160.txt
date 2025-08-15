@@ -1,0 +1,7 @@
+STHLM3 - Prostate Cancer Diagnostic Trial
+STHLM3 is a paired diagnostic trial aiming to assess whether a panel of biomarkers for prostate cancer can substantially reduce the proportion of men referred to biopsy whilst maintaining sensitivity for aggressive prostate cancer
+Prostate Cancer
+DIAGNOSTIC_TEST: STHLM3
+Number of biopsies, Recorded directly after biopsy
+Number of Gleason Score ≥ 7, Recorded directly after biopsy|Number of Gleason Score 6, Recorded directly after biopsy|Number of benign, Recorded directly after biopsy
+STHLM3 is a paired diagnostic trial aiming to assess whether a panel of biomarkers for prostate cancer can substantially reduce the proportion of men referred to biopsy whilst maintaining sensitivity for aggressive prostate cancer

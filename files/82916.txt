@@ -1,0 +1,33 @@
+Evaluation of a New Organization for Collecting Pre-chemotherapy Session Information
+The primary objective of this study is to compare an experimental organization for chemotherapy session planning based on early, standardized, and prioritized means of data transmission via secure e-mail (laboratory results) and the use of a smart phone (for clinical toxicity data) compared to the regular organization, in terms of the rate of prescriptions of chemotherapy prepared at the latest the day before a session and then administered in full (over a 6-month observation period) among colorectal cancer patients in need of cancer treatment in an outpatient setting.
+Colorectal Neoplasms
+OTHER: ChimioPal|OTHER: Usual pathways
+The rate of prescriptions for chemotherapy in the outpatient clinic prepared at the latest the day before a session (except for predefined, limited stability products) and administered in full, per patient, during a follow-up period of 6 months, This criterion is aggregated per patient but its components are collected for each prescription, according to the following coding:
+
+* Prescription prepared in advance and administered in full: 1
+* Prescription prepared in advance but not administered in full: 0
+* Prescription not prepared in advance : 0
+
+For each patient, the sum of the results for each prescription will be the numerator. The denominator is the number of prescriptions during 6 months follow-up for each patient.
+
+The limited stability products that will necessarily be prepared at the last minute are:
+
+* Aflibercept
+* Panitumumab
+* Raltitrexed, 6 months
+The number of prescriptions prepared in advance and administered in full, 6 months|The number of prescriptions prepared in advance and not administered in full, 6 months|The number of prescriptions not prepared in advance, 6 months|Dose-intensity per patient over 6 months of follow-up, 6 months|The number of chemotherapy session postponements that were anticipated, and the patient was not required to come in to the clinic, 6 months|The number of chemotherapy session postponements that were not anticipated, and the patient was required to come in to the clinic, 6 months|The number of pharmaceutical interventions* accepted by the doctor / the number of prescriptions prepared for the totality of sessions, \*a pharmaceutical intervention = request for prescription verification following results/information, 6 months|The number of chemotherapy sessions that really took place (c) during the 6 months of follow-up, 6 months|The average number of days between chemotherapy sessions, The average number of days of inter-session lag:
+
+∑(days between 2 sessions-expected days between 2 sessions)/(c-1), 6 months|The waiting time (on average) for the patient in the outpatient clinic before administration of the treatment, 6 months|the total period of time spent by the patient in the outpatient clinic, 6 months|The number of prescriptions that were prepared and administered, 6 months|The number of pouches that were prepared, not-administered, but recycled, 6 months|The number of pouches prepared, not administered and destroyed, 6 months|The average number of laboratory assessments required per chemotherapy session, 6 months|Patient satisfaction vis-à-vis their chemotherapy care (Visual Analog Scale from 0.0 to 10.0), 6 months|Experimental arm per patient: The number Apicrypt transmissions / number of lab prescriptions, 6 months|Experimental arm per patient: the number questionnaires filled out / the number of requested questionnaires, 6 months|Experimental arm: Patient satisfaction vis-à-vis the ChimioPal tool (Visual Analog Scale from 0.0 to 10.0), 6 months|Overall costs, The cost of pouches, consultations, examinations and transport will be estimated in both arms. Staff time, optimized due to the new organization, will be quantified. The point of view of health insurance and the establishment will be considered. Any gains will be weighed against the cost of the experimental strategy., 6 months
+Compare the two arms of the study in terms of:
+
+A. each element contributing to the primary criterium;
+
+B. the quality of chemotherapy related care;
+
+C. logistics;
+
+D. patient satisfaction with respect to support for chemotherapy care;
+
+E. the feasibility and acceptability of the organization by patients will be assessed by the rate of optimal use of toxicity collection tools and patient satisfaction rates relative to the tool (experimental arm)
+
+F. Comparison of the overall cost of care in both arms and estimated cost of the strategy

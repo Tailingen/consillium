@@ -1,0 +1,14 @@
+Prediction of the Risk of Biochemical Relapse After Radical Prostatectomy for Prostate Cancer Using Radomics on Pre-therapeutic MRI
+With 50% of post-operative biochemical failure, efficient predictive models are needed to guide post-operative management.
+
+Radiomic features are quantitative features extracted from medical imaging, supposed to be correlated with tumor heterogeneity.
+
+We aim to build and test three predictive models (clinical, radiomic and combined models).
+Prostatic Adenocarcinoma
+Prediction of biochemical failure, Comparison of AUCs between each predictive model, From the date of surgery until data collection (up to 100 months)
+Prediction of survival without biochemical failure, Survival analysis: comparison of Kaplan-Meier curves, From the date of surgery until data collection (up to 100 months)
+With 50% of post-operative biochemical failure, efficient predictive models are needed to guide post-operative management.
+
+Radiomic features are quantitative features extracted from medical imaging, supposed to be correlated with tumor heterogeneity.
+
+We aim to build and test three predictive models (clinical, radiomic and combined models).

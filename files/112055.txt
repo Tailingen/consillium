@@ -1,0 +1,36 @@
+De-escalation Study for Stage IIa/IIb < 3 cm Seminoma
+Phase II, multicenter, prospective, randomized, non-comparative, de-escalation study.
+
+Patients with stage IIa/IIb \< 3 cm seminoma histologically proved after orchiectomy will be included in the study and will receive 1 cycle of Etoposide Cisplatine (EP) chemotherapy.
+
+Patients with negative week-3 PET-scan after the EP cycle, will be randomized (1:1 ratio, stratification according to the disease stage (stage IIa versus IIb seminoma)) to receive either radiotherapy (RT) boost on lymph nodes or 1 cycle of carboplatin AUC7 chemotherapy.
+
+Patients with positive week-3 PET-scan will received 3 additional cycles of EP chemotherapy.
+
+In parallel, eligible patients scheduled to receive standard lombo-aortic RT will be registered in an observational cohort.
+Seminoma|Stage II
+RADIATION: Radiotherapy boost|DRUG: Carboplatin AUC7|DRUG: 3 cycles of EP
+PFR-36M, Progression-free rate at 36 months
+
+The PFR-36M is assumed to be a random variable following a binomial distribution Bin (n, p) where n is the sample size and p is the true underlying PFR-36M. Conclusions and inferences will be conducted on p. The prior distribution of p (representing the knowledge of the progression-free rate probability prior to observing the data) will be pre-specified. In the absence of a strong idea about the PFR-36M to be observed, a non-informative prior distribution Beta (1,1) will be considered.
+
+Pr\[PFR-36M ≥ 80%\] will be expressed in each arm, associated with its 95% credibility interval. A treatment arm will be considered a positive sign for efficacy of de-escalation if there is a high probability that PFR-36M will be higher or equal to 80%: Pr\[PFR-36M ≥ 80%\] ≥ 90%. It means that if most of the distribution (90% of it) falls to the right hand side of 80%, it indicates that it is very likely that the effect is at least 80%, Up to 36 months after inclusion
+miRNA-M371, Serum level of miRNA-M371 as a potential biomarker of response. Association between serum level of miRNA M371 and response to treatments (according to RECIST v1.1) will be evaluated using a non-parametric Wilcoxon Mann and Whitney test and describe with boxplots., Up to 5 years|Association of PET scan results and miRNA-M371 rate, Correlation between serum level of miRNA M371 and FDG-PET results (metabolic response) will be evaluated using the Kendall rank correlation and describe graphically., Up to 5 years|Overall survival (OS), The Overall Survival will be defined as the time from date of inclusion to the date of death, from any cause. Patient whose death is not known at the time of analysis will be censored based on the last recorded date on which the patient was known to be alive.
+
+The Kaplan-Meier (KM) approach will be used to estimate median OS. Median OS as well as Survival rates at specific timepoints will be presented together with their 95% confidence interval (CI)., Up to 3 years|Quality of life (QoL), The QoL will be assessed using the EORTC QLQ-C30 questionnaire., Up to 20 months|Tolerance to treatment, The tolerance to each treatment will be described mainly on the frequency of adverse events (AEs) and their intensity and severity determined using the National Cancer Institute - Common Terminology Criteria for Adverse Events (NCI-CTCAE) grading scale version 5. Descriptive statistics will be provided for characterizing and assessing patient tolerance to treatment.
+
+AEs will be described and coded, in total and per System Organ Class and Preferred Term with Medical Dictionary for Regulatory Activities (MedDRA) coding, Up 5 years
+Stage II seminoma is defined by the presence of retroperitoneal lymph node metastases. It concerns approximately 15% of patients with seminoma. The standard treatment for patients with stage IIa/b seminoma, after orchiectomy, is extended lumbo-aortic/ipsilateral iliac radiotherapy (RT). Performing chemotherapy (CT) with 3 courses of Bleomycin-Etoposide-Cisplatin (BEP) or 4 courses of Etoposide-Cisplatin (EP) is an alternative.
+
+The optimal treatment choice remains controversial. Both treatment modalities are associated with excellent efficacy but also acute and late toxicities. European Society of Medical Oncology (ESMO) guidelines recommended in equal measure CT and RT for stage IIa. A recent systematic review concluded that RT and cisplatin-based combination CT are equally effective in clinical stage IIa/IIb seminoma, with a trend in favor of chemotherapy in stage IIb because of lower relapse rate. However, due to the rarity of stage II seminoma, a sufficiently powered randomized trial comparing radiotherapy with chemotherapy is unlikely to be completed.
+
+De-escalation strategies are required to minimize acute and long-term toxicities while maintaining efficacy. De-escalated treatment for seminoma patients with stage IIb/IIC/III and good prognosis according to International Germ Cell Cancer Collaborative Group (IGCCCG), based on negative PET after 2 cycles of EP chemotherapy, is feasible and safe according to SEMITEP results (cohort 2). In case of negative PET, 1 additional cycle of CT with carboplatin AUC7 was administered.
+
+Furthermore, serum levels of microRNA (miR)-371a-3p (miRNA-M371) have been significantly associated with clinical stage, primary tumor size and response to treatment in testicular germ cell tumors, with sensitivity and specificity higher than those of classic markers (hCGt, LDH). However, further evaluations are needed before modifying clinical practices.
+
+We propose to conduct a multicenter, prospective, randomized, non-comparative, de-escalation phase II study in patients with stage IIa/IIb seminoma \< 3 cm, evaluating:
+
+* a more de-escalated CT treatment: 1 cycle of EP followed, in case of negative PET, by either a boost of RT on lymph node or 1 cycle of carboplatin AUC7
+* the biomarker miRNA-M371 in therapeutic decision and correlation with PET.
+
+In parallel, eligible patients scheduled to receive standard lombo-aortic RT will be registered in an observational cohort.

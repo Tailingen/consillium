@@ -1,0 +1,31 @@
+Study of Infigratinib in Combination With Tamoxifen in Hormone Receptor Positive, HER2 Negative, FGFR Altered Advanced Breast Cancer
+The purpose of the study is identify the dose(s) of infigratinib to use in combination with tamoxifen to treat patients with a particular type of advanced breast cancer (hormone receptor-positive, HER2-negative, FGFR-altered breast cancer)
+Breast Cancer|HER2-negative Breast Cancer|ER Positive Breast Cancer|PR-Positive Breast Cancer
+DRUG: Infigratinib|DRUG: Tamoxifen|DRUG: Omnipaque 350|DRUG: Iopamidol|DIAGNOSTIC_TEST: Computed tomography (CT)
+Number of Dose-limiting Toxicities (DLTs), The primary outcome for this study is dose-limiting toxicities (DLTs) during the first 2 cycles of therapy. All grades per the Common Terminology Criteria for Adverse Events (CTCAE). DLT is defined as a related and clinically significant adverse event (AE), including missed doses due to a related AE., 8 weeks
+Number of Treatment Emergent Adverse Events (TEAE), Treatment emergent adverse events (TEAEs) are defined as adverse events of any grade with initial onset or increasing in severity after the first dose of study treatment until 30 days after last dose of study drug. Pregnancy during the reporting period will be classified as a serious adverse event., From first dose to 30 days after the last dose of study drug (up to 94 days)|Objective Tumor Response Rate, Objective tumor response will be assessed as achieving a Response Evaluation Criteria in Solid Tumors (RECIST) v1.1 Complete Response (CR) or a Partial Response (PR). The outcome will be reported as the number of subjects that achieve an overall response (OR) to treatment, ie, CR or PR, within 18 months of starting treatment. RECIST criteria are:
+
+* CR = Disappearance of all target lesions
+* PR = ≥ 30% decrease in the sum of the longest diameter of target lesions
+* Overall Response (OR) = CR + PR
+* Progressive disease (PD) = 20% increase in the sum of the longest diameter of target lesions, and/or the appearance of one or more new lesion(s)
+* Stable disease (SD) = Small changes that do not meet any of the above criteria, From enrollment to day of scan (up to 64 days)|Progression-free Survival (PFS), Progression free survival (PFS) means the participant remains alive without return or relapse of the tumor. The outcome is defined as the number of days to either progressive disease as defined per RECIST v1.1 or death. RECIST criteria are:
+
+* CR = Disappearance of all target lesions
+* PR = ≥ 30% decrease in the sum of the longest diameter of target lesions
+* Overall Response (OR) = CR + PR
+* Progressive disease (PD) = 20% increase in the sum of the longest diameter of target lesions, and/or the appearance of one or more new lesion(s)
+* Stable disease (SD) = Small changes that do not meet any of the above criteria, up to 9 months|Clinical Benefit Rate, Clinical benefit (CB) is defined as achieving a Response Evaluation Criteria in Solid Tumors (RECIST) v1.1 Complete Response (CR) ; Partial Response (PR); or Stable Disease (SD). The outcome will be reported as the number of subjects that achieve CR, PR, or SD. RECIST criteria are:
+
+* CR = Disappearance of all target lesions
+* PR = ≥ 30% decrease in the sum of the longest diameter of target lesions
+* SD = Small changes that do not meet any of the above criteria
+* Progressive disease (PD) = 20% increase in the sum of the longest diameter of target lesions, and/or the appearance of one or more new lesion(s), 6 months
+Primary Objective: Determine the maximum (no greater than 125 mg) dose of infigratinib used in combination with the FDA-approved dose and schedule of tamoxifen (Cohort 1) in terms of the number of dose-limiting toxicities observed in the first 2 cycles of therapy in subjects with hormone receptor-positive, HER2-negative advanced breast cancer.
+
+Secondary Objective:
+
+* Estimate the incidence of treatment-emergent adverse events (serious and non-serious).
+* Estimate the objective tumor response rate (ORR) in subjects with measurable disease.
+* Estimate the progression-free survival (PFS).
+* Estimate the durable clinical benefit rate.

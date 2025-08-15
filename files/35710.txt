@@ -1,0 +1,92 @@
+PLUG-IN: Pembrolizumab Combined With Enfortumab Vedotin for Advanced Melanoma Patients
+There is a lack of strategies for patients who progress after responding to PD-1/l-1 in melanoma. High expression of Nectin4 in skin and melanomas may serve as a new target in advanced melanomas. The combination of enfortumab/vedotin (EV) and pembrolizumab has shown synergistic effect in various solid tumors. Enfortumab vedotin and pembrolizumab may have a dual effect on clinical outcomes.
+
+PLUGIN is a multicenter, non-randomized open-label, 2-cohort, phase 2 study to evaluate the ORR of pembrolizumab in combination with enfortumab vedotin (EV) in previously treated participants with unresectable stage III or IV melanoma and disease progression on standard therapy.
+
+The primary objective is evaluate the efficacy of enfortumab/vedotin and pembrolizumabplus pembrolizumab in advanced melanoma.
+
+Hypothesis: 1) High expression of Nectin4 in skin and melanomas may serve as a new target in advanced melanomas; 2)EV+Pembrolizumab has shown synergistic effect in various solid tumors; 3) There is a lack of strategies for patients who respond to PD1-mAbs in melanoma.
+
+Primary Endpoint: Objective Response Rate (ORR) as assessed by the investigator according RECIST 1.1
+
+A total of 60 patients will be enrolled in this study to evaluate efficacy and outcomes in two different cohorts:
+
+Cohort 1: patients who did not have BRAF mutation V600E and had disease progression on immune (IO) therapy.
+
+Cohort 2, patients with activating BRAF mutations, must have progressed on IO therapy and BRAF/MEKi
+Melanoma
+DRUG: enfortumab vedotin|DRUG: pembrolizumab
+Objective response rate (ORR), Objective Response Rate (ORR) as assessed by the investigator through Response Evaluation Criteria in Solid Tumors Version 1.1 (RECIST 1.1). This will be considered as the percentage/proportion of patients with confirmed complete response (CR) or partial response (PR) as their overall best response throughout the study.
+
+Estimates of the ORR along with the associated 95% exact binomial confidence intervals will be provided. The binomial probability that the observed melanoma ORR is \> 0.15 will be calculated. Best confirmed response will be summarized. Response of melanoma will be measured by CT or MRI and assessed according to RECIST 1.1 by the investigator. If there are no assessments, the response will be taken to be unconfirmed and a non-response. Changes in tumor size from baseline will be calculated and displayed graphically, where appropriate., Throughout the study period,period, from initiation of treatment up to 2 years
+Progression-free Survival (PFS) 6 months, Progression-free Survival (PFS) defined as the time from the start of treatment to disease progression or death from any cause, whichever occurs first. The PFS will be estimated by the Kaplan-Meier method. Patients alive and free of events at the date of the analysis will be censored at their last known tumor assessment. Patients who start a new treatment line without event will be censored on the date of first dose of the subsequent anticancer treatment. PFS will be displayed graphically where appropriate.
+
+PFS will be assessed by the median / mean (95% CI) and for different timepoints:
+
+Proportion of patients without progression at the end of follow-up. Proportion of patients at 6-months, 12-months and as deemed opportune by the time of the analysis.
+
+Confidence intervals (CIs) for the 25th, 50th and 75th percentiles will be reported. The Cox proportional hazards model will be fitted to compute the hazard ratios on potential stratified groups if applicable., Throughout the study period, from initiation of treatment up to 6 months|Progression-free Survival (PFS) 12 months, Progression-free Survival (PFS) defined as the time from the start of treatment to disease progression or death from any cause, whichever occurs first. The PFS will be estimated by the Kaplan-Meier method. Patients alive and free of events at the date of the analysis will be censored at their last known tumor assessment. Patients who start a new treatment line without event will be censored on the date of first dose of the subsequent anticancer treatment. PFS will be displayed graphically where appropriate. PFS will be assessed by the median / mean (95% CI) and for different timepoints: Proportion of patients without progression at the end of follow-up. Proportion of patients at 6-months, 12-months and as deemed opportune by the time of the analysis.
+
+Confidence intervals (CIs) for the 25th, 50th and 75th percentiles will be reported. The Cox proportional hazards model will be fitted to compute the hazard ratios on potential stratified groups if applicable., Throughout the study period, from initiation of treatment up to 12 months|Overall survival (OS), Overall survival (OS): defined as the time elapsed from the first dose of study treatment until death from any cause. Patients alive and free of events at the date of the analysis will be censored at their last known contact. OS will be summarized using the Kaplan-Meier method and displayed graphically where appropriate. Confidence intervals (CIs) for the 25th, 50th and 75th percentiles will be reported. The Cox proportional hazards model will be fitted to compute the hazard ratios on potential stratified groups if applicable. OS will be calculated as median / mean (95% CI) and OS rate for different timepoints deemed appropriate at the time of the analysis (i.e.1-year OS rate) will also be calculated., Throughout the study period, from initiation of treatment up to 12 months|Overall survival (OS), Overall survival (OS): defined as the time elapsed from the first dose of study treatment until death from any cause. Patients alive and free of events at the date of the analysis will be censored at their last known contact. OS will be summarized using the Kaplan-Meier method and displayed graphically where appropriate. Confidence intervals (CIs) for the 25th, 50th and 75th percentiles will be reported. The Cox proportional hazards model will be fitted to compute the hazard ratios on potential stratified groups if applicable. OS will be calculated as median / mean (95% CI) and OS rate for different timepoints deemed appropriate at the time of the analysis (i.e.1-year OS rate) will also be calculated., Throughout the study period, from initiation of treatment up to 24 months|Clinical Benefit Rate (CBR), Clinical Benefit Rate (CBR): Assessed locally by the investigator through imaging follow-up (CT scan/MRI) using RECIST 1.1. CBR will include the percentage/proportion of patients with CR, PR, or SD (maintained \> 4 months) as their overall best response throughout the study period. The CBR will be estimated by binomial proportion, dividing the number of patients with CR, PR or SD for at least 4 months for CBR by the total number of patients studied in the population. The corresponding exact 2-sided 95% CIs will be provided. Changes in tumor size from baseline will be calculated and displayed graphically, where appropriate., Throughout the study period, from initiation of treatment up to 24 months|Duration of Response (DoR):, Duration of Response (DoR): The DoR will be calculated for patients who achieve a CR or PR. Dates of progression and censoring for DoR will be determined as described for PFS. Kaplan-Meier methods will be used to estimate the distribution of DoR. Quartiles including the median will be estimated by KM method along with their 95% confidence intervals., Throughout the study period, from initiation of treatment up to 12 months|Treatment-free Survival (TFS), Treatment-free Survival (TFS): defined as the time from the end of study treatment until the start of subsequent treatment, progression or death, whichever occurs first, will be determined as described for PFS. Kaplan-Meier methods will be used to estimate TFS., Throughout the study period, from initiation of treatment up to 24 months|Treatment-free Interval (TFI), Treatment-free Interval (TFI): defined as the time from the end of study treatment until the start of subsequent treatment; will be determined as described for PFS. Kaplan-Meier methods will be used to estimate TFI., Throughout the study period, from initiation of treatment up to 24 months|Adverse Events (AEs) Safety Objective, Number of Participants with Adverse Events (AEs), Throughout the study period, from the inclusion of the first patient up to 24 months|Incidence and severity of adverse events, Incidence and severity of adverse events, with severity determined according to National Cancer Institute Common Terminology Criteria for Adverse Events, Version 5.0 (NCI CTCAE v5.0), Throughout the study period, from the inclusion of the first patient up to 24 months|Discontinue Study Treatment Due to Adverse Events (AEs), Number of Participants Who Discontinue Study Treatment Due to Adverse Events (AEs), Throughout the study period, from the inclusion of the first patient up to 24 months
+1. RATIONALE
+
+   There is a lack of strategies for patients who progress after responding to PD-1/l-1 in melanoma. High expression of Nectin4 in skin and melanomas may serve as a new target in advanced melanomas. The combination of enfortumab vedotin and pembrolizumab has shown synergistic effect in various solid tumors. Enfortumab vedotin and pembrolizumab may have a dual effect on clinical outcomes:
+   1. Enfortumab vedotin could induce a tumor response based on a high dose of the microtubule disruptor in tumor cells.
+   2. Enfortumab vedotin could enhance antitumor immunity and prolong the benefit of continuous PD1 therapy.
+2. OBJECTIVE(S), HYPOTHESIS(ES), AND ENDPOINT(S)
+
+2.1 Primary Objective(s), Hypothesis(es), and Endpoint(s) Objective: This study will evaluate the efficacy of EV plus pembrolizumab in advanced melanoma.
+
+Hypothesis: 1) High expression of Nectin4 in skin and melanomas may serve as a new target in advanced melanomas; 2)EV+Pembrolizumab has shown synergistic effect in various solid tumors; 3) There is a lack of strategies for patients who respond to PD1-mAbs in melanoma.
+
+The combination of EV+Pembrolizumab may have a dual effect on outcomes:
+
+1. EV could induce a tumor response based on a high dose of the microtubule disruptor in tumor cells.
+2. EV could enhance antitumor immunity and prolong the benefit of continuous PD1 therapy.
+
+   Primary Endpoint:
+
+   - Objective Response Rate (ORR) as assessed by the investigator through Response Evaluation Criteria in Solid Tumors Version 1.1 (RECIST 1.1). This will be considered as the percentage/proportion of patients with confirmed complete response (CR) or partial response (PR) as their overall best response throughout the study.
+
+   2.2 Secondary Objective(s), Hypothesis(es), and Endpoint(s)
+
+   Secondary Endpoint:
+
+   - Progression-free Survival (PFS) as assessed by RECIST 1.1. PFS is defined as the time from first dose of study treatment to the date of the first documentation of progressive disease (PD) or death from any cause, whichever occurs first.
+   * Overall Survival (OS), defined as the time from first dose of study treatment to the date of death from any cause.
+   * Clinical Benefit Rate (CBR), defined as proportion of patients with complete response (CR) or partial response (PR), according to ORR definition for the trial, or maintained stable disease (SD) as their overall best response, assessed by imaging follow-up (CT scan/MRI) and RECIST V1.1 criteria. Stable disease should be maintained for at least 4 months to be considered as a CBR event.
+   * Duration of Response (DoR) as Assessed by RECIST 1.1. DoR is considered an acceptable measure of clinical benefit when considered with ORR.
+   * Treatment-free Survival (TFS), defined as the time from the end of study treatment until the start of subsequent treatment, progression or death, whichever occurs first.
+   * Treatment-free Interval (TFI), defined as the time from the end study treatment until the start of subsequent treatment.
+   * The safety objective for this study is to evaluate the safety of EV plus pembrolizumab on the basis of the following endpoints:
+
+     1. Number of Participants with Adverse Events (AEs) Safety Objective Incidence and severity of adverse events, with severity determined according to b. National Cancer Institute Common Terminology Criteria for Adverse Events, Version 5.0 (NCI CTCAE v5.0)
+
+     c. Number of Participants Who Discontinue Study Treatment Due to Adverse Events (AEs)
+   * Mean change from baseline in health-related quality of life (HRQoL) scores as assessed through use of the two-item global health status (GHS)/HRQoL subscale of the European Organisation for Research and Treatment of Cancer Quality ofLifeCore 30 (EORTC QLQ-C30) at specified time points.
+
+   2.3. Exploratory Objective(s) Objective: Correlative studies (microbiome and transcriptomic analysis)
+
+   5. TRIAL DESIGN This is a multicenter, non-randomized open-label, 2-cohort, phase 2 study to evaluate the ORR of pembrolizumab in combination with enfortumab vedotin (EV) in previously treated participants with unresectable stage III or IV melanoma and disease progression on standard therapy.
+
+   Specific procedures to be performed during the study, as well as their prescribed times and associated visit windows, are specifically outlined in the protcolo.
+
+   The study will include a Screening Phase, a Treatment Phase, and a Posttreatment Follow-Up Phase. The Screening Phase assessments must be performed within 30 days before randomization. Potential participants will be screened to determine if they meet the required eligibility criteria.
+
+   Assessments will include AE monitoring, concomitant medication review, physical examination and ophthalmological examination, vital signs, blood pressure, ECG, hematology, chemistry, urine dipstick, and ECOG performance status.
+
+   6. TRIAL POPULATION
+
+   A total of 60 patients will be enrolled after signing the informed consent in two different cohorts:
+
+   - Cohort 1: patients who did not have BRAF mutation V600E and had disease progression on immune (IO) therapy.
+
+   - Cohort 2: patients with activating BRAF mutations, must have progressed on IO therapy and BRAF/MEKi.
+
+   Patients are males/females, ≥18 years old, with measurable disease according to RECIST 1.1 and progressive disease / recurrence documented within 12 weeks from the last dose of previous anti-PD-1/L1. Patients must have Eastern Cooperative Oncology Group (ECOG) performance status of 0-1, have recovered from previous toxicities and with an adequate organ function. Archival tumor tissue sample or newly obtained biopsy is requested. Patients with contraindications to receive immunotherapy, exposed previously to enfortumab vedotin and pregnant or breastfeeding women are excluded.
+
+   7. STUDY TREATMENTS
+
+   Enfortumab vedotin will be administered on Days 1, 8, 22 and 29 of every 6-week cycle by IV infusion given over approximately 30 minutes. Pembrolizumab 400 mg will be administered as a 30 minute IV infusion every 6 weeks.
+
+   Enfortumab vedotin will be administered until progression of the disease, lack of benefit, death, consent withdrawal or unacceptable toxicity. Treatment with pembrolizumab will last a maximum of 18 cycles. Pembrolizumab may be discontinued earlier in case of progression of the disease, lack of benefit, death, consent withdrawal or unacceptable toxicity.

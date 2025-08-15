@@ -1,0 +1,27 @@
+Study of the Clearance of Minimal Residual Disease Measured At the End of First-line Treatment in Patients with Lymphoma
+This study aims to assess the feasibility of predicting patient outcomes at 1 year and 2 years after the end of first-line treatment using "liquid biopsy" (monitoring of circulating tumor DNA, ctDNA), compared to the currently recommended examination, which is Positon Emission Tomography (PET-CT) imaging at the end of first-line treatment (assessment of therapeutic response using the Deauville score according to the Lugano 2014 criteria). The study will focus on demonstrating the ability of ctDNA clearance to predict 1-year and 2-year outcomes (lymphoma progression or death) in patients treated with first-line therapy for B-cell lymphoma or Hodgkin lymphoma. This could contribute to establishing minimal residual disease clearance as a key endpoint for evaluating the efficacy of therapeutic strategies in future clinical trials and guiding patient management (e.g., de-escalation or intensification strategies, redirection toward immunotherapy, and theranostic approaches).
+B-cell Lymphoma|Hodgkin Lymphoma
+OTHER: Blood assessment
+Evaluation of the diagnostic performance of minimal residual disease (MRD) at the end of treatment in terms of sensitivity, specificity, positive predictive value, and negative predictive value for predicting 1-year progression-free survival (PFS)., Comparison with the diagnostic performance of PET-CT imaging at the end of first-line treatment for predicting 1-year PFS, 1 year
+Response rates, Evaluation of responses based on PET-CT with Lugano 2014 Criteria, 6 months|Overall survival, Time between inclusion and death, one year
+Over the past decade, molecular biology methods known as "liquid biopsy" tools have emerged to identify tumor genotypes without a traditional biopsy, using blood samples and sequencing of circulating tumor DNA (ctDNA). Evidence supporting ctDNA's ability to perform comprehensive tumor genotyping, serving as an accurate reflection of the tumor genotype, has been well-documented in the literature. Two key aspects of the clinical relevance and routine applicability of ctDNA are currently under investigation:
+
+The potential to measure and monitor the clearance of minimal residual disease (MRD) during and after treatment, which heavily depends on the detection limit and sensitivity of the analytical method.
+
+The ability to deliver ctDNA analysis results to clinicians in real time, within timelines compatible with patient decision-making.
+
+At Rouen, the investigators now use a method based on Unique Molecular Identifiers (UMIs), a type of molecular barcode that provides increased precision during sequencing. These molecular barcodes are short sequences used to uniquely label each DNA molecule in a sample library, minimizing false positives caused by random sequencing errors. By incorporating individual barcodes into each original DNA fragment, true variants in the original sample can be distinguished from errors introduced during library preparation, target enrichment, or sequencing.
+
+The investigators have developed a new Next Generation sequencing (NGS) panel dedicated to ctDNA analysis using UMIs, encompassing 101 genes and 133 Kb of sequencing regions with phased variants on an Illumina® pipeline.
+
+The panel offers several advantages:
+
+It includes exons of genes involved in lymphomagenesis, with prognostic significance, or that aid in lymphoma classification.
+
+It targets non-coding regions affected by AID (somatic hypermutation). It covers regions frequently impacted by deletions or amplifications (gene copy number variations).
+
+It employs a genomic region capture technique, which, unlike amplicon-based methods, enables the study of the fragmentome. This is important as ctDNA fragmentation profiles are not uniform and may reflect transcriptional and epigenetic changes in the lymphoma's cell of origin, providing additional insights beyond the mutation and somatic variant data commonly used in molecular biology techniques.
+
+The investigators aim to use this panel to refine patient outcome predictions in lymphomas at the end of first-line treatment, with a particular focus on ctDNA kinetics and clearance compared to PET-CT imaging and the synergy between these tools. The investigators anticipate that these findings will support the personalization of therapeutic strategies for lymphoma patients through appropriate escalation or de-escalation approaches guided by MRD. The results of this study will provide the proof of concept necessary for adopting this MRD monitoring test into routine clinical practice for lymphoma patients.
+
+This MRD clearance tracking test could also serve as a key tool in clinical trials for new drug development. By eliminating the need for long follow-up periods required to establish progression-free survival (PFS), this approach could enable earlier interim analyses of efficacy, potentially accelerating and shortening the duration of Phase 3 trials and the clinical development of new lymphoma treatments. If accepted by the academic community as an early efficacy endpoint and a surrogate marker for PFS, this test could significantly impact the design of future lymphoma trials.

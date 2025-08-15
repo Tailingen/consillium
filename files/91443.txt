@@ -1,0 +1,27 @@
+Anti-Lag-3 (Relatlimab) and Anti-PD-1 Blockade (Nivolumab) Versus Standard of Care (Lomustine) for the Treatment of Patients With Recurrent Glioblastoma
+This phase II trial compares the safety, side effects and effectiveness of anti-lag-3 (relatlimab) and anti-PD-1 blockade (nivolumab) to standard of care lomustine for the treatment of patients with glioblastoma that has come back after a period of improvement (recurrent). Relatlimab and nivolumab are monoclonal antibodies that may interfere with the ability of tumor cells to grow and spread. Lomustine is a chemotherapy drug and in a class of medications called alkylating agents. It damages the cell's deoxyribonucleic acid (DNA) and may kill cancer cells. Relatlimab and nivolumab may be safe, tolerable, and/or effective compared to standard of care lomustine in treating patients with recurrent glioblastoma.
+Recurrent Glioblastoma
+PROCEDURE: Biopsy Procedure|PROCEDURE: Biospecimen Collection|DRUG: Lomustine|PROCEDURE: Magnetic Resonance Imaging|BIOLOGICAL: Nivolumab|BIOLOGICAL: Relatlimab|PROCEDURE: Surgical Procedure
+Overall survival (OS), The comparison of OS between the arms will be made with respect to restricted mean survival time (RMST) at 30 months. The RMST difference between arms will be determined as a point estimate with a corresponding 90% confidence interval (CI)., From randomization until death due to any cause, assessed at 30 months|OS rate, The OS rate between the 2 arms will be compared using a chi-square test. The point estimate and corresponding 90% CI will be generated for the difference in proportion., From randomization until death due to any cause, assessed at 12 months
+Progression-free survival (PFS), From randomization until confirmed disease progression as assessed by the treating physician or death due to any cause, whichever occurs first, assessed up to 5 years|Radiographic response, Radiographic response will be assessed using Immunotherapy Response Assessment in Neuro-Oncology criteria. Patients with a complete response or partial response will be deemed a radiographic response. Patients with no follow-up imaging assessment will be deemed as a non-response. The proportion of patients with a radiographic response will be compared between the treatment arms with a Fisher's exact test., Up to 5 years|Incidence of adverse events (AEs), AEs will be assessed using Common Terminology Criteria for Adverse Events version 5.0. AEs will be summarized with frequencies and relative frequencies. The maximum grade for an AE will be recorded for each patient. The number (percent) of patients that experience each observed AE will be summarized by the treatment a patient received. The proportion of patients who experience a grade 3+, a grade 4+, and grade 5 AEs will be summarized by number and percent for each treatment arm. The primary summary will be for AEs regardless of attribution to treatment. An analogous summary will be performed for AEs deemed at least possibly related to treatment., Up to 5 years
+PRIMARY OBJECTIVE:
+
+I. To compare the restricted mean survival time (RMST) for overall survival (OS) between patients receiving the combination of relatlimab (BMS-986016) and nivolumab versus patients receiving standard of care chloroethylcyclohexylnitrosourea (CCNU) (lomustine).
+
+SECONDARY OBJECTIVES:
+
+I. To compare the 12-month OS rates between patients receiving the combination of relatlimab (BMS-986016) and nivolumab versus patients receiving standard of care CCNU (lomustine).
+
+II. To compare the restricted mean survival times for progression-free survival (PFS) between patients receiving the combination of relatlimab (BMS-986016) and nivolumab versus patients receiving standard of care CCNU (lomustine).
+
+III. To compare the radiographic response rate between patients receiving the combination of relatlimab (BMS-986016) and nivolumab versus patients receiving standard of care CCNU (lomustine).
+
+IV. To compare the safety/adverse event rate between patients receiving the combination of relatlimab (BMS-986016) and nivolumab versus patients receiving standard of care CCNU (lomustine).
+
+OUTLINE: Patients are randomized to 1 of 2 arms.
+
+ARM I: Patients receive nivolumab intravenously (IV) over 30 minutes followed by relatlimab IV over 30 minutes on day 1 of each cycle. Cycles repeat every 28 days in the absence of disease progression or unacceptable toxicity. Additionally, patients undergo surgery or biopsy, magnetic resonance imaging (MRI), and blood sample collection throughout study.
+
+ARM II: Patients receive lomustine orally (PO) on day 1 of each cycle. Cycles repeat every 42 days in the absence of disease progression or unacceptable toxicity. Additionally, patients undergo surgery or biopsy, MRI, and blood sample collection throughout study.
+
+After completion of study treatment, patients are followed up every 6 months for up to 5 years from time of randomization.

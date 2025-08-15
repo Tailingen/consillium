@@ -1,0 +1,35 @@
+Testing the Use of Targeted Treatment (AMG 510) for KRAS G12C Mutated Advanced Non-squamous Non-small Cell Lung Cancer (A Lung-MAP Treatment Trial)
+This phase II Lung-MAP treatment trial studies the effect of AMG 510 in treating non-squamous non-small cell lung cancer that is stage IV or has come back (recurrent) and has a specific mutation in the KRAS gene, known as KRAS G12C. Mutations in this gene may cause the cancer to grow. AMG 510, a targeted treatment against the KRAS G12C mutation, may help stop the growth of tumor cells.
+Lung Adenocarcinoma|Lung Non-Small Cell Carcinoma|Recurrent Lung Non-Squamous Non-Small Cell Carcinoma|Stage IV Lung Cancer AJCC v8|Stage IVA Lung Cancer AJCC v8|Stage IVB Lung Cancer AJCC v8
+DRUG: Sotorasib
+Response rate (confirmed, complete or partial), Up to 3 years
+Incidence of adverse events, The frequency and grade of individual toxicities attributable to treatment will be estimated., Up to 3 years|Progression free survival, Will be estimated using the method of Kaplan-Meier. Confidence intervals about medians will be estimated using the Brookmeyer-Crowley method and about landmark time points will be calculated using Greenwood's formula and based on a log-log transformation applied on the survival function. Binary proportions and associated confidence intervals will be estimated for within cohort objectives. With participants in Cohort 1 and 3 and participants in Cohort 2, binary proportions can be estimated to within 16% and 20% with 95% confidence, respectively., Up to 3 years|Overall survival, Will be estimated using the method of Kaplan-Meier. Confidence intervals about medians will be estimated using the Brookmeyer-Crowley method and about landmark time points will be calculated using Greenwood's formula and based on a log-log transformation applied on the survival function. Binary proportions and associated confidence intervals will be estimated for within cohort objectives. With participants in Cohort 1 and 3 and participants in Cohort 2, binary proportions can be estimated to within 16% and 20% with 95% confidence, respectively., Up to 3 years|Duration of response, Will be estimated using the method of Kaplan-Meier. Confidence intervals about medians will be estimated using the Brookmeyer-Crowley method and about landmark time points will be calculated using Greenwood's formula and based on a log-log transformation applied on the survival function. Binary proportions and associated confidence intervals will be estimated for within cohort objectives. With participants in Cohort 1 and 3 and participants in Cohort 2, binary proportions can be estimated to within 16% and 20% with 95% confidence, respectively., Up to 3 years
+PRIMARY OBJECTIVE:
+
+I. To evaluate the response rate (confirmed, complete or partial) of AMG 510 in participants with KRAS\^G12C mutated stage IV or recurrent non-squamous non-small cell lung cancer (NSCLC).
+
+SECONDARY OBJECTIVES:
+
+I. To evaluate investigator assessed progression-free survival (IA-PFS) within each cohort.
+
+II. To evaluate overall survival (OS) within each cohort. III. To evaluate duration of response (DOR) among responders within each cohort.
+
+IV. To evaluate the frequency and severity of toxicities within the full study population (all cohorts combined).
+
+TRANSLATIONAL MEDICINE OBJECTIVES:
+
+I. To evaluate the association between clinical outcomes (response, IA-PFS, OS) and other co-mutations (e.g., CDKN2A/B/C, ATM, PIK3CA) identified by the Foundation Medicine Inc (FMI) FoundationOne CDx from LUNGMAP, within cohorts and across the full study population of KRAS\^G12C positive participants.
+
+II. To evaluate the association between clinical outcomes (response, IA-PFS, OS) and PD-L1 total proportion score determined by screening in LUNGMAP, within cohorts and across the full study population of KRAS\^G12C positive participants.
+
+III. To evaluate the association between clinical outcomes (response, IA-PFS, OS) and Tumor Mutational Burden Score determined by the FMI FoundationOne CDx from LUNGMAP, within cohorts and across the full study population of KRAS\^G12C positive participants.
+
+IV. To collect, process, and bank cell-free deoxyribonucleic acid (cfDNA) at pre-treatment on cycle 1 day 1, cycle 2 day 1, cycle 3 day 1, and at progression for future development of a proposal to evaluate comprehensive next-generation sequencing of circulating tumor DNA (ctDNA) and association with clinical outcomes.
+
+Note: The translational medicine proposal to use these specimens will be submitted as a revision to CTEP for approval, prior to the SWOG Statistical and Data Management Center (SDMC) review of assay results.
+
+OUTLINE:
+
+Patients receive AMG 510 orally (PO) once daily (QD) on days 1-21. Cycles repeat every 21 days in the absence of disease progression or unacceptable toxicity.
+
+After completion of study treatment, patients are followed up every 3 months for 3 years if the disease has not gotten worse at the time of finishing study treatment. If the disease has gotten worse, patients are followed up every 6 months for 2 years, then at the end of the 3 years from the time they go on study.

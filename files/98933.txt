@@ -1,0 +1,27 @@
+Chemokine Modulation Therapy and Pembrolizumab in Treating Participants With Metastatic Triple-Negative Breast Cancer
+This pilot trial studies how well chemokine modulation therapy works when given prior to pembrolizumab in treating participants with triple-negative breast cancer that has spread to other places in the body. Drugs used in chemokine modulation therapy, such as celecoxib, recombinant interferon alfa-2b, and rintatolimod, work by unleashing or enhancing the cancer immune responses that already exist by either blocking inhibitory molecules or by activating stimulatory molecules. Monoclonal antibodies, such as pembrolizumab, may interfere with the ability of tumor cells to grow and spread. Giving chemokine modulation therapy before pembrolizumab may work better in treating participants with metastatic triple-negative breast cancer
+Triple -Negative Breast Cancer|Estrogen Receptor Negative|HER2/Neu Negative|Anatomic Stage IV Breast Cancer AJCC|Progesterone Receptor Negative
+PROCEDURE: Biopsy|PROCEDURE: Chemokine Modulation Therapy|DRUG: Celecoxib|BIOLOGICAL: Recombinant Interferon Alfa-2b|DRUG: Rintatolimod|BIOLOGICAL: Pembrolizumab
+Overall response rate (ORR) as measured by immune-related Response Evaluation Criteria in Solid Tumors (irRECIST) criteria 1.1, Will be assessed using a Simon two-stage minimax design., Up to 2 years
+Progression-free survival (PFS) as measured by irRECIST 1.1 criteria, Will be assessed using a Simon two-stage minimax design, Up to 2 years|Overall survival (OS) as measured by irRECIST 1.1 criteria, Up to 2 years|Disease control rate (DCR) as measured by irRECIST 1.1 criteria, Will be assessed using a Simon two-stage minimax design, Up to 2 years|Incidence of adverse events graded according to Common Terminology Criteria for Adverse Events (CTCAE) version 5.0, Adverse events (AEs), serious AEs (SAEs), and toxicities will be summarized by attribution (overall and related/unrelated to treatment) and grade using frequencies and relative frequencies, Up to 2 years
+PRIMARY OBJECTIVES:
+
+-To evaluate the increase of CD8+ infiltration into tumor microenvironment after pre-treatment CKM regime
+
+SECONDARY OBJECTIVES:
+
+* To evaluate the overall response rate (ORR) to the combination therapy per RECIST v1.1
+* To evaluate the efficacy of the chemokine modulation (CKM) in combination with pembrolizumab in patients with metastatic triple negative breast cancer (mTNBC) as compared to historic outcomes of pembrolizumab and other anti-PD1/PD-L1 therapies alone, as determined by secondary measures of efficacy including progression-free survival (PFS), overall survival (OS), and disease control rate (DCR).
+* To evaluate the safety profile of CKM regimen given as pre-treatment to pembrolizumab therapy in metastatic breast cancer patients using Common Terminology Criteria for Adverse Events (CTCAE) version 5.0.
+
+EXPLORATORY OBJECTIVES:
+
+* Examine the immune analysis profile of CKM and pembrolizumab combination.
+* Examine the relationship of infiltrating CD4+ and CD8+ T cells and other immune and genetic markers, and their associated PD-1, CD45RA or CD45RO levels.
+* Correlate PD-L1 expression within both neoplastic and nonneoplastic stromal elements of the tumor microenvironment to PFS, OS, ORR and adverse events (AEs).
+* Correlate Immune Panel results with ORR, PFS, OS and AEs.
+* Comparison of response assessment criteria for a prospective analysis
+
+OUTLINE:
+
+Participants undergo pre-treatment biopsy. Participants then undergo chemokine modulation therapy consisting of celecoxib orally (PO) twice daily (BID), recombinant interferon alfa-2b intravenously (IV) over 20 minutes, and rintatolimod IV over 30-60 minutes on days -11 to -9, and -4 to -2. Participants then undergo additional biopsy. Following biopsy and chemokine modulation therapy, participants receive pembrolizumab IV over 30 minutes on day 1. After completion of study treatment, participants are followed up for 90 days and then every 6 months for up to 2 years.

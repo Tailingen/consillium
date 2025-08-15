@@ -1,0 +1,34 @@
+CMP-001 and INCAGN01949 for Patients With Stage IV Pancreatic Cancer and Other Cancers Except Melanoma
+This phase Ib/II trial studies the side effects and best dose of CMP-001 and how well it works when given together with INCAGN01949 in treating patients with stage IV pancreatic cancer and other cancers except melanoma. CMP-001 is made up of a short piece of DNA that is packaged in a protein, known as a virus-like particle (VLP). VLPs are detected and processed by cells of the immune system. The DNA contained in CMP-001 activates the immune system and recruit cells of the immune system to the tumor. INCAGN01949 is an antibody, a type of protein, which has been shown to stimulate the immune system. Injecting CMP-001 and INCAGN01949 directly into the tumor may work against tumor cells to slow tumor growth by causing tumor cells to die.
+Locally Advanced Malignant Solid Neoplasm|Metastatic Pancreatic Adenocarcinoma|Stage IV Pancreatic Cancer AJCC v8|Unresectable Malignant Solid Neoplasm
+BIOLOGICAL: Agonistic Anti-OX40 Monoclonal Antibody INCAGN01949|DRUG: VLP-encapsulated TLR9 Agonist CMP-001
+Disease control rate (Phase II), Will assess complete response (CR) + partial response (PR) + stable disease (SD) via Response Evaluation Criteria in Solid Tumors (RECIST) and immune-modified Response Evaluation Criteria in Solid Tumors (iRECIST). All proportions will be estimated using an exact 95% binomial confidence interval., Up to 16 weeks|Objective response rate (CR + PR), Will be evaluated using the RECIST 1.1 and iRECIST. Changes (i.e. improvements) in tumor measurements from baseline values will be assigned a status of complete response (CR) or partial response (PR) or stable disease (SD). Objective response measurements will comprise the sum of CR plus PR., Up to 2 years
+Incidence of adverse events, All adverse events occurring on or after week 1/day 1 will be summarized by body systems and per grade according to National Cancer Institute (NCI)-Common Terminology Criteria (CTC) version 5., Up to 2 years|Progression free survival (PFS), PFS is defined as the interval from the date of registration (i.e. assignment of patient number) to the earliest date of documented evidence of recurrent or progressive disease, or the date of death due to any cause, whichever occurs first. All proportions will be estimated using an exact 95% binomial confidence interval, and a Kaplan-Meier analysis will be performed., Up to 2 years|Overall survival, Will be measured from the date of registration (i.e. assignment of patient number) to the date of death due to any cause, or the date of last contact (censored observations). All proportions will be estimated using an exact 95% binomial confidence interval, and a Kaplan-Meier analysis will be performed., Up to 2 years
+OX40 expression within the lymphocyte subsets (effector T cell [Teff] and regulatory T cell [Treg]), Will be analyzed by flow cytometry on peripheral blood, within the lymphocyte subsets (Teffs and Tregs)., Up to 2 years|Enumeration of CD4+ and CD8+ T cell subsets, Will be enumerated using flow cytometry., Up to 2 years|Expression of activation/differentiation markers on CD4+ and CD8+ T cell subsets, Will analyze CD127, HLA-DR, CD45RO, CCR7, CXCR3 using flow cytometry., Up to 2 years|Amplification and characterization of T cell receptor (TCR) a and b sequences of tumor-infiltrating T cells, Will be analyzed using reverse transcriptase-polymerase chain reaction (RT-PCR) and sequencing., Up to 2 years|Immune cell populations, Will perform ribonucleic acid sequencing (RNASeq) to determine immune cell populations including T cells and macrophages., Up to 2 years
+PRIMARY OBJECTIVES:
+
+I. To determine the maximum tolerated dose and tolerance of virus-like particle VLP-encapsulated TLR9 agonist CMP-001 (CMP-001 \[TLR9 agonist\]) in combination with agonistic anti-OX40 monoclonal antibody INCAGN01949 (INCAGN01949) (an activating antibody against OX40) both given intratumorally for patients with previously treated (for their metastatic disease) pancreatic ductal adenocarcinoma and other types of cancer except melanoma. (Phase IB) II. To determine the efficacy (disease control rate of complete response \[CR\] + partial response \[PR\] + stable disease \[SD\] X 16 weeks) of CMP001 (TLR9 agonist) in combination with INCAGN01949 (anti-OX40 antibody) for patients with previously treated (for their metastatic disease) pancreatic ductal adenocarcinoma. (Phase II) III. To determine effects on tumor markers. (Phase II)
+
+SECONDARY OBJECTIVES:
+
+I. Define the toxicity of the combination of CMP-001 (TLR9) + INCAGN01949 (OX40).
+
+II. Determine progression free survival and overall survival.
+
+EXPLORATORY OBJECTIVES:
+
+I. Using flow cytometry on peripheral blood OX40 expression will be analyzed within the lymphocyte subsets (effector T cell \[Teff\] and regulatory T cell \[Treg\]).
+
+II. On tissue samples collected prior to, and during, treatment, will:
+
+IIa. Use flow cytometry to enumerate CD4+ and CD8+ T cell subsets, and the expression of activation/differentiation markers (including CD127, HLA-DR, CD45RO, CCR7, CXCR3) on each.
+
+IIb. Use reverse transcriptase-polymerase chain reaction (RT-PCR) and sequencing to amplify and characterize the T-cell receptor (TCR)a and b sequences of tumor-infiltrating T cells, looking for evidence of oligoclonal T cell expansion, OX40 expression.
+
+IIc. If there is adequate tumor tissue, perform ribonucleic acid sequencing (RNAseq) to determine different immune cell populations, including T cells and macrophages.
+
+OUTLINE: This is a phase Ib, dose-escalation study of INCAGN01949, followed by a phase II study.
+
+Patients receive CMP-001 subcutaneously (SC) on day 1 of weeks 1 and 2 and intratumorally (IT) on day 1 of weeks 3-6 in the absence of disease progression or unacceptable toxicity. Patients also receive INCAGN01949 IT on day 1 of weeks 3-6 in the absence of disease progression or unacceptable toxicity.
+
+After completion of study treatment, patients are followed up for 30 days, and then every 12 weeks.

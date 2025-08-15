@@ -1,0 +1,30 @@
+Niraparib, Temozolomide and Atezolizumab in Treating Patients With Advanced Solid Tumors and Extensive-Stage Small Cell Lung Cancer With a Complete or Partial Response to Platinum-Based First-Line Chemotherapy
+This phase Ib/II trial studies the best dose of temozolomide and how well it works with niraparib and atezolizumab in treating patients with solid tumors that have spread to other places in the body (advanced) and extensive-stage small cell lung cancer with a complete or partial response to platinum-based first-line chemotherapy. Drugs used in chemotherapy, such as temozolomide, work in different ways to stop the growth of tumor cells, either by killing the cells, by stopping them from dividing, or by stopping them from spreading. Niraparib is an inhibitor of PARP, an enzyme that helps repair deoxyribonucleic acid (DNA) when it becomes damaged. Blocking PARP may help keep cancer cells from repairing their damaged DNA, causing them to die. PARP inhibitors are a type of targeted therapy. Immunotherapy with monoclonal antibodies, such as atezolizumab, may help the body's immune system attack the cancer, and may interfere with the ability of tumor cells to grow and spread. Giving temozolomide, niraparib and atezolizumab may work better in treating patients with advanced solid tumors and extensive-stage small cell lung cancer.
+Advanced Malignant Solid Neoplasm|Extensive Stage Lung Small Cell Carcinoma|Stage III Lung Cancer AJCC v8|Stage IIIA Lung Cancer AJCC v8|Stage IIIB Lung Cancer AJCC v8|Stage IIIC Lung Cancer AJCC v8|Stage IV Lung Cancer AJCC v8|Stage IVA Lung Cancer AJCC v8|Stage IVB Lung Cancer AJCC v8
+BIOLOGICAL: Atezolizumab|DRUG: Niraparib|OTHER: Quality-of-Life Assessment|OTHER: Questionnaire Administration|DRUG: Temozolomide
+Recommended phase II dose of niraparib and temozolomide combination (Phase Ib), At 28 days|Progression-free survival (Phase II), Assessed per Response Evaluation Criteria in Solid Tumors 1.1. A Cox proportional hazards model will be used to estimate the hazard ratio and its 95% confidence interval. A one-sided stratified log-rank tests will be used to compare Arm A versus Arm B., From randomization to cancer progression, assessed up to 36 months
+Objective response rate, Defined as a partial or complete tumor response per RECIST 1.1., Up to 36 months|Overall survival, A one-sided stratified log-rank tests will compare Arm A versus Arm B., From randomization to death by any cause, assessed up to 36 months|Incidence of adverse events per Common Terminology Criteria for Adverse Events version 4.0, Incidence of adverse events (AEs) occurring during the study will be summarized by system organ class and preferred term. Adverse events will also be summarized by causality and grade. Serious adverse events will be listed separately. Descriptive summary statistics will be used to summarize changes over time in laboratory values, vital signs, physical examination findings, and Eastern Cooperative Oncology Group (ECOG) performance status, for all treated participants., Up to 36 months
+Quality of life per Functional Assessment of Cancer Therapy - Lung questionnaire (FACT-L), Will be analyzed by the clinical biostatisticians in the University of California, Los Angeles Department of Medicine Medical Statistics Core. The FACT-L uses a 5 point scale from 0 (not at all) to 4 (very much). a higher score is better., Up to 36 months
+PRIMARY OBJECTIVES:
+
+I. Determine the recommended phase II dose (RP2D) of temozolomide in combination with niraparib and atezolizumab. (Phase Ib) II. Evaluate the efficacy of niraparib plus temozolomide plus atezolizumab at RP2D (Arm A) compared with atezolizumab (Arm B) as measured by progression-free survival (PFS). (Phase II)
+
+SECONDARY OBJECTIVES:
+
+I. To evaluate the efficacy of niraparib plus temozolomide plus atezolizumab compared with atezolizumab alone, as measured by overall survival (OS).
+
+II. To evaluate the efficacy of niraparib plus temozolomide plus atezolizumab compared with atezolizumab alone, as measured by objective response rate (ORR) as measured by Response Evaluation Criteria in Solid Tumors (RECIST) 1.1.
+
+III. To evaluate the safety of niraparib plus temozolomide plus atezolizumab compared with atezolizumab alone as measured by adverse events (AEs).
+
+EXPLORATORY OBJECTIVE:
+
+I. To assess participant-reported outcomes on health-related quality of life and adverse events.
+
+OUTLINE: This is a dose-escalation study of temozolomide. Patients are randomized to 1 of 2 arms.
+
+ARM A: Patients receive temozolomide orally (PO) once daily (QD) on days 1-5 and niraparib PO QD on days 1-28. Cycles repeats every 28 days in the absence of disease progression or unacceptable toxicity. Patients also receive standard of care atezolizumab intravenously (IV) every 3 weeks in the absence of disease progression or unacceptable toxicity.
+
+ARM B: Patients receive standard of care atezolizumab IV every 3 weeks in the absence of disease progression or unacceptable toxicity.
+
+After completion of study treatment, patients are followed up at 30 days, every 8 weeks for 24 weeks, and then every 12 weeks for up to 1 year.

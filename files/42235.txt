@@ -1,0 +1,36 @@
+Nivolumab and Ipilimumab After Donor Stem Cell Transplant in Treating Patients With High Risk Refractory or Relapsed Acute Myeloid Leukemia or Myelodysplastic Syndrome
+This phase Ib trial studies the side effects and best dose of nivolumab and ipilimumab after donor stem cell transplant in treating patients with high risk acute myeloid leukemia or myelodysplastic syndrome that does not respond to treatment or has come back. Immunotherapy with monoclonal antibodies, such as nivolumab and ipilimumab, may help the body's immune system attack the cancer, and may interfere with the ability of tumor cells to grow and spread.
+Allogeneic Hematopoietic Stem Cell Transplantation Recipient|Myelodysplastic Syndrome|Recurrent Acute Myeloid Leukemia|Refractory Acute Myeloid Leukemia
+BIOLOGICAL: Ipilimumab|BIOLOGICAL: Nivolumab
+Optimal dose of nivolumab in combination with ipilimumab, Dose-finding will be carried out using the Bayesian optimal interval design., Up to day 42
+Overall response rate (ORR), ORR will be estimated as the proportion of patients who achieve complete response (CR), complete response with incomplete bone marrow recovery (CRi), or partial response (PR). The 2-sided 95% exact binomial confidence interval (CI) of ORR will be calculated., Up to 1 year|Duration of response (DOR), DOR will be estimated using the method of Kaplan and Meier, and distributions will be compared using the log-rank test., From the date of initial response (PR or better) to the date of first documented disease progression/relapse or death, assessed up to 1 year|Disease-free survival (DFS), DFS will be estimated using the method of Kaplan and Meier, and distributions will be compared using the log-rank test., From the date of first dose of study drug until the date of documented graft versus host disease (GVHD), relapses from CR, or death from any cause, assessed up to 1 year|Overall survival (OS), OS will be estimated using the method of Kaplan and Meier, and distributions will be compared using the log-rank test., From the first dose of study drug until death or last follow-up, assessed up to 1 year
+Neo-antigen identification, Will be detected using McNemar tests or generalized linear mixed model (GLMM)., Up to 1 year|Immune cell phenotype, Will be detected using McNemar tests or GLMM., Up to 1 year|Immune checkpoint molecule expression, Will be detected using McNemar tests or GLMM., Up to 1 year|T cell repertoire (TCR), Will be detected using McNemar tests or GLMM., Up to 1 year|Immunological and molecular changes in peripheral blood and bone marrow, Paired t-tests or GLMM will be used., Baseline up to 1 year|TCR repertoire in patients who experience acute (a)GVHD, Will be detected using McNemar tests or GLMM., Up to 1 year|Immune phenotype in patients who experience aGVHD, Will be detected using McNemar tests or GLMM., Up to 1 year
+PRIMARY OBJECTIVES:
+
+I. To determine the maximum tolerated dose (MTD) and dose limiting toxicity (DLT) of nivolumab and ipilimumab alone and in combination in patients with high risk or refractory/relapsed acute myeloid leukemia (AML) and myelodysplastic syndrome (MDS) following allogeneic stem cell transplantation (allo-SCT).
+
+II. To evaluate the toxicity of nivolumab and ipilimumab alone and in combination with regard to the rate and severity of acute graft versus host disease (aGVHD).
+
+SECONDARY OBJECTIVES:
+
+I. To determine the overall response rate (ORR) of nivolumab, ipilimumab and the combination in patients with high risk or refractory/ relapsed AML and MDS following allo-SCT.
+
+II. To determine the duration of response, disease-free survival (DFS), and overall survival (OS) of patients with high risk or refractory/ relapsed AML and MDS treated with this combination following allo-SCT.
+
+EXPLORATORY OBJECTIVES:
+
+I. To identify neo-antigens, the immune cell phenotype, expression of immune checkpoint molecules and the T cell receptor (TCR) repertoire following treatment with nivolumab, ipilimumab and the combination.
+
+II. To study immunological and molecular changes in the peripheral blood and bone marrow in response to nivolumab and ipilimumab.
+
+III. To investigate the TCR repertoire and immune phenotype in patients who experience aGVHD.
+
+OUTLINE: This is a dose-escalation study. Patients are assigned to 1 of 3 arms.
+
+ARM A: Beginning at least 6 weeks post-stem cell transplant, patients receive nivolumab intravenously (IV) over 60 minutes on days 1 and 15. Treatment repeats every 28 days for up to 6 cycles in the absence of disease progression or unacceptable toxicity.
+
+ARM B: Beginning at least 6 weeks post-stem cell transplant, patients receive ipilimumab IV over 90 minutes on day 1. Treatment repeats every 21 days for up to 6 cycles in the absence of disease progression or unacceptable toxicity.
+
+ARM C: Beginning at least 6 weeks post-stem cell transplant, patients receive nivolumab IV over 60 minutes on days 1, 14, and 28, and ipilimumab IV over 90 minutes on day 1. Treatment repeats every 6 weeks for up to 6 cycles in the absence of disease progression or unacceptable toxicity.
+
+After completion of study treatment, patients are followed up within 30 days and periodically thereafter.

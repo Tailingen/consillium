@@ -1,0 +1,19 @@
+Photoacoustic Lymph Node Imaging
+In this spectroscopic photoacoustic imaging study, the investigators will acquire images (only) to:
+
+1. determine if spectroscopic photoacoustic imaging can acquire high fidelity images in a clinical setting,
+2. discover if blood oxygen saturation changes are observable in breast cancer patients during early stages of metastatic invasion, and
+3. compare the sensitivity and specificity of photoacoustic imaging with ultrasound imaging for the detection of lymph node metastases.
+
+The results from imaging will not be used in any decision making process. This study is solely used to test the photoacoustic imaging device and evaluate it against the current standard of care. The device is completely noninvasive and uses only safe levels of energy as determined by the American National Standards Institute (ANSI) and the FDA. The device does not pose a serious to the health, safety, or welfare of the patient.
+Breast Cancer
+DIAGNOSTIC_TEST: Spectroscopic photoacoustic imaging
+Spectroscopic photoacoustic image acquisition feasibility, Determine the feasibility of using spectroscopic photoacoustic imaging to determine the metastatic state of lymph nodes prior to surgery/biopsy by measuring changes in blood oxygen saturation., Through study completion, an average of 12 weeks
+Spectroscopic photoacoustic image depth, Determine the maximum imaging depth that can be reliably achieved with spectroscopic photoacoustic imaging., Day 1, up to 12 weeks after imaging|Spectroscopic photoacoustic imaging device comparison, Determine the variance of saturated oxygen measurements acquired with spectroscopic photoacoustic imaging., Day 1, up to 12 weeks after imaging
+The study is centered on determining whether photoacoustic imaging of blood oxygen saturation can detect lymph node metastases.
+
+Patients who are returning for an ultrasound exam after detection of a suspicious node via magnetic resonance imaging will be enrolled in the study.
+
+Enrolled patients will receive a clinical ultrasound exam, as is the current standard of care. Suspicious nodes will be identified and imaged with combined ultrasound and spectroscopic photoacoustic imaging. Measurements will be acquired with three to five replicates with slightly modified transducer positioning to measure system and intranodal variance of the measurements. One to five contralateral axillary lymph nodes will be imaged to serve as a control and to determine patient-to-patient variability in lymph node saturated oxygen. The distance from the skin to the lymph node will also be measured with ultrasound imaging for each node.
+
+If the ultrasound imaging identifies a suspicious node, patients will undergo ultrasound guided biopsy to confirm the true metastatic state of the nodes. Suspicious nodes will be clipped to facilitate identification at the time of axillary node dissection. During the sentinel node procedure, investigators will use intraoperative photoacoustic imaging to measure the blood oxygenation in the sentinel lymph node immediately prior to its removal. Histology will be performed on all biopsy samples and excised nodes to determine the true metastatic state of the node(s).

@@ -1,0 +1,81 @@
+Virtual Surgical Planning in Mandibular Segmental Resection
+Purpose: Odontogenic tumors, predominantly affecting the mandibular region, pose significant challenges in terms of treatment planning, particularly when requiring segmental mandibular resection. This study aims to evaluate the effectiveness of virtual planning and 3D modeling in comparison to traditional surgical methods for treating mandibular odontogenic tumors, focusing on aspects such as accuracy, clinical outcomes, and patient quality of life.
+
+Method: The study is designed as a two-phase investigation. Phase 1 involves in vitro research to create high-precision 3D models and surgical support instruments. Phase 2 consists of a clinical trial with two groups: the Virtual Surgery Group using pre-bent reconstruction plates, 3D mandibular models and surgical guides and the Conventional Surgery Group. Data collection includes assessing model accuracy, comparing clinical outcomes, analyzing postoperative CT scans, and evaluating patient quality of life.
+
+Expected Results: Investigators anticipate that the virtual planning and 3D modeling approach will yield more accurate surgical procedures, improved postoperative outcomes, and enhanced patient quality of life compared to traditional methods. This is expected to be particularly beneficial in maintaining the stability of the condyle at the postoperative site, reducing complications related to mandibular function, and potentially reducing the need for additional surgeries.
+
+Conclusions: If the investigators study demonstrates the superiority of virtual planning and 3D modeling in treating mandibular odontogenic tumors, it could significantly impact the field of oral and maxillofacial surgery by offering a more precise and effective treatment approach. This could ultimately lead to improved patient outcomes and a reduction in the challenges associated with these complex surgical procedures.
+Virtual Surgical Planning|Benign Neoplasm|Mandible
+PROCEDURE: Traditional Medthod|PROCEDURE: Virtual surgical planning
+The Accuracy of Occlusion after surgery following virtual surgical planning, Assessment by Clinical Assessment involves observing three areas: the front teeth region, the right posterior teeth region, and the left posterior teeth region.
+
+The scoring scale is as follows: Posterior teeth group: Achieving interlocking: 2 points, achieving contact: 1 point, completely open: 0 points. Anterior teeth group achieving contact: 1 point, completely open: 0 points.
+
+Calculate the total score attained and classify the bite joint based on the criteria: Good: ≥ 4, Average: 2 - 3, Poor: \< 2, Baseline, 1 week, 24 weeks|The Accuracy of Condylar position after surgery following virtual surgical planning, Assessment by CT scan the condylar position after surgery following the change anatomical lankmarks. Value of Condylar Deviation: The range between -12% to +12% is Center position, The range +12% is Forward position, and the range \< -12% is Rearward position, Baseline, 1 week, 24 weeks
+Introduction:
+
+Odontogenic tumors predominantly affect the mandibular region, constituting approximately 99.1% of all benign tumors in the jawbone. Among these, odontogenic tumors, largely associated with teeth, account for a significant portion. Notably, in the mandibular bone make up 67.7% of all odontogenic tumors in the facial jaw region. Furthermore, benign odontogenic tumors of the mandible often exhibit slow progression, typically devoid of pain, and primarily manifest as bony swelling. As a result, tumors are often detected at later stages, potentially leading to severe complications such as complete mandibular destruction, facial deformities, malocclusion, and, in rare cases, malignant transformation.
+
+The management of benign odontogenic tumors of the mandible remains a subject of debate and challenge. The ideal treatment approach must involve an appropriate level of bone resection while minimizing recurrence, thereby ensuring both aesthetic outcomes and functional restoration in the oral region. Two surgical methods are commonly employed: conservative approaches such as enucleation, curettage, with or without peripheral ostectomy, and radical surgical resection involving segmental bone removal. Segmental mandibular resection is chosen when tumors exhibit extensive bone destruction and do not respond to conservative treatments, particularly in cases of highly invasive tumors with less than 1 cm of remaining bone thickness beneath the lower mandible border.
+
+Although segmental resection achieves high treatment efficacy with a low recurrence rate, it is an invasive approach associated with postoperative anatomical complications. Maintaining the correct alignment of the mandibular condyle within the glenoid fossa after segmental resection is a significant challenge. The natural articulation of the condyle and fossa plays a crucial role in mandibular function. Maintaining the original condylar position after resection remains challenging, leading to issues related to temporomandibular joint (TMJ) function, including joint clicking, pain, and limited mouth opening. Failure to address these issues promptly can result in severe complications such as ankylosis and dislocation, necessitating additional corrective surgery. Therefore, preserving the natural condylar-glenoid fossa relationship is crucial, and it requires special attention. Moreover, accurate alignment of the reconstructed segment with the desired orientation is essential.
+
+With the advent of virtual surgical planning based on 3D modeling and 3D printing technology, tools to aid in the reconstruction of the mandible after segmental resection can be designed and manufactured before surgery, potentially yielding improved postoperative outcomes. The decision to perform immediate reconstruction with bone grafting simultaneously during segmental mandibular resection presents a significant challenge. While this approach may reduce the need for subsequent surgeries and shorten functional recovery time, it remains controversial due to the invasiveness and the strong likelihood of local tumor recurrence. Additionally, this technique may be unsuitable for large tumors or those diagnosed at a late stage. In such cases, grafting becomes challenging, especially when the extent of bone loss in the mandible exceeds 6 cm. Consequently, vascularized bone grafting is an option; however, it is associated with high costs and technical difficulties, limiting its accessibility to many patients. Therefore, segmental mandibular resection combined with reconstruction plate placement remains an effective method for treating benign mandibular odontogenic tumors, reducing the risk of recurrence, and ensuring treatment options for the majority of patients.
+
+In Vietnam, alongside traditional surgical methods for the treatment of mandibular odontogenic tumors, involving manual intraoperative judgment for resection planning based on models of the mandible, there is a growing trend toward precision surgery. However, the limited number of studies related to surgical resection of mandibular odontogenic tumors using preoperative three-dimensional (3D) printed models with guiding instruments for accurate bone resection and condylar repositioning represents a knowledge gap in the field. Therefore, investigators initiated this research project titled "Application of Virtual Planning in the Surgical Treatment of Mandibular Odontogenic Tumors with Reconstruction Plate Placement" with the following research question and objectives:
+
+Research Question: Is the virtual planning and 3D modeling approach superior to traditional surgical methods in the treatment of mandibular odontogenic tumors?
+
+Method:
+
+The study is conducted in two phases: an in vitro research phase and a clinical research phase.
+
+Phase 1: In Vitro Research
+
+* Processing mandibular data and surgical support instruments from CT scan images using software.
+* 3D printing of mandibular models and surgical support instruments using plastic from mandibular CT scan images.
+* Bending the reconstruction plate according to the mandibular model.
+* Reconstruction Plate Bending: Precisely bending the reconstruction plate to fit snugly against the outer surface of the mandible (ensuring at least three holes for plate fixation on each remaining bone segment).
+* Placing the reconstruction plate onto mandibular model 2 with the guidance of a bone fragment fixation tool.
+* CT scanning of mandibular model 2 after the placement of the reconstruction plate.
+* Assessing the accuracy of the 3D model (mandibular model 2 with the plate and bone fragment fixation tool) compared to the real mandible (from the initial CT scan). Additionally, marking anatomical landmarks, measuring certain lines and angles on CT images of the bone model and mandibular CT images to calculate percentage errors.
+
+Phase 2: Clinical Research with a Control
+
+Group Virtual Surgery Group:
+
+1. Preparation of Necessary Instruments:
+
+   * Utilizing the pre-bent reconstruction plate segment and surgical support instruments that were designed and printed, as well as the design and processing of mandibular models No.1 suitable for surgery.
+   * Determining the cutting line on the mandibular model No.1 based on panoramic images, with the cutting position approximately 1 to 1.5 cm from the tumor's edge.
+2. Reconstruction Plate and Surgical Guide:
+
+   * Sterilizing the reconstruction plate and screws.
+   * Sterilizing the surgical support instruments using Ortho-phthalaldehyde 0.55% solution.
+3. In the Operating Room for Segmental Mandibular Resection and Reconstruction:
+4. Postoperative Treatment and Evaluation:
+
+Conventional Surgery Group:
+
+1. Creating a 3D mandibular model using plastic from CT scan data. Determining the cutting line on the 3D mandibular model based on panoramic images, with the cutting position approximately 1 to 1.5 cm from the tumor's edge. The model has not undergone processing yet.
+2. Reconstruction Plate Bending:
+
+   * Drawing the mandibular cutting line on the 3D reconstruction model.
+   * Trimming the plastic to mimic the outer surface of the mandible on the 3D model. Processed manually.
+   * Precisely bending the reconstruction plate to fit snugly against the outer surface of the 3D mandibular model (ensuring at least three holes for plate fixation on each remaining bone segment).
+   * Sterilizing the reconstruction plate and screws.
+3. In the Operating Room for Segmental Mandibular Resection and Reconstruction following traditional technique.
+4. Postoperative Treatment and Evaluation:
+
+Study Variables:
+
+* The predictor variable for this study is the supplemental method used to enhance the accuracy of the 3D printed surgical support instruments.
+* The primary outcome variable for this study is the assessment of the stability of the condyle at the postoperative segmental resection and reconstruction site.
+* The secondary outcome variable is the evaluation of the participants's occlusion after surgery.
+* Other variables collected for this study include age, sex, location (maxilla vs. mandible and anterior vs. posterior), and the assessment of the participants's postoperative quality of life. Statistical Analysis:
+* Descriptive statistics for the two groups were presented as means or proportions when appropriate.
+* Baseline comparisons between the two groups were conducted via t-tests and Fisher's exact tests as appropriate.
+* For the primary outcome, a multivariate Cox regression analysis was conducted to compare the time to recurrence between the two groups. Additionally, the comparison of time to recurrence was presented in an unadjusted manner as a Kaplan-Meier curve.
+* A comparison of the stability of the condyle at the postoperative segmental resection and reconstruction site was conducted via a multivariate logistic regression. The following potential confounders were controlled in both analyses: location of the tumor.
+* All evaluations were considered significant at p \< 0.05. All statistical tests were conducted using SPSS 26.0 and Microsoft Excel 16.39.

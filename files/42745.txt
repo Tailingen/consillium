@@ -1,0 +1,24 @@
+Capecitabine, Vinorelbine, and Trastuzumab in Treating Patients With Metastatic Breast Cancer
+RATIONALE: Drugs used in chemotherapy, such as capecitabine and vinorelbine, work in different ways to stop tumor cells from dividing so they stop growing or die. Monoclonal antibodies such as trastuzumab can locate tumor cells and either kill them or deliver tumor killing substances to them without harming normal cells. Giving capecitabine and vinorelbine together with trastuzumab may kill more tumor cells.
+
+PURPOSE: This phase II trial is studying how well giving capecitabine and vinorelbine together with trastuzumab works in treating patients who have metastatic breast cancer.
+Breast Cancer
+BIOLOGICAL: trastuzumab|DRUG: capecitabine|DRUG: vinorelbine tartrate
+Confirmed Response Rate, A confirmed tumor response is defined to be either a Complete Response (CR) or Partial Response (PR) noted as the objective status on 2 consecutive evaluations at least 6 weeks apart. All patients meeting the eligibility criteria who have signed a consent form and initiated study medication will be evaluable for response. The proportion of confirmed tumor responses will be estimated by the number of tumor regressions that meet the RECIST criteria for a confirmed CR or PR divided by the total number of evaluable patients. A 95% confidence interval for the true confirmed response rate will be calculated using the properties of the binomial distribution. Per Response Evaluation Criteria In Solid Tumors Criteria (RECIST v1.0) for target lesions and assessed by MRI: Complete Response (CR), Disappearance of all target lesions; Partial Response (PR), \>=30% decrease in the sum of the longest diameter of target lesions; Overall Response (OR) = CR + PR., Up to 5 years
+Time to Progression (TTP), Time to progression is defined as the time from registration to disease progression. Patients who died without documentation of progression will be considered to have progressed on the date of their death. If a patient starts treatment and fails to return for any evaluations, that patient will be censored for progression of disease at day one post-registration. Otherwise, for patients that do not progress, censoring will occur at the last follow up date. Progression is defined using Response Evaluation Criteria In Solid Tumors Criteria (RECIST v1.0), as at least a 20% increase in the sum of the longest diameter of target lesions, or a measurable increase in a non-target lesion, or the appearance of new lesions or unequivocal progression of existing non-target lesions., Up to 5 years|Duration of Response as Measured by RECIST Criteria, Duration of response is defined for all eligible patients who have achieved an objective response as the date at which the patient's objective status is first noted to be either a Complete Response (CR) or Partial Response (PR) to the date progression is documented. Per Response Evaluation Criteria In Solid Tumors Criteria (RECIST v1.0) for target lesions and assessed by MRI: Complete Response (CR), Disappearance of all target lesions; Partial Response (PR), \>=30% decrease in the sum of the longest diameter of target lesions., Up to 5 years|Overall Survival as Assessed by Time, Overall survival: The overall survival or survival time is defined as the time from registration to death due to any cause. The distribution of overall survival will be estimated using the method of Kaplan-Meier method., Up to 5 years
+OBJECTIVES:
+
+Primary
+
+* Determine the overall response rate in patients with HER2/neu-overexpressing metastatic breast cancer treated with first- or second-line therapy comprising capecitabine, vinorelbine, and trastuzumab (Herceptin\^®).
+
+Secondary
+
+* Determine the time to disease progression, duration of response, and overall survival of patients treated with this regimen.
+* Determine the safety profile of this regimen in these patients.
+
+OUTLINE: This is a multicenter study.
+
+Patients receive oral capecitabine twice daily on days 1-14, vinorelbine IV over 6-10 minutes on days 1 and 8, and trastuzumab (Herceptin\^®) IV over 30-90 minutes on day 1. Courses repeat every 21 days in the absence of disease progression or unacceptable toxicity.
+
+Patients are followed every 3 months until disease progression and then every 6 months for up to 5 years.

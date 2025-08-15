@@ -1,0 +1,11 @@
+DLSCT for Breast Cancer Detection in Women With Dense Breasts
+The main objective of this project is to demonstrate the feasibility of DLSCT to detect breast cancer in women with dense breasts.
+
+Patients with locoregional advanced primary breast cancer and heterogeneously (n = 7) or extremely dense breasts (n = 7) as determined by mammography will be included in this study. These patients have an indication for a positron emission tomography computed tomography (PET-CT) scan to search for distant metastases. In this study the participants will undergo an additional contrast enhanced DLSCT scan to determine the feasibility of spectral CT to detect breast cancer in women with dense breasts.
+Breast Neoplasms|Breast Density|Radiographic Image Interpretation, Computer-Assisted
+DIAGNOSTIC_TEST: Dual-layer spectral computerized tomography (DLSCT)
+Visual tumor conspicuity, The conspicuity of tumors will be graded on a 4-point confidence scale, On the same 1 day as the regular PET-CT scan was performed|BI-RADS score, BI-RADS score according to the ACR BI-RADS lexicon, On the same 1 day as the regular PET-CT scan was performed
+Iodine enhancement, Iodine enhancement will be measured in Hounsfield Units (HU)., On the same 1 day as the regular PET-CT scan was performed|Iodine content, Iodine content will be measured mg/mL., On the same 1 day as the regular PET-CT scan was performed
+The main objective of this project is to demonstrate the feasibility of DLSCT to detect breast cancer in women with dense breasts.
+
+Patients with locoregional advanced primary breast cancer and heterogeneously (n = 7) or extremely dense breasts (n = 7) as determined by mammography will be included in this study. These patients have an indication for a positron emission tomography computed tomography (PET-CT) scan to search for distant metastases. In this study the participants will undergo an additional contrast enhanced DLSCT scan to determine the feasibility of spectral CT to detect breast cancer in women with dense breasts.

@@ -1,0 +1,31 @@
+Venetoclax in Combination With Decitabine and Cedazuridine for the Treatment of Relapsed or Refractory Acute Myeloid Leukemia
+This phase II trial studies the effects of venetoxlax in combination with decitabine and cedazuridine in treating patients with acute myeloid leukemia that has come back (relapsed) or does not respond to treatment (refractory). Chemotherapy drugs, such as venetoclax and decitabine, work in different ways to stop the growth of cancer cells, either by killing the cells, by stopping them from dividing, or by stopping them from spreading. Cedazuridine may stop the growth of tumor cells by blocking some of the enzymes needed for cell growth. Giving venetoxlax in combination with decitabine and cedazuridine may help to control acute myeloid leukemia.
+Recurrent Acute Biphenotypic Leukemia|Recurrent Acute Myeloid Leukemia|Refractory Acute Biphenotypic Leukemia|Refractory Acute Myeloid Leukemia
+DRUG: Decitabine and Cedazuridine|DRUG: Venetoclax
+Overall response rate (ORR), Defined as the proportion of patients who had complete remission (CR), complete remission with incomplete count recovery (CRi), partial response (PR) or MLFS. Will estimate the ORR for the combination treatment, along with the Bayesian 95% credible interval., Within 4 cycles of treatment (each cycle is 28 days)|Incidence of adverse events, The overall incidence and severity of all adverse events using Common Toxicity Criteria version 5.0. Safety data will be summarized using frequency and percentage, by category and severity., Up to 2 years
+Proportion of achieving HI, Will estimate for the combination treatment, along with the Bayesian 95% credible interval., Up to 2 years|Number of patients who transition towards stem cell transplantation, Will estimate for the combination treatment, along with the Bayesian 95% credible interval., Up to 2 years|Incidence of infectious complications, Will estimate for the combination treatment, along with the Bayesian 95% credible interval., Up to 2 years|Event-free survival (EFS), The Kaplan-Meier method will be used to estimate the survival probabilities of time-to-event variables such as EFS. Log-rank tests will be used to compare among subgroups of patients in terms of the time-to-event variables., Time interval between treatment start until disease progression, relapse/refractory, or death due to any cause, assessed up to 2 years|Overall survival (OS), The Kaplan-Meier method will be used to estimate the survival probabilities of time-to-event variables such as OS. Log-rank tests will be used to compare among subgroups of patients in terms of the time-to-event variables., Time interval between treatment start until death due to any cause, assessed up to 2 years|Duration of response, Time from response till progression, relapse/refractory, or death, assessed up to 2 years|Gene expression profiles, Will examine the association between gene expression profiles and prognostic markers and overall response and/or resistance will be assessed through logistic regression analyses. Paired t-test or Wilcoxon signed rank test will be used to assess the marker change over time., Up to 2 years
+PRIMARY OBJECTIVE:
+
+I. To determine the overall response rate (complete remission \[CR\], complete remission with incomplete count recovery \[CRi\], MLFS and partial response \[PR\]) of 10-days decitabine and cedazuridine (oral decitabine) and venetoclax in patients with refractory/relapsed acute myeloid leukemia (AML).
+
+SECONDARY OBJECTIVES:
+
+I. To determine the duration of response, event-free survival (EFS), and overall survival (OS) of patients with refractory/relapsed AML treated with this combination.
+
+II. To determine the number of patients who achieve a hematologic improvement (HI) in platelets, hemoglobin, or ANC and the number of patients who achieve \> 50% reduction in blasts on therapy with venetoclax/10-day oral decitabine.
+
+III. To determine the safety of venetoclax in combination with 10-day oral decitabine in patients with refractory/ relapsed AML.
+
+IV. To determine the number of patients who transition towards stem cell transplantation upon achieving response with the combination venetoclax/10-day oral decitabine regimen.
+
+V. To determine the incidence of infectious complications per cycle with venetoclax in combination with 10-day oral decitabine.
+
+EXPLORATORY OBJECTIVE:
+
+I. To investigate global gene expression profiles, cytometry by time of flight (CyTOF), BH3 profiling and other potential prognostic markers to explore predictors of antitumor activity and/or resistance to treatment.
+
+OUTLINE:
+
+Patients receive decitabine and cedazuridine orally (PO) once daily (QD) on days 1-10. Patients who achieve CR/CRi during consolidation/maintenance may receive decitabine and cedazuridine PO QD on days 1-5. Patients also receive venetoclax PO QD on days 1-28 of cycle 1 and days 1-21 of subsequent cycles. Cycles repeat every 28 days in the absence of disease progression or unacceptable toxicity.
+
+After completion of study treatment, patients are followed up every 3 months.

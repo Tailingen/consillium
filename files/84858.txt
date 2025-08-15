@@ -1,0 +1,31 @@
+Cholecalciferol and Genistein Before Surgery in Treating Patients With Early Stage Prostate Cancer
+This randomized phase II trial studies cholecalciferol and genistein compared to placebo in treating patients with early stage prostate cancer. Cholecalciferol and genistein may slow the growth of cancer cells and may be an effective treatment for prostate cancer.
+Prostate Adenocarcinoma|Stage I Prostate Cancer|Stage IIA Prostate Cancer|Stage IIB Prostate Cancer
+DRUG: Cholecalciferol|DRUG: Genistein|OTHER: Laboratory Biomarker Analysis|OTHER: Pharmacological Study|OTHER: Placebo
+Tissue Levels of Calcitriol Between the Placebo and Cholecalciferol/Genistein Arms, This is a measure of calcitriol in prostate tissue comparing placebo and cholecalciferol/genistein, up to Day 35|Detectability of Calcitriol Levels in Tissue Between the Placebo and Cholecalciferol/Genistein Arms, To identify the amount of Calcitriol that is found in the tissue comparing Placebo and Cholecalciferol/Genistein, up to 35 days
+Levels of Calcidiol in the Participants Serum, This is measuring the amount of Calcidiol that was found in the participants blood Serum at baseline and end of study, Baseline and up to day 35|Levels of Calcitriol in Participants Serum, This is measuring the amount of Calcitriol that was found in the participants blood Serum at baseline and end of study., baseline and Up to Day 35|PBMC CYP mRNA Expression of CYP24, This is a measure of expression of CYP24 in comparing placebo to Cholecalciferol/genistein., Baseline and Up to Day 35|PBMC CYP mRNA Expression of CYP27B1, This is a measure of expression of CYP27B1 in comparing placebo to Cholecalciferol/genistein., Up to Day 35|Total PSA in Serum, This is a measure of the concentration of PSA in the blood serum at baseline and at the end of study., at Baseline and up to Day 35|Serum Calcium Levels at Baseline and Pre-Surgery, This is a measurement of calcium in the Blood serum at baseline and at the end of the study., Baseline and Day 35|Total IGF-1 in Serum at Baseline and Pre-Surgery, This is measuring the concentration of the Biomarker IGF-1 in blood serum at Baseline and at the end of the study., Baseline and up to Day 35|Total IGF-2 in Serum at Baseline and Pre-Surgery, This is measuring the concentration of the Biomarker IGF-2 in blood serum at Baseline and at the end of the study, Baseline and Up to Day 35|Total IGFBP-3 in Serum at Baseline and Pre-Surgery, This is measuring the concentration of the Biomarker IGFBP-3 in blood serum at Baseline and at the end of the study., Baseline and Up to Day 35|Total PTH in Serum at Baseline and Pre-Surgery, This is measuring the concentration of the Biomarker PTH in blood serum at Baseline and at the end of the study, Baseline and Up to Day 35|Immunohistochemistry Measurements in Benign Prostate Tissue (BPT), The Immunohistochemistry measurement for: AR (Nucleus), VDR (Cytoplasm), p21 (Nucleus), PGE2 (Cytoplasm), TUNEL Pos (Nucleus), Caspase 3 (Cytoplasm), PSMA (Cytoplasm), IGF-1 and IGF-2 (Cytoplasm), Akt (Nucleus and Cytoplasm), and pAkt (nucleus and Cytoplasm)
+
+This is to serve as normalized control data to determine expression of protein.
+
+The normalized optical densities were measured as optical density per unit area by densitometric scanning using Vectra imaging system (Perkin Elmer).
+
+This Optical Density is based on fluorescence., Up to Day 35|Immunohistochemistry Measurements in Prostate Cancer Tissue (PCA), The Immunohistochemistry measurement for: AR (Nucleus), VDR (Cytoplasm), p21 (Nucleus), PGE2 (Cytoplasm), TUNEL Pos (Nucleus), Caspase 3 (Cytoplasm), PSMA (Cytoplasm), IGF-1 and IGF-2 (Cytoplasm), Akt (Nucleus and Cytoplasm), and pAkt (nucleus and Cytoplasm)
+
+This is to serve as normalized case data to determine expression of protein.
+
+The normalized optical densities were measured as optical density per unit area by densitometric scanning using Vectra imaging system (Perkin Elmer).
+
+This Optical Density is based on fluorescence., Up to day Day 35|Percent of Participants With CYP24 and CYP27B1 SNPs (DNA From Paxgene), up to Day 35
+PRIMARY OBJECTIVES:
+
+I. To determine differences in prostate tissue steady state concentrations of calcitriol in participants treated with a single dose cholecalciferol (200,000 IU) and G-2535 (which provides 600 mg of genistein) and those receiving placebo.
+
+SECONDARY OBJECTIVES:
+
+I. To determine the effect of each intervention arm and resulting prostate tissue levels of calcitriol on down-stream related biomarkers and related mechanistic pathways in blood and tissue.
+
+OUTLINE: Patients are randomized to 1 of 2 treatment arms.
+
+ARM I: Patients receive cholecalciferol orally (PO) on day 1 and genistein PO once daily (QD) on days 1-21 or 1-28. Patients then undergo prostatectomy.
+
+ARM II: Patients receive placebo PO on day 1 and placebo PO QD on days 1-21 or 1-28. Patients then undergo prostatectomy.

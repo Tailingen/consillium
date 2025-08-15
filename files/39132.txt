@@ -1,0 +1,37 @@
+Testing the Combination of Anti-cancer Drugs Atezolizumab and Tiragolumab in People With Advanced Stage Rare Cancers, RARE3 Trial
+This phase II trial tests how well atezolizumab works in combination with tiragolumab in treating patients with rare solid tumors that may have spread from where they first started to nearby tissue, lymph nodes, or distant parts of the body (advanced stage). Immunotherapy with monoclonal antibodies, such as atezolizumab and tiragolumab, may help the body's immune system attack the cancer, and may interfere with the ability of tumor cells to grow and spread. The study biopsy takes small pieces of cancer tissue from a tumor. The purpose of these biopsies is to compare the body's immune response against the tumor before and after treatment with the study drugs. Blood samples will also be collected for the study. The researchers will use the samples to learn more about how atezolizumab and tiragolumab work and which patients in the future might be most likely to respond to atezolizumab and tiragolumab. Using atezolizumab in combination with tiragolumab may help to shrink tumors in patients diagnosed with advanced stage rare solid-tumor cancers.
+Advanced Rare Malignant Solid Neoplasm|Rare Malignant Solid Neoplasm|Refractory Rare Malignant Solid Neoplasm
+BIOLOGICAL: Atezolizumab|PROCEDURE: Biopsy Procedure|PROCEDURE: Biospecimen Collection|PROCEDURE: Computed Tomography|PROCEDURE: Echocardiography Test|DRUG: Tiragolumab
+Change in the proportion of active CD8+ T cells infiltrating the tumor, At baseline and beginning of cycle 3|Pharmacodynamic (PD) response rate, The proportion of patients with a clinically promising increase in CD8+ T cell infiltration, defined as more than 1.5 standard deviations (SD) (as measured at baseline)., At baseline, end of cycle 3, then every 2-4 cycles until disease progression|Incidence of adverse events, Reported using the common terminology criteria for adverse events version 5.0., Cycle 1 day 1 to 30 days after last dose
+Objective tumor response rate (ORR), Fifteen enrolled patients will yield 10 patients with evaluable paired biopsies with .95 probability, yielding 88% power, at the 1-sided .05 significance level, to detect an increase more than 1.25 SD (as measured at baseline), and to declare the combination promising with respect to the primary PD endpoint. This number will also be sufficient for assessment of the secondary endpoint of ORR; there will be 96.5% likelihood of seeing at least 1 objective tumor response assuming a true ORR of 20%. Patients who do not achieve at least an unconfirmed response within 9 months (must be subsequently confirmed) will be considered non-responders for purposes of this analysis., Up to 2 years|Progression-free survival time, Time from start of treatment to time of progression or death, whichever occurs first, assessed up to 2 years
+PRIMARY OBJECTIVE:
+
+I. Determine the proportion of activated CD8+ T cells at baseline and after treatment with atezolizumab and tiragolumab.
+
+SECONDARY OBJECTIVES:
+
+I. Determine the objective response rate (ORR) of patients with advanced rare cancers to the combination of atezolizumab and tiragolumab using Response Evaluation Criteria in Solid Tumors (RECIST) version (v) 1.1 and Immune-Modified (i)RECIST guidelines.
+
+II. Measure progression-free survival (PFS) time (time frame: baseline until disease progression, death, loss to follow-up, initiation of another anti-cancer treatment, withdrawal of consent, or study termination).
+
+III. Measure the proportion of patients with a clinically promising increase in CD8+ T cell infiltration following treatment with atezolizumab and tiragolumab.
+
+EXPLORATORY OBJECTIVES:
+
+I. Investigate immune activation markers and the immune composition (regulatory T \[Treg\], natural killer \[NK\], B-cells, macrophages, myeloid-derived suppressor cells \[MDSC\], tumor mutation burden \[TMB\], microsatellite instability \[MSI\]) in tumor microenvironment (TME) before and after study treatment.
+
+II. Measure T cell receptor (TCR) signaling in tumor-infiltrating T cells in the TME as well as in circulating T cells in blood before and after study treatment using multiplex immunofluorescence assays (IFAs)-developed by the National Cancer Institute (NCI)-Frederick Pharmacodynamic Assay Development \& Implementation Section (PADIS)-and use these measurements to evaluate the relationship between TCR signaling in circulating T cells and TME.
+
+III. Evaluate potential associations between atezolizumab and tiragolumab activity and tumor genomic alterations, genomic expression, or TMB as determined from genomic analysis of biopsy samples.
+
+IV. Evaluate genomic alterations in cell free deoxyribonucleic acid (DNA) (cfDNA) and their potential association with therapy response or resistance.
+
+V. Evaluate the pharmacodynamic effects of the treatment on biomarkers of cell death and epithelial-to-mesenchymal transition (EMT) in tumor tissue and circulating tumor cells (CTCs).
+
+VI. Evaluate markers of immune response and the presence of tertiary lymphoid structures (TLS) in TME at baseline and following atezolizumab plus tiragolumab therapy.
+
+OUTLINE:
+
+Patients receive atezolizumab intravenously (IV) over 60 minutes and tiragolumab IV over 30-90 minutes on day 1 of each cycle. Cycles repeat every 21 days in the absence of disease progression or unacceptable toxicity. Patients also undergo echocardiography (ECHO) at baseline, undergo biopsy at baseline and on study, and undergo computed tomography (CT) and collection of blood samples throughout the study.
+
+After completion of study treatment, patients are followed up for 30 days.

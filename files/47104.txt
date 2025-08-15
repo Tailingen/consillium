@@ -1,0 +1,11 @@
+Demethylating Agents Combined With Venetoclax for High-risk T-cell Lymphoblastic Lymphoma/Leukemia Post-Transplant Relapse Prevention
+This study is a prospective, phase II clinical trial with the primary objective of assessing the effectiveness of demethylating agents combined with venetoclax in the prevention of recurrence after allogeneic hematopoietic stem cell transplantation (allo-HSCT) of high risk T-lymphoblastic lymphoma/leukemia (T-LBL/ALL) patients.
+T-cell Acute Lymphoblastic Leukemia|ALLOGENEIC HEMATOPOIETIC STEM CELL TRANSPLANTATION|Relapse
+DRUG: Azacitidine (AZA) Days 1 - 5|DRUG: Decitabine (DAC)|DRUG: Venetoclax
+RFS, 1-year relapse-free survival, 1 year|RFS, 2-year relapse-free survival, 2 year
+CIR, 1-year cumulative incidence of relapse, 1 year|CIR, 2-year cumulative incidence of relapse, 2 year|OS, 1-year overall survival, 1 year|OS, 2-year overall survival, 2 year|GRFS, 1-year graft-versus-host disease (GVHD)-free/relapse-free survival (GRFS) rates, 1 year|GRFS, 2-year graft-versus-host disease (GVHD)-free/relapse-free survival (GRFS) rates, 2 year|cGVHD, 1-year cumulative incidence of cGVHD, 1 year|cGVHD, 2-year cumulative incidence of cGVHD, 2 year|adverse events, adverse events during research, at the end of every cycle (each cycle is 28 days)
+The experimental group included high risk T-ALL/LBL patients after allo-HSCT, who received relapse prevention treatment with demethylating agents such as azacitidine or decitabine, combined with venetoclax.
+
+The historical control consisted of high-risk T-ALL/LBL patients who received allo-HSCT but did not receive any prophylactic treatment from multiple centers, and their basic information, disease information, treatment details, and efficacy data were collected. Propensity score matching was conducted with historical data to compare the advantages and disadvantages of the experimental regimen with the control group.
+
+The primary endpoint was the relapse-free survival(RFS) rate after prophylaxis, while secondary endpoints included cumulative incidence of relapse (CIR), overall survival (OS), and the GVHD-relapse-free survival (GRFS). This study aims to provide a effective and safer prophylaxis treatment for high-risk T-LBL/ALL patients after all-HSCT.

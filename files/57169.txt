@@ -1,0 +1,41 @@
+Single Visit Clinical Validation of ScreenFire, a Low-cost HPV Test
+The purpose of this study is to validate a new low-cost, self-collected HPV screening test (ScreenFire) and compare it to the standard provider collected careHPV, for the detection of high grade cervical cancer.
+Human Papilloma Virus
+DIAGNOSTIC_TEST: ScreenFire HPV test|DIAGNOSTIC_TEST: careHPV test|PROCEDURE: Colposcopy and biopsy|PROCEDURE: Gas-based cryotherapy|PROCEDURE: Thermal ablation
+Sensitivity, Proportion of true HPV positive cases based on biopsy detected by ScreenFire test via self-collection compared to careHPV via provider collection, 4-years|Lost to follow-up, Proportion of participants who do not complete their treatment six months after screening., 6-months|Cost-effectiveness, Incremental Cost Effectiveness Ratios (ICER) will be reported for each screening strategy as cost per life year saved and cost per DALY (disability-adjusted life years) averted., 4-years
+Specificity, Proportion of true HPV negative cases based on biopsy detected by ScreenFire test via self-collection compared to careHPV via provider collection, During specific Aim 1, at baseline visit|Positive predictive value (PPV), Proportion of participants with ScreenFire positive tests that have cervical precancer based on biopsy compared to those with positive careHPV positive tests, During specific Aim 1, at baseline visit|Negative predictive value (NPV), Proportion of participants with ScreenFire negative tests that do not have cervical precancer based on biopsy compared to those with negative careHPV positive tests, During specific Aim 1, at baseline visit
+Study Design:
+
+Interventional study
+
+Study Procedures:
+
+Enrollment: Given our previous experience24 it will be feasible to enroll 60 women per week to comfortably meet our recruitment goal of 12,000 women in 50 months. MOH community health promoters will provide community outreach and schedule appointments for eligible women. Eligible women who consent will complete a brief intake questionnaire in a private room and be instructed on how to properly perform a self-collection of ScreenFire. After self-collecting the HPV ScreenFire test, women will have a provider-collected careHPV test during a standard speculum exam. All COVID-19 precautions will be carefully followed. To be enrolled, all participants will need to complete both HPV screening methods.
+
+Self-collection of ScreenFireHPV: Participants will be invited to complete HPV primary screening by self-collection on the same day that they attend the clinic. The nurse will provide illustrated instructions about this process (see Figure 2), answer any questions, then show the participant to a private room. Self-samples are collected by gently inserting a sterile dry swab into the vagina until the woman feels resistance, rotating the brush five full 360° turns, withdrawing the swab, placing it into the tube, breaking off the top portion of the swab, and closing and returning the tube to the study nurse. Self-collected dry samples can be stored without preservative at room temperature and are stable for at least 32 weeks.31 Self-collected specimens will be analyzed per manufacturer's instructions with the ScreenFire platform at a local lab. Each participant's HPV test will be recorded as negative or positive, and if positive the specific HPV category(ies) will be recorded and uploaded into the REDCap database. The HPV categories are the following: Group 1 (HPV type 16); Group 2 (HPV types 18 and 45); Group 3 (HPV types 33,31,52,58,35); and Group 4 (HPV types 39,51,59,56,68).
+
+Study Population:
+
+The investigators will enroll 12,000 women from clinics in El Salvador. The ScreenFire PCR machine has been used in El Salvador for COVID testing, and laboratory personnel are already trained on how to correctly run the machine.
+
+Key personnel:
+
+At study start-up, Drs. Cremer and Wang will launch the trial in El Salvador in person, if possible, or virtually if COVID restrictions remain in place. Once the clinical trial begins, the team will have bi-monthly phone calls to discuss study progress and any potential issues.
+
+Study personnel will visit each of the 152 participating clinics. All interviews, consents, and exams will be performed by study staff, with administrative assistance from MOH community health center workers. Samples will be sent to a local laboratory.
+
+Data Collection \& Management:
+
+Pathologist readings: Cervical biopsies will be transported study personnel to senior pathologists in San Salvador.36-38 Local pathology results will be used for referral to treatment per standard-of-care guidelines.39 Gynecologic pathologists from the United States will evaluate the slides with CIN2+ diagnoses and a 5% random sample of CIN1/normal pathology slides on a regular basis to ensure quality and for expert confirmation of study endpoints. The evaluation may be done in person or remotely using a slide scanner. It is important to have the pathologists differentiate CIN2 from CIN3 diagnoses, given recent epidemiological evidence that CIN3 is more likely to progress to invasive cervical cancer (ICC).40-42 For disagreement in diagnosis, a third expert pathologist will adjudicate the discrepancy. Pathologists will be blinded to HPV status and to each other's diagnoses.
+
+Analysis Plan:
+
+The primary analysis will evaluate the sensitivity of self-collected ScreenFire versus standard provider-collected careHPV for the detection of high-grade cervical precancer (CIN2+) in HPV+ women. Women who are HPV negative are unlikely to have high-risk precancer, therefore only a subset (5%) of the HPV negative women will be screened with colposcopy and undergo biopsy.3,43 Histology results from those 5% randomly selected HPV negative participants who attend colposcopy (N=475) will allow correction for potential verification bias. Maximum likelihood estimates (MLEs)44 will be used to provide statistically valid estimates of sensitivity and corresponding 95% confidence intervals (CIs). The secondary analysis will involve estimation of the specificity, positive predictive value (PPV), and negative predictive value (NPV) of primary high-risk HPV testing in ScreenFire self-collection vs. careHPV provider-collection for CIN2+ detection using similar MLE estimates as described above. For CIN3+ endpoints, the investigators will assess test performance (sensitivity, specificity, NPV, PPV) for self-collected ScreenFire and provider-collected careHPV as descriptive analyses.
+
+Non-participation documentation:
+
+Demographic characteristics and reasons for ineligibility and/or declining trial participation will be recorded for patients who are asked to participate but do not enroll in the study. Those who decline participation will be invited to fill out the demographic form so data can be gathered on non-participation. Data will be used to evaluate possible selection bias to inform interpretation of study findings.
+
+Statistical power and sample size:
+
+Based on screening 12,000 women, and a 12% estimate of HPV positivity to either ScreenFire HPV in self-collected samples or careHPV in provider-collected samples, the investigators expect 1,440 HPV+ women. Assuming a 90% retention from HPV screening to colposcopy, 1,296 are expected to have colposcopy-directed biopsy results. Based on our previous work with HPV+ women in El Salvador,45 the investigators conservatively estimate 10% CIN2+ prevalence among HPV+ women and 130 CIN2+ cases. There is 80% power to detect a 5% difference in sensitivity of ScreenFire self-collection for CIN2+ detection versus careHPV provider collection (88% vs 93%) at a significance level 0.05. That is, there will be sufficient power to determine that the sensitivity of ScreenFire self-collection for CIN2+ is higher than careHPV provider-collection. There is an 80% power to detect a 4% difference in specificity of ScreenFire self-collection for CIN2+ detection versus careHPV provider-collection (84% vs 88%) at a significance level of 0.05.

@@ -1,0 +1,42 @@
+Neoadj Admin Autologous Tumor Infiltrating Lymphocytes & Pembrolizumab for Treatment of Adv Melanoma Patients
+This phase I/II trial tests the safety and side effects of LN-144 (Lifileucel) and pembrolizumab in treating patients with stage IIIB-D or stage IV melanoma that has spread to nearby tissue or lymph nodes. Biological therapies, such as LN-144 (Lifileucel), use substances made from living organisms that may attack specific tumor cells and stop them from growing or kill them. Immunotherapy with monoclonal antibodies, such as pembrolizumab, may help the body's immune system attack the cancer, and may interfere with the ability of tumor cells to grow and spread. Giving lifileucel and pembrolizumab may make the tumor smaller.
+Locally Advanced Melanoma|Pathologic Stage IIIB Cutaneous Melanoma AJCC v8|Pathologic Stage IIIC Cutaneous Melanoma AJCC v8|Pathologic Stage IIID Cutaneous Melanoma AJCC v8|Stage IV Melanoma
+DRUG: Cyclophosphamide|DRUG: Fludarabine|BIOLOGICAL: Lifileucel|BIOLOGICAL: Pembrolizumab|PROCEDURE: Therapeutic Conventional Surgery
+Feasibility of neoadjuvant administration of MK-3475 and LN-144/Lifileucel in 3 stage IIIB-D melanoma patients (Phase 1), Success rate of tumor infiltrating lymphocyte (TIL) expansion from all screened eligible patients who have had tumor-involved lymph node(s) removed; percentage of all eligible patients who have completed the screening and treated with LN-144/lifileucel., Up to 2 years|Incidence of grade >= 3 treatment-emergent adverse events (both immune and non-immune related) (Phase 2), The severity of AEs will be graded according to CTCAE version 5.0, and frequencies and percentages of patients with AEs will be tabulated by severity grade., Up to 2 years
+Overall objective response rate, Evaluated by Response Evaluation Criteria in Solid Tumors 1.1 (RECIST 1.1) and immune-related RECIST (irRECIST) criteria., Up to 2 years|Relapse-free survival (RFS) rate, Kaplan-Meier method will be used to estimate the median time and the corresponding 95% CI., At 24 months
+Major pathologic response (MPR) rate, MPR will be summarized by number and percentage of patients with major pathologic response, as well as the corresponding 2-sided exact 95% confidence intervals (95% CI)., Up to 2 years|Immune correlates (as described above) with respect to response and 24-month relapse free survival, of the TIL/LN-144 + pembrolizumab neoadjuvant therapy, Up to 2 years|Success rate of TIL growth from tumor-involved lymph node(s), Up to 2 years|Doses of the infused TIL with respect to response and 24-month relapse-free survival, Up to 2 years|Changes in the patients' health-related quality of life, Measured by a standardized questionnaire during and after the study protocol., Up to 2 years
+PRIMARY OBJECTIVES:
+
+I. To determine the feasibility of the neoadjuvant administration of Pembrolizumab and LN-144 (Lifileucel) isolated from tumor-involved metastatic lymph node(s) in 3 stage IIIB-D melanoma patients. (Part 1) II. To evaluate the safety profile and surgical tolerability of MK-3475 (pembrolizumab) and LN-144 (Lifileucel) in 12 patients, as measured by the incidence of grade \>= 3 treatment-emergent adverse events (TEAEs). (Part 2)
+
+SECONDARY OBJECTIVES:
+
+I. To evaluate the efficacy of Pembrolizumab and LN-144(Lifileucel) in 12 patients by determining the overall objective response rate (ORR), using the Response Evaluation Criteria in Solid Tumors 1.1 (RECIST 1.1) and immune-related RECIST (irRECIST) criteria, as assessed by the investigator. (Part 2 only) II. To further evaluate the efficacy of Pembrolizumab and LN-144 (Lifileucel) in 12 patients using the 24-month relapse-free survival rate (RFS), using RECIST 1.1 and irRECIST, as assessed by the investigator. (Part 2 only)
+
+EXPLORATORY OBJECTIVES:
+
+I. To determine rates of major pathologic response (MPR) for high-risk stage IIIB-D melanoma patients treated with neoadjuvant administration of MK-3475 (pembrolizumab) and LN-144 (Lifileucel).
+
+II. To determine the association between the proportion of PD-1+CD4+ or CD8+ tumor infiltrating lymphocytes (TILs) isolated from tumor involved lymph node(s) via flow cytometry, and probability of MPR, ORR, and RFS.
+
+III. To determine the association between neoantigen specificity and probability of MPR, ORR, and RFS.
+
+IV. To determine the correlation between tumor mutation burden (TMB) and MPR, ORR, and RFS.
+
+V. To determine the correlation between intratumoral IFN-gamma and T-effector gene signatures and probability of MPR, ORR, and RFS.
+
+VI. To evaluate the correlation between serum cytokines (IL-8, IL-6), and probability of MPR, ORR, and RFS.
+
+VII. To evaluate the success rates of growing TILs from lymph node metastases, and the potential predictive factors (i.e., patient's age, CD8/CD4 ratios, inhibitory receptor expressions).
+
+VIII. To correlate the doses of TILs infused to patients and the probability of MPR, ORR, and RFS.
+
+IX. To perform additional translational studies utilizing the unstained slides or FFPE (paraffin blocks) on the resected melanoma tumor specimen post LN-144 (Lifileucel) neoadjuvant therapy.
+
+OUTLINE:
+
+Patients receive pembrolizumab intravenously (IV) on day -14, cyclophosphamide IV once daily (QD) on days -7 to -6, fludarabine IV over 30 minutes QD on days -5 to -1, and lifileucel IV infusion on day 0. Patients also receive pembrolizumab IV on day 28 and 70, and undergo surgery on day 80.
+
+MAINTENANCE: Patients receive pembrolizumab IV every 6 weeks for up to 1 year in the absence of disease progression or unacceptable toxicity.
+
+After completion of study treatment, patients are followed up every 3 months for up to 2 years.

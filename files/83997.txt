@@ -1,0 +1,30 @@
+IGFBP-2 Vaccine and Combination Chemotherapy in Treating Patients With Stage III-IV Ovarian, Fallopian Tube, or Primary Peritoneal Cancer Undergoing Surgery
+This phase II trial studies how well pUMVC3-IGFBP2 plasmid deoxyribonucleic acid (DNA) vaccine (IGFBP-2 vaccine) and combination chemotherapy work in treating patients with stage III-IV ovarian, fallopian tube, or primary peritoneal cancer undergoing surgery. IGFBP-2 is a protein found in the blood and tumor cells of most who have been diagnosed with ovarian cancer. Too much IGFBP-2 has been associated with more invasive disease. Vaccines made from DNA may help the body build an effective immune response to kill tumor cells that express IGFBP-2. Drugs used in chemotherapy, such as paclitaxel and carboplatin, work in different ways to stop the growth of tumor cells, either by killing the cells, by stopping them from dividing, or by stopping them from spreading. Giving IGFBP-2 vaccine and combination chemotherapy may work better in treating patients with stage III-IV ovarian, fallopian tube, or primary peritoneal cancer undergoing surgery.
+Stage III Fallopian Tube Cancer|Stage III Ovarian Cancer|Stage III Primary Peritoneal Cancer|Stage IIIA Fallopian Tube Cancer|Stage IIIA Ovarian Cancer|Stage IIIA Primary Peritoneal Cancer|Stage IIIB Fallopian Tube Cancer|Stage IIIB Ovarian Cancer|Stage IIIB Primary Peritoneal Cancer|Stage IIIC Fallopian Tube Cancer|Stage IIIC Ovarian Cancer|Stage IIIC Primary Peritoneal Cancer|Stage IV Fallopian Tube Cancer|Stage IV Ovarian Cancer|Stage IV Primary Peritoneal Cancer
+DRUG: Carboplatin|PROCEDURE: Gynecological Surgical Procedure|OTHER: Laboratory Biomarker Analysis|DRUG: Paclitaxel|BIOLOGICAL: pUMVC3-hIGFBP-2 Multi-Epitope Plasmid DNA Vaccine
+Rate of Pathologic Complete Response (CR), The tissue collected at time of cytoreductive surgery, post study treatment, was evaluated by the attending pathologist assigned to look at the tissue for viable tumor cells. The corresponding surgical pathology report was reviewed to evaluate individual pCR (absence of viable tumor cells)., At the time of cytoreductive surgery after receiving study treatment (vaccinations given intradermally approximately two weeks after each combination chemotherapy for 3 doses.)
+Immunohistochemistry (IHC) Staining for CD3, CD4, CD8, and CD27, Will be performed and quantitated using published methods and will be correlated with surgical CR by the Man-Whitney U or one-way analysis of variance test depending on the distribution of TIL outcomes., At the time of cytoreductive surgery|Level of IGFBP-2 Th1 Cells Elicited With Vaccine Assessed by Enzyme-linked Immunosorbent Spot Assay, Will be correlated to tumor burden at definitive surgery., Up to 6 months after last vaccine|Level of Tumor Infiltrating Lymphocytes (TIL) in Tumor, Will be assessed by immunohistochemistry (IHC) to determine whether IGFBP-2 vaccination in combination with chemotherapy increases the level of TIL in the tumor. This was done by assessing the level of IGFBP-2 Th1 elicited by study treatment (vaccination concurrent with chemotherapy). we are looking for an increase in TIL., At the time of cytoreductive surgery after receiving study treatment (vaccinations given intradermally approximately two weeks after each combination chemotherapy for 3 doses.)|Overall Survival (OS), Will be compared between the treatment arms. Large differences in PFS if observed between the treatment groups will be noted and described. Will be plotted by Kaplan-Meier curve, and compared to the survival data reported by Vergote et al which reported median PFS of 12 months and median OS of 30 months for patients treated with neoadjuvant chemotherapy by a log-rank test., Up to 5 years|Progression Free Survival (PFS), Large differences in PFS if observed between the treatment groups will be noted and described. Will be plotted by Kaplan-Meier curve, and compared to the survival data reported by Vergote et al which reported median PFS of 12 months and median overall survival (OS) of 30 months for patients treated with neoadjuvant chemotherapy by a log-rank test., Up to 12 months|Tumor Burden, Will be correlated to level of IGFBP-2 Th1 cells., At the time of cytoreductive surgery
+Predictive Signature of CR Induction When Vaccinated With an IGFBP-2 Vaccine in Combination With Neoadjuvant Chemotherapy Assessed by Whole Exome Sequencing on Vaccinated Patients' Tumors, Will use the LASSO regularized regression method to generate preliminary data for a predictive signature. Will correlate mutational profiles with primary platinum sensitive, resistance and refractory outcomes, leveraging the Cancer Genome Atlas data publicly available, to determine differences induced by vaccination., At the time of cytoreductive surgery
+PRIMARY OBJECTIVES:
+
+I. Determine whether the addition of an IGFBP-2 vaccine to neoadjuvant chemotherapy increases the rate of complete pathologic response (CR).
+
+SECONDARY OBJECTIVES:
+
+I. Determine whether the addition of an IGFBP-2 vaccine to neoadjuvant chemotherapy increases progression free survival at 12 months.
+
+II. Determine whether the addition of an IGFBP-2 vaccine to neoadjuvant chemotherapy improves overall survival.
+
+III. To determine whether IGFBP-2 vaccination in combination with chemotherapy increases the level of tumor infiltrating lymphocytes (TIL) in the tumor.
+
+IV. To assess the level of IGFBP-2 type 1 helper cells (Th1) elicited with vaccination concurrent with chemotherapy.
+
+EXPLORATORY OBJECTIVES:
+
+I. To explore whether there is a predictive genomic signature for CR induction when IGFBP-2 vaccination is used in combination with chemotherapy.
+
+OUTLINE:
+
+Patients receive paclitaxel intravenously (IV) over 3 hours and carboplatin IV over 1 hour followed by IGFBP-2 vaccine intradermally (ID) 2 weeks later. Treatment repeats every 3 weeks for up to 3 cycles in the absence of disease progression or unacceptable toxicity. After completion of 3 cycles, patients then undergo cytoreductive surgery.
+
+After completion of study treatment, patients are followed up at 6 months and then once a year for 5 years.

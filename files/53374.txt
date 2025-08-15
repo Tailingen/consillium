@@ -1,0 +1,12 @@
+Evaluation of a Novel Auto Segmentation Algorithm for Normal Structure Delineation in Radiation Treatment Planning
+This study measures the utility of a novel artificial intelligence (AI) algorithm for performing auto-segmentation of computed tomography (CT) scans for radiation therapy planning.
+Malignant Solid Neoplasm|Hematopoietic and Lymphatic System Neoplasm
+OTHER: Non-Interventional Study
+Proportion of success, Will be evaluated by question 1 of the end user survey, which evaluates the level of modification to the artificial intelligence generated auto-segmentation structures that was required (no modification, minor modification, or major modification). Auto-segmentation algorithm data will be collected through an electronic data collection form., Baseline
+PRIMARY OBJECTIVE:
+
+I. To measure the observed utility of an AI algorithm for normal segmentation by recording study subjects' observations of its function.
+
+OUTLINE: This is an observational study.
+
+Participants complete surveys about the performance/functionality of the auto-segmentation algorithm on study.

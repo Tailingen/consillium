@@ -1,0 +1,28 @@
+Increasing Engagement With Messages Regarding CRC Screening Among Adults Aged 45-49
+In May of 2021, the United States Preventive Service Task Force (USPSTF) updated their colorectal cancer (CRC) screening guidelines by recommending screening at an earlier age for average-risk adults starting at the age of 45 years old (Grade B recommendation). This is in addition to their Grade A recommendations of continuing to screen average-risk adults ages 50-75 years old. As the investigators health system aims to screen the newly eligible population of average-risk patients between the ages of 45-49, the investigators proposed randomized controlled trial is aimed to determine the most effective patient outreach approach to increase patients' engagement with messages regarding CRC screening and screening uptake within this specific age-group.
+Colorectal Cancer|Colorectal Neoplasms
+BEHAVIORAL: Risk Information|BEHAVIORAL: Risk Information + Action
+Opening link within SMS Text message, Rate of clicking the link to MyChart within the SMS text message, 1 week after getting the initial text message
+Opening link within SMS Text Message, Rate of clicking the link to MyChart within the SMS text message during 1 month, 1 month after getting initial text message|CRC45+ Choice MyChart Message opened, Rate of opening MyChart message, 1 month after getting the initial text message|Overall completion of any CRC screening test, Rate of completion of any CRC screening (FIT Kit or Colonoscopy) within the observation window., 6 months after getting the initial text message
+Colorectal cancer (CRC) is the second leading cause of cancer-related death for both men and women in the United States. One in 17 Americans will suffer from CRC during their lifetime and early detection of cancers and polyps by screening is shown to reduce CRC mortality. In 2021, the USPSTF updated its CRC screening guidelines to start screening average-risk individuals at the age of 45 years due in part to a rising incidence of CRC and premalignant polyps in younger patients.
+
+This current study will be a nested study within a larger investigation to determine the most effective patient outreach approach to increase patients' engagement with messages regarding CRC screening and CRC screening utilization in average-risk individuals ages 45-49 years. Here the investigators are testing which type of SMS messaging is most effective in prompting people to review MyChart message regarding CRC screening and thus increasing CRC screening uptake among individuals 45-49 years old.
+
+There will be three different text messages that have been formulated utilizing behavioral science principles, and then randomize them equally among the eligible population. There will be stratified patient randomization based on arm assignment in our 'CRC45+ Choice' evaluation to prevent cross-study contamination. The arms for this investigation will be 1) Control, 2) Risk Information and 3) Risk Information + Action. In the control (standard care) arm, patients will receive the standard SMS text message. In the Risk Information arm, patients will receive a message indicating their risk for colorectal cancer, on top of the content in the Control arm. Finally, in the Risk Information + Action arm patients will receive risk information and importance of taking quick action, on top of the content in the Control arm. The investigators will also randomly assign patients into receiving our text message on one of ten workdays, stratifying by arm assignment in both the CRC45+ Choice Evaluation and CRC45+ Text Evaluation.
+
+We will send text reminders to patients two weeks after they receive the initial text message. Reminder content will be very similar to the content of initial text message, and differ by arm.
+
+For this investigation the investigators hypothesize:
+
+1. Hyp 1: Patients assigned to the Risk Information + Action Arm (Arm 2) will have a higher click rate than patients assigned to the Control Arm (Arm 0)
+2. Hyp 2: Patients assigned to the Risk Information + Action Arm (Arm 2) will have a higher click rate than patients assigned to the Risk Information Arm (Arm 1)
+
+Analysis: The investigators will utilize patient-level ordinary least squares (OLS) estimation, with statistical inferences based on model-robust standard errors. The primary model term will be indicator variables for arm assignment.
+
+The analysis will adjust for sex, race/ethnicity, social vulnerability index (at the ZIP code level), and MyChart logins decile.
+
+Treatment effects will be summarized using rate differences and 95% CI's. Exploratory analyses will investigate heterogenous treatment effects by demographic subgroups by splitting the sample into each demographic subgroup as well as by testing demographics and text message arm interactions. Sensitivity analyses will be performed without covariates, and using logistic regression models in place of linear regression models. Missing covariate values will be handled by including 'unknown' indicators, along with mean imputation for quantitative covariates.
+
+The investigators will additionally explore how click rates within the SMS message vary with the day of the week.
+
+Primary analyses will use intention-to-treat protocol.

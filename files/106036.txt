@@ -1,0 +1,27 @@
+Adavosertib and Local Radiation Therapy in Treating Children With Newly Diagnosed Diffuse Intrinsic Pontine Gliomas
+This phase I trial studies the side effects and the best dose of adavosertib when given together with local radiation therapy in treating children with newly diagnosed diffuse intrinsic pontine gliomas. Adavosertib may stop the growth of tumor cells by blocking some of the enzymes needed for cell growth. Radiation therapy uses high energy x-rays, gamma rays, neutrons, protons, or other sources to kill tumor cells and shrink tumors. Giving adavosertib with local radiation therapy may work better than local radiation therapy alone in treating diffuse intrinsic pontine gliomas.
+Anaplastic Astrocytoma|Anaplastic Oligoastrocytoma|Diffuse Intrinsic Pontine Glioma|Diffuse Midline Glioma, H3 K27M-Mutant|Glioblastoma|Gliosarcoma
+DRUG: Adavosertib|OTHER: Laboratory Biomarker Analysis|OTHER: Pharmacological Study|RADIATION: Radiation Therapy
+Maximum Tolerated Dose (MTD) and/or Recommended Phase 2 Dose of Adavosertib, MTD will be defined as the maximum dose at which fewer than one-third of patients experience a dose-limiting toxicity graded by the National Cancer Institute (NCI) Common Terminology Criteria for Adverse Events (CTCAE) version 4.0., Up to 42 days|Number of Dose Limiting Toxicity With Adavosertib, Number of patients with dose limiting toxicity stratified by dose level and the toxicity will be graded using the NCI CTCAE version 4.0., Up to 42 days|Area Under the Time Concentration Curve of Adavosertib, Median (min, max) of the area under the concentration time curve adavosertib assessed at 1, 2, 4, 6, 8, and 24 hours post dose on day 1 stratified by dose level and study part., up to 24 hours
+Number of Patients With Response to Adavosertib, Number of participants with response (CR/PR) by maximal 2-dimensional measures with CR: disappearance of all abnormal signal within the brainstem; PR: at least 50% decrease in the sum o the products of the two perpendicular diameters of the target lesion., Up to 4 years|Progression-free Survival (PFS) of Adavosertib, Median (95% CI) time to progression or death stratified by dose level and study part. PFS was defined as time from start date of the first treatment to the date of disease progression or death due to any causes which ever occurred first., Up to 4 years|Overall Survival (OS) of Adavosertib, Median (95% CI) time to progression or death stratified by dose level and study part., Up to 4 years|Change in p-CDC2 of Adavosertib, Median (min, max) change in expression of p-CDC2 in peripheral blood mononuclear cells (PBMCs) before and after administration by dose level and study part., Baseline to day 8|Change in Expression of p-HH3 of Adavosertib, Median (min, max) change in expression of p-HH3 in peripheral blood mononuclear cells (PBMCs) before and after administration by dose level and study part, Baseline to day 8|Change in Expression of ɤ(Gamma)-H2AX of Adavosertib, Median (min, max) relative change in expression of gamma-H2AX of adavosertib by dose level and study part., Baseline to day 8
+PRIMARY OBJECTIVES:
+
+I. To estimate the maximum tolerated dose (MTD) or recommended phase 2 dose and schedule of the adavosertib (Wee1 inhibitor AZD1775 \[MK-1775\]) administered concurrently with radiation therapy in children with newly diagnosed diffuse intrinsic pontine glioma (DIPG).
+
+II. To define and describe the toxicities of AZD1775 (MK-1775) given concurrently with radiation therapy in children with newly diagnosed DIPG.
+
+III. To characterize the pharmacokinetics of AZD1775 (MK-1775) in children with newly diagnosed DIPG when given concurrently with radiation therapy.
+
+SECONDARY OBJECTIVES:
+
+I. To preliminarily define the antitumor activity of AZD1775 (MK-1775) within the confines of a phase 1 study, including response rate, progression free survival, and overall survival of treated patients.
+
+II. To assess the biologic activity of AZD1775 (MK-1775) by measuring expression of phosphorylated-cell division cycle 2 G1 to S and G2 to M (p-CDC2) (cyclin-dependent kinase 1 \[CDK1\]) and phosphorylated-histone H3 (p-HH3) in peripheral blood mononuclear cells (PBMCs) before and after administration of AZD1775 (MK-1775) in children with newly diagnosed DIPG.
+
+III. To assess the biologic activity of AZD1775 (MK-1775) by measuring expression of gamma-H2A histone family, member X (H2AX) in PBMCs, a marker of deoxyribonucleic acid (DNA) double-strand breaks (dsDNA), before and after administration of AZD1775 (MK-1775) in children with newly diagnosed DIPG.
+
+OUTLINE: This is a dose-escalation study of adavosertib.
+
+Patients undergo radiation therapy 5 days a week for 6 weeks (up to 30 fractions). Patients also receive adavosertib orally (PO) on days 1-5 of weeks 1, 3, and 5; days 1-5 of weeks 1, 3, and 5 AND days 1, 3, and 5 of weeks 2, 4, and 6; OR days 1-5 of weeks 1-6 depending on dose level assignment. Treatment continues in the absence of disease progression or unacceptable toxicity.
+
+After completion of study treatment, patients are followed up at 30 days, every 2 months for 6 months, and then every 3 months thereafter.

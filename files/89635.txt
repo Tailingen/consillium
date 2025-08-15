@@ -1,0 +1,17 @@
+Trial of ctDNA of Guidance to Determine PostOperative Radiation Therapy
+Primary Objective:
+
+Evaluate the role of ctDNA positivity in decision making for postoperative therapy for non-small cell lung cancer. The plan for postoperative therapy will be declared after pathology report review and before the ctDNA result. We will assess if ctDNA result changed the planned therapy.
+
+Secondary Objectives:
+
+Evaluate personalized postoperative Chemo/ICPI/Targeted Therapies/Radiation Therapy in clearing ctDNA Evaluate the disease-free survival (DFS) and overall survival (OS) of stage II/III lung cancer patients with postoperative ctDNA positive status
+
+Exploratory Objective:
+
+Evaluate radiomics features based on serial CT thoracic CT scans to determine if radiomic features can be associated with ctDNA positivity/negativity.
+Lung Cancer|Non Small Cell Lung Cancer|Lung Cancer Recurrent
+DIAGNOSTIC_TEST: Haystack™ ctDNA Assay
+Detection of Circulating Tumor DNA (ctDNA) Post-Surgery, This outcome will assess the presence or absence of circulating tumor DNA (ctDNA) in blood samples collected at multiple time points following surgical resection of Stage II-III non-small cell lung cancer (NSCLC). The Haystack™ ctDNA assay will be used to detect minimal residual disease (MRD), and results will be evaluated for their ability to predict recurrence and guide postoperative radiation and systemic therapy decisions., Baseline, 2-4 weeks, 3 months, 6 months, and 12 months post-surgery
+Progression-Free Survival (PFS), This outcome measures the time from surgery to disease progression or recurrence, as determined by imaging, clinical assessment, or rising ctDNA levels detected via the Haystack™ ctDNA assay., Up to 3 years post-surgery|Overall Survival (OS), The time from surgery to death from any cause. This will assess whether ctDNA-guided treatment impacts long-term survival outcomes in patients with Stage II-III NSCLC., Up to 5 years post-surgery|Change in ctDNA Levels Over Time, Measures the change in ctDNA levels detected in serial blood draws, evaluating whether fluctuations correlate with treatment response, recurrence risk, or progression., Baseline, 2-4 weeks, 3 months, 6 months, and 12 months post-surgery
+This is a pilot, single-arm interventional study evaluating the use of the Haystack™ circulating tumor DNA (ctDNA) assay to guide postoperative radiation therapy (PORT) and systemic therapy decisions for patients with Stage II-III non-small cell lung cancer (NSCLC) who have undergone surgical resection. The study aims to assess whether ctDNA monitoring can effectively detect minimal residual disease (MRD) and improve post-surgical treatment strategies.

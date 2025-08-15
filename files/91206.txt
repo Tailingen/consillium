@@ -1,0 +1,35 @@
+Avelumab and Azacitidine in Treating Patients With Refractory or Relapsed Acute Myeloid Leukemia
+This phase Ib/II trial studies the best dose and side effects of avelumab when given together with azacitidine and to see how well they work in treating patients with acute myeloid leukemia that is not responding to treatment or has come back. Monoclonal antibodies, such as avelumab, may interfere with the ability of cancer cells to grow and spread. Azacitidine may stop the growth of cancer cells by blocking some of the enzymes needed for cell growth. Giving avelumab and azacitidine may work better in treating patients with acute myeloid leukemia.
+Acute Myeloid Leukemia Arising From Previous Myelodysplastic Syndrome|Recurrent Acute Myeloid Leukemia|Refractory Acute Myeloid Leukemia
+DRUG: Avelumab|DRUG: Azacitidine|OTHER: Laboratory Biomarker Analysis
+Number of Participants With a Response, Complete Response (CR) + Partial Remission (PR) + Complete Remission with incomplete recovery (CRi) + Clinical Benefit. CR = normalization of peripheral blood (PB) and bone marrow (BM) with \</= 5% BM blasts, PB granulocyte count \>/= (1.0 x 10\^9/L, and a platelet count \>/= 100 x 10\^9/L). PR = same as CR except presence of 6-15% marrow blasts, or 50% reduction if \<15% at start of treatment. CRi meets all criteria for CR except for platelet recovery to \>100 x 10\^9/L and/or granulocyte count \> (1.0 x 10\^9/L). MLFS is BM with \</= 5% BM blasts with no PB recovery. Hematologic Improvement is platelets increase by \>/= 30 x 10\^9/L untransfused (if \<20 at pretherapy); or granulocytes increase by 100% and to \>0.5 x 10\^9/L (if lower than that pre-therapy); or hemoglobin increase by 2 g/dl; or transfusion independent; or splenomegaly reduction by \> 50%; or monocytosis reduction by \> 50% if pretreatment \> 5 x 109/L, or BM or PB Blasts decrease by \>/= 50%., Up to 2 years
+Disease-free Survival, Time from date of treatment start until the date of first objective documentation of disease-relapse., Up to 1 year|Overall Survival (OS), Distribution of OS will be estimated using the method of Kaplan and Meier. Comparisons of time-to-event endpoints by important subgroups will be made using the log-rank tests., Up to 1 year|Progression Free Survival (PFS), Distribution of PFS will be estimated using the method of Kaplan and Meier. Comparisons of time-to-event endpoints by important subgroups will be made using the log-rank tests., Up to 1 year
+PRIMARY OBJECTIVES:
+
+I. To determine the maximum tolerated dose (MTD) and dose limiting toxicity (DLT) of avelumab in combination with azacitidine (5-azacytidine) in patients with refractory/relapsed acute myeloid leukemia (AML). (Phase IB)
+
+II. To determine the overall response rate (ORR) defined as complete remission (CR)/complete remission with incomplete platelet recovery (CRp)/complete remission with incomplete count recovery (CRi)/partial remission (PR)/hematologic improvement (HI)/morphologic leukemia free state (MLFS) of avelumab in combination with 5-azacytidine in patients with refractory/relapsed AML. (Phase II
+
+SECONDARY OBJECTIVES:
+
+I. To determine the number of patients achieve \> 50% reduction in blasts on therapy with this combination.
+
+II. To determine the duration of response, disease-free survival (DFS), and overall survival (OS) of patients with refractory/relapsed AML treated with this combination
+
+TERTIARY OBJECTIVES:
+
+I. To study immunological and molecular features at baseline and at predefined time-points on-therapy with avelumab and azacytidine in the peripheral blood and bone marrow to include quantify immune ligand expression by the AML blasts and AML stromal components (myeloid-derived suppressor cells \[MDSCs\] and mesenchymal stem cells \[MSCs\]) including 4-1BBL, ICOSL, PD-L1, PD-L2, OX-40L, CD137L.
+
+II. To study immunological and molecular features at baseline and at predefined time-points on-therapy with avelumab and azacytidine in the peripheral blood and bone marrow to determine the quantitative expression of positive and negative co-stimulatory molecules on individual T-lymphocyte subsets including 4-1BB, CTLA-4, ICOS, PD-1, OX40, LAG-3 and TIM-3.
+
+III. To study immunological and molecular features at baseline and at predefined time-points on-therapy with avelumab and azacytidine in the peripheral blood and bone marrow to identify the immunophenotype of tumor-infiltrating T-lymphocytes (TILs) pre- and post-therapy with the combination: CD8+, CD4+ effector, or CD4+ regulatory.
+
+IV. To develop a micro-array based gene expression profile (GEP) predictor of response to anti-PDL1 and epigenetic therapy in AML.
+
+V. To determine the correlation of responses to the combination with baseline cytogenetic and molecular abnormalities
+
+OUTLINE: This is a phase Ib, dose-escalation study of avelumab followed by a phase II study
+
+Patients receive azacitidine subcutaneously (SC) or intravenously (IV) over 10-40 minutes on days 1-7 or on days 1-5 and 8-9. Patients also receive avelumab IV over 60 minutes on days 1 and 14 for 4 courses (or until complete response) and on day 1 for subsequent courses. Courses repeat every 28 days in the absence of disease progression or unacceptable toxicity
+
+After completion of study treatment, patients are followed up every 3-6 months for up to 5 years.

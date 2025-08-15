@@ -1,0 +1,48 @@
+A Study to Compare Early Use of Vinorelbine and Maintenance Therapy for Patients With High Risk Rhabdomyosarcoma
+This phase III trial compares the safety and effect of adding vinorelbine to vincristine, dactinomycin, and cyclophosphamide (VAC) for the treatment of patients with high risk rhabdomyosarcoma (RMS). High risk refers to cancer that is likely to recur (come back) after treatment or spread to other parts of the body. This study will also examine if adding maintenance therapy after VAC therapy, with or without vinorelbine, will help get rid of the cancer and/or lower the chance that the cancer comes back. Vinorelbine and vincristine are in a class of medications called vinca alkaloids. They work by stopping cancer cells from growing and dividing and may kill them. Dactinomycin is a type of antibiotic that is only used in cancer chemotherapy. It works by damaging the cell's deoxyribonucleic acid (DNA) and may kill cancer cells. Cyclophosphamide is in a class of medications called alkylating agents. It works by damaging the cell's DNA and may kill cancer cells. It may also lower the body's immune response. Vinorelbine, vincristine, dactinomycin and cyclophosphamide are chemotherapy medications that work in different ways to stop the growth of cancer cells, either by killing the cells, by stopping them from dividing, or by stopping them from spreading. This trial may have the potential to eliminate rhabdomyosarcoma for a long time or for the rest of patient's life.
+Alveolar Rhabdomyosarcoma|Botryoid-Type Embryonal Rhabdomyosarcoma|Embryonal Rhabdomyosarcoma|Metastatic Embryonal Rhabdomyosarcoma|Metastatic Rhabdomyosarcoma|Solid Alveolar Rhabdomyosarcoma|Spindle Cell Rhabdomyosarcoma|Spindle Cell/Sclerosing Rhabdomyosarcoma
+PROCEDURE: Biospecimen Collection|PROCEDURE: Bone Marrow Aspiration|PROCEDURE: Bone Marrow Biopsy|PROCEDURE: Bone Scan|PROCEDURE: Computed Tomography|DRUG: Cyclophosphamide|BIOLOGICAL: Dactinomycin|PROCEDURE: Magnetic Resonance Imaging|PROCEDURE: Positron Emission Tomography|RADIATION: Radiation Therapy|DRUG: Vincristine Sulfate|DRUG: Vinorelbine Tartrate|PROCEDURE: X-Ray Imaging
+Event-free survival (EFS), Will be estimated using the Kaplan-Meier method and will be compared between the two regimens using a log-rank test., Time from randomization to an event defined as disease relapse/progression, second malignancy, or death, whichever occurs first, assessed up to 5 years from study enrollment
+Overall survival, Will be estimated using the Kaplan-Meier method and will be compared between the therapy groups using a log-rank test., Time from randomization to death of any cause, assessed up to 5 years from study enrollment|Radiologic response rate, Includes both complete response and partial response. Response Evaluation Criteria in Solid Tumors 1.1 criteria will be used to define complete and partial responses. Will be compared between arms using chi square test., At week 12 after study enrollment|Incidence of adverse events, Adverse events of particular interest including grade 4 hematologic toxicity, grade 2 sinusoidal obstruction syndrome, grade 3 or higher neuropathy and any non-hematologic toxicity that result in delays \> 14 days in the delivery of a 21-day cycle of therapy or results in a dose reduction of any chemotherapy drugs., Up to 5 years from study enrollment|Feasibility and safety assessed by the adverse events, toxicities and treatment delays, If more than 40% of patients enrolled in the safety phase experience one or more of the toxicities, the study will be paused, the study team will review the data and determine if an amendment is needed.
+
+Specifically, toxicities of interest include:
+
+1. Hematological toxicities that delay the administration of subsequent chemotherapy cycles by more than two weeks.
+2. Grade 2 or higher sinusoidal obstruction syndrome.
+3. Grade 3 or higher neuropathy.
+4. Other Grade 3 or higher non-hematological toxicities that delay the administration of subsequent chemotherapy cycles by more than 2 weeks., From study enrollment to completion of the initial 12 weeks of therapy|Association between circulating tumor-derived deoxyribonucleic acid (ctDNA) and EFS, Will use Kaplan-Meier methods to calculate EFS, defined as the time from randomization to an event defined as disease relapse/progression, second malignancy, or death, whichever occurs first, for patients with and without detectable ctDNA. Will classify patients as having detectable or undetectable ctDNA at baseline. Will compare EFS between these two groups using a one-sided log-rank test., Up to 5 years from study enrollment|Prognostic impact of genomic variants, Will provide descriptive statistics for amplifications in MYCN and mutations in TP53 and MYOD1. Will compare EFS between patients with and without these mutations detected at baseline., Up to 5 years from study enrollment
+PRIMARY OBJECTIVE:
+
+I. To compare event-free survival (EFS) of patients with high-risk rhabdomyosarcoma (HR-RMS) treated with vinorelbine, dactinomycin and cyclophosphamide (VINO-AC) followed by 24 weeks of vinorelbine and oral cyclophosphamide (VINO-CPO) maintenance therapy to that of patients treated with vincristine, dactinomycin and cyclophosphamide (VAC) followed by 24 weeks of VINO-CPO maintenance therapy.
+
+SECONDARY OBJECTIVES:
+
+I. To assess the safety and feasibility of administering VINO-AC in newly diagnosed patients with HR-RMS.
+
+II. To describe the toxicity experience of patients with HR-RMS treated with VINO-AC compared to VAC.
+
+III. To compare overall survival (OS) of patients with HR-RMS treated with VINO AC followed by 24 weeks of VINO-CPO maintenance therapy to that of patients treated with VAC followed by 24 weeks of VINO-CPO maintenance therapy.
+
+IV. To compare objective radiologic response rates at week 12 between patients with HR-RMS treated with VINO-AC to those treated with VAC.
+
+V. To determine whether the addition of 24 weeks of VINO-CPO maintenance therapy improves EFS in patients with HR-RMS when compared to historical controls.
+
+VI. To determine the association between circulating tumor-derived deoxyribonucleic acid (ctDNA) levels at diagnosis and during initial chemotherapy and event-free survival (EFS) in patients with HR RMS.
+
+VII. To prospectively validate the prognostic impact of genomic variants in HR RMS.
+
+EXPLORATORY OBJECTIVE:
+
+I. To collect serial blood samples and tumor tissue for banking at baseline, during treatment, at the end of therapy, and at the time of progression for future tumor and liquid biopsy studies.
+
+OUTLINE: Patients are randomized to 1 of 2 arms.
+
+ARM A: Patients receive vincristine sulfate intravenously (IV) on days 1, 8 and 15 of cycles 1-4, 7, 8, 11, and 12, and day 1 of cycles 5, 6, 9, 10, 13, and 14. Patients also receive dactinomycin IV over 1-15 minutes or IV push (IVP) over 1-5 minutes on day 1 of cycles 1-5, 8-10, and 11-14, and cyclophosphamide IV over 60 minutes on day 1 of each cycle. Treatment repeats every 21 days for up to 14 cycles in the absence of disease progression or unacceptable toxicity. Patients also undergo radiation therapy on weeks 13 and 40.
+
+ARM B: Patients receive vinorelbine tartrate IV over 6-10 minutes on days 1 and 8, vincristine sulfate IV on day 15, dactinomycin IV over 1-15 minutes or IVP over 1-5 minutes on day 1 of cycles 1-5 and 8-14, and cyclophosphamide IV over 60 minutes on day 1. Treatment repeats every 21 days for up to 14 cycles in the absence of disease progression or unacceptable toxicity. Patients also undergo radiation therapy on weeks 13 and 40.
+
+MAINTENANCE: All patients receive vinorelbine tartrate IV over 6-10 minutes on days 1, 8, and 15 and cyclophosphamide orally (PO) on days 1-28. Treatment repeats every 28 days for up to 6 cycles in the absence of disease progression or unacceptable toxicity.
+
+Patients in both arms undergo computed tomography (CT), magnetic resonance imaging (MRI), positron emission tomography (PET), x-ray imaging, and/or bone scan, as well as blood sample collection throughout the trial. Patients may also undergo bone marrow aspiration and/or biopsy as clinically indicated
+
+After completion of study treatment, patients are followed up every 3 months for year 1, every 4 months for years 2-3, and every 6 months for years 4-5.

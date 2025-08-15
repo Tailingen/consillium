@@ -1,0 +1,85 @@
+Phase I Study of Anti-CD22 Chimeric Receptor T Cells in Patients With Relapsed/Refractory Hairy Cell Leukemia and Variant
+Background:
+
+CAR (Chimeric Antigen Receptor) T cell therapy is a type of cancer treatment in which a person s T cells (a type of immune cell) are changed in a laboratory to recognize and attack cancer cells. Researchers want to see if this treatment can help people with hairy cell leukemia (HCL).
+
+Objective:
+
+To test whether it is safe to give anti-CD22 CAR T cells to people with HCL.
+
+Eligibility:
+
+Adults ages 18 and older with HCL (classic or variant type) who have already had, are unable to receive, or have refused other standard treatments for their cancer.
+
+Design:
+
+Participants will be screened with the following:
+
+Medical history
+
+Physical exam
+
+Blood and urine tests
+
+Biopsy sample
+
+Electrocardiogram
+
+Echocardiogram
+
+Lung function tests
+
+Imaging scans
+
+Some screening tests will be repeated during the study.
+
+Participants may need to have a catheter placed in a large vein.
+
+Participants will have magnetic resonance imaging of the brain.
+
+Participants will have a neurologic evaluation and fill out questionnaires.
+
+Participants will have leukapheresis. Blood will be removed from the participant. A machine will divide whole blood into red cells, plasma, and lymphocytes. The lymphocytes will be collected. The remaining blood will be returned to the participant.
+
+Participants will get infusions of chemotherapy drugs.
+
+Participants will get an infusion of the anti-CD22 CAR T cells. They will stay at the hospital for 14 days. Then they will have visits twice a week for 1 month.
+
+After treatment, participants will be followed closely for 6 months, and then less frequently for at least 5 years. Then they will have long-term follow-up for 15 years.
+Hairy Cell Leukemia|Hairy Cell Leukemia Variant
+BIOLOGICAL: CD22CART cell infusion
+safety and feasibility, Fraction of participants at each dose level who experience a toxicity along with the grades and types of toxicity and which can successfully manufacture the targeted dose number, end of treatment|antitumor effect, The fraction of participants who experience a CR among the 10 evaluable participants treated at the MTD or highest safe dose, every year for 15 years
+expansion and persistence, Measure expansion and persistence of adoptively-transferred anti-CD22-CAR-transduced T-cells in the blood and, where possible, the bone marrow, every year for 5 years|MRD negative CR, Fraction of HCL patients who achieve MRD negative CR following treatment with anti-CD22-CAR engineered T-cells, every year for 15 years|duration of response, The time between the initial response to therapy and subsequent disease progression or relapse, every year for 15 years|progression free-survival, Duration of time from the start of treatment until time of disease relapse from PR, disease progression, or death, whichever occurs first, every year for 15 years|event free survival, Duration of time from the start of treatment until time of disease relapse, disease progression, alternative therapy given (such as radiation), or death, whichever occurs first., every year for 15 years|overall survival, Overall survival (OS) will be determined as the time from the start of the CD22CART infusion until death, every year for for 15 years or until death|time to next treatment, Duration of time from the start of administration of anti-CD22-CAR engineered T-cells to next line of treatment., every year for 15 years
+Background
+
+* Hairy cell leukemia (HCL) is an indolent CD22+ B-cell leukemia comprising 2% of all leukemias. Most cases of HCL respond well to purine analog chemotherapy and harbor BRAF V600E mutation that can be considered for targeted treatment at the time of relapse. However, there are patients with high-risk HCL such as patients with BRAF wild type IGHV4-34 unmutated HCL who respond poorly to chemotherapy and have poor survival.
+* HCL variant (HCLv), also brightly CD22+, resembles HCL morphologically but is more aggressive and responds poorly to standard purine analog chemotherapy. Patients have fewer options of targeted treatment partly due to wild type BRAF. We showed that the overall survival in patients progressed after cladribine-rituximab is less than three years.
+* Moxetumomab pasudotox-tdfk is an anti-CD22 recombinant immunotoxin which in 2018 was FDA-approved for adult patients with relapsed/refractory HCL. However, there are patients with HCL and HCLv who progress after treatments with standard purine analog chemotherapy and moxetumomab pasudotox-tdfk, and in the case of classic HCL, even after BRAF +/- MEK inhibition. There is still an unmet need for new treatment options for those with relapsed/refractory disease.
+* Adoptive cellular therapy with T-cells genetically modified using viral-based vectors to express chimeric antigen receptors (CAR) targeting the CD22 molecule have demonstrated dramatic clinical responses in patients with CD22+ acute lymphoblastic leukemia (ALL) and non-Hodgkin lymphoma (NHL).
+* Moxetumomab pasudotox-tdfk proved that CD22 is a potent target for HCL due to its ubiquitous expression in HCL and HCLv, and cellular therapy represents a promising target for those patients that have progressed after other treatments options with chemotherapy, immunotherapy and targeted therapy. This will be the first trial of anti-CD22 CAR T-cell therapy in the treatment of relapsed/refractory HCL and HCLv.
+
+Objectives
+
+* To assess the safety and feasibility of administering escalating doses of autologous anti-CD22-CAR (M971BBz) engineered T-cells in subjects with HCL/HCLv following a cyclophosphamide/fludarabine lymphodepletion regimen.
+* Explore whether the administration of anti-CD22-CAR engineered T-cells can mediate antitumor effects in HCL/HCLv.
+
+Eligibility
+
+* HCL/HCLv, after prior treatment with, ineligible for, refusal of, or inability to obtain 1) Rituximab given concurrently with or sequentially after purine analog, 2) moxetumomab pasudotox-tdft, and 3) BRAF-inhibition.
+* Need for treatment, either 1) ANC \<1/nL, 2) Hgb \<10g/dL, 3) Plt \<100/nL, 4) HCL count \>5/nL, 5) HCLv count doubling time \<3 months, 6) symptomatic splenomegaly, 7) enlarging HCL mass \> 2cm in short axis, 8) increasing lytic or blastic bone lesions.
+
+  -\>= 18 years of age.
+* CD22 expression must be detected on greater than 15% of the malignant cells by immunohistochemistry or greater than 80% by flow cytometry
+* No uncontrolled infection, cardiopulmonary dysfunction, or secondary malignancy requiring treatment.
+* No chemotherapy, immunotherapy, or radiation therapy less than or equal to 2 weeks prior to apheresis.
+
+Design
+
+* PBMC will be obtained by leukapheresis, CD3+ cells enriched and cultured in the presence of anti-CD3/-CD28 beads followed by lentiviral vector supernatant containing the anti-CD22 (M971BBz) CAR.
+* On Day -5 (cell infusion is Day 0), participants will begin lymphodepleting chemotherapy comprising fludarabine 30 mg/m2 on Days -5, -4, -3, and -2, and cyclophosphamide 500 mg/m2 on days -3 and -2.
+* The CD22-CAR T-cells will be infused on Day 0, with up to a 7 day delay if cells are cryopreserved, if needed for resolution of clinical toxicities, to generate adequate cell numbers, or to facilitate scheduling.
+* A Phase I cell dose escalation scheme will be performed primarily using 4 dose levels (1 x 10\^5 105; 3 x 105, 1 x 106, and 3 x 106 transduced T-cells/kg.
+* After 2 participants are enrolled at dose level 1 without dose limiting toxicity (DLT) or response, subsequent participants will each be enrolled at increasing dose levels until either DLT or complete response (CR) is observed, after which that dose level will be expanded. Once the maximum tolerated dose (or highest level evaluated) is reached, with 0-1 out of 6 having DLT, an additional 4 participants will be enrolled to provide further assessment of DLTs and for determining a preliminary assessment of the efficacy of the therapy in this participant population.
+* Participants will be monitored for toxicity, response and T-cell persistence as well as other biologic correlates.
+* Participants who achieve inadequate engraftment of transduced T-cells may receive a 2nd dose of CAR T-cells at a same or higher dose level, with the same or lower dose of lymphodepleting chemotherapy, with results not to affect the primary endpoint of the study.
+* Accrual ceiling will be set at 27 to allow for a few inevaluable participants and screen failures.

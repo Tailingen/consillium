@@ -1,0 +1,18 @@
+Mapping of Electrical Properties in the Brain
+This study evaluates imaging methods for monitoring neural and electrical activity in the brain for improving clinical diagnosis.
+Malignant Glioma
+OTHER: Non-Interventional Study
+Identify diffusion MRI metrics [using conductivity tensor imaging (CTI)] that inform of regional electrical properties in the brain, At least 4 normal white matter regions of the brain will be analyzed. Fractional anisotropy (FA) and optimized diagnostic imaging (ODI) values will be compared to determine alignment within normal healthy white matter tracts (e.g. cortical spinal tract, corpus callosum)., Baseline
+PRIMARY OBJECTIVES:
+
+I. Optimize pulse sequence acquisitions for diffusion imaging on clinical MRI vendor systems.
+
+II. Develop image-based MRI models (including diffusion-based MRI) that accurately depict the multi-regional electrical properties in the brain (e.g., resistivity, current) to inform of neural integrity and function (including white matter tract integrity) in diseased and non-diseased states.
+
+III. Compare/correlate image-based MRI models (e.g., diffusion) with existing structural, physiologic, and functional MRI methods (e.g., tensor imaging, fMRI, DSC-MRI, etc).
+
+IV. Further train image-based models/measurements with loco-regional benchmarks including (but not exclusive to) electrophysiologic monitoring, functional and structural tissue assays (from available biopsies), and correlative clinical features (e.g., histology, outcomes, treatment, etc).
+
+OUTLINE: This is an observational study.
+
+Participants complete a survey and undergo MRI on study.

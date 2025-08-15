@@ -1,0 +1,33 @@
+Binimetinib and Imatinib for Unresectable Stage III-IV KIT-Mutant Melanoma
+This phase II trial studies how well binimetinib and imatinib work in treating patients with stage III-IV KIT-mutant melanoma that cannot be removed by surgery (unresectable). Binimetinib and imatinib may stop the growth of tumor cells by blocking some of the enzymes needed for cell growth. Giving binimetinib and imatinib may help treat patients with KIT-mutant melanoma.
+Melanoma Stage III|Melanoma Stage IV
+DRUG: Binimetinib|DRUG: Imatinib
+Objective response rate (ORR), Defined as complete response (CR) or partial response (PR) by Response Evaluation Criteria in Solid Tumors (RECIST v1.1). The ORR at stages 1 and 2 will be estimated using the method of Whitehead, and the p-values for testing the null hypothesis at each stage will use the method of Koyama \& Chen and 90% confidence interval will be reported., Up to week 16
+Proportion of participants with treatment-related adverse events (AE), Proportion of participants with treatment-related AEs greater than grad2 as graded by National Cancer Institute Common Terminology Criteria for Adverse Events (NCI CTCAE) version 5.0 will be reported by toxicity., Up to 2 years|Median duration of response, Will estimate the probability-of-being-in-response function, assuming time to response is exponentially distributed., Up to 2 years|Progression-free survival (PFS), Participants with an objective response will be followed for survival from initiation of study treatment until date of disease progression or death from any cause, Up to 2 years|Overall survival (OS), Participants will be followed from initiation of study treatment until date of disease progression or death from any cause and estimated using the Kaplan-Meier method to estimate the survival rate (95% CI), Up to 2 years|Clinical benefit rate (CBR), Defined as CR, PR, or stable disease (SD) \>= 16 weeks by RECIST. CBR will be defined as the proportion of participants with CR, PR, or SD for \>= 16 weeks., Up to 2 years
+PRIMARY OBJECTIVE:
+
+I. To evaluate the overall response rate (ORR) of binimetinib plus imatinib in patients with advanced KIT-mutant melanoma.
+
+SECONDARY OBJECTIVES:
+
+I. To determine the safety and tolerability of binimetinib plus imatinib in patients with advanced KIT-mutant melanoma.
+
+II. To estimate efficacy and survival parameters in patients with advanced KIT-mutant melanoma treated with binimetinib plus imatinib.
+
+III. To estimate efficacy in patients with advanced KIT-mutant melanoma treated with binimetinib plus imatinib.
+
+EXPLORATORY OBJECTIVES:
+
+I. To investigate association between changes in drug phosphorylated end products (p-KIT, p-MEK, p-ERK) and clinical response.
+
+II. To investigate association between clinical response and baseline Neurofibromatosis 1 (NF1) and SPRED1 status.
+
+III. To investigate pathologic correlates of acquired resistance. IV. To investigate whether NF1 and SPRED1 loss contribute to acquired resistance.
+
+V. To generate patient-derived xenograft models. VI. To determine the relationship between clinical outcomes and clinicopathologic features including KIT exon mutated, melanoma subtype, melanoma primary site, race/ethnicity, prior treatment history including immune checkpoint inhibitor (ICI)-experienced versus (vs) - naive.
+
+OUTLINE:
+
+Patients receive binimetinib orally (PO) twice daily (BID) on days 1-28 and imatinib PO once daily (QD) on days 1-28. Cycles repeat every 28 days in the absence of disease progression or unacceptable toxicity.
+
+After completion of study treatment, patients are followed up at day 30 and 100, and then every 3 months.

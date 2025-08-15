@@ -1,0 +1,21 @@
+4D Cone Beam CT Reconstruction for Radiotherapy Via Motion Vector Optimization
+To validate a new 4D Cone Beam CT (4DCBCT) reconstruction algorithm that was developed in our research group recently in terms of its geometry and intensity accuracy through real patient studies. Dose calculation found out in this study will not be used on the subject
+Lung Cancer
+RADIATION: CBCT scan
+Potential Benefits:, There is no direct benefit from the study to the subjects. All participants will be clearly informed about this. The individual patient's treatment will not be changed based on the data collected from these procedures.The study will use the CTCAE version 4.0 for reporting of acute and late adverse events related to Lung will be reported by the physician through exam/assessment during research visit, encompassing events since last research visit. Upon completion, the project will lead to an accurate and safe 4DCBCT imaging procedure for patient positioning to facilitate lung IGRT treatment.where the image quality is much improved compared to current standard 4DCBCT method and the scan time and hence radiation dose is greatly reduced., 10 years
+Risk/Benefit Ratio:, The benefits greatly outweigh the risks in this study. Considering the patient typically receives 60\~80 Gy radiation dose for radiation treatment, the additional radiation dose from three additional CBCT scans is very small, and the risk is minimal. We have also established a set of procedures to ensure the safe use of medical data to protect patient confidentiality., 10 years
+Before patient studies, we will have conducted experimental studies on a lung phantom.
+
+The purpose of this step is to comprehensively evaluate the system performance and gain confidence prior to its applications to real patient cases. We will operate the phantom to simulate motion patterns with different motion amplitude/frequency. 4DCBCT images will be reconstructed using our method and the conventional FDK algorithm. The validation will focus on two aspects: HU value accuracy and anatomy location accuracy.
+
+Imaging dose in these scans will be also measured in phantom studies to make sure the radiation dose level is acceptable for patient studies. adiation dose level is acceptable for patient studies.
+
+After testing the reconstruction algorithm on phantoms, we will move on to real patient cases. We will conduct patient studies on lung cancer patients treated under Image Guided Radiation Therapy (IGRT) at Department of Radiation Oncology, UT Southwestern Medical Center. CBCT projection data will be collected (4 gantry rotations, each within 1 minute) in only one treatment fraction. 4DCBCT images will be reconstructed from the current standard FDK algorithm using all the projection data, and from our system using data only in the first gantry rotation. Patient 4DCT image will also be used, which have been acquired during treatment planning stage per standard treatment protocol at UTSW.
+
+The image quality of our 4DCBCT will be assessed in two aspects:
+
+1) geometry accuracy, by comparing selected anatomical landmark locations with those in 4DCBCT reconstructed by the FDK algorithm. 2) HU accuracy, by comparing HU values in selected regions of interest (ROIs) with those in 4DCT.
+
+The 4DCT images will be extracted from radiation therapy information system MOSAIQ.
+
+The CBCT projection data will be exported from a computer that controls the image acquisition system

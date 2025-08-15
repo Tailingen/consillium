@@ -1,0 +1,23 @@
+Randomized Trial of Cryotherapy Duration Prior to High Dose Melphalan in Myeloma Patients
+The purpose of this study is to compare the effect of short-term (2 hours/120 minutes) and long-term (6 hours/360 minutes) schedules of crushed ice therapy (cryotherapy). Patients that receive high dose melphalan for bone marrow transplantation commonly develop significant mouth pain and sores (oral mucositis) unless cryotherapy is utilized. The goal of this study is to scientifically determine (using randomization and a larger sample size) if a short-term schedule is as effective as the standard long-term schedule in preventing, or minimizing the symptoms involved with oral mucositis. The study is also trying to determine the best dose of melphalan and how patient's body breaks down melphalan and will obtain blood through central venous catheter to measure the amount of melphalan in patient's blood at specific times after the melphalan is infused
+Refractory Multiple Myeloma|Stage I Multiple Myeloma|Stage II Multiple Myeloma|Stage III Multiple Myeloma
+PROCEDURE: cryotherapy|OTHER: questionnaire administration|OTHER: pharmacological study
+Incidence of severe (Grade 3 or 4) mucositis achieved between two different cryotherapy regimens during inpatient hospitalization based on the National Cancer Institute (NCI) Common Terminology Criteria for Adverse Events (CTCAE) version 4, A Cochran-Mantel-Haenszel chi-square test will be used to compare the proportion of patients who develop severe mucositis between those treated with 120-minute vs. 360-minute cryotherapy. Logistic regression modeling will also be used with incidence of severe mucositis as the dependent variable and assess various factors in addition to treatment arm on this incidence., 21 days
+Melphalan pharmacokinetic model including apparent volume of the central compartment (Vc), elimination rate of constant (Ke), half-life (t1/2), systemic clearance (CLs), and AUC., All pharmacokinetic results will be summarized using appropriate descriptive statistics. A nonlinear mixed effects approach will be used for modeling melphalan pharmacokinetics, identifying significant covariates, and relating these to mucositis., Pre-dose, within 5 minutes prior to completion of infusion, at 5, 15, 30, 45, and 60 minutes, and 3 and 6 hours post end of infusion
+PRIMARY OBJECTIVES:
+
+I. To measure the maximum inpatient mucositis grade after 120- vs. 360-minutes standardized cryotherapy regimens in patients with multiple myeloma undergoing autologous hematopoietic stem cell transplantation at Ohio State Medical Center.
+
+SECONDARY OBJECTIVES:
+
+I. To develop a pharmacokinetic model predicting variability in unbound serum melphalan area under the concentration-time curve (AUC).
+
+II. To compare the neutropenic fever and bacteremia incidence after 120- vs. 360-minute cryotherapy regimens.
+
+III. To compare patient-reported mucositis-related symptoms up until discharge utilizing the Patient-Reported Oral Mucositis Symptoms Scale (PROMS) after 120- vs 360-minute cryotherapy regimens.
+
+OUTLINE: Patients are randomized to 1 of 2 treatment arms.
+
+ARM I: Beginning fifteen minutes before melphalan treatment, patients receive 1 ounce of shaved ice in their mouth, allow it to melt and then replenish it immediately for 120 minutes.
+
+ARM II: Beginning fifteen minutes before melphalan treatment, patients receive 1 ounce of shaved ice in their mouth, allow it to melt and then replenish it immediately for 360 minutes.

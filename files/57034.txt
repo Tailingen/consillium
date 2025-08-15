@@ -1,0 +1,50 @@
+Imaging Biomarkers for Immune Checkpoint Inhibitor Treatment in Patients With Non-small Cell Lung Cancer
+1. Hypothesis : imaging biomarkers of tumor measured by F-18 fluorodeoxyglucose (FDG) positron emission tomography(PET)/computed tomography(CT) is correlated with immune checkpoint inhibitor (ICI) treatment response and patient prognosis.
+2. Purpose: To evaluate the association between metabolic imaging parameters measured by F-18 FDG PET/CT and clinical outcomes in patients with non-small cell lung cancer treated with ICIs.
+3. Study subject: patients with non-small cell lung cancer who will be treated with ICIs.
+4. Study design: prospective observational study
+5. Intervention: F-18 FDG PET/CT
+Carcinoma, Non-Small-Cell Lung|Immune Checkpoint Inhibitors
+DIAGNOSTIC_TEST: F-18 FDG PET/CT
+Correlation between metabolic imaging parameters and treatment response, * Analyze the correlation between metabolic imaging indicators (SUVmax, SULpeak, MTV, TLG, SLR of tumor lesions on 1st scan, % change of SUVmax, % change of SULpeak, % change of MTV, % change of TLG, % change of SLR between 1st and 2nd scans) and treatment response.
+* Treatment response: If the patient maintains a stable disease state or above based on the CT response evaluation criteria for more than 6 months, it is considered to have a response.
+* % change = \[((Value of SCAN2 - value of SCAN1)/value of SCAN1) X 100\]
+* Analysis model: point-biserial correlation analysis (Two-tailed test), The primary analysis can be performed when all study subjects have elapsed more than 6 months after the start of treatment.
+Correlation between metabolic imaging parameters and patient prognosis, - Analyze the correlation between the metabolic imaging indicators and patient's overall survival (OS) and progression free survival (PFS) using Cox proportional hazard model, The primary analysis can be performed when all study subjects have elapsed more than 12 months after the start of treatment.|Comparison of clinical outcome according to FDG PET/CT evaluation criteria (PERCIST vs. iPERCIST), - Compare clinical outcome according to the FDG PET/CT evaluation criteria (PERCIST vs. iPERCIST) using Pearson chi-square test, The primary analysis can be performed when all study subjects have elapsed more than 12 months after the start of treatment.|Correlation between metabolic imaging parameters and CT imaging parameters obtained from contrast-enhanced CT, - Analyze the correlation between PET parameters and contrast CT parameters using Pearson or Spearman correlation analysis, Analysis can be performed at the time when all target subjects underwent pre-treatment and interim F-18 FDG PET/CT scans.|Comparison of FDG PET/CT evaluation criteria with CT evaluation criteria (iRECIST and imRECIST), - Compare FDG PET/CT evaluation criteria and CT evaluation criteria using Pearson chi-square test, Analysis can be performed at the time when all target subjects underwent pre-treatment and interim F-18 FDG PET/CT scans.|Correlation between imaging markers and non-imaging biomarkers, - Analyze correlation between imaging parameters and non-imaging biomarker such as NLR using Pearson or Spearman correlation analysis/ biserial correlation analysis, Analysis can be performed at the time when all target subjects underwent pre-treatment and interim F-18 FDG PET/CT scans.|Correlation between biomarkers and treatment response, - Analyze correlation between biomarkers and treatment response using Point-biserial correlation analysis, The primary analysis can be performed when all study subjects have elapsed more than 6 months after the start of treatment.|Correlation between biomarkers and patient prognosis, - Analyze the correlation between biomarkers and prognosis (OS, PFS) using Cox proportional hazard model, The primary analysis can be performed when all study subjects have elapsed more than 12 months after the start of treatment.
+1. Study purposes
+
+1. Primary purpose: To evaluate the association between metabolic imaging parameters measured by F-18 FDG PET/CT and treatment response in non-small cell lung cancer (NSCLC) patients treated with ICIs.
+2. Secondary purpose: To evaluate the association between PET imaging parameters, patient prognosis, CT imaging parameters, and other biomarkers, and to compare treatment response evaluation criteria.
+
+2. Background: development of ICIs opened a new paradigm for cancer treatment. It enables long-term survival of patients with advanced cancers, which could not be expected to be effective with conventional chemotherapy. Therapeutic response and prognosis to ICIs have unique characteristics which are different from those of conventional cytotoxic or targeted therapies. Even if the initial response rate is not high, if the treatment effect is effective, the effect is long-lasting and enabling long-term survival. With the evaluation criteria based on the change in tumor size, it is difficult to differentiate between an atypical response of ICIs and disease progression. Therefore, a new type of approach is required. F-18 FDG PET/CT is an imaging method that is currently used for many cancers. In recent studies on the response evaluation of ICIs using FDG PET/CT, FDG PET/CT has shown potential as a predictive tool of therapeutic response and prognosis. However, despite the potential, most of the related studies are retrospective design and small in scale. Additionally, it is not known which PET imaging features are suitable for predicting treatment response and prognosis. A novel image analysis method based on image informatics has been tried. After extracting image features from imaging modalities such as PET, CT, MRI, they are fused with clinical information and genetic information and analyzed through an artificial intelligence-based platform. It has been reported that a predictive model based on CT image features can predict the treatment response to ICI. However, the efficacy of imaging biomarkers for predicting ICI treatment response has not yet been proven, and further prospective studies are needed. Therefore, patients with NSCLC to be treated with ICI will receive FDG PET/CT before and during treatment in this study. In addition, PET images will be comprehensively analyzed together with other image data, biomarkers, and clinical data, and will be used as basic data for future ICI prediction models.
+
+3. Study design: single institution, single-arm, prospective observational study
+
+4. Study population: NSCLC patients who are scheduled to receive ICI in our institution
+
+5. Recruitment: clinical referrals
+
+6. Target number: 100 patients available for analysis.
+
+7. Intervention: F-18 FDG PET/CT scan
+
+7. Study protocol
+
+1. Study participants will have FDG PET/CT before and during ICI Tx.
+2. There is no difference from the treatment schedule performed in usual clinical setting except for an additional F-18 FDG PET/CT scan. Detailed plan of ICI treatment and patient management (dose, administration date, treatment period, and follow-up) follows the standard protocol of our institution in this study.
+3. Scans: 1st scan (pre-treatment), 2nd scan (interim), 3rd scan (Optional)
+
+8. Variables
+
+1. Death status, date of death
+2. Disease progression status, date of disease progression
+3. ICI type and dose
+4. First day of ICI treatment, end day of ICI treatment, ICI treatment cycle
+5. Hospital visit dates
+6. Neutrophil to lymphocyte ratio (NLR)
+7. Immunochemical staining results \[PD-L1: Combined positive score (CPS) and tumor proportion score (TPS)\]
+8. Other blood and biopsy results
+9. FDG PET/CT imaging parameters \[Standard uptake value (SUV)max, SUVpeak, metabolic tumor volume (MTV), total lesion glycolysis (TLG), spleen to liver ratio (SLR), etc\]
+10. CT imaging parameters
+11. PET-based treatment response: positron Emission Tomography Response Criteria in Solid Tumors (PERCIST) criteria/ immune PERCIST (iPERCIST)/ Deauville score
+12. CT-based treatment response: response Criteria in Solid Tumors (RECIST v1.1) criteria / immune RECIST (iRECIST) criteria / immune-modified RECIST (imRECIST)

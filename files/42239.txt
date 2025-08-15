@@ -1,0 +1,25 @@
+Patient- Generated Health Data to Predict Childhood Cancer Survivorship Outcomes
+Some childhood cancer survivors have health problems as the result of previous cancer treatment. This study is being done to determine if we can better predict the risk a childhood cancer survivor might have for developing future health issues.
+
+The goal of this study is to enable regular monitoring of patient-generated health data (PGHD), including symptoms, physical activity, energy expenditure, sleep behavior and heart rate variability, and utilize these data in predicting survivor-specific risk of late effects to improve survivorship care and outcomes.
+Survivorship|Childhood Cancer
+Symptom log, Log of patient reported symptoms, Baseline, week 1, week 5, week 9, week 60 and week 108, timeline for each survivor includes 6 timepoints over 2-year period|Euro QoL 5D, Quality of Life Survey, Baseline, week 1, week 5, week 9, week 60 and week 108, timeline for each survivor includes 6 timepoints over 2-year period|NIH PROMIS 45, Patient report outcomes, Baseline, week 1, week 5, week 9, week 60 and week 108, timeline for each survivor includes 6 timepoints over 2-year period|QLACS, Quality of Life in Adult Cancer Survivors Survey, Baseline, week 1, week 5, week 9, week 60 and week 108, timeline for each survivor includes 6 timepoints over 2-year period|MEPS-US Medical Expenditure Panel Survey, Unplanned health care utilization (emergency room visits, hospitalization, unplanned primary care physician visit), Baseline, week 1, week 5, week 9, week 60 and week 108, timeline for each survivor includes 6 timepoints over 2-year period|Chronic health conditions log, Log of patient reported chronic health condition status, Baseline, week 60 and week 108|Physical performance-Cardiopulmonary fitness, Cardiopulmonary fitness - six minute walk and cardiopulmonary exercise testing, Baseline , week 60 and week 108|Physical performance-Muscular strength and endurance, Muscular strength and endurance - Isometric grip strength, isokinetic knee extension and ankle dorsiflexion (Biodex System 4), Baseline, week 60 and week 108|Physical performance-Flexibility, Flexibility - Sit and reach test (Flex-Tester), passive ankle range of motion, Baseline, week 60 and week 108|Physical performance-Mobility, Mobility - Timed up and go test, Baseline, week 60 and week 108|Physical performance-Balance and sensory integrity, Balance and sensory integrity - Computerized dynamic posturography (SMART Equi Test), Baseline, week 60 and week 108
+This study is designed to collect symptoms/other PGHD as risk factors of subsequent adverse outcomes, including PROs (impaired QOL, unplanned healthcare use) assessed via smartphones, and clinical outcomes (physical performance deficits, onset of/worsening CHCs) assessed at SJCRH's After Completion of Therapy (ACT) Clinic. Each survivor will be assessed at 6 timepoints over 2-year period: T0 (baseline: week 0) for assessing baseline PROs and clinical outcomes at ACT Clinic; T1 (7 days in week 1), T2 (7 days in week 5) and T3 (7 days in week 9) for collecting symptoms/PGHD and PROs in non-clinical, daily-living settings; T4 (week 60) and T5 (week 108) for collecting PRO and clinical outcomes at ACT Clinic. Survivors will report symptoms/PGHD over a 3-month period for a purpose of collecting risk factors.
+
+Primary Objective
+
+Aim 1: Use a mHealth platform to collect and integrate symptoms, activity, and health behavioral data, and develop/validate risk prediction models for future QOL outcomes using these dynamic data.
+
+Aim 1a: Investigate variability of patient-generated health data (PGHD), i.e., symptoms (via smartphone), and physical activity, energy expenditure, sleep behavior and heart rate variability (via wearable accelerometer/biometric sensor) within and between survivors with special attention to their temporal change patterns.
+
+Aim 1b: Assess associations and temporal patterns of the mHealth-collected PGHD while considering clinical (cancer treatment exposure/doses, age at cancer diagnosis, childhood cancer types, etc.) and socio-demographic (age at study, sex, educational attainment, income, etc.) factors.
+
+Aim 1c: Develop risk prediction models for future QOL outcomes using training data with cross-validation and validate model performance using independent test data.
+
+Aim 1d: Establish personalized risk prediction scores for potential use within clinical settings.
+
+Secondary Objectives
+
+Aim 2: Develop/validate risk prediction models and establish personalized risk prediction scores for other outcomes (unplanned care utilization including emergency room visits and hospitalizations, physical performance deficits, onset of chronic health conditions) using the same approach as Aim 1.
+
+Aim 3: Create a web-based tool to calculate and report personalized outcome specific risks and facilitate integration of risk scores into the survivor's patient portal and hospital's EHR for potential future use/evaluation in clinical management.

@@ -1,0 +1,14 @@
+EPOCH Chemotherapy and Bortezomib for Associated T-Cell Leukemia Lymphoma
+The rationale of the current study is to explore the use of combination chemotherapy together with antiretroviral agents in order to determine the efficacy and toxicity of this approach, while also examining markers of virus replication and expression, and tumor cell proliferation to gain understanding of the biological basis of this malignancy and to identify predictors of response.
+Leukemia-Lymphoma, Adult T-Cell
+DRUG: Bortezomib|DRUG: Etoposide|DRUG: Vincristine|DRUG: Doxorubicin|DRUG: Prednisone|DRUG: Cyclophosphamide|DRUG: Raltegravir
+Tolerability of Treatment as Measured by Number of Participants With Grade 3 or Higher Adverse Events, The descriptions and grading scales found in the revised NCI Common Terminology Criteria for Adverse Events (CTCAE) version 3.0 will be utilized for all toxicity reporting., Up to 30 days after completion of treatment|Efficacy of Treatment as Measured by Best Overall Response, -The response definitions used for this study are the 2007 Cheson criteria., Up to 4 years following completion of therapy
+Time to Progression, -The progression definitions used for this study are from the 2007 Cheson criteria., Up to 4 years following completion of therapy|Effects of on HTLV-1 DNA After Treatment as Measured by Proviral Loads, 6 months|Relation of NFκB Gene Expression Profile on Response, Standard error represents the standard error of the fold expression of protein coding transcripts for each gene indicated., 6 months|Effects of HTLV-1 RNA Load After Treatment as Measured by Hbz Messenger RNA, 6 months|Effects of HTLV-1 Integrase Gene Sequence After Treatment as Measured by Nucleotide Divergence, 6 months|Effects of HTLV-1 Integration Sites After Treatment, 6 months
+Primary Endpoint:
+
+- To determine the tolerability and efficacy (response rate) of dose adjusted bortezomib-EPOCH (DA B-EPOCH) chemotherapy combined with Raltegravir in patients with HTLV-1 associated leukemia/lymphoma (ATLL).
+
+Secondary Endpoints:
+
+* To evaluate the effects of DA B-EPOCH chemotherapy combined with Raltegravir on HTLV-1 DNA and RNA load, HTLV-1 integrase gene sequence, and HTLV-1 integration sites. To determine if relapsed or progressive disease is a result of renewed virus replication.
+* To evaluate the relation of NFκB gene expression profile on response to DA B-EPOCH chemotherapy combined with Raltegravir.

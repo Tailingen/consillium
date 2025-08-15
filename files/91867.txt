@@ -1,0 +1,46 @@
+Genetically Engineered Cells (MUC1-Activated T-Cells) for the Treatment of MUC1 Positive Recurrent or Refractory Multiple Myeloma
+This phase I trial tests the safety, side effects and best dose of MUC1-activated T cells in treating patients with multiple myeloma that has come back (relapsed) or does not respond to treatment (refractory) and is positive for expression of the MUC1 protein. T-cells are infection fighting blood cells that can kill cancer cells. MUC1-activated T-cells are made from the body's own T cells. The manufactured T-cells are made to target the MUC1 genetic marker and may help the body's immune system identify and kill cancer cells.
+Recurrent Plasma Cell Myeloma|Refractory Plasma Cell Myeloma
+BIOLOGICAL: Autologous MUC1-activated T-cells|DRUG: Cyclophosphamide
+Incidence of adverse events, Up to 4 years
+Clinical response, The number of responses (complete response \[CR\], very good partial response \[VGPR\], partial response \[PR\], or minimal response \[MR\]) will be summarized by simple descriptive summary statistics. Assuming that the number of responses is binomially distributed, we will estimate the proportion of patients who achieve an overall as well as specific type of response along with corresponding 95% exact binomial confidence intervals., Up to 4 years|Progression-free survival, The distribution of survival time will be estimated using the method of Kaplan-Meier (overall and by dose level). Given the nature of phase I trials and the limited numbers, this endpoint will be primarily descriptive and to characterize the patients enrolled., From registration to disease progression or death due to any cause, assessed up to 4 years|Overall survival, The distribution of survival time will be estimated using the method of Kaplan-Meier (overall and by dose level)., From registration to death due to any cause, assessed up to 4 years
+Pharmacodynamics, adoptive T cells immunophenotyping TCRVbeta, Whole blood will be collected sent to the Hematologic Malignancies Laboratory for TCR Vbeta repertoire of the T cells and phenotypes and ex vivo functions prior to infusion and 1 day after the infusion, 1 week later, and one month later and then every 3 months for two years. This testing will also be performed on the leukapheresis product. Descriptive statistics and scatterplots will form the basis of presentation of these variables. Correlations between the laboratory values and other outcome measures will be carried out by standard parametric and non-parametric tests (e.g., Pearson's and Spearman's rho)., Up to 4 years|Pharmacodynamics, immune cell profiling (whole blood), Whole blood will be collected at the indicated time points and sent to the Hematologic Malignancies Laboratory. Assessment of immune response will be done in Human Cell Therapy Laboratory. Depending on preliminary results, future analysis may not proceed. This testing will also be performed on the leukapheresis product. Descriptive statistics and scatterplots will form the basis of presentation of these variables. Correlations between the laboratory values and other outcome measures will be carried out by standard parametric and non-parametric tests (e.g., Pearson's and Spearman's rho)., Up to 4 years|Pharmacodynamics, cytokines (plasma), Whole blood will be collected and sent to the Hematologic Malignancies Laboratory for plasma isolation processing and initial cryopreservation. Analyses will be batched. Descriptive statistics and scatterplots will form the basis of presentation of these variables. Correlations between the laboratory values and other outcome measures will be carried out by standard parametric and non-parametric tests (e.g., Pearson's and Spearman's rho)., Up to 4 years|Pharmacodynamics, immune and tumor and phenotype (bone marrow), Whole bone marrow aspirate will be collected and sent to the Hematologic Malignancies lab for immune cell profiling. Central vendor, Adaptive Biotech, will provide shipping supplies. Sample shipping and analysis will be done in batches. Descriptive statistics and scatterplots will form the basis of presentation of these variables. Correlations between the laboratory values and other outcome measures will be carried out by standard parametric and non-parametric tests (e.g., Pearson's and Spearman's rho)., Up to 4 years|MUC1 expression (bone marrow biopsy tissue/slides), Slides will be made, via retrospective request, from bone marrow biopsy tissue stored in Hematopathology clinical archives. Micron thickness should be 5um. Central vendor NeoGenomics will provide kits, shipping supplies and pre-paid shipping labels. Descriptive statistics and scatterplots will form the basis of presentation of these variables. Correlations between the laboratory values and other outcome measures will be carried out by standard parametric and non-parametric tests (e.g., Pearson's and Spearman's rho)., Up to 4 years|MUC1 expression (bone marrow aspirate), Whole bone marrow aspirate will be collected and sent to the Hematologic Malignancies lab for FCM. If there is no detectable MUC1 staining other correlative studies will not be performed and the patient will go off study. Descriptive statistics and scatterplots will form the basis of presentation of these variables. Correlations between the laboratory values and other outcome measures will be carried out by standard parametric and non-parametric tests (e.g., Pearson's and Spearman's rho)., Up to 4 years
+PRIMARY OBJECTIVE:
+
+I. To determine the toxicity of in-house, manufactured MUC1-activated T cells in patients with relapsed/refractory MUC1-expressing multiple myeloma.
+
+SECONDARY OBJECTIVES:
+
+I. Obtain preliminary efficacy associated with MUC1-targeting peripheral blood mononuclear cells (PBMC) derived T cells in conjunction with cyclophosphamide (CTX) in MUC1-expressing multiple myeloma patients.
+
+Ia. Assess best objective response observed based on International Myeloma Working Group (IMWG) criteria and duration of any partial or complete responses (partial response \[PR\] or complete response \[CR\]).
+
+Ib. Assess progression-free (PFS) and overall (OS) survival. II. Determine feasibility of production and administration of MUC1-targeting PBMC-derived T cells and ability to proceed with T cell dose escalation.
+
+IIa. Assess the feasibility of in-house preparation of in vitro-sensitized T cells.
+
+III. Evaluate the safety, including all grades of neurotoxicity immune effector cell associated neurotoxicity (ICANS) and cytokine release syndrome (CRS) as determined by American Society of Transplantation and Cell Therapy (ASTCT) criteria, by monitoring adverse events, laboratory abnormalities, vital signs, and other safety parameters.
+
+IV. Estimate the incidence of Grade 3 or higher of neurotoxicity and cytokine release syndrome by Grade 3 or higher neurotoxicity (ICANS) or CRS per the ASTCT criteria.
+
+V. Assess efficacy of a single dose of MUC1-activated T cells.
+
+CORRELATIVE RESEARCH OBJECTIVES:
+
+I. Perform analyses of Vbeta usage by T cell receptors (TCR) to see whether culture expansion generated TCR oligoclonality; whether such T cells persist in the circulation following adoptive transfer; and whether such persistence significantly correlates to objective responses.
+
+Ia. Levels of Vbeta alleles on CD3+ T cells in blood by antibody staining or deoxyribonucleic acid (DNA) sequencing (Adaptive Biotechnologies).
+
+II. Characterize the changes in cytokine levels over time. III. Determine whether T cells recognizing MUC1 in an major histocompatibility complex (MHC)-restricted manner in culture (intracellular IFN-gamma assays) correspond to therapeutic efficacy upon subsequent adoptive transfer.
+
+IV. Determine the immune phenotype of the immune cells, the inhibitory profile, and transcription factors using multi-color flow cytometry.
+
+V. Assess hospital resource utilization and health economics.
+
+OUTLINE: This is a dose-escalation study of MUC1-activated T-cells.
+
+LYMPHODEPLETION (LD) CHEMOTHERAPY : Patients receive cyclophosphamide intravenously (IV) over 60 minutes on days -5, -4, -3.
+
+AUTOLOGOUS STEM CELL TRANSPLANTATION (ASCT): Patients receive MUC1-activated T-cells IV over 10 minutes to 1 hour on day 0.
+
+After completion of study treatment, patients are followed up on days 1, 2, 3, 7, 28 and every 90 days for up to 2 years.

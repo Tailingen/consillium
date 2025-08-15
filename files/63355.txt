@@ -1,0 +1,17 @@
+Activity and Safety of Peptide-based Immunotherapy in Patients With Squamous Cell Carcinoma of the Head and Neck.
+The purpose of this project is to realize a randomized open-label study (EudraCT number: 2020-000120-19) to evaluate the safety and the anti-tumor activity of peptide(s)-based immunotherapy in an umbrella window pre-operative opportunity phase II study in patients with squamous cell carcinoma of the head and neck.
+Oropharynx Squamous Cell Carcinoma|Larynx Squamous Cell Carcinoma|Hypopharynx Squamous Cell Carcinoma|Oral Cavity Squamous Cell Carcinoma
+BIOLOGICAL: IO102|BIOLOGICAL: IO103
+Number of participants with a T-cell peptide-specific response to the vaccine as assessed by an interferon(INF)-γ ELISpot assay., ELISpot responses will be considered positive when the numbers of IFN-γ secreting cells will be at least twofold greater than the mean value of the baseline and with a minimum of 50 spots (per 5 × 10\^5 peripheral blood mononuclear cell (PBMC) ) detected., 2 years
+Number of participants experiencing toxicity, Maximum grade of each toxicity and percentage of patients experiencing toxicity as assessed by CTC-NCIv5.0.
+
+Patients will have blood tests before the second and third administration of the vaccine and 4 weeks after surgery and clinical examinations before each administration of the vaccine and during the 3 months after surgery., 2 years|Increase in CD8+ T-cell density (cells/mm2) between tumour biopsies taken before and after treatment, as demonstrated by immunohistochemistry., 2 years|Overall survival (OS), The length of time (in months) from the end of standard treatments during which patients are still alive., 2 years|Objective response rate (ORR) by RECIST Version 1.1, 2 years|Disease-free survival (DFS), The time (in months) from the end of the surgery to the time of first recurrence, death from any cause or last contact date, whichever occurred first, 2 years|Disease-specific survival (DSS), The time of survival (in months) of patients from the end of treatment to the date of death from a head and neck squamous cell carcinoma, or to the last follow-up date for patients still alive, 2 years
+Patients with a head and neck squamous cell carcinoma eligible for curative treatment are eligible for this proof of concept study. The included patients in arm A will receive IO102 subcutaneous at 100μg every week during the three weeks following the first endoscopy. The included patients in am B (control group) won't receive any treatment. The included patients in arm C will receive IO103 subcutaneous at 100μg every week during the three weeks following the first endoscopy.
+
+The main objectives of this study are:
+
+* To evaluate the T-cell peptide-specific response to the vaccine in a interferon(INF)-γ ELISpot assay.
+* To assess the safety and tolerability of the vaccine.
+* To investigate the decreased action of the IDO enzyme in evaluating the increased tumoral infiltration by CD8+ T-lymphocytes and by measuring the serum levels of kynurenin, tryptophan,...
+* To evaluate the anti-tumor effect (objective response rate, overall survival, disease free- survival, disease specific survival).
+* To evaluate the pre-operative activity of peptide vaccine using MRI (Magnetic Resonance Imaging), DWI-MRI (Diffusion Weighted Imaging-MRI) and MRS (Magnetic Resonance Spectroscopy) to visualize possible significant tumor modifications.

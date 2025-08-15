@@ -1,0 +1,32 @@
+Atezolizumab Plus CArboplatin Plus Nab-paclitaxel
+Primary objective:
+
+To provide preliminary evidence on the efficacy of atezolizumab plus carboplatin plus paclitaxel as first-line therapy in metastatic triple-negative PD-L1 positive breast cancer patients as evaluated by % 2years OS.
+
+Secondary objective:
+
+* To provide preliminary evidence on the efficacy of atezolizumab plus carboplatin plus paclitaxel as first-line therapy in metastatic triple-negative PD-L1 positive breast cancer patients in terms of % OS at 2.5 years
+* To provide preliminary evidence on the efficacy of atezolizumab plus carboplatin plus paclitaxel as first-line therapy in metastatic triple-negative PD-L1 positive breast cancer patients in terms of % OS at 2 years in hormonal receptor (HR) between 1% and 10%
+* To provide preliminary evidence on the efficacy of atezolizumab plus carboplatin plus paclitaxel as first-line therapy in metastatic triple-negative PD-L1 positive breast cancer patients in terms of post-progression survival
+* To assess the activity of atezolizumab plus carboplatin plus paclitaxel as first-line therapy in metastatic triple-negative PD-L1 positive breast cancer patients in terms of ORR, and time to treatment failure
+* To assess the safety of atezolizumab plus carboplatin plus paclitaxel as first-line therapy in metastatic triple-negative PD-L1 positive breast cancer patients
+
+Exploratory Objectives:
+
+Exploratory objectives will be focused on the assessment of both tumor-centered characteristics through the NGS analysis of circulating tumor DNA (ctDNA) and immune-centric features through the evaluation of a multiparametric Cancer agnostic circuLating ImmunOsignature (CLIO):
+
+* To assess the association between patients' characteristics, treatment activity, efficacy and safety and through a CLIO in metastatic triple-negative breast cancer patients receiving atezolizumab plus carboplatin plus paclitaxel as first-line therapy
+* To explore the association between the CLIO and treatment activity, efficacy and safety
+* To explore the dynamics of circulating tumor DNA (ctDNA) levels and detectable aberrations with respect to treatment activity and efficacy Concomitant timepoints will not be used for cross-validations between the two methodologies.
+Metastatic Breast Cancer|Triple Negative Breast Cancer|PD-L1 Gene Mutation
+COMBINATION_PRODUCT: Atezolizumab,Paclitaxel, Carboplatin
+Overall survival, % Overall survival, 2 years
+Overall survival, % Overall survival, 2,5 years|Overall survival in HR, OS in HR \<1% and in HR 1-10%, 2 years|Post-progression survival, obrservation of Post-progression survival, up 24 months from LPFV (from tumor progression until death or is censored on the date of the last follow-up consultation up to 24 months)|Objective response rate, observation of Objective response rate, from 12 weeks to 24 months (An objective response is defined for patients with measurable disease at baseline as either a partial response (PR) or a complete response (CR) using RECIST v1.1 up to 24 months)|Time to treatment failure, observation of Time to treatment failure, from 4 weeks to 24 months (Time to treatment failure (TTF) is defined as the time from enrollment to treatment discontinuation for any reason, including disease progression, treatment toxicity, patient preference, or death up to 24 months)|Incidence and severity od AEs and SAEs, Incidence and severity of adverse events and serious adverse events, up to 24 months
+Exploratory outcome, Variation of ctDNA levels from baseline to first evaluation through the multigene FoundationOne® Liquid NGS panel, continuosly during the study up to 24 months from LPFV
+All eligible patients will receive carboplatin Area Under the Curve (AUC) 2 dd 1,8,15 q 28 dd, paclitaxel 90 mg/m2 dd 1,8,15 q 28 dd and atezolizumab 840 mg dd 1,15 q 28 dd and they will continue this treatment until progression of disease, unacceptable toxicity, death, withdrawal of consent, loss to follow-up, or study termination by the Sponsor. In case of interruption of one of the three drugs for unacceptable toxicity and/or medical decision, the patient may continue to receive one or more of the remaining drugs until progression per RECIST v1.1.
+
+If the investigator decides to interrupt carboplatin and paclitaxel (for toxicity and/or medical decision), atezolizumab may be continued as maintenance therapy until disease progression or unacceptable toxicity.
+
+All patients who discontinue study treatment (including due to PD) will be followed for survival approximately every 3 months for 2 years from last patient enrolled or until death, withdrawal of consent, loss to follow-up, or study termination by the Sponsor.
+
+Imaging tumor evaluation will be performed every 12 weeks.

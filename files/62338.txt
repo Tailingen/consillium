@@ -1,0 +1,30 @@
+Vaccine Therapy With or Without Polysaccharide-K in Patients With Stage IV HER2 Positive Breast Cancer Receiving HER2-Targeted Monoclonal Antibody Therapy
+This randomized phase I/II trial studies the side effects of vaccine therapy with or without polysaccharide-K and to see how well it works in treating patients with stage IV human epidermal growth factor receptor 2 (HER2) positive breast cancer who are receiving HER2-targeted monoclonal antibody therapy. Vaccines made from HER2 intracellular domain (ICD) peptide may help the body build an effective immune response to kill tumor cells that express HER2. Polysaccharide-K may stimulate the immune system in different ways and stop tumor cells from growing. It is not yet known whether vaccine therapy works better when given with or without polysaccharide-K in treating breast cancer.
+HER2/Neu Positive|Recurrent Breast Carcinoma|Stage IV Breast Cancer
+BIOLOGICAL: HER-2/neu Intracellular Domain Protein|OTHER: Laboratory Biomarker Analysis|BIOLOGICAL: Pertuzumab|OTHER: Placebo|BIOLOGICAL: Polysaccharide-K|BIOLOGICAL: Trastuzumab
+Number of Patients With Grade 3 or Higher Toxicity Per Study Arm., Evaluated using physical examinations and clinical labs by type and grade of toxicities noted during treatment, There were graded per Cancer Therapy Evaluation Program Common Terminology Criteria for Adverse Events 4.0., Up to 4 months
+Induction of Interferon (IFN)-Gamma Production and Cluster of Differentiation (CD)107a Expression in NK Cells, Via Flow Cytometry, Augmentation of NK cell activity is defined by a 2-fold increase (at time of maximal change) in NK cell IFN-gamma production and CD107a expression
+
+For the results we used CD56 which is the accepted phenotypic marker for natural killer (NK) cells and CD16 which is a receptor on NK cells that facilitates antibody-dependent cellular cytotoxicity (ADCC). CD56dim are typically responsible for cytolytic activity and targets cell killing, whereas, CD56bright are the main source of cytokine production (i.e. IFN-gamma). CD56dim CD16bright NK cells represent at least 90% of all peripheral blood NK cells with a maximum of 10% as CD56bright NK cells
+
+We compared the baseline expression of CD56brightCD16dim or CD56dimCD16bright (prior to start of study treatment) to the maximum expression of CD56brightCD16dim or CD56dimCD16bright at 1 of 4 timepoints after the start of the oral administration of study treatment (polysaccharide-K/placebo (either week 4, 8, 12 or 16)., Up to 16 weeks
+Change in Intermolecular Epitope Spreading Assessed by IFN-gamma Enzyme-linked Immunosorbent Spot Assay, IFN-γ ELISPOT assay will be used to evaluate T cell precursor frequency to specific breast tumor antigens. A positive immune response will be defined as a post-vaccination T cell precursor frequency \>1:20,000 antigen-specific PBMCs. In patients with a baseline precursor frequency \>1:20,000, a positive post-vaccination immune response will be defined as a 2-fold increase in antigen-specific PBMC. PBMC will be cryopreserved and subsequently be thawed at time of analysis., Baseline to 12 months after completion of treatment|Change in Pro-inflammatory Serum Cytokine and/or Chemokines Assessed by Luminex Analysis, Baseline to 24 hours after completion of treatment|Change in Serum TGF-beta Levels Assessed by Enzyme-linked Immunosorbent Assay, Baseline to 12 months after completion of treatment|OS, Up to 3 years|PFS, Up to 3 years
+PRIMARY OBJECTIVES:
+
+I. To evaluate the safety of polysaccharide-K (PSK) when given with HER2-directed immunotherapy.
+
+SECONDARY OBJECTIVES:
+
+I. To evaluate the effect of PSK on natural killer (NK) cell functional activity when given with HER2-directed immunotherapy.
+
+TERTIARY OBJECTIVES:
+
+I. To investigate the effect of PSK when given with HER2-directed immunotherapy on: serum levels of pro-inflammatory cytokine and/or chemokines; intermolecular epitope spreading; serum transforming growth factor (TGF)-beta levels; progression free survival (PFS) and overall survival (OS).
+
+OUTLINE: Patients are randomized to 1 of 2 treatment arms.
+
+ARM I: Patients receive HER2 ICD peptide-based vaccine intradermally (ID) once monthly for 3 months, trastuzumab (or trastuzumab and pertuzumab) per standard of care, and placebo orally (PO) twice daily (BID) for 4 months.
+
+ARM II: Patients receive HER2 ICD peptide-based vaccine ID and trastuzumab (or trastuzumab and pertuzumab) as in Arm I and polysaccharide-K PO BID for 4 months.
+
+After completion of study treatment, patients are followed up for 9 months and then twice annually for 3 years.

@@ -1,0 +1,35 @@
+Testing the Addition of an Anti-cancer Drug, BAY 1895344, to the Usual Chemotherapy Treatment (Cisplatin, or Cisplatin and Gemcitabine) for Advanced Solid Tumors With Emphasis on Urothelial Cancer
+This phase I trial identifies the best dose, possible benefits and/or side effects of BAY 1895344 in combination with chemotherapy in treating patients with solid tumors or urothelial cancer that has spread to other places in the body (advanced). BAY 1895344 may stop the growth of tumor cells by blocking some of the enzymes needed for cell growth. Cisplatin and gemcitabine are chemotherapy drugs that stop the growth of tumor cells by killing the cells. Combining BAY 1895344 with chemotherapy treatment (cisplatin, or cisplatin and gemcitabine) may be effective for the treatment of advanced solid tumors, including urothelial cancer.
+Advanced Bile Duct Carcinoma|Advanced Breast Carcinoma|Advanced Cervical Carcinoma|Advanced Endometrial Carcinoma|Advanced Esophageal Carcinoma|Advanced Gastric Carcinoma|Advanced Head and Neck Carcinoma|Advanced Lung Non-Small Cell Carcinoma|Advanced Lung Small Cell Carcinoma|Advanced Malignant Solid Neoplasm|Advanced Ovarian Carcinoma|Advanced Penile Carcinoma|Advanced Pleural Malignant Mesothelioma|Advanced Urothelial Carcinoma|Anatomic Stage III Breast Cancer AJCC v8|Anatomic Stage IV Breast Cancer AJCC v8|Clinical Stage III Gastric Cancer AJCC v8|Clinical Stage IV Gastric Cancer AJCC v8|Stage III Cervical Cancer AJCC v8|Stage III Distal Bile Duct Cancer AJCC v8|Stage III Intrahepatic Bile Duct Cancer AJCC v8|Stage III Lung Cancer AJCC v8|Stage III Ovarian Cancer AJCC v8|Stage III Penile Cancer AJCC v8|Stage III Pleural Malignant Mesothelioma AJCC v8|Stage IV Cervical Cancer AJCC v8|Stage IV Distal Bile Duct Cancer AJCC v8|Stage IV Intrahepatic Bile Duct Cancer AJCC v8|Stage IV Lung Cancer AJCC v8|Stage IV Ovarian Cancer AJCC v8|Stage IV Penile Cancer AJCC v8|Stage IV Pleural Malignant Mesothelioma AJCC v8|Triple-Negative Breast Carcinoma|Unresectable Urothelial Carcinoma
+DRUG: Cisplatin|DRUG: Elimusertib|DRUG: Gemcitabine Hydrochloride
+Incidence of adverse events, Toxicities will be tabulated and reported according to dose level, grade, type, cycle, and attribution. Tables will be created to summarize these toxicities and side effects, overall and by cohort. Proportions and associated 95% confidence intervals will be calculated for each cohort separately. Cumulative incidence curves will be used to estimate the proportion of patients who will discontinue therapy for reasons of toxicity or general inability to tolerate the regimen., Up to 28 days after completion of study treatment|Recommended phase 2 dose (RP2D) of BAY 1895344, Up to 21 days from treatment start date
+Pharmacokinetic (PK) parameter - maximum concentration (Cmax), Estimated using non-compartmental methods. The PK variables will be tabulated and descriptive statistics (e.g., geometric means and coefficients of variation) calculated for each dose level. PK parameters will be reported descriptively for exploratory comparison with historical data (gemcitabine)., Day 2 and day 9 after treatment start date|PK parameter - area under the concentration-time curve (AUC), Estimated using non-compartmental methods. The PK variables will be tabulated and descriptive statistics (e.g., geometric means and coefficients of variation) calculated for each dose level. PK parameters will be reported descriptively for exploratory comparison with historical data (gemcitabine). The impact of cisplatin on BAY 1895344 exposure will be evaluated by calculation of the AUC ratio of (day 9 / day 2) and testing non-parametrically with a null hypothesis of a ratio = 1., Day 2 and day 9 after treatment start date|Deoxyribonucleic acid (DNA) damage repair (DDR) mutations, The association between DDR mutations and responses will be described, with a table outlining patients who achieved by progressive disease, stable disease, partial or complete responses and DDR mutation status., Up to 2 years|Response rate, The percent of responders will be calculated and associated exact 95% confidence intervals will be constructed., Up to 2 years|Progression-free survival (PFS), Kaplan-Meier plots will be used to summarize PFS., Up to 2 years
+PRIMARY OBJECTIVES:
+
+I. To establish the safety and tolerability of the combination of cisplatin + elimusertib (BAY 1895344) in patients with advanced solid tumors.
+
+II. To establish the safety and tolerability of the combination of cisplatin + gemcitabine + BAY 1895344 in patients with advanced solid tumors with an emphasis on urothelial carcinoma (UC).
+
+III. To establish the maximum tolerated dose (MTD) and recommended phase 2 dose (RP2D) of cisplatin + BAY 1895344 and cisplatin + gemcitabine + BAY 1895344.
+
+SECONDARY OBJECTIVES:
+
+I. To evaluate the pharmacokinetic profile of BAY 1895344 (in the doublet and triplet combinations) and gemcitabine (in the triplet) in combination with cisplatin.
+
+II. To further evaluate the toxicity of the combination of cisplatin + gemcitabine + BAY 1895344 in patients with UC.
+
+III. To evaluate preliminary efficacy observed with cisplatin + BAY 1895344 and cisplatin + gemcitabine + BAY 1895344 in patients with advanced solid tumors, including UC.
+
+EXPLORATORY OBJECTIVES:
+
+I. To evaluate the correlation of biomarkers, including deleterious deoxyribonucleic acid (DNA) damage response (DDR) gene alterations and circulating tumor (ct)DNA with responses to therapy using whole exome sequencing (WES) and messenger ribonucleic acid sequencing (RNA seq) analysis of archival formalin fixed paraffin embedded (FFPE) tissue, as well as blood.
+
+II. To correlate drug exposure with response and/or toxicity.
+
+OUTLINE: This is a dose-escalation study of elimusertib. Patients are assigned to 1 of 2 arms.
+
+ARM I (DOUBLET COMBINATION): Patients receive cisplatin intravenously (IV) over 1-2 hours on day 1 and 8, and elimusertib orally (PO) once daily (QD) on days 2 and 9. Treatment repeats every 21 days for up to 6 cycles in the absence of disease progression or unacceptable toxicity.
+
+ARM II (TRIPLET COMBINATION): Patients receive cisplatin IV over 1-2 hours on day 1 and 8, gemcitabine IV over 30 minutes on days 1 and 8, and elimusertib PO QD on days 2 and 9. Treatment repeats every 21 days for up to 6 cycles in the absence of disease progression or unacceptable toxicity.
+
+After completion of study treatment, patients are followed up at 30 days, then every 3 months thereafter.

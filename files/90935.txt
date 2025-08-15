@@ -1,0 +1,36 @@
+Nivolumab and Temozolomide in Treating Patients With Recurrent or Refractory Small-Cell Lung Cancer or Advanced Neuroendocrine Cancer
+This phase II trial studies how well nivolumab and temozolomide work in treating patients with small-cell lung cancer that has come back or does not respond to treatment, or neuroendocrine cancer that has spread to other places in the body. Immunotherapy with monoclonal antibodies, such as nivolumab, may help the body's immune system attack the cancer, and may interfere with the ability of tumor cells to grow and spread. Drugs used in chemotherapy, such as temozolomide, work in different ways to stop the growth of tumor cells, either by killing the cells, by stopping them from dividing, or by stopping them from spreading. Giving nivolumab and temozolomide may work better in treating patients with small-cell lung cancer and neuroendocrine cancer.
+Grade I Neuroendocrine Carcinoma|Grade II Neuroendocrine Carcinoma|Grade III Neuroendocrine Carcinoma|Metastatic Neuroendocrine Carcinoma|Neuroendocrine Carcinoma|Recurrent Small Cell Lung Carcinoma|Refractory Small Cell Lung Carcinoma|Lung Cancer Stage IV|Large Cell Neuroendocrine Carcinoma|Neuroendocrine Tumors|Small Cell Lung Cancer Metastatic|Small-cell Lung Cancer
+BIOLOGICAL: Nivolumab|DRUG: Temozolomide
+Objective response rate (ORR) as measured by Response Evaluation Criteria in Solid Tumors (RECIST) 1.1 criteria, Response will be defined by a complete response (CR) or partial response (PR), confirmed or unconfirmed. Response will be defined for patients with measurable disease and who receive at least one dose of combination treatment. Exact binomial 95% confidence intervals for the true PR+CR response rate will be calculated., Up to 3 years
+Incidence of adverse events graded according to Common Terminology Criteria for Adverse Events (CTCAE) version 5.0, Attribution to drug, time-of-onset, duration of the event, resolution, and any concomitant medications administered will be recorded. The maximum grade for each type of toxicity will be recorded for each patient, and frequency tables will be reviewed to determine toxicity patterns. In addition, we will review all adverse event data that is graded as 3, 4, or 5 and classified as either ?unrelated? or ?unlikely to be related? to study treatment in the event of an actual relationship developing., Up to 3 years|Progression-free survival (PFS), The Kaplan-Meier method will be used., The time from allocation to the first documented disease progression according to RECIST 1.1 or death due to any cause, whichever occurs first, assessed up to 3 years|Central nervous system (CNS) PFS, CNS PFS will be measured for patients with relapsed vs refractory small-cell lung cancer (SCLC) in cohort 1. The Kaplan-Meier method will be used., The time from allocation to the first documented disease progression within the CNS according to RECIST 1.1, assessed up to 3 years|Overall survival (OS) of patients, The Kaplan-Meier method will be used., Up to 3 years
+Exploratory Biomarker analysis, The study will evaluate PD-L1 by immunohistochemistry (IHC), and assess the clinical outcomes (ie OS) between patients with high expression and low expression of PD-L1., Up to 3 years
+PRIMARY OBJECTIVES:
+
+I. To evaluate the efficacy (using response rate per RECIST v1.1) of nivolumab and temozolomide for the treatment of patients with either small cell lung cancer that have progressed or recurred after prior platinum-based chemotherapy and immunotherapy (cohort 1), or progressive metastatic neuroendocrine carcinoma of any grade or primary site in any line of therapy (cohort 2).
+
+SECONDARY OBJECTIVES:
+
+I. To evaluate the safety profile and toxicity of combination nivolumab and temozolomide as per Common Terminology Criteria for Adverse Events (CTCAE) version (v.) 5.0.
+
+II. To evaluate the progression free survival (PFS) and overall survival (OS) of patients treated with combination nivolumab and temozolomide.
+
+III. To evaluate the central nervous system (CNS) PFS of patients with small cell lung cancer (SCLC) treated with nivolumab and temozolomide.
+
+EXPLORATORY OBJECTIVES:
+
+I. To determine whether treatment with nivolumab and temozolomide leads to a decrease in immune-suppressive cell populations (ie myeloid-derived suppressor cells \[MDSC\]) in peripheral blood.
+
+II. To determine whether objective response rate (ORR), PFS, OS vary by tumor O6-methylguanine deoxyribonucleic acid (DNA) methyltransferase (MGMT) methylation at baseline.
+
+III. To determine whether baseline tumor mutational burden is predictive of response to therapy in patients with SCLC treated with nivolumab and temozolomide.
+
+IV. To determine whether changes in blood based mutation burden during treatment may predict clinical benefit.
+
+V. To determine whether a composite immune and tumor cell staining score can be developed with or without PD-L1 by immunohistochemistry (IHC) to predict response in the SCLC cohort.
+
+OUTLINE:
+
+Patients receive nivolumab intravenously (IV) on day 1 of a 28 day cycle. Patients also receive temozolomide orally (PO) on days 1-5. Courses repeat every 28 days in the absence of disease progression or unacceptable toxicity.
+
+After completion of study treatment, patients are followed up at 30 days, every 8 weeks for 12 months, then every 12 weeks thereafter.

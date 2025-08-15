@@ -1,0 +1,21 @@
+Cabozantinib S-Malate in Treating Patients With Recurrent or Metastatic Endometrial Cancer
+This phase II trial studies how well cabozantinib s-malate works in treating patients with endometrial cancer that has come back (recurrent) or has spread to other places in the body (metastatic). Cabozantinib s-malate may stop the growth of tumor cells by blocking some of the enzymes needed for cell growth and by blocking blood flow to the tumor.
+Endometrial Adenosquamous Carcinoma|Endometrial Clear Cell Adenocarcinoma|Endometrial Mixed Cell Adenocarcinoma|Endometrial Serous Adenocarcinoma|Metastatic Endometrioid Adenocarcinoma|Recurrent Uterine Corpus Cancer|Stage IV Uterine Corpus Cancer AJCC v7|Stage IVA Uterine Corpus Cancer AJCC v7|Stage IVB Uterine Corpus Cancer AJCC v7|Uterine Corpus Carcinosarcoma
+DRUG: Cabozantinib S-malate|OTHER: Laboratory Biomarker Analysis|OTHER: Pharmacological Study
+Response Rate, Per Response Evaluation Criteria in Solid Tumors Criteria (RECIST v1.0) for target lesions and assessed by CT: Complete Response (CR), Disappearance of all target lesions; Partial Response (PR), \>=30% decrease in the sum of the longest diameter of target lesions; Overall Response (OR) = CR + PR., At 12 weeks, then every 8 weeks during treatment; up to 12 weeks post-treatment if discontinued due to toxicities, a maximum of 16 weeks|Progression-free Survival, Defined as the percentage of patients progression free 12 weeks from starting treatment., Time from start of treatment to time of progression or death, assessed at 12 weeks
+Number of Participants With Archival Specimens That Had C-met Amplification or Mutation, Will correlate with clinical response.
+
+83 tumors were profiled on the NGS TruSeq amplicon panel and 1 on Sequenom. Fields with at least 50 tumor cells were captured to analyze 100 non-overlapping tumor cell nuclei to calculate a ratio of MET to CEP7 signal; MET ampliction was defined as MET/CEP7 ratio \>=2., Baseline|Overall Survival, Will correlate with clinical response., Time from start of treatment to time of death, every 6 months|Pharmacodynamic Responses in Levels of Soluble, Circulating Angiogenic Factors, Will correlate with clinical response., Baseline and day 1 of course 2
+PRIMARY OBJECTIVES:
+
+I. Determine efficacy of single agent cabozantinib s-malate (cabozantinib) in women previously receiving one line of chemotherapy for metastatic endometrial cancer or with progression within 12 months of completing adjuvant therapy, with co-primary endpoints of objective response rate by Response Evaluation Criteria in Solid Tumors (RECIST) 1.1 and progression-free-survival at 12 weeks (PFS).
+
+SECONDARY OBJECTIVES:
+
+I. Correlation of clinical response with baseline molecular status of archival tumor (hepatocyte growth factor receptor \[c-met\] amplification \& mutation status) and overall survival.
+
+OUTLINE:
+
+Patients receive cabozantinib s-malate orally (PO) once daily (QD) on days 1-28. Courses repeat every 28 days in the absence of disease progression or unacceptable toxicity.
+
+After completion of study treatment, patients are followed up every 4 weeks or every 6 months.

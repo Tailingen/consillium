@@ -1,0 +1,27 @@
+Iron Overload in Patients Undergoing Donor Stem Cell Transplant
+RATIONALE: Learning about the effect of excess iron in the liver of patients undergoing donor stem cell transplant may help doctors plan treatment.
+
+PURPOSE: This study is investigating the effects of iron overload in patients undergoing donor stem cell transplant.
+Cancer|Hematopoietic Stem Cell Transplantation|Allogeneic Hematopoietic Cell Transplantation
+PROCEDURE: magnetic resonance imaging|PROCEDURE: Serum ferritin
+Overall Survival, Number of patients alive at 1 year., 1 Year
+Incidence of non-relapse mortality, Number of patients who died due to serious infections, hepatic venous occlusive disorder (VOD) or organ failure within one year of transplant., Up to 1 Year|Acute and chronic graft-vs-host disease, Number of patients who had acute and chronic graft versus host disease through 1 year after transplant., 1 Year Post Transplant|Overall survival and non-relapse mortality, Number of patients who were alive and did not have any non-relapse mortality events at 1 year post transplant.
+
+Determine the impact of pre-transplant iron-overload on 1-year probability of overall survival and of non-relapse mortality in allogeneic HSCT recipients with acute leukemia and myelodysplastic syndrome., 1 Year Post Transplant|Number of Patients with Iron Overload, Prevalence of iron overload in patients being considered for allogeneic HSCT, Baseline|Ferritin levels and Liver Iron Concentration, Correlation between pre-transplant and post-transplant ferritin levels and liver iron concentration on an MRI of the liver measuring tissue proton transverse relaxation rates (R2 MRI), Baseline, and 3, 6, 9, and 12 Months Post Transplant|Longitudinal averages of serum ferritin levels, Compare the longitudinal measures of serum ferritin between the no iron-overload and iron-overload groups., Post Transplant|Incidence of iron overload, Compare the longitudinal measures of serum ferritin between the no iron-overload and iron-overload groups., 1 Year Post Transplant
+OBJECTIVES:
+
+Primary
+
+* Determine the impact of pre-transplant iron overload (defined as liver iron concentration \[LIC\] above normal \[\> 1.8 mg/g\] on an MRI of the liver measuring tissue proton transverse relaxation rates \[R2 MRI\]) on the probability of 1-year overall survival of patients undergoing allogeneic hematopoietic stem cell transplantation (HSCT).
+
+Secondary
+
+* Determine the impact of pre-transplant iron overload on the composite endpoint of non-relapse mortality and complications (e.g., serious infections, hepatic veno-occlusive disease, or organ failure) within 1 year after allogeneic HSCT.
+* Determine the impact of pre-transplant iron overload on the 1-year cumulative incidence of acute or chronic graft-vs-host disease in patients with acute leukemia or myelodysplastic syndromes undergoing allogeneic HSCT.
+* Determine the impact of pre-transplant iron overload on the 1-year probability of overall survival and non-relapse mortality in patients undergoing allogeneic HSCT.
+* Determine the prevalence of pre-transplant iron overload in adult patients undergoing allogeneic HSCT.
+* Determine the correlation between pre-transplant ferritin levels and LIC on R2 MRI.
+* Compare the longitudinal measures of serum ferritin levels after allogeneic HSCT in patients with iron overload vs those without iron overload.
+* Estimate the cumulative incidence of iron overload at 1 year after allogeneic HSCT.
+
+OUTLINE: Patients undergo blood sample collection to measure serum ferritin levels at baseline (pre-transplant) and then at 3, 6, 9, and 12 months after transplant. Patients with serum ferritin \> 500 ng/mL also undergo an R2 MRI at baseline (pre-transplant) and at 12 months after transplant to determine liver iron concentration. Patients with serum ferritin \> 500 ng/mL at 12 months after transplant also undergo an R2 MRI.

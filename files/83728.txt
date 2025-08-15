@@ -1,0 +1,32 @@
+A Biobehavioral/Cognitive Treatment for Stress, Depression, and Anxiety in Patients With Stage IV Lung Cancer
+This phase IIb trial studies the effect of a biobehavioral/cognitive (ABC) treatment on stress, depression, and anxiety in patients with stage IV lung cancer. Advanced lung cancer and stress or depression are associated with increased inflammation and decreased immunity. ABC is a combination of biobehavioral intervention, which studies the interaction between behavioral and biological processes, and cognitive therapy for the treatment for anxiety and depressive disorders. Giving ABC during lung cancer treatment may reduce stress, depression, and anxiety, and improve patients' quality of life and health.
+Advanced Lung Carcinoma|Metastatic Lung Carcinoma|Stage IV Lung Cancer AJCC v8|Stage IVA Lung Cancer AJCC v8|Stage IVB Lung Cancer AJCC v8
+OTHER: Behavioral, Psychological or Informational Intervention|PROCEDURE: Biospecimen Collection|OTHER: Electronic Health Record Review|OTHER: Informational Intervention|OTHER: Survey Administration
+Acceptability, measured by Patient Satisfaction Survey (PSS), Descriptive statistics of Patient Satisfaction Survey scores will examine if patient satisfaction scores for a biobehavioral/cognitive (ABC) treatment are "mostly satisfied." The PSS is a 15-item measure which asks patients to rate each ABC intervention component on a 4-point Likert scale ranging from 1 ("not helpful at all") to 4 ("very helpful). Items are summed and averaged. An average score of 3 or higher is considered to represent treatment satisfaction., Up to 2 months post-treatment|Retention, Descriptive statistics of patient enrollment and retention rate for ABC will also be used. Patient enrollment will be measured by counting the number of patients who sign consent and enroll onto the trial. Retention will be measured by calculating the number of patients who complete 7 of 14 sessions (50%)., Baseline up to 2 months post-treatment|Change of depressive symptoms using Patient Health Questionnaire-9 (PHQ-9), Dependent-samples t-tests will examine feasibility by testing change of depressive symptoms via the PHQ-9 from pre- to post-treatment. The PHQ-9 scores can range from 0 to 27, with higher scores indicating more severe depression., Baseline up to 2 months post-treatment|Change of anxiety symptoms using Generalized Anxiety Disorder Scale (GAD-7), Dependent-samples t-tests will examine feasibility by testing change of anxiety symptoms via the GAD-7 from pre- to post-treatment. The GAD-7 scores can range from 0 to 21, with higher scores indicating more severe anxiety., Baseline up to 2 months post-treatment|Biospecimen analysis: Neutrophil/lymphocyte ratio (NLR), Neutrophil/lymphocyte ratio (NLR) will be calculated by collecting neutrophil count and lymphocyte count from laboratory tests, and dividing neutrophil by lymphocyte count to receive the ratio. This will be conducted at 4 time points: baseline, week 5, week 10, and week 15. Changes in NLR over time will be evaluated using longitudinal mixed models within a joint modeling framework., Baseline to Week 15|Biospecimen analysis: Platelet/lymphocyte ratio (PLR), Platelet/lymphocyte ratio (PLR) will be calculated by collecting platelet count and lymphocyte count from laboratory tests, and dividing platelets by lymphocyte count to receive the ratio. This will be conducted at 4 time points: baseline, week 5, week 10, and week 15. Changes in PLR over time will be evaluated using longitudinal mixed models within a joint modeling framework., Baseline to Week 15|Biospecimen analysis: Inflammation (Interleukin-6), Inflammation will be calculated by conducting the Interleukin-6 (IL-6) immunoassay on patient blood samples. This will be conducted at 4 time points: baseline, week 5, week 10, and week 15. Changes in NLR over time will be evaluated using longitudinal mixed models within a joint modeling framework., Baseline to Week 15
+PRIMARY OBJECTIVES:
+
+I. Conduct a phase IIb pilot of a biobehavioral/cognitive (ABC) therapy intervention for patients with advanced (stage IV) lung cancer (N=40) with moderate to severe depressive symptoms and determine feasibility and treatment adherence.
+
+II. Mode of delivery (in person, virtual), frequency of contact, and duration of contacts are studied to identify efficiencies to achieve clinical change.
+
+SECONDARY OBJECTIVES:
+
+I. Pre/post treatment change on patient reported outcomes (PROs) for depressive symptoms, anxiety symptoms, cancer specific stress, and physical symptoms.
+
+II. Compare patients' ABC outcomes to responses of a matched sample (n=40) of patients previously accrued to BLCIO (Beating Lung Cancer in Ohio; ClinicalTrials.gov Identifier: NCT03199651) completing the same measures at equivalent time points using archival, deidentified data.
+
+TERTIARY OBJECTIVES:
+
+I. To evaluate effects of ABC on prognostic cell numbers/ratios (i.e., neutrophil/lymphocyte ratio, platelet/lymphocyte ratio, and advanced lung cancer inflammation indices) from patients pre to post ABC and comparable time points for the matched BLCIO sample using electronic medical record (eMR) data.
+
+II. To evaluate effects of ABC on immunity, conducting correlative studies of inflammation, immune suppressive cells, and downstream effects on T- and natural killer (NK) cell function, using serum samples from ABC patients drawn at accrual, prior to cancer treatment, and 1 and 2 months during treatment.
+
+OUTLINE:
+
+INTENSIVE I PHASE: Patients participate in ABC sessions consisting of weekly, hour-long sessions for 10 weeks.
+
+INTENSIVE II PHASE: Patients not achieving full remission after the first 10 weeks receive 4 additional weekly sessions.
+
+MAINTENANCE PHASE (Optional): Patients may participate in 1 ABC session monthly for 4 months. These maintenance sessions serve as "booster" sessions.
+
+Patients' medical records are reviewed, and will receive a patient guidebook to provide session-by-session descriptions to assist the patient to focus on the content and homework assignment completion. Patients also complete surveys at pre-treatment, every 2 months during cancer treatment, at post-treatment, and at 1 and 2 months follow-up. Patients also undergo blood collection at the time of initial diagnostic work-up, and at protocol weeks 5, 10, and 15.

@@ -1,0 +1,28 @@
+Carboplatin, Everolimus, and Prednisone in Treating Patients With Metastatic Prostate Cancer That Progressed After Docetaxel
+RATIONALE: Drugs used in chemotherapy, such as carboplatin and prednisone, work in different ways to stop the growth of tumor cells, either by killing the cells or by stopping them from dividing. Everolimus may stop the growth of tumor cells by blocking some of the enzymes needed for cell growth and by blocking blood flow to the tumor. Giving carboplatin together with everolimus and prednisone may kill more tumor cells.
+
+PURPOSE: This phase II trial is studying how well giving carboplatin together with everolimus and prednisone works in treating patients with metastatic prostate cancer that progressed after docetaxel.
+Prostate Cancer
+DRUG: carboplatin|DRUG: RAD 001|DRUG: prednisone|OTHER: laboratory biomarker analysis|OTHER: pharmacological study
+Time to Progression (TTP), Progression defined as at least a 20% increase in the sum of the longest diameter (LD) of target lesions taking as references the smallest sum LD recorded since the treatment started or the appearance of one or more new lesions., Up to 63 days while on treatment, then up 90 days thereafter. From date of registration to date of progressive disease.
+Number of Participants With Toxicity as Measured by NCI CTCAE v3.0 Criteria, Number of Participants with Grade 3/4 Toxicity as measured by NCI CTCAE v3.0 criteria, Day 1 of each cycle (every 21 days), through study completion, an average of 6 months|PSA Response Rate, PSA response rate with response defined as =\> a 30% reduction in PSA, Day 1 of each cycle (every 21 days), through study completion, an average of 6 months|Association of PSA Response Rate With Correlative Markers (Phospho mTOR, pAKT, and p70S6), PSA response defined as a decrease of 30% or more will be tabled against mTOR, pAKT, and p70S6 (1+, 2+, 3+ vs ND), Archival tissue will be collected if available. Optional biopsies pre-treatment and 24 hours after first everolimus and carboplatin dose|Pharmacokinetics: Observed Carboplatin AUC Was Estimated Based on the Concentration in the 2.75-h Sample., Using a limited sampling model (i.e., AUC = 0.52 × C2.75h + 0.92) (Sorensen et al., 1993), observed carboplatin AUC was estimated based on the concentration in the 2.75-h sample., Samples were collected Cycle 2, Day 1|Overall Survival, Overall Survival as measured by the Kaplan-Meier method, After treatment, participants will be contacted every 3 months up to 4 years
+OBJECTIVES:
+
+Primary
+
+* To evaluate the time to progression (TTP) achieved with carboplatin and everolimus in patients with castrate resistant metastatic prostate cancer that progressed after docetaxel-based chemotherapy.
+
+Secondary
+
+* To evaluate the safety of this regimen.
+* To assess the PSA response rate in patients treated with this regimen.
+* To evaluate the overall survival (OS) outcome in these patients.
+* To investigate the association of TTP and PSA response rate with correlative markers, such as phospho mTOR, pAKT, and p70S6.
+* To evaluate the pharmacokinetics of this regimen.
+* To explore the association of TTP, OS, and circulating tumor tumor cell count.
+
+OUTLINE: Patients receive carboplatin IV over 30-60 minutes on day 1, oral prednisone twice daily on days on days 1-21, and oral everolimus once daily on days 2-21 of course 1 and on days 1-21 of subsequent courses. Courses repeat every 21 days in the absence of disease progression or unacceptable toxicity.
+
+Blood and tumor tissue samples are collected periodically for pharmacodynamic, pharmacokinetic, and biomarker analysis.
+
+After completion of study treatment, patients are followed up every 3 months.

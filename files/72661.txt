@@ -1,0 +1,16 @@
+Evaluation of 3D Surface Scanning for Virtual-CT Based Radiation Therapy Treatment Planning
+This study evaluates if three dimensional (3D) surface images can be used instead of the standard computed tomography (CT) scans for treatment planning in electron radiation therapy. 3D scanning has previously been used by several groups to design patient-specific devices to be 3D printed, and as has shown excellent agreement with CT obtained surfaces. Using 3D surface imaging instead of x-ray based CT, benefits include: no ionizing radiation used to produce images, shorter time between patient consultation and treatment, and ability to produce and evaluate patient-specific devices for electron therapy earlier in the treatment planning process. This study may help researchers learn how 3D surface scanning may be used to produce a virtual CT image of patient surfaces, and accurately replace traditional planning CT for treatment planning of electron based radiation therapy.
+Hematopoietic and Lymphatic System Neoplasm|Malignant Solid Neoplasm
+OTHER: Electronic Health Record Review|PROCEDURE: Three-Dimensional Imaging
+Dose distribution agreement between virtual and planning computed tomography (CT) datasets, The various three dimensional (3D) scans and CTs of the phantoms will be qualitatively assessed for agreement and accuracy to determine best practice, but there will be no statistical significance tested for. Will be conducted entirely on inanimate, plastic, anthropomorphic models (phantoms)., Up to 2 months|Geometric agreement between virtual and planning CT datasets, Will test for distance to agreement differences between 3D scans taken at different time points (consultation, simulation, and treatment)., Up to 2 months|Geometric agreement between 3D scans taken at different time points, Various dose metrics will be extracted from each of the three types of dose distribution: the ground truth CT based dose distribution, the 3D scan based virtual CT dose distributions, and the flat water phantom based dose distributions. Paired statistical tests will be used for each metric to test for significant differences between the various methods used to calculate the dose distributions., Up to 2 months
+PRIMARY OBJECTIVES:
+
+I. Develop and benchmark the necessary software to convert a 3D scan to a virtual CT.
+
+II. Compare the spatial accuracy of virtual CTs from 3D scans to the planning CT.
+
+III. Compare radiation treatment plans based on the virtual CTs from aim 2 to treatment plans based on the actual planning CTs.
+
+OUTLINE: This is an observational study.
+
+Patients undergo 3D surface scans on study. Patient's medical records are also reviewed on study.

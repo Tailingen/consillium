@@ -1,0 +1,28 @@
+Development and Validation of a Personalized Digital Healthcare Model for Managing Side Effects in Breast Cancer Survivors
+The ultimate goal of this research and development is to develop personalized digital healthcare technologies and self-management strategies based on self-assessment results and evidence, for breast cancer survivors who require management and recovery from acute and chronic side effects related to various treatments (surgery, chemotherapy, radiation, hormone therapy, etc.). Additionally, the aim is to verify the clinical applicability and establish a service model to address the diverse unmet healthcare needs of breast cancer survivors.
+Breast Cancer Survivorship|Breast Cancer|Digital Health
+DEVICE: digital health (application and smartwatch)
+PROMIS29, Full Title: Patient-Reported Outcomes Measurement Information System Objective: health related quality of life Scoring System: Each item is rated on a scale of 1 to 5. Lower scores indicate better health for pain, depression, anxiety, and fatigue, while higher scores indicate better health for physical function, social roles, and activities, and sleep disorders., Baseline, Month 1, Month 3, Month 6
+EQ-5D-5L, Full Title: EuroQol 5-Dimension 5-level Objective: quality of life Scoring System: Each item is evaluated on a 5-point scale and weighted according to the country. EQ VAS evaluates data on a scale of 0-100, with a higher score indicating better health., Baseline, Month 1, Month 3, Month 6|PRO-CTCAE, Full Title: Patient-Reported Outcomes version of the Common Terminology Criteria for Adverse Events Objective: Clinical symptoms and adverse effects reported by patients Scoring System: Evaluate the frequency, severity, interference with daily activities, amount, and presence/absence of side effects over the past 7 days., Month 1, Month 3, Month 6|ICF (International Classification of Functioning, Disability, and Health), Full Title: International Classification of Functioning, Disability and Health Objective: function, activity and participant, environment
+
+Scoring System:
+
+A. Assess the 8 items of body functions, 8 items of activities and participation, and 8 items of environmental factors of the breast cancer ICF core set brief B. Body functions are assessed as 0 (no problems) - 4 (extreme problems), 9 (not applicable). Activities and participation are assessed as 0 (no difficulties) - 4 (extreme difficulties), 9 (not applicable). Environment is assessed as 0 (no barriers) - 4 (extreme barriers), +0 (no facilitating factors) - +4 (complete facilitating factors), 9 (not applicable)., Baseline, Month 1, Month 3, Month 6|Activity (step count), Objective: Number of steps taken in the past month Scoring System: Number of steps measured by mobile phone, Baseline, Month 1, Month 3, Month 6|TTM (Transtheoretical Model), Full Title: The Transtheoretical Model staging Objective: behavior change stage
+
+Scoring System:
+
+A. Assess health behavior change on a 5-step scale B. (1) Before consideration: No intention to change problem behavior or adopt healthy behavior within the next 6 months, (2) Consideration: No specific plan but plan to take action within the next 6 months, (3) Preparation: Plan to take action within the next 30 days, (4) Action: In progress (less than 6 months), (5) Maintenance: In progress (more than 6 months) C. Check whether the change in the stage has occurred in a positive direction, Baseline, Month 3, Month 6|OBQ-K, Full Title: Occupaitonal Balance Questionnaire Objective: occupational balance Scoring System: 13 items, 0-5 point scale. The score range is 0-65 points, and a higher score indicates greater work balance., Baseline, Month 3, Month 6|CBI-K, Full Title: Cancer Behavior Inventory version 3.0 - Korea Objective: Measuring self-efficacy for coping behaviors that can be taken during cancer treatment
+
+Scoring System:
+
+A. Consists of 7 subscales (27 items): Maintaining activity and independence (4 items), Seeking and understanding medical information (4 items), Managing stress and pain (4 items), Managing side effects (4 items), Accepting cancer/maintaining a positive attitude (4 items), Finding social support (3 items), Using spiritual coping methods (4 items) B. Rating on a 7-point scale. A higher score indicates a higher self-efficacy for overcoming cancer., Baseline, Month 3, Month 6|body composition (inbody), Weight: kg BMI(Body mass index): kg/m\^2 SMI(Appendicular Skeletal Muscle Mass Index): kg/m\^2, Baseline, Month 1, Month 3, Month 6
+SUS, Full Title: System Usability Scale Objective: System Usability
+
+Scoring System:
+
+A. 10 questions, 5-point scale B. Total = ((sum of odd questions - 5) + (25 - sum of even questions)) \* 2.5 C. Score range is 0-100, and the benchmark is known to be 68 points., Month 6|satisfaction survey, Objective: Check app satisfaction and suggestions/issues
+
+Scoring system:
+
+A. Self-administered questionnaire b. Use a semi-structured survey to assess app satisfaction and gather suggestions/issues., Month 6
+The ultimate goal of this research and development is to develop personalized digital healthcare technologies and self-management strategies based on self-assessment results and evidence, for breast cancer survivors who require management and recovery from acute and chronic side effects related to various treatments (surgery, chemotherapy, radiation, hormone therapy, etc.). Additionally, the aim is to verify the clinical applicability and establish a service model to address the diverse unmet healthcare needs of breast cancer survivors.

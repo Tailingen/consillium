@@ -1,0 +1,33 @@
+Radiation Therapy and M7824 in Treating Patients With Metastatic Hormone Receptor Positive, HER2 Negative Breast Cancer
+This phase I trial studies the side effects and best dose of anti-PD-L1/TGFbetaRII fusion protein M7824 (M7824) when given together with radiation therapy in treating patients with hormone receptor positive, HER2 negative breast cancer that has spread to other parts of the body. Radiation therapy uses high energy x-rays to kill tumor cells and shrink tumors. M7824 is a drug that targets specific proteins on immune cells in order to activate immune responses against tumor cells. Giving M7824 together with radiation therapy may work better in treating patients with breast cancer.
+Anatomic Stage IV Breast Cancer AJCC v8|Metastatic Breast Carcinoma|Prognostic Stage IV Breast Cancer AJCC v8
+DRUG: Bintrafusp Alfa|RADIATION: Radiation Therapy
+Recommended phase II dose (RP2D) of M7824 and radiation therapy in patients with metastatic HR+/HER2- breast cancer, Will be determined by dose limiting toxicity. RP2D defined as the highest dose level with no more than 1 patient with DLT out of 6 patients that are treated., 6 weeks after first administration of M7824|Safety and tolerability in patients with metastatic HR+/HER2- breast cancer, Will be graded according to the Common Terminology Criteria for Adverse Events (CTCAE) version (v) 4.03. Recommended phase 2 dose (RP2D) will be determined by "3+3" design, and the recommended phase II dose is defined when 6 patients have been treated on that dose with no more than 1 dose limiting toxicity (DLT). DLT will be evaluated within 6 weeks after first administration of anti-PD-L1/TGFbetaRII fusion protein M7824 (M7824). Detailed information collected for each adverse event (AE) will include a description of the event, duration, severity, relationship to study treatment, action taken, and clinical outcome. Severity of AEs will be graded according to the CTCAE v 4.0. Summary of AEs will include only AEs that started or worsened during the on-treatment period, the treatment-emergent AEs. However, all safety data (including those from the pre- and post-treatment periods) will be listed and those collected during the pre- and post-treatment are to be flagged., Start of study drug up to 30 days after study drug stopped
+Progression-free survival (PFS), PFS is defined as the time from treatment until objective tumor progression or death, whichever occurs first., Start of study drug up to 90 days after study drug stopped|Overall survival (OS), OS is defined as the time from treatment until death from any cause., Start of study drug up to 90 days after study drug stopped|Immunologic/molecular response, Immunologic/molecular response is defined as % change in tumor infiltrating lymphocytes (TIL) pre and post therapy to M7824 and radiation therapy in patients with HR+/HER2- metastatic breast cancer., Up to 56 days|Evaluation of the size of metastasis after treatment with M7824 with radiation (in-field) and non-irradiated (abscopal) sites, Will be determined by Response Evaluation Criteria in Solid Tumors 1.1 criteria., Up to 56 days
+PRIMARY OBJECTIVES:
+
+I. To determine the recommended phase II dose (RP2D) of M7824 and radiation therapy in patients with metastatic hormone receptor positive (HR+)/HER2 negative (-) breast cancer.
+
+II. To evaluate the safety and tolerability of M7824 and radiation therapy in patients with metastatic HR+/HER2- breast cancer.
+
+SECONDARY OBJECTIVES:
+
+I. To assess immunologic/molecular responses, specifically percentage (%) change in tumor-infiltrating lymphocytes (TIL) pre and post therapy to M7824 and radiation therapy in patients with HR+/HER2- metastatic breast cancer.
+
+II. To explore progression free survival (PFS) and overall survival (OS) to power future definitive trial.
+
+III. To evaluate the in-field and abscopal effect of treatment with anti-PD-L1/TGF-beta trap (M7824) and radiation therapy.
+
+EXPLORATORY OBJECTIVES:
+
+I. To characterize the effect of anti-PD-L1/TGF-beta trap (M7824) and radiation therapy on immune biomarkers including PD-L1 expression and fibrosis changes in tumor microenvironment in tumor tissue obtained from subjects pre- and post-treatment.
+
+II. To characterize circulating immune cell populations and cytokine profiles in tumor and circulation following treatment with M7824.
+
+III. To conduct ribonucleic acid sequencing (RNAseq), RNA Scope, whole exome sequencing (WES) targeted sequencing and tissue IO gene expression.
+
+OUTLINE:
+
+Patients receive M7824 intravenously (IV) over 1 hour every 14 days. Cycles repeat every 28 days in the absence of disease progression or unacceptable toxicity. Beginning within 3 days after second dose of M7824, patients undergo radiation therapy once a day (QD) for 5-10 days depending on the site of disease in the absence of disease progression or unacceptable toxicity.
+
+After completion of study treatment, participants are followed up for 90 days.

@@ -1,0 +1,19 @@
+An Investigational Scan (64Cu-DOTA-Trastuzumab PET/MRI) in Imaging Patients With HER2+ Breast Cancer With Brain Metastasis
+This clinical trial examines an investigational scan (64Cu-DOTA-trastuzumab positron emission tomography \[PET\]/magnetic resonance imaging \[MRI\]) in imaging patients with HER2+ breast cancer that has spread to the brain (brain metastasis). Diagnostic procedures, such as 64Cu-DOTA-trastuzumab PET/MRI, may help find HER2+ breast cancer that has spread to the brain and determine whether cancer in the brain takes up trastuzumab, which may predict for response to trastuzumab deruxtecan (the standard of care chemotherapy).
+Anatomic Stage IV Breast Cancer AJCC v8|Metastatic Breast Carcinoma|Metastatic Malignant Neoplasm in the Brain
+OTHER: Copper Cu 64-DOTA-Trastuzumab|PROCEDURE: Magnetic Resonance Imaging|DEVICE: Positron Emission Tomography|BIOLOGICAL: Trastuzumab|BIOLOGICAL: Trastuzumab Deruxtecan
+Percent of patients with quantifiable 64Cu-DOTA-trastuzumab PET uptake, Percentage of patient with quantifiable 64Cu-DOTA-trastuzumab PET imaging (maximum standardized uptake value\[SUVmax\]) uptake in brain lesions., Until disease progression or death, up to 5 years.|Comparison of average min SUVmax values in responders versus non-responders., Comparison evaluated using a non-parametric test. The lowest SUVmax (minimum SUVmax) across the lesions will be the primary metric used. Response assessment for CNS disease is determined by MRI of the brain using Response Assessment in Neuro-Oncology (RANO) criteria., Until disease progression or death, up to 5 years.
+Progression-free Survival, Estimated using the product-limit method of Kaplan and Meier. Progression defined by any of the following: \> 25% increase in sum of the products of perpendicular diameters of enhancing lesions; any new lesion; or clinical deterioration., From start of treatment until progression or death from any cause, up to 5 years.
+PRIMARY OBJECTIVES:
+
+I. Evaluate the feasibility of 64Cu-DOTA-trastuzumab PET imaging in patients with HER2+ breast cancer metastatic to the brain.
+
+II. Evaluate if HER2+ breast cancer patients with brain metastasis who are responders to fam-trastuzumab deruxtecan have higher maximum standardized uptake value (SUVmax) (minimum over all lesions in the brain) than non-responders.
+
+SECONDARY OBJECTIVE:
+
+I. Evaluate if the minimum SUVmax of all quantifiable lesions in a given patient is associated with time to progression in the brain.
+
+OUTLINE:
+
+Patients receive trastuzumab intravenously (IV) over 15 minutes on day 0. Patients then receive 64Cu-DOTA-trastuzumab IV and then undergo PET/MRI scan on day 1. Patients undergo repeat brain MRI every 6 weeks for 24 weeks and then every 9 weeks until disease progression. Patients then receive trastuzumab deruxtecan IV every 21 days in the absence of disease progression or unacceptable toxicity.

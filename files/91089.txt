@@ -1,0 +1,51 @@
+Tagraxofusp and Low-Intensity Chemotherapy for the Treatment of CD123 Positive Relapsed or Refractory Acute Lymphoblastic Leukemia or Lymphoblastic Lymphoma
+This phase Ib/II trial studies the effects of tagraxofusp and low-intensity chemotherapy in treating patients with CD123 positive acute lymphoblastic leukemia or lymphoblastic lymphoma that has come back (relapsed) or does not respond to treatment (refractory). Tagraxofusp consists of human interleukin 3 (IL3) linked to a toxic agent called DT388. IL3 attaches to IL3 receptor positive cancer cells in a targeted way and delivers DT388 to kill them. Chemotherapy drugs, work in different ways to stop the growth of cancer cells, either by killing the cells, by stopping them from dividing, or by stopping them from spreading. Giving tagraxofusp with chemotherapy may help control CD123 positive relapsed or refractory acute lymphoblastic leukemia or lymphoblastic lymphoma.
+Recurrent Adult Lymphoblastic Lymphoma|Recurrent B Acute Lymphoblastic Leukemia|Recurrent T Acute Lymphoblastic Leukemia|Refractory B Acute Lymphoblastic Leukemia|Refractory Lymphoblastic Lymphoma|Refractory T Acute Lymphoblastic Leukemia
+DRUG: Cyclophosphamide|DRUG: Cytarabine|DRUG: Dexamethasone|BIOLOGICAL: Filgrastim-sndz|DRUG: Leucovorin|DRUG: Mercaptopurine|DRUG: Mesna|DRUG: Methotrexate|BIOLOGICAL: Pegfilgrastim|DRUG: Prednisone|BIOLOGICAL: Rituximab|BIOLOGICAL: Tagraxofusp-erzs|DRUG: Vincristine
+Maximum tolerated dose, Within 3 cycles of treatment initiation: At the end of Cycle 1 (each cycle is 28 days)|Overall response rate, Will be monitored simultaneously using the Bayesian approach. Will be estimated along with 95% credible intervals. Chi-square tests or Fisher's exact test will be used to evaluate the association between patient's prognostic factor and response., Within 3 cycles of treatment initiation: At the end of Cycle 1 (each cycle is 28 days)
+Complete response, Will be estimated along with 95% credible intervals. Chi-square tests or Fisher's exact test will be used to evaluate the association between patient's prognostic factor and response., Within 3 cycles of treatment initiation: At the end of Cycle 1 (each cycle is 28 days)|Relapsed-free survival (RFS), Kaplan-Meier method will be used to estimate the RFS., From the of response to relapsed or death, whichever happens earlier, assessed up to 3 years|Overall survival, Kaplan-Meier method will be used to estimate the overall survival., Up to 3 years|Incidence of drug-related grade 3/4/5 adverse events, Up to 30 days after last dose
+PRIMARY OBJECTIVE:
+
+I. To evaluate the overall response rate (complete response \[CR\] + CR with inadequate count recovery \[CRi\]) of the regimen within 3 cycles.
+
+SECONDARY OBJECTIVES:
+
+I. Evaluate other clinical efficacy endpoints (CR rate, minimal residual disease \[MRD\] negativity, duration of response \[DOR\], relapse-free survival \[RFS\] overall survival \[OS\]).
+
+II. Determine the proportion of patients proceeding to allogeneic stem cell transplantation (allo-SCT).
+
+III. Determine the safety of the combination regimen.
+
+EXPLORATORY OBJECTIVES:
+
+I. To determine CD123 expression levels pre- and post-therapy. II. To correlate baseline CD123 expression with response rates and duration of response.
+
+III. To evaluate change in apoptotic protein expression and alterations in cellular signaling pathways using cytometry by time of flight (CyTOF).
+
+IV. To determine baseline gene expression profile in order to identify ALL subtypes and correlate with clinical outcomes and response to single-agent tagraxofusp-erzs (tagraxofusp).
+
+OUTLINE:
+
+TAGRAXOFUSP AND CHEMOTHERAPY PHASE:
+
+CYCLE 1: Patients receive tagraxofusp-erzs intravenously (IV) over 15 minutes on days 1-5.
+
+CYCLES 2 AND 4: Patients receive tagraxofusp-erzs IV over 15 minutes on days 1-3, cyclophosphamide IV over 3 hours twice daily (BID) and mesna IV on days 4-6, vincristine IV over 15 minutes on days 4 and 15, dexamethasone IV over 30 minutes or orally (PO) on day 4-7 and 14-17, methotrexate intrathecally (IT) on day 5, and filgrastim-sndz subcutaneously (SC) or pegfilgrastim SC on day 8, and cytarabine IT on day 10. Patients may receive rituximab IV over 4-6 hours on days 4 and 14.
+
+CYCLES 3 AND 5: Patients receive tagraxofusp-erzs IV over 15 minutes on days 1-3, methotrexate IV over 24 hours on day 4, cytarabine IV over 3 hours BID on days 5-6, filgrastim-sndz SC or pegfilgrastim SC on day 6, methotrexate IT and cytarabine IT on day 11. Patients may receive rituximab IV over 4-6 hours on days 4 and 11. Beginning about 12 hours after the day 4 dose of methotrexate, patients may also receive leucovorin IV over 15 minutes, 4 times a day for about 8 doses.
+
+CYCLES 6 AND 8: Patients receive cyclophosphamide IV over 3 hours BID and mesna IV on days 1-3, vincristine IV over 15 minutes on days 1 and 11, dexamethasone IV over 30 minutes or PO on day 1-4 and 11-14, and filgrastim-sndz SC or pegfilgrastim SC on day 5.
+
+CYCLES 7 AND 9: Patients receive methotrexate IV over 24 hours on day 1, cytarabine IV over 3 hours BID on days 2-3, and filgrastim-sndz SC or pegfilgrastim SC on day 4. Beginning about 12 hours after the day 1 dose of methotrexate, patients may receive leucovorin IV over 15 minutes, 4 times a day for about 8 doses.
+
+Cycle 1 is 21 days. Treatment repeats every 28 days for cycles 2-9 in the absence of disease progression or unacceptable toxicity.
+
+TAGRAXOFUSP AND MAINTENANCE PHASE:
+
+CYCLES 1-3, 5-7, 9-11, 13-15: Patients receive mercaptopurine PO three time daily (TID) on days 1-28, prednisone PO once daily (QD) on day 1-5, methotrexate PO once every week (QW) and vincristine IV over 15 minutes every 4 weeks.
+
+CYCLES 4, 8, and 12: Patients receive tagraxofusp-erzs IV over 15 minutes on days 1-5.
+
+Treatment repeats every 28 days for 15 cycles in the absence of disease progression or unacceptable toxicity.
+
+After completion of study treatment, patients are followed up at 30 days and then every 3 months thereafter.

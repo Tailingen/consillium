@@ -1,0 +1,32 @@
+SD-101 and BMS-986178 in Treating Patients With Advanced or Metastatic Solid Malignancies
+This phase I trial studies the side effects of intratumoral injection of SD-101 and BMS-986178 in treating patients with solid malignancies that have spread to other places in the body. The TLR9 agonist SD-101 may stimulate the immune system in different ways and stop cancer cells from growing. BMS-986178 is a monoclonal anti-OX40 antibody that enhances the activation of T cells, immune cells that are important for fighting tumors. Giving TLR9 agonist SD-101 together with anti-OX40 antibody BMS-986178 may work better in treating patients with advanced solid tumors.
+Advanced Malignant Solid Neoplasm|Extracranial Solid Neoplasm|Metastatic Malignant Solid Neoplasm
+BIOLOGICAL: Anti-OX40 Antibody BMS 986178|DRUG: TLR9 Agonist SD-101
+Incidence of adverse events of intratumoral injections of study drugs, This outcome will be measured for any participant who has received at least one dose of any study medication. Treatment-limiting toxicities will be assessed using CTCAE v5.0. All adverse events will be recorded. Treatment-limiting toxicities are defined as;
+
+* Hematologic toxicities: Febrile neutropenia; Grade 3 \&4 thrombocytopenia; Grade 4 anemia unexplained with exception that toxicities can clearly be determined due to disease progression and/or unrelated to SD-101 or BMS-986178.
+* Non-hematological toxicity ≥ Grade 3; Alopecia; Nausea; Grade 3 or 4 electrolyte abnormalities; Grade 3 or 4 elevation of amylase or lipase not associated with pancreatitis; Grade 3 endocrinopathy controlled by hormone replacement; Grade 3 infusion reaction that returns to Grade 1 in \< 6 hours; Grade 3 skin rash not requiring systemic steroid therapy or other systemic immunosuppressive therapy.
+* Doses should be delayed if any Grade ≥ 2 toxicities are not resolved to Grade ≤ 1 or baseline by next cycle., Up to week 96
+Overall response rate, Tumor response assessed per Response Evaluation Criteria in Solid Tumors Criteria (RECIST v1.1) for target lesions, and assessed by physical measurement; computed tomography (CT), positron emission tomography (PET)-CT.
+
+* Complete Response (CR) = Disappearance of all target lesions
+* Partial Response (PR) = ≥ 30% decrease in the sum of the longest diameter of target lesions
+* Overall Response (OR) = CR + PR
+* Progressive disease (PD) = 20% increase in the sum of the longest diameter of target lesions, and/or the appearance of one or more new lesion(s)
+* Stable disease (SD) = Small changes that do not meet any of the above criteria, Up to 3 years|Progression-Free survival (PFS), Progression-Free Survival is defined as the time elapsed between treatment initiation (Day 1) and tumor progression or death from any cause. Progression will be defined using RECIST v1.1., Up to 3 years
+PRIMARY OBJECTIVES:
+
+I. To determine the safety and tolerability of intratumoral TLR9 agonist SD-101 (SD-101) in combination with intratumoral and intravenous anti-OX40 antibody BMS 986178 (BMS-986178) in patients with advanced solid tumors.
+
+SECONDARY OBJECTIVES:
+
+1. To evaluate the efficacy of treatment with intratumoral SD 101 in combination with intratumoral and intravenous BMS 986178 in patients with advanced solid tumors.
+2. To evaluate changes in pharmacodynamic endpoints in serial tumor biopsies from I TUMOR treated and untreated sites of disease.
+
+OUTLINE:
+
+SAFETY COHORT: Patients receive TLR9 agonist SD-101 intratumorally (IT) on days 1, 8 and 15. Patients also receive anti-OX40 antibody BMS 986178 IT on days 8 and 15, and intravenously (IV) over 30 minutes on days 8, 29 and 58.
+
+EXPANSION COHORT: Patients receive TLR9 agonist SD-101 IT on days 1, 8 and 15. Patients also receive anti-OX40 antibody BMS 986178 IT on days 1, 8 and 15, and IV over 30 minutes on days 1, 29 and 58.
+
+After completion of study treatment, patients are followed up every 3-6 months.

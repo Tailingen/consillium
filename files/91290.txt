@@ -1,0 +1,19 @@
+A Novel Imaging Protocol in Use to Identify Lymph Nodes and Organs of Interest
+This research study is a pilot clinical trial, which hypothesizes that the combination of electromagnetic tracking in conjunction with laparoscope imaging and ultrasound probe imaging will aid in reducing the complexity of both laparoscopic lymphadenectomy and/or organ removal in patients with a confirmed diagnosis of cancer in urologic regions of interest (Bladder, Prostate, Testicular, Kidney, Urethral, and Penis), by resulting in better visualization and more accurate localization of certain areas in the diseased organ or the diseased lymph node, and allowing for improved surgical and patient outcomes, fewer complications and better clinician performance.
+Urologic Cancer|Urologic Neoplasms|Bladder Cancer|Prostate Cancer|Testicular Cancer|Kidney Cancer|Urethral Cancer|Penile Cancer
+DEVICE: Electromagnetic Guided Laparoscopy|DEVICE: Ultrasound
+Laparoscope Images, Laparoscope images are images recorded by the laparoscope surgical device., 1 year|Ultrasound Images, Ultrasound Images are images taken by an ultrasound probe., 1 year|Electromagnetic Tracking Data, Electromagnetic tracking data is gathered from the movements made by the laparoscope surgical device during surgery. First-order statistics measures will be computed, which include Kinematics metrics such as laparoscope path length, velocity, acceleration, and jerk.
+
+We will analyze the data using a mixed model regression analysis with kinematics metrics as the response and subject as the random effect. Since the kinematics measures are time series, we will address the temporal correlation in this regression model. The fixed effects in this model will include target tissue type, CT Hansfield units, surgeon assessment of navigation difficulty, and patient's BMI. We will test for kinematics outliers by applying the Grubb's test. If there are kinematics outliers, we will try to explain them by going back to the scan and patient history., 1 year
+Retrospective navigation accuracy, We are collecting data for future assessment of navigation systems, in those studies the primary out will be navigation accuracy
+
+We will analyze the data using a mixed model regression analysis with navigation accuracy as the response and subject as the random effect, as above. We will test for accuracy outliers by applying the Grubb's test and investigate accuracy outliers., 1 year
+Participants in this research study, may or may not have a tumor within a urologic region of interest such as the bladder, prostate, testicle, kidney, urethra, and penis which may or may not have spread to a lymph node and have been scheduled to undergo a lymph node dissection procedure and/or organ removal surgery within one of the previously mentioned urologic regions of interest concerning for urologic cancer.
+
+This research study involves the use of a standard of care laparoscope and ultrasound probe. The laparoscope and ultrasound probe will have an electromagnetic sensor attached which will assist in the tracking of lymph nodes of interest or organs of interest.
+
+It is expected that the entire time to record the data will be less than 10 minutes.
+
+A total of 10 people will take part in this research study
+
+This study is supported by Siemens Medical USA.

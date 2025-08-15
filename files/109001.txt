@@ -1,0 +1,27 @@
+Hyperthermic Intraperitoneal Chemotherapy With Cisplatin During Surgery or Cisplatin Before Surgery for the Treatment of Stage III or IV Ovarian, Fallopian Tube or Peritoneal Cancer
+This phase I trial studies the side effects of hyperthermic intraepithelial chemotherapy with cisplatin after surgery or cisplatin before surgery in treating patients with stage III or IV ovarian, fallopian tube or peritoneal cancer receiving chemotherapy before surgery. Hyperthermic intraepithelial chemotherapy involves the infusion of heated cytotoxic chemotherapy that circulates into the abdominal cavity at the time of surgery. Chemotherapy drugs, such as cisplatin, work in different ways to stop the growth of tumor cells, either by killing the cells, by stopping them from dividing, or by stopping them from spreading. Giving hyperthermic intraepithelial chemotherapy with cisplatin after surgery or cisplatin before surgery may kill more tumor cells compared to usual care.
+Fallopian Tube Endometrioid Adenocarcinoma|Fallopian Tube Mucinous Adenocarcinoma|Fallopian Tube Serous Adenocarcinoma|Ovarian Endometrioid Adenocarcinoma|Ovarian Mucinous Adenocarcinoma|Ovarian Serous Adenocarcinoma|Primary Peritoneal Endometrioid Adenocarcinoma|Primary Peritoneal Serous Adenocarcinoma|Stage III Fallopian Tube Cancer AJCC v8|Stage III Ovarian Cancer AJCC v8|Stage III Primary Peritoneal Cancer AJCC v8|Stage IIIA Fallopian Tube Cancer AJCC v8|Stage IIIA Ovarian Cancer AJCC v8|Stage IIIA Primary Peritoneal Cancer AJCC v8|Stage IIIA1 Fallopian Tube Cancer AJCC v8|Stage IIIA1 Ovarian Cancer AJCC v8|Stage IIIA2 Fallopian Tube Cancer AJCC v8|Stage IIIA2 Ovarian Cancer AJCC v8|Stage IIIB Fallopian Tube Cancer AJCC v8|Stage IIIB Ovarian Cancer AJCC v8|Stage IIIB Primary Peritoneal Cancer AJCC v8|Stage IIIC Fallopian Tube Cancer AJCC v8|Stage IIIC Ovarian Cancer AJCC v8|Stage IIIC Primary Peritoneal Cancer AJCC v8|Stage IV Fallopian Tube Cancer AJCC v8|Stage IV Ovarian Cancer AJCC v8|Stage IV Primary Peritoneal Cancer AJCC v8|Stage IVA Fallopian Tube Cancer AJCC v8|Stage IVA Ovarian Cancer AJCC v8|Stage IVA Primary Peritoneal Cancer AJCC v8|Stage IVB Fallopian Tube Cancer AJCC v8|Stage IVB Ovarian Cancer AJCC v8|Stage IVB Primary Peritoneal Cancer AJCC v8
+DRUG: Carboplatin|DRUG: Cisplatin|PROCEDURE: Cytoreductive Surgery|DRUG: Hyperthermic Intraperitoneal Chemotherapy|DRUG: Paclitaxel|OTHER: Quality-of-Life Assessment|OTHER: Questionnaire Administration|PROCEDURE: Biospecimen Collection|PROCEDURE: Diagnostic Imaging
+Incidence of chemotherapy-related adverse events, Defined by Common Terminology Criteria for Adverse Events (CTCAE) version (v)5.0., 30 days from perioperative treatment
+Feasibility of chemotherapy immediately perioperatively, Percentage of patients able to receive planned chemotherapy the day prior to surgery or HIPEC on day of surgery, 1 Day prior to surgery and 1 day of surgery|Percentage of patients in Arm C with a treatment free interval of < 8 weeks, Percentage of patients in Arm C with a treatment free interval of \< 8 weeks, Up to 1 year|Recurrence free survival, time between surgery and recurrence, For 3-5 years after study|Tumor response, tumor response evaluated per clinical standards, Up to 1 year|Quality of life (QOL) assessment EORTC QLQ-C30, Validated quality of life assessments, Baseline up to 6 months post-treatment|Changes to the gut microbiome, metagenomic whole-genome shotgun sequencing (mWGS), Within one week of re-operative appointment, cycle 1 (each cycle is 28 days) of adjuvant chemotherapy and last cycle of adjuvant chemotherapy
+PRIMARY OBJECTIVES:
+
+I. To evaluate the safety and tolerability of intravenous (IV) cisplatin on the day prior to interval cytoreductive surgery (CRS) to administration of hyperthermic intraepithelial chemotherapy (HIPEC) with cisplatin at the completion of interval cytoreductive surgery.
+
+SECONDARY OBJECTIVES:
+
+I. Feasibility of each of the treatment options. II. Treatment delays. III. Perioperative outcomes. IV. Quality of life/patient reported outcomes. V. Recurrence free survival (RFS) and overall survival (OS). VI. Changes to the gut MIcrobiome
+
+OUTLINE:
+
+Patients receive carboplatin IV and paclitaxel IV on day 1. Treatment repeats every 3 weeks for 3-4 cycles in the absence of disease progression or unacceptable toxicity. Within 3-4 weeks following the third or fourth neoadjuvant cycle, patients who achieve complete or partial response undergo interval debulking surgery
+
+Patients are randomized to 1 of 2 arms.
+
+ARM I: Patients receive cisplatin IV the day prior to interval cytoreductive surgery
+
+ARM II: Patients undergo HIPEC and receive cisplatin IV over 90 minutes at the time of interval cytoreductive surgery
+
+All patients undergo stool sample collection and diagnostic imaging throughout the trial.
+
+After completion of study treatment, patients are followed up for up to 30 days.

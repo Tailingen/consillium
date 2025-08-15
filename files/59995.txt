@@ -1,0 +1,65 @@
+HYpofractionated Pelvic Radiotherapy for Advanced Cervical Cancers INeligible for ChemoTherapy
+BACKGROUND: For patients with locally advanced cervical cancer (LACC) ineligible for concurrent chemotherapy, radiotherapy (RT) alone achieves complete response rate (CRR) \<70% and long-term locoregional control (LRC) \<62%. Hypofractionated (HF-)RT using older techniques results in comparable CRR and disease control, and low late toxicity rates (4-8%). Dose-adapted HF-RT using intensity-modulated radiotherapy (IMRT) with nodal simultaneous integrated boost (nSIB) could improve tumor control and toxicity.
+
+GENERAL OBJECTIVE: To determine the effectiveness and safety of HF-RT with (or without) nSIB in LACC among patients who are chemo-ineligible.
+
+PRIMARY OBJECTIVES:
+
+Phase 1: To determine the maximum tolerated dose (MTD) for nSIB used in combination with pelvic HF-RT (2.67 Gray (Gy) x 15 fractions), using IMRT Phase 2: To assess the efficacy of HF-RT ± nSIB in terms of complete response rates at 3 months
+
+SECONDARY OBJECTIVES:
+
+To assess the efficacy of HF-RT ± nSIB in terms of progression free survival (PFS), locoregional PFS, distant metastasis free survival (DMFS), cervical cancer specific survival (CCSS), overall survival (OS)
+
+To assess the acute and late toxicity of HF-RT ± nSIB, and patient-reported quality of life outcomes
+
+EXPLORATORY OBJECTIVES:
+
+To evaluate the predictive utility of clinical and dosimetric variables for tumor response/control and toxicity. Variables: age, performance status, T- and N-stage, T-score, histology, baseline hemoglobin, clinical target volume and organs-at-risk doses, overall treatment time
+
+STUDY DESIGN:
+
+Phase 1: Dose-escalation study (standard 3+3 design) Phase 2: Single-arm clinical trial (Simon's two-stage design)
+
+STUDY TREATMENTS:
+
+Pelvic HF-RT ± nSIB to 40 Gy in 15 fractions using IMRT, followed by brachytherapy (BRT) 6.5-7.5 Gy x 4 fractions using 2D or image-guided techniques
+
+SAMPLE SIZE:
+
+One-sided hypothesis testing. H0: CRR p0 ≤64%; H1: CRR p1 ≥84%. Simon 2 stage: First stage, n1=28 will be enrolled. If response (r1) ≤18, the study will be stopped for futility. Otherwise, second stage: n2=22, for a total of 50.
+
+H0 will be rejected if r1+r2 ≥38, in 50 patients. This yields a type I error rate of 5% and power of 95% when the true response rate is ≥84%.
+
+Accrual: Accounting for 10% attrition, a n=55 will be targeted. At a rate of 4-5 patients quarterly, accrual may take 33-42 months. The trial may be opened to other centers to accelerate accrual.
+Locally Advanced Cervical Carcinoma
+RADIATION: Hypofractionation
+Maximum tolerated dose (for phase 1), The highest dose studied for which the incidence of dose-limiting toxicity was less than 33%, 4 months|Complete response rate (for phase 2), Proportion of treated patients with disappearance of all lesions on clinical and radiologic examination, 3 months
+Progression-free survival, Time from date of enrolment to date of progression, date of death from any cause, or date of last follow-up, whichever occurs first, 5 years|Locoregional progression-free survival, Time from date of enrolment to date of locoregional progression, date of death from any cause, or date of last follow-up, whichever occurs first, 5 years|Metastasis-free survival, Time from date of enrolment to date of development of metastasis, date of death from any cause, or date of last follow-up, whichever occurs first, 5 years|Cervical cancer-specific survival, Time from date of enrolment to date of death attributed to cervical cancer, or date of last-follow-up, whichever occurs first, 5 years|Overall survival, Time from date of enrolment to date of death from any cause, or date of last follow-up, whichever occurs first, 5 years|Acute and subacute toxicity, Radiation toxicity per RTOG criteria documented during and within 3-4 months from completion of treatment, 4 months|Late toxicity, Radiation toxicity per RTOG criteria documented beyond 4 months from completion of treatment, 5 years|Expanded Prostate Index Composite - Urinary Domain Scores, Multi-item questionnaire on urinary function, with scores transformed linearly from 0-100, with higher scores representing better quality of life., 5 years|Expanded Prostate Index Composite - Bowel Domain Scores, Multi-item questionnaire on bowel function, with scores transformed linearly from 0-100, with higher scores representing better quality of life., 5 years|European Organisation for Research and Treatment of Cancer (EORTC) Quality of Life Questionnaire (QLQ) Core 30 Scores, Multi-item questionnaire on functions, symptoms and global quality of life, with scores transformed linearly from 0-100, with higher scores representing better quality of life., 5 years|European Organisation for Research and Treatment of Cancer (EORTC) Quality of Life Questionnaire (QLQ) Cervix 24 Scores, Multi-item questionnaire on cervical cancer specific aspects of quality of life, with scores transformed linearly from 0-100, with higher scores representing better quality of life., 5 years|Patient's Global Impression of Change (PGIC), Reflects a patient's belief about the efficacy of treatment, from 1-7, with higher scores representing better patient's rating of overall improvement., 5 years
+SAMPLE SIZE CALCULATION:
+
+CRR with chemoradiotherapy based on a meta-analysis in 2017 is about 80%; with advanced RT techniques, based on a multi-center, prospective study, local control rate \>90% could be achieved.
+
+Based on retrospective studies, CRR with HF-RT without concurrent chemotherapy (ChT) followed by BRT, using 2D techniques, is about 70%. This is comparable to CRR for conventionally fractionated RT without concurrent ChT in the above meta-analysis. Given the retrospective nature of HF-RT data, a low CRR of 64% could be projected (p0). Given that in the current study, the investigators propose to do dose-adapted radiation by using more advanced RT and BRT, a high CRR of 84% could be projected (p1).
+
+In the first stage, 28 patients will be accrued, including the 3 or 6 patients enrolled in the MTD level from phase 1. If there are ≤18 responses in these 28 patients, the study will be stopped. Otherwise, 22 additional patients will be accrued in the second stage, for a total of 50.
+
+The null hypothesis will be rejected if \>38 responses are observed in 50 patients. This design yields a type I error rate of 5% and power of 95% when the true response rate is ≥84%.
+
+Accounting for 10% attrition, a sample size of 55 will be targeted.
+
+INDICATION:
+
+Patients must meet all the inclusion criteria and none of the exclusion criteria to be eligible for this trial. Contraindication to ChT may be due to a medical contraindication or patient refusal to receive chemotherapy, and will be documented by the referring/attending gynecologic oncologist in the referral letter.
+
+To effectively manage any conflict of interest, the attending/referring gynecologic oncologist shall not participate in the recruitment process. Any eligible patient will be referred to the Radiation Oncology Department, where the recruitment process will be initiated by the Primary Investigator or a delegated radiation oncology consultant.
+
+TREATMENT REGIMEN:
+
+The regimen consists of whole pelvic photon RT, using IMRT, followed by high dose rate (HDR) BRT. Inguinal fields shall be included in case of lower vaginal or inguinal nodal involvement. The prescription dose is 40 Gy in 15 fractions at 2.67 Gy/fraction.
+
+The nSIB in the phase 2 will be given according to the MTD level in phase 1. The nSIB is indicated for any adenopathy detected by either positron emission tomography (PET)-positivity, by computed tomography (CT)/ magnetic resonance imaging (MRI) criteria such as a short axis diameter \>10mm (15mm, for inguinal nodes), or histologically positive on surgical sampling. The gross nodal planning target volume (PTV) boost will receive 45-48 Gy in 3.0-3.2 Gy/fraction, depending on the projected contribution of BRT and location of the lymph node. Assuming both nodal boost dose levels are found to be associated with acceptable toxicity: common iliac or inguinal nodes will be boosted to 48 Gy; and external or internal iliac nodes, to 45 Gy given the BRT contribution to the total nodal dose.
+
+The RT will be given once daily from Monday to Friday, 5 fractions per week.
+
+BRT will be given after completion of pelvic RT, ideally within two weeks from completion. Two insertions per week may be done. If multiple fractions will be given using the same implant, these will be given twice daily, 6 hours apart.

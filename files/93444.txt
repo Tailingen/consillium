@@ -1,0 +1,37 @@
+Anti-CTLA4-NF mAb (BMS986218), Nivolumab, and Stereotactic Body Radiation Therapy for the Treatment of Metastatic Solid Malignancies
+This phase I/II trial studies the side effects of anti-CTLA4-NF monoclonal antibody (mAb) (BMS986218), nivolumab, and stereotactic body radiation therapy in treating patients with solid malignancies that has spread to other places in the body (metastatic). Immunotherapy with monoclonal antibodies, such as anti-CTLA4-NF mAb (BMS-986218) and nivolumab, may help the body's immune system attack the cancer, and may interfere with the ability of tumor cells to grow and spread. Stereotactic body radiation therapy uses special equipment to position a patient and deliver radiation to tumors with high precision. This method may kill tumor cells with fewer doses over a shorter period and cause less damage to normal tissue. Giving -CTLA4-NF mAb (BMS986218), nivolumab, and stereotactic body radiation therapy may kill more tumor cells.
+Advanced Lung Carcinoma|Advanced Malignant Solid Neoplasm|Malignant Adrenal Gland Neoplasm|Metastatic Liver Carcinoma|Metastatic Lung Carcinoma|Metastatic Malignant Solid Neoplasm|Stage III Liver Cancer|Stage III Lung Cancer AJCC v8|Stage IIIA Lung Cancer AJCC v8|Stage IIIB Lung Cancer AJCC v8|Stage IIIC Lung Cancer AJCC v8|Stage IV Liver Cancer|Stage IV Lung Cancer AJCC v8|Stage IVA Liver Cancer|Stage IVA Lung Cancer AJCC v8|Stage IVB Liver Cancer|Stage IVB Lung Cancer AJCC v8
+BIOLOGICAL: Anti-CTLA4 Monoclonal Antibody BMS-986218|BIOLOGICAL: Nivolumab|RADIATION: Stereotactic Body Radiation Therapy
+Incidence of adverse events, The incidence of clinical and laboratory adverse events will be reported and graded according to the National Cancer Institute Common Terminology Criteria for Adverse Events version 5.0. Adverse events will be reported in frequency tables overall, by intensity, and by relationship. Laboratory values will be reported in shift tables and with summary statistics. Chi-squared or Fisher exact tests will be used to compare safety between two arms. Logistic regression may be used to evaluate the predictive potential of tumor-associated and systemic immune biomarkers for toxicity prediction, and whether skeletal mass, neutrophil, neutrophil to lymphocyte ratio, and tumor bulk are correlated with adverse events., Up to 12 months
+Tumor response, Will be determined using the Immune Related Response Criteria calculated for each arm with 95% exact confidence intervals. Will evaluate for the % abscopal response, which is defined as the best response rate, summing both complete response (CR) and partial response (PR) patients. This will be a measurement of the non-irradiated lesions. The clinical benefit will be defined as CR+ PR + stable disease (minimum of 6 months from time of enrolment). For patients that have progressive disease at the first treatment study (before re-induction treatment with RadScopal radiation therapy), Immune Related Response Criteria response criteria will be also used to evaluate the responses outside the irradiated tumors. Chi-squared test or Fisher exact test will be used to compare the response rate between two arms and different stereotactic body radiation therapy treatment sites (liver versus \[vs.\] adrenal, lung vs adrenal)., Up to 12 months
+PRIMARY OBJECTIVE:
+
+I. To evaluate the safety profile of intravenous anti-CTLA4 monoclonal antibody BMS-986218 (anti-CTLA4-NF mAb \[BMS-986218\]) alone or with nivolumab administered in combination with stereotactic body radiation therapy (SBRT) targeting 1-4 lesion(s) for patients with metastatic cancers.
+
+SECONDARY OBJECTIVES:
+
+I. To determine antitumor activity of anti-CTLA4-NF mAb (BMS-986218) therapy with SBRT treatment for 1-4 lesions in non-irradiate tumors (abscopal lesions; out of external beam radiation \[XRT\] field) as defined by Immune-Related Response Criteria (irRC).
+
+II. To determine antitumor activity of anti-CTLA4-NF mAb (BMS-986218) therapy with RadScopal treatment in the low dose treated lesion as defined by irRC.
+
+III. To evaluate treatment efficacy in different SBRT treatment sites (liver versus \[vs.\] adrenal, lung vs. adrenal).
+
+IV. To evaluate treatment efficacy by comparing anti-CTLA4-NF mAb (BMS-986218) alone with SBRT treatment vs. anti-CTLA4-NF mAb (BMS-986218) in combination with nivolumab and SBRT treatment.
+
+EXPLORATORY OBJECTIVES:
+
+I. To evaluate treatment efficacy by comparing anti-CTLA4-NF mAb (BMS-986218) alone or with SBRT treatment vs. ipilimumab alone or with SBRT treatment (previous trial).
+
+II. To evaluate the associations of tumor-associated and systemic immune biomarkers for therapy with clinical response outcomes and toxicity prediction.
+
+III. To evaluate whether skeletal mass, neutrophil, neutrophil to lymphocyte ratio, and tumor bulk are correlated with clinical outcomes and adverse events.
+
+IV. To evaluate whether tumor kinetics in combination with clinical correlates can help determine treatment response.
+
+OUTLINE: Patients are randomized to 1 of 2 arms.
+
+ARM I: Patients receive anti-CTLA4 monoclonal antibody BMS-986218 intravenously (IV) over 30 minutes on day 1. Treatment repeats every 28 days for 4 cycles in the absence of disease progression or unacceptable toxicity. Patients also undergo SBRT on days 36-39 (days 8-11 of cycle 2).
+
+ARM II: Patients receive anti-CTLA4 monoclonal antibody BMS-986218 and SBRT as in Arm 1. Beginning cycle 2, patients also receive nivolumab IV over 30 minutes starting on day 1. Cycles repeat every 28 days for up to 2 years in the absence of disease progression or unacceptable toxicity.
+
+After completion of study treatment, patients are followed up at 30 and 60 days and 6 and 12 months after last cycle of anti-CTLA4 monoclonal antibody BMS-986218.

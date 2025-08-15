@@ -1,0 +1,9 @@
+68Ga-NY104 PET/CT Imaging in Renal Cell Carcinoma
+This is a prospective, single-center study in patients with renal cell carcinoma. The goal is to determine the sensitivity and specificity of 68Ga-NY104 PET/CT in the detection of clear cell renal cell carcinoma.
+Renal Cell Carcinoma
+DIAGNOSTIC_TEST: 68Ga-NY104 PET/CT
+Binary reading of focal lesions identified on 68Ga-NY104 PET/CT, Define lesion as PET positive or PET negative lesion., From study completion to 1 month after completion
+SUVmax of focal lesions identified on 68Ga-NY104 PET/CT, the tracer uptake is quantified using maximal standard uptake value (SUVmax) by drawing a 3-dimensional region of interest (ROI) over the lesion using a threshold of 40% SUVmax., From study completion to 1 month after completion
+Two types of patients will be recruited in this study. Type 1, patients with renal masses scheduled for surgery, type 2, patients with confirmed or suspicious recurrent/metastatic ccRCC. Each patient will receive one dose of 68Ga-NY104 by intravenous route. Dedicated whole-body PET/CT imaging will be performed. Imaging interpretations and reference standards will be used to estimate the sensitivity and specificity of 68G-NY104 PET/CT.
+
+46 patients will be recruited in Peking Union Medical College Hospital. This study will be conducted according to local regulations and laws, the ethical principles that have their origin in the Declaration of Helsinki, and the principles of Good Clinical Practice.

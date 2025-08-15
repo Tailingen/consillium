@@ -1,0 +1,29 @@
+LobularCard Trial: Searching for Novel Germline Mutations in Lobular Breast Cancer Patients
+This is a cross-sectional and retrospective study of a cohort of patients with invasive lobular breast cancer (LBC) or in situ lobular neoplasia (LIN3).
+
+The main endpoint is the relative frequency of patients with a germline mutation using a recent panel including 113 genes from the "Illumina" protocol.
+
+In case of identification of a novel pathogenetic germline mutations, a personalized follow-up will be offered to each patient (in case of genes at moderate-, low-penetrance), or prophylactic mastectomy (in case of genes at high-penetrance).
+
+Breast screening in moderate-, low-penetrance mutated patients should be performed periodically using digital mammography, ultrasound and MRI, and will be routinely observed.
+
+Patients will be scheduled for follow-up at six-month intervals for 5 years at our outpatient clinic, and yearly thereafter
+Lobular Breast Carcinoma|Lobular in Situ Breast Carcinoma|BRCA1 Mutation|BRCA2 Mutation
+DIAGNOSTIC_TEST: Illumina panel
+Relative frequency of patients with a germline mutation, Frequency of germline mutation status in patients with in situ (LIN3) or invasive LBC or bilateral LBC or LBC with or without family history for breast cancer, 1 month
+Correlation of clinic-pathological data between genes at high-penetrance versus other genes, correlation of clinic-pathological data between genes at high-penetrance (BRCA1/2, CDH1, PTEN, and PALB2) vs. other genes, 1 month|Prevalence of germline mutation status by clinical strata, Prevalence of germline mutation status by early onset LBC (age \<45 years), bilateral LBC, LBC with family history for breast cancer, 1 month|Association with disease free survival and overall survival, prognostic role of mutation status: the association with disease free survival and overall survival, 5 years|Association of mutation status with molecular subtypes, association of mutation status with molecular subtype of primary tumor (Luminal A, Luminal B, Basal-like, HER2-enriched), 3 months
+Pathogenic or likely pathogenic variants (commonly referred to as mutations) in high-penetrance breast cancer (BC) susceptibility genes increase the risk of BC more than fourfold. Germline mutations in BRCA1 or BRCA2 (BRCA1/2) are found in 3% to 4% of all women with BC, including 10% to 20% of those with triple-negative breast cancer (TNBC) and 10% to 15% of Jewish women with BC.
+
+Recent international guidelines consider only a small group of gene as high-penetrance risk: BRCA1/2, CDH1, PTEN, and PALB2 \[2\], the remaining are classified as moderate-, low-penetrance risks.
+
+There are no specific associations between these germline mutations and BC histotypes. In accord with recent genetic results reported in literature, lobular histotype seems associated with a specific germline pathway.
+
+We hypothesize that other genes are associated with a susceptibility for lobular breast carcinoma (LBC) predisposition and that novel genetic factors should be described, especially in subjects with early onset of LBC.
+
+In this context we selected a recent panel including 113 genes from the "Illumina" protocol.
+
+The screening analysis will be performed by Next Generation Sequencing (NGS) technology using the TruSight Hereditary Cancer panel (Illumina) to analyze the entire coding regions of 113 genes selected genes and 125 SNPs, starting from 50 ng of gDNA extracted with MagCore HF16 Plus (Diatech Labline).
+
+The proposed project is scheduled in three major tasks:
+
+1) Data collection, including family history assessment and pedigree analysis for eligible subjects deserving genetic screening; 2) Genomic characterization of LBC in subjects with germline mutation; 3) Evaluation of disease-free survival and overall survival in subjects with germline mutation and establishment of a specific clinical follow-up for these patients.

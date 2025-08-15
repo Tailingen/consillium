@@ -1,0 +1,45 @@
+Docetaxel and Prednisone With or Without Cediranib in Treating Patients With Metastatic Prostate Cancer That Did Not Respond to Hormone Therapy
+This randomized phase II trial is studying how well giving docetaxel and prednisone together with or without cediranib works in treating patients with metastatic prostate cancer that did not respond to hormone therapy. Drugs used in chemotherapy, such as docetaxel and prednisone, work in different ways to stop the growth of tumor cells, either by killing the cells or by stopping them from dividing. Cediranib may stop the growth of tumor cells by blocking some of the enzymes needed for cell growth and by blocking blood flow to the tumor. Giving docetaxel together with prednisone, with or without cediranib, may kill more tumor cells.
+Adenocarcinoma of the Prostate|Stage IV Prostate Cancer
+DRUG: cediranib maleate|DRUG: docetaxel|DRUG: prednisone|OTHER: laboratory biomarker analysis
+6-month Progression-free Survival (PFS) Proportion, The proportion of patients on each treatment arm who survive ≥ 6.00 months progression-free, Followed for 52 weeks at 3 month intervals after coming off treatment, time period equal to the length of treatment + up to 12 months
+Prostate-specific Antigen (PSA) Response in Accordance With the Prostate Specific Antigen Working Group, PSA \< 4.0 ng/ml. is a CR. A 50% decline or better in PSA is a PR. Less than a 50% decline in PSA and less than a 25% increase in PSA is SD. A 25% or greater increase in PSA level by at least 5 ng/mL is PD by PSA only. The point estimate and 95% Wilson CI estimates of the proportion for the Prostate-specific antigen (PSA) response will be computed ., Up to 52 weeks|Overall Response Rate Evaluated by the RECIST Criteria, The overall response is determined by combining the patient's status on target lesions, PSA, non-target lesions, and new disease as defined in the following table.
+
+Target Lesions CR CR PR SD PD Any Any Any
+
+PSA Response CR PR PR Non-PD Any Any PD Any
+
+Non-Target Lesions CR Non-CR/Non-PD Non-PD Non-PD Any PD Any Any
+
+New Lesions No No No No Yes or No Yes or No Yes or No Yes
+
+Overall Response CR PR PR SD PD PD PD PD, Up to 52 weeks|Time to Progression, Analyzed with standard K-M methodology. Both point and 95% CI estimates of the median and other statistics (e.g., the 3-month rate, 6-month rate, etc.) will be computed from the censored distribution of TTP. These point and CI estimates will be reported for all patients combined, and separately for each treatment arm., The time from registration date until documented clinical disease progression, or until date of death, whichever occurs first, assessed up to 52 weeks|Overall Survival, Analyzed with standard K-M methodology. A 12 month survival rate will be calculated since median survival was not reached by the end of the study period., The time from registration date until death from any cause, assessed up to 52 weeks
+PRIMARY OBJECTIVE:
+
+I. To determine the 6-month progression-free survival rate of patients with hormone refractory metastatic adenocarcinoma of the prostate treated with docetaxel and prednisone with vs without cediranib.
+
+SECONDARY OBJECTIVES:
+
+I. To evaluate the safety profile of cediranib, docetaxel, and prednisone in patients with metastatic hormone-refractory prostate cancer.
+
+II. To determine the duration of prostate-specific antigen (PSA) response and PSA control in patients with metastatic hormone-refractory prostate cancer treated with cediranib, docetaxel, and prednisone.
+
+III. To determine the partial and complete response rate in patients with measurable disease treated with cediranib, docetaxel, and prednisone.
+
+IV. To determine time to progression in patients with metastatic hormone-refractory prostate cancer treated with cediranib, docetaxel, and prednisone.
+
+V. To determine overall survival in patients with metastatic hormone-refractory prostate cancer.
+
+VI. To perform correlative marker studies measuring serum levels of VEGF, PDGF, sICAM, bFGF, interleukin (IL)-6, and IL-8.
+
+VII. To perform a pilot study of \[F18\]FMAU positron emission test (PET) imaging on patients receiving cediranib, docetaxel, and prednisone.
+
+OUTLINE: This is a multicenter study. Patients are stratified by participating institution. Patients are randomized to 1 of 2 treatment arms.
+
+ARM I: Patients receive oral cediranib once daily on days 1-21, docetaxel IV over 1 hour on day 1, and oral prednisone twice daily on days 1-21.
+
+ARM II: Patients receive docetaxel and prednisone as in arm I.
+
+In both arms, courses repeat every 21 days in the absence of disease progression or unacceptable toxicity. Archival paraffin-embedded tissue blocks or slides from time of diagnosis (or subsequent, but prior to therapy) are evaluated for expression of molecular targets relevant to this study. Blood specimens from baseline, after courses 1 and 2, and after completion of study treatment are analyzed for protein markers. Samples are analyzed by ELISA and IHC for angiogenesis-associated plasma proteins, plasma levels of VEGF, tumor expression of PDGFR, and interleukin (IL)-6 and IL-8 plasma levels. Patients also undergo positron emission test (PET) scans utilizing fluorodeoxyglucose (FDG) at baseline and after course 1.
+
+After completion of study treatment, patients are followed every 3 months for 52 weeks.

@@ -1,0 +1,9 @@
+Prospective Screening Programme for Malignant Tumors
+In prospective part of study, the investigators have found that the parameters of routine blood tests can differentiate varieties of malignancy from healthy people.
+
+The investigators enrolled healthy subjects and patients with malignancy that aged from 18 to 85，and collected their clinical data and blood tests result to build the model.And retrospectlly enroll healthy subjects and patients to test the model.
+Hematologic Tests|Malignant Tumor
+sensitivity (true positive rate), The proportion of persons with disease who have a positive test (positive test results among persons with disease), 1 year|Specificity (true negative rate), The proportion of persons without disease who have a negative test (negative test results among persons without disease), 1 year
+In prospective part of study, the investigators have found that the parameters of routine blood tests can differentiate varieties of malignancy from healthy people.
+
+The investigators enrolled healthy subjects and patients with malignancy that aged from 18 to 85，and collected their clinical data and blood tests result to build the model.And retrospectlly enroll healthy subjects and patients to test the model.

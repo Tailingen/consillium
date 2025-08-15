@@ -1,0 +1,25 @@
+Circulating microRNA 21 Expression Level Before and After Neoadjuvant Systemic Therapy in Breast Carcinoma
+MicroRNAs (miRNAs) are involved in the development and progression of malignant tumors. In breast cancer, differential miRNA expression has been demonstrated across breast cancer subtypes, with both tumor-promoting and tumor suppressive functions for individual miRNAs.
+
+Novel predictive biomarkers that can be assessed in the liquid specimen before systemic treatment could help to individualize treatment decisions in breast cancer and to potentially avoid ineffective systemic treatment.
+
+In our study we detect level of circulating miRNA 21 in breast cancer patient before and after neoadjuvant treatment , whether there will be change or not, and if related to complete pathological response.
+Breast Carcinoma
+DIAGNOSTIC_TEST: microRNA 21
+Describe miRNA 21 expression level before and after neoadjuvant systemic therapy in breast cancer patient., miRNA 21 expression level before and after neoadjuvant systemic therapy, 1 year
+Measure relation between miRNA 21 expression level before and after neoadjuvant systemic therapy and pathological response., Relation between miRNA 21 expression level before and after neoadjuvant systemic therapy and pathological response, 1 year|Measure relation between the miRNA 21 expression and the clinicopathological parameters of Breast Cancer patients., Relation between the miRNA 21 expression and the clinicopathological parameters, 1 year
+MicroRNAs (miRNAs) are a group of non-coding, single stranded RNAs of \~ 19-24 nucleotides, which act by a novel mechanism of posttranscriptional regulation that is profoundly altered in malignant cells. (Ling, Fabbri and Calin, 2013).Based on the function of miRNAs, they are divided into two types: an oncomir, implicated in cancer progression by regulating tumor suppressor genes negatively; and a tumor suppressor, preventing cancers by regulating oncogenes. (Zhang et al., 2007).
+
+A key oncomir in carcinogenesis is miRNA-21, which was one of the first miRNAs detected in the human genome. It is located on chromosome 17 in the tenth intron of the coding gene transmembrane protein 49, which targets various tumor suppressors like PTEN, PDCD4, p53, and TAp63 pathways. (Yadav et al., 2016)
+
+Experimental and literature research has highlighted that miRNA-21 was always significantly elevated in every study that included invasive breast carcinomas compared with healthy breast tissue. (Petrović, 2016).
+
+miRNA-21 has been shown to be a very important promoter of cellular outgrowth, migration, invasion, and metastasis. In breast carcinoma cell lines, miRNA-21 was connected to cell proliferation and migration. (Yan et al., 2011).
+
+Mei and her colleagues (2010) reported that miRNA-21 up-regulation is associated with therapy (taxol) resistance in breast cancer cells and further validated in a recent study by (Chen and Bourguignon, 2014) in which miRNA-21 up-regulation resulted in an increase of anti-apoptosis protein BCL-2 and chemo-resistance in breast cancer cells
+
+Various studies have supported the potential role of circulating miRNAs to be used as prognostic and predictor biomarkers in breast cancer. (Schwarzenbach, 2017)
+
+In their analysis of the blood serum of 56 breast cancer patients, Wang et al. (2012) illustrate reduced miR-125b levels to correlate with resistance to four cycles of neoadjuvant 5-fluorouracil, epirubicin and cyclophosphamide (FEC). Another recent study investigating dynamic changes of circulating miRNA as indicator for clinical response for neoadjuvant chemotherapy in HER2 negative patients , found that dynamics of three plasma miRNA , including miRNA 222, miRNA 20-a and miRNA 451 was associated with chemosensitivity. (Zhu et al., 2018)
+
+The expression of serum-miRNA-125b and the changes of serum miRNA-21 expression during neoadjuvant chemotherapy were associated with chemotherapy response and disease-free survival (DFS). (Liu et al., 2017). Yadav et al. (2016) found that breast cancer patients received neoadjuvant therapy shows significant impact on overall reduction in serum miRNA-21 expression compared to before therapy (p \< 0.0001)

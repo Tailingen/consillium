@@ -1,0 +1,22 @@
+RegisterPROS - a Registry for Prostate Cancers
+Prostate cancers are derived from epithelial cells in the prostate gland. Treatment options include surgery, medical (androgen signaling targeted and chemotherapy) and radiation therapy including radioligand therapy (RLT). Survival is linked to early and accurate diagnoses or to the effective detection of disease recurrence and/or treatment failure. One challenge is to develop accurate non-invasive tests that can detect prostate cancer disease activity. A second challenge is to evaluate the effectiveness of such biomarkers during the natural history of this disease (e.g., active surveillance). A third aim is to identify whether molecular markers can predict response to different therapies (either pre-treatment, or early on during the first few cycles of a therapy). RegisterPROS registry aims at collecting data and blood samples from patients being evaluated for PCa disease. Data will be entered prospectively and anonymized after informed consent. All physicians who treat PCas are invited to participate to the registry. Data will be evaluated within regular time frames, focusing on diagnostic accuracy for biomarkers in the different types of tumors, treatment modalities and patient outcomes (e.g. disease recurrence and survival), thereby contributing to an understanding of the role of biomarkers in tumor management.
+Prostate Cancer (Adenocarcinoma)|Prostate Biopsy|Prostatectomy|Radioligand|Chemotherapy|Androgen Deprivation Therapy|PSA
+DEVICE: PROSTest
+PCa diagnosis, Histology confirmed prostate cancer disease, 5 years|Surveillance, Natural progression of disease, 10 years
+Minimal residual disease, Detection of MRD, 10 years|Therapy efficacy, Treatment response assessment, 10 years
+Background: Survival of PCas is linked to early and accurate diagnoses of aggressive disease (GG2-5) and effective detection of disease progression and/or recurrence (minimal residual disease or treatment failure). Tissue based molecular markers have been developed and have utility (e.g., OncoType Dx). Blood-based markers e.g., ARV-7 detection may also have utility. However, PSA (and changes in levels from baseline) are considered the current standard of care. Molecular markers e.g., PROSTest, have been developed but little is known about the utility of these markers in clinical practice. Objective: To systematically and prospectively collect clinical information and samples (blood and saliva) from PCas in Europe, Africa, Caribbean and the USA based a histologically confirmed diagnosis. Methods: PCas will be enrolled and followed up following informed consent. Data will be entered prospectively and anonymized. Patient history are completed by contributing physicians and samples are collected for analysis. All information will be transferred to a database. Evaluation of treatment modalities and patient outcomes (e.g. disease recurrence) will be assessed at follow-up times. The primary objectives of the project are to:
+
+1a) assess diagnostic accuracy of molecular-based blood tests e.g., PROSTest.
+
+1. b) evaluate utility of molecular-based tests e.g., PROSTest to monitor PCa patients (active surveillance or on treatment).
+
+   The secondary objectives of the project include:
+2. a) assess utility of molecular-based tools to detect disease recurrence
+
+2b) examine whether these tools can predict response to different therapies
+
+Analyses will include:
+
+1. Descriptive statistical analyses including demographics, histology and grading, treatment types.
+2. Clinical follow-up and blood chemistry (PSA) and molecular results.
+3. Correlation analyses between blood results and clinical data. This will include assessment of the time at which the results significantly (and consistently) increases and the time of tumor recurrence and an evaluation whether the change in blood results is predictive of disease recurrence and/or treatment efficacy.

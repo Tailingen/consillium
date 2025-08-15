@@ -1,0 +1,26 @@
+Artificial Intelligence (AI) Assisted Real-time Adenoma Detection and Classification During Colonoscopies
+This is a pragmatic, double-blind, randomized, controlled trial, to evaluate the effect of implementing a Computer-assisted detection (CADe) system within the routine clinical practice of Canadian healthcare institutions.
+
+The main hypothesis of this study is that the ADR in the operating room equipped with the GI genius CADe system will be significantly higher than the ADR in the ordinary operating room.
+Artificial Intelligence
+DEVICE: Medtronic-GI genius (CADe system for detecting colorectal polyps)
+ADR, The adenoma detection rate (ADR) is defined as the proportion of colonoscopies with at least 1 histopathologically proven adenoma or carcinoma detected., 30 days
+Mean number of adenomas per colonoscopy (APC), Mean number of adenomas per colonoscopy (APC) defined as the total number of adenomas divided by the number of colonoscopies performed, 30 days|Sessile serrated lesions (SSL) detection rate, Sessile serrated lesions (SSL) detection rate as the proportion of patients colonoscopy in whom superior or equal to 1 sessile serrated lesion (SSL) is identified, 30 days|Sessile serrated lesion per Colonoscopy (SSLPC), Sessile serrated lesion per Colonoscopy (SSLPC), defined as the total number of histologically confirmed sessile serrated lesions resected divided by the total number of colonoscopies, 30 days|Advanced lesion detection rate (ALDR), Advanced lesion detection rate (ALDR), defined as the proportion of colonoscopies for which the number of histopathologically proven adenoma \>10mm was at least 1., 30 days|Proximal ADR, Proximal ADR is defined as the prevalence of patients with at least 1 adenoma detected proximal to the splenic flexure, 30 days|Proportion neoplastic and non-neoplastic polyps, Proportion neoplastic and non-neoplastic polyps (i.e., SSLs, hyperplastic polyps, and high-grade dysplasia and carcinomas (overall and according to size, location, and morphology), 30 days|CADe utilization rate, CADe utilization rate (when available in the room). Since the CADe utilization rate cannot be assessed without revealing the ongoing trial to the endoscopists, two voluntary self-reported measures and a partially objective measure. First, endoscopists will be surveyed via email during and at the end of the trial regarding their use of CADe, while keeping them unaware of the ongoing trial. Second, the proportion with endoscopy reports for which is is explicitly stated that CADe was used will be computed., Through study completion, an average of 3 years
+This trial will be conducted in four centers across Canada. All patients who meet the in/exclusion criteria can be enrolled. The patient's personal medical history will be reviewed to verify patient inclusion and exclusion criteria (age, history of CRC or adenoma, comorbid conditions, anticoagulation, etc.).
+
+Eligible patients will be randomized (1:1) stratified per center, endoscopist, sex, and age group in two arms:
+
+1. Intervention arm: patients will be assigned to undergo colonoscopy in a room equipped with the GI genius CADe system.
+2. Control arm: patients will undergo colonoscopy in a room not equipped with the GI genius CADe system.
+
+The endoscopists performing the colonoscopies will not be involved in the development and implementation of CADe. Additionally, they won't be informed of the ongoing trial and will have the option of not using the CADe when available in the room. This design aims to mitigate operator biases that may be partly responsible for the observed difference between the CADe performance in randomized controlled trials and the CADe performance in implementation studies.
+
+Data will be collected on case report forms (CRF), after the procedure, from the clinical files and the endoscopy reports. The data will then be deidentified and transferred to an electronic RedCap database in each institution. A research assistant will collect all information and annotations recorded on the patient's medical file during the procedure.
+
+In the treatment group (operating room equipped with the CADe), the Medtronic-GI genius system can be used for real-time support by the endoscopists to detect polyps of all sizes. Use of CADe is left to the discretion of the treating physician performing the colonoscopy. If used, CADe will provide real-time feedback throughout each colonoscopy procedure and will alert the endoscopists of the presence of a polyp in the endoscopy field by displaying a bounding box on the same screen.
+
+In the control group (colonoscopy performed in room without CADe system), the participating endoscopists will detect as per standard of care.
+
+All colonoscopies (in the intervention and control groups) including polypectomy procedures will be performed at the discretion of the treating physician and per standard of care.
+
+All polyps will be resected as per standard of care and sent to the pathology labs of the participating institutions to be evaluated for histology by board-certified pathologists. The histopathology outcomes will be collected and stored in the CRF forms to be used as a reference later.

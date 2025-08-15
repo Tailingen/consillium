@@ -1,0 +1,60 @@
+Carboplatin/Nab-Paclitaxel and Pembrolizumab in NSCLC
+This is a phase I/II study for previously untreated subjects with advanced NSCLC. The study will take place in two phases. First, a cohort of twelve participants will be enrolled in phase I part and will be treated with carboplatin, nab-paclitaxel and pembrolizumab. A cohort of twelve subjects will be evaluated for safety and tolerability after 2 cycles of therapy. All subjects who receive either nab-paclitaxel or pembrolizumab will be evaluable. If 33% of subjects or less have unacceptable toxicity in the first cohort or any subsequent cohort (if necessary), the study will proceed to the Phase II part. If more than 33% have unacceptable toxicity, 12 additional subjects will be enrolled in a second cohort, if necessary. If unacceptable toxicity is seen in more than 33% in Cohort 2, the study will end due to unacceptable toxicity of this drug combination.
+
+The phase II part of the study is a single arm study. All subjects will be treated with carboplatin, nab-paclitaxel, and pembrolizumab in 21-day cycles for up to 4 cycles.
+
+Mandatory pre-treatment tumor biopsies will be obtained prior to initiating treatment for all subjects (only if adequate archived samples are unavailable). Mandatory tumor biopsies will be obtained in the Phase II part of the study after 4 cycles of study treatment or at the time of progression, whichever comes first.
+
+For subjects without progression of disease after Cycle 4, pembrolizumab will continue every 3 weeks for up to 2 years or until unacceptable toxicity.
+Non-Small Cell Lung Cancer
+DRUG: Carboplatin|DRUG: Nab-paclitaxel|DRUG: MK-3475 (Phase I)|DRUG: MK-3475 (Phase II)
+Phase I: Number of Participants With Adverse Events as a Measure of Safety and Tolerability of Recommended Phase II Dose, To determine the recommended Phase II dose (RP2D) of MK-3475 and evaluate the safety and tolerability of the combination of MK-3475 with carboplatin/nab-paclitaxel for the first line treatment of phase I participants with advanced NSCLC per CTCAE v4.0 criteria by summarizing the number of adverse events experienced by subjects., Begin C1D1 and every 2 chemotherapy cycles (6 weeks) thereafter, for up to 2 years or until unacceptable toxicity.|Phase II: Disease Assessment for Progression-Free Survival (PFS), To evaluate progression-free survival (PFS) for phase II participants receiving MK-3475 and carboplatin/nab-paclitaxel for the first line treatment of advanced NSCLC per RECIST 1.1 criteria. PFS is defined as the duration of time from date of registration to time of progression or death, whichever occurs first.
+
+Progression is defined using Response Evaluation Criteria In Solid Tumors Criteria (RECIST v1.0), as a 20% increase in the sum of the longest diameter of target lesions, or a measurable increase in a non-target lesion, or the appearance of new lesions, From date of registration to time of first documented progression or death, whichever occurs first (estimate 9 months)|Phase II: Objective Response Rate, To evaluate objective response rate for phase II participants receiving MK-3475 and carboplatin/nab-paclitaxel for the first line treatment of advanced NSCLC per RECIST 1.1 criteria.
+
+Per Response Evaluation Criteria In Solid Tumors Criteria (RECIST v1.0) for target lesions and assessed by MRI: Complete Response (CR), Disappearance of all target lesions; Partial Response (PR), \>=30% decrease in the sum of the longest diameter of target lesions; Overall Response (OR) = CR + PR., From the start of treatment until progression or death up to 24 months
+Phase I: Disease Assessment for Progression-Free Survival (PFS), To evaluate progression-free survival (PFS) and objective response for phase I participants receiving MK-3475 and carboplatin/nab-paclitaxel for the first line treatment of advanced NSCLC per RECIST 1.1 criteria.
+
+Progression is defined using Response Evaluation Criteria In Solid Tumors Criteria (RECIST v1.0), as a 20% increase in the sum of the longest diameter of target lesions, or a measurable increase in a non-target lesion, or the appearance of new lesions, From date of registration to time of first documented progression or death, whichever occurs first (estimate 9 months)|Phase I : Objective Response Rate, To evaluate objective response rate for phase II participants receiving MK-3475 and carboplatin/nab-paclitaxel for the first line treatment of advanced NSCLC per RECIST 1.1 criteria.
+
+Objective response rate (ORR), is defined as the proportion of patients with a complete response or partial response to treatment according to Response Evaluation Criteria in Solid Tumors (RECIST)., From the start of treatment until progression or death up to 11 months.|Phase I: Disease Assessment for Anti-Tumor Activity, To evaluate anti-tumor activity for phase I participants will be reported as a percentage change in the sum of the dimensions of all measurable lesions as defined by RECIST 1.1 criteria., From date of registration to time of first documented progression. (Measurable disease will be assessed after every 2 chemotherapy cycles [every 6 weeks thereafter for up to 2 years or until unacceptable toxicity]).|Phase I: Overall Survival (OS), To evaluate overall survival rates for phase I participants receiving MK-3475 and carboplatin/nab-paclitaxel for the first line treatment of advanced NSCLC., From date of registration to date of death from any cause up to 49 months.|Phase II: Overall Survival (OS), To evaluate overall survival rates for phase II participants receiving MK-3475 and carboplatin/nab-paclitaxel for the first line treatment of advanced NSCLC., From date of registration to date of death from any cause up to 42 months.|Phase II: Disease Assessment for Anti-Tumor Activity, To evaluate anti-tumor activity for phase I participants will be reported as a percentage change in the sum of the dimensions of all measurable lesions as defined by RECIST 1.1 criteria., From date of registration to time of first documented progression. (Measurable disease will be assessed after every 2 chemotherapy cycles [every 6 weeks thereafter for up to 2 years or until unacceptable toxicity]).|Phase II: Number of Participants With Adverse Events as a Measure of Safety and Tolerability, To evaluate the safety and tolerability of the combination of MK-3475 with carboplatin/nab-paclitaxel for the first line treatment of phase II participants with advanced NSCLC per CTCAE v4.0. Safety and tolerability is defined as rates of Grade 1-5 toxicity according to CTCAE v4., Begin C1D1 and every 2 cycles (6 weeks) thereafter, for up to 2 years or until unacceptable toxicity.|All Phases: Assessment of Association of PD-L1 Expression on PFS, To evaluate the association of PD-L1 expression on PFS for all participants receiving MK-3475. PD-L1 will be categorized as positive (≥50% expression) or negative (\<50% expression) from pre-treatment and post-treatment biopsies. PFS will be summarized by PD-L1 expression., From date of registration to time of first documented progression. (Measurable disease will be assessed after every 2 chemotherapy cycles [every 6 weeks thereafter for up to 2 years or until unacceptable toxicity]).
+OUTLINE: This is a multi-center study.
+
+INVESTIGATIONAL TREATMENT:
+
+Phase I, Cohort 1 Induction Therapy:
+
+* Carboplatin AUC 6 IV, Day 1
+* Nab-paclitaxel 100 mg/m\^2 IV, Days 1, 8, 15
+* pembrolizumab 2 mg/kg IV, Day 1
+* Cycle length: 21 days; number of cycles: 4
+
+Phase I, Cohort 1 Maintenance Therapy:
+
+For subjects who have confirmed CR, PR, or SD (non-progression) after 4 cycles of induction therapy, maintenance therapy with pembrolizumab 2\* mg/kg will continue on Day 1 of each 21-day cycle. Treatment will continue until progression of disease, unacceptable toxicity, or for a maximum of 2 years from Cycle 1, Day 1 (C1D1). Subjects who complete 24 months of treatment with pembrolizumab may be eligible for up to one year of additional study treatment if they progress after stopping study treatment provided they continue to meet inclusion criteria requirements.
+
+If unacceptable toxicity is seen in Phase I, Cohort 1, 12 additional participants will be enrolled.
+
+Phase I, Cohort 2 Induction Therapy (if necessary):
+
+* Carboplatin AUC 6 IV, Day 1
+* Nab-paclitaxel 100 mg/m\^2 IV, Days 1, 8, 15
+* pembrolizumab 2 mg/kg IV, Day 1 (cycle 2-4 only)
+* Cycle length: 21 days; Number of cycles: 4
+
+Phase I, Cohort 2 Maintenance Therapy:
+
+For subjects who have confirmed CR, PR, or SD (non-progression) after 4 cycles of induction therapy, maintenance therapy with pembrolizumab 2\* mg/kg will continue on Day 1 of each 21-day cycle. Treatment will continue until progression of disease, unacceptable toxicity, or for a maximum of 2 years from Cycle 2, Day 1 (C2D1). Subjects who complete 24 months of treatment with pembrolizumab may be eligible for up to one year of additional study treatment if they progress after stopping study treatment provided they continue to meet inclusion criteria requirements.
+
+Phase II Induction Therapy:
+
+* Carboplatin AUC 6 IV, Day 1
+* Nab-paclitaxel 100 mg/m\^2 IV, Days 1, 8, 15
+* pembrolizumab 200mg IV, Day 1 of each cycle
+* Cycle length: 21 days; number of cycles: 4
+
+Phase II Maintenance Therapy:
+
+For subjects who have confirmed CR, PR, or SD (non-progression) after 4 cycles of induction therapy, maintenance therapy with pembrolizumab 200 mg will continue on Day 1 of each 21-day cycle. Treatment will continue until progression of disease, unacceptable toxicity, or for a maximum of 2 years from Cycle 1, Day 1 (C1D1). Subjects who complete 24 months of treatment with pembrolizumab may be eligible for up to one year of additional study treatment if they progress after stopping study treatment provided they meet the requirements.
+
+\*As additional data from ongoing trials becomes available, the dose of pembrolizumab may be adjusted.

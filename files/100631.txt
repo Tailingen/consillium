@@ -1,0 +1,72 @@
+The CCANED-CIPHER Study: Early Cancer Detection and Treatment Response Monitoring Using AI-Based Platelet and Immune Cell Transcriptomic Profiling
+The purpose of the CCANED-CIPHER study is to develop and validate an AI-based blood test for early cancer detection and to monitor treatment effectiveness in cancer patients. This two-phase, multi-center observational study aims to identify specific transcriptomic biomarkers in platelets and immune cells that distinguish cancer patients from healthy individuals and correlate with treatment outcomes. By analysing blood samples using artificial intelligence, the study seeks to create a safe, non-invasive method to enhance cancer diagnosis and monitor treatment responses over time.
+Brest Cancer|Lung Cancer (NSCLC)|Pancreatic Cancer, Adult|Prostate Cancers|Ovarian Cancer|Colorectal Cancer|Glioblastoma (GBM)|Liver Carcinoma
+DIAGNOSTIC_TEST: DiNanoQ: A multi-cancer early detection (MCED) blood test|OTHER: DiNanoTrack: Therapeutic Response Monitoring Blood Test
+Identification of Platelet RNA Biomarkers Distinguishing Cancer Patients from Controls, Utilise AI-based transcriptomic analysis of platelet RNA to identify biomarkers that differentiate between cancer patients and cancer-free controls., Baseline (single time point)|Identification of RNA Biomarkers Correlating with Therapeutic Response (Phase 2), Identify RNA biomarkers from immune cells and platelets that correlate with clinical treatment response, as measured by standard criteria (e.g., RECIST), Baseline to 6 months post-therapy initiation|Association Between Immune Cell Transcriptomes and AI-Based Platelet Signals, Evaluate how changes in immune cell transcriptomes are associated with signals detected by the AI-based platelet profiling tool., Baseline to 6 months post-therapy initiation
+Sensitivity and Specificity of the AI-Based Diagnostic Tool (Phase 1), Calculate the diagnostic accuracy of the AI-based tool in detecting cancer among participants., Baseline|Feasibility of Platelet Transcriptomic Profiling Implementation, Assess the practicality of sample collection, processing, and analysis in a clinical setting., Phase 1 - 2 years|Development of Predictive Models for Treatment Outcomes (Phase 2), Create and validate predictive models that integrate platelet and immune cell RNA profiles to predict treatment response and progression-free survival., Phase 2 - Two years|Identification of Biomarkers Predictive of Relapse and Drug Resistance (Phase 2), Identify RNA biomarkers predictive of relapse and drug resistance at the 6-month follow-up., Baseline to 6 months post-therapy initiation
+The CCANED-CIPHER study aims to revolutionise cancer diagnostics and treatment monitoring by developing and evaluating an AI-based early cancer detection tool that profiles RNA biomarkers from platelets and immune cells in blood samples. This non-invasive approach leverages liquid biopsy methods to enhance early cancer detection and provide insights into therapeutic responses.
+
+Phase 1 (Common Cancer Early Detection \[CCANED\]): Early Cancer Detection
+
+Objective:
+
+To identify specific platelet-derived RNA biomarkers that can distinguish individuals with common cancers from healthy controls using AI-driven transcriptomic analysis.
+
+Methodology:
+
+* Enrol 3,500 patients with confirmed diagnoses of various common cancers and 1,500 cancer-free controls matched by age and sex.
+* Obtain a single blood sample from each participant at baseline.
+
+Laboratory Analysis:
+
+* Platelet Isolation from blood samples.
+* RNA Sequencing and transcriptomic profiling to identify RNA expression patterns.
+
+Data Analysis:
+
+* Use machine learning algorithms to analyse RNA data and identify biomarkers indicative of cancer presence.
+* Assess sensitivity and specificity of the diagnostic tool, and evaluate its ability to differentiate between cancer types.
+
+Expected Outcomes:
+
+* Identification of reliable RNA biomarkers for early cancer detection.
+* Validation of the AI-based diagnostic tool's accuracy and feasibility in a clinical setting.
+
+Phase 2 ( Cancer Immuno-Profiling of Hematologic and Extracellular RNA \[CIPHER\]): Therapeutic Response Monitoring
+
+Objective:
+
+To evaluate how RNA biomarkers from immune cells and platelets correlate with therapeutic responses, providing insights into treatment efficacy and potential relapse.
+
+Methodology:
+
+* Enrol 1,000 cancer patients diagnosed with HCC or NSCLC across stages I to IV.
+* Baseline: Collect blood samples before therapy initiation.
+* Follow-Up: Additional samples at 6 weeks and 6 months post-therapy initiation.
+
+Laboratory Analysis:
+
+* Isolation of Immune Cells and Platelets from blood samples.
+* Analysis of RNA expression changes over time.
+
+Data Analysis:
+
+* Evaluate associations between RNA biomarkers and clinical treatment responses.
+* Develop models integrating platelet and immune cell RNA profiles to predict outcomes.
+
+Expected Outcomes:
+
+* Identification of biomarkers that correlate with treatment responses and progression-free survival.
+* Development of predictive models for relapse and drug resistance.
+
+Significance of the Study
+
+The CCANED-CIPHER study addresses critical needs in oncology by providing:
+
+* A blood test that reduces the need for invasive tissue biopsies.
+* Potential for identifying cancers at an earlier, more treatable stage.
+* Tailored treatment strategies based on individual biomarker profiles.
+* Enhanced ability to monitor treatment effectiveness and adjust therapies accordingly.
+* Early detection of relapse or drug resistance, enabling prompt clinical interventions.
+
+Expected Impact and Future Applications: The identification of specific RNA biomarkers from platelets and immune cells has the potential to transform current practices in oncology, offering a more efficient, accurate and patient-friendly approach to cancer care.

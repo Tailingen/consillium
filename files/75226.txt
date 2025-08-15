@@ -1,0 +1,25 @@
+A Phase II Study of Nivolumab + Ipilimumab in Advanced HCC Patients Who Have Progressed on First Line Atezolizumab + Bevacizumab
+This phase II trial tests whether nivolumab and ipilimumab works to shrink tumors in patients with liver cancer that has spread to nearby tissue or lymph nodes (locally advanced), has spread to other places in the body (metastatic), or cannot be removed by surgery (unresectable). Immunotherapy with monoclonal antibodies, such as nivolumab and ipilimumab, may help the body's immune system attack the cancer, and may interfere with the ability of tumor cells to grow and spread. Nivolumab and ipilimumab may be effective in killing tumor cells in patients with liver cancer.
+BCLC Stage B Hepatocellular Carcinoma|BCLC Stage C Hepatocellular Carcinoma|Locally Advanced Hepatocellular Carcinoma|Metastatic Hepatocellular Carcinoma|Stage III Hepatocellular Carcinoma AJCC v8|Stage IIIA Hepatocellular Carcinoma AJCC v8|Stage IIIB Hepatocellular Carcinoma AJCC v8|Stage IV Hepatocellular Carcinoma AJCC v8|Stage IVA Hepatocellular Carcinoma AJCC v8|Stage IVB Hepatocellular Carcinoma AJCC v8|Unresectable Hepatocellular Carcinoma
+BIOLOGICAL: Ipilimumab|BIOLOGICAL: Nivolumab
+Confirmed objective response rate (ORR), A confirmed response is defined to be either a complete response (CR) or partial response (PR) noted as the objective status on 2 consecutive evaluations at least 4 weeks apart. Disease status will be assessed using response evaluation criteria in solid tumors (RECIST) version (v.) 1.1 criteria. Overall Response Rate (ORR) is defined as the proportion of evaluable patients who achieve confirmed response (CR or PR) while on treatment. The final ORR point estimate and corresponding 95% confidence interval will be reported according to the method of Clopper-Pearson., Up to 6 months
+Overall survival (OS), Overall survival (OS) is defined as the time from registration to death from any cause. OS will be estimated using the Kaplan-Meier method. Patients who are alive will be censored at the last follow-up date. The median OS and corresponding 95% confidence interval will be reported., Assessed up to 2 years|Progression-free survival (PFS), Progression-free survival (PFS) is defined as the time from registration to the first disease progression or death from any cause, where disease progression is determined based on RECIST 1.1 criteria. PFS will be estimated using the Kaplan-Meier method. Patients who do not experience disease progression or death while on protocol will be censored at the last disease assessment date. The median PFS and corresponding 95% confidence interval will be reported., Assessed up to 2 years|Disease control, Disease control is defined as achieving CR, PR, or maintaining SD for at least 6 months while on treatment. Objective status will be assessed using RECIST v. 1.1 criteria. Disease control rate will be calculated as the proportion of evaluable patients who achieve disease control. Confidence intervals for the true success proportion will be calculated according to the approach of Clopper Pearson., Up to 2 years|Incidence of adverse events, All patients who have initiated treatment will be considered evaluable for adverse event analyses. The rate of patients experiencing a grade 3+ adverse event will be reported using Common Terminology Criteria for Adverse Events (CTCAE) v5.0., Up to 2 years
+PRIMARY OBJECTIVE:
+
+I. To investigate the confirmed objective response rate (ORR) of nivolumab and ipilimumab in patients with hepatocellular carcinoma (HCC) who have progressed radiographically on atezolizumab/bevacizumab that necessitates change in treatment.
+
+SECONDARY OBJECTIVES:
+
+I. To determine the overall survival (OS) in hepatocellular carcinoma (HCC) patients treated with nivolumab and ipilimumab who have progressed radiographically on atezolizumab / bevacizumab that necessitates change in treatment.
+
+II. To determine the progression free survival (PFS) in hepatocellular carcinoma (HCC) patients treated with nivolumab and ipilimumab who have progressed radiographically on atezolizumab/bevacizumab that necessitates change in treatment.
+
+III. To determine the disease control rate in hepatocellular carcinoma (HCC) patients treated with nivolumab and ipilimumab who have progressed radiographically on atezolizumab/bevacizumab that necessitates change in treatment.
+
+IV. To assess the frequency and severity of adverse events in hepatocellular carcinoma (HCC) patients treated with nivolumab and ipilimumab who have progressed radiographically on atezolizumab/bevacizumab that necessitates change in treatment.
+
+OUTLINE:
+
+Patients receive nivolumab intravenously (IV) over 30 minutes and ipilimumab IV over 90 minutes on day 1. Treatment repeats every 21 days for 4 cycles in the absence of disease progression or unacceptable toxicity. Patients then receive nivolumab IV over 30 minutes on day 1. Treatment repeats every 28 days for up to 24 cycles in the absence of disease progression or unacceptable toxicity.
+
+After completion of study treatment, patients are followed up at 30 days and then every 3 months for up to 2 years from registration.

@@ -1,0 +1,38 @@
+Testing the Addition of Cemiplimab to Palbociclib for the Treatment of Advanced Dedifferentiated Liposarcoma
+This phase II trial compares the effect of treatment with palbociclib alone to treatment with palbociclib plus cemiplimab for treating patients with dedifferentiated liposarcoma that may have spread from where it first started to nearby tissue, lymph nodes, or distant parts of the body (advanced). Palbociclib may stop the growth of cancer cells by blocking some of the enzymes needed for cell growth. Cemiplimab is a monoclonal antibody that may interfere with the ability of cancer cells to grow and spread. The combination of these two drugs may be more effective in shrinking or stabilizing advanced dedifferentiated liposarcoma compared to palbociclib alone.
+Advanced Dedifferentiated Liposarcoma|Locally Advanced Dedifferentiated Liposarcoma|Metastatic Dedifferentiated Liposarcoma|Stage III Soft Tissue Sarcoma of the Trunk and Extremities AJCC V8|Stage IV Soft Tissue Sarcoma of the Trunk and Extremities AJCC V8|Unresectable Dedifferentiated Liposarcoma
+DRUG: Palbociclib|BIOLOGICAL: Cemiplimab|PROCEDURE: Magnetic Resonance Imaging|PROCEDURE: Computed Tomography|PROCEDURE: Biospecimen collection|OTHER: Questionnaire Administration
+Progression-free survival (PFS), Efficacy analyses will be based on intention to treat principles. PFS will be compared between the two treatment arms using Kaplan-Meier methods. The hazard ratio, median PFS, and estimated PFS rates at 12, 24, 36, and 48 months will be estimated along with corresponding 95% confidence intervals. A log-rank test will be used to compare the PFS distributions between the two treatment arms in this cohort. Cox proportional hazards models will also be used to assess the impact of treatment arm on PFS when stratifying on the stratification factors., The time from randomization to the first documentation of disease progression or death, assessed up to 48 months.
+Incidence of adverse events, Patients will be evaluated for adverse events using the National Cancer Institute Common Toxicity Criteria for Adverse Events version 5.0. Summary statistics (e.g., mean, median, standard deviation) and frequency tables will be used to describe the distributions of adverse events. Rates of adverse events occurring in the treatment arm will be compared to the control arm with chi-squared tests (or suitable alternative) used for comparisons where applicable. Tolerability will also be evaluated, summarizing rates of dose delays or modifications, reasons patients end treatment, and time to end of active treatment., Up to 2 years|Duration of response (DoR), Defined for all evaluable patients who have achieved an objective response as the date at which the patient's earliest best objective status is first noted to be either a complete response or partial response to the earliest date progression is documented, or death if no prior evidence of disease progression. The distribution of DoR will be estimated using the method of Kaplan-Meier., up to 2 years|Overall survival (OS), Defined as the time from randomization to death due to any cause. Patients who are alive will be censored at last follow-up for OS. The distribution of survival time will be estimated using the method of Kaplan-Meier. OS will be compared between treatment arms using the log-rank test. OS medians, survival rates and hazard ratio will be estimated along with 95% confidence intervals., up to 2 years|Progression free rate at 8 weeks (PFR8), Defined as the proportion of evaluable patients who are alive and without evidence of disease progression 8 weeks after initiation of study therapy. The final PFR8 point estimate and corresponding 95% confidence interval calculated using Clopper-Pearson method., At 8 weeks
+CDK4 copy number, Explore data on CDK4 copy number (by fluorescence in situ hybridization \[FISH\] or other molecular testing) through plots and summary statistics., Up to 2 years|Infiltrating immune cell subsets and tumor and immune cell major histocompatibility complex (MHC) and PD-L1 expression, Conduct multiplex immunohistochemistry using archival tumor tissue (where available) to summarize densities of infiltrating immune cell subsets and tumor and immune cell MHC and PD-L1 expression., Up to 2 years|Relationship between CDK4 copy number and the tumor immune microenvironment and clinical outcomes, Explore the relationship between CDK4 copy number and (a) the tumor immune microenvironment as defined by multiplex immunohistochemistry and (b) clinical outcomes from study treatment Clinical endpoints include PFS, objective response rate, OS, PFR8, and DoR. Cox regression will be used on time-to-event outcomes and T-test on binary outcomes, up to 2 years|Efficacy and toxicity endpoints, Explore the efficacy and toxicity endpoints for patients who progress on palbociclib monotherapy and crossover to the palbociclib plus cemiplimab combination A sensitivity analysis will be conducted to see how crossover effects overall survival. Rate and severity of adverse events will be used to assess differences between crossover and non-crossover patients., Up to 2 years
+PRIMARY OBJECTIVES:
+
+I. To perform a safety lead-in among 6 patients to confirm that the combination of palbociclib and cemiplimab is safe and tolerable.
+
+II. To evaluate whether palbociclib in combination with cemiplimab (Arm 2) demonstrates a superior progression-free survival (PFS) compared to palbociclib monotherapy (Arm 1) for patients with advanced dedifferentiated liposarcoma (DDLPS).
+
+SECONDARY OBJECTIVES:
+
+I. To evaluate the toxicity profile in and across each treatment arm as determined by both Common Terminology Criteria for Adverse Events (CTCAE) and Patient Reported Outcomes (PRO)-CTCAE criteria.
+
+II. To evaluate and compare the objective response rate (ORR) and duration of response (DOR) in and across each treatment arm.
+
+III. To evaluate and compare the overall survival (OS) in and across each treatment arm.
+
+IV. To evaluate and compare progression-free rate at 8 weeks (PFR8) in and across each treatment arm.
+
+EXPLORATORY OBJECTIVES:
+
+I. To collect genomic sequencing data previously collected as standard of care, including data on CDK4 copy number (as determined by fluorescence in situ hybridization \[FISH\] or other molecular testing).
+
+II. To conduct multiplex immunohistochemistry using archival tumor tissue (where available) to define densities of infiltrating immune cell subsets and tumor and immune cell major histocompatibility complex (MHC) and PD-L1 expression.
+
+III. To perform an exploratory analysis to evaluate for any relationship between CDK4 copy number and (a) the tumor immune microenvironment as defined by multiplex immunohistochemistry and (b) clinical outcomes from study treatment.
+
+IV. To explore efficacy and toxicity endpoints, including PFS and ORR, for patients who progress on palbociclib monotherapy and crossover to the palbociclib plus cemiplimab combination.
+
+OUTLINE: Patients are randomized to 1 of 2 arms.
+
+ARM I: Patients receive palbociclib orally (PO) on study. Patients will be allowed to cross over to Arm II following documentation of disease progression. Patients undergo magnetic resonance imaging (MRI) or computed tomography (CT) scans throughout the trial. Patients may also undergo blood sample collection on study.
+
+ARM II: Patients receive palbociclib PO and cemiplimab intravenously (IV) on study. Patients undergo MRI or CT scans throughout the trial. Patients may also undergo blood sample collection on study.

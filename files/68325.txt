@@ -1,0 +1,22 @@
+Towards Early Detection of Breast Cancer in High Risk Population
+Breast cancer is a major and growing health challenge, and the leading cause of cancer in women. As population obesity rates increase, the number of new breast cancer diagnosis continues to rise. Despite treatment advances, breast cancer remains an important cause of premature mortality, taking women in the prime of life. Although underlying susceptibility caused by mutation in the genes including BRCA1/2 is increasingly identified, current pre-symptomatic screening for the general population and those at high genetic risk remains sub-optimal, with high false negative and positive rates.
+
+Alteration of breast lipid composition has been observed by us and others in patients with breast cancer and is thought to precede onset. We have developed and tested a novel method to allow a standard 3T MRI scanner to perform quantitative 3D mapping of specific lipid molecules in the breast.
+
+We will investigate if this method can detect very early breast cancers, and compare the amount and spread of lipid composition in breast tissue of premenopausal women with very high genetic risk of breast cancer, women with breast cancer and women with obesity.
+Breast Cancer
+DIAGNOSTIC_TEST: MRI scan|BIOLOGICAL: Blood test
+Amount of lipid composition in the breast, The percentage of monounsaturated fatty acids, polyunsaturated fatty acids and saturated fatty acids relative to total lipid will be measured using magnetic resonance imaging (MRI) scanner software and MATLAB computer programme.
+
+Unit of Measurement: %., One hour|Spatial distribution (skewness) of lipid composition in the breast, Skewness measures the asymmetry in distribution. The skewness of lipid composition in the breast will be measured using MRI scanner software and MATLAB computer programme.
+
+Unit of Measurement: unitless., One hour|Spatial distribution (entropy) of lipid composition in the breast, Entropy measures the randomness in distribution. The entropy of lipid composition in the breast will be measured using MRI scanner software and MATLAB computer programme.
+
+Unit of Measurement: unitless., One hour|Spatial distribution (kurtosis) of lipid composition in the breast, Kurtosis measures the peakedness in distribution. The kurtosis of lipid composition in the breast will be measured using MRI scanner software and MATLAB computer programme.
+
+Unit of Measurement: unitless., One hour
+Breast cancer is a major and growing health challenge, and the leading cause of cancer in women. As population obesity rates increase, the number of new breast cancer diagnosis continues to rise. Despite treatment advances, breast cancer remains an important cause of premature mortality, taking women in the prime of life. Although underlying susceptibility caused by mutation in the genes including BRCA1/2 is increasingly identified, current pre-symptomatic screening for the general population and those at high genetic risk remains sub-optimal, with high false negative and positive rates.
+
+Alteration of breast lipid composition has been observed by us and others in patients with breast cancer and is thought to precede onset. We have developed and tested a novel method to allow a standard 3T MRI scanner to perform quantitative 3D mapping of specific lipid molecules in the breast.
+
+We will investigate if this method can detect very early breast cancers, and compare the amount and spread of lipid composition in breast tissue of premenopausal women with very high genetic risk of breast cancer, women with breast cancer and women with obesity.

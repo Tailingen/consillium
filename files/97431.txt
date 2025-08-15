@@ -1,0 +1,31 @@
+A Pilot Dose Escalation Trial of a Densified Chemotherapy Association of Docetaxel and Epirubicin Driven by Mathematical Modeling in Metastatic Breast Cancer Patients: The MODEL1 Study
+To determine the maximum tolerated dose of a densified regimen of the association of docetaxel (DTX) and epirubicin (EPI), supported by the concomitant administration of hematopoietic growth factors in patients with metastatic breast cancer in first-line, optimizing in each patient the administration schedule using a formal procedure based on mathematical models in order to manage the severity of induced neutropenia.
+
+The models used in this project allow:
+
+* an optimal administration schedule of the planned total dose per cycle (number of infusions and calculating their rates and durations)
+* an individualization of the administration schedule from the second cycle (based on observations from the first cycle), and
+* an assessment of the risk of a dose-limiting toxicity event combining several severe non-hematological toxicities (conditioning the decision for dose escalation).
+
+Using formal mathematical models the investigators expect controlling the hematological and non-hematological toxicities in order to realize the full series of six cycles of densified DTX+EPI chemotherapy (2 weeks per cycle) for each patient. For each patient, chemotherapy is considered feasible if it is possible, in the absence of tumor progression, to consider 6 cycles of treatment without observing any serious adverse events and without:
+
+* patient death that may be related to the treatments;
+* decision of the patient to interrupt treatment for physical or psychological tolerance reasons;
+* decision of the investigator to discontinue treatment, in the absence of disease progression.
+Metastatic Breast Cancer
+DRUG: Combination of Docetaxel (DTX) and Epirubicin (EPI)
+Assessment of the risk of Dose-limiting Toxicities, DLTs were defined as ≥ grade 3 vomiting, ≥ grade 3 mucositis,≥ grade 3 hand-foot syndrome (HFS), grade 2 vomiting plus grade 2 mucositis, or grade 2 vomiting plus grade 2 HFS, 84 days (6 treatment cycles x 14 days)
+Plasma concentration of Docetaxel and Epirubicin after administration, Assessment of the pharmacokinetics of Docetaxel and Epirubicin, 84 days (6 treatment cycles x 14 days)|Tumor response for each patient with one or more measurable lesions, Measurement of tumor response by MRI for each patient with one or more measurable lesions, classified according to RECIST criteria, after 28 days (2 treatment cycles x 14 days) and 84 days (6 treatment cycles x 14 days)|Progression-free survival, 115 days (study duration (6 treatment cycles x 14 days) + follow-up (31 days) when available)|Overall survival, 115 days (study duration (6 treatment cycles x 14 days) + follow-up (31 days) when available)
+To determine the maximum tolerated dose of a densified regimen of the association of docetaxel (DTX) and epirubicin (EPI), supported by the concomitant administration of hematopoietic growth factors in patients with metastatic breast cancer in first-line, optimizing in each patient the administration schedule using a formal procedure based on mathematical models in order to manage the severity of induced neutropenia.
+
+The models used in this project allow:
+
+* an optimal administration schedule of the planned total dose per cycle (number of infusions and calculating their rates and durations)
+* an individualization of the administration schedule from the second cycle (based on observations from the first cycle), and
+* an assessment of the risk of a dose-limiting toxicity event combining several severe non-hematological toxicities (conditioning the decision for dose escalation).
+
+Using formal mathematical models the investigators expect controlling the hematological and non-hematological toxicities in order to realize the full series of six cycles of densified DTX+EPI chemotherapy (2 weeks per cycle) for each patient. For each patient, chemotherapy is considered feasible if it is possible, in the absence of tumor progression, to consider 6 cycles of treatment without observing any serious adverse events and without:
+
+* patient death that may be related to the treatments;
+* decision of the patient to interrupt treatment for physical or psychological tolerance reasons;
+* decision of the investigator to discontinue treatment, in the absence of disease progression.

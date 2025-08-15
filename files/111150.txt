@@ -1,0 +1,44 @@
+sEphB4-HSA in Treating Patients With Metastatic Castration-Resistant Prostate Cancer
+The purpose of this phase II, single-arm, open-label, three center study is to evaluate the efficacy, safety, and tolerability of sEphB4-HSA in patients with mCRPC (metastatic castration-resistant prostate cancer). The study drug, sEphB4-HAS, is a form of protein that has not been approved for sale by the United States Food and Drug Administration (FDA). The study drug prevents tumor cells from multiplying and blocks several compounds that promote the growth of blood vessels that bring nutrients to the tumor.
+Castration Levels of Testosterone|Castration-Resistant Prostate Carcinoma|Castration-Resistant Prostate Carcinoma Refractory to Second-Generation Androgen Receptor Axis-Targeted Agents|Metastatic Prostate Adenocarcinoma|Progressive Disease|Prostate Carcinoma Metastatic in the Bone|Prostate Carcinoma Metastatic in the Soft Tissue|PSA Progression|Stage IVB Prostate Cancer AJCC v8|Testosterone Less Than 50 ng/dL
+BIOLOGICAL: Recombinant EphB4-HSA Fusion Protein
+Prostate Specific Antigen (PSA) Response Rate, Assessment of confirmed PSA response rate is the proportion of subjects who received at least 1 dose of the study drug achieving a post-treatment PSA partial response or complete response as defined by PSA response criteria.
+
+PSA response criteria:
+
+These definitions are intended to characterize the PSA changes on study for the purpose of reporting of results.
+
+Complete Response (CR): Undetectable PSA (\<0.2 ng/ml) that is confirmed by another PSA level at no less than 4 weeks interval (+/- 3 days).
+
+Partial Response (PR): Decrease in PSA value by \> 50% that is confirmed by another PSA level at no less than 4 weeks interval (+/- 3 days).
+
+Stabilization(SD): Patients who do not meet the criteria or PR or PD for at least90 days on the study will be considered stable
+
+Progression (PD): 25% increase over baseline or nadir whichever is lower and an increase in the absolute value of PSA level by2 ng/ml that is confirmed by another PSA level at no less than 4 weeks interval., Up to 1 year
+Incidence of Adverse Events, Will be graded according to the National Cancer Institute (NCI) Common Terminology Criteria for Adverse Events (CTCAE) version 5.0 and reported by the toxicity, severity, and attribution will be recorded for each cycle. All reported adverse event (AE) types will be tabulated by maximum grade using frequencies and percentages. Data on type, timing, frequency and attribution of AEs will also be summarized., Up to 1 year|Time to PSA Progression, The time to PSA progression will be assessed by calculating the interval from administration of the first dose of drug on cycle 1 day 1 to PSA progression. PSA progression is defined by the criteria. PSA will be assessed every odd cycle. Will use Kaplan Meier methods to estimate the distribution of time to PSA progression. Will estimate the median with two-sided 90% confidence interval (CI)., From the start of study treatment to PSA progression, assessed for up to 1 year|Overall Response Rate, The overall response rate will be the proportion of patients with measurable disease who received at least 1 dose of the study drug and as their best response achieved a partial or complete response (responder). Will be measured according to Response Evaluation Criteria in Solid Tumors (RECIST) 1.1 and PCWG3 criteria. Will be reported with two-sided 90% exact binomial CI., Up to 1 year|Time to Radiologic Progression (rPFS), The time to rPFS will be assessed by calculating the interval from administration of the first dose of drug on cycle 1 day 1 to the time to radiologic progression by RECIST 1.1 or PCWG3 bone criteria or death from any cause. Radiologic assessment will be every 8 weeks. Will use Kaplan Meier methods to estimate the distribution of rPFS. Will estimate the median with two-sided 90% confidence interval (CI)., From the start of study treatment to the time of radiologic progression or death from any cause, assessed for up to 1 year
+Changes in EphB4 and ephrinB2 Expression, EphB4 and ephrinB2 expression will be assessed by immunohistochemistry (IHC) staining of primary and/or metastatic site (recent archival specimen or new biopsy). EphB4 and other biomarker abnormalities will be assessed by next generation sequencing of metastatic tissue. Will explore if PSA response is associated with expression of EphB4 and ephrinB2 in archival metastatic and primary tumor CRPC specimens. Summaries will be descriptive and graphical., Baseline up to 1 year|Circulating Tumor-derived Deoxyribonucleic Acid (ctDNA) Analysis of PI3K Pathway, MYC or TP53, ctDNA will be analyzed for abnormalities in PI3K pathway, MYC or TP53. Summaries will be descriptive and graphical., Up to 1 year|Immune Infiltrate Characterization in Tumor Specimen, The study will use IHC for CD3, CD4, CD8, and natural-killer cell markers to characterize the immune infiltrate in tumor specimen., Up to 1 year
+PRIMARY OBJECTIVES:
+
+I. To estimate the efficacy of recombinant EphB4-HSA fusion protein (sEphB4-HSA) in patients with metastatic castration resistant prostate cancer (mCRPC) as measured by confirmed prostate specific antigen (PSA) response rate.
+
+SECONDARY OBJECTIVES:
+
+I. The safety and tolerability of sEphB4-HSA in patients with mCRPC according to National Cancer Institute (NCI) Common Terminology Criteria for Adverse Events (CTCAE) version (v) 5.0.
+
+II. To assess the time to PSA progression. III. To assess overall response rate in patients with measurable disease using Response Evaluation Criteria in Solid Tumors (RECIST) 1.1 (soft tissue) and Prostate Cancer Working Group 3 (PCWG3) (bone) criteria.
+
+IV. To assess radiological progression free survival (rPFS) using RECIST 1.1 (soft tissue) and PCWG3 (bone) criteria.
+
+EXPLORATORY OBJECTIVES:
+
+I. To explore molecular changes associated with EphB4 and ephrinB2 expression in tumor specimens (primary and/or metastatic tissue).
+
+II. To explore association of response with molecular biomarkers including aberrations in the PI3K pathway, MYC and TP53.
+
+III. To assess immune cell infiltration of tumors in biopsies. IV. To assess circulating immune changes associated with treatment.
+
+OUTLINE:
+
+Patients receive recombinant EphB4-HSA fusion protein intravenously (IV) over 60 minutes on day 1. Treatment repeats every 14 days for cycles 1-6 and then every 21 days for subsequent cycles. Patients may continue to receive sEphB4-HSA treatment until no longer clinically benefiting (PCWG3), unacceptable toxicity, treatment delay \>= 4 weeks, or prohibitive illness/change in patient?s condition, or patient decides to withdraw from study.
+
+After completion of study treatment, patients are followed up at 30 days and then every 6 months for up to 1 year.

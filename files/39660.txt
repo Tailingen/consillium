@@ -1,0 +1,27 @@
+Carboplatin, Paclitaxel, Selenomethionine, and Radiation Therapy in Treating Patients With Stage III Non-Small Cell Lung Cancer That Cannot Be Removed by Surgery
+RATIONALE: Drugs used in chemotherapy, such as carboplatin and paclitaxel, work in different ways to stop the growth of tumor cells, either by killing the cells or by stopping them from dividing. Selenomethionine may slow the growth of tumor cells. Radiation therapy uses high-energy x-rays to kill tumor cells. Giving combination chemotherapy together with selenomethionine and radiation therapy may kill more tumor cells.
+
+PURPOSE: This phase II trial is studying the side effects and how well selenomethionine works when given together with carboplatin, paclitaxel, and radiation therapy in treating patients with stage III non-small cell lung cancer that cannot be removed by surgery.
+Lung Cancer
+DIETARY_SUPPLEMENT: selenomethionine|DRUG: carboplatin|DRUG: paclitaxel|OTHER: laboratory biomarker analysis|RADIATION: radiation therapy
+Incidence of Grade 3-4 Esophagitis, During study treatment, up to 6 weeks|Incidence of Grade 3-4 Pneumonitis, During study treatment, up to 6 weeks|Incidence of Grade 3-4 Myelosuppression, During study treatment, up to 6 weeks
+Response Rate, Per Response Evaluation Criteria In Solid Tumors Criteria (RECIST v1.0) for target lesions and assessed by MRI: Complete Response (CR), Disappearance of all target lesions; Partial Response (PR), \>=30% decrease in the sum of the longest diameter of target lesions; Overall Response (OR) = CR + PR., 1 month post-treatment, then q 3 months x 4|Failure-free Survival, Post-treatment follow-up every 3 months x4, then per institute standard of practice every 6 months for 2 years, then yearly therafter.|Overall Survival, Post-treatment follow-up every 3 months x4, then per institute standard of practice every 6 months for 2 years, then yearly therafter|Selenium Level by Incidence of SAE, Median Selenium level by Incidence of SAE. Mann-Whitney-Wilcoxon test was used to test the correlation between selenium levels and serious adverse events., Pre-treatment and every week for 6 weeks prior to chemotherapy.
+OBJECTIVES:
+
+Primary
+
+* Determine the safety and tolerability of selenomethionine in combination with chemotherapy and radiotherapy in patients with unresectable stage IIIA or IIIB non-small cell lung cancer.
+* Determine if the incidence of excessive adverse events, in the form of esophagitis, pneumonitis, and myelosuppression, can be reduced with this regimen.
+
+Secondary
+
+* Estimate response rate, failure-free survival, and overall survival of these patients.
+* Correlate selenium levels with degree of observed adverse events.
+
+OUTLINE: This is a multicenter study.
+
+Patients receive oral selenomethionine twice daily for 1 week and then once daily for 6 weeks. Patients also receive paclitaxel IV over 1 hour once weekly and carboplatin IV over 30 minutes once weekly for 6 weeks and undergo radiotherapy 5 days a week for 6 weeks. Treatment continues in the absence of disease progression or unacceptable toxicity.
+
+Blood samples are collected at baseline and weekly during treatment and analyzed by absorption spectrophotometry for selenium measurement of drug concentration
+
+After the completion of study treatment, patients are followed periodically.

@@ -1,0 +1,32 @@
+Azacitidine, Venetoclax, and Gilteritinib in Treating Patients With Recurrent/Refractory FLT3-Mutated Acute Myeloid Leukemia, Chronic Myelomonocytic Leukemia, or High-Risk Myelodysplastic Syndrome/Myeloproliferative Neoplasm
+This phase I/II trial studies the side effects and best dose of gilteritinib and to see how well it works in combination with azacitidine and venetoclax in treating patients with FLT3-mutation positive acute myeloid leukemia, chronic myelomonocytic leukemia, or high-risk myelodysplastic syndrome/myeloproliferative neoplasm that has come back (recurrent) or has not responded to treatment (refractory). Drugs used in chemotherapy, such as azacitidine, work in different ways to stop the growth of cancer cells, either by killing the cells, by stopping them from dividing, or by stopping them from spreading. Venetoclax may stop the growth of cancer cells by blocking Bcl-2, a protein needed for cancer cell survival. Gilteritinib may stop the growth of cancer cells by blocking some of the enzymes needed for cell growth. Giving azacitidine, venetoclax, and gilteritinib may work better compared to azacitidine and venetoclax alone in treating patients with acute myeloid leukemia, chronic myelomonocytic leukemia, or myelodysplastic syndrome/myeloproliferative neoplasm.
+Recurrent Acute Myeloid Leukemia|Recurrent Chronic Myelomonocytic Leukemia|Recurrent Myelodysplastic/Myeloproliferative Neoplasm|Refractory Acute Myeloid Leukemia|Refractory Chronic Myelomonocytic Leukemia|Refractory Myelodysplastic/Myeloproliferative Neoplasm
+DRUG: Azacitidine|DRUG: Gilteritinib|DRUG: Venetoclax
+Maximum-tolerated dose (MTD) of gilteritinib (Phase I), The MTD is the highest dose level in which \< 2 patients of 6 develop first cycle dose-limiting toxicity., Up to 28 days|Overall response rate (OR) (Phase II), Will be defined as the complete remission/complete remission with incomplete count recovery (CR/CRi) rate. Will estimate the OR for the combination treatment along with the 95% credible interval., Up to 56 days (2 cycles)
+Complete response rate, Will be estimated along with 95% credible interval., Up to 3 years|Minimal residual disease negativity, Will be assessed by flow cytometry and estimated along with 95% credible interval., Up to 3 years|Relapse-free survival, Will be estimated using the method of Kaplan and Meier., The number of days from the date of response to the date of documented relapses from CR or death from any cause, whichever occurs first, assessed up to 3 years|Overall survival, Will be estimated using the method of Kaplan and Meier., From the start of treatment until death or last follow-up, assessed for up to 3 years|Proportion of patients proceeding to hematopoietic stem cell transplantation, Will be estimated along with 95% credible interval., Up to 3 years|Incidence of adverse events, Will be summarized using descriptive statistics such as mean, standard deviation, median and range., Up to 3 years
+Impact of genomic alterations, The impact of genomic alterations on response and the survival of the combination regimen will be assessed. Will be examined by Wilcoxon's rank sum test or Fisher's exact test, as appropriate., Baseline|Impact of FLT3 allelic ratio, The impact of FLT3 allelic ratio on response and the survival will be assessed. Will be examined by Wilcoxon's rank sum test or Fisher's exact test, as appropriate., Baseline|Minimal residual disease negativity rates, Will be assessed by digital droplet polymerase chain reaction. Will be examined by Wilcoxon's rank sum test or Fisher's exact test, as appropriate., At time of remission|Evaluation of leukemia stem cell populations, Will be examined by Wilcoxon's rank sum test or Fisher's exact test, as appropriate., Up to 3 years
+PRIMARY OBJECTIVES:
+
+I. To establish the maximum tolerated dose (MTD) of the combination of azacitidine, venetoclax and gilteritinib in patients with relapsed/refractory FLT3-mutated acute myeloid leukemia (AML) or chronic myelomonocytic leukemia (CMML) or high-risk myelodysplastic syndrome/myeloproliferative neoplasm (MDS/MPN). (Phase I) II. To determine the complete remission/complete remission with incomplete count recovery (CR/CRi) rate of the regimen in patients with newly diagnosed or relapsed/refractory fms-like tyrosine kinase 3 (FLT3)-mutated AML or CMML or high-risk MDS/MPN. (Phase II)
+
+SECONDARY OBJECTIVES:
+
+I. To assess other efficacy endpoints (CR rate, minimal residual disease negativity by flow cytometry, relapse-free survival, overall survival).
+
+II. To assess proportion of patients proceeding to hematopoietic stem cell transplantation (HSCT).
+
+III. To determine the safety of the combination regimen.
+
+EXPLORATORY OBJECTIVES:
+
+I. To evaluate the impact of baseline genomic alterations on response and survival of the combination regimen.
+
+II. To determine the impact of baseline FLT3 allelic ratio on response and survival.
+
+III. To evaluate clonal evolution from diagnosis to relapse using single-cell sequencing.
+
+OUTLINE: This is phase I, dose-escalation study of gilteritinib followed by a phase II study.
+
+Patients receive azacitidine subcutaneously (SC) or intravenously (IV) over 30-60 minutes on days 1-7, venetoclax orally (PO) once daily (QD) on days 1-28 of cycle 1 and on days 1-21 of subsequent cycles, and gilteritinib PO QD on days 1-28. Treatment of azacytidine and venetoclax repeats every 28 days for up to 24 cycles in the absence of disease progression or unacceptable toxicity. Cycles of gilteritinib repeat every 28 days in the absence of disease progression or unacceptable toxicity.
+
+After completion of study treatment, patients are followed up at 30 days and then every 6 months thereafter.

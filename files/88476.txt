@@ -1,0 +1,33 @@
+Lenalidomide and Dexamethasone With or Without Bortezomib in Treating Patients With Previously Untreated Multiple Myeloma
+This randomized phase III trial studies lenalidomide, dexamethasone, and bortezomib to see how well it works compared to dexamethasone and lenalidomide alone in treating patients with previously untreated multiple myeloma. Biological therapies, such as lenalidomide, may stimulate the immune system in different ways and stop cancer cells from growing. Drugs used in chemotherapy, such as dexamethasone, work in different ways to stop the growth of cancer cells, either by killing the cells, by stopping them from dividing, or by stopping them from spreading. Bortezomib may stop the growth of cancer cells by blocking some of the enzymes needed for cell growth or by blocking blood flow to the cancer. It is not yet known whether lenalidomide and dexamethasone is more effective with or without bortezomib in treating multiple myeloma.
+DS Stage I Multiple Myeloma|DS Stage II Multiple Myeloma|DS Stage III Multiple Myeloma
+DRUG: Bortezomib|DRUG: Dexamethasone|OTHER: Laboratory Biomarker Analysis|DRUG: Lenalidomide
+Progression-free Survival, Unstratified median progression-free survival in months., From date of registration to date of first documentation of progression or symptomatic deterioration, or death due to any cause, assessed up to 6 years
+Overall Survival, Unstratified median overall survival in months., Up to 6 years|Response Rates (), The response rate was calculated as the number of patients with documented confirmed partial response (PR) or better, which includes confirmed/unconfirmed stringent complete response (sCR), confirmed/unconfirmed complete response (CR), confirmed/unconfirmed very good partial response (VGPR), or confirmed partial response (PR), as best response divided by the total number of evaluable patients, in each arm. Patients with measurable disease, as defined in the protocol, are evaluable. Response rates were compared between the two treatment arms using a stratified Cochran-Mantel-Haenszel test. Response designations were based on the International Uniform Response Criteria for Multiple Myeloma. Due to the complexity of these criteria, the details of these criteria have been omitted., Up to 6 years
+PRIMARY OBJECTIVES:
+
+I. To compare progression-free survival (PFS) in patients with newly diagnosed myeloma treated with lenalidomide plus low dose dexamethasone versus bortezomib plus lenalidomide and low dose dexamethasone.
+
+SECONDARY OBJECTIVES:
+
+I. Assess response using the new international response criteria. II. To bank specimens for future translational medicine research. III. Follow patients to assess overall survival and other long-term outcomes stratified by intent to transplant at progression.
+
+TERTIARY OBJECTIVES:
+
+I. To evaluate custom and genome-wide single nucleotide polymorphisms in correlation with biology, prognosis and outcome for both treatment regimens combined; to verify the findings recently obtained with the custom Bank on a Cure program (BOAC) single nucleotide polymorphism (SNP) chip on Total Therapy 2 (TT2) data with respect to bone disease in the cooperative group setting.
+
+II. To use baseline gene expression profiling as a tool to evaluate the biology, prognostic and risk factors, and response to therapy for both treatment regimens combined. To validate John Shaughnessy's 70 gene risk model developed for Total Therapy 2 (TT2) in the cooperative group setting.
+
+OUTLINE:
+
+INDUCTION THERAPY: Patients are randomized to 1 of 2 treatment arms.
+
+ARM I: Patients receive dexamethasone orally (PO) once daily (QD) on days 1, 8, 15, and 22 and lenalidomide PO QD on days 1-21. Treatment repeats every 28 days for 6 courses in the absence of disease progression or unacceptable toxicity.
+
+ARM II: Patients receive dexamethasone PO QD on days 1, 2, 4, 5, 8, 9, 11, and 12; lenalidomide PO QD on days 1-14; and bortezomib intravenously (IV) over 3-5 seconds on days 1, 4, 8, and 11. Treatment repeats every 21 days for 8 courses in the absence of disease progression or unacceptable toxicity.
+
+In both arms, patients who intend to undergo transplantation at relapse undergo peripheral blood stem cell collection, preferably after course 2.
+
+MAINTENANCE THERAPY: After the completion of at least 4 courses (Arm I) or at least 6 courses (Arm II) of induction therapy, patients receive maintenance therapy comprising dexamethasone PO QD on days 1, 8, 15, and 22 and lenalidomide PO QD on days 1-21. Courses repeat every 28 days in the absence of disease progression or unacceptable toxicity.
+
+After completion of study treatment, patients are followed up periodically for up to 6 years.

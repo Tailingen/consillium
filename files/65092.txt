@@ -1,0 +1,66 @@
+Enfortumab Vedotin With or Without Pembrolizumab in Rare Genitourinary Tumors (E-VIRTUE)
+Background:
+
+Many cancers of the testicles and urinary tract are rare diseases; these are diseases that affect less than 200,000 people in the United States. It can be hard to study treatments for these diseases. One combination of drugs-enfortumab vedotin (EV) and pembrolizumab-has already been approved to treat some urinary cancers. Researchers want to see if they can help people with other types of testicle and urinary cancers.
+
+Objective:
+
+To test EV, with or without pembrolizumab, in patients with rarer cancers of the testicles or urinary tract.
+
+Eligibility:
+
+People aged 18 and older with rarer cancers of the testicles or urinary tract.
+
+Design:
+
+Participants will be screened. They will have a physical exam with blood and urine tests. Their ability to perform normal daily activities will be tested. They will have exams of their skin and eyes. They will have imaging scans. A biopsy may be needed: A sample of tissue will be removed from the tumor.
+
+The study drugs are both given through a tube attached to a needle inserted into a vein in the arm. Some participants will receive treatments 3 times during 28-week cycles; others will receive treatments 2 times during 21-day cycles.
+
+All participants may continue to receive treatments for up to 5 years. Imaging scans and other tests will be repeated.
+
+Participants who stop taking the drugs will have follow-up visits every 3 to 4 weeks until the disease gets worse. They will have imaging scans and blood tests.
+
+After that, follow-up visits will continue by phone every 3 months for up to 5 years after study therapy is finished.
+Adenocarcinoma of the Bladder|Squamous Cell Carcinoma of the Bladder|Testicular Germ Cell Tumors
+DRUG: Pembrolizumab|DRUG: Enfortumab vedotin
+Objective response rate (ORR), Percentage of participants by best overall response (e.g., CR, PR, SD, PD) to therapy, At every restaging (prior to every 2nd or 3rd cycle) until the end of the study therapy and during follow-up until PD
+Second Objective response rate (ORR2) and second progression-free survival (PFS2) after second course of pembrolizumab, Percentage of participants with the best overall response of CR or PR to therapy and duration of time from start of treatment to time of progression or death, whichever occurs first., At every restaging (prior to every 2nd or 3rd cycle) until the end of the study therapy and during follow-up until PD|Duration of response (DoR), Time from start of treatment to disease progression or death in participants who achieve CR or PR, At every restaging (prior to every 2nd or 3rd cycle) until the end of the study therapy and during follow-up until PD|Overall survival (OS), Time from the start of treatment that participants are still alive., Day 1 of each cycle, at EoT, at the Safety visits, and every 90 days for up to a total of 5 years after the end of therapy.|Progression-free survival (PFS), Duration of time from start of treatment to time of progression or death, whichever occurs first, At every restaging (prior to every 2nd or 3rd cycle) until the end of the study therapy and during follow-up until PD|Clinical benefit rate (CBR), Percentage of participant who have achieved CR, PR, and SD while on treatment., At every restaging (prior to every 2nd or 3rd cycle) until the end of the study therapy and during follow-up until PD|Safety of EV with or without pembrolizumab, Adverse events (AEs) will be reported by type and grade of toxicity, From first dose through 30 days after last treatment with EV and 90 days after last treatment with pembrolizumab
+Background:
+
+* Rare genitourinary (GU) tumors are tumors of aberrant histology occurring in the GU tract including kidney, unrinary tract, ureters, testes, and penis. Due to their rarity, they are not systematically captured by currently available registries, treatment protocols or tissue banks.
+* Large randomized clinical trials are logistically difficult in these small patient populations. Therefore, treatment information is obtained from case reports, retrospective studies, and small clinical trials, and is frequently extrapolated from trials on similar tumor types.
+* Pembrolizumab is a potent and highly selective humanized monoclonal antibody that targets immune checkpoint programmed cell death protein 1 (PD-1) receptor.
+* Nectin-4 is a type 1 transmembrane protein and member of a family of related immunoglobulinlike adhesion molecules implicated in cell-cell adhesion.
+* Nectin-4 is highly expressed in cancer cells, particularly in urothelial carcinomas (UCs).
+* Enfortumab vedotin (EV) is an antibody-drug conjugate consisting of a human monoclonal antibody to nectin-4 and monomethyl auristatin E (MMAE), a microtubule disrupting cytotoxic agent. EV has demonstrated a survival benefit in the setting of metastatic urothelial carcinoma, which has almost universally high nectin-4 expression.
+* There is data in UC and unrinary tract cancer variants showing co-existence of nectin-4 expression and programmed cell death 1 ligand 1 (PD-L1) expression and mismatch repair deficiency.
+* There is currently very limited data on the level of nectin-4 expression in rare GU tumors and no evidence for the activity of EV in these tumors.
+
+Objective:
+
+-To assess the objective response rate (ORR) per RECIST v 1.1 in participants with rare genitourinary (GU) tumors treated with enfortumab vedotin (EV) with or without pembrolizumab.
+
+Eligibility:
+
+* Age \>= 18 years
+* Histologically confirmed diagnosis of locally advanced or metastatic pure adenocarcinoma of the unrinary tract, pure squamous cell carcinoma of the unrinary tract, or treatment-refractory testicular germ cell tumors.
+* Participants may have received any number of prior anti-cancer treatments or be treatment na(SqrRoot) ve (with the exception of participants with testicular germ cell tumors, whom must have exhausted all standard curative-intent options).
+
+Design:
+
+* This multisite study is a phase II, open label, multicohort, nonrandomized study with two arms.
+* Participants with:
+
+  * Adenocarcinoma of the unrinary tract will be enrolled in Cohort A (Cohort A1: prior anti-1/PD-L1 therapy; Cohort A2: no prior anti-PD-1/PD-L1 therapy).
+  * Squamous cell carcinoma of the unrinary tract will be enrolled in Cohort B (Cohort B1: prior anti-PD-1/PD-L1 therapy; Cohort B2: no prior anti-PD-1/PD-L1 therapy).
+  * Testicular germ cell tumors will be enrolled in Cohort C (Cohort C1: prior anti-PD-1/PDL1 therapy; Cohort C2: no prior anti-PD-1/PD-L1 therapy).
+* All participants will receive EV.
+* Participants without prior immune checkpoint inhibitor (ICI) exposure will be eligible to receive concurrent pembrolizumab.
+* Arm 1: EV monotherapy will be given in 28-day cycles for a maximum of 5 years, or until disease progression or intolerable side effects. EV will be administered I.V. at 1.25 mg/kg on days 1, 8, and 15 of each cycle.
+* Arm 2: EV and pembrolizumab will be given in 21-day cycles. EV will be administered I.V. at 1.25 mg/kg on days 1 and 8 of each cycle. Pembrolizumab will be administered I.V. at 200 mg on day 1.
+
+  * EV and pembrolizumab will be given for 35 cycles, or until a confirmed complete response, disease progression or intolerable side effects.
+  * After the 35th cycle, EV may be continued to be given for a maximum of 5 years, or until disease progression or intolerable side effects.
+  * Participants who have completed 35 cycles of pembrolizumab or stopped pembrolizumab for confirmed complete response may be eligible for up to additional 17 cycles of pembrolizumab if there is investigator-determined progressive disease by RECIST 1.1 after initial treatment.
+* The accrual ceiling will be set at 68 participants to allow for inevaluable participants.

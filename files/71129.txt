@@ -1,0 +1,18 @@
+Clinical Trial for the Validation of AR Based Neuronavigation System
+The goal of this clinical trial is to test augmented reality (AR) based neuronavigation system in surgeries for patients of brain neoplasm or cerebral vascular disease. The main questions it aims to answer are:
+
+• AR based neuronavigation system can achieve accuracy that is not inferior to conventional intraoperative navigation system.
+
+Participants will participate the study after informed consent. When participants undergo surgery for their brain tumor, we will set up 2 types of neuronavigation, conventional navigation system and developed AR based neuronavigation system. Surgeon will plan and conduct surgery based on only conventional navigation system, but 3D errors at several selected points between two types of navigation will be measured and analyzed.
+Brain Neoplasms|Cerebral Aneurysm|Cerebral Arteriovenous Malformation|Navigation, Spatial
+DIAGNOSTIC_TEST: AR-based navigation
+The degree of 3-dimensional error at each measurement points (mm), Fiducial markers, nasion, 6 hours|The degree of 3-dimensional error at each measurement points (mm) after durotomy, Tumor's margin, ICA bifurcation, et al., 6 hours
+Non-inferiority of AR-based navigation compared to conventional navigation, Statistical comparison of the average value between the error with the actual position of conventional navigation and the error with the actual position of AR navigation., 12 months|Time required to set up and use each navigation, Time required to match conventional navigation and AR navigation, respectively., 6 hours|Economic analysis for each navigation, Economic benefits that can be expected if AR-based navigation can replace conventional navigation will be assessed. Cost for surgery, cost of whole admission period, and hospital day will be evaluated., 12 months
+Being developed AR navigation were reported in our following papers:
+
+1. Dho YS, et al., Development of an inside-out augmented reality technique for neurosurgical navigation. Neurosurgical Focus. 2021 Aug 1;51(2):E21. (doi.org/10.3171/2021.5.FOCUS21184)
+2. Moon HC, et al., Navigation of frameless fixation for gamma knife radiosurgery using fixed augmented reality. Scientific Reports. 2022 Mar 16;12(1):1-0. (doi.org/10.3171/2021.5.FOCUS21184)
+
+This study aims to evaluate the accuracy of anatomical localization of a newly developed augmented reality-based neurosurgery navigation. After 3-dimensional (3D) modeling of the brain of a patient with brain tumor or cerebral vascular disease through 3D image segmentation extraction and modeling, the Augmented Reality (AR)-based navigation developed by this research team can be used with a commercially available visualization device, such as iPad, iPhone, and Hololens2, to evaluate the accuracy.
+
+The AR-based navigation obtained approval from the Ministry of Food and Drug Safety of Republic of Korea (class 2 medical device) in February 2022. Through this clinical tria that compare accuracy with existing conventional intraoperative neuronavigation system, we will evaluate whether it shows equivalent performance to replace the existing navigation.

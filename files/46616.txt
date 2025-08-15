@@ -1,0 +1,17 @@
+Exploring a Breast Cancer Early Screening Model Based on cfDNA
+The goal of this observational study is to use cfDNA multi-omics technology to explore a new breast cancer early detection model to improve the accuracy of early diagnosis in breast cancer patients. The main questions it aims to answer are:
+
+* Evaluate the sensitivity and specificity of the early detection model for breast cancer screening
+* Evaluate participants' TeFei™ score Participants will be collected peripheral venous blood before surgery or systemic treatment. The blood will then be sent to the collaboration company for sequencing. The collaboration company will analyze the sequencing results and build a cfDNA multi-omics signature library. Finally, the collaboration company will use deep learning algorithms to train and optimize the feature library.
+
+Researchers will compare the cancer group with a benign control group to determine the model's effectiveness in differentiating between them.
+Breast Cancer|Breast Fibroadenoma|Breast Hypoplasia
+GENETIC: cfDNA sequencing
+Evaluate the sensitivity and specificity of the early detection model for breast cancer screening, Peripheral blood samples were collected during routine physical examinations for healthy volunteers and prior to surgery for cancer patients. The blood samples were drawn and placed into cfDNA preservation tubes (Ardent BioMed, Guangdong, China, Cat. # BY10240301). After collection, the fresh blood was subjected to an initial centrifugation at 1,600 × g for 10 minutes at 4°C, allowing the plasma supernatant to be carefully separated via pipetting. This plasma was then centrifuged again at 16,000 × g for 10 minutes at 4°C to remove any residual debris. The resulting plasma supernatant was then carefully collected and stored at -80°C. The preserved plasma samples were subsequently transported on dry ice to the central laboratory at OmixScience Research Institute (Hangzhou, China)., 1 year from enrollment
+Evaluate participants' TeFei™ score, This test is based on the expression level of key genes in the cfDNA tumor of the participant's blood sample, and the relative expression level of these genes is calculated to obtain a score. This score is called the TeFei™ Score and usually ranges from 0 to 100, with a higher score indicating a higher tumor burden in the patient., 60 days
+The goal of this observational study is to use cfDNA multi-omics technology to explore a new breast cancer early detection model to improve the accuracy of early diagnosis in breast cancer patients. The main questions it aims to answer are:
+
+* Evaluate the sensitivity and specificity of the early detection model for breast cancer screening
+* Evaluate participants' TeFei™ score Participants will be collected peripheral venous blood before surgery or systemic treatment. The blood will then be sent to the collaboration company for sequencing. The collaboration company will analyze the sequencing results and build a cfDNA multi-omics signature library. Finally, the collaboration company will use deep learning algorithms to train and optimize the feature library.
+
+Researchers will compare the cancer group with a benign control group to determine the model's effectiveness in differentiating between them.

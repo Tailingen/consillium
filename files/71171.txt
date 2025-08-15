@@ -1,0 +1,53 @@
+Quantitative Prostate Cancer Contrast-enhanced Ultrasound
+Background: Bracco has released the VueBoxTM-Prostate software, aimed at distinguishing prostate cancer from prostate benign peripheral zone (PZ) at contrast-enhanced ultrasound (CEUS) using SonoVue® as contrast agent.
+
+The software analyses the ascending phase of enhancement (wash-in) and calculates the mode and the dispersion (sigma) of the wash-in rate in a given region of interest. The diagnosis of cancer is based on the combination of these two parameters.
+
+The main objective of the study is to evaluate the diagnostic value of the VueBoxTM-Prostate software in distinguishing prostate cancer from normal PZ at contrast-enhanced ultrasound (CEUS).
+
+The secondary objective is to evaluate the diagnostic value of the wash-out rate, the time to peak, the transit time and the area under the enhancement curve (parameters not used by the VueBoxTM-Prostate software) in distinguishing prostate cancer from prostate benign peripheral zone at contrast-enhanced ultrasound (CEUS).
+
+The study will enroll patients referred for prostate biopsy. The US transrectal probe will be inserted and the local anesthesia performed as per the institution's standard of care protocol. Then, the biopsy operator will choose an axial plane likely to contain cancer (e.g. based on MRI or Digital rectal examination results). Half a vial (2.4 ml) of SonoVue® will then be injected and the ultrasound enhancement of this plane will be recorded during 2 minutes while the biopsy gun is already in place. Then, the biopsy will be taken while the recording is still on, so that it will be possible to calculate quantitative enhancement parameters at the exact location of the biopsy.
+
+Then, the operator will choose a plane that is likely not to contain cancer in the opposite prostate lobe and the same process will be repeated with injection of the second half of the vial.
+
+The rest of the biopsies will be performed as per the institution's standard of care protocol.
+
+The two recordings will be sent to Bracco's Research center in Geneva in order to:
+
+* Predict the biopsy result (cancer vs benign) based on the VueBoxTM-Prostate software results
+* Calculate the wash-out rate, the time to peak, the transit time and the area under the enhancement curve at the biopsy location.
+
+The two biopsy samples performed after the injection of SonoVue® (as the rest of the biopsy samples) will be processed and analysed at the institution's department of Pathology and their results will be blinded to the Bracco's Research center.
+
+The correlation between the biopsy results, the VueBoxTM-Prostate software results and the wash-out rate, time to peak, transit time and area under the enhancement curve will be performed by the study investigator.
+
+In total, 130 patients will be included (hypotheses of 20% of malignant biopsy cores and of an area under the ROC curve of 0.85 for the VueBoxTM-Prostate software).
+Prostate Cancer
+DEVICE: biopsy sample performed after the SonoVue® injection
+Diagnostic performance (sensitivity and specificity) of the VueBoxTM-Prostate software in distinguishing prostate cancer from normal peripheral zone, Using as a reference the result of the biopsy sample performed after the SonoVue® injection and the location of which will have been strictly monitored, Day 1
+Diagnostic performance (sensitivity and specificity) of the VueBoxTM-Prostate software in distinguishing aggressive prostate cancer (Gleason score ≥7) from normal peripheral zone, using as a reference the result of the biopsy sample performed after the SonoVue® injection and the location of which will have been strictly monitored, Day 1|Diagnostic performance (sensitivity and specificity) of the of the wash-out rate, time to peak, transit time and area under the enhancement curve in distinguishing prostate cancer from normal peripheral zone, using as a reference the result of the biopsy sample performed after the SonoVue® injection and the location of which will have been strictly monitored, Day 1|Diagnostic performance (sensitivity and specificity) of the of the wash-out rate, time to peak, transit time and area under the enhancement curve in distinguishing aggressive prostate cancer (Gleason score ≥7) prostate cancer from normal peripheral zone, using as a reference the result of the biopsy sample performed after the SonoVue® injection and the location of which will have been strictly monitored, Day 1
+Background: Bracco has released the VueBoxTM-Prostate software, aimed at distinguishing prostate cancer from prostate benign peripheral zone (PZ) at contrast-enhanced ultrasound (CEUS) using SonoVue® as contrast agent.
+
+The software analyses the ascending phase of enhancement (wash-in) and calculates the mode and the dispersion (sigma) of the wash-in rate in a given region of interest. The diagnosis of cancer is based on the combination of these two parameters.
+
+The main objective of the study is to evaluate the diagnostic value of the VueBoxTM-Prostate software in distinguishing prostate cancer from normal PZ at contrast-enhanced ultrasound (CEUS).
+
+The secondary objective is to evaluate the diagnostic value of the wash-out rate, the time to peak, the transit time and the area under the enhancement curve (parameters not used by the VueBoxTM-Prostate software) in distinguishing prostate cancer from prostate benign peripheral zone at contrast-enhanced ultrasound (CEUS).
+
+The study will enroll patients referred for prostate biopsy. The US transrectal probe will be inserted and the local anesthesia performed as per the institution's standard of care protocol. Then, the biopsy operator will choose an axial plane likely to contain cancer (e.g. based on MRI or Digital rectal examination results). Half a vial (2.4 ml) of SonoVue® will then be injected and the ultrasound enhancement of this plane will be recorded during 2 minutes while the biopsy gun is already in place. Then, the biopsy will be taken while the recording is still on, so that it will be possible to calculate quantitative enhancement parameters at the exact location of the biopsy.
+
+Then, the operator will choose a plane that is likely not to contain cancer in the opposite prostate lobe and the same process will be repeated with injection of the second half of the vial.
+
+The rest of the biopsies will be performed as per the institution's standard of care protocol.
+
+The two recordings will be sent to Bracco's Research center in Geneva in order to:
+
+* Predict the biopsy result (cancer vs benign) based on the VueBoxTM-Prostate software results
+* Calculate the wash-out rate, the time to peak, the transit time and the area under the enhancement curve at the biopsy location.
+
+The two biopsy samples performed after the injection of SonoVue® (as the rest of the biopsy samples) will be processed and analysed at the institution's department of Pathology and their results will be blinded to the Bracco's Research center.
+
+The correlation between the biopsy results, the VueBoxTM-Prostate software results and the wash-out rate, time to peak, transit time and area under the enhancement curve will be performed by the study investigator.
+
+In total, 130 patients will be included (hypotheses of 20% of malignant biopsy cores and of an area under the ROC curve of 0.85 for the VueBoxTM-Prostate software).

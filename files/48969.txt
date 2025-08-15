@@ -1,0 +1,72 @@
+Anti-CD19 Chimeric Antigen Receptor T-Cell Immunotherapy for Chronic Lymphocytic Leukemia (CLL)
+Background:
+
+Chronic lymphocytic leukemia (CLL) and small lymphocytic lymphoma (SLL) are blood cancers that affect certain white blood cells. Advanced forms of these diseases are difficult to treat. CD19 is a protein often found on the surfaces of these cancer cells. Researchers can modify a person's own immune cells (T cells) to target CD19. When these modified T cells are returned to the body-a treatment called anti-CD19 chimeric antigen receptor (CAR) T cell therapy-they may help kill cancer cells.
+
+Objective:
+
+To test anti-CD19 CAR T cell therapy in people with CLL or SLL.
+
+Eligibility:
+
+People aged 18 years and older with CLL or SLL that has not been controlled with standard drugs.
+
+Design:
+
+Participants will be screened. They will have imaging scans and tests of their heart function. If a sample of tissue from their tumor is not available, a new one may be taken; the sample will be tested for CD19.
+
+Participants will receive a drug to reduce the leukemia cells in their blood. Then they will undergo apheresis: Blood will be taken from the body through a needle. The blood will pass through a machine that separates out the T cells. The remaining blood will be returned to the body through a different needle. The collected T cells will be gene edited to make them attack cells with CD19.
+
+Participants will take drugs to prepare them for treatment for 3 days. These drugs will start 5 days before the treatment. Then their own modified CAR T cells will be returned to their bloodstream. Participants will stay in the hospital for at least 9 days after the treatment.
+
+Follow-up visits will continue for 5 years.
+B-Cell Chronic Lymphocytic Leukemia|Leukemia, Lymphocytic, Chronic, B-Cell|B-Lymphocytic Leukemia, Chronic
+BIOLOGICAL: Autologous HuCD19 ( Anti-CD19)CAR T cells|DRUG: Cyclophosphamide|DRUG: Fludarabine|DRUG: Rituximab
+Phase I: Determine the safety of administering T-cells expressing a fully-human anti-CD19 CAR to participants with advanced CLL or SLL., Adverse Events (AE) by type, grade, and frequency, From time of the pre-leukapheresis rituximab through 5 years after CAR T infusion.|Phase II: Determine the overall response rate (ORR) of T cells expressing an anti-CD19 CAR with a fully-human single chain variable fragment (scFv) to participants with advanced CLL, Overall Response Rate will be evaluated using published criteria; these will be reported along with a 95% confidence interval, From time of the pre-leukapheresis rituximab through 5 years after CAR T infusion.
+Phase I: Assess overall response rate, Overall Response rate (ORR= CR + PR) will be recorded if ORR occurs at any response assessment time-point., up to 5 years|Phase I+II: Assess complete response rate, Complete Response rate (CR) in participants who receive subsequent infusion, up to 5 years after entry date for last participant, up to 5 years|Phase I+II: Assess duration of responses, Duration of response from date of response will be measured for no more than 5 years after the last participant has been enrolled on the trial., up to 5 years|Phase I+II: Determine the ORR for re treatment with rituximab, chemotherapy and CAR T cells in eligible patients, Overall Response rate (ORR= CR + PR) for re-treatment with Rituximab will be recorded if ORR occurs at any response assessment time-point., up to 5 years|Phase II: Determine the frequency of grade 3-4 adverse events at the Optimal Dose, Adverse Events (AE) by type, grade, and frequency, up to 5 years
+Background:
+
+* Improved treatments for relapsed and refractory chronic lymphocytic leukemia (CLL) are needed.
+* T cells can be genetically modified to express chimeric antigen receptors (CARs) that specifically target malignancy-associated antigens.
+* Autologous T cells genetically modified to express CARs targeting the B-cell antigen CD19 have caused complete remissions in patients with leukemia or lymphoma. However, there is no FDA-approved CAR T-cell product for CLL. Responses to CAR T-cell therapy in CLL have historically been lower than in other B-cell malignancies.
+* CD19 is uniformly expressed on CLL.
+* CD19 is not expressed by normal cells except for B cells, follicular dendritic cells, and some plasma cells.
+* We have constructed a novel gene therapy construct that encodes a fully-human anti-CD19 CAR.
+* The conditioning regimen for this trial will include rituximab, fludarabine, and cyclophosphamide.
+* Possible toxicities include cytokine-associated toxicities such as fever, hypotension, and neurological toxicities. Elimination of normal B cells is probable, and unknown toxicities are also possible.
+
+Primary objective, Phase I:
+
+-Determine the safety of administering a novel conditioning regimen and T cells expressing the Hu19-CD828Z CAR to participants with advanced CLL.
+
+Primary objective, Phase II:
+
+-Determine the overall response rate (ORR) of a novel conditioning regimen and T cells expressing the Hu19-CD828Z CAR for participants with advanced CLL.
+
+Eligibility:
+
+* Participant must have CLL or small lymphocytic lymphoma (SLL).
+* Age \>= 18 years of age at time of enrollment
+* Participant must have malignancy that is measurable on a CT scan or by flow cytometry of bone marrow or blood.
+* Participant must have a creatinine of 1.5 mg/dL or less and a normal cardiac ejection fraction.
+* An ECOG performance status of 0-1 is required.
+* No active infections are allowed including hepatitis B or hepatitis C.
+* Absolute neutrophil count \>= 1000/microL, platelet count \>= 50,000/microL, hemoglobin \>= 8g/dL
+* Serum ALT and AST less or equal to 3 times the upper limit of the institutional normal unless liver involvement by malignancy is demonstrated.
+* At least 14 days must elapse between the time of any prior systemic treatment (including corticosteroids) and the first dose of protocol-required rituximab. In addition, 60 days must elapse from therapy with antibody-based treatments targeting CD19 and CAR T-cell infusion.
+* Prior CAR T-cell therapy is not allowed.
+* Demonstration of CD19 expression by the CLL/SLL is required for eligibility.
+* CD19 expression must be uniform . Uniform CD19 expression is defined as no obvious CD19-negative CLL/SLL being present.
+
+Design:
+
+* This is a phase I dose-escalation trial with an expansion cohort (Phase II portion)
+* T cells obtained by leukapheresis will be genetically modified to express the Hu19-CD828Z CAR.
+* Participants will receive 2 doses of rituximab and a lymphocyte-depleting chemotherapy conditioning regimen with the intent of decreasing the burden of CLL, which might reduce toxicity and improve anti-leukemia outcomes.
+* Rituximab will be given in 2 doses, of 375 mg/m\^2 for the first dose and 500 mg/m\^2 for the second dose.
+* The chemotherapy conditioning regimen is cyclophosphamide 500 mg/m\^2 daily for 3 days and fludarabine 30 mg/m\^2 daily for 3 days. Fludarabine will be given on the same days as the cyclophosphamide.
+* Three days after the chemotherapy ends, participants will receive an infusion of CAR T cells.
+* The initial dose level of this dose-escalation trial will be 1.0x10\^6 CAR+ T cells/kg of recipient bodyweight.
+* The CAR T-cell cell dose administered will be escalated until a maximum tolerated dose or an optimal dose is determined.
+* Following the T-cell infusion, there is a mandatory 9-day inpatient hospitalization to monitor for toxicity.
+* Outpatient follow-up is planned for 2 weeks and 1, 2, 3, 4, 6, 9, and 12 months after the CAR T-cell infusion; less frequent follow-up is required more than 1 year after infusion. Long-term gene-therapy follow-up for a total of 15 years after infusion is required.

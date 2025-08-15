@@ -1,0 +1,21 @@
+Novel Applications for Sarcoma Assessment
+This research aims to improve the way of deciding whether a lump in soft tissue such as fat or muscle is a type of cancer called a soft tissue sarcoma, or if it is benign (non-cancerous). To do this the investigators will use routine clinical MRI scans, additional quantitative MRI scans and artificial intelligence.
+
+The aims of this research are:
+
+To develop AI algorithms that can accurately classify soft tissue masses as benign or malignant using routine and quantitative MR images.
+
+To classify malignant soft tissue masses into their pathological grade. Compare different AI models on external, unseen testing sets to determine which offers the best performance.
+
+Participants will be asked if they can spend up to a maximum of 10 extra minutes in an MRI scanner so that the extra images can be acquired. A small subset of participants will be invited back so the investigators can check the reproducibility of the images and the AI software.
+Sarcoma
+DIAGNOSTIC_TEST: Quantitative MRI|DIAGNOSTIC_TEST: Reproducibility study
+Diagnostic accuracy - ROC analysis of accuracy, sensitivity and specificity of AI algorithms for distinguishing between benign and malignant soft tissue lesions, AI algorithms will be trained to distinguish between benign and malignant soft tissue lesions. To assess the accuracy of these algorithms, sensitivity and specificity of the algorithm will be calculated using the patients diagnosis from biopsy/surgical resection as the gold standard., 3 years
+Classification accuracy - ROC analysis of accuracy, sensitivity and specificity of AI algorithms for classifying malignant lesions into their pathological grade, AI algorithms will be trained to distinguish between grade 1,2 and 3 malignant soft tissue lesions. To assess the accuracy of these algorithms, sensitivity and specificity of the algorithm will be calculated using the patients diagnosis from biopsy/surgical resection as the gold standard., 3 years
+This research's aim is to improve the way of deciding whether a lump in soft tissue such as fat or muscle is a type of cancer called a soft tissue sarcoma, or if it is benign using artificial intelligence (AI).
+
+Soft tissue sarcomas are a type of cancer that can appear anywhere in the body where there is soft tissue such as muscle or fat. While sarcomas are rare, benign lumps in soft tissue are common and it is currently very difficult to tell the difference between the two using imaging. This means many patients with benign masses are referred for painful biopsies and waiting lists for biopsies are long due to the large diagnostic workload.
+
+This research aims to develop an AI algorithm that can differentiate between benign and malignant soft tissue masses. While an algorithm can be developed using existing routine data the researchers would like to investigate if adding quantitative MR images could make it more accurate.
+
+Patients who are already having a scan for sarcoma will be asked if they consent to extra MR images being acquired. These images will be used to provide extra information to the AI. The extra images will add a maximum of 10 minutes to the patients' standard MRI scan, meaning patients will not need to make an extra trip or undergo any extra procedures. Study participants will not need to receive MR contrast as part of this research. The extra images will not be used to make a diagnosis during this research. A small subset of patients will be asked if they would be willing to come for a second scan so that the researchers can see how reliable the measurements are, but this will be entirely optional.

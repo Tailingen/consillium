@@ -1,0 +1,11 @@
+Liver CT Dose Reduction With Deep Learning Based Reconstruction
+A deep learning-based de-noising (DLD) reconstruction algorithm (ClariCT.AI) has the potential to reduce image noise and improve image quality. This capability of the CliriCT.AI program might enable dose reduction for contrast-enhanced liver CT examination. In this prospective multicenter study, whether the ClariCT.AI program can reduce the noise level of low-dose contrast-enhanced liver CT (LDCT) data and therefore, can provide comparable image quality to the standard dose of contrast-enhanced liver CT (SDCT) images will be evaluated.
+
+The aim of this study is to compare image quality and diagnostic capability in detecting malignant tumors of LDCT with DLD to those of SDCT with MBIR using the predefined non-inferiority margin.
+Radiation Exposure|Liver Cancer
+DIAGNOSTIC_TEST: Contrast-enhanced liver CT scan
+Measurement of standard deviation of CT attenuation values at the liver, Standard deviation of CT attenuation values at the liver parenchyma, within 6 months from acquisition of liver CT scans
+Sensitivity to detect malignant liver tumor, Sensitivity of liver CT scans to detect malignant liver tumor, within 6 months from acquisition of liver CT scans
+A deep learning-based de-noising (DLD) reconstruction algorithm (ClariCT.AI) has the potential to reduce image noise and improve image quality. This capability of the CliriCT.AI program might enable dose reduction for contrast-enhanced liver CT examination. In this prospective multicenter study, whether the ClariCT.AI program can reduce the noise level of low-dose contrast-enhanced liver CT (LDCT) data and therefore, can provide comparable image quality to the standard dose of contrast-enhanced liver CT (SDCT) images will be evaluated.
+
+The aim of this study is to compare image quality and diagnostic capability in detecting malignant tumors of LDCT with DLD to those of SDCT with MBIR using the predefined non-inferiority margin.

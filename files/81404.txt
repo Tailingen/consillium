@@ -1,0 +1,33 @@
+An Investigational Immuno-therapy Study of Nivolumab Compared to Sorafenib as a First Treatment in Patients With Advanced Hepatocellular Carcinoma
+The purpose of this study is to determine if nivolumab or sorafenib is more effective in the treatment of Advanced Hepatocellular Carcinoma.
+Hepatocellular Carcinoma
+DRUG: Nivolumab|DRUG: Sorafenib
+Overall Survival (OS), OS is defined as the time from the date of randomization to the date of death due to any cause in all randomized participants. Participants who are alive will be censored at the last known alive dates.
+
+Based on Kaplan-Meier Estimates., time from the date of randomization to the date of death due to any cause, assessed up to June 2019 (approximately 41 months)
+Objective Response Rate (ORR) Per BICR RECIST 1.1, ORR is defined as the proportion of participants whose best overall response (BOR) is either a complete response (CR) or partial response (PR). BOR is defined as the best response designation, as determined based on BICR-assessed tumor response according to RECIST 1.1, recorded between the date of randomization and the date of first objectively documented progression or the date of subsequent anti-cancer therapy, whichever occurs first. For participants without documented progression or subsequent anti-cancer therapy, all available response designations will contribute to the BOR determination. For a BOR of CR or PR, the initial response assessment must be confirmed by a consecutive assessment no less than 4 weeks (28 days) later.
+
+Estimate of (Nivolumab - Sorafenib) is based on CMH method of weighting, stratified by stratification factors, the date of randomization and the date of first objectively documented progression or the date of subsequent anti-cancer therapy, whichever occurs first, assessed up to May 2019 (approximately 40 months)|Progression-Free Survival (PFS), PFS is defined as the time from the date of randomization to the date of the first objectively documented tumor progression as assessed by BICR according to RECIST 1.1 or death due to any cause in all randomized participants. Participants who die without a reported prior progression and without initiation of subsequent anti-cancer therapy will be considered to have progressed on the date of their death. Participants who did not progress or die will be censored on the date of their last tumor assessment. Participants who did not have baseline tumor assessment will be censored on the date they were randomized. Participants who did not have any on study tumor assessments and did not die will be censored on the date they were randomized. Participants who started any subsequent anti-cancer therapy without a prior reported progression will be censored at the last tumor assessment prior to subsequent anti-cancer therapy., time from the date of randomization to the date of the first objectively documented tumor progression or death, assessed up to May 2019 (approximately 40 months)|Efficacy Based on PD-L1 Expression - OS and PFS, PD-L1 expression is defined as the percent of tumor cell membrane staining in a minimum of 100 evaluable tumor cells per Dako PD-L1 IHC assay unless otherwise specified. This is referred as quantifiable PD-L1 expression. If the PD-L1 staining could not be quantified, it is further classifies as:
+
+Indeterminate: Tumor cell membrane staining hampered for reasons attributed to the biology of the tumor biopsy specimen and not because of improper sample preparation or handling.
+
+Not evaluable: Tumor biopsy specimen was not optimally collected or prepared (e.g. PD-L1 expression is neither quantifiable nor indeterminate).
+
+PD-L1 status is a dichotomized variable using an X% cut-off for quantifiable PD-L1 expression:
+
+* PD-L1 \> X %: ≥ X % PD-L1 expression
+* PD-L1 \< X %: \< X % PD-L1 expression where X% denotes the PD-L1 expression cut-off of 1%. Additional cut off values may also be explored.
+
+Confidence interval based on the Clopper and Pearson method., the date of randomization and the date of first objectively documented progression or the date of subsequent anti-cancer therapy, whichever occurs first, assessed up to May 2019 (approximately 40 months)|Efficacy Based on PD-L1 Expression - ORR, PD-L1 expression is defined as the percent of tumor cell membrane staining in a minimum of 100 evaluable tumor cells per Dako PD-L1 IHC assay unless otherwise specified. This is referred as quantifiable PD-L1 expression. If the PD-L1 staining could not be quantified, it is further classifies as:
+
+Indeterminate: Tumor cell membrane staining hampered for reasons attributed to the biology of the tumor biopsy specimen and not because of improper sample preparation or handling.
+
+Not evaluable: Tumor biopsy specimen was not optimally collected or prepared (e.g. PD-L1 expression is neither quantifiable nor indeterminate).
+
+PD-L1 status is a dichotomized variable using an X% cut-off for quantifiable PD-L1 expression:
+
+* PD-L1 \> X %: ≥ X % PD-L1 expression
+* PD-L1 \< X %: \< X % PD-L1 expression where X% denotes the PD-L1 expression cut-off of 1%. Additional cut off values may also be explored.
+
+Confidence interval based on the Clopper and Pearson method., the date of randomization and the date of first objectively documented progression or the date of subsequent anti-cancer therapy, whichever occurs first, assessed up to May 2019 (approximately 40 months)
+The purpose of this study is to determine if nivolumab or sorafenib is more effective in the treatment of Advanced Hepatocellular Carcinoma.

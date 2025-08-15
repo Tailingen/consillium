@@ -1,0 +1,99 @@
+Telematics Device for Daily Monitoring of Vital Signs in Cancer
+The primary goal of this non-profit single-centre randomized pilot interventional study is to evaluate the acceptability of a daily telemonitoring of five vital parameters (heart rate, respiratory rate, blood oxygenation, blood pressure, and body temperature) using a medical device in advanced cancer patients with relevant cardiovascular and respiratory comorbidities assisted at home.
+
+In addition to the standard home care, participants in the intervention group will keep the medical device at home. They will register five vital parameters (heart rate, respiratory rate, blood oxygenation, blood pressure, and body temperature) once a day for eight weeks. Participants belonging to the control group will receive standard home care.
+
+The secondary goals of this study include the following:
+
+* Analyzing the effect of telemonitoring on patients' quality of life and psychological status.
+* Observing the possible effects of telemonitoring on the caregiver care burden.
+* Assessing the possible effects of telemonitoring on the caregiver perceived satisfaction with the home care received.
+* Comparing the number of physician and nurse home visits and phone calls between the patients using the device and patients in standard home care.
+* Comparing the number of emergency room visits, admissions, and hospitalization days between the patients using the device and patients in standard home care.
+Cancer|Cardiovascular Diseases|Respiratory Disease
+DEVICE: ButterfLife|OTHER: Control
+Acceptability, Percentage of eligible patients proposed for the study who agree to participate., 8 weeks|Number of measurements, Number of measurements/week per patient., 8 weeks
+Quality of life, EuroQoL-5D-3L questionnaire (EQ-5D-3L) is a generic instrument aimed to assess the patient's subjective qulity of life according five dimensions (mobility, self-care, daily activities, pain/discomfort, anxiety/depression); each item has responses graded from 1 to 3: level 1 indicates no problems, while level 3 indicates extreme limitation. The aggregation of the answers forms a five-digit number representing the patient's health status., Day 1, day 28 and day 56|Perceived health status, Patient's perceived health status will be assessd by a visual analog scale (VAS) graded from 0 (the worst possible health status) to 100 (the best possible health status)., Day 1, day 28 and day 56|Psychological status, The Depression Anxiety Stress Scales-21 (DASS-21), Italian version, is a self-assessment scale to detect depression, anxiety and stress. The scale consists of 21 items, 7 for each emotional state, assessed on a 4-point Likert scale (from 0= never, to 3= always)., Day 1, day 28 and day 56|Caregiver burden, The Caregiver Burden Inventory (CBI) questionnaire consists of 24 questions designed to measure the caregiver's perceived care burden on 5 domains (time-dependent care burden, developmental burden, physical burden, social burden, and emotional burden). Completion requires ticking the box from 0 to 4 (0= Not at all, 1= Slightly, 2= Moderately, 3= Quite a lot, 4= Very much) that best describes the current condition or personal impression of the caregiver. The total score ranges from 0 to 100, where 100 indicates the highest perceived caregiver burden., Day 1, day 28 and day 56|Satisfaction with care, Satisfaction with care will be assessed by the FAMCARE-2 questionnaire, a specific, validated instrument to measure family members' satisfaction with the care received by a palliative care team for their relative with an advanced cancer illness. The FAMCARE-2 consists of 17 questions related to satisfaction with the quality of care whose answers, on a 5-point ordinal score ranging from 1 (very dissatisfied) to 5 (very satisfied), cover 5 domains (management of symptoms and patient comfort, information provided, support to the family, psychological assistance to the patient). The total FAMCARE-2 score can range from 17 to 85, where 85 represents the highest satisfaction with the care received., Day 56
+BACKGROUND
+
+The overloading of healthcare facilities and the need to prevent the risk of infection during Covid-19 emergency have highlighted the need to implement significant changes in the organization and delivery of healthcare services, mainly when these are aimed at the most fragile segments of the population, as in the case of palliative care. In order to assist with an efficient program of home palliative care for an increasing number of patients, scientific evidence is progressively underlining the need to integrate telemedicine intervention into home care protocols. The introduction of telemonitoring systems in home palliative care aims to facilitate more effective patient care, reducing both emergency room and hospital admissions and improving symptoms of distress, anxiety, and depression in patients and caregivers. Self-monitoring also increases patients' awareness by making them feel part of their care pathway and active contributors to their well-being.
+
+Telemonitoring mainly uses medical devices to record parameters relating to the patient's state of health or treatment progress. Once registered, the data are shared on a cloud platform and then viewed by the physician, who can intervene in real-time in the event of clinically significant anomalies reported by the system.
+
+In the panorama of medical devices used for this purpose in Italy, there is ButterfLife® (VST Srl, Modena Italy), a medical device similar to a joypad, designed by the Unimore spinoff VST (Vital Signal in a Touch), which, thanks to special sensors, allows to measure simultaneously the five primary vital parameters defined by the WHO in 90 seconds (heart rate, respiratory rate, blood oxygenation, blood pressure and body temperature). To record these parameters, the patient has to place both hands on the device, and the data collected are immediately transmitted to a portal whose software (VST-FIVE) calculates the vital signs and allows visualization the sharing with the doctor via a Wi-Fi network. In this way, it is possible to ensure early detection of worsening and failure of the health state enabling a timely activation of appropriate intervention in the home setting. The recorded data remains available for subsequent evaluation, long-term monitoring, and offline analysis.
+
+In the present study, the ANT Foundation proposes to evaluate the feasibility and outcomes of a daily monitoring model of five vital signs (heart rate, respiratory rate, blood oxygenation, blood pressure and body temperature) conducted through the ButterfLife medical device in cancer patients assisted at home with cardiovascular and respiratory comorbidities.
+
+The study is embedded in the framework of the home palliative care program provided by Fondazione ANT Italia ONLUS. The mission of ANT Foundation is to offer the possibility of living the last period of life in one's living environment, envisaging not only the physical effects of the disease but also the patient's well-being and perceptions, with the primary objective of preserving the quality of life of the patient and his/her family. To this aim, an interdisciplinary team of physicians, nurses, psychologists, and volunteers assists each patient and his/her family at home during the different stages of the cancer disease ensuring respect for their privacy, dignity, and autonomy.
+
+The ButterLife telemonitoring tool, in the clinical context of this home palliative care program, has the objective of optimizing the management of advanced cancer patients presenting cardiovascular and respiratory comorbidities, taking into account the quality of life and the psychological state of patients and caregivers. The definition of the potential of this tool requires a study with the aim to evaluate the applicability and the operational model.
+
+STUDY DESIGN
+
+The proposed investigation is a non-profit, single-centre, randomized pilot interventional study without drugs.
+
+AIMS OF THE STUDY
+
+PRIMARY AIM
+
+The study aimed to evaluate the acceptability of daily monitoring of five vital parameters (heart rate, respiratory rate, blood oxygenation, blood pressure and body temperature) using the ButterfLife medical device in advanced cancer patients with relevant cardiovascular and respiratory comorbidities assisted at home.
+
+SECONDARY AIMS
+
+I. To analyze the effect of telemonitoring on patients' quality of life and psychological status.
+
+II. To observe the effects of telemonitoring on the caregiver's care burden.
+
+III. To assess the possible effects of telemonitoring on the caregivers' perceived satisfaction with the care received.
+
+IV. To assess the device's acceptability and ease of use by caregivers.
+
+V. To compare the number of planned visits (doctor and nurse) between the patients using the device and the control group.
+
+VI. To compare the number of unscheduled visits (doctor and nurse) between patients using the device and the control group.
+
+VII. To compare the number of phone calls (doctor and nurse) between the patients using the device and the control group.
+
+VII. To compare the number of emergency room visits, admissions, and hospitalization days between the patients using the device and the control group.
+
+STUDY POPULATION AND SETTING
+
+The study population consists of advanced cancer patients entering the home palliative care program of the ANT Foundation in Bologna city and surrounding areas (Italy). A family caregiver will also be enrolled for each patient. The study will take place directly at the patient's home.
+
+OPERATIONAL PROCEDURES
+
+RECRUITMENT AND RANDOMIZATION
+
+During the first visit to start home care, after verifying the inclusion and exclusion criteria, the investigator (ANT physician) will explain the Study to the patient and caregiver and propose their participation.
+
+If they consent, after collecting informed consent for participation and personal data management, the physician contacted the Research Department of the ANT Foundation to include the dyad (patient and caregiver) in the study.
+
+Participants will be randomly assigned by the Research Department to the ButterfLife group (25 patients) or the CTR group (25 patients) by randomization using an Excel-generated random number set. Investigators that will run the statistical analysis will be blinded to the randomization procedure.
+
+PROCEDURES AND DATA COLLECTION
+
+The study will last eight weeks for each patient. On the first day (day 1), the investigator doctor will explain the questionnaires to the patient and their caregiver and leave them at home.
+
+* For patients in the ButterfLife group, the investigator delivers the ButterfLife device at home and explains its use: the patient should hold the device in their hand for at least 90 seconds; after switching the device on, they should press the central button (rotary selector) and select "start test", confirm twice with the main button and then wait relaxed for the countdown from 1.30 minutes to 0, in the end, they should press the button again and wait for the device to switch off. The ButterfLife device is designed to make self-measurements and therefore requires no external intervention for measurements. The patient is recommended to take the measurement once a day, preferably in the morning and to repeat the measurement of parameters during the day if necessary. The doctor will check the data recorded by the patient every day and the trend of the parameters over time by a graphical representation on the electronic medical record (Vitaever®, Nethical S.r.l.). Daily telemonitoring will be conducted in addition to standard home care.
+* Patients in the Control group will receive standard home care: visits will be planned according to the patient's needs. In case of an unstable clinical condition, worsening of symptoms, and alteration of vital parameters, the patient can contact by phone the physician or the nurse, who will decide how to intervene.
+
+The total monitoring time will be 8 weeks (56 days), and after 4 weeks (day 28), the administration of questionnaires to the patient and caregiver will be repeated.
+
+ANT Foundation has subscribed to a study-specific insurance policy to cover potential risks deriving from the research.
+
+SAMPLE SIZE
+
+Based on data from patients entering care in 2020, it is planned to propose the study to approximately 60 patients meeting the inclusion criteria. Among these, it is supposed that at least 50 patients will agree to enter the study and be randomized into two groups (ButterfLife and Control) of 25 patients each. The power of the study, calculated using the G\*Power software with a post hoc power analysis for a Mann Whitney test between two groups counting on an effect size = 0.8 and α = 0.05, was (1-β) = 0.86.
+
+Therefore, 50 patients cared for at home by ANT Foundation in Bologna and its province will be included in the study.
+
+STATISTICAL ANALYSIS
+
+Statistical analysis will be conducted on the data after their anonymization. An investigator is in charge of anonymization and blinding to groups' patient allocation. The anonymized and blinded data will be passed to the investigators in charge of data analysis. Anonymized data will be stored within the Research Department of ANT Foundation in an ad-hoc safe electronic database.
+
+The statistical analysis will be structured as follows:
+
+* Descriptive analysis of the characteristics of the recruited subjects. The following parameters are shown as frequencies: age, sex, KPS, diagnosis, time since diagnosis, presence of metastases, symptoms, current therapies, and stage of the disease.
+* Analysis of acceptability and feasibility: percentage of eligible patients proposed for the study who agree to participate, percentage of drop out from the study, number of measurements/week per patient, patient assessment of ease of use, difficulties encountered, and usefulness.
+* The trend of secondary outcomes (quality of life, psychological state, and caregiver care burden) over time (day 1, day 28 and day 56) will be analysed using a general linear model for repeated measures.
+* Comparison between the ButterfLife and control groups: after analyzing the normality of the variables (Shapiro-Wilk test), the differences between the two groups for secondary outcomes (quality of life, psychological state, caregiver care burden, caregiver satisfaction with the care received, number of scheduled visits, unscheduled visits, on-call visits, phone calls received by the doctor and nurse, number of accesses to the emergency room, number of hospital admissions and hospitalization) will be analyzed with parametric tests (Student's t-test) or non-parametric tests (Mann-Whitney test).

@@ -1,0 +1,6 @@
+The Value of Artificial Intelligence-based 18F-FDG PET/CT in Diferential Diagnosis, Efficacy Prediction and Prognosis Prediction of T-NK Cell Lymphoma: a Clinical Study
+Based on the PET/CT imaging data of patients with T-NK cell lymphoma, machine learning and deep learning methods are used to extract imaging features, establish a T-NK cell lymphoma prediction model, and provide more scientific and accurate prognosis prediction for the clinic.
+T-NK Cell Lymphoma
+Evaluation the value of Artificial Intelligence-based 18F-FDG PET/CT of T-NK Cell Lymphoma, The Value of Artificial Intelligence-based 18F-FDG PET/CT in Diferential Diagnosis, Efficacy Prediction and Prognosis Prediction of T-NK Cell Lymphoma, Within 1 week of enrollment and after 3 months treatment
+Progress free survival, Progress free survival, 3 years|Overall survival, Overall survival, 3 years
+This study adopts a multicenter retrospective cohort study design，we provided PET/CT of 200 patients with T-NK cell lymphoma as an external validation set for model validation.

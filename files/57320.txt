@@ -1,0 +1,32 @@
+Studying TAK-243 in Patients With Advanced Cancer
+This phase I trial studies the side effects and best dose of ubiquitin-activating enzyme (UAE) inhibitor TAK-243 (TAK-243) in treating patients with a solid tumor that may have spread from where it first started to nearby tissue, lymph nodes, or distant parts of the body (advanced) or that has spread from where it first started (primary site) to other places in the body (metastatic) and in patients with lymphoma. TAK-243 is a drug that binds to and inhibits the ubiquitin-activating enzyme, an enzyme that is more active on cancer cells than healthy cells, inhibiting tumor cell proliferation and survival.
+Advanced Lymphoma|Advanced Malignant Solid Neoplasm|Indolent Non-Hodgkin Lymphoma|Metastatic Malignant Solid Neoplasm|Recurrent Malignant Solid Neoplasm|Refractory Malignant Solid Neoplasm
+PROCEDURE: Biopsy Procedure|PROCEDURE: Biospecimen Collection|PROCEDURE: Computed Tomography|PROCEDURE: Echocardiography Test|PROCEDURE: Magnetic Resonance Imaging|DRUG: UAE Inhibitor TAK-243
+Maximum tolerated dose (MTD), The MTD for each arm will be based on the assessment of dose-limiting toxicities (DLTs) and will be defined as the dose level at which less than one-third of patients (\< 2/6 patients) treated at that dose experience a DLT, with the next higher dose level demonstrating a one-third or greater number of patients (\>= 2/3 or \>= 2/6 patients) having DLT., Within the first cycle of treatment (Arm A: 21-day cycle; Arm B: 28-day cycle)|Recommended phase 2 dose, Within the first cycle of treatment (Arm A: 21-day cycle; Arm B: 28-day cycle)|Incidence of DLTs, A DLT is defined as an adverse event that is felt to be related (possibly, probably, or definitely) to administration of study drugs, and meets pre-specified criteria. All toxicities will be reported for all patients who receive any amount of study drug on this study., Within the first cycle of treatment (Arm A: 21-day cycle; Arm B: 28-day cycle)
+Pharmacodynamic (PD) variables, With 10 PD sample pairs, there is 90% power to detect a treatment effect equivalent to 1.8 standard deviations (associated with the inter-patient baseline variability of the PD marker) with the paired 2-sample t-test, at the 1-sided .01 significance level (to accommodate multiple endpoints while maintaining a reasonable over-all type 1 error bound), for a given PD variable of interest. PD variables may be log-transformed to achieve more nearly normal distributions., Up to 30 days after the last dose of treatment|Objective tumor response, For each of the two administration schedule arms, the objective tumor response rate will be estimated for the entire patient population in a descriptive fashion, including a 2-sided 90% confidence interval., Up to 30 days after the last dose of treatment
+Progression-free survival, Up to 30 days after the last dose of treatment|Overall survival, Up to 30 days after the last dose of treatment
+PRIMARY OBJECTIVE:
+
+I. To establish the safety, tolerability, and the recommended phase II dose of UAE inhibitor TAK-243 (TAK-243) administered twice-weekly or once-weekly in patients with advanced solid tumors and lymphomas.
+
+SECONDARY OBJECTIVES:
+
+I. To evaluate the pharmacokinetic (PK) profiles of TAK-243 administered on twice-weekly and once-weekly schedules in patients with advanced solid tumors and lymphomas.
+
+II. To determine the effects of TAK-243 on levels of K48-linked ubiquitination in pre- and post-treatment tumor biopsies.
+
+III. To observe and record anti-tumor activity.
+
+EXPLORATORY OBJECTIVES:
+
+I. To determine the effects of TAK-243 on the endoplasmic reticulum (ER) stress marker CHOP, Mcl-1-Noxa heterodimer formation, and the apoptosis marker cleaved caspase-3 in pre- and post-treatment tumor biopsies II. To evaluate potential associations between TAK-243 activity and tumor genomic alterations or ribonucleic acid (RNA) expression profiles.
+
+III. To preliminarily assess progression-free survival (PFS) and overall survival (OS) for TAK-243 monotherapy in patients with advanced solid tumors and lymphomas.
+
+OUTLINE: This is a dose-escalation study of TAK-243 followed by a dose-expansion study. Patients are assigned to 1 of 2 arms.
+
+ARM A: Patients receive UAE inhibitor TAK-243 intravenously (IV) on days 1, 4, 8, and 11 of each cycle. Cycles repeat every 21 days in the absence of disease progression or unacceptable toxicity. Patients also undergo biopsy on study, and undergo computed tomography (CT), magnetic resonance imaging (MRI), and collection of blood throughout the study, and may undergo echocardiograms (ECHO) as clinically indicated on study.
+
+ARM B: Patients receive UAE inhibitor TAK-243 IV once weekly (QW) on days 1, 8, and 15 of each cycle. Cycles repeat every 28 days in the absence of disease progression or unacceptable toxicity. Patients also undergo biopsy on study, and undergo CT, MRI, and collection of blood throughout the study, and may undergo ECHO as clinically indicated on study.
+
+After completion of study treatment, patients are followed up for 30 days.

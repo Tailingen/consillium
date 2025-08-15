@@ -1,0 +1,15 @@
+Lung Cancer Screening Using DNA Methylation Changes in Circulated Tumor and PBMC DNA
+A central challenge in the fight against lung cancers is how to detect disease in a noninvasive manner before it is detectable by imaging methods. Although inroads have been made with more sensitive imaging techniques for earlier detection of breast and lung cancers, these techniques are limited by the size of lesion that could be detected. Alternatively, several blood proteomic biomarkers have been proposed but none offer as of yet sufficient predictive power. Consequently, effective non-invasive tools as prognostic indicators and biomarkers of lung cancer is urgently needed.
+
+The purpose of this study is to develop and test non-invasive biomarkers based on methylation changes in PBMC and circulated tumor DNA in lung cancer patients.
+Lung Cancer|Lung Cancer, Nonsmall Cell|Lung Cancer, Small Cell
+DNA methylation of circulated tumor and PBMC DNA and its Correlation to Development and prediction of lung cancer, The outcome is the methylation score, which combines the weighted methylation values of four CpGs. A threshold methylation score that differentiates between control and cancer individuals will be calculated from the training set of 100 patients.
+
+The model will be provided to the researchers:
+
+Methylation score=CG1\*b1+CG2\*b2+ CG3\*b3+ CG4\*b4 + e
+
+CG1 is the methylation value of the first CG b1 is the regression coefficient for the first CG and "e" equals the intercept. Investigators will develop the regression coefficient and intercept as well as the DNA methylation values for each patient for each CG. Investigators will first compute the polygenic methylation score for each patient. Then based on the computer threshold based on the training cohort will call the samples as lung cancer or not., 6 months to 1 year
+A central challenge in the fight against lung cancers is how to detect disease in a noninvasive manner before it is detectable by imaging methods. Although inroads have been made with more sensitive imaging techniques for earlier detection of breast and lung cancers, these techniques are limited by the size of lesion that could be detected. Alternatively, several blood proteomic biomarkers have been proposed but none offer as of yet sufficient predictive power. Consequently, effective non-invasive tools as prognostic indicators and biomarkers of lung cancer is urgently needed.
+
+The purpose of this study is to develop and test non-invasive biomarkers based on methylation changes in PBMC and circulated tumor DNA in lung cancer patients.

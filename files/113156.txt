@@ -1,0 +1,25 @@
+Bevacizumab and Erlotinib or Sorafenib as First-Line Therapy in Treating Patients With Advanced Liver Cancer
+RATIONALE: Monoclonal antibodies, such as bevacizumab, can block tumor growth in different ways. Some block the ability of tumor cells to grow and spread. Others find tumor cells and help kill them or carry tumor-killing substances to them. Erlotinib and sorafenib may stop the growth of tumor cells by blocking some of the enzymes needed for cell growth. Bevacizumab, erlotinib, and sorafenib may also stop the growth of tumor cells by blocking blood flow to the tumor. It is not yet known whether giving bevacizumab together with erlotinib is more effective than giving sorafenib in treating patients with liver cancer.
+
+PURPOSE: This randomized phase II trial is studying how well giving bevacizumab together with erlotinib works compared with sorafenib as first-line therapy in treating patients with advanced liver cancer.
+Liver Cancer
+BIOLOGICAL: bevacizumab|DRUG: erlotinib hydrochloride|DRUG: sorafenib tosylate
+Overall Survival, Overall survival is defined as the time from treatment day 1 until death from any cause. Patients still alive at the end of follow up,patients who withdrew consent from the trial and patients who were lost to follow up will have their survival time censored at the last date of contact., from date of day 1 until the date of death
+Event-free Survival, EFS is defined as the time from randomization to any of the following three types of events: 1 - progression; 2 - withdrawal due to excessive toxicity; 3 - any other clinical event requiring withdrawal from the study., From the time of randomization until progression, withdrawal due to toxicity or any other clinical event requiring withdrawal from the study.|Number of SAEs Experienced, The study will report the number of SAEs experienced in each arm. All patients who receive any study drug will be evaluable for toxicity., From day 1 of drug administration until 30 days after the last dose of study drug.|Response Rate, Secondary outcome measures include response rate as assessed on restaging imaging studies utilizing RECIST 1.1., From day 1 drug administration until 30 days after the last dose of study drug.
+OBJECTIVES:
+
+Primary
+
+* To estimate the overall survival in patients with advanced hepatocellular carcinoma treated with bevacizumab and erlotinib hydrochloride vs sorafenib tosylate.
+
+Secondary
+
+* To estimate the event-free survival and tumor response rate of these patients.
+* To evaluate the safety and tolerability of these regimens in these patients.
+
+OUTLINE: This is a multicenter study. Patients are randomized to 1 of 2 treatment arms.
+
+* Arm I: Patients receive bevacizumab IV over 30-90 minutes on days 1 and 15 and oral erlotinib hydrochloride once daily on days 1-28.
+* Arm II: Patients receive oral sorafenib tosylate twice daily on days 1-28. In both arms, courses repeat every 28 days in the absence of disease progression or unacceptable toxicity.
+
+After completion of study treatment, patients are followed at 30 days and then every 3 months for 1 year.

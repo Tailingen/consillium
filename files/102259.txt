@@ -1,0 +1,27 @@
+Azacitidine in Combination With Mitoxantrone, Etoposide Phosphate, and Cytarabine in Treating Patients With Relapsed or Refractory Acute Myeloid Leukemia
+This phase I trial studies the side effects and best dose of azacitidine when given together with mitoxantrone, etoposide phosphate, and cytarabine in treating patients with acute myeloid leukemia that has returned after a period of improvement or does not respond to treatment. Azacitidine may stop the growth of cancer cells by blocking some of the enzymes needed for cell growth. Drugs used in chemotherapy, such as mitoxantrone, etoposide phosphate, and cytarabine, work in different ways to stop the growth of cancer cells, either by killing the cells, by stopping them from dividing, or by stopping them from spreading. Azacitidine may help mitoxantrone, etoposide phosphate, and cytarabine work better by making cancer cells more sensitive to the drugs.
+Recurrent Adult Acute Myeloid Leukemia|Refractory Acute Myeloid Leukemia
+DRUG: Azacitidine|DRUG: Cytarabine|DRUG: Etoposide Phosphate|OTHER: Laboratory Biomarker Analysis|DRUG: Mitoxantrone Hydrochloride|OTHER: Pharmacological Study
+Maximum-tolerated dose of azacitidine when combined with salvage chemotherapy (mitoxantrone hydrochloride, etoposide, and cytarabine [MEC]) according to National Cancer Institute Common Terminology Criteria for Adverse Events (NCI CTCAE) version 4.0, Frequency distributions and other descriptive measures will form the basis of the analysis of these variables., Up to day 42
+Clinical response according to the International Working Group criteria, Responses will be summarized by simple descriptive summary statistics delineating complete and lesser responses as well as stable and progressive disease., Up to day 42|Qualitative and quantitative toxicities of azacitidine in combination with (mitoxantrone hydrochloride, etoposide, and cytarabine [MEC]), Graded according to NCI CTCAE version 4.0., Up to 30 days post-therapy
+PRIMARY OBJECTIVES:
+
+I. To determine the maximum-tolerated dose of azacitidine (5-azaC) when combined with mitoxantrone hydrochloride (mitoxantrone), etoposide phosphate (etoposide), and cytarabine (MEC) as salvage chemotherapy in patients with relapsed or refractory acute myeloid leukemia (AML).
+
+SECONDARY OBJECTIVES:
+
+I. To define the qualitative and quantitative toxicities of 5-azaC with MEC in combination with regard to organ specificity, time course, predictability, and reversibility.
+
+II. To document the rate of complete remission (CR) and CR with incomplete blood count recovery (CRi) for this combination of agents as well as overall survival, relapse-free survival, and event-free survival.
+
+III. To evaluate the pharmacokinetics of 5-azaC when given in combination with MEC in patients enrolled on this study.
+
+IV. To measure R2 downregulation, including changes in R2 target, AraCTP, and dNTP/NTP pools, of 5-azaC in combination with MEC and correlate these pharmacodynamic endpoints with clinical response.
+
+VI. To evaluate hypomethylation, including DMNT1 expression, Sp1 expression, global deoxyribonucleic acid (DNA) methylation, gene expression profiling, and micro ribonucleic acid (RNA) expression profiling, of 5-azaC when given in combination with MEC and correlate these pharmacodynamic changes with clinical response.
+
+OUTLINE: This is a dose-escalation study of azacitidine.
+
+Patients receive azacitidine intravenously (IV) over 30 minutes on days 1-8 and mitoxantrone hydrochloride IV over 10 minutes, etoposide phosphate IV over 30-60 minutes, and cytarabine IV over 6 hours on days 3-8. Treatment continues for 1 course in the absence of disease progression or unacceptable toxicity.
+
+After completion of study treatment, patients are followed up for 30 days.

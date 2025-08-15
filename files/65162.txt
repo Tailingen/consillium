@@ -1,0 +1,7 @@
+Three Dimensional (3D) Ultrasound in Predicting Response to Breast Cancer Therapies
+The purpose of this study is to determine how well changes can be determined in malignant masses from ultrasound scans.
+Breast Cancers
+PROCEDURE: Ultrasound Scan|PROCEDURE: Mammography and Ultrasound
+Volume change on spatially registered (aligned) images tracks path. response better than volume change on unregistered images., Self explanatory., 2002-2014
+Spatially register pre, intra and post treatment ultrasound image volumes of treated tumor., Visually measure separation between two corresponding points in two ultrasound image volumes after registration to verify registration accuracy., 2002-2014
+To evaluate the proportions of correct diagnosis of response to breast Cancer therapies for localized breast cancer by ultrasound. To develop a model based on patient characteristics, physical exam, and radiologic studies which will predict the possibility that a patient has had a complete pathological response to chemotherapy neoadjuvant therapy.

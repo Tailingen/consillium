@@ -1,0 +1,23 @@
+S0004: Combination Chemotherapy Plus Radiation Therapy in Treating Patients With Limited-stage Small Cell Lung Cancer
+RATIONALE: Drugs used in chemotherapy use different ways to stop tumor cells from dividing so they stop growing or die. Radiation therapy uses high-energy x-rays to damage tumor cells. Combining more than one chemotherapy drug with radiation therapy may kill more tumor cells.
+
+PURPOSE: Phase I trial to study the effectiveness of combination chemotherapy plus radiation therapy in treating patients who have limited-stage small cell lung cancer.
+Lung Cancer
+DRUG: cisplatin|DRUG: etoposide|DRUG: tirapazamine|RADIATION: radiation therapy
+Feasibility and Toxicity, If ten or more patients experience either Grade 3 or greater esophagitis or pneumonitis at any dose level, the trial will be stopped. Nine or fewer patients experiencing either of these toxicities will be evidence that the dose can be escalated to the next level., toxicity is assessed weekly
+OBJECTIVES:
+
+* Determine the feasibility of tirapazamine, cisplatin, and etoposide concurrently with radiotherapy in patients with limited stage small cell lung cancer.
+* Determine the toxicities of this treatment regimen in these patients.
+* Determine the response rate in these patients treated with this regimen.
+
+OUTLINE: Patients are assigned to one of two induction therapy arms.
+
+* Arm I: Patients receive induction chemotherapy consisting of low-dose tirapazamine IV over 1 hour and cisplatin IV over 1 hour on days 1, 8, 29, and 36 and etoposide IV over 1 hour on days 1-5 and 29-33. Patients also undergo radiotherapy concurrently with chemotherapy 5 consecutive days a week for 7 weeks beginning on day 1.
+* Arm II: Patients receive induction chemotherapy consisting of high-dose tirapazamine, cisplatin, etoposide, and radiotherapy as in arm I.
+
+Patients with stable or responding disease then receive consolidation therapy consisting of tirapazamine IV over 1 hour and cisplatin IV over 1 hour on day 1 of weeks 11 and 14 and etoposide IV over 1 hour on days 1-3 of weeks 11 and 14.
+
+Patients are followed every 2 months for 1 year and then every 6 months for 2 years.
+
+PROJECTED ACCRUAL: A total of 50 patients (25 per arm) will be accrued for this study.

@@ -1,0 +1,30 @@
+Perioperative Lenvatinib With Pembrolizumab in Patients With Locally Advanced Nonmetastatic Clear Cell Renal Cell Carcinoma
+This phase II trial studies how well lenvatinib and pembrolizumab before surgery work in treating patients with kidney cancer that has spread from its original site of growth to nearby tissues or lymph nodes but has not spread to other places in the body (non-metastatic). Lenvatinib may stop the growth of tumor cells by blocking some of the enzymes needed for cell growth. Immunotherapy with monoclonal antibodies, such as pembrolizumab, may help the body's immune system attack the cancer, and may interfere with the ability of tumor cells to grow and spread. Giving lenvatinib and pembrolizumab before surgery may kill more tumor cells.
+Kidney Cancer|Stage III Renal Cell Cancer AJCC v8|Stage IV Renal Cell Cancer AJCC v8
+DRUG: Lenvatinib|DRUG: Lenvatinib Mesylate|BIOLOGICAL: Pembrolizumab|OTHER: Quality-of-Life Assessment|OTHER: Questionnaire Administration
+Objective response rate (complete and partial responses), Will assess the proportion of patients with a reduction in overall tumor burden from baseline after 12 weeks of treatment with neoadjuvant lenvatinib and pembrolizumab., Baseline until end of Cycle 1 (4 Cycles (12 weeks)
+Incidence of adverse events (AEs), Adverse events will be assessed and graded according to the Common Terminology Criteria for Adverse Events (CTCAE) version 5.0. The safety profile of the treatment will be documented and summarized by summary statistics as frequency and percentage for each AE., From treatment phase up to 14 day post treatment|Overall survival (OS), OS will be estimated with the Kaplan-Meier method. The OS of each patient group at specific time points such as 6 months, 1 year, 3 years, etc. and will be also estimated alone with 95% confidence interval (CI)., Up to 4 years after study start|Disease free survival (DFS), DFS will be estimated with the Kaplan-Meier method. The DFS of each patient group at specific time points such as 6 months, 1 year, 3 years, etc. and will be also estimated alone with 95% CI., From time of surgery to the first tumor recurrence, or death, assessed up to 4 years
+Biomarker analysis, Paired t-test or Wilcoxon singed-rank test will be used to compare the biomarkers change before, during, and after treatment., Up to 4 years after study start|Quality of life: Functional Assessment of Cancer Therapy-Kidney Specific Index-19 questionnaire, QOL will be assessed using the Functional Assessment of Cancer Therapy-Kidney Specific Index-19 (FKSI-19) questionnaire. Summary statistics will be applied to all items in the measurements for quality of life. The KSI-19 is an experimental end point. The minimum and maximum values and whether higher scores mean a better or worse outcome will be determined once data is collected., Up to 4 years after study start|Fried Frailty Score, Will be assessed using the using the Fried Frailty score. Summary statistics will be applied to all items in the measurements for frailty. The Fried Frailty Score is an experimental end point. The minimum and maximum values and whether higher scores mean a better or worse outcome will be determined once data is collected., Up to 4 years after study start|Degree of sarcopenia, Will assess pre-and post-treatment imaging via SliceOmatic version (V) 5.0 by TomoVision program. Summary statistics will be applied to all items in the measurements for degree of sarcopenia., Up to 4 years after study start
+PRIMARY OBJECTIVE:
+
+I. To assess the objective response rate (complete and partial responses), following the administration of lenvatinib and pembrolizumab for a total of 4 cycles (12 weeks) in patients with locally-advanced, biopsy-proven non-metastatic clear cell renal cell carcinoma (ccRCC) prior to undergoing nephrectomy (partial or radical).
+
+SECONDARY OBJECTIVES:
+
+I. To assess the safety and tolerability of neoadjuvant lenvatinib plus pembrolizumab in a presurgical population as well as the safety of adjuvant pembrolizumab post-surgery.
+
+II. To determine the clinical outcomes including disease-free survival (DFS) and overall survival (OS) of patients with non-metastatic ccRCC treated with neoadjuvant lenvatinib and pembrolizumab and adjuvant pembrolizumab.
+
+III. To evaluate surgery-related complications and outcomes as per the Clavien-Dindo classification system.
+
+EXPLORATORY OBJECTIVES:
+
+I. To evaluate changes in biomarkers of immune activation and gene expression before, during and after treatment.
+
+II. To assess the quality of life, frailty and sarcopenia of patients before and after treatment.
+
+OUTLINE:
+
+Patients receive lenvatinib orally (PO) once daily (QD) on days 1-21 and pembrolizumab intravenously (IV) over 30 minutes on day 1. Treatments repeat every 21 days for up to 4 cycles in the absence of disease progression or unacceptable toxicity.
+
+After completion of study treatment, patients are followed up within 14 days, then every 12 weeks thereafter.

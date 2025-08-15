@@ -1,0 +1,35 @@
+NCLE-Cone-beam CT Navigation Bronchoscopy
+The goal of this proof of principle observational study is to investigate in patients with suspected peripheral pulmonary nodules. The main question it aims to answer is:
+
+• What is the concordance between CBCT navigation success (tool-in-lesion on CBCT spin) and nCLE tool-in-lesion confirmation (tool-in-lesion nCLE criteria observed).
+
+Participants scheduled to undergo a diagnostic conebeam navigation bronchoscopy will be included in the study. nCLE imaging at the tip of the TBNA needle will be added to the procedure for study purposes.
+
+Two needle punctures of the pulmonary nodule will be followed by nCLE imaging directly followed by a tool-in-lesion CBCT spin in order to compare nCLE results with CBCT results.
+Lung Neoplasm|Peripheral Lung Parenchyma Tumor|Lung Cancer
+DEVICE: needle-based confocal laser endomicroscopy
+CBCT navigation success and nCLE tool-in-lesion confirmation, CBCT-NB navigation success: tool-in-lesion OR unsuccessful navigation nCLE tool-in-lesion confirmation: in-lesion nCLE criteria seen, Intra-procedure
+Technical feasibility, Proportion of nCLE imaging that are successful (meaning that the preloaded needle can be advanced through the working channel, puncture the nodule, advance the CLE probe and start imaging) resulting good quality images., Intra-procedure|Safety, Number and proportion of (severe) adverse events ((S)AEs) and investigational procedure related adverse events (AEs), Up to 7 days post procedure|Diagnostic yield, Proportion (expressed in percentages) of patients in whom the bronchoscopic procedure results in a definitive diagnosis out of the total number of patients that have received the diagnostic bronchoscopic procedure., up to 6 months post procedure|Diagnostic sensitivity for malignancy, Proportion (expressed in percentages) of patients that have malignancy diagnosed by bronchoscopic tissue sampling, relative to the total number of patients with a final diagnosis of malignancy as determined by the reference standard., up to 6 months post procedure|Sensitivity, specificity and accuracy of real-time nCLE imaging assessment, Sensitivity, specificity and accuracy of real-time nCLE imaging assessment all described in percentages., Intra-procedure|Sensitivity, specificity and accuracy of post-procedure nCLE image assessment, Sensitivity, specificity and accuracy of post-procedure nCLE image assessment described as percentages., Intra-procedure|Interobserver agreement (IOA) and intraobserver reliability (IOR), Interobserver agreement (IOA) represented by the Cohen's kappa statistics (mean with 95% confidence intervall) and intraobserver reliability (IOR) represented by the Cohen's kappa statistics (mean +/- standard deviation), Intra-procedure
+Total procedure duration, Total procedure duration in minutes (introduction brochoscope to removal of bronchoscope), Intra-procedure
+Lung cancer remains a significant problem in current society with one of the higher cancer related mortality rates. The increased use of chest computed tomography (CT) and the po-tential future lung cancer screening result in an increased detection of early-stage peripheral lung cancer. Bronchoscopies are often indicated to collect tissue for diagnosis and to aid treatment decision making.
+
+Diagnostic bronchoscopy for peripheral lung nodules remains challenging despite many tech-nological innovations. The procedure comprises three essential pillars needed for a diagnos-tic success: navigation to the lesion, tool-in-lesion confirmation and adequate tissue retrieval.
+
+Cone beam computed tomography navigation bronchoscopy (CBCT-NB) is a fairly new tech-nique that provides coarse navigation to the pulmonary lesion with real-time guidance using augmented fluoroscopy (AF). An initial CBCT scan allows for segmentation of the target le-sion and selecting the optimal pathway. Repeated CBCT scanning allows for confirmation that the target has been reached (navigation success) or if repositioning is needed.
+
+Although the technique is very promising, an often discussed disadvantage of CBCT is the inherent use of ionizing radiation, limited availability and challenges with small nodules lo-cated in the basal and posterior fields due to respiratory motion. Most procedures ask for multiple CBCT spins both for trajectory planning, tool adjustments and tool-in-lesion confir-mation. This, combined with extensive use of fluoroscopy is associated with radiation expo-sure for both patients and the investigation team. Additionally, CBCT-NB with AF provides information from a global perspective rather than a local perspective. In experienced centers, coarse navigation guidance seems of lesser concern and fine positioning and optimal tissue sampling are the biggest problems to be overcome. The persistently low diagnostic yield of navigation bronchoscopies can for the majority be attributed mispositioning of the tools in "the last centimeter". Therefore there is a need for complementary techniques providing real-time information for fine-tuning the needle position such as needle-based confocal laser en-domicroscopy (nCLE) also called the "smart needle".
+
+Confocal laser endomicroscopy (CLE) is a high-resolution microscopic technique that visual-izes individual cells in real-time at the tip of the biopsy needle, allowing for real-time micro-scopic feedback for fine tuning needle positioning and tool-in-lesion confirmation. Currently, it is unknown which (combination of) techniques are the most optimal (i.e., leading to a high di-agnostic yield and cost-effective). Therefore, research is needed to investigate the potential of new (combinations of) techniques. To date, there are no reports on the combination of CBCT-NB with nCLE.
+
+Objective: This study aims to investigate proof of principle of utilizing nCLE during CBCT-NB navigation bronchoscopy. A confirmatory CBCT spin is considered the gold standard for tool-in-lesion but is associated with additional radiation exposure. The aim is to investigate the concordance between CBCT navigation success (tool-in-lesion on CBCT spin) and nCLE tool-in-lesion confirmation (tool-in-lesion nCLE criteria observed). The investigators also hypothesize that nCLE could reduce or replace the need for additional confirmatory CBCT scans and limit fluoroscopy use.
+
+Study design: Investigator-initiated proof of principle medical device study
+
+Study population: Patients (18 years and older) with (suspected) pulmonary nodules with an indication for cone-beam computed tomography navigation bronchoscopy.
+
+Procedure: Cone beam computed tomography navigation bronchoscopy combined with needle-based confocal laser endomicroscopy.
+
+Main study parameters/endpoints:
+
+* CBCT-NB navigation success as either tool-in-lesion OR unsuccessful
+* nCLE tool-in-lesion confirmation, defined as tool-in-lesion nCLE criteria observed

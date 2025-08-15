@@ -1,0 +1,31 @@
+Rivaroxaban Sotorasib Interaction Study
+Venous thromboembolic Events (VTEs) are common in lung cancer patients with an incidence of \>15%, requiring anticoagulant treatment or prophylaxis. Although direct acting oral anticoagulants (DOACs) are the agents of first choice due to ease and patient friendliness, these drugs are often avoided in cancer patients due to suspected pharmacokinetic drug-drug interactions with oncolytic drugs. Sotorasib is the first KRASG12C inhibitor that has been approved by the US \[FDA\] and EU \[EMA\] for the treatment of adult patients with KRAS G12C-mutated locally advanced or metastatic NSCLC. Sotorasib has a potential to cause CYP3A-mediated drug-drug interactions due to induction of CYP3A and inhibition of P-GP. Rivaroxaban is the most frequently prescribed DOAC in the Netherlands. As rivaroxaban is a substrate for this enzyme and efflux pump, sotorasib may increase or decrease the exposure to rivaroxaban and, thus, impact its benefit-to-risk ratio. To enable safe combination of sotorasib and rivaroxaban, it is pivotal to investigate the magnitude of the pharmacokinetic interaction between these drugs.
+Drug Drug Interaction Study
+DRUG: Rivaroxaban 20mg|DRUG: Sotorasib 960mg
+The pharmacokinetics (AUC) of single dose rivaroxaban in presence and absence of 960 mg sotorasib at pharmacokinetic steady-state., The geometric mean ratios of area under the concentration time curve (AUC) of rivaroxaban in absence and presence of sotorasib, and their corresponding 90% confidence intervals. The pharmacokinetics of rivaroxaban will be assessed with standard compartmental or non-compartmental pharmacokinetic methods., 18 days|The pharmacokinetics (Cmax) of single dose rivaroxaban in presence and absence of 960 mg sotorasib at pharmacokinetic steady-state., Maximum concentration (Cmax) of rivaroxaban in absence and presence of sotorasib, and their corresponding 90% confidence intervals. The pharmacokinetics of rivaroxaban will be assessed with standard compartmental or non-compartmental pharmacokinetic methods., 18 days
+The pharmacokinetics (AUC) of sotorasib in healthy volunteers., Description of the area under the concentration time curve (AUC) of sotorasib at steady-state conditions in healthy volunteers, by means of standard compartmental or non-compartmental pharmacokinetic methods., 18 days|The pharmacokinetics (Cmax) of sotorasib in healthy volunteers., Description of the maximum concentration (Cmax) of sotorasib at steady-state in healthy volunteers, by means of standard compartmental or non-compartmental pharmacokinetic methods., 18 days|Number of participants with treatment-related adverse events as assessed by CTCAE v6.0, Description of the treatment-related events of sotorasib and rivaroxaban, graded with the most recent version (v6) of the Common Toxicity Criteria for Adverse Events (CTCAE), 18 days|Pharmacokinetic variability in AUC of rivaroxaban., Assess the pharmacokinetic variability in area under the concentration time curve (AUC) of rivaroxaban between healthy subjects, 18 days|Pharmacokinetic variability in Cmax of rivaroxaban., Assess the pharmacokinetic variability in maximal concentration (Cmax) of rivaroxaban between healthy subjects, 18 days|Pharmacokinetic variability in AUC of sotorasib., Assess the pharmacokinetic variability in area under the concentration time curve (AUC) of sotorasib between healthy subjects., 18 days|Pharmacokinetic variability in Cmax of sotorasib., Assess the pharmacokinetic variability in maximal concentration (Cmax) of sotorasib between healthy subjects., 18 days
+Objective:
+
+To assess the pharmacokinetics of single dose rivaroxaban in presence and absence of 960 mg sotorasib at pharmacokinetic steady-state
+
+Main study parameters/endpoints:
+
+The geometric mean ratios of area under the concentration time curve (AUC) and maximum concentration (Cmax) of rivaroxaban in absence and presence of sotorasib, and their corresponding 90% confidence intervals.
+
+Study design:
+
+An open label single-sequence pharmacokinetic drug-drug interaction study in healthy volunteers.
+
+Study population:
+
+Healthy human volunteers aged between 18 and 65. Volunteers can't participate in this study if they have an increased risk for bleeding or blood clotting. Furthermore, volunteers receiving concomitant drugs with a pharmacokinetic or pharmacodynamic interaction with the investigational medicinal products will also be excluded.
+
+Intervention:
+
+The pharmacokinetics of a single dose rivaroxaban are assessed in presence and absence of sotorasib. The study participants will receive rivaroxaban (20 mg single dose ingested with food) on day 1, followed by a wash-out period on day 1 and 2, followed by daily administration of sotorasib 960 mg once daily on day 3-16 and rivaroxaban (20 mg single dose ingested with food) on day 16.
+
+The pharmacokinetics of rivaroxaban will be assessed at T=0, 0.5, 1, 1.5, 2, 3, 4, 6, 8, 12, 24 and 48 hours after administration on the days that rivaroxaban is administered.
+
+The pharmacokinetics of sotorasib will be assessed at T=0, 0.5, 1, 1.5, 2, 3, 4, 6, 8, 12 and 24h after administration on day 16.
+
+Ethical consideration to the clinical trial including the expected benefit to the individual subject or group of patients represented by the study participants as well as the nature and extent of burden and risks: A drug-drug interaction study in patients on sotorasib is not considered feasible and methodologically sound, due to high co-morbidity and polypharmacy in patients with an indication for treatment with sotorasib. Single dose pharmacokinetic rivaroxaban studies in healthy volunteers are common and the gold standard to assess the impact of drug-drug interactions with DOACs. Single and multiple dose studies of sotorasib in healthy volunteers are considered and proven safe, likely due to high selectivity of the drug for KRAS G12C mutation that is only present in tumor cells of individuals with KRAS G12C mutated cancer. There is no individual benefit for participation in the study.

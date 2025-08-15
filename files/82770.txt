@@ -1,0 +1,29 @@
+PSMAtrack-tracking Changes in PSMA-PET During Initial Therapy for Metastatic Hormone-sensitive Prostate Cancer
+The goal of this clinical trial is to learn if serial PSMA-PET/CT scans can be used to monitor response to therapy in metastatic hormone sensitive prostate cancer and can be potentially used to optimize future treatment approaches.
+
+The main questions it aims to answer are:
+
+What is the proportion of men with residual PSMA-avid disease on PET/CT scans after 6 months of treatment for metastatic hormone sensitive prostate cancer? Do the findings on PSMA-PET/CT scans after 6 months of treatment for metastatic hormone sensitive prostate cancer correlate with other markers of disease status, like PSA?
+
+Participants will:
+
+Receive standard of care treatment for metastatic hormone sensitive prostate cancer Undergo a PSMA-PET/CT scan before starting treatment Undergo a PSMA-PET/CT scan after 6 months of treatment Have a chart review every 3 months for 1 year after the 6 month PSMA-PET/CT scan
+Metastatic Prostate Cancer|Hormone Sensitive Prostate Cancer|Metastatic Hormone-sensitive Prostate Cancer (mHSPC)
+DRUG: 18F-rhPSMA-7.3|DEVICE: PET/CT
+Proportion of patients with residual PSMA-avid disease on 18F-rhPSMA7.3 PSMA PET after 6 months of treatment for metastatic hormone sensitive prostate cancer, metric use is percent of men with residual PSMA avid disease compared to all men undergoing the scan., At the time of the 18F-rhPSMA-7.3 PSMA-PET/CT scan done 6 months after starting therapy for metastatic hormone sensitive prostate cancer
+The current approach to imaging metastatic hormone sensitive prostate cancer (mHSPC) is via conventional scans (CT/MRI/bone scan), but prostate specific membrane antigen (PSMA)-positron emission tomography (PET) is being increasingly used for imaging prostate cancer. Given its greater diagnostic accuracy compared to conventional imaging, there is a strong rationale to evaluate PSMA-PET in imaging mHSPC. Moreover, serial imaging with PSMA-PET may offer a better opportunity to evaluate disease response with systemic therapy and potentially use the results to guide therapy, given that PSMA-targeted radioligand therapy (177Lu-PSMA-617) is now approved for metastatic castrate-resistant prostate cancer (mCRPC). Furthermore, the 6-month timepoint after initiation of systemic therapy is an ideal time to perform interim PSMA-PET given that 6-month prostate specific antigen (PSA) has strong prognostic value in mHSPC in the era of intensified systemic therapy.
+
+This is a prospective trial of 18F-rhPSMA-7.3 PSMA-PET/CT at baseline and after 6 months of therapy for mHSPC, with the aim of evaluating changes in disease extent during this timeframe and correlating this with the PSA response. Results from this pilot study could be used to plan trials assessing (de)intensification of therapy at 6 months based on PSMA-PET.
+
+The primary study objective is to determine the proportion of patients with residual PSMA-avid disease on 18F-rhPSMA-7.3 PSMA-PET after 6 months of therapy for mHSPC.
+
+Exploratory objectives are:
+
+* To correlate presence/absence of residual PSMA-avid disease after 6 months with PSA ≤0.2 ng/mL at 6 months of therapy.
+* To evaluate changes in SUVmax, SUVmean, total tumor volume and other PET imaging parameters between baseline and 6 months.
+* To evaluate PET imaging parameters at baseline that predict for achievement of PSA ≤0.2 ng/mL at 6 months.
+* To explore use of artificial intelligence (AI) and machine learning (ML) tools in delineating tumor burden and volume on 18F-rhPSMA-7.3 PSMA-PET.
+
+Patients will undergo baseline 18F-rhPSMA-7.3 PSMA-PET/CT and 18F-rhPSMA-7.3 PSMA-PET/CT 6 months after starting treatment for mHSPC with androgen deprivation therapy and androgen receptor pathway inhibitor with or without docetaxel.
+
+Patients will be followed via chart review for 1 year after the 6 month PSMA-PET/CT scan or death, whichever occurs first.

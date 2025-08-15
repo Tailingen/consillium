@@ -1,0 +1,49 @@
+Molecular Testing and Imaging in Improving Response in Patients With Stage I-III Triple-Negative Breast Cancer Receiving Chemotherapy MDACC Breast Moonshot Initiative
+This clinical trial assesses whether a newly designed algorithm which looks at the genomic signature of each patient's tumor to predict their sensitivity to standard of care treatment verses being placed on a personally designed treatment trial can improve the responses in patients with newly diagnosed triple-negative breast cancer (TNBC). Testing the primary tumor biopsy for certain proteins and monitoring the lymphocyte infiltration into the tumors may help doctors determine the sub-type of TNBC, and direct treatments that may work well. It is not yet known whether assigning treatment based on the patient's tumor classification will improve how well the tumor responds.
+Invasive Breast Carcinoma|Stage I Breast Cancer AJCC v7|Stage IA Breast Cancer AJCC v7|Stage IB Breast Cancer AJCC v7|Stage II Breast Cancer AJCC v6 and v7|Stage IIA Breast Cancer AJCC v6 and v7|Stage IIB Breast Cancer AJCC v6 and v7|Stage III Breast Cancer AJCC v7|Stage IIIA Breast Cancer AJCC v7|Stage IIIB Breast Cancer AJCC v7|Stage IIIC Breast Cancer AJCC v7|Triple-Negative Breast Carcinoma
+DRUG: Chemotherapy|OTHER: Immunotherapy|OTHER: Laboratory Biomarker Analysis|PROCEDURE: Lymph Node Biopsy|PROCEDURE: Ultrasonography
+Response rate, A one-sided z-test will be used to compare the response rates of the treatment and control arms. The study will have 80% power to detect an increase in the response rate of 14.2 percentage points assuming a control arm response rate of 50% at the 0.05 significance level allowing for two interim tests for both futility and superiority., Up to 5 years
+Survival, Will estimate the cumulative incidence function using Aalen-Johansen method with appropriate 96% confidence intervals., Up to 5 years|Frequency of tumors, Will estimate the relative frequency to triple negative breast cancer (TNBC) subsets (BRCA+, mesenchymal, androgen receptor \[AR\]+ and basal-like) classified withing each predication cohort and report both point estimates and simultaneous multinomial 95% confidence intervals based on the method of Goodman., Up to 5 years
+PRIMARY OBJECTIVE:
+
+I. To conduct a prospective single arm, non-randomized trial to determine the impact of implementation of a research platform that includes diagnostic imaging to assess response to the initial phase of neoadjuvant chemotherapy combined with subtyping of TNBC in order to select the appropriate targeted therapy trial to complete neoadjuvant chemotherapy in patients found to have chemo-insensitive disease by imaging.
+
+SECONDARY OBJECTIVES:
+
+I. Measured as defined by Standardized Definitions for Efficacy End Points (STEEP) criteria using the following prioritization: distant recurrence free interval (DRFI), recurrence free survival (RFS), distant relapse-free survival (DRFS), overall survival (OS), invasive disease free survival (IDFS), disease free survival including ductal carcinoma in situ (DFS-DCIS).
+
+II. Evaluate the rates of enrollment into clinical trials for patients identified as having chemotherapy insensitive disease.
+
+III. Evaluate the frequency of pathologic response rates (pCR, RCB I-III residual disease) in patients identified as chemotherapy sensitive versus insensitive.
+
+IV. Determine the estimates of DRFI, RFS, DRFS, IDFS and DFS-DCIS at 3 years, and OS at 5 and 10 years in all patients.
+
+X. Determine the pathologic response based on molecular characterization. XI. Determine the estimates of DRFI, RFS, DRFS, IDFS and DFS-DCIS at 3 years, and OS at 5 and 10 years.
+
+XII. Subset analyses of pathologic response and 3-year DRFI, RFS, DRFS, IDFS, and DFS-DCIS.
+
+XIII. Compare the results of pathologic node-negative status (sentinel and/or non-sentinel nodes) after neoadjuvant chemotherapy according to a genomic predictor of nodal response to NACT, in subsets defined by pre-treatment clinical nodal status.
+
+EXPLORATORY OBJECTIVES:
+
+I. Future re-analysis of residual samples using a customized genomic diagnostic platform (integrated "prospective-retrospective" biomarker analysis) to predict chemotherapy sensitivity.
+
+II. Generation and subsequent molecular characterization of patient derived xenograph (PDX) models.
+
+III. Clinical diagnostic development studies using residual samples (fresh and/or formalin-fixed) within the Clinical Laboratory Improvement Amendments (CLIA)-compliant Molecular Diagnostics Laboratory, and patient derived xenographs (PDX) to formally evaluate the clinical validity and utility of future clinical genomic diagnostic tests that would predict both response, recurrence, and survival from the treatments used in this clinical trial (correlative "retrospective-prospective" biomarker analyses).
+
+IV. Correlative science studies to identify molecular therapeutic targets for treatment-insensitive TNBC using residual samples and PDX models.
+
+V. Correlation of tumor features or changes as measured by diagnostic imaging to determine potential predictors of treatment response.
+
+VI. Determine polymerase chain reaction (pCR) rates in a cohort of patients who undergo surgical resection after achieving complete radiological response after 4 cycles of adjuvant chemotherapy (AC).
+
+OUTLINE: Patients are assigned to 1 of 3 arms.
+
+ARM A: Patients undergo baseline molecular and immunohistochemistry (IHC) evaluation of their tumor biopsy, and receive the results. Patients then receive standard anthracycline-based chemotherapy and undergo standard ultrasound at baseline, after 2 cycles, after 4 cycles of treatment, and after completion of treatment (before surgery). Patients and physicians are notified of the results of the molecular evaluation. Patients may then choose to continue with standard taxane +/- platinum-based chemotherapy or participate in an experimental clinical trial designed to match the molecular profile and triple-negative subtype. Patients with tumors predicted to be insensitive to chemotherapy are advised to participate in a clinical trial treating their tumor subtype.
+
+ARM B: Patients undergo baseline molecular and IHC evaluation of their tumor biopsy, and receive the results. Patients then receive standard anthracycline-based chemotherapy and undergo standard ultrasound at baseline, after 2 cycles, and after 4 cycles of treatment. Patients and physicians are notified of the results of the molecular evaluation. Patients may then choose to continue with standard taxane +/- platinum-based chemotherapy or participate in an experimental clinical trial designed to match the molecular profile and triple-negative subtype. Patients with tumors predicted to be insensitive to chemotherapy are advised to participate in a clinical trial treating their tumor subtype.
+
+ARM C: Patients undergo baseline molecular and IHC evaluation of their tumor biopsy, and receive the results. Patients then receive standard anthracycline-based chemotherapy with immunotherapy and undergo standard ultrasound at baseline, after 2 cycles, and after 4 cycles of treatment. Patients and physicians are notified of the results of the molecular evaluation. Patients may then choose to continue with standard taxane +/- platinum-based chemotherapy or participate in an experimental clinical trial designed to match the molecular profile and triple-negative subtype. Patients with tumors predicted to be insensitive to chemotherapy are advised to participate in a clinical trial treating their tumor subtype.
+
+After completion of study treatment, patients are followed up for up to 5 years.

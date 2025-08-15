@@ -1,0 +1,20 @@
+Measurement of Head and Neck Tumor Hypoxia With PET-MRI
+This study is designed to evaluate the performance of advanced magnetic resonance (MR) imaging in the assessment of tumor hypoxia using \[18F\]EF5 positron emission tomography (PET) as a reference in head and neck cancer patients. Low oxygen level or hypoxia contributes to radiotherapy resistance. Therefore, a clinically applicable method to detect tumor hypoxia is of great importance.
+Head and Neck Cancer
+DIAGNOSTIC_TEST: PET-MRI
+PET-MRI correlation, Voxel level correlation of DW-MRI and PET estimates, 1 day
+This is a non-randomized prospective study which aims to compare \[18F\]EF5 PET data and MR imaging data acquired with simultaneous PET/MR imaging. Hypoxic tumor tends to be more aggressive than its non-hypoxic counterpart since hypoxia promotes invasive tumor growth and metastatic spread of the disease. The detrimental effect of hypoxia on outcome of radiotherapy (RT) is especially important in head and neck cancer.
+
+EF5 is a comprehensively studied hypoxia-avid compound, which is utilized in radiolabeled form in \[18F\]EF5 PET imaging detecting tumor hypoxia. IVIM (intra-voxel incoherent motion) is novel technique based on diffusion-weighted MRI (DWI), which allows for the distinction between tissue perfusion and diffusion without the need for intravenous contrast agent. This study aims to investigate the potential of novel MRI techniques for tumor hypoxia assessment in HNC.
+
+The specific aims of the current study are:
+
+1. To characterize the voxel-level relationship between diffusion characteristics in tumor tissue, as measured with DW-MRI, and tumor hypoxia, as measured with \[18F\]EF5-PET, leveraging the state-of-the-art simultaneous MRI/PET measurement;
+2. To employ IVIM-based modeling of DW-MRI signal using multiple b-values to optimize the diffusion metrics that most closely predict tumor hypoxia, and compare those with the perfusion metrics from DCE;
+3. To develop models based on novel radiophenotypic analyses of MRI data (radiomics) and machine learning algorithms to find MRI patterns that best predict tumor hypoxia at the patient sample level.
+
+The only intervention for participating subjects is an additional \[18F\]EF5-PET/MR scan, which is not used for any clinical purposes. All study subjects will undergo standard diagnostic and treatment procedures according to clinical routine.
+
+A standard dose of about 300 MBq of the radiotracer \[18F\]EF5 will be administered intravenously via an upper extremity vein. About 180 min after tracer injection, radioactivity will be followed in the neck area with the PET/MRI device for about 20 min. \[18F\]EF5 uptake will be modeled as standard uptake value (SUV), and tumor-to-background ratios (TBR) will be calculated.
+
+The MRI protocol will include anatomical sequences covering the primary tumor as well as the neck for lymph node metastases. Several DW-MRI methods will also be employed. In total, MRI experiments will be completed in about 1 hour.

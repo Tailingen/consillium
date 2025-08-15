@@ -1,0 +1,33 @@
+Adherence and Compliance to ERAS in Gynecological Surgery
+The aim of the study is to investigate the association between early non-compliance to ERAS in postoperative day 2 (POD2) with the rate of postoperative complications.
+ERAS|Gynecologic Cancer|Post Operative Pain|Ovarian Cancer|Endometrial Cancer|Cervix Cancer|Uterine Cancer|Gynecologic Neoplasm
+OTHER: Assessment of compliance to ERAS.
+Early non-compliance to ERAS, Association between the early non-compliance to ERAS with the rate of postoperative complications., Postoperative day 2 (POD2)
+Early non-compliance to ERAS in tubo-ovarian cancer, Subgroup analysis association between the early non-compliance to ERAS with the rate of postoperative complications in women undergoing surgery for tubo-ovarian cancer, Postoperative day 2 (POD2)
+The aim of this prospective multicenter observational study is to investigate the association between the early non-compliance to ERAS in postoperative day 2 (POD2) with the rate of postoperative complications, in women undergoing open surgery for gynecological cancer.
+
+Every POD is defined from 8.00 AM of the same day until 8.00 AM of the day after. Namely, POD0 is the day of surgery, while POD1 is the first day after surgery and so on.
+
+According to the ERAS protocol the same day of surgery (POD0) the patients should be mobilized out of bed and allowed to take liquids by mouth at will. Removal of urinary catheter and starting of oral feeding is planned on POD1. Intravenous fluid infusion is stopped as early as possible according to oral feeding recovery at POD1.
+
+POD2 is considered more adequated to measure the early ERAS compliance compared to POD1. In fact, according to previous published data in colonic surgery, a small delay in recovery within an ERAS pathway in POD1, can be the reflection of inadvertent intraoperative fluid overload, inadequate control pain and missing nausea and vomiting prophylasis. Moreover, late end time of surgery can further impair the full application of ERAS during POD1.
+
+The compliance of the participants will be assessed in POD2 using the following 5 indicators derived from ERAS items.
+
+1. Poorly controlled pain with NRS\>3, measured using a dedicated Patient Reported Outcomes form administered at 8 PM of POD2, covering the last 12 hours. The need of rescue dose of antalgic therapy does not affect the status of poorly controlled pain.
+2. Failure to remove urinary catheter, namely the manteinance of the catether after 8.00 AM of POD2.
+3. Administration of intravenous infusion as hydration therapy after 8.00 AM of POD2.
+4. Failure to have an adequate oral intake (namely refusal of having one or more of the proposed meals, producing hence a calories deficit).
+5. Poor mobilization, defined as less than 4 hours outside the bed during whole POD2.
+
+Any postoperative complications will be recorded up to 30 days and classified according to Clavien Dindo classification. Complications graded as III or greater were considered as major.
+
+STATISTICAL PLAN
+
+According to the literature, the complication rate for gynecological surgery in the oncological field under the ERAS protocol is around 25%. A sample of 600 patients produces a 95% confidence interval ranging from 21.5% to 28.5%, with an estimate precision (semi-width of the confidence interval) equal to 3.5%.
+
+Based on the five ERAS indicators of compliance as predictors (independent variables), the sample size is calculated using the generic rule of 10 events for each independent variable (15 variables), corresponding to 150 events. Considering the aforementioned complication rate (25%), the sample must be at least 600 patients. Reasoning on a single ERAS item represented in about 40% of the patients, a number of 600 guarantees to highlight an OR equal to 2.5 in a logistic model that considers other independent binary variables with a correlation of 0.7 between them.
+
+The collected data will first be synthesized using the tools of descriptive statistics, with categorical variables synthesized through absolute and relative frequencies, and quantitative variables through mean ± standard deviation, or median and interquartile range. The complication rate will be summarized in terms of proportion (percentage) with relative 95% confidence interval calculated using the Clopper-Pearson estimator. The chi-square test, with Fisher's exact variant in the case of expected frequencies less than 5, will be used to evaluate the association between categorical variables and i) adherence to ERAS (in terms of the number of indicators considered) and ii) the primary outcome (complications). For normally distributed quantitative variables the ANOVA test will be used; in the absence of the normality assumption underlying the test, the Kruskal-Wallis non-parametric test will be employed. Appropriate post-hoc comparisons, taking into account test multiplicity (multiples), will be conducted to identify ERAS item "pairs" that show statistical significance with the primary outcome.
+
+The logistic regression model will be used to quantify the association and magnitude between the five ERAS indicators considered individually and the primary outcome represented by the presence of postoperative complications. An ordinal variable will also be constructed, with values from 1 to 5, which summarizes adherence to the five ERAS indicators. The magnitude of the association between the five ERAS indicators will first be quantified in terms of Odds Ratio (OR) and related confidence interval in a univariate setting, and then in a multivariate model that will consider the above adjustment variables. In the construction of the multivariate model, methods for choosing the predictors will be taken into consideration, such as the backward (and/or stepwise) technique. The results of the regression model will also be graphically represented through the "confidence-interval plot", a graphical representation that summarizes the punctual estimate of the OR and its 95% confidence interval. All analyzes will be performed considering a type I error α equal to 5%.

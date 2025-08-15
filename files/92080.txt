@@ -1,0 +1,26 @@
+Pomalidomide and Dexamethasone in Treating Patients With Relapsed or Refractory Primary Central Nervous System Lymphoma or Newly Diagnosed or Relapsed or Refractory Intraocular Lymphoma
+This phase I trial studies the side effects and best dose of pomalidomide when given together with dexamethasone in treating patients with primary central nervous system lymphoma that has come back (relapsed) or does not respond to treatment (refractory) or intraocular lymphoma that is newly diagnosed, relapsed or refractory. Pomalidomide may stimulate the immune system to kill cancer cells. Drugs used in chemotherapy, such as dexamethasone, work in different ways to stop the growth of cancer cells, either by killing the cells, stopping them from dividing, or by stopping them from spreading. Giving pomalidomide together with dexamethasone may kill more cancer cells.
+B-Cell Lymphoma, Unclassifiable, With Features Intermediate Between Diffuse Large B-Cell Lymphoma and Burkitt Lymphoma|Central Nervous System Lymphoma|Intraocular Lymphoma|Primary Diffuse Large B-Cell Lymphoma of the Central Nervous System|Recurrent Adult Diffuse Large Cell Lymphoma|Retinal Lymphoma
+DRUG: Dexamethasone|OTHER: Laboratory Biomarker Analysis|OTHER: Pharmacological Study|DRUG: Pomalidomide
+MTD of pomalidomide when given in combination with dexamethasone determined by dose-limiting toxicities graded according to National Cancer Institute Common Terminology Criteria for Adverse Events (NCI CTCAE) version 4.0, The number and severity of all adverse events will be tabulated and summarized in this patient population both overall and by dose level. The grade 3+ adverse events will also be described and summarized in a similar fashion. Overall toxicity incidence as well as toxicity profiles by dose level and patient will be explored and summarized. Frequency distributions, graphical techniques and other descriptive measures will form the basis of these analyses., 28 days
+Incidence of adverse events, graded according to CTCAE 4.0, The maximum grade for each type of adverse event will be recorded for each patient, and frequency tables will be reviewed to determine patterns., Up to 30 days post-treatment|Overall response rate defined as number of patients with an objective status of complete response (CR), complete response/unconfirmed (Cru), or partial response (PR) divided by total number of evaluable patients, Exact binomial 95% confidence intervals for the true overall response rate will be calculated., Up to 2 years|Overall survival time, The distribution of overall survival will be estimated using the method of Kaplan-Meier., Time from registration to death due to any cause, assessed up to 2 years|Progression-free survival, The distribution of progression-free survival will be estimated using the method of Kaplan-Meier., Time from registration to progression or death due to PCNSL or PVRL lymphoma, assessed up to 2 years
+Pharmacokinetics of pomalidomide in the CNS, Based on pomalidomide levels in blood and CSF at different time points, area under curve will be determined., Up to day 22 of course 1|Predictive biomarkers for response to pomalidomide, Correlation studies will be performed to identify predictive immune markers for response to pomalidomide. Immune cell counts and cytokine profile will be evaluated in blood and CSF at day 1 and day 21 of course 1. Values at each time point and changes after pomalidomide treatment will be both graphically and quantitatively summarized and explored. Wilcoxon rank sum test and Fisher's exact test will be utilized where appropriate to assess the relationships of these markers with response., Up to day 21 of course 1
+PRIMARY OBJECTIVES:
+
+I. To establish the maximum tolerated dose (MTD) of pomalidomide in combination with dexamethasone in patients with relapsed/refractory primary central nervous system lymphoma (PCNSL) or primary vitreoretinal lymphoma (PVRL).
+
+SECONDARY OBJECTIVES:
+
+I. To evaluate the efficacy (overall response rate) and safety of pomalidomide in combination with dexamethasone in patients with PCNSL and PVRL lymphoma in an MTD expanded cohort.
+
+II. To evaluate overall survival and progression free survival.
+
+TERTIARY OBJECTIVES:
+
+I. To study the pharmacokinetics of pomalidomide in the central nervous system. II. To identify the predictive biomarkers for responsiveness to pomalidomide.
+
+OUTLINE: This is a dose-escalation study of pomalidomide.
+
+Patients receive pomalidomide orally (PO) on days 1-21 and dexamethasone PO on days 1, 8, 15, and 22 of courses 1 and 2. Courses repeat every 28 days in the absence of disease progression or unacceptable toxicity.
+
+After completion of study treatment, patients are followed up every 6 months for 2 years.

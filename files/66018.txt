@@ -1,0 +1,115 @@
+MYELOMATCH: A Screening Study to Assign People With Myeloid Cancer to a Treatment Study or Standard of Care Treatment Within myeloMATCH (MyeloMATCH Screening Trial)
+This MyeloMATCH Master Screening and Reassessment Protocol (MSRP) evaluates the use of a screening tool and specific laboratory tests to help improve participants' ability to register to clinical trials throughout the course of their myeloid cancer (acute myeloid leukemia or myelodysplastic syndrome) treatment. This study involves testing patients' bone marrow and blood for certain biomarkers. A biomarker (sometimes called a marker) is any molecule in the body that can be measured. Doctors look at markers to learn what is happening in the body. Knowing about certain markers can give doctors more information about what is driving the cancer and how to treat it. Testing patients' bone marrow and blood will show doctors if patients have markers that specific drugs can target. The marker testing in this study will let doctors know if they can match patients with a treatment study (myeloMATCH clinical trial) that tests treatment for the type of cancer they have or continue standard of care treatment with their doctor on the Tier Advancement Pathway (TAP).
+Acute Myeloid Leukemia|Myelodysplastic Syndrome
+PROCEDURE: Allogeneic Hematopoietic Stem Cell Transplantation|DRUG: Azacitidine|OTHER: Best Practice|PROCEDURE: Biopsy Procedure|PROCEDURE: Biospecimen Collection|PROCEDURE: Bone Marrow Aspiration|PROCEDURE: Bone Marrow Biopsy|DRUG: Busulfan|PROCEDURE: Chest Radiography|PROCEDURE: Computed Tomography|DRUG: Cytarabine|DRUG: Daunorubicin Hydrochloride|DRUG: Decitabine and Cedazuridine|PROCEDURE: Echocardiography Test|DRUG: Enasidenib|DRUG: Fludarabine|DRUG: Gemtuzumab Ozogamicin|DRUG: Gilteritinib|DRUG: Liposome-encapsulated Daunorubicin-Cytarabine|DRUG: Melphalan|PROCEDURE: Multigated Acquisition Scan|PROCEDURE: Mutation Carrier Screening|DRUG: Placebo Administration|PROCEDURE: Positron Emission Tomography|RADIATION: Total-Body Irradiation|DRUG: Venetoclax
+Timing of treatment Substudy or Tier Advancement Pathway (TAP) assignment, Will evaluate the feasibility of MATCHBox generating all data needed for assignment to a myeloMATCH clinical trial or determination that no assignment is available, within 72 hours of MDNet receipt of specimens for initial therapy and within 10 days for subsequent therapy. For first treatment assignment and separately for each subsequent treatment assignments: every 50 participants for the first 250 participants and then every 100 participants thereafter, the proportion of participants (cumulative and new participants since prior analysis) with all MDNet data needed to determine a treatment assignment within 72 hours for first assignment and 10 days for subsequent assignments after the MDNet receives specimens will be tallied., Within 72 hours of MDNet receipt of specimens for initial therapy or within 10 days for subsequent therapy
+Time to MDNet generating all data required for treatment substudy or TAP assignment, Will be assessed within each tier of clinical trials, within each clinical basket of clinical trials, and over time (since last report and in 6 month intervals from study opening)., Within 72 hours of MDNet receipt of specimens for initial therapy or within 10 days for subsequent therapy|Time to treatment substudy or TAP assignment, Will be assessed within each tier of clinical trials, within each clinical basket of clinical trials, and over time (since last report and in 6 month intervals from study opening)., Within 72 hours of MDNet receipt of specimens for initial therapy or within 10 days for subsequent therapy|Percent assigned to a myeloMATCH clinical trial, Will be assessed within each tier of clinical trials, within each clinical basket of clinical trials, and over time (since last report and in 6 month intervals from study opening)., Within 72 hours of MDNet receipt of specimens for initial therapy or within 10 days for subsequent therapy|Percent of screened participants who register to a treatment substudy, Will be assessed within each tier of clinical trials, within each clinical basket of clinical trials, and over time (since last report and in 6 month intervals from study opening)., Within 72 hours of MDNet receipt of specimens for initial therapy or within 10 days for subsequent therapy|Assignment to higher tier treatment substudies within myeloMATCH, Will be assessed within each tier of clinical trials, within each clinical basket of clinical trials, and over time (since last report and in 6 month intervals from study opening)., Within 72 hours of MDNet receipt of specimens for initial therapy or within 10 days for subsequent therapy|Adverse events, Will be assessed within each tier of clinical trials, within each clinical basket of clinical trials, and over time (since last report and in 6 month intervals from study opening)., Within 72 hours of MDNet receipt of specimens for initial therapy or within 10 days for subsequent therapy|Minimal residual disease (MRD) response, MRD response is based on flow cytometry studies performed by the MDnet., Within 72 hours of MDNet receipt of specimens for initial therapy or within 10 days for subsequent therapy|Time-to-event outcomes for exploratory analysis, Will be assessed within each tier of clinical trials, within each clinical basket of clinical trials, and over time (since last report and in 6 month intervals from study opening)., Within 72 hours of MDNet receipt of specimens for initial therapy or within 10 days for subsequent therapy|Performance status, Participants will be graded according to the Zubrod performance status scale., Within 72 hours of MDNet receipt of specimens for initial therapy or within 10 days for subsequent therapy
+PRIMARY OBJECTIVES:
+
+I. Screening and Reassessment (MSRP): To evaluate the feasibility of MATCHBox receiving and organizing all data needed for assignment to a myeloMATCH clinical trial or Tier Advancement Pathway (TAP) within 72 hours of MDNet receipt of all required specimens for initial therapy and within 10 days for subsequent therapy.
+
+II. Tier Advancement Pathway (TAP): To enable participants who are not matched to an investigational myeloMATCH treatment substudy to receive standard of care (SOC) while remaining on the MSRP to maintain access to later tiers of treatment substudies.
+
+SECONDARY OBJECTIVES:
+
+I. Screening and Reassessment (MSRP):
+
+Ia. To describe the time to generation of all data required for treatment substudy (or TAP) assignment, time to treatment substudy (or TAP) assignment, percent assigned to a myeloMATCH treatment substudy, and the percent of screened participants who register to a myeloMATCH investigational treatment substudy or are assigned to TAP:
+
+Iai. Separately within each tier of myeloMATCH treatment substudy and analogous TAP assignment; Ibi. Separately within each clinical basket of myeloMATCH treatment substudies; Ici. Over time, across and within the categories above.
+
+II. Tier Advancement Pathway (TAP):
+
+IIa. To evaluate participants for assignment to higher tier treatment substudies within myeloMATCH; IIb. To describe, within tier- and basket- levels of TAP, measurable residual disease (MRD) rates and clonal evolution; IIc. To describe, within tier- and basket- levels of TAP, remission status and overall survival of participants who receive standard of care therapy; IId. To obtain MDNet specimens for translational medicine and biobanking.
+
+OUTLINE:
+
+REGISTRATION: Patients undergo bone marrow aspiration and collection of blood on study. Patients' bone marrow and blood specimens undergo rapid genetic testing. Patients are then assigned to a specific substudy containing a therapy targeted to the patient's mutational profile. If there is no targetable mutation, the patient is placed on a substudy testing novel combinations that do not contain a target-specific drug. Patients who are not eligible for any MYELOMATCH substudy are assigned to TAP.
+
+TAP: Patients continue SOC treatment and undergo continued bone marrow aspiration and blood collection for possible future substudy assignment.
+
+TREATMENT: Patients are assigned to a specific treatment substudy.
+
+MM1YA-CTG01: Younger patients (age 18-59 years) with intermediate risk acute myeloid leukemia (AML) are randomized to 1 of 3 arms.
+
+ARM I: Patients receive daunorubicin intravenously (IV), cytarabine IV, and venetoclax orally (PO) on study and undergo bone marrow aspiration and collection of blood samples on study and as clinically indicated.
+
+ARM II: Patients receive azacitidine IV or subcutaneously (SC) and venetoclax PO on study and undergo bone marrow aspiration and collection of blood samples on study and as clinically indicated.
+
+ARM III: Patients receive daunorubicin IV and cytarabine IV on study and undergo bone marrow aspiration and collection of blood samples on study and as clinically indicated.
+
+MM1YA-S01: Younger patients (age 18-59 years) with high-risk AML are randomized to 1 of 5 arms.
+
+ARM I: Patients receive cytarabine IV continuously on days 1-7 and daunorubicin IV on days 1-3 per standard approach of each cycle. Cycles repeat every 28 days for 1 cycle in the absence of disease progression or unacceptable toxicity. Patients may receive an additional cycle of cytarabine IV continuously on days 1-5 and daunorubicin IV on days 1-2. Patients undergo echocardiography (ECHO) or multigated acquisition (MUGA) scan during screening. Patients also undergo a bone marrow aspiration and collection of blood throughout the trial.
+
+ARM II: Patients receive cytarabine IV continuously on days 2-8 and daunorubicin IV on days 2-4 with venetoclax PO on days 1-11 of each cycle. Cycles repeat every 28 days for 1 cycle in the absence of disease progression or unacceptable toxicity. Patients may receive an additional cycle of cytarabine IV continuously on days 2-6 and daunorubicin IV on days 2-3 with venetoclax PO on days 1-8. Patients undergo ECHO or MUGA scan during screening. Patients also undergo a bone marrow aspiration and collection of blood throughout the trial.
+
+ARM III: Patients receive azacitidine SC or IV on days 1-7 and venetoclax PO on days 1-28 of each cycle. Cycles repeat every 28 days for 2 cycles in the absence of disease progression or unacceptable toxicity. Patients undergo ECHO or MUGA scan during screening. Patients also undergo a bone marrow aspiration and collection of blood throughout the trial.
+
+ARM IV: Patients receive daunorubicin and cytarabine liposome IV over 90 minutes on days 1, 3, and 5 of each cycle. Cycles repeat every 28 days for 1 cycle in the absence of disease progression or unacceptable toxicity. Patients may receive an additional cycle of daunorubicin and cytarabine liposome IV over 90 minutes on days 1 and 3. Patients undergo ECHO or MUGA scan during screening. Patients also undergo a bone marrow aspiration and collection of blood throughout the trial.
+
+MM2YA-EA01: Younger patients (age 18-59 years) with AML or secondary AML who have completed a tier 1 MyeloMATCH treatment study with complete remission (CR) or CR with partial hematologic recovery (CRh) and have detectable minimal residual disease (MRD) (\> 0.1%) are randomized to 1 of 4 arms.
+
+ARM A: Patients receive cytarabine IV on study. Patients undergo bone marrow aspiration and biopsy on study. Patients may also undergo ECHO and/or MUGA as clinically indicated.
+
+ARM B: Patients receive cytarabine IV and venetoclax PO on study. Patients undergo bone marrow aspiration and biopsy on study. Patients may also undergo ECHO and/or MUGA as clinically indicated.
+
+ARM C: Patients receive Vyxeos IV and venetoclax PO on study. Patients undergo bone marrow aspiration and biopsy on study. Patients may also undergo ECHO and/or MUGA as clinically indicated.
+
+ARM D: Patients receive azacitidine IV or SC and venetoclax PO on study. Patients undergo bone marrow aspiration and biopsy on study. Patients may also undergo ECHO and/or MUGA as clinically indicated.
+
+MM1OA-EA02: Patients are randomized to 1 of 3 regimens.
+
+REGIMEN 1:
+
+INDUCTION: Patients receive azacitidine IV or SC on days 1-7 and venetoclax PO on days 1-28 of each cycle. Treatment repeats every 28 days for up to 2 cycles or until patient achieves remission, whichever comes first, in the absence of disease progression or unacceptable toxicity.
+
+CONSOLIDATION: Patients receive azacitidine IV or SC on days 1-7 and venetoclax PO on days 1-28 of each cycle. Cycles repeat every 28 days for 2 years in the absence of disease progression or unacceptable toxicity.
+
+REGIMEN 2:
+
+INDUCTION: Patients receive azacitidine IV or SC on days 1-7 and venetoclax and gilteritinib PO on days 1-28 of each cycle. Treatment repeats every 28 days for up to 2 cycles or until patient achieves remission, whichever comes first, in the absence of disease progression or unacceptable toxicity.
+
+CONSOLIDATION: Patients receive azacitidine IV or SC on days 1-5, venetoclax PO on days 1-7 and gilteritinib PO on days 1-28 of each cycle. Cycles repeat every 28 days for 2 years in the absence of disease progression or unacceptable toxicity.
+
+REGIMEN 3:
+
+INDUCTION: Patients receive azacitidine IV or SC on days 1-7 and venetoclax PO on days 1-28, and gilteritinib PO on days 8-21 of each cycle. Treatment repeats every 28 days for up to 2 cycles or until patient achieves remission, whichever comes first, in the absence of disease progression or unacceptable toxicity.
+
+CONSOLIDATION: Patients receive azacitidine IV or SC on days 1-5, venetoclax PO on days 1-14 and gilteritinib PO on days 8-21 of each cycle. Cycles repeat every 28 days for 2 years in the absence of disease progression or unacceptable toxicity.
+
+MM1MDS-A01: Patients are randomized to 1 of 2 arms.
+
+ARM A: Patients receive ASTX727 PO once daily (QD) on days 1-5 of each cycle. Cycles repeat every 28 days in the absence of disease progression or unacceptable toxicity. Patients who do not achieve a CR, CRL, or CRh at the end of cycle 6 may cross-over to Arm B. Patients who experience CR, PR, or stable disease (SD) any time after 4 cycles of treatment may be reassessed in order to go to a higher myeloMATCH tier assignment or to TAP. Patients also undergo bone marrow biopsy and aspiration throughout the study. Patients may also undergo optional buccal swab on study, and/or optional additional bone marrow aspiration and blood sample collection on study and at disease progression.
+
+ARM B: Patients receive ASTX727 PO QD on days 1-5 and enasidenib PO QD on days 1-28 of each cycle. Cycles repeat every 28 days in the absence of disease progression or unacceptable toxicity. Patients who experience CR, PR, or SD any time after 4 cycles of treatment may be reassessed in order to go to a higher myeloMATCH tier assignment or to TAP. Patients also undergo bone marrow biopsy and aspiration throughout the study. Patients may also undergo optional buccal swab on study, and/or optional additional bone marrow aspiration and blood sample collection on study and at disease progression.
+
+MM1OA-S03: Patients are randomized to 1 of 2 arms.
+
+ARM 1: Patients receive ASTX727 PO QD on days 1-5 and venetoclax PO QD on days 1-28 of each cycle. Cycles repeat every 28 days in the absence of disease progression or unacceptable toxicity. Patients also undergo blood sample collection, bone marrow aspiration, and bone marrow biopsy throughout the trial.
+
+ARM 2: Patients receive ASTX727 PO QD on days 1-5, venetoclax PO QD on days 1-28, and enasidenib PO QD on days 1-28 of each cycle. Cycles repeat every 28 days in the absence of disease progression or unacceptable toxicity. Patients also undergo blood sample collection, bone marrow aspiration, and bone marrow biopsy throughout the trial.
+
+MM1YA-A04: Patients are randomized to 1 of 2 regimens.
+
+REGIMEN 1: Patients receive gemtuzumab ozogamicin IV on days 1 and 4, cytarabine IV, continuously, on days 1-7 and daunorubicin IV on days 1-3 in the absence of disease progression or unacceptable toxicity. Patients then undergo standard of care consolidation/post-remission treatment at the discretion of the treating physician. Patients undergo echocardiography or MUGA scan during screening and bone marrow aspiration and biopsy and blood sample collection throughout the study. Patients may also undergo optional buccal swab collection throughout the study.
+
+REGIMEN 2: Patients receive venetoclax PO QD on days 1-11, cytarabine IV, continuously, on days 2-8 and daunorubicin IV on days 2-4 in the absence of disease progression or unacceptable toxicity. Patients then undergo standard of care consolidation/post-remission treatment at the discretion of the treating physician. Patients undergo echocardiography or MUGA scan during screening and bone marrow aspiration and biopsy and blood sample collection throughout the study. Patients may also undergo optional buccal swab collection throughout the study.
+
+MM3TCT-A03: Patients with matched donors are randomized to conditioning 1A or 1B. Patients with haploidentical or mismatched unrelated donors are randomized to conditioning 2A or 2B.
+
+CONDITIONING 1A: Patients receive venetoclax PO QD on days -10 to -2, fludarabine IV on days -6 or -5 to -2 and busulfan IV on days -3 to -2 or twice daily (BID) on days -5 to -2 or melphalan IV on day -2. Patients then receive hematopoietic cell transplant IV on day 0. Treatment is given in the absence of disease progression or unacceptable toxicity.
+
+CONDITIONING 1B: Patients receive placebo PO QD on days -10 to -2, fludarabine IV on days -6 or -5 to -2 and busulfan IV on days -3 to -2 or BID on days -5 to -2 or melphalan IV on day -2. Patients then receive hematopoietic cell transplant IV on day 0. Treatment is given in the absence of disease progression or unacceptable toxicity.
+
+CONDITIONING 2A: Patients receive venetoclax PO QD on days -10 to -2, melphalan IV on day -6, fludarabine IV on days -5 to -2 and undergo total body irradiation once on day -1. Patients then receive hematopoietic cell transplant IV on day 0. Treatment is given in the absence of disease progression or unacceptable toxicity.
+
+CONDITIONING 2B: Patients receive placebo PO QD on days -10 to -2, melphalan IV on day -6, fludarabine IV on days -5 to -2 and undergo total body irradiation once on day -1. Patients then receive hematopoietic cell transplant IV on day 0. Treatment is given in the absence of disease progression or unacceptable toxicity.
+
+MAINTENANCE: All patients without evidence of relapse at day +100 are re-randomized to maintenance I or II.
+
+MAINTENANCE I: Patients receive venetoclax PO QD on days 1-28 of each cycle. Cycles repeat every 28 days for up to 1 year post transplant (9 cycles) in the absence of disease progression or unacceptable toxicity.
+
+MAINTENANCE II: Patients receive placebo PO QD on days 1-28 of each cycle. Cycles repeat every 28 days for up to 1 year post transplant (9 cycles) in the absence of disease progression or unacceptable toxicity.
+
+Patients undergo chest x-ray, echocardiography or MUGA during screening, and bone marrow biopsy and blood, urine and buccal swab collection throughout the study. Patients may also undergo positron emission tomography (PET) scan and/or computed tomography (CT) scan throughout the study.

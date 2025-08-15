@@ -1,0 +1,34 @@
+Digital Phenotyping and Lifestyle Intervention in Patients with Myasthenia Gravis
+Myasthenia Gravis (MG) is a chronic autoimmune neurological disorder where an antibody attack of muscle receptors causes fatigable skeletal muscle weakness. In addition to fatigue, several MG patients experience general fatigue. Small supervised studies during 12 weeks of physical exercise interventions have indicated safety and beneficial neuromuscular outcomes in MG patients. Longer and unsupervised studies are required to obtain guidelines for physical activity in MG patients. Further, the development of smart rings enables remote digital supervision of physical activity, sleep, and biological parameters such as heart frequency, number of steps, and temperature. These parameters could add to the lack of biomarkers in MG. The project design is a randomized controlled trial with a lifestyle intervention to improve fatigue in the autoimmune neuromuscular disease Myasthenia Gravis (MG). The intervention includes digital group counseling regarding physical activity, sleep, general health, and digital follow-up with a "smart ring" (OURA).
+Myasthenia Gravis
+BEHAVIORAL: Physical activity|BEHAVIORAL: Sleep hygiene
+Myasthenia Gravis-Activities of Daily Living (MG-ADL), Subjective assessment of MG-related fatiguability. A person's score can range from zero (normal) to 24 (most severe)., 7 months
+Fatigue Severity Scale (FSS), The Fatigue Severity Scale (FSS) ranges from 0 (least fatigue) to 63 (maximum fatigue)., 7 months|Chalder Fatigue Scale, The Chalder Fatigue Scale ranges from 0 (least fatigue) to 33 (maximum fatigue), 7 months
+Heart rate variability, Heart rate variability is measured with the OURA ring., 7 months|Activity pattern, Number of steps and minutes in moderate and high intensity activity is measured by the OURA ring., 7 months|Percentage of deep sleep, The OURA ring measures the sleep stages, including time and percentage for deep sleep every night., 7 months|Circulating miRNA in serum, Changes in miR-150-5p and miR-30e-5p in serum samples., 7 months|Olink Target 96 Inflammation panel of cytokines, Changes in cytokine NPX protein values (log2 scaled) using Proximity Extension Assay (PEA) technology in serum samples, 7 months
+The cohort is Myasthenia Gravis (MG) patients in Sweden. The primary research question is: can digital lifestyle intervention in an online-group format improve fatigue as measured by MG-ADL in MG patients by at least 30%? Secondary research question: can lifestyle intervention improve fatigue as measured by FSS in MG by at least 30%?
+
+The primary outcome measure is MG-ADL; the secondary outcome measures include general fatigue (fatigue severity scale and Chalder´s fatigue scale). Exploratory outcome measures include OURA-ring-based markers, including heart rate variability, temperature fluctuations, and sleep and activity parameters. These will be collected throughout the entire study period for 30 weeks.
+
+Analysis of serum biomarkers miR-150-5p and miR-30e-5p and inflammatory proteins found upregulated in MG will be included. Clinical data at baseline: antibody status, electrophysiology, MG Composite Scale (MGC), and clinical data at follow-up visits (medications, MGC), etc., are extracted from the medical charts and the Swedish MG registry
+
+Inclusion criteria:
+
+* An MG diagnosis for at least six months before entry into the study.
+* Both patients with ocular and generalized MG are allowed to participate.
+* For practical reasons, participants need to understand Swedish.
+
+Exclusion criteria:
+
+* Participation in another clinical trial in the past 6 months.
+* Disease duration less than 6 months.
+* Contraindications to physical activity: unstable coronary syndrome or myocardial infarction within the preceding three months, respiratory failure (vital capacity \< 70% predicted value) or cardiac failure (ejection fraction \< 50% predicted value), concomitant neuromuscular diseases, disabling rheumatological disease (\> 80% disability on the Barthel scale), chronic pain or disabling orthopedic conditions, hospitalization in the last three months for a serious medical or surgical condition, anemia (hematocrit \< 30%), stroke within the previous year.
+* MG patients already performing a moderate-intensity physical activity of 150min or more per week, i.e., one of the target interventions.
+* Pregnancy.
+
+Each participant is enrolled in the study for 7 months, and 26 persons are randomized to one of the following 3 groups:
+
+* Group 1; no intervention, observation with the OURA ring.
+* Group 2: 12 weeks of physical activity guidance with short discussions via digital meetings regularly. They will conduct at least 150 minutes per week of moderate-intensity exercises. Brisk walks are the primary choice of activity; alternatively, swimming, cycling, or dancing to the physical exertion according to the Borg scale can be performed.
+* Group 3: 12 weeks of sleep exercises. The lifestyle intervention of sleep will be delivered via an online group, with recommended home practices between sessions. Topics covered will include sleep education, sleep hygiene, and practices to improve sleep quality.
+
+The study is digital and will use the platform "minforskning.se", which is validated according to GCP-GAMP5 and has the potential to collect digital consent forms.

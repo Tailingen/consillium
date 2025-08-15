@@ -1,0 +1,25 @@
+An Investigational Scan (rhPSMA-7.3 PET/CT) for Detecting Biochemically Recurrent Prostate Cancer, ENLIGHTEN Trial
+This phase II trial evaluates an imaging technique (rhPSMA-7.3 positron emission tomography \[PET\]/computed tomography \[CT\]) for detecting prostate cancer in patients who have increasing prostate-specific antigen levels following prior treatment (biochemical recurrence) but who were prostate specific membrane antigen negative on their most recent PET scan. Contrast agents like rhPSMA-7.3 (also called POSLUMA) circulate in the blood until they find their intended target. Once they are taken up by the target tumor cells, they can be visualized using PET/CT cameras. A PET scan is a procedure in which a small amount of radioactive tracer (in this case rhPSMA-7.3) is injected into a vein, and a scanner is used to make detailed, computerized pictures of areas inside the body where the tracer is taken up. Because tumor cells often take up more tracer than normal cells, the pictures can be used to find tumor cells in the body. A CT scan is a procedure that uses a computer linked to an x-ray machine to make a series of detailed pictures of areas inside the body. The pictures are taken from different angles and are used to create 3-dimensional views of tissues and organs. Combining a PET scan with a CT scan can help make the image easier to interpret. PET/CT scans are hybrid scanners that combine both modalities into a single scan during the same examination. The researchers want to determine whether the rhPSMA7.3 PET/CT scan is useful for detecting biochemically recurrent prostate cancer in patients who were negative on prior non-POSLUMA PET imaging.
+Biochemically Recurrent Prostate Carcinoma|Prostate Adenocarcinoma
+PROCEDURE: Computed Tomography|OTHER: Electronic Health Record Review|OTHER: Flotufolastat F-18 Gallium|PROCEDURE: Positron Emission Tomography
+Consensus detection rate, Reads will be completed for the positron emission tomography (PET)/computed tomography (CT) by three trained radiologist blinded to each other's read. Uptake values of rhPSMA-7.3 (POSLUMA) in the prostate bed and other sites (i.e. lymph nodes or bones) will be evaluated. Location and avidity (standardized uptake value) of all identified PET positive sites will be recorded (series/slice number). Consensus read will be determined as positive or negative at the patient level as the consensus of at least 2 of the 3 reading radiologists. Detection rates will be presented with 95% confidence intervals., Up to 2 years
+Patient level verified detection rates, Patient level verified detection rates will be assessed directly by histopathology or indirectly by secondary imaging or serial imaging with treatment response over the course of 2 years from study scan. Results will be reported in tabular format., Up to 2 years|Change in management plan based on POSLUMA scan, The change in management plan based on POSLUMA scan will be assessed as no, minor, or major change as dictated at provider's discretion after POSLUMA scan. Decisions regarding the care of the patient following PET/CT will be made and change from the pre-scan clinical pathway will be recorded subjectively by the treating physician as none, minor or major. Minor changes would include changes in intended frequency of monitoring, modifications within a radiation treatment field. Major changes would include changing from observation to treatment, treatment to observation, extension or inclusion of a new radiation treatment field, extension or reduction in duration of or use of additional systemic medications. Changes in management plans will be reported as frequencies and percentages., Up to 2 years
+PRIMARY OBJECTIVE:
+
+I. Determine consensus detection rate by flotufolastat F-18 gallium (rhPSMA-7.3)-PET (POSLUMA) scan in men with recent negative non-POSLUMA PET prostate specific membrane antigen (PSMA) scans.
+
+SECONDARY OBJECTIVES:
+
+I. Determine patient level verified detection rates (by histopathology or a surrogate standard of truth \[second contemporaneous imaging, treatment response/change in subsequent imaging\]).
+
+II. Determine change in management plan based on POSLUMA scan (major / minor).
+
+EXPLORATORY OBJECTIVE:
+
+I. Determine patient and patient disease characteristics consistent with a positive POSLUMA scan at prostate specific antigen (PSA) \< 0.5ng/ml (i.e. pathological Gleason grade, PSA at scan, time to biochemical recurrence \[BCR\], prostate-specific antigen doubling time \[PSADT\]).
+
+OUTLINE:
+
+Patients receive rhPSMA-7.3 intravenously (IV) and undergo PET/CT 60 minutes later on day 1.
+
+After completion of study intervention, patients are followed up at 14 days and then every 3 months for 2 years.

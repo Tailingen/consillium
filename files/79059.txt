@@ -1,0 +1,37 @@
+Effect of ChatGPT-Based Digital Counseling on Anxiety and Depression in Cancer: A Randomized Trial
+This study aims to evaluate the impact of a ChatGPT-based digital counseling intervention on anxiety and depression in newly diagnosed cancer patients undergoing chemotherapy. Patients are randomly assigned to one of two groups:
+
+ChatGPT Group: Patients receive standard chemotherapy education plus access to ChatGPT, where they can ask up to 10 personalized questions about their treatment.
+
+Control Group: Patients receive only standard chemotherapy education provided by oncologists and nurses.
+
+The primary outcome is the change in anxiety and depression levels, measured using the Hospital Anxiety and Depression Scale (HADS), recorded at baseline and before the second chemotherapy cycle.
+
+Secondary outcomes include patient engagement patterns, the types of questions asked, and an assessment of ChatGPT's responses by oncologists.
+
+This study seeks to explore whether AI-based digital counseling can serve as a complementary support tool for newly diagnosed cancer patients.
+Cancer|Anxiety|Depression|Artifical Intelligence
+BEHAVIORAL: ChatGPT-Based Digital Counseling|BEHAVIORAL: Standard Clinician-Led Education
+Change in Anxiety and Depression Scores (HADS-A and HADS-D), The primary outcome is the change in Hospital Anxiety and Depression Scale (HADS-A, HADS-D) scores between baseline and the second chemotherapy cycle. The difference between groups will be assessed to determine the impact of ChatGPT-assisted counseling on anxiety and depression levels in newly diagnosed cancer patients., Time Frame: Change in Hospital Anxiety and Depression Scale (HADS-A, HADS-D) scores from baseline to prior to the second chemotherapy cycle (each cycle is 21 days).
+Differences in Patient Engagement and Information-Seeking Behavior, The number and type of questions asked by participants in the ChatGPT-assisted group will be analyzed to assess differences in information-seeking behavior compared to the standard education group., Change in Hospital Anxiety and Depression Scale (HADS-A, HADS-D) scores from baseline to prior to the second chemotherapy cycle (each cycle is 21 days).|Accuracy and Reliability of ChatGPT Responses, The oncology specialists will review all AI-generated responses and classify them as "appropriate," "inappropriate," or "unreliable." The percentage of correct responses will be recorded., Baseline and Day 21 (prior to Cycle 2, each cycle is 21 days)
+Study Design This prospective, randomized controlled trial aims to evaluate the effects of a ChatGPT-based digital counseling intervention on anxiety and depression in newly diagnosed cancer patients undergoing chemotherapy.
+
+The study is conducted at two oncology centers between July 2024 and December 2024. Patients are randomly assigned (1:1) to either:
+
+ChatGPT-Assisted Counseling Arm: Patients receive standard chemotherapy education plus the ability to ask up to 10 personalized questions to ChatGPT. All AI-generated responses are reviewed for accuracy by oncology specialists.
+
+Standard Education Arm: Patients receive only clinician-led chemotherapy education, without AI-based support.
+
+Primary and Secondary Outcomes
+
+Primary Outcome: Change in Hospital Anxiety and Depression Scale (HADS-A, HADS-D) scores between baseline and prior to the second chemotherapy cycle.
+
+Secondary Outcomes:
+
+Differences in patient engagement behaviors and information-seeking patterns. Analysis of the accuracy and reliability of ChatGPT-generated responses. The role of AI in addressing sensitive or under-discussed topics in oncology education (e.g., sexual health, alternative medicine).
+
+Statistical Analysis The sample size is estimated based on detecting a 2-point difference in HADS scores (α=0.05, power=80%).
+
+Nonparametric tests (Mann-Whitney U test, Wilcoxon signed-rank test) are planned for within- and between-group comparisons.
+
+Multivariable logistic regression will assess independent predictors of anxiety reduction.

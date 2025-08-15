@@ -1,0 +1,25 @@
+Apixaban or Dalteparin in Reducing Blood Clots in Patients With Cancer Related Venous Thromboembolism
+This randomized phase III trial studies the side effects of and compares apixaban and dalteparin in reducing blood clots in patients with cancer-related venous thromboembolism. Venous thromboembolism is a condition in which a blood clot forms in a vein and then breaks off and moves through the bloodstream. Patients with cancer are at increased risk for venous thromboembolism. Apixaban and dalteparin are drugs used to prevent blood clots from forming or to treat blood clots that have formed. It is not yet known whether apixaban or dalteparin is more effective in reducing blood clots in patients with cancer related venous thromboembolism.
+
+ADAM-VTE
+Cerebral Vein Thrombosis|Deep Vein Thrombosis|Gonadal Thrombosis|Hepatic Thrombosis|Malignant Neoplasm|Mesenteric Thrombosis|Metastatic Malignant Neoplasm|Portal Vein Thrombosis|Pulmonary Embolism|Renal Vein Thrombosis|Splenic Thrombosis|Venous Thromboembolism
+DRUG: Apixaban|DRUG: Dalteparin|OTHER: Questionnaire Administration
+6 Month Bleeding Rate, The rate (percentage) of patients experiencing major bleeding at 6 months from treatment initiation and its associated 95% confidence interval was estimated separately by treatment arm using a cumulative incidence function, treating death without bleeding as a competing risk., Up to 6 months
+Composite Bleeding Rate: Major Bleed or a Clinically Relevant Non-major Bleed, A similar analysis as described for the primary safety analysis will be used. The rate (percentage) of patients experiencing major bleeding or a clinically relevant non-major bleed at 6 months from treatment initiation and its associated 95% confidence interval was estimated separately by treatment arm using a cumulative incidence function, treating death without bleeding as a competing risk., Up to 6 months|Time to the First Event of the Composite Deep Vein Thrombosis (DVT)/Pulmonary Embolism (PE), Analyzed using the same methods described above for the primary endpoint.Time to the first event of the composite deep vein thrombosis (DVT)/pulmonary embolism (PE) is defined as the time from randomization to the date the patient experienced the first event of the composite deep vein thrombosis (DVT)/pulmonary embolism (PE)., Up to 3 months post-treatment
+PRIMARY OBJECTIVES:
+
+I. Any episode of major bleeding including fatal bleeding.
+
+SECONDARY OBJECTIVES:
+
+I. Venous thromboembolism (VTE) recurrence including deep vein thrombosis (DVT), pulmonary embolism (PE), fatal PE, or arterial thromboembolism.
+
+II. Any episode of major bleeding including fatal bleeding or any episode of clinically relevant non-major bleeding.
+
+OUTLINE: Patients are randomized to 1 of 2 treatment arms.
+
+ARM I: Patients receive apixaban 10 mg orally (PO) twice daily (BID) on days 1-7 and lower-dose apixaban 5 mg PO BID on days 8-180.
+
+ARM II: Patients receive dalteparin 200 international units (IU)/kg/day subcutaneously (SC) once daily (QD) on days 1-30 and lower-dose dalteparin 150 IU/kg/day SC QD on days 31-180.
+
+After completion of study treatment, patients are followed up at 3 months.

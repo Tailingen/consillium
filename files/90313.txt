@@ -1,0 +1,25 @@
+Phase II, Single-arm Study of AZD1775 Monotherapy in Relapsed Small Cell Lung Cancer Patients With MYC Family Amplification or CDKN2A Mutation Combined With TP53 Mutation
+AZD1775 (previously known as MK-1775 in earlier studies) is an inhibitor of Wee1, a protein tyrosine kinase. Wee1 phosphorylates and inhibits cyclin-dependent kinases 1 (CDK1) and 2 (CDK2), and is involved in regulation of the intra-S and G2 cell cycle checkpoints.
+
+CDK1 (also called cell division cycle 2, or CDC2) activity drives a cell from the G2 phase of the cell cycle into mitosis. In response to DNA damage, Wee1 inhibits CDK1 to prevent the cell from dividing until the damaged DNA is repaired (G2 checkpoint arrest).
+
+Inhibition of Wee1 is expected to release a tumor cell from chemotherapeutically-induced arrest of cell replication. In vitro experiments demonstrate that AZD1775 has synergistic cytotoxic effects when administered in combination with various DNA damaging agents that have divergent mechanisms of action. Therefore, the primary objective of the clinical development of AZD1775 is its use as a chemosensitizing drug in combination with a cytotoxic agent (or combination of agents) for treatment of advanced solid tumors.
+
+CDK2 activity drives a cell into, and through, S-phase of the cell cycle where the genome is duplicated in preparation for cell division. Inhibition of Wee1 is expected to cause aberrantly high CDK2 activity in S-phase cells which, in turn, leads to unstable DNA replication structures and ultimately DNA damage. Therefore, it is anticipated that AZD1775 will have independent anti-tumor activity in the absence of added chemotherapy.
+
+The tumor suppressor protein p53 regulates the G1 checkpoint. As the majority of human cancers harbor abnormalities in this pathway they become more dependent on S- and G2- phase checkpoints. Thus, S- and G2-checkpoint abrogation caused by inhibition of Wee1 may selectively sensitize p53-deficient cells.
+
+One hundred percent of SCLC has TP53 mutation, therefore we can expect that most of SCLC have lost G1 checkpoint and has high probability of WEE1 dependency for proper DNA repair and cell cycle progression. For this reason, SCLC could be a good clinical trial target disease for WEE1 inhibitor.
+Small Cell Lung Cancer
+DRUG: AZD1775
+Objective response rate (ORR) by RECIST 1.1, 24 months
+Duration of response, 24 months|Disease control rate, 8 weeks|Overall survival (OS) by Kaplan-Meier method, 24 months|Progression-free survival (PFS) calculated by Kaplan-Meier method, 24 months|Number of subjects with Adverse Events as a measure of safety, 24 months
+There is only approved drug, topotecan for patients with relapsed small cell lung cancer who have progressed following first-line therapy. In clinical practice, topoisomerase inhibitor, topotecan or irinotecan is commonly used in this setting.
+
+AZD1775 is a highly selective, adenosine-triphosphate (ATP) competitive, small-molecule inhibitor of Wee1 kinase. Wee1 is a tyrosine kinase involved in regulation of intra-S and G2 cell cycle checkpoints through phosphorylation and inhibition of CDK2 and CDK1, respectively. Because activity of these and other CDKs coordinate progression through the cell cycle, they are inhibited at cell cycle checkpoints, causing transient arrest at the G1-, S-, and G2 phases of the cell cycle.
+
+P53 is a key regulator of the G1 checkpoint and is one of the most frequently mutated genes in cancer. Therefore, a majority of human cancers lack G1checkpoint but retain the S- and G2-phase checkpoints. As a result of p53 deficiency,cells lacking the G1 checkpoint are predicted to be more dependent on the Wee1-mediated G2 checkpoint. Hence, p53-deficient tumors treated with inhibitors of Wee1 may be particularly susceptible to DNA damage because multiple checkpoints have been lost.
+
+One hundred percent of SCLC has TP53 mutation, therefore we can expect that most of SCLC have lost G1 checkpoint and has high probability of WEE1 dependency for proper DNA repair and cell cycle progression.
+
+Therefore, the AZD1775 monotherapy might have some clinical activity as a 2nd line therapy in small cell lung cancer patients.

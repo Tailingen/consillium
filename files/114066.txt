@@ -1,0 +1,28 @@
+Radiation Therapy Before Surgery in Treating Patients With Hormone Receptor Positive, HER2 Negative Breast Cancer
+This phase II trial studies how well radiation therapy before surgery works in treating patients with hormone receptor positive, HER2 negative breast cancer. Radiation therapy uses high energy x-rays to kill tumor cells and shrink tumors. Giving radiation therapy before surgery may make the tumor smaller and reduce the amount of normal tissue that needs to be removed.
+Estrogen Receptor Positive|HER2/Neu Negative|Invasive Breast Carcinoma|Progesterone Receptor Positive
+RADIATION: Radiation Therapy|PROCEDURE: Therapeutic Conventional Surgery
+Evaluation of Change in Percent of Tumor-Infiltrating Lymphocytes (TIL), With 20 patients, a 95% confidence interval for the mean difference between TIL measurements would extend 0.44\*s units from the mean (where "s" is the standard deviation of the TIL differences). If the differences are not normally distributed, researchers will report the median difference along with appropriate 95% confidence intervals. Appropriate graphs used to visualize the data., 6 to 8 days after preoperative radiotherapy
+Delay Rate of Surgery Following Boost RT, Delay rate defined as the proportion of patients experiencing a \> 4 week interval between boost RT and surgery.
+
+The method of Thall, Simon, and Estey employed to perform interim delay rate monitoring., 4 weeks after boost RT|Tumor Changes between pre and post boost, For tumor measures, descriptive statistics including plots, tabulations, mean, median, and standard deviations will be used to summarize data. Differences and/or percentage changes will be calculated between pre- and post- therapy samples from each patient and described as continuous measures by using paired t-tests will be explored to evaluate the changes in markers pre- and post-boost therapy. Scatter plots will be used to visualize how correlated between changes in immune markers and extent of tumor cell apoptosis, and the Spearman correlation coefficients will be calculated to evaluate the association between changes in immune markers and extent of tumor cell death markers., Up to 4 weeks after surgery|Toxicity calculated using the CTCAE v4.0, Toxicity and cosmesis will be calculated and reported, to enable comparisons to other published reports of breast cancer-related toxicity using the CTCAE v4.0., 6 months after adjuvant RT|Changes in dynamic contrast enhanced (DCE), Changes in DCE, internal texture, ADC values, z-spectrum asymmetry on CEST measures will be assessed between the simulation MRI and the MRI obtained following radiation boost., 4 weeks after surgery
+PRIMARY OBJECTIVES:
+
+I. To evaluate the change in percent tumor-infiltrating lymphocytes (TIL) as a continuous variable before and after preoperative boost radiotherapy (RT) in hormone receptor (HR)+/human epidermal growth factor receptor2 (HER2)- breast cancers.
+
+SECONDARY OBJECTIVES:
+
+I. To evaluate the safety of preoperative boost RT administered to patients with HR+/HER2- breast cancer.
+
+EXPLORATORY OBJECTIVES:
+
+* I. To assess the mechanisms of cell death induced by preoperative boost RT.
+* II. To assess immunologic and molecular responses to preoperative boost RT.
+* III. To assess the correlations between immune markers, cell death markers, and their changes during treatment.
+* IV. To determine if magnetic resonance imaging (MRI) can be used to predict breast tumor response to neoadjuvant radiation.
+
+OUTLINE:
+
+Patients undergo boost radiation therapy 6-8 days before breast surgery. After surgery, patients continue to receive standard of care radiation therapy.
+
+After completion of study treatment, patients are followed up at 6 months.

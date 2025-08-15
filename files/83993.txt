@@ -1,0 +1,20 @@
+Computerized Feedback in Colonoscopy
+In a cluster-randomized study compare if feedback from two computerized feedback systems doing a colonoscopy (CoPS and CoRS) can improve the adenoma detection rate and decrease patient discomfort.
+Colorectal Cancer|Healthy
+DEVICE: Colonoscopy Progression Score (CoPS)|DEVICE: Colonoscopy Retraction Score (CoRS)
+Feedback from CoRS results in change in Adenoma Detection Rate for individual operators and for the department as a whole., The Adenoma Detection Rate of an operator is correlated to patient survival of colorectal cancer. A low Adenoma Detection Rate is correlated with a higher occurrence of interval cancer. Increasing the Adenoma Detection Rate will result in a more beneficial screening program with more cancers being caught in an earlier state and thereby increase patient survival., Baseline (pre-intervention) and with the end of each time cluster (month 8, 12, 16, 18). The intervention will be at different time clusters for the three participating hospitals, and therefore the baseline sampling period will be different.|Feedback from CoPS results in change in patient discomfort., Patient discomfort will be assessed by a post-procedure questionnaire. We will examine the correlation between the intervention and patient discomfort, and assess if more procedures can be completed due to less patient discomfort using the intervention., Baseline (pre-intervention) and with the end of each time cluster (month 8, 12, 16, 18). The intervention will be at different time clusters for the three participating hospitals, and therefore the baseline sampling period will be different.
+Make an immediate measure to assess the quality of individual colonoscopy performance., To measure a reliable Adenoma detection rate, 500 procedures are needed. We will aim to make an immediate measure based on CoRS to assess the quality of each colonoscopy and investigate this measures correlation to the ADR in the intervention period., On data collection completion, estimated December 2023
+Background:
+
+Approximately 4,600 persons get colon cancer annually in Denmark and it is the second most common cause of cancer death. Survival is highly dependent on early detection through a colonoscopy. A thorough colonoscopy is essential to detect early cancers but unfortunately the quality of colonoscopies varies widely between operators. A study of 314,872 colonoscopies performed by 136 gastroenterologists found that the adenoma detection rate (ADR) ranged from 7 - 53% and was inversely associated with the risks of fatal interval cancer. The investigators have developed to tools that can generate automatic, computerized feedback in order to make a more thorough procedure and reduce patient discomfort, the Colonoscopy Progression Score (CoPS) and Colonoscopy Retraction Score (CoRS)
+
+Objectives:
+
+The investigators predict that live-feedback from CoPS and CoRS doing a colonoscopy can improve the ADR and subsequent prevent colorectal cancer. The aim of this project is to:
+
+1. In a cluster-randomized study compare if feedback from CoPS and CoRS can improve the adenoma detection rate and patient satisfaction for individual operators and the department as a whole.
+2. Make an immediate measure to assess the quality of individual colonoscopy performance.
+
+Materials and methodology:
+
+As a randomized controlled cluster trial following a stepped-wedge program, feedback doing a colonoscopy from these (CoPS and CoRS) will be tested compared to no feedback. Three test departments consisting of three University Hospital in the Capital region of Denmark will be included.

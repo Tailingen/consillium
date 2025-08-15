@@ -1,0 +1,36 @@
+Itraconazole in Combination With Ablation for the Prevention of Esophageal Cancer in Patients With High-risk Barrett's Esophagus
+This phase II trial tests how well itraconazole works in combination with standard of care endoscopy with ablation for the prevention of esophageal cancer in patients with high-risk Barrett's esophagus (BE). BE is a condition in which the lining of the esophagus changes. The tissue that lines the esophagus becomes more like the tissue that lines the intestine. People with Barrett's esophagus have a higher risk of developing esophageal cancer. Itraconazole is a drug used to prevent or treat fungal infections. It belongs to the family of drugs called antifungal agents. Ablation refers to the removal of abnormal tissue using heat. Endoscopy is a procedure for looking at the esophagus using a long, flexible tube called an endoscope, which has a video camera at the end. Radiofrequency ablation is a type of heat therapy that uses radiofrequency energy (similar to microwave heat) to destroy the abnormal tissue in the esophagus. Giving itraconazole in combination with standard of care endoscopy with ablation may improve the effects of ablation and prevent esophageal cancer in patients with high-risk Barrett's esophagus.
+Barrett Esophagus|Clinical Stage I Esophageal Adenocarcinoma AJCC v8|Clinical Stage IIA Esophageal Adenocarcinoma AJCC v8|Esophageal Adenocarcinoma
+PROCEDURE: Biopsy Procedure|PROCEDURE: Biospecimen Collection|PROCEDURE: Endoscopic Procedure|DRUG: Itraconazole|DRUG: Placebo Administration|OTHER: Questionnaire Administration|PROCEDURE: Radiofrequency Ablation
+Time to complete resolution of intestinal metaplasia (CRIM) in days, CRIM will be defined based on the absence of visible Barrett's esophagus (BE) and invisible BE (i.e., no intestinal metaplasia \[IM\] in biopsies of the gastroesophageal junction and the cardia). Will be reported descriptively. Will compare the unadjusted hazard rates between the itraconazole and control groups using log rank test., Between day 1, cycle 1 (1 cycle = 6 weeks) and the date of endoscopy at which the participant is deemed to reach CRIM
+Time to complete eradication of dysplasia, Will be assessed by surveillance biopsies at the time of the endoscopy that documents CRIM and the biopsies at the time of first surveillance endoscopy will be evaluated for dysplasia., Between day 1, cycle 1 (1 cycle = 6 weeks) and the date of endoscopy at which surveillance biopsies do not show dysplasia|Rate of BE recurrence over follow-up, Will be assessed between the study treatment group and the control group. BE recurrence will be defined as histologic presence of IM (with or without dysplasia) in biopsies from the tubular esophagus or in biopsies at the gastroesophageal junction. The results from the standrd of care endoscopy closest to the 12-month time point after CRIM will be used to collect information for this endpoint., At 12 months after CRIM|Incidence of adverse events, Will be assessed by National Cancer Institutes Common Terminology Criteria for Adverse Events version 5.0 criteria to document adverse events and measure specific laboratory parameters to monitor for the safety and tolerability of itraconazole and assessed by descriptive statistics., Up to 30 days after the end of intervention|Correlate levels of itraconazole and its primary metabolite hydroxyitraconazole, Will be assessed in plasma and esophageal tissues with treatment response. Will measure these metabolites after two weeks of itraconazole therapy by obtaining biopsies of the esophagus. These measurements will be correlated with biomarker and clinical response to understand how tissue levels of the drug change the molecular and primary endpoints. Will also measure the blood levels to test the feasibility of blood levels for prediction of clinical response in the future., After two weeks of itraconazole|Biosocial impact, Will be assessed by questionnaires to collect information about the biosocial endpoints. These will include cancer-specific distress questionnaire, Gastrointestinal Symptom Rating Scale, Health-Related Quality of life short form 12 version 2, and Patient-Reported Outcomes Measurement Information System anxiety and depression scores as previously used at the beginning and at the end of the study. The summary measures such as mean or median of these distress scores will be compared between arms using t-test (or Wilcoxon rank test in case of non normality). Linear regression models will be used for studying the differences in the average distress scores between arms adjusted for age, sex and prior history of anxiety or depression., At baseline and at the end of the study
+Correlation of the degree of inhibition of Hh, PI3K-AKT, and VEGFR2 signaling pathways with treatment response, Will be assessed in biopsies of the gastroesophageal junction as well as BE at the endoscopy after two weeks of study drug administration to measure these endpoints by techniques outlined under the laboratory section., After two weeks of study drug administration|Expression of stem cell markers such as LGR5/CD44/DCAMKL1, After two weeks of itraconazole
+PRIMARY OBJECTIVE:
+
+I. To evaluate if itraconazole in the peri-ablation period in participants with high-risk Barrett's esophagus (BE) can accelerate BE regression i.e., achieve complete resolution of intestinal metaplasia (CRIM) faster than the control group.
+
+SECONDARY OBJECTIVES:
+
+I. To measure the time to event of complete eradication of dysplasia (CED). II. To measure the rate of BE recurrence during routine follow-up. III. To determine the safety and tolerability of itraconazole in participants with high-risk BE.
+
+IV. To correlate levels of itraconazole and its primary metabolite hydroxyitraconazole in plasma and esophageal tissues with treatment response.
+
+V. To compare biosocial impact on the participants in the itraconazole and control arms.
+
+EXPLANATORY OBJECTIVE:
+
+I. To correlate the degree of inhibition of Hedgehog (Hh), PI3K-AKT, and VEGFR2 signaling pathways with treatment response.
+
+EXPLORATORY OBJECTIVES:
+
+I. To determine whether expression (baseline and magnitude of change) of stem cell markers such as LGR5/CD44/DCAMKL1 can predict treatment response.
+
+II. To bank blood samples and tissue biopsies for future analyses to understand the determinants of response.
+
+OUTLINE: Patients are randomized to 1 of 2 arms.
+
+ARM I: Patients receive itraconazole orally (PO) twice daily (BID) on days 1-42 of each cycle. Cycles repeat every 6 weeks for up to 2 cycles in the absence of disease progression or unacceptable toxicity. Patients undergo standard of care endoscopy and radiofrequency ablation on study. Patients also undergo blood sample collection throughout the study as well as tissue biopsy on study.
+
+ARM II: Patients receive placebo PO BID on days 1-42 of each cycle. Cycles repeat every 6 weeks for up to 2 cycles in the absence of disease progression or unacceptable toxicity. Patients undergo standard of care endoscopy and radiofrequency ablation on study. Patients also undergo blood sample collection throughout the study as well as tissue biopsy on study.
+
+After completion of study treatment, patients are followed up at 12 months.

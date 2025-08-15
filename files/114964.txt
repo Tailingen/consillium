@@ -1,0 +1,24 @@
+Brentuximab Vedotin, Cyclosporine, and Verapamil Hydrochloride in Treating Patients With Relapsed or Refractory Hodgkin Lymphoma
+This phase I trial studies the side effects and best dose of brentuximab vedotin and cyclosporine when given together with verapamil hydrochloride in treating patients with Hodgkin lymphoma that has come back (relapsed) or does not respond to treatment (refractory). Brentuximab vedotin is a monoclonal antibody, brentuximab, linked to a toxic agent called vedotin. Brentuximab attaches to CD30 positive cancer cells in a targeted way and delivers vedotin to kill them. Immunosuppressive therapies, such as cyclosporine, may improve bone marrow function and increase blood cell counts. Verapamil hydrochloride may increase the effectiveness of brentuximab vedotin by overcoming drug resistance of the cancer cells. Giving brentuximab vedotin, cyclosporine, and verapamil hydrochloride may work better in treating patients with Hodgkin lymphoma.
+Recurrent Hodgkin Lymphoma|Refractory Hodgkin Lymphoma
+DRUG: Brentuximab Vedotin|DRUG: Cyclosporine|OTHER: Pharmacokinetic Study|DRUG: Verapamil|DRUG: Verapamil Hydrochloride
+Dose-limiting toxicity, Assessed by National Cancer Institute Common Terminology Criteria for Adverse Events version 4.03., Up to 21 days
+Overall response rate (complete response + partial response), Will be assessed by Cheson 2014 criteria. Will be estimated with the 95% exact binomial confidence interval., Up to 2 years|Complete response rate assessed by Cheson 2014 criteria, Will be estimated with the 95% exact binomial confidence interval and using the product-limit method of Kaplan and Meier along with Greenwood estimator of standard error., Up to 2 years|Duration of overall response, Will be estimated using the product-limit method of Kaplan and Meier along with Greenwood estimator of standard error., Up to 2 years|Duration of complete response, Will be estimated using the product-limit method of Kaplan and Meier along with Greenwood estimator of standard error., Up to 2 years|Overall survival, Will be estimated using the product-limit method of Kaplan and Meier along with Greenwood estimator of standard error., From start of protocol treatment to time of death (due to any cause), assessed up to 2 years|Progression-free survival, Will be estimated using the product-limit method of Kaplan and Meier along with Greenwood estimator of standard error., From start of treatment to time of disease progression or death due to any cause, whichever occurs first, assessed up to 2 years|Incidence of adverse events assessed, Will be assessed by National Cancer Institute Common Terminology Criteria for Adverse Events version 4.03. Observes toxicities will be summarized by type, severity, date of onset, duration, reversibility, and attribution., Up to 2 years
+Percentage of CD30, CD68, and drug exporters, Expression by immunohistochemical staining., Up to 2 years|Pharmacokinetics of monomethyl auristatin E (MMAE), Assessed by plasma concentration of MMAE in peripheral blood., Up to 2 years
+PRIMARY OBJECTIVE:
+
+I. Evaluate the safety and tolerability of the combination of brentuximab vedotin (BV) plus MDR1 inhibitors cyclosporine (CsA)/verapamil hydrochloride (verapamil \[VRP\]).
+
+SECONDARY OBJECTIVES:
+
+I. Obtain estimates of overall response rate (ORR), complete response (CR) rate, and response duration in patients treated with the combination of BV plus CsA/VRP.
+
+II. Estimate overall and progression-free survival in patients treated with the combination of BV plus CsA/VRP.
+
+III. Characterize pharmacokinetics of plasma monomethyl auristatin E (MMAE) in cycle 1 (for expansion cohort only).
+
+OUTLINE: This is a dose-escalation study of brentuximab vedotin and cyclosporine.
+
+Patients receive cyclosporine orally (PO) twice daily (BID) on days 1-5, verapamil hydrochloride PO four times daily (QID) on days 1-5, and brentuximab vedotin intravenously (IV) over 30 minutes on day 1. Cycles repeat every 21 days in the absence of disease progression or unacceptable toxicity.
+
+After completion of study treatment, patients who have not progressed are followed up every 6 months until disease progression, start of a new lymphoma therapy, 2 years post treatment, or study completion, whichever is earlier. Patients who progress are followed up periodically.

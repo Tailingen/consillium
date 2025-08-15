@@ -1,0 +1,15 @@
+MRI in Predicting Early Response to Chemotherapy in Patients With Locally Advanced Breast Cancer
+RATIONALE: Diagnostic procedures such as MRI scans may help predict early response to treatment in patients with breast cancer undergoing chemotherapy.
+
+PURPOSE: This phase II trial is studying MRI in predicting early response to chemotherapy in patients with locally advanced breast cancer.
+Breast Cancer
+DRUG: systemic chemotherapy|PROCEDURE: diffusion-weighted magnetic resonance imaging|PROCEDURE: dynamic contrast-enhanced magnetic resonance imaging|PROCEDURE: magnetic resonance spectroscopic imaging|PROCEDURE: neoadjuvant therapy
+Failed scan rate (i.e., the number of scans that failed protocol) grouped by cause, including patient refusal, protocol violation in timing, major errors in scan protocols, and minor errors in scan protocol|Failed automated MRI-scan data-analysis rate (i.e., number of scans that required manual reading and number of protocol-compliant scans that were unreadable, subdivided according to whether the scans were technically compliant or not)
+OBJECTIVES:
+
+* To determine the technical feasibility of using MRI in a multicenter setting using the most commonly available magnetic resonance (MR) systems (i.e., is the trial able to scan patients to a specific protocol, using different types of MRI machine) measured by the number of MRI scans not completed to technical specifications (i.e., incorrect sequences or incomplete scans) or trial protocol (i.e., scans not completed or completed at the wrong time).
+* To determine how reliably the imaging data can be analyzed in a centralized, semi-automated manner (i.e., can MRI data be reliably transferred from different centers and analyzed using software based in the center for MR investigations at the University of Hull) measured by the number of cases where automated data analysis of completed MRI scans was not possible (i.e., data could not be analyzed at all or data required manual analysis).
+
+OUTLINE: This is a multicenter study.
+
+Patients undergo magnetic resonance imaging (MRI) scans at baseline, 4-7 days after beginning after the first course of chemotherapy, at the end of their second course of chemotherapy, and at the end of their fourth course of chemotherapy (first regimen). MRI techniques may include dynamic contrast-enhanced, diffusion-weighted, and spectroscopic.

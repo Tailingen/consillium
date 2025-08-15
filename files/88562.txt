@@ -1,0 +1,21 @@
+Comprehensive Evaluation of MRI-AI in Prostate Cancer Diagnosis
+The goal of this real-world prospective diagnostic study is to comprehensively evaluate the value of MRI artificial intelligence (MRI-AI) in assisting the diagnosis of prostate cancer (PCa). The main questions it aims to answer are:
+
+Does MRI-AI promote the accurate diagnosis and treatment of prostate cancer? What's the capability of prostate MRI-AI in calculating the prostate volumn? What's the value of prostate MRI-AI assistant diagnosis system in detecting the suspicious lesions on MRI and guiding prostate targeted biopsy? What's the value of prostate MRI-AI assistant diagnosis system in predicting the pathological results of prostate targeted biopsy? Researchers will compare the cancer detection rates of suspicious lesions detected by MRI-AI and senior radiologists.
+
+Participants will:
+
+Receive combination of systematic biopsy and targeted biopsy.
+Prostate Cancer
+DIAGNOSTIC_TEST: Combination of targeted biopsy and systematic biopsy
+The clinically significant prostate cancer (csPCa) detection rate for suspicious lesions found by MRI-AI and urogenital radiologists, csPCa was defined as PCa with a grade group \> 2 or GS ≥ 7. The reference standard was the pathological results of targeted biopsies for the suspicious lesions., One month after the biopsy procedure.
+The PCa detection rate, The PCa detection rate for the suspicious lesions found by MRI-AI and urogenital radiologists., One month after the biopsy procedure.|The Gleason score (GS) of the biopsy sample, The Gleason score was reported by senior uropathologists according to the Standards of Reporting for MRI Targeted Biopsy Studies (START) criteria and interpreted according to the recommendations of the International Society of Urological Pathology (ISUP) Grade Group., One month after the biopsy procedure.|The GS of radical prostatectomy (RP) specimens, The overall grade was assigned based on the part with the highest Gleason score according to the recommendations of the ISUP., One month after the biopsy procedure.
+In recent years, there have been remarkable advancements in the field of artificial intelligence (AI) techniques, particularly in the medical domain. These AI techniques have demonstrated the ability to significantly enhance various medical tasks, such as tumor detection, classification, and prognosis prediction. Increasing evidence supports the ability of AI to facilitate precise diagnosis of PCa and assist in therapeutic decisions. Compared with doctors, AI has the potential to identify not only holistic tumor morphology but also task-specific and granular radiological patterns that cannot be detected by the naked eye. Therefore, AI has great potential to reduce inconsistencies between observers and improve diagnostic accuracy. Previous AI studies at our institution have developed deep learning-based AI models trained on MR images that achieve good performance in the detection and localization of clinically significant prostate cancer (csPCa). Furthermore, the trained AI algorithms were embedded into proprietary structured reporting software, and radiologists simulated their real-life work scenarios to interpret and report the PI-RADS category of each patient using this AI-based software. However, the data is mostly retrospective. The capability of detecting the suspicious lesions on MRI, guiding the prostate targeted biopsy, and optimizing the biopsy scheme warrants further investigation.
+
+The goal of this real-world prospective diagnostic study is to comprehensively evaluate the value of MRI artificial intelligence (MRI-AI) in assisting the diagnosis of prostate cancer (PCa). The main questions it aims to answer are:
+
+Does MRI-AI promote the accurate diagnosis and treatment of prostate cancer? What's the capability of prostate MRI-AI in calculating the prostate volumn? What's the value of prostate MRI-AI assistant diagnosis system in detecting the suspicious lesions on MRI and guiding prostate targeted biopsy? What's the value of prostate MRI-AI assistant diagnosis system in predicting the pathological results of prostate targeted biopsy? Researchers will compare the cancer detection rates of suspicious lesions detected by MRI-AI and senior radiologists.
+
+Participants will:
+
+Receive combination of systematic biopsy and targeted biopsy.

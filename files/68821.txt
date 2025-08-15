@@ -1,0 +1,18 @@
+Differential Study of Invasive Pituitary Adenomas in the Sellar and Cavernous Sinus Regions
+This study involves collecting paired tumor samples from intrasellar and cavernous sinus regions of 20 invasive pituitary tumor patients, preserving them at -80°C for quality multi-omics analysis. Proteomics and transcriptomics are employed to identify molecular differences, while imaging data (MRI/CT) assesses tumor morphology and invasion. In vitro experiments and mechanistic studies validate key findings, exploring how regional molecular differences affect tumor behavior. Data integration combines multi-omics and imaging features to uncover biomarkers and pathways associated with invasiveness and regional specificity, with statistical analysis ensuring significance and reliability.
+Pituitary Tumor
+OTHER: surgery
+Differences in pathological features of tumors, Cell morphology, proliferation index (e.g. Ki-67), angiogenesis, and other pathological features of tumor tissue in different regions were analyzed to explore region-specific invasive manifestations, 2025/12/01-2026/12/01
+This study focuses on investigating the molecular and biological differences between the intrasellar and cavernous sinus regions in invasive pituitary tumors to uncover mechanisms driving their aggressiveness and to identify potential therapeutic targets.
+
+The research begins with sample collection, selecting 20 patients with invasive pituitary tumors based on inclusion and exclusion criteria. Paired tumor tissue samples are collected from the intrasellar and cavernous sinus regions of each patient, ensuring accuracy and completeness. These samples are then preserved at -80°C to maintain quality for subsequent multi-omics analyses.
+
+Next, multi-omics analysis is conducted to examine molecular differences. Proteomics, using technologies like mass spectrometry or protein arrays, identifies differentially expressed proteins between the two regions and assesses their biological functions. Transcriptomics, through RNA sequencing, explores significant differences in gene expression and associated pathways. These approaches aim to uncover molecular mechanisms driving the tumor's invasive behavior.
+
+Imaging analysis complements the molecular studies by utilizing preoperative imaging data, such as MRI or CT, to evaluate tumor morphology, invasion depth, and the impact on surrounding tissues. This provides a structural and functional context for the molecular findings.
+
+Biological experiments follow to validate key discoveries. In vitro studies using cell lines or organoid models test the role of specific genes or pathways identified in the omics analyses, such as through gene knockout or overexpression. Mechanistic studies focus on understanding how molecular differences between the intrasellar and cavernous sinus regions influence tumor behaviors like invasion, proliferation, and migration. Validation experiments, including Western blotting or immunofluorescence, confirm the expression patterns and regional specificity of significant molecules.
+
+Finally, data integration and analysis combine findings from proteomics, transcriptomics, and metabolomics with imaging features. Bioinformatics tools integrate these datasets to identify biomarkers and pathways associated with the tumor's invasiveness and regional specificity. Imaging-omics integration links molecular profiles with imaging characteristics, while rigorous statistical analysis ensures the robustness and significance of the results, accounting for potential confounding factors.
+
+This comprehensive approach aims to provide new insights into the biological mechanisms of invasive pituitary tumors and identify effective targets for innovative therapeutic strategies.

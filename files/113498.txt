@@ -1,0 +1,38 @@
+Radiation Therapy With or Without Chemotherapy in Patients With Stage I-IIA Cervical Cancer Who Previously Underwent Surgery
+This randomized phase III trial studies radiation therapy with chemotherapy to see how well they work compared to radiation therapy alone in treating patients with stage I-IIA cervical cancer who previously underwent surgery. Radiation therapy uses high-energy x-rays to kill tumor cells. Drugs used in chemotherapy, such as cisplatin, work in different ways to stop the growth of tumor cells, either by killing the cells, by stopping them from dividing, or by stopping them from spreading. It is not yet known whether giving radiation therapy together with chemotherapy is more effective than radiation therapy alone in treating patients with cervical cancer.
+Cervical Adenocarcinoma|Cervical Adenosquamous Carcinoma|Cervical Squamous Cell Carcinoma, Not Otherwise Specified|Stage I Cervical Cancer AJCC v6 and v7|Stage IA Cervical Cancer AJCC v6 and v7|Stage IB Cervical Cancer AJCC v6 and v7|Stage IIA Cervical Cancer AJCC v7
+DRUG: Cisplatin|RADIATION: External Beam Radiation Therapy|RADIATION: Intensity-Modulated Radiation Therapy|OTHER: Laboratory Biomarker Analysis|OTHER: Quality-of-Life Assessment|OTHER: Questionnaire Administration
+Recurrence-free Survival (RFS) Rate at 3-years, Estimate for probability of RFS at 3 years using Kaplan-Meier method, where RFS is defined as time from protocol registration (and randomization) to the date of first documented recurrence, death, or the date of last contact, whichever occurs first. Patients without recurrence or death were censored at the date of last contact., 3 years from randomization
+Overall Survival (OS) Rate at 3-years, Estimate for probability of overall survival at 3 years by Kaplan-Meier method, where overall survival is defined as the time from randomization to time of death due to any cause or the date of last contact, whichever occurs first., 3 years from randomization|Number of Participants With Adverse Events (Grade 3 or Higher) During Treatment Period., Number of participants with a maximum grade of 3 or higher during treatment period. Adverse events are graded and categorized using CTCAE v4.0., During treatment period and up to 21 days after stopping the study treatment. The median treatment duration was 39 days.|Patient Risk-benefit, The reporting group (2) did not demonstrate improved RFS compared to the reporting group (1) at the pre-specified significance level. Per the protocol, patient risk-benefit will be assessed only for a positive study.
+
+This is not assessed due to non-positive study per the protocol., up to 11 years|Quality of Life (QOL) as Measured With the FACT-Cx TOI, The patient-reported QOL is assessed with the Trial Outcome Index of the Functional Assessment of Cancer Therapy-Cervix (FACT-Cx TOI). The FACT-Cx TOI is ranged 0-116 and a larger FACT-Cx TOI score suggests a favorable QoL., 1. Pre-treatment (baseline), 2. 3 weeks following the first day of treatment, 3. 7 weeks following the first day of treatment, 4. 36 weeks following the first day of treatment.
+Treatment Compliance, Assessed by the number of cycles and amount of chemoradiotherapy administered, treatment span, incidence and duration of treatment delays, reason for delays, and reason why off study therapy., Up to 11 years|Site(s) of Recurrence, The site(s) of first disease recurrence will be classified as: pelvic-only, extra-pelvic-only or pelvic-and-extra-pelvic and tabulated by treatment group. The test of the hypothesis that the probability of local failure is independent of randomized treatment will be assessed with exact logistic regression adjusted know prognostic factors., Up to 11 years|Local Control, Assessed with Exact Logistic Regression adjusted known prognostic factors., Up to 11 years
+PRIMARY OBJECTIVE:
+
+I. To determine if post-operative adjuvant chemo-radiation therapy (CRT) can significantly improve recurrence-free survival (RFS) when compared to radiation therapy (RT) alone in stage I-IIA cervical cancer patients with intermediate-risk factors after treatment with radical hysterectomy.
+
+SECONDARY OBJECTIVES:
+
+I. To determine whether post-operative adjuvant CRT can improve overall survival (OS) when compared to RT alone in stage I-IIA cervical cancer patients with intermediate risk factors after treatment with radical hysterectomy.
+
+II. To assess differences (across treatment arms) in incidence and severity of therapy attributed adverse events utilizing the active version of Common Terminology Criteria for Adverse Events (CTCAE).
+
+III. To provide assessment of patient risk version (vs) benefit (positive study only).
+
+QUALITY OF LIFE OBJECTIVE:
+
+I. To determine whether post-operative adjuvant CRT improves the health-related quality-of-life (QOL) (compared to RT alone) as measured by Functional Assessment of Cancer Therapy-Cervix (FACT-Cx) Trial Outcome Index (TOI) and produce favorable toxicity profiles (with particular focus on treatment related genitourinary, gastrointestinal, neurological, pain and sexual adverse events).
+
+TRANSLATIONAL RESEARCH OBJECTIVES:
+
+I. To bank archival tumor tissue for research studies, including studies that evaluate the association between biomarkers, RFS, OS, and clinical-surgical-pathologic characteristics in patients randomized to post-operative adjuvant CRT compared to RT alone.
+
+II. To bank deoxyribonucleic acid (DNA) from whole blood for research studies, including studies that evaluate associations between single nucleotide polymorphisms (SNPs), and measures of clinical outcome, including RFS, OS, and adverse events in patients randomized to post-operative adjuvant CRT compared to RT alone.
+
+OUTLINE: Patients are randomized to 1 of 2 treatment arms.
+
+ARM I: Patients undergo pelvic external-beam radiation therapy (EBRT) or intensity-modulated radiation therapy (IMRT) 5 days a week for 5.5 weeks.
+
+ARM II: Patients receive cisplatin IV over 1-2 hours on day 1 and undergo radiotherapy as in Arm I. Treatment with cisplatin repeats every 7 days for up to 6 courses in the absence of disease progression or unacceptable toxicity.
+
+After completion of study therapy, patients are followed up every 3 months for 2 years, every 6 months for 3 years, and then annually thereafter.

@@ -1,0 +1,19 @@
+Tocilizumab for the Treatment of Cytokine Release Syndrome in Patients With COVID-19 (SARS-CoV-2 Infection)
+This phase III trial compares the effect of adding tocilizumab to standard of care versus standard of care alone in treating cytokine release syndrome (CRS) in patients with SARS-CoV-2 infection. CRS is a potentially serious disorder caused by the release of an excessive amount of substance that is made by cells of the immune system (cytokines) as a response to viral infection. Tocilizumab is used to decrease the body's immune response. Adding tocilizumab to standard of care may work better in treating CRS in patients with SARS-CoV-2 infection compared to standard of care alone.
+Cerebrovascular Accident|Chronic Obstructive Pulmonary Disease|Chronic Renal Failure|Coronary Artery Disease|Diabetes Mellitus|Malignant Neoplasm|SARS Coronavirus 2 Infection
+OTHER: Best Practice|BIOLOGICAL: Tocilizumab
+7-day length of invasive mechanical ventilation (MV), The 7-day length of invasive MV for each arm will be estimated with 95% confidence intervals (CIs) using the exact binomial distribution. Their difference by the arms will be tested by Cochran-Mantel-Haenszel (CMH) test stratified by the age group and Sequential Organ Failure Assessment (SOFA) score at significance level of 0.05., Up to 7 days|30-day mortality rate, Defined as death within 30-day after randomization. The 30-day mortality rate for each arm will be estimated with 95% CIs using the exact binomial distribution. Their difference by the arms will be tested CMH test stratified by the age group and SOFA score at significance level of 0.05., Up to 30-day after randomization
+Rate of intensive care (ICU) transfer, The rate of ICU transfer for each arm will be estimated with 95% CIs using the exact binomial distribution. Their difference by the arms will be tested CMH test stratified by the age group and SOFA score at significance level of 0.05., Up to 2 years|Rate of invasive mechanical ventilation, The rate of invasive mechanical ventilation for each arm will be estimated with 95% CIs using the exact binomial distribution. Their difference by the arms will be tested CMH test stratified by the age group and SOFA score at significance level of 0.05., Up to 2 years|Rate of tracheostomy, The rate of tracheostomy for each arm will be estimated with 95% CIs using the exact binomial distribution. Their difference by the arms will be tested CMH test stratified by the age group and SOFA score at significance level of 0.05., Up to 2 years|Length of ICU stay, Will first be described by median and inter-quartile, and then compared between two arms by Wilcoxon Sum-Rank test, Up to 2 years|Length of hospital stay, Up 2 years
+PRIMARY OBJECTIVE:
+
+I. To decrease the length of invasive mechanical ventilation (MV) and rate of 30-day mortality from CRS due to SARS-CoV-2.
+
+SECONDARY OBJECTIVES:
+
+I. To decrease the rates of intensive care unit (ICU) transfer. II. To decrease the rate of invasive mechanical ventilation (MV). III. To decrease the length of ICU stay. IV. To decrease the rate of tracheostomy. V. Safety and efficacy of tociluzumab. VI. Biomarker assessment for response.
+
+OUTLINE: Patients are randomized to 1 of 2 arms.
+
+ARM I: Patients receive tocilizumab intravenously (IV) every 12 hours for up to 3 doses in the absence of disease progression or unacceptable toxicity. Patients also receive standard of care.
+
+ARM II: Patients receive standard of care.

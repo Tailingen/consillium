@@ -1,0 +1,9 @@
+Study of CAR-T Cell Therapy in the Treatment of Relapsed/Refractory Hematological Malignancies
+The primary purpose of this study is to determine the safety and efficacy of novel autologous CAR-T cells in patients with relapsed/refractory hematological malignancies.
+Relapsed/Refractory Hematological Malignancies|Lymphoma|Myeloma|Leukemia
+BIOLOGICAL: Autologous CAR-T cells|DRUG: Fludarabine|DRUG: Cyclophosphamide
+TEAEs, Incidence and severity of Treatment Emergent Adverse Event., 4 weeks|TRAEs, Incidence and severity of Treatment Related Adverse Events., 4 weeks|AESIs, Incidence and severity of AEs of Special Interest., 4 weeks
+Objective Response Rate (ORR) (PR+CR), The proportion of patients with complete response(CR) or partial response(PR), 12 months|Progression-Free Survival (PFS), PFS was defined as the time from CAR-T infusion to the date of disease progression or death from any cause.
+
+Participants not meeting the criteria for progression by the analysis data cutoff date were censored at their last evaluable disease assessment date., 12 months|Overall survival (OS), OS was defined as the time from CAR-T infusion to the date of death. Participants who did not die by the analysis data cutoff date were censored at their last contact date., 12 months
+CAR-T cells targeted CD19 have demonstrated unprecedented successes. Besides CD19, many other molecules such as CD123, BCMA, and CD7 may be potential in developing the corresponding CAR-T cells to treat patients with hematopoietic and lymphoid malignancies. UTC Therapeutics Inc. have developed an efficient platform for constructing CAR-T cells that can remodel of tumor microenvironment and enhance the anti-tumor immune response and persistence of CAR-T cells. In this study, all eligible subjects will receive a conditioning chemotherapy regimen of fludarabine and cyclophosphamide followed by investigational treatment, CAR-T cells. Safety and efficacy of the CAR-T cells will be assessed.

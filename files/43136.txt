@@ -1,0 +1,25 @@
+Curcumin and Cholecalciferol in Treating Patients With Previously Untreated Stage 0-II Chronic Lymphocytic Leukemia or Small Lymphocytic Lymphoma
+This phase II trial studies the efficacy (activity), and tolerability of curcumin and cholecalciferol combination in treating patients with previously untreated stage 0-II chronic lymphocytic leukemia or small lymphocytic lymphoma. Curcumin and cholecalciferol may prevent or slow the growth of cancer cells.
+Contiguous Stage II Small Lymphocytic Lymphoma|Noncontiguous Stage II Small Lymphocytic Lymphoma|Stage 0 Chronic Lymphocytic Leukemia|Stage I Chronic Lymphocytic Leukemia|Stage I Small Lymphocytic Lymphoma|Stage II Chronic Lymphocytic Leukemia
+DRUG: curcumin|DIETARY_SUPPLEMENT: cholecalciferol|OTHER: laboratory biomarker analysis|OTHER: pharmacological study
+Overall Response Rate Based on NCI-WG (for CLL) and Cheson Criteria (for SLL), The point estimate of the overall response rate (biologic response rate + complete response \[CR\] + partial response \[PR\]) with 95% confidence intervals will be calculated using binomial distribution theory.
+
+The time measurement criteria are met for complete response (CR) or partial response (PR) (whichever is first recorded) until the first date that recurrent or progressive disease is objectively documented and assessed, Up to 2 years
+Time to First Cytotoxic Treatment (TFCT), TFCT defined as the time from entry onto study until initiation of treatment with cytotoxic agents because of disease progression.
+
+Kaplan-Meier method and Cox proportional hazard model will be used for the data analysis., Up to 2 years|Percent of Participants With Progression Free Survival (PFS), Percent of participants that reached 2-year survival without disease progression.
+
+PFS is defined as the time from entry onto study until CLL/SLL progression or death from any cause. National Cancer Institute Working Group (NCI-WG) criteria is used for CLL participants and Cheson Criteria is used for SLL participants, Up to 2 years|Overall Survival (OS), Number of participants still alive at 2 years after treatment discontinuation., Up to 2 years|Duration of Response, Time from achievement of partial response, complete response or biologic response to disease progression, Up to 2 years
+PRIMARY OBJECTIVES:
+
+I. To determine the overall response rate (ORR) based on National Cancer Institute-Working Group (NCI-WG) criteria in chronic lymphocytic leukemia (CLL) or the Cheson criteria in small lymphocytic lymphoma (SLL).
+
+SECONDARY OBJECTIVES:
+
+I. To determine the time to first cytotoxic treatment (TFCT), progression free survival (PFS), and overall survival (OS) using this regimen.
+
+OUTLINE:
+
+Patients receive curcumin orally (PO) daily on days 1-28 and cholecalciferol PO daily on days 8-28 of course 1 and days 1-28 of subsequent courses. Treatment repeats every 28 days for up to 6 courses in the absence of disease progression or unacceptable toxicity. Patients achieving partial response or better may receive treatment for a total of 2 years.
+
+After completion of study treatment, patients are followed up for 30 days and then every 3-6 months for 2 years.

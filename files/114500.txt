@@ -1,0 +1,31 @@
+PS-341 and Combination Chemotherapy in Treating Patients With Advanced Solid Tumors
+Phase I trial to study the effectiveness of combining PS-341 and combination chemotherapy in treating patients who have advanced solid tumors. PS-341 may stop the growth of tumor cells by blocking the enzymes necessary for tumor cell growth. Drugs used in chemotherapy use different ways to stop tumor cells from dividing so they stop growing or die. Combining PS-341 and chemotherapy may kill more tumor cells
+Unspecified Adult Solid Tumor, Protocol Specific
+DRUG: bortezomib|DRUG: paclitaxel|DRUG: carboplatin|OTHER: laboratory biomarker analysis
+MTD of paclitaxel, bortezomib, and carboplatin defined as the highest safely-tolerated dose where =< 1 patient experience dose-limiting toxicity (DLT) with the next higher dose having at least 2 patients who experience DLT as assessed by CTC version 2.0, 21 days|Number of toxicity incidents as assessed by CTC Version 2.0, Frequency distributions and other descriptive measures will form the basis of the analysis of these variables., 21 days
+Number of responses, Responses will be summarized by simple descriptive summary statistics delineating complete and partial responses., Up to 3 months|Change in p53 accumulation, From baseline to up to 3 months|Change in other proteasome levels, From baseline to up to 3 months
+PRIMARY OBJECTIVES:
+
+I. Determine the maximum tolerated dose of bortezomib and paclitaxel administered in combination with carboplatin in patients with advanced solid tumors.
+
+II. Compare the tolerability and efficacy of the different sequences of this regimen in these patients.
+
+III. Determine the clinical toxic effects and pharmacokinetics of this regimen in these patients.
+
+IV. Determine, preliminarily, the therapeutic activity of this regimen in these patients.
+
+V. Evaluate p53 accumulation as a marker of PS-341 activity, and the effect of paclitaxel/carboplatin on PS-341 induced accumulation of p53.
+
+VI. Exam the effect of PS-341 on the levels of other proteasome targets, e.g. mdm2, p27, p21, cyclins B, D1,E; IκB and other ubiquitinated proteins in tumor tissue, when available.
+
+OUTLINE: This is a dose-escalation study of bortezomib and paclitaxel. Patients are assigned to 1 of 2 treatment groups.
+
+Group A: Patients receive paclitaxel IV over 3 hours and carboplatin IV over 30 minutes on day 1 and bortezomib IV over 3-5 seconds on days 2, 5, and 8.
+
+Group B: Patients receive bortezomib IV over 3-5 seconds on days 1, 4, and 8 and paclitaxel IV over 3 hours and carboplatin IV over 30 minutes on day 2.
+
+Treatment in both groups repeats every 3 weeks in the absence of disease progression or unacceptable toxicity. After 6 courses of paclitaxel and carboplatin, patients with stable or responding disease may continue with bortezomib alone at the discretion of the investigator. Cohorts of 3-6 patients in each group receive escalating doses of bortezomib and paclitaxel until the maximum tolerated dose (MTD) is determined. The MTD is defined as the dose preceding that at which at least 2 of 6 patients experience dose-limiting toxicity.
+
+Patients are followed at 3 months.
+
+PROJECTED ACCRUAL: A total of 24-96 patients will be accrued for this study within 25 months.

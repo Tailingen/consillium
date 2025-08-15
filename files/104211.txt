@@ -1,0 +1,36 @@
+Ziv-Aflibercept Followed by Ziv-Aflibercept, Fluorouracil, and Leucovorin Calcium in Treating Patients With Stage IV Colorectal Cancer
+This phase II trial studies how long it takes colorectal cancer resistant to standard treatment to grow while receiving treatment with ziv-aflibercept, and how well adding fluorouracil and leucovorin calcium to ziv-aflibercept works in treating patients with stage IV colorectal cancer after they progress on ziv-aflibercept alone. Ziv-aflibercept may stop the growth of colorectal cancer by blocking the formation of tumor blood vessels. Fluorouracil and leucovorin calcium are drugs used in chemotherapy. Fluorouracil works to stop the growth of tumors cells by preventing the cells from growing and dividing. Leucovorin calcium helps fluorouracil work better. Adding fluorouracil and leucovorin calcium to ziv-aflibercept may be an effective treatment for patients who progress on ziv-aflibercept alone.
+Mucinous Adenocarcinoma of the Colon|Mucinous Adenocarcinoma of the Rectum|Recurrent Colon Cancer|Recurrent Rectal Cancer|Signet Ring Adenocarcinoma of the Colon|Signet Ring Adenocarcinoma of the Rectum|Stage IVA Colon Cancer|Stage IVA Rectal Cancer|Stage IVB Colon Cancer|Stage IVB Rectal Cancer
+BIOLOGICAL: ziv-aflibercept|DRUG: leucovorin calcium|DRUG: fluorouracil|OTHER: laboratory biomarker analysis
+Progression-free survival during the first phase of the study, Point and precision estimates, median and its 95% confidence interval (CI) will be provided. To examine associations between biomarkers and PFS1, the difference in progression-free survival by each biomarker level will be detected., Period from the start of ziv-aflibercept to the date of radiographic or clinical progression, death, or within 30 days off treatment|Progression-free survival during the second phase of the study, Using the Simon's 2-stage optimum design, there is a 90% power to detect improvement of adding fluorouracil to ziv-aflibercept on PFS2 and the type I error rate is 2.3%. Point and precision estimates, median and its 95% CI will be provided., Period from the start of fluorouracil with ziv-aflibercept to the date of radiographic or clinical progression, death, or within 30 days off treatment
+Overall survival (OS), OS will be summarized with Kaplan-Meyer plots to describe the outcome of patients treated on this protocol., Period from treatment initiation with single agent ziv-aflibercept to death, assessed up to 3 years|Response rate assessed using Response Evaluation Criteria in Solid Tumors 1.1, Response rates will be calculated as the percent of evaluable patients whose best response is a complete response or partial response, and exact 95% confidence intervals will be calculated for this estimate., Up to 3 years|Incidence of adverse events graded according to NCI CTCAE version 4.0, Toxicities observed at each leg of the study will be summarized in terms of type (organ affected, laboratory determination), severity (by NCI Common Toxicity Criteria and nadir or maximum values for the laboratory measures), time of onset, duration, and reversibility or outcome. Tables will be created to summarize these toxicities and side effects by leg and by course of therapy., Within 30 days of the last administration of the study drug
+Plasma levels of PIGF, The association between each biomarker and PFS1 will be assessed by maximal x\^2 square approach by identifying the optimal cut-off value for each biomarker and adjusting p value based on the bootstrap-like p values. The association between biomarkers and tumor response and OS will be analyzed using Fisher's exact and log-rank tests. Biomarker levels will be categorized based on optimal cutoff values determined in the analysis for PFS., Up to 3 years|mRNA level of VEGFR1, VEGFR2, and VEGF-A, The association between each biomarker and PFS1 will be assessed by maximal x\^2 square approach by identifying the optimal cut-off value for each biomarker and adjusting p value based on the bootstrap-like p values. The association between biomarkers and tumor response and OS will be analyzed using Fisher's exact and log-rank tests. Biomarker levels will be categorized based on optimal cutoff values determined in the analysis for PFS., Up to 3 years
+PRIMARY OBJECTIVES:
+
+I. To determine the progression-free survival during the first phase of the study (PFS1) in patients with metastatic colorectal cancer treated with single agent ziv-aflibercept after progressing on leucovorin calcium, fluorouracil, oxaliplatin (FOLFOX) and leucovorin calcium, fluorouracil, irinotecan hydrochloride (FOLFIRI) with bevacizumab +/- cetuximab or panitumumab.
+
+II. To determine the progression-free survival (PFS2) in patients with metastatic colorectal cancer treated with ziv-aflibercept and 5-fluorouracil (fluorouracil), after progressing on ziv-aflibercept alone.
+
+SECONDARY OBJECTIVES:
+
+I. Overall survival. II. Response rate. III. Incidence and nature of adverse events. IV. Growth modulation index (ratio of PFS2/PFS1).
+
+TERTIARY OBJECTIVES:
+
+I. To determine relevant biomarkers which can distinguish patients with a progression free survival greater than 3 months on single agent ziv-aflibercept (tumor vascular endothelial growth factor \[VEGF\], vascular endothelial growth factor receptor \[VEGFR\]1 and 2, baseline plasma phosphatidylinositol glycan anchor biosynthesis, class F \[PlGF\]).
+
+II. Plasma levels of VEGF-A, B, C, D, intercellular adhesion molecule 1 (ICAM), chemokine (C-X-C motif) ligand 1 (melanoma growth stimulating activity, alpha) (Gro alpha), hepatocyte growth factor (HGF), stem cell growth factor beta (SCGF beta) prior to treatment and with each cycle of therapy.
+
+III. Single nucleotide polymorphisms (SNPs) of VEGFA, VEGFR1 \& 2 \& 3, interleukin (IL)8, angiopoietin-2 (Ang2), IL-6, ICAM, PlGF, neuropilin (NRP)1 \& 2, chemokine (C-X-C motif) receptor 2 (CXCR2) and others in the angiogenic pathway.
+
+IV. Tumor messenger ribonucleic acid (mRNA) expression levels of VEGF B, C, D, VEGFR 3; NRP 1, 2, and VEGF isoforms on biopsy specimens taken at trial initiation and upon disease progression and addition of 5-FU.
+
+V. Correlation of biomarkers with toxicity of ziv-aflibercept alone and with 5-FU.
+
+OUTLINE:
+
+PHASE I: Patients receive ziv-aflibercept intravenously (IV) over 1 hour on day 1. Courses repeat every 14 days in the absence of disease progression or unacceptable toxicity. At the time of progression, patients proceed to Phase II.
+
+PHASE II: Patients receive ziv-aflibercept IV over 1 hour, leucovorin calcium IV over 1 minute, and fluorouracil IV over 46 hours on day 1. Courses repeat every 14 days in the absence of disease progression or unacceptable toxicity.
+
+After completion of study treatment, patients are followed up every 3 months.

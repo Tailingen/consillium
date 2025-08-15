@@ -1,0 +1,28 @@
+Carboplatin, Gemcitabine Hydrochloride, and Mifepristone in Treating Patients With Advanced Breast Cancer or Recurrent or Persistent Ovarian Epithelial, Fallopian Tube, or Primary Peritoneal Cancer
+This phase I trial studies the side effects and best dose of gemcitabine hydrochloride and mifepristone when given together with carboplatin in treating patients with breast cancer that is metastatic or cannot be removed by surgery or recurrent or persistent ovarian epithelial, fallopian tube, or primary peritoneal cancer. Drugs used in chemotherapy, such as carboplatin and gemcitabine hydrochloride, work in different ways to stop the growth of tumor cells, either by killing the cells or by stopping them from dividing. Steroid hormones can cause the growth of cancer cells. Hormone therapy using mifepristone may fight breast and ovarian cancer by lowering the amount of steroid hormone the body makes. Giving carboplatin and gemcitabine hydrochloride together with mifepristone may be an effective treatment for breast, ovarian epithelial, fallopian tube, or primary peritoneal cancer.
+Male Breast Cancer|Recurrent Breast Cancer|Recurrent Fallopian Tube Cancer|Recurrent Ovarian Epithelial Cancer|Recurrent Primary Peritoneal Cavity Cancer|Stage IIIB Breast Cancer|Stage IIIC Breast Cancer|Stage IV Breast Cancer
+DRUG: mifepristone|DRUG: carboplatin|DRUG: gemcitabine hydrochloride|OTHER: laboratory biomarker analysis|OTHER: pharmacological study
+MTD/RP2D, defined as < 1/6 patients at highest dose level below max administered dose or fewer than 33% of patients experiencing dose limiting toxicity (DLT), graded according to the Common Terminology Criteria for Adverse Events (CTCAE) version (v) 4.0, Summarized by type and grade overall and for each dose level. Confidence intervals for the proportion of patients experiencing a DLT will be constructed., 21 days
+Response to treatment according to Response Evaluation Criteria in Solid Tumors 1.1, Up to 12 weeks|Progression free survival (PFS), Estimated using the method of Kaplan-Meier, and compared between groups using the logrank test. In addition, the association between GR expression status and PFS or overall survival (OS) will be examined using Cox proportional hazards regression with GR status and dose level as covariates., Up to 18 months|OS, Estimated using the method of Kaplan-Meier, and compared between groups using the logrank test. In addition, the association between GR expression status and PFS or OS will be examined using Cox proportional hazards regression with GR status and dose level as covariates., Up to 18 months
+GR expression, The association between GR expression and treatment response will be examined descriptively. Immunohistochemical detection of GR will be scored and dichotomized as described by Belova et al. Examined using Cox proportional hazards regression with GR status and dose level as covariates., Up to 18 months|Presence or evolution/change of ER between primary and metastatic tumor, Up to 18 months|Presence or evolution/change of PR between primary and metastatic tumor, Up to 18 months|Presence or evolution/change of AR between primary and metastatic tumor, Up to 18 months|Mean tumor shrinkage, Tumor shrinkage will be compared between groups using the Wilcoxon rank-sum test., Day 2|Proportion of responders in GR+ and GR- groups, Response rates will be compared using the Fisher's exact test., Day 2|Mifepristone tumor levels, The relationship between blood and biopsy concentrations will be summarized using the correlation coefficient; a linear regression model may also be used depending on the number of available biopsies., Day 1 of course 1 (just prior to 2nd mifepristone dose administration) and day 8 of course 1 (just prior to 4th mifepristone dose administration)
+PRIMARY OBJECTIVES:
+
+I. To determine the maximum tolerated dose (MTD) and recommended phase II dose (RP2D) of mifepristone when given in combination with carboplatin and gemcitabine (gemcitabine hydrochloride).
+
+SECONDARY OBJECTIVES:
+
+I. To determine the safety and tolerability of mifepristone in combination with carboplatin and gemcitabine.
+
+II. To describe the toxicities seen with carboplatin, gemcitabine, and mifepristone combination therapy.
+
+TERTIARY OBJECTIVES:
+
+I. To correlate expression of biomarkers (e.g. glucocorticoid receptor \[GR\], androgen receptor \[AR\], estrogen receptor \[ER\], and progesterone receptor \[PR\]) with treatment outcomes.
+
+II. To correlate serum and intratumoral mifepristone concentrations after two doses of mifepristone (in patients with easily accessible tumor who consent to an optional research biopsy).
+
+OUTLINE: This is a dose-escalation study of mifepristone.
+
+Patients receive mifepristone orally (PO) once daily (QD) on days 0, 1, 7, and 8, and carboplatin intravenously (IV) over 30 minutes and gemcitabine hydrochloride IV over 30-60 minutes on days 1 and 8. Courses repeat every 21 days in the absence of disease progression or unacceptable toxicity.
+
+After completion of study treatment, patients are followed up every 3 months for 18 months.

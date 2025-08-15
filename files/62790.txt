@@ -1,0 +1,47 @@
+Effect of Cryotherapy in the Prevention of Madarosis Produced by Chemotherapy in Breast Cancer Patients
+Chemotherapy-induced alopecia (CIA) significantly compromises body image in breast cancer patients, particularly when involving eyebrow and eyelash loss (madarosis). While scalp cooling devices are routinely employed to prevent scalp alopecia, no standardized interventions exist for madarosis prevention. This quasi-experimental study assesses the efficacy of targeted eyebrow cryotherapy in reducing anthracycline- and taxane-induced madarosis.
+
+The trial will enroll patients from two tertiary hospitals in Salamanca (intervention arm: cryotherapy) and a control cohort from Santander. Cryotherapy will be administered (-4°C to -7°C) 15 minutes pre-chemotherapy infusion and maintained for 20 minutes post-infusion. Primary outcomes include hair retention quantified through photogrammetric analysis (TIDOP Research Group) at four timepoints: baseline, mid-treatment, chemotherapy completion, and 1-month follow-up. Secondary endpoints evaluate quality of life (QLQ-C30 validated scales) and cryotherapy-related adverse events (CTCAE v5.0 criteria).
+
+This investigation aims to establish the first evidence-based protocol for madarosis prevention and develop a novel alopecia classification scale, addressing a critical gap in supportive oncology care
+Breast Neoplasms|Alopecia|Madarosis|Eyebrow Diseases|Eyelash Diseases|Anthracyclines|Taxoids|Side Effects
+DEVICE: cryotherapy for chemotherapy-induced madarosis
+Eyebrow hair preservation rate, Proportion of patients with ≤50% eyebrow hair loss (Grade 0-2 on CTCAE v5.0 adapted scale) at end of treatment, assessed via AI-based photogrammetry (TIDOP Group), From baseline to 1 month post-chemotherapy completion
+Eyelash hair preservation rate, Proportion of patients with ≤50% eyelash hair loss (Grade 0-2 on CTCAE v5.0 adapted, From baseline to 1 month post-chemotherapy completion|Control group madarosis incidence, Absolute reduction in eyebrow hair count (number of hairs lost) from baseline to end-of-treatment, measured via AI-based photogrammetry (DAM-Net), From baseline to 1 month post-chemotherapy completion|Change in Body Image Score Measured by EORTC QLQ-BR23, Mean change in body image subscale score (Items 9-12) from baseline to 1-month post-chemotherapy. Items assess physical attractiveness, femininity, and body dissatisfaction using a 4-point Likert scale (1='Not at all' to 4='Very much'). Raw scores are linearly transformed to a 0-100 scale following EORTC guidelines, where higher scores indicate worse body image perception."\*
+
+Measure: \*EORTC QLQ-BR23 (23-item breast cancer-specific module)\*, From baseline to 1 month post-chemotherapy completion|Change in Eyelash Satisfaction measured by Eyelash Satisfaction Questionnaire (ESQ), Measure: Eyelash Satisfaction Questionnaire (ESQ)
+
+Description:
+
+Change in eyelash-related satisfaction assessed through three validated domains of the 23-item ESQ:
+
+* LFOS (Length, Fullness, Overall Satisfaction): 6 items (Q1-Q6) scored 1-5. Raw sum range: 3-15. Lower scores = Better satisfaction
+* CAP (Confidence, Attractiveness, Professionalism): 7 items (Q16-Q19, Q21-Q23) scored 1-5. Raw sum range: 3-15. Lower scores = Better self-perception
+* DR (Daily Routine): 4 items (Q12-Q15) scored 1-5. Raw sum range: 3-15. Higher scores = Better daily adaptation All items use 5-point Likert scales (1='Very dissatisfied' to 5='Very satisfied'). Scores analyzed as untransformed raw sums per domain.", From baseline to 1 month post-chemotherapy completion|Cryotherapy-related adverse events, Proportion of patients reporting side effects assessed via a non-validated \*ad hoc\* questionnaire (Not at all, a little, quite a bit, very much) developed specifically for this study due to lack of validated tools in the literature, From baseline through chemotherapy completion (approximately 20 to 24 weeks)|Proposal of a new madarosis classification scale, Development of an automated madarosis grading system through:
+
+1. Standardized dual-camera imaging: Paired Canon EOS700D (60mm lenses, 1.5m, auto-mode) capturing eyebrow/eyelash regions.
+2. Iterative AI pipeline (Python-based):
+
+   * Phase 1: Temporal alignment via anthropometric landmarks. Deep Learning refinement
+   * Phase 2: Pixel-wise hair detection (DAM-Net-class models)
+   * Phase 3: Density change analysis
+3. Validation: Against untreated control images Covers most alopecia-inducing drugs in breast cancer (anthracyclines/taxanes). Baseline, post-cycles (anthra:4; pacli:8; docet:4), 1mo post-tx. Additional assessments if n≥30: paclitaxel (12 cycles), docetaxel (6 cycles).
+
+Open-source release planned., Baseline, after cycles (anthracyclines:4; paclitaxel:8/12*; docetaxel:4/6*), 1mo post-treatment. *if n≥30. Duration: ~1 year
+Background: Chemotherapy-induced alopecia (CIA) is one of the most distressing adverse effects for breast cancer patients, particularly when involving eyebrow and eyelash loss (madarosis). While scalp cryotherapy has demonstrated efficacy in reducing CIA, no standardized protocols exist for preventing madarosis. Preliminary studies suggest localized cryotherapy may mitigate this effect but robust evidence is lacking.
+
+Objectives: The primary objective is to evaluate the efficacy of supraorbital cryotherapy in preventing anthracycline- or taxane-induced madarosis in breast cancer patients. Secondary objectives include: (1) Quantifying chemotherapy-induced alopecia of eyebrows (madarosis) and eyelashes (milphosis) in control groups, (2) developing a novel alopecia classification scale for eyebrows and eyelashes (currently nonexistent), (3) assessing quality-of-life impact using validated questionnaires "European Organisation for Research and Treatment of Cancer Quality of Life Questionnaire-BR23 (EORTC QLQ-BR23)" and, and Eyelash Satisfaction Questionnaire (ESQ). (4) monitoring cryotherapy-related adverse events (e.g., headache, localized pain).
+
+Methodology: This non-randomized, quasi-experimental multicenter trial will be conducted at hospitals in Salamanca and Santander. The study population will comprise 120 breast cancer patients receiving anthracycline/taxane-based chemotherapy (sample size may be adjusted based on recruitment). Inclusion criteria: women \>18 years old with recent diagnosis and no prior treatments. The intervention group will receive supraorbital cryotherapy using temperature-controlled devices (-4°C to -7°C) applied 15 minutes before chemotherapy infusion and maintained for 20 minutes post-infusion.
+
+Outcome Measures: Primary outcomes will be assessed via:
+
+* Photogrammetric analysis (TIDOP Research Group) at four timepoints: baseline, mid-treatment, end-of-treatment, and 1-month follow-up. Hair retention will be quantified using automated AI algorithms (DAM-Net).
+* Patient-reported outcomes using the EORTC QLQ-BR23 and ESQ questionnaires.
+* Adverse event monitoring through ad hoc surveys. Statistical Analysis: Data will be analyzed using ANOVA and Mann-Whitney tests for intergroup comparisons, Pearson/Spearman correlations for continuous variables, and linear regression to identify predictive factors.
+
+Ethics: The study has been approved by the Ethics Committees of Salamanca Health Area (Ref: 2023 09 1427) and Hospital Universitario Marqués de Valdecilla (Cantabria, Spain)" (Ref: 2024.459). All participants will provide written informed consent in accordance with the Helsinki Declaration and "General Data Protection Regulation (GDPR)".
+
+Limitations: Current evidence on madarosis/milphosis is limited, and no validated scales exist for grading eyebrow/eyelash alopecia.
+
+Innovations: This study introduces: (1) the first classification scale for chemotherapy-induced madarosis, (2) evidence for cryotherapy as a preventive intervention, and (3) an objective AI-powered photogrammetry methodology.

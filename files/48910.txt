@@ -1,0 +1,47 @@
+Stereotactic Radiotherapy for Oligometastasis (1-5) in Various Tumor Sites vs. Palliative Care
+Currently, the usual standard of palliative treatment used in patients with diagnosed oligometastatic cancer in accordance with the local clinical recommendations is chemotherapy and/or a symptomatic course of radiation therapy in doses less than ablative ones The aim of the study is to increase the effectiveness of treatment of patients with tumors of various localizations with oligometastases in the bones and internal organs with the help of stereotactic radiation therapy.
+
+The method of stereotactic radiation therapy will be applied in patients with oligometastatic forms of tumors of various localizations after the current line of chemotherapy treatment T1-4, N0-3, M0-1, over 18 years of age at the start of treatment, compared with standard methods of palliative therapy in those same patient models.
+Oligometastatic Disease
+RADIATION: stereotactic ablative radiation therapy|RADIATION: palliative radiation therapy|DRUG: Chemotherapy
+Progression-free survival, Time period before cancer progression after the treatment, assessed in months, At approximately end of year 1, 2,3 (study completion)|Time before the current drug line change, Time period before the indication for drug therapy alteration after the treatment, assessed in months, At approximately the end of years 1, 2, 3 (study completion)
+Acute side effects, Local changes of tissues after the treatment, assessed in accordance to CTCAE v5.0, At approximately the end of months 1, 2, 3 (treatment completion)|Late side effects, Local changes of tissues after the treatment, assessed in accordance to CTCAE v 5.0, At approximately the end of years 1, 2, 3 (study completion)|Overall survival, Time period before patient death after the treatment, assessed in years, At approximately the end of years 1, 2, 3 (study completion)|Local metastasis control, Time period before irradiated targets relapse, assessed in years/months, At approximately the end of years 1, 2, 3 (study completion)|Quality of life Assessed with the Functional Assessment via EQ-5D (EuroQolGroup Scale) and The Numerical Rating Pain Scale, 1. Functional Assessment via EQ-5D (EuroQolGroup Scale). The scale will be applied before treatment, and after the treatment at month 1, 2, 3, 6, 12 The system comprises 5 dimensions: mobility, self-care, usual activities, pain/discomfort and anxiety/depression. Each dimension has 5 levels: no problems, slight problems, moderate problems, severe problems and extreme problems (a 1-digit number that expresses the level). The EQ visual-analogue records the patient's self-rated health on a vertical visual analogue scale where the endpoints are labelled 'The best health you can image' and 'The worst health you can image'. It will be used as a quantitative measure of health outcome that reflects the patient's own judgement.
+2. in case of painful targets The Numerical Rating Pain Scale will be applied before and after the treatment at month 1, 2, 3, 6, 12 . Score 0 (no pain) to 10 (maximal pain), At approximately the end of month 1, 2, 3, 6, 12 (study completion)
+1. A patient with a previously verified diagnosis of a malignant neoplasm of one of the localizations (ICD 10-11 codes С18, С19, С20, С34, С50, С61, С64) who meets the inclusion criteria, after randomization by random numbers into the study group, is carried out:
+
+1. 3-dimensional/4-dimensional computed tomography for simulation using specialized fixation devices (the choice of the method of computed tomography and fixing devices will be carried out depending on the location of the metastasis).
+2. The resulting images are added to the contouring program.
+3. Delineation of targets and risk organs is performed.
+4. The clinical volumes and margins for the errors are determined.
+5. Prescribing the total dose per target and dose limits for critical structures.
+6. Dosimetric planning of the course of external-beam radiation therapy is carried out.
+7. Irradiation sessions are carried out on a linear accelerator with a multi-leaf collimator, with the presence of a function for visual control of the target using cone tomography with a kilo-voltage/mega-voltage beam.
+8. When the target is localized in the lungs, liver, and adrenal glands, in order to reduce the radiation load on the surrounding healthy tissues and achieve the necessary control over the position of metastasis, irradiation is carried out with a deep breath hold, or at certain phases of respiration.
+
+Tumor localization / Description /Total focal dose, Gy/ Number of fractions /Single focal dose, Gy/ Irradiation mode:
+
+Lung Tumors:
+
+1. of 3cm or less located in the parenchyma TD45Gy in 3Fx with 15Gy every day
+2. adjacent to the chest wall or less than 3 cm TD50Gy in 5Fx with 10Gy every day
+3. within 2 cm of the mediastinum or brachial plexus TD60Gy in 8Fx with 7.5Gy every day
+
+Bones TD24Gy in 3Fx with 8Gy every day
+
+Brain Metastasis
+
+1. volume from 0.5 to 5 cm3 TD20-22Gy in 1Fx at a time
+2. volume of metastasis is from 5 to 10 cm3 TD16-18Gy or TD18-20Gy in 1 Fx at a time
+
+Liver Radiation regimen selection based on tolerance of surrounding tissues and diligence to critical structures TD30-60Gy in 3-8Fx with 6-15Gy every day
+
+Adrenal Glands TD60Gy in 8Fx with 7.5Gy every day
+
+2. The expected duration of the patient's participation in clinical testing, a description of the sequence and duration of all periods of clinical testing, including the period of follow-up, if any;
+
+Periods of clinical testing:
+
+* pre-hospital (includes a comprehensive examination of the patient before treatment)
+* inpatient (includes pre-radiation training for up to 3 working days, remote radiation therapy, from one to eight working days);
+* follow-up - after 3, 6, 9, 12, 18, 24 months;
+* collection and processing of the received data.

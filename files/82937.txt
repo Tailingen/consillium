@@ -1,0 +1,23 @@
+Autophagy Activation for the Alleviation of Cardiomyopathy Symptoms After Anthracycline Treatment, ATACAR Trial
+This phase II trial compares two drug therapy plans for the correction of heart function changes (reduced ejection function) in patients who have undergone anthracycline-based treatment for lymphoma, sarcoma, or breast cancer. "Reduced ejection fraction" means the left ventricle of the heart is pumping a reduced blood volume with each heartbeat. Treatment is recommended, and the purpose of this research is to compare two different drug therapy plans (standard therapy with carvedilol and lisinopril and standard therapy with carvedilol and lisinopril plus pravastatin and spironolactone) and their effects on improvement of heart function. All of these drugs are heart medications, and carvedilol and lisinopril are commonly used to improve heart function. Adding pravastatin, a cholesterol lowering drug with additional beneficial effects on the cardiovascular system, and spironolactone, a water pill with additional beneficial effects on the cardiovascular system, may lead to even better (and faster) improvements in heart function.
+Breast Carcinoma|Hematopoietic and Lymphoid Cell Neoplasm|Lymphoma|Sarcoma
+DRUG: Carvedilol|DRUG: Lisinopril|DRUG: Pravastatin|DRUG: Spironolactone
+Delta change in left ventricular ejection fraction [LVEF]), Will be a comparison of the average delta change in LVEF from start to six months of therapy between group 1 and 2 via an independent groups t-test or Wilcoxon as appropriate after testing distributional assumptions., Baseline up to 6 months
+Cardiac function recovery rates between group 1 and group 2, Incidence rates will be compared using a simple test for equality of binomial proportions (χ \^ 2 -test or Fisher Exact)., Baseline up to 6 months|Time to recovery of cardiac function between group 1 and group 2, Will be a comparison of the average delta change in LVEF from start to six months of therapy between group 1 and 2 via an independent groups t-test or Wilcoxon as appropriate after testing distributional assumptions., Baseline up to 6 months
+PRIMARY OBJECTIVE:
+
+I. To compare cardiac function changes (delta left ventricular ejection fraction \[LVEF\]) over six months in patients with a new diagnosis of reduced LVEF after anthracycline-based therapy for lymphoma randomized to either standard therapy (carvedilol and lisinopril) or standard therapy plus pravastatin and spironolactone.
+
+SECONDARY OBJECTIVE:
+
+I. To compare cardiac function recovery rates over six months in patients with a new diagnosis of reduced LVEF after anthracycline-based therapy for lymphoma, sarcoma, or breast cancer randomized to either standard therapy (carvedilol and lisinopril) or standard therapy plus pravastatin and spironolactone.
+
+II. To compare the time to recovery of cardiac function in patients with a new diagnosis of reduced LVEF after anthracycline-based therapy for lymphoma, sarcoma, or breast cancer randomized to either standard therapy (carvedilol and lisinopril) or standard therapy plus pravastatin and spironolactone.
+
+OUTLINE: Patients are randomized in to 1 of 2 groups.
+
+GROUP I: Patients receive carvedilol orally (PO) and lisinopril orally (PO), up-titrated to maximum tolerated doses as per standard clinical practice for 6 months.
+
+GROUP II: Patients receive standard clinical practice therapy as in Group I. Patients also receive pravastatin PO and spironolactone PO for 6 months.
+
+After completion of study treatment, patients are followed up at the 6 month visit.

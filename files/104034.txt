@@ -1,0 +1,27 @@
+Natural Killer (NK) Cell Transplantation for AML
+The purpose of this study is to assess the safety and efficacy of infusing natural killer cells from a donor as treatment for patients with acute myeloid leukemia in remission or who have experienced relapse.
+Acute Myeloid Leukemia
+DRUG: Cyclophosphamide, Fludarabine, Clofarabine, Etoposide, Interleukin-2|PROCEDURE: Natural Killer Cell Infusion|DEVICE: CliniMACS System
+Number of Patients Experiencing Grade 3 or 4 Toxicities During Conditioning and up to 100 Days Post-transplant, Document the number of patients experiencing grade 3 or 4 toxicities during conditioning and up to 100 days post-transplant. Toxicities were identified using Common Toxicity Criteria V 3.0 criteria., Beginning at on therapy through 100 days post-transplant|Proportion of Patients Experiencing Grade 3 or 4 Toxicities During Conditioning and up to 100 Days Post-transplant, Document the proportion of patients experiencing grade 3 or 4 toxicities during conditioning and up to 100 days post-transplant. Toxicities were identified using Common Toxicity Criteria V 3.0 criteria., Beginning at on therapy through 100 days post-transplant
+Duration of Engraftment of Natural Killer (NK) Cells, NK cell engraftment defined as NK cell chimerism in recipients., Measured at days 2, 7, 14, 21 and 28 after NK cell transplantation, and up to 189 days post transplant as clinically indicated|Percent of Peak NK Cell Chimerism, The maximum percent of donor NK cell in recipients during a four-week period after NK cell infusion., Days 2, 7, 14, 21 and 28 after NK cell transplantation|Percent of Detectable Donor NK Cells at Day 28, The percent of detectable donor NK cells in recipients at 28 days after NK cell infusion. Three of 10 participants had detectable donor cells at week 4. The results report the percent of detectable cells in the 3 participants., At 28 days|Day That Maximum NK Cell Engraftment Was Reached, The time elapsed after transplantation in days until peak KIR-mismatched donor NK cell expansion was reached in recipients, Day 0 through Day 28 post NK cell transplantation|Number of KIR-mismatched NK Cells, Number of KIR-mismatched donor NK cells in recipients' blood at day 2 and day 14 post NK cell infusion., Day 2 and day 14 post NK cell transplantation|Number of Participants With Evidence of NK Cells Lysing a Target Cell Line (K562), NK cells in recipient achieving ability to lyse target cell line (K562) within normal range established by donor NK cells., Days 2, 7, 14, 21, and 28 after NK cell transplantation|Relapse-free Survival, For Arm 1, the efficacy of NK cell transplantation will be reported as the proportion of participants who achieve complete or partial remission. Kaplan-Meier estimates of relapse-free survival and confidence interval was determined by binomial distribution because no events were observed. The binomial interval is based on the number of patients at risk., Up to 2 years post NK cell transplantation|Overall Survival, Overall survival is defined as the time relapse from on study date to death with those alive at last follow up date censored. The Kaplan-Meier method was used to compute survival probability estimates and confidence interval was determined by binomial distribution (for no events or all events) or by log hazard method. The binomial interval is based on the number of patients at risk.
+
+The confidence intervals for Arm 1 and Arm 2a were determined by binomial distribution.
+
+The confidence interval for Arm 2b was determined by log hazard method., Up to 2 years post NK cell transplantation
+Natural killer (NK) cells extracted from a \[parental\] donor are infused intravenously. Most patients are given a multi-agent chemotherapeutic conditioning regimen prior to the infusion. The conditioning regimen may be omitted for patients who have previously received traditional stem cell transplant.
+
+Details of Treatment Plan:
+
+Stratum 1 (AML in complete remission)
+
+Cyclophosphamide 60 mg/kg IV Day -7 Fludarabine 25 mg/m2/day IV Days -6 through -2 Donor pheresis Day -1 Start IL-2 on Day -1, then 3 times per week x 2 weeks NK Cell purification and infusion on Day 0
+
+Stratum 2 (AML that is refractory or relapsed or AML with increasing minimal residual disease)
+
+Clofarabine 40 mg/m2 IV, days -6 through -2 Etoposide 100 mg/m2 IV, days -6 through -2 Cyclophosphamide 400 mg/m2 IV, days -6 through 02 Donor pheresis Day -1 Start IL-2 Day -1, and then 3 times per week x 2 weeks NK Cell purification and infusion on Day 0.
+
+For patients who have received prior SCT, the conditioning regimen may be omitted if the NK cells are obtained from the original SCT donor.
+
+Cytokine regimen (stratum 1 and 2): 1 million units/m2 of IL-2 given subcutaneously three times per week for two weeks (6 doses) starting on the evening of day -1.
+
+NK Cell Transplantation (stratum 1 and 2): NK cells from haplo-identical family donor will be infused on day 0.

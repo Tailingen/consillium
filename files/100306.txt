@@ -1,0 +1,27 @@
+Temozolomide and Everolimus in Treating Patients With Stage IV Melanoma That Cannot be Removed by Surgery
+RATIONALE: Drugs used in chemotherapy, such as temozolomide, work in different ways to stop the growth of tumor cells, either by killing the cells or by stopping them from dividing. Everolimus may stop the growth of tumor cells by blocking blood flow to the tumor and by blocking some of the enzymes needed for cell growth. Giving everolimus together with temozolomide may kill more tumor cells.
+
+PURPOSE: This phase II trial is studying how well giving everolimus together with temozolomide works in treating patients with stage IV melanoma that cannot be removed by surgery
+Melanoma (Skin)
+DRUG: everolimus|DRUG: temozolomide
+9-week Progression-free Survival Rate, The primary endpoint of this trial is the 9 week PFS rate. A patient is a success if they are progression free at their cycle 2 evaluation (approximately 9 weeks post registration). All patients, who meet the eligibility criteria, sign a consent form, and start treatment will be included in the evaluation of the 9-week PFS rate (evaluable patients). The proportion of successes will be estimated by the number of successes divided by the total number of evaluable patients. Confidence intervals for the true success proportion will be calculated using the properties of the binomial distribution. If some patients are lost to follow up prior to their cycle 2 evaluation, the Kaplan-Meier method will be used to estimate the 9 week PFS rate. Progression is defined using Response Evaluation Criteria In Solid Tumors Criteria (RECIST v1.0), as a 20% increase in the sum of the longest diameter of target lesions, or a measurable increase in a non-target lesion, or the appearance of new lesions., at 9 weeks
+Survival Time, Survival time is defined as the time from registration to death due to any cause. The distribution of survival time will be estimated using the method of Kaplan-Meier., Time from registration to death due to any cause; Up to 5 years|Time to Disease Progression, Time to disease progression is defined as the time from registration to the earliest date documentation of disease progression. If a patient dies without a documentation of disease progression the patient will be considered to have had tumor progression at the time of their death unless there is sufficient documented evidence to conclude no progression occurred prior to death. The distribution of time to progression will be estimated using the method of Kaplan-Meier. Progression is defined using Response Evaluation Criteria In Solid Tumors Criteria (RECIST v1.0), as a 20% increase in the sum of the longest diameter of target lesions, or a measurable increase in a non-target lesion, or the appearance of new lesions., Time from registration to the earliest date documentation of disease progression; Up to 5 years|Confirmed Response Rate (Complete Response and Partial Response), Confirmed response rates will be evaluated by dividing the number of confirmed responders (i.e. patients that achieve a CR or PR on consecutive evaluations) by the total number of evaluable patients. Confidence intervals for the true response rate will be calculated using the properties of the binomial distribution., Up to 5 years
+OBJECTIVES:
+
+Primary
+
+* Estimate the 9-week progression-free survival rate for patients with stage IV malignant melanoma treated with everolimus and temozolomide.
+
+Secondary
+
+* Evaluate overall survival time.
+* Evaluate time to disease progression.
+* Evaluate confirmed response rate.
+
+OUTLINE: This is a multicenter study.
+
+Patients receive oral everolimus once a day on days 1-5, 8-12, 15-19, 22-26, and 29-33 and oral temozolomide once a day on days 8-12 for course 1 only. For course 2 and all subsequent courses, patients receive oral everolimus once a day on days 1-5, 8-12, 15-19, and 22-26 and oral temozolomide once a day on days 1-5. Treatment repeats every 28 days in the absence of disease progression or unacceptable toxicity.
+
+All patients undergo blood sample collection periodically for correlative studies. Samples are analyzed for relative numbers of T, B, and NK cells via flow cytometry, quantitative immunoglobulin levels (IgG, IgM, and IgA), Tetramer/ELISPOT CTL frequencies to CMV/EBV immunodominant antigens, V beta T cell spectratyping, and VEGF levels via ELISA.
+
+After completion of study treatment, patients are followed every 8 weeks.

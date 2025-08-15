@@ -1,0 +1,19 @@
+Durvalumab and Tremelimumab in Treating Chemotherapy Naive Patients With Metastatic Castration-Resistant Prostate Cancer
+This phase II trial studies the safety, tolerability and how well durvalumab and tremelimumab work in treating participants with castration-resistant prostate cancer who have not received chemotherapy (chemotherapy naïve) and has spread to other places in the body (metastatic). Immunotherapy with monoclonal antibodies, such as durvalumab and tremelimumab, may help the body's immune system attack the cancer, and may interfere with the ability of tumor cells to grow and spread.
+Castration-Resistant Prostate Carcinoma|Metastatic Malignant Neoplasm in the Bone|Prostate Adenocarcinoma|Stage IV Prostate Cancer AJCC v8|Stage IVA Prostate Cancer AJCC v8|Stage IVB Prostate Cancer AJCC v8
+BIOLOGICAL: Durvalumab|BIOLOGICAL: Tremelimumab
+Number of Adverse Events, Toxicity will be monitored in all patients who receive at least one dose of tremelimumab, even if the patient is not evaluable for the biomarker or efficacy endpoint. Will be assessed per Common Terminology Criteria for Adverse Events (CTCAE) version (v) 4.03., from date of the first treatment, up to 43.6 months
+Prostate-specific Antigen (PSA) Progression Free Survival (PFS), PSA PFS is defined as per Prostate Cancer Working Group 3 (PCWG3) criteria: time from start of therapy to first PSA increase of 25% and ≥2 ng/mL above the nadir, and which is confirmed by a second value ≥3 weeks later. PSA PFS were calculated from the first day of treatment and summarized by Kaplan-Meier methods., from the first day of treatment, up to 43.6 months|Radiographic Progressive Free Survival (rPFS), rPFS is measured from first dose to date of disease progression on CT and/or bone scan or death from any cause, whichever occurs first. Radiographic PFS will start at the first day of treatment and will be summarized by Kaplan-Meier. Progression is defined using Response Evaluation Criteria In Solid Tumors Criteria (RECIST v1.1),as a 20% increase in the sum of the longest diameter of target lesions, or ameasurable increase in a non-target lesion, or the appearance of new lesions, from first day of treatment, up to 43.6 months|Number of Participants With PSA Decline of ≥50% From Start of Therapy, PSA decline will start at the first day of treatment and will be summarized by Kaplan-Meier. The numeric PSA value at maximal decline will be summarized by a boxplot and as a scatter plot of maximal decline by baseline PSA. PSA is produced by normal and cancerous prostate tissue. PSA levels are often elevated in men with prostate cancer., baseline, up to 43.6 months|Median Overall Survival, Overall Survival is the time which begins at diagnosis (or at the start of treatment) and up to the time of death., from start of treatment, up to 43.6 months
+PRIMARY OBJECTIVE:
+
+I. To evaluate the safety and tolerability of durvalumab plus tremelimumab in patients with metastatic castration-resistant prostate cancer.
+
+SECONDARY OBJECTIVES:
+
+I. To assess the efficacy of durvalumab plus tremelimumab in patients with metastatic castration-resistant prostate cancer. II. To explore immunological changes in peripheral blood and tissue (e.g. peripheral blood cluster of differentiation \[CD\] 4+ \[Inducible COStimulator (ICOS)\]+ T cells, CD3 expression in tissue) in response to durvalumab plus tremelimumab in patients with metastatic castration-resistant prostate cancer.
+
+OUTLINE:
+
+Patients receive tremelimumab intravenously (IV) over 60 minutes and durvalumab IV over 60 minutes on day 1. Treatment repeats every 28 days for up to 4 cycles for tremelimumab and up to 13 cycles for durvalumab in the absence of disease progression or unacceptable toxicity.
+
+After completion of study treatment, patients are followed up at 30, 60, and 90 days, and then every 3 months thereafter.

@@ -1,0 +1,26 @@
+Osteoarticular Tumor Characterization by Advanced Imaging
+The purpose is to compare and evaluate multiple functional imaging methods (perfusion, diffusion, spectroscopy) for initial benign/malignant characterization of osteoarticular tumors and to determine which method or which association of methods could improve non invasive tissue characterization.
+
+Secondary purposes are:
+
+* to determine a possible correlation between some parameters and the histological grade (FNCLCC)
+* to suggest a coherent diagnostic imaging approach for osteoarticular tumors.
+
+The ancillary study will enroll patients needing radiological tumor follow-up. The purpose is to identify tools for evaluation of tumor activity and therapeutic response before modification of morpho-volumetric data.
+Bone Tumor|Soft Tissue Tumor
+OTHER: Ecography|OTHER: CT scan|OTHER: MRI
+Contrast enhancement in echography: yes or no, baseline|Contrast enhancement curve (absent, slow or fast) in echography, baseline|Maximal intensity of enhancement peak in echography, baseline|Mean transit time of enhancement in echography, baseline|Gradient of contrast enhancement curve in echography, baseline|Vascularization (dynamic analysis) in CT scanner, * 0: absent
+* 1: low (\< 20UH)
+* 2: \> 20 UH without new blood vessels
+* 3: \> 20 UH and/or with new blood vessels, baseline|Contrast enhancement curve (absent, slow or fast) in CT scanner, baseline|Maximal intensity of enhancement peak in CT scanner, baseline|Mean transit time of enhancement in CT scanner, baseline|Gradient of contrast enhancement curve in CT scanner, baseline|Contrast enhancement curve (absent, slow or fast) in MRI, baseline|Maximal intensity of enhancement peak in MRI, baseline|Mean transit time of enhancement in MRI, baseline|Gradient of contrast enhancement curve in MRI, baseline|Choline peak in magnetic resonance spectroscopy, Choline presence was defined as a clear metabolite peak at 3.2 ppm, baseline|Apparent diffusion coefficient (ADC) in MR diffusion weighted imaging, ADC value in mm2/s, baseline|Area under the perfusion curve in MRI, baseline|Perfusion curve gradient in MRI, baseline|Perfusion time-to-peak in MRI, baseline
+Patients refered for the initial evaluation of suspected osteoarticular masses will be included in this study after signing an informed consent.
+
+Histologic analysis will be used as a gold standard.
+
+The following imaging techniques will be evaluated:
+
+* contrast enhanced ultrasonography
+* Low dose CT perfusion
+* Magnetic resonance perfusion
+* Diffusion weighted imaging
+* Magnetic resonance proton spectroscopy

@@ -1,0 +1,6 @@
+Endorectal Coil Magnetic Resonance Images (ERC-MRI)
+When we acquired MR images of the prostate gland using a coil (receiver antenna) inside the rectum, we can see areas with tumour in the prostate gland, and well as details of the anatomy. The coil inside the rectum changes the shape of the prostate gland. In order to use this images to help target radiation therapy to the tumour better, we need to deform the images to the original shape of the prostate gland without the coil. In this study, we will develop a way to deform the images accurately.
+Prostatic Neoplasms
+PROCEDURE: Endorectal Coil Magnetic Resonance Images
+The primary aim of this study is to develop a prostate deformation model using the finite element method from anatomic MR images of the prostate gland acquired with and without ERC.
+When we acquired MR images of the prostate gland using a coil (receiver antenna) inside the rectum, we can see areas with tumour in the prostate gland, and well as details of the anatomy. The coil inside the rectum changes the shape of the prostate gland. In order to use this images to help target radiation therapy to the tumour better, we need to deform the images to the original shape of the prostate gland without the coil. In this study, we will develop a way to deform the images accurately.

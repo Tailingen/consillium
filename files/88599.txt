@@ -1,0 +1,31 @@
+Combination Chemotherapy in Treating Young Adult Patients With Acute Lymphoblastic Leukemia
+RATIONALE: Drugs used in chemotherapy work in different ways to stop the growth of cancer cells, either by killing the cells or by stopping them from dividing. Giving more than one drug (combination chemotherapy) together with steroid therapy may kill more cancer cells.
+
+PURPOSE: This clinical trial is studying the side effects of combination chemotherapy in treating young adult patients with acute lymphoblastic leukemia.
+Leukemia
+DRUG: asparaginase|DRUG: cyclophosphamide|DRUG: cytarabine|DRUG: daunorubicin hydrochloride|DRUG: dexamethasone|DRUG: doxorubicin hydrochloride|DRUG: ifosfamide|DRUG: mercaptopurine|DRUG: methotrexate|DRUG: methylprednisolone|DRUG: prednisone|DRUG: thioguanine|DRUG: vincristine sulfate|DRUG: vindesine
+Treatment feasibility, To determinate if the Risk-adapted, MRD-directed therapy improves the estimation of Overall Survival (OS) at 24 months from study entry., At 24 months from study entry.
+Disease free survival, Estimation of Disease Free Survival (DFS)., At three years from study entry|Event free survival, Estimation of Event Free Survival (EFS)., At 3 years from study entry|Overal survival, At 3 years from study entry|Safety, Grade III-IV toxicity events, At 3 years from study entry|Compliance, Therapy compliance, At 3 years from study entry
+OBJECTIVES:
+
+* To determine the feasibility of combination chemotherapy in young adult patients with acute lymphoid leukemia.
+* To determine the complete response rate at the end of induction therapy in these patients.
+* To determine the overall survival of patients treated with these regimens.
+* To determine the disease-free survival of patients treated with these regimens.
+* To determine the event-free survival of patients treated with these regimens.
+* To determine toxicity of these regimens.
+* To determine compliance related to dose intensity.
+
+OUTLINE:
+
+* Steroids prephase therapy: All patients receive steroids (i.e., prednisone or methylprednisolone) and methotrexate.
+* Induction therapy (induction Ia followed by Ib): Patients receive induction Ia comprising vincristine, daunorubicin hydrochloride, asparaginase, and prednisone. They then receive induction Ib comprising cyclophosphamide, mercaptopurine, and cytarabine. Patients who achieve hematological remission proceed to consolidation therapy.
+* Consolidation therapy: Patients receive consolidation therapy according to risk group.
+
+  * Standard-risk patients: Patients receive high-dose methotrexate and mercaptopurine.
+  * High-risk patients: Patients receive consolidation therapy in 3 steps.
+
+    * Step 1: Patients receive dexamethasone, vincristine, methotrexate, cytarabine, and asparaginase.
+    * Step 2: Patients receive dexamethasone, vindesine, methotrexate, ifosfamide, asparaginase, and daunorubicin hydrochloride.
+    * Step 3: Patients receive dexamethasone, cytarabine, and asparaginase. After completion of consolidation therapy, patients proceed to reinduction therapy.
+* Reinduction therapy (reinduction IIa followed by IIb): Patients receive reinduction IIa comprising vincristine, doxorubicin hydrochloride, asparaginase, and dexamethasone. Patients then receive reinduction IIb comprising cyclophosphamide, thioguanine, and cytarabine.

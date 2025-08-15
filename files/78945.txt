@@ -1,0 +1,31 @@
+Pemetrexed and/or Sunitinib as Second-Line Therapy in Treating Patients With Stage IIIB or Stage IV Non-small Cell Lung Cancer
+This randomized phase II trial studies pemetrexed disodium and sunitinib malate to compare how well they work when given alone or together as second-line therapy in treating patients with stage IIIB or stage IV non-small cell lung cancer. Drugs used in chemotherapy, such as pemetrexed disodium, work in different ways to stop the growth of tumor cells, either by killing the cells or by stopping them from dividing. Sunitinib malate may stop the growth of tumor cells by blocking some of the enzymes needed for cell growth and by blocking blood flow to the tumor. It is not yet known whether pemetrexed disodium and sunitinib malate are more effective when given alone or together in treating non-small cell lung cancer.
+Recurrent Non-Small Cell Lung Carcinoma|Stage IIIB Non-Small Cell Lung Cancer AJCC v7|Stage IV Non-Small Cell Lung Cancer AJCC v7
+OTHER: Laboratory Biomarker Analysis|DRUG: Pemetrexed Disodium|DRUG: Sunitinib Malate
+18 Week Progression-free Survival (PFS) Rate, The 18 week progression-free survival rate was defined as the proportion of patients that were alive and progression-free 18 weeks after registration into the study. Disease progression was assessed per modified RECIST criteria, and defined as at least a 20% increase in the sum of the longest diameters of target lesions, in either primary or nodal lesions, taking as reference the smallest sum longest diameter recorded since the baseline measurements, or the appearance of new lesions. Kaplan-Meier estimate of 18-week progression-free survival was calculated., At 18 weeks
+PFS, PFS was defined as the time from randomization until disease progression or death, whichever occurs first. The median PFS with 95% CI was estimated using the Kaplan-Meier method. Progression is defined as in the primary outcome measure., Time from randomization to disease progression and death of any cause, whichever comes first (up to 3 years)|Overall Response Rate, The proportion of patients who respond (completely or partially) to each combination regimen will be estimated. An exact binomial confidence interval will be computed for these estimates.
+
+Response was defined using Response Evaluation Criteria In Solid Tumors (RECIST) criteria: Complete Response (CR): disappearance of all target lesions; Partial Response (PR) 30% decrease in sum of longest diameter of target lesions., Duration of treatment (up to 3 years)|Overall Survival (OS), OS is defined as the time from patient randomization to death from any cause. The median OS with 95% CI was estimated using the Kaplan-Meier method., Time from randomization to death (up to 3 years)
+PRIMARY OBJECTIVES:
+
+I. To estimate the 18 week progression-free survival rate of pemetrexed (pemetrexed disodium) alone (Arm I), sunitinib (sunitinib malate) alone (Arm II) and pemetrexed plus sunitinib (Arm III) in the second-line setting of advanced non-small cell lung cancer (NSCLC).
+
+SECONDARY OBJECTIVES:
+
+I. To compare the progression-free survival of the three arms. II. To estimate the response rate, duration of response, rate of stable disease, overall survival and to characterize the toxicity profiles of the three arms.
+
+III. To estimate the response rate, duration of response, rate of stable disease, overall survival and toxicity of sunitinib in those patients on Arm I that receive this regimen in the third line setting.
+
+IV. To assess vascular endothelial growth factor (VEGF) haplotypes in advanced non-small cell lung cancer.
+
+V. To test change in tumor size at 6 weeks (after 2 cycles of therapy, typically the first evaluation point in this type of study) as an early predictor of therapeutic activity in second-line treatment of non-small cell lung cancer.
+
+OUTLINE: Patients are randomized to 1 of 3 treatment arms.
+
+ARM I: Patients receive pemetrexed disodium intravenously (IV) over 10 minutes on day 1. Courses repeat every 21 days in the absence of disease progression or unacceptable toxicity. Patients with documented disease progression may then receive sunitinib malate as in Arm II as third-line therapy.
+
+ARM II: Patients receive sunitinib malate orally (PO) once daily (QD) on days 1-21. Courses repeat every 21 days in the absence of disease progression or unacceptable toxicity. Patients with documented disease progression may then receive pemetrexed disodium as in Arm I as third-line therapy.
+
+ARM III: Patients receive pemetrexed disodium IV over 10 minutes on day 1 and sunitinib malate PO QD on days 1-21. Courses repeat every 21 days in the absence of disease progression or unacceptable toxicity. Patients with documented disease progression may then receive third-line therapy at the discretion of the treating physician.
+
+After completion of study treatment, patients are followed up every 6 weeks until disease progression and then every 6 months for 2 years.

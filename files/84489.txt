@@ -1,0 +1,39 @@
+Implementation of Teledermoscopy and Artificial Intelligence
+The study has 2 parts. Part 1 will investigate the effects of introducing teledermoscopy in clinical practice, more specifically the change in referral patterns, the risk of undetected skin cancers and the effect on diagnostic accuracy in general practitioners.
+
+Part 2 will investigate how to introduce artificial intelligence (AI) within teledermocsopy. In this study the investigators will measure the diagnostic accuracy of teledermoscopic assessors that had access to the results of artificial intelligence algorithm compared to those who did not.
+
+Data will be collcted through teledermoscopic referrals, patient records, national registries and questionnairs.
+Skin Cancer
+DEVICE: Diagnostic algorithms
+Effect on referral patterns, Measure how referral patterns are affected by the introduction of teledermoscopy, 2 years|Effect on diagnostic accuracy due to availability of artificial intelligence, Measuring if the diagnostic accurcy differs depending on if physician can see the results of the artificial intelligence, 8 years|Risk of undetected skin cancer, Measuring if the risk of undetected skin cancer increases with the use of teledermoscopy, 2 years|Artificial intelligence timing and effect on diagnostic accuracy and willingness to rethink the preliminary diagnosis, Measuring if the diagnostic accuracy and the willingness to reconsider the preliminary diagnosis differs according to when in the process a physician is presented with the results of the artificial intelligence, 8 years
+Study objective:
+
+1. Is teledermoscopy an equally safe method as conventional care for skin cancer patients? 2. How should teledermoscopy be performed and by whom? 2. How does teledermoscopy affect current care and organization of skin diseases? 3. Can diagnostic algorithms (convolutional neural networks) improve diagnostic accuracy by being a diagnostic support to dermatologists?
+
+Material and methods:
+
+1. Study setting Patients scheduled for a skin examination for a suspected skin lesion can be recruited, both in dermatology clinics and participating primary care clinics or digitally after visiting primary health clinics.
+2. Data acquisition Patient data and images will be collected with the Dermicus® application. Participating PCP and dermatologists will also fill in a questionnaire about their assessment of the patient. Additional informaiton will be collected from medical records, i.e. histopathological diagnoses, and from national registries. Questionnaires will be entered in a digital data base using REDCap®.
+
+4. Statistical analyses 4.1. In part 1, the number of consultations send to dermatologists and for pathological analyses before introduction of teledermoscopy and during the first and second year if using teledermoscopy will be analysed. Descriptive statistics will be presented and differences between the different time periods will be tested with t-tests and paired t-tests.
+
+4.2. In part 2, measures of diagnostic accuracy will be estimated comparing dermatologists with and without access to diagnostic algorithm support. Measures reported include sensitivity, specificity, and Area under ROC-curve (AUROC). The study will also report the impact the results of the artificial intelligence has on the willingness to change a diagnosis or a management plan.
+
+5. Power set to 0.8 and significance to 0.05. 10% censures. 5.1. Patients recruited to this study can be used in several of the sub-studies. The aim of the study is to collect 8000 patients in total in this study.
+
+5.2. To detect a difference in "unimaged skin cancers" between teledermoscopy and conventional care of patients 1200 cases and 2400 controls need to be included.
+
+5.3. To detect a 10% difference in sensitivity/ specificity of diagnostic ability in PCPs before and after working with teledermoscopy 3400 patients need to be included.
+
+5.4. To investigate how artificial intelligence should be implemented in clinical care the investigators have calculated that 6000 patients are needed to detect a 10% difference in sensitivity and specificity in the subgroups.
+
+Ethical considerations and data management:
+
+Data will be collected using Dermicus®, a CE-certified digital platform and mobile application. With the application downloaded on iPhones®, locked for any other uses, the history of the patients are registered. Then, by connecting the iPhone to a dermoscope, macroscopic and dermoscopic images are captured. All data will be stored on the servers of the health care region of Skåne, where the studies are conducted. Once a case has been created and sent to the data base all information will be deleted from the iPhone®. Additional data will also be retrieved from relevant medical records, e.g. histopathological diagnosis, and manually registered in an electronic database at a highly secure location (LUSEC/ REDCap provided by Lund University) . Data collected from PCP and dermatologists by questionnaires will also be registered in this data base by means of electronic surveys (REDCap). Information from primary care on total number of visits, referrals to dermatologists and referrals to pathology regarding skin lesions will be extracted from patient administrative systems. Age- and sex matched controls will be used for the study investigating missed skin cancer. These controls will be randomly selected from patients that was referred to a skin clinic by paper referral during the same period as the teledermoscopically referred patients were gathered. Algorithms for skin cancer diagnosis will be implemented in the web platform of Dermicus for the studies of introduction of artificial intelligence. Teledermoscopic assessors will be instructed on when and how to use these different tools.
+
+Every month the newly entered data will be checked for completeness, and in the case of missing data, reminders to participating investigators will be send.
+
+When the data sets are complete, identifiers (such as personal identification number) will be replaced by a code kept secure at a different location than the data set. Data will thereafter be extracted from the data base to perform statistical analysis.
+
+The study is approved by the Swedish Ethical Review Authority and all relevant approvals for data extraction and data storage has been obtained.

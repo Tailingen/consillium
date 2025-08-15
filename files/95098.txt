@@ -1,0 +1,11 @@
+Merging of Endoscopic and Ultrasound Images for Laparoscopic Surgery
+Visualize surgical needles inserted in the prostate, under the ultrasound modality.
+Prostate Cancer
+DEVICE: Software for acquiring ultrasound and endoscopic images
+Percent of surgical needles visible under the ultrasound modality (once inserted in the prostate), 1year
+Percent of data(ultrasound and endoscopic) on which the merging works, 1year|Percent of accurate merging, the merging is accurate if its error is under 5mm, 1year|Percent of mistaken segmentation of the vesical neck in the endoscopic image, The segmentation in the endoscopic image is mistaken if it differs of more than 5mm² from the segmentation in the ultrasound volume, 1year
+In order to help the surgeon to remove the prostate during a laparoscopic intervention, our goal is to provide an innovative medical device that merges intra-operative ultrasound and endoscopic images.
+
+We have already achieved the proof of concept of a device that merges ultrasound and endoscopic images. The objectives of this clinical trial are to accompany the maturation of the fusion device and to make the initial assessments of its Medical Service.
+
+The main difficulty is to visualize markers (surgical needles) under both modalities , in order to merge them.

@@ -1,0 +1,9 @@
+Trial of Artificial Intelligence for Chest Radiography
+Randomized Clinical Trial of the impact of Chest radiograph AI-assisted triage and report generation upon clinical outcomes and an economic analysis of impact of AI decision support on radiology service delivery.
+Pneumonia|Lung Cancer
+DIAGNOSTIC_TEST: AI
+Report generation time, Time for radiologist to produce each individual CXR report, 12 months|Turnaround Time, Time from patient arrival at radiography department to time for clinical team to receive report, 12 months|Time to discharge, Time from patient arrival at radiography department to time to discharge from hospital, 12 months
+30-day patient readmission rate, Rate of readmission of patient to hospital after discharge within 30 days, 12 months
+Randomized, prospective selection of patients. Control group involves radiologists reporting chest radiographs as per reference standard clinical workflow Intervention group involves radiologists assisted with AI reporting an AI-triaged worklist of chest radiographs using an AI report generation tool Clinical outcomes on patients are studied at pre-determined study endpoints, including time to discharge from the hospital and re-admission rates.
+
+Economic analysis on cost-avoidance from man-hours saved from report generation and triage.

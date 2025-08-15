@@ -1,0 +1,83 @@
+TDM for Optimized Outcome in Patients With mRCC.
+The purpose of this observational study is to assess the role of plasma concentration monitoring of treatment drugs for patients with metastatic renal cell carcinoma (mRCC) in terms of efficacy and side effects. It furthermore holds microbiome characterization of CPI-treated patients.
+
+Furthermore, the investigators examines the role of anti-drug antibodies and receptor polymorphisms in CTLA-4 and PD-1 receptors in treatment failure among patients with mRCC treated with check point immunotherapy (CPI). Moreover, polymorphisms in the UGT1A1 gene will be correlated with the pazopanib treatment dose.
+Kidney Cancer|Renal Cell Carcinoma Metastatic|Drug Toxicity|Drug Side Effect|Drug Mechanism
+OTHER: Measurement of concentration of active metabolite in cancer treatment.
+Overall survival (OS), Calculated from the date of inclusion, to the date of death of any cause or censored at the date at last follow-up., 12 months follow-up for each patient.|Progression free survival (PFS), According to the RECIST v1.1, 12 months follow-up for each patient.|Quality of life according to NCCN-FACT FKSI-19., National Comprehensive Cancer Network/ Functional Assessment of Cancer Therapy (FACT)-Kidney Symptom Index 19 (NCCN-FACT FKSI-19).
+
+19 items, each item scored on a 5 point Likert-scale, covering cancer quality of life., 12 months follow-up for each patient.
+Amount of antidrug antibodies (ADAs) developed., In patients treated with ipilimumab/nivolumab, 12 months follow-up for each patient.|SNP-genotype of PD-1 and CTLA-4 receptors reported as proportion of patients with pp-, pq- and qq-genotype respectively., In pts treated with ipilimumab/nivolumab, 12 months follow-up for each patient.|In pts treated with pazopanib: UGT1A1 genetic polymorphism, TA6/TA6, TA6/TA7 or TA7/TA7, At baseline|Fecal swap, Measuring the microbiome composition, from start and during CPI therapy, 12 months follow-up for each patient|Measuring CT DNA in patiets receiving nivolumab and ipilimumab, CT DNA, 12 months follow-up for each patient
+BACKGROUND:
+
+Treatment of metastatic renal cell carcinoma (mRCC) is ineffective among 25 % of patients. However, treatment still reduces patients' quality of life.
+
+From clinical experience, interindividual dose requirements vary greatly among patients with mRCC treated with tyrosine kinase inhibitors.
+
+The investigators expect this to partly be explained by great variation in the plasma concentration of treatment drugs. Furthermore, treatment failure among patients with mRCC treated with check point immunotherapy has not been fully investigated.
+
+RATIONALE:
+
+The few studies concerning plasma concentration measurement of tyrosine kinase inhibitors in patients with mRCC have found that a certain level of drug concentration is necessary for treatment efficacy. The role of plasma concentration in side effects is yet unknown.
+
+Anti drug antibodies against the check point inhibitor ipilimumab has been shown to reduce efficacy and lead to treatment failure among patients with malignant melanoma. Receptor polymorphism in CTLA-4 and PD-1 receptors in terms of efficacy have not yet been studied.
+
+A therapeutic drug interval for TKI treatment will allow for quicker and more precise dosing, and early signs of treatment failure of checkpoint immunotherapy will allow for quicker change of therapy, or define a subgroup of patients who will not benefit from checkpoint immunotherapy and therefore should be offered another effective treatment instead.
+
+HYPOTHESIS:
+
+1. Patients treated with TKIs for more than 6 months have an optimal plasma trough concentration (Cmin). Objective response rate, progression free survival (PFS), overall survival (OS), and toxicity in these patients are favorable compared with pivotal phase III study results.
+2. We hypothesize that it is possible to elucidate a therapeutic interval for the TKIs examined in the study
+3. Patients treated with CPI obtaining response have a higher plasma trough (Cmin) concentration value of ipilimumab and nivolumab than patients with progressive disease (PD). Patients treated with CPI who develop PD have a higher amount of ADA than patients with response to treatment.
+4. Certain polymorphisms in CTLA-4 and PD-1 are associated with poor outcome.
+5. UGT1A1 polymorphism is associated with improved survival despite dose reductions in patients treated with pazopanib.
+6. The microbiome composition correlates with treatment outcome of CPI.
+7. CT DNA measurement may be marker of disease activity and treatment effect.
+
+MATERIALS AND METHODS:
+
+All eligible TKI-patients will have blood samples drawn at each clinical visit during a 6-months period.
+
+The plasma concentration of TKIs will be measured with liquid chromatography-mass spectrometry at the Department of Clinical Biochemistry at Aarhus University Hospital.
+
+All eligible CPI-patients will have blood samples drawn and fecal swap performed from start CPI-treatment and during treatment until treatment failure or full treatment (2 years).
+
+Analysis of blood and microbiome from patients receiving checkpoint immunotherapy will be be done using in-house bead-based assays, anti-human IgG detection antibody and in-house developed flow cytometry-based assay at the Institute for Inflammation Research at Rigshospitalet.
+
+TKI STUDY AIM:
+
+To compare the trough plasma concentrations (Cmin) of TKIs in patients with mRCC having stable disease with those experiencing toxicity, treatment failure, and stable disease or regression, respectively to identify the optimal plasma concentration level.
+
+CPI STUDY AIMS:
+
+Aim 1: To compare the trough plasma concentration of CPI with toxicity and outcome in patients with mRCC to identify the optimal plasma concentration level.
+
+Aim 2: To measure the concentration of circulating ADA against immune-checkpoint inhibitors ipilimumab and nivolumab in patients with mRCC and correlate best objective response to the concentration of ADA.
+
+Aim 3: To compare polymorphisms in CTLA-4 and PD-1 and correlate findings with clinical outcomes in patients with mRCC treated with ipilimumab and/or nivolumab.
+
+Aim 4: To delineate the microbiome in mRCC patients treated with immunotherapy and associating it to response and survival.
+
+Aim 5: To use circulating tumor DNA as a marker for disease activity and treatment effect in mRCC patients.
+
+Overall survival, progression free survival and quality of life using FKSI-19 questionnaire will be recorded for each patient.
+
+This is an observational study among Danish patients treated for mRCC over a 7 year year period.
+
+Perspectives of TDM in TKI patients:
+
+Determining a therapeutic interval for TKIs could optimize treatment for mRCC patients by:
+
+1. Titrating up doses for patients with insufficient levels to reduce cancer progression risk.
+2. Titrating down doses for overdosed patients to limit toxicity and costs.
+3. Monitoring patients on intermittent therapy interacting with TKI treatment. These results may extend to other cancer types using TKIs.
+
+Perspectives for TDM in CPI patients:
+
+A therapeutic interval and characterisation of treatment failure of CPI will most likely optimize treatment for patients with mRCC for the following reasons:
+
+1. Patients who receive an insufficient dose and therefore have a potential risk of cancer progression can be titrated up to a sufficient level.
+2. Patients who develop serious adverse events are overdosed and can be titrated down to a sufficient level - limiting toxicity and cost.
+3. Patients who develop ADAs or have insufficient binding between CPI and T-lymphocytes can switch to another effective therapy before cancer progression.
+
+These results will likely extrapolate to other cancer types as CPI is increasingly being used for other cancer diagnoses.

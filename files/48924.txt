@@ -1,0 +1,35 @@
+Access to Genetic Testing in Underserved Patients With Cancer
+This study compares the experiences of people who receive information about genetic testing from a computer-generated character to patients who receive information from a human genetics healthcare provider. Patients with cancer are increasingly recommended for genetic testing as standard of care. Multiple factors contribute to low usage of genetic testing but for many patients the lack of access to genetic counseling and testing is an important and flexible factor. Lack of access is especially relevant to racial/ethnic minority patients and those living in non-metropolitan rural settings who are frequently cared for at safety-net hospitals with limited genetics services. Alternative delivery models are necessary to improve rates of access to genetic testing in patients with cancer. Health information technology is under used by genetics providers. A patient-facing relational agent (PERLA) will provide pre-test genetics education in both English and Spanish across two clinical settings to facilitate more timely access to genetic testing. Using the PERLA intervention may help researchers learn different ways to provide education about genetic testing to patients with cancer compared to usual care.
+Breast Carcinoma|Male Breast Carcinoma|Malignant Solid Neoplasm|Metastatic Prostate Carcinoma|Ovarian Carcinoma|Pancreatic Exocrine Neoplasm|Stage IVB Prostate Cancer American Joint Committee on Cancer v8|Triple-Negative Breast Carcinoma
+OTHER: Best Practice|OTHER: Educational Intervention|OTHER: Electronic Health Record Review|OTHER: Genetic Counseling|OTHER: Interview|OTHER: Survey Administration
+Proportion of participants who receive genetic testing, The proportion of participants who receive genetic testing will be reported., Up to 3 months
+Patient-reported outcomes, Correlations with patient level factors, such as education, literacy, acculturation, and language will be examined., Up to 3 months
+PRIMARY OBJECTIVES:
+
+I. To obtain patient and provider input on the optimal content and format of a new relational agent (RA) intervention ("PERLA") for automated pre-test genetics education.
+
+II. To obtain patient feedback on the usability of the English- and Spanish-language PERLAs.
+
+III. To determine the acceptability of the newly designed English- and Spanish-language PERLAs among patients with cancer.
+
+IV. To evaluate the impact of the English- and Spanish-language PERLAs on the proportion of patients who meet cancer-based genetic testing guidelines who receive genetic test results within 3 months of initiating cancer care.
+
+V. To evaluate the potential barriers and facilitators to implementation of PERLA in the clinical setting.
+
+OUTLINE:
+
+DEVELOPMENT PHASE: Participants attend focus groups and provide feedback on the content, format, and usability of the PERLAs to enable to tailor the design of the intervention.
+
+USABILITY PHASE: Participants attend usability testing and provide feedback through cognitive interviews.
+
+PILOT TESTING PHASE: Participants evaluate the newly developed PERLAs and provide feedback through focused interviews and structured assessment.
+
+INTERVENTION PHASE: Patients are randomized to 1 of 2 arms.
+
+ARM A: Patients receive access to PERLA comprising pre-test genetics education and standard post-test provider-based genetic counseling over 20-60 minutes.
+
+ARM B: Patients receive access to usual care pre- and post-test provider-based genetic counseling.
+
+IMPLEMENTATION PHASE: Participants complete qualitative interviews to evaluate potential barriers and facilitators to implementation of PERLA in the clinic.
+
+After completion of study intervention, patients are followed up at 1, 3, and 6 months.

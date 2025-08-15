@@ -1,0 +1,27 @@
+A Study of Revumenib in R/R Leukemias Including Those With an MLL/KMT2A Gene Rearrangement or NPM1 Mutation
+Phase 1 dose escalation will determine the maximum tolerated dose (MTD) and recommended Phase 2 dose (RP2D) of revumenib in participants with acute leukemia.
+
+In Phase 2, participants will be enrolled in 3 indication-specific expansion cohorts to determine the efficacy, short- and long-term safety, and tolerability of revumenib.
+Acute Myeloid Leukemia|Acute Lymphoblastic Leukemia|Mixed Lineage Acute Leukemia|Mixed Phenotype Acute Leukemia|Acute Leukemia of Ambiguous Lineage
+DRUG: revumenib|DRUG: cobicistat
+Occurrence of dose-limiting toxicities (DLTs) (Phase 1), Assessed by the NCI CTCAE version 5.0 (Phase 1), Approximately 1 year|Number of participants with treatment-emergent adverse events (TEAEs) (Phase 1), Assessed by the NCI CTCAE version 5.0 (Phase 1), Approximately 1 year|Cmax (Phase 1), Maximum plasma concentration (Cmax) of revumenib and relevant metabolites (Phase 1), Approximately 1 year|Tmax (Phase 1), Time to observed maximum plasma concentration of revumenib and relevant metabolites (Phase 1), Approximately 1 year|AUC0-t (Phase 1), Area under the plasma concentration-time curve from time 0 to time of last measurable concentration (AUC0-t) of revumenib and relevant metabolites (Phase 1), Approximately 1 year|CR+CRh rate (Phase 2), To assess the complete remission (CR) and complete remission with partial hematologic recovery (CRh) rate (Phase 2), Approximately 3 years|Number of participants with TEAEs (Phase 2), Assessed by the NCI CTCAE version 5.0 (Phase 2), Approximately 3 years
+Transfusion independence (Phase 2), Transfusion independence is defined as any transfusion-free period lasting for at least 56 consecutive days, Approximately 3 years|CRc rate (Phase 2), To assess the composite definition of complete remission (CRc) rate (Phase 2), Approximately 3 years|ORR (CRc+ morphological leukemia-free state [MLFS] + partial remission [PR]) (Phase 2), To assess the overall response rate (ORR) of revumenib (Phase 2), Approximately 3 years|TTR (Phase 2), To assess the time to response (TTR) of revumenib (Phase 2), Approximately 34 months|DOR (Phase 2), To assess the duration of response (DOR) of revumenib (Phase 2), Approximately 3 years|EFS (Phase 2), To assess the event free survival (EFS) of revumenib (Phase 2), Approximately 3 years|OS (Phase 2), To assess overall survival (OS) of revumenib (Phase 2), Approximately 5 years|Cmax (Phase 2), Cmax of revumenib and relevant metabolites (Phase 2), Approximately 3 years|Tmax (Phase 2), Tmax of revumenib and relevant metabolites (Phase 2), Approximately 3 years|AUC0-t (Phase 2), AUC0-t of revumenib and relevant metabolites (Phase 2), Approximately 3 years
+Phase 1: Oral revumenib; sequential cohorts of escalating dose levels of revumenib to identify the MTD and RP2D. Participants will be enrolled in one of six dose-escalation arms:
+
+Arm A: Participants not receiving any strong cytochrome P450 3A4 (CYP3A4) inhibitor/inducers or fluconazole.
+
+Arm B: Participants receiving itraconazole, ketoconazole, posaconazole, or voriconazole (strong CYP3A4 inhibitors) for antifungal prophylaxis.
+
+Arm C: Participants receiving revumenib and cobicistat.
+
+Arm D: Participants receiving fluconazole (moderate CYP3A4 inhibitor) for antifungal prophylaxis.
+
+Arm E: Participants not receiving any weak, moderate, or strong CYP3A4 inhibitors/inducers.
+
+Arm F: Participants receiving isavuconazole (moderate CYP3A4 inhibitor) for antifungal prophylaxis.
+
+In Phase 2, participants will be enrolled in 3 indication-specific expansion cohorts to determine the efficacy, short- and long-term safety, and tolerability of revumenib:
+
+* Cohort 2A: Participants with KMT2Ar acute lymphoblastic leukemia (ALL)/mixed phenotype acute leukemia (MPAL)
+* Cohort 2B: Participants with KMT2A AML
+* Cohort 2C: Participants with NPM1m AML

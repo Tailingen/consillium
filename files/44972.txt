@@ -1,0 +1,17 @@
+Swiss Spinal Tumor Registry (Swiss-STR)
+The Swiss Spinal Tumor Registry is a prospective REDCap-based registry, collecting data of surgically treated patients with primary and metastatic tumors of the spine.
+Spinal Tumors|Surgical Treatment
+Functional Outcome as assessed by Karnofsky Performance Status Scale, Rating in 10% steps
+
+* 100 Normal no complaints; no evidence of disease.
+* 90 Able to carry on normal activity; minor signs or symptoms of disease.
+* 80 Normal activity with effort; some signs or symptoms of disease.
+* 70 Cares for self; unable to carry on normal activity or to do active work.
+* 60 Requires occasional assistance, but is able to care for most of his personal needs.
+* 50 Requires considerable assistance and frequent medical care.
+* 40 Disabled; requires special care and assistance.
+* 30 Severely disabled; hospital admission is indicated although death is not imminent.
+* 20 Very sick; hospital admission necessary; active supportive treatment necessary.
+* 10 Moribund; fatal processes progressing rapidly.
+* 0 Dead, Through study completion, an average of 1 year|Physical performance assessed by the Timed-Up-and-Go-Test (TUG), Timed-Up-and-Go-Test in seconds, Through study completion, an average of 1 year
+Tumors of the vertebral column consist of primary spinal tumors and malignancies metastasizing to the spine. While primary spine tumors represent a rare condition, metastases to the spine have gradually increased over past decades because of increases in aging population and continued advances in cancer therapy with improved survival times across multiple cancer subtypes. Metastases to the vertebral column are found in up to 70% of cancer patients, with 10% of patients demonstrating epidural spinal cord compression. Therefore, many cancer patients may face spinal surgical intervention at some point of their chronic illness. Numerous surgical treatment options are currently available, ranging from simple cement augmentation over decompression of neural elements to extended instrumentation or reconstruction of the spine, including hybrid procedures that combine these techniques. However, precise surgical treatment guidelines do not exist, likely due to the absence of robust, long-term clinical outcomes data in these patients, and the overall heterogeneous nature of spinal tumors. The primary goal of Swiss-STR is to inform on the effectiveness of current practice in spinal oncology and its impact on patient outcomes. Furthermore, it will help to better categorize the different clinical presentations of spinal tumors, thereby facilitating treatment recommendations, assessing the socio-economic burden of this condition to the healthcare system, and improving the quality of care. In cases of rare tumors, multicenter data pooling will fill significant data gaps, allowing a better understanding of these entities. Finally, the approach is to first build and implement a high-quality registry with efficient electronic data capture strategies across hospital sites in Switzerland, with the potential to later expand internationally, providing opportunities for future international scientific collaboration to push the envelope in cancer research further.

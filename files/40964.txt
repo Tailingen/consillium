@@ -1,0 +1,18 @@
+Memory-enriched CAR-T Cells Immunotherapy for B Cell Lymphoma
+The goal of this clinical trial is to study how approaches for manufacturing chimeric antigen receptor (CAR)-modified T (CAR-T) cells affect their in vivo persistence and therapeutic efficacy against B lymphoma. Recently, cancer immunotherapy, treatments aiming to arm patients with immunity specifically against cancer cells, has emerged as a promising therapeutic strategy. Among the many emerging immunotherapeutic approaches, clinical trials utilizing CARs against B cell malignancies have demonstrated remarkable potential. CARs combine the variable region of an antibody with T-cell signaling moieties to confer T-cell activation with the targeting specificity of an antibody. Thus, CARs are not MHC-restricted so they are not vulnerable to MHC down regulation by tumors. However, defined by the activation and contraction program of their mother cells, the persistency and function of CAR-T cells are also restricted by the protocol of manufacturing. Previous clinical studies largely utilized interleukin-2 (IL-2) for the ex vivo expansion of CAR-T cells, which preferentially generate CAR-T cells with characteristics of terminally differentiated effector cells. Our preliminary data indicated that two common gamma chain cytokines, IL-7 and IL-15, can help to selectively expand CAR-T cells with various memory phenotypes. CAR-T Cells prepared under this condition resulted in improved therapeutic efficacy in preclinical animal models. This clinical investigation is to test a hypothesis whether IL-7/IL-15-programmed anti-CD19 CAR-T cells persist longer in lymphoma patients after infusion and whether the persistency of CAR-T cells can lead to improved anti-lymphoma efficacy.
+Recurrent Adult Diffuse Large Cell Lymphoma|Recurrent Follicular Lymphoma|Recurrent Mantle Cell Lymphoma|Stage III Adult Diffuse Large Cell Lymphoma|Stage III Follicular Lymphoma|Stage III Mantle Cell Lymphoma|Stage IV Adult Diffuse Large Cell Lymphoma|Stage IV Follicular Lymphoma|Stage IV Mantle Cell Lymphoma
+DRUG: CD19.CAR-T cells
+Phase 1: Safety measured by occurrence of study related adverse effects defined by NCI CTCAE 4.0, 4 weeks|Phase 2: Overall complete remission rate defined by the standard response criteria for malignant lymphoma for each arm, 8 weeks|Phase 2: Comparison of overall complete remission rate for the two arms, One year
+Duration of remission, One year|Minimum residual disease negative remission rate, 8 weeks|Duration of CAR-positive T cells in circulation, 6 months|Total number of CAR-positive T cells infiltrated into lymphoma tissue, 6 months|Overall survival, One year
+Primary Objectives
+
+1. To determine the safety and feasibility of CD19.CAR-T cells manufactured through IL-7/IL-15-mediated expansion or IL-2-mediated expansion
+2. To determine in vivo dynamics and persistency of IL-7/IL-15 programmed CD19.CAR-T cells.
+3. To determine the efficacy of IL-7/IL-15 programmed CD19.CAR-T cells in treating patients with CD19-positive lymphoma
+
+Secondary Objectives
+
+1. To determine whether the IL-7/IL-15 programmed CD19.CAR-T cells are superior to the IL-2 programmed cells as measured by their in vivo persistence post infusion
+2. To determine whether the IL-7/IL-15 programmed CD19.CAR-T cells are superior to the IL-2 programmed cells as measured by their efficacy in lymphoma therapy
+3. To assess the dynamics of intratumoral infiltration of CD19.CAR-T cells.
+4. To correlate the subsets and differentiation of CD19.CAR-T cells to observed anti-tumor efficacy

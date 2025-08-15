@@ -1,0 +1,37 @@
+Sonoporation and Chemotherapy for the Treatment of Pancreatic Cancer
+This phase I/II trial studies the effect of sonoporation in addition to standard of care chemotherapy in treating patients with pancreatic cancer. Sonoporation is a novel method that uses ultrasound and microbubbles to increase therapeutic effect by increasing uptake or enhance sensitization. Sonoporation together with chemotherapy may work better in treating patients with pancreatic cancer compared to chemotherapy alone.
+Locally Advanced Pancreatic Ductal Adenocarcinoma|Metastatic Pancreatic Ductal Adenocarcinoma|Stage II Pancreatic Cancer AJCC v8|Stage IIA Pancreatic Cancer AJCC v8|Stage IIB Pancreatic Cancer AJCC v8|Stage III Pancreatic Cancer AJCC v8|Stage IV Pancreatic Cancer AJCC v8|Unresectable Pancreatic Ductal Adenocarcinoma
+DRUG: Gemcitabine Hydrochloride|DRUG: Nab-paclitaxel|DRUG: Fluorouracil|DRUG: Irinotecan Hydrochloride|DRUG: Leucovorin Calcium|DRUG: Oxaliplatin|OTHER: Perflubutane Microbubble|PROCEDURE: Contrast-Enhanced Ultrasound|OTHER: Quality-of-Life Assessment|PROCEDURE: Computed Tomography|PROCEDURE: Magnetic Resonance Imaging
+Progression-free survival, Gehan-Breslow-Wilcoxon test and Log-rank (Mantel-Cox) test will be used to compare progression free survival (PSF) between the groups with and without sonoporation., Up to 3 years
+Number of chemotherapy cycles a subject can tolerate, Gehan-Breslow-Wilcoxon test and Log-rank (Mantel-Cox) test will be used to compare number of chemotherapy cycles between the groups with and without sonoporation., Up to 3 years|Overall survival, Gehan-Breslow-Wilcoxon test and Log-rank (Mantel-Cox) test will be used to compare overall survival (PSF) between the groups with and without sonoporation., Up to 3 years|Tumor volume changes, Relative changes will be measured with ultrasound, computed tomography and/or magnetic resonance imaging and will also be compared between the groups with and without sonoporation., Up to 3 years|Contrast enhanced ultrasound data, Will provide perfusion and pressure estimates, which will be compared (individually and jointly) to subject outcomes in the groups with and without sonoporation as determined by the medical oncology team., Up to 3 years|Tumor stiffness, Will be measured as shear wave velocity obtained by ultrasound shear wave elastography and will be compared between the groups with and without sonoporation., Up to 3 years
+PRIMARY OBJECTIVE:
+
+I. To evaluate the safety and therapeutic efficacy of sonoporation on pancreatic ductal adenocarcinoma (PDAC) standard of care (SoC) treatment based on local progression-free and overall survival with the main endpoint being an increase in median progression-free survival of subjects by 8.7 months in the sonoporation group relative to controls.
+
+SECONDARY OBJECTIVES:
+
+I. To evaluate the effect of sonoporation on the median time to treatment failure (TTF) (in percent).
+
+II. To evaluate the effect of sonoporation on the number of chemotherapy cycles subjects can undergo.
+
+III. To evaluate the effect of sonoporation on tumor volume measured by clinical diagnostic ultrasound.
+
+IV. To evaluate the effect of sonoporation on tumor perfusion using contrast enhanced ultrasound (CEUS) - specifically harmonic imaging (HI) and subharmonic imaging (SHI).
+
+V. To evaluate the effect of sonoporation on tumor interstitial fluid pressures using subharmonic aided pressure estimation (SHAPE).
+
+VI. To evaluate the effect of sonoporation on tumor volume using clinical diagnostic computed tomography (CT).
+
+VII. To evaluate the effect of sonoporation on tumor stiffness using clinical ultrasound shear wave elastography (SWE).
+
+VIII. To evaluate the effect of sonoporation on serum CA 19-9 concentrations. IX. Clinical benefit response, which is a measure of clinical improvement based on analgesic consumption, Eastern Cooperative Oncology Group (ECOG) performance status, and weight change.
+
+X. To evaluate the effect of sonoporation on patient quality of life.
+
+OUTLINE: Patients are randomized to 1 of 2 arms.
+
+ARM I: Patients receive standard of care chemotherapy consisting of gemcitabine hydrochloride and nab-paclitaxel intravenously (IV) over 60 minutes on days 1, 8 and 15 OR fluorouracil, irinotecan hydrochloride, leucovorin calcium and oxaliplatin (FOLFIRINOX) IV on days 1 and 2. Treatments repeat every 28 days for up to 3 cycles for gemcitabine and nab-paclitaxel, and every 14 days for up to 7 cycles for FOLFIRINOX in the absence of disease progression or unacceptable toxicity. Patients also receive sonazoid IV over 20 minutes and undergo CEUS. Patients undergo computed tomography (CT) or positron emission tomography (PET)/CT or magnetic resonance imaging (MRI) during screening and as clinically indicated on study.
+
+ARM II: Patients receive standard of care chemotherapy consisting of gemcitabine hydrochloride and nab-paclitaxel IV over 60 minutes on days 1, 8 and 15 OR FOLFIRINOX IV on days 1 and 2. Treatments repeat every 28 days for up to 3 cycles for gemcitabine and nab-paclitaxel, and every 14 days for up to 7 cycles for FOLFIRINOX in the absence of disease progression or unacceptable toxicity. Patients undergo CT or PET/CT or MRI during screening and as clinically indicated on study.
+
+After completion of study treatment, patients are followed up every 3 months.

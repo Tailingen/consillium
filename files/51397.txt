@@ -1,0 +1,53 @@
+Combination Chemotherapy in Treating Young Patients With Down Syndrome and Acute Myeloid Leukemia or Myelodysplastic Syndromes
+This phase III trial is studying how well combination chemotherapy works in treating young patients with Down syndrome and acute myeloid leukemia or myelodysplastic syndromes. Drugs used in chemotherapy work in different ways to stop the growth of cancer cells, either by killing the cells or by stopping them from dividing. Giving more than one drug (combination chemotherapy) may kill more cancer cells.
+Childhood Acute Basophilic Leukemia|Childhood Acute Eosinophilic Leukemia|Childhood Acute Erythroleukemia (M6)|Childhood Acute Megakaryocytic Leukemia (M7)|Childhood Acute Minimally Differentiated Myeloid Leukemia (M0)|Childhood Acute Monoblastic Leukemia (M5a)|Childhood Acute Monocytic Leukemia (M5b)|Childhood Acute Myeloblastic Leukemia With Maturation (M2)|Childhood Acute Myeloblastic Leukemia Without Maturation (M1)|Childhood Acute Myelomonocytic Leukemia (M4)|Childhood Myelodysplastic Syndromes|de Novo Myelodysplastic Syndromes|Secondary Acute Myeloid Leukemia|Secondary Myelodysplastic Syndromes|Untreated Childhood Acute Myeloid Leukemia and Other Myeloid Malignancies
+DRUG: asparaginase|DRUG: daunorubicin hydrochloride|DRUG: cytarabine|DRUG: thioguanine|DRUG: etoposide|OTHER: laboratory biomarker analysis
+Event-free Survival (EFS) at 3 Years, Time from study entry to induction failure, relapse, or death assessed at 3 years.|Overall Survival (OS) at 3 Years, Time from study entry to death, assessed at 3 years.
+Induction Remission Rate, Proportion of participants with a remission after four courses of Induction therapy., End of induction therapy (day 112)|Percentage of Patients Experiencing Grade 3 or 4 Toxicity Assessed by the National Cancer Institute (NCI) Common Terminology Criteria for Adverse Events (CTCAE) Version 4.0, Proportion of participants with at least one grade 3 or higher adverse event during therapy., From the beginning of induction therapy to the end of intensification therapy|Prevalence of Leukemia Phenotype of DS Patients < 4 Years of Age at Diagnosis by Flow Cytometry, Proportion of participants having megakaryoblastic subtype (AMkL) phenotype among patients with phenotype data available., At the start of therapy|Prevalence of of GATA1 Mutations of DS Patients < 4 Years of Age at Diagnosis, Proportion of participants having GATA1 mutation among patients with phenotype data available., At baseline and at the end of therapy (intensification) or disease relapse|Proportions of Patients in Morphologic Remission With Positive MRD by Flow Cytometry, Proportion of participants in complete remission by morphology and with positive MRD by flow cytometry among patients having evaluable remission and MRD assessment., After Induction I therapy (day 28 from start of therapy)|Cytarabine Drug Sensitivity by R-Strip (MicroMath) Curve Fitting Program, Mean and standard deviation of peak plasma concentration. Specimen draws were performed only with dose 1, day 1 of induction II of AraC. First sample drawn pre-infusion, then drawn 30 mins prior to the end of the infusion, and then drawn for 6 time periods post infusion up to 8 hours post infusion (and before the 2nd dose of AraC). Results are based from these multiple time points on Day 1 of Induction II only., Days 1, 2, 8, and 9 of induction II|Cytarabine Drug Sensitivity by R-Strip (MicroMath) Curve Fitting Program, Mean and standard deviation of area under the concentration time curve. Specimen draws were performed only with dose 1, day 1 of induction II of AraC. First sample drawn pre-infusion, then drawn 30 mins prior to the end of the infusion, and then drawn for 6 time periods post infusion up to 8 hours post infusion (and before the 2nd dose of AraC). Results are based from these multiple time points on Day 1 of Induction II only., Days 1, 2, 8, and 9 of induction II|Cytarabine Drug Sensitivity by R-Strip (MicroMath) Curve Fitting Program, Mean and standard deviation of half-life of elimination. Specimen draws were performed only with dose 1, day 1 of induction II of AraC. First sample drawn pre-infusion, then drawn 30 mins prior to the end of the infusion, and then drawn for 6 time periods post infusion up to 8 hours post infusion (and before the 2nd dose of AraC). Results are based from these multiple time points on Day 1 of Induction II only., Days 1, 2, 8, and 9 of induction II|Gene Expression Profiles by Microarrays, A hierarchical clustering algorithm is used to assemble the genes into a dendrogram or tree structure with branches containing genes with similar patterns of expression. This ordered representation can be graphically displayed with colors that reflect the qualitative and quantitative relationships of the expressed genes., At baseline and at the time of relapse (if available)
+PRIMARY OBJECTIVES:
+
+I. Determine the event-free survival (EFS) and overall survival rates in pediatric patients with Down syndrome (DS) and acute myeloid leukemia AML or myelodysplastic syndromes MDS treated with induction therapy comprising cytarabine, daunorubicin hydrochloride, thioguanine, and asparaginase followed by intensification therapy comprising cytarabine and etoposide.
+
+II. Determine if the EFS rate in these patients can be increased with an intensified course of cytarabine therapy during induction therapy, compared to the EFS rate of patients in protocol COG-A2971.
+
+III. Determine if the number of intrathecal chemotherapy treatments can be reduced in these patients.
+
+IV. Determine if the total cumulative anthracycline dose can be reduced in these patients.
+
+SECONDARY OBJECTIVES:
+
+I. Determine the type and degree of treatment-related toxicity in these patients.
+
+II. Determine the prevalence of leukemia phenotype and globin transcription factor 1 (GATA1) mutations of DS patients \< 4 years of age at diagnosis.
+
+III. Determine the relationship of GATA1 mutations with leukemia phenotype and EFS rates of DS patients \< 4 years of age at diagnosis.
+
+IV. Determine the relationship of minimal residual disease monitored by flow cytometry and remission status during and after completion of therapy based on bone marrow morphology.
+
+V. Examine parameters of in vitro drug sensitivity and in vivo Ara-C pharmacokinetics.
+
+VI. Examine gene expression profiles by microarrays and the relationship to leukemia phenotype and outcome.
+
+VII. Examine the relationship of functional polymorphisms in phase I and phase II detoxification genes and DNA repair pathways that may modify susceptibility to leukemia and outcome of therapy in DS children.
+
+VIII. Assess the effect of karyotypic abnormalities on survival. IX. Establish a DS leukemia cell bank for future biological studies.
+
+OUTLINE: This is a nonrandomized, multicenter study.
+
+INDUCTION THERAPY: Patients undergo 4 courses of induction therapy. Each course is 28 days.
+
+COURSE I: Patients receive intrathecal (IT) cytarabine on day 1\* and cytarabine IV continuously over 96 hours, daunorubicin hydrochloride IV continuously over 96 hours, and oral thioguanine twice daily on days 1-4.
+
+NOTE: \*Patients with Central Nervous System (CNS) disease receive cytarabine IT twice weekly for up to 6 doses; patients with persistent CNS leukemia after 6 doses of IT cytarabine are removed from the study.
+
+COURSE II: Patients receive high-dose cytarabine IV over 3 hours twice daily on days 1, 2, 8, and 9 and asparaginase intramuscularly (IM) on days 2 and 9.
+
+COURSE III: Patients receive treatment as in course 1.
+
+COURSE IV: Patients receive cytarabine IV, daunorubicin hydrochloride IV, and oral thioguanine as in course 1.
+
+Induction therapy continues in the absence of disease progression or unacceptable toxicity. Patients with partial response, relapsed, or refractory disease after completion of course 4 are taken off study. Patients achieving complete response proceed to intensification therapy.
+
+INTENSIFICATION THERAPY: Patients receive cytarabine IV continuously over 168 hours on days 1-7 and etoposide IV over 1 hour on days 1-3. Treatment repeats every 28 days for 2 courses in the absence of disease progression or unacceptable toxicity.
+
+After completion of study treatment, patients are followed up periodically for 5 years and then annually thereafter.

@@ -1,0 +1,34 @@
+LEOPARD Prospective Validation Cohort 1
+Intro:
+
+The present clinical research protocol is part of the LEOPARD European project (Grant n° 101080964 Horizon Europe) which aims to design and validate new predictive models of mortality among liver transplantation (LT) candidates.
+
+MELD based-liver graft allocation systems have become increasingly inaccurate over the last decade to predict mortality/dropout of liver transplantation (LT) candidates on the waitlist (WL). Wide disparities in mortality/dropout on the WL also exist across European countries, ranging from 5 to 30% according to transplantation indications. In this setting, the European Commission- Horizon Europe funded-LEOPARD project intends to design new, 2nd generation, AI-machine learning-based predictive models of delisting in LT candidates, to better serve on time patients with the highest risk of dropout on the WL and to improve equity of access to LT across Europe.
+
+Hypothesis/Objective The scientific justification of the LEOPARD PVC1 is therefore
+
+1. to build an external cohort of LT candidates to test and validate the LEOPARD models, therefore providing robust evidence for adoption of LEOPARD models by Organ Sharing Organizations (OSOs).
+2. to collect granular data, bio- and tissues sampes and images to test last-generation OMICs predictors and radiomics, therefore opening the door to design of 3rd generation, precision medicine-based predictive models.
+
+The primary objective of the LEOPARD longitudinal study is to test and validate AI-based 2nd generation LEOPARD predictive models of mortality/drop out on the waitlist in patients with decompensated cirrhosis, or other end-stage chronic liver diseases, and in patients listed for HCC.
+
+Method Multicenter Prospective longitudinal study in up to 630 enrolments (in case of replacing participants after inclusion) to obtain 600 patients meeting selection criteria, in 30 hospitals in 5 European countries including France, Italy, The Netherlands, Belgium and Germany.
+Decompensated Liver Cirrhosis|Primary Biliary Cholangitis|Primary Sclerosing Cholangitis|Hepato-cellular Carcinoma
+OTHER: Standardized assessments, guided tumor biopsy and biobanking|OTHER: Standardized assessments and biobanking
+Clinical primary endpoint will be a composite of mortality or drop out for being too sick on transplantation waiting list, since kinetics of dropout differs according to LT indications, * 3-month mortality/dropout for being too sick after listing in subsets 1 and 2
+* 12-month mortality/dropout for being too sick (tumor progression) after listing in subset 3, 3 months after listing in subsets 1 & 2 ; 12 months after listing in subset 3
+Number of participants with 6-month mortality/dropout for being too sick (subsets 1 to 3), Mortality/Drop out for being too sick (subsets 1 to 3), 6 months after listing|Number of participants with 9-month mortality/dropout for too sick in subsets 1, 2, Mortality/dropout for being too sick, 9 months after listing|Number of participants with 12-month mortality/dropout for too sick in subset 3, Mortality/dropout for being too sick, 12 months after listing|Causes of death/drop-out for being too sick, Causes of death/drop-out, From date of inclusion until date of death from any cause or date of drop-out for being too sick, whichever came first, assessed up to 12 months|Incidence of delisting for patient's decision or clinical improvement, Delisting for patient's decision or clinical improvement, From date of inclusion until date of delisting for patient's decision or clinical improvement, assessed up to12 months|Time from listing to death/drop-out, Duration from listing to death/dropout (days), From date of listing until date of death from any cause or date of drop-out for being too sick, whichever came first, assessed up to 12 months|Time to transplantation, Duration from listing to transplantation (days), From date of listing until date of transplantation, assessed up to 12 months|Number of participants with 1-year post transplant survival in subsets 1-2, Survival in subsets 1-2, 12 months after liver transplantation|Number of participants with 9-month HCC recurrence in subset 3, HCC recurrence in subset 3, 9 months after liver transplantation|Number of participants with 9-month post transplant survival in subset 3, Post transplant survival in subset 3, 9 months after liver transplantation|9-month and 12-month transplant benefit in subsets 3 and 1-2, respectively, Relevant comorbidities, 9 months and 12 months after liver transplantation
+Intro:
+
+The present clinical research protocol is part of the LEOPARD European project (Grant n° 101080964 Horizon Europe) which aims to design and validate new predictive models of mortality among liver transplantation (LT) candidates.
+
+MELD based-liver graft allocation systems have become increasingly inaccurate over the last decade to predict mortality/dropout of liver transplantation (LT) candidates on the waitlist (WL). Wide disparities in mortality/dropout on the WL also exist across European countries, ranging from 5 to 30% according to transplantation indications. In this setting, the European Commission- Horizon Europe funded-LEOPARD project intends to design new, 2nd generation, AI-machine learning-based predictive models of delisting in LT candidates, to better serve on time patients with the highest risk of dropout on the WL and to improve equity of access to LT across Europe.
+
+Hypothesis/Objective The scientific justification of the LEOPARD PVC1 is therefore
+
+1. to build an external cohort of LT candidates to test and validate the LEOPARD models, therefore providing robust evidence for adoption of LEOPARD models by Organ Sharing Organizations (OSOs).
+2. to collect granular data, bio- and tissues sampes and images to test last-generation OMICs predictors and radiomics, therefore opening the door to design of 3rd generation, precision medicine-based predictive models.
+
+The primary objective of the LEOPARD longitudinal study is to test and validate AI-based 2nd generation LEOPARD predictive models of mortality/drop out on the waitlist in patients with decompensated cirrhosis, or other end-stage chronic liver diseases, and in patients listed for HCC.
+
+Method Multicenter Prospective longitudinal study in up to 630 enrolments (in case of replacing participants after inclusion) to obtain 600 patients meeting selection criteria, in 30 hospitals in 5 European countries including France, Italy, The Netherlands, Belgium and Germany.

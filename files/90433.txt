@@ -1,0 +1,6 @@
+Real-Time MV/kV Image Guided Radiation Therapy
+In current radiation therapy, imaging (typically, cone beam CT imaging or two orthogonal X-ray projection imaging) is done for patient setup before radiation dose delivery. Dose delivery typically takes 2 to 5 minutes depending on the delivery technique used for treatment. A tumor target may change its position during the dose delivery process. The goal of this project is develop a real-time imaging strategy to monitor the tumor position during dose delivery and evaluate its potential clinical impact.
+Prostate Cancer
+DEVICE: Real-time kV/MV Prostate Imaging
+To verify improved tumor targeting accuracy using IMRT (intensity modulated radiation therapy) and VMAT (volumetric modulated radiation therapy), 2 years
+In current radiation therapy, imaging (typically, cone beam CT imaging or two orthogonal X-ray projection imaging) is done for patient setup before radiation dose delivery. Dose delivery typically takes 2 to 5 minutes depending on the delivery technique used for treatment. A tumor target may change its position during the dose delivery process. The goal of this project is develop a real-time imaging strategy to monitor the tumor position during dose delivery and evaluate its potential clinical impact.

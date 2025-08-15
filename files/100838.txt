@@ -1,0 +1,25 @@
+A Study to Evaluate the Safety and Efficacy of A2B694, a Logic-gated CAR T, in Participants With Solid Tumors That Express MSLN and Have Lost HLA-A*02 Expression
+The goal of this study is to test A2B694, an autologous logic-gated Tmod™ CAR T-cell product in subjects with solid tumors including colorectal cancer (CRC), pancreatic cancer (PANC), non-small cell lung cancer (NSCLC), ovarian cancer (OVCA), mesothelioma (MESO), and other solid tumors that express MSLN and have lost HLA-A\*02 expression.
+
+The main questions this study aims to answer are:
+
+Phase 1: What is the recommended dose of A2B694 that is safe for patients
+
+Phase 2: Does the recommended dose of A2B694 kill the solid tumor cells and protect the patient's healthy cells
+
+Participants will be required to perform study procedures and assessments, and will also receive the following study treatments:
+
+Enrollment and Apheresis in BASECAMP-1 (NCT04981119)
+
+Preconditioning Lymphodepletion (PCLD) Regimen
+
+A2B694 Tmod CAR T cells at the assigned dose
+Solid Tumor, Adult|Colorectal Cancer|NSCLC|Non Small Cell Lung Cancer|NSCLC, Recurrent|Non-Small Cell Squamous Lung Cancer|Pancreas Cancer|Pancreatic Neoplasm|Colorectal Adenocarcinoma|CRC|Colon Cancer|Rectal Cancer|Cancer|Ovarian Cancer|Ovarian Neoplasms|Mesothelioma|Mesothelioma, Malignant|Ovary Cancer|Lung Cancer|MESOM
+BIOLOGICAL: A2B694|DIAGNOSTIC_TEST: xT CDx with HLA-LOH Assay
+Phase 1: Rate of adverse events and dose limiting toxicities (DLTs) by dose level, Adverse Events and toxicity will be evaluated according to the Cancer Therapy Evaluation Program Common Terminology Criteria for Adverse Events version (CTCAE) 5.0 (or current version). Cytokine release syndrome (CRS) and immune effector cell-associated neurotoxicity syndrome (ICANS) events will be graded according to the criteria described in the current protocol., From the time of Informed consent until 24 months (2 years) post A2B694 infusion|Phase 1: Recommended Phase 2 Dose (RP2D), The RP2D will be identified utilizing a BOIN study design in addition to considering safety and biomarker analysis., 21 days post A2B694 infusion|Phase 2: The Overall Response Rate (ORR) for patients, The ORR will be evaluated per RECIST v1.1 and assessed by independent central review., 24 months post A2B694 infusion
+Persistence of A2B694, Number of A2B694 Tmod CAR T cells present in patients treated with A2B694 as assessed by Polymerase Chain Reaction (PCR) (or similar method) on participant blood samples, up to 24 months post A2B694 infusion|Cytokine analysis, Cytokine levels such as interferon-gamma (IFN-γ) and interleukin-6 (IL-6) in patients treated with A2B694 assessed by cytokine analysis on participant blood samples, up to 24 months post A2B694 infusion
+This is a seamless phase 1/2, multi-center, open-label study that enrolls adults with recurrent unresectable, locally advanced, or metastatic (considered non-curative) CRC, NSCLC, PANC, OVCA, MESO or other solid tumors with MSLN expression. Subjects must be germline HLA-A\*02 heterozygous, with tumors that express MSLN and have lost HLA-A\*02 expression. The purpose of Phase 1 of this study is to determine the safety and the optimal dose of A2B694 (after PCLD) in participants with solid tumor disease. The purpose of Phase 2 of this study is to determine the further safety and efficacy (how well it treats the solid tumor disease) of A2B694.
+
+The treatment available for these cancers and other solid tumors can be toxic, debilitating, and fatal. In the recurrent unresectable, locally advanced, or metastatic setting, the intent of standard of care treatment is typically palliative rather than curative, and has not changed significantly in several decades. A2 Bio hypothesizes that A2B694 Tmod CAR T-cell therapy will enable the killing of tumor target cells (those cells that express MSLN and have LOH for HLA-A\*02 protein). Additionally, normal healthy cells that maintain HLA-A\*02 expression and co-express MSLN (eg, lung tissue) will not be targeted due to the blocker portion of the Tmod CAR T cell that acts as a self-regulated safety switch that protects normal tissue from damage. A2 Bio believes this will provide a therapeutic safety window compared to previous solid tumor targeting therapies. This hypothesis will be explored in the study.
+
+Participants for this study must enroll and have their T cells collected (apheresis) in the pre-screening BASECAMP-1 study (NCT04981119). T cells are collected, processed and stored for each participant. Upon disease progression the participant may screen for this study (EVEREST-2) and the participant's T cells are manufactured and then infused following PCLD regimen. There is no time requirement between the studies, and patients may go directly from BASECAMP-1 to EVEREST-2 based on their own disease course.

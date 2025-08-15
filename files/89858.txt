@@ -1,0 +1,14 @@
+Correlation Between the Genetic and Neuroimaging Signatures in Newly Diagnosed Glioblastoma Patients Before Surgery
+This pilot clinical trial studies the correlation between the genetics and brain images of patients with newly diagnosed glioblastoma before surgery. The genetic characteristics of a tumor are an important way to predict how well it will respond to treatment. Imaging, using magnetic resonance imaging (MRI), takes detailed pictures of organs inside the body, and may also provide information that helps doctors predict how brain tumors will respond to treatment. If MRI can provide doctors with similar information about the tumor as the tumor's genes, it may be able to be used to predict tumor response in patients whose tumors cannot be reached by surgery or biopsy to get tissue samples.
+Glioblastoma
+PROCEDURE: Diffusion Weighted Imaging|DRUG: Gadolinium|OTHER: Laboratory Biomarker Analysis|PROCEDURE: Magnetic Resonance Imaging|PROCEDURE: Magnetic Resonance Imaging|PROCEDURE: Magnetic Resonance Imaging|PROCEDURE: Perfusion Magnetic Resonance Imaging
+Correlation between the genetic and neuroimaging signature of glioblastoma and prognosis, The average DK parameter and CBV parameter will be compared between classes 1 and 2 based on the 9-gene expression profile at each site using two sample t-test. Data will be transformed or a nonparametric test will be conducted if necessary. Differences in DK and CBV parameters between the two MR techniques (3T MR in OSU and 1.5 T in MUSC) will be explored in each class of patients., Day 1|Diffusional kurtosis (DK) values, The average DK parameter and cerebral blood volume (CBV) parameter will be compared between classes 1 and 2 based on the 9-gene expression profile at each site using two sample t-test. Data will be transformed or a nonparametric test will be conducted if necessary. Differences in DK and CBV parameters between the two MR techniques (3T MR in Ohio State University \[OSU\] and 1.5 T in Medical University of South Carolina \[MUSC\]) will be explored in each class of patients., Day 1|Genetic tumor profile, The average DK parameter and CBV parameter will be compared between classes 1 and 2 based on the 9-gene expression profile at each site using two sample t-test. Data will be transformed or a nonparametric test will be conducted if necessary., Day 1
+PRIMARY OBJECTIVES:
+
+I. Determine the correlation between the genetic and neuroimaging signature of glioblastoma.
+
+II. Determine the correlation between the neuroimaging signature of glioblastoma and prognosis.
+
+OUTLINE:
+
+Patients undergo MRI before and after gadolinium contrast administration, including 3-dimensional (3D) volumetric T1-weighted sequence, fluid attenuated inversion recovery (FLAIR) sequence, diffusion weighted imaging, and perfusion MRI. Tissue samples are also analyzed for the tumor genetic profile.

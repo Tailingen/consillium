@@ -1,0 +1,31 @@
+A Study to Compare the Administration of Encorafenib + Binimetinib + Nivolumab Versus Ipilimumab + Nivolumab in BRAF-V600 Mutant Melanoma With Brain Metastases
+This phase II trial compares the effect of encorafenib, binimetinib, and nivolumab versus ipilimumab and nivolumab in treating patients with BRAF- V600 mutant melanoma that has spread to the brain (brain metastases). Encorafenib and binimetinib may stop the growth of tumor cells by blocking some of the enzymes needed for cell growth. Ipilimumab and nivolumab are monoclonal antibodies that may interfere with the ability of tumor cells to grow and spread. This trial aims to find out which approach is more effective in shrinking and controlling brain metastases from melanoma.
+Acral Lentiginous Melanoma|Clinical Stage IV Cutaneous Melanoma AJCC v8|Metastatic Cutaneous Melanoma|Metastatic Malignant Neoplasm in the Brain|Metastatic Melanoma|Metastatic Mucosal Melanoma|Pathologic Stage IV Cutaneous Melanoma AJCC v8
+DRUG: Binimetinib|DRUG: Encorafenib|BIOLOGICAL: Ipilimumab|BIOLOGICAL: Nivolumab
+Progression-free survival, Will be assessed by Response Evaluation Criteria in Solid Tumors (RECIST) 1.1., From date of registration to date of first documentation of progression, or symptomatic deterioration, or death due to any cause, assessed up to 3 years after randomization
+Overall survival (OS), Will be assessed by Immunotherapy Response Assessment Criteria for Intracranial Metastases (RANO-BM). Will construct Kaplan-Meier plots and estimate the median OS and construct 95% Brookmeyer-Crowley Confidence intervals., From date of registration to date of death due to any cause, assessed up to 3 years after randomization|Intracranial response rate (ICRR), The ICRR is defined as the best response when applying modified (m)RECIST criteria. Will compare intracranial response based on assessments per mRECIST, RANO-BM and immunotherapy (i)RANO criteria based on a review of the banked images. For each of these methods, the best response to treatment will be summarized by treatment arm, the percent agreement between each pair of methods will be reported along with a 95% confidence interval, and a p-value based on a two-sided McNemar's test will be calculated., Up to 3 years after randomization|Objective response rate, Will be assessed by RECIST 1.1., Up to 3 years after randomization|Duration of response, Up to 3 years after randomization
+PRIMARY OBJECTIVE:
+
+I. To compare progression-free survival (PFS) per Response Evaluation Criteria in Solid Tumors (RECIST) 1.1 between participants randomized to the triplet combination of encorafenib + binimetinib + nivolumab versus the doublet combination of ipilimumab + nivolumab among participants with BRAF-V600 mutant melanoma that has metastasized to the brain.
+
+SECONDARY OBJECTIVES:
+
+I. To estimate the overall survival (OS) of participants in each treatment arm. II. To estimate the objective response rate (ORR) (confirmed and unconfirmed, complete and partial responses) per RECIST 1.1 in each treatment arm.
+
+III. To estimate the intracranial response rate (ICRR), defined as confirmed and unconfirmed complete and partial response per modified RECIST for brain metastases (mRECIST).
+
+IV. To evaluate the duration of response, per RECIST 1.1 and the duration of ICRR per mRECIST, and per Response Assessment in Neuro-Oncology (RANO)-Brain Metastases (BM) (and immunotherapy \[i\]RANO) in each treatment arm.
+
+V. To evaluate the toxicity profile of each treatment arm. VI. To evaluate current and emerging radiographic response criteria (modified RECIST 1.1, modified RANO-BM and iRANO) by a retrospective blinded independent centralized review (BICR) of banked images.
+
+BANKING OBJECTIVE:
+
+I. To bank tumor tissue, cerebral spinal fluid (CSF), stool and blood samples for future correlative studies.
+
+OUTLINE: Patients are randomized to 1 of 2 arms.
+
+ARM I: Patients receive encorafenib orally (PO) once daily (QD) on days 1-28, binimetinib PO twice daily (BID) on days 1-28, and nivolumab intravenously (IV) on day 1. Cycles repeat every 28 days in the absence of disease progression or unacceptable toxicity.
+
+ARM II: Patients receive nivolumab IV on day 1 of all cycles and ipilimumab IV over 30 minutes on day 1 of cycles 1-4. Cycles repeat every 21 days for 4 cycles and then every 28 days in the absence of disease progression or unacceptable toxicity.
+
+After completion of study treatment, patients are followed up every 6 months for 2 years, and then annually until 3 years after randomization.

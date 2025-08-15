@@ -1,0 +1,20 @@
+Breast Density Measurements in Digital Mammography and Breast Tomosynthesis Systems of Different Pixel Size
+Breast cancer (BC) is the most frequently diagnosed cancer in women worldwide. The cause of developing BC is currently unknown. However, there are several risk factors, such as volumetric breast density (VBD), which have been proved to have a relationship with BC. The assessment of breast density is typically performed subjectively using the 4-classes density classification described by American College of Radiology. However, in the last years, automated breast density software tools have been developed (e.g. Volpara, Quantra). In this work, VBD measurements from VolparaTM (v. 1.5.4.0) will be compared between Full-Field Digital Mammography (FFDM) and Digital Breast Tomosynthesis (DBT) of the same pacient ('combo mode'). Images will be acquired in a Hologic Selenia Dimensions, the most common FFDM/DTB system, where image resolution is different for FFDM (70 um) and DBT (140 um).
+
+This study (1) evaluates the consistency between Volpara's breast density measurements and spatial distribution for the two imaging techniques (FFDM and DBT) in a Hologic Selenia Dimensions, and (2) compares VDB measurements with other similar tool (Quantra) and radiologists breast density manual classification.
+Mammographic Breast Density
+DEVICE: Volpara
+Consistency of breast density measurements from the latest VolparaTM breast density tool for Hologic's FFDM and DBT images (i.e. combo mode)., 1 year|Comparison of VolparaTM's Volumetric Breast Density measurements and its 4-classes density rating measured in DBT against QuantraTM 3D and radiologist's BI-RADS manual classification, 1 year
+Monocentric, prospective and observational study which will analyse a series of 300 cases (FFDM + DBT) from consecutive women. Image acquisitions will take place within the Área de radiología Mamaria y Ginecológica located at Parc Taulí Hospital Universitari, Sabadell. The purposes of this study will be explained to each potential candidate and if agreed to participate, a consent form will be signed.
+
+Inclusion criteria:
+
+* Subjects over 18 years old.
+* Acceptance of participation through a signed consent form.
+* Asymptomatic subjects
+
+Exclusion criteria:
+
+* Subjects refusing to participate or sign the consent form.
+* Subjects with prior history of breast surgery or biopsy with markers.
+* Subjects with breast prostheses.

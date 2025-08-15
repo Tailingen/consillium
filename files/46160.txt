@@ -1,0 +1,39 @@
+Ibrutinib in Treating Patients With Advanced Systemic Mastocytosis
+This phase 2 trial studies ibrutinib to see how well it works in treating patients with systemic (affecting the entire body) mastocytosis that has spread to other parts of the body and usually cannot be cured or controlled with treatment (advanced). Systemic mastocytosis is a disease in which too many mast cells (a type of immune system cell) are found throughout the body. Mast cells give off chemicals such as histamine that can cause flushing (a hot, red face), itching, abdominal cramps, muscle pain, nausea, vomiting, diarrhea, low blood pressure, and shock. Ibrutinib may stop the growth of mast cells by blocking some of the enzymes needed for cell growth.
+Aggressive Systemic Mastocytosis|Mast Cell Leukemia|Systemic Mastocytosis
+DRUG: Ibrutinib
+Overall Response Rate (ORR), Overall response rate (ORR) is reported as the sum of the rates of participants achieving complete remission (CR), partial remission (PR), \& clinical improvement (CI). A clinical response is a response with duration of ≥ 12 weeks.
+
+CR is defined as all 4 criteria:
+
+* No presence of compact neoplastic mast cell aggregates
+* Serum tryptase level \< 20 ng/mL
+* Peripheral blood count remission defined as absolute neutrophil count (ANC) ≥1 x 10e9/L + normal differential, Hb ≥11 g/dL, \& platelet count ≥100x10e9/L
+* Complete resolution of palpable hepatosplenomegaly \& all biopsy-proven or suspected SM-related organ damage
+
+PR is defined as all 3 criteria with response duration ≥12 weeks, that is not CR or progressive disease:
+
+* ≥ 50% reduction in neoplastic mast cells
+* Serum tryptase level reduced ≥50%
+* Resolution of 1+ biopsy-proven or suspected systemic mastocytosis (SM)-related organ damage findings
+
+CI is defined as any improvement in any of the above measures., Up to 6 months
+Number of Participants With Adverse Events, Adverse events will be graded according to the National Cancer Institute (NCI) Common Terminology Criteria for Adverse Events (CTCAE) version 4.03, and reported as the number and percentage of participants having any adverse event; by each grade of adverse event; and by affected body systems., 30 days|Ibrutinib Pharmacokinetics (PK), Plasma concentration-time profiles for each subject and mean plasma concentration-time profiles for each dose level will be plotted, plasma concentration data for ibrutinib at each time point will be summarized by descriptive statistics, and PK parameters such as maximum concentration (Cmax), minimum concentration, time at which the Cmax is reached, and area under the curve will be summarized with mean, geometric mean, medium, minimum, maximum, standard deviation, and coefficient of variation., 28 days|Change of Mast Cell Burden, The change in the number of neoplastic mast cells in tissues (blood and/or bone marrow), ie, a measure of mast cell burden, will be assessed by immunophenotyping and/or immunohistochemistry (depending on patient and disease specifics) using mast cell markers, eg, CD25, CD30, CD117, tryptase, reticulin, Wright-Giemsa staining, and/or hematoxylin-eosin staining, in peripheral blood smears or bone marrow samples. For each participant, the data are used to collectively determine a single assessment for the number of mast cells present at baseline and after treatment. The outcome is reported as the median change in that level of mast cells, with full range, from baseline up to 2 years., 2 years|Serum Tryptase Levels, Serum tryptase level is a surrogate marker for the desired histopathologic response, ie, reduction in mast cell burden. Serum tryptase levels are reported as the median of the percent reduction, with full range, from baseline up to 2 years., 2 years|Total Symptom Score (TSS), The totality of systemic mastocytosis was assessed by the total symptom score as measured by a Myeloproliferative Neoplasm Symptom Assessment Form modified for mast cell disorders \[MPN-SAF (MCD)\], and reported as the change in median score with standard deviation at baseline and 30 days. The MPN-SAF is a single, 27-question questionnaire that scores the following general measures on a scale of 0 (best) to 10 (worst): fatigue levels, effects of fatigue, satiety, pain, activity, concentration, dizziness, sleep, mood, anxiety, sexual function, itching, flushing, fever, weight loss, respiratory functions, diarrhea, lesions, and allergic reactions (some of these general terms may describe more than 1 assessment). The score on the MPN-SAF is the sum total of all 27 scores, and the range of scores is from a minimum of 0 (best; symptoms for all assessment absent) to a maximum of 270 (worst; score of 10 on all assessments)., 30 days|Change in Quality of Life (QoL), The quality of life (QoL) component of the Myeloproliferative Neoplasm Symptom Assessment Form (MPNSAF) modified for mast cell symptoms, a scale of life quality ranking from 0 (best) to 10 (worst), was assessed at baseline and after 1 cycle of ibrutinib treatment (30 days), and reported as the median change in score with standard deviation., 30 days|Duration of Response (DoR), Duration of response (DoR) was assessed through 2 years of treatment, and reported as the median with standard deviation, with response duration censored at last response assessment in the event of death or progression not documented., 2 years|Time-to-Response (TTR), Time-to-response (TTR) was assessed through 2 years of treatment, and reported as the median with standard deviation, censored at last response assessment in the event of death or progression not documented., 2 years|Progression-free Survival (PFS), Participants were assessed for progression-free survival (PFS) from the start of treatment through 2 years of treatment. The outcome is reported as the number of participants who were alive without disease progression after 2 years of treatment., 2 years|Overall Survival (OS), Overall survival (OS) was assessed through 2 years of treatment, and recorded as the time from the start of treatment to either progression or death, with values censored at the last response assessment if the participant did not progress or die during that period. OS is reported as reported as the median with standard deviation., 26 months
+PRIMARY OBJECTIVE:
+
+Evaluate the response rate to ibrutinib in patients with advanced systemic mastocytosis (SM) (aggressive systemic mastocytosis \[ASM\] or mast cell leukemia \[MCL\], or SM-associated hematologic non-mast cell disorder \[AHNMD\]) by the end of 6 cycles (6 months).
+
+SECONDARY OBJECTIVES:
+
+* Evaluate the tolerability and safety profile of ibrutinib in patients with advanced SM.
+* Evaluate the pharmacokinetic (PK) profile of ibrutinib in a subset of patients with advanced SM.
+* Evaluate changes in histopathology (blood and bone marrow) of patients with advanced SM in response to ibrutinib therapy.
+* Evaluate changes in mastocytosis related symptom scores and quality-of-life (QOL) using a modified Myeloproliferative Neoplasm Symptom Assessment Form (MPNSAF).
+* Evaluate the duration of response (DoR) and time to response (TTR).
+* Evaluate progression-free survival (PFS) and overall survival.
+
+OUTLINE:
+
+Patients receive ibrutinib orally (PO) once daily (QD) on days 1 to 28. Treatment repeats every 28 days for up to 6 months in the absence of disease progression or unacceptable toxicity. Patients achieving an unconfirmed or confirmed clinical improvement (CI), partial response (PR), or complete response (CR) by the end of course 6 will be permitted to continue maintenance courses of ibrutinib on an ongoing basis until loss of response/progressive disease, or unacceptable toxicity.
+
+After completion of study treatment, patients are followed up for 30 days and then every 6 months thereafter.

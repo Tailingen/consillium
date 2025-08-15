@@ -1,0 +1,27 @@
+Pembrolizumab With Rituximab or Obinutuzumab in Treating Patients With Relapsed or Refractory Follicular Lymphoma or Diffuse Large B Cell Lymphoma
+This phase II trial studies how well pembrolizumab with rituximab or obinutuzumab work in treating patients with follicular lymphoma or diffuse large B cell lymphoma that has come back (recurrent) or does not respond to treatment (refractory). Immunotherapy with monoclonal antibodies, such as pembrolizumab, may help the body's immune system attack the cancer, and may interfere with the ability of tumor cells to grow and spread. Rituximab and obinutuzumab are monoclonal antibodies. They bind to a protein called CD20, which is found on B cells (a type of white blood cell) and some types of cancer cells. This may help the immune system kill cancer cells. Giving pembrolizumab with rituximab or obinutuzumab may help kill more cancer cells in patients with follicular lymphoma or diffuse large B cell lymphoma.
+Recurrent Diffuse Large B-Cell Lymphoma|Recurrent Follicular Lymphoma|Refractory Diffuse Large B-Cell Lymphoma|Refractory Follicular Lymphoma
+OTHER: Laboratory Biomarker Analysis|BIOLOGICAL: Pembrolizumab|BIOLOGICAL: Rituximab|BIOLOGICAL: Obinutuzumab
+Overall Response Rate, Will be defined as the rate of complete + partial responses using computed tomography (CT) criteria (Lugano 2014)., Up to 90 days after the last dose of pembrolizumab
+Incidence of Serious or Drug-related Adverse Events, Evaluated by the NCI Common Terminology for Adverse Events (CTCAE), version 4.0., Up to 90 days after the last dose of pembrolizumab|Progression-free Survival (PFS), The Kaplan-Meier method will be used to estimate median PFS., Up to 90 days after the last dose of pembrolizumab|Overall Survival (OS), The Kaplan-Meier method will be used to estimate median OS., Up to 90 days after the last dose of pembrolizumab
+OUTLINE: Patients are assigned to 1 of 3 arms.
+
+ARM I:
+
+INDUCTION: Patients diagnosed with R/R FL receive pembrolizumab intravenously (IV) over 30 minutes on day 1. Treatment repeats every 3 weeks for 4 cycles in the absence of disease progression or unacceptable toxicity. Patients also receive rituximab IV on days 1, 8, and 15 of cycle 1, and on day 1 of cycle 2.
+
+EXTENDED THERAPY: Patients with at least a partial response receive pembrolizumab IV over 30 minutes on day 1. Cycles repeat every 3 weeks for up to 2 years (35 cycles) in the absence of disease progression or unacceptable toxicity.
+
+ARM II:
+
+INDUCTION: Patients diagnosed with R/R DLBCL receive pembrolizumab intravenously (IV) over 30 minutes on day 1. Treatment repeats every 3 weeks for 4 cycles in the absence of disease progression or unacceptable toxicity. Patients also receive rituximab IV on days 1, 8, and 15 of cycle 1, and on day 1 of cycle 2.
+
+EXTENDED THERAPY: Patients with at least a partial response receive pembrolizumab IV over 30 minutes on day 1. Cycles repeat every 3 weeks for up to 2 years (35 cycles) in the absence of disease progression or unacceptable toxicity.
+
+Arm III:
+
+INDUCTION: Patients diagnosed with R/R FL receive pembrolizumab IV over 30 minutes on day 1. Treatment repeats every 3 weeks for 4 cycles in the absence of disease progression or unacceptable toxicity. Patients also receive obinutuzumab IV on days 1, 8, and 15 of cycle 1, and on day 1 of cycle 2.
+
+EXTENDED THERAPY: Patients with at least a partial response receive pembrolizumab IV over 30 minutes on day 1. Cycles repeat every 3 weeks for up to 2 years (35 cycles) in the absence of disease progression or unacceptable toxicity. Patients with stable disease or better, who are experiencing clinical benefit in the judgment of the investigator, may receive obinutuzumab IV on day 1 of cycles 5, 9, 13, 17, 21, and 25.
+
+After completion of study treatment, patients are followed up for 90 days.

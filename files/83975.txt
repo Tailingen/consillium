@@ -1,0 +1,32 @@
+Regorafenib and Durvalumab for the Treatment of High-Risk Liver Cancer
+This phase II trial tests whether regorafenib and durvalumab work to shrink tumors in patients with high-risk liver cancer. Regorafenib may stop the growth of tumor cells by blocking some of the enzymes needed for cell growth. Immunotherapy with monoclonal antibodies, such as durvalumab, may help the body's immune system attack the cancer and may interfere with the ability of tumor cells to grow and spread. Giving regorafenib and durvalumab may work better in treating patients with high-risk liver cancer.
+Stage IB Hepatocellular Carcinoma AJCC v8|Stage II Hepatocellular Carcinoma AJCC v8|Stage III Hepatocellular Carcinoma AJCC v8|Stage IIIA Hepatocellular Carcinoma AJCC v8
+BIOLOGICAL: Durvalumab|DRUG: Regorafenib
+Objective response rate (ORR) (unconfirmed), An objective response is defined as a complete response (CR) or partial response (PR). Disease status will be assessed using Response Evaluation Criteria in Solid Tumors (RECIST) version (v).1.1 criteria. ORR is defined as the proportion of evaluable patient who experience a CR or PR divided by the total number of evaluable patients. The final ORR point estimate and corresponding 95% confidence interval will be reported., At 16 weeks
+Rate of surgery during the course of the study, The proportion of patients who underwent surgery within 4 months of the last treatment dose during the course of the study. The 95% confidence interval calculated by Clopper and Pearson will be reported., Up to 10 months|Incidence of adverse events, The rate of patients experiencing a grade 3+ adverse event will be reported. Further analyses of adverse event rates will be considered exploratory., Up to 3 years|Progression-free survival (PFS), PFS is defined as the time from registration to the first of either disease progression or death from any cause, where disease progression is determined based on RECIST 1.1 criteria. Patients who do not experience disease progression or death while on protocol will be censored at the last disease assessment date. PFS will be estimated using the Kaplan-Meier method. Patients in the primary evaluable population who are not in the resectable evaluable population will be eligible for the analysis of this endpoint. The median PFS and corresponding 95% confidence interval (by Brookmeyer and Crowley) will be reported., 3 years|Overall survival (OS), OS is defined as the time from registration to death from any cause. Patients who are alive will be censored at the last follow-up date. OS will be estimated using the Kaplan-Meier method. Patients in the primary evaluable population will be eligible for the analysis of this endpoint.. The median OS and corresponding 95% confidence interval (by Brookmeyer and Crowley) will be reported., 3 years|Recurrence-free survival (RFS), RFS is defined as the time from surgical resection to first of either disease recurrence or death from any cause. Patients who do not experience disease recurrence or death while on protocol will be censored at the last disease assessment date. RFS will be estimated using the Kaplan-Meier method. The resectable evaluable population will be used for the analysis of this endpoint. The median RFS and corresponding 95% confidence interval (by Brookmeyer and Crowley) will be reported., 3 years|Pathologic complete response, A pathologic complete response must satisfy all of the following: \*No metastatic disease (i.e. pM0 or pMx, pNo or pNx) \*Zero percent residual tumor cells in the specimen including the presumed prior tumor bed and elsewhere \*Negative resection margin on all margin examined. The proportion of patients experiencing pathologic complete response and corresponding 95% confidence interval will be reported., Up to 10 months
+Immune biomarkers, Analyze the effect of regorafenib and durvalumab on immune biomarkers in the tumor microenvironment and systemic circulation At baseline, week 8, 12, 20, and at off protocol treatment
+PRIMARY OBJECTIVE:
+
+I. To assess the overall response rate (ORR) at 16 weeks post registration.
+
+SECONDARY OBJECTIVES:
+
+I. To assess the rate of patients who undergo surgery during the course of the study.
+
+II. To assess the safety and tolerability of the combination therapy of regorafenib plus durvalumab.
+
+III. To assess the effect of combination therapy on overall survival. IV. To assess the effect of combination therapy on progression-free survival (PFS) in patients that do not undergo resection.
+
+V. To assess the effect of combination therapy on recurrent-free survival (RFS) in patients that have resection.
+
+VI. To assess the rate of pathologic complete response.
+
+CORRELATIVE RESEARCH OBJECTIVE:
+
+I. Analyze the effect of regorafenib and durvalumab on immune biomarkers in the tumor microenvironment and systemic circulation.
+
+OUTLINE:
+
+Patients receive regorafenib orally (PO) once daily (QD) on days 1-21 and durvalumab intravenously (IV) on day 1. Treatment repeats every 28 days for a maximum of 2 years from registration or until decision to proceed to surgery, disease progression, excessive toxicity, or patient withdrawal.
+
+After completion of study treatment, patients are followed every 90 days for 3 years.

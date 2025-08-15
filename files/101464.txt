@@ -1,0 +1,11 @@
+Combining Tongue and Gastric Cancer Cascade With Artificial Intelligence
+This study combines artificial intelligence with tongue images, by collating and collecting tongue images and diagnostic and pathological results of gastroscopic diseases, mining and analysing the correlation between tongue images and OLGA, OLGIM stages, Correa sequences and constructing prediction models, to deeply investigate the relationship between tongue images and precancerous diseases, precancerous lesions and gastric cancer.
+Artificial Intelligence|Tongue|Gastric Cancer
+Sensitivity, Sensitivity of artificial intelligence models Sensitivity = number of true positives / (number of true positives + number of false negatives) \* 100%., 3 years|Specificity, Specificity of Artificial Intelligence Models Specificity = number of true negatives / (number of true negatives + number of false positives))\*100%, 3 years|Positive predictive values(PPV), Positive predictive values from artificial intelligence models Positive predictive value = true positive / (true positive + false positive)\*100%, 3 years|Negative predictive values(NPV), Negative predictive values for artificial intelligence models Negative predictive value = true negative / (true negative + false negative)\*100%, 3 years|AUC (95% CI), area under the receiver operating characteristic curve (AUC), 3 years|Accuracy, Accuracy of artificial intelligence models Accuracy = (true positives + true negatives) / total number of subjects \* 100%, 3 years
+Firstly, tongue pictures and patient information will be collected after the patient signed an informed consent form.
+
+Secondly, after the patient undergoes gastroscopy, patient gastroscopy reports and pathology reports will be obtained.
+
+Thirdly, the investigator will assess the patient's gastroscopy report for the Correa sequence of gastric cancer with OLGA and OLGIM staging.
+
+Finally, the patient's tongue image, information and gastric cancer cascade response are matched to construct an artificial intelligence model and assess the quality of the model.

@@ -1,0 +1,36 @@
+Selinexor and Chemotherapy in Treating Patients With Relapsed or Refractory Acute Myeloid Leukemia
+This phase I trial studies the side effects and best dose of selinexor when given together with etoposide with or without mitoxantrone hydrochloride and cytarabine in treating patients with acute myeloid leukemia that has returned (relapsed) or has not responded to treatment (refractory). Selinexor may help stop the growth of tumor cells by blocking an enzyme needed for cancer cell growth. Drugs used in chemotherapy, such as etoposide, mitoxantrone hydrochloride, and cytarabine, work in different ways to stop the growth of cancer cells, either by killing the cells, by stopping them from dividing, or by stopping them from spreading. Giving chemotherapy together with selinexor work better in treating relapsed or refractory acute myeloid leukemia.
+Adult Acute Myeloid Leukemia With 11q23 (MLL) Abnormalities|Adult Acute Myeloid Leukemia With Del(5q)|Adult Acute Myeloid Leukemia With Inv(16)(p13;q22)|Adult Acute Myeloid Leukemia With t(15;17)(q22;q12)|Adult Acute Myeloid Leukemia With t(16;16)(p13;q22)|Adult Acute Myeloid Leukemia With t(8;21)(q22;q22)|Recurrent Adult Acute Myeloid Leukemia|Secondary Acute Myeloid Leukemia
+DRUG: mitoxantrone hydrochloride|DRUG: etoposide|DRUG: cytarabine|DRUG: selinexor|OTHER: laboratory biomarker analysis|OTHER: pharmacological study
+MTD of selinexor, defined as the highest safely tolerated dose where, at most, one patient experiences DLT in 6 evaluable patients, with the next higher dose having at least 2 patients who experience DLT, The National Cancer Institute Common Terminology Criteria for Adverse Events version 4.03 will be used to characterize toxicities., 28 days
+Degree of response, Summarized within each stratum and at each dose level., Up to 30 days after completion of study treatment|Duration of response, Duration of response will be reported for patients who achieve complete remission., Up to 30 days after completion of study treatment|ORR, Will be presented for those patients treated at the MTD with an exact 95% confidence interval., Up to 30 days after completion of study treatment
+Change in expression of XPO1 and surrogates or direct targets of XPO1, The impact of selinexor on the inhibition of XPO1 expression and various genes/microribonucleic acids that serve as surrogates or direct targets of XPO1 will be characterized. Expression prior to administration of selinexor and following treatment with selinexor will be described graphically using boxplots or summary measures (e.g. mean and standard errors). Trends of dose response will be explored within each stratum, as well as whether targets are being "hit" between the strata. Due to data limitations in early clinical trials, analyses will be descriptive in nature., Baseline to up to day 35 (Cohort A) or day 29 of last course of treatment (Cohort B)|Plasma pharmacokinetic (PK) parameters of selinexor will be assessed for oral and IV using non-compartmental and compartmental methods., Intracellular PK of selinexor will be evaluated primarily by determining total intracellular concentrations of parent drugs on day 1 and day 8. The primary hypothesis is that selinexor intracellular exposure (area under the concentration-time curve, AUCIC), normalized to plasma exposure (AUCP), will be greater on Day 1 vs. Day 8 due to reduced intracellular selinexor-glutathione conjugation in the presence of etoposide. The AUCIC and AUCIC/AUCP ratio will be evaluated for correlations with selinexor activity.", 1, 2, 4 and 24 hours post-dose days 1 and 15 of course 1; pre-dose days 3 and 17 of course 1|Plasma pharmacokinetic (PK) parameters of etoposide and will be assessed for oral and IV using non-compartmental and compartmental methods., Intracellular PK of etoposide will be evaluated primarily by determining total intracellular concentrations of parent drugs on day 1 and day 8. The primary hypothesis is that selinexor intracellular exposure (area under the concentration-time curve, AUCIC), normalized to plasma exposure (AUCP), will be greater on Day 1 vs. Day 8 due to reduced intracellular selinexor-glutathione conjugation in the presence of etoposide. The AUCIC and AUCIC/AUCP ratio will be evaluated for correlations with selinexor activity.", 1, 2, 4 and 24 hours post-dose days 1 and 15 of course 1; pre-dose days 3 and 17 of course 1
+PRIMARY OBJECTIVES:
+
+I. To evaluate the safety and tolerability of selinexor in combination with mitoxantrone hydrochloride, etoposide, cytarabine (MEC) or oral etoposide (respective cohorts are independent of each other) in patients with relapsed or refractory acute myeloid leukemia (AML).
+
+II. To define the specific toxicities, maximum tolerated dose (MTD) and the dose limiting toxicities (DLT) of these combinations.
+
+III. To determine the recommended phase 2 dose (RP2D) of these combinations.
+
+SECONDARY OBJECTIVES:
+
+I. To determine the rate and duration of complete remission (CR) ± hematologic recovery of selinexor plus MEC therapy in AML.
+
+II. To determine the overall response rate (ORR). III. To define the rate of complete remission (CR + CR with incomplete blood count recovery \[CRi\]) rate by the end of induction therapy.
+
+IV. Determine the disease-free survival for patients who reached CR/CRi within 1 year.
+
+TERTIARY OBJECTIVES:
+
+I. To conduct pharmacodynamic studies by measuring the effect of these chemotherapy combinations on the inhibition of exportin 1 (XPO1).
+
+II. To conduct pharmacokinetic sampling of selinexor and etoposide at limited time points to assess drug metabolism, peak plasma levels and area under curve (AUC).
+
+OUTLINE: This is a dose-escalation study of selinexor. Patients are assigned to 1 of 2 cohorts.
+
+COHORT A (PATIENTS FIT FOR INTENSIVE THERAPY, AGE \< 60): Patients receive mitoxantrone hydrochloride intravenously (IV), etoposide IV, and cytarabine IV once daily (QD) on days 1-6 and selinexor orally (PO) on days 1, 3, 8, 10, 15, and 17. Treatment continues for 1 course (28 days). Further treatment is based on disease response. Patients achieving CR/CRi are evaluated for stem cell transplant; patients who do not proceed to transplant may receive selinexor as monotherapy in the absence of disease progression or unacceptable toxicity.
+
+COHORT B (PATIENTS UNFIT FOR INTENSIVE THERAPY, AGE ≥ 60): Patients receive etoposide PO QD on days 1-5 and selinexor PO on days 1, 3, 8, 10, 15, and 17. Treatment may repeat every 28 days for 4 courses in the absence of disease progression or unacceptable toxicity. Patients not achieving response after 4 courses discontinue treatment; patients achieving response may receive up to 4 courses of maintenance therapy every 8 weeks. Patients may then continue selinexor as monotherapy at the discretion of the principal investigator.
+
+After completion of study treatment, patients are followed up for at least 30 days.

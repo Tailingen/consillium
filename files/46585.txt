@@ -1,0 +1,8 @@
+Photobiomodulation Therapy Using the Realief Therapy System for the Treatment of Chemotherapy-associated Peripheral Neuropathy
+This is a 2-armed, randomized, sham-controlled, double-blinded clinical trial of photobiomodulation therapy using the Realief Therapy system. The patients will be randomized in a 3:4 ratio to treatment or sham arms.
+Chemotherapy-induced Peripheral Neuropathy
+DEVICE: photobiomodulation|OTHER: Sham treatment|OTHER: Physiotherapy
+Change of Total Neuropathy Score, For each patient, we will compute the difference between the total neuropathy score at 8 weeks (the end of treatment) and the total neuropathy score at the time of randomization. The mean change in score for the experimental group patients will be compared to the mean change in score for the control group patients using a two-sample t-test.
+
+Scale scoring is 0-\<20 0 being no pain \<20 =severe, Baseline 8 weeks
+The treatments will be administered by a Realief Neuropathy Center therapist. The target surface area and treatment durations will be dictated by the Realief Therapy protocol according to their proprietary algorithm, which includes assessment of geographic areas involved and the degree of neuropathy experienced. For the trial, each patient will be given 18 treatments of 30-minute duration, scheduled every three times weekly. The treatments will include laser exposure of any or all of 27 differentiated areas of the legs, feet, cervical spine region and lumbar spine region, for durations of 3 to 30 minutes, based on the symptom presentation at the time. Power densities will vary from 5 to 12 watts, based on the symptom presentations through the course of therapy.

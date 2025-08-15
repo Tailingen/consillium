@@ -1,0 +1,33 @@
+Acalabrutinib, Venetoclax and Durvalumab for the Treatment of Richter Transformation From Chronic Lymphocytic Leukemia or Small Lymphocytic Lymphoma
+This phase II trial tests whether acalabrutinib, venetoclax, and durvalumab work in treating patients with Richter transformation from chronic lymphocytic leukemia or small lymphocytic lymphoma. Richter transformation is a rare condition in which chronic lymphocytic leukemia or small lymphocytic lymphoma changes into a fast-growing type of lymphoma. Acalabrutinib may stop the growth of cancer cells by blocking some of the enzymes needed for cell growth. Venetoclax is in a class of medications called B-cell lymphoma-2 (BCL-2) inhibitors. It may stop the growth of cancer cells by blocking Bcl-2, a protein needed for cancer cell survival. Immunotherapy with monoclonal antibodies, such as durvalumab, may help the body's immune system attack the cancer, and may interfere with the ability of tumor cells to grow and spread. Giving acalabrutinib, venetoclax, and durvalumab may help improve survival in patients with Richter transformation.
+Chronic Lymphocytic Leukemia|Richter Syndrome|Small Lymphocytic Lymphoma
+DRUG: Acalabrutinib|BIOLOGICAL: Durvalumab|DRUG: Venetoclax|PROCEDURE: Biospecimen Collection|PROCEDURE: Bone Marrow Aspiration|PROCEDURE: Bone Marrow Biopsy|PROCEDURE: Positron Emission Tomography (PET)|PROCEDURE: Computed Tomography
+Progression free survival, Progression will be defined by Lugano positron emission tomography (PET)-computed tomography (CT) based criteria or chronic lymphocytic leukemia (CLL) criteria. The proportion of successes will be estimated by the number of successes divided by the total number of evaluable patients. Ninety-five percent confidence intervals for the true success proportion will be calculated according to the approach of Duffy and Santner. If patients are censored prior to 6 months, a Kaplan Meier estimate for progression-free survival at 6 months along with the 95% confidence intervals will be reported., At 6 months (end of cycle 6). Each cycle is 28 days.
+Overall response rate, Overall response rate (for both Richter transformation \[RT\] and CLL, calculated separately) will be estimated by the total number of patients who achieve a complete metabolic response (CMR)/partial metabolic response (PMR) or complete response (CR)/complete response with incomplete marrow recovery (CRi)/nodular partial response (nPR)/partial remission (PR) divided by the total number of evaluable patients. Exact binomial 95% confidence intervals for the true overall response rate will be calculated. The PR rate and CR rate will also be estimated., Up to 1 year|Overall survival, The distribution of overall survival will be estimated using the method of Kaplan-Meier., From registration to death due to any cause, assessed up to 5 years|Progression-free survival (PFS), The distribution of progression-free survival will be estimated using the method of Kaplan-Meier. PFS estimates will be calculated at 3, 6, 12, and 24 months., From registration to progression or death due to any cause, assessed up to 2 years|Treatment-free survival, The distribution of treatment-free survival will be estimated using the method of Kaplan-Meier., From registration to subsequent treatment or death due to any cause, assessed up to 5 years|Incidence of adverse events, All eligible patients that have initiated treatment will be considered evaluable for assessing adverse event (AE) rate(s). Platelets and hemoglobin will be graded according to the Grading Scale for Hematologic Adverse Events in CLL Studies. The maximum grade for each type of AE will be recorded for each patient, and frequency tables will be reviewed to determine patterns. Additionally, the relationship of the AE(s) to the study treatment will be taken into consideration., Up to 30 days after last dose of study drug
+PRIMARY OBJECTIVE:
+
+I. Determine the progression free survival (PFS) at 6 months of the combination therapy of acalabrutinib, venetoclax, and durvalumab in patients with Richter transformation from chronic lymphocytic leukemia (CLL).
+
+SECONDARY OBJECTIVES:
+
+I. Determine the safety of the combination therapy of acalabrutinib, venetoclax and durvalumab in patients with Richter transformation from CLL.
+
+II. Evaluate the overall response rate (ORR), complete response (CR) rate, and partial response (PR) rate of the above combination therapy.
+
+III. Overall survival, PFS, and treatment free survival of this above combination therapy.
+
+CORRELATIVE RESEARCH OBJECTIVES:
+
+I. Determine the biomarkers that predict clinical response of this above combination therapy.
+
+II. Determine the immune profiles of patients while receiving this combination of therapy.
+
+OUTLINE:
+
+Patients receive acalabrutinib orally (PO) twice daily (BID) on days 1-28, durvalumab intravenously (IV) over 1 hour on day 1, and venetoclax PO once daily (QD) on days 1-28 of each cycle. Cycles repeat every 28 days for 12 cycles in the absence of disease progression or unacceptable toxicity.
+
+MAINTENANCE: Patients receive acalabrutinib PO BID and venetoclax PO QD on days 1-90 of each cycle. Cycles repeat every 90 days for 4 cycles in the absence of disease progression or unacceptable toxicity.
+
+Patients also undergo blood sample collection, bone marrow aspiration and biopsy, and positron emission tomography (PET)/computed tomography (CT) or CT throughout the study.
+
+After completion of study treatment, patients are followed up at 30 days and then every 90 days until 5 years from study enrollment.

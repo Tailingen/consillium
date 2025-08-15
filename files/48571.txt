@@ -1,0 +1,36 @@
+Testing Olaparib and AZD6738 in IDH1 and IDH2 Mutant Tumors
+This phase II trial studies how well olaparib and ceralasertib (AZD6738) work in treating patients with IDH mutant cholangiocarcinoma or solid tumors. Cancer is caused by changes (mutations) to genes that control the way cells function. Laboratory studies have shown that olaparib and AZD6738 can shrink IDH mutant tumors or stop them from growing. Olaparib and ceralasertib may stop the growth of tumor cells by blocking some of the enzymes needed for cell growth.
+Malignant Solid Neoplasm|Refractory Cholangiocarcinoma|Refractory Malignant Solid Neoplasm
+PROCEDURE: Biopsy Procedure|PROCEDURE: Biospecimen Collection|PROCEDURE: Bone Marrow Aspiration|PROCEDURE: Bone Marrow Biopsy|DRUG: Ceralasertib|PROCEDURE: Computed Tomography|PROCEDURE: Magnetic Resonance Imaging|DRUG: Olaparib
+Objective response rate (ORR), The exact two-sided 95% confidence intervals (CIs) for the ORR will be reported., Up to 30 days post treatment after removal from study
+Progression free survival (PFS), PFS will be estimated using the Kaplan-Meier method with the 95% CIs. The CI based on the Greenwoods variance will be reported. In addition, the possible risk factors will be compared for survival with log-rank test. For multivariate analysis, the proportional hazards Cox model will be applied to investigate potential prognostic factors, such as age and stage of disease on the survival data. The adjusted p-values of the odds ratios and the adjusted 95% confidence interval will be reported., From start of treatment to time of progression or death, whichever occurs first, assessed up to 30 days after removal from study|Overall survival (OS), OS will be estimated using the Kaplan-Meier method with the 95% CIs. The CI based on the Greenwoods variance will be reported. In addition, the possible risk factors will be compared for survival with log-rank test. For multivariate analysis, the proportional hazards Cox model will be applied to investigate potential prognostic factors, such as age and stage of disease on the survival data. The adjusted p-values of the odds ratios and the adjusted 95% confidence interval will be reported., From start of treatment to time of death, assessed up to 30 days after removal from study|Duration of response, Will be estimated using the Kaplan-Meier method with the 95% CIs. The CI based on the Greenwoods variance will be reported. In addition, the possible risk factors will be compared for survival with log-rank test. For multivariate analysis, the proportional hazards Cox model will be applied to investigate potential prognostic factors, such as age and stage of disease on the survival data. The adjusted p-values of the odds ratios and the adjusted 95% confidence interval will be reported., From the time measurement criteria are met for complete response or partial response (whichever is first recorded) until the first date that recurrent or progressive disease is objectively documented, assessed up to 30 days after removal from study|Incidence of adverse events, Toxicities will be evaluated utilizing the National Cancer Institute Common Terminology Criteria for Adverse Events version 5.0., Up to 30 days post treatment
+Absolute and fold changes in gamma H2AX foci, Absolute and fold changes for gamma H2AX foci will be calculated between baseline and subsequent follow-up (pre-treatment and on-treatment biopsies). These will be displayed graphically versus (vs.) time for each cohort. Differences will be plotted vs. response status. Wilcoxon sign-rank test as well as paired t-tests will be used to evaluate if differences between baseline and each subsequent time point are significant. Summary statistics will be reported (with 95% confidence intervals) to demonstrate mean differences in fold-change (or log fold-change) between responders and non-responders., Baseline up to 30 days post treatment|2HG levels, 2HG levels in tumor and plasma will be compared to treatment responses. The Mann-Whitney U test will be used to test for differences in post-treatment tissue and plasma 2HG concentrations between patients with a response to treatment and those without. Will also apply analysis of covariance for post-treatment plasma concentration in 2HG adjusted for the pre-treatment plasma concentration between patients with a response to treatment and those without., Up to 30 days post treatment
+PRIMARY OBJECTIVES:
+
+I. To determine the overall response rates of olaparib and ceralasertib (AZD6738) in subjects with recurrent/progressive IDH1/2-mutant solid malignant tumors, who will be recruited to 2 cohorts:
+
+Ia. Cholangiocarcinoma (cohort has been closed to accrual); Ib. Other solid malignant tumors.
+
+SECONDARY OBJECTIVES:
+
+I. To assess the progression free survival (PFS) of olaparib and AZD6738 in adults with recurrent/progressive IDH1/2-mutant solid malignant tumors.
+
+II. To estimate the overall survival (OS) in adults with recurrent/progressive IDH1/2- mutant solid malignant tumors.
+
+III. To assess the duration of response in adults with recurrent/progressive IDH1/2-mutant solid malignant tumors.
+
+IV. To assess the safety and tolerability of the combination of olaparib and AZD6738.
+
+EXPLORATORY OBJECTIVES:
+
+I. To evaluate 2-hydroxyglutarate (2HG) concentration in plasma by mass spectrometry and correlate with treatment response.
+
+II. To evaluate 2HG levels in tumor biopsies prior to the beginning of treatment and while on therapy and correlate with treatment response.
+
+III. Correlate 2HG concentration in plasma and in tumor biopsies. IV. To evaluate deoxyribonucleic acid (DNA) double strand breaks (DSBs) as measured by mass cytometry time of flight (CyTOF)-imaging mass cytometry (IMC) in tumor biopsies before and after treatment with olaparib and AZD6738.
+
+OUTLINE:
+
+Patients receive olaparib orally (PO) twice daily (BID) on days 1-28 of each cycle and ceralasertib PO once daily (QD) on days 1-7 of each cycle. Cycles repeat every 28 days in the absence of disease progression or unacceptable toxicity. Patients also undergo tumor biopsies during screening and on study, collection of blood samples throughout the trial, and undergo computed tomography (CT) and/or magnetic resonance imaging (MRI) scans throughout the trial. Patients may also undergo bone marrow aspiration and biopsy as clinically indicated on study.
+
+After completion of study treatment, patients are followed up for 30 days.

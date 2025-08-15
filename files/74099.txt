@@ -1,0 +1,25 @@
+DS3201 and Ipilimumab for the Treatment of Metastatic Prostate, Urothelial and Renal Cell Cancers
+This phase Ib trial studies the side effects and best dose of DS3201 when given together with and ipilimumab for the treatment of patients with prostate, urothelial, or renal cell cancer that has spread to other places in the body (metastatic). DS3201 may stop the growth of tumor cells by blocking some of the enzymes needed for cell growth. Immunotherapy with monoclonal antibodies, such as ipilimumab, may help the body's immune system attack the cancer, and may interfere with the ability of tumor cells to grow and spread. Giving DS3201 and ipilimumab may help to control the disease.
+Aggressive Variant Prostate Carcinoma|Castration-Resistant Prostate Carcinoma|Metastatic Clear Cell Renal Cell Carcinoma|Metastatic Malignant Solid Neoplasm|Metastatic Prostate Carcinoma|Metastatic Urothelial Carcinoma|Stage IV Prostate Cancer AJCC v8|Stage IV Renal Cell Cancer AJCC v8|Stage IVA Prostate Cancer AJCC v8|Stage IVB Prostate Cancer AJCC v8
+BIOLOGICAL: Ipilimumab|DRUG: Valemetostat
+Incidence of adverse events, Adverse events will be graded by National Cancer Institute (NCI) Common Terminology Criteria for Adverse Events (CTCAE) version (v)5.0 and tabulated by grade and ETOX status. All adverse events will be presented descriptively by event, grade, and attribution separately by dose level., Up to 60 days after last valemetostat dose and 100 days after last ipilimumab dose|Maximum tolerated dose, Up to 21 days
+Immunologic and molecular effects, Descriptive statistics including plots, mean, median and standard deviations will be used to summarize data by dose level and patient disease cohort. Tumor immune cell infiltration and peripheral blood immune populations will be described and graphed over time. Differences in either time point compared to baseline will be compared with a t-test or non-parametric alternative. Cox models will be implemented to explore the relationship of treatment combination, tumor immune infiltration/peripheral blood immune subpopulations, and time to treatment failure., Up to 2 years|Time to treatment failure (TTF), Defined as the time interval between the first day of treatment with DS3201 and treatment failure. Median TTF will be reported with a 95% confidence interval using Kaplan-Meier methods. If the median is not reached, then the TTF estimate will be reported with the standard error at a time close to the median follow-up time. The full TTF experience will be presented with a Kaplan-Meier plot overall and by disease cohort., Up to 2 years|Overall response rate (ORR), In patients with renal cell carcinoma and urothelial carcinoma, ORR is defined as the rate of confirmed complete responses + partial responses as determined by Response Evaluation Criteria in Solid Tumors (RECIST) 1.1 criteria and as assessed by the investigator. In patients with aggressive variant prostate cancer, ORR will be reported separately for prostate specific antigen (\>= 50% decline from baseline value), CTC (conversion from unfavorable to favorable counts) and measurable and non-measurable disease (per RECIST 1.1) and as assessed by the investigator. ORR will be reported with a 95% Blythe-Still-Casella exact confidence interval., Up to 2 years
+PRIMARY OBJECTIVES:
+
+I. To determine the maximum tolerated dose (MTD) and confirm the safety and tolerability of valemetostat (DS3201) given in combination with ipilimumab in patients with metastatic aggressive variant prostate cancers (AVPC), urothelial carcinomas (UC) and renal clear cell carcinomas (RCC).
+
+II. To screen for associations between changes in the tumor microenvironment and clinical outcomes.
+
+SECONDARY OBJECTIVES:
+
+I. To assess the immunologic and molecular effects on tissue samples of participants treated with DS3201 in combination with ipilimumab in patients with metastatic AVPC, UC and RCC.
+
+II. To estimate the time to treatment failure (TTF) of patients with metastatic AVPC, UC and RCC treated with DS3201 in combination with ipilimumab.
+
+III. To estimate the overall response rate (ORR) of patients with metastatic AVPC, UC and RCC treated with DS3201 in combination with ipilimumab (in patients with AVPC ORR will be reported separately for prostate specific antigen \[PSA\], circulating tumor cells \[CTC\] and measurable and non-measurable disease by Response Evaluation Criteria in Solid Tumors \[RECIST\] 1.1).
+
+OUTLINE: This is a dose-escalation study of valemetostat.
+
+Patients receive valemetostat orally (PO) once daily (QD) on days 1-21 and ipilimumab intravenously (IV) over 90 minutes on day 1 of cycles 1 and 3. Cycles repeat every 21 days in the absence of disease progression or unacceptable toxicity.
+
+After completion of study treatment, patients are followed up 30 and 60 days after the last valemetostat dose and/or 100 days after the last ipilimumab dose and then every 6 months thereafter.

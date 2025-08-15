@@ -1,0 +1,27 @@
+Lenalidomide and Blinatumomab for the Treatment of Relapsed Non-Hodgkin Lymphoma
+This phase I trial studies the side effects and best dose of lenalidomide and blinatumomab when given together in treating patients with non-Hodgkin lymphoma that has returned after a period of improvement (relapsed). Biological therapies, such as lenalidomide, use substances made from living organisms that may stimulate or suppress the immune system in different ways and stop cancer cells from growing. Blinatumomab is a monoclonal antibody that may interfere with the ability of cancer cells to grow and spread.
+Recurrent Burkitt Lymphoma|Recurrent Diffuse Large B-Cell Lymphoma|Recurrent Grade 1 Follicular Lymphoma|Recurrent Grade 2 Follicular Lymphoma|Recurrent Grade 3 Follicular Lymphoma|Recurrent Grade 3a Follicular Lymphoma|Recurrent Grade 3b Follicular Lymphoma|Recurrent Gray-Zone Lymphoma|Recurrent Mantle Cell Lymphoma|Recurrent Marginal Zone Lymphoma|Recurrent Mediastinal Lymphoma|Recurrent Non-Hodgkin Lymphoma|Recurrent Small Lymphocytic Lymphoma|Refractory Burkitt Lymphoma|Refractory Diffuse Large B-Cell Lymphoma|Refractory Follicular Lymphoma|Refractory Grade 1 Follicular Lymphoma|Refractory Grade 2 Follicular Lymphoma|Refractory Grade 3 Follicular Lymphoma|Refractory Grade 3a Follicular Lymphoma|Refractory Gray-Zone Lymphoma|Refractory Mantle Cell Lymphoma|Refractory Marginal Zone Lymphoma|Refractory Mediastinal Lymphoma|Refractory Non-Hodgkin Lymphoma|Refractory Small Lymphocytic Lymphoma
+BIOLOGICAL: Blinatumomab|DRUG: Lenalidomide
+Incidence of toxicity, Will be graded as according to the National Cancer Institute Common Terminology Criteria for Adverse Events version 4.0 (version 5.0 beginning April 1, 2018). Toxicities (grade, type, cycle, and attribution) experienced will be listed for each patient and summarized using standard descriptive methods., Up to 24 months
+Clinical anti-tumor response (complete response and partial response as per International workshop lymphoma response criteria), Will be summarized using standard descriptive methods., Up to 24 months|Changes in the frequency of CD4+ T cells, Will be assessed and compared at each time point, using regression methods that incorporate repeated measures. For each of the first 2 CD4+ measures, will compare the day 0 values (prior to any treatment) to the day 15 values (after 2 weeks of blinatumomab) and the day 57 (after 4 weeks of the both blinatumomab and lenalidomide) to the day 15 value. Additional analysis, will be undertaken to explore the relationship between changes (or lack of changes) and response. The paired-sample t-test will be used to provide a sense of the power/sensitivity that will be available for these comparisons., Baseline to up to day 57|Changes in the production of interferon (INF)-gamma from CD4+ T cells, Will be assessed and compared at each time point, using regression methods that incorporate repeated measures. For each of the first CD8+ T-cell frequencies and INF-gamma production, will compare the day 0 values (prior to any treatment) to the day 15 values (after 2 weeks of blinatumomab) and the day 57 (after 4 weeks of the both blinatumomab and lenalidomide) to the day 15 value. Additional analysis, will be undertaken to explore the relationship between changes (or lack of changes) and response. The paired-sample t-test will be used to provide a sense of the power/sensitivity that will be available for these comparisons., Baseline to up to day 57
+PRIMARY OBJECTIVE:
+
+I. To determine the maximum tolerated dose (MTD) of lenalidomide when given in combination with blinatumomab in the proposed regimen.
+
+SECONDARY OBJECTIVES:
+
+I. To observe and record anti-tumor activity anti-tumor response (complete response \[CR\] and partial response \[PR\] as per International workshop lymphoma response criteria).
+
+II. To investigate the immune response to blinatumomab alone and in combination with lenalidomide.
+
+III. To document the infection rate with a 96-hour bag change schedule for blinatumomab.
+
+OUTLINE: This is a dose-escalation study of lenalidomide.
+
+INDUCTION: Patients receive blinatumomab intravenously (IV) continuously on days 1-56 and lenalidomide orally (PO) on days 29-49 in the absence of disease progression or unacceptable toxicity.
+
+CONSOLIDATION: Patients achieving response including stable disease receive blinatumomab IV continuously on days 1-7 and lenalidomide PO on days 1-21. Treatment repeats every 28 days for up to 6 cycles in the absence of disease progression or unacceptable toxicity.
+
+MAINTENANCE: Patients receiving response including stable disease after completion of Consolidation receive lenalidomide PO on days 1-21. Cycles repeat every 28 days for up to 2 years in the absence of disease progression or unacceptable toxicity.
+
+After completion of study treatment, patients are followed up for 2 years.

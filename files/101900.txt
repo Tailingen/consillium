@@ -1,0 +1,23 @@
+Oxaliplatin and Bortezomib in Treating Patients With Advanced Cancer
+Phase I trial to study the effect on the body of combining oxaliplatin with bortezomib in treating patients who have metastatic or unresectable cancer. Drugs used in chemotherapy such as oxaliplatin use different ways to stop cancer cells from dividing so they stop growing or die. Bortezomib may stop the growth of cancer cells by blocking the enzymes necessary for tumor cell growth. Combining oxaliplatin with bortezomib may kill more cancer cells
+Unspecified Adult Solid Tumor, Protocol Specific
+DRUG: oxaliplatin|DRUG: bortezomib|OTHER: laboratory biomarker analysis|OTHER: pharmacological study
+Probability of dose escalation according to true dose limiting toxicity (DLT) rate, based on the National Cancer Institute Common Terminology Criteria for Adverse Events (NCI CTCAE) v3.0, Up to 28 days
+Area under the curve (AUC) estimates, Nonlinear compartmental analysis of the oxaliplatin pharmacokinetic data will be performed., Days 1 and 15 (course 1)|Pharmacodynamic assessments (20S proteasome inhibition data), Summarized by dose and time using standard descriptive statistics. Asssessments will correlate the AUC in an Emax inhibitory model., Days 1 and 15 (course 1)|Sequence of drug administration in terms of PK interaction, AUC for oxaliplatin and 20-S proteasome inhibition will be calculated and compared for intra-patient variation using paired T-test., Days 1 and 15 (course 1)
+OBJECTIVES:
+
+I. Determine the maximum tolerated dose and recommended phase II dose of oxaliplatin and bortezomib in patients with advanced malignancy.
+
+II. Determine the dose-limiting toxicity of this regimen in these patients. III. Determine the toxicity profile of this regimen in these patients. IV. Determine the antitumor activity of this regimen in these patients. V. Determine the pattern of neurotoxicity and its reversibility in patients responding to prolonged administration of this treatment regimen.
+
+VI. Determine whether the pharmacokinetics and pharmacodynamics of oxaliplatin or bortezomib are altered by the administration of the other agent in these patients.
+
+OUTLINE: This is a dose-escalation study.
+
+Patients receive oxaliplatin IV over 2 hours on days 1 and 15 and bortezomib IV over 3-5 seconds on days 1, 4, 15, and 18. Courses repeat every 28 days in the absence of disease progression or unacceptable toxicity.
+
+Cohorts of 3-6 patients receive escalating doses of oxaliplatin and bortezomib until the maximum tolerated doses (MTDs) are determined. The MTD is defined as the dose preceding that at which 2 of 3 or 2 of 6 patients experience dose-limiting toxicity.
+
+Patients are followed for at least 3 months.
+
+PROJECTED ACCRUAL: A total of 15-30 patients will be accrued for this study within 4-15 months.

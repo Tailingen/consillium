@@ -1,0 +1,48 @@
+A Basket Study of Customized Autologous TCR-T Cell Therapies in Patients With Locally Advanced (Unresectable) or Metastatic Solid Tumors
+TScan Therapeutics is developing cellular therapies across multiple solid tumors in which autologous participant-derived engeneered T cells are engineered to express a T cell receptor that recognizes cancer-associated antigens presented on specific Human Leukocyte Antigen (HLA) molecules.
+
+This is a multi-center, non-randomized, multi-arm, open-label, basket study evaluating the safety and preliminary efficacy of single and repeat dose regimens of TCR'Ts as monotherapies and as T-Plex combinations after lymphodepleting chemotherapy in participants with locally advanced, metastatic solid tumors disease.
+Head and Neck Cancer|Cervical Cancer|Non-small Cell Carcinoma|Melanoma|Ovarian Cancer|Anogenital Cancers|HPV - Anogenital Human Papilloma Virus Infection|HPV-Related Cervical Carcinoma|HPV-Related Carcinoma|HPV-Related Squamous Cell Carcinoma|HPV-Related Malignancy|HPV-Related Adenocarcinoma|HPV Positive Oropharyngeal Squamous Cell Carcinoma|HPV-Related Adenosquamous Carcinoma|HPV-Associated Vaginal Adenocarcinoma|HPV-Related Endocervical Adenocarcinoma|HPV-Related Anal Squamous Cell Carcinoma|HPV-Related Verrucous Carcinoma|HPV-Related Penile Squamous Cell Carcinoma|HPV-Related Vulvar Squamous Cell Carcinoma|HPV Positive Rectal Squamous Cell Carcinoma
+BIOLOGICAL: TSC-204-A0201|BIOLOGICAL: TSC-204-C0702|BIOLOGICAL: TSC-200-A0201|BIOLOGICAL: TSC-204-A0201 + TSC-204-C0702|BIOLOGICAL: TSC-204-A0201 + TSC-200-A0201|BIOLOGICAL: TSC-204-C0702 + TSC-200-A0201|BIOLOGICAL: TSC-204-A0201 + TSC-203-A0201|BIOLOGICAL: TSC-204-C0702 + TSC-203-A0201|BIOLOGICAL: TSC-200-A0201 + TSC-203-A0201|BIOLOGICAL: TSC-203-A0201|BIOLOGICAL: TSC-204-A0101|BIOLOGICAL: TSC-201-B0702|BIOLOGICAL: TSC-204-A0201 + TSC-204-A0101|BIOLOGICAL: TSC-204-A0201 + TSC-201-B0702|BIOLOGICAL: TSC-204-C0702 + TSC-204-A0101|BIOLOGICAL: TSC-204-C0702 + TSC-201-B0702|BIOLOGICAL: TSC-200-A0201 + TSC-204-A0101|BIOLOGICAL: TSC-200-A0201 + TSC-201-B0702|BIOLOGICAL: TSC-203-A0201 + TSC-204-A0101|BIOLOGICAL: TSC-203-A0201 + TSC-201-B0702|BIOLOGICAL: TSC-202-A0201|BIOLOGICAL: TSC-204-A0201 + TSC-202-A0201|BIOLOGICAL: TSC-204-C0702 + TSC-202-A0201|BIOLOGICAL: TSC-200-A0201 + TSC-202-A0201|BIOLOGICAL: TSC-203-A0201 + TSC-202-A0201|BIOLOGICAL: TSC-204-A0101 + TSC-202-A0201|BIOLOGICAL: TSC-201-B0702 + TSC-202-A0201
+Evaluate the safety of monotherapy and T- Plex combination TCR-Ts, Number of subjects with dose limiting toxicities (DLT), 28 days|Determine the recommended phase 2 dose of monotherapy and T- Plex combination TCR-Ts, Frequency and severity of DLTs, AEs and SAEs, Up to 12 months
+Investigate preliminary anti-tumor activity of monotherapy and T- Plex combination TCR-Ts, Response Evaluation Criteria In Solid Tumors RECIST 1.1, Up to 12 months|Investigate the feasibility of repeat dosing of monotherapy and T- Plex combination TCR-Ts, Frequency and severity of DLTs, AEs and SAEs, Up to 12 months
+To measure the persistence of T-Plex TCR-T cells in the peripheral blood with single and repeat doses, Percentage of TCR-T cells in the peripheral blood after single and repeat doses, Up to 24 months|To measure the infiltration of T-Plex TCR-T cells into tumors in post-treatment biopsies, Percentage of TCR-T cells in the tumor after single and repeat doses, Up to 24 months|To measure the immune activation markers in the tumor after single and repeated doses, Status of immune activation markers in the tumor after single and repeat doses, Up to 24 months
+Participants will be screened in a separate screening study, TSCAN-003 (NCT05812027), to assess their HLA type, tumor-associated antigen (TAA) expression and loss of heterozygosity (LOH) status. The results of these tests will be used to determine initial eligibility in this study.
+
+Depending on the genetic type, participants will be assigned to one of the following study groups:
+
+Monotherapy:
+
+* COHORT A: TSC-204-A0201 targeting MAGE-A1 on HLA-A\*02:01
+* COHORT B: TSC-204-C0702 targeting MAGE-A1 on HLA-C\*07:02
+* COHORT C: TSC-200-A0201 targeting HPV16 E7 on HLA-A\*02:01
+* COHORT D: TSC-203-A0201 targeting PRAME on HLA-A\*02:01
+* COHORT E: TSC-204-A0101 targeting MAGE-A1 on HLA-A\*01:01
+* COHORT F: TSC-201-B0702 targeting MAGE-C2 on HLA-B\*07:02
+* COHORT G: TSC-202-A0201 targeting MAGE-A4 on HLA-A\*02:01
+
+T-Plex Combination:
+
+* COHORT AB: TSC-204-A0201 + TSC-204-C0702
+* COHORT AC: TSC-204-A0201 + TSC-200-A0201
+* COHORT AD: TSC-204-A0201 + TSC-203-A0201
+* COHORT AE: TSC-204-A0201 + TSC-204-A0101
+* COHORT AF: TSC-204-A0201 + TSC-201-B0702
+* COHORT BC: TSC-204-C0702 + TSC-200-A0201
+* COHORT BD: TSC-204-C0702 + TSC-203-A0201
+* COHORT BE: TSC-204-C0702 + TSC-204-A0101
+* COHORT BF: TSC-204-C0702 + TSC-201-B0702
+* COHORT CD: TSC-200-A0201 + TSC-203-A0201
+* COHORT CE: TSC-200-A0201 + TSC-204-A0101
+* COHORT CF: TSC-200-A0201 + TSC-201-B0702
+* COHORT DE: TSC-203-A0201 + TSC-204-A0101
+* COHORT DF: TSC-203-A0201 + TSC-201-B0702
+* COHORT EF: TSC-204-A0101 + TSC-201-B0702
+* COHORT AG: TSC-204-A0201 + TSC-202-A0201
+* COHORT BG: TSC-204-C0702 + TSC-202-A0201
+* COHORT CG: TSC-200-A0201 + TSC-202-A0201
+* COHORT DG: TSC-203-A0201 + TSC-202-A0201
+* COHORT EG: TSC-204-A0101 + TSC-202-A0201
+* COHORT FG: TSC-201-B0702 + TSC-202-A0201
+
+Participants will undergo leukapheresis to collect cells to manufacture the TCR-T products. They will then undergo lymphodepletion and receive one or two doses of the TCR-T cell therapy product as a monotherapy or part of a combination of TCR-Ts (referred to as T-Plex combinations in this study).

@@ -1,0 +1,6 @@
+18F-FAPI-04 PET/CT and PET/MR in Patients With Various Types of Malignant Tumors
+To evaluate the potential usefulness of 18F-FAPI-04 positron emission tomography/computed tomography (PET/CT) and positron emission tomography/magnetic resonance imaging （PET/MR）for the diagnosis of primary and metastatic lesions, detection of recurrence or assessment of pathologic response in various types of cancer.
+Cancer|FAP
+DIAGNOSTIC_TEST: 18F-FAPI-04
+Diagnostic Performance, Diagnostic accuracy, The sensitivity, specificity and accuracy of 18F-FAPI-04 PET/CT and PET/MR were calculated., 1 year
+Subjects with various types of cancer underwent 18F-FAPI-04 PET/CT and PET/MR imaging either for an initial assessment, recurrence detection or assessment of pathologic response. Tumor uptake was quantified by the maximum standard uptake value (SUVmax) and tumor to background (TBR). Using histopathology and follow-up as gold standard, the sensitivity, specificity, positive predictive value (PPV), negative predictive value (NPV) and accuracy of 18F-FAPI-04 PET/CT and PET/MR were calculated.

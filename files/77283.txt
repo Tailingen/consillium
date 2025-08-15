@@ -1,0 +1,7 @@
+Multi-dimensional Signatures for Precisely Predicting the Response and Prognosis of Lung Cancer Patients
+This study aims to determine the clinical effectiveness of multi-dimensional signatures in predicting response and prognosis of lung cancer patients. The study is a multi-center perspective research of treatment planning for patients with lung cancer. To characterize clinical effectiveness, the progression-free survival (PFS) and overall survival (OS) impacts of multi-dimensional signatures will be estimated.
+Response|Prognosis
+OTHER: real world treatment by doctors
+PFS, Progression-free survival, through study completion, an average of 6 months
+OS, Overall survival, through study completion, an average of 1 year
+Multi-dimensional signatures, including NGS-based genotyping, and other essential detections such as immunohistochemistry (IHC), provides an opportunity to improve outcomes for patients by tailoring treatments to each individual's genomic profile. This is a multi-center single arm research study integrating multi-dimensional signatures into clinical decision-making for patients with lung cancer. The clinical effectiveness of multi-dimensional signatures is unknown in the real-world of clinics. To identify a counterfactual for Pred-lung approach, matching methods combined with administrative healthcare data will be used. The survival impacts of Pred-lung approach compared to usual care in matched controls will then be estimated.

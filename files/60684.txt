@@ -1,0 +1,26 @@
+Part of the Modern Art Study
+One of the possible treatments for patients with liver tumours (hepatocellular carcinoma (HCC) or liver metastases) at the Erasmus MC is stereotactic body radiation therapy (SBRT) on the Cyberknife. To spare the organs at risk, suboptimal coverage of the planning target volume is sometimes accepted. The Ethos treatment system is equipped with a novel cone-beam CT (CBCT), which provides higher quality images. This makes it possible to consider online adaptive radiotherapy with daily plan adaptation, potentially leading to a higher dose on the tumour whilst sparing the surrounding healthy tissue more.
+
+Liver tumours move with the breathing motion. On the CyberKnife, a tracking technology is used to keep track of the tumour, but this is not available on the Ethos. Because of this, breath holds will be used for breathing management, but appropriate safety margins need to be established under the new treatment conditions. The aim of this study is to determine the reproducibility of the tumour position for each breath hold within a treatment fraction, and also between treatment fractions, which is a crucial component in the establishment of appropriate safety margins.
+HCC - Hepatocellular Carcinoma|Liver Metastases
+RADIATION: Cone beam CT
+Intrafraction fiducial position reproducibility, The translation in mm in three directions (craniocaudal, left-right and anterior-posterior) of each of the fiducials in the second and third cone beam CT, compared to the first cone beam CT of each session., Before or after three radiotherapy sessions over the course of treatment.|Interfraction fiducial position reproducibility, The translation in mm in three directions (craniocaudal, left-right and anterior-posterior) of each of the fiducials in each of the imaging sessions, compared to the planning CT that was made before the start of treatment., Before or after three radiotherapy sessions over the course of treatment.
+Rationale:
+
+One of the possible treatments for patients with liver tumours (hepatocellular carcinoma (HCC) or liver metastases) at the Erasmus MC is stereotactic body radiation therapy (SBRT) on the Cyberknife. To spare the organs at risk, suboptimal coverage of the planning target volume is sometimes accepted on the Cyberknife. The Ethos therapy linear accelerator is equipped with a novel cone-beam CT (CBCT), which provides higher quality images. This makes it possible to consider online adaptive radiotherapy with daily plan adaptation, potentially leading to a higher dose on the tumour whilst sparing the surrounding healthy tissue more.
+
+Objectives:
+
+To determine inter- and intra-fraction fiducial and patient position reproducibility in order to determine appropriate safety margins for liver SBRT treatment on Ethos.
+
+Study design:
+
+A prospective, single arm cohort study.
+
+Study population:
+
+Ten patients, either with liver metastases (all ages), or age ≥ 65 years with HCC, who are referred to the department of Radiotherapy for SBRT, able to comply with breath-hold requirements and not eligible for liver transplantation or curative surgery.
+
+Intervention:
+
+Nine CBCTs for each patient in end-exhalation breath hold on t Main study parameters/endpoints: The primary parameters are inter- and intra-fraction fiducial position reproducibility on the Ethos.

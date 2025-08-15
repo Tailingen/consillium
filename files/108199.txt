@@ -1,0 +1,24 @@
+Cetuximab With or Without Tivantinib in Treating Patients With Head and Neck Cancer That Is Recurrent, Metastatic, or Cannot Be Removed by Surgery
+This randomized phase II trial studies how well cetuximab with or without tivantinib works in treating patients with head and neck cancer that has come back (recurrent), has spread to other places in the body (metastatic), or cannot be removed by surgery. Monoclonal antibodies, such as cetuximab, may interfere with the ability of tumor cells to grow and spread. Tivantinib may stop the growth of tumor cells by blocking some of the enzymes needed for cell growth. It is not yet known whether cetuximab is more effective with or without tivantinib in treating patients with head and neck cancer.
+Head and Neck Squamous Cell Carcinoma|Recurrent Head and Neck Carcinoma
+BIOLOGICAL: Cetuximab|OTHER: Laboratory Biomarker Analysis|DRUG: Tivantinib
+Overall Response Rate, Per Response Evaluation Criteria In Solid Tumors Criteria (RECIST v1.0) for target lesions and assessed by CT or MRI: Complete Response (CR), Disappearance of all target lesions; Partial Response (PR), \>=30% decrease in the sum of the longest diameter of target lesions; Overall Response (OR) = CR + PR, Up to 1 year
+c-MET Copy Number, Change in copy number from baseline to 8 weeks, Baseline to 8 weeks|c-MET Expression, Change in c-MET expression from baseline to 8 weeks, Baseline to 8 weeks|Change in Tumor Burden, Early change in tumor burden measured using the sum of longest diameters of target lesions, expressed as percent change from baseline., Baseline to 8 weeks|Overall Survival, Time from randomization until death or date last known alive, Up to 5 years|Progression-free Survival, Time from randomization until disease progression/death from any cause or date last know progression-free, Up to 3 years|Overall Response Rate of Single-agent Tivantinib After Failure of Cetuximab, Per Response Evaluation Criteria In Solid Tumors Criteria (RECIST v1.0) for target lesions and assessed by CT or MRI: Complete Response (CR), Disappearance of all target lesions; Partial Response (PR), \>=30% decrease in the sum of the longest diameter of target lesions; Overall Response (OR) = CR + PR, Up to 1 year
+Number of Participants With Adverse Events While on Single-agent Tivantinib After Failure of Cetuximab, Non-serious adverse events, CTCAE (4.0), Up to 3 years|Number of Patients With Serious Adverse Events While on Single-agent Tivantinib After Failure of Cetuximab, CTCAE (4.0), 3 years
+PRIMARY OBJECTIVES:
+
+I. Response rate (comparing the cetuximab/ARQ 197 \[tivantinib\] combination with cetuximab single agent activity).
+
+SECONDARY OBJECTIVES:
+
+I. Continuous tumor shrinkage. II. Progression-free survival (PFS). III. Overall survival (OS). IV. Objectives I, II, and III above, as well as response rates, will be assessed and compared between treatment arms in the subgroup of patients with high mesenchymal epithelial transition factor (c-MET) expression, and/or high c-MET copy number.
+
+V. Single agent activity for ARQ 197 (tivantinib) in patients who have failed cetuximab.
+
+OUTLINE: Patients are randomized to 1 of 2 treatment arms.
+
+ARM I: Patients receive cetuximab intravenously (IV) over 60-120 minutes on days 1 and 15 and tivantinib orally (PO) twice daily (BID) on days 1-28. Courses repeat every 4 weeks in the absence of disease progression or unacceptable toxicity.
+
+ARM II: Patients receive cetuximab IV over 60-120 minutes on days 1 and 15. Patients who fail cetuximab as a single agent may receive single agent tivantinib PO BID on days 1-28. Courses repeat every 4 weeks in the absence of disease progression or unacceptable toxicity.
+
+After completion of study treatment, patients are followed up for 5 years.

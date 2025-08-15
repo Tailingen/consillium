@@ -1,0 +1,7 @@
+Whole-slide Image and CT Radiomics Based Deep Learning System for Prognostication Prediction in Bladder Cancer
+Bladder cancer (BLCA), with its diverse histopathological features and varying patient outcomes, poses significant challenges in diagnosis and prognosis. Postoperative survival stratification based on radiomics feature and whole slide image feature may be useful for treatment decisions to improve prognosis. In this research, we aim to develop a deep learning-based prognostic-stratification system for automatic prediction of overall and cancer-specific survival in patients with BLCA.
+Bladder Cancer
+OTHER: Deep learning system for prognostication prediction in bladder cancer
+Overall survival, the time from the date of surgery to death from any cause or the date of last contact (censored observation) at the date of data cut-off., up to 10 years
+Recurrence free survival, the time from the date of surgery to the date of first documented disease recurrence. Patients without recurrence at the time of analysis will be censored, up to 10 years
+Bladder cancer can be difficult to diagnose and predict outcomes for, as the disease can vary greatly between patients. This research aims to develop a new system that uses artificial intelligence to analyze patient information, including images from surgery and scans. This system could then automatically predict a patient\&#39;s overall survival and how likely they are to survive specifically from bladder cancer. This information could be used by doctors to make better treatment decisions for each patient.

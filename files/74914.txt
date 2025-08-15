@@ -1,0 +1,46 @@
+To Evaluate if Green Tea Can be Effective in Reducing the Progression of Prostate Cancer in Men on Close Monitoring
+This phase II trial studies how well green tea catechins work in preventing progression of prostate cancer from a low risk stage to higher risk stages in men who are on active surveillance. Green tea catechins may stabilize prostate cancer and lower the chance of prostate growing.
+Prostate Carcinoma
+DRUG: Placebo Administration|OTHER: Quality-of-Life Assessment|OTHER: Questionnaire Administration|DRUG: Sinecatechins
+Change in the highest percent Ki-67 expression, Measured in a core positive for tumor from baseline to highest percent (%) Ki-67 expression measured in a core positive for tumor in the end of study (EOS) biopsy. This change will be compared between green tea catechins (GTC) and placebo arms. The highest % Ki-67 expressions from baseline and EOS biopsies will be used to estimate the change. If the change is not normally distributed, non-parametric test such as Wilcoxon-rank sum test or two-sample normal score test will be used to compare the changes in percent Ki-67 levels between the GTC and placebo arms., Baseline to 6 months
+Apoptosis, Will be assessed by caspase in tumor tissue from EOS biopsy by treatment., Up to 6 months|Apoptosis ratio, Will be evaluated from EOS biopsy by treatment groups. Descriptive statistics with confidence intervals will be presented. For continuous measures, will use two-sample t-test or Wilcoxon rank sum test (if non-parametric test is more appropriate) to compare the measurements by treatment., Up to 6 months|Number of biopsy cores positive for cancer at end of study, Descriptive statistics with confidence intervals will be presented. For binary measures, will use Fisher's test., At 6 months|Percent of any biopsy tissue core positive for cancer at end of study, Descriptive statistics with confidence intervals will be presented. For continuous measures, will use two-sample t-test or Wilcoxon rank sum test (if non-parametric test is more appropriate) to compare the measurements by treatment., At 6 months|Percent Ki-67, Descriptive statistics with confidence intervals will be presented. For continuous measures, will use two-sample t-test or Wilcoxon rank sum test (if non-parametric test is more appropriate) to compare the measurements by treatment., Up to 6 months|Gleason sum at end of study, Descriptive statistics with confidence intervals will be presented. For binary measures, will use Fisher's test., At 6 months|Change in serum prostate-specific antigen (PSA), Will use three mixed models (for PSA, PSA doubling time, and PSA density). For the first two, will log the PSA value. For PSA, will have intercepts and slopes for each patient, an unstructured covariance model, and 2 terms for the intercept and slope associated with the treatment group. For the PSA doubling time, will center the baseline values at 1, and estimate the slopes for each patient (from which the doubling time can be derived), along with a net slope effect for the treatment group. The mixed model for PSA density will be analogous to the one for PSA., Baseline up to 6 months|Incidence of adverse events, Will be assessed by Common Toxicity Criteria version 5.0, complete blood count, comprehensive metabolic panel, and liver function toxicities by treatment. All toxicity data will be summarized by category and grade in a standard fashion. Proportions experiencing the most common types of toxicity in this trial will be estimated and 95% confidence intervals calculated. Adverse event rates (such as worst grade 3 or higher) by arm will be estimated and compared., Up to 12 months|Change in geometric mean of percent Ki-67, Descriptive statistics with confidence intervals will be presented. For binary measures, will use Fisher's test., Baseline up to 6 months
+Compliance to study drug (standard pill counts), Compliance to study drug will be evaluated by standard pill counts. Will evaluate percentage compliance to study agent in the study arms using pill counts., Up to 6 months|Compliance to study drug (diet records), Compliance to study drug will be evaluated by diet records., Up to 6 months|Compliance to study drug (plasma concentrations of GTC), Compliance to study drug will be evaluated by plasma concentrations of GTC (epigallocatechin gallate \[EGCG\]). For plasma, will assess the change from baseline to end of treatment for GTC (EGCG) to estimate compliance and bioavailability., Up to 6 months|Epigallocatechin gallate (EGCG) concentrations, Will correlate EGCG concentrations with prostate specific antigen density (PSAD) and prostate specific antigen doubling time (PSADT), using descriptive analysis with scatter plots and regression analysis, and adjusting intervention and known predictors including the stratification factors in multivariable analysis. Will transform to the square root or logarithmic transformation of the data to improve normality of the distributions (determined as the transformation (including untransformed) with the lowest Anderson-Darling normality score)., Up to 6 months|Changes in lower urinary tract symptoms (LUTS), Lower urinary tract symptoms (LUTS) will be assessed using the American Urological Association Symptom Score for the evaluation, LUTS Symptom Scale. The highest score on the scale is 5, "almost always" and the lowest score on the scale is 0, "not at all"., Baseline up to 6 months|Changes in lower urinary tract symptoms, Will assess change in EGCG from baseline to EOS, adherence to GTC, and bioavailability of GTC from baseline to EOS by treatment., Baseline up to 6 months|Changes in quality of life (QOL), Quality of life will be assessed using the Functional Assessment of Cancer Therapy (FACT)-Prostate., Baseline up to 6 months|Changes in quality of life (QOL), Will assess change in EGCG from baseline to EOS, adherence to GTC, and bioavailability of GTC from baseline to EOS by treatment., Baseline up to 6 months
+PRIMARY OBJECTIVE:
+
+I. To compare the change in the percent (%) Ki-67 expression in a biopsy core positive for cancer from baseline to end-of-study (EOS) biopsy between men on active surveillance (AS) for prostate cancer (PCa), treated with green tea catechins (GTCs) or placebo for 6 months.
+
+SECONDARY OBJECTIVES:
+
+I. To assess apoptosis by caspase in tumor tissue from EOS biopsy by treatment. II. To assess % Ki-67: Apoptosis ratio from EOS biopsy by treatment. III. To evaluate the number of biopsy cores positive for cancer from EOS biopsy by treatment.
+
+IV. To evaluate the percentage of any biopsy tissue core positive for cancer from EOS biopsy by treatment.
+
+V. To evaluate % Ki-67 in EOS biopsy from the same quadrant matching the quadrant with the highest % Ki-67 at baseline treatment.
+
+VI. To evaluate the Gleason sum from EOS biopsy by treatment. VII. To evaluate the change in serum prostate-specific antigen (PSA) from baseline to 3 months and to EOS by treatment.
+
+VIII. To evaluate the safety of 6 month administration of GTC assessed by Common Toxicity Criteria (CTC) version 5.0, complete blood count (CBC), comprehensive metabolic panel (CMP) and liver function toxicities (LFTs) by treatment.
+
+IX. To evaluate the change in geometric mean of % Ki-67 measures in all the cores positive for cancer from baseline to EOS biopsy by treatment.
+
+EXPLORATORY OBJECTIVES:
+
+I. To evaluate the change in catechin (epigallocatechin gallate \[EGCG\]) as indicated by change from EGCG measured in plasma from baseline and EOS by treatment.
+
+II. To evaluate the adherence and acceptability to GTC based on the percentage compliance using agent logs (%) and pill counts monthly until EOS by treatment groups.
+
+III. To evaluate the bioavailability of GTC as indicated by change from EGCG measured in plasma from baseline and EOS by treatment groups.
+
+PATIENT REPORTED OUTCOMES OBJECTIVES:
+
+I. To evaluate the change in lower urinary tract symptoms (LUTS) from baseline to 3 months and to EOS using the LUTS scale by treatment groups.
+
+II. To evaluate the change in quality of life (QOL) scores from baseline to 3 months and to EOS using the Functional Assessment of Cancer Therapy (FACT)-Prostate by treatment groups.
+
+OUTLINE: Patients are randomized to 1 of 2 arms.
+
+ARM A: Patients receive green tea catechins orally (PO) twice daily (BID) for up to 6 months in the absence of disease progression or unacceptable toxicity.
+
+ARM B: Patients receive placebo PO BID for up to 6 months.
+
+After completion of study, patients are followed up at approximately 7 days, at 6 months, and then up to 12 months.

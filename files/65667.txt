@@ -1,0 +1,22 @@
+MPACT Study to Compare Effects of Targeted Drugs on Tumor Gene Variations
+This phase II trial studies molecular profiling-based assignment of cancer therapy (MPACT) in treating patients with solid tumors that have spread to other places in the body and usually cannot be cured or controlled with treatment (advanced). Adavosertib, everolimus, and trametinib are drugs that each target a specific variation in tumors by blocking different proteins needed for cell growth. Veliparib blocks an enzyme that helps repair deoxyribonucleic acid (DNA) damaged by chemotherapy, which may help chemotherapy drugs work better. It is not yet known whether testing patients for variations in their tumor and assigning treatment targeting the variation is more effective than standard non-targeted therapy in treating advanced solid tumors.
+Advanced Malignant Solid Neoplasm
+DRUG: Adavosertib|DRUG: Carboplatin|DRUG: Everolimus|DRUG: Temozolomide|DRUG: Trametinib|DRUG: Veliparib
+Number of Participants With an Objective Response, ORR is the proportion of participants with a complete response (CR) or partial response (PR) per the Response Evaluation Criteria in Solid Tumors (RECIST). Complete Response is disappearance of all tumors. Partial Response is at least a 30% decrease in the sum of the diameters of target lesions, taking as reference the baseline sum of diameters., Up to 30 days after completion of study treatment, up to 75 months
+Proportion of Participants With 4 Month Progression-free Survival (PFS), Time from random assignment to progression or death from any cause (whichever comes first). Progression was measured by the Response Evaluation Criteria in Solid Tumors (RECIST). Progression is at least a 20% increase in the sum of the diameters of target lesions, taking as reference the smallest sum on study. And the appearance of one or more new lesions is also considered progressions., 4 months
+Number of Participants With Serious and Non-serious Adverse Events Assessed by the Common Terminology Criteria for Adverse Events (CTCAE v5.0), Here is the number of participants with serious and non-serious adverse events assessed by the Common Terminology Criteria for Adverse Events (CTCAE v5.0). A non-serious adverse event is any untoward medical occurrence. A serious adverse event is an adverse event or suspected adverse reaction that results in death, a life-threatening adverse drug experience, hospitalization, disruption of the ability to conduct normal life functions, congenital anomaly/birth defect or important medical events that jeopardize the patient or subject and may require medical or surgical intervention to prevent one of the previous outcomes mentioned., Date treatment consent signed to date off study, approx. 73months (m) & 21day (d); 4m & 11d; 61m & 8d; 4m & 11d; 10m & 11d; 72m & 29d; 13m & 11d; 6m & 13d; 29m & 18d; 48m & 25d; 49m & 5d; 4m &7d; 15m & 5d; and 75m &13d, for each group respectively.
+PRIMARY OBJECTIVE:
+
+I. Evaluate the proportion of patients with objective response (OR) to targeted study agent(s) in patients with advanced refractory cancers.
+
+OUTLINE: Patients are assigned to 1 of 4 treatment regimens corresponding to one of their mutation/amplification categories.
+
+REGIMEN I: Patients receive veliparib orally (PO) twice daily (BID) on days 1-7 and temozolomide PO once daily (QD) on days 1-5. Cycles repeat every 28 days in the absence of disease progression or unacceptable toxicity.
+
+REGIMEN II: Patients receive adavosertib PO BID for 5 doses starting on day 1 and carboplatin intravenously (IV) over 30-60 minutes on day 1. Cycles repeat every 21 days in the absence of disease progression or unacceptable toxicity. (No longer an active study drug as of March 2018)
+
+REGIMEN III: Patients receive everolimus PO every day (QD) on days 1-28. Cycles repeat every 28 days in the absence of disease progression or unacceptable toxicity. (No longer an active study drug as of March 2018)
+
+REGIMEN IV: Patients receive trametinib PO QD on days 1-28. Cycles repeat every 28 days in the absence of disease progression or unacceptable toxicity. (No longer an active study drug as of March 2018)
+
+After completion of study treatment, patients are followed up for 30 days. Patients with unacceptable toxicities that have not resolved by day 30 are followed up biweekly until stabilization or resolution.

@@ -1,0 +1,15 @@
+Testing Counseling and Mobile Health Interventions to Improve Physical Activity and Diet Quality in Survivors of Childhood Cancer
+This clinical trial evaluates several behavioral interventions for the improvement of physical activity in cancer patients. Childhood and adolescent/young adult cancer survivors have been reported to have poor diet quality and rarely meet recommended physical activity guidelines. This trial aims to see whether a tailored intervention based on self-determination theory may help to improve physical activity and dietary change.
+Hematopoietic and Lymphoid Cell Neoplasm|Malignant Solid Neoplasm
+BEHAVIORAL: Behavioral Intervention|BEHAVIORAL: Behavioral Intervention|BEHAVIORAL: Behavioral Intervention|OTHER: Survey Administration|OTHER: Interview
+Sedentary time, \<100 counts/minute as measured by research-grade accelerometry, Up to 12 months|Healthy Eating Index (HEI)-2015 score, On a scale of 100 (perfect score) as measured by Food Frequency Questionnaire, Up to 12 months
+Participant engagement, As measured by: 1) response to clinician action plans \[score of 0-10; 10 being most engaged\]; 2) use of mHealth apps \[e.g., number of days with daily steps ≥500; number of days with recorded calories ≥500; social media interactions counting viewing, liking, or posting comments\]; and 3) number of sessions completed with lifestyle health coach and coach's rating of engagement \[score of 0-10; 10 being most engaged\], Up to 12 months|Health-related self-efficacy scale, Per Schwarzer R, et al. and converted to T-score (higher equaling greater self-efficacy), Up to 12 months|Multidimensional Health Locus of Control Scale, Per Wallston KA, et al. with 3 subscales: internal, chance, and powerful others (each scored from 6-36, with higher values indicating greater agreement with that subscale's locus on control beliefs), Up to 12 months
+OUTLINE: Patients are randomized to Arms 1, 2, or 3.
+
+ARM 1: Patients receive a personalized clinician-led self-management telehealth session at baseline and 2 months. Patients with poor response at 3 months are randomized to Arm 2 or 4, otherwise patients receive the same telehealth session at months 4 and 6. Patients may receive 2 additional telehealth sessions after 6 months.
+
+ARM 2: Patients receive personalized goal setting for daily steps and activity (updated weekly) and 3 dietary goals (updated monthly) with social media peer support for 6 months. Patients with poor response at 3 months are randomized to Arms 1 or 4. Patients may receive personalized goal setting for daily steps and activity (updated monthly) and dietary goals (updated every 2 months) after 6 months.
+
+ARM 3: Patients receive no intervention for 12 months. After 12 months, they may optionally receive their choice of intervention for up to 6 months.
+
+ARM 4: Patients receive remote sessions with a health coach every 1-2 weeks for 6 months. Patients may continue to receive remote sessions once a month after 6 months.

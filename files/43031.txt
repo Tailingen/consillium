@@ -1,0 +1,36 @@
+Hypofraction Radiotherapy for Limited-Stage Small Cell Lung Cancer
+Concurrent chemoradiotherapy is the standard modality for locally advanced small-cell lung cancer, which could achieve median overall survival of 25 mos. Conventional fractionation of 66Gy/33f and hyperfractionation of 45Gy/30f twice daily have been acknowledged as the two standard radiotherapy modalities according to CONVERT study. In 2021, a phase II trial demonstrated that 60Gy/40f twice daily was superior to the standard 45Gy/30f twice daily in light of overall survival (2y OS 74.2% vs. 39% p=0.0005), which to some extent implied that higher dose may confer better survival. Hypofractionated radiotherapy was another useful modality to increase biological effective dose with the advantage of short course and convenience. The effectiveness and safety of 60Gy/15f has been demonstrated in the treatment of locally advanced non-small cell lung cancer. Therefore, this trial is designed to explore the safety and primary efficacy of hypofraction radiotherapy for stage III locally advanced small cell lung cancer.
+Safety Issues|Efficacy, Self
+RADIATION: High-dose hypofraction Arm|RADIATION: Low-dose hypofraction Arm (Standard BED)
+Rate of radiation-induced pneumonitis (CTCAE V4.0), Rate of radiation-induced pneumonitis (CTCAE V4.0), 1 to 2 years|Rate of radiation-induced esophagitis (CTCAE V4.0), Rate of radiation-induced esophagitis (CTCAE V4.0), 1 to 2 years|Rate of myelosuppression (CTCAE V4.0), Rate of myelosuppression (CTCAE V4.0), 1 to 2 years
+2 year locoregional control rate (RECIST 1.1), 2 year locoregional control rate (RECIST 1.1), 2 year
+2 year progression-free rate (RECIST 1.1), 2 year progression-free rate (RECIST 1.1), 2 year|2 year overall survival rate (RECIST 1.1), 2 year overall survival rate (RECIST 1.1), 2 year
+Trial Design: To enroll 36 patients diagnosed with limited stage small cell lung cancer to receive hypofraction radiotherapy (18 patients receiving high dose of 60Gy/15f and 18 patients receiving low dose of 48Gy/12f).
+
+Primary Endpoint: Rate of radiation-induced penumonitis, esophagitis, myelosuppression (CTCAE V4.0).
+
+Secondary Endpoint: 1-year local-regional control rate, 1-year progression-free survival rate, 1-year overall survival rate (RECIST v1.1).
+
+Randomization: Patients would be randomly assigned to high dose group and low dose group using random number table method.
+
+Radiotherapy CT simulation: 4-Dimensional CT (4D-CT) with intravenous contrast is recommended for simulation. Scan thickness should be less than 5 mm. Thermal mask or vacuum bag is recommended.
+
+Target Delineation: Considering hypofraction and involved field irradiation (IFI), only Internal Tumor Volume (ITV) should be delineated without the need to delineate Clinical Tumor Volume (CTV).
+
+Delineation of ITV: ITV should include pulmonary gross tumor and metastaticmediastinal lymph nodes. PET-CT registration with simulation CT is recommended for patients with obstructive atelectasis. For patients with suspected mediastinal lymph nodes, Endobronchial Ultrasound-guided Transbronchial Needle Aspiration (EBUS-TBNA) is recommended.
+
+Production of Planning Tumor Volume (PTV): Low Dose Hypofraction Arm (48Gy/12f) PTV: PTV is produced by a margin of 5 mm added to ITV. Modification of PTV is suggested to respect anatomic boundary.
+
+High Dose Hypofraction Arm (60Gy/15f) PTV: Planning Tumor Volume (PTV) is produced by a margin of 5 mm added to ITV. Modification of PTV is suggested to respect anatomic boundary. For patients with ITV abutting esophagus, the technique of Esophagus-Sparing Simultaneous Integrated Boost (ES-SIB) should be utilized. PTV should be modified not to cover esophagus to ensure that the maximum dose to esophagus should be ≤ 45Gy.
+
+The dose to PTV in adjacent to esophagus could be compromised (D99% of PTV should be ≥ 51Gy).
+
+Dosimetric Limitation: 95% prescription dose should cover 100% PTV and 95% PTV should receive 100% prescription dose. Total Lung: V20\<25%, Dmean\<13Gy, V5\<50%. Spinal Cord: Dmax\<40Gy. Heart: V30\<40%, Dmean\<25Gy.
+
+Treatment Implementation: Radiotherapy is implemented every day. Cone-beam CT should utilized every day to minimize set-up error.
+
+Concurrent Chemotherapy: Chemotherapy etoposide with cisplatin for 4-6 cycles was recommended.
+
+Prophylactic Cranial Irradiation (PCI): Patients evaluated as partial response or complete response after chemoradiotherapy were recommended to receive hippocampus-sparing prophylactic cranial irradiation.
+
+Follow-up: Patients should be follow-up every three months right after the completion of prophylactic cranial irradiation to 3 years after that. Then follow-up every half year is allowed to 5 years. After 5 years, follow-up every year is appropriate. In follow-up, chest CT and abdominal ultrasonography should be implemented. Cranial MRI should be performed every half year. Bone scan should be undertaken every year for all patients.

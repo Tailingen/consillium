@@ -1,0 +1,39 @@
+Capecitabine, Oxaliplatin, and Radiation Therapy in Treating Patients With Esophageal or Gastroesophageal Junction Cancer
+RATIONALE: Drugs used in chemotherapy, such as capecitabine and oxaliplatin, work in different ways to stop the growth of tumor cells, either by killing the cells or by stopping them from dividing. Radiation therapy uses high-energy x-rays to kill tumor cells. Giving chemotherapy and radiation therapy before surgery may make the tumor smaller and reduce the amount of normal tissue that needs to be removed.
+
+PURPOSE: This phase II trial is studying how well giving capecitabine and oxaliplatin together with radiation therapy works in treating patients with esophageal or gastroesophageal junction cancer.
+Esophageal Cancer
+DRUG: Induction Therapy - Capecitabine|DRUG: Induction Therapy - Oxaliplatin|DRUG: Combination Therapy - Capecitabine|DRUG: Combination Therapy - Oxaliplatin|RADIATION: Combination Therapy - Radiation|PROCEDURE: Evaluation for response and surgery
+Determine Pathologic Complete Response, Pathologic response will be assessed semiquantitatively irrespective of lymph node status based on the estimated percentage of residual carcinoma in relation total carcinoma area, including amount of radiotherapy-induced tissue injury, in mural histologic sections.
+
+Pathologic response will be defined as:
+
+P0: 0% residual cancer P1: 1% to 50% residual cancer P2: more than 50% residual cancer, At time of surgery
+Clinical Response Rate, Clinical response Rate will be expressed as the proportion of patients demonstrating a complete and/or partial response based on all evaluable patients treated.Clinical response will be evaluated according to Response Evaluation Criteria In Solid Tumors 1.0 (RECIST) .
+
+Complete Response (CR) is defined as the disappearance of all target lesions Partial Response (PR) is defined as at least a 30% decrease in the sum of the longest diameter (LD) of target lesions,taking as reference the baseline sum LD, four to six weeks following completion of 4 cycles (1 cycle = 21days) of chemotherapy treatment and prior to surgery|Recurrence Rate, Recurrence rate will be defined as disease recurrence, progressive disease or death. Patients will be followed for disease recurrence or death until the end of the study., From the time of start of treatment until first documentation of disease recurrence, progression or death, whichever comes first until the end of the study, a maximum of 6 years and 7 months.|Time to Progression, Time to Progression will be measured as time from the first day of therapy until death, disease progression or last contact., From start of first treatment until time of first documentation of progression of disease or death, whichever comes first, until the study closes, up to a maximum of 6 years and 7 months.|Patterns of Failure, At time of surgery|Toxicity Profile, Toxicity will be assessed at the beginning of every cycle during chemotherapy for a total of 4 cycles (1 cycle =21 days) and then 30 days post last dose of chemotherapy. All toxicities will be graded according to the National Cancer Institute Common Terminology Criteria for Adverse Events version 3.0 (CTCAE 3.0)
+
+In general adverse events (AEs) will be graded according to the following:
+
+Grade 1 Mild AE Grade 2 Moderate AE Grade 3 Severe AE Grade 4 Life-threatening or disabling AE Grade 5 Death related to AE
+
+Only incidents of AEs determined to be related to chemotherapy are recorded here., During chemotherapy treatment and up to 30 days post-last dose of chemotherapy.|Correlate Proteomic and Pharmacologic Characteristics With Prognosis and Response to Therapy., At time of sugery
+OBJECTIVES:
+
+Primary
+
+* Determine the pathologic complete response in patients with adenocarcinoma of the esophagus or gastroesophageal junction treated with neoadjuvant therapy comprising capecitabine, oxaliplatin, and radiotherapy.
+
+Secondary
+
+* Determine the clinical response rate in patients treated with this regimen.
+* Determine the recurrence rate, time to progression, and patterns of failure in patients treated with this regimen.
+* Characterize the toxicity profile of this regimen in these patients.
+
+OUTLINE:
+
+* Induction therapy: Patients receive oral capecitabine twice daily on days 1-14 and oxaliplatin IV over 2 hours on days 1 and 8. Treatment repeats every 21 days for 2 courses in the absence of disease progression or unacceptable toxicity.
+* Combination chemoradiotherapy: Patients then receive oxaliplatin IV over 2 hours once weekly for 6 weeks. Patients also receive concurrent oral capecitabine twice daily and undergo radiotherapy once daily 5 days a week for 5½ weeks in the absence of disease progression or unacceptable toxicity.
+* Surgery: Patients undergo surgical resection at 4-8 weeks after completion of chemoradiotherapy.
+
+After completion of study treatment, patients are followed every 3 months.

@@ -1,0 +1,42 @@
+Electroencephalogram Predicts Post-operative Delirium
+The goal of this observational study is to investigate the predictive value of sub-hairline electroencephalography (EEG) during anesthesia recovery for postoperative delirium (POD). The main question to be answered is:
+
+* Can sub-hairline EEG measured during anesthesia recovery serve as a reliable predictor of POD? Adult patients undergoing elective craniotomy and admitted to the ICU will be enrolled. Sub-hairline EEG will be monitored until ICU discharge.
+Neurosurgery|Delirium - Postoperative|Brain Tumor Adult
+DIAGNOSTIC_TEST: Sub-hairline EEG Monitoring
+Incidence of Postoperative Delirium (POD), The primary outcome of this study is to assess whether sub-hairline EEG parameters recorded during anesthesia recovery can reliably predict the incidence of postoperative delirium (POD) within the first 7 days following elective craniotomy., Within 7 days post-surgery
+Spectral power of Sub-Hairline EEG theta wave, To evaluate whether changes in sub-hairline EEG parameters (e.g., spectral power, burst suppression ratio, and connectivity metrics) during the early postoperative period are associated with the onset and severity of POD., Within 7 days post-surgery|Hospital Length of Stay, To investigate if the use of sub-hairline EEG during anesthesia recovery correlates with the length of ICU and total hospital stay., through study completion, an average of 30 days|Incidence of Postoperative Complications (PPCs), To evaluate the incidence of postoperative complications, including pneumonia, atelectasis, brain ischemia, edema, and haemorrhage, and whether these are correlated with sub-hairline EEG parameters., through study completion, an average of 1 week|Analysis of EEG Patterns and Delirium Onset, To explore any correlation between specific sub-hairline EEG patterns (e.g., burst suppression ratio, alpha or theta waves) and the early onset of delirium., through study completion, an average of 1 week|Phase-Locking Value between sub-Hairline EEG oscillations and respiratory rhythm, This secondary outcome measure aims to investigate the correlation between sub-hairline EEG parameters and other physiological signals, including electrocardiogram (ECG) and respiratory parameters, to determine their potential predictive value for POD. This study will explore whether these signals show significant interactions or patterns that could help predict the onset of POD and its severity., through study completion, an average of 1 week
+Postoperative delirium (POD) is common neurological complication following major surgery, particularly in neurosurgical patients with the incidence ranges from 5% to 37%, depending on the diagnostic criteria and patient subgroups. POD has been associated with increased morbidity, prolonged hospitalisation, long-term cognitive impairment, and higher healthcare costs. Despite its clinical significance, early identification of patients at risk for POD remains a challenge. Electroencephalography (EEG) has been extensively utilised for monitoring brain function in anaesthesia and critical care settings. However, the feasibility and predictive value of sub-hairline EEG during anaesthesia recovery for POD remain largely unexplored.
+
+This prospective observational study aims to assess whether sub-hairline EEG parameters recorded during the immediate anaesthesia recovery phase can serve as reliable predictors of POD in adult patients undergoing elective craniotomy. The study will include patients scheduled for elective craniotomy who are admitted to the intensive care unit (ICU) postoperatively.
+
+Study Design and Procedures
+
+Sub-hairline EEG monitoring will commence at the end of surgery and continue throughout the early recovery phase in the ICU. EEG signals will be continuously recorded using a standardized EEG montage, focusing on frontal and temporal regions. The EEG-derived parameters of interest include:
+
+* Spectral power across different frequency bands (delta, theta, alpha, beta)
+* Burst suppression ratio
+* Functional connectivity metrics (coherence, phase-amplitude coupling) POD will be assessed using validated screening tools, including the Confusion Assessment Method for the ICU (CAM-ICU), the Delirium Observation Screening Scale (DOSS), and the Fluctuating Mental Status Evaluation (FMSE) within seven days postoperatively. Assessments will be conducted after extubation and between 10:00 AM and 4:00 PM within the first seven postoperative days. A total of four visits will be performed: on postoperative day 1, postoperative day 7, and two randomly selected days between postoperative days 2 and 5.
+
+Data Collection and Quality Assurance
+
+To ensure data quality and integrity, the study will implement the following procedures:
+
+* Standardized EEG Acquisition and Processing: EEG signals will be collected using a predefined protocol with strict artifact rejection criteria.
+* Clinical Data Recording: Patient demographics, perioperative anesthetic management, hemodynamic stability, postoperative analgesia, respiratory function, and ECG parameters will be recorded to assess potential confounding factors.
+* Source Data Verification: EEG recordings and clinical data will be cross-checked with electronic medical records for accuracy and completeness.
+* Quality Control Measures: Data entry will undergo automated range and consistency checks to minimize errors. Missing or inconsistent data will be flagged and reviewed.
+
+Sample Size and Statistical Analysis Plan A sample size calculation will be conducted to ensure adequate power to detect significant associations between EEG parameters and POD incidence. Based on our past studies, the incidence of POD is 30% after neurosurgery in our hospital. According to the literature search results and related studies, the area under the curve was 0.73, the two-sided test error was 0.05, the statistical power was 0.9, and the 10% dropout rate was considered. Eventually, we plan to enroll 137 participants for elective neurosurgery.
+
+Primary Analysis:
+
+* The association between EEG parameters during anesthesia recovery and POD will be evaluated using multivariable logistic regression, adjusting for potential confounders.
+* Time-series EEG changes will be analyzed using repeated-measures ANOVA to track EEG dynamics over time.
+
+Secondary Analysis:
+
+* EEG biomarkers predictive of POD severity will be identified using machine learning approaches, such as decision trees and support vector machines.
+* Subgroup analysis will assess differences based on age, baseline cognitive function, and surgical duration.
+
+Expected Impact By leveraging non-invasive sub-hairline EEG monitoring, this study aims to provide insights into the neurophysiological mechanisms underlying POD and identify early EEG biomarkers for risk stratification. If successful, this research could contribute to the development of real-time EEG-based monitoring tools for early POD detection and prevention, ultimately improving postoperative outcomes in neurosurgical patients.

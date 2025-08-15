@@ -1,0 +1,28 @@
+Adding Mitomycin to BCG as Adjuvant Intravesical Therapy for High-risk Non-Muscle-invasive Bladder Cancer
+Open label, randomised phase 3 trial of the addition of Mitomycin to BCG as adjuvant intravesical therapy for high-risk, non-muscle-invasive bladder cancer. The study aim is to compare disease-free survival between treatment arms: BCG alone versus Mitomycin in addition to BCG.
+Bladder Cancer
+BIOLOGICAL: Bacillus of Calmette-Guerin (BCG)|DRUG: Mitomycin (MM)
+Disease free survival (death or recurrence), Measured from the date of randomisation until the date of disease recurrence, upper tract disease is first evident, or the date of death, or until the date last known to be alive and without disease recurrence. Assessed via cystoscopy., Up to 5 years
+Activity (Clear cystoscopy at 3 months), Treatment activity is defined as a negative cystoscopy \& biopsy at nominal week 12 (i.e. after induction therapy, but prior to the commencement of maintenance therapy). Assessed via cystoscopy and biopsy., At 3 months after patient randomised|Time to recurrence (recurrence), Measured from the date of randomisation until the first date recurrence is detected. Disease recurrence is defined as evidence on cystoscopy or biopsy of Ta or T1-4 disease, or if there is evidence of metastatic disease. Assessed via cystoscopy., Up to 5 years|Time to progression (disease progression), Measured from the date of randomisation until the first date progression is detected. Disease progression is defined as evidence of disease that is of a higher grade or a higher stage than at baseline. Assessed via cystoscopy., Up to 5 years|Safety (Adverse events graded according to CTC AE V4.0), The NCI Common Terminology Criteria for Adverse Events version 4 (NCI CTCAE v4.03) will be used to classify and grade the intensity of adverse events after each treatment cycle., Measured before day 1 of each instillation during treatment.|Health-Related Quality of Life, Health related quality life is a composite outcome aggregated to arrive at one reported value to ensure multiple aspects of the participants life are adequately assessed and measured. The following questionnaires will be used; the 24-item EORTC Bladder Symptoms Quality of Life module (QLM-BLS24); the EORTC Core Quality of Life Questionnaire (QLQ-C30); and the International Prostate Symptom Score (I-PSS)., Up to 5 years from the date of randomisation|Overall survival time (death from any cause), Overall survival is defined as the interval from the date of randomisation to the date of death from any cause or the date last known to be alive., Up to 5 years|Treatment Completion, Treatment completion is defined as having received 75% or more of the planned numbers of induction and maintenance doses., Measured at end of study treatment (12 months after patient randomized).|Marginal resource use, Assessed via a specifically designed resource utilisation form (collecting information such as number, type and duration of visits)., 5 years after last patient randomized (or date last patient has died, whichever sooner).
+Exploratory Tissue Biomarker Investigation, Optional donation of formalin-fixed paraffin embedded (FFPE) tumour tissue for future biological or translational sub-studies. These future studies may include investigations of how BCG + MM may work in people with Non-Muscle-invasive Bladder Cancer as well as studies that may help to understand the pathogenic course of this cancer and related diseases., Baseline
+PROTOCOL SYNOPSIS
+
+Background:
+
+Instillation of Bacillus of Calmette-Guerin (BCG) into the urinary bladder (intravesical administration) improves rates of disease recurrence and progression after transurethral resection (TUR) of high risk, non-muscle-invasive bladder cancer (NMIBC), but over 30% of people still develop recurrent transitional cell carcinoma (TCC) despite optimal therapy with adjuvant intravesical BCG. Our meta-analysis, including a recent randomised phase 2 trial, suggests that outcomes might be improved further by using an adjuvant intravesical regimen that includes both Mitomycin (MM) and BCG. These promising findings require corroboration in a definitive, large scale, randomised phase 3 trial using standard techniques for intravesical administration.
+
+General Aim:
+
+To determine the efficacy and safety of MM in addition to BCG in patients with NMIBC.
+
+Design:
+
+Open label, randomised, stratified, 2-arm multicentre phase 3 clinical trial. Population: The target population is adults with resected, high-risk NMIBC (high grade Ta or any grade T1) suitable for intravesical chemotherapy treatment. Key eligibility criteria include: prior transurethral resection of all visible tumour, adequate organ function, and ECOG performance status 0-2.
+
+Study Treatments:
+
+Arm A: Intravesical BCG Alone (standard): Induction (weekly x 6), followed by Maintenance (monthly x 10); or Arm B: Intravesical BCG + MM (experimental): Induction (weekly x 9), followed by Maintenance (monthly x 9).
+
+Statistical Considerations:
+
+A sample size of 500 (followed until 213 events are observed) provides 85% power to detect a 10% improvement in disease free survival (DFS) rate at 2 years from 70% on BCG alone to 80% on BCG and MM (hazard ratio 0.63) at a significance level of 0.05, allowing for 10% non-compliance.

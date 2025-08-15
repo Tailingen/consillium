@@ -1,0 +1,43 @@
+Olaparib and Temozolomide in Treating Patients With Relapsed Glioblastoma
+RATIONALE: Olaparib may stop the growth of tumor cells by blocking some of the enzymes needed for cell growth. Drugs used in chemotherapy, such as temozolomide, work in different ways to stop the growth of tumor cells, either by killing the cells or by stopping them from dividing. Olaparib may help temozolomide kill more tumor cells by making tumor cells more sensitive to the drug.
+
+PURPOSE: This phase I trial is studying the side effects and best dose of olaparib and temozolomide in treating patients with relapsed glioblastoma.
+Brain and Central Nervous System Tumors
+DRUG: olaparib|DRUG: temozolomide|GENETIC: gene expression analysis|GENETIC: protein expression analysis|OTHER: laboratory biomarker analysis|OTHER: pharmacological study|PROCEDURE: diffusion-weighted magnetic resonance imaging|PROCEDURE: dynamic contrast-enhanced magnetic resonance imaging|PROCEDURE: therapeutic conventional surgery
+Detection of olaparib in tumor tissue using liquid chromatography mass spectrometry (LC-MS) seen in at least 1 out of the 6 patients treated in stage 1 of the study|Maximum-tolerated dose of olaparib in combination with temozolomide (stage 2)|Toxicity profile and dose-limiting toxicity as assessed by NCI CTCAE Version 4.02 (stage 2)
+Measurement of blood-brain barrier (BBB) disruption and permeability biomarkers by dynamic contrast-enhanced magnetic resonance imaging (DCE-MRI) and diffusion-weighted imaging (DWI) (stage 1 and stage 2 MTD expansion cohort)|Progression-free survival at 6 months post-surgery as assessed by the Response Assessment in Neuro-Oncology Working Group (RANO) criteria from conventional MRI and clinical assessment (stage 2)
+Gene copy number analysis of DNA repair genes|Quantification of DNA repair gene expression|Measurement of methylation of the MGMT promoter gene by bisulfite modification of DNA and pyrosequencing|Measurement of microsatellite instability by Multiplex PCR|Measurement of mismatch repair (MMR) gene expression by quantitative real time polymerase chain reaction (QRT-PCR) analysis|Measurement of phosphatase and tensin homolog (PTEN) protein and gene expression|Quantification of global DNA strand breaks in tumour tissue by Immunostaining for γH2AX|Measurement of Rad51 foci and nuclear staining intensity as markers of homologous recombination (HR) repair activity|Plasma levels of olaparib measured by LC-MS|PARP inhibition measured by validated assays|Detection of olaparib in tumour margin tissue using LC-MS
+OBJECTIVES:
+
+Primary
+
+* To determine whether olaparib crosses the blood-brain barrier (BBB) and achieves tumor penetration in patients with relapsed glioblastoma. (Stage 1)
+* To determine the safety and tolerability of the combination of olaparib and temozolomide in patients with relapsed glioblastoma. (Stage 2)
+
+Secondary
+
+* To assess BBB disruption and BBB permeability in patients with relapsed glioblastoma. (Stage 1 and stage 2 maximum-tolerated dose \[MTD\] expansion cohort)
+* To assess the possible anti-tumor activity of the combination of olaparib and temozolomide in patients with relapsed glioblastoma. (Stage 2)
+
+Tertiary
+
+* To assess biological markers as possible predictors of olaparib efficacy in patients with glioblastoma.
+* To optimize techniques for measuring DNA damage responses to PARP inhibition in tumor tissue.
+* To determine plasma concentration of olaparib at the time of surgery in patients with glioblastoma.
+* To evaluate the PARP inhibition at the time of surgery in peripheral blood mononuclear cells (PBMCs).
+
+OUTLINE: This is a multicenter, dose-escalation study.
+
+* Stage 1: Patients receive fixed-dose oral olaparib twice daily for 3 days prior to resection and then receive a dose of oral olaparib on the morning of the resection. After the surgical resection, patient receive standard of care treatment. Patients undergo dynamic contrast-enhanced magnetic resonance imaging (DCE-MRI) and diffusion-weighted imaging (DWI) scans to assess the disruption and permeability of the blood-brain barrier (BBB).
+
+Stage 1 is complete and it was proven that olaparib can cross the BBB and achieve tumour penetration in glioblastoma patients.
+
+* Stage 2: Patients receive escalating doses of oral olaparib once or twice daily for 3 days prior to resection and then receive a dose of oral olaparib on the morning of the resection. After recovery from surgery, patients receive oral olaparib once or twice daily and oral temozolomide once daily on days 1-42. Treatment repeats every 8 weeks for up to 3 courses in the absence of disease progression or unacceptable toxicity. Patients may receive 3 additional courses of treatment in the absence of disease progression.
+
+Once the maximum tolerated dose (MTD) is established, 10 more patients are treated at the MTD as stage 2 MTD expansion cohort. These patients also undergo DCE-MRI and DWI scans.
+
+All patients undergo blood collection periodically for pharmacokinetic and pharmacodynamic studies.
+
+After completion of study treatment, patients are followed up for 28 days and then monthly until resolution of study drug-related adverse events.
+
+Peer Reviewed and Funded or Endorsed by Cancer Research UK.

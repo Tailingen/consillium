@@ -1,0 +1,39 @@
+Neratinib and Everolimus, Palbociclib, or Trametinib in Treating Participants With Refractory and Advanced or Metastatic Solid Tumors With EGFR Mutation/Amplification, HER2 Mutation/Amplification, or HER3/4 Mutation or KRAS Mutation
+This phase I trial studies the side effects and best dose of neratinib in combination with everolimus, palbociclib, or trametinib in participants with solid tumors with EGFR mutation/amplification, HER2 mutation/amplification, HER3/4 mutation, or KRAS mutation that do not respond to treatment (refractory) and have spread to other parts of the body (advanced or metastatic). Neratinib, palbociclib, and trametinib may stop the growth of tumor cells by blocking some of the enzymes needed for cell growth. Drugs used in chemotherapy, such as everolimus, work in different ways to stop the growth of tumor cells, either by killing the cells, by stopping them from dividing, or by stopping them from spreading. Giving neratinib with everolimus, palbociclib, or trametinib may work better than neratinib alone in treating participants with solid tumors.
+Advanced Malignant Solid Neoplasm|EGFR Gene Amplification|EGFR Gene Mutation|ERBB2 Gene Amplification|ERBB2 Gene Mutation|ERBB3 Gene Mutation|ERBB4 Gene Mutation|KRAS Gene Mutation|Metastatic Malignant Solid Neoplasm|Refractory Malignant Solid Neoplasm
+DRUG: Everolimus|DRUG: Neratinib|DRUG: Palbociclib|DRUG: Trametinib
+Maximum tolerated dose (MTD) of neratinib when given in combination with everolimus, palbociclib, or trametinib, Defined by dose-limiting toxicity (DLT). The MTD will be defined as the highest dose at which no more than 1 of 6 evaluable subjects has had a DLT., Up to 28 days
+Incidence of adverse events of neratinib when given in combination with everolimus, palbociclib, or trametinib, National Cancer Institute Common Terminology Criteria for Adverse Events version 4.0 will be used to quantify the intensity of adverse events occurring during treatment in this study., Up to 30 days post last dose|Objective response, Per Response Evaluation Criteria in Solid Tumors (RECIST) version (v) 1.1. The anti-tumor efficacy of each combination will be evaluated by objective response by RECIST v1.1. This analysis will not utilize statistical analysis per standard phase I trials., Up to 5 years|Determination of pharmacodynamics markers in tissue, blood, and plasma, Pharmacodynamics markers in tissue, blood, and plasma will be determined that may predict outcome and exploration of the pharmacokinetic profile of each agent when administered in combination. Marker values will be compared between subjects with and without clinical benefit using chi-squared or Fisher exact tests for categorically-scaled markers and Wilcoxon rank sum tests for interval- and ordinal-scaled markers. Due to the large number of candidate markers, only those significant on univariate analysis will be combined into a single logistic regression model to assess their independent effects on clinical benefit. Analyses will be performed both within and across the three cohorts. Results will be considered exploratory and thus no corrections will be made for multiple testing., Up to completion of treatment
+PRIMARY OBJECTIVES:
+
+I. To evaluate the safety and tolerability of neratinib when combined with one of the following agents:
+
+Ia. Arm 1: Everolimus (mTOR inhibitor) Ib. Arm 2: Palbociclib (CDK 4/6 inhibitor) Ic. Arm 3: Trametinib (MEK inhibitor). II. To determine the maximum tolerated dose (MTD) and dose-limiting toxicities (DLTs) of neratinib combination therapy.
+
+SECONDARY OBJECTIVES:
+
+I. To determine preliminary anti-tumor efficacy of neratinib combination therapy.
+
+II. To determine pharmacodynamic markers in tissue, blood and plasma that may predict outcome.
+
+III. To explore the potential of drug-drug interactions by evaluating the pharmacokinetic profile of each agent when administered in these combinations: neratinib+everolimus, neratinib+palbocclib, and neratinib+trametinib and blood-based biomarkers.
+
+EXPLORATORY OBJECTIVES:
+
+I. To determine baseline molecular markers (deoxyribonucleic acid \[DNA\], ribonucleic acid \[RNA\] and protein) that may predict clinical benefit.
+
+II. To determine concordance of human epidermal growth factor receptor mutation (EGFR, HER2, HER3, and HER4) or EGFR, HER2 amplification in archival tissue and pre-treatment biopsies. Impact of these correlatives on response will be explored.
+
+III. To determine concordance of human epidermal growth factor receptor mutation (EGFR, HER2, HER3, and HER4) or EGFR, HER2 amplification in tumor and cell-free DNA (cfDNA). Impact of these correlatives on response will be explored.
+
+IV. To utilize cfDNA from plasma specimens collected during the course of treatment to explore mechanisms of primary and acquired resistance to neratinib combination therapy.
+
+OUTLINE: This is a dose-escalation study. Participants are assigned to 1 of 3 arms.
+
+ARM I: Participants receive neratinib orally (PO) daily and everolimus PO daily. Cycles repeat every 28 days in the absence of disease progression or unacceptable toxicity.
+
+ARM II: Participants receive neratinib PO daily and palbociclib PO daily for 3 weeks followed by 1 week off. Cycles repeat every 28 days in the absence of disease progression or unacceptable toxicity.
+
+ARM III: Participants receive neratinib PO daily and trametinib PO daily as directed. Cycles repeat every 28 days in the absence of disease progression or unacceptable toxicity.
+
+After completion of study treatment, participants are followed up at 30 days.

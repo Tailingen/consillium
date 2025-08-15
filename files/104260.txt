@@ -1,0 +1,56 @@
+Testing Olaparib Either Alone or in Combination With Atezolizumab in BRCA Mutant Non-HER2-positive Breast Cancer
+This randomized phase II trial studies how well olaparib with or without atezolizumab work in treating patients with non-HER2-positive breast cancer that has spread to nearby tissue or lymph nodes (locally advanced), that cannot be removed by surgery (unresectable), or that has spread from where it first started (primary site) to other places in the body (metastatic). Olaparib is an inhibitor of PARP, an enzyme that helps repair deoxyribonucleic acid (DNA) when it becomes damaged. Blocking PARP may help keep cancer cells from repairing their damaged DNA, causing them to die. PARP inhibitors are a type of targeted therapy. Immunotherapy with monoclonal antibodies, such as atezolizumab, may help the body's immune system attack the tumor, and may interfere with the ability of tumor cells to grow and spread. It is not known whether giving olaparib with or without atezolizumab will work better in patients with non-HER2-positive breast cancer.
+Anatomic Stage III Breast Cancer AJCC v8|Anatomic Stage IV Breast Cancer AJCC v8|Locally Advanced Unresectable Breast Carcinoma|Metastatic Breast Carcinoma
+DRUG: Atezolizumab|PROCEDURE: Biopsy Procedure|PROCEDURE: Biospecimen Collection|PROCEDURE: Bone Marrow Aspiration|PROCEDURE: Bone Marrow Biopsy|PROCEDURE: Bone Scan|PROCEDURE: Computed Tomography|PROCEDURE: Magnetic Resonance Imaging|DRUG: Olaparib|PROCEDURE: Positron Emission Tomography|OTHER: Questionnaire Administration|PROCEDURE: X-Ray Imaging
+Progression-free survival (PFS), The study arms will be compared for duration of response survival with Kaplan-Meier estimates and log-rank tests. The Rothman confidence interval (CI), which is based on Greenwood's variance, Thomas and Grunkemeier CI, and the simultaneous confidence bands by Nair and Hall and Wellner, will be reported. In addition, the possible risk factors will be compared for survival with log-rank test. For multivariate analysis, the proportional hazards Cox model will be applied to investigate potential prognostic factors, such as age and stage of disease of the PFS data. The adjusted p-values of the hazard ratios and the adjusted 95% confidence interval will be reported., Time measured from randomization, assessed up to 7 years
+Overall response rate (ORR), Evaluated by immune response criteria and normal Response Evaluation Criteria in Solid Tumors criteria. The ORR will be estimated using the 95% CI based on Wilson's method. The Fisher's exact test will be applied to examine the difference between two arms. The Wilcoxon rank sum test and Fisher's exact test will be applied to study the association between the response status and the continuous and categorical variables, respectively. The generalized non-linear model and logistic regression will be applied for multivariable data analysis. The adjusted p-value and 95% CI of the odds ratios (OR) will be reported., Up to 7 years|Duration of response (DoR), The study arms will be compared for duration of response survival with Kaplan-Meier estimates and log-rank tests. The Rothman CI, which is based on Greenwood's variance, Thomas and Grunkemeier CI, and the simultaneous confidence bands by Nair and Hall and Wellner, will be reported. In addition, the possible risk factors will be compared for survival with log-rank test. For multivariate analysis, the proportional hazards Cox model will be applied to investigate potential prognostic factors, such as age and stage of disease of the DoR data. The adjusted p-values of the hazard ratios and the adjusted 95% confidence interval will be reported., Time from documentation of tumor response to disease progression, assessed up to 7 years
+Change in level of tumor infiltrating lymphocytes (TILs), Differences between groups will be statistically tested using t-test or Wilcoxon rank sum test for continuous variables (quantitative multiplexed TIL scores) and chi-square test or Fisher's exact test for categorical variables (positive/negative using hematoxylin \& eosin). Linear and non-linear restricted cubic spline regression coefficients will also be calculated to determine the association between TIL subtypes in the quadriplegia index of function (QIF) evaluation using continuous scores., Baseline up to 7 years|Changes of biomarkers expression using deoxyribonucleic acid (DNA) and ribonucleic acid (RNA)-sequencing, Will be analyzed using Lasso-based elastic net method. The elastic net method is a variable selection procedure by L1 and L2 penalized estimation that enforces variable selection and shrinkage simultaneously. The penalty parameter that controls the shrinkage of fixed terms and the variable selection will be determined by k-fold cross validation. The statistical analyses will be completed by either R 3.2.1 or statistical analysis system (SAS) 9.4 statistical program in this project., Baseline to up to 7 years|Changes in extent of mutational burden in BRCA1/2, Will be analyzed using Lasso-based elastic net method. The elastic net method is a variable selection procedure by L1 and L2 penalized estimation that enforces variable selection and shrinkage simultaneously. The penalty parameter that controls the shrinkage of fixed terms and the variable selection will be determined by k-fold cross validation. The statistical analyses will be completed by either R 3.2.1 or SAS 9.4 statistical program in this project., Baseline to up to 7 years|Change in PD-L1, Will be analyzed using Lasso-based elastic net method. The elastic net method is a variable selection procedure by L1 and L2 penalized estimation that enforces variable selection and shrinkage simultaneously. The penalty parameter that controls the shrinkage of fixed terms and the variable selection will be determined by k-fold cross validation. The statistical analyses will be completed by either R 3.2.1 or SAS 9.4 statistical program in this project., Baseline to up to 7 years|Change in PARPi, Will be analyzed using Lasso-based elastic net method. The elastic net method is a variable selection procedure by L1 and L2 penalized estimation that enforces variable selection and shrinkage simultaneously. The penalty parameter that controls the shrinkage of fixed terms and the variable selection will be determined by k-fold cross validation. The statistical analyses will be completed by either R 3.2.1 or SAS 9.4 statistical program in this project., Baseline to up to 7 years
+PRIMARY OBJECTIVE:
+
+I. To compare the progression free survival (PFS) between two study arms, i.e., olaparib monotherapy (arm 1) and olaparib + atezolizumab in combination (arm 2) based on normal Response Evaluation Criteria in Solid Tumors (RECIST) criteria in patients with locally advanced or metastatic non-HER2-positive breast cancer harboring homologous deoxyribonucleic acid (DNA) repair (HDR) through BRCA 1/2 mutation.
+
+SECONDARY OBJECTIVES:
+
+I. To compare the progression free survival (PFS) between the two study arms based on immune response criteria.
+
+II. To compare the time to treatment failure (TTF) between the two study arms based on immune response criteria and normal RECIST.
+
+III. To compare the overall response rate (ORR) between the two study arms based on immune response criteria and normal RECIST.
+
+IV. To compare the duration of response (DoR) between the two study arms based on immune response criteria and normal RECIST.
+
+V. Determine the changes in extent of mutational burden in BRCA 1/2 mutated tumors at baseline and at progression.
+
+VI. Evaluate and characterize changes in the extent of PD-L1 expression and tumor immune infiltrates.
+
+VII. Retrospectively evaluate tumors with limited immune infiltrate (e.g. "non-inflamed") to determine if PARPi increased immune infiltration.
+
+VIII. Determine the immune-related best overall response (irBOR) of olaparib in combination with atezolizumab in locally advanced or metastatic non-HER2+ breast cancer harboring HDR through BRCA 1/2 mutation.
+
+EXPLORATORY OBJECTIVES:
+
+I. Evaluate changes in candidate neoantigen profiles and immune/inflammation signatures using DNA and ribonucleic acid (RNA)-sequencing in serial tumor biopsies.
+
+II. Evaluate and characterize circulating tumor DNA (ctDNA) and immune parameters in blood.
+
+III. Test the hypothesis that DNA repair status affects the tumor-immune interaction.
+
+IV. Characterize mechanism of action of the PARP inhibitor olaparib. V. To explore the inclusion of patient reported symptomatic adverse events. VI. To use anti-Kynurenine antibodies for immunohistochemistry (IHC) as well as unbiased metabolome studies on plasma to understand the metabolic consequences of PARP-inhibition and their effects on immune infiltrates.
+
+VII. To explore pharmacodynamic transcriptional changes induced by treatment in different immune cell populations and with high resolution in single cell RNA sequencing of peripheral blood mononuclear cell (PBMC) preparations. This will also be used to study changes in specific T-cell clonotypes.
+
+VIII. To examine increased mitotic errors during response that are surveilled by the innate immune system.
+
+IX. To test whether mutations or expression changes in genes tied to DNA repair regulation arise during acquired resistance and can be discerned by comparative genomics of pre- and at- progression biopsies.
+
+X. To examine whether biomarker development tied to mitotic errors will be of future utility in predicting PARPi response.
+
+XI. To test DNA methylation relationship to resistance mechanism and RNA sequencing (seq).
+
+OUTLINE: Patients are randomized to 1 of 2 arms.
+
+ARM I: Patients receive olaparib orally (PO) twice daily (BID) on days 1-21 of each cycle. Cycles repeat every 21 days in the absence of disease progression or unacceptable toxicity. Patients with disease progression may cross-over to Arm II. Patients undergo an x-ray, computed tomography (CT) scan, magnetic resonance imaging (MRI), bone scan, and/or positron emission tomography (PET) scan as well as a biopsy and blood sample collection throughout the trial. Patients may also undergo a bone marrow aspiration and biopsy on study.
+
+ARM II: Patients receive olaparib as in Arm I and atezolizumab intravenously (IV) over 30-60 minutes on day 1 of each cycle. Cycles repeat every 21 days in the absence of disease progression or unacceptable toxicity. Patients undergo an x-ray, CT scan, MRI, bone scan, and/or PET scan as well as a biopsy and blood sample collection throughout the trial. Patients may also undergo a bone marrow aspiration and biopsy on study.
+
+After completion of study treatment, patients are followed up at 30 days. Patients who come off treatment for reasons other than disease progression are followed every 4-8 weeks.

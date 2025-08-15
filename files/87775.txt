@@ -1,0 +1,24 @@
+Lymphocyte Support to SBRT in Patients With Oligo-metastatic Solid Cancer
+The goal of this clinical trial is to assess safety of pan-metastases directed SBRT combined with ATRA and the lympho-protective efficacy of ATRA upon radiation-induced lymphopenia.
+
+This is a French bicentric, open label, phase I/II clinical study that will comprise two parts. Part I will evaluate the safety of the combination based on a single-arm safety run design, while Part II will be randomized (ratio 1:1) and will study SBRT with or without ATRA.
+
+Patients enrolled will be treated with:
+
+* SBRT to all lesions more than 1.5cm, on week days (from Monday to Friday), over a maximum of 2 weeks,
+* With or without (for part II patients randomized in the control arm) ATRA therapy: ATRA 150 mg/m\^2/day for 3 days every 3 weeks for a maximum of 4 cycles (about 3 months), starting on the first day of radiation therapy.
+
+The expected rate of patients who will have lymphopenia of grade 2 or higher in the control arm at 6 weeks post-radiotherapy is 50%.
+
+At a one-sided level of statistical significance of 0.07, the randomization of 52 patients (26 patients in each arm) will provide 85% power to detect a decrease in this rate to 15% in the SBRT+ATRA arm, using Fisher's exact test.
+Oligometastatic Disease|Solid Tumor, Adult
+DRUG: all-trans retinoic acid|RADIATION: Stereotactic Body Radiation Therapy
+Dose-limiting toxicities (DLT), Dose-limiting toxicity (DLT) is defined as an adverse event reported during the first three weeks of treatment that is possibly related to study intervention and fulfills any one of the DLT criteria using CTCAE Version 5.0, from the first intake to 3 weeks after the treatment initiation|Lympho-protective efficacy, Rate of patients with lymphopenia grade 2 or higher at 6 weeks after treatment completion (as absolute lymphocyte count less than 800/mm3 (CTCAE V5.0)), At 6 weeks after SBRT completion
+Control rates, Control rates on the treated lesions, from 6 weeks to 1 year after SBRT|Objective response rate, Objective response rate, from 6 weeks to 1 year after SBRT|Duration of response, Duration of response, from 6 weeks to 1 year after SBRT|Progression-free survival, Progression-free survival, from 6 weeks to 1 year after SBRT
+Ablative radiotherapy - also called stereotactic body radiation therapy (SBRT) - can achieve durable control of tumor lesions and appears as a highly promising strategy to extend overall survival of patients with oligo-metastatic diseases. Radiotherapy has recognized immunomodulatory effects: it triggers immunogenic cell death and reprogramming of the tumor immune microenvironment, which eventually results in a systemic antitumor response following focal radiation treatment. This is called the abscopal effect (distant out-of-the-field lesions that shrink after focal irradiation). Unfortunately, evidences show that this is directly counteracted by the toxic effects of radiotherapy on cytotoxic lymphocytes, which are highly radiosensitive.
+
+Recent data support the fact that radiation-induced lymphopenia is mostly driven by the deregulation of the myeloid-lymphoid imbalance following radiation therapy, with aberrant myelopoiesis and high levels of tumor infiltration by myeloid-derived suppressive cells (MDSC). In preclinical models, pharmacological blockade of MDSC combined with radiation therapy successfully abrogated radiation-induced lymphopenia and significantly improved survival outcomes.
+
+All trans retinoic acid (ATRA, also known as tretinoin) is a vitamin A derivative that has a market authorization for the treatment of acute promyelocytic leukemia as it efficiently induces differentiation of abnormal promyelocytes. Similarly, several clinical studies report that ATRA can differentiate MDSCs into mature myeloid cells, with a positive effect on the count of activated cluster of differentiation 8 (CD8+) lymphocytes.
+
+This clinical trial will provide the clinical proof-of-concept that adding ATRA to pan-metastases SBRT is safe in humans, prevents severe and prolonged lymphopenia and therefore, may foster a radiation-induced systemic anticancer immune response sufficient to increase survival in patients with cancer at the oligo-metastatic stage.

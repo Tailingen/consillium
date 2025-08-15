@@ -1,0 +1,37 @@
+F-18 16 Alpha-Fluoroestradiol-Labeled Positron Emission Tomography in Predicting Response to First-Line Hormone Therapy in Patients With Stage IV Breast Cancer
+This phase II trial is studying how well F-18 16 alpha-fluoroestradiol (FES) imaging works in predicting response to first-line hormone therapy in women with hormone receptor-positive metastatic breast cancer. Diagnostic procedures, such as FES imaging, may help predict how well patients will respond to hormone therapy and may help plan the best treatment.
+Estrogen Receptor-positive Breast Cancer|Progesterone Receptor-negative Breast Cancer|Progesterone Receptor-positive Breast Cancer|Recurrent Breast Cancer|Stage IV Breast Cancer
+RADIATION: F-18 16 alpha-fluoroestradiol|RADIATION: fludeoxyglucose F 18|PROCEDURE: positron emission tomography|PROCEDURE: positron emission tomography|PROCEDURE: computed tomography|OTHER: laboratory biomarker analysis
+Best Overall Response, Patients were expected to start endocrine therapy within 2 weeks of the FES PET scan. Response assessment was evaluated at 3 and 6 months. For patients with at least one site of measurable disease \[per response evaluation criteria in solid tumors (RECIST, version 1.1)\], size-based response criteria were used to assess response.
+
+For patients without disease evaluable by RECIST 1.1, largely patients with bone-dominant metastatic breast cancer, serial FDG PET scanning was used to determine response. A decline in the FDG PET SUV (standard uptake value) of 30% or more was considered as response and an increase of 20% or more was considered to be progressive disease (PD).
+
+The initial (baseline) FES uptake was compared to clinical benefit (PD versus other outcome at 6 months)., Up to 6 months
+Number of Participants With Clinical Benefit, FES SUV prior to endocrine treatment (dichotomized and as a continuous predictor) will also be tested as predictor of clinical benefit.
+
+Patients were expected to start endocrine therapy within 2 weeks of the FES PET scan. Response assessment was evaluated at 3 and 6 months.
+
+The initial (baseline) FES uptake was compared to clinical benefit (PD versus other outcome at 6 months)., Up to 6 months|Time to Progression, FES SUV prior to endocrine treatment (dichotomized and as a continuous predictor) will also be tested as predictor of time to progression. Analysis will be conducted using (respectively) logistic regression and Cox proportional hazards regression. This will include univariate analysis of FES and other predictive measures (ER/PgR expression, serum sex steroid levels), followed by an exploratory multivariate analysis combining FES SUV with other measures showing predictive capability univariate analysis., Up to 6 months|Correlation of FES Uptake With ER Assays, Graphical and numerical studies of bivariate relationships will be examined, as well as factors (i.e., tumor size, tumor location, patient age) to explain concurrence, lack of concurrence, and sources of measurement error for measurements of ER function., Up to 6 months
+PRIMARY OBJECTIVES:
+
+I. Estimate the ability of \[\^18F\] FES positron emission tomography (PET) or PET/computed tomography (CT) uptake at the level of standard uptake value (SUV) \< 1.5 to predict overall response (OR) to first line endocrine therapy for metastatic breast cancer.
+
+SECONDARY OBJECTIVES:
+
+I. Evaluate the independent role of \[\^18F\] FES in predicting response and time to progression in patients treated with first-line endocrine therapy for metastatic breast cancer.
+
+II. Examine the role of \[\^18F\] FES in predicting OR or clinical benefit (CB), in concert with tissue assay of levels of estrogen receptor (ER) messenger ribonucleic acid (mRNA) measured using quantitative polymerase chain reaction (PCR), and semi-quantitative interpretation of estrogen receptor (ER), progesterone receptor (PgR), androgen receptor (AR), and human epidermal growth factor-2 (HER2), in addition to serial measures of hormone levels in plasma.
+
+III. Evaluate the relationships among \[\^18F\] FES, semi-quantitative ER from immunohistochemistry (IHC), and ER mRNA as measured by quantitative PCR.
+
+IV. Document the safety profile of \[\^18F\] FES PET in newly diagnosed patients with metastatic breast cancer.
+
+V. Evaluate FES SUV \< 1.5 as the optimal cutpoint for predicting OR to first-line endocrine therapy for metastatic breast cancer.
+
+VI. Estimate the rate of \[\^18F\] FES SUV \< 1.5 in newly diagnosed metastatic breast cancer patients planning a course of endocrine therapy.
+
+OUTLINE:
+
+Patients undergo \[\^18F\] FES PET scan. Patients also undergo standard clinical fludeoxyglucose F 18 (FDG)-PET or FDG-PET/CT scan up to 14 days prior to \[\^18F\] FES PET scan.
+
+After completion of study treatment, patients are followed up for at least 6 months.

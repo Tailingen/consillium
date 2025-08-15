@@ -1,0 +1,11 @@
+Trial for Locally Advanced Breast Cancer Using Vorinostat Plus Chemotherapy
+Vorinostat is a histone deacetylase (HDAC) inhibitor which is approved by the U.S. Food and Drug Administration for the treatment of a rare type of cancer involving the skin (cutaneous T cell lymphoma), but not for breast cancer. HDAC inhibitors work by unsilencing tumor suppressor genes and other genes in the cancer cells that are repressed; when the genes are turned back on by the drug, it leads to death of the cancer cells. HDAC inhibitors such as vorinostat have been shown to enhance the effects of chemotherapy and trastuzumab in experimental systems. The purpose of this trial is to determine the optimal dose of vorinostat to use in combination with standard chemotherapy alone (or in combination with plus trastuzumab for HER2-positive disease), and to determine whether vorinostat enhances the effectiveness of standard chemotherapy (+/- trastuzumab) in patients with locally advanced breast cancer.
+Breast Cancer
+DRUG: Vorinostat|DRUG: Paclitaxel|DRUG: Trastuzumab|DRUG: Doxorubicin|DRUG: Cyclophosphamide|PROCEDURE: Surgery
+Recommended Phase II Dose of Vorinostat in Combination With Weekly Paclitaxel/Trastuzumab, Dose limiting toxicity in cycle 1, 3 weeks
+Pathological Complete Response (CR) Rate in Patients With Her2/Neu Positive Locally Advanced Breast Cancer., Pathological Complete Response (CR) defined as absence of invasive cancer at surgery, 6 months
+This is a phase I-II trial in which patients with stage IIB-IIIC breast cancer will receive:
+
+1. Neoadjuvant weekly paclitaxel (80 mg/m2 IV weekly x 12 weeks) plus vorinostat (200 or 300 mg PO BID on days 1-3 each paclitaxel dose) and trastuzumab (4 mg/kg loading dose, 2 mg/kg IV weekly x 12 total doses if HER2 positive, followed by:
+2. Doxorubicin (60 mg/m2) plus cyclophosphamide (600 mg/m2) every 2 weeks x 4 cycles (plus G-CSF), followed by:
+3. Surgery (lumpectomy or mastectomy)

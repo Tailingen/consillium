@@ -1,0 +1,42 @@
+A Study of Venetoclax in Combination With Conventional Chemotherapy in Pediatric Patients With Acute Myeloid Leukemia
+This is a phase 2 study to test the hypothesis that venetoclax in combination with standard chemotherapy will be tolerable and active in pediatric patients with newly diagnosed acute myeloid leukemia (AML).
+
+Primary Objectives:
+
+* Establish the tolerability adding venetoclax to standard chemotherapy in pediatric patients with AML
+* Estimate the proportion of patients who become minimal residual disease (MRD) negative by flow cytometry after one course of venetoclax-based induction therapy
+
+Secondary Objectives:
+
+- Estimate the rates of complete remission (CR), event-free survival (EFS), and overall survival (OS) in pediatric patients who receive venetoclax-based chemotherapy
+Acute Myeloid Leukemia
+DRUG: Venetoclax|DRUG: Azacitidine|DRUG: Cytarabine|DRUG: Gemtuzumab Ozogamicin|DRUG: Daunorubicin Hydrochloride|DRUG: Fludarabine Phosphate|DRUG: Idarubicin Hydrochloride|DRUG: Mitoxantrone Hydrochloride|DRUG: Etoposide|DRUG: Gilteritinib
+Minimal residual disease (MRD)-negativity rate, Will compute a binomial confidence interval for the proportion of MRD-evaluable patients who become MRD-negative (defined as MRD \< 0.1%) after induction 1., At day 29 after induction 1|Incidence of death or unacceptable adverse event, A patient is deemed to have tolerated a course of therapy if they complete that course without death or an unacceptable adverse event. Will monitor the tolerability or each course using multi-stage binomial stopping rules. Will use the method of Jung and Kim to compute 95% confidence intervals that adjust for the multi-stage monitoring., From initiation to completion of each course of therapy, an average of 6 weeks
+Event-free survival, The Kaplan-Meier method will be used and 95% confidence intervals will be computed for event-free survival at 3 years., From study enrollment to disease resistance, relapse, development of a second malignancy, or death due to any cause (up to 3 years after the last enrollment).|Overall survival, The Kaplan-Meier method will be used and 95% confidence intervals will be computed for overall survival at 3 years., From protocol enrollment until death (up to 3 years after the last enrollment).
+Treatment will be based on genetic characteristics and response to therapy. Venetoclax will be given with each course of therapy. Low-risk patients will receive four courses of chemotherapy and intermediate-risk patients will receive five courses. High-risk patients who do not have a suitable stem cell donor or who decline HCT will receive five courses of chemotherapy. The definition of suitable stem cell donor and the conditioning regimens used for HCT will be determined by local institutional protocols or guidelines.
+
+Intervention:
+
+Low Risk
+
+Induction 1: Venetoclax orally (PO) once daily (QD) on days -2 to 11, cytarabine intravenously (IV) over 30 minutes every 12 hours on days 1-8, daunorubicin hydrochloride IV over 1 hour QD on days 1, 3, and 5, etoposide IV over one hour QD on days 1-5, and gemtuzumab ozogamicin IV over 2 hours on day 6.
+
+Induction 2: Venetoclax PO QD on days 1-14, cytarabine IV over 30 minutes every 12 hours on days 1-8, daunorubicin hydrochloride IV over 1 hour QD on days 1, 3, and 5, and etoposide IV over 1 hour QD on days 1-5.
+
+Intensification: Venetoclax PO QD on days 1-7, cytarabine IV over 1-2 hours every 12 hours on days 1-4, and mitoxantrone hydrochloride IV over 1 hour QD on days 2-4 during intensification 1 and then venetoclax PO QD on days 1-7 and high-dose cytarabine IV over 3 hours every 12 hours on days 1, 3, and 5 during intensification 2. Patients with FLT3 activation receive gilteritinib PO QD on days 8-28 during intensification 1 and 2.
+
+Intermediate Risk
+
+Induction 1: Venetoclax orally (PO) once daily (QD) on days -2 to 11, cytarabine intravenously (IV) over 30 minutes every 12 hours on days 1-8, daunorubicin hydrochloride IV over 1 hour QD on days 1, 3, and 5, etoposide IV over one hour QD on days 1-5, and gemtuzumab ozogamicin IV over 2 hours on day 6.
+
+Induction 2: Venetoclax PO QD on days 1-14, fludarabine phosphate IV over 30 minutes QD on days 1-5, cytarabine IV over 3 hours QD starting 4 hours after each dose of fludarabine on days 1-5, idarubicin hydrochloride IV over 15 minutes QD on days 3-5. Patients with FLT3 activation receive gilteritinib PO QD on days 8-28.
+
+Intensification: Venetoclax PO QD on days 1-7, cytarabine IV over 1-2 hours every 12 hours on days 1-4, and mitoxantrone hydrochloride IV over 1 hour QD on days 2-4 during intensification 1, venetoclax PO QD on days 1-7 and high-dose cytarabine IV over 3 hours every 12 hours on days 1, 3, and 5 during intensification 2, and then venetoclax PO QD on days 1-7, cytarabine IV over 1-2 hours every 12 hours on days 1-5, and etoposide IV over 1 hour QD on days 1-5 during intensification 3. Patients with FLT3 activation receive gilteritinib PO QD on days 8-28 during intensification 1-3.
+
+High Risk
+
+Induction 1: Venetoclax orally (PO) once daily (QD) on days -2 to 11, cytarabine intravenously (IV) over 30 minutes every 12 hours on days 1-8, daunorubicin hydrochloride IV over 1 hour QD on days 1, 3, and 5, etoposide IV over one hour QD on days 1-5, and gemtuzumab ozogamicin IV over 2 hours on day 6.
+
+Induction 2: Venetoclax PO QD on days 1-14, fludarabine phosphate IV over 30 minutes QD on days 1-5, cytarabine IV over 3 hours QD starting 4 hours after each dose of fludarabine on days 1-5, idarubicin hydrochloride IV over 15 minutes QD on days 3-5. Patients with FLT3 activation receive gilteritinib PO QD on days 8-28.
+
+Intensification: Patients with MRD \< 0.1% proceed directly to HCT if donor is available. If a donor is not yet available, patients with MRD \< 0.1% may receive ventoclax PO QD on days 1-21 and azacitidine IV over 30 minutes QD on days 1-5 or venetoclax PO QD on days 1-7, cytarabine IV over 1-2 hours every 12 hours on days 1-5, and etoposide IV over 1 hour QD on days 1-5. Patients with MRD 0.1% to \< 1% may receive ventoclax PO QD on days 1-21 and azacitidine IV over 30 minutes QD on days 1-5 or venetoclax PO QD on days 1-7, cytarabine IV over 1-2 hours every 12 hours on days 1-5, and etoposide IV over 1 hour QD on days 1-5. Patients with MRD \>= 1% may receive venetoclax PO QD on days 1-10, azacitidine IV over 30 minutes QD on days 1-5, and high-dose cytarabine IV over 3 hours every 12 hours on days 6, 8, and 10. Patients with FLT3 activation receive gilteritinib PO QD on days 8-28.

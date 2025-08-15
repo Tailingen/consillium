@@ -1,0 +1,25 @@
+MTI-301 for the Treatment of Metastatic or Unresectable and Refractory Solid Cancers
+This phase I trial tests the safety, side effects, and best dose of MTI-301 in treating patients with solid cancers that have spread from where they first started (primary site) to other places in the body (metastatic) or that cannot be removed by surgery (unresectable) and that have not responded to previous treatment (refractory). MTI-301 is a drug that inhibits an enzyme called SCD1. SCD1 is an enzyme that promotes tumor growth and spread and is upregulated in some cancer types. MTI-301 may disrupt the activity of SCD1, which may lead to reduced tumor growth and/or spread.
+Metastatic Malignant Solid Neoplasm|Refractory Malignant Solid Neoplasm|Unresectable Malignant Solid Neoplasm
+PROCEDURE: Biospecimen Collection|PROCEDURE: Computed Tomography|PROCEDURE: Magnetic Resonance Imaging|PROCEDURE: Positron Emission Tomography|OTHER: Questionnaire Administration|BIOLOGICAL: SCD1 Inhibitor MTI-301
+Maximum tolerated dose, Will be defined as the dose level below the lowest dose that induces dose-limiting toxicity (DLT) in at least one-third of patients (at least 2 of a maximum of 6 new patients). DLT will be defined as an adverse event attributed as definitely, probably, or possibly related to MTI-301., Up to 28 days (1 cycle)|Incidence of adverse events, Will be graded using the Common Terminology Criteria for Adverse Events (CTCAE) version 5.0. The number and severity of all adverse events (overall, by dose-level, and by tumor group) will be tabulated and summarized. Grade 3+ adverse events will be described and summarized in a similar fashion. This will provide an indication of the level of tolerance for this treatment combination., Up to 30 days after last dose of study treatment
+Objective response rate, Will be defined as the proportion of patients who achieve complete response (CR) or partial response (PR) per Response Evaluation Criteria in Solid Tumors (RECIST) version 1.1 during protocol treatment (up to maximum of 6 cycles of treatment) among treated patients., Up to 6 cycles (1 cycle = 28 days)|Duration of response, Will be defined as the time from the date of first documented CR or PR to the date of first documented disease progression or death due to all causes, whichever occurs first., Up to 1 year|Progression free survival, Will be defined as the time from the date of registration to the date of first documented disease progression or death due to all causes, whichever occurs first., Up to 1 year
+PRIMARY OBJECTIVE:
+
+I. To assess and determine the maximum tolerated dose (MTD) for SCD1 inhibitor MTI-301 (MTI-301).
+
+SECONDARY OBJECTIVES:
+
+I. To determine the toxicity profile with MTI-301. II. To determine objective response rate (ORR), progression free survival (PFS) and duration of response (DOR).
+
+CORRELATIVE RESEARCH:
+
+I. To characterize the pharmacokinetic (PK) profile of MTI-301. II. To assess the levels of SCD1 substrates steric acid, palmitic acid and products oleic acid, palmitoleic acid at baseline, at progression, and at the end of study.
+
+III. To assess immune regulator factors from blood at baseline, at progression, and at the end of study.
+
+OUTLINE: This is a dose-escalation study of MTI-301.
+
+Patients receive MTI-301 orally (PO) once daily (QD) on days 1-28 of each cycle. Cycles repeat every 28 days for up to 6 cycles in the absence of disease progression or unacceptable toxicity. Patients also undergo computed tomography (CT), positron emission tomography (PET)/CT, or magnetic resonance imaging (MRI) and collection of blood samples throughout the study, and undergo tissue sample collection at baseline and at disease progression.
+
+After completion of study treatment, patients are followed up every 3 months for up to 1 year.

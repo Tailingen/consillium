@@ -1,0 +1,34 @@
+Pembrolizumab in Treating Patients With Desmoplastic Melanoma That Can or Cannot Be Removed by Surgery
+This pilot phase II trial studies how well pembrolizumab works in treating patients with desmoplastic melanoma (DM) that can be removed by surgery (resectable) or cannot be removed by surgery (unresectable). Immunotherapy with monoclonal antibodies, such as pembrolizumab, may help the body's immune system attack the cancer, and may interfere with the ability of tumor cells to grow and spread.
+Desmoplastic Melanoma
+PROCEDURE: Biopsy Procedure|PROCEDURE: Biospecimen Collection|PROCEDURE: Computed Tomography|PROCEDURE: Magnetic Resonance Elastography|BIOLOGICAL: Pembrolizumab|PROCEDURE: Positron Emission Tomography|PROCEDURE: Therapeutic Conventional Surgery
+Pathologic Complete Response (pCR) Rate (Cohort A), Pathologic complete response is defined as no evidence of viable tumor cells on complete pathological evaluation of the surgical specimen per institutional standard of care., Up to 5 years|Complete Response (CR) Rate (Cohort B), Complete response (per RECIST 1.1) defined as: disappearance of all target and non-target lesions no new lesions, no disease related symptoms, and any lymph nodes must have reduction in short axis to \< 1.0 cm., Up to 5 years
+9 Week Response Rate (Cohort A), Unconfirmed complete (CR) and partial responses (PR) at end of neoadjuvant treatment assessment among patients with measurable disease. CR and PR per response evaluation criteria in solid tumors (RECIST v1.1): CR is complete disappearance of all target and non-target lesions, no new lesions, no disease related symptoms, and lymph nodes must have reduction in short axis to \<1.0cm. PR is greater than or equal to 30% decrease under baseline of the sum of appropriate diameters of all target measurable lesions, no unequivocal progression of non-measurable disease, and no new lesions. Overall response = CR + PR., Up to 3 months|Overall Survival (Cohort A and B), From date of registration to date of death due to any cause. Patients last known to be alive are censored at date of last contact., Up to 5 years|Progression Free Survival (Cohort B), From date of registration to date of first documentation of progression or symptomatic deterioration, or death due to any cause. Patients last known to be alive without report of progression are censored at date of last contact. Progression is defined using Response Evaluation Criteria in Solid Tumors (RECIST v1.1), as 20% increase in the sum of appropriate diameters of target measurable lesions over smallest sum observed (over baseline if no decrease during therapy) using the same techniques as baseline, as well as an absolute increase of at least 0.5 cm, unequivocal progression of non-measurable disease in the opinion of the treating physician (an explanation must be provided), appearance of any new lesion/site, or death due to disease without prior documentation of progression and without symptomatic deterioration, Up to 5 years|Number of Participants With Gr 3 Through 5 Adverse Events That Are Related to Study Drugs, Only adverse events that are possibly, probably or definitely related to study drug are reported. CTCAE Version 4.0 was used for all AE reporting., Duration of treatment and follow-up until death or 5 years post registration.
+Baseline Mutational Load (Cohort A and B), Will assess the association between per megabase mutation rate and pCR or CR status., Up to 5 years|Change in T-cell Infiltration (Cohort A and B), Will compare change in CD8 expression following treatment between responders and non-responders., Up to 5 years|ctDNA Fraction, Will assess the association between response and ctDNA fraction., Up to 5 years|Clonality of Tumor Infiltrating T Cells (Cohort A and B), Will compare change from baseline in TCR clonality metric between responders and non-responders., Up to 5 years|Adaptive Immune Resistant Mechanism (Cohort A and B), Will compare change in PD-L1 expression between responders and non-responders., Up to 5 years
+PRIMARY OBJECTIVES:
+
+I. To evaluate the pathologic complete response rate (pCR) in patients with resectable desmoplastic melanoma treated with neoadjuvant pembrolizumab (MK-3475). (Cohort A) II. To evaluate the complete response rate (confirmed and unconfirmed) in patients with unresectable desmoplastic melanoma treated with pembrolizumab (MK-3475). (Cohort B)
+
+SECONDARY OBJECTIVES:
+
+I. To estimate the 9 week response rate (RR) (unconfirmed complete and partial responses) among patients with measurable disease. (Cohort A) II. To estimate the median overall survival (OS). (Cohort A) III. To evaluate safety and tolerability of pembrolizumab (MK-3475) in the neoadjuvant setting. (Cohort A) IV. To estimate the median progression-free survival (PFS). (Cohort B) V. To estimate the median overall survival (OS). (Cohort B) VI. To evaluate safety and tolerability of pembrolizumab (MK-3475) in this setting. (Cohort B)
+
+OTHER OBJECTIVES:
+
+I. To evaluate the hypothesis that higher mutational load in the patient derived baseline tumor biopsy samples is associated with higher pathologic complete response (pCR).
+
+II. To evaluate T cell infiltration into the tumors and circulating tumor deoxyribonucleic acid (DNA) profile from blood samples in DM patients and correlate with response to programmed cell death protein 1 (PD-1) blockade.
+
+III. To evaluate the clonality of tumor infiltrating T cells in DM patients and correlate with response to PD-1 blockade.
+
+IV. To evaluate adaptive immune resistant mechanism in DM tumors.
+
+OUTLINE: Patients are enrolled to 1 of 2 cohorts.
+
+COHORT A: Patients receive pembrolizumab intravenously (IV) over 30 minutes on day 1. Treatment repeats every 21 days for up to 3 cycles. Patients with potentially resectable disease undergo surgery. Patients with tumor progression and unresectable disease may receive one additional cycle of pembrolizumab.
+
+COHORT B: Patients with unresectable disease receive pembrolizumab IV over 30 minutes on day 1. Treatment repeats every 21 days for up to 34 cycles in the absence of disease progression or toxicity.
+
+Patients undergo computed tomography (CT) scan and may undergo position emission tomography (PET) and magnetic resonance imaging (MRI) throughout the study. Patients also undergo blood sample collection at screening and tumor biopsy throughout the study.
+
+After completion of study treatment, patients are followed up at 6 weeks after the last dose, then every 12 weeks to the end of the first year, then every 6 months to the end of the fifth year after registration. After progression, patients are followed every 6 months for up to 2 years from the date of registration, then annually thereafter until 5 years from registration.

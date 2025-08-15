@@ -1,0 +1,96 @@
+T Cells Expressing a Novel Fully-Human Anti-BCMA CAR for Treating Multiple Myeloma
+Background:
+
+Multiple myeloma is a cancer of the blood plasma cells. It usually becomes resistant to standard treatments. Researchers have developed a procedure called gene therapy. It uses a person's own T cells, which are part of the immune system. The cells are changed in a lab and then returned to the person. Researchers hope the changed T cells will be better at recognizing and killing tumor cells.
+
+Objective:
+
+To test the safety of giving changed T cells to people with multiple myeloma.
+
+Eligibility:
+
+Adults ages 18-73 who have been diagnosed with multiple myeloma that has not been controlled with standard therapies.
+
+Design:
+
+Participants will be screened with:
+
+Medical history
+
+Physical exam
+
+Blood tests
+
+Heart function tests
+
+Bone marrow sample taken by needle in a hip bone.
+
+Scan of the chest, abdomen, and pelvis. They may have a brain scan.
+
+Pregnancy test
+
+Participants will have apheresis. Blood will be removed through an arm vein. The blood will be separated, and T cells removed. The rest of the blood will be returned through a vein in the other arm.
+
+Participants will have a central line placed in a large vein in the arm or chest.
+
+Participants will get 2 chemotherapy drugs by the central line over 3 days.
+
+Two days later, participants will get the changed T cells by the central line. They will stay in the hospital at least 9 days.
+
+Participants must stay near the hospital for 2 weeks.
+
+Participants will have 8 follow-up visits over the next year for blood and urine tests. They may have scans.
+
+Participants blood will be collected regularly over the next several years.
+Myeloma-Multiple|Myeloma, Plasma-Cell
+DRUG: Cyclophosphamide|DRUG: Fludarabine|BIOLOGICAL: Anti-B Cell Maturation Antigen (BCMA) chimeric antigen receptors (CARs) T cells
+Maximum Tolerated Dose (MTD) of Anti-B Cell Maturation Antigen (BCMA) - Chimeric Antigen Receptor (CAR)-T Cells, The MTD is the dose at which a maximum of 1 of 6 patients has a DLT. A DLT is Grade 3 toxicities possibly or probably or definitely related to the Anti-B cell maturation antigen (BCMA) - chimeric antigen receptor (CAR)-expressing T-Cells lasting more than 9 days. Grade 4 toxicities possibly or probably or definitely related to the anti-BCMA CAR T cells. Grade 3 is severe, and Grade 4 is life-threatening., First 28 days of treatment|Number of Participants at Each Dose Level Who Experience a Dose-Limiting Toxicity (DLT), A DLT is Grade 3 toxicities possibly or probably or definitely related to the anti-B cell maturation antigen (BCMA) - chimeric antigen receptor (CAR)-T cells and lasting more than 9 days. Grade 4 toxicities possibly or probably or definitely related to the anti-BCMA CAR T cells. Grade 3 is severe, and Grade 4 is life-threatening., First 28 days of treatment
+Number of Participants With Serious and/or Non-serious Adverse Events Assessed by the Common Terminology Criteria for Adverse Events (CTCAE v5.0)., Here is the number of participants with serious and/or non-serious adverse events assessed by the Common Terminology Criteria for Adverse Events (CTCAE v5.0). A non-serious adverse event is any untoward medical occurrence. A serious adverse event is an adverse event or suspected adverse reaction that results in death, a life-threatening adverse drug experience, hospitalization, disruption of the ability to conduct normal life functions, congenital anomaly/birth defect or important medical events that jeopardize the patient or subject and may require medical or surgical intervention to prevent one of the previous outcomes mentioned., Date treatment consent signed to date off study, approximately 16 months/17 days, 4 months/4 days, 4 months/18 days, 42 months/8 days, 20 months/19 days, 29 months/28 days, and 30 months/26 days for each Arm/Group respectively.
+Background:
+
+* Multiple myeloma (MM) is a malignancy of plasma cells.
+* MM is nearly always incurable.
+* T cells can be genetically modified to express chimeric antigen receptors (CARs) that specifically target malignancy-associated antigens.
+* Autologous T cells genetically modified to express CARs targeting the B-cell antigen B-lymphocyte antigen CD19 (CD19) have caused complete remissions in a small number of patients with leukemia or lymphoma. These results demonstrate that CAR-expressing T cells have anti-malignancy activity in humans.
+* B-cell maturation antigen (BCMA) is a protein expressed by normal plasma cells and the malignant plasma cells of multiple myeloma.
+* BCMA is not expressed by normal cells except for plasma cells and some mature B cells.
+* We have constructed a novel anti-BCMA CAR that can specifically recognize BCMA- expressing target cells in vitro and eradicate BCMA-expressing tumors in mice.
+* This CAR has an antigen-recognition domain made up of a single fully-human heavy chain variable region.
+* We hypothesize that anti-BCMA-CAR-expressing T cells will specifically eliminate BCMA- expressing MM cells in patients
+* Possible toxicities include cytokine-associated toxicities such as fever, hypotension, and neurological toxicities. Elimination of normal plasma cells and unknown toxicities are also possible.
+
+Objectives:
+
+Primary
+
+- Determine the safety and feasibility of administering T cells expressing an anti-BCMA CAR to patients with MM.
+
+Eligibility:
+
+* Greater than or equal to 18 years of age and less than or equal to age 73.
+* Patients must have measurable MM defined as a serum M-protein greater than or equal to 1.0 g/dL or a urine M- protein greater than or equal to 200 mg/24 hours or an involved serum free light chain (FLC) level greater than or equal to 10 mg/dL (provided FLC ratio is abnormal) or a biopsy-proven plasmacytoma of 2.0 cm or more in largest dimension, or greater than or equal to 30% bone marrow plasma cells
+* Patients must have previously received at least 3 different treatment regimens for MM.
+* Patients must have prior exposure to an immunomodulatory imide drugs (IMiD) such as lenalidomide, and a proteasome inhibitor
+* Patients must have a creatinine level of less than or equal to 1.5 mg/dL
+* Patients must have a cardiac ejection fraction greater than or equal to 50%.
+* An Eastern Cooperative Oncology Group (ECOG) performance status of 0-2 is required.
+* Patients on any anticoagulant medications except aspirin are not eligible.
+* No active infections are allowed.
+* Absolute neutrophil count greater than or equal to 1000/microliters, platelet count greater than or equal to 55,000/ microliters, hemoglobin greater than or equal to 8g/dL
+* Alanine aminotransferase (ALT) and aspartate aminotransferase (AST) less than or equal to 2.5-fold higher than the upper limit of normal.
+* At least 14 days must elapse between the time of any prior systemic treatment (including corticosteroids) and the required leukapheresis.
+* At least 14 days must elapse between the time of any prior systemic treatment (including corticosteroids) and initiation of protocol treatment.
+* The patients MM will need to be assessed for BCMA expression by flow cytometry or immunohistochemistry performed at the National Institutes of Health (NIH). The myeloma must express BCMA. If unstained, paraffin-embedded bone marrow or plasmacytoma sections are available from prior biopsies, these can be used to determine BCMA expression by immunohistochemistry; otherwise, patients will need to come to the NIH for a bone marrow biopsy or other biopsy of a plasmacytoma to determine BCMA expression. The sample for BCMA expression can come from a biopsy obtained at any time before enrollment.
+
+Design:
+
+* This is a phase I dose-escalation trial
+* Patients will undergo leukapheresis
+* T-cells obtained by leukapheresis will be genetically modified to express an anti-BCMA CAR
+* Patients will receive a lymphocyte-depleting chemotherapy conditioning regimen with the intent of enhancing the activity of the infused anti-BCMA-CAR-expressing T cells.
+* The chemotherapy conditioning regimen is cyclophosphamide 300 mg/m\^2 daily for 3 days and fludarabine 30 mg/m\^2 daily for 3 days. Fludarabine will be given on the same days as the cyclophosphamide.
+* After the chemotherapy ends, the patients will have two days with no treatments then receive an infusion of anti-BCMA- CAR-expressing T cells.
+* The initial dose level will be 0.75x10\^6 CAR+ T cells/kg of recipient bodyweight.
+* The cell dose administered will be escalated until a maximum tolerated dose is determined.
+* Following the T-cell infusion there will be a mandatory 9-day minimum inpatient hospitalization to monitor for toxicity.
+* Outpatient follow-up is planned for 2 weeks, and 1, 2, 3, 4, 6, 9, and 12 months after the CAR T-cell infusion. Afterwards, follow-up will be every six months up to at least 5 years.

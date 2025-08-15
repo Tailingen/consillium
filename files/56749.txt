@@ -1,0 +1,15 @@
+Heat Shock Protein (HSP) 70 to Quantify and Characterize Circulating Tumor Cells
+This study investigates the ability of heat shock protein HSP70 to isolate and quantify circulating tumor cells (CTCs) in patients with advanced or metastatic tumors.
+
+CTCs will be isolated from peripheral blood before antineoplastic treatment and again after three months. Isolation using HSP70 will be compared with standard CTC isolation by EpCAM.
+
+Additionally, imaging parameters of the primary tumor (if available) and metastases will be analysed and correlations between molecular alterations and imaging parameters will be assesed.
+Melanoma Stage IV|Sarcoma|Squamous Cell Carcinoma|Pancreatic Cancer Stage IV|Prostate Cancer|Breast Cancer Stage IV
+DIAGNOSTIC_TEST: CTC isolation by HSP70
+Radiographic response to initial treatment, radiographic response to treatment will be scored according to RECIST criteria and associated with the number of CTC, 3 months after study enrollment
+Correlation between number of CTC isolated with HSP70 compared to EpCAM, the number of CTCs obtained by the novel HSP70 method will be compared to the current gold standard that uses EpCAM. This will be performed for the whole cohort and separate for each tumor site, 3 months (at both CTC assessment timepoints)|Correlation between differential expressed radiommic parameters between primary tumor and metastases and genetic alterations of the primary tumor and CTCs, computed tomography parameters of primary tumors and metastases will be analysed and parameters extraced that are differentially expressed between both. The same will be performed for genomic mutations and gene expression of the primary tumor and CTC. Correlation analyses will be performed to analyze if radiographic parameters resemble genetic alterations, 3 months (at both CTC assessment timepoints)|Progression free survival, Progression free survival will be evaluated with the number of CTC as variable. This will be performed for the whole cohort and separate for each tumor site, 2 years|Overall survival, Overall survival will be evaluated with the number of CTC as variable. This will be performed for the whole cohort and separate for each tumor site, 2 years
+This study investigates the ability of heat shock protein HSP70 to isolate and quantify circulating tumor cells (CTCs) in patients with advanced or metastatic tumors.
+
+CTCs will be isolated from peripheral blood before antineoplastic treatment and again after three months. Isolation using HSP70 will be compared with standard CTC isolation by EpCAM.
+
+Additionally, imaging parameters of the primary tumor (if available) and metastases will be analysed and correlations between molecular alterations and imaging parameters will be assesed.

@@ -1,0 +1,33 @@
+Binimetinib and Palbociclib or TAS-102 in Treating Patients With KRAS and NRAS Mutant Metastatic or Unresectable Colorectal Cancer
+This phase II trial studies how well binimetinib and palbociclib work compared to TAS-102 in treating patients with KRAS and NRAS mutation positive colorectal cancer that has spread to other places in the body (metastatic) or cannot be removed by surgery (unresectable). Binimetinib and palbociclib may stop the growth of tumor cells by blocking some of the enzymes needed for cell growth. Drugs used in chemotherapy, such as TAS-102, work in different ways to stop the growth of tumor cells, either by killing the cells, by stopping them from dividing, or by stopping them from spreading. Giving binimetinib and palbociclib may work better compared to TAS-102 alone in treating patients with colorectal cancer.
+Metastatic Colorectal Carcinoma|Stage IV Colorectal Cancer AJCC v8|Stage IVA Colorectal Cancer AJCC v8|Stage IVB Colorectal Cancer AJCC v8|Stage IVC Colorectal Cancer AJCC v8|Unresectable Carcinoma
+DRUG: Binimetinib|DRUG: Palbociclib|DRUG: Trifluridine and Tipiracil Hydrochloride
+Progression Free Survival (PFS), Disease progression will be determined based on Response Evaluation Criteria in Solid Tumors (RECIST) 1.1 and will be documented at each enrolling site with no central review planned. PFS will be compared between treatment arms using the stratified log rank test at one-sided level 0.05. Kaplan-Meier methodology will be used to estimate the median PFS for each treatment arm, and Kaplan-Meier curves will be produced., Time from randomization date to either disease progression or death from any cause, whichever occurs first, assessed for up to 16 months
+Overall Response Rate, Assessment of response data will be performed on the basis of definitions of responses according to RECIST version (v)1.1. Objective response is defined as a complete or partial response by RECIST v1.1. This will be reported as the number of patients experiencing an objective response., Up to 16 months|Overall Survival (OS), Will use Kaplan-Meier methods to evaluate time to event endpoints, and will report median OS and its 95% confidence interval., Time from first dose of study treatment to death from any cause, assessed for up to 24 months|Number of Participants With Adverse Events, The number of patients experiencing a grade 3+ adverse event, regardless of attribution, will be reported., Up to 24 months
+PRIMARY OBJECTIVE:
+
+I. The primary objective is to compare the progression-free survival (PFS) between those randomized to palbociclib/binimetinib and those randomized to trifluridine and tipiracil hydrochloride (TAS-102) in patients with refractory KRAS- or NRAS-mutant metastatic colorectal cancer (CRC).
+
+SECONDARY OBJECTIVES:
+
+I. To compare the overall response rate by Response Evaluation Criteria in Solid Tumors (RECIST) 1.1 criteria between those randomized to palbociclib/binimetinib and those randomized to TAS-102 in patients with refractory KRAS- or NRAS-mutant metastatic CRC.
+
+II. To compare the overall survival (OS) between those randomized to palbociclib/binimetinib and those randomized to TAS-102 in patients with refractory KRAS- or NRAS-mutant metastatic CRC.
+
+III. To determine the safety and tolerability of the recommended phase II dose of palbociclib in combination with binimetinib in patients with refractory KRAS- or NRAS-mutant metastatic CRC.
+
+CORRELATIVE RESEARCH OBJECTIVES:
+
+I. To determine the tumor mutational profiles that characterize groups of patients that predict for response or resistance to combination of palbociclib/binimetinib.
+
+II. To determine the correlation between circulating tumor deoxyribonucleic acid (DNA) and tumor response or resistance to therapy with palbociclib/binimetinib or TAS-102.
+
+III. To determine the association between Consensus Molecular Subtype based on gene expression profiling and response or resistance to combination of palbociclib/binimetinib.
+
+OUTLINE: Patients are randomized to 1 of 2 arms.
+
+ARM A: Patients receive binimetinib orally (PO) twice daily (BID) on days 1-28 and palbociclib PO once daily (QD) on days 1-21. Treatment repeats every 28 days for up to 24 cycles in the absence of disease progression or unacceptable toxicity.
+
+ARM B: Patients receive trifluridine and tipiracil hydrochloride PO BID on days 1-5 and 8-12. Treatment repeats every 28 days for up to 24 cycles in the absence of disease progression or unacceptable toxicity. Patients with disease progression may optionally crossover to Arm A.
+
+After completion of study treatment, patients are followed up within 30-37 days and then every 12 weeks for up to 24 months.

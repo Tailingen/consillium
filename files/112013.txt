@@ -1,0 +1,52 @@
+Monitoring of Patients With Low-grade Gliomas Using Circulating miRNA
+With around 3,400 cases per year in France, diffuse gliomas are the most common primary tumours of the central nervous system. Their grade varies from 2 to 4. Whatever the grade, their prognosis is poor, because tumour recurrence is systematic, because no personalised medicine is available for the treatment of these cancers, and because the tools for monitoring recurrence are imperfect. Treatment of diffuse gliomas is based on removal of as much of the tumour as possible, whatever its grade. Surgery is followed by radiotherapy and chemotherapy depending on the grade and quality of the excision. In the event of recurrence, the patient may be offered second-line chemotherapy or further surgery. During and after treatment, patients are regularly monitored by MRI in order to detect any recurrence as early as possible and propose a new treatment. However, for grade 2 and 3 gliomas, MRI monitoring is imperfect because it cannot detect tumour recurrence at an early stage. Initiation of new treatment at the time of recurrence, which is inevitable, is therefore often delayed, which is harmful for patients.
+
+It is therefore vital to identify a reliable, easy-to-use and non-invasive biomarker that can be used to monitor patients undergoing surgery for grade 2 and 3 diffuse gliomas, and thus enable earlier diagnosis of recurrence. These biomarkers could be microRNAs.
+
+MicroRNAs are small non-coding RNAs involved in the regulation of genes and, consequently, of the intracellular signalling pathways that govern cell behaviour. They are therefore widely implicated in oncogenesis, and in particular in the mechanisms that promote tumour migration, invasion and proliferation.
+
+Several preliminary studies have shown that serum levels of pro-oncogenic microRNAs correlate with tumour rates in gliomas. No study has investigated the possibility of using them to detect tumour recurrence earlier in grade 2 and 3 gliomas.
+
+With this study, the investigators hope to use pro-oncogenic microRNAs to monitor glioma patients and diagnose early recurrence in grade 2 and 3 gliomas.
+Glioma|miRNA|Low-grade Glioma|Biomarkers
+DIAGNOSTIC_TEST: Blood sample
+Plasma levels of each microRNA at each time point, Plasma levels of each microRNA at each time point, Day 0, Day 4, then every 6 months for 5 years
+Tumor volume, Tumor volume (cm3), Day 0, Day 4, then every 6 months for 5 years|Overall Survival, OS, 60 months|Progression free survival, PFS, 60 months
+Diffuse gliomas are the most common primary tumours of the central nervous system, representing around 3,400 cases per year in France (Defossez et al., 2019). Their grade varies from 2 to 4. Whatever the grade, their prognosis is poor (Grade 2: median survival \> 10 years, Grade 3: median survival around 5 years, Grade 4: median survival \< 2 years) (Yang et al., 2016).
+
+Grade 2 and 3 diffuse gliomas are rarer than Grade 4 gliomas, and their treatment is based on removing the tumour as completely as possible while preserving the patient's neurological function. This surgical treatment is sometimes followed by chemotherapy and/or radiotherapy, depending on the grade of the tumour and the quality of the excision. Recurrence of grade 2 and 3 gliomas after surgery is systematic and generally occurs within 2 to 5 years of surgery (Pineda et al., 2023). Gliomas are infiltrating tumours in which tumour cells are found infiltrating the cerebral parenchyma up to 2 cm from the periphery of the tumour as seen on MRI, which explains their inevitable recurrence, since surgery cannot be wide (it is difficult to create "safety margins" in the brain) and will invariably leave tumour cells in situ (Pallud et al., 2013).
+
+In the event of recurrence, the patient may be offered second-line chemotherapy or further surgery.
+
+Patients are monitored for recurrence by regular brain MRI, but this is imperfect because it is difficult to detect tumour recurrence (which appears as a slow increase in the FLAIR hypersignal). If there is any doubt about a recurrence, MRI is repeated 2 to 3 months later to clearly identify the recurrence. This confirmation wastes time in the management of patients who are treated too late.
+
+To improve the diagnosis of recurrence in these patients, it is vital to identify a reliable, easy-to-use and non-invasive biomarker for monitoring patients undergoing surgery for diffuse glioma. MicroRNAs could be the tool sorely lacking in the monitoring of glioma patients.
+
+MicroRNAs are small non-coding RNAs involved in the post-transcriptional regulation of genes and, consequently, of the intracellular signalling pathways that govern cell behaviour (Komatsu et al., 2023). They are widely implicated in oncogenesis, and in particular in the mechanisms promoting cell migration, invasion and proliferation (Romano et al., 2021).
+
+Several preliminary studies have shown that the serum level of pro-oncogenic microRNAs correlates with the tumour rate in gliomas (Jones et al., 2021; Levallet et al., 2022; Morokoff et al., 2020). Morokoff's study showed encouraging but insufficient results on the possibility of using microRNAs to diagnose recurrence in grade 2 and 3 gliomas. These results need to be consolidated prospectively, using homogeneous samples from all patients.
+
+MAIN OBJECTIVE
+
+To describe the time course of plasma levels of pro-oncogenic microRNAs after surgery for grade 2 or 3 glioma, in order to assess whether they can detect recurrence earlier than MRI. The investigators hope to identify microRNA(s) with :
+
+* a stable profile in subjects without recurrence
+* a change in their level(s) in the event of recurrence.
+
+SECONDARY OBJECTIVES
+
+1. To assess the correlation between :
+
+   1. tumour and plasma levels at Day 0, for each microRNA
+   2. the tumour levels at D0 of the microRNAs in pairs
+   3. plasma levels at Day 0 and Day 4 of paired microRNAs.
+2. Assess the correlation between tumour volume at D0 and :
+
+   1. tumour rate at Day 0, for each microRNA
+   2. plasma levels at Day 0 and Day 4, for each microRNA
+3. Assess the relationship between plasma levels of each microRNA (at Day 0 and Day 4) and recurrence-free survival.
+4. To assess the relationship between tumour levels at Day 0 of each microRNA and recurrence-free survival.
+
+PIONEERING NATURE Most research projects aimed at improving the follow-up of gliomas are based on improving imaging parameters (perfusion sequences, PET-MRI). These examinations are often difficult to access, with appointment times delaying treatment. Diagnosis of recurrence depends on the radiologist. In addition, not all teams are trained in perfusion analysis, and nuclear medicine teams are rare in France.
+
+The investigator are proposing here an original approach (blood sampling), innovative (microRNA assay) and above all simple to be used routinely to improve the follow-up of these patients.

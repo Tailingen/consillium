@@ -1,0 +1,24 @@
+Dabrafenib in Treating Patients With Solid Tumors and Kidney or Liver Dysfunction
+This phase I trial studies the side effects and best dose of dabrafenib in treating patients with solid tumors and kidney or liver dysfunction. Dabrafenib may stop the growth of tumor cells by blocking some of the enzymes needed for cell growth.
+BRAF Gene Mutation|Hepatic Complication|Renal Failure|Solid Neoplasm
+DRUG: Dabrafenib|OTHER: Laboratory Biomarker Analysis|OTHER: Pharmacogenomic Study|OTHER: Pharmacological Study
+Incidence of toxicities graded according to NCI CTCAE v4.0, Overall toxicity incidence as well as toxicity profiles by dose level and patient will be explored and summarized. Frequency distributions, graphical techniques and other descriptive measures will form the basis of these analyses., Up to 30 days after completion of study treatment|MTD of dabrafenib, defined as the highest dose level that is estimated to induce a dose-limiting toxicity rate less than 33.3% by the two-way isotonic regression, graded according to NCI CTCAE v4.0, Overall toxicity incidence as well as toxicity profiles by dose level and patient will be explored and summarized. Frequency distributions, graphical techniques and other descriptive measures will form the basis of these analyses., Up to 28 days
+Incidence of adverse events graded according to NCI CTCAE v4.0, The number and severity of all adverse events (overall, by dose level, and by tumor group) will be tabulated and summarized for the three patient groups. The grade 3+ adverse events will also be described and summarized in a similar fashion., Up to 30 days after completion of study treatment|Best response, defined as the best objective status recorded from the start of treatment until disease progression/recurrence, measured by modified Response Evaluation Criteria in Solid Tumors (RECIST) criteria, Responses will be summarized by simple descriptive summary statistics delineating complete and partial responses as well as stable and progressive disease., Up to 30 days after completion of study treatment|Time until any treatment-related toxicity, The data on time-related variables will be summarized descriptively., Up to 30 days after completion of study treatment|Time until treatment related grade 3+ toxicity, The data on time-related variables will be summarized descriptively., Up to 30 days after completion of study treatment|Time until hematologic nadirs (white blood cells, ANC, platelets), The data on time-related variables will be summarized descriptively., Up to 30 days after completion of study treatment|Time to progression, The data on time-related variables will be summarized descriptively., Up to 30 days after completion of study treatment|Time to treatment failure, The data on time-related variables will be summarized descriptively., Time from registration to documentation of progression, unacceptable toxicity, or refusal to continue participation by the patient, assessed up to 30 days after completion of study treatment
+Pharmacokinetic profile of dabrafenib, Descriptive statistics and statistical plots will form the basis of presentation of biomarker, pharmacokinetic and pharmacogenetic studies. Clinical response and toxicity profile for patients will be correlated with the pharmacokinetic (PK) parameters and key polymorphisms in gene., Days 1 and 15 of course 1, and day 1 of all subsequent courses|Pharmacogenetic profile of dabrafenib, Descriptive statistics and statistical plots will form the basis of presentation of biomarker, pharmacokinetic and pharmacogenetic studies. Clinical response and toxicity profile for patients will be correlated with the PK parameters and key polymorphisms in gene., Day 1 prior to treatment
+PRIMARY OBJECTIVES:
+
+I. To determine the toxicity profile and the maximum tolerated doses (MTDs) of dabrafenib in patients with v-raf murine sarcoma viral oncogene homolog B1 (BRAF)\^V600X mutations and renal or hepatic dysfunction.
+
+SECONDARY OBJECTIVES:
+
+I. To assess for tumor response and various times to clinical event. II. To provide dosing recommendations for dabrafenib in patients with varying degrees of hepatic and renal dysfunction for possible inclusion in the label.
+
+TERTIARY OBJECTIVES:
+
+I. To assess the pharmacokinetic and pharmacogenetic profile of dabrafenib and active metabolites.
+
+OUTLINE: This is a dose-escalation study.
+
+Patients receive dabrafenib orally (PO) twice daily (BID) on days 1-28 (once daily \[QD\] on day 1 of course 1). Courses repeat every 28 days in the absence of disease progression or unacceptable toxicity.
+
+After completion of study treatment, patients are followed up at 30 days.

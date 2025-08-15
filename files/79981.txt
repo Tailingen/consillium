@@ -1,0 +1,24 @@
+Accelerated Hypofractionated 1 Week Radiotherapy in Breast Cancer Patients
+Accelerated hypofractionated 1 week post-mastectomy chest wall irradiation in breast cancer patients will presumably produce comparable toxicity and disease control in comparison to 3 weeks schedule.
+
+The aim is to evaluate toxicity and disease control after implementation of accelerated hypofractionated 1 week chest wall irradiation in breast cancer patients.
+Breast Cancer Radiotherapy
+RADIATION: adjuvant radiotherapy
+detection of breast shrinkage, breast size measured before and after radiotharapy, three months after radiotherapy|detection of breast shrinkage, breast size measured before and after radiotharapy, 6 months after radiotherapy|breast on the treated side is indurated, the induration detected by palpation with comparison with the normal side, 3 months after radiotherapy|detection of irregularity of breast shape, change in the normal shape of the breast detected by inspection and photogaphing before and after radiotherapy, 3 months after radiotherapy|breast on the treated side is indurated, the induration detected by palpation with comparison with the normal side, 6 months after radiotherapy|detection of irregularity of breast shape, change in the normal shape of the breast detected by inspection and photogaphing before and after radiotherapy, 6 months after radiotherapy
+Operational Design Patient Assessment Pre-radiotherapy assessment is done to provide a baseline for use in further follow-up and to rule out metastasis. This includes detailed history taking, full physical examination, hematological and biochemical laboratory evaluation, tumor markers: CA15-3, plain chest X-ray, pelvi-abdominal ultrasound, ECHO for left cancer breast, bone scan if indicated.
+
+Treatment schedule and delivery The patients who met the inclusion criteria were randomly divided into two groups, each group of 50 patients. The first group (arm A) will receive a dose of 27 Gy to the chest wall using 3D conformal radiotherapy (5.4 Gy per fraction) over one week, whilst, the second group (arm B) will receive a dose of 40 Gy to the chest wall (2.67 Gy per fraction) over three weeks.
+
+Setup, simulation and target definition For setup, patients were positioned on a wingboard with both arms raised above the head and radiopaque markers along breast borders. Subsequently, the 5-mm slice-thick axial CT images were acquired from the lower mandible aspect to 5 cm below contralateral inframammary fold. The CT images will be automatically transferred to a planning workstation, where the CTV and relevant organs-at-risk (OARs) will be outlined. The planning of the tangential fields will be based on the target volume delineation for the dose-volume distribution analysis. The heart and ipsilateral lung were separately contoured as organs at risk, the heart was outlined to the pulmonary trunk superiorly, including pericardium and excluding major vessels. For setup verification purposes, weekly digitally reconstructed radiographs (DRRs) were performed.
+
+Evaluation of Treatment Follow-up is done for assessment of toxicity and disease-free and overall survival.
+
+During follow-up, patients are examined after completion of radiotherapy and at 3 and 6 months. Surveillance includes a full clinical examination, hematological and biochemical laboratory evaluation, tumor markers: CA15-3, plain chest X-ray, pelvi-abdominal ultrasound, ECHO for left cancer breast, bone scan if indicated.
+
+Acute skin toxicity was assessed at the completion of radiotherapy and after 3 months (RTOG 2015), late skin toxicity was scored from 6 months after radiation and referred to the time of last examination (LENT/Soma Tables 1995). The maximal detected toxicity was scored according to the Common Terminology Criteria for Adverse Events, version 3.0, using the RTOG/EORTC toxicity scale associated with radiation as reference (NCI 2013) (Cox et al, 1995).
+
+Admininistrative Design
+
+Approvals for performing this study are obtained from:
+
+A) The recruited cases; B) The Institutional Review Board (IRB) RESULTS Collected data will be presented in tables and suitable graphs and analyzed using SSPS package. Mean and standard deviations will be estimated for quantitative data and median for non-normally distributed data. Actuarial or life tables analysis will be used for estimating survival and long-rank test for comparison of curves. P value is significant at 0.05 level.

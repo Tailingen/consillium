@@ -1,0 +1,10 @@
+Smart Measurement of Circulating Tumor DNA
+The goal of this study is to develop a blood-test which can detect colorectal cancer in early stages.
+
+Participants will be asked to take an extra blood test, which will be analyzed further in the lab.
+Colorectal Neoplasms|Colorectal Neoplasms Malignant|Colorectal Neoplasms, Hereditary Nonpolyposis|Hereditary Nonpolyposis Colon Cancer
+DIAGNOSTIC_TEST: Blood Product
+Estimated ctDNA fractions in blood, ctDNA presence will be measured against a (presently not specified) threshold, creating a divide between 'detectable' and 'non-detectable'., Measurement at baseline|Tumor pathology, Tumor pathology will be revised to later compare with estimated ctDNA presence., Measurement at baseline
+Lynch Syndrome (LS) carriers have a predisposition to develop various types of cancer, especially colorectal cancer (CRC) and endometrial cancer (EC). LS patients are advised to undergo surveillance by colonoscopy every 2 year and gynaecological surveillance. This surveillance is deemed burdensome and fails to detect a small part of the developing CRCs and the majority of extra-colonic cancers. To ensure prevention and early detection of cancer, a reliable and accessible test is needed. Recent studies have shown the potential of the detection of tumor-derived DNA fragments (circulating tumor DNA; ctDNA). Various molecular characteristics can be used to discriminate ctDNA from healthy circulating cell-free DNA. Current ctDNA assays with the highest sensitivity and specificity to detect for example minimal residual disease (MRD) after surgery are mostly tumor-informed, which means prior information is needed from the tumor tissue about the molecular alterations present.
+
+As this information is not available for the detection of newly arising tumors, the aim of this study is to evaluate the use of an optimized combination of tumor agnostic ctDNA characteristics for the detection of newly developing tumors.

@@ -1,0 +1,10 @@
+Case Collection Study to Support Digital Mammography Image Software Change
+The primary objective of this study is to compare image processing software to support a new image processing software application for a full-field digital mammography (FFDM) system.
+Breast Cancer
+DEVICE: Mammography screening and diagnosis
+Area Under the Receiver Operating Characteristic (ROC) Curve to Compare Diagnostic Accuracy of 2 Algorithms in Breast Cancer Diagnosis, The primary objective of this study was to demonstrate non-inferiority of the Siemens' processing algorithm to Lorad's processing algorithm with regards to readers' diagnostic accuracy in detecting and characterizing breast lesions. The non-inferiority analyses were performed by comparing the area under the ROC curve (AUC) for the two algorithms \& to compare false positive marks per subject.
+
+The ROC curve incorporates both sensitivity (true positive rate) and specificity (true negative rate) providing a single assessment incorporating both measures. It shows in a graphical way the trade-off between clinical sensitivity and specificity for every possible cut-off for a test, and gives an idea about the benefit of using the test in question. The higher the total area under the curve, the greater the predictive power of the reader assessments.
+
+A breast-based analysis was used for the primary AUC comparison in order to obtain additional power by having more normal/benign breasts., ~1 year. Women with negative or biopsy benign findings at baseline (study entry) were followed for 1 year to confirm the negative status at 1-year follow-up mammography exam. Women diagnosed with cancer were not followed up.
+The primary objective of this study is to compare image processing software to support a new image processing software application for a full-field digital mammography (FFDM) system.

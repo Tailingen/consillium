@@ -1,0 +1,25 @@
+Combination Chemotherapy Followed by Donor Stem Cell Transplant in Treating Patients With Relapsed or High-Risk Primary Refractory Hodgkin Lymphoma
+RATIONALE: Giving chemotherapy before a donor stem cell transplant helps stop the growth of cancer cells. It also helps stop the patient's immune system from rejecting the donor's stem cells. When the healthy stem cells from a donor are infused into the patient they may help the patient's bone marrow make stem cells, red blood cells, white blood cells, and platelets. Sometimes the transplanted cells from a donor can make an immune response against the body's normal cells. Giving cyclosporine, mycophenolate mofetil, and methotrexate before and after transplant may stop this from happening.
+
+PURPOSE: This phase II trial is studying how well combination chemotherapy followed by donor stem cell transplant works in treating patients with relapsed or high-risk primary refractory Hodgkin lymphoma.
+Lymphoma
+DRUG: cyclophosphamide|DRUG: cyclosporine|DRUG: fludarabine phosphate|DRUG: gemcitabine hydrochloride|DRUG: ifosfamide|DRUG: mechlorethamine hydrochloride|DRUG: melphalan|DRUG: methotrexate|DRUG: mycophenolate mofetil|DRUG: prednisone|DRUG: procarbazine hydrochloride|DRUG: vincristine sulfate|DRUG: vinorelbine tartrate|PROCEDURE: allogeneic bone marrow transplantation|PROCEDURE: allogeneic hematopoietic stem cell transplantation|PROCEDURE: nonmyeloablative allogeneic hematopoietic stem cell transplantation|PROCEDURE: peripheral blood stem cell transplantation|PROCEDURE: umbilical cord blood transplantation|RADIATION: total-body irradiation
+Progression-free Survival at 1 Year, Progression is defined using Response Evaluation Criteria In Solid Tumors Criteria (RECIST v1.0), as a 20% increase in the sum of the longest diameter of target lesions, or a measurable increase in a non-target lesion, or the appearance of new lesions, 1 year
+Overall Survival, up to 8 years|Disease Relapse or Progression as Measured by CT Scan or PET, 3 years
+OUTLINE: Patients are stratified according to response to prior therapy and risk factors (those with presence of all 3 risk factors and failed primary therapy or primary progressive disease vs. patients who relapse more than 100 days after an autologous stem cell transplant).
+
+* Salvage chemotherapy (IGV or MOPP): Patients who have previously received mechlorethamine hydrochloride receive IGV; patients who have previously received a gemcitabine-based regimen receive MOPP.
+
+  * IGV (ifosfamide, gemcitabine hydrochloride, and vinorelbine ditartrate): Patients receive IGV combination chemotherapy comprising ifosfamide IV on days 1-4, gemcitabine hydrochloride IV on days 1 and 4, and vinorelbine ditartrate IV on day 1. Treatment repeats every 2-3 weeks for 2-3 courses in the absence of disease progression or unacceptable toxicity.
+  * MOPP (mechlorethamine hydrochloride, vincristine, procarbazine hydrochloride, and prednisone): Patients receive MOPP combination chemotherapy comprising mechlorethamine hydrochloride IV on days 1 and 8, vincristine IV on days 1 and 8, oral procarbazine hydrochloride on days 1-14, and oral prednisone on days 1-14. Treatment repeats every 4 weeks for at least 2 courses in the absence of disease progression or unacceptable toxicity.
+
+Patients with no progression of disease after salvage chemotherapy (at allograft work-up) proceed to allogeneic hematopoietic stem cell transplantation \[AHSCT\]\* within 60 days after completion of salvage chemotherapy.
+
+NOTE: \*Patients with a nodal mass \> 5 cm that has not ben previously irradiated and in the absence of extranodal disease may undergo involved-field radiotherapy twice daily for 2 weeks, prior to AHSCT.
+
+* AHSCT with reduced-intensity or non-myeloablative conditioning: Patients achieving partial response or stable disease after salvage therapy receive fludarabine phosphate IV over 30 minutes on days -6 to -2; melphalan IV over 15 minutes on days -6 and -5; and undergo AHSCT on day 0 (reduced-intensity conditioning). Patients achieving complete response after salvage therapy receive fludarabine phosphate IV over 30 minutes on days -6 to -2; cyclophosphamide IV over 15 minutes on day -6; total-body irradiation over 20-30 minutes on day -1; and undergo AHSCT on day 0 (non-myeloablative conditioning).
+* Graft-vs-host disease prophylaxis: Patients with related or unrelated donors receive cyclosporine IV over 2-4 hours or orally on days -3 to 100 followed by a taper, mycophenolate mofetil IV or orally on days -3 to 46 followed by a taper, and methotrexate IV on days 1, 3, 6, and 11.
+
+Patients who received umbilical cord blood receive cyclosporine and mycophenolate mofetil as above (no methotrexate).
+
+Follow-up period of 2 years post-transplant.

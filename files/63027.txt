@@ -1,0 +1,38 @@
+Navitoclax, Venetoclax, and Decitabine for the Treatment of Relapsed or Refractory Acute Myeloid Leukemia Previously Treated With Venetoclax
+This phase Ib trial is to find the side effect and best dose of navitoclax when given together with venetoclax and decitabine in treating patients with acute myeloid leukemia that has come back (relapsed) or does not respond to treatment (refractory) after previous treatment with venetoclax. Chemotherapy drugs, such as navitoclax, venetoclax, and decitabine, work in different ways to stop the growth of cancer cells, either by killing the cells, by stopping them from dividing, or by stopping them from spreading.
+Recurrent Acute Myeloid Leukemia|Refractory Acute Myeloid Leukemia
+DRUG: Decitabine|BIOLOGICAL: Navitoclax|DRUG: Venetoclax
+Incidence of adverse events, Will be assessed and graded according to the National Cancer Institute-Common Terminology Criteria for Adverse Events version 5.0., Up to 1 year
+Overall response rate, Will be calculated as the percent of evaluable patients that have confirmed complete response (CR) or complete response with incomplete hematopoiesis or partial response. Assessment of disease response will be made according to European LeukemiaNet criteria., Up to 1 year|Progression Free Survival (PFS), From the start of study treatment to the time of disease relapse, progression or death from any cause, whichever comes first. assessed up to 1 year, Assessed up to 1 year|Overall Survival (OS), Time from the start of study treatment to death from any cause., Assessed up to 1 year|Dose Limiting Toxicity (DLT), DLT will be evaluated in the first 35 days of treatment in the safety cohort to determine any dose limiting toxicities at this dose., Up to 35 days (1 cycle)
+Change in percent blasts in bone marrow, Anti-leukemic activity (i.e. decrease in percent blasts) of navitoclax/venetoclax as assessed by disease in bone marrow (BM)., Baseline up to 1 year|Change in percent blasts in peripheral blood, Anti-leukemic activity (i.e. decrease in percent blasts) of navitoclax/venetoclax as assessed by disease in peripheral blood (PB)., Baseline up to 1 year
+PRIMARY OBJECTIVES:
+
+I. Assess safety and determine the optimal biological doses (OBD). II. Evaluate the anti-leukemic activity, as assessed by overall response rate (ORR: complete response \[CR\] + complete response with incomplete hematopoiesis \[CRi\] + partial response \[PR\]) within the first 35 days (cycle 1).
+
+SECONDARY OBJECTIVES:
+
+I. Characterize safety and tolerability of navitoclax/venetoclax during the first 7 days of cycle 1.
+
+II. Obtain preliminary estimates of:
+
+IIa. Overall response (CR+CRi+PR) duration. IIb. Progression free survival (PFS) and overall survival (OS) rates at 6-months and 1-year.
+
+CORRELATIVE STUDY OBJECTIVES:
+
+I. Describe the anti-leukemic activity (i.e. decrease in percent blasts) of navitoclax/venetoclax as assessed by disease in bone marrow (BM) and/or peripheral blood (PB).
+
+II. Explore the potential relationship between changes in BH3 protein expression profiles (pre- and post-treatment) and response.
+
+III. Profile the clonal evolution of acute myeloid leukemia (AML) in response to treatment by single cell next generation sequencing (NGS) of whole exomes and the ribonucleic acid (RNA) transcriptome.
+
+IV. Profile the clonal evolution of AML in response to treatment by single cell NGS of the mitochondrial genome.
+
+V. Determine mitochondrial number and heteroplasmy and changes in response to treatment.
+
+VI. Determine the impact of treatment on leukemic stem cell (LSC) burden by examining bone marrow (BM)-derived mononuclear cells (MNC) for their ability to initiate leukemia in in vivo mouse models pre- and post-treatment.
+
+OUTLINE: This is a dose-escalation study of navitoclax.
+
+Patients receive venetoclax orally (PO) once daily (QD) and navitoclax PO QD on days 1-35, and decitabine intravenously (IV) over 1 hour on days 8-12 of cycle 1. Starting on cycle 2, patients receive venetoclax PO QD and navitoclax PO QD on days 1-28, and decitabine IV over 1 hour on days 1-5. Treatment repeats every 28 days for up to 12 cycles in the absence of disease progression or unacceptable toxicity.
+
+After completion of study treatment, patients are followed up for 1 year.

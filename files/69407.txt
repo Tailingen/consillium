@@ -1,0 +1,24 @@
+Association of Radiochemotherapy and Immunotherapy for the Treatment of Unresectable Oesophageal caNcer
+This study aims to assess the efficacy of durvalumab in combination with radiochemotherapy (FOLFOX and IMRT) and then as maintenance therapy for treating patients with localised unresectable oesophageal cancer. This is a randomized, French national, multicentre, comparative phase II trial
+Esophagus Cancer|Unresectable Malignant Neoplasm
+DRUG: Durvalumab|COMBINATION_PRODUCT: IMRT 50 Gy + FOLFOX4 simplifIed (oxaliplatin, leucovorin, 5-FU)
+cPFS (centrally reviewed cPFS), defined by a blinded independent centralized revue of progression free survival. cPFS is defined as the time from randomization until progression or death; patients alive and without documented progression at last follow-up news have PFS censored at this date or at initiation of new anticancer treatment (if applicable). Progression will be defined with central external reviewing of TDM per RECIST v1.1, 12-months cPFS
+Overall survival (OS), defined as the time between randomization and death due to any cause., For each treatment arms, survival rates (PFS and OS) will be estimated at 12, 18 and 24 months|Adverse Events, will be assessed on occurrence of Adverse Events (AEs) based on NCI CTCAE v5.0, 2 years after randomization|Quality of Life OES18, used for patients with oesophageal cancer always complemented by the QLQ-C30 measuring 5 functional scales (physical, everyday activity, cognitive, emotional and social) and 3 symptoms scales (fatigue, pain, nausea and vomiting), scores EORTC QLQ C30 - OES18, 2 years after randomization
+ARION study will randomize 120 patients, in 12 centers in France, according to a ratio 1:1 in the following arm of treatment:
+
+- Standard and experimental arm:
+
+Definitive modulated-intensity radiotherapy will be delivered according to boost integrated technique 5 days a week for 5 weeks at a dose of:
+
+* 50 Gy delivered in 25 fractions to the macroscopic disease (endoscopic, TDM and fused FDG PET)
+* 45 Gy to the adjacent peri tumoral mucosis and prophylactic lymph node
+
+FOLFOX 4 simplified protocol, 1 infusion every 2 weeks (q2w) during 3 months starting with radiotherapy (+/- 1 day):
+
+* IV oxaliplatin 85 mg/m² in 2 h on day 1 (D1)
+* IV Leucovorin 200 mg/m² in 2 h on D1, followed by
+* IV 5-FU 400 mg/m² in 10 minutes on D1 followed by
+* IV continuous infusion 5-FU 2400 mg/m² in 46 h
+* Experimental arm: Concomitant administration of durvalumab:
+
+Every 4 weeks during concurrent FOLFOX (dose: 1500 mg) and after FOLFOX completion (total of 12 months of treatment).

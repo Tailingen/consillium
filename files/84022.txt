@@ -1,0 +1,29 @@
+Siltuximab for the Prevention of Severe Immune-Related Adverse Events During Immune Checkpoint Inhibitor Rechallenge in Patients with Advanced Cancer, CIRES Trial
+This phase II trial studies how well giving siltuximab during the reintroduction (rechallenge) of immune checkpoint inhibitor (ICI) therapy works in preventing severe immune-related adverse events (irAEs) in patients with cancer that may have spread from where it first started to nearby tissue, lymph nodes, or distant parts of the body (advanced). Immune checkpoint inhibitors, such as anti-PD1 and anti-PD-L1 monoclonal antibodies, may help the body's immune system attack the cancer, and may interfere with the ability of tumor cells to grow and spread. The use of ICI therapy may lead to severe irAEs that can affect essentially any organ system in the body. Severe irAEs may lead to the early stopping of life saving treatment. Most patients that stop ICI therapy early will eventually progress and require additional treatment. Sometimes the decision is made to rechallenge with ICI therapy. Many patients who developed severe irAEs during initial ICI therapy are at risk for developing severe irAEs again during the rechallenge. Siltuximab is a monoclonal antibody that binds to receptors for a protein called interleukin-6 (IL-6). This may help lower the body's immune response and reduce inflammation. Giving siltuximab during ICI rechallenge may help prevent severe irAEs in patients with advanced cancer.
+Advanced Malignant Solid Neoplasm|Hematopoietic and Lymphatic System Neoplasm
+BIOLOGICAL: Anti-PD-L1 Monoclonal Antibody|BIOLOGICAL: Anti-PD1 Monoclonal Antibody|PROCEDURE: Biopsy|PROCEDURE: Biospecimen Collection|PROCEDURE: Bone Scan|PROCEDURE: Computed Tomography|PROCEDURE: Magnetic Resonance Imaging|OTHER: Quality-of-Life Assessment|BIOLOGICAL: Siltuximab
+Incidence of severe immune-related adverse event (irAE), Will be assessed per National Cancer Institute Common Terminology Criteria for Adverse Events version (v) 5.0. irAEs are defined as AEs of immune nature (i.e., inflammatory) in the absence of a clear alternative etiology. The investigators will determine if an AE should be classified as irAE (yes/no). Will be defined as ≥ grade 2 requiring treatment discontinuation and prednisone \> 0.5 milligrams/kilogram/day or equivalent followed by a taper ≥ 4 weeks) within 24 weeks of ICI rechallenge., Within 24 weeks of immune checkpoint inhibitor (ICI) rechallenge
+Overall response rate, Will be determined per Response Evaluation Criteria in Solid Tumors (RECIST) v1.1. Will be calculated as the percentage of patients achieving complete response or partial response. The exact binomial 95% confidence interval (CI) will be provided., Up to 5 years|Median progression-free survival, Will be determined per RECIST v1.1. Survival will be analyzed using Kaplan-Meier methods, resulting in median survival times with 95% CI., Initiation of therapy to time of progression or death, whichever occurs first, assessed up to 5 years|Overall survival, Will be determined per RECIST v1.1. Survival will be analyzed using Kaplan-Meier methods, resulting in median survival times with 95% CI., Initiation of therapy to death, assessed up to 5 years
+PRIMARY OBJECTIVE:
+
+I. To determine whether siltuximab prophylaxis reduces rates of de novo or recurrent severe irAE within 24 weeks of anti-PD-1/PD-L1 therapy rechallenge.
+
+SECONDARY OBJECTIVE:
+
+I. To assess the preliminary anti-tumor activity of this combination including overall response rate (ORR), progression-free survival (PFS) and overall survival (OS).
+
+EXPLORATORY OBJECTIVES:
+
+I. To evaluate potential predictive biomarkers such as baseline serum IL-6 level, C-reactive protein (CRP) suppression level, tissue IL-6 expression, stool microbiome, and antibody clearance rate.
+
+II. To assess changes in immune cell infiltration of irAE site pre- and post-treatment by multiomics profiling.
+
+III. To assess patient-reported outcomes by Patient-Reported Outcomes Measurement Information System (PROMIS) instruments.
+
+IV. To correlate circulating tumor deoxyribonucleic acid (ctDNA) levels with treatment responses.
+
+OUTLINE:
+
+Patients receive anti-PD1 or anti-PD-L1 monoclonal antibody therapy either every 3 or 6 weeks, or every 2 or 4 weeks per physicians choice. Patients also receive siltuximab intravenously (IV) over 1 hour on day 1 of each cycle prior to the administration of anti-PD1 or anti-PD-L1 therapy. Treatment repeats either every 3 weeks for up to 8 doses or every 4 weeks for up to 6 doses in the absence of disease progression or unacceptable toxicity. Patients may undergo biopsy and bone scan on study, as well as blood sample collection and computed tomography (CT) or magnetic resonance imaging (MRI) throughout the study.
+
+After completion of study treatment, patients are followed up at day 28, every 12 weeks for up to 2 years, and then every 6 months until 5 years following registration.

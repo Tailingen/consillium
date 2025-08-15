@@ -1,0 +1,23 @@
+Use of Virtual Reality for Surgical Planning in Neuroblastoma
+Neuroblastoma is one of the most common extracranial solid tumors in children. It originates from cells of the neural crest, and can be located at the adrenal level, or in the sympathetic chains from the neck to the pelvis. Surgery still remains a mainstay part of the treatment and this is particularly challenging when IDRF are present. Adequate surgical planning, based on images such as CT Scans, MRI and/or nuclear medicine is crucial. This project seeks to compare; surgical time, GTR percentage and complications between standard surgical planning with biplanar 2D images vs the use of virtual reality as a planning tool, through the segmentation and post-processing of medical images and the visualization of 3D models with immersive virtual reality glasses (VR). The software that will be used for the segmentation and generation of 3D images will be Materialise Mimics® Innovation Suite and the images can be viewed using the Meta Quest 2® virtual reality glasses and the Materialise Mimics Viewer® software, which sends the processed images to be seen only by the treating surgeon, without patient data.
+
+The study design will be of the type of multicenter clinical trial, controlled and with simple randomization. All patients with a debut diagnosis of neuroblastoma in stage L1, L2 or M who have a surgical indication will be recruited. Surgical time, complications, amount of resection (GTR), surgeon's satisfaction as well as surgical anatomy comprehension will be compared. An invitation to participate will be sent to hospitals around the world.
+Neuroblastoma
+OTHER: Immersive virtual reality imaging|OTHER: Gold standard imaging
+Surgical time, Reduction in surgical time when iVR is used, From date of randomization until three months after surgery
+The study design will be a prospective, controlled, multicenter clinical trial with simple randomization, in patients with neuroblastoma in stages L1, L2 and M who require resective surgery. It will be a single-blind study (the patient will not know to which group he/she will be assigned)
+
+There will be two groups, which will be studied in parallel.
+
+* Group A: Surgical planning with iRV.
+* Group B: Surgical planning without iRV.
+
+The study group will be A, where the treating surgeon will use iVR, through the use of MetaQuest 2 ® glasses, as part of the surgical planning based on the 2D images of each patient (CT or MRI), and the control group will be B, where only the 2D images will be used for surgical planning.
+
+Randomization will be done through the database software REDCap®, which will assign each patient entering the study to one or another group, when the surgery is indicated.
+
+If the randomization corresponds to group A, the participating centers must send the 2D DICOM images to the research team of the coordinating center for segmentation and post-production into 3D images ready for viewing. This process will be carried out at the 3D4H Unit of the Hospital Sant Joan de Déu, with Materialise MIMICS® software, which generates a VR image file for viewing and control with the Meta Quest2® glasses. This file, encrypted and anonymized, will be sent to the corresponding participating center by e-mail, which can be opened only by the treating surgeon (who will have to create a username and password to access) and will not include the patient's identification data, only a unique code. The surgeon will use the aforementioned glasses to visualize and control the images. Once the VR images have been studied, the team will perform the surgery and record the intraoperative information on the data collection form.
+
+Each center has to obtain its own Meta Quest 2 or compatible goggles.
+
+In the event that the patient is randomized to Group B, the surgical team will do the surgical planning with 2D imaging, perform the surgery, and record the intraoperative information on the data collection form.

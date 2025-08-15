@@ -1,0 +1,13 @@
+Contrast-Free Magnetic Resonance Imaging for Breast Disease
+Prospective, observational cohort study looking at patients either at risk of breast cancer or have clinically suspected breast to assess the diagnostic performance of quantitative, non-contrast MRI.
+Breast Cancer|Breast Diseases
+DIAGNOSTIC_TEST: Outpatient MRI
+Determine the diagnostic performance of a non-contrast MRI in breast disease, Mapping multi-parametric algorithms and assessing diagnostic performance compared to standard of care using area under the receiver operative curve (AUROC), 36 months
+Qualitatively assess the participant experience of identifying breast disease using non-contrast MRI, Provide participants with a non validated questionnaire and summarise feedback on MR techniques compared to standard of care, 36 months
+It is widely recognised that mammography is highly sensitive for detecting breast lesions and a valuable tool for early detection of breast cancer, especially in post-menopausal women with non-dense breast tissue. On post-menopausal non-dense breast tissue, mammography is 90% effective at identifying breast tumours. However, for dense breast tissue, the sensitivity falls to 67%. This means that for women with dense breast tissue, which includes almost all pre-menopausal women and many post- menopausal women, mammography misses one third of tumours.
+
+MRI is the imaging method of choice for detecting breast cancer in women with dense breast tissue however the standard MRI for breast cancer investigation typically uses gadolinium contrast agent. This method is called dynamic contrast enhanced (DCE) MRI and identifies localised regions of (neo)vascularity, which indicates a cancerous lesion. Although DCE can provide valuable information about the tissue, it is often not performed well, is poorly tolerated by patients, and adds additional time to the scan protocol.
+
+Perspectum conducted a recent study demonstrating that liver cancer lesions can be identified using quantitative T1 maps calculated form multiparametric MRI data. Applying this MRI method to breast imaging, would potentially provide a method of identifying breast cancer lesions without using a contrast agent, reducing the scan time and eliminating the need for an intravenous contrast.
+
+The aim of this study is to apply quantitative multiparametric MRI techniques to the area of breast imaging with the aim of developing a contrast-free MR scan which can diagnose the spectrum of breast disease referred to a secondary care breast clinic, including in women with dense breasts.

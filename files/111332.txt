@@ -1,0 +1,35 @@
+Atezolizumab, Pemetrexed Disodium, Cisplatin, and Surgery With or Without Radiation Therapy in Treating Patients With Stage I-III Pleural Malignant Mesothelioma
+This phase I pilot trial studies how well atezolizumab, pemetrexed disodium, cisplatin, and surgery with or without radiation therapy works in treating patients with stage I-III pleural malignant mesothelioma. Immunotherapy with monoclonal antibodies, such as atezolizumab, may help the body's immune system attack the cancer, and may interfere with the ability of tumor cells to grow and spread. Pemetrexed disodium may stop the growth of tumor cells by blocking some of the enzymes needed for cell growth. Drugs used in chemotherapy, such as cisplatin, work in different ways to stop the growth of tumor cells, either by killing the cells, by stopping them from dividing, or by stopping them from spreading. Giving atezolizumab, pemetrexed disodium, and cisplatin before surgery may make the tumor smaller and reduce the amount of normal tissue that needs to be removed. Giving atezolizumab after surgery may kill any remaining tumor cells.
+Biphasic Mesothelioma|Epithelioid Mesothelioma|Stage I Pleural Malignant Mesothelioma AJCC v7|Stage IA Pleural Malignant Mesothelioma AJCC v7|Stage IB Pleural Malignant Mesothelioma AJCC v7|Stage II Pleural Malignant Mesothelioma AJCC v7|Stage III Pleural Malignant Mesothelioma AJCC v7
+DRUG: Atezolizumab|DRUG: Cisplatin|PROCEDURE: Extrapleural Pneumonectomy|DRUG: Pemetrexed Disodium|PROCEDURE: Pleurectomy|RADIATION: Radiation Therapy
+Feasibility of Neoadjuvant Cisplatin-Pemetrexed-Atezolizumab, Surgery +/- Radiation, and Maintenance Therapy., The number of participants who received at least two cycles of the triplet neoadjuvant therapy getting at least one dose of maintenance therapy., Duration of treatment until first dose of maintenance therapy. Includes 21 day cycles of neoadjuvant chemo and surgery - extrapleural pneumonectomy or pleurectomy/decortication (radiation therapy for participants who received extrapleural pneumonectomy).|Safety of Neoadjuvant Cisplatin-Pemetrexed-Atezolizumab, Surgery +/- Radiation, and Maintenance Therapy., The number of participants that experienced a Grade 4-5 immune-related adverse event. The regimen was considered safe if no participants experienced a Grade 4-5 immune-related AE., Duration of treatment and follow-up until death or 3 years post Step 1 registration.
+Progression Free Survival (PFS), From date of registration to Step 1 to date of first documentation of progression by RECIST 1.1 and modified RECIST 1.1, symptomatic deterioration, or death due to any cause. Participants last known to be alive and progression free are censored at date of last disease assessment., Duration of treatment and follow-up until death or 3 years post Step 1 registration.|Overall Survival (OS), From date of initial registration to date of death due to any cause. Participants last known to be alive are censored at date of last contact., 3 years after the last accrual|Response Rate (RR), Percentage of participants with confirmed and unconfirmed, complete and partial, defined by RECIST 1.1 and mRECIST for Pleural Tumors, Duration of treatment and follow-up until death or 3 years post Step 1 registration.
+PRIMARY OBJECTIVE:
+
+I. To evaluate if the regimen of neoadjuvant cisplatin-pemetrexed disodium (pemetrexed)-atezolizumab, surgery +/- radiation, then maintenance atezolizumab is feasible and safe for patients with resectable malignant pleural mesothelioma.
+
+SECONDARY OBJECTIVES:
+
+I. To evaluate progression free survival (both by Response Evaluation Criteria in Solid Tumors \[RECIST\] 1.1 and also using a modified RECIST for pleural tumors) in patients with resectable malignant pleural mesothelioma treated with a regimen of neoadjuvant cisplatin-pemetrexed-atezolizumab, surgery +/- radiation, followed by one year of maintenance atezolizumab.
+
+II. To evaluate overall survival in patients with resectable malignant pleural mesothelioma treated with a regimen of neoadjuvant cisplatin-pemetrexed-atezolizumab, surgery +/- radiation, followed by one year of maintenance atezolizumab.
+
+III. To evaluate response rate (confirmed and unconfirmed, complete and partial, both by RECIST 1.1 and also using a modified RECIST for pleural tumors) in the subset of this patient population with measurable disease.
+
+TRANSLATIONAL MEDICINE OBJECTIVES:
+
+I. To evaluate the association between immunohistochemical (IHC) expression of PD-L1 in tumors and clinical outcomes in mesothelioma patients treated with trimodality/bimodality therapy including atezolizumab (anti-PD-L1).
+
+II. To evaluate the association between expression of immune-related genes identified by Immune Nanostring (depending on ribonucleic acid \[RNA\] availability) and clinical outcomes in mesothelioma patients treated with trimodality/bimodality therapy including atezolizumab.
+
+III. To evaluate the association between multiplex immunofluorescence (IF) of up to 10 immune markers in two panels and clinical outcomes in mesothelioma patients treated with trimodality/bimodality therapy including atezolizumab.
+
+OUTLINE:
+
+NEOADJUVANT: Patients receive atezolizumab intravenously (IV) over 30-60 minutes, pemetrexed disodium IV over 10 minutes, and cisplatin IV over 2 hours on day 1. Cycles repeats every 21 days for 4 cycles in the absence of disease progression or unexpected toxicity.
+
+SURGERY: Within 21-90 days after completion of neoadjuvant therapy, patients undergo extrapleural pneumonectomy (EPP) or pleurectomy/decortication (PD). Patients who undergo EPP will then undergo radiation therapy (RT).
+
+MAINTENANCE: Within 90 days after completion of either PD or radiation (post-EPP), patients receive atezolizumab IV over 60 minutes on day 1. Treatment repeats every 21 days for up to 1 year in the absence of disease progression or unexpected toxicity.
+
+After completion of study treatment, patients are followed up for up to 3 years.

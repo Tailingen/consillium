@@ -1,0 +1,50 @@
+Docetaxel, Oxaliplatin, and Fluorouracil in Treating Patients With Metastatic or Unresectable Stomach Cancer, Gastroesophageal Junction Cancer, or Other Solid Tumor
+RATIONALE: Drugs used in chemotherapy, such as docetaxel, oxaliplatin, and fluorouracil, work in different ways to stop the growth of tumor cells, either by killing the cells or by stopping them from dividing. Giving more than one drug (combination chemotherapy) may kill more tumor cells.
+
+PURPOSE: This phase I/II trial is studying the side effects and best dose of docetaxel when given with oxaliplatin and fluorouracil and to see how well they work in treating patients with metastatic or unresectable stomach cancer, gastroesophageal junction cancer, or other solid tumor.
+Gastric Cancer|Unspecified Adult Solid Tumor, Protocol Specific
+DRUG: docetaxel|DRUG: fluorouracil|DRUG: oxaliplatin
+Maximum Tolerated Dose (MTD) of Docetaxel When Given in Combination With Oxaliplatin and Fluorouracil (Phase I), The MTD will be determined using a 3+3 dose escalating design. There will be 5 dose cohorts:
+
+Cohort 1a 25mg/m2 Cohort 2a 30mg/m2 Cohort 3a 40 mg/m2 Cohort 4a 50 mg/m2 Cohort 5a 60 mg/m2
+
+3 patients will be enrolled at dose of 25mg/m2 docetaxel. If no dose limiting toxicities (DLTs) are seen then dose will be escalated to next cohort and 3 patients will be treated at that dose level. If a DLT is seen at any dose, then 3 more patients will be enrolled at that dose level. If 1 patient out of 6, experience a DLT then MTD will be determined to be at this dose level. If 2 or more DLTs are seen in first 3 patients at that dose, then MTD will be one dose lower to the level where the DLTs were experienced. Dose of docetaxel will be escalated by use of cohorts until the MTD for phase II is determined.
+
+DLTs were defined using the National Cancer Institute Common Toxicity Criteria Version 3.0, After completion of 1 cycle of therapy (1 cycle = 14 days)|Response Rate in Patients With Adenocarcinoma of the Stomach or Gastroesophageal Junction (Phase II), Overall Response Rate (ORR) is defined as Complete Response (CR) plus Partial Response (PR) and will be measured per Response Evaluation Criteria In Solid Tumors Criteria (RECIST v1.0) for target lesions and assessed by CT scan.
+
+Complete Response (CR) - Disappearance of all target lesions. Partial Response (PR), \>=30% decrease in the sum of the longest diameter (LD) of target lesions, taking as reference the baseline sum.
+
+Stable Disease, neither sufficient shrinkage to qualify for Partial disease nor sufficient increase to qualify for progressive disease, taking as reference the smallest sum LD while on study.
+
+Progressive Disease - \<=20% increase in the sum of the LD of target lesions, taking as reference the smallest sum LD recorded since the treatment started or the appearance of one or more new lesions., After 4 cycles of therapy (1 cycle = 14 days)
+Dose-limiting Toxicity of Docetaxel When Given in Combination With Oxaliplatin and Fluorouracil, Dose limiting toxicities (DLT) will be graded according to National Cancer Institute's Common Toxicity Criteria for adverse events version 3.0 (CTCAE v3.0) except for neurosensory. The occurrence of any of the following during the 1st cycle, seen in more than one patient, will constitute a DLT.
+
+Grade 3 non-hematologic toxicity(except alopecia) Grade 4 thrombocytopenia, not recovered to platelet count of \>75,000/ul by day 15.
+
+Grade 4 neutropenia, not recovered to count of \>1,500/ul by day 15. Grade 4 neutropenia with fever or infection. Grade 2 neurologic-sensory toxicity not recovered to grade 1 or better by day 15, After 1 cycle of therapy (1 cycle = 14 days)|Frequency of CYP3A4, CYP3A5, and MDR Polymorphisms and Their Impact on Docetaxel Toxicity, Blood sample cycle 1 day 1 and toxicity on day 1 of each cycle|Frequency of XRCC1 and ERCC2 Polymorphisms and Their Impact on Oxaliplatin Toxicity, Blood sample cycle 1 day 1 and toxicity on day 1 of each cycle|Frequency of DPD and TSER Polymorphisms and Their Impact on Fluorouracil Toxicity, Blood sample cycle 1 day 1 and toxicity on day 1 of each cycle|Toxicity Profile, Toxicity data will be collected on day 1 of every 14 day cycle during treatment according to the National Cancer Institute's Common Toxicity Criteria for adverse events (AE) version 3.0 (CTCAE v3.0). For patients that experience multiple grades of the same AE that is determined to be at least possibly related to at least one study drug, only highest grade will be collected. In general AEs will be graded according to the following:
+
+Grade 1 Mild AE Grade 2 Moderate AE Grade 3 Severe AE Grade 4 Life-threatening or disabling AE Grade 5 Death related to AE, Day 1 of each cycle of therapy with 1 cycle =14 days until disease progression for up to a maximum of 34 cycles and 30 days after last treatment
+OBJECTIVES:
+
+Primary
+
+* To establish the maximum tolerated dose of docetaxel when administered with oxaliplatin and fluorouracil in patients with metastatic or unresectable solid tumors. (Phase I)
+* To determine the response rate in patients with metastatic or unresectable adenocarcinoma of the stomach or gastroesophageal junction treated with this regimen. (Phase II)
+
+Secondary
+
+* To determine the dose limiting toxicity of this regimen in these patients.
+* To evaluate the frequency of CYP3A4, CYP3A5, and MDR polymorphisms and their impact on toxicity of docetaxel.
+* To evaluate the frequency of XRCC1 and ERCC2 polymorphisms and their impact on the toxicity of oxaliplatin.
+* To evaluate the frequency of DPD and TSER polymorphisms and their impact on the toxicity of fluorouracil.
+* To characterize the toxicity profile of this regimen in these patients.
+
+OUTLINE: This is a dose-escalation study of docetaxel.
+
+Patients receive docetaxel IV over 1 hour and oxaliplatin IV over 2 hours on day 1 and fluorouracil IV continuously over 46 hours on days 1 and 2. Treatment repeats every 14 days for at least 2 courses in the absence of disease progression, symptomatic tumor progression, or unacceptable toxicity.
+
+Patients undergo blood sample collection periodically for pharmacokinetic and pharmacogenomic correlative studies. Plasma concentrations of docetaxel are analyzed by reverse-phase high performance liquid chromatography and tandem mass spectrometry. Polymorphisms in CYP3A4/5, MDR, and other genes are analyzed by PCR.
+
+After completion of study therapy, patients are followed every 3 months.
+
+PROJECTED ACCRUAL: A total of 73 patients (30 for phase I and 43 for phase II) will be accrued for this study.

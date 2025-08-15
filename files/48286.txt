@@ -1,0 +1,21 @@
+Cetuximab for Elderly Patients With mCRC
+OBJECTIVE: The objective of the trial is to judge on the benefit obtained by an upfront cetuximab treatment delivered as monotherapy or as part of a combination treatment with capecitabine in vulnerable elderly patients selected for V-Ki-ras2 Kirsten rat sarcoma viral oncogene homolog (KRAS) wild-type and B-type Raf kinase (BRAF) wild-type metastatic colorectal cancer (mCRC).
+Metastatic Colorectal Cancer
+DRUG: Cetuximab|DRUG: Capecitabine
+Progression free survival in week 12, A progression event is defined as (whichever occurs first):
+
+* Progressive disease (PD) assessed according to the Response Evaluation Criteria in Solid Tumors (RECIST) v1.1
+* Death of any cause
+* Starting of second line treatment
+* No tumor assessment 85 days (+/- 7 days) after registration which shows stabilisation or response Patients without tumor assessment at week 12 but with a later assessment showing absence of progression without subsequent treatment will be counted as a progression free at week 12, in week 12
+Quality of life (QL), Baseline, in week 7, 13 and 19|Adverse events (CTCAE v 4.0), Adverse events are assessed by Common terminology criteria for adverse events (CTCAE) v4.0. From randomization until 30 days after end of treatment (estimated up to 2 years).|Overall Response (OR), Before start of treatment. In week 13 and every 12 weeks up to 2 years.|Progression free survival (PFS), PFS will be calculated sustained from randomization until documented PD or death, whichever occurs first (estimated up to 2 years).|Overall Survival (OS), Overall survival will be calculated from randomization until death (estimated up to 2 years).|Overall treatment utility (OTU) (predefined composite endpoint including clinical benefit, tolerability and acceptability of the treatment), Until week 19.
+Primary endpoint: If in a treatment arm the number of patients alive and without progression at 12 weeks is 17 or more, this arm will be considered promising, otherwise not promising. Additionally, a two-sided 95% confidence interval for the difference in Progression free survival (PFS) rates between the two arms will be calculated.
+
+Secondary endpoints and patient characteristics:
+
+* Laboratory values may be expressed as the absolute values (continuous variables) or/and as grading (ordinal categorical variables).
+* Generally for each categorical variable the results will be summarized by frequencies and percentages. For response rates 95% Clopper-Pearson confidence intervals will be calculated.
+* For each adverse event, the results will be summarized by frequencies and percentages of different grades among all cycles as well as by frequencies and percentages of the within-patient worst grades
+* For each continuous variable the results will be summarized by descriptive statistics.
+* Time-to-event variables will be presented by Kaplan-Meier curves and summarized by medians and 95% confidence intervals.
+* All analysis will be done by treatment arm.

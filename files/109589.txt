@@ -1,0 +1,41 @@
+Evaluating the Addition of the Immunotherapy Drug Atezolizumab to Standard Chemotherapy Treatment for Advanced or Metastatic Neuroendocrine Carcinomas That Originate Outside the Lung
+This phase II/III trial compares the effect of immunotherapy with atezolizumab in combination with standard chemotherapy with a platinum drug (cisplatin or carboplatin) and etoposide versus standard therapy alone for the treatment of poorly differentiated extrapulmonary (originated outside the lung) neuroendocrine cancer that may have spread from where it first started to nearby tissue, lymph nodes, or distant parts of the body (advanced) or that has spread from where it first started (primary site) to other places in the body (metastatic). The other aim of this trial is to compare using atezolizumab just at the beginning of treatment versus continuing it beyond the initial treatment. Immunotherapy with monoclonal antibodies, such as atezolizumab, may help the body's immune system attack the cancer, and may interfere with the ability of tumor cells to grow and spread. Cisplatin and carboplatin are in a class of medications known as platinum-containing compounds that work by killing, stopping or slowing the growth of cancer cells. Etoposide is in a class of medications known as podophyllotoxin derivatives. It blocks a certain enzyme needed for cell division and DNA repair, and it may kill cancer cells. Giving atezolizumab in combination with a platinum drug (cisplatin or carboplatin) and etoposide may work better in treating patients with poorly differentiated extrapulmonary neuroendocrine cancer compared to standard therapy with a platinum drug (cisplatin or carboplatin) and etoposide alone.
+Advanced Extrapulmonary Neuroendocrine Carcinoma|Metastatic Extrapulmonary Neuroendocrine Carcinoma|Recurrent Extrapulmonary Neuroendocrine Carcinoma|Unresectable Extrapulmonary Neuroendocrine Carcinoma
+BIOLOGICAL: Atezolizumab|PROCEDURE: Biospecimen Collection|DRUG: Carboplatin|DRUG: Cisplatin|PROCEDURE: Computed Tomography|DRUG: Etoposide|PROCEDURE: Magnetic Resonance Imaging|OTHER: Patient Observation
+Overall survival, Log-rank tests stratified by the randomization stratification factors will be used for null hypothesis (efficacy) tests. Cox regression models stratified by the randomization stratification factors will be used for alternative hypothesis (futility) tests., From date of registration or from date of start of observation/maintenance therapy to date of death due to any cause, assessed up to 5 years
+Progression-free survival, Will be estimated using the Kaplan-Meier method and compared using log-rank tests., From date of registration or start of observation/maintenance therapy to date of first documentation of progression or symptomatic deterioration, or death due to any cause, assessed up to 5 years|Duration of response, Will be estimated non-parametrically using cumulative incidence curves., Time from date of initial response to date of progression or death, assessed up to 5 years|Objective response rate (confirmed complete response [CR] or partial response [PR]), Will be tabulated and compared between arms using Fisher's exact test., Up to 5 years from study enrollment|Clinical benefit rate (confirmed CR or PR of any amount of time or stable disease for 6 months or longer), Will be tabulated and compared between arms using Fisher's exact test., Up to 5 years from study enrollment
+PRIMARY OBJECTIVES:
+
+I. Compare the combination of induction platinum/etoposide and atezolizumab followed by maintenance atezolizumab (Arm 1) versus induction platinum/etoposide alone (Arm 3).
+
+II. Compare the combination of induction platinum/etoposide and atezolizumab followed by observation (Arm 2) versus induction platinum/etoposide alone (Arm 3).
+
+III. Compare the combination of induction platinum/etoposide and atezolizumab followed by maintenance atezolizumab (Arm 1) versus the combination of induction platinum/etoposide and atezolizumab followed by observation (Arm 2).
+
+SECONDARY OBJECTIVES:
+
+I. To compare overall survival (OS), measured from start of observation/maintenance, across arms.
+
+II. To compare progression free survival (PFS) (measured from randomization and measured from start of observation/maintenance) across arms.
+
+III. To compare objective response rate (ORR = confirmed and unconfirmed partial response \[PR\] + confirmed and unconfirmed complete response \[CR\]) across arms among patients with measurable disease at randomization.
+
+IV. To compare clinical benefit rate (CBR = confirmed and unconfirmed PR + confirmed and unconfirmed CR + stable disease \[SD\]) across arms among patients with measurable disease at randomization.
+
+V. To compare duration of response (DOR) across arms. VI. To evaluate the safety and tolerability of each arm.
+
+ADDITIONAL OBJECTIVE:
+
+I. To bank tumor and blood samples for future biomarker correlative studies.
+
+OUTLINE: Patients are randomized to 1 of 3 arms.
+
+ARM I: During induction phase, patients receive atezolizumab intravenously (IV) over 30-60 minutes on day 1 of each cycle, carboplatin IV over 30 minutes or cisplatin IV over 60 minutes on day 1 of each cycle, and etoposide IV on days 1-3 of each cycle. Treatment repeats every 21 days for 4 cycles in the absence of disease progression or unacceptable toxicity. During maintenance phase, patients receive atezolizumab IV over 30-60 minutes on day 1 of each cycle. Treatment repeats every 21 days for up to 17 cycles in the absence of disease progression or unacceptable toxicity.
+
+ARM II: During induction phase, patients receive atezolizumab IV over 30-60 minutes on day 1 of each cycle, carboplatin IV over 30 minutes or cisplatin IV over 60 minutes on day 1 of each cycle, and etoposide IV on days 1-3 of each cycle. Treatment repeats every 21 days for 4 cycles in the absence of disease progression or unacceptable toxicity. Patients then undergo observation for 1 year.
+
+ARM III: During induction phase, patients receive carboplatin IV over 30 minutes or cisplatin IV over 60 minutes on day 1 of each cycle and etoposide IV on days 1-3 of each cycle. Treatment repeats every 21 days for 4 cycles in the absence of disease progression or unacceptable toxicity. Patients then undergo observation for 1 year.
+
+Patients in all arms also undergo compute tomography (CT) scan and/or magnetic resonance imaging (MRI) throughout the trial and blood sample collection on study.
+
+After completion of study treatment, patients are followed up for 5 years.

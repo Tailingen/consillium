@@ -1,0 +1,30 @@
+PR104 in Treating Patients With Refractory/Relapsed Acute Leukemia
+The current understanding of PR104 justifies the evaluation of PR104 in subjects with relapsed/refractory AML and ALL. These include:
+
+* Hypoxia. Leukemic bone marrow is likely to demonstrate a level of hypoxia sufficient to activate PR104 to its active metabolites PR104H and PR104M.
+* Myelotoxicity as the primary toxicity at MTD. In prior clinical studies in subjects with solid tumors PR104 has demonstrated myelotoxicity as the primary toxicity. This observation suggests that PR104 will exert a similar effect on leukemic cells.
+* AKR1C3. AML has been reported to exhibit high levels of AKR1C3 which should lead to selective activation of PR104 within both hypoxic and oxic leukemic cells.
+* Preclinical data. PR104 has demonstrated impressive activity in an initial study using primary human ALL in a mouse model.
+
+The initial dose finding phase of the study will provide estimates of the activity and toxicity of PR104 in subjects with refractory/relapsed AML, and determine the optimal individualized dose to give each subject based on his/her covariates (prior CR duration, prior number of salvage therapies, age). Once a potentially beneficial dose has been determined, an expanded cohort of subjects with AML or ALL will receive PR104 at a uniform dose. This information will prove valuable in defining the future clinical development of PR104, and in determining if PR104 has sufficient activity and acceptable safety in AML to warrant future phase II or phase III studies in this indication.
+
+Primary objectives
+
+* Determine the toxicities and recommended dose of PR104 when administered IV to subjects with relapsed/refractory AML and ALL.
+
+Secondary objectives
+
+* Evaluate the pharmacokinetics (PK) of PR104 and a series of PR104 metabolites
+* Evaluate any anti-tumor effects of PR104
+* Evaluate the expression of AKR1C3 in bone marrow and leukemic cells
+* Evaluate potential biomarkers of hypoxia
+Acute Myelogenous Leukemia|Acute Lymphocytic Leukemia
+DRUG: PR104
+Determine the optimal individualized dose to give each refractory/relapsed AML subject based on his/her covariates (prior CR duration, prior number of salvage therapies, age)., 42 days
+A single arm study defining the recommended dose of PR104 for each subpopulation in this patient population.
+
+Following informed consent, subjects will undergo baseline evaluation with a history, physical exams, blood work, and disease assessment. Subjects will be assigned a dose of PR104 based on a Bayesian model maintained at the Statistical department at MD Anderson Cancer Center. The model will be updated with both toxicity and efficacy data as it is generated for each subject. New subjects will receive the currently predicted best dose for their respective subset based on prior treatment, age and duration of prior response.
+
+PR104 will be administered initially as induction therapy for up to 3 cycles. Response will be assessed around day 42 (+/- 2 days) of the study. Subjects who obtain a CR or CRp will receive consolidation therapy for up to 4 additional cycles.
+
+Subjects will be evaluated each week during the induction phase of the study. During the consolidation phase of the study, subjects will be evaluated on Day 1 of each cycle and as clinically indicated. Subjects with clinically significant progression will be removed from study.

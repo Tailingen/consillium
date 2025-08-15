@@ -1,0 +1,27 @@
+Novel Multimodality Imaging for Navigation in Skull Base Surgery
+Successful neurosurgery to remove tumours around the base of the skull, such as a vestibular schwannoma, depends on achieving maximal tumour removal whilst preserving crucial neurological functions such as facial movement, and maintaining quality of life.
+
+Current techniques to direct surgery are based on the surgeon's expertise and knowledge of the relevant anatomy, supplemented by the use of electrical recording and stimulation of the facial nerve. However, it is often very difficult to visualise the nerve during surgery and facial nerve paralysis remains a potentially devastating complication of surgery.
+
+Advanced imaging methods may be used to visualise important neural connections in the brain and computer-assisted processing can generate tumour maps from MRI and ultrasound scans. This study aims to utilise these technologies to develop a 3D navigation system for skull base surgery.
+
+This study aims to develop a system that will combine MRI and intraoperative ultrasound imaging to enhance the surgeon's view of the tumour, facial nerve and other surrounding critical structures during surgery. This information will be made available in the navigation system in the operating room so that operations are more precise resulting in better tumour removal rates and fewer complications.
+
+The system will be assessed during the treatment of 20 patients with vestibular schwannoma at the National Hospital for Neurology and Neurosurgery. This feasibility study will validate the different parts of the new system and help us design a future research study to determine its effectiveness in improving patient care.
+
+This project will result in safer and more effective neurosurgery, with potential consequent financial savings for the NHS and the UK, in addition to marked improvements in the quality of life of patients and reduced dependency upon others.
+Vestibular Schwannoma
+DEVICE: Use of navigation system
+To assess the functionality and performance of a 3D surgical technical platform for integrating data from 3 different data sources (MRI, US and Neuronavigation data) in a clinical setting using a composite of quantitative and qualitative measurements, Composite of quantitative and qualitative measurements to assess the system's functionality and technical performance, Data will be collected on the date of patients' routine surgical procedure, assessed on 1 day from the start time (hh:hh) of set-up of the 3d surgical platform to the end time (hh:hh) of surgery
+Correlation of electromyographic stimulation of facial nerve with preoperatively acquired diffusion imaging, Stimulation response (binary outcome) and amplitude (mA), A minimum of 9 time points (selected at random) during each surgical procedure, assessed on 1 day from the start time (hh:hh) to the end time (hh:hh) of surgery|Postoperative tumour volume on contrast-enhanced MRI and its correlation with the final intraoperative ultrasound measurement, Tumour volume (cm3) on MRI and US, Final intraoperative US volume vs post op MRI volume (within 3 months)|Average duration of surgical procedure using 3D navigation system, Time (hours), From start time to end time of each surgical procedure, assessed on 1 day|Documentation of technical system issues and implemented solutions, Documentation of technical system issues and implemented solutions (using qualitative research methods), From start time to end time of each surgical procedure, assessed on 1 day
+Successful neurosurgery to remove tumours around the base of the skull, such as a vestibular schwannoma, depends on achieving maximal tumour removal whilst preserving crucial neurological functions such as facial movement, and maintaining quality of life.
+
+Current techniques to direct surgery are based on the surgeon's expertise and knowledge of the relevant anatomy, supplemented by the use of electrical recording and stimulation of the facial nerve. However, it is often very difficult to visualise the nerve during surgery and facial nerve paralysis remains a potentially devastating complication of surgery.
+
+Advanced imaging methods may be used to visualise important neural connections in the brain and computer-assisted processing can generate tumour maps from MRI and ultrasound scans. This study aims to utilise these technologies to develop a 3D navigation system for skull base surgery.
+
+This study aims to develop a system that will combine MRI and intraoperative ultrasound imaging to enhance the surgeon's view of the tumour, facial nerve and other surrounding critical structures during surgery. This information will be made available in the navigation system in the operating room so that operations are more precise resulting in better tumour removal rates and fewer complications.
+
+The system will be assessed during the treatment of 20 patients with vestibular schwannoma at the National Hospital for Neurology and Neurosurgery. This feasibility study will validate the different parts of the new system and help us design a future research study to determine its effectiveness in improving patient care.
+
+This project will result in safer and more effective neurosurgery, with potential consequent financial savings for the NHS and the UK, in addition to marked improvements in the quality of life of patients and reduced dependency upon others.

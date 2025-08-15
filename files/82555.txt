@@ -1,0 +1,10 @@
+RITUAL Ultivision AI CADe Randomized Controlled Trial
+Ultivision AI is a computer-assisted detection (CADe) device intended to aid endoscopists in the real-time identification of colonic mucosal lesions (such as polyps and adenomas).
+
+Ultivision AI CADe is indicated for white light colonoscopy only.
+Colon Adenoma|Polyp of Colon|Adenoma Colon
+DEVICE: Ultivision AI
+Adenoma per Colonoscopy (APC), Superiority of Ultivision-AI arm versus control arm. APC is defined as the total number of histologically confirmed adenomas resected divided by the total number of colonoscopies., During the procedure/surgery|Adenoma Per Extraction (APE)., Non inferiority of Ultivision-AI arm versus control arm. Where APE is the fraction of adenoma, sessile serrated lesions, and large (\>10mm) hyperplastic polyps of the proximal colon (caecum, ascending colon, hepatic flexure, and transverse colon) out of total number of resections., During the procedure/surgery
+Ultivision AI contains an image processing software and algorithm based on machine learning technology and convolutional neural networks (CNN).
+
+The algorithm's primary function is to identify and highlight the likelihood of the presence of a colon polyp.

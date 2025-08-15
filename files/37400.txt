@@ -1,0 +1,12 @@
+Evaluation of a Pneumotachograph (SPI) for the Production of PET and CT Acquisitions Synchronized With Breath for the Assessment of Extension of Lung Cancer
+This is a pilot study, single-center, prospective, open-label, to assess the acceptability and performance of the experimental medical device (SPI) used during an imaging examination (PET / CT 4D imaging in synchronized mode centered on the thorax). Each patient will be its own control, since the imaging examination will be synchronized simultaneously with the two systems: tested Medical Device (SPI) and reference Medical Device(RPM).
+Non Small Cell Lung Cancer|Lung Nodule
+DEVICE: PET/CT 4D imaging in a synchronized mode centered on the thorax.
+Feasibility of the PET/CT synchronized exam with SPI device ("success" or "failure" ), feasibility is evaluated in a composite end point (success will be obtained in case of concomitant success of the 4 sub-criteria assessment):
+
+1. Tolerance / acceptability of the patient to breathe into SPI throughout the examination)
+2. Detection of breath cycle of the patient by measuring dCycleSpi (dCycleSpi = Number of synchronization signals emitted by SPI / total number of breath cycle \* 100).
+3. Accuracy of detection of inspiratory peak amplitudes with SPI medical device: by measuring dtSpi (dtSpi = standard deviation of the time lag between synchronization signals and maximum inspiratory amplitude for each cycle).
+4. Production of images with a correct segmentation of BTV during PET/CT synchronized exam with SPI device", 2 years
+Measure of dCycleRpm (dCycleRpmi = Number of synchronization signals emitted by RPM / total number of breath cycle * 100), 2 years|Accuracy of detection of maximum inspiratory amplitudes with RPM medical device: evaluated by measuring dtRpm, dtRpm = standard deviation of the time lag between synchronization signals and maximum inspiratory amplitude for each cycle, 2 years|Measure of BTVrpm (= biologic tumoral volume), 2 years
+This is a pilot study, single-center, prospective, open-label, to assess the acceptability and performance of the experimental medical device (SPI) used during an imaging examination (PET / CT 4D imaging in synchronized mode centered on the thorax). Each patient will be its own control, since the imaging examination will be synchronized simultaneously with the two systems: tested Medical Device (SPI) and reference Medical Device(RPM).

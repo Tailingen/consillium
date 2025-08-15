@@ -1,0 +1,37 @@
+Reduction of MTX Levels After Glucarpidase Treatment in DLBCL Patients at Risk of CNS
+Diffuse large B-cell lymphoma (DLBCL) is an aggressive subset of non-Hodgkin's lymphoma (NHL). Central nervous system (CNS) involvement in patients with NHL is a serious complication. The outcome of patients with CNS relapse is extremely poor, with a median survival of 4-6 months.
+
+One approach to reduce CNS relapse in high-risk patients is the use of systemic high-dose intravenous (iv) methotrexate (HMTX) chemotherapy. Currently available methods of MTX clearance, including dialysis-based methods, have shown limited efficacy.
+
+Glucarpidase hydrolyses MTX to inactive metabolites that are partially metabolised by the liver, thus providing an alternative route of limiting renal excretion.
+
+The administration of Glucarpidase could prevent MTX toxicity as a whole as well as the following consequences. The aim of this study is to analyse the prophylactic effect of 2,000 units of glucarpidase administered after 12 hours of HDMTX on MTX clearance and on the incidence and severity of MTX-related toxicity.
+Diffuse Large B-Cell Lymphoma|Drug Toxicity
+DRUG: Glucarpidase 1000 UNT [Voraxaze]
+Proportion of patients who achieve significant change blood MTX levels (more than 95% reduction of blood MTX levels) at 6 hours after administration of Glucarpidase, As a categorical variable: \>95% reduction of MTX (yes/no) after 6 hours after administration of 2,000 units of Glucarpidase., 6 hours
+Change blood MTX levels achieved at 15 minutes, 6 hours, 12 hours and 24 hours after administration of Glucarpidase, As a numerical variable: MTX in µmol/L before and after 15 minutes, 6 hours, 12 hours and 24 hours after administration of 2,000 units of Glucarpidase., 15min, 6 hours, 12 hours, 24 hours|Proportion of patients with more than 95% reduction of blood MTX levels after administration of Glucarpidase, As a numerical variable: MTX change from baseline in µmol/L after 15 minutes, 6 hours, 12 hours and 24 hours after administration of 2,000 units of Glucarpidase., 15min, 6 hours, 12 hours, 24 hours|Proportion of patients who achieve clinically important reduction (CIR) in blood MTX level at 15 minutes, 6 hours, 12 hours and 24 hours after administration of Glucarpidase., CIR is defined as a reduction in blood MTX concentration to ≤ 1 µmol/L in post-Glucarpidase time points. As a categorical variable: reduction in blood MTX concentration to ≤ 1 µmol/L (yes/no) after 15 minutes, 6 hours, 12 hours and 24 hours after administration of 2,000 units of Glucarpidase., 15min, 6 hours, 12 hours, 24 hours
+Glucarpidase hydrolyzes the terminal glutamate residue from MTX to inactive metabolites \[4-deoxy-4-amino-N10-methylpteroic acid (DAMPA) and glutamic acid\] which are partially metabolized by the liver, thus providing an alternative route of limitation to renal excretion.
+
+Administration of Glucarpidase cause a clinically important 99% or greater sustained MTX reduction being immediate in most patients, 87% of them experiencing a ≥ 95% reduction in serum MTX concentration at a median of 15 min post-Glucarpidase Early administration of Glucarpidase could avoid MTX toxicity as whole as well as the following consequences. The aim of this study is to analyze the prophylactic effect of 2,000 unit Glucarpidase administered after 12 hour of HDMTX on the MTX clearance and on the incidence and severity of MTX related-toxicity.
+
+According to normal clinical practice, patients will receive for curative intent rituximab cyclophosphamide, doxorubicin, vincristine, and prednisone (R-CHOP) by standard protocol on a 21-day cycle (a total of 6 cycles), plus 3 infusion of systemic intravenous MTX at a dose of 3 g/m2 for CNS prophylaxis (HDMTX) at cycles 1, 3 and 5.
+
+Glucarpidase will be capped at 2,000 units per dose (in two vials of 1,000 units/vial) given as a single intravenous (IV) bolus injection over 5 minutes. Glucarpidase will be administered 12 hours following each HDMTX at cycles 1, 3 and 5.
+
+Clinical laboratory evaluation of Hematology and Biochemistry will be conducted at each step of this study, according to the local laboratory method, to determine occurrences of adverse events (AE) or serious adverse events (SAE) following the Common Terminology Criteria for Adverse Events version 5.0 (CTCAE 5.0).
+
+According to standard practice, the blood MTX levels will be monitored according to the local laboratory method, already in place for this purpose. In addition, blood samples for analysis of MTX levels by LC-MS/MS should be drawn at the different time-point.
+
+Therefore, the pharmacokinetic study of MTX clearance includes a quantification of MTX plasma level before and after Glucarpidase administration, assessed by Liquid chromatography-tandem mass spectrometry (LC-MS/MS) analysis performed by Eurofins\|ADME Bioanalyses. Collection times are defined as described:
+
+T0 is the time 12 hours after the MTX infusion starts, with reference to T0. As previously mentioned, plasma MTX levels will be measured at:
+
+* T0 (pre-Glucarpidase i.v. injection) It will be considered maximum plasma MTX level
+* T0+15 minutes (15 minutes after the end of Glucarpidase administration)
+* T0+6hrs (6 hours after Glucarpidase is given)
+* T0+ 12 hrs (12 hours after Glucarpidase is given)
+* T0+ 24hrs (24 hours after Glucarpidase is given Antibodies anti-Glucarpidase (ADA) will be assessed 12 hours after the MTX infusions starts before Glucarpidase administration (reference to T0) and at the follow-up visit month 3 (after the end of RCHOP treatment). In case of positively response for antibodies at any time-point, the evaluation of immune response to Glucarpidase includes a quantification of the Glucarpidase immunogenicity assessed by a neutralization assay performed by Eurofins\|ADMEBioanalyses.
+
+Statistical analyses will be conducted based on the available data, without using techniques for inputting missing values, but describing the number of missing values for each analysis. All statistical tests will be performed at a significance level of α = 0.05, unless specifically stated otherwise.
+
+The primary outcome will be assessed by a descriptive analysis of MTX levels: - As a categorical variable: \>95% reduction of MTX (yes/no) after 6 hours after administration of 2,000 units of Glucarpidase. In addition, co-primary outcomes will be assessed by a descriptive analysis of MTX levels: - As a numerical variable: MTX in µmol/L before and after 15 minutes, 6 hours, 12 hours and 24 hours after administration of 2,000 units of Glucarpidase. - As a numerical variable: MTX change from baseline in µmol/L after 15 minutes, 6 hours, 12 hours and 24 hours after administration of 2,000 units of Glucarpidase. - As a categorical variable: \>95% reduction of MTX (yes/no) after 15 minutes, 12 hours and 24 hours after administration of 2,000 units of Glucarpidase.

@@ -1,0 +1,79 @@
+Phase II Trial of 64Cu-ATSM PET/CT in Cervical Cancer
+RATIONALE: Diagnostic procedures, such as 64Cu-labeled diacetyl-bis\[N4-methylthiosemicarbazone\] (copper Cu 64-ATSM) PET/CT scans, may help doctors predict how patients will respond to treatment.
+
+PURPOSE: This phase II trial is studying how well copper Cu 64-ATSM PET/CT scans work in predicting disease progression in patients undergoing standard of care treatment with cisplatin and radiation therapy (external beam and brachytherapy) per National Comprehensive Cancer Network (NCCN) guidelines for newly-diagnosed stage IB, stage II, stage III, or stage IVA cervical cancer via the Federation of Gynecology and Obstetrics (FIGO) staging systems.
+Cervical Cancer
+DRUG: 64Cu-ATSM|DRUG: FDG
+Relationship Between Copper Cu 64-ATSM Uptake in the Primary Tumor and Progression-free Survival 3 Years After Chemoradiotherapy, Progression-free survival (PFS) evaluated every 3 months for first 2 years and every 6 months during year 3 to determine PFS at 3years.
+
+Cu64-ATSM Uptake measured within 14 days of baseline Uptake is a measure of activity within a tumor
+
+1. the maximum standardized uptake value (SUVmax = tracer uptake in ROI / (injected activity / patient weight))
+2. Tumor-to-Muscle uptake ratio (T/M, An FDG-PET/CT-guided circular region of interest of 1.0-1.5 cm in diameter is drawn around the most intense region of the primary tumor to calculate the maximum uptake within the region. In addition, regions of interest are drawn on bilateral gluteal muscle groups on at least 3 slices, and the mean uptake is calculated. The T/M is the ratio of these measurements.), every 3 months for first 2 years and every 6 months during year 3, up to 3 years
+Copper Cu 64-ATSM T/M Uptake and Overall Survival, To determine if higher 64Cu-ATSM uptake on PET/CT is associated with lower Overall survival (OS) T/M Uptake measured within 14 days of baseline;
+
+Overall survival (OS) is measured every 3 months for first 2 years and every 6 months during year 3,until time of death or 3 years from baseline., every 3 months for first 2 years and every 6 months during year 3, up to 3 years|Relationship Between Copper Cu 64-ATSM Uptake and Complete Metabolic Response, Complete metabolic response determined by FDG PET/CT performed 3 months after completion of chemoradiation By definition, metabolic response (as defined by NCI Concept ID: C3897320. https://www.ncbi.nlm.nih.gov/medgen/856914) is "the disappearance of metabolic tumor activity in target and non-target lesions, marked by a decrease in tumor standardized uptake value to the level of surrounding normal tissue (tumor uptake/normal uptake = \~1)", 3 months after completion of chemoradiation|Primary Tumor Recurrence, To determine if higher 64Cu ATSM uptake is associated with earlier primary cervical tumor recurrence images were taken every 3 months for first 2 years and every 6 months during year 3, up to 3 years and evaluated for primary cervical tumor recurrence, every 3 months for first 2 years and every 6 months during year 3, up to 3 years|Lymph Node Metastasis at Baseline, Lymph nodes were evaluated at 5 locations: Pelvic, Common Iliac, Para Aortic, Mediastinal, and Supraclavicular
+
+This outcome looks at the Association of Ratio of Tissue to Muscle (T/M) uptake with Lymph Node Metastases at Baseline, Two weeks|Relationship of Copper Cu 64-ATSM Uptake T/M Ratio and Carbonic Anhydrase IX (CA-IX) Percentage of Tumor Cells Staining Score as a Marker of Tumor Hypoxia, The Ratio of Tissue to Muscle (T/M) agent uptake measured at baseline was used as a predictor of Hypoxia Tumor Hypoxia was assessed with Carbonic anhydrase IX (CA-IX) markers using the
+
+Percentage of Tumor Cells Staining Score:
+
+0=\<1% tumor cells; 1=1 33% tumor cells; 2=34 66% tumor cells; and 3=\>66% tumor cells., baseline|Relationship of Copper Cu 64-ATSM Uptake T/M Ratio and CA-IX Staining Intensity Score: as a Marker of Tumor Hypoxia, The Ratio of Tissue to Muscle (T/M) agent uptake measured at baseline was used as a predictor of Hypoxia Tumor Hypoxia was assessed with CA-IX markers using the
+
+Staining Intensity Score:
+
+0=No staining; 1=Weak staining; and 2=Moderate to strong staining., baseline|Relationship of Copper Cu 64-ATSM Uptake T/M Ratio and CA-IX Composite Score as a Marker of Tumor Hypoxia, The Ratio of Tissue to Muscle (T/M) agent uptake measured at baseline was used as a predictor of Hypoxia Tumor Hypoxia was assessed with CA-IX markers using the
+
+Composite Score (range 0-6):
+
+Computed by using the coded values of Percentage of Tumor Cells Staining Score (0-3) multiplied by the coded value of Staining Intensity Score (0-2)., Baseline|Relationship of Copper Cu 64-ATSM Uptake T/M Ratio and VEGF Percentage of Tumor Cells Staining Score as a Marker of Tumor Hypoxia, The Ratio of Tissue to Muscle (T/M) agent uptake measured at baseline was used as a predictor of Hypoxia Tumor Hypoxia was assessed with VEGF markers using the
+
+Percentage of Tumor Cells Staining Score:
+
+0=\<1% tumor cells; 1=1 33% tumor cells; 2=34 66% tumor cells; and 3=\>66% tumor cells., baseline|Relationship of Copper Cu 64-ATSM Uptake T/M Ratio and Vascular Endothelial Growth Factor (VEGF) Staining Intensity Score: as a Marker of Tumor Hypoxia, The Ratio of Tissue to Muscle (T/M) agent uptake measured at baseline was used as a predictor of Hypoxia Tumor Hypoxia was assessed with Vascular endothelial growth factor (VEGF) markers using the
+
+Staining Intensity Score:
+
+0=No staining; 1=Weak staining; and 2=Moderate to strong staining., baseline|Relationship of Copper Cu 64-ATSM Uptake T/M Ratio and Vascular Endothelial Growth Factor (VEGF) Composite Score as a Marker of Tumor Hypoxia, The Ratio of Tissue to Muscle (T/M) agent uptake measured at baseline was used as a predictor of Hypoxia Tumor Hypoxia was assessed with Vascular endothelial growth factor (VEGF) markers using the
+
+Composite Score (range 0-6):
+
+Computed by using the coded values of Percentage of Tumor Cells Staining Score (0-3) multiplied by the coded value of Staining Intensity Score (0-2)., Baseline|Relationship of Copper Cu 64-ATSM Uptake T/M Ratio and Glucose Transporter 1 (GLUT1) Percentage of Tumor Cells Staining Score as a Marker of Tumor Hypoxia, The Ratio of Tissue to Muscle (T/M) agent uptake measured at baseline was used as a predictor of Hypoxia Tumor Hypoxia was assessed with Glucose transporter 1 (GLUT1) markers using the
+
+Percentage of Tumor Cells Staining Score:
+
+0=\<1% tumor cells; 1=1 33% tumor cells; 2=34 66% tumor cells; and 3=\>66% tumor cells., baseline|Relationship of Copper Cu 64-ATSM Uptake T/M Ratio and Glucose Transporter 1 (GLUT1) Staining Intensity Score: as a Marker of Tumor Hypoxia, The Ratio of Tissue to Muscle (T/M) agent uptake measured at baseline was used as a predictor of Hypoxia Tumor Hypoxia was assessed with GLUT-1 markers using the
+
+Staining Intensity Score:
+
+0=No staining; 1=Weak staining; and 2=Moderate to strong staining., baseline|Relationship of Copper Cu 64-ATSM Uptake T/M Ratio and Glucose Transporter 1 (GLUT1) Composite Score as a Marker of Tumor Hypoxia, The Ratio of Tissue to Muscle (T/M) agent uptake measured at baseline was used as a predictor of Hypoxia Tumor Hypoxia was assessed with Glucose transporter 1 (GLUT1) markers using the
+
+Composite Score (range 0-6):
+
+Computed by using the coded values of Percentage of Tumor Cells Staining Score (0-3) multiplied by the coded value of Staining Intensity Score (0-2)., Baseline|Relationship Between Copper Cu 64-ATSM Uptake and Development of Distant Metastasis, Existence of distant metastasis was evaluated every 3 months for first 2 years and every 6 months during year 3 Copper Cu 64-ATSM Uptake (T/M) measured within 14 days of baseline;, every 3 months for first 2 years and every 6 months during year 3, up to 3 years
+OBJECTIVES:
+
+Primary
+
+* To define the role of pre-therapy \^64Cu-labeled diacetyl-bis(N4-methylthiosemicarbazone) (copper Cu 64-ATSM) in predicting prognosis and determining the behavior of an invasive squamous cell cervical cancer in patients with newly-diagnosed stage IB2-IVA cervical squamous cell carcinoma.
+* To determine whether higher copper Cu 64-ATSM uptake is associated with lower progression-free survival of these patients after chemoradiotherapy.
+
+Secondary
+
+* To determine if higher copper Cu 64-ATSM uptake is associated with lower overall survival of these patients.
+* To determine if higher copper Cu 64-ATSM uptake is associated with earlier primary cervical tumor recurrence and a higher rate of development of distant metastatic disease in these patients.
+* To determine if higher copper Cu 64-ATSM uptake is associated with a lower frequency of complete metabolic response on 2-Deoxy-2-\[18F\]fluoroglucose (FDG) -PET/CT scan performed 3 months after completion of radiotherapy and chemotherapy.
+* To estimate the accuracy of copper Cu 64-ATSM uptake as a predictor of progression-free survival, overall survival, primary tumor recurrence, and future development of distant metastatic disease in these patients.
+* To evaluate the performance of copper Cu 64-ATSM uptake as a predictor of lymph node metastasis at study entry.
+* To evaluate whether copper Cu 64-ATSM uptake correlates with tumor volume at study entry.
+* To examine the relationship between tumor uptake of copper Cu 64-ATSM and other markers of tumor hypoxia, including Vascular endothelial growth factor (VEGF) , Glucose transporter 1 (GLUT1), Carbonic anhydrase IX (CA9/CA IX), and Osteopontin (OPN).
+* To compare the predictive ability of pre-therapy copper Cu 64-ATSM-PET to that of post-therapy FDG-PET/CT scan.
+* To assess whether pre-therapy FDG-PET/CT findings are predictive of progression-free survival.
+
+OUTLINE: This is a multicenter study.
+
+Patients receive copper Cu 64-ATSM IV and undergo PET/CT scan over 30 minutes 30-40 minutes later. Within 4 weeks after copper Cu 64-ATSM-PET/CT scan, patients begin planned concurrent standard of care chemoradiotherapy comprising 6 weeks of radiotherapy (external beam and brachytherapy)and weekly cisplatin administration per NCCN guidelines. Patients then undergo FDG-PET/CT scan 3 months after completion of chemoradiotherapy.
+
+Tissue samples from previously collected cervical biopsy (obtained for diagnosis) are used for detecting hypoxic markers by immunohistochemistry analysis.
+
+After completion of study intervention, patients are followed for every 3 months for 2 years and then every 6 months for 1 year.

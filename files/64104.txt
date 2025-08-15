@@ -1,0 +1,7 @@
+Tissue Characterization With Hyperspectral Imaging (HSI)
+Hyperspectral Imaging (HSI) is a contact free method to analyse the from the tissue reflected light in the range of 500-1000nm. Aim of the study is to identify special reflex patterns to identify special tissue
+Tissue Perfusion|Tumor|Inflammation|Inflammatory Bowel Diseases
+PROCEDURE: Hyperspectral imaging|DIAGNOSTIC_TEST: Lactate acid measurement|DIAGNOSTIC_TEST: pathological examination
+Tumor detection with HSI, Due to the non-invasive diagnostics with the HSI camera, tumor tissue can be distinguished from healthy tissue., direct during the Operation (ca. 15-20 Minutes)|Tissue recognition with HSI, different tissues can be differentiated from each other with HSI, after the operation within 24 hours|Inflammatory classification with HSI, Classification of the grade of the inflammation e.g. in IBD, after the operation within 24 hours
+Tissue perfusion, Tissue perfusion in the upper and lower tissue layers measured with the HSI Camera, direct during the Operation (ca. 10-15 Minutes)
+This HSI-camera provides hyperspectral images with a high spectral resolution (5 nm) in the visible and near infrared range (500-1000 nm). A RGB image and 4 false color images that represent physiologic parameters are intraoperatively provided by an analysis software. But after the procedure all spectral datasets could be investigated. To analyse and differentiate the different tissues, a catalog database is needed of all tissues including Tumors.

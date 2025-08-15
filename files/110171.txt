@@ -1,0 +1,33 @@
+Decitabine With or Without Interferon Alfa-2b in Treating Patients With Unresectable or Metastatic Solid Tumors
+This phase I trial is studying the side effects of decitabine when given together with or without interferon alfa-2b, and the best dose of interferon alfa-2b, in treating patients with unresectable or metastatic solid tumors. Drugs used in chemotherapy, such as decitabine, work in different ways to stop the growth of tumor cells, either by killing the cells or by stopping them from dividing. Biological therapies, such as interferon alfa-2b, may stimulate the immune system in different ways and stop tumor cells from growing. It is not yet known whether decitabine is more effective when given with or without interferon alfa-2b in treating solid tumors.
+Unspecified Adult Solid Tumor, Protocol Specific
+BIOLOGICAL: peginterferon alfa-2b|DRUG: decitabine|OTHER: laboratory biomarker analysis
+Toxicities as assessed by the National Cancer Institute (NCI) Common Terminology Criteria for Adverse Events (CTCAE) version 3.0, The type, frequency, and severity of each toxicity will be reported., Up to 28 days|Dose-limiting toxicity (DLT) of pegylated interferon alfa-2b when given with decitabine as assessed by NCI CTCAE version 3.0, DLT is defined as grade III drug-related non hematologic and/or grade IV drug-related hematologic toxicity., First 28-day course|Maximum-tolerated dose (MTD) of pegylated interferon alfa-2b when given with decitabine as assessed by NCI CTCAE version 3.0, The MTD will be the dose level where not more than 1 case of a specific grade III-IV drug-related toxicity is observed, and either 2+toxicities have been observed at the next highest dose level, or the maximum dose-level of PEG-Intron has been reached., First 28-day course
+Global (genomic) DNA methylation changes by high-performance liquid chromatography (HPLC), Repeated measures analysis of variance and other linear modeling techniques will be used., Baseline to up to day 1 of course 2|Changes in expression of methylation-regulated genes in human biological tissues, Repeated measures analysis of variance and other linear modeling techniques will be used., Baseline to up to day 1 of course 2|Complete and partial response rates, Up to 1 year
+PRIMARY OBJECTIVES:
+
+I. To assess toxicities of decitabine plus escalating doses of pegylated interferon alfa-2b (PEG-Intron) in patients with metastatic solid tumor.
+
+II. To identify the dose-limiting toxicity of decitabine in combination with escalating doses of pegylated interferon alfa-2b in these patients.
+
+III. To identify the maximum tolerated dose of pegylated interferon alfa-2b in combination with decitabine in these patients.
+
+SECONDARY OBJECTIVES:
+
+I. To evaluate pretreatment and post-treatment blood and tumor samples to identify changes in global (genomic) DNA methylation.
+
+II. To evaluate pretreatment and post-treatment blood, skin and tumor samples to identify changes in Mage-1 mRNA and protein expression, DNMT-1 levels (due to sequestration by 5-azacytidine), p53 induction (evidence of DNA damage response), as well as changes in levels of 2'5'-oligoadenylate synthesis, MxA and HLA class I as indicators of interferon response.
+
+III. To evaluate complete and partial response rates in patients receiving decitabine in combination with escalating doses of pegylated interferon alfa-2b.
+
+OUTLINE:
+
+This is a dose-escalation study of pegylated interferon alfa-2b. Patients are assigned to 1 of 2 treatment groups.
+
+GROUP 1 (control): Patients receive decitabine IV over 1 hour on days 1-5 and 8-12. Courses repeat every 28 days in the absence of disease progression or unacceptable toxicity. Patients who experience disease progression after the first course of treatment may crossover to receive treatment in group 2.
+
+GROUP 2: Patients receive decitabine as in group 1 and pegylated interferon alfa-2b subcutaneously on days 1, 8, 15, and 22.
+
+Courses repeat every 28 days in the absence of disease progression or unacceptable toxicity. Patients undergo blood sample, normal skin, and tissue biopsy collection at baseline and periodically during study. Blood, normal skin, and tissue samples are analyzed for global (genomic) DNA methylation (gene-promoter methylation, gene and protein expression, p53 induction by DNA damage) and interferon levels by high-performance (pressure) liquid chromatography and PCR methylation assays, and for pharmacodynamic studies.
+
+After completion of study treatment, patients are followed at 28 days and then every 3 months.

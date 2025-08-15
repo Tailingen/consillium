@@ -1,0 +1,14 @@
+Brain-Shift Monitoring Using 3D Scanning
+A prospective non-invasive data/image collection for evaluation of the performance of the Advanced Scanners 3D scanner during brain surgery.
+
+The primary objective is to evaluate the performance of the scanner in determining the brain surface shape over multiple time points during craniotomies (surgical opening into the skull), and present those shapes in full color, with high resolution in all three coordinates of 3D space. A secondary objective is to use the measurements to determine brain shift as a function of time.
+Craniotomy for Epilepsy and Malignant Tumor Removal
+DEVICE: Brain shift monitoring
+Brain-shift measurement, Measure brain-shift in human subjects' brains with our scanning technology, and compare with preoperative MRI or CT, and, optionally, with inter-operative or postoperative MRI or CT scans. Measurements will include changes, measured in millimeters, of the surface anatomic features of the brain from the optical scans. Overall topological changes will also be measured between pre- and post-operative CT/MRI imaging of the patient with the optical scans. All these measurements will be performed using co-registered surfaces, reporting specifically computer-determined measurement of distances between those surfaces., Throughout the surgical procedure
+Brain-shift measurement accuracy, Measurement of brain-shift in human subjects' brains with sub-mm accuracy using our scanning technology, Throughout the surgical procedure
+Operation of the 3D scanner, Successful operation of the scanner providing periodic feedback to the surgeon, Throughout the surgical procedure
+The scanner sterilization will largely follow procedures used currently for cameras and microscopes: the scanner will be draped in a disposable drape custom manufactured for the device by a leading instrument drape manufacturer (Medline). The drape will be windowed with a sterilized shatterproof plastic optical window. Standard hospital procedures will be followed for the disposal of instrument drapes. The drape will be sterile and wrapped in the conventional manner, and the drape itself will be disposable. Prior to surgery, the drape, window and frame will undergo the same sterilization procedure as other equipment. If window transparency is compromised during surgery, it can be cleaned with a cleaning agent.
+
+The scanner will illuminate the craniotomy region with light for the duration of its use, which may be for the duration of the surgery. The scanner will be anywhere from 8 to 12 inches away from the patient, illuminating the subject's brain by the scanner light for 2 minutes at a time, or continuously, either with or without maximum overhead lighting.
+
+For each patient, the duration of obtaining data will last for the duration of the clinical operation procedure. The 3D Scanner on and off time would add less than 5 minutes to the procedure, not including measurement time.

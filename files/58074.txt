@@ -1,0 +1,59 @@
+Financial Burden Assessment in Patients With Stage I-III Colon or Rectal Cancer Undergoing Treatment
+This research trial studies the financial burden in patients with stage I-III colon or rectal cancer who are undergoing treatment. Collecting data from patients about their cost and quality of life may help doctors to better understand the impact of cancer treatment on a patient?s employment and finances.
+Stage I Colon Cancer AJCC v8|Stage I Rectal Cancer AJCC v8|Stage II Colon Cancer AJCC v8|Stage II Rectal Cancer AJCC v8|Stage IIA Colon Cancer AJCC v8|Stage IIA Rectal Cancer AJCC v8|Stage IIB Colon Cancer AJCC v8|Stage IIB Rectal Cancer AJCC v8|Stage IIC Colon Cancer AJCC v8|Stage IIC Rectal Cancer AJCC v8|Stage III Colon Cancer AJCC v8|Stage III Rectal Cancer AJCC v8|Stage IIIA Colon Cancer AJCC v8|Stage IIIA Rectal Cancer AJCC v8|Stage IIIB Colon Cancer AJCC v8|Stage IIIB Rectal Cancer AJCC v8|Stage IIIC Colon Cancer AJCC v8|Stage IIIC Rectal Cancer AJCC v8
+OTHER: Quality-of-Life Assessment|OTHER: Questionnaire Administration
+Comprehensive Score for Financial Toxicity (COST), The Comprehensive Score for Financial Toxicity (COST) COST is an 11-item patient-reported outcome (PRO) of financial hardship that uses a 7-day time window and 5-point Likert response scale (ranging from 0, indicating not at all, to 4, very much). Higher COST scores (range, 0-44) represent better financial well-being.
+
+The primary objective is to evaluate the change in the level of self-reported financial burden from baseline (within 60 days of diagnosis) to 12 months from study registration. (12 mo - baseline), Baseline and 12 months after cancer diagnosis
+Reported Access and Utilization of Financial Services, Will evaluate reported access and utilization of financial services (i.e. financial counselor, navigator, social workers) and its association to financial burden in the first 12 months after diagnosis of colon or rectal cancer treated with curative-intent. Will be assessed by Consumer Based Cancer Care Value Index (CCVI). For the continuous item variable, will conduct the paired t test to examine the difference if the distribution is normal. If not normally distributed, Wilcoxon signed rank test will be used. For the categorical item variable, the paired proportion test (e.g., McNemar test) will be used instead. The association between CCVI and COST measures will be evaluated using the Pearson or Spearman correlation coefficient., Up to 12 months|Change in Level of Self-reported Employment Limitations, Change in level of self-reported employment limitations from baseline to 6, 12 and 24 months after study registration will be assessed by Work Productivity and Activity Impairment Questionnaire for a Specific Health Problem (WPAI:SHP). WPAI outcomes are expressed as impairment percentages, with higher numbers indicating greater impairment and less productivity, i.e., worse outcomes, as follows:
+
+Questions:
+
+1. = currently employed
+2. = hours missed due to specified problem
+3. = hours missed other reasons
+4. = hours actually worked
+5. = degree problem affected productivity while working
+6. = degree problem affected regular activities
+
+Scores:
+
+Multiply scores by 100 to express in percentages.
+
+Percent work time missed due to problem: Q2/(Q2+Q4)
+
+Percent impairment while working due to problem: Q5/10
+
+Percent overall work impairment due to problem:
+
+Q2/(Q2+Q4)+\[(1-(Q2/(Q2+Q4)))x(Q5/10)\]
+
+Percent activity impairment due to problem: Q6/10, Baseline, 6, 12, and 24 months after cancer diagnosis|Level of Self-reported Employment Limitations (Dichotomized), Change in level of self-reported employment limitations from baseline to 6, 12 and 24 months after study registration will be assessed by Work Productivity and Activity Impairment Questionnaire for a Specific Health Problem (WPAI:SHP). WPAI outcomes are expressed as impairment percentages, with higher numbers indicating greater impairment and less productivity, i.e., worse outcomes. These outcomes were further dichotomized at 50%, such that Impairment \> 50% was considered impaired and Impairment \<=50% was not-impaired, Baseline, 6, 12, and 24 months after cancer diagnosis|Long Term Outcomes After Diagnosis for Adherence, Will evaluate long term outcomes at 24 months after diagnosis for adherence to clinical follow-up guidelines. Specially, linear (or generalized linear) mixed model will be fit to study the change in the mean response over time. In case the changes in the mean response over time are not linear, the quadratic trends or non-linear trends via spline may be considered in the modeling. Interactions will be evaluated as well., At 24 months|Long Term Outcomes After Diagnosis for Financial Burden, Will evaluate long term outcomes at 24 months after diagnosis for financial burden. Specially, linear (or generalized linear) mixed model will be fit to study the change in the mean response over time and also the effects of cancer type, stage, treatment plan and demographics, etc. on financial burden. In case the changes in the mean response over time are not linear, the quadratic trends or non-linear trends via spline may be considered in the modeling. Interactions will be evaluated as well., At 24 months|Long Term Outcomes After Diagnosis for Employment Limitations, Will evaluate long term outcomes at 24 months after diagnosis for employment limitations. Specially, linear (or generalized linear) mixed model will be fit to study the change in the mean response over time. In case the changes in the mean response over time are not linear, the quadratic trends or non-linear trends via spline may be considered in the modeling. Interactions will be evaluated as well., At 24 months|Change of Quality-of-life (QoL) Outcome, Will evaluate the change of QoL from baseline to 12 months and its association with predictors. Will be evaluated by Functional Assessment of Cancer Therapy-General., Baseline up to 12 months|Changes Self-reported Financial Burden Between Baseline and 12 Month [EORTC], Financial Burden was evaluated using a single item from European Organization for Research and Treatment of Cancer Questionnaire 30 \[EORT30\]) with responses for both baseline and 12 months
+
+EORTC30 question:
+
+Has your physical condition or medical treatment caused you financial difficulties?
+
+* Not at all
+* A little
+* Quite a bit
+* Very much with higher values indicating greater financial difficulty (burden) Responses were dichotomized into No difficulty ("Not at All" ) and some difficulty ( "A little", "Quite a bit", or "Very much"), Baseline and12 months
+PRIMARY OBJECTIVES:
+
+I. Evaluate the change in level of self-reported financial burden from baseline (within 60 days of diagnosis) to 12 months after diagnosis of colon or rectal cancer treated with curative-intent.
+
+SECONDARY OBJECTVIES:
+
+I. Evaluate reported access and utilization of financial services (i.e. financial counselor, navigator, social workers) and its association to financial burden in the first 12 months after diagnosis of colon or rectal cancer treated with curative-intent.
+
+II. Evaluate the change in level of self-reported financial burden and employment limitations from baseline (within 60 days of diagnosis) to 3, 6, and 12 months after diagnosis of colon or rectal cancer treated with curative-intent.
+
+III. Evaluate long term outcomes at 24 months after diagnosis including financial burden, employment limitations and adherence to clinical follow-up guidelines.
+
+IV. Evaluate the change of quality-of-life outcome (QoL) from baseline to 12 months and its association with predictors.
+
+V. Evaluate the change in level of self-reported financial burden from baseline to 12 months using alternate measures of financial burden (i.e. impact of cost questions and single item from European Organization for Research and Treatment of Cancer \[EORTC\] questionnaire \[Q\]30).
+
+OUTLINE:
+
+Patients complete questionnaires over 20-60 minutes at baseline and at 3, 6, 12, and 24 months after cancer diagnosis.

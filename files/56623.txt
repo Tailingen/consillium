@@ -1,0 +1,53 @@
+GDC-0941 and Cisplatin in Treating Patients With Androgen Receptor-Negative Triple Negative Metastatic Breast Cancer
+This phase I/II trial study evaluates the tolerability and best tolerated dose of the PI3K inhibitor GDC-0941 when given with the chemotherapy cisplatin. This study will also examine how well the combination of GDC-0941 and cisplatin work in treating patients with androgen receptor negative triple negative metastatic breast cancer. Patients will be randomized to receive cisplatin alone or cisplatin with GDC-0941 in the phase II portion. Those receiving cisplatin alone can receive GDC-0941 upon progression of their disease. Cisplatin is a chemotherapy which has been shown to be effective in treating triple negative breast cancer. Preclinical studies show that adding a PI3K inhibitor such as GDC-0941 to cisplatin may be a more effective treatment for breast cancer.
+Estrogen Receptor Negative Breast Cancer|Human Epidermal Growth Factor 2 Negative Carcinoma of Breast|Triple Negative Breast Cancer|Recurrent Breast Cancer|Stage IV Breast Cancer|Triple-negative Breast Cancer
+DRUG: cisplatin|OTHER: laboratory biomarker analysis|OTHER: pharmacological study|PROCEDURE: dynamic contrast-enhanced MRI, diffusion-weighted MRI & chemical exchange saturation transfer MRI|DRUG: GDC -0941
+Maximum Tolerated Dose(MTD) of GDC-0941 and Recommended Phase II Dose of GDC-0941 Given in Combination With Cisplatin. - (Phase Ib), GDC-0941 dose will start at 260 mg (maximum dose). De-escalation of the intensity of the dose (if necessary) will proceed among cohorts of 3 patients according to a standard 3+3 algorithm beginning at the highest dose level of GDC-0941 260mg.
+
+MTD is defined as the highest dose at which a DLT is experienced \>= 1 out of 6 patients.
+
+A cohort of 3 patients was initially enrolled in the GDC-0941 arm at dose 260mg PO days 2-6, 9-13, 16-20, 23-27 of 28 day cycle
+
+1. If no patient in the first cohort of 3 experiences a DLT, an additional cohort of 3 patients will be treated at the same dose level.
+2. If 1 patient experiences a DLT in the first cohort, an additional cohort of 3 patients will be treated at the same dose level.
+3. If ≤1 patient has a DLT in 6 treated at this same dose, this will be considered a tolerable dose to move to phase II.
+4. If 2 or more patients in 3 or 6 patients treated at a given dose experience DLT, the dose will be de-escalated to the next lower dose level., 4 weeks|Percentage of Patients Achieving Overall Response - (Phase II), The primary efficacy endpoint is overall response rate (ORR) of cisplatin + GDC-0941 versus cisplatin alone in patients with AR- TN MBC. ORR is defined as the percentage of subjects achieving complete response (CR) plus partial response (PR) as their best response by RECIST version 1.1 for targeted lesions and assessed by CT, MRI scan.
+
+Objective responses, was estimated by the overall tumor burden at baseline (targeted lesions) in which subsequent measurements were performed every 8 weeks using the Solid Tumor Response Criteria (RECIST) v1.1 were compared. Complete Response (CR): Disappearance of all target lesions. Partial Response (PR): At least a 30% decrease in the sum of diameters of target lesions, taking as reference the baseline sum diameters., at 8 weeks
+Number of Patients With Dose-limiting Toxicities Per NCI Common Terminology for Adverse Events (CTCAE) - (Phase Ib), Number of patients with Grade 3 and 4 toxicities per NCI Common Terminology for Adverse Events (CTCAE) version 4.0 requirements., During the first 4 weeks|Clinical Benefit Rate - (Phase II), Clinical Benefit Rate (CBR) is defined as complete response (CR) plus partial response (PR) plus stable disease (SD) for 6 months.
+
+Clinical Benefit Rate (CBR) is calculated with the corresponding 95% confidence intervals at the dose recommended for phase II.
+
+Response and progression will be evaluated using the international criteria proposed by the revised Response Evaluation Criteria in Solid Tumors (RECIST) version 1.1 performed at baseline and every 8 weeks will be compared., at 32 weeks|Time to Progression - (Phase II), Time to Progression (TTP) is calculated with the corresponding 95% confidence interval at the dose recommended for phase II. TTP is defined as the time from randomization until objective tumor progression, this does not include deaths unrelated to disease progression., From time of randomization to disease progression, up to 104 weeks
+Correlation of the Presence of PIK3CA Mutations in the Tumor With Time to Tumor Progression., Examining tumor tissue for PI3K mutations and correlating this statistically with clinical outcomes including time to tumor progression., 2 years
+PRIMARY OBJECTIVES:
+
+I. To determine the safety and tolerability of GDC-0941 when given in combination with cisplatin in patients with androgen receptor-negative (AR-) triple negative (TN) metastatic breast cancer (MBC): assessment of dose limiting toxicities (DLTs) during the first 4 weeks of treatment (cycle 1); determination of the maximally tolerated dose (MTD) and recommended phase II dose of GDC-0941 given in combination with cisplatin. (Phase IB)
+
+II. To evaluate the efficacy, as measured by the overall response rate (ORR), of cisplatin + GDC-0941 versus cisplatin alone in patients with AR- TN MBC. (Phase II)
+
+SECONDARY OBJECTIVES:
+
+I. To determine the clinical benefit rate (CBR) of cisplatin + GDC-0941 in patients with AR- TN MBC.
+
+II. To determine the time to disease progression (TTP) of cisplatin + GDC-0941 versus cisplatin alone in patients with AR- TN MBC.
+
+TERTIARY OBJECTIVES:
+
+I. To characterize pharmacokinetics of GDC-0941 when administered in combination with cisplatin.
+
+II. To explore predictors of response and mechanisms of resistance based on exploratory analysis of tumor tissue obtained through biopsies.
+
+III. To assess the prognostic effects of phosphatidylinositol-4,5-bisphosphate 3-kinase, catalytic subunit alpha (PIK3CA) mutations and phosphatase and tensin homolog (PTEN) loss on TTP and CBR.
+
+OUTLINE: This is a phase I, dose-deescalation study of PI3K inhibitor GDC-0941 followed by a randomized phase II study.
+
+PHASE I: Patients receive cisplatin intravenously (IV) over 1 hour on days 1, 8, and 15 and PI3K inhibitor GDC-0941 orally (PO) once daily (QD) on days 2-6, 9-13, 16-20, and 23-27. Courses repeat every 28 days in the absence of disease progression or unacceptable toxicity.
+
+PHASE II: Patients are randomized to 1 of 2 treatment arms.
+
+ARM I: Patients receive cisplatin IV over 1 hour on days 1, 8, and 15. Courses repeat every 28 days in the absence of disease progression or unacceptable toxicity. Patients may crossover to Arm II upon disease progression.
+
+ARM II: Patients receive cisplatin as in Arm I and PI3K inhibitor GDC-0941 PO QD on days 2-6, 9-13, 16-20, and 23-27. Courses repeat every 28 days in the absence of disease progression or unacceptable toxicity.
+
+After completion of study treatment, patients are followed up for 30 days.

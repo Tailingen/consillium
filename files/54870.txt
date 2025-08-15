@@ -1,0 +1,20 @@
+Pembrolizumab & Cabozantinib in Patients With Head and Neck Squamous Cell Cancer
+This phase II trial studies how well pembrolizumab and cabozantinib in treating patients with head and neck squamous cell cancer that has come back or spread to other places in the body and cannot be removed by surgery. Monoclonal antibodies, such as pembrolizumab, may interfere with the ability of tumor cells to grow and spread. Cabozantinib may stop the growth of tumor cells by blocking some of the pathways needed for cell growth. Giving pembrolizumab and cabozantinib may improve the chances of tumor response in patients with head and neck squamous cell cancer.
+Metastatic Head and Neck Carcinoma|Paranasal Sinus Squamous Cell Carcinoma|Recurrent Head and Neck Squamous Cell Carcinoma|Recurrent Hypopharyngeal Squamous Cell Carcinoma|Recurrent Laryngeal Squamous Cell Carcinoma|Recurrent Oral Cavity Squamous Cell Carcinoma|Recurrent Oropharyngeal Squamous Cell Carcinoma|Stage IV Hypopharyngeal Squamous Cell Carcinoma AJCC v7|Stage IV Laryngeal Squamous Cell Carcinoma AJCC v7|Stage IV Oral Cavity Squamous Cell Carcinoma AJCC v6 and v7|Stage IV Oropharyngeal Squamous Cell Carcinoma AJCC v7|Stage IVA Hypopharyngeal Squamous Cell Carcinoma AJCC v7|Stage IVA Laryngeal Squamous Cell Carcinoma AJCC v7|Stage IVA Oral Cavity Squamous Cell Carcinoma AJCC v6 and v7|Stage IVA Oropharyngeal Squamous Cell Carcinoma AJCC v7|Stage IVB Hypopharyngeal Squamous Cell Carcinoma AJCC v7|Stage IVB Laryngeal Squamous Cell Carcinoma AJCC v7|Stage IVB Oral Cavity Squamous Cell Carcinoma AJCC v6 and v7|Stage IVB Oropharyngeal Squamous Cell Carcinoma AJCC v7|Stage IVC Hypopharyngeal Squamous Cell Carcinoma AJCC v7|Stage IVC Laryngeal Squamous Cell Carcinoma AJCC v7|Stage IVC Oral Cavity Squamous Cell Carcinoma AJCC v6 and v7|Stage IVC Oropharyngeal Squamous Cell Carcinoma AJCC v7|Unresectable Head and Neck Squamous Cell Carcinoma
+DRUG: Cabozantinib|BIOLOGICAL: Pembrolizumab
+Overall Response Rate (ORR), Will assess the proportion of subjects with partial response or complete response as defined by Response Evaluation Criteria in Solid Tumors version 1.1 response criteria. ORR will be calculated with 95% confidence interval by binomial distribution. The ability of biomarkers to predict ORR will be estimated by chi-square test and/or logistic regression model., Up to 2 years after treatment start
+Progression Free Survival (PFS), The median PFS will be estimated by Kaplan-Meier method along with 95% confidence interval. The biomarker association with PFS will be assessed by the Kaplan-Meier method, log-rank test, and Cox model., Duration from date of treatment start to the date of objectively documented progression or death due to any cause, whichever status is recorded first, assessed up to 2 years
+PRIMARY OBJECTIVE:
+
+To estimate the overall response rate (ORR) of patients with recurrent/metastatic (RM) squamous cell carcinoma of the head and neck (SCCHN) who receive the combination of pembrolizumab and cabozantinib.
+
+SECONDARY OBJECTIVES:
+
+* To estimate the progression-free survival (PFS) of patients treated with the combination of pembrolizumab and cabozantinib.
+* To further define the toxicities associated with these regimens in patients with SCCHN.
+
+OUTLINE:
+
+Patients receive pembrolizumab intravenously (IV) over 30 minutes on day 1 and cabozantinib orally (PO) once daily (QD) on days 1-21. Cycles repeat every 3 weeks in the absence of disease progression or unacceptable toxicity.
+
+After completion of study treatment, patients are followed up to 2 years.

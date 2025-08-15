@@ -1,0 +1,15 @@
+Effectiveness of Artificial Intelligence - Assisted Colonoscopy in Colorectal Neoplasms
+The primary goal of this study is to estimate the effectiveness of a medical decision support system based on artificial intelligence in the endoscopic diagnosis of benign tumors.
+
+Researchers will compare Adenoma detection rate between "artificial intelligence - assisted colonoscopy" and "conventional colonoscopy" groups to evaluate the clinical effectiveness of artificial intelligence model.
+Colonic Neoplasms|Colonic Polyp|Diagnosis
+DEVICE: The system based on real - time artificial intelligence - assisted for colonoscopy
+Adenoma detection rate, In each group, the percentage of patients with at least one histologically proven adenoma or carcinoma, during the procedure
+Polyps detection rate, In each group, the number of patients with all type of neoplasms (polyps) was detected as a percentage of the total number of patients., during the procedure|Number of polyps, In each group, the number of detected all type of polyps, during the procedure|Number of adenomas, In each group, the number of detected adenomas, during the procedure
+The primary outcome is adenoma detection rate per patient.
+
+The secondary outcomes will be measured:
+
+* Polyps detection rate (all type of lesions) per patient;
+* Number of adenomas per patient;
+* Number of polyps per patient;

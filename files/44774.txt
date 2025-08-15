@@ -1,0 +1,6 @@
+Detection of Lung Cancer by Plasma Lipids
+There are no reliable blood-based tests currently available for early-stage lung cancer diagnosis. We try to establish a highly accurate method for detecting early-stage lung cancer by combining machine learning with untargeted and targeted metabolomics .
+Early-Stage Lung Cancer
+DIAGNOSTIC_TEST: Plasma lipids
+Plasma Lipids, A detection model based on 9 lipids were developed, including 3 lysophosphatidylcholines, 5 phosphatidylcholines, and a triglyceride. The 9 lipids were detected by targeted metabolomics by mass spectrometry., All samples were detected together after participants recruitment and sample collection. All samples were detected within 18 months from sample collection.
+All plasma lipids were first detected by untargeted metabolomics methods and 9 feature lipids of early-stage lung cancer were selected by support vector machine algorithm. Then, a targeted metabolomics method was developed to detect the 9 lipids quantitatively based on multiple reaction monitoring mode. Finally, a detection model was established based on the 9 lipids.

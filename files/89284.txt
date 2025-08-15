@@ -1,0 +1,32 @@
+InvestigatioN of a Smart Probe for Lung lEsion Characterization Using Impedance Technology
+The objective of the study is to evaluate the feasibility of the BioSpy System sensor to differentiate tissues that are encountered during bronchoscopic biopsy of endobronchial tumors and peripheral lung nodules and masses.
+Lung Cancer
+DEVICE: BioSpy System
+The ability of BioSpy System to acquire electrophysiological measurements in the relevant tissues during bronchoscopic biopsy., This endpoint represents the procedural success rate being defined as the BioSpy System obtaining at least one non-anomalous impedance measurement in the lesion during the procedure., During the bronchoscopic biopsy procedure
+The ability of BioSpy Sysem to differentiate the lesion from healthy tissue, The ability of BioSpy Sysem (BSS) to differentiate the lesion (nodule or mass) from healthy tissue (bronchial tissue, lung parenchyma, ...) by means of the impedance measurements.
+
+These impedance measurements of the BSS will be compared to the physician's assessment based on available imaging (visual control, ultrasound, fluoroscopy etc...) for verification.
+
+The ability to differentiate tissues will be reported by descriptive statistics.
+
+To further assess this secondary endpoint, Machine Learning analysis will be applied.
+
+Following standard procedure, features will be extracted from the impedance measurements and used for model inference., During the bronchoscopic biopsy procedure|The ability of BioSpy Sysem to differentiate various lesion types, The ability of BioSpy Sysem to differentiate various lesion types such as, but not limited to:
+
+* Tumoral tissue
+* Inflamed tissue
+* Necrotic tissue
+* Fibrosis The impedance measurements of BSS in the lesion will be compared to the histopathology analysis of the collected tissue during the biopsy.
+
+The ability to differentiate tissues will be reported by descriptive statistics.
+
+To further assess this secondary endpoint, Machine Learning analysis will be applied.
+
+Following standard procedure, features will be extracted from the impedance measurements and used for model inference., During the procedure
+Participants in this study require a lung biopsy to confirm if they have a lung tumour. A biopsy is a procedure where a piece of lung tissue is removed for testing. Current biopsy techniques cannot guarantee the exact location of lung tumours, so biopsies can be taken from healthy tissue.
+
+The BioSpy System (BSS) is a device with a probe, which is placed inside a normal biopsy needle. The tip of the probe contains sensors, that will scan the composition of the tissue which is in contact with the sensors.
+
+The INSPECT study aims at collecting the sensor data, with the goal of being able to differentiate the different tissues.
+
+All study participants will have a biopsy with the BSS. Participants will have a hospital visit for the procedure, and will have to stay up to 16 hours after their procedure as per normal hospital practice.

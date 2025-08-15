@@ -1,0 +1,16 @@
+Study of Vorinostat and Gefitinib in Relapsed/ or Refractory Patients With Advanced Non-small Cell Carcinoma (NSCLC)
+Gefitinib is an orally active epidermal growth factor receptor-tyrosine kinase inhibitor (EGFR-TKI) and produces 8-20% of response rates in patients with advanced non-small cell lung cancer (NSCLC). Vorinostat (suberoylanilide hydroxamic acid \[SAHA\]) is a small-molecule inhibitor of histone deacetylase (HDAC) and induces cell differentiation, cell cycle arrest, and apoptosis in several tumor cells. There is a strong synergistic antiproliferative effect of vorinostat in combination with gefitinib in NSCLC cells. Vorinostat increases expression of E-cadherin and ErbB-3, which results in increased sensitivity to gefitinib. Moreover, In-vitro studies have shown that vorinostat leads to acetylation and disruption of Hsp90, which may lead to decreases in activity of pro-growth and prosurvival client proteins (J Bio Chem 2005;280:26729, Br J Cancer 2006;95:S2). These findings suggest that combination of vorinostat with gefitinib may improve the efficacy of gefitinib in NSCLC.
+Non-Small-Cell Lung Carcinoma
+DRUG: Study treatment
+Progression-Free Survival, The first day of treatment to the date that disease progression is reported or death date, every 8 weeks
+Overall Survival, The first day of treatment to the date that death is reported or last survival status reported or, every 8 weeks|Objective Response rate, The date of first evaluation to the date of disease progression, every 8 weeks
+Phase I design
+
+* Three patients will be treated per cohort for one cycle (28 days per cycle).
+* If no DLTs are recorded, treatment will continue and three patients will be treated in the subsequent cohort.
+* However, if a patient develops a DLT, another three patients will be treated in this cohort for one cycle.
+* If there are no more DLTs, dose escalation continues.
+* If more than one of three patients develop a DLT in any cohort, another three patients will be treated in the next lower dosage cohort.
+* If no DLTs are recorded in any of the cohorts, cohort 3 will be expanded to six patients.
+* Up to 12 patients will be enrolled at the MTD.
+* The phase II dose for this combined treatment will be therefore defined as the highest dosage cohort in which six patients had been treated and there are less than three DLTs.

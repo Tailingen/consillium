@@ -1,0 +1,39 @@
+Predictors of Normal Tissue Response From the Microenvironment in Radiotherapy for Prostate and Head-and-neck Cancer
+The main idea behind MICRO-LEARNER is to provide new insights about the response of healthy tissues to radiation by using information from the micro-environment obtained by biological measurements and imaging. This new knowledge will be included in current available predictive models of radio-induced toxicity, thus allowing to add unique biological characteristics of patients to dosimetry and treatment/clinical related variables.
+
+MICRO-LEARNER focuses on prostate cancer (PCa) and head-and-neck cancer (HNCa). For both cancers, radiotherapy is effectively used as curative treatment, in single modality or within a multidisciplinary approach including surgery (PCa) and/or chemotherapy (HNCa). Prediction and reduction of radio-induced side effects are becoming a priority: for PCa, high survival rates should be accompanied by a very low rate of moderate/severe toxicities; for HNCa, there is the need to tailor radiation dose according to disease recurrence risk profile. The shared aim of both cancers is to balance the improvement in outcome with a well-tolerated toxicity profile.
+
+Recent research indicates that the intestinal/salivary bacteria are strongly suspected of being very important in mediating the response to inflammation and lesions. Although their balance deeply changes during radiotherapy, studies done so far in the field of the microbiota-host relationship in radiotherapy have not addressed their role in insurgence of radiation toxicity.
+
+In this study, the investigators will assess how microbial populations evolve and how this influences the host and radiation induced toxicity in a significant number of patients. Moreover, the individual response at the tissue microstructure level, through analysis of images with advanced bioengineering techniques, will be determined.
+
+Results from this research, besides suggesting new ways to predict patients at risk of relevant side-effects, may also suggest possible treatments to change the baseline microbiota of patients at high risk or to modify it during therapy, in order to mitigate toxicity. Understanding the microbiota-radiotherapy interaction may thus lead to novel, effective and inexpensive ways of assessing and managing complications of cancer treatment.
+Prostate Cancer|Head and Neck Cancer
+RADIATION: External beam radiotherapy for prostate cancer|RADIATION: External beam radiotherapy for head and neck cancer
+Acute toxicity, If any, acute (\<within 90 days from radiotherapy completion) Grade 1, Grade 2, Grade 3-4 disorder, according to the Common Terminology Criteria for Adverse Events (CTCAE) grading system, and its association with clinical variables, absorbed dose, microbioma characteristics and radiomic features., <90 days after radiotherapy
+Late toxicity, If any, late (\> 90 days after radiotherapy completion) Grade 1, Grade 2, Grade 3-4 disorder, according to the Common Terminology Criteria for Adverse Events (CTCAE) grading system, and its association with clinical variables, absorbed dose, microbioma characteristics and radiomic features., 3 months - 3 years after radiotherapy
+\*\*Prospective Clinical Trial: discovery population\*\*
+
+130 PCa and 130 HNCa consecutive patients will be enrolled in 18 months. All patients will receive radiotherapy at radical curative doses at the National Cancer Institute in Milan, and follow-up visits at the same centre.
+
+Detailed pre-treatment evaluation will include: recording of demographic features, clinical history, comorbidities and habits, evaluation of normal tissue functioning by the health practitioner (CTCAE scoring system), evaluation of quality of life and normal tissue functioning through validated patient reported outcome (PROs) questionnaires, evaluation of organ functioning by instrumental measures (i.e. baseline swallowing screening with flexible endoscopic evaluation of swallowing - FEES - and unstimulated salivary flow for HNCa patients), biochemical examinations, gut (PCa)/salivary (HNCa) microbiome measurement, determination of baseline level of plasma/salivary inflammatory markers, baseline multi-parametric magnetic resonance imaging (MRI).
+
+Patients will receive radiotherapy and possible adjuvant (hormone or chemo) therapies as foreseen by international guidelines. In this aspect the here proposed trial is an observational study, no modification to standard regimens is considered. Radiotherapy is performed with 6 MV photon beams delivered with Volumetric Modulated arc Therapy (VMAT) technique at conventional fractionations.
+
+Evaluation during treatment will include weekly assessment of toxicity, as measured by the clinician (according to CTCAE v 4.0) and by PROs and biochemical measurements, and evaluation of inflammatory markers (plasmatic and salivary cytokines) after a dose of 20 Gy. For a subpopulation of 60 oropharyngeal cancer patients treated with definitive radiotherapy +/- chemotherapy an additional MRI study during the second week of treatment is foreseen.
+
+Assessment at the end of radiotherapy will include evaluation of toxicity by the clinician and by PROs, FEES and unstimulated salivary flow for HNCa patients, biochemical examinations, gut/salivary microbiome measurement.
+
+Evaluation at 3, 6 and 12 months will include: evaluation of toxicity by the clinician and by PROs, FEES and unstimulated salivary flow for HNCa patients and biochemical examinations.
+
+Minimum follow-up is set to 12 months for the specific purpose of evaluation of acute and mid-term toxicity, which are the endpoints considered in this project. Nevertheless, follow-up will continue until 3 years after the end of radiotherapy (beyond the end of the project) in order to allow evaluation of incidence, prevalence and patterns of late side-effects, as well as for survival outcome assessment. After 12 months, follow-up will be performed every 6 months and limited to assessment of toxicity by the clinician and by PROs.
+
+Follow-up MRI studies will be performed at 3, 12 and 24 months for HNCa patients and at 12 months for PCa patients.
+
+\*\*Prospective Clinical Trial: validation population\*\*
+
+70 PCa and 70 HNCa consecutive patients will be enrolled in 12 months, starting immediately after the end of enrolment of the discovering population.
+
+The specific aim of this second phase is validation of results on microbiota, specifically on association between selected baseline microbiota profiles and the risk of acute toxicity (for the purpose of this project) and for mid-term/late toxicity (beyond this projects). This result should be the more significant from the clinical point of view, allowing development of a therapeutic algorithm to be used before treatment and permitting introduction ways of changing the make-up of gut/salivary bacteria in patients at high risk of toxicity.
+
+Baseline assessment, treatment and follow-up evaluation of toxicity by the clinician and by PROs will follow the scheme described for the developing population. Microbioma measurement will be only performed at baseline, due to the higher clinical interest in having a test determining patient radiosensitivity before treatment. Imaging and assessment of inflammatory marker levels will not be accomplished in the validation population.

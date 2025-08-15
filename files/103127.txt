@@ -1,0 +1,50 @@
+Pembrolizumab in Preventing Lung Cancer in Patients With Stage I-II Non-Small Cell Lung Cancer or High-Risk Pulmonary Nodules, the IMPRINT-Lung Study
+This phase II trial studies how well pembrolizumab works in preventing lung cancer patients with stage I-II non-small cell lung cancer or high-risk pulmonary nodules. Immunotherapy with monoclonal antibodies, such as pembrolizumab, may help the body's immune system attack the cancer, and may interfere with the ability of tumor cells to grow and spread.
+Lung Non-Small Cell Carcinoma|Stage I Lung Cancer AJCC v8|Stage IA1 Lung Cancer AJCC v8|Stage IA2 Lung Cancer AJCC v8|Stage IA3 Lung Cancer AJCC v8|Stage IB Lung Cancer AJCC v8|Stage II Lung Cancer AJCC v8|Stage IIA Lung Cancer AJCC v8|Stage IIB Lung Cancer AJCC v8
+BIOLOGICAL: Pembrolizumab|OTHER: Quality-of-Life Assessment|PROCEDURE: Computed Tomography|PROCEDURE: Biospecimen Collection
+Regression rate of high-risk indeterminate pulmonary nodules (IPNs), This will be estimated by the Kaplan-Meier method., At 6 months
+Incidence of lung cancer, This will be estimated by the Kaplan-Meier method., Up to 6 months|Cancer-free survival, Stratified log-rank test will be used to compare cancer-free survival between treatment groups. The Cox (proportional hazards) regression model will be used to incorporate potential prognostic factors and treatment assignments as covariates., Up to 6 months|Lung cancer-specific survival, Stratified log-rank test will be used to compare cancer-free survival between treatment groups. The Cox (proportional hazards) regression model will be used to incorporate potential prognostic factors and treatment assignments as covariates., Up to 6 months|Overall survival, Up to 6 months|Incidence of adverse events, A Bayesian method to monitor the toxicity in the perioperative phase will be used. Toxicity data will be summarized by frequency tables., Up to 6 months|Quality of life questionnaires, 1. European Organization for Research and Treatment of Cancer Quality of Life of Questionnaire- Cancer 30 (EORTC QLQ-C30).
+2. European Organization for Research and Treatment of Cancer Quality of Life Questionnaire-Lung Cancer 29 Module ( EORTC QLQ-LC29).
+
+All of the scales and single-item measures range in score from 0 to 100. A high scale score represents a higher response level. Thus a high score for a functional scale represents a high / healthy level of functioning, a high score for the global health status / QoL represents a high QoL, but a high score for a symptom scale / item represents a high level of symptomatology / problems., Up to 6 months
+PRIMARY OBJECTIVE:
+
+I. To determine whether immune checkpoint blockade using pembrolizumab eliminates persistent (on two computed tomography \[CT\] scans at least 3 months apart with no evidence of shrinkage or regression) high-risk indeterminate pulmonary nodules (IPNs) at 6 months after treatment initiation.
+
+SECONDARY OBJECTIVES:
+
+I. To determine whether immune checkpoint blockade using pembrolizumab decreases the incidence of lung cancers confirmed by histology (biopsy or resection).
+
+II. To determine whether immune checkpoint blockade using pembrolizumab prolongs cancer free survival (disease free survival \[DFS\]) compared with observation in patients with high-risk IPNs.
+
+III. To determine whether immune checkpoint blockade using pembrolizumab prolongs lung cancer-specific survival compared with observation in patients with high-risk IPNs.
+
+IV. To determine whether immune checkpoint blockade using pembrolizumab prolongs overall survival (OS) compared with observation in patients with high-risk IPNs.
+
+V. To assess the safety and tolerability of pembrolizumab in patients with high-risk IPNs.
+
+VI. To assess quality of life patient reported outcomes in patients treated with pembrolizumab compared with patients under observation.
+
+VII. To determine whether immune checkpoint blockade using pembrolizumab decreases the solid component of high-risk IPNs.
+
+VIII. To assess the health-related quality of life (QoL) on subjects enrolled in the study.
+
+EXPLORATORY OBJECTIVES:
+
+I. To explore the radiographic (including radiomic features) evolution of high-risk IPNs with and without treatment of pembrolizumab and to assess their association with risks of risk of lung cancer as well as their association with clinical benefit/toxicities in patients treated with pembrolizumab.
+
+II. To explore the germline deoxyribonucleic acid (DNA) profile and genomic evolution of circulating tumor DNA (ctDNA) of patients with high-risk IPNs and assess their association with risks of risk of lung cancer as well as their association with clinical benefit/toxicities in patients treated with pembrolizumab.
+
+III. To explore the T cell receptor (TCR) repertoire evolution of patients with high-risk IPNs and assess their association with risks of risks of lung cancer as well as their association with clinical benefit/toxicities in patients treated with pembrolizumab.
+
+IV. To explore the evolution of serum soluble factors, such as IFN-gamma and interferon inducible factors (such as CXCL9 and CXCL10), IL-12, TNFalpha, IL-10, TGF-beta, VEGF, IL-6, IL-8, IL-17, IL-18, C-reactive protein etc. and assess their association with risks of risks of lung cancer as well as their association with clinical benefit/toxicities in patients treated with pembrolizumab.
+
+V. To explore the evolution of immunophenotyping or characterization of the immune cell subsets in the periphery, including, but not limited to, T cells, B cells, natural killer \[NK\] cells, or subpopulations of the aforementioned immune cell types and assess their association with risks of risks of lung cancer as well as their association with clinical benefit/toxicities in patients treated with pembrolizumab.
+
+VI. To explore the evolution of microbiome and assess their association with risks of lung cancer as well as their association with clinical benefit/toxicities in patients treated with pembrolizumab.
+
+OUTLINE:
+
+Patients receive pembrolizumab intravenously (IV) over 30 minutes on day 1. Treatment repeat every 3 weeks for up to 4 cycles in the absence of disease progression or unacceptable toxicity. Patients also undergo computed tomography (CT) scans and collection of blood samples throughout the trial.
+
+After conclusion of study treatment, patients are followed up at 3 and 6 months.

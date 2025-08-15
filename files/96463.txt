@@ -1,0 +1,39 @@
+Sulfasalazine in Preventing Acute Diarrhea in Patients With Cancer Who Are Undergoing Pelvic Radiation Therapy
+RATIONALE: Sulfasalazine may relieve diarrhea in patients with cancer who are undergoing pelvic radiation therapy.
+
+PURPOSE: This randomized phase III trial is studying sulfasalazine to see how well it works in preventing acute diarrhea in patients with cancer who are undergoing pelvic radiation therapy.
+Diarrhea|Gastrointestinal Complications|Unspecified Adult Solid Tumor, Protocol Specific
+DRUG: sulfasalazine|OTHER: placebo
+Maximum Severity of Diarrhea Toxicity as Measured by the CTCAE v4.0 During and After Radiotherapy (RT), The primary endpoint for this study is the maximal severity of diarrhea toxicity. Severity of diarrhea was graded using the terminology and grading categories defined in the NCI's Common Toxicity Criteria (CTCAE), Version 4.0. Grade 0 = None; 1=Mild; Grade 2=Moderate, Grade 3=Severe, Grade 4=Life-threatening as measured by the CTCAE version 4.0. Assessments were recorded during the course of RT and for 6 weeks following RT. The table below represents the worst graded diarrhea for each patient.
+
+A two-sided Wilcoxon rank-sum test will be used to test the equality of the distributions of maximum diarrhea severity grades between the two treatment arms., During radiation therapy and up to 6 weeks post radiation therapy
+Maximum Severity of Each Outcome Variable (Rectal Bleeding, Abdominal Cramping, Tenesmus, Constipation, and Diarrhea) Measured During and After RT, The maximal severity of each of 5 different adverse even types (Tenesmus, Abdominal Pain, Constipation, Diarrhea, and Rectal Bleeding) were collected as a secondary endpoint. Severity of the events was graded using the terminology and grading categories defined in the NCI's Common Toxicity Criteria (CTCAE), Version 4.0. Grade 0 = None; 1=Mild; Grade 2=Moderate, Grade 3=Severe, Grade 4=Life-threatening. Adverse events were assessed during the course of RT and for 6 weeks following RT. The table below represents the worst grade for each patient for each type.
+
+Two-sided chi-square tests will be used to compare each percentage variable between treatment arms for each event type., During radiation therapy and up to 6 weeks post radiation therapy|Area Under the Curve That Combines the Individual Severity of Diarrhea Toxicity as Measured by the CTCAE v4.0 During and After RT, For each patient, an Area Under the Curve (AUC) summary statistic will be calculated taking into account the individual severity of diarrhea toxicity over time. Severity of diarrhea was graded using the terminology and grading categories defined in the NCI's Common Toxicity Criteria (CTCAE), Version 4.0. Grade 0 = None; 1=Mild; Grade 2=Moderate, Grade 3=Severe, Grade 4=Life-threatening. The curve was constructed using weekly assessments during and after RT. A separate analysis was done during the course of RT and every week for 6 weeks following RT., During radiation therapy and up to 6 weeks post radiation therapy|Average Graded Severity for Tenesmus, Abdominal Pain, Constipation, Diarrhea and Hemorrhage During and After RT as Graded by CTCAE v4.0, Tenesmus, Abdominal pain, constipation, diarrhea and hemorrhaging were assessed during RT and up to 6 weeks after RT. Severity of these events were graded using the terminology and grading categories defined in the NCI's Common Toxicity Criteria (CTCAE), Version 4.0. Grade 0 = None; 1=Mild; Grade 2=Moderate, Grade 3=Severe, Grade 4=Life-threatening. For each patient, an average score for each outcome variable during and after RT calculated as follows: The sum of all severity scores for that variable divided by the number of severity scores for that variable recorded for the patient during the course of RT and for 6 weeks following RT., During radiation therapy and up to 6 weeks post radiation therapy|Percentage of Patients in Each Arm That Experience Tenesmus, Abdominal Pain, Constipation, Diarrhea and Rectal Bleeding During and After RT, The number of patients that reported any grade 1 or higher adverse event was divided by the total number of patients evaluated. The analysis was done separately for each of the 5 outcomes and separately during RT and after RT., During radiation therapy and up to 6 weeks post radiation therapy|Percent of Patients in Each Arm That Recorded "Yes" to Each of Questions 2-10 on the Bowel Function Questionnaire, Questions that were used in this analysis:
+
+2. Have you had a problem causing you to get up at night to have a bowel movement? 3. Have you had a problem causing you to lose control of your bowel movements? 4. Have you had a problem causing you to have a bowel movement within 30 minutes of a prior bowel movement? 5. Have you had to wear protective clothing or a pad in case you lost control of a bowel movement? 6. Have you had a problem causing you to be unable to tell the difference between stool and gas? 7. Have you had a problem causing you to have stools that are liquid? 1=yes 2=no q08 8. Have you found that once you feel the urge to have a bowel movement, you must do so within 15 minutes to avoid an accident? 9. Have you had cramping with a bowel movement? 10. Have you had blood in your bowel movement?, Up to 6 weeks post radiation therapy|Percentage of Patients in Each Arm That Require Any Type of Antidiarrheal Medications., The number of patients reporting the use of anti-diarrheal medications divided by the number of patients evaluated for this endpoint., Up to 24 months post radiotherapy|Percentage of Patients in Each Arm That Experience Clinically Significant Deficits in Overall Quality of Life and Fatigue, For each arm, the percentage of patients experience clinically significant deficits in overall QOL and fatigue as indicated by a score of 5 or lower on the 0-10 scale. The analysis was done using the questionnaire that was completed during the first week of radiotherapy (RT) and 6 weeks after RT., Up to 6 weeks post radiotherapy
+OBJECTIVES:
+
+Primary
+
+* To determine whether sulfasalazine is effective in reducing the acute treatment-related diarrhea in patients receiving pelvic radiotherapy as measured by NCI CTC v4.0 in patients receiving pelvic external-beam radiotherapy as adjuvant or primary treatment for malignancy.
+
+Secondary
+
+* To determine whether sulfasalazine can reduce chronic treatment-related bowel dysfunction following completion of therapy.
+* To determine whether sulfasalazine causes any toxicity in this situation.
+
+Tertiary
+
+* To bank blood products for future studies, as part of ongoing research for NCCTG studies (Mayo Clinic Rochester only). (Translational)
+
+OUTLINE: This is a multicenter study. Patients are stratified according to history of anterior resection of the rectum (yes vs no); total planned cumulative dosing, including boost fields of external-beam radiotherapy (4500-5350 cGy vs \> 5350 cGy); and concurrent radiosensitizing fluorouracil, capecitabine, or oxaliplatin (yes vs no). Patients are randomized to 1 of 2 treatment arms.
+
+* Arm I: Patients receive oral sulfasalazine twice daily during radiotherapy\* and for 4 weeks after completion of radiotherapy.
+* Arm II: Patients receive oral placebo twice daily during radiotherapy\* and for 4 weeks after completion of radiotherapy.
+
+NOTE: \*Patients must start study treatment by the third radiotherapy fraction.
+
+Patients may undergo blood sample collection at baseline and then weekly during radiotherapy. All patients complete quality of life and bowel function questionnaires at baseline, weekly during radiotherapy, and at 6 weeks after completion of radiotherapy.
+
+After completion of radiotherapy, patients are followed up at 6 weeks and at 12 and 24 months.

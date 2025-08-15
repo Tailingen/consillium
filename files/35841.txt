@@ -1,0 +1,25 @@
+Pembrolizumab in Treating Patients With Recurrent Glioblastoma
+This phase II trial studies the effects of pembrolizumab on the body, or pharmacodynamics, in patients with glioblastoma that has come back. Immunotherapy with monoclonal antibodies, such as pembrolizumab, may help the body's immune system attack the cancer, and may interfere with the ability of tumor cells to grow and spread.
+Recurrent Glioblastoma|Recurrent Gliosarcoma
+OTHER: Laboratory Biomarker Analysis|BIOLOGICAL: Pembrolizumab|OTHER: Pharmacological Study|PROCEDURE: Therapeutic Conventional Surgery
+Number of Participants With Progression Free Survival at 6 Months, Progression-free survival, defined as the time from study enrollment until the time of first occurrence of disease progression, relapse, or death due to disease. Patients who are alive without progression or relapse will be censored at the time of last contact. Response Assessment in Neuro-Oncology (RANO) Criteria for Evaluating Response., At 6 months
+Number of Participants With Progression, Defined as the length of time from the date of diagnosis or the start of treatment for a disease until the disease starts to get worse or spread to other parts of the body. Time to Progression measured by the method of Kaplan and Meier., The time from study enrollment until the time of first occurrence of disease progression, relapse, or death due to disease, assessed up to 2 years|Overall Survival, Overall survival time is defined as the time from registration to death due to any cause. The distribution of survival time will be estimated using the method of Kaplan-Meier., Up to 2 years|Number of Participants With Response Rate, Logistic regression will be utilized to assess the effect of patient prognostic factors on the response rate. Per the Response Assessment in Neuro-Oncology (RANO) Criteria for Evaluating Response for target lesions and assessed by MRI: Complete Response (CR), Disappearance of all target lesions; Partial Response (PR), \>=50% decrease in the sum of the products of perpendicular diameter of measurable lesions; Overall Response (OR) = CR + PR., Up to 2 years|Number of Adverse Events, Adverse events as defined by the Common Terminology Criteria for Adverse Events (CTCAE) version 4 for grades 1, 2, and 3. There were no grade 4 AEs., Up to 30 days after completion of study treatment
+PRIMARY OBJECTIVES:
+
+I. To evaluate immune effector function in resected glioblastoma tissue after treatment with intravenously administered pembrolizumab monotherapy in the neoadjuvant setting in patients with recurrent glioblastoma.
+
+II. To correlate the progression free survival at 6 months (PFS6) with objective increases in the immune effector T cell: regulatory T cell (Treg) ratio in tumor tissue as measured by ex vivo T-cell-specific cytokines profiling.
+
+SECONDARY OBJECTIVES:
+
+I. Comparison of time to progression of last prior therapy to time to progression on pembrolizumab, median duration of response, overall response rate (ORR), and overall survival (OS) and safety.
+
+TERTIARY OBJECTIVES:
+
+I. To identify imaging characteristics associated with immunological changes in tumor following treatment with pembrolizumab.
+
+OUTLINE:
+
+Patients receive pembrolizumab intravenously (IV) over 30 minutes on day -21 and day -1, and then undergo surgery on day 0. After 2-3 weeks or recovery from surgery, patients continue to receive pembrolizumab IV over 30 minutes every 3 weeks. Courses repeat every 42 days for up to 24 months in the absence of disease progression or unacceptable toxicity.
+
+After completion of study treatment, patients are followed up every 3 months.

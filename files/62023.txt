@@ -1,0 +1,18 @@
+AI Prediction Model and Risk Stratification for Lung Metastasis in Colorectal Cancer
+Background:
+
+To assist clinicians with diagnosis and optimal treatment decision-making, we attempted to develop and validate an artificial intelligence prediction model for lung metastasis (LM) in colorectal cancer (CRC) patients.
+
+Method:
+
+The clinicopathological characteristics of 46037 CRC patients from the Surveillance, Epidemiology, and End Results (SEER) database and 2779 CRC patients from a multi-center external validation set were collected retrospectively. After feature selection by univariate and multivariate analyses, six machine learning (ML) models, including logistic regression, K-nearest neighbor, support vector machine, decision tree, random forest, and balanced random forest (BRF), were developed and validated for the LM prediction. The optimization model with best performance was compared to the clinical predictor. In addition, stratified LM patients by risk score were utilized for survival analysis.
+Colorectal Cancer|Lung Metastases
+OTHER: The location of the patient's treatment
+lung metastasis, diagnosed with lung metastasis, through study completion, an average of 3 month
+Background:
+
+To assist clinicians with diagnosis and optimal treatment decision-making, we attempted to develop and validate an artificial intelligence prediction model for lung metastasis (LM) in colorectal cancer (CRC) patients.
+
+Method:
+
+The clinicopathological characteristics of 46037 CRC patients from the Surveillance, Epidemiology, and End Results (SEER) database and 2779 CRC patients from a multi-center external validation set were collected retrospectively. After feature selection by univariate and multivariate analyses, six machine learning (ML) models, including logistic regression, K-nearest neighbor, support vector machine, decision tree, random forest, and balanced random forest (BRF), were developed and validated for the LM prediction. The optimization model with best performance was compared to the clinical predictor. In addition, stratified LM patients by risk score were utilized for survival analysis.

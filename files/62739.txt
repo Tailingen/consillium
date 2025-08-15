@@ -1,0 +1,30 @@
+CS1-CAR T Therapy Following Chemotherapy in Treating Patients With Relapsed or Refractory CS1 Positive Multiple Myeloma
+This phase I trial studies the side effects and best dose of CS1-chimeric antigen receptor (CAR) T therapy after chemotherapy in treating patients who have CS1 positive multiple myeloma that has come back (relapsed) or does not respond to treatment (refractory). Immune cells can be engineered to kill multiple myeloma cells by inserting a piece of deoxyribonucleic acid (DNA) into the immune cells using a lentiviral vector such as CS1, that allows them to recognize multiple myeloma cells. These engineered immune cells, CS1-CAR T cells, may kill multiple myeloma cells.
+Recurrent Plasma Cell Myeloma|Refractory Plasma Cell Myeloma
+PROCEDURE: CS1-CAR T Therapy|DRUG: Cyclophosphamide|DRUG: Fludarabine|PROCEDURE: Leukapheresis
+Incidence of dose-limiting toxicity (DLT) and all other toxicities, Tables will be created to summarize all toxicities and side effects by organ, severity (Common Terminology Criteria for Adverse Events version 5.0), and attribution. Rates and associated 90% confidence limits will be estimated for participants experiencing DLTs., Up to 12 months|Incidence of all other toxicities, Will be assessed by Common Terminology Criteria for Adverse Events version 5.0. Will include cytokine release syndrome (CRS) based on the revised CRS grading system, and heart failure based on New York Heart Association criteria., Up to 15 years|Opportunistic infections, Up to 15 years|Prolonged lymphopenia (lasting more than 12 weeks), Up to 15 years
+Disease response, Disease status will be evaluated based on the International Myeloma Working Group for Multiple Myeloma. Descriptive statistics will be provided for patient demographics, phenotype and functionality of modified T cells as well as anti-tumor immune response., Up to 180 days|Expansion/persistence of chimeric antigen receptor (CAR) T cells, Rates and associated 90% confidence limits will be estimated for participants achieving persistence/expansion of T cells at 28 days. To further study T cell expansion and persistence, area under the curve of log10 copies/ug of genomic deoxyribonucelic acid over the 28 day period post T cell infusion will be calculated for each participant and presented both graphically and using descriptive statistics., At 28 days post CAR T cell infusion|Phenotype and anti-tumor functionality of modified T cells in marrow and blood, Descriptive statistics will be provided for patient demographics, phenotype and functionality of modified T cells as well as anti-tumor immune response., Up to 15 years|Cytokine and soluble CS-1 levels in blood and marrow, Statistical and graphical methods will be used to describe the cytokine levels (marrow and blood) over the study period., Up to 15 years|Disease free survival (DFS), Rates and associated 90% confidence limits will be estimated for participants experiencing DFS. Kaplan Meier methods will be used to describe the survival distributions both statistically and graphically., At 12 months|Progression-free survival, Kaplan Meier methods will be used to describe the survival distributions both statistically and graphically., At 12 months|CS1 expression on multiple myeloma cells, Baseline up to 15 years
+MM cells that are CS-1 positive, Descriptive statistics are provided for the percentage of MM cells that express CS-1 surface marker., Up to 15 years
+PRIMARY OBJECTIVE:
+
+I. To evaluate the safety and tolerability of intravenous (i.v.) delivered autologous CS1-CAR T cells for research participants with CS1+ recurrent/refractory multiple myeloma (MM).
+
+SECONDARY OBJECTIVES:
+
+I. Evaluate the response rates at days 28, 100, and 180 post CAR T cell infusion.
+
+II. Measure the persistence of CS1-CAR T cells in blood and marrow. III. Measure phenotype and anti-tumor functionality of CS1-CAR T cells in marrow and blood.
+
+IV. Measure the levels of cytokines in blood and marrow, and soluble CS-1 in blood post infusion as a surrogate indicator of CAR T cell activity.
+
+V. Evaluate CS-1 expression on MM cancer cells before, during and at progressive disease (PD) to determine antigenic loss.
+
+EXPLORATORY OBJECTIVE:
+
+I. Describe the percentage of MM cells that express CS-1 surface marker before, during and at PD.
+
+OUTLINE: This is a dose-escalation study of CS1-CAR T cells.
+
+Patients undergo leukapheresis over 2-4 hours. Beginning 3-4 weeks, patients receive cyclophosphamide intravenously (IV) on days -4 and/or -3 or fludarabine IV and cyclophosphamide IV on days -5 to -3. Patients then undergo CS1-CAR T therapy over 10-15 minutes on day 0.
+
+After completion of study treatment, patients are followed up at 1 day, at least every 2 days for up to a minimum of 14 days, weekly for 1 month, monthly for 1 year, then periodically for up to 15 years.

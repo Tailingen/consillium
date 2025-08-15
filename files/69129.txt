@@ -1,0 +1,31 @@
+CART-BCMA/CS1 in Treating Patients With Relapsed or Refractory Multiple Myeloma
+This phase I trial studies the side effects and how well CART-BCMA/CS1 works in treating patients with multiple myeloma (MM) that has come back (relapsed) or that does not respond to treatment (refractory). Chimeric antigen receptor (CAR) T-cell therapy is a type of treatment in which a patient's T cells (a type of immune system cell) are changed in the laboratory so they will attack cancer cells. T cells are taken from a patient's blood. Then the gene for a special receptor that binds to a certain protein on the patient's cancer cells is added to the T cells in the laboratory. The special receptor is called a chimeric antigen receptor (CAR). Large numbers of the CAR T cells are grown in the laboratory and given to the patient by infusion for treatment of certain cancers, including MM. Immune cells can be engineered to kill MM cells by inserting a piece of deoxyribonucleic acid (DNA) into the immune cells using a lentiviral vector, that allows them to recognize MM cells.
+
+CART-BCMA cells are such modified T cells that target markers called CS1 or B-cell maturation antigen (BCMA), which is expressed by a type of white blood cell called a "B-cell", which are cells that may help the MM cells grow. These engineered CART-BCMA/CS1 cells may kill MM cells.
+Recurrent Multiple Myeloma|Refractory Multiple Myeloma
+PROCEDURE: Bone Marrow Aspiration|PROCEDURE: Bone Marrow Biopsy|PROCEDURE: Computed Tomography|DRUG: Cyclophosphamide|PROCEDURE: Echocardiography|DRUG: Fludarabine|OTHER: Fludeoxyglucose F-18|OTHER: Immunotherapy|PROCEDURE: Leukapheresis|PROCEDURE: Magnetic Resonance Imaging|PROCEDURE: Positron Emission Tomography
+Incidence of dose limiting toxicities (DLTs), Will be assessed by the Common Terminology Criteria for Adverse Events version 5.0 (CTCAE v. 5). For cytokine release syndrome (CRS) and neurotoxicity, patients will be evaluated using the grading criteria outlined by the American Society for Transplantation and Cellular Therapy (ASTCT)., Within 28 days from CART-BCMA/CS1 cell infusion
+Incidence of adverse events, Will be assessed by CTCAE v. 5 and occurrence and grade of cytokine release syndrome (CRS) and immune effector cell-associated neurotoxicity syndrome (ICANS) per ASTCT criteria., Up to 15 years|Clinical response rate, Will be assessed according to to the International Myeloma Working Group (IMWG) Uniform Response criteria, including minimum residual disease (MRD). MRD status for patients in complete remission (CR) will be summarized. Rates of best response of \>= complete response (CR) or \>= very good partial response (VGPR) may be summarized., Up to 2 years|Overall response rate, Will be summarized with the frequency count and percentage of patients in each category, Up to 2 years|Duration of response, Will be measured after treatment from the time measurement criteria is met for stringent complete response (sCR), CR, VGPR, or partial response (PR) until the first date that progressive disease (PD) is objectively documented or until death. Will be summarized using the Kaplan-Meier method., Up to 2 years|Overall survival, Will be summarized using the Kaplan-Meier method. The Kaplan-Meier estimates for the 1-year Overall Survival (OS) rates and the 2-sided 95% confidence interval of the rates using the Greenwood's formula will be reported and will be summarized descriptively (mean, standard deviation, median, first and third quartiles, minimum, maximum) and will be summarized descriptively (mean, standard deviation, median, first and third quartiles, minimum, maximum)., The date of CART-BCMA/CS1 cell infusion in the study until death, assessed up to 15 years|Progression free survival, Will be summarized using the Kaplan-Meier method., The date of CART-BCMA/CS1 cell infusion until documentation of PD, or death due to any cause, assessed up to 2 years|CART-BCMA/CS1 cell persistence, Expansion and persistence of CART-BCMA/CS1 cells will be monitored with Real-time polymerase chain reaction (qPCR) specific to CART-BCMA/CS1 lentiviral elements in order to quantify the vector copy number. DNA will be extracted from peripheral blood cells and assessed with primers specific to genetic elements inserted by the lentivirus. Analysis will be performed to determine the number of days until CART-BCMA/CS1 cells are no longer detectable by polymerase chain reaction (PCR)., Up to 5 years
+PRIMARY OBJECTIVE:
+
+I. To evaluate the safety of CART-BCMA/CS1 cells in patients with R/R MM for determination of a recommended phase 2 dose (RP2D).
+
+SECONDARY OBJECTIVES:
+
+I. To describe the overall adverse event profile of CART-BCMA/CS1 cells. II. To investigate the efficacy of CART-BCMA/CS1 cells. III. To evaluate the persistence of CART-BCMA/CS1 cells.
+
+EXPLORATORY OBJECTIVES:
+
+I. To characterize the cytokine environment following CART-BCMA/CS1 cell infusion and to evaluate changes in the setting of CRS.
+
+II. To evaluate changes in T-cell subsets and function following CART-BCMA/CS1 cell infusion.
+
+III. To examine the change in expression of BCMA and CS1 on clonal plasma cells in the bone marrow and/or extramedullary disease after CART-BCMA/CS1 cell treatment.
+
+IV. To evaluate for plasma-cell aplasia.
+
+OUTLINE: This is a first-in-human, phase I, single-arm, open-label, dose-escalation study.
+
+Patients undergo leukapheresis 35 to 21 days before Infusion Day (I-Day -35 to I-Day -21) and receive cyclophosphamide intravenously (IV) over 60 minutes and fludarabine IV over 30 minutes on I-Days -5, -4, and -3. Patients then receive the CART-BCMA/CS1 infusion IV on I-Day -0 on study. Patients undergo echocardiography (ECHO), electrocardiogram (ECG), and magnetic resonance imaging (MRI) during screening. Patients undergo bone marrow biopsy and/or bone marrow aspirate screening, between I-Day -28 to I-Day -5, I-Day 30, and at 1 year post CART-BCMA/CS1 infusion. Patients also undergo fluorodeoxyglucose F-18 (FDG) positron emission tomography/computed tomography (PET/CT) during screening, between I-Day -28 to I-Day -5, I-Day 90 and I-Day 180 and every 3 months thereafter.
+
+After completion of study treatment, patients are followed up every 3 months for 2 years, every 6 months until 5 years, then annually for 15 years.

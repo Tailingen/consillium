@@ -1,0 +1,12 @@
+Evolution of the Therapeutic Care in Metastatic Breast Cancer From 2008
+The Epidemiological Strategy and Medical Economic (ESME) Breast cancer Database is a multicenter real life database using a retrospective data collection process across 18 French comprehensive cancer centers (FCCC) spread over 20 sites. This database compiles data from patient's electronic medical records (EMR).
+Metastatic Breast Cancer
+Describe the evolution of therapeutic care, Patient characteristics, tumor characteristics and treatment patterns, baseline
+Describe the impact of therapeutic strategies on survival criteria, Overall survival, From date of diagnosis or first treatment until the date of date of death from any cause. Follow up until 2023.|Describe the impact of therapeutic strategies on survival criteria, Progression free survival, From date of diagnosis or first treatment until the date of first documented progression or date of death from any cause. Follow up until 2023.
+This database compiles existing data retrieved fromp patient's electronic medical records (EMR) across the 18 French comprehensive cancer centers spread over 20 sites. .
+
+The database includes data related to patient demographics, tumor characteristics (diagnosis, histology, relapses, metastatic disease, etc.), treatments (dates, INN, route of administration, treatment protocols, reason for termination, etc.), and clinical events. Data is collected at each participating site by technicians who are specifically trained for the project using an electronic data collection (eDC) tool.
+
+Data imported into the final database are controlled, recoded, and harmonized before import according to the data management plan. All coding procedures are predefined by the data manager. There is no transmission of individual data; all data are centralized within each center using a shared anonymous format. All data is exclusively obtained retrospectively; no attempts are made to recover non available data from the patient's medical record by contacting healthcare providers or patients.
+
+Cases selected to enter the ESME MBC data platform fulfill specific criteria: (1) Male or female ≥18 years old (2) metastatic breast cancer (3) with first metastasis treated (either completely or partially) at a participating site from January 2008 onwards.Treatment strategies considered include radiotherapy, chemotherapy, targeted therapy and endocrine therapy.

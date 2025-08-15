@@ -1,0 +1,24 @@
+Stereotactic Body Radiation Therapy and T-Cell Infusion in Treating Patients With Metastatic Kidney Cancer
+This pilot phase I trial studies the side effects and best way to give stereotactic body radiation therapy and T-cell infusion in treating patients with metastatic kidney cancer. Giving total body irradiation before a T-cell infusion stops the growth of cancer cells by stopping them from dividing or killing them. After treatment, stem cells are collected from the patient's blood and stored. Chemotherapy is given to prepare the bone marrow for the stem cell transplant. The stem cells are then returned to the patient to replace the blood-forming cells that were destroyed by the radiation therapy.
+Clear Cell Renal Cell Carcinoma|Recurrent Renal Cell Cancer|Stage IV Renal Cell Cancer
+RADIATION: stereotactic body radiation therapy|DRUG: cyclophosphamide|BIOLOGICAL: therapeutic autologous lymphocytes|OTHER: laboratory biomarker analysis
+Frequency of treatment-related grade 3-5 toxicities, graded according to the National Cancer Institute (NCI) Common Terminology Criteria for Adverse Events (CTCAE) version 4.0, Adverse events will be tabulated by type and grade at each follow-up interval., Within 30 days after infusion of PBMCs
+Overall survival (OS), The level of OS will be tabulated at each follow-up interval, and will be summarized using Kaplan-Meier curves and medians with 95% confidence intervals., 1 year|Progression-free survival (PFS), The level of PFS will be tabulated at each follow-up interval. The percentage of individuals free from disease progression will be computed with exact 95% confidence intervals. PFS will be summarized using Kaplan-Meier curves and medians with 95% confidence intervals., The duration from SBRT treatment to documented disease progression or death, assessed at 1 year
+Level of circulating tumor cells (CTCs), The correlations of CTCs and changes in signaling as measured by nano-immunoassay (NIA) to clinical response will be assessed. NIA measurements for 20 protein isoforms will be analyzed. Measurements will be analyzed as continuous variables for each sample. The distribution of each isoform will be summarized with medians and interquartile ranges. Quantile plot and box-Cox models will be used to determine whether to transform the data prior to analysis. A protein isoform signature predictive of clinical response will be constructed using the Lasso R glmnet package., Up to 2 years|Changes in signaling as measured by NIA, The correlations of CTCs and changes in signaling as measured by NIA to clinical response will be assessed. NIA measurements for 20 protein isoforms will be analyzed. Measurements will be analyzed as continuous variables for each sample. The distribution of each isoform will be summarized with medians and interquartile ranges. Quantile plot and box-Cox models will be used to determine whether to transform the data prior to analysis. A protein isoform signature predictive of clinical response will be constructed using the Lasso R glmnet package., Up to 2 years
+PRIMARY OBJECTIVES:
+
+I. Conduct a safety and feasibility study of stereotactic radiotherapy with autologous T-cell infusion for patients with metastatic renal cell carcinoma.
+
+SECONDARY OBJECTIVES:
+
+I. Determine the progression free survival at one year. II. Determine the overall survival at one year.
+
+OUTLINE:
+
+STEREOTACTIC BODY RADIATION THERAPY (SBRT): Patients undergo standard of care SBRT over 1-2 weeks according to tumor volume and location.
+
+LYMPHODEPLETION: Beginning 3 weeks later, patients receive cyclophosphamide orally (PO) twice daily (BID) for 3 days.
+
+REINFUSION OF PERIPHERAL BLOOD MONONUCLEAR CELLS (PBMC): Within 3-14 days of completing lymphodepletion with cyclophosphamide, patients undergo autologous PBMC infusion.
+
+After completion of study treatment, patients are followed up at 1 week, 4 weeks, and monthly thereafter.

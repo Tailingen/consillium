@@ -1,0 +1,94 @@
+Using Radiotherapy and Immunotherapy to Treat Advanced Liver Cancer Before Transplant
+The goal of this clinical trial is to learn if locoregional therapy and immunotherapy can be used together to help patients with hepatocellular carcinoma (HCC) and macrovascular invasion achieve liver transplantation.
+
+The main questions it aims to answer are:
+
+* How many patients will achieve transplant with this treatment strategy?
+* What will the 5-year survival and recurrence-free survival rates be for these patients?
+
+Participants will:
+
+* Undergo a biopsy of the tumor.
+* Receive locoregional therapy (SBRT or Y90) followed by immunotherapy (atezolizumab and bevacizumab) 2 to 6 weeks later, for a maximum of 9 months.
+* Be referred for a liver transplant and undergo the procedure if deemed eligible and safe.
+* If applicable, be followed for five years post-transplant with regular data collection.
+Hepatocellular Carcinoma (HCC)|Macrovascular Invasion|Liver Transplant Surgery|Downstaging
+BIOLOGICAL: Atezolizumab & Bevacizumab|DRUG: Yttrium-90 (Y-90)|RADIATION: Stereotactic body radiotherapy (SBRT)
+Evaluate Downstaging Efficacy, The number of patients who achieve a liver transplant., From enrollment to liver transplantation.
+Long-term Oncological Results, The objective is to determine the 5-year overall survival (OS) and recurrence free survival (RFS) in the proportion having received a liver transplant., Form enrollment to 5 years post-transplant.
+This is a pilot, open-label, single-arm, study evaluating the combination of locoregional radiotherapy (SBRT or Y90-RE) followed by Atezolizumab and Bevacizumab (AtezoBev) in patients with advanced liver cancer. The study aims to assess the feasibility of integrating immunotherapy with locoregional treatments and liver transplantation pathways.
+
+Disease Background:
+
+Hepatocellular carcinoma (HCC) is the most frequent type of liver cancer, globally the 6th most common cancer, 3rd leading cause of cancer-related deaths with a stage-dependent detrimental poor prognosis. In 2023 in Canada 4,700 patients were diagnosed with liver cancers with an overall 5 year survival of 45% (95%CI 42, 47).
+
+HCC is a well vascularized tumor and may complicate by invading the surrounding vascular structures. If this invasion is identified on imaging or pathology, this is called macrovascular invasion (MVI). In case of MVI, it is most commonly seen affecting the portal vein (PV) and less commonly the hepatic vein (HV), inferior vena cava (IVC) or hepatic artery (HA). With regard to localization of MVI of the PV and its branches, a classification (Vp1-Vp4) has been published to harmonize reporting and to facilitate the clinical decision-making process. As an additional comorbidity of an MVI affecting the PV, an adjacent portal vein tumor thrombus (PVTT) may further deteriorate the hepatic function. Overall MVI in HCC is detected in \~35% of patients at time of diagnosis6. In this subgroup of patients, a 3-year overall survival (OS) of 20% (95%CI 0.13, 0.26) has been reported.
+
+In general, for patients with HCC, numerous guidelines and recommendations for diagnostics, staging, and management are available and updated regularly including those from the 'European Association for the Study of the Liver' (EASL) and the 'American Association for the Study of Liver Diseases' (AASLD). Among most guidelines, the commonly recommended staging criteria is the Barcelona Clinic Liver Cancer (BCLC) classification. Clinical decision making for the optimal treatment is guided by the BCLC tumor stages. According to BCLC, HCC with MVI is classified as advanced disease (BCLC stage C).
+
+Liver Transplantation, Bridging and Downstaging:
+
+Liver transplantation (LT) is the standard treatment option for early to intermediate staged HCC, but patient selection remains challenging. LT not only removes all tumor tissue but also the surrounding pro-carcinogenic liver tissue, as \~90% of HCC develops in liver cirrhosis.
+
+LT listing guidelines - determining the patient selection process - consider MVI as exclusion criteria, due to high risk of recurrence and reduced OS after transplantation. At UHN since 2012 the provincial listing criteria ('Trillium Gift of Life Network') determine LT listing as follows: total tumor volume (TTV) ≤ 145cm3, alpha fetoprotein (AFP) ≤ 1000ug/L, diagnostic imaging (classified as 'Liver Imaging Reporting and Data System' 5) or otherwise biopsy proven HCC nodule, no evidence of macrovascular invasion, no evidence of extrahepatic spread and no mixed types with predominance of cholangiocarcinoma.
+
+Patients who are deemed eligible for LT undergo a standardized work-up and if no contraindications are identified, patients are being waitlisted until a donor organ becomes available. In patients who are waitlisted, the treatment concept called "bridging" involves performing therapies of HCC for the purpose of preventing or minimizing waitlist dropout due to disease progression.
+
+In patients who have tumor burden which is beyond LT criteria, "downstaging" is the process of reducing the tumor burden in order to achieve eligibility for transplantation. A published meta-analysis of 25 studies, which included patients who received downstaging therapies, demonstrated successful downstaging in 55.2% of patients, resulting in 31.5% who underwent LT and a 50.6% drop-out rate. The risk of hepatic decompensation was low (3.6%, 95%CI 2.0-6.3%). Patients with hepatocellular carcinoma with MVI which received a liver transplantation after downstaging demonstrated 5-years OS of 40-60%. This is a remarkable gain of OS compared to the overall 3-year OS of patients with MVI of 20%.
+
+Advanced Hepatocellular Carcinoma Treatment:
+
+For advanced HCC (e.g. with MVI), locoregional therapy (radiotherapy through transarterial radioembolization (TARE) or stereotactic body radiotherapy (SBRT); transarterial (chemo)embolization (TA(C)E) and systemic therapy options are available as standard of care (SOC). In the last years several advancements in the field immunotherapy have led to different available treatment options. Yang et al. have discussed the multiplex of available systemic treatments, which are ongoingly evolving. The BCLC currently recommends Atezolizumab plus Bevacizumab as a first line systemic treatment option.
+
+Atezolizumab (TECENTRIQ, Genentech, Inc., South San Francisco, CA) is a humanized immunoglobulin (Ig) G1 monoclonal antibody that targets PD-L1 and inhibits the interaction between PD-L1 and its receptors, PD-1 and B7-1 (also known as CD80), both of which function as inhibitory receptors expressed on T cells. Bevacizumab (AVASTIN, Genentech, Inc., South San Francisco, CA) is a recombinant humanized monoclonal IgG1 antibody that binds to and inhibits the biologic activity of human vascular endothelial growth factor (VEGF) in vitro and in vivo assay systems.
+
+The combination of Atezolizumab plus Bevacizumab (AtezoBev) is considered the first-line systemic treatment option for unresectable HCC, becoming the SOC in Canada and has been shown to be superior compared to other available comparator treatment options with regard to overall survival. The IMRABVE150 trial assessed AtezoBev in patients with unresectable HCC. The median treatment duration of Atezolizumab was 8.4 months (IQR: 3.5-18.3) and Bevacizumab 7.0 months (IQR: 3.4-15.9). They have reported an objective response rate of 30% (95% CI 25, 35) (including complete response in 8% and partial response in 22%) and a disease control rate of 74%. In patients with a response, the duration of response was reported as 18.1 months (95%CI: 14.6-NE). Regarding safety, for AtezoBev a treatment-related grade 3 or 4 adverse event was reported in 43% of patients . The mostcommon events for grade 3 or 4 were hypertension, aspartate aminotransferase increase, proteinuria or platelet count decrease. Liver injury was very rare (occurring in \<1%).
+
+Radiotherapy as a type of radiopharmaceutical therapy used to treat HCC, can be administered internally (radioembolization: TARE, or referred to as selective internal radiation therapy (SIRT)) or externally (SBRT, or external beam radiation therapy (EBRT)).
+
+Radioembolization consists of microspheres (of either glass or resin) which carry the radioactive isotope Yttrium-90, that are injected selectively into either the branches of the hepatic artery. The reasoning behind arterial administration is that the HCC lesion has preferential arterial blood supply, so the embolization is directed primarily and selectively to tumor tissue. Yttrium-90 radioembolization (Y90-RE) efficacy has been demonstrated in intermediate and advanced HCC, including those with PVTT. The type of microsphere used at UHN is the glass type, commercially known as TherasphereTM produced by Boston Scientific. The phase III SARAH trial was unable to show a superiority of Y90-RE vs Sorafenib with regard to OS with an acceptable safety profile. In the Y90-RE treatment arm of this study, macrovascular invasion was seen in 63%, predominantly affecting the main portal branches (46%, Vp3). This treatment resulted in a disease control rate of 68% with stable disease in 49%, partial response in 16% and complete response in 3%. In 41% of patients a grade≥3 adverse event was encountered with liver dysfunction accounting for 11% of events.
+
+Through refinement of application protocols and patient selection criteria, SBRT has gained an increasing role in the treatment of HCC. Whilst the BCLC 2022 guidelines do not mention SBRT, this treatment option has been endorsed by societal guidelines such as the AASLD. In a multi-institutional randomized control trial led by UHN compared patients on sorafenib vs. sorafenib plus SBRT. Nearly 75% of patients had MVI. Median PFS was improved with SBRT from of 9.2m vs. 5.5m (p \< 0.01) with a trend towards improved OS. ≥3 grade treatment-related adverse events in 47% of patients treated with SBRT and sorafenib and was not significantly different from sorafenib alone. In a pivotal pilot study by O'Conner et al., SBRT as a bridging procedure has excellent post-transplant overall survival of 100%.
+
+Due to the different mechanisms, a synergistic effect of radiotherapy (SBRT or Y90-RE) and AtezoBev as potential combined treatment modalities can be postulated. Two published studies have demonstrated the feasibility and safety of the combination of these two treatment options in phase I trials for advanced HCC. Villalobos et al. assessed the subgroup of AtezoBev (n=10) with an objective response rate of 60% and an acceptable safety profile with 50% grade 3 adverse events (lymphocyte count). Yu et al. report on 10 patients with a complete response in 75% and partial response in 25%.
+
+Health Canada and Cancer Care Ontario approved radiotherapy, as well as AtezoBev, as standard of care treatment options for patients with advanced HCC.
+
+Data on the combination of radiotherapy (SBRT or Y90-RE) with AtezoBev as a downstaging protocol to achieve eligibility for LT in patients with advanced HCC is warranted. The novelty in this proposed study lies to explore the combination of two already standard of care treatment options to improve downstaging results and ultimately long-term OS. The investigators hypothesize that by administering a combination of radiotherapy and AtezoBev as a downstaging strategy, 60% of patients will be enlisted for LT and transplant them with acceptable outcomes (5-year overall survival (OS) of \>60%).
+
+Study Design and Methodology:
+
+Patients with locally advanced HCC with MVI on imaging (Vp 1-3) (inclusion and exclusion criteria below), with no other contraindications for LT, can be considered for inclusion. Tumor biopsy is required to rule out poorly differentiated HCC (a contraindication for LT).
+
+Schema:
+
+Patients will be recruited from the surgical and medical oncology, transplant hepatology clinics at UHN at any time during their diagnostic workup. Patients will undergo a clinical liver biopsy to confirm diagnosis of HCC and exclude poorly differentiated disease.
+
+Clinical data including patients' baseline characteristics, demographics, disease history, tumor details, treatment details, blood test results, relevant pathology and scan results will be collected during the study (details in 'Data collection'). Participants enrolled in the study will receive locoregional radiotherapy (SBRT or Y90-RE) at the start of study as part of the study (due to a person participating in the study), under standard treatment protocol based on consensus decision from Multidisciplinary Rounds, which takes into account patient and disease factors. Storage, administration and treatment of Y90-RE will be done according to established treatment protocols and standard of care at UHN.
+
+SBRT will be planned and delivered according to institutional protocols at UHN, within the Radiation Medicine Program (RMP). Treatment will be delivered in 5 fractions, preferably every other day, with cone beam CT or MR guidance. Target volume will include the entirety of the tumor as delineated on multiphasic simulation CT and MR, including all macroscopic vascular tumor thrombus. Total treatment dose will be at the discretion of the treating radiation oncologist, but will consider underlying liver function, tumor volume, and organ at risk dose tolerances. In general, doses will range from 2750-5000cGy. Radiotherapy plans will be reviewed with the study PI in cases where there is risk of radiation to the porta hepatis. Organ at risk tolerance is prioritized over tumoral coverage to maximize safety. Adjunct medication including anti-emetics, proton pump inhibitors, and steroids may be prescribed at the discretion of the treatment radiation oncologist. Post radiotherapy assessment is generally performed at the one month visit to monitor resolution of any acute toxicities.
+
+Two to six weeks after radiotherapy, AtezoBev will be initiated as part of the study, as per standard treatment protocol. Administration of Atezolizumab and Bevacizumab will be performed according to SOC in approx. 21-days intervals. Clinical follow up during treatment will be done as per SOC in medical and surgical oncology clinics at UHN.
+
+2-3 months after radiotherapy first re-staging (imaging (computed tomography (CT) or magnetic resonance imaging (MRI) abdomen and laboratory assessment) will be performed, which will be continued in 2-3-monthly intervals (as per SOC at UHN for patients undergoing treatment with AtezoBev). If the tumor burden at any time of this routine and clinically indicated visits meets LT listing criteria (absence of extrahepatic metastasis, alpha fetoprotein (AFP) \<1000ng/mL, total tumor volume (TTV) \<145cm3), the patient will be referred to the transplant clinic for evaluation of eligibility.
+
+If in three consecutive re-staging (9 months after starting treatment) no eligibility for transplant referral criteria is met, patients will be excluded from the study and will continue their treatment, as per SOC at UHN for the disease stage (second, thirds line systemic therapy, locoregional therapy - as indicated).
+
+If disease progression (locally or metastasis) or other LT-ineligible criteria as per SOC are detected the patient will complete the study enrollment and will be treated outside of this protocol as per SOC (will continue with second, third line therapies for advanced HCC.
+
+For patients who, within the 9 months of treatment, meet the LT eligibility criteria and are referred to LT clinic is for evaluation of eligibility, will then be worked up for liver transplantation as per SOC and if no contraindications present, waitlisted for transplantation. Evaluation for bridging treatment during the listing period occurs as per SOC. An up-to-date re-staging will be needed within four weeks of transplantation to confirm current status of the tumor burden. After LT, patients will be followed as per SOC. Clinical data will be collected for 5 years post-transplant for recurrence free survival (RFS) and OS.
+
+Study Aims, Objectives and Hypotheses:
+
+The primary aim is to investigate the downstaging efficacy of this multimodal treatment protocol for patients with advanced HCC with MVI within 20 patients who receive LT. The objective is to assess the number of patients enrolled which achieve eligibility for liver transplant waitlisting and subsequent LT.
+
+The investigators hypothesize that at least 60% will be waitlisted for LT after having received the combined treatment. Assuming a dropout rate from the waitlist of 30% (death, tumor progression, patient refusal etc.), it is expected 48 patients to be enrolled. Once 20 patients have undergone liver transplantation, no additional patients will be enrolled from the beginning of the trial.
+
+The secondary aim is to investigate the long-term oncological results of this treatment regimen. The objective is to determine the 5-year overall survival (OS) and recurrence free survival (RFS) in the proportion having received LT. The investigators hypothesize that the OS survival in this cohort will be \>60% and the RFS \<30%.
+
+Exploratory aims are to assess the:
+
+1. Radiological response (on imaging): Objective response rate (ORR), Complete response (CR), Partial response (PR))
+2. Pathological response (on liver explant pathology): Percentage of viable tumor, Rate of complete pathological response, Rate of major pathological response (\<10% viable tumor)
+3. Biochemical response: Serum markers including alpha fetoprotein (AFP)
+4. Rate of rejection of the liver transplant graft.

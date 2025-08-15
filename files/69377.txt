@@ -1,0 +1,33 @@
+ABT-751 in Treating Patients With Metastatic Prostate Cancer That Did Not Respond to Hormone Therapy
+RATIONALE: Drugs used in chemotherapy, such as ABT-751, work in different ways to stop the growth of tumor cells, either by killing the cells or by stopping them from dividing.
+
+PURPOSE: This phase I/II trial is studying the side effects and best dose of ABT-751 and to see how well it works in treating patients with metastatic prostate cancer that did not respond to hormone therapy.
+Prostate Cancer
+DRUG: ABT-751
+Maximum Tolerated Dose (MTD), MTD is determined by the 3+3 study design, in which patients are enrolled in cohorts of 3. In any dose cohort, if 1 patient of 3 experience dose-limiting toxicity (DLT), three additional patients will be enrolled at the same dose level. Whenever \>=2 of 6 subjects experience a DLT, then the maximum tolerated dose (MTD) has been exceeded. The MTD is generally one dose below that at which DLT occurs in \>= 2 of 6 subjects in any given cohort., up to four weeks|Number of Patients Who Demonstrated Treatment Effectiveness Based on Prostate Specific Antigen (PSA) Response in Non-measurable Disease, Patients with a minimum 50% decline in PSA from pre-treatment baseline, confirmed by a second PSA 4 or more weeks later, measured in nanograms per milliliter of blood., after four weeks
+Number of Patients With Objective Response (CR & PR) by RECIST, Number of participants in each best tumor response category, RECIST criteria (v. 1.0: measurable lesions: complete response (CR) disappearance of target lesions, partial response (PR) \> 30% decrease in sum longest diameter (LD) of target lesions, progressive disease (PD) \> 20% increase in sum LD of target lesions or appearance of new lesions, stable disease (SD) neither sufficient decrease nor increase of smallest sum of the LD of target lesions., after four weeks|Median Time to Tumor Progression, Number of weeks from the date the patient started study drug to the date of the patient's tumor progression documented radiographically or by PSA testing.
+
+Tumor progression is measured at baseline and after two 28-day cycles, date on study to date of progression|Overall Survival, Number of weeks from the date the patient started study drug to the date of the patient's death., date on study to date of death from any cause|Safety Profile Based on Number of Patients With Worst Grade Toxicities, Not all participants necessarily have an adverse event, thus not everyone will be accounted for in worst-grade toxicities. Likewise, one participant can potentially have more than one event in various grades 1-5 which accounts for the difference in number of patients analyzed and total number in the worst-grade toxicity tables. Tables represent the number of patients with worst-grade toxicity at each of five grades (grade 1 = mild, 2 = moderate, 3 = severe, 4 = life-threatening or disabling, grade 5 = death)following NCI Common Toxicity Criteria, at 30 days after final treatment dose
+OBJECTIVES:
+
+Primary
+
+* Evaluate the safety and efficacy of ABT-751 in patients with androgen-independent, hormone-refractory metastatic prostate cancer and determine the maximum tolerated dose (MTD) and optimal phase II dose of this drug in these patients.
+
+Secondary
+
+* Determine the objective response rate (partial and complete response) in patients with measurable disease treated with this drug.
+* Evaluate the effect of this drug on prostate-specific antigen (PSA) response in patients with nonmeasurable disease.
+* Determine the time to tumor progression in patients treated with this drug.
+* Determine survival of patients treated with this drug.
+* Determine the toxicity of this drug in these patients.
+
+OUTLINE: This is a phase I, dose-escalation study followed by a phase II study.
+
+* Phase I: Patients receive oral ABT-751 twice daily on days 1-7 and 15-21. Treatment repeats every 28 days in the absence of disease progression or unacceptable toxicity.
+
+Cohorts of 3-6 patients receive escalating doses of ABT-751 until the maximum tolerated dose (MTD) is determined. The MTD is defined as the dose preceding that at which 2 of 3 or 2 of 6 patients experience dose-limiting toxicity. Up to 50 additional patients may be treated at the recommended phase II dose (RPTD) which is the dose level at the maximally administered dose.
+
+* Phase II: Patients receive ABT-751 at the MTD determined in phase I. After completion of study treatment, patients are followed every 3 months for 2 years.
+
+PROJECTED ACCRUAL: A total of 53 patients will be accrued for this study.

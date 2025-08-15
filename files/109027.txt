@@ -1,0 +1,13 @@
+Patient-derived Tumor-like Cell Clusters Predict Progesterone Sensitivity in Patients With Early Endometrial Cancer
+To construct a prediction model of progesterone sensitivity in patients with endometrial cancer treated with fertility preservation
+Endometrial Carcinoma Stage I|Atypical Endometrial Hyperplasia
+OTHER: No intervention
+sensitivity, The sensitivity of the prediction model, 7 months|accuracy, The accuracy of the prediction model, 7 months
+false-negative rate, The false-negative rate of the prediction model, 7 months|false-positive rate, The false-positive rate of the prediction model, 7 months
+After diagnosed of early endometrial carcinoma (EEC) or atypical endometrial hyperplasia (AEH) by hysteroscopy, patients meet the study criteria will be enrolled.
+
+Patients will receive MPA (Medroxyprogesterone acetate) 250-500mg or MA (megestrol acetate) 160-320mg by mouth daily. Then hysteroscopy will be used to evaluate the endometrial condition every 3 months, and intra-operative findings will be recorded. Hysteroscopy will continue until pathology confirms complete response. Complete response (CR) is defined as the reversion of endometrial atypical hyperplasia to proliferative or secretory endometrium; partial response (PR) is defined as regression to hyperplasia with or without atypic; stable disease (SD) is defined as the persistence of the disease; and progressive disease (PD) is defined as the appearance of higher pathological progression, or myometrial invasion, or extra-uterine metastasis. Continuous therapies will be needed in PR or SD. Patients with PD will be recommended for hysterectomy.
+
+During each hysteroscopy, the intraoperative residual tissues were sent to the laboratory of College of Future Science and Technology of Peking University for culture as Patient-derived tumor-like cell clusters (PTC), and the content of lipids (lipid droplet size and cholesterol content) was measured by stimulated Raman scattering imaging and recorded. After collecting the data of 148 cases, the prediction model was constructed. Then the model is validated in the validation set composed of 96 new cases. In order to determine the accuracy and sensitivity of the model.
+
+If a patient has achieved a pathological complete response and a high lipid content is detected in the tissue by stimulated Raman scattering imaging, we will follow up for subsequent recurrence.

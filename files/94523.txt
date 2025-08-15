@@ -1,0 +1,22 @@
+Allogeneic Stem Cell Transplant for CLL
+This phase I/II trial studies the best dose and side effects of gemcitabine and how well it works with clofarabine and busulfan and donor stem cell transplant in treating participants with chronic lymphocytic leukemia. Drugs used in chemotherapy, such as gemcitabine, clofarabine, and busulfan, work in different ways to stop the growth of tumor cells, either by killing the cells, by stopping them from dividing, or by stopping them from spreading. Giving chemotherapy before a donor stem cell transplant helps stop the growth of cells in the bone marrow, including normal blood-forming cells (stem cells) and cancer cells. When the healthy stem cells from a donor are infused into the patient they may help the patient's bone marrow make stem cells, red blood cells, white blood cells, and platelets. The donated stem cells may also replace the patient's immune cells and help destroy any remaining cancer cells.
+Allogeneic Hematopoietic Stem Cell Transplantation Recipient|Chronic Lymphocytic Leukemia|Prolymphocytic Leukemia|Richter Syndrome
+PROCEDURE: Allogeneic Hematopoietic Stem Cell Transplantation|BIOLOGICAL: Anti-Thymocyte Globulin|DRUG: Busulfan|DRUG: Clofarabine|BIOLOGICAL: Filgrastim|DRUG: Gemcitabine|DRUG: Methotrexate|DRUG: Tacrolimus
+100 Day Treatment Related Mortality (TRM), Number of deaths related to treatment by day 100 post allogeneic transplant, 100 days post transplant|Maximum Tolerated Dose (MTD), To find the maximum tolerated dose (MTD) of Gemcitabine when administered with Busulfan \& Clofarabine, Enrollment up to day 30 post transplant
+Overall Survival, Will be estimated by the method of Kaplan and Meier. Time-to-event distributions as function of patient baseline covariates will be evaluated using Bayesian time-to-event regression modeling., Up to 1 year post transplant
+Progression-free Survival (PFS), Number of patients without any relapse post treatment completion, Up to 1 year post transplant|Time-to-engraftment, The number of days until participants by dose level reach engraftment., 30 days post transplant|Acute and Chronic Graft Verse Host Disease (GvHD), GvHD (Graft versus Host Disease) occurs when immune cells transplanted from a non-identical donor (graft) recognizes the transplant recipient (the host) as foreign, thereby initiating an immune reaction in the transplant recipient. Acute GvHD typically occurs around the time of engraftment and manifests in skin, GI system, and liver abnormalities. Chronic GvHD is defined by manifestations such as ocular, oral, lung, sclerosis skin, failure to thrive, fascia, cholestasis in liver, esophagus strictures., Up to 1 year post transplant
+PRIMARY OBJECTIVES:
+
+I. To determine the maximum tolerated dose (MTD) of gemcitabine when administered with busulfan and clofarabine.
+
+II. To estimate the day 100 treatment-related mortality (TRM) for the preparative regimen busulfan, clofarabine, and gemcitabine followed by allogeneic hematopoietic cell transplantation (HCT) for patients with chronic lymphocytic leukemia (CLL).
+
+SECONDARY OBJECTIVES:
+
+I. To determine the rate of progression-free survival (PFS), graft versus host disease (GVHD), engraftment, and overall survival (OS) for this treatment regimen at one year post treatment completion.
+
+OUTLINE: This is a dose-escalation study of gemcitabine.
+
+Participants receive gemcitabine intravenously (IV) over 10-25 minutes on days -6 and -4, clofarabine IV over 1 hour and busulfan IV over 3 hours on days -6 to -3. Participants with matched unrelated donors also receive anti-thymocyte globulin IV over 4 hours on days -3 to -1. Starting day -2, participants receive tacrolimus orally (PO) daily for up to 6 months. Participants undergo hematopoietic allogeneic stem cell transplant on day 0, then receive methotrexate IV over 15 minutes on days 1, 3, 6 and 11, and filgrastim subcutaneously (SC) once daily (QD) beginning 1 week after transplant until blood cell levels return to normal.
+
+After completion of study treatment, participants are followed up at 3, 6 and 12 months, then every 6 months for 1 year.

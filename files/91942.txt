@@ -1,0 +1,37 @@
+Matched Paired Pharmacodynamics and Feasibility Study of Durvalumab in Combination With Chemotherapy in Frontline Ovarian Cancer (N-Dur)
+This phase I/II trial studies how well durvalumab works when given in combination with carboplatin and paclitaxel in treating patients with stage III-IV ovarian, primary peritoneal, or fallopian tube cancer. Immunotherapy with monoclonal antibodies, such as durvalumab, may help the body's immune system attack the cancer, and may interfere with the ability of tumor cells to grow and spread. Drugs used in chemotherapy, such as carboplatin and paclitaxel, work in different ways to stop the growth of tumor cells, either by killing the cells, by stopping them from dividing, or by stopping them from spreading. Giving durvalumab in combination with carboplatin and paclitaxel may be a better treatment for ovarian, primary peritoneal, or fallopian tube cancer.
+Stage III Fallopian Tube Cancer AJCC v7|Stage III Ovarian Cancer AJCC v6 and v7|Stage III Primary Peritoneal Cancer AJCC v7|Stage IIIA Fallopian Tube Cancer AJCC v7|Stage IIIA Ovarian Cancer AJCC v6 and v7|Stage IIIA Primary Peritoneal Cancer AJCC v7|Stage IIIB Fallopian Tube Cancer AJCC v7|Stage IIIB Ovarian Cancer AJCC v6 and v7|Stage IIIB Primary Peritoneal Cancer AJCC v7|Stage IIIC Fallopian Tube Cancer AJCC v7|Stage IIIC Ovarian Cancer AJCC v6 and v7|Stage IIIC Primary Peritoneal Cancer AJCC v7|Stage IV Fallopian Tube Cancer AJCC v6 and v7|Stage IV Ovarian Cancer AJCC v6 and v7|Stage IV Primary Peritoneal Cancer AJCC v7
+DRUG: Carboplatin|BIOLOGICAL: Durvalumab|OTHER: Laboratory Biomarker Analysis|DRUG: Paclitaxel|OTHER: Pharmacological Study|OTHER: Quality-of-Life Assessment
+Pharmacodynamic Changes Induced by Treatment with Durvalumab in Combination with Paclitaxel and Carboplatin in Women with Advanced Stage, Metastatic Ovarian Cancer Using Paired T-Test, Paired t-test with a 2-sided significance level of 0.05 used to test whether the change in biomarker expression from pre-treatment to post-treatment with Durvalumab is different from 0., 1 year|Pharmacodynamic Changes Induced by Treatment with Durvalumab in Combination with Paclitaxel and Carboplatin in Women with Advanced Stage, Metastatic Ovarian Cancer Using an Exact Binomial Test, Exact binomial test with a 1-sided significance level of 0.05 used to test whether the probability of a biomarker increasing (or decreasing) is \> 0.50., 1 year|Pharmacodynamic Changes Induced by Treatment with Durvalumab in Combination with Paclitaxel and Carboplatin in Women with Advanced Stage, Metastatic Ovarian Cancer, Fisher's exact test with a 1-sided significance level of 0.05 used to compare the proportion of participants treated with Durvalumab who have increasing (or decreasing) expression rates with the corresponding proportion from a historical control group of 30 untreated patients., 1 year|Pharmacodynamic Changes Induced by Treatment with Durvalumab in Combination with Paclitaxel and Carboplatin in Women with Advanced Stage, Metastatic Ovarian Cancer Using a 2-Sample T-Test, A 2-sample t-test with a 2-sided significance level of 0.05 used to compare change in biomarker expression between patients treated with Durvalumab and a control group of 30 untreated patients., 1 year
+Progression-Free Survival with Treatment with Durvalumab in Combination with Paclitaxel and Carboplatin in Women with Advanced Stage, Metastatic Ovarian Cancer, Progression defined by any of the following: 25% increase in sum of the products of perpendicular diameters of enhancing lesions compared with the smallest tumor measurement obtained either at baseline (if no decrease) or best response, on stable or increasing doses of corticosteroids; significant increase in T2/FLAIR nonenhancing lesion on stable or increasing doses of corticosteroids compared with baseline scan or best response after initiation of therapy not caused by comorbid events (eg, radiation therapy, demyelination, ischemic injury, infection, seizures, postoperative changes, or other treatment effects); any new lesion; clear clinical deterioration not attributable to other causes apart from the tumor (eg, seizures, medication adverse events, complications of therapy, cerebrovascular events, infection) or changes in corticosteroid dose; failure to return for evaluation as a result of death or deteriorating condition; or clear progression of nonmeasurable disease., 1 year|Feasibility of Treatment with Durvalumab in Combination with Paclitaxel and Carboplatin in Women with Advanced Stage, Metastatic Ovarian Cancer Determined by Methods of Thall et all, Feasibility defined as the ability to complete all planned cycles of adjuvant therapy, using the methods of Thall et al. (1994)., 126 days
+PRIMARY OBJECTIVES:
+
+I. To explore basal levels and effects of durvalumab in combination with chemotherapy on molecular markers in immune-related pathways, including but not limited to, deoxyribonucleic acid (DNA) copy number, mutation, and level of ribonucleic acid (RNA) and protein expression, before and after durvalumab and chemotherapy treatment in women with primary advanced high grade serous ovarian, fallopian tube, or primary peritoneal cancer.
+
+SECONDARY OBJECTIVES:
+
+I. To evaluate progression-free survival of paclitaxel and carboplatin and durvalumab in patients with advanced stage, metastatic ovarian cancer undergoing neoadjuvant chemotherapy.
+
+II. To describe the feasibility of combination therapy and maintenance durvalumab in this population.
+
+III. To evaluate the safety, tolerability and pharmacokinetics (PK) of combination and maintenance durvalumab.
+
+IV. To report overall survival.
+
+EXPLORATORY OBJECTIVES:
+
+I. To evaluate circulating lymphoid populations (subsets). II. To determine tissue programmed death-ligand 1 (PD-L1) expression and T-cell infiltration.
+
+III. To measure circulating immune-related cytokines/chemokines. IV. To capture patient reported outcomes (symptoms, quality of life, and patient utilities).
+
+OUTLINE:
+
+NEOADJUVANT CHEMOTHERAPY: Before debulking surgery, patients receive durvalumab and carboplatin intravenously (IV) over 1 hour on day 1, and paclitaxel IV over 3 hours on days 1, 8, and 15. Treatment repeats every 21 days for up to 3 courses in the absence of disease progression or unacceptable toxicity. Patients then undergo debulking surgery.
+
+SURGERY: After 3 courses of chemotherapy, patients undergo debulking laparoscopic surgery.
+
+ADJUVANT THERAPY: Beginning after debulking surgery, patients receive carboplatin IV over 1 hour on day 1, paclitaxel IV over 3 hours on days 1, 8, and 15, and durvalumab IV over 1 hour on day 1. Treatment repeats every 21 days for up to 3 courses in the absence of disease progression or unacceptable toxicity.
+
+MAINTENANCE THERAPY: Patients receive durvalumab IV over 1 hour on day 1 and 15. Treatment repeats every 28 days for up to 7 courses in the absence of disease progression or unacceptable toxicity.
+
+After completion of study treatment, patients are followed up at 30 days, 2, 3, 4, 6, 8, 9, 10, and 12 months, and then every 6 months thereafter.

@@ -1,0 +1,30 @@
+A Study to Investigate Fadraciclib (CYC065), in Subjects With Advanced Solid Tumors and Lymphoma
+This is a 2-part, phase 1/2, open-label, multicenter study designed to evaluate the safety, tolerability, PK, pharmacodynamics, PGx, and efficacy of fadraciclib administered orally BID. This study consists of Phase 1 and Phase 2 components in subjects with advanced solid tumors and lymphoma who have progressed despite having standard therapy or for which no standard therapy exists.
+Solid Tumor, Adult|Lymphoma
+DRUG: Fadraciclib
+Maximum tolerated dose, The incidence rate of dose-limiting toxicities (first cycle only) at each dose level, 6 months|Overall Response Rate (ORR), Assessment of response criteria according to RESIST, Lugano or mSWAT, 18 months
+Adverse events, Type, frequency, and severity of adverse drug reactions, 24 months|AUC, Fadraciclib plasma concentrations, 6 months|Cmax, Fadraciclib plasma concentrations, 6 months|Tmax, Fadraciclib plasma concentrations, 6 months|T1/2, Fadraciclib plasma concentrations, 6 months
+Pharmacodynamics, To investigate CDK9-dependent transcription inhibition as assessed by differential target gene expression relative to baseline., 6 months|Pharmacogenomics, To investigate plasma cell-free DNA mutation and copy number variation profile of fadraciclib as determined by NGS., 24 months
+Phase 1 part of the study will consist of a dose-escalation and a dose-finding component .
+
+Phase 2 will enroll subjects with locally advanced, recurrent, or metastatic, histologically confirmed advanced solid tumors or lymphoma, who have failed all standard therapies or for whom standard therapy does not exist, into 8 groups:
+
+Group 1: Endometrial or Ovarian cancer
+
+Group 2: Biliary tract cancer
+
+Group 3: HCC
+
+Group 4: Breast cancer, meeting any of the following criteria:
+
+* HER-2 refractory MBC
+* HR positive, HER-2 negative, MBC post-CDK4/6 inhibitor
+* Triple-negative breast cancer (TNBC)
+
+Group 5: B-cell lymphoma
+
+Group 6: T-cell lymphoma (CTCL and PTCL)
+
+Group 7: mCRC, including KRAS mutated mCRC
+
+Group 8: Basket cohort: Tumor types suspected to have a related mechanism of action such as MCL1, MYC or CCNE amplification/overexpression not included in previous groups.

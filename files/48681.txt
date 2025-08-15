@@ -1,0 +1,37 @@
+Olutasidenib for the Treatment of Patients With IDH1 Mutated AML, MDS or CMML After Donor Hematopoietic Cell Transplant
+This phase I trial tests the safety, side effects, and effectiveness of olutasidenib in preventing the return of disease (relapse) in patients who have undergone donor (allogeneic) hematopoietic cell transplant for acute myeloid leukemia (AML), myelodysplastic syndrome (MDS), or chronic myelomonocytic leukemia (CMML) carrying an IDH1 mutation. Olutasidenib is in a class of medications called IDH1 inhibitors. It works by slowing or stopping the growth of cancer cells. Giving olutasidenib may be safe, tolerable and/or effective in preventing relapse in patients with IDH1 mutated AML, MDS or CMML after an allogeneic hematopoietic cell transplant.
+Acute Myeloid Leukemia|Chronic Myelomonocytic Leukemia|Myelodysplastic Syndrome
+PROCEDURE: Biospecimen Collection|DRUG: Olutasidenib
+Incidence of adverse events (AEs), AEs will be graded according to National Cancer Institute Common Terminology Criteria for Adverse Events version 5.0., Up to 30 days after last dose of study treatment|Proportion of patients completing at least 6 months of study therapy, Tolerability will be defined as the proportion of patients who complete at least 6 months of study therapy., Up to 2 years
+Overall survival (OS), OS will be analyzed using the Kaplan-Meier method., From start of treatment to death, assessed up to 2 years|Leukemia-free survival (LFS), LFS will be analyzed using the Kaplan-Meier method., From start of treatment to relapse or death, assessed up to 2 years|Time to relapse, Time to relapse will be analyzed using the curves of cumulative incidence., From start of treatment to relapse, assessed up to 2 years|Non-relapse mortality (NRM), NRM will be analyzed using the curves of cumulative incidence., From start of treatment to death from causes other than relapse, assessed up to 2 years|Graft versus host disease (GVHD) free, relapse-free survival (GRFS), GRFS will be analyzed using the Kaplan-Meier method., From start of treatment to grade III or IV acute GVHD, chronic GVHD requiring systemic therapy, relapse, or death, assessed up to 2 years|Rate of acute GVHD (aGVHD) grades II-IV and III-IV, Rate of aGVHD will be graded according to Mount Sinai Acute Graft Versus Host Disease International Consortium Grading System grading., From transplant to aGVHD onset, assessed up to 2 years|Incidence of chronic GVHD (cGVHD), Incidence of cGVHD will be scored according to National Institutes of Health Consensus Staging and will be measured from start of protocol therapy to the documented/biopsy proven cGVHD onset date., From start of treatment to cGVHD onset, assessed up to 2 years
+PRIMARY OBJECTIVE:
+
+I. Evaluate the safety and tolerability of olutasidenib as maintenance therapy after allogeneic hematopoietic cell transplantation (HCT) in patients with IDH1-mutated acute myeloid leukemia (AML), myelodysplastic syndrome (MDS), or chronic myelomonocytic leukemia (CMML).
+
+SECONDARY OBJECTIVES:
+
+I. Assess overall survival (OS) and leukemia-free survival (LFS) at 1 and 2 years after first dose of olutasidenib.
+
+II. Estimate cumulative incidence of relapse (CIR), non-relapse mortality (NRM), graft-versus-host disease (GVHD) free, relapse-free survival (GRFS) at 1 and 2 years after first dose of olutasidenib.
+
+III. Rate and grading of acute GVHD of grades 2-4 and 3-4 at day 100 post allogeneic HCT.
+
+IV. Incidence and grading of chronic GVHD of all grades at 1 and 2 years after first dose of olutasidenib.
+
+EXPLORATORY OBJECTIVES:
+
+I. Monitor disease status by multiparameter flow cytometry among a subset of patients with minimal residual disease (MRD)+ disease when starting olutasidenib.
+
+II. Molecular monitoring of disease status by HopeSeq complete (at City of Hope \[COH\]) and equivalent next generation sequencing (NGS) assay at Cleveland Clinic.
+
+III. Monitor immune reconstitution by flow cytometry during protocol therapy. IV. Mutant (m)IDH1 testing on peripheral blood samples with standard polymerase chain reaction (PCR).
+
+V. Investigate IFN-ɣ signaling in immune cell subsets before and during maintenance therapy.
+
+VI. Monitor mIDH1 variant allele fraction (VAF) by droplet digital PCR (ddPCR) beads, emulsion, amplification, magnetics (BEAM)ing technology on peripheral blood.
+
+OUTLINE:
+
+Starting 50-120 days after bone marrow transplant, patients receive olutasidenib orally (PO) twice daily (BID) on days 1-28 of each cycle. Cycles repeat every 28 days for up to 24 cycles in the absence of disease progression or unacceptable toxicity. Patients also undergo blood sample collection on study.
+
+After completion of study treatment, patients are followed up at 30 days and then up to 2 years.

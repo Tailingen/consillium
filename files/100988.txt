@@ -1,0 +1,9 @@
+Artificial Intelligence in Breast Cancer Screening in Region Östergötland Linkoping
+The purpose of this observational study is to assess whether the use of AI (Transpara®) can lead to an improved quality of a double reading mammography screening program. This is investigated by performing AI as a third reader and as a decision support during the consensus meeting, compared with conventional mammography screening (double reading and consensus without AI).
+Breast Cancer
+OTHER: AI cancer detection system
+Cancer Detection rate, Proportion of women diagnosed with breast cancer among those recalled after consensus, After 4 months of inclusion|Recall or referral rate, Proportion of women who are referred for further diagnostic workup after consensus, After 4 months of inclusion|Positive predictive value of referrals, Proportion of women diagnosed with breast cancer among those referred, After 4 months of inclusion
+Positive predictive value of Transpara® scores, Proportion of breast cancers diagnosed among women with a given AI score, After 4 months of inclusion
+The AI cancer detection system will act as a 3rd reader and will recall additional cases to the consensus conference: the exams that were not recalled by double reading but are classified as the 3% most suspicious exams, based on AI derived cancer-risk scores. Secondly, AI is used as a decision support during consensus. AI risk scores and Computer-Aided Detection (CAD)-marks of suspicious calcifications and soft tissue lesions are provided to the reader(s).
+
+The hypothesis of this study is that the use of AI has the potential to improve the quality of the screening program by increasing the cancer detection rate without affecting the recall rate.

@@ -1,0 +1,37 @@
+Magrolimab Plus Intensive Chemotherapy in Newly Diagnosed AML or HR-MDS
+Use of magrolimab in combination with standard intensive chemotherapy ("7+3" or CPX-351) in newly diagnosed "ELN 2022 intermediate or adverse-risk" AML or high risk MDS patients, who intend to undergo allogeneic stem cell transplantation
+Acute Myeloid Leukemia|Myelodysplastic Neoplasm
+DRUG: Magrolimab|DRUG: 7+3|DRUG: CPX-351
+Best CR/CRi/CRh, Analysis of best CR/CRi/CRh (taken into count: number of neutrophils, platelets and bone marrow blasts) to describe efficacy of magrolimab in combination with intensive chemotherapy, Up to 28 days
+Overall Survival, Analysis of overall survival, OS (Time from study inclusion until death from any cause), up to 28 months|Event Free Survival, Analysis of event free survival, EFS (Time from study inclusion until end of induction (after up to two induction chemotherapies), hematological relapse or death from any cause (whichever comes first)), up to 57 days|Relapse Free Survival, Analysis of relapse free survival, RFS (only for patients achieving CR); Time from achievement of complete remission until hematological relapse or death from any cause (whichever comes first), up to 28 months|Rate of allo HSCT, Rate of allogeneic hematopoietic stem cell transplantation, After induction cycle, up to 28 days|Quality of life (EORTC QLQ-C30), Evaluation according to EORTC QLQ-C30 Scoring Manual, Registration, during treatment and end of treatment
+
+To assess patient-reported quality of life during magrolimab treatment: 30 questions assessing the quality of life of oncology patients across 10 subscales will be analyzed. All subscales have a score range from 0 to 100 points.
+
+Function subscales: a higher score represents a higher quality of life. Symptoms subscales: higher score represents higher level of symptoms/problems, i.e., represents lower quality of life., up to 4 months|Quality of life (EQ-5D-5L), Evaluation according to EQ-5D-5L User Guide, Registration, during treatment and end of treatment
+
+To assess patient-reported quality of life during magrolimab treatment within five dimensions: mobility, self-care, usual activities, pain/discomfort and anxiety/depression. Each dimension has 5 levels: no problems, slight problems, moderate problems, severe problems and extreme problems.
+
+Level 1 is coded as a '1', Level 2 is coded as a '2' and so on. Higher levels indicate lower quality of life.., up to 4 months|Rate and severity of adverse events, Rate and severity of adverse events for patients treated with magrolimab and induction chemotherapy (Start of treatment up to end of treatment), up to 4 months
+Patients will receive magrolimab in combination with "7+3" or CPX-351 at:
+
+* Day 1, 4: IV 1 mg/kg
+* Day 8: IV 15 mg/kg
+* Day 11, 15 and 22: IV 30 mg/kg
+* Followed by weekly doses for 5 weeks and then q2w until the end of consolidation
+
+If "7+3":
+
+* Induction cycle 1 (IND 1):
+* Cytarabine at 100 mg/m² on study days 1-7 as a continuous infusion over 22-24 hours
+* Daunorubicin at 60 mg/m² on study days 3, 4, 5
+* Induction cycle 2 (IND 2, optional):
+* Cytarabine at 100 mg/m² on days 1-7 of the second induction cycle (i.e. study days 29-35) as a continuous infusion over 22-24 hours
+* Daunorubicin at 60 mg/m² on days 3, 4, 5 of the second induction cycle (i.e. study days 31, 32, 33)
+* Consolidation cycle (CONS, optional):
+* Cytarabine at 1 g/m² administered on days 1, 3, 5 of each consolidation cycle as an infusion for 2 hours every 12 hours (for patients \< 60 years up to 3 CONS cycles and for patients ≥ 60 years up to 2 CONS cycles)
+
+If CPX-351:
+
+* Induction cycle 1 (IND 1): CPX-351 (fixed combination daunorubicin 44 mg/m² and cytarabine 100 mg/m²) days 1, 3, 5
+* Induction cycle 2 (IND 2, optional): CPX-351 (fixed combination daunorubicin 44 mg/m² and cytarabine 100 mg/m²) days 1, 3 (i.e. study days 29, 30)
+* Consolidation cycle 1 (CONS, optional): CPX-351 (fixed combination daunorubicin 29 mg/m² and cytarabine 65 mg/m²) days 1, 3

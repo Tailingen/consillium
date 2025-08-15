@@ -1,0 +1,35 @@
+Encorafenib, Cetuximab, and Nivolumab in Treating Patients With Microsatellite Stable, BRAFV600E Mutated Unresectable or Metastatic Colorectal Cancer
+This phase I/II trial studies the best dose and side effects of encorafenib, cetuximab, and nivolumab and how well they work together in treating patients with microsatellite stable, BRAFV600E gene mutated colorectal cancer that cannot be removed by surgery (unresectable) or has spread to other places in the body (metastatic). Encorafenib and cetuximab may stop the growth of tumor cells by blocking some of the enzymes needed for cell growth. Immunotherapy with monoclonal antibodies, such as nivolumab, may help the body's immune system attack the cancer, and may interfere with the ability of tumor cells to grow and spread.Giving encorafenib, cetuximab, and nivolumab may work better in treating patients with colorectal cancer compared to cetuximab alone.
+BRAF NP_004324.2:p.V600E|Metastatic Colon Adenocarcinoma|Metastatic Microsatellite Stable Colorectal Carcinoma|Metastatic Rectal Adenocarcinoma|Progressive Disease|Recurrent Colorectal Carcinoma|Stage III Colorectal Cancer AJCC v8|Stage IIIA Colorectal Cancer AJCC v8|Stage IIIB Colorectal Cancer AJCC v8|Stage IIIC Colorectal Cancer AJCC v8|Stage IV Colorectal Cancer AJCC v8|Stage IVA Colorectal Cancer AJCC v8|Stage IVB Colorectal Cancer AJCC v8|Stage IVC Colorectal Cancer AJCC v8|Unresectable Colon Adenocarcinoma|Unresectable Rectal Adenocarcinoma
+BIOLOGICAL: Cetuximab|DRUG: Encorafenib|BIOLOGICAL: Nivolumab
+Best radiographic response, Radiographic response will be defined as a complete response or partial response according to immune-related response criteria (Immune-Modified Response Evaluation Criteria in Solid Tumors) and Response Evaluation Criteria in Solid Tumors (RECIST) 1.1 criteria., Within 6 months of initiation of study treatment|Incidence of treatment-related grade 3 adverse events, Will assess according to Common Terminology Criteria for Adverse Events version 5.0., Up to 28 days
+Progression-free survival, Will be defined according to RECIST 1.1 criteria., Up to 5 years|Overall survival, Will be defined according to RECIST 1.1 criteria., Up to 5 years|Time to response, Up to 5 years|Duration of response, Up to 5 years
+PRIMARY OBJECTIVES:
+
+I. To describe overall response rate (ORR) upon treatment with encorafenib, cetuximab, and nivolumab.
+
+II. To determine the safety and tolerability of nivolumab, encorafenib, and cetuximab.
+
+SECONDARY OBJECTIVES:
+
+I. To estimate median progression-free survival (PFS) upon treatment with encorafenib, cetuximab, and nivolumab.
+
+II. To estimate median overall survival (OS) upon treatment with encorafenib, cetuximab, and nivolumab.
+
+III. To estimate median time to response (TTR) upon treatment with encorafenib, cetuximab, and nivolumab.
+
+IV. To estimate median duration of response (DOR) upon treatment with encorafenib, cetuximab, and nivolumab.
+
+V. To estimate disease control rate (DCR) upon treatment with encorafenib, cetuximab, and nivolumab.
+
+EXPLORATORY OBJECTIVES:
+
+I. To assess genomic and immune changes upon treatment with encorafenib, cetuximab, and nivolumab.
+
+II. To demonstrate feasibility of establishing humanized patient-derived xenograft models in matched patients with BRAFV600E metastatic colorectal cancer (mCRC).
+
+OUTLINE: This is a phase I, dose-escalation study followed by a phase II study.
+
+Patients receive encorafenib orally (PO) once daily (QD) on days 1-28, cetuximab intravenously (IV) over 1 hour on days 1 and 15, and nivolumab IV over 30 minutes on day 1. Cycles repeat every 28 days in the absence of disease progression or unacceptable toxicity.
+
+After completion of study treatment, patients are followed up at 30 and 100 days, at 3 months, and then every 3 months thereafter.

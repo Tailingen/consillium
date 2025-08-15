@@ -1,0 +1,33 @@
+AEG35156 and Docetaxel in Treating Patients With Locally Advanced, Metastatic, or Recurrent Solid Tumors
+RATIONALE: Drugs used in chemotherapy, such as docetaxel, work in different ways to stop the growth of tumor cells, either by killing the cells or by stopping them from dividing. AEG35156 may help docetaxel work better by making tumor cells more sensitive to the drug.
+
+PURPOSE: This phase I trial is studying the side effects and best dose of AEG35156 when given together with docetaxel in treating patients with locally advanced, metastatic, or recurrent solid tumors.
+Unspecified Adult Solid Tumor, Protocol Specific
+DRUG: AEG35156|DRUG: docetaxel|GENETIC: protein expression analysis|GENETIC: reverse transcriptase-polymerase chain reaction|OTHER: flow cytometry|OTHER: immunoenzyme technique|OTHER: immunohistochemistry staining method|OTHER: laboratory biomarker analysis
+Maximum tolerated dose of AEG35156 in combination with docetaxel, Doses of AEG35156 escalated as shown in protocol section 4.3 in patient cohorts given a fixed dose of docetaxel. MTD defined as that dose level at which ≥ 2/6 patients experienced DLT (as defined in protocol section 4.6), 2-3 years|Recommended phase II dose, RPTD for AEG35156 defined as one dose lower than MTD, 2-3 years
+Toxicities, Toxicities evaluated according to NCI CTCAE v3.0, Every 3 weeks|Pharmacokinetic profile, Venous blood samples for determination of AEG35156 concentration obtained on all patients during cycle 1 and 2 as per protocol section 17.2, Each cycle|Antitumor activity, All patients with measurable disease at baseline evaluated for response using RECIST criteria as described in protocol section 10.0, Every 6 weeks|Pharmacodynamic effects of AEG35156 on X-linked inhibitor of apoptosis levels and apoptosis in peripheral blood mononuclear cells and tumor tissue, Venous blood samples collected for PD studies as described in protocol Section 17.0. Fresh tissue biopsies also collected in patients entered at the RPTD., Each cycle|M30/M65 cytokeratin 18 level, Venous blood samples collected for determination of M30/M65 cytokeratin 18 and nucleosomal DNA as described in protocol section 17.0, Each cycle
+OBJECTIVES:
+
+Primary
+
+* Determine the maximum tolerated dose and define a recommended phase II dose of AEG35156 in combination with docetaxel in patients with locally advanced, metastatic, or recurrent solid tumors.
+
+Secondary
+
+* Determine the qualitative and quantitative toxicities of AEG35156 in combination with docetaxel given and define the duration and reversibility of those toxicities.
+* Determine the pharmacokinetic profile of this regimen.
+* Assess, preliminarily, the antitumor activity of this regimen in these patients.
+* Assess the pharmacodynamic effects of AEG35156 on X-linked inhibitor of apoptosis levels and apoptosis in peripheral blood mononuclear cells and in tumor tissue of these patients.
+* Evaluate M30/M65 cytokeratin 18 level (a marker of apoptosis/necrosis of epithelial tumors) in serum of these patients.
+
+OUTLINE: This is a multicenter, open-label, dose-escalation study of AEG35156.
+
+Patients receive AEG35156 IV over 2 hours on days -1, 0, 1, 8, and 15 during course 1 and on days 1, 8, and 15 of all subsequent courses. Patients also receive docetaxel IV over 1 hour on day 1. Treatment repeats every 21 days for up to 6 courses in the absence of disease progression or unacceptable toxicity.
+
+Cohorts of 3-6 patients receive escalating doses of AEG35156 until the maximum tolerated dose (MTD) is determined. The MTD is defined as the dose preceding that at which ≥ 2 of 3 or 2 of 6 patients experience dose-limiting toxicity. Additional patients receive AEG35156 at the recommended phase II dose (RPTD).
+
+Blood is drawn periodically for pharmacokinetic and pharmacodynamic studies. Samples are examined by flow cytometry, immunoenzyme methods, and reverse transcriptase-polymerase chain reaction for biological markers. Tumor tissue (archival and fresh) is collected from patients treated at the RPTD and examined by immunohistochemical methods and biological marker analysis.
+
+After completion of study treatment, all patients are followed at 4 weeks. Patients with response or stable disease ongoing are followed every 3 months thereafter until relapse/progression. Patients with protocol-related toxicity also followed q 3 months until resolution to ≤ grade 2.
+
+PROJECTED ACCRUAL: A total of 30 patients will be accrued for this study.

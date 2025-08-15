@@ -1,0 +1,27 @@
+Validate the Safety and Feasibility of the CT-guided Interventional Robot in Percutaneous Lung Cryablation Procedures
+This study aims to investigate whether the interventional robot can be well and safely used for percutaneous lung cryoablation in patients with lung cancer. The robot allows radiologists to remotely control the needle insertion process under CT fluoroscopy guidance.
+
+The main questions this study aims to answer are:
+
+1. Whether the robot-assisted Cryoablation method can achieve complete the coverage of preoperatively planned ablation areas;
+2. Whether the robot-assisted Cryoablation method can improve the success rate for radiologists to insert the needle into the target lesion area without additional needle adjustment;
+3. Whether the robot-assisted Cryoablation method can reduce puncture time, ablation time and procedure time;
+4. Whether the robot-assisted Cryoablation method can decrease the patient's complication occurrence rate;
+5. Whether the robot-assisted Cryoablation method can obtain decent Evaluation of system performance.
+Lung Cancer|Thoracic Cancer
+PROCEDURE: CT-fluoroscopy guided master-slave intervetional robot-assisted lung Cryoablation
+Technical success rate, After the cryoablation procedure, the radiologists evaluate the consistency of the postoperative ablation area derived from the immediate postoperative thoracic CT scan with the size of the preoperative planning area. If consistent, it is defined as a technical success. The technical success rate is defined as the ratio of the number of participants with technical success to the total number of enrolled participants., The day of the procedure
+The number of needle adjustments, The number will be counted when the needle tip angle is altered or the needle is retracted during the procedure., The day of the procedure|Number of cryoprobes used, The number of cryoprobes used to complete cryoablation for a single target lesion during the cryoablation procedure., The day of the procedure|Puncture time, Time from when the needle tip enters the skin to the completion of the puncture., The day of the procedure|Ablation time, Time for the single lesion from when the cryoprobe arrives at the target to when the investigator judges the cryoablation is completed., The day of the procedure|Procedure time, Time from when the patient is positioned to the completion of the ablation procedure as judged by the investigator., The day of the procedure|Evaluation of system performance, Subjective evaluation from the radiologists regarding the commonly used functions, operation, stability, and convenience of the research device., The day of the procedure|Compliations, Complications including pneumothorax, hemoptysis, bleeding, and other rare complications., 7±1 days postoperatively/on the day of discharge (whichever comes first).
+Lung cancer is the leading cause of morbidity and mortality of malignant tumors.
+
+The surgical resection of lung lobes is the standard treatment for stage I non-small cell lung cancer (NSCLC), with proven long-term cure rates and survival. However, more than 20% of patients are not eligible for surgical treatment due to comorbidities or poor underlying lung reserve.
+
+With the development of minimally invasive interventional field, lung cancer cryoablation has also become an established tool for the treatment of early stage lung cancer and palliative treatment of advanced lung cancer in recent years.
+
+However, the image-guidance cryoablation method still faces the following challenges:
+
+1. Lack of real-time and accurate information during the needle insertion process, including puncture force, needle deformation, soft tissue deformation, and needle arrival position;
+2. Multiple scans during the puncture are needed to determine whether the needle has successfully reached the target area, which leads to prolonged operation time, easily induces complications and increases the radiation dose to the physicians.
+3. The accuracy of needle insertion is highly affected by the patient's respiration movement causing the multi-directional nonlinear displacement and deformation of tissues and organs (movement, rotation, etc.), resulting in the drift of the tumour position. Eventually, it is difficult for radiologists to reach the target position, resulting in insufficient ablation areas and increased probability of cancer recurrence.
+4. The physiological trembling of the radiologist's hand will reduce the accuracy of puncture, and even lead to complications such as bleeding and pneumothorax
+5. The procedure is highly dependent on the ability and experience of radiologists.

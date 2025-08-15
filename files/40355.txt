@@ -1,0 +1,24 @@
+An Intraoperative Guidance Platform for Radio Frequency Ablation
+This study tests the hypothesis that use of the research RFA (Radiofrequency ablation) Physics Library will result in more frequent technical success (complete necrotization of target tissues) compared to ablations conducted without computer guidance.
+
+The RFA Physics Library -- a Planning and Guidance Platform (PGP) (NE Scientific, LLC) -- will be used to support percutaneous liver RFA under CT-guidance by assisting physicians in the identification of ablation targets, assessment of proper ablation probe placement, and projection of the created ablation zones on the CT image.
+Hepatocellular Carcinoma
+DEVICE: RFA Physics Library -- a Planning and Guidance Platform (PGP)
+Rate of Technical Success of Tumor Ablation, Technical success is defined as the complete ablation of the target lesion (tumor and 5 mm margin), as determined by operator., Success measured at end of RFA procedure, one-time event (lasting up to a few hours)|Rate of Local Tumor Recurrence, Local recurrence at 2 years is defined as the detection of viable malignant tissues at edge of or within a site which was previously treated by RFA., 2 years after RFA treatment
+Patients referred for curative ablation of an HCC by consensus recommendation of the multidisciplinary Liver Tumor Clinic at a 400-bed academic cancer center from June 2018 through December 2021 were considered for participation in the study.
+
+Inclusion criteria :
+
+patient : over 18 years old , ble to provide informed consent, expected survival \>1 year lesion: HCC, \>2 cm in diameter, located \> 1 cm from any other lesion. procedure : completed using the support of the Accublate simulation software.
+
+Software detail at : Hoffer EK, Borsic A, Patel SD. Validation of Software for Patient-Specific Real-Time Simulation of Hepatic Radiofrequency Ablation. Acad Radiol. 2022 Oct;29(10):e219-e227. doi: 10.1016/j.acra.2021.12.018. PMID: 35039220; PMCID: PMC9276838
+
+Treatment: CT-guided RFA with Boston Scientific LeVeen system, RF3000 Generator. .
+
+Prophylactic antibiotic General anesthesia; imaging during suspended ventilation, no PEEP Ablation per manufacturer's protocol. Target : tumor + 5 mm margin Planning, targeting, intraprocedural repositioning, assessment of ablation coverage using software simulation in conjunction with manufacturer's data map.
+
+Tract ablation
+
+Follow-up clinic visit with contrast-enhanced cross-sectional imaging (MRI or CT) at 3 months, then every 3 months x 2 years. Data review for complications, progression of liver disease, evidence of local, regional, or metastatic disease, and additional interventions.
+
+Outcome measures: primary : local tumor progression secondary: hepatic tumor progression

@@ -1,0 +1,39 @@
+CD123 Redirected T Cells for AML in Pediatric Subjects
+Phase 1 open-label study to evaluate the safety of intravenously administered, lentivirally transduced T cells expressing anti-CD123 chimeric antigen receptors expressing tandem TCRζ and 4-1BB (TCRζ /4-1BB) costimulatory domains in pediatric subjects with relapsed/refractory Acute Myeloid Leukemia (AML).
+Acute Myeloid Leukemia, in Relapse|Acute Myeloid Leukemia, Pediatric|Acute Myeloid Leukemia, Refractory
+BIOLOGICAL: CART123 cells; cyclophosphamide; fludarabine
+Evaluate the safety of CART123 in AML subjects, * Occurrence of adverse events that are possibly, probably, or definitely related to CART123 cells
+* Occurrence of dose-limiting toxicities (DLTs) and determination of Maximum Tolerated Dose (MTD), 5 Years
+Evaluate study feasibility, • Proportion of enrolled subjects that screen fail; Proportion of enrolled subjects who receive study treatment., 15 Years|Evaluate manufacturing feasibility, • Frequency of product release failures; Occurrence of dose failures (inability to meet targeted dose)., 15 Years|Describe preliminary efficacy, * Reduction of blast count in the peripheral blood and marrow using standard clinical criteria (CBC with differential count, marrow aspirate with differential count) and flow cytometry
+* Overall Response Rate (ORR) at 28 +/- 5 days
+* Overall survival (OS)
+* Progression-free survival (PFS)
+* Duration of Response (DOR), 15 Years|Evaluate the need for rescue alloHCT, • Percentage of subjects proceeding to alloHCT (or second allogeneic HCT), 15 Years
+Determine persistence and trafficking of CART123 cells, * The duration of in vivo survival of CART123 cells ("persistence") is defined as the period of time above the limit of detection of Q-PCR for peripheral blood CART123 transgene sequences and/or flow cytometry for scFv surface expression.
+* Trafficking will be determined by performing Q-PCR and flow cytometry as above on bone marrow samples and/or other tissue biopsies as clinically indicated, 15 Years|Analyze CART123 bioactivity, • Multiplex cytokine analysis will be performed at multiple time points; if CRS develops, cytokine analysis will be performed from samples collected during CRS until its clinical resolution to follow the kinetics of cytokines longitudinally. This analysis will be batched and not available in real time or for clinical decisions., 15 Years
+This is a Phase 1 study designed to evaluate the safety, feasibility, and preliminary efficacy of CART123 cells in pediatric subjects with relapsed/refractory Acute Myeloid Leukemia (AML). The study was originally designed to evaluate these primary endpoints at a single CART123 dose level (2x106 CART123 cells/kg). This dose level was selected based on experience in an adult trial using this investigational product in relapsed/refractory AML patients (NCT03766126).
+
+As of Protocol Amendment V6, the study design has been converted into a 3+3 dose escalation design in order to further explore the safety of CART123 cells in the target disease population, and determine a maximum tolerated dose (MTD). The initial dose level (2x106 CART123 cells/kg) will be retrospectively identified as Dose Level 1 (DL1), and up to two new dose levels of CART123 cells will now be evaluated as follows:
+
+* Dose Level 1 (DL1): 2x106 CART123 cells/kg
+
+  o \<DL1 Fully Enrolled as of Protocol Amendment V6\>
+* Dose Level 2 (DL2): 5x106 CART123 cells/kg
+* Dose Level 3 (DL3): 1x107 CART123 cells/kg
+
+Dose Level 1 (DL1) was fully evaluated as of Protocol Amendment V6. Dose Level 2 (DL2) and Dose Level 3 (DL3) will be evaluated as follows:
+
+* Dose Level 2 (N = 3-6):
+
+  * If 1 DLT/3 subjects occurs, 3 additional DLT-evaluable subjects will enrolled at this dose level.
+  * If 0 DLT/3 subjects or 1 DLT/6 subjects occur, DL2 safety data will be submitted to the DSMB for review. DSMB approval must be received in order to advance to Dose Level 3 (DL3).
+  * If 2 DLTs occur at any time, additional enrollment on this study will be paused to allow for further investigation.
+* Dose Level 3 (N = 3-6):
+
+  * If 1 DLT/3 subjects occurs, 3 additional DLT-evaluable subjects will be enrolled at this dose level.
+  * If 0 DLT/3 subjects, 3 additional DLT-evaluable subjects will be enrolled at this dose level to further evaluate safety and allow for MTD determination.
+  * If 2 DLTs occur at any time, enrollment at this dose level will be stopped. If fewer than 6 evaluable subjects were infused at DL2, additional subjects will be enrolled at that dose level to reach a minimum of 6 DLT-evaluable subjects for MTD determination.
+
+The DLT observation period is 28 days post-CART123 cell infusion (Day 0). In order to allow for appropriate monitoring/assessment of toxicities, study treatment in the 1st and 2nd subjects at each dose level must be staggered by at least 28 days, such that the next subject will not receive treatment (lymphodepleting chemotherapy plus CART123 cells) until the previous subject has completed their Day 28 safety follow-up visit. If there are no emergent safety concerns identified in the first subject infused, study treatment for subsequent subjects at that same dose level do not need to be staggered and may occur sequentially without additional staggering requirements. Formal DLT evaluations will be performed after the 3rd evaluable subject at each dose level reaches the Day 28 safety follow-up visit. These formal DLT evaluations will allow for a formal decision regarding dose level progression, expansion, or dose de-escalation. Formal DLT evaluations will be determined by the Clinical PI and Sponsor Medical Director in accordance with the definition in the protocol. The MTD is defined as the highest dose at which 0 or 1 DLT occurs in 6 evaluable subjects.
+
+It is recommended that subjects with marrow aplasia at Day 28+/-5 undergo an allogeneic hematopoietic cell transplantation (alloHCT) as a rescue strategy. If required, this procedure will be performed as part of routine care, outside of the scope of this research study; however, subjects will continue to be followed onstudy. All subjects must, therefore, have a previously identified stem cell donor as part of their eligibility to participate in this study. All subjects will be followed monthly for up to 6 months after the CART123 cell infusion (Day 0). Thereafter, subjects will be transitioned into LTFU for up to 15 years post infusion.

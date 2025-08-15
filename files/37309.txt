@@ -1,0 +1,41 @@
+Efficacy Study of Pegylated Recombinant Human Arginase 1 as a Second-line Therapy in Patients With Advanced Liver Cancer
+The purpose of the study is to evaluate the efficacy and safety of PEG-BCT-100 as the second-line therapy following sorafenib in advanced HCC patients. Another objective of the study is to explore whether the expression of OTC and ASS are predictive biomarkers for drug response and prognosis.
+Hepatocellular Carcinoma
+BIOLOGICAL: pegylated recombinant human arginase
+Time to progression (TTP), TTP is defined as the time from start of study treatment (Cycle 1 Day 1) to first documentation of objective tumor progression.
+
+TTP data will be censored on the day following the date of the last tumor assessment documenting absence of progressive disease under the following conditions:
+
+* Patients who die for causes other than progressive disease
+* Patients who do not have objective tumor progression and are still on study at the time of an analysis
+* Patients who are given antitumor treatment other than the study treatment
+* Patients who are removed from study follow-up prior to documentation of objective tumor progression.
+
+Patients lacking an evaluation of tumor response after their first dose will have their event time censored at Day 1., 3 years
+Progression-free Survival (PFS), PFS is defined as the time from start of study treatment (Cycle 1 Day 1) to first documentation of objective tumor progression or to death due to any cause.
+
+PFS data will be censored on the day following the date of the last tumor assessment documenting absence of progressive disease under the following conditions:
+
+* Patients who do not have objective tumor progression and are still on study at the time of an analysis
+* Patients who are given antitumor treatment other than the study treatment
+* Patients who are removed from study follow-up prior to documentation of objective tumor progression.
+
+Patients lacking an evaluation of tumor response after their first dose will have their event time censored at Day 1., 3 years|Overall Survival (OS), OS is defined as the time from start of study treatment to date of death due to any cause. In the absence of confirmation of death, survival time will be censored at the last date the patient is known to be alive. Patients lacking data beyond the day of first dose will have their survival times censored at 1 day., 3 years|Overall Response Rate (ORR), ORR is defined as the proportion of patients with confirmed complete response (CR) or confirmed partial response (PR), relative to the total evaluable patient population., 3 years|Disease Control Rate (DCR), DCR is defined as the percent of patients with confirmed CR, PR, or stable disease for at least 12 weeks on study, relative to the total evaluable patient population., 3 years|Duration of Response (DR), DR is defined as the time from the first documentation of objective tumor response to the first documentation of objective tumor progression or to death due to any cause.
+
+DR data will be censored on the day following the date of the last tumor assessment documenting absence of progressive disease under the following conditions:
+
+* Patients who do not have objective tumor progression and are still on study at the time of an analysis;
+* Patients who are given antitumor treatment other than the study treatment;
+* Patients who are removed from study follow-up prior to documentation of objective tumor progression.
+
+DR will only be calculated for the subgroup of patients with a tumor response (PR or CR)., 3 years|Quality of Life (QoL), The quality of life will be assessed at within 5 days prior to the start of trial treatment, every 2 cycles and at the End of Treatment. Subjects are required to complete the questionnaires: EORTC QLQ-C30 and EORTC QLQ-HCC18, 3 years|Safety profile of PEG-BCT-100 treatment, Safety parameters will be evaluated throughout the study. Adverse event (AE) will be graded according to the National Cancer Institute Common Terminology Criteria for Adverse Events version 4.0 (NCI CTC AE v4)., 3 years
+Biomarker study - to explore the predictive and prognostic functions of tissue biomarkers, ornithine transcarbamylase (OTC) and arginine succinate synthetase (ASS), The tumor tissue biomarkers, OTC and ASS, will be measured at baseline using standard immunohistochemical (IHC) staining method. IHC score will be produced for each tumor by summing up the intensity of the stain (0, 1, 2, 3) and the percentage of tumor with the corresponding intensity semi-quantitatively., 1 year
+This is a phase II, single-arm clinical trial. Approximately 35 subjects will be enrolled in the study. All subjects will be treated with PEG-BCT-100 2.7 mg/kg weekly (day1, 8 and 15). Three week treatment of PEG-BCT-100 is considered as 1 cycle. All subjects will receive PEG-BCT-100 till progressive disease, intolerable toxicity or patients withdraw consent.
+
+The clinical effects of PEG-BCT-100 on disease response will be evaluated every 6 weeks until disease progression. Disease response evaluation will be based on RECIST 1.1 criteria. The disease response based on modified RECIST criteria will also be evaluated and documented for reference only.
+
+Safety parameters will be evaluated throughout the study. Adverse event (AE) will be graded according to the National Cancer Institute Common Terminology Criteria for Adverse Events version 4.0 (NCI CTC AE v4).
+
+All subjects will undergo a tumor tissue biopsy at baseline for evaluation of the biomarkers of ornithine transcarbamylase (OTC) and arginine succinate synthetase (ASS) except for those subjects whose tumor tissue blocks have been obtained within 1 year and are available for the biomarkers evaluation. The association between the levels of the 2 biomarkers and disease response to PEG-BCT-100 treatment will be explored in the study.
+
+The effects on patients' quality of life will be evaluated every 2 cycles of the PEG-BCT-100 treatment.

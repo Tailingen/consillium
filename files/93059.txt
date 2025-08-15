@@ -1,0 +1,34 @@
+Postoperative Complications in Cancer Patients Monitored With Intelligent Continuous Monitoring System
+The primary objective of this study is to determine the effect on complication severity of using a clinical monitoring system with automatic vital sign alerts in addition to routine monitoring versus routine monitoring alone in high-risk postoperative cancer patients within 30 days after surgery.
+
+Other objectives include documentation of the severity of complications within seven days of surgery, frequency of serious adverse events, mortality, length of stay and delay of planned chemotherapy.
+Postoperative Complications|Cancer, Treatment-Related
+DEVICE: WARD-CSS
+Overall complication severity - 30 days, Severity of complications assessed by the Comprehensive Complication Index (CCI) score. Complications are defined according to internationally agreed definitions of complications.
+
+CCI can take on numerical values in the scale from 0 (no complications) to 100 (patient deceased)., 30 days after surgery
+Overall complication severity - 7 days, Severity of complications assessed by the Comprehensive Complication Index (CCI) score. Complications are defined according to internationally agreed definitions of complications.
+
+CCI can take on numerical values in the scale from 0 (no complications) to 100 (patient deceased)., 7 days after surgery|Frequency of Serious adverse events, Frequency of Serious adverse events (SAE) SAE is defined by ICH-GCP criteria as: Any unfavourable medical occurrence that
+
+* results in death
+* is life-threatening
+* requires inpatient hospitalisation or prolongation of existing hospitalisation
+* results in persistent or significant disability/incapacity
+* is a congenital anomaly/birth defect, 30 days after surgery|Days alive and out of hospital, Number of days alive and out of hospital, 30 days after surgery|Days alive and out of hospital, Number of days alive and out of hospital, 6 months after surgery|Time to initiation of post-operative adjuvant chemotherapy, For patients scheduled to recieve postoperative chemotherapy, this is the time from surgery to initiation of post-operative adjuvant chemotherapy, Outcomes will be collected up to 2 year after surgery|Completion of post-operative adjuvant chemotherapy, For patients scheduled to recieve postoperative chemotherapy, this is the number of patients that complete their post-operative adjuvant chemotherapy., Outcomes will be collected up to 2 year after surgery
+Frequency of severe clinical complications, Frequency of severe clinical complications Defined as any complication fulfilling the Clavien-Dindo classification ≥2, 30 days after surgery|ICU admission, Number of patients with unplanned admission to the intensive care unit after surgery, 30 days after surgery.|Surgical reintervention of any kind, Any unplanned surgical reintervention of any kind., 30 days after primary-surgery|Post-discharge readmission, Re-admission for any reason related to the operation or their respective cancer, 6 months after surgery.|Health-economic cost-effectiveness., Health-economic cost-effectiveness. Data will be collected from all available health care databases in the danish public health care system (ie. use of general practitioners, hospital admissions, hospital registered costs and services, work-leave periods) for a maximum follow up period of 2 years after primary surgery and analyzed when full datasets are available, 2 years after surgery.
+The primary objective of this study is to determine the effect on complication severity of using the WARD-CSS with automatic alerts in addition to routine monitoring versus routine monitoring alone in high-risk postoperative cancer patients within 30 days after surgery.
+
+This study is a multicenter randomized controlled trial (RCT). Patients are randomly assigned to one of two parallel monitoring groups: (1)Intervention group - Monitoring by the WARD-CSS including vital signs and active alerts relayed to the nurses' smartphones during hospitalization. (2)Control group - Blinded data collection by the WARD-CSS without vital signs and active alerts displayed to the ward staff.
+
+Both groups will receive routine vital signs monitoring (i.e. manual spot-checks) using the regional EWS/TOKS system according to current standards of care at the participating hospitals in the Capital Region or the Central Denmark Region.
+
+The study is a collaboration between Rigshospitalet, Bispebjerg and Frederiksberg Hospital, and Hvidovre Hospital.
+
+Patients will be recruited from abdominal (gastrointestinal, gynecological, or urological) surgery wards at the study sites.
+
+Patients will be randomized post-surgery at the postoperative units/ post-anesthesia-care unit or after arrival at the ward. Continuous wireless monitoring (i.e., unblinded with alerts or blinded) will commence immediately after randomization in the study.
+
+Only randomized patients will be included in the study population. Drop-outs prior to randomization will not be part of the study population.
+
+The first 14 days of active enrollment at each new study site that has not previously used WARD-CSS will be used to align study procedures, verify system connectivity, etc. During this period, up to ten patients at each study site will be enrolled to be monitored similar to the intervention group. These run-in patients will not be randomized and will not be considered part of the study population.

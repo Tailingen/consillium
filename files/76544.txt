@@ -1,0 +1,21 @@
+Multi-analyte Blood Test Clinical Trial
+The objective of this study is the acquisition of whole blood samples and serum samples from participants with untreated Hepatocellular Carcinoma (HCC) and subjects undergoing Hepatocellular Carcinoma (HCC) surveillance. These samples will be used for research purposes to develop and validate the Helio multi-analyte blood test.
+Liver Cirrhosis|Liver Cancer|HCC|Hepatocellular Carcinoma
+DIAGNOSTIC_TEST: Multi-analyte Blood Test
+Independent performance measure of sensitivity and specificity of a multi-analyte blood test, The primary objective is to measure the performance (sensitivity and specificity) the multi-analyte blood Test for the detection of liver cancers in high-risk particiapnats., 1 - 9 months
+To investigate potential endogenous and exogenous interfering substances of a multi-analyte blood test, To investigate potential endogenous and exogenous interfering substances of a multi-analyte blood test for the detection of liver cancers within healthy subjects, subjects diagnosed with active cancer, subjects in cancer remission, and subjects diagnosed with a benign disease., 1 - 9 months|Ascertain Reference Range(s), Ascertain reference range determination(s) for select CpG methylation sites, 1 - 9 months|Ascertain Sample Stability, Sample stability under various shipping conditions, 1 - 9 months
+This study pertains to the collection of whole blood and serum specimens from participants undergoing Hepatocellular Carcinoma (HCC) surveillance. The participants will fall into two main groups, subjects diagnosed with HCC (HCC positive Group) or subjects without HCC (HCC negative Group).
+
+The HCC negative Group will be further divided into two sub-groups based on whether the absence of HCC has been determined using CT or MRI procedures (Sub-group 1) or ultrasound (Sub-group 2). Only the participants in sub-group 2 will receive a confirmatory ultrasound approximately 6 months (between 5 to 9 months) after enrollment to confirm the absence of HCC (6-month visit). This additional imaging study is necessary due to the low sensitivity of abdominal ultrasound to detect HCC lesions.
+
+Participants will be screened for eligibility to participate in the study based on their medical history and records. Participants with a recent confirmed Collection of Blood to Evaluate Epigenomics and Protein Biomarkers for the detection of Hepatocellular Carcinoma diagnosis of HCC (within 6 months of enrollment) may be enrolled in such way to ensure the cases are representative of the major liver disease etiologies in the surveillance population in the United States.
+
+Specifically, the following causes of cirrhosis will be selected:
+
+* Alcoholic steatohepatitis (ASH);
+* Hepatitis B virus (HBV);
+* Hepatitis C virus (HCV);
+* Non-alcoholic fatty liver disease (NAFLD);
+* Other genetic conditions that cause cirrhosis (i.e., hemochromatosis)
+
+These blood samples will be used to perform various studies to determine the utility of selected DNA methylation and protein markers for the liver cancer diagnostic test.

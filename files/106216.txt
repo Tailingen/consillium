@@ -1,0 +1,31 @@
+MDX-010 in Treating Patients With Recurrent or Refractory Lymphoma
+Biological therapies, such as MDX-010, work in different ways to stimulate the immune system and stop cancer cells from growing. This phase I/II trial is studying the side effects and best dose of MDX-010 and to see how well it works in treating patients with recurrent or refractory B-cell non-Hodgkin's lymphoma.
+Adult Grade III Lymphomatoid Granulomatosis|B-cell Chronic Lymphocytic Leukemia|Cutaneous B-cell Non-Hodgkin Lymphoma|Extranodal Marginal Zone B-cell Lymphoma of Mucosa-associated Lymphoid Tissue|Intraocular Lymphoma|Nodal Marginal Zone B-cell Lymphoma|Recurrent Adult Burkitt Lymphoma|Recurrent Adult Diffuse Large Cell Lymphoma|Recurrent Adult Diffuse Mixed Cell Lymphoma|Recurrent Adult Diffuse Small Cleaved Cell Lymphoma|Recurrent Adult Grade III Lymphomatoid Granulomatosis|Recurrent Adult Hodgkin Lymphoma|Recurrent Adult Immunoblastic Large Cell Lymphoma|Recurrent Adult Lymphoblastic Lymphoma|Recurrent Grade 1 Follicular Lymphoma|Recurrent Grade 2 Follicular Lymphoma|Recurrent Mantle Cell Lymphoma|Recurrent Marginal Zone Lymphoma|Refractory Hairy Cell Leukemia|Small Intestine Lymphoma|Splenic Marginal Zone Lymphoma|Testicular Lymphoma|Waldenström Macroglobulinemia
+BIOLOGICAL: ipilimumab|OTHER: laboratory biomarker analysis
+Number of Overall Confirmed Responses(Complete Response or Partial Response), Confirmed response is at least a 50% decrease in the sum of the products of the greatest diameters (SPD) of the six largest dominant nodes or nodal masses and no increase in the size of other nodes, liver, or spleen and splenic and hepatic nodules must regress by at least 50% in the SPD and no new sites of disease., From registration to month 7
+Time to Progression (Phase 2), The time to progression is defined as the time from registration to the time of progression. Those who die will be considered to have had disease progression unless documented evidence clearly indicates no progression has occurred. The distribution of time to progression will be estimated using the method of Kaplan-Meier., From registration to progression (up to 2 years)|Overall Survival (Phase 2), The overall survival or survival time is defined as the time from registration to death due to any cause. The distribution of overall survival will be estimated using the method of Kaplan-Meier., From registration to death (up to 2 years)|Duration of Response (Phase 2), Duration of response will be calculated from the documentation of confirmed response until the date of progression in the subset of patients who respond., From response to progression (up to 2 years)|Mean Change in % of CD3+CD4+ for Marker HLA-DR+, Flow cytometric analysis of T-cell surface markers before and 1 month after initiation therapy, Before treatment to 1 month after therapy initiation|Mean Change in % of CD3+CD4- for Marker HLA-DR+, Flow cytometric analysis of T-cell surface markers before and 1 month after initiation therapy, Before treatment to 1 month after therapy initiation|Mean Change in % of CD3+CD4+ for Marker CD45RO+, Flow cytometric analysis of T-cell surface markers before and 1 month after initiation therapy, Before treatment to 1 month after therapy initiation|Mean Change in % of CD3+CD4- for the Marker CD45RO+, Flow cytometric analysis of T-cell surface markers before and 1 month after initiation therapy, Before treatment to 1 month after therapy initiation
+PRIMARY OBJECTIVES:
+
+I. To characterize the safety profile of MDX-010 (ipilimumab) monoclonal antibody and identify a tolerable immunologically active dose level in B cell lymphoma patients.
+
+II. To evaluate the clinical response rate in B cell lymphoma patients treated with MDX-010.
+
+SECONDARY OBJECTIVES:
+
+I. To evaluate the phenotype and function of memory T cells before and after treatment with MDX-010 by:
+
+* Quantitation and phenotypic characterization of peripheral blood and tumor infiltrating T-cells, including cluster of differentiation (CD)4+CD25+ regulatory T cells.
+* Measurement of tumor-specific T cells in peripheral blood lymphocytes.
+* Measuring proliferation of memory T cells in response to recall antigens (tetanus toxoid and keyhole limpet hemocyanin \[KLH\]).
+
+II. Measurement of anti-tumor antibodies in serum pre- and post-therapy. III. To evaluate the time to progression. IV. To evaluate the duration of response to treatment with MDX-010.
+
+OUTLINE: This is a multicenter, open-label, phase I, dose-escalation study followed by a phase II study. Patients are grouped according to prior treatment with a vaccine therapy for lymphoma (yes vs no).
+
+PHASE I: Patients receive anti-cytotoxic T-lymphocyte-associated antigen-4 monoclonal antibody (MDX-010) IV over 90 minutes on day 1. Treatment repeats every 28 days for a total of 4 courses in the absence of disease progression or unacceptable toxicity.
+
+Cohorts of 6 patients from each group receive escalating doses of MDX-010 until the maximum tolerated dose (MTD) is determined. The MTD is defined as the dose preceding that at which 2 of 6 patients experience dose-limiting toxicity.
+
+PHASE II: Patients receive MDX-010 as in phase I at the MTD.
+
+Patients are followed at 1 and 4 months and then every 6 months for up to 2 years.

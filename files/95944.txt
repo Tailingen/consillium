@@ -1,0 +1,31 @@
+Testing the Use of Targeted Treatment for RET Positive Advanced Non-small Cell Lung Cancer
+This phase II Lung-MAP treatment trial tests whether carboplatin and pemetrexed with or without selpercatinib works to shrink tumors in patients with RET fusion-positive non-small cell lung cancer that is stage IV or has not responded to previous RET directed therapy. Chemotherapy drugs, such as carboplatin and pemetrexed, work in different ways to stop the growth of tumor cells, either by killing the cells, by stopping them from dividing, or by stopping them from spreading. Selpercatinib may stop the growth of tumor cells by blocking some of the enzymes needed for cell growth. Giving selpercatinib in combination with carboplatin and pemetrexed may help lower the chance of the cancer growing and spreading.
+Lung Non-Small Cell Carcinoma|Recurrent Lung Non-Small Cell Carcinoma|Stage IV Lung Cancer AJCC v8|Stage IVA Lung Cancer AJCC v8|Stage IVB Lung Cancer AJCC v8
+DRUG: Carboplatin|DRUG: Pemetrexed|DRUG: Selpercatinib
+Investigator-assessed progression-free survival (PFS), Will be compared between the arms using a 1-sided log-rank test at the 0.10 level upon the observation of 55 PFS events or at a maximum follow-up duration (from closure of accrual of 15 months). Will be estimated using the method of Kaplan-Meier. Confidence intervals about median event times will be estimated using the Brookmeyer-Crowley method. For point estimates at landmark times, the associated 95% confidence interval (CI) will be calculated using Greenwood's formula and based on a log-log transformation applied on the survival function. Hazard ratios for these outcomes will be estimated using a Cox Proportional Hazards regression., From date of sub-study randomization to date of first documentation of progression assessed by local review or symptomatic deterioration, or death due to any cause, assessed up to 3 years
+Incidence of grade 3 or higher non hematologic toxicity and grade 4 or higher hematologic toxicity, During first cycle (1 cycle = 21 days)|Frequency and severity of adverse events, Up to 3 years|Investigator-assessed objective response rate, Up to 3 years|Overall survival, Will be estimated using the method of Kaplan-Meier. Confidence intervals about median event times will be estimated using the Brookmeyer-Crowley method. For point estimates at landmark times, the associated 95% CI will be calculated using Greenwood's formula and based on a log-log transformation applied on the survival function. Hazard ratios for these outcomes will be estimated using a Cox Proportional Hazards regression., From date of sub-study randomization to date of death due to any cause, assessed up to 3 years|Duration of investigator-assessed response, Will be estimated using the method of Kaplan-Meier. Confidence intervals about median event times will be estimated using the Brookmeyer-Crowley method. For point estimates at landmark times, the associated 95% CI will be calculated using Greenwood's formula and based on a log-log transformation applied on the survival function. Hazard ratios for these outcomes will be estimated using a Cox Proportional Hazards regression., From date of first documentation of response (complete response [CR] or partial response [PR]) to date of first documentation of progression, or death due to any cause among participants who achieve a response (CR or PR), assessed up to 3 years
+PRIMARY OBJECTIVE:
+
+I. To compare investigator-assessed progression-free survival (IA-PFS) in participants with RET fusion-positive non-small cell lung cancer (NSCLC) with acquired selective RET inhibitor resistance randomized to carboplatin and pemetrexed with or without selpercatinib.
+
+SECONDARY OBJECTIVES:
+
+I. To evaluate if the combination of selpercatinib combined with carboplatin and pemetrexed during the first cycle of treatment has an acceptable toxicity rate.
+
+II. To evaluate the frequency and severity of toxicities within the arms. III. To compare the investigator-assessed objective response rate (ORR) (complete or partial confirmed response) between the arms.
+
+IV. To compare overall survival (OS) between the arms. V. To evaluate duration of investigator-assessed response among responders within each treatment arm.
+
+TRANSLATIONAL MEDICINE OBJECTIVES:
+
+I. To collect, process, and bank cell-free deoxyribonucleic acid (cfDNA) at baseline, progression, and end of treatment for future development of a proposal to evaluate comprehensive next-generation sequencing of circulating tumor deoxyribonucleic acid (ctDNA).
+
+II. To establish a tissue/blood repository from participants with refractory non-small cell lung cancer (NSCLC).
+
+OUTLINE: Patients are randomized to 1 of 2 arms.
+
+ARM A: Patients receive carboplatin intravenously (IV) over 30 minutes and pemetrexed IV over 10 minutes on day 1. Treatment repeats every 21 days for up to 6 cycles in the absence of disease progression or unacceptable toxicity. Patients also selpercatinib orally (PO) twice daily (BID) in the absence of disease progression or unacceptable toxicity.
+
+ARM B: Patients receive carboplatin IV over 30 minutes and pemetrexed IV over 10 minutes on day 1. Treatment repeats every 21 days for up to 6 cycles in the absence of disease progression or unacceptable toxicity.
+
+After completion of study treatment, patients who had disease progression are followed up every 6 months for 2 years and then at 3 years. Patients who did not have disease progression are followed up every 12 weeks until disease progression.

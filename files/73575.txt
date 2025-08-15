@@ -1,0 +1,46 @@
+Targeted High Throughput Sequencing in the Diagnosis of Pediatric Acute Leukemia
+Acute leukemias are a heterogeneous group of hematologic malignancies. They result from clonal expansion of immature cells whose number is greater than 20% in bone marrow. Childhood acute leukemias are the most common pediatric malignancies. In Europe and the United states, they represent about 35% of childhood cancers. 80% of them are acute lymphoblastic leukemia (ALL) and 15-20% of acute myeloid leukemia (AML). Current treatments allow a cure in about 80% of ALL, while this level is only 50% in AML.Acute leukemia diagnosis is based on the multidisciplinary exploration of leukemia cells by different techniques:
+
+* Cellular: cytology, immunophenotyping and cytochemistry
+* Cytogenetic: conventional (karyotype) and molecular (FISH) cytogenetic
+* Molecular: RT-PCR and RQ-PCR
+
+Cytogenetic studies are performed at time of acute leukemia diagnosis. Indeed, the WHO 2008 classification of acute leukemia is based largely on the presence of recurrent cytogenetic and molecular abnormalities. The most frequent chromosomal aberrations have been associated with specific clinical and biological characteristics and are now used as diagnosis and prognostic markers. These chromosomal abnormalities affect genes involving in the leukemogenesis process. These rearrangements are of several types:
+
+* Fusion genes causing :
+
+  * Repression of transcriptional activity of genes involved in differentiation of hematopoietic cells (AML1-ETO, PML-RARA...)
+  * Deregulation of signal transduction pathway (eg BCR-ABL chimeric protein with constitutive tyrosine kinase activity)
+  * Changing in the state of chromatin condensation resulting changes of transcription (MLL gene rearrangements in 11q23, MOZ en 8p11...)
+* Deregulation of genes expression: chromosomal rearrangements can sometimes induce deregulation of adjacent genes to the breakpoint. For example, inv(3)(q21q26) or t(3;3)(q21;q26) induce over expression of transcriptional factor EVI-1.
+* Loss of function due to deletion of variable size in genomic regions containing genes with a role in the differentiation, apoptosis, or cell proliferation (eg IKZF1, PAX5...)
+
+In addition to the karyotype, which allows to have a global view of the genome; FISH, a targeted technique, is used to highlight invisible abnormalities on karyotype (cryptic abnormalities) or the time of karyotype failure. However, conventional and molecular cytogenetic techniques do not highlight any abnormalities (eg different partners involved in the formation of fusion genes in particular for MLL gene rearrangement, mutations) hence our interest in next generation sequencing.Indeed, the high throughput targeted sequencing messenger RNAs (RNA-seq) has the avantage of allow identification of different types of mutations in a single test, with exception of epigenetic mutations. The importance of RNAs sequencing rather than DNA genomic is the one hand, a very significant decrease in the volume of sequences to analyze because transcribed mRNA genes represent about 5% of the genome size and secondly, a better identification of chimeric genes. The RNA-seq has used as a research tool in hematologic malignancies. The purpose of this project is to use innovative technology to develop a new diagnostic and prognostic new tool in hematological malignancies. 50 acute leukemias will be tested and results will be analyzed according to three criteria:
+
+* Quantity, quality and relevance of information provided for the diagnosis, monitoring and therapeutic management compared to a conventional strategy
+* Period required to obtain results and methods to decrease the analysis time so that results can be integrated into therapeutic decisions.
+* Economic evaluation, which will calculate the cost of this diagnosis option and assess the cost/benefit ratio In future, other innovative approaches will be implemented (study of imbalances genomic abnormalities by array-CGH, transcriptome analysis with micro-array, and study of methylome) to identify the "molecular signature" of each leukemia and set of informative abnormalities for diagnosis, prognosis and treatment of disease and monitoring of residual disease.
+Pediatric Acute Leukemia
+OTHER: blood draw
+high throughput targeted sequencing messenger RNAs, use high throughput targeted sequencing messenger RNA to develop a new innovative diagnostic and prognostic tool in hematologic malignancies., 24 months
+Acute leukemias are a heterogeneous group of hematologic malignancies. They result from clonal expansion of immature cells whose number is greater than 20% in bone marrow. Childhood acute leukemias are the most common pediatric malignancies. In Europe and the United states, they represent about 35% of childhood cancers. 80% of them are acute lymphoblastic leukemia (ALL) and 15-20% of acute myeloid leukemia (AML). Current treatments allow a cure in about 80% of ALL, while this level is only 50% in AML.Acute leukemia diagnosis is based on the multidisciplinary exploration of leukemia cells by different techniques:
+
+* Cellular: cytology, immunophenotyping and cytochemistry
+* Cytogenetic: conventional (karyotype) and molecular (FISH) cytogenetic
+* Molecular: RT-PCR and RQ-PCR
+
+Cytogenetic studies are performed at time of acute leukemia diagnosis. Indeed, the WHO 2008 classification of acute leukemia is based largely on the presence of recurrent cytogenetic and molecular abnormalities. The most frequent chromosomal aberrations have been associated with specific clinical and biological characteristics and are now used as diagnosis and prognostic markers. These chromosomal abnormalities affect genes involving in the leukemogenesis process. These rearrangements are of several types:
+
+* Fusion genes causing :
+
+  * Repression of transcriptional activity of genes involved in differentiation of hematopoietic cells (AML1-ETO, PML-RARA...)
+  * Deregulation of signal transduction pathway (eg BCR-ABL chimeric protein with constitutive tyrosine kinase activity)
+  * Changing in the state of chromatin condensation resulting changes of transcription (MLL gene rearrangements in 11q23, MOZ en 8p11...)
+* Deregulation of genes expression: chromosomal rearrangements can sometimes induce deregulation of adjacent genes to the breakpoint. For example, inv(3)(q21q26) or t(3;3)(q21;q26) induce over expression of transcriptional factor EVI-1.
+* Loss of function due to deletion of variable size in genomic regions containing genes with a role in the differentiation, apoptosis, or cell proliferation (eg IKZF1, PAX5...)
+
+In addition to the karyotype, which allows to have a global view of the genome; FISH, a targeted technique, is used to highlight invisible abnormalities on karyotype (cryptic abnormalities) or the time of karyotype failure. However, conventional and molecular cytogenetic techniques do not highlight any abnormalities (eg different partners involved in the formation of fusion genes in particular for MLL gene rearrangement, mutations) hence our interest in next generation sequencing.Indeed, the high throughput targeted sequencing messenger RNAs (RNA-seq) has the avantage of allow identification of different types of mutations in a single test, with exception of epigenetic mutations. The importance of RNAs sequencing rather than DNA genomic is the one hand, a very significant decrease in the volume of sequences to analyze because transcribed mRNA genes represent about 5% of the genome size and secondly, a better identification of chimeric genes. The RNA-seq has used as a research tool in hematologic malignancies. The purpose of this project is to use innovative technology to develop a new diagnostic and prognostic new tool in hematological malignancies. 50 acute leukemias will be tested and results will be analyzed according to three criteria:
+
+* Quantity, quality and relevance of information provided for the diagnosis, monitoring and therapeutic management compared to a conventional strategy
+* Period required to obtain results and methods to decrease the analysis time so that results can be integrated into therapeutic decisions.
+* Economic evaluation, which will calculate the cost of this diagnosis option and assess the cost/benefit ratio In future, other innovative approaches will be implemented (study of imbalances genomic abnormalities by array-CGH, transcriptome analysis with micro-array, and study of methylome) to identify the "molecular signature" of each leukemia and set of informative abnormalities for diagnosis, prognosis and treatment of disease and monitoring of residual disease.

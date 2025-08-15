@@ -1,0 +1,41 @@
+Nivolumab With and Without Ipilimumab and Radiation Therapy in Treating Patients With Recurrent or Resectable Undifferentiated Pleomorphic Sarcoma or Dedifferentiated Liposarcoma Before Surgery
+This phase II trial studies how well nivolumab with and without ipilimumab and radiation therapy when given before surgery works in treating patients with undifferentiated pleomorphic sarcoma or dedifferentiated liposarcoma that can be removed by surgery. Immunotherapy with monoclonal antibodies, such as nivolumab and ipilimumab, may help the body's immune system attack the cancer, and may interfere with the ability of tumor cells to grow and spread. Radiation therapy uses high energy x-rays to kill tumor cells and shrink tumors. Giving nivolumab, ipilimumab, and radiation therapy may work better in treating patients with undifferentiated pleomorphic sarcoma.
+Dedifferentiated Liposarcoma|Recurrent Dedifferentiated Liposarcoma|Recurrent Undifferentiated Pleomorphic Sarcoma|Resectable Dedifferentiated Liposarcoma|Resectable Undifferentiated Pleomorphic Sarcoma|Undifferentiated Pleomorphic Sarcoma
+BIOLOGICAL: Ipilimumab|BIOLOGICAL: Nivolumab|RADIATION: Radiation Therapy
+Pathologic response, Pathologic response will be assessed at time of surgical resection by percentage hyalinization. The study will estimate the difference of the pathologic response between the treatment arms (A versus \[vs\] B, C vs D) along with the estimate of variation of the difference. Given the longitudinal nature of the data, linear mixed effect models for longitudinal measures will be employed to assess the change in the magnitude of the measures over time adjusting for multiple covariates including patient's characteristics, and tumor characteristics. Appropriate transformation of the outcome assessment values will be used to satisfy the normality assumption of linear mixed effect model., At day 43 (Arm A/B) or 71 (Arm C/D)
+Assessment of immunologic changes in the tumor microenvironment and blood, Subjects will be assessed with computed tomography (CT) or magnetic resonance imaging (MRI) at screening, after completion of neoadjuvant therapy and during the post-treatment follow-up period. Baseline biopsies and blood for genomic and immunologic analyses will be obtained from patients in each group. Secondary histologic outcomes include percent viable tumor cells, percent tumor necrosis, amount of fibrosis and proliferation by phosphohistone H3., Up to 2 years|Change in Immune Infiltrate in Response to Neoadjuvant Nivolumab Monotherapy and Neoadjuvant Nivolumab and Ipilimumab Combination Therapy, Immune infiltrate to be assessed by analyzing changes in the immune infiltrate in biopsy specimens obtained at baseline and on-treatment, and surgical specimens in response to therapy., Up to 2 years|Incidence of adverse events graded according to Common Terminology Criteria for Adverse Events (CTCAE) version (v.) 4.0, Safety will be evaluated by clinical assessments including vital signs and complete physical examinations, chemistry and hematology laboratory values and formal assessments of adverse events (AEs)., Up to 100 days|Recurrence-free survival (RFS), Subjects will be assessed with CT or MRI at screening, after completion of neoadjuvant therapy and during the post-treatment follow-up period., At 12 and 24 months|Overall survival (OS), Subjects will be assessed with CT or MRI at screening, after completion of neoadjuvant therapy and during the post-treatment follow-up period., At 12 and 24 months|Objective response rate (ORR) as defined by Response Evaluation Criteria in Solid Tumors (RECIST) 1.1 criteria and Immune Related Response Criteria (irRC), At days 43 and 71|Health status assessment, Subjects will be assessed with computed tomography (CT) or magnetic resonance imaging (MRI) at screening, after completion of neoadjuvant therapy and during the post-treatment follow-up period. Safety will be evaluated by clinical assessments including vital signs and complete physical examinations, chemistry and hematology laboratory values and formal assessments of adverse events (AEs)., At baseline, day 15, and day 43 or 71
+PRIMARY OBJECTIVES:
+
+I. To assess the pathologic response of nivolumab monotherapy and nivolumab and ipilimumab combination therapy administered in the neoadjuvant setting with and without radiation in patients with treatment-naive primary or locally recurrent resectable undifferentiated pleomorphic sarcoma and dedifferentiated liposarcoma.
+
+SECONDARY OBJECTIVES:
+
+I. To assess the change in percent viable tumor cells, percent hyalinization and necrosis, proliferation by phosphohistone H3 in biopsy specimens obtained at baseline and on treatment and surgical specimens.
+
+II. To assess the change in immune infiltrate in response to neoadjuvant nivolumab monotherapy and neoadjuvant nivolumab and ipilimumab combination therapy in patients with resectable undifferentiated pleomorphic sarcoma and dedifferentiated liposarcoma.
+
+III. To assess the objective response rate (ORR) of nivolumab monotherapy and nivolumab and ipilimumab combination therapy administered in the neoadjuvant setting as assessed by imaging (Response Evaluation Criteria in Solid Tumors \[RECIST\] 1.1 and Immune Related Response Criteria \[irRC\]) in patients with resectable undifferentiated pleomorphic sarcoma and dedifferentiated liposarcoma.
+
+IV. To assess the 12- and 24-month recurrence-free survival (RFS) and overall survival (OS) of patients with resectable undifferentiated pleomorphic sarcoma and dedifferentiated liposarcoma treated with neoadjuvant nivolumab monotherapy or nivolumab and ipilimumab combination therapy.
+
+V. To evaluate the safety of nivolumab monotherapy and combination ipilimumab and nivolumab in the neoadjuvant setting and peri-operatively by Common Terminology Criteria for Adverse Events (CTCAE) version 4.0 criteria.
+
+EXPLORATORY OBJECTIVES:
+
+I. To identify immunologic and genomic markers correlating with clinical response to nivolumab monotherapy and ipilimumab with nivolumab combination therapy.
+
+II. To assess the quality of life of patients with dedifferentiated liposarcoma and undifferentiated pleomorphic sarcoma undergoing neoadjuvant immunotherapy followed by surgical resection.
+
+III. To analyze the microbiome to determine the role of the microbiome on development and response to therapy.
+
+OUTLINE: Patients are randomized to 1 of 4 arms.
+
+ARM A: Patients receive nivolumab intravenously (IV) over 1 hour on days 1, 15, and 29 in the absence of disease progression or unacceptable toxicity. Patients then undergo standard of care surgery within 2 weeks after day 43.
+
+ARM B: Patients receive nivolumab as in Arm A. Patients also receive ipilimumab IV over 90 minutes on day 1 in the absence of disease progression or unacceptable toxicity. Patients then undergo standard of care surgery within 2 weeks after day 43.
+
+ARM C: Patients receive nivolumab IV over 1 hour on days 1, 15, 29, and 43. Patients also undergo radiation therapy (RT) once daily (QD) for 5 days during days 15-47 in the absence of disease progression or unacceptable toxicity. Patients then undergo standard of care surgery within 2 weeks after day 71.
+
+ARM D: Patients receive nivolumab as in Arm C, ipilimumab as in Arm B, and RT as in Arm C in the absence of disease progression or unacceptable toxicity. Patients then undergo standard of care surgery within 2 weeks after day 71.
+
+After completion of study treatment, patients are followed up at 6 and 18 weeks and then every 3 months for up to 2 years.

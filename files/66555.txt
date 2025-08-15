@@ -1,0 +1,11 @@
+A Registry Based Study Evaluating Overall Survival and Treatment Length in mCRPC Patients Treated With Enzalutamide in Sweden
+The purpose of this study is to provide real world data on treatment with enzalutamide in metastatic castration-resistant prostate cancer (mCRPC) patients.
+
+The primary purpose is to evaluate overall survival (OS) in mCRPC patients treated with enzalutamide who have previously undergone treatment with chemotherapy (docetaxel) (post chemo patients).
+
+This study will also evaluate treatment duration with enzalutamide in patients pre- and post-chemo.
+Metastatic Castration Resistant Prostate Cancer
+DRUG: enzalutamide|DRUG: docetaxel
+Overall survival in metastatic castration-resistant prostate cancer (mCRPC) patients treated with enzalutamide, who have previously undergone treatment with chemotherapy (docetaxel), Overall survival is defined as time from initiation to death of any cause., Up to a maximum of four years
+Treatment duration of enzalutamide in pre chemo mCRPC patients, Treatment duration is defined as time from initiation to treatment discontinuation of any cause., Up to a maximum of four years|Treatment duration of enzalutamide in post chemo mCRPC patients, Treatment duration is defined as time from initiation to treatment discontinuation of any cause., Up to a maximum of four years
+The data source in this study is a local hospital registry created from a patient follow up of prostate cancer patients.

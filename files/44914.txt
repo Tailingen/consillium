@@ -1,0 +1,25 @@
+Nivolumab in Treating Patients With HTLV-Associated T-Cell Leukemia/Lymphoma
+This phase II trial studies how well nivolumab works in treating patients with human T-cell leukemia virus (HTLV)-associated T-cell leukemia/lymphoma. Nivolumab is an antibody, which is a type of blood protein that tags infected cells and other harmful agents. Nivolumab works against a protein called programmed cell death (PD)-1 and may help the body destroy cancer cells by helping the immune system to keep fighting cancer.
+Acute Adult T-Cell Leukemia/Lymphoma|Adult T-Cell Leukemia/Lymphoma|Chronic Adult T-Cell Leukemia/Lymphoma|HTLV-1 Infection|Lymphomatous Adult T-Cell Leukemia/Lymphoma|Smoldering Adult T-Cell Leukemia/Lymphoma
+OTHER: Laboratory Biomarker Analysis|BIOLOGICAL: Nivolumab|OTHER: Pharmacogenomic Study
+Incidence of Adverse Events of Nivolumab, Graded According to the National Cancer Institute Common Terminology Criteria for Adverse Events Version 4.0, Toxicity by grade will be summarized using descriptive statistics. The incidence of toxicities will be estimated using the binomial proportion and its 90% confidence interval., 1 year|Tumor Response, Evaluated Using the New International Criteria Proposed by the Revised Response Evaluation Criteria in Solid Tumors Guideline (Version 1.1), Summarized using descriptive statistics. Binomial proportions and their 90% confidence intervals will be used to estimate the response rates of therapy., 1 year|Duration of Response, Summarized using descriptive statistics. Binomial proportions and their 90% confidence intervals will be used to estimate the response rates of therapy. The Kaplan-Meier method will be used to evaluate the response duration., 1 year
+Effects of Treatment, Analysis of variance methods will be used to evaluate the effects of treatment., 1 year|Time on the Viral Load Measurements, Analysis of variance methods will be used to evaluate the effects of treatment and time on the viral load measurements, as well as measurements of viral transcripts. A proportional hazards analysis with viral load measures as time dependent covariates will be used to evaluate the effects of these measures on duration of response., 1 year|HTLV-1 Clonality, Measured from peripheral blood mononuclear cell (PBMC) samples., 1 year|HTLV-1 Specific Cytotoxic T Lymphocytes (CTLs), Measured from PBMC samples., 1 year|Immune Cell Numbers, Measured from blood and tissue samples., 1 year
+PRIMARY OBJECTIVES:
+
+I. To determine the safety and tolerability of nivolumab for patients with HTLV-associated adult T-cell leukemia lymphoma (ATLL).
+
+II. To determine the efficacy of nivolumab for patients with HTLV-associated ATLL.
+
+SECONDARY OBJECTIVES:
+
+I. To determine effects of nivolumab on HTLV-1 proviral deoxyribonucleic acid (DNA) and ribonucleic acid (RNA) loads.
+
+II. To determine the effects of nivolumab on anti-HTLV-1 and anti-ATLL immune responses.
+
+III. To determine effects of nivolumab on HTLV-1 integration site clonality.
+
+OUTLINE:
+
+Patients receive nivolumab intravenously (IV) over 60 minutes on day 1. Treatment repeats every 14 days for 46 courses in the absence of disease progression or unacceptable toxicity.
+
+After completion of study treatment, patients are followed up every 3 months for 1 year.

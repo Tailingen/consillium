@@ -1,0 +1,54 @@
+Hypofractionation Trial of Re-irradiation in Good Prognosis Recurrent Glioblastoma
+Background:
+
+Glioblastoma (GBM) is a cancer of the brain. Current survival rates for people with GBM are poor; survival ranges from 5.2 months to 39 months. Most tumors come back within months or years after treatment, and when they do, they are worse: Overall survival drops to less than 10 months. No standard treatment exists for people whose GBM has returned after radiation therapy.
+
+Objective:
+
+To find a safe schedule for using radiation to treat GBM tumors that returned after initial radiation treatment.
+
+Eligibility:
+
+People aged 18 years and older with grade 4 GBM that returned after initial radiation treatment.
+
+Design:
+
+Participants will be screened. They will have a physical exam with blood tests. A sample of tumor tissue may be collected.
+
+Participants will undergo re-irradiation planning: They will wear a plastic mask over their head during imaging scans. These scans will pinpoint the exact location of the tumor. This spot will be the target of the radiation treatments.
+
+Participants will undergo radiation treatment 4 times per week. Some people will have this treatment for 3 weeks, some for 2 weeks, and some for 1 week. Blood tests and other exams will be repeated at each visit.
+
+Participants will complete questionnaires about their physical and mental health. They will answer these questions before starting radiation treatment; once a week during treatment; and at intervals for up to 3 years after treatment ends.
+
+Participants will have follow-up visits 1 month after treatment and then every 2 months for 6 months. Follow-up clinic visits will continue up to 3 years. Follow-ups by phone or email will continue an additional 2 years.
+Astrocytoma|Glioma|Recurrent Glioblastoma
+RADIATION: Radiation Therapy
+MTD of daily re-irradiation in participants with recurrent grade 4 gliomas, The number of participants experiencing DLTs within the DLT period will be reported for each hypofractionation schema. The MTD will be identified, and the proportion of participants treated with the MTD experiencing DLT will be reported., DLT period (28 days)
+Progression free survival, Time to progression is defined as the interval from the initiation of treatment on protocol to progression or death. Estimates of the median time to progression and of the proportion of participants experiencing progression by 3 years or dying by 5 years will be obtained., Baseline, 30 day safety follow up visit, every 2 months for 2 years, every 3 months for 3rd year, or until progression|Overall survival, Overall survival is defined as the interval from initiation of treatment on protocol to the death. Estimates of the median time to overall survival will be obtained., Treatment and follow up|Compliance and feasibility of administering PRO in this participant population, Patient reported outcome forms will be checked versus the timing schedule and considered valid if they fall within the scheduled assessment window. Compliance rates, namely the number of received valid forms over the number of expected forms will be reported., Baseline through 3 years post radiation therapy.|Tolerability of treatment by assessing adverse events, cognitive function, physical function, and side effect bother, Tolerability of treatment will be assessed by determining the frequency of adverse events among treated participants and reporting the results by maximum grade of event and type of toxicity noted., First radiation treatment administration through 6 months after the last day of radiation. Beyond 6 months after radiation, only adverse events which are serious and related to radiation need to be recorded.|Longitudinally describe and evaluate disease and treatment-related symptom severity and interference with daily activities, Longitudinal changes in perceived cognition, disease and treatment-related symptom severity, and interference with daily activities will be evaluated and described. The proportion of participants rating their symptoms as mild , moderate, or severe for individual symptoms will be reported., Baseline through 3 years post radiation therapy.|Meaningful change in disease and treatment-related symptoms by using anchors, Meaningful change will be determined through both clinician-rated (Karnofsky) and participant-rated (PGI-Severity, PGI-Change) anchors from the MD Anderson Symptom Inventory for Brain Tumors and Montreal Cognitive Assessment., Baseline through 3 years post radiation therapy.
+Background:
+
+* Although survival of glioblastoma (GBM) has improved using standard of care chemoradiation, outcomes are still poor. Most patients will recur within months to years, in or adjacent to their previous treatment field.
+* There is no consensus standard of care for patients with recurrent GBM. Re-resection is recommended, if possible, to improve symptoms and decrease tumor volume. However, this treatment option is possible only in a minority of patients, and for these patients re-irradiation has emerged as a possible treatment.
+* Modern radiation therapy (RT) techniques allow delivery of re-irradiation while minimizing the dose to previously treated organs at risk (OAR) within the radiation field.
+* Data from a recently completed clinical trial at our center (16-C-0081, NCT02709226) suggests that the Maximum Tolerated Dose (MTD) of re-irradiation in 350 cGy fractions is 4200 cGy.
+
+Objective:
+
+-To determine the maximum tolerated dosage of daily re-irradiation in participants with recurrent Grade 4 gliomas
+
+Eligibility:
+
+* A histologic diagnosis of GBM, gliosarcoma, or transformation, from a lower grade to a grade 4 brain tumor.
+* Previous glioma irradiation to curative-intent doses.
+* Age \>= 18.
+* Karnofsky performance scale (KPS) \>= 70.
+
+Design:
+
+* This is a single center phase I trial using a '3 plus 3' design and a three (3) dose level hypofractionation schema to enroll a maximum of 21 evaluable participants.
+* Prior to radiation therapy, participants will undergo laboratory evaluations, magnetic resonance imaging (MRI), a treatment planning computed tomography (CT), a neurocognitive function assessment, and patient-reported outcome (PRO) questionnaires.
+* RT will be administered daily 4 days a week for 1, 2, or 3 weeks in the Radiation Oncology Branch, NCI, at NIH. Radiation will be delivered on consecutive days, 4 fractions per week via a linear accelerator using 6 megavoltage (MV) photons or greater.
+* Follow-up visits following RT are planned at 1 month, every 2 months for years 1-2, and every 3 months for year 3. These visits will be stopped earlier in case of progression. After progression or 3 years of follow-up, participants will be followed remotely for survival
+
+until 5 years after treatment completion.

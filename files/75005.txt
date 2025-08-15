@@ -1,0 +1,18 @@
+GWAS Research of Lung Cancer in Tianjin
+To study the association of Genetic Polymorphisms with Lung Cancer Risk in Tianjin Population.
+Non-small Cell Lung Cancer|Primary Carcinoma
+Genetic variant in TP63 on locus 3q28 is associated with risk of lung adenocarcinoma among never-smoking females in Asia, A GWAS reported a novel association between the TP63 locus and risk of lung adenocarcinoma; however, this association did not achieve genome-wide significance among never-smoking males or females. We genotyped the TP63 SNPs reported by the previous GWAS (rs10937405 and rs4488809) in 500 never-smoking female lung cancer cases and 500 never-smoking female controls from China. Genetic variation in rs10937405 was associated with lung adenocarcinoma. Our findings provide strong evidence that genetic variation in TP63 is associated with risk of lung adenocarcinoma among non-smoking females., 2011-12
+Eligibility criteria:
+
+* nonsmoker
+* female
+* age between 35 and 80
+* no other types of tumors history
+* frequency-matched cases and controls on gender and age
+
+Outcome measures:
+
+* OR(odds ratio)
+* RR(risk ratio)
+* CI(confidence interval)
+* SAS software

@@ -1,0 +1,146 @@
+Local, Targeted Therapy With Alpha Emitter [225Ac]Ac-DOTA-SP (TAT) in Glioma (WHO G3-G4) Progression
+Brain tumors account for 1.35% of all cancers and cause 2.2% of cancer-related deaths. Gliomas are the most common type, comprising 40-90% of central nervous system tumors in different age groups. The incidence of malignant gliomas is approximately 0.5-2 per 100,000 people annually. Standard treatments include surgical resection, radiotherapy, and chemotherapy, yet overall survival remains low, typically 1-3 years post-diagnosis. The study highlights the pressing need for novel treatment strategies, particularly given the infiltrative nature of gliomas and the potential for targeted therapies using neuropeptides.
+
+The aim of this study is to assess the efficacy and safety of local targeted therapy with \[225Ac\]Ac-DOTA-SP in recurrent glioblastoma.
+
+It is an interventional study without a control group, initiated by the researcher. Patients included are aged 18-80 with recurrent WHO G3-G4 glioma post-first-line treatment, not requiring immediate surgery and meeting specific MRI progression criteria.
+
+Patients will receive a maximum of six cycles of \[225Ac\]Ac-DOTA-SP, involving pre-treatment assessments, local administration of the agent after ensuring catheter patency, and continuous monitoring. Blood tests and neurological evaluations will be performed regularly.
+
+Outcome will be assessed by measuring overall survival (OS) and progression-free survival (PFS). The study anticipates improvements in both OS and PFS when compared to current treatments, contributing to critical insights into targeted alpha therapy's effectiveness in glioblastoma.
+
+Treatment with \[225Ac\]Ac-DOTA-SP previously indicated few significant side effects, primarily transient issues like seizures. Patients will be closely monitored throughout the study to identify any adverse effects promptly.
+
+The estimated study duration is three years, with biological material collected for histopathological and genetic analysis during surgical reoperation.
+
+Data will be anonymized to protect patient confidentiality, stored securely, and made available only for the scope of the study.
+
+Led by Prof. Przemysław Kunert, the research team includes multiple co-investigators from neurosurgery and nuclear medicine departments.
+Glioblastoma|High-Grade Gliomas|Grade III Astrocytoma|Grade III Glioma
+RADIATION: Local, targeted therapy with alpha emitter [225Ac]Ac-DOTA-SP (TAT)
+Number of patients experiencing clinical progression (as defined below), Clinical progression defined by:
+
+* reduction in Karnofsky Performance Scale result below 70% OR
+* new focal neurological deficit or exacerbation of existing deficit OR
+* necessity to use or increase dexamethasone dose by 50% or more., From enrollment to 18 months
+Number of patients experiencing radiological progression (as defined below), Radiological progression assessed on contrast-enhanced cerebral MRI:
+
+* any new contrast-enhanced lesion OR
+* 25% or more increase in contrast-enhancing lesions despite stable or increasing steroid dose OR
+* significant increase in non-enhancing FLAIR/T2W lesions, not attributable to other non-tumour causes., From enrollment to 18 months|Number of patients experiencing local radiological progression (as defined below), Local radiological progression assessed on contrast-enhanced cerebral MRI:
+
+* any new contrast-enhanced lesion within 4 cm from resection cavity OR
+* 25% or more increase in contrast-enhancing lesions within 4 cm from resection cavity despite stable or increasing steroid dose., From enrollment to 18 months
+1. Background: Brain tumors account for 1.35% of all cancer conditions and cause deaths in 2.2% of cancer patients (Cancer Facts and Figures 2005). The most common type of brain tumors are gliomas. Depending on the age group, they account for 40%-90% of central nervous system tumors. The incidence of malignant gliomas is 0.5-2 per 100,000 people per year. Men are more frequently affected, usually in their 50s and 60s. In the Polish population, approximately 1300 people are diagnosed with gliomas annually, including about 600 cases of malignant gliomas. The standard treatment approach includes surgical treatment, radiotherapy, and chemotherapy. Despite the currently accepted treatment regimen, survival times-depending on the tumor type-range from 1 to 3 years.
+
+   In a typical course, regardless of the therapy used, the extent of surgery, and other prognostic factors, the progression of the growth process occurs after some time. The use of chemotherapy extends survival time-depending on the tumor type-by several to several dozen weeks. This data indicates the need to seek other forms of treatment. Since brain gliomas are infiltrative in nature, it seems that an effective drug should exhibit the ability to diffuse freely within the tumor and specifically bind to cancer cells. Selected peptides exhibit such properties.
+
+   One of the mechanisms regulating cell (including cancer cell) function involves receptor systems located in the cell membrane. These show high specificity of reaction with specific peptides. The expression of some receptor systems significantly increases in cells of specific tumor types. This property underlies the use of radioisotope-labeled peptides in diagnosis and treatment in oncology. Peptides bind to cancer cells, and ionizing radiation emitted by the attached radioisotope leads to regression of pathological changes. This method is developed only in a few centers worldwide and is currently used, among others, in treating certain types of lymphomas (anti-CD-20 antibody labeled with 90Y or 131I) and neuroendocrine tumors (somatostatin analogs labeled with 90Y, 177Lu).
+
+   The benefit of this method is the ability to treat tumors that exhibit resistance to conventional chemotherapy and radiotherapy. Based on own experiences and literature data, it is known that gliomas show increased expression of selected receptor systems. In grade II-IV gliomas, a significant increase in expression for neurokinin-1 (NK-1) receptors, for which substance P is the ligand, has been noted. When administered directly to the tumor, substance P undergoes rapid diffusion and binding to glioma cells.
+
+   At the center in Basel (Institute of Nuclear Medicine, University Hospital Basel), a derivative of substance P (1,4,7,10-tetraazacyclododecane-1-glutaric acid-4,7,10-triacetic acid) was developed. It was shown that over 95% of gliomas exhibit significantly increased expression of the NK-1 receptor system, and that the proposed peptide has a capacity for specific binding to this type of receptor (out of 34 glioma tissue samples, 32 samples showed significantly increased NK-1 receptor system expression).
+
+   Substance P can be labeled with various radioisotopes with differing physical properties, including 90Y and 177Lu-beta radiation emitters. The beta radiation emitted by 90Y has an energy of 2.1 MeV, with a tissue range of about 12 mm. Lutetium emits radiation with an energy of 497 keV, with a range of 1 mm. Limiting factors for the use of beta radiation include its range of action. There is a potential risk of damage to functionally critical brain centers if the tumor is located nearby. This was a premise for the use of alpha radiation emitters. One of the studied radioisotopes is 213Bismuth, which has an energy of 5.8 MeV but a range limited to only 81 μm.
+
+   To date, within the framework of the project "Use of Radioisotope-Labeled Substance P in Treating Patients with Brain Tumors" (KB/204/A/201), local glioma treatment has been provided using substance P labeled with alpha emitters 213Bi and 225Ac in the case of confirmed disease recurrence.
+
+   Initially, local treatment was performed using \[213Bi\]Bi-DOTA-SP at an activity of up to 11.2 GBq, achieving good treatment tolerance without clinically significant side effects. The progression-free survival (PFS) was 2.7 months, and the median overall survival (OS) after disease recurrence was nearly twice as long as expected in this patient group, amounting to 10.9 months. The median overall survival from diagnosis was 23.6 months. However, after the start of treatment with \[213Bi\]Bi-DOTA-SP, the median survival was 7.5 months.
+
+   Considering the difficulties in labeling and quality control with a short half-life for 213Bi (46 min), the next step involved treatment with the alpha-emitter 225Ac. A study was conducted evaluating the determination of the maximum tolerated dose of \[225Ac\]Ac-DOTA-SP, administering activities of 10 MBq, 20 MBq, and 30 MBq. The treatment was well tolerated by patients, with predominantly mild and transient adverse effects such as seizures, aphasia, and hemiparesis. Most adverse effects occurred in patients treated with the 30 MBq dose of \[225Ac\]Ac-DOTA-SP; hence, the maximum tolerated dose was determined to be 20 MBq. Thrombocytopenia of grade 3 was observed in one study participant, and no grade 3 or 4 toxicity related to the treatment with \[225Ac\]Ac-DOTA-SP was reported in the other participants. The median OS from diagnosis was 35 months, and from recurrence, it was 13.2 months. The PFS from the start of treatment with \[225Ac\]Ac-DOTA-SP was 2.4 months.
+
+   Studies showed that despite different physical properties (213Bi T1/2 = 46 minutes, 225Ac T1/ 2 = 9.9 days, with 225Ac decaying through alpha particles and 213Bi decaying only once), the survival data for patients treated with \[225Ac\]Ac-DOTA-SP and \[213Bi\]Bi-DOTA-SP are similar. Theoretically, the significantly longer half-life of 225Ac should allow for better distribution of \[225Ac\]Ac-DOTA-SP. The diffusion of the administered radiopharmaceutical is a critical factor for effective local therapy and depends on several factors, such as molecular weight, physicochemical properties, varying extracellular space density, and the post-resection cavity. Small vectors, such as modified SP (1800 Da), lead to rapid diffusion within tissues. However, subsequent administrations may increase the density of the extracellular space due to glioma scarring, leading to heterogeneous diffusion in subsequent injections of the radiopharmaceutical. A limiting factor for local treatment is the very slow rate of diffusion into brain tissue. The diffusion rate in the brain for most substances ranges from 0.15 to 0.6 mm/h. One possible cause could be increased tissue pressure within the tumor and surrounding tissues, which reduces the pressure gradient responsible for the diffusion process. It seems that enhanced diffusion could be achieved by employing forced diffusion via a slow infusion of 0.5 ml/hour of saline into the cavity immediately after administering the radiopharmaceutical. Overall results from both treatment arms exhibit a clear trend for prolonged survival compared to standard therapy.
+
+   .
+2. Main Objective: To evaluate the efficacy of local targeted therapy with the alpha-emitter labeled neuropeptide \[225Ac\]Ac-DOTA-SP (TAT) using a forced diffusion method in cases of recurrence of glioma WHO G3-G4 after first-line treatment.
+
+   Secondary Objective: To assess the safety of local targeted therapy with the alpha-emitter labeled neuropeptide \[225Ac\]Ac-DOTA-SP (TAT).
+
+   .
+3. Study Design: Interventional study without a control group. The study is initiated by the investigator, and 225Ac is supplied based on a cooperation agreement between WUM and the Institute for Transuranium Elements (Karlsruhe).
+
+   Sponsoring institution: Medical University of Warsaw (WUM). .
+4. Conducting the Study:
+
+   1. Qualification visit - gathering a medical history, summarizing previous diagnostics and treatments - necessary documentation from the treatment course and imaging studies (CT scans and/or MRIs) must be provided. During the discussion, the doctor will provide all necessary information regarding the study and answer any questions.
+   2. Reoperation with Catheter Placement:
+
+      PET/CT scan using \[68Ga\]Ga-PSMA to indicate the site for biopsy and catheter placement.
+
+      Resection with biopsy or just the biopsy of the tumor. Cathether placement (for lesions with a diameter \>2 cm, up to 3 catheters may be placed). Catheter placement will take place at the Departments of Neurosurgery of either University Clinical Centre (UCK) or National Oncology Institute (NIO). This requires several days of hospitalization.
+   3. Local Treatment with \[225Ac\]Ac-DOTA-SP:
+
+      Treatment with \[225Ac\]Ac-DOTA-SP cannot begin earlier than 2 months after the conclusion of radiotherapy. Chemotherapy may be continued according to the oncologist's recommendations.
+
+      Catheter patency controle about one week before planned treatment. Local administration of 5 MBq of 68Ga in a volume of 1-3 ml. Imaging of the brain using PET/CT Siemens Vision 600: 30 minutes after the administration of the tracer. For the first 3 patients, dual-day imaging with 68Ga and \[68Ga\]Ga-DOTA-SP will be performed to assess biodistribution: 5 MBq of 68Ga in a volume of 1-3 ml; 5 MBq of \[68Ga\]Ga-DOTA-SP in a volume of 1-3 ml.
+   4. Conducting the Therapy:
+
+   Patients will be treated with a maximum of 6 cycles of \[225Ac\]Ac-DOTA-SP. Preparation of the Radiopharmaceutical: The labeling procedure will be carried out at the Nuclear Medicine Department at WUM. The radioisotope 68Ga is available at the Nuclear Medicine Department; the department has a registered 68Ge/68Ga generator. The team of radiopharmacists at the department possess the necessary qualifications and have been performing radiopharmaceutical labeling using 68Ga for many years. 225Ac will be supplied based on a cooperation agreement between WUM and the Institute for Transuranium Elements (Karlsruhe). After labeling, the prepared product will undergo quality control to verify the labeling efficiency and radiopharmaceutical purity. In any case, if the labeling efficiency is below 90%, the product will not be administered to the patient.
+
+   Therapy: Administered activity of \[225Ac\]Ac-DOTA-SP - 20 MBq in a volume of 10-20% of the resection cavity volume, maximum amount of SP 200 μg (combined for 68Ga and 225Ac).
+   * 20-30 minutes before administering \[225Ac\]Ac-DOTA-SP, 250 ml of 15% mannitol, 500 ml of 0.9% NaCl, and 8 mg of dexamethasone will be administered intravenously.
+   * Immediately after administering the therapeutic dose of \[225Ac\]Ac-DOTA-SP along with 5-10 MBq of \[68Ga\]Ga-DOTA-SP, brain imaging will be performed; acquisition time 1-2 minutes.
+   * Connection of an infusion pump with saline and administration at a rate of 0.5 ml/hour for 2-4 hours.
+   * After the infusion, 2-4 hours after administering \[225Ac\]Ac-DOTA-SP, brain imaging will be performed with an acquisition time lasting 4-8 minutes, and a whole-body scan: acquisition time approx. 10 minutes.
+
+   Radioisotope treatment will be carried out in the UCK hospital, during hospitalization at the Department of Neurosurgery. The length of hospitalization will depend on the patient's condition; from previous experiences, this has typically been 3 days.
+
+   Previous experiences have shown good tolerance to treatment with \[225Ac\]Ac-DOTA-SP. The only noted side effects during therapy were transient facial flushing, and some patients experienced seizures (all patients had seizures noted before therapy as well). For this reason, patients will be hospitalized for 24 hours after therapy in the Department of Neurosurgery (UCK).
+
+   However, in the case of poor tolerance to experimental treatment, it will not be continued. Additionally, steroid therapy will be initiated (if it had not been previously). In the event of a seizure, standard anticonvulsant treatment will be applied.
+
+   Blood and urine tests will be performed 1, 2, 4, and 24 hours after administering \[225Ac\]Ac-DOTA-SP.
+
+   Assessment of Distribution of \[225Ac\]Ac-DOTA-SP via SPECT/CT Imaging:
+   * SPECT/CT imaging at two time points: 4 hours after the administration of the therapeutic radiopharmaceutical (after PET/CT imaging is complete) and 24 hours after its administration.
+   * SPECT/CT imaging will follow a quantitative protocol developed at the Nuclear Medicine Department (UCK) based on phantom studies, including about 30 minutes of SPECT imaging using multiple energy windows and approximately 3 minutes of CT imaging at reduced exposure parameters, performed to locate the accumulation of the radiopharmaceutical and correct for radiation attenuation.
+   * Before each subsequent administration and 2-4 weeks after administering \[225Ac\]Ac-DOTA-SP:
+
+   Laboratory tests: Hematology, AST, ALT, Na, K, creatinine, urea, CRP, INR, D-dimers.
+
+   Assessment of the Karnofsky Performance Status (KPS). Barthel Index assessment. Assessment of adverse effects. f. Observation: The patient should remain hospitalized at the Department of Neurosurgery (UCK) for 24 hours after treatment with \[225Ac\]Ac-DOTA-SP.
+
+   Physical examination, neurological assessment, adverse events. 24 and 48 hours after the first administration of \[225Ac\]Ac-DOTA-SP. MRI with contrast will be performed every 2 months to evaluate treatment efficacy and +/- 2 weeks before each administration of \[225Ac\]Ac-DOTA-SP.
+
+   Follow-up visits (including telemedicine options) will be conducted according to Good Clinical Practice and the therapeutic strategy used in the research center, every 2 months during the first 18 months or depending on the clinical status of the patient.
+
+   After 18 months, scheduled follow-up visits (including telemedicine options) will take place every 3 months or more frequently if needed.
+
+   g. Discontinuation of Therapy: The occurrence of serious adverse events (according to the definition related to TAT).
+
+   Coexisting illness preventing further treatment. Progression of the lesion. In the case of the appearance of a new symptomatic solitary lesion in the MRI, treatment may continue at the researcher's discretion, provided that the initially treated lesion or area is stable or regressing.
+
+   Withdrawal of the patient from the study. Changes in the patient's condition that, in the investigator's opinion, make further treatment impossible.
+
+   The investigator may decide to withdraw the patient from the study for unforeseen reasons, ensuring their safety.
+
+   .
+5. Sample Size: The target sample size is 25 patients. Considering the possibility of patient dropouts, the group should include up to 35 patients. Patients will be recruited from those treated at the Departments of Neurosurgery (UCK, NIO).
+
+   .
+6. Study Endpoints:
+
+Primary: overall survival (OS) measured from the date of diagnosis.
+
+Secondary: time to progression (progression-free survival, PFS), defined as:
+
+1. Clinical Progression: Clinical deterioration of performance status according to the Karnofsky scale or worsening of neurological function. The necessity of using or increasing the dose of corticosteroids by \>50%.
+2. Progression on MRI:
+
+Local progression within \< 4 cm from the border of the primary lesion after resection or, A new lesion on MRI or, Progression of the lesion on MRI by \> 25% between two consecutive imaging studies.
+
+In differential diagnostics, radiation necrosis should be included as a treatment-related effect (MRI perfusion and/or biopsy).
+
+* Expected Benefits of the Study: The expected outcome of the study is to assess the efficacy and safety of \[225Ac\]Ac-DOTA-SP with forced diffusion. It is anticipated that the proposed procedure should lead to an extension of survival time and time to disease progression compared to currently used therapeutic methods.
+
+  .
+* Description of Risks and Discomforts for Study Participants: Based on current experiences with the treatment of \[225Ac\]Ac-DOTA-SP, no clinically significant side effects have been observed. The most frequently reported side effect was seizures (in all patients previously noted before therapy). No clinically significant side effects were identified in laboratory tests. There is no conclusive scientific evidence indicating that the administered local radioactivity poses a risk of developing cancer or hereditary defects. Current data suggest an extension of PFS and OS with the use of local treatment with \[225Ac\]Ac-DOTA-SP.
+
+  .
+* Study Duration with Justification: The estimated duration of the study is 3 years. Patients who remain alive at the end of the study will be monitored until they report death.
+
+  .
+* Biological Material: During reoperation and catheter placement, material will be collected for histopathological and genetic studies as per standard procedure.
+
+  .
+* Patient Data Anonymization: No identifiable patient data will be stored alongside medical data subject to analysis. Patient medical data will be analyzed anonymously but will have an individual number corresponding to the anonymization list for each patient.

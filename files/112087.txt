@@ -1,0 +1,20 @@
+Mobility and Physical Activity in Adolescent and Young Adult Cancer Patients or Survivors at Risk for Cardiovascular Morbidity and Frailty, The MOBILE AYA Study
+This study attempts to learn more about the activity levels of adolescent and young adult (AYA) cancer patients or survivors at risk for cardiovascular morbidity and frailty by using a smartphone application called Beiwe. Collecting activity level data on AYA cancer patients or survivors may help patients achieve better quality of life.
+Central Nervous System Neoplasm|Hodgkin Lymphoma|Malignant Solid Neoplasm|Non-Hodgkin Lymphoma|Sarcoma
+OTHER: Smartphone Application
+To characterize patient mobility over time., Will be analyzed by linear mixed-effect models with relation to time point (30, 60, 90, 120, 150, and 180 days), blocking on patient, with differences among time points assessed by Tukey-adjusted contrasts., Through study completion, an average of 1 year
+PRIMARY OBJECTIVES:
+
+I. To characterize patient mobility over time based upon smartphone sensor data, including dwell time at home and hospital, as well as time spent away from home or hospital, considering patients actively undergoing treatment (time referenced to treatment start) separately from those following treatment (time referenced to treatment end).
+
+II. To characterize patient physical activity over time based upon smartphone sensor data, during and following treatment (separately), including inactivity time and activity level, at home and hospital and away from home or hospital, considering patients actively undergoing treatment (time referenced to treatment start) separately from those following treatment (time referenced to treatment end).
+
+SECONDARY OBJECTIVES:
+
+I. To characterize patient mobility over time based upon smartphone sensor data, including dwell time at home and hospital, as well as time spent away from home or hospital, considering patients actively undergoing treatment (time referenced to treatment start) separately from those following treatment (time referenced to treatment end), grouped by disease and treatment (chemotherapy, radiotherapy), controlling for age, sex, race, and body mass index (BMI).
+
+II. To characterize patient physical activity over time based upon smartphone sensor data during and following treatment (separately), including inactivity time and activity level, at home and hospital and away from home or hospital, considering patients actively undergoing treatment (time referenced to treatment start) separately from those following treatment (time referenced to treatment end), grouped by disease and treatment (chemotherapy, radiotherapy), controlling for age, sex, race, and BMI.
+
+OUTLINE:
+
+Patients utilize smartphone application to monitor physical activity and mobility up to 180 days during treatment or post-treatment.

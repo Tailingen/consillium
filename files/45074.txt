@@ -1,0 +1,47 @@
+Association of Ex Vivo Drug Response ( EVDR) and Clinical Outcome in Acute Myeloid Leukaemia (EXCYTE-2)
+This is a multicentre study on biobanked bone marrow and blood samples of AML patients, conducted by Exscientia GmbH. The study aims to compare the drug response measured 'ex vivo', this means outside of the body, in the samples and the documented outcome of the respective patient's clinical treatment. To measure this Ex Vivo Drug Response (EVDR), Exscientia will use it's AI-( Artificial Intelligence)-based precision medicine platform. In this platform, the cells of each sample are split and distributed in a number of small vials, to which different approved or experimental AML drugs are added. The cells are left with the drugs for a certain period of time (no culturing or expansion is done). After that, the cells are stained (coloured) by using specific dyes and the rates of dead cancer cells in each of these small vials is determined via automated microscopy. The EVDR shows how well the drugs killed the cancer cells in the sample. Taking clinical data into account, which is information on e.g. the patients health status or genetic markers, the EVDR could reveal which patients might especially benefit from the treatment.
+
+If a reproducible correlation between the EVDR and the patient's clinical treatment outcome is found, the scFDS platform could be used in the future to improve treatment selection for AML patients.
+
+The study will include biobanked samples from newly diagnosed patients, treated with cytarabine + daunorubicin (classical 7+3 or CPX-351) or venetoclax + azacitidine and after favourable results in an interim analysis, biobanked samples from R/R AML FLT3 mutant patients, treated with Gilteritinib might be included.
+
+Key procedures include:
+
+* Viable tumour tissues (i.e. bone marrow or blood) taken prior to therapy are provided by biobanks to Exscientia's central lab (or delegated central laboratory),
+* Ex vivo drug response against commonly given standard of care drugs is evaluated in viable tumour tissues, Exscientia-owned drug candidates might be included in the assay for pre-clinical testing.
+* Clinical patient data are collected,
+* Relationship of EVDR to clinical response is evaluated.
+
+Primary key hypothesis: Ex vivo drug response (EVDR) is significantly associated with Complete Response (CR).
+
+Secondary key hypothesis: EVDR predicts achieving CR with 80% sensitivity and specificity.
+
+The outcome of this observational clinical study will have broad implications both for the clinical routine, preclinical drug development, and translational cancer research. If a robust correlation between drug response measured ex vivo in tumour samples and clinical outcome can be identified, this will pave the way for:
+
+* the use of functional drug testing as a tool for personalised treatment decision making in the clinical routine, in particular where classical molecular precision medicine approaches fail to prioritise effective therapies, and
+* the use of human tumour samples as clinically relevant model systems for preclinical development of new drugs and translational cancer research that can potentially overcome the limited clinical relevance of mouse and other animal models.
+Acute Myeloid Leukemia (AML)|Acute Myeloid Leukemia (AML) Relapse
+OTHER: No Interventions
+Association between ex vivo drug response (EVDR) and clinical outcome (Complete Remission), To evaluate the association between EVDR measured using the Sponsor's scFDS platform in primary human AML samples and clinical outcomes, in particular complete remission, taking clinicopathological confounders into account., From date of sample receipt until the date of CR or first documented therapy outcome evaluation, if CR is not applicable and scFDS full data set is available, assessed up to 18 months
+Biomarker and ex vivo drug response association, Statistical association of established biomarkers (e.g. FLT3 mutations) and interaction between these markers and EVDR outcome., From date of sample receipt until the date of CR or first documented therapy outcome evaluation, if CR is not applicable and scFDS full data set is available, assessed up to 18 months|Technical success rate, Percentage of patients meeting In-and Exclusion criteria as per protocol and for which an ex vivo drug response from sponsors single cell Functional drug Screening (scFDS) platform meeting Sponsor QC requirements could be obtained out of the total number of included patients., From date of sample receipt until the date of CR or first documented therapy outcome evaluation, if CR is not applicable and scFDS full data set is available, assessed up to 18 months|Prognostic value of EVDR of bone marrow or blood sample in CR prediction, To characterise the accuracy, sensitivity and specificity of EVDR to predict clinical outcome based on optimal cut-offs. Specifically, we intend to evaluate the ability of EVDR to predict complete response with more than 80% sensitivity and specificity., From date of sample receipt until the date of CR or first documented therapy outcome evaluation, if CR is not applicable and scFDS full data set is available, assessed up to 18 months
+This is a multicentre study on biobanked bone marrow and blood samples of AML patients, conducted by Exscientia GmbH. The study aims to compare the drug response measured 'ex vivo', this means outside of the body, in the samples and the documented outcome of the respective patient's clinical treatment. To measure this Ex Vivo Drug Response (EVDR), Exscientia will use it's AI-( Artificial Intelligence)-based precision medicine platform. In this platform, the cells of each sample are split and distributed in a number of small vials, to which different approved or experimental AML drugs are added. The cells are left with the drugs for a certain period of time (no culturing or expansion is done). After that, the cells are stained (coloured) by using specific dyes and the rates of dead cancer cells in each of these small vials is determined via automated microscopy. The EVDR shows how well the drugs killed the cancer cells in the sample. Taking clinical data into account, which is information on e.g. the patients health status or genetic markers, the EVDR could reveal which patients might especially benefit from the treatment.
+
+If a reproducible correlation between the EVDR and the patient's clinical treatment outcome is found, the scFDS platform could be used in the future to improve treatment selection for AML patients.
+
+The study will include biobanked samples from newly diagnosed patients, treated with cytarabine + daunorubicin (classical 7+3 or CPX-351) or venetoclax + azacitidine and after favourable results in an interim analysis, biobanked samples from R/R AML FLT3 mutant patients, treated with Gilteritinib might be included.
+
+Key procedures include:
+
+* Viable tumour tissues (i.e. bone marrow or blood) taken prior to therapy are provided by biobanks to Exscientia's central lab (or delegated central laboratory),
+* Ex vivo drug response against commonly given standard of care drugs is evaluated in viable tumour tissues, Exscientia-owned drug candidates might be included in the assay for pre-clinical testing.
+* Clinical patient data are collected,
+* Relationship of EVDR to clinical response is evaluated.
+
+Primary key hypothesis: Ex vivo drug response (EVDR) is significantly associated with Complete Response (CR).
+
+Secondary key hypothesis: EVDR predicts achieving CR with 80% sensitivity and specificity.
+
+The outcome of this observational clinical study will have broad implications both for the clinical routine, preclinical drug development, and translational cancer research. If a robust correlation between drug response measured ex vivo in tumour samples and clinical outcome can be identified, this will pave the way for:
+
+* the use of functional drug testing as a tool for personalised treatment decision making in the clinical routine, in particular where classical molecular precision medicine approaches fail to prioritise effective therapies, and
+* the use of human tumour samples as clinically relevant model systems for preclinical development of new drugs and translational cancer research that can potentially overcome the limited clinical relevance of mouse and other animal models.

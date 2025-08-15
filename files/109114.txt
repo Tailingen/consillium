@@ -1,0 +1,10 @@
+Predicting Gastric Neoplasia in Patients with High-risk Endoscopic Features
+A prospective, single-center, cohort study to development and validation of a prediction model for predicting gastric neoplasia in patients with high-risk endoscopic features
+Gastric Neoplasia
+OTHER: No Intervention: Observational Cohort
+Detection rate of gastric neoplasia, Detection rate of gastric neoplasia during follow-up. Gastric neoplasia was defined as low-grade intraepithelial neoplasia, high-grade intraepithelial neoplasia, and adenocarcinoma., 2 weeks after the last follow-up
+1. Patients at high risk for gastric cancer are undergone screening esophagogastroduodenoscopy at the Endoscopy department of Gastrointestinal endoscopy center of Huadong hospital affiliated to Fudan University.
+2. For every enrolled patient, follow-up esophagogastroduodenoscopy were conducted in the 3rd and 5th years after the baseline examination. If high-risk endoscopic features for gastric cancer (i.e., active Helicobacter pylori infection or atrophic gastritis classified as C2-O3 according to the Kimura-Takemoto classification) were observed during the baseline examination, an additional follow-up esophagogastroduodenoscopy was performed in the 1st year after the baseline examination.
+3. Clinical characteristics, gastric neoplasia-related blood biomarkers, the extent of atrophic gastritis and other endoscopic findings were collected in baseline and follow-up esophagogastroduodenoscopy. For patients whose baseline esophagogastroduodenoscopy indicates open-type atrophic gastritis (Kimura-Takemoto classification O1-O3), blood samples will be collected for whole-genome sequencing at the time of the baseline and the final follow-up examination.
+4. Enrolled patients were followed up until gastric neoplasia was detected, up to a maximum of 5 years.
+5. After the study was completed, a prediction model for predicting gastric neoplasia in patients with atrophic gastritis was developed.

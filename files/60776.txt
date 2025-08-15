@@ -1,0 +1,30 @@
+Trametinib in Treating Patients With Progressive Metastatic Hormone-Resistant Prostate Cancer
+This phase II trial studies how well trametinib works in treating patients with hormone-resistant prostate cancer that is growing or getting worse and has spread to other parts of the body. Trametinib may stop the growth of tumor cells by blocking some of the enzymes needed for cell growth.
+Hormone-Resistant Prostate Cancer|Metastatic Prostate Carcinoma|Recurrent Prostate Carcinoma|Stage IV Prostate Cancer
+OTHER: Laboratory Biomarker Analysis|OTHER: Quality-of-Life Assessment|DRUG: Trametinib
+PSA response rate, At 12 weeks|Response rate assessed by RECIST criteria, Will be defined as decline in PSA of 30% or more, any decline of PSA of 50% or more, partial or complete response at 12 weeks, and freedom from radiographic progression at 24 weeks., Up to 24 weeks
+Change in markers of cell proliferation (Ki67) and apoptosis (p27), assessed by immunohistochemistry, Mixed effects logistic regression models to assess changes in markers over time, correlations between markers over time and associations between markers and treatment response (conditional logistic regression) will be used., Baseline up to 24 weeks|Change in trametinib target engagement of MEK1/2 defined by the presence of p-ERK, assessed by immunohistochemistry, Mixed effects logistic regression models to assess changes in markers over time, correlations between markers over time and associations between markers and treatment response (conditional logistic regression) will be used., Baseline up to 24 weeks|Durability of PSA response as measured by time to PSA progression as defined by PCWG2 guidelines, Up to 30 months|Incidence of adverse events, graded according to the Common Terminology Criteria for Adverse Events version 4.0, Up to 30 months|Maximal PSA response, Up to 30 months|Molecular correlates defined by gene expression, assessed using ribonucleic acid-sequencing, and mutational events, assessed using DNA exome-seq, Statistical bootstrap and Pearsons Correlation will be used to determine the relationship of phenotype to mutations and clinical variables. Fisher exact tests and logistic regression models will be used to evaluate the relationships between specific variations and treatment response., Up to 24 weeks|Objective radiographic response rate according to RECIST guidelines, Up to 24 weeks|Overall survival, Time from enrollment until death, assessed for up to 30 months|Quality of life, assessed by FACT-P, Up to 30 months|Time to initiation of alternative anti-neoplastic therapy, Up to 30 months|Time to radiographic progression, Up to 24 weeks
+ctDNA genomic aberrations, assessed by exome sequencing, Up to 24 weeks
+PRIMARY OBJECTIVES I. To assess the activity of trametinib in metastatic castration resistant prostate cancer (mCRPC) that has progressed on either enzalutamide or abiraterone acetate.
+
+SECONDARY OBJECTIVES I. Durability of prostate specific antigen (PSA) response as measured by the time to PSA progression as defined by Prostate Cancer Working Group 2 guidelines for PSA progression.
+
+II. Maximal PSA response. III. Quality of life by Functional Assessment of Cancer Therapy- Prostate (FACT-P).
+
+IV. Time to initiation of alternative antineoplastic therapy. V. Time to radiographic progression. VI. Objective response rate according to Response Evaluation Criteria in Solid Tumors (RECIST) guidelines.
+
+VII. Overall survival measured as time from enrollment until death. VIII. Safety and tolerability. IX. Analysis of trametinib target engagement of mitogen-activated extracellular signal-related kinase (MEK1/2) is assessed by presence of p-ERK, the primary phosphorylation target of activated MEK1/2, in pre-treatment and at progression radiographically directed metastatic tumor biopsies by immunohistochemistry evaluation of p-ERK. Markers of cell proliferation (Ki67) and apoptosis (p27) will also be assessed.
+
+XI. Investigation of molecular correlates to resistance and sensitivity to trametinib using pre-treatment and at progression metastatic biopsies.
+
+XII. Discovery of one or a set of possible discriminative networks that are associated with a response to trametinib.
+
+XII. Enrichment for patients in the second phase who have tumors exhibiting genomic features associated with a response to trametinib.
+
+XIV. Analyses of circulating tumor deoxyribonucleic acid (ctDNA) for genomic aberrations correlated to treatment response.
+
+OUTLINE:
+
+Patients receive trametinib orally (PO) once daily (QD). Treatment continues in the absence of disease progression or unacceptable toxicity.
+
+After completion of study treatment, patients are followed up at 2 and 4 weeks, and then every 4 weeks thereafter.

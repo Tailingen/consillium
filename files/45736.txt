@@ -1,0 +1,29 @@
+Concurrent or Sequential Immunotherapy and Radiation Therapy in Patients With Metastatic Lung Cancer
+Trial Design
+
+* Patients with stage IV non-small cell lung cancer are randomized to nivolumab/ipilimumab plus either sequential or concurrent stereotactic body radiotherapy (SBRT).
+* The primary endpoint is the phase I safety endpoint of SBRT dose for each body site.
+* The same starting SBRT dose levels are used in each arm. If two or more patients experience a dose-limiting toxicity (DLT) at the starting dose level, then the reduced dose level will be used (Section 7.1-Page 72).
+* DLT is defined as any grade ≥3 toxicity possibly, likely, or definitely related to SBRT plus nivolumab/ipilimumab (the combination and not the individual components).
+* Irradiated metastases will be grouped into one of five locations, which have different SBRT doses, and the DLTs will be attributed to the relevant organ system.
+* The starting and decreased SBRT dose levels are found in Table 2 (Page 20).
+* SBRT will be delivered in 3-5 fractions over the course of 1-1.5 weeks.
+* Patients in the sequential arm will begin immunotherapy between 1-7 days after completion of SBRT
+* Given the accrual data for IRB15-1130, the investigators anticipate that approximately 1/3 of patients will contribute metastasis to 2 locations. Since there are 2 arms, and 5 metastasis locations with 6 patients per location for the starting dose level, this translates to 40 patients for the starting dose level, and another 40 patients should each of the 5 locations require de-escalation to the lower dose level.
+* Secondary endpoints include comparisons of efficacy and toxicity between the arms, as well as interrogation of changes in the immune microenvironment induced by the two approaches.
+Stage IV Small Cell Lung Cancer
+DRUG: Nivolumab|DRUG: Ipilimumab|RADIATION: Stereotactic body radiation therapy
+Number of serious adverse events, To determine the recommended SBRT dose to various metastatic locations in patients with stage IV NSCLC when delivered prior to or concurrently with nivolumab and ipilimumab., Up to 4 years
+Number of adverse events of grade 3-4 or higher, To estimate and compare rates of ≥ grade 3-4 adverse events, by organ system, by CTCAEv4.0 that occur within 3 months from the start of SBRT when given prior to or concurrently with nivolumab/ipilimumab., Up to 4 years|Rate of long term adverse events, To estimate and compare the rates of long-term adverse events (after 3 months) from the end of SBRT when given prior to or concurrently with nivolumab/ ipilimumab., Up to 4 years|Rate of response, Summarize and compare the response rate to determine the progression-free survival at 6 months with SBRT given either prior to or concurrently with nivolumab/ipilimumab., From the start of treatment until the date of first documented progression or date of death from any cause, whichever comes first, up to 100 months|Rate of lesion control, To determine and compare the control of lesion(s) (SBRT treated and non-treated) when given either prior to or concurrently with nivolumab/ipilimumab., Up to 4 years|Rate of change in tumor microenvironment, To evaluate and compare changes in the tumor microenvironment induced by radiation when given prior to or concurrently with nivolumab/ipilimumab., Up to 4 years|Rate of PD-L1 expression levels response, To evaluate whether response to therapy correlates with PD-L1 expression levels among patients treated with nivolumab/ipilimumab either concurrently or sequential to SBRT., Up to 4 years|Measure of peripheral blood cell T cell levels, To explore whole PBMC by measuring peripheral blood cell T cell subset IFNγ ELISPOT levels throughout the study course and correlate with response to treatment., From the start of treatment, not to exceed 4 years|Quantification of T cell receptor, To explore peripheral blood T cell receptor deep sequencing quantification of T cell receptor (TCR) repertoire changes throughout the study course and how TCR repertoire may correlate with progression free survival and/or overall survival., From the start of treatment until the date of first documented progression or date of death from any cause, whichever comes first, up to 100 months
+Trial Design
+
+* Patients with stage IV non-small cell lung cancer are randomized to nivolumab/ipilimumab plus either sequential or concurrent stereotactic body radiotherapy (SBRT).
+* The primary endpoint is the phase I safety endpoint of SBRT dose for each body site.
+* The same starting SBRT dose levels are used in each arm. If two or more patients experience a dose-limiting toxicity (DLT) at the starting dose level, then the reduced dose level will be used (Section 7.1-Page 72).
+* DLT is defined as any grade ≥3 toxicity possibly, likely, or definitely related to SBRT plus nivolumab/ipilimumab (the combination and not the individual components).
+* Irradiated metastases will be grouped into one of five locations, which have different SBRT doses, and the DLTs will be attributed to the relevant organ system.
+* The starting and decreased SBRT dose levels are found in Table 2 (Page 20).
+* SBRT will be delivered in 3-5 fractions over the course of 1-1.5 weeks.
+* Patients in the sequential arm will begin immunotherapy between 1-7 days after completion of SBRT
+* Given the accrual data for IRB15-1130, the investigators anticipate that approximately 1/3 of patients will contribute metastasis to 2 locations. Since there are 2 arms, and 5 metastasis locations with 6 patients per location for the starting dose level, this translates to 40 patients for the starting dose level, and another 40 patients should each of the 5 locations require de-escalation to the lower dose level.
+* Secondary endpoints include comparisons of efficacy and toxicity between the arms, as well as interrogation of changes in the immune microenvironment induced by the two approaches.

@@ -1,0 +1,6 @@
+Using Rapid Cine-MRI for Monitoring Moving and Deforming Tumors
+In this study, the researchers investigate the feasibility of using rapid cine MR imaging to provide both offline and online soft-tissue-based image guidance. Such images will provide a significantly more complete picture of the spatial and temporal changes in thoracic anatomy. This more complete information will lay the groundwork for better radiotherapy planning and dose delivery in the presence of respiratory motion.
+Lung Cancer
+OTHER: cine MRI
+To measure time series of MRI imaging by the b-SSFP sequence., To use fast acquisition sequences to obtain 2D and 3D cine MR images of moving and deforming lung tumors. The signal to noise ration (SNR) and spatiotemporal resolution of imaging sequences will be optimized into a format potentially useful for radiotherapy guidance., 6 weeks
+Rapid MRI scans from Stage I-IV non-small-cell lung cancer (NSCLC) patients will be acquired. MR acquisition will be performed without extrinsically administered contrast, using a balanced turbo field echo (TFE) sequence and commercially available coils.

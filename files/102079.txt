@@ -1,0 +1,32 @@
+Daratumumab in Treating Transplant-Eligible Patients With Multiple Myeloma
+This phase II trial studies how well daratumumab works in treating transplant-eligible patients with multiple myeloma. Daratumumab is a monoclonal antibody that may interfere with the ability of cancer cells to grow and spread.
+Plasma Cell Myeloma
+PROCEDURE: Autologous Hematopoietic Stem Cell Transplantation|BIOLOGICAL: Daratumumab|DRUG: Lenalidomide
+Rate of minimal residual disease (MRD) negative response after autologous stem cell transplantation (ASCT), MRD negative response after ASCT is defined as achievement of MRD negative status in the bone marrow by flow cytometry (multiparameter flow cytometry \[MPF\]) at the day 100 post ASCT visit. The proportion of successes will be estimated by the number of successes divided by the total number of evaluable patients. 95 percent confidence intervals for the true success proportion will be calculated according to the approach of Duffy and Santner., At day 100 post ASCT
+The rate of MRD negative response after pre-stem cell transplant (SCT) consolidation with daratumumab, This will be estimated by the number of patients who achieve MRD negative status by flow cytometry (MPF) in the bone marrow after pre-SCT consolidation with daratumumab divided by the total number of evaluable patients. Exact binomial 95% confidence intervals for the true rate of MRD negative response after pre-SCT consolidation with daratumumab will be calculated., Up to 3 years|Rate of MRD negative response after 1 year (12 courses) of daratumumab and lenalidomide maintenance, This will be estimated by the number of patients who achieve MRD negative status by flow cytometry (MPF) in the bone marrow after 1 year of maintenance therapy divided by the total number of evaluable patients. Exact binomial 95% confidence intervals for the true rate of MRD negative response after 1 year of maintenance will be calculated., At 1 year (12 cycles) of daratumumab and lenalidomide maintenance|Progression-free survival, The distribution of progression-free survival will be estimated using the Kaplan-Meier method., From registration up to 3 years|Survival time, The distribution of survival time will be estimated using the Kaplan-Meier method., From registration up to 3 years|Overall response rate, This will be estimated by the number of patients with an objective status of stringent complete responses, complete response, very good partial response, or partial response at the day 100 post ASCT assessment divided by the total number of evaluable patients. Response assessment will be in comparison to values obtained at the disease assessment at the time registration. Exact binomial 95% confidence intervals for the true overall response rate at day 100 post ASCT will be calculated., At day 100 post ASCT|Incidence of adverse events, The maximum grade for each type of adverse event will be recorded for each patient, and frequency tables will be reviewed to determine patterns. Additionally, the relationship of the adverse event(s) to the study treatment will be taken into consideration., Up to 3 years
+MRD assessment in blood and bone marrow, MRD assessment will be correlated between blood and bone marrow. Patients will be categorized as positive versus (vs.) negative MRD. The number of patients who have agreement between the 2 measures (both positive or both negative) will be assessed., Up to cycle 18/16 months of treatment|MRD assessed using flow cytometry (MPF) and next generation sequencing (NGS), MRD assessment will be correlated between flow cytometry (MPF) and NGS. Patients will be categorized as positive vs. negative MRD for each measure. The number of patients who have agreement between the 2 measures (both positive or both negative) will be assessed., Up to cycle 18/16 months of treatment|Immune repertoire profiling, This will be assessed as continuous variables and their mutual change over time as assessed on the pre-specified time points will be correlated with response category to the treatment., Up to cycle 18/16 months of treatment|Antibody-dependent cellular phagocytosis and antibody-dependent cell-mediated cytotoxicity, These will be assessed as continuous variables and their mutual change over time as assessed on the pre-specified time points will be correlated with response category to the treatment., Up to cycle 18/16 months of treatment
+PRIMARY OBJECTIVE:
+
+I. To determine the percentage of patients achieving minimal residual disease (MRD) negativity by multiparameter flow cytometry (MPF) after autologous stem cell transplant (SCT) (at day 100) using pre-SCT daratumumab consolidation.
+
+SECONDARY OBJECTIVES:
+
+I. To determine percentage of patients achieving MRD negativity by MPF after 1 year of daratumumab+lenalidomide-based maintenance therapy.
+
+II. To determine progression-free survival (PFS) for peri-SCT treatment with daratumumab.
+
+III. To determine percentage of MRD negativity by MPF after pre-SCT consolidation with daratumumab.
+
+IV. To determine safety profile of peri-SCT daratumumab with lenalidomide. V. To determine the overall response rate (ORR) of patients receiving peri-SCT daratumumab for MM.
+
+VI. To determine the overall survival (OS) for patients receiving peri-SCT daratumumab for MM.
+
+OUTLINE:
+
+CONSOLIDATION I: Patients receive daratumumab intravenously (IV) on days 1, 8, 15, and 22 of cycles 1-2, and on days 1 and 15 of cycles 3-4. Treatment repeats every 28 days for up to 4 cycles in the absence of disease progression or unacceptable toxicity.
+
+CONSOLIDATION II: Beginning 8 weeks after completion of daratumumab cycle 2 or 4, patients undergo autologous stem cell transplant (ASCT).
+
+MAINTENANCE: Within 14 days after completion of day 100 visit post-SCT, patients receive daratumumab IV on day 1 and lenalidomide orally (PO) daily on days 1-21. Treatment repeats every 28 days for up to 12 cycles in the absence of disease progression or unacceptable toxicity. Patients who are still maintaining response continue to receive daratumumab IV every 3 months in the absence of disease progression or unacceptable toxicity.
+
+After completion of study treatment, patients are followed up at 30 days and every 3-6 months for up to 3 years.

@@ -1,0 +1,44 @@
+Atezolizumab With Bevacizumab in Previously Untreated Metastatic/Unresectable Urothelial Cancer
+This is a phase II study assessing the activity of bevacizumab combined with atezolizumab in metastatic urothelial carcinoma patients who are ineligible for cisplatin-based therapy.
+Urothelial Carcinoma
+DRUG: Atezolizumab|DRUG: Bevacizumab
+Overall Survival (OS) Rate at 1 Year, Determine the percentage of overall survival at 1 years from the initiation of treatment. Overall survival is defined as the time from treatment start until death or date of last contact., 1 years
+Objective Response Rate (ORR), Per Response Evaluation Criteria In Solid Tumors Criteria (RECIST v1.1) for target lesions and assessed by MRI: Complete Response (CR), Disappearance of all target lesions; Partial Response (PR), \>=30% decrease in the sum of the longest diameter(LD) of target lesions; Progressive Disease (PD): \>= 20% increase in the sum of the LD of target lesions, taking as reference the smallest sum LD recorded since the treatment started or the appearance of one or more new lesions; Stable Disease (SD): Neither sufficient shrinkage to qualify for PR nor sufficient increase to qualify for PD, taking as reference the smallest sum LD since the treatment started.
+
+Overall Response (OR) = CR + PR., Up to a maximum of 14 months|Duration of Response (DOR), Per Response Evaluation Criteria In Solid Tumors Criteria (RECIST v1.1) for target lesions and assessed by MRI: Complete Response (CR), Disappearance of all target lesions; Partial Response (PR), \>=30% decrease in the sum of the longest diameter of target lesions; Progressive Disease (PD) \>= 20% increase in tumor burden relative to nadir or the appearance of one or more new lesions; Stable Disease (SD), not meet criteria for CR/PR/PD.
+
+DOR is defined as time from measurement criteria are met for complete or partial response (whichever status is recorded first) until the date that recurrent or progressive disease is objectively documented by RECIST v1.1., Up to a maximum of 14 months|Progression-Free Survival (PFS), Per Response Evaluation Criteria In Solid Tumors Criteria (RECIST v1.1) for target lesions and assessed by MRI: Complete Response (CR), Disappearance of all target lesions; Partial Response (PR), \>=30% decrease in the sum of the longest diameter of target lesions; Progressive Disease (PD) \>= 20% increase in tumor burden relative to nadir or the appearance of one or more new lesions; Stable Disease (SD), not meet criteria for CR/PR/PD.
+
+PFS is defined as time from the date of treatment start until the criteria for disease progression is met as defined by RECIST 1.1 or death occurs, Time of treatment start until the criteria for disease progression or death, up to a maximum of 36 months.|Number of Participants With Adverse Events, Adverse events were recorded according to the National Cancer Institute's Common Terminology Criteria for Adverse Events (NCI-CTCAE) version 4., Adverse events were recorded from time of registration until 30 days after discontinuation of study drug(s), up to maximum of 12 months
+This is a multi-center trial.
+
+INVESTIGATIONAL TREATMENT:
+
+Eligible patients will be receive atezolizumab 1200 mg IV flat dose plus bevacizumab 15 mg/kg IV every 21 days
+
+21 days equals 1 cycle of therapy and patients will be eligible to continue treatment until progressive disease by RECIST v1.1 or unacceptable toxicity for up to 24 months.
+
+To demonstrate adequate organ function, all screening labs must be obtained within 14 days prior to Cycle 1 Day 1 (C1D1) of treatment:
+
+Hematological:
+
+* Absolute Neutrophil Count (ANC): ≥ 1,000 K/mm\^3
+* Hemoglobin (Hgb): ≥ 9.0 g/dL
+* Absolute Lymphocyte Count: ≥ 500/uL
+* Platelet Count: ≥ 100,000/uL
+
+Renal:
+
+* Calculated Creatinine Clearance: serum creatinine \< 2.5 or ≥ 25 cc/min using a direct method or the Cockcroft-Gault formula
+* Urinary Protein Excretion: \< 1.0 g/24 hours (as estimated by urine protein-creatinine ratio)
+
+Hepatic:
+
+* Bilirubin: ≤ 1.5 × upper limit of normal (ULN) (patients with known Gilbert's Disease who have serum bilirubin ≤ 3.0 x ULN may be enrolled)
+* Aspartate aminotransferase (AST): ≤ 2.5 × ULN (5.0 x ULN if liver involvement)
+* Alanine aminotransferase (ALT): ≤ 2.5 × ULN (5.0 x ULN if liver involvement)
+* Serum Albumin: ≥ 2.5 g/dL
+
+Coagulation:
+
+* International Normalized Ratio (INR) or Prothrombin Time (PT); Activated Partial Thromboplastin Time (aPTT): ≤ 1.5 × ULN (NOTE: This applies only to patients who are not receiving therapeutic anticoagulation; patients receiving therapeutic anticoagulation should be on a stable dose)

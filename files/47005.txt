@@ -1,0 +1,38 @@
+Rituximab and Combination Chemotherapy With or Without Radiation Therapy in Treating Patients With B-Cell Non-Hodgkin's Lymphoma
+RATIONALE: Monoclonal antibodies, such as rituximab, can block cancer growth in different ways. Some find cancer cells and kill them or carry cancer-killing substances to them. Others interfere with the ability of cancer cells to grow and spread. Drugs used in chemotherapy, such as cyclophosphamide, doxorubicin hydrochloride, vincristine, and prednisone, work in different ways to stop the growth of cancer cells, either by killing the cells or by stopping them from dividing. Radiation therapy uses high-energy x-rays to kill cancer cells. Giving rituximab and combination chemotherapy together with radiation therapy may kill more cancer cells. It is not yet known which schedule of rituximab and combination chemotherapy is more effective when given with or without radiation therapy in treating non-Hodgkin's lymphoma.
+
+PURPOSE: This randomized phase III trial is studying two different schedules of rituximab and combination chemotherapy with or without radiation therapy to compare how well they work in treating patients with aggressive B-cell non-Hodgkin's lymphoma.
+Lymphoma
+BIOLOGICAL: filgrastim|BIOLOGICAL: rituximab|DRUG: cyclophosphamide|DRUG: doxorubicin hydrochloride|DRUG: prednisone|DRUG: vincristine sulfate|RADIATION: radiation therapy
+Time to treatment failure (TTF) measured from day 1 of course 1 of cyclophosphamide, doxorubicin, vincristine, and prednisone (CHOP) therapy up to 3 years on study with life-long follow-up, 3 years
+Complete response (CR) rate until first relapse, through study completion|Progression rate during treatment, 3 years|Survival, through study completion|Tumor control measured from day 1 of course 1 of CHOP therapy (non-tumor related events are censored), 3 years|Disease-free survival measured from day 1 of course 1 of CHOP therapy, life-long|Relapse-free survival of patients with complete response (CR) or unconfirmed complete response (CRu) following complete immunochemotherapy, through study completion|Safety (adverse events, serious adverse events) assessed at 3 months after completion of study treatment, 3 years|Consolidating radiotherapy, 3 years
+OBJECTIVES:
+
+Primary
+
+* Compare the time to treatment failure in patients with previously untreated, low-risk, aggressive, B-cell non-Hodgkin's lymphoma treated with 2 different schedules of immunochemotherapy comprising rituximab, cyclophosphamide, doxorubicin hydrochloride, vincristine, and prednisone with vs without radiotherapy.
+
+Secondary
+
+* Compare the time to progression in patients treated with these regimens.
+* Compare the overall and disease-free/relapse-free survival of patients treated with these regimens.
+* Compare the complete response rate in patients treated with these regimens.
+* Compare the tumor control in patients treated with these regimens.
+* Compare the safety of these regimens in these patients.
+* Compare the pharmacoeconomics of these regimens.
+* Compare patient adherence to these regimens.
+
+OUTLINE: This is an open-label, randomized, multicenter study. Patients are stratified according to study center, serum lactic dehydrogenase level (≤ upper limit of normal \[ULN\] vs \> ULN), disease stage (I or II vs III or IV), ECOG performance status (0-1 vs 2-3), bulky disease, and extranodal involvement. Patients with initial bulky disease and/or qualifying extranodal involvement are randomized to 1 of 4 treatment arms. Patients with non-bulky disease are randomized to treatment arms I or III.
+
+All patients will be given the option of receiving a 1-week course of pretreatment therapy comprising vincristine IV once on day -6 and oral prednisone once daily on days -6 to 0.
+
+* Arm I (R-CHOP-21): Patients receive R-CHOP immunochemotherapy comprising rituximab IV, cyclophosphamide IV over 15 minutes, doxorubicin IV, and vincristine IV on day 1 and oral prednisone once daily on days 1-5. Treatment repeats every 21 days for up to 6 courses in the absence of disease progression or unacceptable toxicity.
+* Arm II (R-CHOP-21 and radiotherapy): Patients receive R-CHOP as in arm I. Treatment repeats every 21 days for up to 6 courses in the absence of disease progression or unacceptable toxicity. Beginning 2-6 weeks after the last course of R-CHOP, patients who achieve a complete remission (CR) undergo radiotherapy 5 days a week for approximately 5½ weeks.
+* Arm III (R-CHOP-14): Patients receive R-CHOP as in arm I. Patients also receive filgrastim (G-CSF) subcutaneously once daily on days 4-13 or until blood counts recover. Treatment repeats every 14 days for up to 6 courses in the absence of disease progression or unacceptable toxicity.
+* Arm IV (R-CHOP-14 and radiotherapy): Patients receive R-CHOP as in arm I. Patients also receive G-CSF an in arm III. Treatment repeats every 14 days for up to 6 courses in the absence of disease progression or unacceptable toxicity. Beginning 2-6 weeks after the last course of R-CHOP, patients who achieve CR undergo radiotherapy as in arm II.
+
+Patients in all arms undergo restaging of their disease after courses 3 and 6 of R-CHOP. Patients with stable disease after 6 courses or disease progression after courses 3 or 6 proceed to salvage chemotherapy off study. Patients achieving a partial remission or an unconfirmed CR after 6 courses undergo additional restaging 4 weeks later. Patients with disease progression proceed to salvage chemotherapy off study. Patients who achieve CR after 6 courses of R-CHOP or have a confirmed CR after the additional restaging undergo radiotherapy according to randomization (as above).
+
+After completion of study treatment, patients are followed periodically for 5 years and then annually thereafter.
+
+PROJECTED ACCRUAL: A total of 1,072 patients will be accrued for this study.

@@ -1,0 +1,42 @@
+Lower or Standard Dose Regorafenib in Treating Patients With Refractory Metastatic Colorectal Cancer
+This randomized phase II trial studies how well lower-dose compared to standard dose regorafenib works in treating patients with colorectal cancer that has spread from the primary site (place where it started) to other places in the body and does not respond to treatment. Regorafenib may stop the growth of colorectal cancer by blocking the growth of new blood vessels necessary for tumor growth and by blocking some of the enzymes needed for cell growth. It is not yet known whether lower-dose or standard dose regorafenib is more effective in treating patients with colorectal cancer. Clobetasol propionate is a steroid cream that is commonly used to treat a variety of skin conditions and may help prevent hand-foot skin reactions in patients receiving regorafenib.
+Colon Adenocarcinoma|Rectal Adenocarcinoma|Stage III Colorectal Cancer AJCC v7|Stage IIIA Colorectal Cancer AJCC v7|Stage IIIB Colorectal Cancer AJCC v7|Stage IIIC Colorectal Cancer AJCC v7|Stage IV Colorectal Cancer AJCC v7|Stage IVA Colorectal Cancer AJCC v7|Stage IVB Colorectal Cancer AJCC v7
+DRUG: Clobetasol Propionate|OTHER: Pharmacological Study|OTHER: Quality-of-Life Assessment|DRUG: Regorafenib
+Proportion of Patients in Each Arm Who Complete 2 Cycles of Protocol Treatment and Initiate Cycle 3, Fisher exact test will be used to detect a difference course 3 between arms (starting low dose \[pooled arm A1 and A2\] versus \[vs.\] standard dose \[pooled arm B1 and B2\]). The proportion of patients who complete 2 courses of protocol treatment and initiate course 3 will be computed by arm with its 95% confidence interval using exact method., At 8 weeks
+Overall Survival (OS), OS is defined as the time from randomization to death due to any cause and will be estimated with Kaplan-Meier survival curves and differences between regorafenib arms (A vs. B) tested using log-rank tests, though these analyses are not powered for formal non-inferiority assessments., Time from randomization to death due to any cause, assessed up to 2 years|Progression Free Survival (PFS), PFS is defined as the time from randomization to the earlier of disease progression or death due to any cause, where progressed disease (PD) is defined by Response Evaluation Criteria in Solid Tumors (RECIST) 1.1 and will be estimated with Kaplan-Meier survival curves and differences between regorafenib arms (A vs. B) tested using log-rank tests, though these analyses are not powered for formal non-inferiority assessments., Time from randomization to the earlier of disease progression or death due to any cause, where progressed disease (PD) is defined by Response Evaluation Criteria in Solid Tumors (RECIST) 1.1, assessed up to 2 years|Time to Progression (TTP), TTP is defined as the time from randomization to disease progression, where PD is defined by RECIST 1.1 and will be estimated with Kaplan-Meier survival curves and differences between regorafenib arms (A vs. B) tested using log-rank tests, though these analyses are not powered for formal non-inferiority assessments., Time from randomization to disease progression, where PD is defined by RECIST 1.1, assessed up to 2 years|Cumulative (Total) Dose of Regorafenib Received by Patients in the First Two Cycles, Will be summarized with descriptive statistics and compared between regorafenib arms (A vs. B)., Up to 8 weeks|Dose Intensity of Regorafenib Received by Patients in the First Two Cycles as Measured by the Percentage of Planned Dose Received, Dose intensity of regorafenib received by patients in the first two cycles as measured by the percentage (%) of planned dose received, Up to 8 weeks|Proportion of Patients Overall and Within Each Arm Experiencing Grade 3 or 4 Hand and Foot Syndrome (HFS) or Fatigue, Will be computed with 95% confidence intervals, and differences between regorafenib dosing strategies (pooled across HFS strategies) tested using a Fisher Exact test. The incidence of grade 3 or 4 HFS will also be descriptively compared between those receiving a pre-specified preemptive vs. reactive approach for hand and foot syndrome (pooled across dosing strategies), and tested using a Fisher Exact test., Up to 2 years|Changes in Quality of Life (QOL) (According to the HFS14 Questionnaire), Patients will be descriptively compared between treatment arms and between HFS treatment strategies (pre-emptive vs. reactive) according to self-reported outcomes given on the HFS14 questionnaire. Results from the course 1 and 2 HSF14 questionnaires will also be summarized descriptively as they relate to the pre-emptive versus reactive palmar-plantar erythrodysesthesia syndrome (PPES) strategies, with comparisons made within and between arms using the t-test or Wilcoxon rank sum test as appropriate, as well as taking time-dependence into account., Baseline to up to 8 weeks|Changes in QOL (According to the Linear Analogue Self-Assessment [LASA] Questionnaire), Changes in QOL (according to the LASA questionnaire as measured by the overall QOL question) from baseline will be compared between the treatment arms using the Kruskal-Wallis test., Baseline to 8 weeks
+Pharmacokinetics (PK) Parameters of Regorafenib Using Liquid Chromatography Mass Spectrometry, After quantitation, the average trough concentration, calculated from all available data, will be calculated. This average trough concentration will be correlated with toxicity and efficacy endpoints. Further descriptive characteristics of the pharmacokinetics will also be calculated, an example includes (but is not limited to) within-patient variability in the trough concentrations pharmacokinetic parameters will also be calculated, both overall and within courses, as a ratio of the maximum:minimum value., Baseline, prior to treatment, days 7, 14, and 21 prior to treatment (course 1), and days 1 and 21 prior to treatment (course 2)
+PRIMARY OBJECTIVES:
+
+I. Evaluate the proportion of patients who complete 2 cycles of protocol treatment and initiate cycle 3 in arm A (pooled arm A1 and A2) and arm B (pooled arm B1 and B2).
+
+SECONDARY OBJECTIVES:
+
+I. Evaluate outcome measures for efficacy in each arm including progression-free survival (PFS), time to progression (TTP), and overall survival (OS).
+
+II. Compare between arms the cumulative dose and dose intensity received within the first two cycles.
+
+III. Evaluate the proportion of patients in each arm that exhibit grade 3 palmar-plantar erythrodysesthesia syndrome (PPES) and/or fatigue, and make comparisons between regorafenib dosing strategies and pre-emptive versus (vs.) reactive strategies to address PPES.
+
+IV. Compare quality of life (QOL) between treatment arms (regorafenib dosing strategies and preemptive vs. reactive PPES strategies) as measured by the Hand and Foot Syndrome (HFS)14, Brief Fatigue Inventory (BFI), and Linear Analogue Self-Assessment (LASA) questionnaires.
+
+TERTIARY OBJECTIVES:
+
+I. Evaluate and compare trough minimum concentration (Cmin) pharmacokinetics (PK) during the first 2 treatment cycles for regorafenib and active metabolites M2, M5 between the low dose (dose escalation) and the standard dose cohorts, and correlate with toxicity profile.
+
+II. Evaluate the correlation between PK parameters and tumor response/stable disease after the first two cycles.
+
+III. Evaluate the correlation between PK parameters and PFS and OS. IV. Evaluate if trough (Cmin) concentrations are associated with patient-specific factors (such as ? but not limited to ? age and concomitant medications).
+
+OUTLINE: Patients are randomized to 1 of 4 treatment arms.
+
+ARM A1: Patients receive lower-dose regorafenib PO once daily (QD) on days 1-21 and pre-emptive clobetasol propionate given topically twice daily (BID) for 12 weeks, beginning on day 1 of regorafenib.
+
+ARM A2: Patients receive lower-dose regorafenib PO as in Arm A1 and reactive clobetasol propionate given topically BID beginning on day 1 per physician discretion upon occurrence of PPES grade \>= 1.
+
+ARM B1: Patients receive standard dose regorafenib PO QD on days 1-21 and pre-emptive clobetasol propionate as in Arm A1.
+
+ARM B2: Patients receive standard dose regorafenib PO as in Arm B1 and reactive clobetasol propionate as in Arm A2.
+
+In all arms, courses repeat every 28 days in the absence of disease progression or unacceptable toxicity.
+
+After completion of study treatment, patients are followed up for 2-6 months.

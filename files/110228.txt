@@ -1,0 +1,21 @@
+Adjuvant Trial in Patients With Resected PDAC Randomized to Allocation of Oxaliplatin- or Gemcitabine-based Chemotherapy by Standard Clinical Criteria or by a Transcriptomic Treatment Specific Stratification Signature
+This is a multicentre open labelled phase III adjuvant trial of disease-free survival in patients with resected pancreatic ductal adenocarcinoma randomized to allocation of oxaliplatin- or gemcitabine-based chemotherapy by standard clinical criteria (control arm) or by a transcriptomic treatment specific stratification signature or TSS (test arm).
+Pancreatic Ductal Adenocarcinoma
+DRUG: Oxaliplatin|DRUG: Irinotecan|DRUG: Folinic acid|DRUG: 5-fluorouracil|DRUG: Gemcitabine|DRUG: Capecitabine
+Disease free survival, Disease free survival will be defined as time from ramdomisation to disease recurrence (growth or metastasis) or death from any cause all patients fulfilling the in- and exclusion criteria., 76 months
+Overall survival, Overall survival is defined as the time from randomization to death due to any cause. If a patient is lost to follow up, overall survival time is censored at the time of last contact., 76 months|Metastasis free survival, Metastasis free survival is defined as the time from randomization to detection of metastasis or death from any cause. The time of metastasis is defined as the date of metastasis determined and recorded by the Pancreas Tumour Board (Multidisciplinary Team).
+
+If the patient is eligible for first line therapy the recurrence must be performed by a positive biopsy or cytology.
+
+If a patient is lost to follow up, metastasis free survival time is censored at the time of last contact., 76 months|Overall survival from recurrence, Overall survival is defined as the time from recurrence to death due to any cause. If a patient is lost to follow up, overall survival time is censored at the time of last contact., 76 months|Quality of life (QoL EORTC QLQ-C-30), QoL will be assessed by the EORTC QLQ-C30 questionnaire in its most current version every three months starting from V1., 76 months|Safety: (serious) adverse events and Grade 3 and 4 toxicities according to NCI-CTC v.5.0., Safety assessments will include adverse events. The proportion of grade 3 and 4 toxicity will be compared across treatments using time to event methods and frequency counts. Adverse and serious adverse events are collected throughout the study and will be tabulated and compared between study arms.
+
+The analysis of all safety endpoints is conducted on the safety set, which contains all patients who received at least one cycle of treatment., 47 months
+The main purpose and primary objective of the study is to determine whether disease free survival in patients with resected pancreatic ductal adenocarcinoma (PDAC) treated with standard adjuvant chemotherapy regimens (oxaliplatin- or gemcitabine-based), is superior using allocation based on a treatment specific signature (TSS), compared to the same chemotherapy regimens allocated according to standard clinical criteria.
+
+Secondary objectives of the study are to assess overall survival (median, 3 year survival rate), metastasis free survival; survival based on targeted signatures (TSS) in test versus control arms, and survival using targeted therapies initially on relapse compared to standard first-line therapies on relapse.
+
+In addition, ESPAC-6 optional translational research programme will obtain tumor specimens and blodd samples to identify biomarkers that may predict response to chemotherapy or relapse.
+
+ESPAC-6 will also generate a biobank of matched patient-derived organoids (PDOs) to provide an experimentally tractable model system for the development and testing of biomarker-driven personalised therapies.
+
+ESPAC-6 translational research programme, will also develop a longitudinal blood biobank to analyse clinically relevant circulating biomarkers, such as blood proteins, metabolites and/or circulating-free tumour DNA.

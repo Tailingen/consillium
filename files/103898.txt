@@ -1,0 +1,26 @@
+ASPIRED-XT: ASPirin Intervention for the REDuction of Colorectal Cancer Risk -EXTension
+This research study is studying a drug intervention as a possible chemoprevention strategy for colorectal cancer.
+
+The name of the study intervention involved in this study is:
+
+* Low Dose Aspirin
+Colorectal Cancer
+DRUG: Aspirin|OTHER: Placebo
+Change of ISC marker gene expression, Assess the difference in the change of ISC marker using scRNA-seq data analysis, 2 months
+Change in Urinary PGE-M, Comparing change in PGE-M between treatment groups (aspirin and placebo) using a two-sample t-test., 2 months|Change in urinary Plasma GDF-15, Comparing change inGDF-15 between aspirin and placebo groups, using a two-sample t-test., 2 months|ChIP-seq Analysis of Colonic Epithelium, Analysis of the ChIP-seq data (\>60 million reads, 50-bp paired end) using the publicly available Cistrome Analysis Pipeline, 2 months|Gene Expression Analysis of Colonic Epithelium, RNA-seq sequence data (\> 50 million reads) will be mapped to hg19 through use of TopHat2., 2 months|Change in Microbiome, Aspirin use and dose will be associated with microbial operational taxonomic units (OTUs) using the Biobakery3 computational analysis pipeline., 2 months
+This is prospective, double-blind, placebo-controlled, randomized clinical trial to measure the effects of daily low-dose (81 mg/day) aspirin on tissue, urine, plasma, and stool biomarkers associated with colorectal cancer with a focus on the effect of age. It is a direct extension of an earlier study: ASPIRED trial NCT02394769
+
+Aspirin is part of the non-steroidal anti-inflammatory drug (NSAID) family, which are drugs routinely used for their pain-killing (analgesic), fever-reducing (antipyretic), or anti-inflammatory properties. Most NSAIDs are available as over-the-counter formulations. Substantial evidence has conclusively demonstrated that aspirin reduces the risk of colorectal polyps and cancer, yet there remains uncertainty surrounding its mode of action. Aspirin may prevent colorectal cancer through multiple interrelated biological mechanisms including the reduction of chronic inflammation, a known risk factor for colorectal cancer. Aspirin has been shown to directly affect prostaglandins, a class of biologic molecules that play important roles in controlling the normal inflammatory responses within your body. The exact mechanism by which aspirin acts to prevent colorectal cancer is still unknown.This study is looking at the mechanisms of aspirin's anti-cancer effect, which may lead to the discovery of novel specific characteristics (markers) that can be used to select patients for aspirin treatment. the study will also look at the effect age may have on these mechanisms.
+
+The research study procedures include screening for eligibility and study treatment and scheduling two clinical research visits immediately before and after intervention with the study drug.
+
+Participants will be randomized into two groups.
+
+* Arm A: Daily Placebo (no aspirin) for the duration of the study.
+* Arm B: Daily low dose aspirin (81 mg/day) for the duration of the study.
+
+Participants may be contacted periodically after the study (no more than 1- 2 times annually) for up to 10 years to follow-up on additional information including any continued aspirin use or follow-up colonoscopy results.
+
+It is expected that about 160 people will take part in this research study.
+
+The National Cancer Institute (NCI) of the National Institutes of Health (NIH) is supporting this research study by providing funding for the research study.

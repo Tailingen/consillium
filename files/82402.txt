@@ -1,0 +1,32 @@
+Testing of Bevacizumab, Erlotinib, and Atezolizumab in Combination for Advanced-Stage Kidney Cancer
+This phase II trial studies the effects of combination therapy with bevacizumab, erlotinib, and atezolizumab in treating patients with hereditary leiomyomatosis and kidney cancer that may have spread from where it first started to nearby tissue, lymph nodes, or distant parts of the body (advanced). Bevacizumab is in a class of medications called antiangiogenic agents. They work by stopping the formation of blood vessels that bring oxygen and nutrients to tumors. This may slow the growth and spread of tumors. Erlotinib is in a class of medications called kinase inhibitors. It works by blocking the action of a protein called EGFR that signals cancer cells to multiply. This helps slow or stop the spread of cancer cells. Immunotherapy with monoclonal antibodies, such as atezolizumab, may help the body's immune system attack the cancer, and may interfere with the ability of tumor cells to grow and spread. Combination therapy with bevacizumab, erlotinib, and atezolizumab may stabilize or shrink advanced hereditary leiomyomatosis and kidney cancer.
+Hereditary Leiomyomatosis and Renal Cell Carcinoma|Papillary Renal Cell Carcinoma|Renal Cell Carcinoma|Sporadic Papillary Renal Cell Carcinoma|Stage III Renal Cell Cancer AJCC v8|Stage IV Renal Cell Cancer AJCC v8
+BIOLOGICAL: Atezolizumab|BIOLOGICAL: Bevacizumab|PROCEDURE: Biopsy Procedure|PROCEDURE: Biospecimen Collection|PROCEDURE: Bone Scan|PROCEDURE: Computed Tomography|PROCEDURE: Computed Tomography with Contrast|DRUG: Erlotinib|PROCEDURE: Magnetic Resonance Imaging|PROCEDURE: Positron Emission Tomography|DRUG: Sodium Fluoride F-18
+Incidence of adverse events, To determine the safety and tolerability of the combination of bevacizumab, erlotinib, and atezolizumab, the fraction of patients with a dose-limiting toxicity will be reported, along with the maximum grade and type of toxicity for each type noted. Note: In addition to adverse events in the entire study population, pediatric toxicities will also be reported and analyzed separately., Up to 28 days after treatment|Objective response rate, Defined as complete response (CR) + partial response (PR), the fraction with a response (CR+PR) will be reported separately by cohort, along with a 95% confidence interval., Up to 2 years from study enrollment|Disease control rate, Will be reported for patients with confirmed response, or stable disease (SD) lasting for at least 6 months. Will be reported separately by cohort, along with a 95% confidence interval., Up to 2 years from study enrollment|Progression-free survival time (PFS), Assessed according to Response Evaluation Criteria in Solid Tumors (RECIST) 1.1, PFS will be determined using the Kaplan-Meier method, and the curves presented along with a 95% confidence interval on the median PFS, separately by cohort., Time from study treatment initiation until disease progression or death, assessed up to 2 years from study enrollment|Overall survival (OS), The Kaplan-Meier method will be used and the curves presented along with a 95% confidence interval on the median OS, separately by cohort., From study treatment initiation until death from any cause, assessed up to 2 years from study enrollment|Duration of response (DOR), The Kaplan-Meier method will be used and the curves presented along with a 95% confidence interval on the median DOR, separately by cohort., Length of time without disease progression or recurrence, up to 2 years from study enrollment|Response to treatment, Response to treatment using immune-modified Response Evaluation Criteria in Solid Tumors (iRECIST), the fraction with a response (CR+PR) according to iRECIST will be reported separately by cohort, along with a 95% confidence interval., Assessed up to 2 years from study enrollment
+PRIMARY OBJECTIVE:
+
+I. To assess the complete response (CR) rate according to standard Response Evaluation Criteria in Solid Tumors version 1.1 (RECIST 1.1) in patients with 1) advanced renal cell cancer (RCC) associated with hereditary leiomyomatosis and renal cell cancer (HLRCC) and 2) advanced sporadic/non-HLRCC papillary renal cell cancer treated with a combination of bevacizumab, erlotinib, and atezolizumab.
+
+SECONDARY OBJECTIVES:
+
+I. To determine the safety and tolerability of the combination of bevacizumab, erlotinib, and atezolizumab.
+
+II. To determine the objective response rate (ORR) as complete response (CR) + partial response (PR).
+
+III. To determine disease control rate (DCR) - confirmed response, or stable disease (SD) lasting for at least 6 months.
+
+IV. To assess progression-free survival time (PFS) according to RECIST 1.1. V. To assess overall survival (OS). VI. To assess the duration of response. VII. To assess response to treatment using immune-modified Response Evaluation Criteria in Solid Tumors (iRECIST).
+
+EXPLORATORY OBJECTIVES:
+
+I. To evaluate immunologic modulation associated with the administered treatment regimen, including:
+
+Ia. Peripheral immune subset analysis before and on treatment; Ib. Evaluation of relevant soluble factors before and on treatment. (e.g., cytokine profiles); Ic. Tumor tissue immune infiltration cells before and after treatment (immune microenvironment, CD8/CD4/CD3 cells, T-cell receptor clonality); Id. Evaluation of tissue PDL1/PD1 expression and their correlation with outcome.
+
+II. To assess specific genomic alterations (including fumarate hydratase \[FH\], NRF2 pathway) and determine if there is a correlation with clinical outcomes.
+
+OUTLINE:
+
+Patients receive bevacizumab intravenously (IV) over 30-90 minutes and atezolizumab IV over 30-60 minutes on day 1 of each cycle. Patients also receive erlotinib orally (PO) once daily (QD) on days 1-21 of each cycle. Cycles repeat every 21 days in the absence of disease progression or unacceptable toxicity. Patients also undergo computed tomography (CT) with or without contrast and magnetic resonance imaging (MRI) throughout the trial. Patients undergo collection of blood throughout the trial, and may undergo a biopsy during screening, as well as a brain MRI/CT scan with contrast, bone scan, and/or F-18 sodium fluoride positron emission tomography (PET) scan as clinically indicated.
+
+After completion of study treatment, patients are followed up every 6 months.

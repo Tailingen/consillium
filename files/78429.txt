@@ -1,0 +1,7 @@
+Clinical Application of 68Ga-FAPI PET Imaging in Detection of Ovarian Cancer Recurrence
+This is a prospective study to investigate the potential efficacy of 68Ga-FAPI PET/CT for recurrence detection of epithelial ovarian cancer in comparison with 18F-FDG PET/CT.
+68Ga-FAPI|Ovarian Cancer|Epithelial Ovarian Cancer|Positron Emission Tomography
+DIAGNOSTIC_TEST: 68Ga-FAPI
+Diagnostic Performance, Sensitivity and Specificity of 68Ga-FAPI PET/CT for recurrence in comparison with 18F-FDG PET/CT, 1 year|Maximum standardized uptake value（SUVmax）, Measurement of the maximum standardized uptake value of the lesion, 1 year|Tumor-to-background ratio (TBR), TBR was calculated according to the formula：TBR=SUVmax of lesion/SUVmax of background, 1 year
+Correlation between FAPI expression and SUV in PET, Correlation between 68Ga-FAPI PET uptake intensity and histopathologic FAP expression. Validation via immunohistochemical FAP staining of pathological specimen, 1 year
+Gallium 68-labeled fibroblast-activation protein inhibitor (68Ga-FAPI) has recently been a potential radiotracer for gynecological malignancies,including ovarian cancer. Early detection and localization of sites of recurrence helps to identify ovarian cancer patients who will benefit the most from secondary surgery, chemotherapy, or radiation therapy. Its clinical utility for recurrence detection of epithelial ovarian cancer and histological validation of FAPI findings is not well established.

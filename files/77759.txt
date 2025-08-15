@@ -1,0 +1,33 @@
+Testing the Addition of Pembrolizumab, an Immunotherapy Cancer Drug to Olaparib Alone as Therapy for Patients With Pancreatic Cancer That Has Spread With Inherited BRCA Mutations
+This phase II trial studies whether adding pembrolizumab to olaparib (standard of care) works better than olaparib alone in treating patients with pancreatic cancer with germline BRCA1 or BRCA2 mutations that has spread to other places in the body (metastatic). BRCA1 and BRCA2 are human genes that produce tumor suppressor proteins. These proteins help repair damaged deoxyribonucleic acid (DNA) and, therefore, play a role in ensuring the stability of each cell's genetic material. When either of these genes is mutated, or altered, such that its protein product is not made or does not function correctly, DNA damage may not be repaired properly. As a result, cells are more likely to develop additional genetic alterations that can lead to some types of cancer, including pancreatic cancer. Immunotherapy with monoclonal antibodies, such as pembrolizumab, may help the body's immune system attack the cancer, and may interfere with the ability of tumor cells to grow and spread. Olaparib is an inhibitor of PARP, a protein that helps repair damaged DNA. Blocking PARP may help keep tumor cells from repairing their damaged DNA, causing them to die. PARP inhibitors are a type of targeted therapy. The addition of pembrolizumab to the usual treatment of olaparib may help to shrink tumors in patients with metastatic pancreatic cancer with BRCA1 or BRCA2 mutations.
+Metastatic Pancreatic Adenocarcinoma|Stage IV Pancreatic Cancer AJCC v8
+PROCEDURE: Biopsy Procedure|PROCEDURE: Biospecimen Collection|PROCEDURE: Computed Tomography|PROCEDURE: Magnetic Resonance Imaging|DRUG: Olaparib|BIOLOGICAL: Pembrolizumab
+Progression-free survival (PFS), Primary analysis of PFS will be conducted in all eligible patients according to the intent-to-treat principle using a log rank test stratified by first line chemotherapy, performance status and disease status after first line platinum-based treatment. Distributions of PFS by treatment arm will be estimated using the method of Kaplan-Meier., From date of registration to date of first documentation of progression or symptomatic deterioration (per Response Evaluation Criteria in Solid Tumors [RECIST] 1.1), or death due to any cause, assessed up to 3 years
+Incidence of adverse events, Will utilize the National Cancer Institute Common Terminology Criteria for Adverse Events version 5.0 for toxicity and serious adverse event reporting., Up to 3 years|Overall survival, Distributions of overall survival in each arm will be estimated using the method of Kaplan-Meier and compared using the stratified log-rank test., From date of registration to date of death due to any cause, assessed up to 3 years|Overall response rate (ORR) per RECIST 1.1, Measured per RECIST 1.1. ORR will be estimated in the subset of patients with measurable disease. Assuming 90% of patients (n=35 per arm) will present with measurable disease, ORR can be estimated to within 18% (95% confidence interval) and will be compared by treatment arm using logistic regression., Up to 3 years|Duration of response (DoR), Distributions of DoR in each arm will be estimated using the method of Kaplan-Meier and compared using the stratified log-rank test., Up to 3 years
+PRIMARY OBJECTIVE:
+
+I. To evaluate the progression free survival (PFS) of advanced pancreatic cancer patients with germline BRCA1 or BRCA2 mutations treated with olaparib + pembrolizumab compared to olaparib alone as maintenance therapy.
+
+SECONDARY OBJECTIVES:
+
+I. To evaluate the safety and tolerability associated with the combination of olaparib + pembrolizumab versus (vs.) olaparib alone as maintenance therapy.
+
+II. To evaluate the overall survival (OS) of patients treated with olaparib + pembrolizumab compared to olaparib alone as maintenance therapy.
+
+III. To evaluate the overall response rate (ORR) by Response Evaluation Criteria in Solid Tumors (RECIST) 1.1, including confirmed and unconfirmed, complete and partial response, of patients treated with olaparib + pembrolizumab compared to olaparib alone, in the subset of patients with measurable disease.
+
+IV. To evaluate the duration of response (DoR) by RECIST 1.1 in patients treated with olaparib + pembrolizumab compared to olaparib alone.
+
+BANKING OBJECTIVE:
+
+I. To bank tissue and blood specimens for future correlative studies.
+
+OUTLINE: Patients are randomized to 1 of 2 arms.
+
+ARM A: Patients receive olaparib orally (PO) twice daily (BID) on days 1-21 and pembrolizumab intravenously (IV) over 30 minutes on day 1 of each cycle. Treatment repeats every 21 days for up to 18 cycles in the absence of disease progression or unacceptable toxicity. Beginning in cycle 19, patients receive olaparib PO BID on days 1-42 and pembrolizumab IV over 30 minutes on day 1 of each cycle. Cycles repeat every 42 days in the absence of disease progression or unacceptable toxicity.
+
+ARM B: Patients receive olaparib PO BID on days 1-21 of each cycle. Cycles repeat every 21 days in the absence of disease progression or unacceptable toxicity.
+
+Patients undergo computed tomography (CT) scan or magnetic resonance imaging (MRI), tumor biopsy and blood sample collection throughout the study.
+
+After completion of study treatment, patients are followed for 30 days and every 6 months for 3 years from the date of randomization.

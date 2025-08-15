@@ -1,0 +1,78 @@
+Messenger RNA (mRNA)-Based, Personalized Cancer Vaccine Against Neoantigens Expressed by the Autologous Cancer
+Background:
+
+Exome sequencing can identify certain gene mutations in a person's tumor. This can then be used to create cancer treatments. In this study, researchers will make a treatment called a messenger ribonucleic acid (mRNA) vaccine. The vaccine might cause certain tumors to shrink.
+
+Objective:
+
+To see if the mRNA vaccine is safe and can cause metastatic melanoma or epithelial tumors to shrink.
+
+Eligibility:
+
+People 18-70 years old with metastatic melanoma or epithelial cancer
+
+Design:
+
+Participants will be screened under protocol 99-C-0128.
+
+Participants will provide samples under protocol 03-C-0277:
+
+Participants will provide a piece of their tumor from a previous surgery or biopsy.
+
+Participants will have leukapheresis: Blood is removed through a needle in one arm and circulated through a machine that takes out the white blood cells. The blood is then returned through a needle in the other arm.
+
+Participants will have many tests:
+
+Scans and x-rays
+
+Heart and lung function tests
+
+Blood and urine tests
+
+Participants will receive the mRNA vaccine every 2 weeks for up to 8 weeks. They will get the vaccine as an injection into the upper arm or thigh. They may receive a second course of vaccines if the study doctor determines it is needed.
+
+Participants will have follow-up visits approximately 2 weeks after their final vaccine, then 1 month later, then every 1-2 months for the first year, and then once a year for up to 5 years. Each visit may take up to 2 days and include:
+
+Physical exam
+
+Blood tests
+
+Scans
+
+Leukapheresis at the first visit
+Melanoma|Colon Cancer|Gastrointestinal Cancer|Genitourinary Cancer|Hepatocellular Cancer
+BIOLOGICAL: National Cancer Institute (NCI)-4650, a messenger ribonucleic acid (mRNA)-based, Personalized Cancer Vaccine
+Number of Participants Who Had a Clinical Response (Complete Response + Partial Response) to Treatment (Objective Tumor Regression), Clinical response was assessed by the Response Evaluation Criteria in Solid Tumors (RECIST) v1.1. Complete Response (CR) is disappearance of all target lesions. Any pathological lymph nodes (whether target or non-target) must have reduction in short axis to \< 10 mm. Partial Response (PR) is at least a 30% decrease in the sum of the diameters of target lesions, taking as reference the baseline sum of diameters. Stable Disease (SD) is neither sufficient shrinkage to qualify for PR nor sufficient increase to qualify for PD, taking as reference the smallest sum of diameters while on study. Progressive Disease (PD) is at least a 20% increase in the sum of the diameters of target lesions, taking as reference the smallest sum on study (this includes the baseline sum if that is the smallest on study). In addition to the relative increase of 20%, the sum must also demonstrate an absolute increase of at least 5 mm. The appearance of one or more new lesions is also considered progression., up to 12 months|Number of Non-Serious Adverse Events Probably Related to Treatment, Here is the number of non-serious adverse events probably related to treatment assessed by the Common Terminology Criteria for Adverse Events (CTCAE v5.0)., During treatment and up to 30 days after the first follow- up evaluation (at the second follow-up evaluation)
+Number of Participants With an Increase in the Quantity and Quality of Circulating Antigen-specific T Cells, Participants blood samples were assessed by fluorescence-activated cell sorting (FACS), enzyme-linked immune absorbent (ELISA)-spot and human soluble cluster of differentiation 137 (CD137) (4-1BB) upregulation assays. Differences of 2-3 fold in these assays over the baseline measures are indicative of true biologic difference., Approximately 2 weeks after last vaccine
+Number of Participants With Non-Serious Adverse Events Regardless of Attribution, Here is the count of participants with non-serious adverse events assessed by the Common Terminology Criteria for Adverse Events (CTCAE v5.0). A non-serious adverse event is any untoward medical occurrence., Date treatment consent signed to date off study, approximately 11 months and 4 days.|Number of Dose Limiting Toxicities (DLT), A DLT is all Grade 3 or greater toxicities related to the messenger ribonucleic acid vaccine with exception of Grade 3 fever, Grade 3 pruritic/itching, Grade 3 fatigue, Grade 3 metabolic laboratory abnormalities without significant clinical sequela that resolves to Grade 2 or less within 7 days, Grade 3 autoimmune toxicity that resolves to Grade 2 or less in 7 days and events that are clearly related to the patient's disease., Up to 21 days after the first vaccination|Maximum Tolerated Dose (MTD, A MTD is the highest dose at which ≤1 of 6 patient's experienced a dose limiting toxicity (i.e., All Grade 3 or greater toxicities related to the messenger ribonucleic acid vaccine with exception of Grade 3 fever, Grade 3 pruritic/itching, Grade 3 fatigue, Grade 3 metabolic laboratory abnormalities without significant clinical sequela that resolves to Grade 2 or less within 7 days, Grade 3 autoimmune toxicity that resolves to Grade 2 or less in 7 days and events that are clearly related to the patient's disease.) or the highest dose level studied if DLT's are not observed at any of the dose levels., Up to 21 days after the first vaccination
+Background:
+
+* Therapeutic vaccination against cancer has proven very challenging with little clinical benefit.
+* Vaccines against non-viral tumors have mainly targeted differentiation antigens, cancer testis antigens, and overexpressed antigens. However, negative selection in the thymus against these normal non-mutated antigens severely limits the ability to generate high avidity anti-cancer T-cells. Such depletion can impair their antitumor activity and limit tumor elimination.
+* The National Cancer Institute Surgery Branch (NCI-SB) has developed a pipeline for the identification of immunogenic T-cell epitopes derived from neoantigens.
+* In recent studies, we identified the neoantigens recognized by tumor-infiltrating lymphocytes (TIL) that mediated regression in patients with metastatic melanoma. Using whole exome sequencing of a resected metastatic nodule followed by high throughput immunologic screening, we were able to demonstrate that tumor regressions were associated with the recognition by the administered TIL of unique somatic mutations that occurred in the cancer.
+* We also found that TIL from 29 of 32 patients with a wide variety of metastatic gastrointestinal cancers contained lymphocytes that recognized unique mutations presented in that patient's cancer.
+* We, therefore, aim to use this pipeline to identify immunogenic neoantigens and to predict for neoantigens binding the patient human leukocyte antigen (HLA) molecules from melanoma or epithelial cancer patients and to use these epitopes for a personalized therapeutic messenger ribonucleic acid (mRNA) vaccine.
+
+Objectives
+
+Primary objectives:
+
+* Determine the clinical response rate in patients with metastatic melanoma, gastrointestinal or genitourinary cancers who receive NCI-4650
+* Determine the safety of NCI-4650 in patients with metastatic melanoma, gastrointestinal or genitourinary cancers
+
+Eligibility
+
+* Age greater than or equal to 18 years and less than or equal to 70 years
+* Evaluable metastatic melanoma, gastrointestinal, or genitourinary cancers refractory to standard of care treatment
+* Metastatic cancer lesions suitable for surgical resection to perform whole exome sequencing and preparation of TIL
+
+Design:
+
+* Patients with metastatic cancer will undergo surgical resection of tumor followed by exome and RNA sequencing to identify expressed mutations. This will be conducted under the NCI-SB cell harvest protocol 03-C-0277. (Cell Harvest and Preparation for Surgery Branch Adoptive Cell Therapy Protocols).
+* Immunogenic neoantigens will be identified from TIL by high throughput immunologic screening using long peptides and tandem minigenes covering all mutated epitopes.
+* Up to 15 predicted neoantigens will be selected based on exome and RNA sequencing and their binding affinity to the patient HLA molecules.
+* The mRNA vaccine will be manufactured and supplied as Current Good Manufacturing Practice (cGMP) product by ModernaTX, Inc.
+* The patient will be vaccinated with mRNA containing epitopes from immunogenic neoantigens, predicted neoantigens and mutations in tumor suppressor or driver genes.
+* The mRNA vaccine will be administered intramuscularly (IM) for four cycles every two weeks. A patient may receive a second course for a total of eight cycles given.
+* Blood samples will be taken every two weeks (during the vaccination period) and at each follow-up visit, and patients will be monitored for the quantity and quality of circulating neoantigen-specific T-cells.

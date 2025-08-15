@@ -1,0 +1,25 @@
+Radiomics and Molecular Expression Predictive Model for Esophago-Gastric Junction and Gastric Cancer TRG
+The aim of this study is to develop a CT scan-based radiomics predictive model about tumor regression grade (TRG) in patients with esophago-gastric junction (EGJ) ang gastric cancer undergoing perioperative chemotherapy. The molecular expression of the neoplasms will be evaluated to assess its association with the TRG and the radiomic features.
+Gastric Cancer|Adenocarcinoma of the Stomach
+DIAGNOSTIC_TEST: CT scan
+Predictive performance of radiomics analysis on the pre-treatment CT scan., Comparing the radiomic features of the CT scans at the time of diagnosis (T0) and at the end of the preoperative chemotherapy (T1) in order to predict the TRG with the texture analysis on the first CT scan., 2 months
+Association of the radiomics features with the molecular expression of the tumor., Texture analysis on the pre-chemotherapy CT scan founded that entropy and compactness were higher and uniformity lower in responders. Nonetheless the association between radiomics features and molecular expression has not been investigated yet.
+
+Therefore, we hypothesize to add some others radiomics signatures to the analysis and to find an association with the molecular expression., 2 months|Evaluation of the association between TRG and the molecular expression of the tumor., Investigate if the molecular expression of the tumor can influence the TRG, 2 months|Association between radiomics and molecular expression in regards to long-term outcomes, Analysis of the 3 and 5y DFS and OS of patients with the radiomics and molecular expression profile, 5 years
+• To compare the radiomic features of the CT scans at the time of diagnosis (T0) and at the end of the preoperative chemotherapy (T1) in order to predict the TRG with the texture analysis on the first CT scan.
+
+A non-good response (non-GR) has shown to be predictable with texture analysis on the pre-treatment CT scan.
+
+Therefore, we hypothesize that texture analysis could let to identify the good response patients.
+
+• To find correlation between the molecular expression of the tumor and the radiomics features.
+
+Texture analysis on the pre-chemotherapy CT scan founded that entropy and compactness were higher and uniformity lower in responders. Nonetheless the association between radiomics features and molecular expression has not been investigated yet.
+
+Therefore, we hypothesize to add some others radiomics signatures to the analysis and to find an association with the molecular expression.
+
+• To find correlation between the molecular expression of the tumor and the TRG.
+
+MSI gastric cancer has been shown to be less responsive to preoperative chemotherapy.
+
+Therefore, we hypothesize to confirm this result.

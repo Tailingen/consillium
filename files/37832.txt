@@ -1,0 +1,29 @@
+Testing the Use of Combination Immunotherapy Treatment (N-803 [ALT-803] Plus Pembrolizumab) Against the Usual Treatment for Advanced Non-small Cell Lung Cancer (A Lung-MAP Treatment Trial)
+This phase II/III Lung-MAP trial studies how well immunotherapy treatment with N-803 (ALT-803) and pembrolizumab working in treating patients with non-small cell lung cancer that has spread to other places in the body (advanced). Natural killer cells, part of our immune system, are always on alert and ready to defend our bodies from many kinds of infection or rogue cells, such as those that cause cancer. N-803 (ALT-803) may activate natural killer cells so that they can stimulate an immune response to help fight cancer. Immunotherapy with monoclonal antibodies, such as pembrolizumab, may help the body's immune system attack the cancer, and may interfere with the ability of tumor cells to grow and spread. Giving N-803 (ALT-803) and pembrolizumab may help shrink and stabilize lung cancer or prevent it from returning.
+Advanced Lung Non-Small Cell Carcinoma|Recurrent Lung Non-Small Cell Carcinoma|Stage III Lung Cancer AJCC v8|Stage IIIA Lung Cancer AJCC v8|Stage IIIB Lung Cancer AJCC v8|Stage IIIC Lung Cancer AJCC v8|Stage IV Lung Cancer AJCC v8|Stage IVA Lung Cancer AJCC v8|Stage IVB Lung Cancer AJCC v8
+DIETARY_SUPPLEMENT: Cobalamin|DRUG: Dexamethasone|DRUG: Docetaxel|DIETARY_SUPPLEMENT: Folic Acid|DRUG: Gemcitabine|DRUG: Nogapendekin Alfa|BIOLOGICAL: Pembrolizumab|DRUG: Pemetrexed|BIOLOGICAL: Ramucirumab
+Overall survival, Will be compared between the arms using the combination weighted/unweighted log-rank test statistic (as utilized in S1800A) with statistical significance at the 1-sided 10% level., Up to 2 years
+Investigator-assessed progression-free survival (IA-PFS), Will be compared between the arms using the combination weighted/unweighted log-rank test statistic (as utilized in S1800A) with statistical significance at the 1-sided 10% level., From date of sub-study randomization to date of first documentation of potential immune-response confirmed progression, or death due to any cause, assessed up to 2 years|Duration of response (DoR), From date of first documentation of response (complete response or partial response) to date of first documentation of progression assessed by local review or symptomatic deterioration, or death due to any cause, assessed up to 2 years
+PRIMARY OBJECTIVES:
+
+I. To compare overall survival (OS) between participants randomized to nogapendekin alfa (N-803 \[ALT-803\]) + pembrolizumab versus standard of care therapy. (Primary Resistance Cohort) II. To compare overall survival (OS) between participants randomized to N-803 (ALT-803) + pembrolizumab versus standard of care therapy. (Acquired Resistance Cohort)
+
+SECONDARY OBJECTIVES:
+
+I. To compare investigator assessed progression-free survival (IA-PFS) with confirmation of progression by immune response criteria between the treatment arms.
+
+II. To compare investigator assessed progression-free survival (IA-PFS) by Response Evaluation Criteria in Solid Tumors (RECIST) 1.1 between the treatment arms.
+
+III. To compare the response rates between the arms. IV. To evaluate duration of response (DoR) among responders. V. To evaluate the frequency and severity of toxicities within each treatment arm.
+
+TRANSLATIONAL MEDICINE OBJECTIVE:
+
+I. To establish a blood repository to pursue future studies.
+
+OUTLINE: Patients are randomized to 1 of 2 arms.
+
+ARM A: Patients receive standard of care consisting of docetaxel intravenously (IV) over 30-60 minutes on day 1; gemcitabine IV over 30 minutes on days 1 and 8; pemetrexed IV over 10 minutes on day 1; or ramucirumab IV over 30-60 minutes and docetaxel IV over 30-60 minutes on day 1. Cycles repeat every 21 days in the absence of disease progression or unacceptable toxicity.
+
+ARM B: Patients receive pembrolizumab IV over 30 minutes and nogapendekin alfa subcutaneously (SC) on day 1. Cycles repeat every 21 days for 2 years in the absence of disease progression or unacceptable toxicity. Patients then receive nogapendekin alfa SC on day 1. Cycles repeat every 21 days in the absence of disease progression or unacceptable toxicity.
+
+After completion of study treatment, patients are followed up for 2 years.

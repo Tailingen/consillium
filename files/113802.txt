@@ -1,0 +1,24 @@
+Evaluation of the Levels of Salivary Paxillin Oral Premalignant and Malignant Lesions
+This investigation was carried out to analyze and compare the salivary paxillin levels between oral premalignant and malignant lesions (OPMLs), OSCC and the healthy controls in order to assess its potential role as a biomarker of oral cancer aiming for early diagnosis and better prognosis of OSCC.
+
+Methods: Forty-five patients, ranging in age from thirty to seventy-five, were divided into three groups: fifteen patients with OPMLs (lichen planus, leukoplakia), fifteen patients with OSCC, and fifteen controls who were in general well. Paxillin was identified in saliva samples by using an ELISA kit.
+Comparison of Salivary Paxillin Levels in OPMLs and OSCC to Healthy Subjects
+DIAGNOSTIC_TEST: Paxillin biomarker
+salivary levels of paxillin, to detect the levels of salivary paxillin and compare its levels in the three study groups, once preoperatively
+The aim of this study is: comparison of salivary paxillin levels in oral premalignant lesions and OSCC to its levels in healthy subjects.
+
+Subjects and Methods Forty-five participants between the ages of 30 and 70 were accepted for this study. They were registered in the outpatient's clinic of Oral Medicine and Periodontology department in Faculty of Dentistry,Cairo university. Three sets of subjects were assigned: fifteen patients with premalignant lesions, fifteen patients with OSCC, and fifteen systemically healthy control subjects. A complete medical history was obtained for each individual using a modified Cornell Medical Index questionnaire. Upon receiving clarification regarding the scope of the inquiry, each participant completed an informed consent form.
+
+Patients with OSCC were clinically diagnosed, and biopsy specimens from the lesions were taken for histology to confirm the diagnosis.
+
+Collection of saliva samples:
+
+Unstimulated Salivary samples were collected once preoperatively before any intervention All participants were asked to refrain from drinking, eating, or chewing gum for at least 60 minutes before sampling. Samples were collected by asking the patient to swallow first, then lean the head forward for 5 minutes and spit the entire saliva into 50-ml sterile centrifuge tubes. After being assembled, all specimens were immediately stored at -20 ºC until tested.
+
+Quantitation of Human Paxillin salivary level:
+
+Saliva was collected from patients and controls. After centrifugation, the supernatant was separated for detection of Paxillin by using the ELISA technique provided by Cloud Clone Corp, Houston, USA, Catalogue Number: E-01184hu. This kit's microtiter plate has been pre-coated with a paxillin-specific antibody. The relevant microtiter plate wells are then treated with a biotin-conjugated antibody specific to paxillin. Then, Avidin conjugated to Horseradish Peroxidase (HRP) is added and incubated in each microplate well. After adding the TMB substrate solution, only the wells containing paxillin, biotin-conjugated antibody, and enzyme-conjugated Avidin will change colour. The enzyme-substrate reaction is stopped by adding a solution of sulphuric acid, and the colour change is measured spectrophotometrically at 450nm 10nm. The samples' optical density (OD) is then compared to the reference curve to determine their paxillin concentration.
+
+Statistical analysis:
+
+Categorical data were given as frequency and percentage values, and Fisher's exact test was used to assess them. Mean and standard deviation (SD) numbers were used to depict numerical data. The Shapiro-Wilk test was used to determine their normalcy. A one-way ANOVA test followed by Tukey's post hoc test was used to analyse normally distributed data (age and Paxillin (ng/mL) levels). ROC curve analysis was done to determine diagnostic accuracy. A z-test was used to compare ROC curves. The significance level was set at p\<0.05 for all tests. R statistical analysis software version 4.3.1 for Windows was used for the statistical analysis \[18\].

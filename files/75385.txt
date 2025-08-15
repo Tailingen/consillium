@@ -1,0 +1,10 @@
+Bronchoscopic Intratumoral Chemotherapy for Small Cell Lung Cancer (SCLC)
+This project proposes to use bronchoscopic intratumoral chemotherapy for small cell lung cancer in two fashions:
+
+1. to implement a prospective clinical trial to test the feasibility and efficacy of intralesional chemotherapy as consolidative therapy immediately following standard systemic chemotherapy and radiation therapy for patients with limited stage SCLC by comparing tumor growth and survival rates of the treatment group and compare the outcomes to historical controls
+2. to implement a prospective clinical trial to test the feasibility and efficacy as measured by tumor growth and survival rates of intralesional chemotherapy for patients with recurrent SCLC after standard treatment.
+Small Cell Lung Cancer
+DRUG: Cisplatin
+Solid Tumor Growth After Completion of Interventional Bronchoscopies, The Organization for Research and Treatment of Cancer Response Evaluation Criteria in Solid Tumors (RECIST) system will be used to grade the response to therapy., 18 months
+Progression-free Survival, 18 months|Overall Survival, Subjects will be followed for 5 years or the remainder of the subject's life in order to determine long-term 5 year survival rates., 5 years
+Subjects will receive standard of care treatment for SCLC with added treatment of Cisplatin injection via endobronchial ultrasound aided bronchoscopy a total of four times. Outcome measurements of tumor growth and survival will be compared to subjects receiving standard of care treatment only.

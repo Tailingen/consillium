@@ -1,0 +1,23 @@
+Futibatinib in Combination with Durvalumab Prior to Cystectomy for the Treatment of Muscle-Invasive Bladder Cancer Patients Who Are Ineligible for Cisplatin-based Therapy
+This phase II trial tests how well the combination of futibatinib and durvalumab given before cystectomy works in treating patients with muscle-invasive bladder cancer (MIBC) who are ineligible for cisplatin-based therapy. Cisplatin-based therapy is the standard of care for patients with MIBC. However, many patients cannot receive standard therapy due to poor renal function, peripheral neuropathy, poor functional status, or clinically significant heart failure. Futibatinib may stop the growth of tumor cells by blocking some of the enzymes needed for cell growth. Durvalumab is a monoclonal antibody that may interfere with the ability of tumor cells to grow and spread. Radical cystectomy is a surgery to remove all of the bladder as well as nearby tissues and organs. Giving futibatinib in combination with durvalumab before surgery may be an effective treatment option for patients with MIBC who are ineligible for cisplatin-based therapy.
+Bladder Urothelial Carcinoma|Muscle Invasive Bladder Carcinoma|Stage II Bladder Cancer AJCC V8|Stage IIIA Bladder Cancer AJCC V8
+PROCEDURE: Biospecimen Collection|PROCEDURE: Computed Tomography|BIOLOGICAL: Durvalumab|DRUG: Futibatinib|PROCEDURE: Magnetic Resonance Imaging|PROCEDURE: Radical Cystectomy
+Complete pathologic response rate, Will be defined by a percentage of participants with ypT0N0 by pathologic responses., 1 day (At the time of radical cystectomy)
+Incidence of adverse events (AEs), Will be assessed by Common Terminology Criteria for Adverse Events version 5.0 (CTCAE V 5.0). The frequency and severity of AEs and the tolerability of the regimen will be collected and summarized by descriptive statistics. The maximum grade for each type of toxicity will be recorded for each patient, and frequency tables will be reviewed to determine toxicity patterns., Up to 30 days after cystectomy/end of treatment|Pathologic down-staging rate to non-muscle invasive disease, Will be define as residual ypT0/1/a/isN0 on radical cystectomy specimens., 1 day (At the time of radical cystectomy)|Overall survival, The Kaplan-Meier method will be used for survival analysis with 95% confidence intervals., Time from the start date of treatment to death on the study from any cause, assessed up to 2 years|Progression free survival, The Kaplan-Meier method will be used for survival analysis with 95% confidence intervals., Time from the start date of treatment to the first occurrence of disease progression or death on the study from any cause, whichever occurs earlier, assessed up to 2 years|Frequency and severity of adverse events, including delay in cystectomy, Will assess the frequency and severity of AEs, including delay in cystectomy for \> 8 weeks from the end of neoadjuvant treatment due to treatment-related AEs. AEs will be evaluated per CTCAE V 5.0 criteria and will be tabulated by preferred term and system organ class for all events., Up to 60 days after cystectomy/end of treatment
+PRIMARY OBJECTIVE:
+
+I. Determine the pathologic complete response(pCR) rate of neoadjuvant combination futibatinib and durvalumab in patients with MIBC and fibroblast growth factor receptor (FGFR) overexpression.
+
+SECONDARY OBJECTIVES:
+
+I. Determine the safety of this neoadjuvant regimen. II. Assess the pathologic downstaging rate. III. Evaluate overall survival (OS) and progression free survival (PFS). IV. Evaluate delay in cystectomy.
+
+EXPLORATORY OBJECTIVES:
+
+I. Evaluate potential predictive biomarkers. II. Assess changes in the tumor microenvironment in pre- and post-treatment tumor samples in participants.
+
+OUTLINE:
+
+Patients receive futibatinib orally (PO) once daily (QD) on days 1-28 and durvalumab intravenously (IV) over 60 minutes on day 1 of each cycle. Treatment repeats every 28 days for up to 3 cycles in the absence of disease progression or unacceptable toxicity. Patients then undergo radical cystectomy within 4-12 weeks. Patients also undergo computed tomography (CT) and magnetic resonance imaging (MRI) during screening and on the trial and also undergo blood sample collection on the trial.
+
+After completion of study treatment, patients are followed up at 30 days, and then every 3 months for 2 years.

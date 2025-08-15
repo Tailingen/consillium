@@ -1,0 +1,35 @@
+CC-4047 and Dexamethasone in Treating Patients With Relapsed or Refractory Multiple Myeloma or Amyloidosis
+RATIONALE: Biological therapies, such as CC-4047, may stimulate the immune system in different ways and stop cancer cells from growing. Dexamethasone and CC-4047 may stop the growth of cancer cells by blocking blood flow to the cancer. Giving CC-4047 together with dexamethasone may kill more cancer cells.
+
+PURPOSE: This phase II trial is studying how well giving CC-4047 together with dexamethasone works in treating patients with relapsed or refractory multiple myeloma or amyloidosis.
+Multiple Myeloma and Plasma Cell Neoplasm
+DRUG: dexamethasone|DRUG: pomalidomide
+The Number of Confirmed Hematologic Responses (Complete, Partial, or Very Good Partial Response), Response that was confirmed on 2 consecutive evaluations
+
+* Complete Response(CR): Complete disappearance of M-protein from serum and urine on immunofixation, normalization of Free Light Chain (FLC) ratio and \<5% plasma cells in bone marrow.
+* Very Good Partial Response(VGPR): \>=90% reduction in serum M-component; Urine M-Component \<100mg per 24hours; \<=5% plasma cells in bone marrow.
+* Partial Response(PR): \>=50% reduction in serum M-component and/or Urine M-Component \>=90% reduction or \<200mg per 24hours; or \>=50% decrease in difference between involved and uninvolved FLC levels., Duration of study (up to 3 years)
+Progression Free Survival (PFS), PFS was defined as the time from registration to progression or death due to any cause. PFS was analyzed using Kaplan Meier method.
+
+Progression was defined as any one or more of the following:
+
+* 25% increase in serum M-component (absolute increase \>= 0.5g/dl)
+* 25% increase in urine M-component (absolute increase \>= 200mg/24hour
+* 25% increase in the difference between involved and uninvolved Free Light Chain levels (absolute increase \>= 10mg/dl)
+* 25% increase in bone marrow plasma cell percentage (absolute increase of \>=10%)
+* Definite development of new bone lesion or soft tissue plasmacytomas, Duration of study (up to 5 years)|Duration of Response, Duration of response was calculated from the documentation (date) of first response (CR, VGPR, or PR) until the date of progression or last follow-up in the subset of patients who responded. Kaplan Meier method was used to compute this outcome., Duration of study (up to 5 years)
+OBJECTIVES:
+
+* To assess the response rate and duration of remission with low-dose CC-4047 plus dexamethasone in patients with relapsed or refractory multiple myeloma or amyloidosis.
+* To assess the toxicity of CC-4047 plus dexamethasone in this patient population.
+* To assess in an expansion cohort the response rate with an increase in CC-4047 dose among patients who fail to respond adequately to the initial starting dose following the first 2 courses of treatment.
+* To assess the response rate and duration of remission with CC-4047 plus dexamethasone in patients with lenalidomide resistant or refractory multiple myeloma.
+* To assess the response rate and duration of remission with CC-4047 plus dexamethasone in patients with previously treated light chain amyloidosis.
+* To assess the response rate and duration of remission with low- and high-dose CC-4047 plus dexamethasone in patients with lenalidomide and bortezomib refractory multiple myeloma.
+* To assess the response rate and duration of remission with high-dose CC-4047 plus dexamethasone in patients with relapsed or refractory myeloma who received ≤ 3 treatment regimens.
+
+OUTLINE: Patients are grouped according to disease status (relapsed/refractory myeloma \[closed to accrual as of 8/5/2008\] vs lenalidomide resistant/refractory myeloma \[closed to accrual as of 4/2/2009\] vs previously treated light chain amyloidosis vs lenalidomide and bortezomib resistant/refractory myeloma {low-dose/day}\[closed to accrual as of 11/20/09\] vs lenalidomide and bortezomib resistant/refractory myeloma (high-dose/day) vs relapsed/refractory myeloma {high-dose/day}).
+
+Patients receive oral CC-4047 on days 1-28 and oral dexamethasone on days 1, 8, 15, and 22. Treatment repeats every 28 days in the absence of disease progression or unacceptable toxicity.
+
+After completion of study treatment, patients are followed for 4 weeks and then at 6 months.

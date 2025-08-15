@@ -1,0 +1,38 @@
+Tailoring Therapy in Post-surgical Patients With Low-risk Endometrial Cancer
+This phase II trial tests how well tailoring therapy in post-surgery works in patients with low-risk endometrial cancer. The usual approach for patients with low-risk endometrial cancer is treatment with surgery. In this study, tissue that is removed as part of the surgical procedure is analyzed in the pathology laboratory to help guide the doctor to decide whether or not additional treatment such as radiation and or chemotherapy should be recommended.
+Stage I Uterine Corpus Endometrial Stromal Sarcoma AJCC v8|Stage II Uterine Corpus Endometrial Stromal Sarcoma AJCC v8|Stage III Uterine Corpus Endometrial Stromal Sarcoma AJCC v8
+OTHER: Clinical Observation|PROCEDURE: Computed Tomography|RADIATION: External Beam Radiation Therapy|PROCEDURE: High-Dose-Rate Vaginal Brachytherapy|PROCEDURE: Magnetic Resonance Imaging|PROCEDURE: Positron Emission Tomography|OTHER: Questionnaire Administration|PROCEDURE: X-Ray Imaging
+Time to pelvic recurrence, Will include disease recurrence in the vagina, post-operative bed and pelvic lymph nodes. Histological evidence of recurrence in the vagina will be required. For pelvic nodal recurrence, the suspicious lymph node(s) should measure \>= 10 mm in short axis and be confirmed with at least 2 methods (e.g. histological and radiological; or 2 different imaging modalities such as computed tomography and fludeoxyglucose F 18 positron emission tomography or magnetic resonance imaging; or evidence of lymph node growth on 2 imaging exams at least 2 months apart). All recurrences will be reviewed by a central adjudication committee. Distant metastasis and death in absence of pelvic failure will be considered competing risk events in the analysis of this endpoint. Subjects without any of the listed events (i.e. events of interest or competing risks events) are censored at the date of the most recent follow-up examination., Time from enrollment to the time of recurrent disease within the pelvis (including the vagina), assessed up to 2 years|Time to isolated vaginal recurrence, Distant metastasis and death in absence of vaginal failure will be considered competing risk events in the analysis., Time from enrollment to the time of histologic confirmation of vaginal recurrence, assessed up to 2 years|Time to para-aortic recurrence, Distant metastasis and death in absence of para-aortic recurrence will be considered competing risk events in the analysis., Time from enrollment to the time of radiological and/or histologic confirmation of para-aortic recurrence (i.e. nodal recurrence at/above L5/S1 and below the renal hilum), whichever occurs first, assessed up to 2 years|Time to distant metastasis, Distant recurrence includes all tumour recurrences at distant sites, such as supraclavicular and/or mediastinal nodes, peritoneal carcinomatosis, malignant ascites, metastasis in liver, lung, bone, brain and/or other distant sites. Death in absence of distant metastasis will be considered a competing risk event in the analysis., Time from enrollment to the time of radiological and/or histologic confirmation of para-aortic recurrence (i.e. nodal recurrence at/above L5/S1 and below the renal hilum), whichever occurs first, assessed up to 2 years|Recurrence-free survival, Time from enrollment to the time of endometrial cancer recurrence or death, whichever occurs first, assessed up to 2 years|Endometrial cancer-specific survival, Time from enrollment to the time of death from endometrial cancer, assessed up to 2 years|Overall survival, Time from enrollment to the time of death from any cause, assessed up to 2 years|Quality of life (QOL), All patients who have completed baseline and at least 1 follow-up QOL questionnaire are evaluable for QOL., Up to 2 years|Health economics, All enrolled patients are evaluable for health economics evaluation. Those who have completed the health utility questionnaire and for whom resource utilization data are measured, will be evaluable for the economic analysis, Up to 2 years|Decisional conflict, All patients who have completed the Decisional Conflict Scale are evaluable for decisional conflict. Change in level of patient decisional conflict is defined as the change in the Decisional Conflict Scale or subscale prior to and after molecular classification., Up to 2 years|Fear of recurrence, All patients who have completed the Fear of Recurrence Inventory are evaluable for fear of recurrence., Up to 2 years|Incidence of adverse events, All patients will be evaluable for adverse event evaluation from the time of enrollment. Toxicity will be scored using the National Cancer Institute Common Terminology Criteria for Adverse Events version 5.0 and will assess risks of gastrointestinal, genitourinary, musculoskeletal and vaginal toxicity., Up to 2 years|Variability in adjuvant treatment, Treatment variation is defined as the proportion of cases enrolled where adjuvant therapy administered deviated from the recommendations., Up to 2 years
+PRIMARY OBJECTIVE:
+
+I. Estimate the rate of pelvic recurrence at 3 years in patients who are treated with a de-escalated adjuvant treatment directed by tumour molecular status.
+
+SECONDARY OBJECTIVES:
+
+I. Estimate the rate of isolated vaginal recurrence, para-aortic recurrence and distant metastasis at 3 years.
+
+II. Estimate the recurrence-free, endometrial cancer-specific and overall survival.
+
+III. Describe the impact of molecular classification on patient decisional conflict and fear of recurrence.
+
+TERTIARY OBJECTIVES:
+
+I. Evaluate health economic impact of molecular classification-tailored adjuvant therapy on the cost of treating endometrial cancer.
+
+II. Evaluate quality of life. III. Determine if variability in adjuvant treatment given to patients with endometrial cancer is decreased by molecular classification-tailored adjuvant therapy as compared to recent clinical practice data.
+
+IV. To assess if additional molecular parameters can further refine prognosis within POLE-mutated and p53wt/no specific molecular profile (NSMP) endometrial cancer (EC).
+
+OUTLINE: Patients are assigned to 1 of 2 sub-studies.
+
+SUB-STUDY A: Patients are assigned to 1 of 2 cohorts.
+
+COHORT A1: Patients with POLE-mutated early-stage EC undergo observation on study.
+
+COHORT A2: Patients with higher-risk POLE-mutated EC undergo observation or external beam radiation therapy (EBRT) and/or vaginal brachytherapy over 3-5 fractions.
+
+SUB-STUDY B: Patients with p53 wildtype/NSMP ER+ EC undergo observation or vaginal brachytherapy over 3-5 fractions.
+
+All patients undergo chest x-ray and computed tomography (CT) or magnetic resonance imaging (MRI) or positron emission tomography (PET)/CT scans during screening and as clinically indicated throughout the trial.
+
+After completion of study treatment, patients are followed up at 3 and 6 months, then every 6 months for 3 years, and then every year.

@@ -1,0 +1,29 @@
+Carboplatin With or Without Atezolizumab in Treating Patients With Stage IV Triple Negative Breast Cancer
+This randomized phase II trial studies how well carboplatin with or without atezolizumab works in treating patients with stage IV triple negative breast cancer. Drugs used in chemotherapy, such as carboplatin, work in different ways to stop the growth of tumor cells, either by killing the cells, by stopping them from dividing, or by stopping them from spreading. Monoclonal antibodies, such as atezolizumab, may interfere with the ability of tumor cells to grow and spread. Giving carboplatin with atezolizumab may work better in treating patients with stage IV triple negative breast cancer
+Triple Negative Breast Cancer|Stage IV Breast Cancer|HER2 Negative|Invasive Breast Cancer
+DRUG: Atezolizumab|DRUG: Carboplatin|OTHER: Laboratory Biomarker|OTHER: Quality-of-Life Assessment
+Progression Free Survival (PFS), The PFS is defined as the time from the first day of treatment to the first observation of disease progression (RECIST V1.1) or death of any cause. Those without events were censored at the last follow up. The median PFS time will be estimated using the Kaplan-Meier method with 95% confidence intervals., Up to 3 years.
+Overall Response Rate (ORR), Patient response to treatment was evaluated by RECIST V1.1. The ORR (CR + PR) and corresponding 95% confidence intervals (exact) were estimated among evaluable patients., Up to 3 years|Clinical Benefit Rate (CBR), Patient response to treatment was evaluated by RECIST 1.1. The CBR (CR + PR+stable disease ≥ 6 months) and corresponding 95% confidence intervals (exact) were estimated among evaluable patients., Up to 3 years|Duration of Response (DOR), DOR was defined as the time from CR or PR to progression using RECIST V1.1. The median DOR and corresponding 95% confidence intervals was estimated uisng Kaplan-Meier method., Up to 3 years|Overall Survival (OS), OS is defined as the time from first day of treatment to death. Those alive were censored at the last follow up. The median and OS time and corresponding 95% confidence intervals were estimated using Kaplan-meier method., Up to 3 years.
+Changes in Gene Expression in Tumor Tissue as Assessed by Ribonucleic Acid-sequencing (RNA-seq), Statistics will be primarily descriptive., Baseline and upon disease progression, assessed for up to 3 years|Assignment of a Triple Negative Subtype in Tumor Tissue as Assessed by Ribonucleic Acid-sequencing (RNA-seq), Statistics will be primarily descriptive., Baseline and upon disease progression, assessed for up to 3 years|Define Mutations Present in the Tumors as Assessed by Ribonucleic Acid-sequencing (RNA-seq), Statistics will be primarily descriptive., Baseline and upon disease progression, assessed for up to 3 years|Somatic Single Nucleotide Polymorphisms (SNPs) and Structural Variants in Tumor Tissue and Blood as Assessed by Whole Exome Sequencing (WES), Statistics will be primarily descriptive., Up to 3 years|Status of p53, BRCA1/2, PIK3CA, PTEN, INPP4B and Other Mutations, Statistics will be primarily descriptive., Up to 3 years.
+Primary objective:
+
+To evaluate the efficacy, as measured by progression free survival (PFS) of carboplatin + atezolizumab (using irRECIST) versus carboplatin alone (using RECIST) in patients with triple negative metastatic breast cancer
+
+Secondary objectives:
+
+* To determine overall response rate.
+* To evaluate the efficacy, as measured by clinical benefit rate, of carboplatin + atezolizumab (using irRECIST) versus carboplatin (using RECIST) alone in patients with triple negative metastatic breast cancer. Clinical benefit rate is defined as complete response plus partial response plus stable disease for 6 months.
+* To determine the duration of response for patients achieving a partial or complete response.
+* To evaluate the overall survival (OS) of carboplatin + atezolizumab versus carboplatin alone in patients with triple negative metastatic breast cancer.
+
+TERTIARY OBJECTIVES:
+
+* To perform the following correlative studies from biopsies taken at baseline:
+
+  1. Tumor infiltrating lymphocyte frequency and phenotype (TILs) at baseline
+  2. PD-L1 expression from the baseline pre-treatment tissue and at progression lesion, performed by IHC (SP142 clone)
+  3. HER2 (IHC, FISH) and ER/PR levels (IHC) from a metastatic site
+  4. Perform RNA-seq to determine non-synonymous mutation burden in expressed genes and gene expression to assign a triple negative subtype at baseline for correlations with clinic outcome
+  5. Immune phenotyping (IHC) for markers of T cell subsets and activation (CD4, CD8, FoxP3, CD25, Glut1) and exhaustion (PD1, CTLA4) and test feasibility of flow cytometric analyses to include additional markers
+* To assess the effect of BRCA mutations on response to the study drugs
+* To evaluate the effect of steroids on the efficacy of atezolizumab To assess the prognostic effects of TILs on PFS and CBR in patients receiving atezolizumab

@@ -1,0 +1,59 @@
+Anti-Mesothelin TNaive/SCM hYP218 (TNhYP218) CAR T Cells in Participants With Mesothelin-Expressing Solid Tumors Including Mesothelioma
+Background:
+
+Mesothelioma is an aggressive cancer that grows in the linings of the body; this can include the membranes that line the heart, lungs, and internal organs. Mesothelin (MSLN) is a protein that appears in high numbers in many tumors, including mesothelioma. Researchers are developing a new treatment that collects a person s own immune cells (T cells); the T cells are genetically modified to target and kill tumor cells with high levels of MSLN.
+
+Objective:
+
+To test a new treatment (TNhYP218 CAR T cells) in people with solid tumors including mesothelioma.
+
+Eligibility:
+
+People aged 18 and older with solid tumors including mesothelioma that returned or spread after standard treatment.
+
+Design:
+
+Participants will be screened. A small piece of tissue will be cut from a tumor (biopsy). The sample will be tested to see if it has enough MSLN.
+
+Participants will undergo leukapheresis: Blood will be taken from their body through a vein. The blood will pass through a machine that separates out the T cells. The remaining blood will be returned to the body through a different vein.
+
+Participant s T cells will be modified in a lab to produce TNhYP218 CAR T cells.
+
+Participants will enter the hospital. For 7 days, they will receive drugs to prepare their bodies for the study treatment.
+
+TNhYP218 CAR T cells will be administered into a vein. Participants will remain in the hospital for at least 7 more days.
+
+After discharge, participants will have follow-up visits for 5 years. These visits may include imaging scans, blood and heart tests, and a new biopsy.
+
+Long-term follow-up will continue another 10 years.
+Mesothelioma|Neoplasms|Stomach Neoplasms|Pancreatic Neoplasms|Ovarian Neoplasms|Lung Neoplasms|Thymus Neoplasms|Colonic Neoplasms
+DEVICE: mesothelin expression testing|BIOLOGICAL: TNhYP217 CAR T Cells|DRUG: fludarabine|DRUG: cyclophosphamide
+Establish the recommended phase 2 dose (RP2D) of TNhYP218 CAR T cells based on dose-limiting toxicity (DLT) of defined adverse events (AEs)., The highest dose level below the maximum administered dose at which no more than 1 of 6 participants experience DLT from the initiation of CAR-T cell infusion (day 0) through day 28 after infusion (day 28)., DLT assessment will occur in participants in the dose escalation cohort daily on days 0-4, on day 7, on day 21 and during week 4.|Determine the preliminary objective response rate of TNhYP218 CAR T cells in a limited number of participants with mesothelioma treated at the recommended phase 2 dose., The proportion of mesothelioma participants with partial response or complete response at the recommended phase 2 dose., assessed based on imaging studies at weeks 4, 8, 12 then every 12 weeks through disease progression or week 108, whichever occurs first.
+Near term safety of autologous genetically modified TNhYP218 CAR T cells in adult study participants with mesothelin expressing unresectable, metastatic, or recurrent mesothelioma and other mesothelin expressing solid tumors., The near-term safety of the study therapy will be evaluated by reporting the grade and type of toxicity at each dose level., Assessments will occur daily during lymphodepletion, on day of cell infusion (D0), D10, D21, every 2 weeks from W4 to W8, then every 4 weeks through W 24 or disease progression.|Long term safety of autologous genetically modified TNhYP218 CAR T cells in adult study participants with mesothelin expressing unresectable, metastatic, or recurrent mesothelioma and other mesothelin expressing solid tumors., The long-term safety will be assessed by the presence of RCL as well as clinical assessments., Monitored at baseline, weeks 4, 12, 24 and 48 after cell infusion and annually thereafter for up to 15 years if positive during year 1 or warranted based on clinical history collected annually during15 year follow-up.|Determine the objective response rate of TNhYP218 CAR T cells in participants with mesothelin expressing solid tumors treated at doses other than the RP2D, The proportion of participants with partial response or complete response at doses other than the recommended phase 2 dose., assessed based on imaging studies at weeks 4, 8, 12 then every 12 weeks through disease progression or week 108, whichever occurs first.|Determine progression free survival in participants with mesothelin expressing solid tumors, The duration of time from start of treatment (lymphodepletion) to time of progression or death, whichever occurs first., Assessed based on imaging studies at weeks 4, 8, 12 then every 12 weeks through disease progression or week 108, whichever occurs first.|Determine duration of response in participants with mesothelin expressing solid tumors, The duration of overall response is measured from the time measurement criteria are met for CR or PR (whichever is first recorded) until the first date that recurrent or progressive disease is objectively documented (taking as reference for progressive disease the smallest measurements recorded since the treatment started)., Assessed based on imaging studies at weeks 4, 8, 12 then every 12 weeks through disease progression or week 108, whichever occurs first.|Determine overall survival in participants with mesothelin expressing solid tumors, The duration of time from start of treatment (lymphodepletion) to time of death from any cause., Assessed from physical exams performed on D10, D21, W4, W6, W8, then every 4 weeks through W 24, and with semiannual remote assessments following active follow up through year 5.|Evaluate feasibility of manufacturing TNhYP218 CAR T cells from participants with mesothelin expressing solid tumors., The fraction of participants with cell products produced with Tna(SqrRoot) ve/scm cells, Assessed prior to cell infusion (Day 0).|Assess the tolerability of lymphodepletion followed by TNhYP218 CAR T-cell infusion in participants with mesothelin expressing solid tumors, -The fraction of participants able to receive all protocol therapy without treatment delay.-The fraction of participants able to receive cell product without interruption due to infusion related reactions., Assessed through cell infusion (Day 0)
+Background:
+
+* Mesothelin (MSLN), a cell surface glycoprotein, normally expressed on the mesothelial cells lining the pleura, peritoneum, and pericardium, is highly expressed in many cancers including mesothelioma, ovarian, lung, thymic, colorectal, pancreatic, and gastric cancers, making it an attractive target for immunotherapy.
+* Adoptive cell therapy using CAR T cells exploits the ability of these modified T cells to recognize and kill their target. Several mesothelin directed CAR T cell therapies have been evaluated in clinical trials, but thus far have not resulted in significant anti-tumor efficacy.
+* Many antibodies used to make anti-mesothelin CAR T cells bind to the immunogenic distal region of mesothelin, away from the cell membrane.
+* hYP218 CAR T cells target membrane-proximal region of mesothelin and in pre-clinical studies have shown increased tumor killing and persistence compared to CAR T cells binding to membrane distal region of mesothelin.
+* Naive/SCM T cells have stem cell like properties and have increased persistence and decreased exhaustion in tumors.
+* We hypothesize that TNaive/SCM anti-mesothelin, TNhYP218 CAR T cells will have enhanced anti-tumor activity and increased persistence in participants with mesothelioma and other mesothelin expressing cancers.
+
+Objectives:
+
+* Part 1- Dose escalation: Establish the recommended phase 2 dose (RP2D) of TNhYP218 CAR T cells based on dose-limiting toxicity (DLT) of defined adverse events (AEs).
+* Part 2- Dose expansion: Determine the preliminary efficacy of TNhYP218 CAR T cells in a limited number of participants with mesothelioma treated at the RP2D.
+
+Eligibility:
+
+* Age 18 or older
+* Must have unresectable, histologically confirmed, recurrent, locally advanced, or metastatic mesothelioma, and other mesothelin expressing solid tumors.
+* Tumor must be positive for mesothelin in more than half of the cancer cells.
+* Participants must have an ECOG performance status of 0 or 1.
+* Participants must have adequate organ function.
+
+Design:
+
+* Phase 1 dose-escalation study of TNhYP218 CAR T cells, with a small expansion cohort.
+* Participants will undergo leukapheresis for cell manufacture, followed by lymphodepletion with chemotherapeutic drugs, followed by infusion of TNhYP218 CAR T cells.
+* Participants will be followed for safety for up to 15 years per FDA requirement.

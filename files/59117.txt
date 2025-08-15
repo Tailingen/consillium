@@ -1,0 +1,36 @@
+Genetically Risk-Stratified Venetoclax, Ibrutinib, Rituximab (± Navitoclax) in Relapsed/Refractory Mantle Cell Lymphoma
+This is an open label, multi-centre, phase II study in which RR MCL patients will be genetically risk-stratified into Standard risk (no 9p21.1-24.3 loss, no SMARCA2 or SMARCA4 mut/del) and High risk (9p21.1-24.3 loss, SMARCA2 and/or SMARCA4 mut/del).
+
+Patients without the high-risk mutations will be treated with ibrutinib, rituximab and venetoclax. Patients with the high-risk mutations will be treated with ibrutinib, rituximab, venetoclax and navitoclax.
+Mantle Cell Lymphoma Refractory
+DRUG: Ibrutinib|DRUG: Venetoclax|DRUG: Navitoclax|DRUG: Rituximab
+Depth of MCL response to venetoclax and ibrutinib in combination with rituximab as determined by MRD at 16 weeks., Standard risk MCL (no 9p21.1-24.3 loss, SMARCA2 or SMARCA4 mut/del): to evaluate the depth of response to venetoclax and ibrutinib in combination with rituximab in the treatment of patients with MCL, as determined by MRD clearance rate at 16 weeks., 2.5 years
+The combination of ibrutinib and venetoclax in patients with RR MCL (50% TP53 aberrant) was explored in the AIM1 study. It demonstrated a CR rate of 71% (p\<0.001) with an estimated 15 month PFS and 18-month OS of 78% and 74% respectively. Importantly, using ASO-PCR with sensitivity of 1 in 104-105, 56% of all patients and 82% of those who had achieved CR were MRD-negative. The combination was well tolerated with generally low-grade side effects including diarrhoea (83%), fatigue (75%) and nausea or vomiting (71%). Tumour lysis occurred in 8% (n=2) of the cohort. These results led to the initiation of a global phase III registration study comparing ibrutinib vs ibrutinib-venetoclax in patients with RR MCL (ClinicalTrials number NCT03112174).
+
+The addition of anti-CD20 monoclonal antibodies (mAb) has significantly improved the outcomes in indolent and aggressive B-cell lymphomas. For instance, in Australia, the 5-year OS has improved from 53.4% in 1997 to 67.9% in 2007 largely due to incorporation of rituximab into the standard treatment regimens. In a phase II study of patients with RR MCL, the addition of rituximab to ibrutinib resulted in a considerably higher CR rate (44%) than with ibrutinib monotherapy (21%).The combination of an anti-CD20 mAb with a BTK and BCL-2 inhibitor was explored in the OSASIS study which combined obinutuzumab with ibrutinib and venetoclax in RR MCL (n=12). Venetoclax was administered at the dose range of 200-800mg.The combination resulted in high response rates and MRD-negativity in 77% of those who had achieved CR. Toxicities included haematological grade 3-4 AEs (58%), no dose limiting toxicity (DLT) and no clinically significant non-haematological Grade 3-4 AEs. However, it is unknown what the CR rate and MRD-negativity rates are in genetically defined risk groups in this small study.
+
+Despite the encouraging results of AIM1, approximately 30% of patients failed to respond to the ibrutinib and venetoclax combination or relapsed whilst on study therapy after initially achieving CR. Genomic analysis of these patients in comparison to those who had sustained responses identified 9p21.1-24.3 loss or mutations in the SWI/SNF chromatin remodelling complex (SMARCA2 and/or SMARCA4 mut/del) as mechanisms of resistance through transcriptional upregulation of BCL-xL.20 This is a BCL2 family protein not targeted by venetoclax therefore providing a selective advantage against venetoclax-based therapy.
+
+Navitoclax, a BCL2/BCL-XL/BCL-W inhibitor, was demonstrated by our in-vitro data to be able to overcome the resistance in SWI/SNF mutant cells, resensitising them to the ibrutinib-venetoclax combination.The combination of navitoclax and venetoclax has been recently explored in RR acute lymphoblastic leukaemia (ALL) and lymphoblastic lymphoma. Venetoclax was administered at 200mg on day 1 followed by 400mg daily thereafter. Navitoclax was administered at 3 dose levels (25mg, 50mg and if \>45kg also 100mg). Common non-haematological AEs included diarrhoea (47%), nausea (47%), hypokalaemia (45%) and abdominal pain (43%) while Grade 3-4 haematologic AEs included febrile neutropenia (47%), thrombocytopenia (26%) and anaemia (17%). The incidence of grade 3-4 thrombocytopenia in this study is consistent with existing data on navitoclax toxicity profile. It is caused by navitoclax-mediated inhibition of Bcl-XL leading to accelerated platelet apoptosis. Combination with venetoclax allows for lower doses of navitoclax which can mitigate the effect on platelets.
+
+Although there is no published data on the combination of navitoclax and rituximab, the safety and synergy of rituximab and navitoclax in CLL and indolent lymphoma has been reported with better response rates than in Phase I studies with either agent alone.
+
+The AIM1 study demonstrated ibrutinib and venetoclax to be a highly effective treatment strategy for patients with RR MCL. Ancillary questions that we will address include:
+
+1. Can addition of rituximab to the venetoclax and ibrutinib combination increase the depth and durability of response RR MCL?
+2. Can addition of navitoclax in high-risk RR MCL improve rates of CR?
+3. What is the safety and tolerability of these combinations?
+
+The rationale for the staggered drug introduction and dose titration:
+
+1. Ibrutinib and rituximab lead-in before venetoclax (and navitoclax in high-risk group):
+
+   * Ibrutinib lead-in is expected to sensitise the lymphoma cells to venetoclax
+   * Rituximab-induced rapid cytoreduction in order to reduce the tumour cell numbers and therefore the risk of patients harbouring MCL cells capable of adaption to the BH3-mimetics
+   * Maintaining the same dosing schedule of ibrutinib and venetoclax as AIM1 in the standard-risk cohort would allow direct comparison with AIM1
+2. Navitoclax dosing:
+
+   * Given the ability of BCL-xL to be rapidly up-regulated in response to venetoclax and ibrutinib, co-administration of navitoclax and venetoclax is crucial. Navitoclax will therefore be introduced in week 4, i.e. after 3 weeks
+   * We acknowledge that recovery of the platelet count whilst on navitoclax relies on compensatory mechanisms by the bone marrow, which may be suppressed by venetoclax, however, in order to effectively inhibit BCL-XL, we propose a target dose of 200mg with careful up-titration from an initial dose of 50mg as guided by the platelet count
+   * Furthermore, recovery of navitoclax-induced thrombocytopenia would partially depend on the bone marrow reserve. Bone marrow involvement in MCL has been reported in 5029-63%30 of cases which is significantly lower than in CLL or ALL. We therefore anticipate that the impact of navitoclax on platelet count would be better compensated in MCL than in diseases with greater degree of bone marrow infiltration. Importantly, only 2 out of 24 patients (8%) on AIM1 study had a platelet count of \<75 x 109/L at screening. Throughout the first 16 weeks, the platelet count remained \>75 x 109/L in 92% and \>50 x 109/L in 96% of patients (unpublished data)
+   * Additionally, in order to mitigate the risk of ibrutinib-related bleeding exacerbated by Grade 3-4 thrombocytopenia, ibrutinib and navitoclax will be withheld until platelet count is ≥25 x 109/L and there is no further bleeding.

@@ -1,0 +1,61 @@
+Imperial Prostate 9 - ATLAS (Approaches To Long-Term Active Surveillance)
+The goal of this intervention study is for patients on active surveillance for prostate cancer, to demonstrate that use of regular MRI scans is better able to detect cancer progression over 5 years compared to the current NICE defined strategy.
+
+Research Question P - In patients who are on active surveillance for low to medium risk prostate cancer, I - is the use of regular MRI scans C - compared to current NICE defined standard of care, O - better at detecting cancer progression with less cost to the NHS (fewer PSA tests, biopsies and clinic visits)?
+
+Patients will be allocated in a 1.1 ratio to either MRI scans or the current NICE defined standard. Randomisation will be blocked (random block size) and stratified by MRI visibility of lesions (3 categories \[ no visible lesion, diffuse changes, discrete visible lesion\]), cancer Grade Group (GG1, GG2) and time since diagnosis. This study will not be blinded to patients or physicians.
+Prostate Cancer
+DIAGNOSTIC_TEST: MRI Scans
+Biopsy, Progression in each group defined as higher risk cancer on biopsy (Grade Group \>/=3)
+
+Prostate cancer progression rates and time to progression in each randomised arm defined on,
+
+• biopsy: grade progression to Grade Group 3 or greater or detection on biopsy of intraductal cancer or lymphovascular invasion. Many of our clinicians would include patients on active surveillance with cribriform pattern on Grade Group so this is not a factor for progression., 5 Years|Staging, Progression in each group defined as higher risk cancer on higher stage (\>/=T3 or \>/=N or \>/=M1) over 5 years.
+
+Prostate cancer progression rates and time to progression in each randomised arm defined on,
+
+• staging: cancer has spread to surrounding tissues (extracapsular), lymph node involvement or distant body parts as demonstrated on cross-sectional imaging including MRI, CT, bone-scan or PET scans as deemed appropriate by the local multidisciplinary cancer team., 5 Years
+Cost-effectiveness, Cost-effectiveness of revising the prostate cancer active surveillance protocol to incorporate regular surveillance MRI within the NHS (QALYs questionnaire)., 5 Years|Biopsy Measurement, Biopsy would be recommended when there is a change on the MRI or if there is a consistent rise in PSA over 3 readings that is concerning for progression even if the MRI shows no change and other factors such as infection or prostatitis have been ruled out., 5 years|MRI & biopsy-related adverse events, Patients will be asked to self-report pain and discomfort (referred to as pain hereafter) immediately after and seven days after biopsy on a 4-point Likert-type scale as none, mild, moderate, or severe. Specific related complications such as fever, flu-like shivers, pain, haematuria, haematochezia, and haemoejaculate will be self-reported at 35 to 90 days after prostate biopsy as absent or present following biopsy on a purpose designed questionnaire. For each symptom, patients will be asked to score the degree of "problem" as none, minor, moderate, or major. This will be used to derive a binary outcome for each symptom (present/moderate/severe problem vs. absent /minor problem)., 5 Years|Treatment, Patients treatment options for progressive disease will be collected through multidisciplinary team (MDT) outcomes in the clinical records and clinic letters or entries by clinicians in the health records. Such options depending on cancer risk include; active surveillance, focal therapy, radical surgery or radiotherapy (with some men started on androgen deprivation therapy)., 5 Years|Compliance, Compliance measured as proportion having each test (PSA, rectal exam, MRI) at each allocated timepoint and proportion agreeing to a biopsy when clinically recommended, 5 Years|EPIC Questionnaires, Annual changes in patient reported outcome measure (PROMS) using validated questionnaires, compared to baseline, to measure impact on urinary, erectile and bowel function (EPIC)., 5 years|HADS Questionnaires, Annual changes in patient reported outcome measure (PROMS) using validated questionnaires, compared to baseline, to measure impact on cancer-related anxiety (HADS), 5 Years|EQ-5D-5L Questionnaires, Annual changes in patient reported outcome measure (PROMS) using validated questionnaires, compared to baseline, to measure impact on overall health-related quality of life (EQ-5D-5L), 5 years
+What is the problem being addressed?
+
+Of 50,000 newly diagnosed patients with prostate cancer every year, about 7,600 choose active surveillance rather than immediate surgery or radiotherapy. Most have low risk whilst 20-30% have medium risk prostate cancer. This is because low and medium risk prostate cancers grow slowly. As a result, immediate treatment does not improve cancer-specific survival over 10 years but can cause high rates of urinary, sexual and bowel side-effects.
+
+Although these cancers are slow growing, 25-34% will progress to higher risk over 5 years and need treatment later. Whilst there is no evidence that delayed detection of progression has an impact on survival, a recent systematic review has shown detrimental effects on other aspects of cancer control. For instance, in the largest RCT comparing active surveillance to immediate surgery or radiotherapy, 2-3 times as many patients had disease progression and cancer spread to other parts of the body in the active surveillance arm. So, active surveillance needs to be improved. NICE currently advise that active surveillance should involve 3-6 monthly prostate specific antigen (PSA) blood tests and rectal examinations. They advise an MRI and biopsy at 12 months. After one year, 3-6 monthly PSA and rectal examinations are recommended and further biopsy if the PSA starts to rise or if the rectal exam detects a prostate nodule.
+
+This is problematic for 3 reasons:
+
+First, PSA and rectal examination changes are inaccurate in detecting progression. As a result, some centres do regular biopsies every 1-2 years; this is borne out by a 48 physician survey (Jan 2022). However, biopsies alone are also inaccurate as they are ultrasound-guided; the operator can see the prostate but not areas suspicious for cancer progression.
+
+Second, biopsies have side-effects such as infection, bleeding and pain; when these occur, patients are less likely to agree to further biopsies. Biopsies cost £488 and lead to significant NHS resource use. Regular and repeat biopsies can also cause prostate scarring making surgery more difficult if it is needed later.
+
+Third, 10-43% of patients often decide to have treatment even if the cancer has not progressed. This is because of anxiety about living with cancer, or because of the biopsy and burden of tests. Some studies have shown other psychological impacts such as sub-clinical depression, illness uncertainty and hopelessness.
+
+The Investigators propose using regular MRI scans in active surveillance to detect progression. The team led the pivotal UK studies which changed recommendations for MRI in diagnosing prostate cancer. Subsequently, The Investigators and others have shown that regular prostate MRI scans with targeted biopsies to areas of suspicion are accurate in ruling-out and detecting progression. To change NHS practice, an RCT is needed to compare regular MRI scans to current NICE defined standard of care in patients who choose active surveillance following an MRI-directed biopsy at time of diagnosis.
+
+The studies proposal was positively reviewed by the NCRI Prostate Proposal Guidance panel (7/2/2022).
+
+Why is this research important?
+
+1. The regular use of MRI in active surveillance will lead to greater confidence in active surveillance for patients with low and medium risk prostate cancer. This is because such a strategy is likely to detect cancer progression earlier with fewer invasive biopsies. In previous studies, 1 of 672 patients chose treatment during surveillance due to anxiety.
+2. An additional \~2000 patients with medium risk cancer could be managed with active surveillance in future.
+3. Fewer NHS resources for clinic follow-ups, PSA tests and biopsies.
+
+Of 5 research priorities that NICE have identified for prostate cancer, two relate to improving active surveillance. Similarly, the James Lind Alliance has 3 research priorities to improve active surveillance.
+
+Research Question P - In patients who are on active surveillance for low to medium risk prostate cancer, I - is the use of regular MRI scans C - compared to current NICE defined standard of care, O - better at detecting cancer progression with less cost to the NHS (fewer PSA tests, biopsies and clinic visits)?
+
+b) Aims and Objectives
+
+Primary Objective
+
+In patients on active surveillance for prostate cancer, to demonstrate that use of regular MRI scans is better able to detect cancer progression over 5 years compared to the current NICE defined strategy.
+
+Difference between current and planned care pathways
+
+Current (NICE defined active surveillance):
+
+PSA 3 monthly in year 1 and then 6 monthly with rectal exam annually. MRI will be carried out at 12 months (if not had one at diagnosis). A biopsy will be required if indicated due to changes in rectal exam or PSA.
+
+Planned (Regular MRI based active surveillance):
+
+Patients with a visible lesion or medium risk cancer will have PSA 6 monthly and MRI annually. All other patients will undergo PSA 6 monthly and MRI in years 1, 3 and 5. In all patients, a targeted biopsy will be carried out if the MRI PRECISE score is \>/=4.

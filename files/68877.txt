@@ -1,0 +1,21 @@
+Stockholm3 Use Prior to MRI for Prostate Cancer Detection in a Clinical Care Pathway: a Multi-centered Validation
+Men meeting local clinical standard of care to undergo a prostate MRI for suspicion of prostate cancer will be included. Blood sample will be drawn on the day of MRI or immediately prior to MRI for measurement of the prostate cancer biomarker Stockholm3. Specifically, the Stockholm3 test will be performed in a retrospective manner and no clinical decisions will be made based on the results. The patients will not receive the results of the Stockholm3 assay. A Stockholm3 score will be reported for each patient.
+
+The primary aim is to show superior specificity of Stockholm3 (at different thresholds) for MRI selection compared to PSA (at different thresholds) (I.e., the proportion of men with a negative Stockholm3 test or a negative PSA test among those with a normal MRI).
+
+Additional aims:
+
+1. To show non-inferior relative sensitivity in detection of csPC of Stockholm3 compared to PSA (The proportion of men with a positive Stockholm3 test (at different thresholds) or a positive PSA test (at different thresholds) among those diagnosed with csPC will be calculated).
+2. To evaluate Stockholm3 risk thresholds to determine if it can be used to further reduce MRI, biopsy and Gleason grade group 1 cancers without reducing sensitivity of csPC detection.
+Prostate Cancer
+DIAGNOSTIC_TEST: Stockholm3
+Abnormal MRI, PIRADS ≥3, From enrollment up to 24 weeks
+Clinically significant prostate cancer, Grade group ≥2 prostate cancer, From enrollment up to 24 weeks
+Men meeting local clinical standard of care to undergo a prostate MRI for suspicion of prostate cancer will be included. Blood sample will be drawn on the day of MRI or immediately prior to MRI for measurement of the prostate cancer biomarker Stockholm3. Specifically, the Stockholm3 test will be performed in a retrospective manner and no clinical decisions will be made based on the results. The patients will not receive the results of the Stockholm3 assay. A Stockholm3 score will be reported for each patient.
+
+The primary aim is to show superior specificity of Stockholm3 (at different thresholds) for MRI selection compared to PSA (at different thresholds) (I.e., the proportion of men with a negative Stockholm3 test or a negative PSA test among those with a normal MRI).
+
+Additional aims:
+
+1. To show non-inferior relative sensitivity in detection of csPC of Stockholm3 compared to PSA (The proportion of men with a positive Stockholm3 test (at different thresholds) or a positive PSA test (at different thresholds) among those diagnosed with csPC will be calculated).
+2. To evaluate Stockholm3 risk thresholds to determine if it can be used to further reduce MRI, biopsy and Gleason grade group 1 cancers without reducing sensitivity of csPC detection.

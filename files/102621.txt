@@ -1,0 +1,36 @@
+Ziv-Aflibercept in Treating and Computed Tomography Perfusion Imaging in Predicting Response in Patients With Pancreatic Neuroendocrine Tumors That Are Metastatic or Cannot Be Removed by Surgery
+This phase II trial studies ziv-aflibercept in treating and perfusion computed tomography perfusion imaging in predicting response in patients with pancreatic neuroendocrine tumors that have spread to other parts of the body or cannot be removed by surgery. Ziv-aflibercept may stop the growth of tumor cells by blocking blood flow to the tumor. Diagnostic procedures, such as computed tomography perfusion, imaging may help measure a patient's response to ziv-aflibercept treatment.
+Multiple Endocrine Neoplasia Type 1|Pancreatic Neuroendocrine Carcinoma
+RADIATION: Computed Tomography Perfusion Imaging|OTHER: Laboratory Biomarker Analysis|BIOLOGICAL: Ziv-Aflibercept
+Objective Response Rate According to Response Evaluation Criteria in Solid Tumors (RECIST) 1.1, 90% exact confidence interval was constructed for the overall group. Per Response EvaluationCriteria In SolidTumors Criteria (RECIST v1.1) for target lesions and assessed by CT or MRI: Complete Response (CR), Disappearance of all target lesions; Partial Response (PR), \>=30% decrease in the sum of the longest diameter of target lesions; Overall Response (OR)=CR+PR,, Through study completion an average of 19 months
+Progression Free Survival (PFS), Calculated for all eligible participants using the Kaplan Meier method and reported with confidence interval., Through study completion an average of 19 months|Baseline Blood Volume (BV), The relationship between response rate and baseline BV will be evaluated. In addition to hypothesis testing using externally generated cut-points, refinement of optimal cut points in baseline BV separating responders and non-responders will be performed. Receiver operating characteristic (ROC) curves will be generated. Response rates of perfusion computed tomography (pCT) subgroups defined by these cut-points will be compared using chi-square test. Response profiles of pCT subgroups defined by these cut-points will be compared using non-parametric test (Wilcoxon rank sum test)., Baseline|Baseline Permeability Surface (PS), The relationship between response rate and baseline PS will be evaluated. In addition to hypothesis testing using externally generated cut-points, refinement of optimal cut points in baseline PS separating responders and non-responders will be performed. ROC curves will be generated. Response rates of pCT subgroups defined by these cut-points will be compared using chi-square test. Response profiles of pCT subgroups defined by these cut-points will be compared using non-parametric test (Wilcoxon rank sum test)., Baseline
+Change in BV, Median will be used as cut point for correlation of post-treatment changes in BV expressed as relative change from baseline with response. Response rates will be compared using chi-square test or Fisher's exact test whenever appropriate. Response profiles will be compared using non-parametric test (Wilcoxon rank sum test)., Baseline to 4 weeks after treatment|Post-treatment Tumor Blood Flow (BF), Median will be used as cut point for correlation of post-treatment tumor BF (absolute measurement) with response. Response rates will be compared using chi-square test or Fisher's exact test whenever appropriate. Response rates will be compared using chi-square test or Fisher's exact test whenever appropriate., 4 weeks after treatment|Post-treatment Change in BF, Continuous parameters in relative change in pCT parameters will be plotted against best relative change in sum of tumor diameters from RECIST 1.1 tumor measurements. Pearson correlation will be used to test statistical significance. Non-parametric test will be used if appropriate., Baseline to 4 weeks after treatment|Post-treatment Change in BV, Continuous parameters in relative change in pCT parameters will be plotted against best relative change in sum of tumor diameters from RECIST 1.1 tumor measurements. Pearson correlation will be used to test statistical significance. Non-parametric test will be used if appropriate., Baseline to 4 weeks after treatment|Change in Participants Parameters, The effect of ziv-aflibercept therapy on post-treatment BF, BV, mean transit time, and PS will be determined. Descriptive statistics of pre and post treatment values will be given. Distribution of pre and post treatment values will be graphed. Treatment induced change in values will be compared using paired-t test. Non-parametric test will be used if appropriate., Baseline to 4 weeks after treatment|Tumor Perfusion Parameters at Time of Progression, Up to 1 year
+PRIMARY OBJECTIVES:
+
+I. Estimate the objective response rate (RR) of ziv-aflibercept among patients with advanced pancreatic neuroendocrine tumors (NET)s according to Response Evaluation Criteria in Solid Tumors (RECIST) 1.1.
+
+II. Test the following hypotheses: that baseline perfusion computed tomography (CT) parameters can predict which patients with advanced pancreatic neuroendocrine tumors (pNETs) will respond to treatment with ziv-aflibercept.
+
+SECONDARY OBJECTIVES:
+
+I. Estimate progression free survival (PFS) duration among patients treated with ziv-aflibercept.
+
+II. Evaluate the relationship between response rate and baseline blood volume (BV) and between response rate and baseline permeability surface (PS).
+
+TERTIARY OBJECTIVES:
+
+I. Determine whether post-treatment changes in BV expressed as relative change from baseline correlate with response to ziv-aflibercept.
+
+II. Determine whether post-treatment tumor blood flow (BF) (absolute measurement) correlates with response to ziv-aflibercept.
+
+III. Determine whether post-treatment changes in BF and, BV, expressed as relative change from baseline, correlate with relative change in sum of tumor diameters (RECIST 1.1 measurements).
+
+IV. Determine the effect of ziv-aflibercept therapy on post-treatment blood flow (BF), BV, mean transit time (MTT), and PS at 4 weeks after treatment.
+
+V. Evaluate the changes in tumor perfusion parameters at time of progression.
+
+OUTLINE:
+
+Patients receive ziv-aflibercept intravenously (IV) over 60-120 minutes on day 1. Courses repeat every 21 days in the absence of disease progression or unacceptable toxicity. Patients undergo computed tomography perfusion imaging at baseline, day 21 of course 1, and at time of progression.
+
+After completion of study treatment, patients are followed up periodically.

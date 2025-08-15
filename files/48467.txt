@@ -1,0 +1,27 @@
+Sirolimus and Azacitidine in Treating Patients With High Risk Myelodysplastic Syndrome or Acute Myeloid Leukemia That is Recurrent or Not Eligible for Intensive Chemotherapy
+This phase II trial studies how well sirolimus and azacitidine works in treating patients with high-risk myelodysplastic syndrome or recurrent acute myeloid leukemia. Sirolimus may stop the growth of cancer cells by blocking some of the enzymes needed for cell growth. Drugs used in chemotherapy, such as azacitidine, work in different ways to stop the growth of cancer cells, either by killing the cells or by stopping them from dividing. Sirolimus and azacitidine may kill more cancer cells.
+Adult Acute Myeloid Leukemia With 11q23 (MLL) Abnormalities|Adult Acute Myeloid Leukemia With Del(5q)|Adult Acute Myeloid Leukemia With Inv(16)(p13;q22)|Adult Acute Myeloid Leukemia With t(15;17)(q22;q12)|Adult Acute Myeloid Leukemia With t(16;16)(p13;q22)|Adult Acute Myeloid Leukemia With t(8;21)(q22;q22)|de Novo Myelodysplastic Syndromes|Myelodysplastic Syndrome With Isolated Del(5q)|Previously Treated Myelodysplastic Syndromes|Recurrent Adult Acute Myeloid Leukemia
+DRUG: Sirolimus|DRUG: Azacitidine
+Rate of response, MDS: Patients meeting an erythroid response, a platelet response, or a neutrophil response will be considered responders.
+
+AML: Patients achieving a complete remission (CR), complete response in the absence of a total platelet recovery (CRp), or partial remission (PR) will be considered responders., Up to 5 years
+Toxicity referring to toxic events during the full course of treatment that are attributed as possibly, probably or definitely due to treatment, graded according to the National Institutes of Health (NIH) Common Toxicity Criteria (CTC) v. 4.0, The combination of these drugs will be deemed safe if the number of adverse events is no more that 10% greater than the additive number of events of azacitidine and sirolimus if administrated separately. This will be based upon data in the original phase 2 trials of azacitidine demonstrating an 8% toxic death rate and therefore be 18% of the total number enrolled (approx. 40 x18% = 7)., Up to 30 days after completion of study treatment|Pharmacokinetic assessment to assess levels of the drug in vivo, Day 4 levels will be drawn prior to initiation of azacitidine to allow for a PK/PD correlation study, Day 4 of course 1|Inhibition of mTOR signaling by sirolimus measured by intracellular flow cytometry for phosphorylation of the downstream signaling target S6 ribosomal protein as a surrogate for mTOR activity, Distributional characteristics are examined by: histograms, box plots and descriptive statistics (e.g., mean, median, standard deviation, range). Variability will be of particular interest. We will conduct within-patient comparison of baseline versus posts-treatment percentages by Student's paired t test. A nonparametric Wilcoxon signed ranks test will be employed if normality cannot be assumed or achieved by simple transformation., Up to day 4 before azacitidine administration|Quality of life (QOL) assessed by the European Organization for Research and Treatment of Cancer (EORTC) QOL and the Mental Health Inventory (MHI), Up to day 164
+PRIMARY OBJECTIVE:
+
+I. To characterize the rate of response to azacitidine and sirolimus in adults with high-risk myelodysplastic syndrome (MDS), or relapsed or refractory acute myeloid leukemia (AML) or those unable or unwilling to tolerate high dose chemotherapy.
+
+SECONDARY OBJECTIVES:
+
+I. To determine the pharmacodynamic effect of sirolimus on inhibition of mammalian target of rapamycin (mTOR) signaling in adults with high-risk MDS, or relapsed or refractory AML or those unable or unwilling to tolerate high dose chemotherapy.
+
+II. To determine the safety and tolerability of sirolimus and azacitidine in adults with high-risk MDS, or relapsed or refractory AML or those unable or unwilling to tolerate high dose chemotherapy.
+
+III. To determine the progression free survival and overall survival in adults with high-risk MDS, or relapsed or refractory AML or those unable or unwilling to tolerate high dose chemotherapy.
+
+IV. To determine if the quality of life of patients is improved with the combination of azacitidine and sirolimus when compared to historical controls of azacitidine alone.
+
+OUTLINE:
+
+Patients receive sirolimus orally (PO) on days 1-10 or 1-12 and azacitidine intravenously (IV) on days 4-8, 11, and 12 or days 4-10. Treatment repeats every 28 days in the absence of disease progression or unacceptable toxicity.
+
+After completion of study treatment, patients are followed up every 3 months.

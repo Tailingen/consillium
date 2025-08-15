@@ -1,0 +1,19 @@
+Cell-free DNA Methylation for Endometrial Cancer
+Liquid biopsy is challenging for the diagnosis of endometrial cancer. In this study, investigators perform the methylation testing of host DNA, namely, BHLHE22, CELF4, HAND2, and ZNF177, in the peripheral serum to discover the diagnostic and supervision roles of DNA methylation in endometrial cancer. The study compromises two stages.
+
+In the training set, DNA methylation testing is performed in the endometrial tissues from patients with endometrial cancer and paired benign uterine lesions. The cut-off values of methylation are produced in this stage. On the meantime, DNA methylation testing is also performed in serum and in cervical cytology to reveal its accordance and accuracy compared with the results of endometrial tissues.
+
+In the validation set, serum DNA methylation testing is performed in unselected patients with definite endometrial histology to validate its accuracy.
+
+In training and validation sets, serum DNA methylation is also performed after major surgeries for endometrial cancer as to illustrate the changes of methylation testing, therefore, reflection the supervision role of DNA methylation.
+Endometrial Cancer|Liquid Biopsy|DNA Methylation|Cervical Cytology|Diagnostic Accuracy|Training Set|Validation Set
+DIAGNOSTIC_TEST: DNA methylation testing
+Cut-off values of targeted DNA methylation in endometrial cancer, The cut-off values are achieved by paired endometrial cancer and benign uterine tumor patients, Two years
+Accuracy of serum DNA methylation in endometrial cancer, The accuracy is supported by sensitivity, specificity, negative predictive value and positive predictive value, Two years
+Liquid biopsy is challenging for the diagnosis of endometrial cancer. In this study, investigators perform the methylation testing of host DNA, namely, BHLHE22, CELF4, HAND2, and ZNF177, in the peripheral serum to discover the diagnostic and supervision roles of DNA methylation in endometrial cancer. The study compromises two stages.
+
+In the training set, DNA methylation testing is performed in the endometrial tissues from patients with endometrial cancer and paired benign uterine lesions. The cut-off values of methylation are produced in this stage. On the meantime, DNA methylation testing is also performed in serum and in cervical cytology to reveal its accordance and accuracy compared with the results of endometrial tissues.
+
+In the validation set, serum DNA methylation testing is performed in unselected patients with definite endometrial histology to validate its accuracy.
+
+In training and validation sets, serum DNA methylation is also performed after major surgeries for endometrial cancer as to illustrate the changes of methylation testing, therefore, reflection the supervision role of DNA methylation.

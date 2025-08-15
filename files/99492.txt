@@ -1,0 +1,8 @@
+Falcon Real World Evidence Registry
+This is a multi-site registry of patients receiving the Exact Sciences Multicancer Early Detection (MCED) test.
+Cancer
+DEVICE: Exact Sciences Multicancer Early Detection (MCED) Test
+Vital status, Particpant is alive or deceased, Up to 5 years|Cancer status, Presence or absence of cancer, Up to 5 years
+This study was designed to simulate a real-world application of Exact Science's Multicancer Early Detection (MCED) test. Participants will be offered the Exact Science's MCED test annually for 3 years. If at any point during those 3 years a participant is diagnosed with cancer, they will become ineligible for further testing. Data will be collected for 5 years following the baseline test.
+
+There will be two data collection approaches as part of this study. The first will be collection of self-report data related to the testing experience. The second will be periodic and largely automated extraction of pre-specified data elements from existing electronic data sources. A comparison data set will be constructed from records of individuals who did not receive the MCED test.

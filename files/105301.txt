@@ -1,0 +1,11 @@
+Response Prediction for Anti-angiogenic Treatment in Recurrent Glioblastoma
+This study aims to evaluate whether pre-treatment MRI can be used to predict treatment response for anti-angiogenic treatment in glioblastomas.
+Adult Glioblastoma|Magnetic Resonance Imaging|Bevacizimab
+DIAGNOSTIC_TEST: 3-Tesla conventional magnetic resonance imaging|DIAGNOSTIC_TEST: Advanced imaging without contrast use|DIAGNOSTIC_TEST: Dynamic susceptibility contrast-weighted imaging
+Progression free survival, Time from anti-angiogenic treatment until death or the first imaging report indicating worsening/progression., Average 9 months
+6-month progression, Pathologic confirmation following second look surgery or clinico-radiological assessment at 6-month, 6 month|Overall survival, Time from anti-angiogenic treatment to death, Average 12 months
+Although overall the effects on prolonging survival in bevacizumab-treated patients is modest at best, it is still unclear whether there is not a more substantial positive effect in a subset of patients, potentially identifiable by imaging markers. Allowing for prediction of good or bad responder from anti-angiogenic therapy prior to treatment completion is important to select patients most likely to benefit from anti-angiogenic treatment.
+
+This is a prospective observational study and no active comparator will be used. Study participants include adult patients with recurrent glioblastoma.
+
+We hypothesized that quantifying changes in multi-modal advanced MR imaging techniques would allow early treatment response and long-term prediction in glioblastomas.

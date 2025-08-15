@@ -1,0 +1,22 @@
+huCART-meso + VCN-01 in Pancreatic and Ovarian Cancer
+This is a Phase I study evaluating the safety and feasibility of lentiviral transduced huCART-meso cells when given in combination with VCN-01 in a 3+3 dose (de)escalation design.
+Pancreatic Cancer|Serous Ovarian Cancer
+BIOLOGICAL: VCN-01|BIOLOGICAL: huCART-meso Cells
+Type, frequency, severity, and attribution of AEs/SAEs as assessed by CTCAE v 5.0, 2 years|Occurrence of dose-limiting toxicities., 2 years
+Proportion of subjects enrolled who receive one or both of the intended study infusions, 2 years|Overall Response Rate (ORR), 15 years|Best Overall Response (BOR), 15 years|Duration of Response (DOR), 15 years|Progression Free Survival (PFS), 15 years|Overall Survival (OS), 15 years
+This is a Phase I study evaluating the safety and feasibility of lentiviral transduced huCART-meso cells when given in combination with VCN-01 in a 3+3 dose (de)escalation design as follows:
+
+* Cohort 1 (N = 3-6): will receive VCN-01 as a single IV infusion of 3.3x1012 vp on Day 0, followed by a single dose of 5x107 huCART-meso cells on Day 14 via IV infusion. This cohort will be evaluated as follows:
+
+  * If 1 DLT/3 subjects occurs, Cohort 1 will be expanded to enroll an additional 3 evaluable subjects.
+  * If 0 DLT/3 subjects or 1 DLT/6 subjects, the study will advance to Cohort 2.
+* Cohort 2 (N = 3-6): will receive VCN-01 as a single IV infusion of 1x1013 vp on Day 0 followed by a single dose of 5x107 cells huCART-meso cells on Day 14 via IV infusion. This cohort will be evaluated as follows:
+
+  * If 0 DLT/3 subjects or 1 DLT/3 subjects occurs, Cohort 2 will be expanded to enroll an additional 3 evaluable subjects. If 0 DLT/6 subjects or 1 DLT/6 subjects occurs, this dose combination will be identified as the recommended phase 2 dose (RP2D).
+  * If 2 DLTs occur at any time, enrollment in this Cohort will be stopped. If less than 6 subjects were infused in Cohort 1 prior to Cohort 2 escalation, additional subjects will be enrolled in Cohort 1to reach a minimum of 6 evaluable subjects.
+
+In the event that 2 DLTs occur in Cohort 1, then enrollment in Cohort 1 will be stopped and Cohort -1 will be opened for evaluation. Cohort -1 will evaluate a different sequence of administration for these two investigational products at the same dose level used in Cohort 1.
+
+• Cohort -1 (N = up to 6): will receive a single dose of 5x107 huCART-meso cells via IV infusions on Day 0 followed by VCN-01 as a single infusion of 3.3x1012 vp on Day 10. Up to 6 subjects will be infused in Cohort -1 unless \> 1 DLTs are observed at any time.
+
+The Day 0 infusions of the first two subjects in each cohort will be staggered by at least 42 days from the prior subject's 1st infusion (huCART-meso or VCN-01; depending on the cohort assignment), to allow for the assessment of DLTs and a formal decision regarding cohort progression, expansion, or de-escalation. Subsequent subject infusions within that cohort will be staggered by at least 14 days from the preceding subject's second infusion. Formal DLT assessments will be performed by the Clinical PI and Sponsor Medical Director in accordance with the definition provided in the protocol.

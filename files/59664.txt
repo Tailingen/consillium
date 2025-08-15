@@ -1,0 +1,23 @@
+Validation of Salivary Proteomic Biomarkers for Early Detection of Oral Cancer in Egyptian Population
+The present investigation was conducted on 100 individuals allocated into four groups; 25 healthy controls, 25 patients having OPMDs with dysplasia; 25 patients having OPMDs without dysplasia, and 25 oral cancer patients. Demographic data including data related to different risk factors, modified gingival index, oral hygiene level, in addition to salivary levels of IL-6, IL-8 and sCD44 were assessed.
+Oral Cancer
+DIAGNOSTIC_TEST: histologic evaluation|DIAGNOSTIC_TEST: biochemical analysis|DIAGNOSTIC_TEST: clinical examination
+Quantities of IL-6 and IL-8, assessed in all samples using an ELISA kit (Orgenium laboratories, Business Unit, Finland). The test principles apply a sandwich-type ELISA where a polyclonal anti-antibody, adsorbed onto microwells, binds IL-6 and IL-8 in the samples, Results were expressed in pg/ml, baseline|Levels of sCD44, measured using an ELISA assay (Bender MedSystems, Vienna, Austria) that identifies all normal and variant isoforms. Saliva samples were centrifuged at 2000 Xg and the supernatants were separated and stored at -80 ̊C till processing, which was done according to manufacturer's instructions. Results were expressed in ng/ml., Baselone
+MGI (modified gingival index), Modified gingival index (MGI) evaluates the presence and degree of gingival inflammation. A score of 0 means absence of inflammation. 1 indicates mild inflammation (slight redness) of any part of the gingiva. 2- mild inflammation of the whole gingiva. 3- moderate inflammation (moderate redness, edema, and/or hypertrophy) of the gingiva. 4-severe inflammation (marked redness and spontaneous bleeding) of the gingiva., baseline
+Histopathologic evaluation:
+
+Biopsy samples were obtained from all lesions to verify the diagnosis and establish the presence of dysplasia in the potentially premalignant lesions before allocating patients to their specific groups.
+
+History and clinical assessment:
+
+Demographic data as age and gender, medical history and habits as smoking and alcohol were obtained during patient interview. Modified gingival index (MGI), level of oral hygiene (OH) and the number of remaining natural teeth were also assessed. Subjects not willing to sign a written informed consent, pregnant females, lactating mothers, and patients with immunosuppressive disorders were excluded.
+
+Modified gingival index (MGI) evaluates the presence and degree of gingival inflammation. A score of 0 means absence of inflammation. 1 indicates mild inflammation (slight redness) of any part of the gingiva. 2- mild inflammation of the whole gingiva. 3- moderate inflammation (moderate redness, edema, and/or hypertrophy) of the gingiva. 4-severe inflammation (marked redness and spontaneous bleeding) of the gingiva. Level of OH care was evaluated corresponding to the OH habits of the patient and efficiency of plaque removal. OH, level is scored as: 1- very good, 2- good, 3- fair, and 4- poor OH.
+
+Collection of 1.0-2.0 mL of whole unstimulated saliva was obtained between nine and twelve in the morning, to evade diurnal alteration. Participants refrained from eating, smoking, brushing, and mouthwash use, 2 hours before to salivary sampling, which were stored at -70 ◦C till analyzed.
+
+Quantification of salivary IL-6, IL-8, and sCD44 in all samples using an ELISA kit
+
+List of abbreviations:
+
+OSCC: Oral squamous cell carcinoma OPMDs: Oral potentially malignant disorders HNSCC: Head and neck squamous cell carcinoma MGI: Modified gingival index. OH: Level of oral hygiene ROC: Receiver operating characteristic

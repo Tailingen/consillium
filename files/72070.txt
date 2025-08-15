@@ -1,0 +1,103 @@
+Phase II Open-label Trial of Neoadjuvant Immunochemotherapy for Resectable Non-metastatic Colon cancER: NICER
+This is a Phase II open-label trial of neoadjuvant immunochemotherapy with Atezolizumab and CAPOX followed by surgery and potentially adjuvant chemotherapy for patients with localized resectable pMMR adenocarcinoma of the colon with a target accrual of 28 patients. The investigators will explore if appropriately timed neoadjuvant CAPOX with anti-PD-L1 mAb (Atezolizumab) can be administered safely and feasibly, and that this combination will lead to improved clinical response associated with enhanced numbers of immune cells in surgically resected colon tumors. Patients will receive 4 cycles of atezolizumab in combination with 4 cycles of CAPOX (atezolizumab will be administered prior to chemotherapy) before standard of care surgical resection. Following surgery, patients still considered to be at high-risk of recurrence (per SOC guidelines) will receive further adjuvant chemotherapy (mFOLFOX6 or CAPOX), based on the discretion of the treating oncologist/investigator. Circulating tumor DNA (ctDNA) dynamic change status will be analyzed through collection of blood samples throughout different stages of the patient's neoadjuvant treatment regimen (baseline, pre-neoadjuvant therapy, mid-neoadjuvant, post-neoadjuvant therapy, and during postoperative period) as a marker of early read on efficacy.
+
+The end of the study for each patient enrolled will be at the 6 month postoperative visit.
+
+On Study Protocol: Patients will be followed up for an efficacy follow-up phase during the first 6 months after surgery (week 2 \& months 3, 6 visits). All assessments beyond the 6 month visit will be performed under standard of care surveillance office visits.
+
+Off Study Protocol: Thereafter they will enter a survival follow-up phase per standard of care protocols. Patients will be seen every 6 months starting at month 12 until month 36. All collection of research-specific assessments including whole blood, stool collection and quality of life questionnaires will be optional beyond the 6 month postop visit (months 12-36).
+Stage I Colon Cancer|Stage II Colon Cancer|Stage III Colon Cancer
+DRUG: Tecentriq 1200 MG in 20 ML Injection + Capecitabine 1000 mg/m2 + Oxaliplatin 130 mg/m2|DRUG: Oxaliplatin injection 85mg/m2 + Leucovorin 400mg/m2 + 5-Fluorouracil 2400mg/m2|DRUG: Oxaliplatin 130mg/m2 + Capecitabine 1000mg/m2
+Determine the rate of tumor regression grade 1 (<10% viable cancer cells) to neoadjuvant immunotherapy and chemotherapy in resectable (non-metastatic) pMMR colon cancer, assessed in the resection specimen., The primary outcome will be evaluated using the modified Ryan scoring system to score tumor regression grades (TRGs) in the surgical specimen. Scores will be assessed by dedicated study pathologists.
+
+Success is defined as TRG-0 or TRG-1(\<10% viable cancer cells). Efficacy-evaluable participants who do not go to surgery, perhaps due to clinical progression, will be counted as a failure., 3-5 months
+Complete pathologic response (TRG-0) to neoadjuvant immunochemotherapy or not., The investigators will estimate the rate of tumor regression grade (TRG) 0/1 and corresponding exact 95% confidence interval (Wilson method) in the 'efficacy' population. The rate will be compared to the null value of 1% using an exact binomial test with a 5% one-sided significance level. With N=25 efficacy evaluable participants, the investigators will need to see at least 2 grade 0/1 tumor regressions in order to reject the null hypothesis., 36 months|R0 resection and number of lymph nodes harvested after neoadjuvant combination CAPOX / Atezolizumab, R0 resection rate will be summarized as described for the primary endpoint., 3-4 months|Utilize dynamic changes in ctDNA as an early assessment tool on therapy efficacy. Analysis of ctDNA status to evaluate incidence and changes in surrogate ctDNA biomarker presence., CtDNA dynamic changes as an early assessment on efficacy. Analysis of ctDNA status (pre-neoadjuvant therapy, mid-neoadjuvant therapy, post- neoadjuvant therapy and postoperative) correlating ctDNA with outcomes and to evaluate incidence and changes in surrogate ctDNA biomarker presence., 36 months|Occurrence of any grade 3 or greater adverse events possibly, probably or definitively related to the neoadjuvant CAPOX / Atezolizumab combination, This study will utilize the CTCAE (NCI Common Terminology Criteria for Adverse Events) Version 5.0 for toxicity and Serious Adverse Event reporting, with the exception of skin- or nail-related toxicities, which will be graded using CTCAE version 5.0 with modifications. Treatment emergent AE's (grade 3 or greater), will be tabulated with counts of AE's at each grade, as well as counts of participants experiencing any grade 3 or greater treatment emergent AE., 3-12 months|Quality of life as assessed by European Organization for Research and Treatment of Cancer Quality of Life Questionnaire (EORTC QLQ-C30), QoL scores and patient satisfaction results will be computed using standard guidelines and displayed graphically as spaghetti plots.
+
+QLQ-C30 scores range from 0 to 100, with higher scores indicating higher/better functioning and higher/better global health status/QoL but lower/worse symptom burden., 36 months|Quality of life as assessed by MD Anderson Symptom Inventory (MDASI), QoL scores and patient satisfaction results will be computed using standard guidelines and displayed graphically as spaghetti plots.
+
+The M. D. Anderson Symptom Inventory (MDASI) is a brief, patient-reported outcome measure of the impact and severity of 13 cancer-related symptoms that are common across all cancer types. The MDASI score goes from 0 (symptom has not been present) to 10 (the symptom is as worse as it could be) for each item. Higher score means worse outcome., 36 months|Delay in surgery after neoadjuvant therapy by more than 12 weeks (84 days) or no, Complete surgical resection rates (R0) will be monitored in these patients and if the R0 resection rate is numerically lower than the historical average of \~73% noted in the literature, further analysis of these cases would be performed to ensure that this was not attributed to the delay caused by neoadjuvant therapy., 3-24 months|Rate of treatment acceptance measured by a patient satisfaction questionnaire (PSQ) result at specified time points., An in-house patient satisfaction questionnaire (PSQ) results will be computed using standard guidelines and displayed graphically as spaghetti plots.
+
+The patient satisfaction questionnaire is a brief, in house, patient satisfaction questionnaire to assess the rate of patient satisfaction, tolerance and acceptance of neoadjuvant treatment used during the study. It includes a brief 10-question assessment and score goes from 0 (not satisfied at all) to 10 (very satisfied)., 6-12 months|Overall Survival (OS)- Post-surgery times to event, Post-surgery times to event (OS) will be measured in months throughout the duration of the study (36 months).
+
+Overall survival (OS) is the time from surgery to death from any cause, regardless of disease recurrence (safety population).
+
+OS will be summarized by Kaplan-Meier curves, with estimates of median time to event (95% CI by log-log transform), and selected time-specific survival rates (95% CI)., 36 months|Relapse-free survival (RFS)- Post-surgery times to event, Post-surgery times to event (RFS) will be measured in months throughout the duration of the study (36 months).
+
+Relapse-free survival (RFS) is defined as the time from surgery to any event, where an "event" is defined first radiographical or pathological evidence of recurrence of disease (excluding second primary cancers) or death from any cause, whichever comes first.
+
+RFS will be summarized by Kaplan-Meier curves, with estimates of median time to event (95% CI by log-log transform), and selected time-specific survival rates (95% CI)., 36 months|Time to first recurrence (TTR) -Post-surgery times to event, Post-surgery times to event (TTR) will be measured in months throughout the duration of the study (36 months).
+
+Time to first recurrence (TTR) is the time from surgery to first radiological or pathological evidence of recurrence, excluding second primary cancers.
+
+TTR will be summarized by Kaplan-Meier curves, with estimates of median time to event (95% CI by log-log transform), and selected time-specific survival rates (95% CI)., 36 months
+This is a Phase II open-label trial of neoadjuvant immunochemotherapy with Atezolizumab + CAPOX chemotherapy followed by surgery and adjuvant chemotherapy (only for high-risk patients) for patients with localized resectable pMMR adenocarcinoma of the colon with a target accrual of 28 patients. The investigational medicinal product (IMP) for this study is atezolizumab. Neoadjuvant CAPOX chemotherapy regimen or category (including rescue medications, premedications), in addition to adjuvant chemotherapy regimens (mFOLFOX6 and CAPOX) are considered non investigational medicinal products (NIMPs).
+
+Please note all RESEARCH ONLY PROCEDURES ARE MARKED WITH A " \* " BASELINE VISIT
+
+Once eligibility of potential subjects is confirmed and consent is obtained eligible subjects will undergo the following procedures:
+
+1. Informed Consent \*
+2. History \& Physical exam
+3. Vital Signs
+4. Assessment of concomitant medications
+5. Performance Status (ECOG)
+6. PRO/QOL assessments (Research)\*
+7. Eligibility Assessment\*
+8. Routine Imaging and Laboratory
+9. Blood collection for ctDNA analysis (mandatory) and biobanking (optional)\*
+10. Stool collection\*
+11. Urine pregnancy test
+
+NEOADJUVANT THERAPY (RESEARCH) After baseline assessments and eligibility has been confirmed, patients will receive 4 cycles of neoadjuvant immunochemotherapy for a total of 12 weeks. Therapy consists of Atezolizumab in combination with CAPOX (capecitabine + oxaliplatin) before standard-of-care surgical resection. Each cycle of neoadjuvant therapy is 3 weeks. After completion of neoadjuvant therapy, patients will be evaluated during a presurgical evaluation visit for follow-up of any side effects that could potentially arise from therapy and to determine readiness for surgical removal of the tumor (staging evaluation and assessment of response). During this evaluation visit repeat imaging (CT scan or MRI) will be obtained between 2-8 weeks following completion of neoadjuvant therapy. During each cycle the following assessments will be evaluated\*:
+
+1. History \& Physical exam \*
+2. Vital Signs \*
+3. Adverse event assessment\*
+4. Assessment of concomitant medications \*
+5. Administration of neoadjuvant therapy with Aztezoluzumab and CAPOX chemotherapy\*
+6. Routine laboratory assessments\*
+7. Blood collection for ctDNA analysis (mandatory) and biobanking (optional) during mid-therapy and at conclusion of therapy\*
+8. Stool collection (after each cycle)\*
+9. Imaging for disease restaging and therapy response (CT or MRI) of abdomen and pelvis will be obtained after neoadjuvant therapy (2-4 weeks after neoadjuvant therapy)
+
+   * \*All assessments for this visit are considered research.
+
+SURGERY Surgical removal of the tumor will be performed per standard-of-care practices. Tumor sample will be obtained per standard of care procedure and will be used after final diagnosis by pathology.
+
+POSTOPERATIVE FOLLOW-UP AND ADJUVANT CHEMOTHERAPY Efficacy Follow-up phase (week 2, month 3 \& month 6) Long-term (survival) Follow-up phase (Months 12-36)
+
+Following surgery, patients will enter an efficacy follow-up phase (initial 6 months) and a long-term (survival) follow-up phase (months 12-36). Patients still considered to be at high risk of recurrence (per NCCN guidelines) will receive further adjuvant chemotherapy based on protocol and the discretion of the treating oncologist/investigator.
+
+EFFICACY FOLLOW-UP PHASE ( Week 2 postop and Months 3, 6) Patients will be followed up for an efficacy follow-up phase during first 2 weeks postop and months 3 and 6 and will complete the following assessments:
+
+1. History \& Physical exam
+2. Vital Signs
+3. Adverse event assessment\*
+4. Assessment of concomitant medications
+5. Quality of life assessments (satisfaction survey at week 2 and month 3 only)\*
+6. Vital status update\*
+7. Assessment of adjuvant therapy\*
+8. Blood collection for ctDNA analysis and biobanking\* (ctDNA blood draw only at week 2 visit)
+9. Stool collection \*
+10. Adjuvant chemotherapy with standard of care chemotherapy (ONLY FOR HIGH-RISK PATIENTS)
+11. Laboratory analysis (CEA,CBC \& Chemistry panel)(3 \& 6 months only)
+12. Standard of care imaging (6 months only)
+
+LONG TERM/ SURVIVAL FOLLOW-UP PHASE Patients will be followed up for an long-term (survival) follow-up phase during months 12, 18, 24, 30, and 36 and will complete the following assessments:
+
+1. History \& Physical exam
+2. Vital Signs
+3. Adverse event assessment\*
+4. Assessment of concomitant medications
+5. Quality of life assessments\*
+6. Vital status update\*
+7. Blood collection for biobanking (these samples are optional) \*
+8. Stool collection \*
+9. Standard of care imaging
+
+Research procedures:
+
+1. Blood and stool samples will be collected for ctDNA analysis (mandatory) and for banking (optional) at baseline and throughout different stages of the study for future exploratory analysis. The optional blood samples will be stored at Baylor College of Medicine main campus in the ABBR (Alkek Building for Biomedical Research) laboratory and kept for up to 10 years. The purpose of biobanking these samples is for future exploratory research analyses based on future available funding. Stool sample collection kits will be provided to participating subjects which they will be shipping back to our site and collected at several timepoints for storage and future use. In the future stool samples may be used for metabolomic and proteomic profiling. (Costs of shipping back stool kits will be covered by site/sponsor).
+2. Quality of life (QOL) outcomes will be obtained through patient- reported outcome (PRO) questionnaires (approx. duration: \~10-20 min per visit) PRO data will be collected through use of the following instruments: MD Anderson Symptom Inventory (MDASI), QLQ C30, and a satisfaction survey. All patients will complete the MDASI, QLQ-C30, and questionnaires at the following timepoints: baseline, after neoadjuvant therapy completion, postoperatively on week 2, months 3, 6, 12, 18, 24, 30, 36. The satisfaction survey will be only collected at week 2 and month 3.
+3. Banking procedures: A proper IRB submission will be submitted for request of historic sample controls to previously biobanked specimens within Baylor's biobanks. Historic samples will be deidentified and will be used for comparison. An attempt will be made to match demographics and tumor site but this comparison is going to be used only as an exploratory endpoint.
+4. Storage of Data: Each patient will have their own research binder in which research data will be collected. Each subject will be assigned a unique study number ID and will be used throughout the patient's participation. No personal data will be used to identify patients, only the study ID will be used for confidentiality purposes. Data will be captured manually in the patient's binder and electronically in Oncore using study ID number only. Subject binder will be stored in a locked cabinet on the 7th floor at the McNair campus. Only authorized personnel will have access to patient's binder. Information from medical chart that will be used includes: demographic data, concomitant medications, vital signs, medical history, laboratory results, imaging results, notes from office visits, surgery notes, operative notes, progress notes, pathology reports. No information will be shared with any third parties.

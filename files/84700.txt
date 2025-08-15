@@ -1,0 +1,33 @@
+Tumor-Specific Clonotype, Metabolic Profile, and PET/CT in Predicting Chemotherapy Response in Patients With Relapsed or Refractory Diffuse Large B-cell Lymphoma
+This pilot clinical trial studies tumor-specific markers (clonotype), blood tests, and positron emission tomography (PET)/computed tomography (CT) in predicting treatment response at different times during chemotherapy in patients with diffuse large B-cell lymphoma that has come back (relapsed) or does not respond to treatment (refractory). Studying samples of blood in the laboratory from patients during chemotherapy may help doctors learn more about the effects of treatment on cells and may help doctors determine whether patients are responding to treatment. PET/CT scan procedures are done at the same time with the same machine and the combined scans give more detailed pictures of areas inside the body than either scan gives by itself and may help doctors find out how well treatment is working.
+Recurrent Diffuse Large B-Cell Lymphoma|Refractory Diffuse Large B-Cell Lymphoma
+DRUG: Chemotherapy|PROCEDURE: Computed Tomography|DRUG: Fludeoxyglucose F-18|PROCEDURE: Positron Emission Tomography
+Response to therapy, Defined as demonstrating the chemotherapy-sensitiveness for curative autologous stem cell transplant (ASCT) based on fludeoxyglucose F 18 FDG positron emission tomography (PET)/computed tomography (CT) results. Non-responders will be classified as having equivocal active disease with a positive biopsy for confirmation and unequivocal active disease in a previously biopsy-confirmed site of disease. Descriptive statistics will be used to summarize the demographic and clinical characteristics of patients. The concordance rate between the interim PET/CT scans and the final FDG PET/CT scan, and its 95% confidence interval, will be reported. The change in drug of choice (DoC) and metabolic profile tests will be explored using mixed effect linear regression models., Up to 42 days
+Response rate (RR), RR will be analyzed using multivariate logistic regression., Up to 18 months|Progression-free survival, The association between FDG PET/CT scans, DoC and metabolic profile tests, and the progression-free from primary treatment failure will be examined using a stratified Cox regression model., Up to 18 months|Overall survival (OS), The association between FDG PET/CT scans, DoC and metabolic profile tests, and the OS from primary treatment failure will be examined using a stratified Cox regression model., Up to 18 months
+PRIMARY OBJECTIVES:
+
+I. To evaluate the ability of blood based detection of a tumor-specific clonotype and metabolic profiling and functional imaging to predict response to standard immunochemotherapy.
+
+SECONDARY OBJECTIVES:
+
+I. To evaluate the optimal time points to create the diffuse large B-cell lymphoma (DLBCL) response prediction model.
+
+TERTIARY OBJECTIVES:
+
+I. To evaluate the prognostic value of clinical factors, cell of origin subtype, and circulating immune cell subsets for response to therapy.
+
+II. To evaluate for novel genomic aberrations or signatures which correlate with therapeutic failure.
+
+III. To evaluate the ability of additional positron emission tomography (PET)/computed tomography (CT) imaging interpretation techniques to correlate with clinical outcomes.
+
+IV. To evaluate the correlation of blood-based detection of clonotype with fludeoxyglucose F-18 (FDG) PET/CT disease assessment.
+
+V. To evaluate the utility of alternative methods of minimal residual disease detection.
+
+VI. To evaluate measurement of circulating metabolic profiling with imaging results and clinical outcomes.
+
+OUTLINE:
+
+Patients receive standard salvage chemotherapy as determined by the treating physician.
+
+Patients undergo FDG PET/CT scans at baseline (between days -21 to 0), on day 4 after completion of first high-dose chemotherapy, on day 21 after completion of the first course of chemotherapy, and on day 42 after the end of the second course of chemotherapy. Blood samples are also collected for tumor-specific clonotype and metabolic profile at baseline (days -5 to 0) and on days 4, 8, 21, and 42.

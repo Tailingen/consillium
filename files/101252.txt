@@ -1,0 +1,31 @@
+Testing the Addition of Ruxolitinib to the Usual Treatment (Tyrosine Kinase Inhibitors) for Chronic Myeloid Leukemia
+This randomized phase II trial studies how well ruxolitinib phosphate, and bosutnib, dasatinib, imatinib or nilotinib, work in treating patients with chronic myeloid leukemia. Chronic myeloid leukemia cells produce a protein called BCR-ABL. The BCR-ABL protein helps chronic myeloid leukemia cells to grow and divide. Tyrosine kinase inhibitors, such as bosutinib, dasatinib, and nilotinib, stop the BCR-ABL protein from working, which helps to reduce the amount of chronic myeloid leukemia cells in the body. Ruxolitinib is a different type of drug that helps to stop the body from making substances called growth factors. Chronic myeloid leukemia cells need growth factors to grow and divide. The addition of ruxolitinib to the tyrosine kinase inhibitor may or may not help reduce the amount of chronic myeloid leukemia cells in the body.
+Chronic Phase Chronic Myelogenous Leukemia, BCR-ABL1 Positive
+DRUG: Bosutinib|DRUG: Dasatinib|OTHER: Laboratory Biomarker Analysis|DRUG: Nilotinib|DRUG: Ruxolitinib|DRUG: Imatinib
+Rate of molecular response 4.5 (MR4.5), At 12 months
+Overall survival, Will be estimated using the Kaplan-Meier method., From the date of randomization until death from any cause with observations censored at the date of last contact for patients last known to be alive, assessed up to 5 years|Progression-free survival, Will be estimated using the Kaplan-Meier method., From the date of randomization on study until the first of treatment failure/loss of response, progression, or death from any cause, assessed up to 5 years|Incidence of adverse events, Will be assessed by National Cancer Institute Common Terminology Criteria for Adverse Events (CTCAE) version 4.0. CTCAE version 5.0 will be utilized for serious adverse events reporting only., Up to 5 years|MR4.5 attainment and failure, Will be summarized descriptively, Up to 12 months|Molecular rate 4.0 (MR 4.0) attainment and failure, Will be summarized descriptively, Up to 12 months|Drug compliance, Will be summarized descriptively, Up to 5 years|BCR-ABL/BCR analysis, Linear regression models will be used to assess associations between treatment arm and the quantitative endpoint., Up to 5 years
+PRIMARY OBJECTIVE:
+
+I. To compare the rate of molecular response 4.5 (MR4.5) after 12 months of combination therapy with ruxolitinib phosphate (ruxolitinib) plus a tyrosine-kinase inhibitor (TKI) (bosutinib, dasatinib, imatinib or nilotinib) versus a TKI alone, based on local polymerase chain reaction (PCR) testing to measure BCR-ABL transcripts in chronic phase chronic myelogenous leukemia (CML) patients with molecular evidence of disease.
+
+SECONDARY OBJECTIVES:
+
+I. To estimate the frequency and severity of toxicities of each regimen in this patient population.
+
+II. To estimate progression free survival and overall survival of each regimen in this patient population.
+
+ADDITIONAL OBJECTIVES:
+
+I. To describe patterns of MR4.5 and molecular response 4.0 (MR4.0) attainment and failure over the 3, 6, 9, and 12-month time points of each regimen in this patient population.
+
+II. To evaluate drug compliance based on patient reported drug intake calendars in this patient population.
+
+III. To describe the kinetics of response in this patient population (as measured by quantitative BCR-ABL/BCR ratio) in both arms over the 3, 6, 9, and 12-month time points.
+
+OUTLINE: Patients are randomized to 1 of 2 arms.
+
+ARM I: Patients receive bosutinib orally (PO) daily or dasatinib PO daily or nilotinib PO twice daily (BID) or imatinib PO daily on days 1-90. Treatment repeats every 90 days for up to 4 cycles in the absence of disease progression or unacceptable toxicity.
+
+ARM II: Patients receive ruxolitinib phosphate PO BID on days 1-90, and bosutinib PO daily or dasatinib PO daily or nilotinib PO BID or imatinib PO daily on days 1-90. Treatment repeats every 90 days for up to 4 cycles in the absence of disease progression or unacceptable toxicity.
+
+After completion of study treatment, patients are followed up every 6 months for 2 years, and then annually up to 5 years.

@@ -1,0 +1,37 @@
+Prospective Data Collection Initiative on Thoracic Malignancies
+Survival after cancer diagnosis strongly depends on local tumor extent, lymph node involvement and the presence of distant metastases. However, there remains great inter-patient variability regarding treatment outcome. A combination of molecular factors, biochemical factors, histopathological features, genomic profile, environmental factors and other clinical factors are likely to influence prognosis and treatment effect, independent from tumor stage. It is however still unclear which, how, and to what extent these factors will influence tumor recurrence and mortality in both early stage (I-III) and late stage (IV) thoracic malignancies such as lung cancer.
+
+Although the results from prospective clinical trials will remain the backbone of evidence-based medicine, this concerns a highly selected patient population since the large majority (85%-95%) of patients with cancer do not participate in clinical trials for various reasons. It is unlikely that trial participation will significantly improve in the near future. This fact has the following implications:
+
+1. It is highly desirable to validate the results from clinical trials in the general patient population. This is complicated by the fact that the documentation of patients treated in general practice (i.e. outside the scope of clinical trials) is largely insufficient to provide comparable patient cohorts in terms of prognostic characteristics and treatment parameters.
+2. There is an ever increasing number of therapeutic interventions available for which its efficacy depends on known and unknown tumor-specific, clinical, demographic and other patient characteristics. Large numbers of patients are required to test the relevance of these variables.
+3. As a result of rapid technical and drug developments, new minimally invasive treatment options such as stereotactic irradiation or ablation techniques or sublobar resections and new targeted and immunotherapeutic treatments have entered the clinic. These interventions have potentially less side effects compared to the conventional treatments. Still, these new interventions will have to prove their effectiveness, safety and superiority (or non-inferiority) in a real world setting.
+4. Many hypotheses related to further optimization of personalized medicine can currently not be tested as they require a large prospective cohort of patients, and a less time-consuming and costly research infrastructure.
+
+A prospective observational cohort study has the potential to fill the gap between prospective randomized trials (efficacy) and patients treated in general practice (effectiveness) and it will enable accrual of clinical trials (innovation).
+Lung Cancer|Thoracic Cancer|Lung Cancer, Nonsmall Cell|Adenocarcinoma|Squamous Cell Carcinoma|Large Cell Lung Cancer|Thymus Cancer|Mesothelioma
+BEHAVIORAL: Health-related quality of life and treatment outcome questionnaires|GENETIC: (Tumor) tissue and other biomaterials|PROCEDURE: Blood samples
+Progression free survival, up to 10 years
+Disease free survival, up to 10 years|Overall survival, up to 10 years|Health related quality of life, QLQc30 questionnaire with a 1 (not at all) to 4 (very much) scale, Baseline - 3 - 6 - 12 - 24 - 36 - ... months|Health related quality of life, EQ5D questionnaire with a 1 (no problems) to 5 (not able to) scale and 0 (worst) to100 (best) measurement scale, Baseline - 3 - 6 - 12 - 24 - 36 - ... months|Health related quality of life, LC-13 questionnaire with a 1 (not at all) to 4 (very much) scale, Baseline - 3 - 6 - 12 - 24 - 36 - ... months
+Objective:
+
+* To start a prospective observational cohort study of patients with thoracic malignancies from their primary diagnosis until death.
+* After obtaining informed consent, to prospectively collect data on medical history, comorbidities, baseline clinical parameters, imaging results, pathology results, tumor characteristics, treatment, treatment outcomes, hospital stays, interventions and (S)AEs.
+* After obtaining separate informed consent for collecting data on health related quality of life and work ability, to collect data on patient reported outcome measures.
+* After obtaining separate informed consent, to collect imaging, blood and (tumor) tissue material, obtained during routine practice, for observational studies or storage in the biobank.
+* After obtaining separate informed consent, to collect imaging obtained during routine practice, for observational studies or AI learning.
+* The cohort will serve as an infrastructure geared towards efficient, safe and comprehensive clinical evaluation of new interventions (for example multidisciplinary anti-cancer treatment, drugs or other systemic treatment, lifestyle or in follow up) for patients with thoracic malignancies when appropriate according to the Trials within Cohorts (TwiCs) design. For interventions other than standard of care a separate informed consent is mandatory.
+
+Expected outcome:
+
+* To provide more accurate data on the treatment and clinical outcome and patient reported outcomes of thoracic malignancies in daily practice.
+* To create an infrastructure for a large variety of research purposes including but not limited to:
+
+  * Prognostic and predictive research
+  * Molecular and (epi)genetic research
+  * Comparison of new therapeutic interventions for patients with thoracic malignancies, when appropriate according to the Trials within Cohorts (TwiCs) design.
+  * Health care policies and cost-effectiveness studies
+
+Study design:
+
+A prospective observational cohort study. Patients diagnosed with thoracic malignancies will be asked to participate in this cohort. Prospectively, a limited number of variables (e.g. gender, age, histology, TNM) will in the majority of cases preferably be registered within 1-3 weeks following diagnosis. Further enrichment of the data will be done by linking this cohort to the Netherlands Cancer Registry (NCR) database (in the Netherlands clinical variables, treatment variables of all malignancies are routinely collected (Appendix I)) on a 6 monthly basis.

@@ -1,0 +1,36 @@
+TWICE-IRI: Optimization of Second-line Therapy With Aflibercept, Irinotecan (Day 1 or Day 1,3), 5-Fluorouracile and Folinic Acid in Patients With Metastatic Colorectal Cancer. A Randomized Phase III Study.
+Optimization of second-line therapy with aflibercept, irinotecan (day1 or day 1,3), 5fluorouracile and folinic acid in patients with metastatic colorectal cancer. A randomized Phase III study.
+Cancer Colorectal|Metastasis
+DRUG: Aflibercept-FOLFIRI|DRUG: Aflibercept-mFOLFIRI3
+Overall response rate (ORR)., Tumor measurements will be obtained using CT-scans (or MRIs) of the thorax, abdomen, and pelvis at baseline then every 8 weeks (+/- one week) according to RECIST v1.1. At the investigator's discretion, tumor assessments may be repeated at any time if progressive disease is suspected.
+
+It is preferred that the scans for a patient are taken with the same technique (CT or MRI) throughout the study., 2 months
+Disease control rate (DCR), The disease control rate is the sum of patients with tumor response (either CR or PR) or stabilization (SD) as best response., 2 months|Early response rate, The early response rate will be evaluated at the first tumor evaluation at 8 weeks (+/- 1 week)., 2 months|Progression-free survival (PFS), PFS is defined as the time interval from randomization to the date of first documented disease progression or death from any cause, whichever occurs first. Alive patients without progression will be censored at the last tumor assessment, either during study treatment period or during follow-up period., 2 months|Overall survival (OS), OS is defined as the time interval from randomization to the date of death from any cause. Alive patients will be censored at the last date known to be alive, either during study treatment period or during follow-up period. Survival status will be assessed by telephone, ordinary visits, hospital records or other means found suitable until death or the end of the study, whichever occurs first. Information regarding post-study anti-cancer therapies will be collected if new treatment is initiated., time interval from randomization to the date of death from any cause. Assessed up to 13 months after the beginning of the study|Salvage surgery rate, Salvage surgery rate (%) corresponding to the number of patients amenable to surgery of metastasis during study treatment. The number of patients with R0 or R1 resection will be evaluated., 2 months|Pathological response rate, The pathological tumor response will be assessed in patients having primary and/or metastasis resection using Tumor Regression Grade (TRG), modified TRG and Blazer grade. (Rubbia-Brandt L et al, Ann Oncol 2007 ; Blazer 3rd DG et al, J Clin Oncol 2008), 2 months|Tolerance, frequency of AEs and SAEs per patient and per cycle of treatment using NCI CTCAE v5.0., 2 weeks|HRQoL, The time until definitive HRQoL score deterioration (TUDD), (Bonnetain F et al, Eur J Cancer 2010) The survival without HRQoL deterioration-free survival (QFS). HRQoL will be assessed with EORTC QLQ-C30 questionnaire, 2 months|Exploratory biomarkers, Blood : (PlGF, VEGF-A, VEGF-B, VEGF-C, VEGF-D, sVEGFR1, sVEGFR2, sVEGFR3, Ang2, sTie2, Syndecan) .Exosomal biomarkers assessments (CEA, HSP70, VEGFR-2)
+
+Tumor: Analyses will be performed according to the knowledge on potential markers at that time, 2 months
+Background - Rationale Aflibercept The addition of aflibercept to the standard FOLFIRI regimen as second-line therapy was evaluated in a large phase III study (EFC10262-VELOUR). This combination significantly improved both PFS (4.7 to 6.9 months, HR=0.76; P=\<0.001) and OS (12.1 to 13.5 months, HR=0.82; P=0.003). In the evaluable population (86.5%), the tumor response rate was also improved when adding aflibercept (ORR=19.8% \[16.4-23.2\]) to the FOLFIRI regimen (ORR=11.1% \[8.5-13.8\]).
+
+Irinotecan The combination of aflibercept with FOLFIRI3, an optimized irinotecan-based regimen, was evaluated in 65 patients in a French multicentric retrospective cohort. (Carola C et al, WJCO 2018) In the cohort of irinotecan-naïve patients (n=30), the objective response rate was 43.3%, and the disease control rate 76.7%. Median PFS and OS were 11.3 months (95% CI 6.1-29.0) and 17.0 months (95% CI 13.0-17.3). The most common (\>5%) grade 3-4 adverse events were diarrhea (37.9%), neutropenia (14.3%), stomatitis and anemia (10.4%), hypertension (6.7%).
+
+In the cohort of patients previously treated with irinotecan (n=35), the objective response rate was 34.3%, and the disease control rate 60.0%. Median PFS and OS were 5.7 months (95% CI 3.9-10.4) and 14.3 months (95% CI 12.8-19.5).
+
+Table. FOLFIRI-aflibercept vs. FOLFIRI3-aflibercept: a cross-trial comparison FOLFIRI-aflibercept (VELOUR) FOLFIRI3-aflibercept (Irinotecan-naïve) N = 612 N = 30 Efficacy RR, % 19.3 vs 43.3 PFS, months 6.9 vs 11.3 OS, months 13.5 vs 17.0 Grade 3-4 AEs, % Any 83.4 vs 56.7 Neutropenia 36.7 vs 14.3 Diarrhea 19.3 vs 37.9 Mucositis 13.8 vs 10.4 Hypertension 19.3 vs 6.9 Discontinuation, % Progression 49.8 vs 36.7 Adverse event 26.6 vs 46.7
+
+Study Objectives
+
+Primary:
+
+•To compare once (day 1) or twice (day 1, day 3) administration of irinotecan in combination with 5-fluorouracile and aflibercept as second-line therapy in patients with metastatic colorectal cancer in terms of overall response rate (ORR)
+
+Secondary:
+
+* To evaluate disease control rate (DRC) and Early Response Rate (ERR)
+* To evaluate progression-free survival (PFS) and overall survival (OS),
+* to evaluate the conversion rate to locoregional therapy, surgery of metastasis, the quality of resection (R0, R1, R2) and the pathological response in patients with resected metastatic disease,
+* To assess the impact on health-related quality of life (HRQOL) using the European Organization for Research and Treatment of Cancer (EORTC) Quality of Life Questionnaire-C30 (QLQ-C30),
+* To assess Incidence of Adverse Events (AEs) and Serious Adverse Events (SAEs) on using the National Cancer Institute Common Toxicity Criteria (NCI-CTC version 5.0).
+
+Exploratory:
+
+* To assess the impact on selected circulating biomarkers (angiogenic and exosomal)
+* To assess the impact on selected tumor biomarkers

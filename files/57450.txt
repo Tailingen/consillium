@@ -1,0 +1,25 @@
+A Vaccine (CIMAvax-EGF) for the Prevention of Lung Cancer Development or Recurrence
+This early phase I trial studies the side effects of a vaccine called CIMAvax-EGF and to see how well it works in preventing lung cancer from developing in patients at high risk for lung cancer or coming back (recurrence) in stage IB-IIIA non-small cell lung cancer survivors. In many cancers such as lung cancer, there is a protein receptor called EGFR (epidermal growth factor receptor) that is overexpressed within these cancers. Activation of EGFR has shown to lead to tumor growth and development. Previous studies have indicated that EGFR activation is present in the airways of cancer-free subjects as well. CIMAvax-EGF vaccine works by causing the body to make antibodies against EGF that is being produced that could be possibly driving the risk for developing cancer.
+Chronic Obstructive Pulmonary Disease|Lung Non-Small Cell Carcinoma|Pneumonia|Stage IB Lung Cancer AJCC v8|Stage II Lung Cancer AJCC v8|Stage IIA Lung Cancer AJCC v8|Stage IIB Lung Cancer AJCC v8|Stage IIIA Lung Cancer AJCC v8
+OTHER: Quality-of-Life Assessment|OTHER: Questionnaire Administration|BIOLOGICAL: Recombinant Human EGF-rP64K/Montanide ISA 51 Vaccine
+Percentage of participants with antibody titers >= 1:4000 in response to vaccination, The response to the vaccine will be measured using circulating EGF and anti-EGF antibodies replicating the results from the Cuban and Roswell trials. Human EGF will be determined by the Roswell Park Flow and Image Cytometry CCSG supported Resource using a commercial enzyme-linked immunosorbent assay (ELISA) assay (R\&D Systems, Minneapolis, MN). EGF antibodies will also be determined, by the Roswell Park Flow and Image Cytometry Resource using an in-house assay developed in cooperation with the Centro de Immunologia Molecular in La Habana, Cuba., Up to 60 days post treatment|Molecular biomarker analysis, Will access the molecular profile of blood, bronchial brushes, and bronchial biopsies to identify molecular markers associated with treatment and response. Biomarker scores will be analyzed for the molecular profile endpoint to test if they are significantly different post-treatment compared to pre-treatment (via paired t-test) or if a change in biomarker score (post-versus pre-) is significantly different among responders versus nonresponders (via t-test) as defined by histology and circulating levels of EGF ligand and anti-EGF antibodies. In addition to these biomarkers, gene expression signatures will be analyzed. These include gene expression signatures associated with EGFR activity, the high-grade lesion molecular subtype, and the immune-associated signature predictive of progressive/stable lesions compared with regressive lesions., Up to 60 days post treatment|Number of patients with grade 3, 4 or 5 toxicities that are attributable to recombinant human EGF-rP64K/montanide ISA 51 vaccine (CIMAvax), Measured according to Cancer Therapy Evaluation Program (CTEP) National Cancer Institute (NCI) Common Terminology Criteria for Adverse Events (CTCAE) version 5. The plausible range for the true (unobserved) event rate will be estimated by the upper one-sided, 95% Jeffrey's interval., Up to 60 days post treatment
+Change in quality of life scores, Will be assessed using European Organization for the Research and Treatment of Cancer (EORTC) Quality of Life Questionnaire (QLQ)-Core 30 (C30)., Baseline up to 12 months
+PRIMARY OBJECTIVES:
+
+I. To determine the efficacy of the vaccine based on circulating EGF and anti-EGF antibodies.
+
+II. To access the molecular profile of blood, bronchial and nasal brushes, and bronchial biopsies to identify molecular markers associated with treatment and response.
+
+III. To establish the safety of recombinant human EGF-rP64K/montanide ISA 51 vaccine (CIMAvax-EGF) treatment in cancer-free individuals using the Cancer Therapy Evaluation Program (CTEP) National Cancer Institute (NCI) Common Terminology Criteria for Adverse Events (CTCAE version 5).
+
+SECONDARY OBJECTIVE:
+
+I. To evaluate quality of life score changes using European Organization for the Research and Treatment of Cancer (EORTC) Quality of Life Questionnaire (QLQ)-Core 30 (C30) in patients who are at high risk for development of lung cancer or recurrence during CIMAvax-EGF treatment.
+
+OUTLINE:
+
+LOADING PHASE: Patients receive recombinant human EGF-rP64K/montanide ISA 51 vaccine intramuscularly (IM) at 0, 2, 4 and 6 weeks in the absence of disease progression or unacceptable toxicity.
+
+MAINTENANCE PHASE: Patients receive recombinant human EGF-rP64K/montanide ISA 51 vaccine IM once every 4 weeks (Q4W) in the absence of disease progression or unacceptable toxicity.
+
+After completion of study treatment, patients are followed up for 60 days.

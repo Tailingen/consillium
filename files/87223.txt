@@ -1,0 +1,46 @@
+Testing Higher Dose Radiation Therapy for Locally Advanced Pancreatic Cancer
+This phase III trial compares the effect of dose-escalated radiation therapy to usual care in patients with locally advanced unresectable pancreatic ductal adenocarcinoma who have received an initial 4-6 months of chemotherapy. Usual care options include additional chemotherapy, observation, or standard lower-dose radiation therapy. These treatments may delay tumor growth but have not been shown to improve survival. Radiation therapy uses high energy X-rays to kill cancer cells and shrink tumors. Dose-escalated radiation therapy involves the precise delivery of higher doses to the tumor, often over a shorter period of time. This trial assesses whether using dose-escalated radiation therapy can prolong survival.
+Pancreas Cancer
+DRUG: Fluorouracil|DRUG: Irinotecan Hydrochloride|DRUG: leucovorin calcium|DRUG: Oxaliplatin|DRUG: Irinotecan Sucrosofate|DRUG: Gemcitabine|DRUG: Nab paclitaxel|RADIATION: Radiation Therapy|DRUG: Capecitabine|OTHER: Observation Activity|PROCEDURE: Biospecimen Collection|PROCEDURE: Biopsy Procedure|PROCEDURE: Computed Tomography|PROCEDURE: Magnetic Resonance Imaging|OTHER: Questionnaire Administration|RADIATION: Dose-escalated Radiation Therapy|PROCEDURE: Biospecimen Collection|PROCEDURE: Biopsy Procedure|PROCEDURE: Computed Tomography|PROCEDURE: Magnetic Resonance Imaging|OTHER: Questionnaire Administration
+Overall survival (OS), OS will be estimated by the Kaplan-Meier method (Kaplan 1958). The 3-year OS estimates between the two arms will be compared using a Z-test. A logistic regression model will be used to analyze the effects of factors, in addition to treatment, including, but not limited to the stratification factor, which may be associated with 3-year OS. The primary hypothesis of improved 3-year OS will be tested with a 1-sided significance level of 0.023., assessed up to 3 years
+Local progression (LP), Defined as progression of the primary tumor/nodes as determined by Response Evaluation Criteria in Solid Tumors criteria. LP will be estimated by the cumulative incidence method (Kalbfleish 1980), with death as a competing risk, and compared between treatment arms using Gray's test (Gray 1988). The Fine-Gray regression model will be used to analyze the effects of factors, in addition to treatment, which may be associated with LP (Fine 1999)., From randomization to date of failure, date of death (competing event), or last known follow-up date, assessed up to 5 years|Progression-free survival (PFS), Defined as local progression, distant failure, or death due to any cause. PFS will be estimated by the Kaplan-Meier method (Kaplan 1958) and estimates between treatment arms will be compared using the log-rank test (Mantel 1966). The Cox proportional hazard regression model will be used to analyze the effects of factors, in addition to treatment, which may be associated with PFS (Cox 1972)., From the date of randomization to the date of first PFS failure or last follow-up for patients without a reported PFS event, assessed up to 5 years|Chemotherapy-free interval (CFI), Defined as the time in months without chemotherapy for locally advanced pancreatic cancer post the initial chemotherapy treatment. Mean CFI will be compared between treatment arms using a Z-test. Regression modeling will be used to analyze the effects of factors, in addition to treatment, which may be associated with CFI., From the date of last dose of initial chemotherapy to the date of first dose of second line chemotherapy for progression, assessed up to 5 years|Long-term radiation-related ≥ grade 3 adverse events, The percentage of patients on the dose-escalated radiation therapy arm will be reported, Up to 1 year|Incidence of ≥ grade 3 adverse events, The percentage of patients will be compared between the treatment arms using a Z-test., Up to 90 days after randomization
+Functional Assessment of Cancer Therapy-Hepatobiliary (FACT-Hep) total score at 6 months, Functional Assessment of Cancer Therapy-Hepatobiliary (FACT-Hep) total score at 6 months Mean FACT-Hep total score at 6 months will be compared between treatment arms using a t-test, if normality is met, or Wilcoxon test if not. Regression modeling will be used to analyze the effects of factors (e.g. stratification factor and other relevant baseline factors), in addition to treatment, that may be associated with 6-month mean FACT-Hep Total Score. At 6 months, At 6 months|FACT-Hep score nadir, The nadir is defined as the lowest score after baseline assessment. Mean nadir (for each of total score and Hep subscale) will be compared between treatment arms using a t-test, if normality is met, or Wilcoxon test if not, using 2-sided alpha=0.01 to account for multiple comparisons., From baseline to 24 months from randomization|FACT-Hep total score over time, Longitudinal analyses incorporating all follow-up time points will be done using longitudinal linear modeling methods to assess FACT-Hep Total Score trends across time. Baseline scores, treatment arm, time, treatment by time interaction (if significant), the stratification factor, and relevant covariates will be included in the model analyses. Other than baseline score, treatment arm, and time, only covariates with a 2-sided p-value \< 0.01, to account for multiple comparisons, will be retained in the model., From baseline to 24 months from randomization
+PRIMARY OBJECTIVE:
+
+I. To evaluate whether dose-escalated radiation therapy (RT) improves 3-year overall survival (OS) compared to standard treatments without dose-escalated RT, in locally advanced pancreatic cancer patients without radiographic progression and with biochemical response after an initial interval of chemotherapy.
+
+SECONDARY OBJECTIVES:
+
+I. To evaluate and compare local progression between the two treatment arms. II. To evaluate and compare progression-free survival (PFS) between the two treatment arms.
+
+III. To evaluate and compare chemotherapy-free interval between the two treatment arms.
+
+IV. To evaluate and compare toxicity within and between the two treatment arms.
+
+HEALTH-RELATED QUALITY-OF-LIFE (HRQOL) OBJECTIVES:
+
+I. Primary: To compare Functional Assessment of Cancer Therapy-Hepatobiliary (FACT-Hep) Total Score at 6 months between the two treatment arms.
+
+II. Secondary: To compare nadir of HRQoL scores over course of study participation between the two treatment arms.
+
+III. Secondary: To evaluate HRQoL scores over time between the two treatment arms.
+
+EXPLORATORY OBJECTIVE:
+
+I. Biospecimen collection for future correlative analyses.
+
+OUTLINE: Patients are randomized to 1 of 2 arms.
+
+ARM I (STANDARD OF CARE): Patients are assigned to 1 of 3 treatment options per physician's decision.
+
+OPTION 1: Patients continue to receive fluorouracil, irinotecan hydrochloride, leucovorin calcium, and oxaliplatin (FOLFIRINOX or modified FOLFIRINOX \[mFOLFIRINOX\]) or fluorouracil, liposomal irinotecan, leucovorin calcium, and oxaliplatin (NALIRIFOX) or gemcitabine/nab-paclitaxel per standard of care for a total of 6 months of treatment. Patients may continue treatment beyond 6 months at physician's discretion.
+
+OPTION 2: Patients undergo standard dose radiation therapy once daily for 28 fractions and receive fluorouracil or capecitabine per standard of care during radiation therapy. After completing concurrent chemoradiation, patients who received less than 6 months of chemotherapy at study entry are encouraged to receive the remaining chemotherapy to total 6 months of chemotherapy. Patients may continue chemotherapy treatment beyond 6 months at physician's discretion.
+
+OPTION 3: Patients undergo observation per standard of care. (It is recommended \[but not required\] that this option only be for patients that have already completed total 6 months chemotherapy pre-randomization.)
+
+Additionally, patients undergo blood sample collection, computed tomography (CT), magnetic resonance imaging (MRI) and tumor tissue biopsy throughout the study.
+
+ARM II (DOSE-ESCALATED RADIATION THERAPY): Patients undergo dose-escalated RT daily, every other day, or twice weekly for 5 fractions or daily for 25 fractions (with or without concurrent fluoropyrimidine). After completing dose-escalated RT, patients who received less than 6 months of chemotherapy at study entry are encouraged to receive the remaining chemotherapy to total 6 months of chemotherapy. Patients may continue chemotherapy treatment beyond 6 months at physician's discretion. Additionally, patients undergo blood sample collection, CT, MRI and tumor tissue biopsy throughout the study.
+
+After completion of study treatment, patients are followed up every 3 months for 2 years then annually for 3 years.

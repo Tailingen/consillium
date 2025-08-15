@@ -1,0 +1,26 @@
+Testing the Anti-Cancer Drug Darolutamide in Patients With Testosterone-driven Salivary Gland Cancers
+This phase II trial tests how well darolutamide and leuprolide acetate work in treating patients with androgen receptor positive salivary cancer that has spread from where it first started (primary site) to other places in the body (metastatic), cannot be removed by surgery (unresectable) or that has come back after a period of responding to prior therapy (recurrent). Darolutamide is in a class of medications called androgen receptor inhibitors. It works by blocking the effects of androgen (a male reproductive hormone) to stop the growth and spread of cancer cells. Leuprolide acetate is in a class of medications called gonadotropin-releasing hormone (GnRH) agonists. It works by decreasing the amount of certain hormones in the body. Giving darolutamide in combination with leuprolide acetate may help to stop the growth of tumor cells that need androgens to grow or shrink them.
+Locally Advanced Salivary Gland Carcinoma|Metastatic Salivary Gland Carcinoma|Recurrent Salivary Gland Carcinoma|Unresectable Salivary Gland Carcinoma
+PROCEDURE: Biopsy Procedure|PROCEDURE: Biospecimen Collection|PROCEDURE: Computed Tomography|DRUG: Darolutamide|DRUG: Leuprolide Acetate|PROCEDURE: Magnetic Resonance Imaging
+Best overall response (BOR), The trial will be considered positive if 8 or more complete response/partial response are observed in stage 1 and stage 2 combined., Within 1 year of initiating treatment
+Progression-free survival (PFS), Will be estimated using Kaplan-Meier methodology. Patients without an event (progression, death) will be censored at the time of last follow-up or last day known to be alive., From day 1 of treatment until progression or death, assessed up to 2 years|Overall survival (OS), Will be estimated using Kaplan-Meier methodology. Patients without an event (progression, death) will be censored at the time of last follow-up or last day known to be alive., From day 1 of treatment until progression or death, assessed up to 2 years|Incidence of adverse events (AEs), Will be listed individually per patient according to Common Terminology Criteria for Adverse Events version 5.0, and the number of patients experiencing each AE will be summarized., Up to 2 years
+Molecular, genomic, and transcriptomic biomarkers, Will be summarized by descriptive statistics, including mean, median and standard deviation for continuous biomarker data and frequency (%) for categorical data. Differences in a biomarker at baseline, on treatment, and change between those two time points amongst responders and non-responders will be compared using Fisher's exact tests for categorical biomarker data and Wilcoxon Rank-Sum tests for continuous biomarker data. In addition, a Cox proportional hazards model will be used to explore the prognostic relationship for these biomarkers measured at baseline and PFS and OS., Up to 2 years|Differences in BOR, PFS, OS in patients who did and did not receive prior systemic therapy for androgen receptor positive salivary gland cancer, The BOR, PFS, and OS with darolutamide plus androgen deprivation therapy in patients with and without prior systemic therapies for recurrent/metastatic/unresectable disease will be compared using Fisher's exact for binary outcome and log-rank test for time-to-events outcomes., Up to 2 years
+PRIMARY OBJECTIVE:
+
+I. To evaluate the best overall response rate (BOR) of recurrent/metastatic androgen receptor positive (AR+) salivary gland cancer (SGC) patients within one year of darolutamide and androgen deprivation therapy (ADT).
+
+SECONDARY OBJECTIVES:
+
+I. To evaluate progression-free survival (PFS). II. To evaluate overall survival (OS). III. To evaluate toxicity by Common Terminology Criteria for Adverse Events (CTCAE) version (v) 5.0.
+
+EXPLORATORY OBJECTIVES:
+
+I. To evaluate molecular, genomic and transcriptomic biomarkers in serial research biopsies obtained before and on darolutamide and ADT.
+
+II. To evaluate the differences in BOR, PFS, OS with darolutamide and ADT treatment among patients who did and did not receive prior systemic therapy for AR+ SGC.
+
+OUTLINE:
+
+Patients receive darolutamide orally (PO) twice daily (BID) on days 1-28 of each cycle and leuprolide acetate intramuscularly (IM) every 4 or 12 weeks. Cycles repeat every 28 days in the absence of disease progression or unacceptable toxicity. Patients also undergo biopsy, collection of blood samples, and computed tomography (CT)/magnetic resonance imaging (MRI) throughout the trial.
+
+After completion of study treatment, patients are followed every 3-6 months for 2 years after treatment discontinuation or until death, whichever occurs first.

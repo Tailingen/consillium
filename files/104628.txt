@@ -1,0 +1,193 @@
+Vocorder Device Validation in Clinical Settings - Continuous Monitoring of Individuals (Vocorder Clinical Validation-VCV)
+This is performed under Vocorder project that is Co-Funded by the European Union. (Grant Agreement 101115442 VOCORDER HORIZON EIC-2022-PATHFINDERCHALLENGE-01). The projects has 9 work packages (one dedicated to the clinical study) and 12 partners (collaborators). MITERA Hospital serves as the project Coordinator as well as the leader of the clinical study.
+
+VOCORDER aims to create a paradigm shift in healthcare monitoring by developing a portable device for continuous assessment of health through breath analysis.
+
+Our mission is to make health monitoring seamless and non-intrusive, empowering individuals and healthcare professionals with real-time data and proactive health management.
+
+Our vision is to make continuous health monitoring a part of everyday life, helping in early disease detection and management. We are on a mission to create accessible, easy-to-use technology that integrates seamlessly into daily routines.
+
+Our objective is to create a tool designed for the discreet and continuous monitoring of human health. This involves the development and implementation of a system that can consistently assess, process, and analyze human breath. The key aim is to detect early indicators of diseases, thereby facilitating timely and proactive healthcare interventions.
+
+Strategic objectives
+
+1. Provide a solution for easy-to-use breath analysis able to monitor the health of any individual at any setting.
+2. Develop and demonstrate the beyond state-of-the-art technologies needed to implement the VOCORDER breath analysis apparatus.
+3. Develop a health monitoring apparatus people can easily integrate into their everyday life.
+
+Scientific and technological Objectives
+
+1. Demonstration of QCLs and ICLs monolithically integrated arrays.
+2. Integrate QCLs/ICLs arrays with MPLC components for beam combing and providing high quality beam profile.
+3. Implement a detector-less sensing scheme.
+4. Enable AI-based breath analysis for the identification of health conditions.
+5. Implement clinical studies of VOCORDER.
+Cancer of the Breast|Cancer of Stomach|Colon Cancer|Lung Cancers|Kidney Insufficiency|Pneumonia
+Vocorder valistion in clinical practice, To validate the effectiveness of the VOCORDER device in clinical practice and to promote further the technology of breath analyses., At least 1 breath sample will be collected at 1 time point from each paricipant
+Operational parameters of Vocorder, Identify and define the operational parameters of the new technology of breath analyses in clinical practice., At least 1 breath sample will be collected at 1 time point from each paricipant|VOCORDER technology vs reference method, Compare the performance and outcomes of VOCORDER technology against the GC-MS reference method., At least 1 breath sample will be collected at 1 time point from each paricipant|VOC biomarkers linked to diseases under study, Investigate the correlation between known pre-existing conditions and significant VOC biomarkers in exhaled breath for selected diseases., At least 1 breath sample will be collected at 1 time point from each paricipant|VOC biomarkers for the early detection of diseases, Explore the potential of VOC biomarkers in exhaled breath for the early detection of diseases, facilitating timely diagnosis through correlation with key medical parameters., At least 1 breath sample will be collected at 1 time point from each paricipant
+Study design The hypothesis In the study of breathomics, several VOCs, VOC patterns and relationships among changes in VOC patterns are found to be related to different types of diseases. Therefore, changes in VOC patterns of the exhaled air correlate with particular conditions, as measured by specific disease-related VOC profiles.
+
+Background and Objectives of the study This clinical study is being conducted as part of the HORIZON-EIC-2022 PATHFINDER CHALLENGES-01-04 project entitled Vocorder, a new technology for breath analyses. Breath sample collection for VOC analysis (patients and control group), VOCs may already be present at a base level. However, the VOCORDER instrument will be capable of resolving those concentration differences caused by changes in the metabolism and discriminate against those which may already be present in the environmental air. Thus, the analyser will allow an in-situ time-resolved measurement of different gases (e.g., VOCs), recording their concentration profile within single breaths with minimal supervision and almost no strict methodology. However, in this validation phase strict methodology will be applied to ensure the validity of the approach and the unobtrusiveness of the method.
+
+The breath analyses will be performed using laser-based breath analyser prototypes capable to detect small number of gases simultaneously. QCL mid-IR Array-based self-mixing analyser for the detection of VOCs with measurement range in the 10-100 ppb, limit of detection close to 1 ppb, resolution close to 1 ppb and accuracy near ± 1 ppb. Identification of compounds will rely on a NIST mass spectral library and the comparison of their retention indices with the library of indices obtained for reference standards. The initial breath analyser will be able to be tested in healthy and incubated patients alike, since the sampling tube can be connected to the ventilator directly, in addition to its original use.
+
+This clinical study will address the correlation analysis between breath VOCs profiles as detected by the VOCORDER breath analyser and Electronic medical data collected by medical professionals. The obtained results are expected to be essential for tailoring the technology of breath analysis in the VOCORDER breath analyser towards the early detection of diseases of interest.
+
+The main objectives of this clinical study are as follows:
+
+1. To use the developed device in clinical setting and determine its operating parameters (respiratory volume, number, and frequency of clinical sampling).
+2. To validate the performance of the device and its measurements produced in comparison with other relevant technologies and/or the established reference method.
+3. To investigate the potential main correlations between the gases detected in breath analysis and the specific diseases chosen for this study.
+
+Primary and secondary endpoint(s)
+
+Primary endpoints:
+
+To validate the effectiveness of the VOCORDER device in clinical practice and to promote further the technology of breath analyses.
+
+Secondary endpoints:
+
+1. Identify and define the operational parameters of the new technology of breath analyses in clinical practice.
+2. Compare the performance and outcomes of VOCORDER technology against the GC-MS reference method.
+3. Investigate the correlation between known pre-existing conditions and significant VOC biomarkers in exhaled breath for selected diseases.
+4. Explore the potential of VOC biomarkers in exhaled breath for the early detection of diseases, facilitating timely diagnosis through correlation with key medical parameters.
+
+Requirements for the conduct of the clinical study Research center for the implementation and the current approval status of the Ethics Committees The study will be conducted at MITERA Hospital. MITERA General Clinic, Maternity / Gynecological Clinic \& Children's Hospital has established itself as a leading healthcare facility, serving as a comprehensive care center for individuals of all ages. With 45 years of operation, MITERA stands out as one of Greece's most esteemed private hospitals, offering a wide range of high-quality health services aimed at the prevention, diagnosis and treatment across various medical fields. MITERA is home to three clinics: the General Clinic, the MITERA Maternity / Gynecological Clinic and the most comprehensive private pediatric clinic in Greece, the MITERA Children's Hospital. The commitment to providing exceptional nursing care and services is of high quality at MITERA Clinics, where a dedicated team of physicians, nurses, and midwives, backed by comprehensive administrative and technical support, are available around the clock, every day of the year, to address any medical emergency.
+
+The hospital's Scientific Council has authorized the clinical study. The study will be conducted by the MITERA research team. Regulatory status
+
+1. The requirements of the General Data Protection Regulation (GDPR)
+2. Regulation (EU) 2016/679 of the European Parliament and of the Council of 27 April 2016 on the protection of natural persons about the processing of personal data and on the free movement of such data, and repealing Directive 95/46/EC• WP29: Opinion 05/2014 on anonymization techniques.
+3. The best practices of treatments/standard of care will be followed. The patients will be diagnosed according to these best practices.
+4. Even though the clinical study does not include drug treatments, the general principles of Good Clinical Practice will be followed to ensure ethical and scientific quality.
+5. The principles defined in the guidelines of Health Technology Assessment agencies, such as EUnetHTA, will be considered, especially the following:
+
+   * Comparators \& Comparisons. Criteria for the choice of the most appropriate comparator(s).
+   * Summary of current policies and best practice guidelines.
+   * Endpoint Criteria for Relative Effectiveness Assessment: Clinical Endpoints
+6. The study will be designed and analyzed in accordance with the Statistical Principles for Clinical Trials (CPMP/ICH/363/96), ICH Topic E9
+7. AEPD: AEPD Guidelines on Personal Data Anonymisation Procedures will provide a framework for ensuring privacy and data protection.
+8. ENISA: Recommendations will be followed to align technology developments with GDPR, particularly regarding data pseudonymization techniques.
+9. The joint AEPD-EDPS paper on using hash functions for personal data pseudonymization will serve as a reference for data protection strategies.
+10. World Medical Association: The Declaration of Helsinki on ethical principles for medical research involving human subjects Informed Consent and Information Within VOCORDER, the responsible institution follows specific procedures and uses the consent form, ensuring compliance with the minimum information requirements for valid consent as outlined in the above frameworks. Participation in the VOCORDER research will be entirely voluntary for all individuals, with the right to withdraw from any stage of the research activities without facing any repercussions or penalties. A comprehensive information sheet outlining the purpose, procedure, risks, etc., of the VOCORDER research will be furnished to participants along with the consent form. A protocol and draft templates for information consent forms can be retrieved upon request. They will also be added in the Data Management Plan. Physicians with appropriate scientific training and qualifications will give the information. The medical staff will be capable of answering questions posed by the individuals and explaining the process to be followed, what is requested from the participant, and the anticipated results. It will be ensured that potential participants have fully understood the information.
+
+The consent will be given freely by the participants. It will be guaranteed that they do not feel obliged to or coerced in any way into giving consent. Participants will consent in writing, particularly by signing the informed consent form and information sheets presented below. If consent cannot be given in writing, for example, because of illiteracy, non-written consent must be formally documented and independently witnessed. Consent is a continuing process, especially in long-term trials like the one of VOCORDER. The responsible project partners will foster a continuous dialogue with participants and inform them of anything different/new related to the trial.
+
+Approval by Ethics Committee To enhance oversight of ethical procedures throughout the project lifecycle, an IEC of VOCORDER will be established. This committee will play a dominant role in ensuring compliance to the ethical principle prescribed in legislation at all stages of the project, from protocol development to findings publication. Further, the committee will collaborate with local ethics committees in the six participating countries to address any participant complaints arising during the study. The IEC will be tasked with compiling and submitting safety and interim reports to the relevant national ethics committees when necessary.
+
+Appointment of contact points for ethical and legal matters In accordance with their respective activities and national regulatory framework, each partner involved in VOCORDER will appoint a Data Protection Officer (DPO) and/or designate a contact person responsible for addressing legal and ethical concerns related to the project's research activities.
+
+Monitoring and reporting Regular reports on ethics risk monitoring during project meetings will be provided. The formulation and distribution of an ethics questionnaire internally to the partners involved in the technical advancement is under consideration to ensure the alignment with the ethical requirements. The IEC will be responsible for addressing any question raised by the partners of the project at all instances and cooperate with the respective representative of legal and ethical matters defined by each entity. VOCORDER will assess its outcomes at all phases of the project implementation against these requirements to ensure comprehensive coverage.
+
+Phases of the clinical study
+
+The clinical study is a prospective cohort study and will be conducted in two phases:
+
+* 1st Phase: Baseline phase (October 2024-August 2025)
+* 2nd Phase: Validation phase - VOCORDED technology validation (May-December 2026)
+
+Phases of the clinical study
+
+The clinical study is a prospective cohort study and will be conducted in two phases:
+
+* 1st Phase: Baseline phase (October 2024-August 2025)
+* 2nd Phase: Validation phase - VOCORDED technology validation (May-December 2026) Baseline phase The implementation of this phase is considered necessary to define the basic operating parameters of the manufactured technology in order to allow the transition to the final validation of the device in the clinical field. The above objective will be achieved with the contribution of the artificial intelligence mechanism (WP.4) and the analysis of the raw data of the technological research teams involved in the design of the breath analyser. In this phase, patients and healthy controls are enrolled and the measurements of the gases produced are analysed using the GC-MS reference method.
+
+Validation phase (VOCORDER validation phase) During this stage, the VOCORDER technology undergoes clinical evaluation by both patients and healthy volunteers. The analysis involves measuring the gases emitted by the participants, utilizing both the standard reference method and the VOCORDER technology for comparison.
+
+Diseases
+
+The following diseases will be investigated:
+
+1. Lung cancer
+2. Gastric and colon cancer
+3. Breast cancer
+4. Kidney insufficiency
+5. Infections - Pneumonia (community-acquired and hospital-acquired) The selection of these diseases was based on the ETH team's review of existing literature (Task 2.1) and the subsequent adaptation of the findings to align with VOCORDER's capabilities to detect specific gas biomarkers for the early diagnosis of selected diseases (Task 2.2) .
+
+Patients \& Healthy control population Healthy controls At least 120 healthy controls of both sexes, aged between 20 and 75 years, who do not suffer from the diseases under investigation will be selected for participation in the study at the same time as the patients. At least 2-3 breath samples are expected to be taken from each prospective control on different days at the same time of day. The same healthy controls will participate in both phases of the study, and the breath samples obtained will be analyzed using both methods.
+
+The healthy volunteers are selected either from the hospital staff or from patients admitted to the hospital for another reason. The prospective controls will fill in a questionnaire with demographic and medical-history data after having been informed in detail about the study by the VOCORDER team of MITERA. The questionnaire will be analyzed by the project team, and if it is concluded that the person can participate in the study, a consent form will be signed by the participant.
+
+Patients population Baseline phase
+
+Patients: a total of 175 patients, 35 for each disease, aged 18-75 years of both genders, selected according to the following inclusion criteria:
+
+1. Patients\>18 years of age of both genders
+2. They must be able to communicate and understand the information given to them by the MITERA staff.
+3. Suffer from the disease under investigation.
+4. The disease must be at the earliest possible stage, i.e., the patients must not yet have started treatment.
+5. Patients should have no other serious comorbidities that affect the derived measurements. Patients will be selected in collaboration with the clinicians responsible for the treatment and/or hospitalisation of patients with the diseases under investigation.
+
+   Criteria 1, 2, and 3 are mandatory for enrollment in the study. For the enrollment of the patients in the study specific documentation of the disease should be available to the project team as following:
+
+   For the cancer diagnosis is necessary to document the following:
+   * The type of cancer is based on histopathological findings and specific indicators results.
+   * The stage of disease is based on radiological and hematological examinations.
+
+   For the infections - pneumonia diagnosis is necessary to be determined the following:
+   * The pneumonia diagnosis based on chest -X findings, clinical syndrome and the status of inflammatory indicators (day 1).
+   * The laboratory determination of the pathogen caused the clinical syndrome (if its possible to be isolated from clinical specimens)
+   * The clinical severity of the disease based on CURB 65/SMART COP score for patients with community or health acquired pneumonia respectively and Apache II for hospitalized patients in ICU.
+
+   For kidney insufficiency is necessary:
+   * Documentation of the Chronic Kidney Disease
+   * Determination of the disease stage according to CFR rates.
+   * Hemodialysis treatment Exclusion criteria
+   * Lack of signed consent
+   * Lack of co-operation due to any reason
+   * Failure to follow the recommendations on the requirements prior to the breath sampling procedure
+   * Inability to provide a reliable breath sample
+   * Any treatment, specific diet, surgery, or other intervention having been initiated between obtaining samples for breath VOCs.
+
+   Once the patient has been informed by the MITERA team responsible for the project and has agreed to participate in the study, they must read and sign the relevant consent form for participation. Similar questionnaires with the controls (data collection forms) will be completed for the patients participating in the study.
+
+   Sampling: At least two breath samples (1 L each) are taken from each patient under similar conditions and analyzed (e.g. on different days but at the same time of day). The breath samples will be analyzed in this phase using the reference method. In the final phase, they will be stored and analyzed using the VOCORDER method. The method of taking the breath sample will be according to the recommendations following the reference method .
+
+   Validation phase Patients: The final phase of the clinical study will involve 100 patients, 20 for each disease. Patients will be selected according to the above criteria as in the baseline phase.
+
+   Sampling: Breath samples will be analyzed using both methodologies. At least two breath samples are taken from each patient under similar conditions and analyzed (e.g. on different days but at the same time of day). The method of taking the breath sample will be according to the recommendations following the reference method and the VOCORDER-specific technical requirements.
+
+   Table 1 Description of the clinical phases Clinical phases BASELINE PHASE VALIDATION PHASE Patients and healthy control population Patients Group 1 Healthy controls Patients Group 2 Healthy controls Size of population (No) 175 120 (at least) 100 120 Methodology of breath analyses SESI-MS and GC-MS reference method SESI-MS and GC-MS reference method SESI-MS and GC-MS reference method SESI-MS and GC-MS reference method Vocorder technology Vocorder technology
+
+   Methodology of breath analysis During the initial baseline phase, the reference method of mass spectrometry will be used to analyze the exhaled breath of patients and healthy volunteers. Breath samples are collected in 1 L gas sampling bags and will be sent to the breath analysis laboratory at ETH Zurich for offline analysis .
+
+   In the subsequent validation phase, the clinical samples are analyzed using both methods, the VOCORDER technique and the reference method of mass spectrometry to ensure robust comparison and validation of the results.
+
+   Diseases and Data collection (AIDEAS, MITERA) Furthermore, an extensive evaluation of risk factors for various health conditions reveals a complex interplay between genetic predisposition, environmental exposures, lifestyle choices, and underlying health conditions. For lung cancer, indisputably, the primary risk factor remains tobacco smoke, with about 85% of lung cancer cases being directly attributable to smoking, including secondhand smoke exposure (CDC, 2021). Radon exposure, occupational exposures to substances such as asbestos, certain metals, and diesel exhaust, as well as air pollution, further contribute to risk, alongside a family history of lung cancer (American Cancer Society, 2021).
+
+   Breast cancer's multifactorial etiology involves hormonal factors such as early menarche, late menopause, and hormone replacement therapy, combined with lifestyle factors like alcohol consumption, physical inactivity, and obesity. Genetic factors play a significant role, with mutations in the BRCA1 and BRCA2 genes markedly increasing risk. Furthermore, reproductive history, including age at first childbirth and breastfeeding, influences risk profiles (National Breast Cancer Foundation, 2021).
+
+   Gastric cancer risk is intricately connected to diet, Helicobacter pylori infection, smoking, and family history. The International Agency for Research on Cancer (IARC) recognizes H. pylori as a class I carcinogen for gastric cancer. Additionally, a diet rich in smoked foods, salted fish and meat, and pickled vegetables is associated with higher rates of gastric cancer, especially in regions like East Asia where these foods are dietary staples (World Cancer Research Fund, 2020).
+
+   Chronic kidney disease (CKD) and kidney insufficiency arise from conditions such as diabetes and hypertension, which are responsible for up to two-thirds of cases. Other risk factors include a family history of kidney disease, age over 60, and ethnicity, with African Americans, Native Americans, and Asian Americans at increased risk. Chronic use of NSAIDs and exposure to contrast dyes in imaging also pose risks (National Kidney Foundation, 2021).
+
+   Infections like pneumonia are influenced by an individual's immune status, with the very young, the elderly, and immunocompromised individuals being particularly susceptible. Environmental factors such as air quality, smoking, and exposure to respiratory irritants are essential, as are chronic respiratory diseases like asthma and Chronic obstructive pulmonary disease (COPD). Seasonal influenza can predispose individuals to bacterial pneumonia, illustrating the interrelationship between viral and bacterial infections (CDC, 2021). Understanding these risk factors is crucial for the development of preventive strategies, early detection methods, and the formulation of public health policies aimed at mitigating the impact of these diseases.
+
+   In conclusion, our comprehensive questionnaire will integrate a broad spectrum of demographic information and medical history details to assess the participant's health profile thoroughly. Demographic data such as age, gender, race/ethnicity, income, education level, occupation, marital status, and geographic location will offer a contextual background for individual health statuses. Medical history inputs, including weight, height, BMI, smoking habits, alcohol consumption, dietary habits, physical activity levels, comorbidities, and a detailed record of chronic diseases, infections, medication use, surgeries, and hospitalizations will provide a deeper insight into each participant's health risks. Additionally, we will assess psychological factors like depression and anxiety, as well as environmental and lifestyle influences such as occupational exposures, genetic predispositions, sleep patterns, and stress levels. This data will enable us to identify correlations and patterns that may contribute to disease prevalence and outcomes, as well as to the detected VOCs concentrations from the breath analyses. In addition, the concentrations of molecules produced by these diseases might vary due to endogenous processes such as the circadian rhythm or the health status of the subjects or due to additional external factors such as medication, usage of cosmetic products, or physical exercise. These factors will, where possible, be monitored.
+
+   Collection and uploading of clinical data. The data will be collected by the MITEPA project team and stored in a computerised working folder within the hospital. The folder is only accessible to the MITERA project team. The patient-related data will then be anonymized and entered into a specially developed database shared with the other partners - authorized users. The database also includes the results using both methodologies.
+
+   Ensuring data protection. The protection of the personal data of the patients participating in the study will be ensured within the framework of Greek legislation, the relevant European GDPR and the MITERA hospital regulations.
+
+   Statistical Analysis planning and sample size calculation (ICCS) According to the needs of the VOCORDER project a statistical analysis from the high-resolution spectra from breath samples data will be provided in Task 4.2. This analysis will utilize several AI techniques of different technologies for differentiating between classes of samples in terms of health-related latent properties, moreover, this automated process will identify correlations and dependencies among the selected diseases parameters, individual biomarker bands and descriptors from the recorded data.
+
+   For the successful design approach and analysis of the clinical samples it is necessary to investigate the state-of-the-art approaches. Table 2 summarizes the reported Volatile Organic Compounds (VOCs) for the VOCORDER's diseases. VOCs can be used for detecting the VOCORDER's diseases based on statistical analysis using several kinds of machine learning algorithms (i.e., unsupervised, supervised, semi-supervised, and XAI). The following paragraphs of this section provide information about the current state-of-the-art machine learning approaches. The literature's described approaches will be used as prior knowledge for designing the machine learning models for the VOCORDER project after the successful collection of the clinical samples.
+
+   Table 2 Exhaled breath volatile organic compounds for the VOCORDER diseases. Diseases Reported Volatile Organic Compounds Lung Cancer Isopropanol Acetone Pentane Benzene Gastric and Colon Cancer Propanal Acetamide Isoprene 1,3-Propanediol Ethylene Methyl Isobutyl Ketone Acetic Acid m- Toluyl Aldehyde 1,2,5 Trimethylbenzene Breast Cancer (S)-1,2-propanediol Cyclopentanone Ethylene Carbonate 3-Methoxy-1,2-Propanediol 3-Methylpyridine Phenol Tetramethylsilane Kidney Insufficiency Cyclohexanol 3-Hydroxy-2-Butanone 3-Methyl Butanal Dimer of isoprene Infections-Pneumonia Methanol Acetaldehyde Propiolonitrile 2-Choloropyridine Unsupervised AI Models Unsupervised AI Principal Component Analysis (PCA) has been investigated as a solution to the detection of cancer from breath samples. In the work of Maiti et al., it is discussed a case study of 63 volunteers composed of healthy and non-healthy samples, among them patients with kidney cancer, bladder cancer, and prostate cancer. Their data collection was based on laser-free broadband mid-infrared Fourier-transform spectroscopy for detecting cancer-sensitive metabolites gases (i.e., ethyl vinyl ketone, acetaldehyde, methyl butyrate, etc.). Their analysis, supported by supervised methods, indicated that these methodologies can be utilized for cancer detection. However, further research is required.
+
+   A similar research has been applied in the work of Aslam et al. In this case they investigated the diagnosis of early-stage gastric cancer based on unsupervised deep learning. They propose an innovative method for feature extraction based on a stacked sparse autoencoder for extracting discriminative features from unlabeled data of breath samples. Their results indicate that deep-stacked sparse autoencoder neural networks are able to achieve an overall accuracy of 98.7% for advanced gastric cancer classification and 97.3% for early gastric cancer detection using breath analysis.
+
+   The study by Alkhalifah et al. investigated cancer detection through VOCs analysis, analyzing 74 clinical breath samples using Gas Chromatography Mass Spectrometry from participants. They propose an unsupervised clustering technique named VOCCluster for measuring mass spectra similarities of VOCs. Their work resulted in the VOCCluster approach achieving better scores compared to state-of-the-art algorithms such as DBSCAN and OPTICS.
+
+   Supervised and Semi-supervised AI Models Supervised-based machine learning can be used as well for cancer detection. Begum et al. investigates the identification of Leukemia based on cancer biomarkers. For their analysis, they considered Naive Bayes (NB), K-Nearest Neighbors (KNN) and Support Vector Machines (SVMs) algorithms for supervised learning. Their experimentation was performed by changing the size of the training set (i.e., used train sized of 20, 33 and 48 samples) and 33 samples for the test size. In all cases, the SVM algorithm scores were better than the other algorithms, however the authors concluded that future studies are necessary.
+
+   Zhou et al. investigated the detection of Lung Cancer from 236 breath samples (176 healthy and 60 patients) using supervised learning. Each sample is composed of 308 features extracted from the chromatogram, while their experimental setup was based on the gradient boost decision trees algorithm. Using these parameters, they achieved an accuracy of 85% evaluated with 6-fold cross validation. Based on statistical bootstrap analysis 72% of the sampled are marked as "confident" with 93% accuracy of the confident samples in cross-validation.
+
+   Finally, semi-supervised machine learning has been applied effectively in the detection of lung-related diseases like SARS-CoV-2 . Moreover, in the work of Shi et al it is proposed a semi-supervised deep transfer learning approach for detecting lung nodules that indicate lung cancer. These studies demonstrate the feasibility of using both supervised and semi-supervised learning methods for the detection of diseases based on breath analysis. However, all the aforementioned works concluded that further research is necessary to improve these technologies and provide a working solution capable of being used for medical treatment.
+
+   The VOCORDER's statistical analysis planning The VOCORDER project aims to develop a device for the detection of several breath related diseases. To enable the detection and classification of these diseases, the project will explore a range of models, including supervised, unsupervised, and semi-supervised approaches. In addition, the VOCORDER project will utilize explainable AI technology for trying to maximize the accuracy of the final models. At this stage, it is premature to detail specific statistical analyses due to the absence of measurements.
+
+   According to the literature, one viable strategy involves employing advanced classification techniques such as SVM, K-NN, NB, or Decision Trees to explore disease detection. A novel approach includes advanced artificial intelligence models, such as LSTM or CNN-based models. Explainable AI methods will also be applied not only to assess the likelihood of a disease but to elucidate the rationale behind the AI model's conclusions.
+
+   Sample size calculation In VOCORDER's project endeavor to construct unbiased machine learning models to diagnose various diseases, we have meticulously calculated the requisite sample size, adhering to stringent statistical criteria. To analyze separate two-class problems, such as distinguishing between healthy individuals and those suffering from a specific disease, our objective is to achieve a sensitivity and specificity of at least 90%. This ambition necessitates a minimum of 35 subjects per class, underpinning the study with a confidence level of 95% and a margin of error set at 10%. While this margin exceeds the typically recommended 5% for disease-related research, it serves as our preliminary standard. With the inclusion of four distinct diseases in our study, the requirement escalates to a minimum of 35 subjects for each disease category. Furthermore, to reflect the demographic disparities in disease occurrence, such as the higher prevalence of breast cancer among women, the group of healthy participants needs to be significantly larger. This strategic sample size determination is pivotal for the successful development of unbiased and effective machine learning models.

@@ -1,0 +1,16 @@
+Routine Electronic Patient-reported Outcome Measures During and After Radiotherapy: A Randomized Controlled Study
+Patients in this study will be asked to periodically self-report their symptoms using their smartphones during the radiotherapy period and during the acute phase (3 months) after treatment, and radiation oncology physicians will evaluate the impact on cancer patients' quality of life and determine whether they can improve health outcomes by using this data in their practice.
+Cancer
+BEHAVIORAL: PRO-CTCAE, Pain NRS
+Mean change score from baseline in Quality of Life Assessment Tool (EORTC-QLQ-C30), Comparison of quality of life assessment tool scores between groups is performed using independent t-test. Linear mixed-effect model is used in the intention-to-treat study population. Age, sex, pretreatment PROM score, cancer type, and stage are controlled as fixed covariates, and radiation oncology and attending physician are controlled as random intercepts. For sensitivity analysis, additional analysis is performed on patients who completed more than 80% of the REPROM questionnaire. Since this study is an exploratory analysis, a two-sided significance level of .05 is used for all comparisons without redundancy adjustment., 36 months after registration
+The purpose of this study is to determine the efficacy, feasibility, and acceptability of routine PROM reporting using smartphones during treatment and during the acute phase after treatment in patients undergoing radiotherapy.
+
+Subjects who voluntarily consent to the study will be assigned to either the test group or the control group through randomization.
+
+• Test group: REPROM group Subjects in the test group will self-report symptoms that occur using smartphones before radiotherapy, once a week during treatment, at the end of treatment, once a week until one month after treatment, and at 1 month and 3\~6 months after treatment (PRO-CTCAE, Pain NRS). The radiation oncologist will identify the symptoms reported in the REPROM and take appropriate medical measures to improve the symptoms based on this.
+
+A survey alert is sent to the patient at the time of REPROM implementation, and the subject uses a smartphone to conduct a self-report questionnaire on patient symptoms sent through the mobile messenger KakaoTalk as shown in the screenshot below. The survey data is automatically sent to the EMR and can be checked by the attending physician at the time of consultation. A score of 4 or higher will be automatically alerted to the attending physician and the research nurse, and the research nurse may contact the subject if necessary and recommend additional care to the attending physician.
+
+• Control group: Usual care group Control subjects receive usual care without self-report of REPROM. Subjects in both groups may receive appropriate medical attention for the symptoms observed at the time of treatment. Subjects in both groups will be asked to take HR-QOL questionnaires (EORTC-QLQ-C30, EQ-5D-5L, EQ-VAS) before radiotherapy, at the end of treatment, at 1 month after treatment, and at 3\~6 months after treatment.
+
+\*Study design: a prospective randomized parallel-group pilot study

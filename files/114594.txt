@@ -1,0 +1,52 @@
+Tamoxifen Citrate or Z-Endoxifen Hydrochloride in Treating Patients With Locally Advanced or Metastatic, Estrogen Receptor-Positive, HER2-Negative Breast Cancer
+This randomized phase II trial studies how well tamoxifen citrate works compared with z-endoxifen hydrochloride in treating patients with breast cancer that has spread to nearby tissue or lymph nodes or other parts of the body and has estrogen receptors but not human epidermal growth factor receptor 2 (HER2) receptors on the surface of its cells. Estrogen can cause the growth of tumor cells. Hormone therapy using tamoxifen citrate or z-endoxifen hydrochloride may fight breast cancer by lowering the amount of estrogen the body makes. It is not yet known whether tamoxifen citrate or z-endoxifen hydrochloride is more effective in treating patients with breast cancer.
+Recurrent Breast Carcinoma|Stage III Breast Cancer AJCC v7|Stage IIIA Breast Cancer AJCC v7|Stage IIIB Breast Cancer AJCC v7|Stage IIIC Breast Cancer AJCC v7|Stage IV Breast Cancer AJCC v6 and v7
+DRUG: Endoxifen Hydrochloride|OTHER: Laboratory Biomarker Analysis|OTHER: Pharmacological Study|DRUG: Tamoxifen Citrate
+Progression Free Survival (PFS), The primary endpoint is progression-free survival (PFS) defined as the time from randomization to documentation of local, regional or distant disease progression or death without progression of disease., Assessed up to 5 years
+Incidence of Adverse Events, Per Common Terminology Criteria for Adverse Events (CTCAE) Version 4.0, For a given adverse event (AE), the proportion of patients on each treatment arm who report developing a grade 2-5 of this AE will be determined., Up to 5 years|Tumor Response Rate by Study Arm, Defined as the Number of Patients With a Complete or Partial Response, Defined by Response Evaluation Criteria in Solid Tumors on 2 consecutive evaluations at least 6 weeks apart, divided by the total number of eligible patients who began study treatment. A 90% binomial confidence interval will be constructed for the true response rate., Up to 5 years|Overall Survival Distribution by Study Arm, The distribution of survival times will be estimated using the method of Kaplan-Meier., The time from registration to death due to any cause, assessed up to 5 years
+Deoxyribonucleic Acid (DNA) Alterations as Measured by Foundation Medicine, Data will be returned as presence or absence of various DNA alterations, along with description of type and location of the alteration. The nature of alterations in each pathway and gene will be described in tabular format. Association of presence or absence of DNA alterations with PFS will be assessed overall, by pathway, and by gene via Cox regression with the goal of evaluating hazard ratio estimates and confidence intervals. Alterations will be considered together as well as by type. Model fit and stability evaluated, and exact methods used if needed. Performed for both arms and within arms., Baseline|Nuclear Receptor Coactivator 3 (SRC3) Immunohistochemistry Expression Levels, Within each treatment arm, a point and interval estimate of the difference in tumor response rate between those with metastatic SRC3-positive disease and those with metastatic SRC3-negative disease will be constructed using the properties of the binomial distribution. Also, a point and interval estimate of the odds of disease progression among those with metastatic SRC3-positive disease relative to those with metastatic SRC3-negative disease will be ascertained from the parameter estimates of fitting a proportional hazard model to the progression data., Baseline|Change in Biochemical Markers of Bone Turnover, For each of the markers of bone formation, the percent change after 2 courses of treatment from pre-treatment levels will be determined. A two-sided alpha = 0.01 z-test will be used to assess whether the percent change in a given bone absorption biomarkers differs with respect to treatment., Baseline to week 8 (after course 2)|Z-endoxifen Hydrochloride Area Under Curve (AUC), A population PK will be developed using the software program NONMEM, Version 7. The model will be parameterized in terms of AUC (the primary endpoint), as well as clearance and volume of distribution. Criteria for model selection will include the likelihood ratio test, shrinkage estimates, reasonableness of parameter estimates, as well as goodness-of-fit plots. Attempts will be made to identify the covariates that affect drug behavior or those that explain variability in this patient population., Baseline, 2-4, and 4-6 hours post-administration day 1 of course 1; baseline day 2 of course 1; pre-administration day 1 of course 3; pre-administration day 1 of course 9|Pharmacokinetic (PK) Data, Examined in an exploratory and hypothesis-generating fashion. Pharmacokinetic-pharmacodynamic (PD) relationships will be explored for effects of endoxifen on efficacy-related, adverse events or laboratory parameters of clinical interest. Exploratory/graphical analyses will be conducted for PK/PD evaluations and may be followed by model-based analyses. The data may be pooled with data from other/future studies for additional population PK/PD analyses., Baseline, 2-4, and 4-6 hours post-administration day 1 of course 1; baseline day 2 of course 1; pre-administration day 1 of course 3; pre-administration day 1 of course 9|Pharmacogenetic Data, Examined in an exploratory and hypothesis-generating fashion., Baseline|Pharmacodynamic Data, PK/PD relationships will be explored for effects of endoxifen on efficacy-related, adverse events or laboratory parameters of clinical interest. Exploratory/graphical analyses will be conducted for PK/PD evaluations and may be followed by model-based analyses. The data may be pooled with data from other/future studies for additional population PK/PD analyses., Baseline, 2-4, and 4-6 hours post-administration day 1 of course 1; baseline day 2 of course 1; pre-administration day 1 of course 3; pre-administration day 1 of course 9
+PRIMARY OBJECTIVES:
+
+I. To assess whether progression-free survival with z-endoxifen hydrochloride (HCl) relative to that with tamoxifen (tamoxifen citrate) is prolonged in postmenopausal women with local advanced or metastatic estrogen receptor (ER) positive/Her2 negative breast cancer.
+
+SECONDARY OBJECTIVES:
+
+I. To assess the safety profile of each of these agents in this patient population.
+
+II. To assess whether the tumor response rate (as determined using the Response Evaluation Criteria in Solid Tumors \[RECIST\] criteria) among those randomized to z-endoxifen HCl differs from that among those randomized to tamoxifen.
+
+III. To estimate the median progression-free survival time for those who receive z-endoxifen HCl after disease progression with tamoxifen.
+
+CORRELATIVE SCIENCE OBJECTIVES:
+
+I. To examine whether ER alpha alterations (defined as either ER activating mutations or ER amplification) are associated with longer progression-free survival (PFS) or higher response rates in the z-endoxifen HCl arm compared to the tamoxifen arm.
+
+II. To determine changes in lipid profiles comparing tamoxifen and z-endoxifen HCl.
+
+III. For each treatment, to evaluate changes in markers of bone formation and absorption after 12 weeks (4 cycles) of treatment.
+
+IV. For all patients and by treatment arm, to determine whether progression-free survival differs with respect to the sensitive to endocrine therapy (SET) index.
+
+V. To examine whether deoxyribonucleic acid (DNA) alterations as measured by Foundation medicine in all coding exons of 287 cancer-related genes as well as 78 polymorphisms in 34 absorption, distribution, metabolism, and excretion (ADME)-related genes are associated with longer PFS or higher response rates in the z-endoxifen HCl arm compared to the tamoxifen arm.
+
+VI. To assess whether the molecular characteristics identified in the tumor biopsies are detectable in the circulating tumor cells (CTCs) and/or cell-free DNA (cfDNA).
+
+VII. For each treatment arm: to examine changes in ER expression on CTCs, changes in estrogen receptor (ESR) mutations or amplification in CTCs or CfDNA and explore the impact of these changes on PFS and response rates.
+
+PHARMACOKINETICS AND PHARMACOGENOMICS OBJECTIVES:
+
+I. To further characterize pharmacokinetics, pharmacogenetics and metabolism of z-endoxifen HCl and tamoxifen.
+
+II. To determine the impact of the concentrations of tamoxifen and its metabolites on PFS in the tamoxifen arm.
+
+III. To determine the impact of the concentrations of z-endoxifen HCl and its metabolites on PFS in the endoxifen arm.
+
+V. To determine the impact of genetic variation in the enzymes responsible for tamoxifen and z-endoxifen HCl metabolism.
+
+OUTLINE: Patients are randomized to 1 of 2 treatment arms.
+
+ARM I: Patients receive z-endoxifen hydrochloride orally (PO) on days 1-21. Courses repeat every 21 days in the absence of disease progression or unacceptable toxicity.
+
+ARM II: Patients receive tamoxifen citrate PO once daily (QD) on days 1-21. Courses repeat every 21 days in the absence of disease progression or unacceptable toxicity. Patients with disease progression and bone metastases may cross over to Arm I and receive z-endoxifen hydrochloride starting no later than 28 days after documentation of disease progression.
+
+After completion of study treatment, patients are followed up yearly for up to 5 years.

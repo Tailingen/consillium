@@ -1,0 +1,40 @@
+Reduced Intensity Double Umbilical Cord Blood Transplantation
+This trial will use two cord blood units for transplantation using a reduced intensity regimen rather than using intense doses of chemotherapy and radiation therapy. Two cord blood units (double cord blood) are being used, as the numbers of blood cells in one unit are too few to allow successful growth of these cells.
+
+Because the risk of infection, particularly virus infection, is high after double cord blood transplant, this study seeks to reduce the rise of virus infection by using a reduced intensity regimen without a medicine called antithymocyte globulin (ATG), as used in prior cord blood transplants. Subjects will receive two chemotherapy drugs, melphalan and fludarabine, and low dose of total body radiation (one treatment) instead of the ATG. The number of patients with virus infections in this study will be compared to our prior experience using the ATG.
+Non-Hodgkin's Lymphoma|Hodgkin's Lymphoma|Multiple Myeloma|Chronic Lymphocytic Leukemia|Acute Myelogenous Leukemia
+DRUG: Fludarabine|DRUG: Melphalan|RADIATION: Total Body Radiation|BIOLOGICAL: Cord Blood
+Number of Participants With a Clinically Significant Infection, The one year significant infection rate (infections requiring medical intervention) after double umbilical cord blood transplant using a novel conditioning regimen of fludarabine/melphalan/low dose total body radiation. The data is shown as the number of significant infections participants experienced during the first year, measured from the start of treatment., 1 Year
+Median Time to Neutrophil Engraftment, The median number of days measured from the time of transplantation, until the first documented neutrophil engraftment. neutrophil engraftment is defined as the first of 3 consecutive days of absolute neutrophil count \> 500 neutrophils per microliter of blood., From the time of transplantation, until the time of neutrophil engraftment, median duration of 24 days|Median Time to Platelet Engraftment, The time to platelet engraftment is measured from the time of transplantation until the time of first documented platelet engraftment. Platelet engraftment is defined as a platelet count ≥ 20,000/µL for three consecutive measurements over three or more days. The first of the three days will be designated the day of platelet engraftment. Subjects must not have had platelet transfusions during the preceding 3 days or in the following 7 days after the day of engraftment, unless the platelet transfusion is being given specifically to achieve a platelet threshold to allow an elective invasive procedure, such as a central catheter removal., From the time of transplantation, until the time of platelet engraftment, median duration of 52 days|Number of Participants With Primary Graft Failure, Primary graft failure is defined as the failure to achieve an absolute neutrophil count (ANC) \>500/ µL by day 42, in the absence of relapse., From the time of transplantation until 42 days post transplantation|Rates of Grade II-IV and Grade III-IV Acute Graft Versus Host Disease (GVHD) at 100 Days, Acute GVHD is assessed using Consensus Criteria:
+
+Organ Classifications:
+
+* 0: No rash due to GVHD; Bilirubin \< 2 mg/dL; \< 500 mL diarrhea/ day
+* 1: Maculopapular rash \< 25% of body surface; Bilirubin 2-3 mg/dL; 500 to 999 mL diarrhea/ day or persistent nausea with histologic evidence of GVHD in stomach/ duodenum
+* 2: Maculopapular rash 25-50% of body surface; Bilirubin 3.1-6 mg/dL; 1,000 to 1,499 mL diarrhea/ day
+* 3: Maculopapular rash \> 50% of body surface; Bilirubin 6.1-15 mg/dL; 1,500 or more mL diarrhea/ day
+* 4: Generalized erythroderma with bullous formation; Bilirubin \> 15 mg/dL; Severe abdominal pain with or without ileus
+
+Overall Clinical Grade:
+
+* 0: No Stage 1-4 of any organ
+* I: Stage 1-2 rash and no liver or gut involvement
+* II: Stage 3 rash, or Stage 1 liver involvement, or Stage 1 gut involvement
+* III: None to Stage 3 skin rash with Stage 2-3 liver involvement, or Stage 2-4 gut involvement
+* IV: Stage 4 skin rash, or Stage 4 liver involvement, 100 Days|The Rate of Chronic GVHD, Chronic Graft Versus Host Disease (GVHD) is assessed using the National Institutes of Health (NIH) consensus criteria., From the time of transplantation until the time of chronic GVHD onset, up to 1 year|100-day Treatment Related Mortality, The percentage of treatment related participant deaths within 100 days of receiving umbilical cord blood transplantation. All deaths in the absence of relapse of the primary malignancy will be considered treatment related mortality., 100 Days|Immune Reconstitution - Median CD4 Count at 12 Months, 1 Year|Relapse-free Survival, The percentage of participants that have not died or had disease progression by two years. Relapse is defined by either morphological or cytogenetic evidence of the original malignancy consistent with pre-transplant features., 2 years|Overall Survival, The percentage of participants alive at two years, 2 years|1 Year Relapse Rate, The percentage of participants that relapsed within 12 months. Relapse is defined by either morphological or cytogenetic evidence of the original malignancy consistent with pre-transplant features., 1 year|Rate of Post-transplant Lymphoma, The number of participants that were found to have lymphoma post-transplant., 2.5 years|Median Thrombopoietin Levels After Transplant, 30 Days
+Subjects will receive their transplants as in-patients.
+
+* IV-Catheter
+
+  * one or two IV catheters will be placed on the day of hospital admission
+* Conditioning
+
+  * Fludarabine IV six days before transplant (days -7, -6, -5. -4, -3, -2)
+  * Melphalan IV (day -1)
+  * Total body radiation on day 0 (same day as transplant)
+* Immunosuppressive Therapy
+
+  * Tacrolimus and sirolimus beginning day -3, daily for 6-9 months post-transplant. Given IV as in-patient, orally as out-patient
+* Infusion of Cord Blood units
+
+  * 2 cord blood units IV on Day 0 Routine post-transplant supportive care will be provided

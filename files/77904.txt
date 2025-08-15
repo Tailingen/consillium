@@ -1,0 +1,22 @@
+Pembrolizumab in Treating Patients With Stage IV Metastatic or Recurrent Inflammatory Breast Cancer or Triple-Negative Breast Cancer Who Have Achieved Clinical Response or Stable Disease to Prior Chemotherapy
+This phase II trial studies how well pembrolizumab works in treating patients with stage IV inflammatory breast cancer or triple-negative breast cancer that has spread to other places in the body (metastatic) or has come back (recurrent), and who have achieved clinical response or stable disease to prior chemotherapy. Immunotherapy with monoclonal antibodies, such as pembrolizumab, may help the body's immune system attack the cancer, and may interfere with the ability of tumor cells to grow and spread.
+Edema|Erythema|Estrogen Receptor Negative|HER2/Neu Negative|Peau d'Orange|Progesterone Receptor Negative|Recurrent Inflammatory Breast Carcinoma|Stage IV Inflammatory Breast Carcinoma|Triple-Negative Breast Carcinoma
+OTHER: Laboratory Biomarker Analysis|BIOLOGICAL: Pembrolizumab
+Rate of disease control, Defined as the percentage of patients either with measurable disease that maintain immune complete response (iCR), immune partial response, immune stable disease (iSD), or with non-measurable disease that achieve iCR or iSD, by 4 months or more in all evaluable patients. A disease control rate of 10% or lower will be considered treatment failure and the regimen will be rejected under this circumstance. A 95% exact binomial confidence interval on disease control rate will be computed. Will also perform secondary analysis on intent-to-treat patient population where those patients who drop out early will be considered as progression., Up to 3 months post-treatment
+Biomarker analyses, Correlation among biomarkers at baseline in each specimen and between different specimens will be assessed. The association among various continuous and discrete biomarkers or disease status groups will be assessed by the exploratory data analysis using scatter plot matrix, box plots, BLiP plot and trellis plot, etc, and may be tested by t-test/analysis of variance/Wilcoxon rank sun test/Kruskal-Wallis test, whichever is appropriate. Correlation between continuous biomarkers will be examined by Pearson or Spearman rank correlation coefficients., Baseline|Disease control survival, Estimated using Kaplan-Meier method., Up to 3 months post-treatment|Overall survival time, Estimated using Kaplan-Meier method., Up to 3 months post-treatment
+PRIMARY OBJECTIVES:
+
+Primary Objective: To assess the efficacy of MK-3475 as a single agent in patients with metastatic IBC or non-IBC TNBC
+
+EXPLORATORY OBJECTIVES:
+
+1. To investigate the association between biomarkers in the peripheral blood and tumor tissue, such as PD-L1 expression, with safety and efficacy for IBC or non-IBC TNBC patients treated with MK-3475.
+2. To determine the disease control rate of metastatic IBC or non-IBC TNBC patients who have achieved clinical response or stable disease to the systemic therapy.
+3. To investigate the association between biomarkers and efficacy by RNA-sequencing of exosomes in blood and tumor for IBC or non-IBC TNBC patients treated with MK-3475.
+4. To investigate the 5-year OS for IBC or non-IBC TNBC patients treated with MK-3475
+
+OUTLINE:
+
+Patients receive pembrolizumab 200mg IV over approximately 30 minutes on day 1. Cycles repeat every 21 days for 8 cycles and then pembrolizumab 400mg IV every 42 days for total up to 24 months in the absence of disease progression or unacceptable toxicity
+
+After completion of study treatment, patients are followed up at approximately 1 and 3 months.

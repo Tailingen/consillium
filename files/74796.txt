@@ -1,0 +1,40 @@
+Telaglenastat Hydrochloride and Osimertinib in Treating Patients With EGFR-Mutated Stage IV Non-small Cell Lung Cancer
+This phase Ib trial studies the side effects and best dose of telaglenastat hydrochloride when given together with osimertinib in treating patients with stage IV non-small cell lung cancer and a mutation in the EGFR gene. Telaglenastat hydrochloride and osimertinib may stop the growth of tumor cells by blocking some of the enzymes needed for cell growth.
+Advanced Lung Non-Small Cell Carcinoma|Metastatic Lung Non-Small Cell Carcinoma|Stage IV Lung Cancer AJCC v8
+PROCEDURE: Biospecimen Collection|PROCEDURE: Computed Tomography|PROCEDURE: Magnetic Resonance Elastography|DRUG: Osimertinib|PROCEDURE: Positron Emission Tomography|DRUG: Telaglenastat Hydrochloride|PROCEDURE: X-Ray Imaging
+Recommended phase II dose (RP2D), Up to 28 days
+Dose limiting toxicities (DLT), Will be assessed by Common Terminology Criteria for Adverse Events (CTCAE) version 5.0. Frequency and severity of adverse events and tolerability of the regimen will be collected and summarized by descriptive statistics. The maximum grade for each type of toxicity will be recorded for each patient, and frequency tables will be reviewed to determine toxicity patterns., Up to 28 days|Progression-free survival (PFS), Survival will initially be modeled using Kaplan-Meier methods, resulting in median survival times with 95% CI, assuming sufficient events have occurred., From initiation of therapy to documented progression or death without progression, assessed up to 30 days after completion of therapy|Overall survival (OS), Survival will initially be modeled using Kaplan-Meier methods, resulting in median survival times with 95% CI, assuming sufficient events have occurred., From initiation of therapy to death from any cause, assessed up to 30 days after completion of therapy
+Post-glutaminase inhibitor CB-839 hydrochloride pharmacokinetics (PK) (CB-839 HCl), Will be assessed by CB-839 HCl drug levels following both single agent therapy as well as combination therapy with CB-839 HCl and osimertinib (AZD9291). Will explore PK endpoints such as concentration steady state (Css), area under the curve (AUC), clearance (CL), volume of distribution (Vd), and half-life (t1/2) computed using non-compartmental and compartmental methods. Will use graphical analyses as well as repeated measure models (linear or nonlinear mixed models, generalized estimating equations \[GEE\]) to assess the PK and pharmacodynamics (PD) markers described above in relation to clinical treatment outcomes, recognizing some inherent limitations due to sample size., Day 15 of cycle 1, day 2 of cycle 2 and day 1 of each subsequent cycle (each cycle = 28 days)|Post-AZD9291 pharmacokinetics, Will be assessed by AZD9291 drug levels following combination therapy with CB-839 HCl and AZD9291. Will be assessed by CB-839 HCl drug levels following both single agent therapy as well as combination therapy with CB-839 HCl and AZD9291. Will explore PK endpoints such as Css, AUC, CL, Vd, and t1/2 computed using non-compartmental and compartmental methods. Will use graphical analyses as well as repeated measure models (linear or nonlinear mixed models, GEE) to assess the PK and PD markers described above in relation to clinical treatment outcomes, recognizing some inherent limitations due to sample size., Day 2 of cycle 2 and day 1 of each subsequent cycle (each cycle = 28 days)|Change in EGFR mutational status, Will be assessed by cell-free deoxyribonucleic acid (cfDNA). All continuous measurements will be summarized using mean +/- standard error of mean (SEM), range, and median at each time point. Changes in these measurements from baseline to after treatment, or baseline to progression will be assessed using paired Wilcoxon tests. Adjustments for multiple comparisons or multiple outcomes will be performed using Bonferroni correction., Baseline up to disease progression, assessed up to 30 days after completion of therapy|Change in circulating levels of glutamine, glutamate, aspartate, and asparagine, Will be assessed by plasma concentrations of these compounds. All continuous measurements will be summarized using mean +/- SEM, range, and median at each time point. Changes in these measurements from baseline to after treatment, or baseline to progression will be assessed using paired Wilcoxon tests. Adjustments for multiple comparisons or multiple outcomes will be performed using Bonferroni correction., Baseline up to time of disease progression, assessed up to 30 days after completion of therapy|Change in 18F-fluorodeoxyglucose (18F-FDG)-positron emission tomography (PET) imaging, Will be summarized using mean +/- SEM, range, and median. The changes in the FDG-PET/computed tomography (CT) parameter measurements from baseline to after treatment will be compared between responders and non-responders using two sample t-test or Wilcoxon test, whichever is appropriate., Baseline up to 2 cycles of treatment (each cycle = 28 days)
+PRIMARY OBJECTIVE:
+
+I.To assess the safety and tolerability of osimertinib (AZD9291) and telaglenastat (CB-839) hydrochloride (HCl) and determine the recommended phase II dose (RP2D) in patients with metastatic, EGFR activating mutation-positive non-small cell lung cancer (NSCLC).
+
+SECONDARY OBJECTIVES:
+
+I. To determine toxicity profile of the combination of osimertinib (AZD9291) and telaglenastat (CB-839) HCl in patients with metastatic EGFR activating mutation positive NSCLC.
+
+II. To assess the pharmacokinetics (PK) of telaglenastat (CB-839) HCl and osimertinib (AZD9291) in patients with metastatic EGFR activating mutation positive NSCLC.
+
+EXPLORATORY/CORRELATIVE OBJECTIVES:
+
+I. To determine the progression free survival (PFS) of osimertinib (AZD9291) and telaglenastat (CB-839) HCl in patients with EGFR mutation positive NSCLC who have developed progressive disease (PD) on front-line EGFR inhibitor therapy.
+
+II. To determine the overall survival (OS) of osimertinib (AZD9291) and telaglenastat (CB-839) HCl in patients with EGFR mutation positive NSCLC who have developed PD on front-line EGFR inhibitor therapy.
+
+III. To assess cell-free deoxyribonucleic acid (DNA) (cfDNA) and measure changes with response to treatment as well as disease progression (EGFR sensitizing mutations, T790M resistance mutation, recognized bypass mechanisms).
+
+IV. To assess circulating levels of glutamine, glutamate, aspartate and asparagine, and measure changes with response to treatment as well as disease progression.
+
+V. To assess 18F-fluorodeoxyglucose (18F-FDG)-positron emission tomography (PET) parameters at baseline and after treatment to evaluate changes with response to treatment as well as emergence of disease resistance or progression. (Expansion cohort, select patients only)
+
+VI. To perform molecular profiling assays on malignant and normal tissues, including, but not limited to, whole exome sequencing (WES) and ribonucleic acid (RNA) sequencing (RNAseq), in order to:
+
+VIa. To identify potential predictive and prognostic biomarkers beyond any genomic alteration by which treatment may be assigned.
+
+VIb. To identify resistance mechanisms using genomic DNA- and RNA-based assessment platforms.
+
+OUTLINE: This is a phase I, dose-escalation study of telaglenastat hydrochloride followed by a dose-expansion study.
+
+Patients receive telaglenastat hydrochloride orally (PO) twice daily (BID) and osimertinib PO once daily (QD) (starting cycle 1 day 16 of phase I). Cycles repeat every 28 days in the absence of disease progression or unacceptable toxicity. Patients undergo blood sample collection and may undergo x-ray imaging, computed tomography (CT) scan, magnetic resonance imaging (MRI), or positron emission tomography (PET) scan throughout the study.
+
+After completion of study treatment, patients are followed up at 30 days.

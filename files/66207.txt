@@ -1,0 +1,20 @@
+Quantitative Imaging Metrics From CECT in Measuring Disease Response or Progression in Patients With Kidney Cancer
+This pilot research trial studies quantitative imaging metrics derived from contrast enhanced computed tomography (CECT) in enhancing assessment of disease status in patients with kidney cancer. Quantitative imaging is the extraction of quantifiable features from radiological images for the assessment of disease status. Collecting quantitative imaging metrics from CECT imaging may help doctors predict tumor aggressiveness and nuclear grade (tumor stage) and assess treatment response and prognosis in cancer imaging.
+Renal Cell Carcinoma
+OTHER: Medical Chart Review|OTHER: Informational Intervention
+Agreement between QIM predicted and pathologically determined tumor class (clear cell renal cell carcinoma [ccRCC] vs papillary [p]RCC), Cohen's kappa coefficient will be used to examine the agreement between QIM predicted and pathologically determined tumor class (ccRCC vs. pRCC)., Baseline|Agreement between QIM predicted and pathologically determined tumor (Fuhrman) grade, Examined using weighted kappa coefficient., Baseline|Agreement between QIM predicted and clinically observed perioperative measurements such as blood loss, operative time, and eGFR, Examined using two-way random single measure with absolute agreement., Baseline|Agreement between QIM predicted and clinical determined postoperative eGFR, Examined using two-way random single measure with absolute agreement., Baseline
+PRIMARY OBJECTIVES:
+
+I. To investigate the role of quantitative imaging metrics (QIM) as a potential DIAGNOSTIC biomarker.
+
+II. To investigate if QIM parameters can differentiate clear cell renal cell carcinoma (RCC) from papillary RCC.
+
+III. To evaluate the tumor grade of the target lesion as assessed by QIM from CECT for agreement with the pathological (Fuhrman) grade.
+
+IV. To investigate the role of QIM as a potential PROGNOSTIC biomarker. V. To develop a novel method of calculating renal tumor contact surface area (CSA) using advanced image-processing technology (MATLAB®, 3 dimension \[D\] Synapse) and predict peri-operative variables such as blood loss, operative time and post-operative estimated glomerular filtration rate (eGFR) in patients undergoing partial nephrectomy (PN).
+
+VI. To develop QIM that would help in predicting postoperative functional outcomes such as predicted surgically resected volume and postoperative glomerular filtration rate (GFR).
+
+OUTLINE:
+
+Patients' clinical and imaging data are collected from routine multiphase CECT imaging and used to establish and validate the classification/prediction rule for QIM.

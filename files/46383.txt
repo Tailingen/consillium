@@ -1,0 +1,27 @@
+TMLI/Fludarabine/Melphalan Conditioning for Allogeneic Transplantation in High-risk Myelodysplastic Syndrome or Acute Myeloid Leukemia.
+The goal of this clinical trial is to learn if drugs (fludarabine and melphalan) combinated with a targeted irradiation (in bone marrow and in lymphoid tissue) works to treat blood cancers (high risk myelodysplastic syndrome or acute myeloid leukemia) in adults. It will also learn about the safety of this combination of drugs and irradiation. The main questions it aims to answer are:
+
+* Does this combined therapy result in an improved survival and decreased relapse/progression rate after a bone marrow transplant?
+* What toxicities or complications do participants have when taking this combined therapy?
+
+Researchers will use this combined therapy to see if it works to treat high risk myelodysplastic syndrome or acute myeloid leukemia through the evaluation of the length of time (during the treatment and 2 years after the treatment) that a patient lives with the disease but it does not get worse (progression-free survival).
+
+Participants will:
+
+* Receive the combined therapy (study treatment) one week before the bone marrow transplant.
+* Receive too post-transplant medication as per usual clinical practice.
+
+Patients will have to attend medical visits (checkups and tests) for 2 years.
+Myelodysplastic Syndromes|Acute Myeloid Leukemia
+COMBINATION_PRODUCT: TMLI/Flu/Mel
+Progression-free survival, Time from the start of treatment to the date of death, disease relapse/progression, or date of last follow-up., From the start of therapy to 2 years after study treatment
+Overall survival, Quantification of time of patients who are still alive., From the start of therapy to 2 years after post-transplant.|Cumulative incidence of recurrence/progression, The event is relapse/progression either extramedullary or at bone marrow, From the start of therapy to 2 years after post-transplant.|Complete remission date, The event is whether or not the patient has a documented complete remission., From the day of infusion to the day 30 post-transplant.|Non-relapse mortality, Number of deaths from causes other than relapse or progression., From the start of therapy until 2 years after post-transplant.|Measurable residual disease, Measurable residual disease monitoring assessed by multiparameter flow cytometry., At 30, 90, 180 days and 1 year, 1.5 years and 2 years post-transplant.|Incidence of infection, Microbiologically documented infections., 2 years after post-transplant.|Adverse events, Any untoward medical occurrence in a patient participating in clinical research that is associated in time with the use of a medicinal product, whether or not it is considered to be related to the investigational products., 2 years after post-transplant.|Acute graft-versus-host disease grades 2-4 and 3-4, This point is classified according to the NIH criteria., 100 days post-transplant.|Chronic graft-versus-host disease, Chronic graft-versus-host disease is graded according to the NIH consensus staging., 2 years after post-transplant.
+This is a single-arm, single center phase II trial to evaluate the antileukemic activity and safety of the AHSCT TMLI/Flu/Mel conditioning regimen in patients with high-risk myelodysplastic syndrome or acute myeloid leukemia. A patient safety-lead phase will be carried out to ensure there are no unexpected toxicities. Ultimately, a total of 34 patients will be treated at the TMLI/Flu/Mel dose level deemed safe as determined during the introductory patient safety segment of this study.
+
+Up to three dose levels can be studied. A 3+3 de-escalation design comprising a patient safety-lead phase will be applied in successive patient cohorts to evaluate the safety of the TMLI schedule and identify the optimal treatment dose:
+
+Initially, 3 patients will be treated at the starting TMLI dose (Dose Level 1, 1200 cGy). If 0 or 1 DLT is observed among the first 6 patients at Dose Level 1, then 28 additional patients will be treated at this dose level (allowing for the evaluation of 34 patients treated at the target dose level). If ≥2/6 patients experience a DLT at Dose Level 1, then the MTD has been exceeded and the next lower TMLI dose (Dose Level -1, 1100 cGy) will be expanded to up to 6 patients. If 0 or 1 patient out of 6 experiences a DLT, this dose level will be further evaluated (n=28 additional patients). If ≥2/6 patients experience a DLT, the next lower dose (Dose Level -2, 1000 cGy) level will be expanded applying the same criteria. No further dose level reductions will be allowed beyond Dose Level -2.
+
+No more than 3 patients may be \&amp;amp;lt;30 days after stem cell infusion at any time during patient safety introduction. The tacrolimus dose and MMF dose will remain fixed for all defined dose levels and will not be reduced at any time.
+
+Considering this proposed design, the expected sample size of the study will be n=34 patients, with a potential minimum and maximum size of n=34 and n=46, respectively.

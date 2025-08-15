@@ -1,0 +1,29 @@
+Lung Cancer Registry
+Lung cancer is the second most common cancer in Austria with 2.868 men and 2.009 women diagnosed in 2016. Reflecting the high mortality of this disease, 2.415 men and 1.534 women died from lung cancer. Therefore, lung cancer is the most common reason for cancer associated death in men and second most common reason in women.
+
+This malignant disease can be divided into two main groups: small cell lung cancer (SCLC) and non-small cell lung cancer (NSCLC). NSCLC is a paradigm for personalized medicine, with an increasing number of targetable gene alterations. Despite this growing diversity of molecular subtypes, in most patients no targetable mutation can be detected. For these patients check-point inhibitors with or without chemotherapy is the mainstay of the initial tumor therapy. Until recently, little progress has been made in the treatment of SCLC in last decades. Recently, an overall survival benefit by the addition of an immune-checkpoint inhibitor to first-line chemotherapy for advanced SCLC has been reported.
+
+Despite the progress in the treatment of NSCLC, the performance of predictive biomarkers is weak. Therefore, the development of more precise prediction models is of great importance for the progress of personalized treatment strategies.
+Lung Cancer|NSCLC Stage IV|NSCLC, Stage III|SCLC, Extensive Stage|SCLC, Limited Stage
+General characteristics, To describe the general characteristics of advanced or metastatic stage patients in Austria (Stage III A-C and IV A-B NSCLC, limited disease (LD) and extensive disease (ED) SCLC), 10 years|Molecular testing, To describe molecular testing in patients with advanced or metastatic lung cancer
+
+* number of patients with molecular testing
+* methods for molecular testing
+* number of patients with PD-L1 testing
+
+  * PD-L1 % range per disease stage
+  * PD-L1 test antibody used
+* number of genes tested
+* number of patients with at least one mutation identified
+* number of patients with at least one druggable target identified, 10 years|Characterize subgroups, To describe and characterize subgroups
+
+* Number of patients with NSCLC
+* Number of patients that receive immune-checkpoint inhibitors
+* Number of patients with targetable/druggable mutations, 10 years|Treatment duration, To describe duration of treatment, 10 years|Treatment frequency, To describe frequency of treatment, 10 years|Degree of treatment response, To describe degree of treatment response in %, 10 years|Treatment sequence, To describe sequence of use of various treatments, 10 years|Outcome OS, To describe patient outcome by means of overall survival (OS) in %, 10 years|Outcome PFS, To describe patient outcome by means of progression free survival (PFS) in %, 10 years|Toxicity of treatment, To describe number of patients with toxicity of treatment with a focus on immune related adverse events, 10 years
+This registry is designed as multicenter observational cohort of patients with lung cancer. Patient medical, testing and treatment information will be obtained through extraction of data from existing patient medical charts. Longitudinal follow-up data, including survival and tumor progression, will also be extracted from patient medical charts. This patient follow-up data will be obtained until patient death or loss to follow-up.
+
+For documentation in the registry, no further diagnostic or therapeutic measures are required than those already necessary in general. Participation in the registry must not interfere with treatment routines. Only routine data, which has already been recorded in the patient's medical chart, is transferred to the electronic Case Report Forms. To maintain patient confidentiality, each patient will be assigned a unique patient identifying number upon enrollment; this number will accompany the patient's medical and other registry information throughout the lifetime of the registry.
+
+A written consent must be obtained prior to the input of data. No informed consent is required from deceased patients.
+
+Data will be collected from all sites willing to participate.

@@ -1,0 +1,148 @@
+Botensilimab and Balstilimab Optimization in Colorectal Cancer
+This is a single-arm, interventional, pilot clinical trial. Fifteen evaluable patients will have tumor-informed ctDNA testing at baseline and start botensilimab and balstilimab treatment. They will receive botensilimab and balstilimab in 6-week cycles until progression, after which mFOLFOX6 and bevacizumab or panitumumab will be added to the regimen. Subjects will have safety testing at baseline and every two weeks while on study drug. Study treatment with botensilimab and balstilimab, mFOLFOX6, and bevacizumab or panitumumab will be continued until radiographic or clinical progression, toxicity, or patient withdrawal. Subjects will have one safety follow up visit 30 days after the last treatment and will be followed for survival every 12 weeks for up to 2 years.
+Colorectal Cancer
+DRUG: Botensilimab|DRUG: Balstilimab|DRUG: Oxaliplatin|DRUG: Leucovorin|DRUG: Fluorouracil|DRUG: Bevacizumab|DRUG: Panitumumab
+Disease control rate based on iRECIST at second restaging scan, Disease control rate is defined as the proportion of subjects who have a complete response, partial response, or stable disease at the time of a second restaging scan. Complete response is defined as disappearance of all target lesions. Partial response is defined as at least a 30% decrease in the sum of diameters of target lesions, taking as reference the baseline sum diameters. Stable disease is defined as a decrease of less than 30% or an increase of less than 20%. Increases of 20% or greater must be confirmed 4-8 weeks later, and confirmation scans must also show an increase of at least 5 mm in the sum of lesion sizes or an increase in the number of lesions. Otherwise, the increase will be counted as stable disease., 24 weeks after screening|Proportion of subjects with a best overall response of complete response or partial response according to iRECIST, The number of subjects who went on treatment and had a complete response or partial response sometime during the study (prior to progression) divided by the number of subjects who went on treatment., up to 2 years
+Disease control rate based on RECIST v1.1 at second restaging scan, Disease control rate is defined as the proportion of subjects who have a complete response, partial response, or stable disease at the time of a second restaging scan. Complete response is defined as disappearance of all target lesions. Partial response is defined as at least a 30% decrease in the sum of diameters of target lesions, taking as reference the baseline sum diameters. Stable disease is defined as a decrease of less than 30% or an increase of less than 20%., 24 weeks after screening|Proportion of subjects with a best overall response of complete response or partial response according to RECIST v1.1, The number of subjects who went on treatment and had a complete response or partial response sometime during the study (prior to progression) divided by the number of subjects who went on treatment., up to 2 years|Months of overall survival, Months from treatment start date until the date of death from any cause., up to 2 years|Months of progression-free survival, Months from treatment start date until the date of first documented radiographic progression or date of death from any cause (whichever is first). Progression is defined as at least a 20% increase in the sum of diameters of target lesions, taking as reference the smallest sum on study (this includes the baseline sum if that is the smallest on study). In addition to the relative increase of 20%, the sum must also demonstrate an absolute increase of at least 5 mm. The appearance of one or more new lesions is also considered progression., up to 2 years
+3.1 Study Description
+
+This is a single-arm, interventional, pilot clinical trial. Subjects with newly diagnosed, metastatic or unresectable, microsatellite stable colorectal cancer without liver, bone, or brain metastases will undergo tumor-informed ctDNA collection then start study treatment with botensilimab and balstilimab alone. They will have restaging scans every 12 weeks and will have ctDNA and CEA repeated at every cycle. When the subject experiences radiographic progression per RECIST/iRECIST or clinical progression per investigator's assessment, mFOLFOX6 and either bevacizumab or panitumumab will be added to the study drug regimen. Subject will continue on the new combination until radiographic or clinical progression, intolerable toxicity, or patient withdrawal.
+
+No more than 20 subjects will be enrolled to ensure the trial obtains 15 evaluable subjects. All patients will be enrolled at the Duke Cancer Institute.
+
+* Enrolled subjects are defined as subjects who give informed consent.
+* Screen failures are defined as subjects who give informed consent and do not meet eligibility criteria.
+* Accrued subjects are defined as subjects who give informed consent and meet eligibility criteria.
+
+  * Withdrawal: Subject accrued but later withdrawn from the study, either before or after receiving a study drug.
+  * Evaluable: All subject who are accrued, receive all Cycle 1 study treatment with botensilimab and balstilimab, and complete the first cycle of safety assessments will be considered evaluable for the primary endpoints for disease control rate, best overall response, and safety.
+  * Non-evaluable: Subjects who accrued but did not complete the first cycle of safety assessments due to reasons other than study treatment-attributed toxicity (e.g., disease progression or inter-current illness) are considered non-evaluable for safety and efficacy.
+
+Study Treatment Botensilimab 75 mg IV Every 6 weeks for up to 4 doses Balstilimab 240 mg IV Every 2 weeks Oxaliplatin 85 mg/m2 IV Every 2 weeks Leucovorin 400 mg/m2 IV Every 2 weeks Fluorouracil 400 mg/m2 IV bolus Every 2 weeks Fluorouracil 2400 mg/m2 IV Every 2 weeks (over 46 hours) Bevacizumab 5 mg/kg IV Every 2 weeks Panitumumab 6 mg/kg IV Every 2 weeks
+
+5.1 Screening Period
+
+During the screening period, subjects are consented and screened for the study. Informed consent must be obtained before initiation of any screening procedure that is performed solely for the purpose of determining eligibility for this study. Evaluations performed as part of routine care before informed consent can be considered as screening evaluations if done within the defined screening period, and if permitted by the local institutional review board (IRB) policies. Study eligibility is based on meeting all of the inclusion criteria and none of the exclusion criteria before the first dose of study drug on Cycle 1 Day 1.
+
+The following study procedures must be done within 28 days prior to Cycle 1 Day 1:
+
+* Inclusion and exclusion criteria
+* Demographics
+* Medical and cancer history
+* Physical examination
+* Height
+* Vital signs and weight
+* Concomitant medications
+* CT and/or MRI of chest, abdomen, and pelvis
+* ctDNA
+* CEA
+* PT/INR (prior to fresh tissue biopsy)
+* Fresh tissue biopsy
+* Archived tissue collection
+* Tuberculosis (TB) test
+
+  * NOTE: skin test is not allowed. Interferon-Gamma Release Assay (IGRA)-based tests such as QuantiFERON TB Gold and T-Spot TB tests are acceptable.
+
+The following study procedures must be done or repeated within 7 days prior to Cycle 1 Day 1:
+
+* CBC with differential
+* CMP
+* TSH and fT4
+* Pregnancy test (only for women of childbearing potential)
+
+Subject eligibility is determined using lab results obtained up to 7 days prior to Cycle 1 Day 1. Any laboratory assessments repeated on Cycle 1 Day 1 must meet eligibility requirements. The screening period ends upon receipt of the first dose of study drug or final determination that the subject is ineligible for the study.
+
+5.2 Treatment Period
+
+During the treatment period, subjects will receive botensilimab every 6 weeks for up to 4 doses and balstilimab every 2 weeks for up to 2 years. Following progression on the doublet, mFOLFOX6 will be administered every 2 weeks. Investigators will choose between bevacizumab and panitumumab, which will be administered every 2 weeks. Cycle length is every 6 weeks, with study visits occurring every 2 weeks. A treatment window of ± 1 day is allowed for day 1 of cycle 2 and all subsequent cycles. The treatment period lasts until: 1) subject has been receiving balstilimab for 2 years; 2) disease progression; 3) the occurrence of unacceptable treatment-attributed toxicity; or 4) other reasons for subject discontinuation as described in Section 5.7. Toxicity-attributed dose modifications of any of the study drugs may occur during the Treatment Period.
+
+After the completion of the first cycle, laboratory assessments may be obtained up to 1 day prior to treatment. If necessary, the treatment visit may be within ± 1 day of the scheduled day 1 for cycle 2 and all subsequent cycles. If clinically indicated, additional visits and/or safety assessments may be warranted.
+
+The following study procedures must be completed on days 1, 15, and 29 of each cycle:
+
+* Concomitant medications
+* Physical examination
+* Vital signs and weight
+* ECOG performance status
+* CBC with differential
+* CMP
+* Administer balstilimab
+* Administer mFOLFOX6
+* Administer bevacizumab (if applicable)
+* Administer panitumumab (if applicable)
+* Adverse event assessment
+
+The following study procedures must be added to the above test/procedures on Day 1 of each cycle:
+
+* ctDNA
+* CEA
+* Administer botensilimab (maximum 4 doses)
+* Plasma for biomarker analysis (prior to treatment on C1D1 and C3D1 only)
+
+The following study procedures must be completed every 12 weeks (±1 week):
+
+* Thyroid function tests (TSH and fT4)
+* Tumor assessment (CT and/or MRI scans)
+
+The following study procedures must be completed at time of progression on doublet therapy (any time prior to the start of chemotherapy administration):
+
+* Optional biopsy of the progressing lesion
+* PT/INR (only if doing biopsy, prior to biopsy)
+
+Restaging scans will be performed every 12 weeks and disease response will be assessed using guidelines described in Section 5.6. The treatment period ends when a subject receives his or her last dose of study treatment; the subject then enters the follow-up period.
+
+5.3 Follow-up Period
+
+Subjects should return 30 (±7) days after their last dose of study drug for an end-of-treatment visit to complete the following study procedures:
+
+* Concomitant medications
+* Physical examination
+* Vital signs and weight
+* ECOG performance status
+* Adverse event assessment
+* CBC with differential
+* CMP
+* Thyroid profile (TSH and fT4)
+* Serum pregnancy test (only for women of childbearing potential)
+* ctDNA
+* CEA
+* Plasma for biomarker analysis
+
+Subjects will have a telephone visit with the study team at 90 (+/-7) days after the last dose of study drug to complete an AE assessment. Any delayed irAEs must be reported to the principal investigator. Subjects with adverse events (AEs) attributed to study drug that are ongoing at the time of this 90-day safety follow-up visit will continue to be followed unless the AE is deemed unresolvable or the subject has started a new anti-cancer treatment regimen.
+
+For subjects who are discontinued from study treatment for reasons other than disease progression, subjects will have disease status (blood tumor markers and restaging scans per standard of care schedule) followed until disease progression or start of new anti-cancer treatment regimen. Disease status may be collected via personal interviews or review of medical records.
+
+Subjects will be followed for survival up to 2 years after discontinuing the study drug regimen or until the study is closed (whichever comes first). Survival status may be collected by phone call or review of medical or public records every 12 (±2) weeks.
+
+5.4 Laboratory Assessments
+
+Local laboratories will perform all clinical laboratory tests using standard procedures, and results will be provided to the investigator. Abnormalities in clinical laboratory tests that lead to a change in subject management (e.g., dose modification, requirement for additional medication, treatment or monitoring) are considered clinically significant for the purposes of this study and will be recorded on the case report form (CRF). If laboratory values constitute part of an event that meets criteria defining it as serious, the event (and associated laboratory values) must be reported as a serious adverse event (SAE).
+
+5.5 Adverse Event Assessment
+
+AEs will be documented throughout the study. AE seriousness, grade, and relationship to study drug will be assessed by the investigator using NCI-CTCAE version 5.0.
+
+5.6 Tumor Assessments
+
+Tumor response will be assessed using RECIST v.1.1 and iRECIST. Radiographic imaging will be performed with CT scan of chest/abdomen/pelvis with and without contrast and/or MRI scan of abdomen/pelvis every 12 weeks. The same method for tumor assessment should be employed at every assessment.
+
+5.7 Subject Discontinuation
+
+Subjects will receive study treatment until treatment discontinuation for one of the reasons listed below. However, subjects may discontinue study treatment or withdraw their consent to participate in the study at any time without prejudice. All reasons for discontinuation or withdrawal from trial will be recorded.
+
+Subjects who progress on the initial doublet regimen do not have to discontinue study treatment at that time. Rather, they will add mFOLFOX6 and either bevacizumab or panitumumab and continue on study treatment. Patients who have complete response or prolonged stable disease may also elect to end study therapy after a discussion with their treating physician and with approval of the principal investigator. Reasons for subject discontinuation may include, but are not limited to, the following:
+
+* Subject has been receiving balstilimab for 2 years
+* Death
+* Confirmed radiographic disease progression after switching to the botensilimab and balstilimab plus chemo/bev/pmab
+
+  * Subjects with radiographic disease progression who are continuing to derive clinical benefit from the regimen may be allowed to continue on treatment beyond radiographic progression if, in the opinion of the investigator, it is the best interests of the patient, and with the principal investigator's approval.
+* Significant noncompliance by subject or investigator
+* Investigator or principal investigator determination that it is no longer safe and/or no longer in the subject's best interest to continue participation
+* Withdrawal of consent
+* Loss to follow-up
+* Necessity for treatment with other anticancer treatment prohibited by protocol
+* Sexually active subjects who refuse to follow the contraceptive guidelines
+* Women who become pregnant or are breast feeding
+* Request by regulatory agencies for termination of treatment of an individual subject or all subjects under the protocol
+* Discontinuation of treatment may be considered for participants who have attained a confirmed complete response (CR)

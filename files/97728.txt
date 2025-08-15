@@ -1,0 +1,36 @@
+Cisplatin/Carboplatin and Etoposide With or Without Nivolumab in Treating Patients With Extensive Stage Small Cell Lung Cancer
+This randomized phase II clinical trial studies whether the addition of nivolumab to cisplatin (or carboplatin) and etoposide will improve outcomes when treating patients with extensive stage small cell lung cancer. Chemotherapy drugs, such as cisplatin, carboplatin, and etoposide, work in different ways to stop the growth of tumor cells, either by killing the cells, by stopping them from dividing, or by stopping them from spreading. Immunotherapy with monoclonal antibodies, such as nivolumab, may help the body's immune system attack the cancer, and may interfere with the ability of tumor cells to grow and spread. Giving cisplatin/carboplatin and etoposide together with nivolumab may work better in treating patients with extensive stage small cell lung cancer.
+Extensive Stage Lung Small Cell Carcinoma|Recurrent Lung Small Cell Carcinoma
+DRUG: Carboplatin|DRUG: Cisplatin|DRUG: Etoposide|BIOLOGICAL: Nivolumab
+Progression-free Survival (PFS), PFS is defined as the time from randomization to documented disease progression or death from any cause, whichever occurs first. Patients who have not experienced an event of interest by the time of analysis will be censored at the date they are last known to be alive and progression-free.
+
+Progression was evaluated using the revised Response Evaluation Criteria in Solid Tumors (RECIST) guideline (version 1.1). Progression was defined as appearance of one or more new lesions and/or unequivocal progression of existing non-target lesions, or at least a 20% increase in the sum of the diameters of target lesions, taking as reference the smallest sum on study (this includes the baseline sum if that is the smallest on study). In addition to the relative increase of 20%, the sum must also demonstrate an absolute increase of at least 5 mm., Every 6 weeks for 6 months, then every 8 weeks until 1 year, and then every 12 weeks until being off treatment or end of observation. Thereafter every 3 months if < 2 years from registration, every 6 months for years 2-3, and yearly up to 3 years 9 months
+Overall Survival (OS), OS is defined as the time from maintenance randomization until death of any cause., Every 6 weeks for 6 months, then every 8 weeks until 1 year, and then every 12 weeks until off treatment or end of observation. Then every 3 months if < 2 years from registration, every 6 months for years 2-3, and yearly up to 3 years 9 months.|Response Rate, Best overall response was evaluated using the revised Response Evaluation Criteria in Solid Tumors (RECIST) guideline (version 1.1). Response was defined as complete response (CR) or partial response (PR).
+
+CR: Disappearance of all lesions. Any pathological lymph nodes (whether target or non-target) must have reduction in short axis to \< 10 mm.
+
+PR: At least a 30% decrease in the sum of the diameters of target lesions, taking as reference the baseline sum diameters., Every 6 weeks for 6 months, then every 8 weeks until 1 year, and then every 12 weeks until being off treatment or end of observation. Thereafter every 3 months if < 2 years from registration, every 6 months for years 2-3, and yearly up to 3 years 9 months
+PD-L1 Expression Level, Assessed at baseline and 6 weeks|Association Between Circulating Tumor DNA and Clinical Outcome, circulating tumor DNA was assessed at baseline and 6 weeks; clinical outcomes were assessed every 3 months for patients < 2 years from registration, every 6 months if patient is 2-3 years from registration, and annually until 5 years from registration
+PRIMARY OBJECTIVE:
+
+I. To evaluate the progression-free survival (PFS) of patients with extensive stage small cell lung cancer (ED-SCLC) treated with cisplatin/carboplatin and etoposide (CE) or CE with nivolumab (CEN) as front-line treatment.
+
+SECONDARY OBJECTIVES:
+
+I. To estimate overall survival of patients with ED-SCLC treated with cisplatin/carboplatin and etoposide (CE) or CE with nivolumab (CEN) as front-line treatment.
+
+II. To assess best overall response rate after treatment with CE with or without nivolumab as first line treatment.
+
+III. To evaluate the toxicity profile of nivolumab with CE.
+
+EXPLORATORY OBJECTIVES:
+
+I. To evaluate immune biomarkers and biomarkers correlatives. II. To evaluate serial circulating tumor deoxyribonucleic acid (DNA) and explore whether clinical outcome is associated with fluctuations in DNA levels following the administration of therapy.
+
+OUTLINE: Patients are randomized to 1 of 2 arms.
+
+ARM A: Patients receive nivolumab intravenously (IV) over 30 minutes on day 1, carboplatin IV over 30-60 minutes on day 1 or cisplatin IV over 60-120 minutes on day 1, and etoposide IV over 60-120 minutes on days 1-3. Treatment repeats every 21 days for up to 4 cycles in the absence of disease progression or unacceptable toxicity. Patients continue to receive nivolumab IV over 30 minutes every 2 weeks for up to 2 years.
+
+ARM B: Patients receive carboplatin IV over 30-60 minutes on day 1 or cisplatin IV over 60-120 minutes on day 1, and etoposide IV over 60-120 minutes on days 1-3. Treatment repeats every 21 days for up to 4 cycles in the absence of disease progression or unacceptable toxicity.
+
+After completion of study treatment, patients are followed up every 3 months if the patient is less than 2 years from registration, every 6 months if the patient is 2-3 years from registration, and yearly for up to 5 years from study enrollment.

@@ -1,0 +1,72 @@
+HERV-E TCR Transduced Autologous T Cells in People With Metastatic Clear Cell Renal Cell Carcinoma
+Background:
+
+Gene transfer is a new cancer therapy takes white blood cells from a person and grows them in a lab. The cells are changed with a virus to attack tumor cells, then returned to the person. Researchers want to see if this therapy fights kidney cancer cells.
+
+Objective:
+
+To see if gene transfer is safe and causes tumors to shrink.
+
+Eligibility:
+
+People at least 18 years old with certain kidney cancer
+
+Design:
+
+Participants will be screened with blood and urine tests. They may have:
+
+* Scans
+* Heart, lung, and eye tests
+* Lab tests
+* Tumor samples taken
+
+Participants will have leukapheresis. Blood will be removed by a needle in an arm. It will go through a machine that removes white blood cells. Plasma and red cells will be returned through a needle in the participant s other arm.
+
+Participants cells will be grown in the lab and genetically changed.
+
+Participants will stay in the hospital 2-3 weeks. There they will:
+
+* Get 2 chemotherapy drugs by catheter (thin plastic tube) inserted into a vein in the chest.
+* Get the changed cells via catheter.
+* Get a drug to increase white blood cell count and one to make the cells active.
+* Recover for about a week.
+* Have lab and blood tests.
+
+After leaving the hospital, participants will:
+
+* Take an antibiotic for several months.
+* Have leukapheresis.
+* Have one- or two-day clinic visits every few weeks for 2 years, and then as determined by their doctor. These will include blood and lab tests, imaging studies, and physical exam.
+
+Participants will have follow-up checks for up to 15 years.
+Kidney Cancer
+BIOLOGICAL: cell infusion
+Number of Adverse Events at Least Possible Attributed to Treatment Regime for Each Dose Level Using the Common Terminology Criteria for Adverse Events Version 5.0 Except for Hematological Toxicities, Toxicity profile at least possible attributed to treatment regime for each dose level using the Common Terminology Criteria for Adverse Events (CTCAE) version 5.0 except for hematological toxicities
+
+Toxicity profile as measured by using the Common Terminology Criteria for Adverse Events (CTCAE version 5.0) for grade 2 and above. According to https://ctep.cancer.gov/, CTCAE is a descriptive terminology which can be utilized for Adverse Event (AE) reporting. A grading (severity) scale is provided for each AE term. CTCAE grades are defined as:
+
+Grade 2 Moderate; minimal, local or noninvasive intervention indicated; limiting age appropriate instrumental activities of daily living.
+
+Grade 3 Severe or medically significant but not immediately life-threatening; hospitalization or prolongation of hospitalization indicated; disabling; limiting self care activities of daily living.
+
+Grade 4 Life-threatening consequences; urgent intervention indicated., 21 days
+Overall Response Rate Based on the Revised Response Evaluation Criteria in Solid Tumors (RECIST) Guideline (Version 1.1), The best overall response is the best response recorded from the start of the treatment until disease progression/recurrence (taking as reference for progressive disease the smallest measurements recorded since the treatment started). The participant's best response assignment will depend on the achievement of both measurement and confirmation criteria.
+
+Partial Response (PR): \> 30% decrease in SUL peak; minimum 0.8 unit decrease. Verification with follow-up study if anatomic criteria indicate disease progression.
+
+Progressive Disease (PD): \> 30% increase in SUL peak (minimum 0.8 unit increase in SUL peak), \> 75% increase in TLG of the 5 most active lesions, Visible increase in extent of FDG uptake, or new lesions. Verification with follow-up study if anatomic criteria indicate complete or partial response.
+
+Stable Disease (SD): Does not meet other criteria., Baseline until date of first documented disease progression or date of death from any cause, whichever comes first, assessed up to Day 127|Overall Duration of Response (Days) Based on the Revised Response Evaluation Criteria in Solid Tumors (RECIST) Guideline (Version 1.1), Overall duration of response (days) based on the revised Response Evaluation Criteria in Solid Tumors (RECIST) guideline (version 1.1)
+
+The duration of overall response is measured from the time measurement criteria are met for Complete Response or Partial Response (whichever is first recorded) until the first date that recurrent or progressive disease is objectively documented (taking as reference for progressive disease the smallest measurements recorded since the treatment started)., Baseline until date of first documented response assessed up to Day 127|Median In Weeks to Progression-free Survival, Median in weeks of Progression-free survival. Progression-free survival is defined as from the time of initiation of treatment to the occurrence of disease progression or death, whichever occurs first.
+
+Disease progression is defined using the Response Evaluation Criteria in Solid Tumors (RECIST) version 1.1 (RECIST 1.1), at least a 20% increase in the sum of diameters of target lesions, taking as reference the smallest sum on study. In addition to the relative increase of 20%, the sum must also demonstrate an absolute increase of at least 5 mm. The appearance of one or more new lesions is also considered progression., Baseline up to Day 192|Median Overall Survival, Median Overall Survival. Overall survival is defined as the, ongoing
+Metastatic renal cell carcinoma (RCC) is an incurable condition. Current therapy for this disease consists of the serial administration of agents such as VEGF, mTOR inhibitors and immunotherapy (high-dose (HD) IL-2 or immune-checkpoint inhibitors). Long-term survival can be achieved with high-doses IL-2 or immune-checkpoint inhibitors. However, of those patients treated with immunotherapy, three quarters will not respond at all and only 5-8% will achieve a complete and durable response.
+
+Allogeneic hematopoietic stem cell transplantation is also capable of inducing prolonged disease regression in patients with metastatic clear cell RCC (ccRCC). In vitro studies have established that transplanted donor T-cells targeting antigens expressed on RCC cells mediate these anti-tumor effects. However, hematopoietic stem cell transplantation can be toxic and associated with a 10-20% risk of procedure-related mortality. The observation that transplanted donor T-cells have the potential to cure a subset of patients with metastatic disease forms the basis for continued efforts in our laboratory to harness the power of T-cells to cure this disorder.
+
+Our team isolated a tumor-specific cytotoxic T lymphocyte (CTL) line from peripheral blood mononuclear cells (PBMCs) obtained after an allogeneic transplant from a patient who showed prolonged tumor regression. Using limiting dilution cloning, we identified an allogeneic (derived from the stem cell donor) CD8+ T-cell clone that killed ccRCC cells in an HLA A11 restricted fashion. Using cDNA expression cloning, we identified a HERV-E derived antigen expressed in the patient s ccRCC cells to be the target of this T-cell clone. Remarkably, we found this HERV-E was expressed in the majority of ccRCC cells with no expression in normal tissues. Based on the identification of the antigenicity of the HERV-E transcripts in ccRCC, our team in collaboration with Dr. Nishimura s laboratory (Loyola University Cardinal Bernardin Cancer Center) has cloned, expressed and characterized the TCR from this CD8+ T-cell clone that recognizes an HLA A11 restricted HERV-E antigen.
+
+This research protocol is therefore designed to evaluate the safety and effectiveness of infusion of HERV-E TCR transduced CD8+/CD34+ enriched T cells in HLA-A\*11:01 positive patients with metastatic clear cell RCC. Subjects will receive a novel non-myeloablative immunosuppressive conditioning regimen of cyclophosphamide and fludarabine followed by an infusion of HERV-E TCR transduced CD8+/CD34+ enriched T cells. To mediate T cell survival and sustain function, moderate-doses of IL-2 (aldesleukin) will be administered intravenously twice a day for 14 doses.
+
+The primary endpoint is safety by day 21. Secondary endpoints will include overall response rate, progression-free survival and overall survival. Exploratory studies will include persistence of circulating HERV-E TCR transduced CD8+/CD34+ enriched T cells, changes in immune cell subsets and activation status of T cells, as well as, other immunologic determinants with clinical outcomes at baseline, at different time points during treatment and at the time of disease progression.

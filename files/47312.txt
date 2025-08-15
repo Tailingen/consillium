@@ -1,0 +1,17 @@
+Efficacy and Safety of Ingenol Mebutate Gel 0.06% When Applied Once Daily for 2, 3 or 4 Consecutive Days to a Treatment Area of Approximately 250 cm2 on Trunk and Extremities in Subjects With Actinic Keratosis
+This is a randomised, double-blind, parallel groups, vehicle controlled, 8-week phase 2 trial. The objective is to evaluate efficacy of ingenol mebutate gel 0.06 % after once daily treatment for 2, 3 or 4 consecutive days compared to vehicle gel
+Actinic Keratosis
+DRUG: ingenol mebutate|OTHER: Placebo
+Percentage of Participants With Complete Clearance of Actinic Keratosis Lesions (AKs), Complete clearance of AKs at Week 8 was defined as a 100% reduction from baseline in number of AKs.
+
+The table presents the mean across 1000 multiple imputations. Missing values for AK count were imputed sequentially from a negative binomial regression model with treatment group, AK counts at the previous visit, and analysis site as covariates and log baseline AK count as offset., At Week 8
+Percentage of Reduction in Actinic Keratosis (AK) Lesion Count From Baseline (Day 1) (Multiple Imputation), The number of clinically visible AK lesions identified in the treatment area was to be recorded at Visit 1(≤14 days prior to Day 1).
+
+The analysis was based on 1000 imputations of actinic keratosis lesion count at Week 8 using a negative binomial regression model with factors treatment and analysis site and with log of baseline actinic keratosis lesion count as offset. The table shows the adjusted percentage reduction from baseline.
+
+Values for the Ingenol 4 days arm were calculated separately based on observed cases. On the basis of the data monitoring committee's recommendation the 4-day active treatment group was closed, and this arm was excluded from statistical models and comparisons in the secondary efficacy analyses., At Week 8|Percentage of Participants With Partial Clearance of AKs, Partial clearance of AKs at Week 8, defined as at least 75% reduction from baseline in number of AKs, was analysed in the same way as the primary response criterion.
+
+The percent reduction at Week 8 from baseline was analyzed using a negative binomial regression for the AK count at Week 8 with treatment group and pooled sites as factors and baseline count as offset variable (using multiple imputations to account for missing values).
+
+The table presents the mean across 1000 multiple imputations. Missing values for AK count were imputed sequentially from a negative binomial regression model with treatment group, AK counts at the previous visit, and analysis site as covariates and log baseline AK count as offset., At Week 8
+This is a randomised, double-blind, parallel groups, vehicle controlled, 8-week phase 2 trial. The objective is to evaluate efficacy of ingenol mebutate gel 0.06 % after once daily treatment for 2, 3 or 4 consecutive days compared to vehicle gel

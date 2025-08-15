@@ -1,0 +1,52 @@
+Treateament of Newly Diagnosed Acute Monocytic Leukemia in Children
+This is a multicenter, single arm, prospective, intervention trial. Since cladribine can enhance the biological activity and self-protection of cytarabine, giving cladribine and cytarabine together may kill more cancer cells. 10 centers from South China Childhood Leukaemia Collaborative Group carry out the SCCLG-M5-2022 regimen including two courses of CLAG(cladribine, darubicin and cytarabine) in the induction period for the treatment of newly dignosed acute monocytic leukemia (M5). The targeted drugs sorafenib is used for FLT3 positive acute monocytic leukemia to inhibit the serine / threonine kinase activity of FLT3.
+Leukemia, Monocytic, Acute|Pediatric AML
+DRUG: Cladribine|DRUG: G-CSF|DRUG: Cytarabine|DRUG: Idarubicin|DRUG: Mitoxantrone|DRUG: Sorafenib
+Overall survival (OS), TOS was defined as time from diagnostic date through the date of death due to any reasons. For all other participants, the last follow-up available was taken as the last control. If the participant had not completed the study, the date of the last visit available was considered., 3 years
+Induced remission rate (CR), According to the time point specified in the treatment plan (22 days after the end of induction I, 29-43 days after the end of induction II and before each consolidation scheme) bone marrow puncture and lumbar puncture were performed. The follow-up contents included the detection of the count of primitive / immature lymphocytes and flow MRD. If there was a positive gene at the onset, the quantitative monitoring of the gene should be performed as MRD data at the same time. If the gene cannot be analyzed quantitatively, PCR qualitative analysis should still be performed as the monitoring basis, 3 years|Safety,including cumulative infection incidence, adverse reaction and chemotherapy-related mortality (TRD), During treatment, closely monitor relevant laboratory tests, register adverse reaction records, and report the records according to the requirements of CRF form., 3 years|Event-free survival (EFS), EFS was estimated from date of diagnosis until date of one of the following events: relapse, refractory disease, second malignancy or death from any reason., 3 years
+PRIMARY OBJECTIVES
+
+1.To study the 3 year-overall survival of newly diagnosed monocytic leukemia treated with Cladribine and cytarabine in children.
+
+SECONDARY OBJECTIVES
+
+1. To describe the complete response rate following CLAG (cladribine, cytarabine and granulocyte stimulating factor) in newly diagnosed monocytic leukemia in children for intensive induction therapy.
+2. To evaluate the 3-year progression-free survival in response to CLAG in children.
+3. To assess the toxicity of CLAG including cumulative infection incidence, cumulative adverse effects and chemotherapy-related mortality (TRD).
+4. To study the progression-free survival and overall survival (1 year, 2 year and 3 year) of newly diagnosed monocytic leukemia with positive FLT3 treated with CLAG in children and the side effects of sorafenib.
+
+OUTLINE:
+
+1. The induction phase includes two parts including induction therapy I(CLAG) and induction therpay II(CLAG+I/M).
+2. The diagnosis and classified criteria is according to the 2016 WHO classification criteria for hematopoietic and lymphoid tissue tumors, and the consolidation therapy consists the therapeutic phases as the NOPHO-AML 2004 protocol prescribed.
+
+   INDUCTION THERAPY I: Patients receive cladribine intravenously (IV) at a dose of 5mg/m2/day combined with cytarabine 2g/m2/day on day 1-5 and granulocyte stimulating factor 5ug/kg/day on day 0-6. When blood count recover(WBC\>2.0×109/L， ANC1.0×109/L、PLT≥50×109/L) , Patients achieving a morphological leukemia free state (\< 5% blasts) or MRD\< 1% receive a second course treatment as above.
+
+   INDUCTION THERPAY II: Patients receive cladribine intravenously (IV) at a dose of 5mg/m2/day combined with cytarabine 2g/m2/day on day 1-5, mitoxantrone/idarubicin 10mg/m2/day on day 1-3 and granulocyte stimulating factor 5ug/kg/day on day 0-6. Patients achieving blast count≥5% or MRD ≥1% proceed to induction II therpy.
+3. For FLT3 positive acute monocytic leukemia children, sorafenib 200mg/m2/day was taken orally until molecular biology remission for 2 years.
+4. After two courses of indution phase, patients with incomplete response（MRD≥0.1%）are recommended into hematopoietic stem cell transplantation.
+5. After two courses of indution phase, patients with persisting positive adverse prognosis cytogenetic abnormalities are recommended into hematopoietic stem cell transplantation.
+
+Patients must meet one of the following risk criteria:
+
+Standard-risk (SR) group meeting all of the following criteria:
+
+Initial WBC \< 10,000/μL
+
+M1 (\<5%) blasts or MRD\<1% in bone marrow after the first course of induction therapy
+
+M1 (\<5%) blasts or MRD\<0.1% in bone marrow after two courses of induction therapy
+
+Cytogenetic abnormalities with good prognosis
+
+Intermediate-risk (IR) group meeting the following criteria:
+
+Lack of low-risk and high-risk conditions
+
+High-risk (HR) group meeting ≥ 1 of the following criteria:
+
+M2/M3(≥5%) blasts or MRD\>5% in bone marrow after the first course of induction therapy
+
+MRD≥0.1% in bone marrow after two course of induction therapy
+
+Cytogenetic abnormalities with poor prognosis

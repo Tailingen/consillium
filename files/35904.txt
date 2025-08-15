@@ -1,0 +1,40 @@
+A Clinical Study on the Safety and Efficacy of CAR-T Therapy for the TM4SF1- and EpCAM-positive Solid Tumors
+* Transmembrane 4 L Six Family Member 1 (TM4SF1) and Epithelial cell adhesion molecule (EpCAM) are both highly expressed in many epithelial-derived solid tumors.
+* The Chimeric Antigen Receptor T-cells (CAR-T) that target TM4SF1 or EpCAM have been generated respectively in our good manufacturing practices (GMP) facility and their anti-tumor effects have been demonstrated in multiple in vitro and in vivo studies.
+* Clinical studies are proposed here to evaluate the anti-tumor activity of these cell therapy products for treatment of patients with TM4SF1 or EpCAM positive tumors. In this study, the safety, tolerance, and preliminary efficacy of CART-TM4SF1 and CART-EpCAM cells will be examined inpatients with refractory/recurrent advanced pancreatic cancer, colorectal cancer, gastric cancer or lung cancer. And 9 patients for each cancer will be evaluated.
+* Clinical and immunological responses will be evaluated about 30 days and last up to 2 years after CAR-T cell infusion.
+Advanced Solid Tumor|Neoplasms
+BIOLOGICAL: TM4SF1- and EpCAM-positive chimeric antigen receptor T-cell therapy
+Safety assessed by Incidence of Treatment-Emergent Adverse Events (AEs) and Serious Adverse Events (SAEs), 1. After CAR-T cell infusion,the investigators will observe the potential adverse events related to the CAR-T cells infusion such as high fever, kidney failure and so on.
+2. Adverse events are coded according to MedDRA 22.0. List total number of AEs and SAEs; Number of subjects with different types of AEs and SAEs, case-times and incidence.AEs and SAEs are graded by National Cancer Institute Common Terminology Criteria for Adverse Events (NCI CTC AE version 5.0)., 2 years
+CAR-T cell testing, The level of CAR-T cells will be tested regularly by Real-time Quantitative Polymerase Chain Reaction Detecting System(qPCR) or Flow cytometry to evaluate the proliferation in vivo and long-term survival, 2 years|Overall response rate (ORR), The ORR is defined as the percentage of participants who achieve partial response (PR) or better according to Response Evaluation Criteria In Solid Tumors（RECIST) criteria., 2 years
+Background:
+
+* While great progress has been made in CAR T-cell therapy for the treatment of hematologic malignancies, its use in solid tumors is still at the exploratory stage.
+* Transmembrane 4 L Six Family Member 1 (TM4SF1) protein mediates signal transduction events that play a role in the regulation of cell development, activation, growth and motility. It is a cell surface antigen and is highly expressed in different carcinomas. Epithelial cell adhesion molecule (EpCAM),is a transmembrane glycoprotein of 40 kilodaltons (kDa). EpCAM is highly expressed in many epithelial-derived tumors, such as colon, stomach, pancreas, lungs, ovaries and breasts. Recently, EpCAM has been identified as the surface marker of circulating tumor cells (CTCs) and cancer stem cells (CSCs).
+* The investigators have developed novel TM4SF1-targeting CAR T-cells (CART-TM4SF1 cells) and EpCAM-targeting CAR T-cells (CART-EpCAM cells) for solid tumor treatment. These engineered T-cells can target and kill the TM4SF1- or EpCAM-positive tumor cells in vitro or in mice. Both of the CAR molecules contain a safety switch based on epidermal growth factor receptor (EGFR) to ensure the safety.
+* The investigators propose to investigate the feasibility, safety, and efficacy of CART-TM4SF1 cells and CART-EpCAM cells for solid cancers in patients.
+
+Objectives:
+
+Primary objectives:
+
+1. To determine the safety/tolerance dosages and adverse effects of CART-TM4SF1 cells or CART-EpCAM cells in the treatment of TM4SF1- or EpCAM-positive recurrent/refractory advanced solid tumors.
+2. To preliminarily evaluate the efficacy of CART-TM4SF1 cells and CART-EpCAM cells in the treatment of TM4SF1- and EpCAM-positive recurrent/refractory advanced solid tumors.
+
+Secondary objectives:
+
+1. To determine the pharmacokinetic (PK)/pharmacodynamic (PD) characteristics of CART-TM4SF1 cells and CART-EpCAM cells in humans.
+2. To evaluate the overall survival (OS) and tumor regression after treatment.
+3. To assess the life quality of patients
+
+Study population:
+
+The study population includes 72 patients with refractory/recurrent advanced solid tumors positive for TM4SF1 or EpCAM expressions, each cancer including 9 patients . Among these patients with pancreatic cancer, colorectal cancer, gastric cancer or lung cancer, 9 subjects will receive 3 escalating doses (3 subjects in each dosage group)and safety and preliminary efficacy evaluation.
+
+Design:
+
+* This is a single-center open-label clinical study.
+* Recruit patients with refractory/recurrent pancreatic cancer, colorectal cancer, gastric cancer or lung cancer, with written consent for this study. Perform biopsy to determine the expression of TM4SF1 or EpCAM of the tumor with immuno-histochemistry (IHC).
+* Collect peripheral blood mononuclear cell (PBMC) from the patients, isolate and activate the T cells and transfect them with TM4SF1, or EpCAM targeting CAR, expand the transfected T cells as needed, assess the quality and antitumor activity of the CAR-T products in vitro and then transfer them back the patients via systemic or local injections, and follow up closely to collect related results as needed.
+* Clinical and immunological responses will be evaluated closely in about 30 days and last up to 2 years after back-transfusion.

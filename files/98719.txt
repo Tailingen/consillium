@@ -1,0 +1,25 @@
+Evaluating the Impact of Social and Genetic Factors on Outcomes in Adolescent and Young Adult Cancer Survivors
+This study examines the impact of social and genetic factors on outcomes in adolescent and young adult (AYA) cancer survivors of Hodgkin or non-Hodgkin lymphoma. Compared to both older adult and childhood cancer patients, AYAs with cancer experience different diagnoses and specific biological, clinical, psychological and social factors that affect their risks for post-treatment morbidity and premature death. Collecting samples of blood samples and health and treatment information from cancer survivors of Hodgkin or non-Hodgkin lymphoma may help doctors identify conditions that increase the likelihood of AYAs getting sick and dying after treatment of cancer and better understand how to address the needs of adolescent and young adult cancer survivors.
+Hodgkin Lymphoma|Non-Hodgkin Lymphoma
+PROCEDURE: Biospecimen Collection|OTHER: Quality-of-Life Assessment|OTHER: Questionnaire Administration
+Disease free survival (DFS), A gated hypothesis testing procedure will be used to ensure control of the family-wise error rate at 0.05 (two-sided). Cox regression will be used to assess the association of the social-environmental risk factors with the hazard of DFS., Time interval after primary treatment for a cancer ends that the patient survives without any signs or symptoms of thatcancer, assessed up to 2 years|Overall survival (OS), A gated hypothesis testing procedure will be used to ensure control of the familywise error rate at 0.05 (two- sided). OS will be tested only if statistical significance is achieved for DFS. Cox regression will be used to assess the association of the social-environmental risk factors with the hazard of OS., From participant registration to the date of death or censored at the date of data collection, assessed up to 2 years|Comorbidities (including symptoms, late effects), Will be assessed using Charlson Comorbidity Index (Patient version) National Cancer Institute Common Toxicity Criteria for Adverse Events., Up to 2 years
+Quality of life collected via PROMIS-29 v2, Will use linear mixed models to model the quality of life measure with individual resilience. Individual Resilience Factors will be assessed as follows: Social support will be evaluated using the Duke-UNC Functional Social Support Questionnaire (DUFSS), the sense of purpose and meaning, will be assessed by the Mental Health Continuum Short Form, Behavioral Self-efficacy will be assessed using the PROMIS Short Forms (SF) for managing symptoms, daily activities, social interactions, emotions, and medications and treatment. Indicators of socioeconomic status, assets, and employment/school status will be collected via survey. Other specific demographic indicators to be examined include sexual orientation and gender identity. These metrics will be tested as possible modifiers ("moderators") of the effects of social-environmental risk factors and resilience factors on gene expression and morbidity, mortality, and HRQOL endpoints., Up to 2 years
+PRIMARY OBJECTIVE:
+
+I. To establish the association of social-environmental risk factors on both disease-free survival (DFS) and overall survival (OS) for adolescent and young adult cancer survivors.
+
+SECONDARY OBJECTIVES:
+
+I. To establish the associations of individual resilience factors on DFS and OS for adolescent and young adult cancer survivors.
+
+II. To establish the associations of social-environmental risk factors and individual resilience factors on quality of life (QOL) for adolescent and young adult cancer survivors.
+
+III. To quantify the extent to which alterations in human gene expression could potentially mediate the effects of social-environmental risk factors and individual resilience factors on DFS, and OS for adolescent and young adult cancer survivors.
+
+EXPLORATORY OBJECTIVE:
+
+I. To determine whether the relationship between social-environmental risk factors or individual resilience factors and distal outcomes may be moderated by race/ethnicity, sex and gender identity, and geography for adolescent and young adult cancer survivors.
+
+OUTLINE: This is an observational study.
+
+Participants complete questionnaires about health-related quality of life and undergo collection of blood samples at baseline and 6, 12, 18, and 24 months.

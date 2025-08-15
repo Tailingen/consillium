@@ -1,0 +1,25 @@
+Niraparib and Dostarlimab for the Treatment of Small Cell Lung Cancer and Other High-Grade Neuroendocrine Carcinomas
+This phase II trial studies the effect of niraparib and dostarlimab in treating small cell lung cancer and other high-grade neuroendocrine carcinomas. Niraparib is an inhibitor of PARP, an enzyme that helps repair deoxyribonucleic acid (DNA) when it becomes damaged. Blocking PARP may help keep cancer cells from repairing their damaged DNA, causing them to die. PARP inhibitors are a type of targeted therapy. Immunotherapy with monoclonal antibodies, such as dostarlimab, may help the body's immune system attack the cancer, and may interfere with the ability of tumor cells to grow and spread. Giving niraparib and dostarlimab may help to control the diseases.
+Lung Small Cell Carcinoma|Neuroendocrine Carcinoma|Stage III Lung Cancer AJCC v8|Stage IIIA Lung Cancer AJCC v8|Stage IIIB Lung Cancer AJCC v8|Stage IIIC Lung Cancer AJCC v8
+BIOLOGICAL: Dostarlimab|DRUG: Niraparib
+6-month Progression free survival (PFS), Defined as the number (or fraction) of patients who are alive without evidence of progression at 6 months from initiation of therapy. Progression will be assessed by Response Evaluation Criteria in Solid Tumors (RECIST) version (v.)1.1 criteria using investigator's review. As there is no comparator arm, the rates will be considered in the context of historical controls. Will be performed using Kaplan-Meier methods for each cohort. Quartiles (i.e. 25th percentile, median, 75th percentile) and associated two-sided 95% confidence intervals will be provided. Estimates of PFS at 6-months will be estimated from Kaplan-Meier survival curve., Time from the start of study treatment to the earlier date of assessment of progression or death by any cause in the absence of progression, assessed at 6 months|Objective response rate (ORR), Defined as the percentage of patients with complete response (CR) or partial response (PR), as assessed by RECIST v.1.1 criteria using independent central review by MD Anderson Quantitative Imaging Analysis Core. As there is no comparator arm, the rates will be considered in the context of historical controls., At 3 months
+12-week disease control rate, Defined as the percentage of patients with CR, PR, or stable disease, as assessed by RECIST v.1.1 criteria using (independent central or investigator's) review at 12 weeks from initiation of therapy., At 12 weeks|Progression free survival, Progression will be assessed by RECIST v.1.1 criteria using investigator's review. Will be performed using Kaplan-Meier methods for each cohort. Quartiles (i.e. 25th percentile, median, 75th percentile) and associated two-sided 95% confidence intervals will be provided. Estimates of PFS at 6-months and 12-months will be estimated from Kaplan-Meier survival curve., Time from the start of study treatment to the earlier date of assessment of progression or death by any cause in the absence of progression, assessed up to 12 months|Overall survival (OS), Will be performed using Kaplan-Meier methods for each cohort. Quartiles (i.e. 25th percentile, median, 75th percentile) and associated two-sided 95% confidence intervals will be provided. Estimates of OS at 6-months and 12-months will be estimated from Kaplan-Meier survival curve., From the start of study treatment to the date of death by any cause, assessed up to 5 years|Incidence of adverse events (AEs), Defined as frequency and grade of adverse events. All AEs will be assessed by the investigator for severity according to Common Terminology Criteria for Adverse Events v5.0., Up to 90 days post-treatment
+PRIMARY OBJECTIVE:
+
+I. To determine objective response rate (ORR) and 6-month progression free survival (PFS) in response to combined niraparib plus dostarlimab in patients with recurrent small cell lung cancer (SCLC) and high-grade neuroendocrine carcinomas (NECs).
+
+SECONDARY OBJECTIVES:
+
+I. To evaluate toxicity of combined niraparib plus dostarlimab (PARP inhibition plus anti-PD-1) in patients with recurrent SCLC and other high-grade NECs.
+
+II. To determine overall survival (OS), PFS, disease control rate (response plus stable disease \> 12 weeks) to combined niraparib plus dostarlimab in patients with recurrent SCLC and other high-grade NECs.
+
+EXPLORATORY OBJECTIVE:
+
+I. To determine treatment-related changes in immune profiles or other biomarker in response to combined niraparib plus dostarlimab in patients with recurrent SCLC and other high-grade NECs.
+
+OUTLINE:
+
+Patients receive niraparib orally (PO) once daily (QD) on days 1-21 of cycles 1-4, and on days 1-42 of subsequent cycles. Patients also receive dostarlimab intravenously (IV) over 30 minutes on day 1. Cycles repeat every 21 days for cycles 1-4 and every 42 days for subsequent cycles in the absence of disease progression or unacceptable toxicity.
+
+After completion of study treatment, patients are followed up within 90 days, every 6 months for 2 years, then annually for 3 years.

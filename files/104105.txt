@@ -1,0 +1,25 @@
+Standard of Care Chemotherapy With or Without Stereotactic Body Radiation Therapy for Oligometastatic Pancreatic Cancer
+This phase II trial studies the effect of standard of care chemotherapy with or with out stereotactic body radiation therapy in treating patients with pancreatic cancer that has spread to a limited amount of places in the body (oligometastatic). Stereotactic body radiation therapy uses special equipment to position a patient and deliver radiation to tumors with high precision. This method may kill tumor cells with fewer doses over a shorter period and cause less damage to normal tissue. Chemotherapy drugs work in different ways to stop the growth of tumor cells, either by killing the cells, by stopping them from dividing, or by stopping them from spreading. Giving chemotherapy with stereotactic body radiation therapy may help improve tumor control, decrease risk of tumor spreading more, decrease side effects, and prolong survival.
+Metastatic Pancreatic Adenocarcinoma|Stage IV Pancreatic Cancer AJCC v8|Recurrent Pancreatic Adenocarcinoma|Oligometastatic Pancreatic Ductal Adenocarcinoma
+DRUG: Chemotherapy|RADIATION: Stereotactic Body Radiation Therapy|PROCEDURE: Computed Tomography|PROCEDURE: Magnetic Resonance Imaging|PROCEDURE: Biospecimen Collection|OTHER: Questionnaire Administration
+Progression free survival, Disease progression will be determined based on Response Evaluation Criteria in Solid Tumors (RECIST) 1.1 criteria and will be documented at each enrolling site with no central review planned., Time from randomization to the first of either disease progression or death from any cause, assessed up to 2 years
+Confirmed response rate, A patient will be classified as a confirmed response per the RECIST 1.1 criteria, if they have a partial or complete response for 2 consecutive evaluations at least 4 weeks apart. The proportion of patients with a confirmed response will be calculated and compared between the 2 arms using a Chi-square or Fisher's Exact test., Up to 2 years|Overall survival, Will be estimated using the Kaplan-Meier method, where the log-rank test will be used to compare the 2 treatment arms., Time from study entry to death from any cause, assessed up to 2 years|Incidence of adverse events, The maximum grade for each type of adverse event will be summarized using Common Terminology Criteria for Adverse Events version 5.0. The frequency and percentage of grade 3+ adverse events will be compared between the 2 treatment arms. Comparisons between arms will be made by using either the Chi-square or Fisher's Exact test., Up to 2 years
+PRIMARY OBJECTIVE:
+
+I. Compare progression free survival (PFS) between stereotactic body radiation therapy (SBRT) + standard chemotherapy versus (vs.) standard chemotherapy alone in patients with oligometastatic pancreatic cancer.
+
+SECONDARY OBJECTIVES:
+
+I. Confirmed response rate. II. Overall survival. III. Adverse events. IV. Longitudinal assessment of circulating tumor cells (CTC) and circulating tumor deoxyribonucleic acid (ctDNA).
+
+CORRELATIVE RESEARCH OBJECTIVE:
+
+I. To evaluate fatigue, and other patient-reported outcomes.
+
+OUTLINE: Patients are randomized to 1 of 2 groups.
+
+GROUP I: Patients undergo SBRT once daily (QD) or every other day for 5 fractions and receive chemotherapy per standard of care on study. Additionally, patients undergo computed tomography (CT), magnetic resonance imaging (MRI), and blood collection throughout the study.
+
+GROUP II: Patients receive chemotherapy per standard of care on study. Additionally, patients undergo CT, MRI, and blood collection throughout the study. Patients who have local disease progression at known sites and no new sites of progression may crossover to the radiotherapy arm.
+
+After completion of study treatment, patients are followed up at 7 and 14 days, and then every 8-12 weeks for 2 years.

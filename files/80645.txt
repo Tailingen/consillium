@@ -1,0 +1,55 @@
+Tamoxifen Citrate, Letrozole, Anastrozole, or Exemestane With or Without Chemotherapy in Treating Patients With Invasive RxPONDER Breast Cancer
+This randomized phase III clinical trial studies how well tamoxifen citrate, anastrozole, letrozole, or exemestane with or without chemotherapy work in treating patients with breast cancer that has spread from where it began in the breast to surrounding normal tissue (invasive). Estrogen can cause the growth of breast cancer cells. Hormone therapy, using tamoxifen citrate, may fight breast cancer by blocking the use of estrogen by the tumor cells. Aromatase inhibitors, such as anastrozole, letrozole, and exemestane, may fight breast cancer by lowering the amount of estrogen the body makes. Drugs used in chemotherapy work in different ways to stop the growth of tumor cells, either by killing the cells, by stopping them from dividing, or by stopping them from spreading. It is not yet known whether giving tamoxifen citrate, anastrozole, letrozole, or exemestane is more effective with combination chemotherapy in treating patients with breast cancer.
+Breast Ductal Carcinoma In Situ|Invasive Breast Carcinoma|Multicentric Breast Carcinoma|Multifocal Breast Carcinoma|Synchronous Bilateral Breast Carcinoma
+DRUG: Anastrozole|DRUG: Exemestane|OTHER: Laboratory Biomarker Analysis|DRUG: Letrozole|OTHER: Quality-of-Life Assessment|DRUG: Systemic Chemotherapy|DRUG: Tamoxifen Citrate
+Invasive Disease-Free Survival (IDFS), From date of randomization (2nd Registration) to date of first invasive recurrence (local, regional or distant), second invasive primary cancer (breast or not), or death due to any cause. Patients last known to be alive who have not experienced recurrence or second primary cancer are censored at their last contact date. This is the STEEP definition of invasive disease-free survival. Kaplan-Meier estimates were calculated for the 5-year IDFS rate.
+
+Due to the results of the third prespecified interim analysis, prespecified separate analyses were conducted for all outcomes by menopausal status (see Statistical Analysis 2). The NCI and data and safety monitoring committee recommended early reporting of the data. After the primary analysis, changes in eligibility status were identified for three participants, making the population of eligible and evaluable participants different between the reporting of this outcome and both the Participant Flow section and the Adverse Events section., 5 years after randomization
+Number of Participants With Gr 3 Through 5 Adverse Events That Are Related to Study Drugs, Only adverse events that are possibly, probably, or definitely related to study drug are reported. Assessed at 6, 12, 24, and 36 months after randomization., Duration of treatment and follow-up until death or 3 years after randomization|Overall Survival (OS), Time from date of randomization (2nd Registration) to date of death due to any cause. Participants last known to be alive are censored at their last contact date., 5.5 years after randomization|Distant Disease-Free Survival (DDFS), Time from date of randomization (2nd Registration) to date of invasive distant disease recurrence, second invasive primary cancer (breast or not) or death due to any cause. Participants last known to be alive who have not experienced distant recurrence, or second primary cancer are censored at their last contact date. This secondary outcome requires continuing to follow the patient after local recurrence in order to ascertain subsequent distant recurrence.
+
+Invasive recurrence is defined as: appearance of any new invasive lesion(s) during or after protocol treatment. Whenever possible, recurrences should be documented histologically. Invasive recurrence includes local, regional, or distant recurrence with an invasive component. A new diagnosis of ipsilateral or contralateral DCIS without an invasive component is not considered to be a recurrence., 5.5 years after randomization|Local Disease-Free Interval (LDFI), Time from date of randomization (2nd Registration) to date of invasive local or regional recurrence. Participants last known to be alive without recurrence are censored at their last contact date. Participants with distant recurrence, second primary cancer or death are censored at the time of that event.
+
+Invasive recurrence is defined as: appearance of any new invasive lesion(s) during or after protocol treatment. Whenever possible, recurrences should be documented histologically. Invasive recurrence includes local, regional, or distant recurrence with an invasive component. A new diagnosis of ipsilateral or contralateral DCIS without an invasive component is not considered to be a recurrence., From date of randomization to a maximum of 5.5 years or death|Participant-Reported Anxiety, Anxiety is evaluated with the Patient-Reported Outcomes Measurement Information System (PROMIS) Emotional Distress-Anxiety Short Form. Raw PROMIS scores can be re-scaled into T-scores based on a reference population with a mean score of 50 and a standard deviation of 10. Higher scores reflect greater anxiety.
+
+PROMIS Anxiety scores at the 6 month timepoint will be compared between the two randomized study arms separately by menopausal status., 6 months after randomization|Participant-Reported Health Status, Assessed using the EuroQol-5D (EQ-5D), in which participants rate their health status in five different health-related domains: mobility, self-care, usual activities, pain/discomfort, and anxiety/depression. The raw scores can be converted to index scores on a scale of 0 to 1, where a higher index score represents better health.
+
+EQ-5D index scores at the 6-month timepoint will be compared between the two randomized study arms separately by menopausal status., 6 months after randomization
+PRIMARY OBJECTIVE:
+
+I. To determine the effect of chemotherapy in patients with node positive breast cancer who do not have high recurrence scores (RS) by Oncotype DX.
+
+SECONDARY OBJECTIVES:
+
+I. To compare overall survival (OS), distant disease-free survival (DDFS) and local disease-free interval (LDFI) by receipt of chemotherapy or not and its interaction with RS.
+
+II. To compare the toxicity across the treatment arms. III. To perform other molecular assays or test other signatures that measure prognosis and potential benefit of chemotherapy and compare them to Oncotype DX.
+
+IV. To determine the impact of management with Oncotype DX on patient-reported anxiety (co-primary Health-Related Quality of Life \[HRQL\] outcome) prior to screening, after disclosure of test results, and during the randomized trial.
+
+V. To determine the impact of Oncotype DX on the initial management cost of node-positive, hormone receptor (HR)-positive, human epidermal growth factor receptor 2 (HER2)-negative breast cancer.
+
+VI. To compare patient-reported utilities (e.g., quality of life \[QOL\]) for those randomized to chemotherapy versus no chemotherapy.
+
+VII. Using modeling and DFS information from the trial, to estimate the cost-effectiveness of management with Oncotype DX vs usual care.
+
+VIII. To determine the role of other assays as predictors of DFS, DDFS, and LDFI for patients randomized to chemotherapy versus no chemotherapy.
+
+IX. To determine the impact of treatment with chemotherapy versus no chemotherapy on patient-reported fatigue and cognitive concerns (secondary HRQL outcomes).
+
+X. To determine the impact of management with Oncotype DX on patient-reported decision conflict, perceptions regarding Oncotype DX testing, and survivor concerns prior to screening, after disclosure of test results, and during the randomized trial (secondary HRQL outcomes).
+
+XI. The presence of circulating tumor cells (CTC+) using two CTC platforms will be assessed at up to two time points to assess late recurrence in those still at risk for the primary outcome.
+
+XII. To compare clinically reported menopausal status with status categorized by serum hormone levels determined from baseline serum in women under age 55 years and to assess subsequent association with outcomes.
+
+BANKING OBJECTIVE:
+
+I. To bank specimens for future correlative studies.
+
+OUTLINE: Patients are randomized to 1 of 2 treatment arms.
+
+ARM I: Patients receive a protocol-approved chemotherapy regimen based on the patient and/or physician preference. Patients then receive a protocol-approved adjuvant endocrine therapy comprising tamoxifen citrate, an aromatase inhibitor (anastrozole, letrozole, or exemestane), or both for 5-10 years in the absence of disease progression or unacceptable toxicity.
+
+ARM II: Patients receive a protocol-approved endocrine therapy comprising tamoxifen citrate, an aromatase inhibitor (anastrozole, letrozole, or exemestane), or both for 5-10 years in the absence of disease progression or unacceptable toxicity.
+
+After completion of study treatment, patients are followed up every 3 months for 1 year, every 6 months for 4 years, and then yearly for 15 years.

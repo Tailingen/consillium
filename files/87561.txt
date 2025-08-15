@@ -1,0 +1,23 @@
+Sirolimus in Treating Patients With Solid Tumors That Are Metastatic or Cannot Be Removed By Surgery
+This clinical trial studies sirolimus in treating patients with solid tumors that are metastatic or cannot be removed by surgery. Sirolimus may stop the growth of tumor cells by blocking some of the enzymes needed for cell growth
+Unspecified Adult Solid Tumor, Protocol Specific|Unspecified Childhood Solid Tumor, Protocol Specific
+DRUG: sirolimus|OTHER: pharmacological study|OTHER: laboratory biomarker analysis
+Change in fasting glucose and fasting triglycerides, These data will be analyzed by fitting mixed effects models for longitudinal data. A model linear in time with random patient intercept and slope effects will be fit initially and residuals examined. If a linear model does not fit the data adequately a quadratic term will be added. Simple paired t-tests of the glucose and triglyceride levels on day 8, 15, and 29 relative to baseline will also be performed., Baseline to 8 days|Change in fasting glucose and fasting triglycerides, These data will be analyzed by fitting mixed effects models for longitudinal data. A model linear in time with random patient intercept and slope effects will be fit initially and residuals examined. If a linear model does not fit the data adequately a quadratic term will be added. Simple paired t-tests of the glucose and triglyceride levels on day 8, 15, and 29 relative to baseline will also be performed., Baseline to 15 days|Change in fasting glucose and fasting triglycerides, These data will be analyzed by fitting mixed effects models for longitudinal data. A model linear in time with random patient intercept and slope effects will be fit initially and residuals examined. If a linear model does not fit the data adequately a quadratic term will be added. Simple paired t-tests of the glucose and triglyceride levels on day 8, 15, and 29 relative to baseline will also be performed., Baseline to 29 days
+Association between genetic variants and changes in fasting glucose and triglycerides, Two-sample t tests will be performed. A Bonferroni adjustment will be applied to control for the number of candidate markers evaluated. Logistic regression models will be fit to determine whether changes in glucose and/or triglycerides are associated with tumor response (complete or partial)., Up to 12 months|Change in tumor size assessed using RECIST, The change in tumor size will be plotted against the change in glucose/triglyceride and Pearson correlation coefficients will be calculated., Up to 2 years|Correlation of toxicities graded using CTCAE version 4.0 with glucose/triglyceride changes, Proportional odds models will be fit to assess whether there is a correlation between toxicities (graded from 0 to 5) and glucose/triglyceride changes., Up to 2 years|Regulatory T cells (Tregs), Descriptive statistics will be used to report the quantity and phenotype of Tregs on days 1 and 29 of therapy., Baseline to 28 days
+PRIMARY OBJECTIVES:
+
+I. To describe the magnitude, inter-individual variability and time course of sirolimus-induced changes in fasting serum glucose and triglycerides.
+
+SECONDARY OBJECTIVES:
+
+I. To assess candidate genetic variants for their correlation with changes in fasting glucose and/or triglycerides.
+
+II. To assess tumor response by the Response Evaluation Criteria In Solid Tumors (RECIST, version 1.1) and explore whether there is any correlation between response and changes in fasting glucose and/or triglycerides.
+
+III. To assess toxicity by the Common Terminology Criteria for Adverse Events (CTCAE, version 4.0) and explore whether there is any correlation between toxicities and changes in fasting glucose and/or triglycerides.
+
+IV. To quantify and determine the functional status of circulating regulatory T cells (Tregs) before and during treatment.
+
+OUTLINE:
+
+Patients receive sirolimus orally (PO) on days 1-28. Courses repeat every 28 days in the absence of disease progression or unacceptable toxicity.

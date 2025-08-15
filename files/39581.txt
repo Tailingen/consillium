@@ -1,0 +1,28 @@
+Entinostat, Lapatinib Ditosylate and Trastuzumab in Treating Patients With Locally Recurrent or Distant Relapsed Metastatic Breast Cancer Previously Treated With Trastuzumab Only
+This phase I trial studies the side effects and best dose of entinostat when given together with lapatinib ditosylate and trastuzumab in treating patients with breast cancer that has spread from the original (primary) tumor to distant organs or distant lymph nodes or has recurred (come back) at or near the same place as the original (primary) tumor, usually after a period of time during which the cancer could not be detected. Entinostat and lapatinib ditosylate may stop the growth of tumor cells by blocking some of the enzymes needed for cell growth. Monoclonal antibodies, such as trastuzumab, may interfere with the ability of tumor cells to grow and spread. Giving entinostat together with lapatinib ditosylate and trastuzumab may kill more tumor cells.
+HER2/Neu Positive|Invasive Breast Carcinoma|Recurrent Breast Carcinoma|Stage IV Breast Cancer AJCC v6 and v7
+DRUG: Entinostat|OTHER: Laboratory Biomarker Analysis|DRUG: Lapatinib Ditosylate|BIOLOGICAL: Trastuzumab
+RP2D for entinostat in combination with lapatinib ditosylate defined as the highest dose level in which 6 patients have been treated with at most 1 patient experiencing dose limiting toxicity, Up to 28 days
+Incidence of grade III or IV toxicities, graded according to Common Terminology Criteria for Adverse Events version 4, Up to 28 days
+Changes in CTCs levels before and after the combination treatment of entinostat, lapatinib ditosylate and trastuzumab, Summary statistics (mean, standard deviation, median, quartiles) will be summarized for these changes in CTCs and biomarkers by patient tumor response status (yes vs. no). Changes will be compared between the two groups of patients (yes vs. no tumor response) using the two-sample t-test. If the data is skewed, Wilcoxon rank-sum test will be used., Baseline up to 28 days after completion of study treatment|Changes in phosphorylated Akt levels before and after the combination treatment of entinostat, lapatinib ditosylate and trastuzumab., Summary statistics (mean, standard deviation, median, quartiles) will be summarized for these changes in CTCs and biomarkers by patient tumor response status (yes vs. no). Changes will be compared between the two groups of patients (yes vs. no tumor response) using the two-sample t-test. If the data is skewed, Wilcoxon rank-sum test will be used., Baseline up to 28 days after completion of study treatment|Changes in phosphorylated HER2 levels before and after the combination treatment of entinostat, lapatinib ditosylate and trastuzumab, Summary statistics (mean, standard deviation, median, quartiles) will be summarized for these changes biomarkers by patient tumor response status (yes vs. no). Changes will be compared between the two groups of patients (yes vs. no tumor response) using the two-sample t-test. If the data is skewed, Wilcoxon rank-sum test will be used., Baseline up to 28 days after completion of study treatment|Changes in phosphorylated EGFR levels before and after the combination treatment of entinostat, lapatinib ditosylate and trastuzumab, Summary statistics (mean, standard deviation, median, quartiles) will be summarized for these changes biomarkers by patient tumor response status (yes vs. no). Changes will be compared between the two groups of patients (yes vs. no tumor response) using the two-sample t-test. If the data is skewed, Wilcoxon rank-sum test will be used., Baseline up to 28 days after completion of study treatment
+PRIMARY OBJECTIVES:
+
+I. To determine the recommended phase II dose (RP2D) for entinostat in combination with lapatinib (lapatinib ditosylate) in patients whom trastuzumab has failed for human epidermal growth factor receptor 2+ (HER2+) metastatic breast cancer (Phase I).
+
+II. To determine the maximum tolerated dose (MTD) for entinostat in combination with lapatinib and trastuzumab in patients whom trastuzumab has failed for HER2+ metastatic breast cancer (Phase I Trastuzumab Cohort).
+
+SECONDARY OBJECTIVES:
+
+I. To determine the toxicity of combination therapy with entinostat and lapatinib in patients whom trastuzumab has failed for HER2+ metastatic breast cancer (Phase I).
+
+II. To determine the toxicity of entinostat in combination with lapatinib and trastuzumab in patients whom trastuzumab has failed for HER2+ metastatic breast cancer (Phase I Trastuzumab Cohort).
+
+EXPLORATORY OBJECTIVES:
+
+I. Determine whether the 2-drug combination modulates the expression of HER2, phosphorylated HER2 (pHER), epidermal growth factor receptor (EGFR), phosphorylated EGFR (pEGFR), v-akt murine thymoma viral oncogene homolog 1 (Akt), and phosphorylated Akt (pAkt) in breast tumors and/or circulating tumor cells (CTCs).
+
+OUTLINE: This is a dose-escalation study of entinostat.
+
+Patients receive entinostat orally (PO) on days 1 and 15 and lapatinib tosylate PO on days 1-28. Courses repeat every 28 days in the absence of disease progression or unacceptable toxicity. Patients in the Phase I trastuzumab cohort also receive maintenance dose of trastuzumab intravenously (IV) over 30-90 minutes every 3 weeks.
+
+After completion of study treatment, patients are followed up for 28 days or until toxicities are resolved.

@@ -1,0 +1,42 @@
+Pembrolizumab in Treating Patients With Malignant Mesothelioma
+This phase II trial studies how well pembrolizumab works in treating patients with malignant mesothelioma, a cancer of the linings around the lungs (pleura) or abdomen (peritoneum). Monoclonal antibodies, such as pembrolizumab, work by blocking a protein called programmed cell death 1 (PD-1) which may stimulate an immune response and kill tumor cells.
+Biphasic Mesothelioma|Epithelioid Mesothelioma|Peritoneal Malignant Mesothelioma|Pleural Biphasic Mesothelioma|Pleural Epithelioid Mesothelioma|Pleural Malignant Mesothelioma|Pleural Sarcomatoid Mesothelioma|Recurrent Peritoneal Malignant Mesothelioma|Recurrent Pleural Malignant Mesothelioma|Sarcomatoid Mesothelioma
+BIOLOGICAL: Pembrolizumab|OTHER: Laboratory Biomarker Analysis|OTHER: Pharmacogenomic Study
+Ability of PD-L1 to predict response, Based on the results from Part A, the Youden Index methodology will be used to determine the optimal threshold for PD-L1 expression in correlation with tumor response, and if a correlation is identified this threshold will be used for Part B. The overall ability of PD-L1 to predict response will be assessed using the area under the receiver operating characteristic curve (area under the curve). If the area is significantly greater than 0.5, part B will begin using the optimum cutpoint as determined from the Youden index., Up to 3 years
+Overall survival (OS), Kaplan-Meier curves will be generated for OS. Median OS will be estimated along with 90% confidence intervals using the method of Brookmeyer and Crowley., Up to 3 years|Progression free survival (PFS), Kaplan-Meier curves will be generated for PFS. Median PFS will be estimated along with 90% confidence intervals using the method of Brookmeyer and Crowley., Time from enrollment until disease progression or death from any cause, assessed up to 3 years|Disease control rate (CR + PR + SD), The disease control rate (CR+PR+SD) and 90% confidence interval will also be determined., Up to 3 years
+CD8 TILs will be assessed by percentage of tumor showing infiltration, CD8 levels will be correlated with PD-L1 expression using Pearson or Spearman rank correlation coefficients., Baseline|Composite measure of other immune escape mechanisms including MDSCs and other checkpoints, Other immune escape mechanisms including MDSCs and other checkpoints will be assessed by immunohistochemistry (0 - 3+) or flow cytometry counting the number and percentage of positive cells. Levels will be correlated with PD-L1 expression and other biomarkers., Up to 3 years|PD-L1 expression by mass spectrometry, PD-L1 expression by mass spectrometry and correlation with PD-L1 expression by IHC as well as tumor response, and the T-cell inflamed phenotype will be performed. Multivariate logistic regression will be performed to determine whether these biomarkers or combinations of biomarkers are predictive of response. Exact logistic regression models will be fit given the small number of responders expected (4 from part A and 7-8 from part B)., Baseline|Mass spectrometry-based flow cytometric analysis, Mass spectrometry-based flow cytometric analysis (CyTOF) will be descriptive based on number and percentage of certain cell populations., Up to 3 years|Analysis of T-cell receptor repertoire from TILs, Analysis of T-cell receptor repertoire from TILs will be descriptive looking for presence or absence of oligoclonal T-cell population., Up to 3 years|Duration of response, Will be estimated by Kaplan-Meier., Up to 3 years|Incidence of toxicities graded according to the National Cancer Institute Common Terminology Criteria for Adverse Events version 4.0, Toxicities will be summarized in tabular form by type and severity and incidence rates generated., Up to 30 days after completion of study treatment
+PRIMARY OBJECTIVES:
+
+I. To determine the objective response rate of patients with malignant mesothelioma treated with pembrolizumab in A) an unselected patient population, as well as B) in a programmed cell death ligand 1 (PD-L1) positive population (should the trial proceed to Part B, and PD-L1 expression correlate with improved efficacy).
+
+II. To determine the optimal threshold for PD-L1 expression using the 22C3 antibody based immunohistochemistry (IHC) assay in correlation to tumor response.
+
+SECONDARY OBJECTIVES:
+
+I. To determine the progression-free survival of patients with malignant mesothelioma in A) an unselected patient population and B) a PD-L1 positive population when treated with pembrolizumab.
+
+II. To determine the overall survival of patients with malignant mesothelioma in A) an unselected patient population and B) a PD-L1 positive population when treated with pembrolizumab.
+
+III. To determine the disease control rate (complete response \[CR\] + partial response \[PR\] + stable disease \[SD\]) of patients with malignant mesothelioma who are treated with pembrolizumab in A) an unselected patient population and B) a PD-L1 positive population.
+
+IV. To determine toxicity in patients with malignant mesothelioma who are treated with pembrolizumab.
+
+V. To determine percentage of patients with mesothelioma who have PD-L1 tumor expression, and the distribution of PD-L1 expression (percent positivity of tumor cells/stroma staining).
+
+TERTIARY OBJECTIVES:
+
+I. To characterize the T-cell inflamed phenotype in mesothelioma patients via presence of cluster of differentiation (CD)8 tumor infiltrating lymphocytes (TILs) and/or use of a gene expression signature (Nanostring).
+
+II. To evaluate other immune escape mechanisms including indoleamine-pyrrole 2,3-dioxygenase (IDO) expression, regulatory T cells (Tregs) (forkhead box P3 \[FOXP3\] expression), myeloid-derived suppressor cells (MDSCs) and other checkpoints by immunohistochemistry (or other methods e.g. flow cytometry).
+
+III. To determine PD-L1 expression by mass spectrometry and correlate with tumor response, PD-L1 expression by IHC, and the T-cell inflamed phenotype.
+
+IV. To determine the immune cell populations present in fresh tumor (when available), via tumor digests and mass spectrometry-based flow cytometric analysis (e.g. using CyTOF) in a multiplex fashion in patients with fresh tumor tissue.
+
+V. To characterize the T-cell receptor repertoire of TILs compared to circulating T-cells in mesothelioma patients with available fresh frozen tissue (spectrotyping, T-cell repertoire sequencing \[e.g. using the Adaptive platform\]).
+
+OUTLINE:
+
+Patients receive pembrolizumab intravenously (IV) over 30 minutes on day 1. Treatment repeats every 21 days for up to 24 months in the absence of disease progression or unacceptable toxicity. Patients may be eligible for up to 1 year of additional pembrolizumab therapy if they progress after stopping pembrolizumab.
+
+After completion of study treatment, patients are followed up for 30 days (up to 90 days for serious adverse events), every 8 weeks until patient experiences confirmed disease progression or starts a new anti-cancer therapy, and then every 12 weeks for 3 years.

@@ -1,0 +1,13 @@
+Breast Cancer AI Imaging Study
+This study aims to develop a social health platform called MammoChat (https://MammoChat.com) that allows patients to share their real-world patient data to a trusted network for development of clinical intelligence to improve patient outcomes. Therefore:
+
+1. The investigator will establish a Discourse social network where patients can anonymously and securely share their breast imaging and interact with other patients.
+2. The investigator will use standardized questionnaires to understand the impact of use of the social network on outcomes related to breast cancer screening such as anxiety.
+3. The investigator will assemble a crowdsourced, de-identified radiographic repository for training, testing, and validating AI models aimed at earlier and more accurate disease detection for breast cancer.
+Breast Cancer|Breast Cancer Screening
+AI Model Development, Train, test and validate AI models with de-identified radiographic images collected from participants., 25 years|Psychological Impact of Breast Cancer Screening, Assess user anxiety using the standardized COS-BC (Consequences of Screening in Breast Cancer) questionnaire., 25 years|Social Discourse for Patients on Wellness Network, Assess patient participation on Discourse social network using standardized user metrics such as activity logs, images posted, other interactions, etc., 25 years
+With over 40,000,000 mammograms run annually in the US, there are psychological consequences of breast cancer imaging that are well documented among patients such as stress and anxiety from largely false positive or indeterminant readings by radiologists.
+
+This UCF MammoChat platform is one of the first projects that engages patients to donate their breast cancer imaging in an effort to reduce the psychological consequences of breast cancer imaging using social networks and artificial intelligence.
+
+This repository will be supported and maintained by the University of Central Florida College of Medicine (UCF COM) Clinical and Aerospace Research team. These clinical research coordinators will operate the repository, including administering patients, imaging sites and transfers through an administrative panel.

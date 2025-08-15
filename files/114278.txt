@@ -1,0 +1,43 @@
+Prostate Cancer Screening With Abbreviated MRI Protocol
+Prostate cancer is one of the most common malignancies in the male population with incidence and mortality rates comparable to breast cancer in women, but in contrast, a population screening program that would fulfill all the recommended criteria is not yet available. According to international recommendations, the preventive PSA sampling used in clinical practice is not suitable because of the concurrent detection of clinically insignificant carcinomas in a major proportion of tests. These clinically non-significant cancers make up a significant and increasing proportion with age. Detection of non-significant cancers burdens the health care system and patients with the care that has no positive impact on their health. Current preventive serum prostate-specific antigen (PSA) testing does not distinguish benign hyperplasia and nonsignificant carcinoma from clinically significant cancer. It is therefore not suitable for full-scale screening.
+
+According to current guidelines, magnetic resonance imaging (MRI) is indicated only in patients with an increased risk of cancer for detection or staging after biopsy and is not used for screening. According to recent studies, MRI has detected an increased proportion of significant cancers in the general population compared to screening based on PSA, while fewer clinically insignificant cancers have been detected. In screening, a shorter examination protocol without contrast medium (biparametric MRI) is used with a lower cost per examination, allowing to increase both the number of patients examined and patient comfort.
+
+The main objective of the project is to assess the contribution of imaging in the screening of clinically significant prostate cancer and to validate the published results in the Czech population, and extend the screening model by the second round of examinations and additional laboratory markers. The secondary aim is to design a subsequent study with a larger number of participants allowing statistical evaluation, similar to the successful breast cancer screening.
+Prostate Cancer
+DIAGNOSTIC_TEST: magnetic resonance|DIAGNOSTIC_TEST: serum PSA examination|PROCEDURE: Biopsy
+Assessment of the importance of the imaging test in the screening of significant prostate cancer in asymptomatic men, compared with PSA screening: Proportion of positive MRI findings, Proportion of positive MRI findings (PI-RADS 4+) in the general population of men aged 50-69 years., 2 years|Distribution of PI-RADS scores in the observed cohort., Distribution of PI-RADS scores (proportion of individual scores 1-5) in the screened population., 2 years|Proportion of positive PI-RADS detections in the cohort of patients indicated for biopsy., Ratio of significant and non-significant cancers in individual categories of PI-RADS scores in patients indicated for biopsy., 2 years
+Feasibility evaluation of a larger-scale study of screening for significant prostate cancer using an imaging modality:, Concordance rate (%) between radiologists performing MRI scoring., 2 years|Evaluation of complications after an interventional procedure (biopsy)., Number of complications after biopsy., 2 years|Evaluation of patient adherence to preventive examination - active recruitment., Number of participants who agreed to be included in the study through used recruitment strategies., 2 years|Patient adherence to preventive examination - self-recruitment., Number of participants who contacted the team themselves with a request for testing., 2 years|Patient adherence to preventive examination., Number of participants who signed the informed consent and were enrolled in the study., 2 years|Evaluation of patient adherence to preventive examination., Number of participants who visited a screening facility., 2 years|Evaluation of patient adherence to preventive examination - completation of planned exams., Number of participants who completed the designated examination., 2 years|Evaluation of the financial burden of the study for the future preventive program of prostate cancer screening., Costs of individual inclusion and screening tests., 2 years|Detection and assessment of potential barriers to patient participation in the study. Assessment of patient adherence to remain in the study throughout the study period., Numbers and reasons of participants who did not complete scheduled tests, follow-up examinations, or withdrew informed consent., 2 years
+A prospective cross-sectional (with a longitudinal component, 2nd screening round) study evaluating the possibility of using the biparametric MRI protocol technique for screening clinically significant prostate cancer in men from the general population.
+
+Tests performed:
+
+* Serum PSA
+* PHI calculation (Prostate Health Index) to be performed only if the PSA values are in the range of 2-10 ng/l
+* MRI of the prostate (abbreviated biparametric protocol)
+* Digital rectal examination (DRE) as part of a clinical visit at a urologist in patients with a positive PSA test
+* Biopsy - if indicated
+
+MRI specifications:
+
+* Protocol with anatomical T2 sequence and diffusion-weighted images (DWI), according to the standards
+* Typical complete examination time does not exceed 20 minutes, planned acquisition time less than 15 minutes.
+* No contrast agent or spasmolytics is injected.
+
+Blinding:
+
+* Every test evaluator (radiologist/urologist) does not know the results of other tests. · MRI reports entered in the registry obligatorily before the biopsy.
+* The patient is not informed which test was positive and resulted in an indication for biopsy.
+* The pathologist does not know the results of MRI or laboratory tests.
+
+The sequence of tests:
+
+The MRI is assessed with the PI-RADS 2.1 system, each finding is reported on a scale of 1-5. To minimize the detection of non-significant cancers and to reduce the number of biopsies according to the results of the IP1-Prostagram study, a PI-RADS value of 4-5 was chosen as a positive test representation.
+
+Consensual double reading by 2 experienced uroradiologists (at least 400 MRI of the prostate read by the beginning of the study). Men with a positive MRI test are planned for a targeted MRI/US fusion and systematic prostate biopsy.
+
+Men with a positive blood marker (either PSA, PSAD, or PHI) are planned for a systematic 12 core biopsy. Positive test results are PSA ≥ 3, integrated marker PSAD ≥ 0.15, and PHI ≥ 35.
+
+Study participants are invited to repeat the screening tests after 2 years by letter. If they do not respond to a written offer, also by e-mail and SMS.
+
+Definition of clinically significant cancer: • ISUP Grade Group ≥ 2.

@@ -1,0 +1,7 @@
+A Study of Metabolic Agents Following Brain Radiation
+This study is being done to determine if CEST magnetic resonance imaging (MRI) and FDG PET are feasible techniques to detect metabolic differences between tumor and brain in patients with a brain tumor.
+CNS Malignancy
+DIAGNOSTIC_TEST: FDG Positron Emission Tomography|DIAGNOSTIC_TEST: Chemical Exchange Saturation Transfer Magnetic Resonance Imaging
+Number of subjects in whom glutamate metabolite is detected and measurable., Number of subjects in whom glutamate metabolite is detected and measurable via CEST MRI in tumor, brain, and/or the ventricular space., Baseline|Number of subjects in whom n-acetylaspartate (NAA) metabolite is detected and measurable., Number of subjects in whom n-acetylaspartate (NAA) metabolite is detected and measurable via CEST MRI in tumor, brain, and/or the ventricular space., Baseline
+Time required to perform the CEST MRI study and measure metabolites of interest, Total time expressed in minutes required to perform the CEST MRI study and measure metabolites of interest., Duration of CEST MRI scan, approximately one to two hours.
+This study is being done to determine if CEST magnetic resonance imaging (MRI) and FDG PET are feasible techniques to detect metabolic differences between tumor and brain in patients with a brain tumor.

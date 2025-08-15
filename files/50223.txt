@@ -1,0 +1,36 @@
+Nivolumab and Ibrutinib in Treating Patients With Relapsed or Refractory Central Nervous System Lymphoma
+This phase II trial studies the side effects and how well nivolumab and ibrutinib works in treating patients with central nervous system lymphoma that has come back or does not respond to treatment. Immunotherapy with monoclonal antibodies, such as nivolumab, may help the body's immune system attack the cancer, and may interfere with the ability of tumor cells to grow and spread. Ibrutinib may stop the growth of tumor cells by blocking some of the enzymes needed for cell growth. Giving nivolumab and ibrutinib may work better in treating patients with central nervous system lymphoma.
+Central Nervous System B-Cell Non-Hodgkin Lymphoma|Recurrent Central Nervous System Lymphoma|Refractory Central Nervous System Lymphoma
+DRUG: Ibrutinib|BIOLOGICAL: Nivolumab
+Overall response rate (ORR), The overall response rate and its 95% confidence interval will be estimated. Fisher's exact test will be used to evaluate the association between response and other categorical patient variables., Up to 2 years
+ORR, The overall response rate and its 95% confidence interval will be estimated. Fisher's exact test will be used to evaluate the association between response and other categorical patient variables., At 4 weeks of ibrutinib single agent|Progression free survival (PFS), Will be estimated using the method of Kaplan and Meier., From study entry to objective disease progression or death from any cause, assessed at 1 year|Overall survival, Will be estimated using the method of Kaplan and Meier., From study entry to death, assessed at 1 year|Incidence of adverse events (AEs), AE data will be summarized by frequency tables for all patients. For the toxicity endpoint, per-treated analysis will be performed to include any patient who received the treatment regardless of the eligibility nor the duration or dose of the treatment received., Baseline up to 30 days after the last dose of study drug
+T cells activation in peripheral blood and cerebrospinal fluid, Descriptive statistics including plots, mean, median and standard deviations will be used to summarize data. T-test and analysis of variance (ANOVA) will be used to compare outcome measures across patient characteristics. Dunnett's and Tukey's test that properly adjust for multiplicity in multiple tests will be implemented. Pair-wise comparisons will be performed using pre- and post-therapy samples from each patient. The chi-square (c2) test or Fisher's exact test will be used to test the association between two categorical variables such as disease state and performance status. Both univariate and multivariate logistic regressions will be performed to model prognostic factors., Baseline up to 2 years|Cytokine profile from microglial cells in cerebrospinal fluid, Descriptive statistics including plots, mean, median and standard deviations will be used to summarize data. T-test and ANOVA will be used to compare outcome measures across patient characteristics. Dunnett's and Tukey's test that properly adjust for multiplicity in multiple tests will be implemented. Pair-wise comparisons will be performed using pre- and post-therapy samples from each patient. The chi-square (c2) test or Fisher's exact test will be used to test the association between two categorical variables such as disease state and performance status. Both univariate and multivariate logistic regressions will be performed to model prognostic factors., Baseline up to 2 years|Tumor characteristics, Correlation baseline tumor characteristics with response and PFS will be calculated. Pair-wise comparisons will be performed using pre- and post-therapy samples from each patient. The chi-square (c2) test or Fisher's exact test will be used to test the association between two categorical variables such as disease state and performance status., Baseline up to 2 years
+PRIMARY OBJECTIVES:
+
+I. Determine the overall response rate of nivolumab and ibrutinib in central nervous system (CNS) lymphoma.
+
+SECONDARY OBJECTIVES:
+
+I. Determine the overall response rate of 4 weeks of ibrutinib single agent in CNS lymphoma.
+
+II. Determine the complete response rate of nivolumab and ibrutinib in CNS lymphoma.
+
+III. Determine the 1-year progression free and overall survival outcomes in CNS lymphoma.
+
+IV. Safety and toxicity of nivolumab and ibrutinib.
+
+EXPLORATORY OBJECTIVES:
+
+I. Assess activation of T cells in peripheral blood and cerebrospinal fluid. II. Assess the cytokine profile from microglial cells in cerebrospinal fluid. III. Correlate features of peripheral blood T cell activation with toxicities. IV. Correlate features of peripheral blood T cell activation with response and progression free survival (PFS).
+
+V. Correlate baseline tumor characteristics with response and PFS. VI. Evaluate the ability of minimal residual disease testing to monitor response and differentiate from pseudo progression.
+
+OUTLINE: Patients are assigned to 1 of 2 cohorts.
+
+COHORT A: Patients receive ibrutinib orally (PO) daily on days 1-28. Beginning course 1, patients also receive nivolumab intravenously (IV) over 1 hour on days 1 and 15. Treatment repeats every 28 days for up to 6 courses in the absence of disease progression or unacceptable toxicity.
+
+COHORT B: Patients receive ibrutinib PO daily on days 1-28 and nivolumab IV over 1 hour on days 1 and 15. Treatment repeats every 28 days for up to 6 courses in the absence of disease progression or unacceptable toxicity.
+
+Patients who achieve at least a partial response after 6 courses may continue therapy for up to 2 years.
+
+After completion of study treatment, patients are followed up within 3-4 weeks and then every 3 months for 2 years.

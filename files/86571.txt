@@ -1,0 +1,28 @@
+Regorafenib and Nivolumab Simultaneous Combination Therapy
+the efficacy and safety ofhe use of regorafenib in combination with nivolumab
+Advanced and Metastatic Solid Tumor
+DRUG: Regorafenib|DRUG: Nivolumab
+The Number of Dose Limiting Toxicity (DLT) for RD Determination, The procedure for DLT assessment was as follows:
+
+1. When DLT is observed in 1 out of 3 cases, 3 additional cases are added to the administration level.
+2. When DLT is observed in more than 2 of 3 cases, it is judged that the administration level exceeds Maximum Tolerated Dose (MTD).
+3. If the number of DLT is 1 case or less in 6 cases, shift to the next level.
+4. If MTD is exceeded, shift to the next lower level. At the relevant dose, if only 3 people are evaluating DLT, add 3 cases. When the number of DLT is 1 or less out of 6, the dose is defined as MTD and RD. If it is judged that Level 1 exceeds the MTD, review the dose or consider stopping the trial.
+5. MTD should be the highest dose level of DLT expression less than 1 in 6 cases. - After the RD was determined and the patient moved to the expansion cohort, G3 skin toxicity occurred, so based on the recommendation of the Data and Safety Monitoring Committee, the RD was reduced by one level and the trial was resumed., 4 weeks
+Objective Response Rate (ORR), \*Objective Response Rate is defined as the proportion of patients whose best overall response, as per the Response Evaluation Criteria in Solid Tumors (RECIST) guideline version 1.1 and immune-related RECIST (irRECIST), is either Complete Response (CR) or Partial Response (PR)., 2year|Progression-Free Survival(PFS), \*PFS is defined as the time from the enrollment date to either the date when disease progression is determined or the date of death from any cause, whichever came earlier.
+
+The data were compiled according to the analysis plan outlined in the protocol. No analysis was conducted to determine efficacy by cancer type or dose level., 6 months|Overall Survival(OS), \*OS is defined as the period from the date of enrollment to the date of death from any cause.
+
+Surviving patients are censored on the last confirmation date of survival (confirmation of survival by telephone is permitted; the fact that survival is confirmed is to be recorded in the medical record, etc.).
+
+Patients lost to follow-up are censored on the last date on which their survival is confirmed before being lost to follow-up.
+
+The data were compiled according to the analysis plan outlined in the protocol. No analysis was conducted to determine efficacy by cancer type or dose level., 2year|Disease Control Rate(DCR), \*DCR is defined as the proportion of patients whose best overall response assessed based on the RECIST guideline version 1.1 and irRECIST is any of CR, PR, or Stable Disease (SD).
+
+The data were compiled according to the analysis plan outlined in the protocol. No analysis was conducted to determine efficacy by cancer type or dose level., 2year|Adverse-Events, * The occurrences rate of each AE of the worst grade occurring in this study was evaluated based on the Common Terminology Criteria for Adverse Events (CTCAE) v4.03 throughout the entire cycles will be calculated. Additionally, this study included a special note regarding abnormal laboratory values. If clinical signs and symptoms observed in this study were induced, the diagnosis and associated data were collected based on whether or not they were due to abnormal laboratory values. Therefore, for example, results of grading regarding liver dysfunction may differ between non-hematologic toxicity and laboratory values.
+* Adverse-Events occurrences means "prevalence proportion" of any undesirable occurrence based on investigator's medical decision in this study., 2 year
+The present trial consists of a dose-escalation cohort to verify the tolerability of nivolumab and regorafenib when used in combination for patients with solid tumors, and to examine the clinical recommended dose(RD). The trial also consists of an expansion cohort to examine the safety and efficacy when the clinical RD is administered for several advanced solid tumors.
+
+In the dose-escalation cohort, three patients with solid tumors will be administered 3.0 mg/kg of nivolumab once every 2 weeks and regorafenib daily for 21days, with a 1-week washout period at dose of 80 mg (level 1), 120 mg (level 2), or 160 mg (level 3). As a general rule, one cycle will last 28 days (day 1-29); however, in the event of treatment prolongation, the cycle period will be extended. The Dose Limiting Toxicity(DLT) evaluation period will be 28 days. Furthermore, for each level, three additional subjects will be added depending on the state of DLT.
+
+In the expansion cohort, the target subject sample will consist of approximately 30 patients who will be administered 3.0 mg/kg of nivolumab once every 2 weeks, and the clinical RD of regorafenib will be determined in the dose-escalation cohort.

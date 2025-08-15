@@ -1,0 +1,31 @@
+Docetaxel and Prednisone With or Without Bevacizumab in Treating Patients With Prostate Cancer That Did Not Respond to Hormone Therapy
+This randomized phase III trial is studying docetaxel, prednisone, and bevacizumab to see how well they work compared to docetaxel and prednisone in treating patients with prostate cancer that did not respond to hormone therapy. Drugs used in chemotherapy, such as docetaxel and prednisone, work in different ways to stop the growth of tumor cells, either by killing the cells or by stopping them from dividing. Monoclonal antibodies, such as bevacizumab, can block tumor growth in different ways. Some block the ability of tumor cells to grow and spread. Others find tumor cells and help kill them or carry tumor-killing substances to them. Bevacizumab may also stop the growth of tumor cells by blocking blood flow to the tumor. It is not yet known whether docetaxel, prednisone, and bevacizumab are more effective than docetaxel and prednisone in treating prostate cancer.
+Adenocarcinoma of the Prostate|Hormone-resistant Prostate Cancer|Recurrent Prostate Cancer|Stage IV Prostate Cancer
+DRUG: docetaxel|OTHER: placebo|DRUG: prednisone|BIOLOGICAL: bevacizumab|OTHER: laboratory biomarker analysis
+Overall Survival, Overall Survival (OS) was measured from the date of randomization to date of death due to any cause. OS was estimated using the Kaplan Meier method., Duration of study (up to 5 years)
+Proportion of Participants Who Experienced at Least a 50% Post-therapy PSA (Prostate-Specific Antigen) Decline, PSA decline will be reported on all patients and will be defined as a decrease in PSA value by \>= 50% for two successive evaluations at least 4 weeks apart. The reference PSA value for these declines should be measured within 2 weeks before starting therapy., Duration of study (up to 5 years)|Progression-free Survival (PFS), PFS was defined as the data of randomization to date of progression or death due to any cause, whichever occurs first. PFS was estimated using the Kaplan Meier method.
+
+Progression is defined using Response Evaluation Criteria In Solid Tumors Criteria (RECIST v1.0), as a 20% increase in the sum of the longest diameter of target lesions, or a measurable increase in a non-target lesion, or the appearance of new lesions, Duration of study (up to 5 years)|Proportion of Participants Who Experience (Maximum) Grade 3 or Higher Toxicities, The National Cancer Institute (NCI) Criteria for Adverse Events(CTCAE) Version 3.0 was used to evaluate toxicity. These events were considered at least possibly related to treatment.
+
+Grade 1: mild; Grade 2: moderate; Grade 3: Severe; Grade 4: Life Threatening; Grade 5: Death, During treatment (up to 2 years)
+PRIMARY OBJECTIVES:
+
+I. To determine if the addition of bevacizumab to docetaxel and prednisone increases overall survival compared to docetaxel and prednisone alone in patients with HRPC.
+
+SECONDARY OBJECTIVES:
+
+I. To compare the progression-free survival of these two regimens in patients with HRPC.
+
+II. To compare the two regimens on the proportion of patients who experience a 50% post-therapy PSA decline from baseline.
+
+III. To compare the two regimens with respect to the proportion of patients who experience grade 3 or higher toxicities.
+
+OUTLINE: This is a randomized, double-blind, placebo-controlled, multicenter study. Patients are stratified according to predicted 24-month survival probability (\< 10% vs 10-29.9% vs ≥ 30%), age (\< 65 years vs ≥ 65 years), and prior history of arterial events (i.e., cardiac ischemia/infarction, CNS cerebrovascular ischemia, peripheral arterial ischemia, or CNS hemorrhage) (yes vs no). Patients are randomized to 1 of 2 treatment arms.
+
+ARM I: Patients receive docetaxel IV over 1 hour and placebo IV over 30-90 minutes on day 1. Patients also receive oral prednisone once daily on days 1-21.
+
+ARM II: Patients receive docetaxel and prednisone as in arm I. Patients also receive bevacizumab IV over 30-90 minutes on day 1.
+
+In both arms, courses repeat every 21 days for up to 2 years in the absence of disease progression or unacceptable toxicity.
+
+After completion of study treatment, patients are followed periodically for up to 5 years.

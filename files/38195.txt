@@ -1,0 +1,36 @@
+TLR8 Agonist VTX-2337 and Cyclophosphamide in Treating Patients With Metastatic, Persistent, Recurrent, or Progressive Solid Tumors
+This phase Ib trial studies the best way of TLR8 Agonist VTX-2337 and cyclophosphamide in treating patients with a solid tumor that has spread from the primary site (place where it started) to other places in the body (metastatic), progressed for a long time (persistent), come back (recurrent), or is growing, spreading, or getting worse (progressed). TLR8 Agonist VTX-2337 may stimulate the immune system in different ways and stop tumor cells from growing. Drugs used in chemotherapy, such as cyclophosphamide, work in different ways to stop the growth of tumor cells, either by killing the cells, by stopping them from dividing, or by stopping them from spreading. Giving TLR8 Agonist VTX-2337 together with cyclophosphamide may be a better treatment for solid tumors.
+Colorectal Adenocarcinoma|Metastatic Pancreatic Adenocarcinoma|Recurrent Breast Carcinoma|Recurrent Colorectal Carcinoma|Recurrent Melanoma of the Skin|Recurrent Non-Small Cell Lung Carcinoma|Recurrent Pancreatic Carcinoma|Recurrent Renal Cell Carcinoma|Solid Neoplasm|Stage IV Breast Cancer|Stage IV Non-Small Cell Lung Cancer|Stage IV Renal Cell Cancer|Stage IV Skin Melanoma|Stage IVA Colorectal Cancer|Stage IVA Pancreatic Cancer|Stage IVB Colorectal Cancer|Stage IVB Pancreatic Cancer
+DRUG: Cyclophosphamide|OTHER: Laboratory Biomarker Analysis|BIOLOGICAL: Pegfilgrastim|OTHER: Pharmacological Study|DRUG: TLR8 Agonist VTX-2337
+Change in pharmacodynamics after TLR8 agonist VTX-2337 alone vs TLR8 agonist VTX-2337+cyclophosphamide, The pharmacodynamics after TLR8 agonist VTX-2337 alone will be compared to TLR8 agonist VTX-2337+cyclophosphamide to test the hypothesis that TLR8 agonist VTX-2337+cyclophosphamide (course 2) will be significantly more immunomodulatory than TLR8 agonist VTX-2337 alone (course 1 run in dose) in regards to (1) reducing % and absolute numbers of Tregs compared to total lymphocytes; (2) reducing absolute numbers of MDSCs; (3) increasing % of total peripheral T cells activatable to produce IFNg; and (4) increasing % of total peripheral monocytes activatable to produce nitric oxide or express induci, Up to end of course 2 (42 days)
+Duration of response, assessed by irDOR, defined for all evaluable patients who have achieved an objective response as the date at which the patient's objective status is first noted to be either a CR or PR to the date progression is documented, The distribution of duration of response will be estimated using the method of Kaplan-Meier. Supplemental statistical analysis will include comparison of the duration of response between groups of interest using a Cox proportional hazards model. As an exploratory analysis, will also determine if patients who achieve sustained intratreatment responses (defined as disease stabilization or a maximum objective response unchanged over six cycles of treatment) continue to maintain this response upon cessation of treatment., Up to 36 months|Incidence of adverse events of cyclophosphamide and TLR8 agonist VTX-2337, using the National Cancer Institute Common Terminology Criteria for Adverse Events (CTCAE) version 4.0, The maximum grade for each type of adverse event will be recorded for each patient, and frequency tables will be reviewed to determine adverse event patterns using CTCAE version 4.0., Up to 36 months|Overall response rate assessed by irBORR, Up to 36 months|Overall survival (OS), The distributions of OS will be estimated using Kaplan-Meier methodology and will be compared between groups of interest using a log-rank test. Supplemental statistical analysis will include comparison of the OS between groups of interest using a Cox proportional hazards model., Time from study entry to death due to any cause, assessed up to 36 months|PFS as measured by serial imaging studies and assessed by irRECIST, The distribution of PFS will be estimated using Kaplan-Meier methodology. Supplemental statistical analysis will include comparison of the PFS between groups of interest using a Cox proportional hazards model., Time from study entry to the first of either progression or death due to any cause, assessed up to 36 months
+Changes in immunomodulation, Assessed over time using graphical and statistical methods overall and by treatment course. Changes over time will be assessed using paired t-tests (or the nonparametric equivalent), where changes from baseline and/or course 11 (run-in phase) will be compared to various timepoints of interest post-course 1 (course 2, course 3, etc.). Changes in markers will be assessed by patient groups of interest (i.e. cancer type and the number of prior chemotherapy regimens). Tumor and immune markers will be correlated with clinical endpoints like response, progression-free survival, overall survival, and, Baseline to up to day 1 of course 3 (day 63)
+PRIMARY OBJECTIVES:
+
+I. To assess the ability of a dosing schedule of cyclophosphamide, pegfilgrastim, and TLR8 agonist VTX-2337 (CyNeuMoto) to reproducibly immunomodulate patients in a manner which enhances the endogenous antitumor effector response.
+
+SECONDARY OBJECTIVES:
+
+I. To assess the safety and tolerability of this treatment by assessing the adverse events.
+
+II. Best overall response rate, as assessed by immune-related Response Evaluation Criteria in Solid Tumors (irRECIST) criteria (irBORR).
+
+III. Duration of tumor response, as assessed by irRECIST (irDOR). IV. Progression-free survival (PFS) as measured by serial imaging studies and assessed by irRECIST.
+
+V. Overall survival, as measured by subject vital status for 36 months following discontinuation of study treatment.
+
+TERTIARY OBJECTIVES:
+
+I. To test the hypothesis that this regimen will prove efficacious as an immunomodulator regardless of the number of prior chemotherapy (chemo) regimens or type of cancer assessed.
+
+II. To evaluate baseline immune status in patients (peripheral blood and intratumoral effector T cells, regulatory T cells, tumoricidal monocytes, and myeloid-derived suppressor cells) as well as the modulatory effects of the treatment upon individual immune components.
+
+III. To correlate treatment-induced immune modulations to clinical outcomes (overall response rate \[ORR\], progression-free survival \[PFS\] as determined by immune-related RECIST \[irRECIST\], and overall survival).
+
+IV. To correlate treatment-induced immune modulations and clinical outcomes to the magnitude of leukopenia (and its surrogate, neutropenia) achieved by the treatment.
+
+OUTLINE:
+
+Patients receive cyclophosphamide intravenously (IV) over 30 minutes on day 1, pegfilgrastim subcutaneously (SC) on day 2, and TLR8 agonist VTX-2337 SC on day -6 of course 1 only and on days 9 and 16. Patients achieving complete response (CR), partial response (PR), or stable disease (SD) may continue therapy every 21 days for 3 additional courses. Treatment may then continue in the absence of disease progression or unacceptable toxicity.
+
+After completion of study treatment, patients are followed up every 3 months for 36 months.

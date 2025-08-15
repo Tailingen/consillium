@@ -1,0 +1,39 @@
+Investigation Into the Safety and Efficacy of ICG-Labeled Fluorescence Imaging Technology in Guiding the Resection of Bone and Soft Tissue Tumors
+Investigate the application protocol, feasibility, and efficacy of indocyanine green (ICG)-assisted near-infrared (NIR) fluorescence-guided resection in bone and soft tissue tumors. Assess the incidence of adverse events and evaluate the safety of the protocol.
+Bone Neoplasms|Soft Tissue Neoplasms
+DRUG: Indocyanine green (ICG)
+Positive Surgical Margin Rate, The proportion of cases with tumor cells detected at the surgical margin during postoperative pathological examination, used to assess the completeness of tumor resection., Within 4 days post-surgery (upon receipt of final pathology report)|Positive Residual Lesion Detection Rate, The proportion of intraoperatively detected residual lesions (via fluorescence imaging) confirmed as tumor tissue by pathology, reflecting the accuracy of fluorescence imaging in identifying tumor remnants., Within 4 days post-surgery (upon receipt of final pathology report)|Tumor Fluorescence Staining Rate, The success rate of intraoperative tumor visualization using fluorescence imaging after indocyanine green (ICG) injection, evaluating the effectiveness of fluorescence-guided technology., During surgery
+Local Progression-Free Survival, The time from surgery to local tumor recurrence or progression, primarily assessing the efficacy of surgery in delaying recurrence., From the date of surgery until the date of first documented local progression or death from any cause, whichever occurs first, assessed up to 24 months|2-Year Disease-Free Survival (DFS) Rate, The proportion of patients without tumor recurrence or death within 2 years post-surgery, reflecting intermediate-term treatment efficacy and overall prognosis., Form surgery to 2 years after surgery
+This research focuses on improving surgical outcomes for patients with bone and soft tissue tumors, a challenging area of cancer treatment. Surgeons face a critical dilemma: removing too much tissue can permanently harm a patient's mobility or function, while removing too little risks leaving behind cancer cells, which may lead to recurrence. Current methods rely heavily on the surgeon's experience and real-time visual or tactile feedback during surgery, but these approaches can be subjective and may miss hidden tumor cells. Traditional tools like frozen tissue analysis during surgery are time-consuming, disrupt the operation, and may not provide accurate results, especially for bone tumors, which require complex processing.
+
+To address these challenges, this study explores an innovative imaging technology called near-infrared (NIR) fluorescence guided surgery, which uses a safe, FDA-approved dye called indocyanine green (ICG). ICG is injected into the patient before surgery and glows under special infrared light, helping surgeons "see" cancer cells in real time. This technology has already proven effective in other cancers (e.g., liver, breast, and colorectal tumors) by highlighting hard-to-detect lesions, guiding lymph node removal, and ensuring complete tumor excision. However, its use in bone and soft tissue tumors-a field with unique anatomical and biological complexities-remains understudied.
+
+Key Goals of the Study:
+
+Tumor Visualization: Test how effectively ICG can "light up" bone and soft tissue tumors under NIR imaging, and determine the optimal timing and methods for administering the dye.
+
+Precision Surgery: Evaluate whether NIR-guided surgery helps surgeons achieve cleaner tumor margins (i.e., removing all cancer cells while sparing healthy tissue).
+
+Accuracy Validation: Compare the fluorescent imaging results with post-surgery pathology reports to confirm if the technology reliably predicts tumor presence.
+
+Practical Insights: Identify factors that might affect the stability and reliability of the imaging system in real-world surgical settings.
+
+Why This Matters:
+
+For Patients: This technology could reduce the risk of cancer recurrence, minimize unnecessary tissue removal, and improve recovery outcomes.
+
+For Surgeons: It offers an objective, real-time tool to enhance decision-making during complex tumor surgeries.
+
+For Cancer Care: If successful, it could establish new standards for precision in orthopedic oncology and inspire broader applications in other understudied cancers.
+
+Real-World Examples:
+
+In liver cancer surgery, ICG has helped surgeons detect tiny, hidden metastases that standard imaging missed.
+
+For lung metastases from sarcoma, ICG-guided removal of suspicious tissue led to a high rate of confirmed cancer cells in additional samples.
+
+Safety and Accessibility:
+
+ICG is widely used in other medical fields, with a strong safety profile approved by global regulatory agencies. The study builds on existing evidence while addressing gaps specific to bone and soft tissue tumors.
+
+By bridging the gap between advanced imaging technology and the unique needs of orthopedic oncology, this research aims to empower surgeons with better tools and give patients a stronger chance at lasting recovery

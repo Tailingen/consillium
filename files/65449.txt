@@ -1,0 +1,31 @@
+Tivantinib and Bevacizumab in Treating Patients With Solid Tumors That Are Metastatic or Cannot Be Removed by Surgery
+This phase I trial studies the side effects of and best dose of tivantinib when given together with bevacizumab in treating patients with solid tumors that have spread to other areas of the body or cannot be removed by surgery. Tivantinib may stop the growth of tumor cells by blocking some of the enzymes needed for cell growth. Monoclonal antibodies, such as bevacizumab, may block tumor growth in different ways by targeting certain cells. Bevacizumab may also stop the growth of cancer by blocking blood flow to the tumor. Giving tivantinib together with bevacizumab may work better in treating tumor cells.
+Solid Neoplasm
+BIOLOGICAL: Bevacizumab|OTHER: Laboratory Biomarker Analysis|OTHER: Pharmacological Study|DRUG: Tivantinib
+RP2D of the combination of tivantinib and bevacizumab, defined as the dose level at which the dose-limiting toxicity (DLT) rate is closest to 1/6 graded according to the National Cancer Institute (NCI) CTCAE v4.0, Up to 28 days
+Change in HGF, HGFA, VEGF, and PIGF in plasma by enzyme-linked immunosorbent assay, Plasma before and after the treatment will be measured and compared by Wilcoxon signed rank test., Baseline to up to day 15 of course 1|Change in MET, FAK, AKT, STAT3 in skin tissue by immunohistochemistry, Skin biomarkers before and after the treatment will be measured and compared by Wilcoxon signed rank test., Baseline to up to day 15 of course 1|Clinical response rate as evaluated by RECIST, The clinical response rate will be calculated and corresponding 95% exact confidence interval will be provided. The percent changes in tumor sized from the baseline will be presented by the waterfall plot., Up to 4 weeks after completion of study treatment|Incidence of adverse events graded according to NCI CTCAE v4.0 that are possibly, probably, or definitely related to treatment, The maximum grade of toxicity for each category of interest will be recorded for each patient and the summary results will be tabulated by category and grade. All DLTs and other serious (grade 3 or greater) toxicity events on a patient-by-patient basis will be described; descriptions will include dose level and any relevant baseline data. Statistics on the number of cycles received by patients and any dose reductions will be tabulated. Toxicity profile for CYP2C19 mutant carriers will be summarized and compared to non-carriers by exact tests when sample size permits., Up to 4 weeks after completion of study treatment|Pharmacokinetics (PK) of tivantinib when administered in combination with bevacizumab, PK outcomes for CYP2C19 mutant carriers will be summarized and compared to non-carriers by exact tests when sample size permits., At days 1, 2, and 15 of course 1
+PRIMARY OBJECTIVES:
+
+I. Determine the recommended phase II dose (RP2D) of the vascular endothelial growth factor (VEGF) monoclonal antibody, bevacizumab in combination with the allosteric met proto-oncogene (MET) inhibitor, tivantinib, in patients with advanced solid tumors.
+
+SECONDARY OBJECTIVES:
+
+I. Describe the dose-limiting toxicity (DLT) and other toxicities associated with bevacizumab in combination with tivantinib as assessed by Common Terminology Criteria for Adverse Events (CTCAE) version (v) 4.0.
+
+II. Document anti-tumor activity of bevacizumab in combination with tivantinib in patients with advanced solid tumors.
+
+III. Determine the pharmacokinetics of tivantinib when administered in combination with bevacizumab in patients with advanced solid tumors.
+
+IV. Perform cytochrome P450 family 2, subfamily C, polypeptide 19 (CYP2C19) genotyping on all subjects and correlate with pharmacokinetics and toxicity.
+
+V. Assess the effect of bevacizumab plus tivantinib on plasma components of the hepatocellular growth factor (HGF)-MET signaling pathway (HGF, HGF activator \[HGFA\]) and VEGF signaling pathway (VEGF A, B, C, D and placental growth factor \[PIGF\]).
+
+VI. Assess tissue (tumor and skin) protein biomarkers before and after study treatment including MET, phospho-MET\^tyrosine (Tyr)1349 and phosphor-focal adhesion kinase (FAK)\^Tyr861.
+
+VII. Assess early therapy response by quantitative biomarker imaging fludeoxyglucose F 18 (F-18 FDG) positron emission tomography (PET) and magnetic imaging resonance (MRI) on a smaller sample (n up to 15) of subjects willing to participate in the imaging assessment through UPCI 12-096.
+
+OUTLINE: This is a dose-escalation study of tivantinib.
+
+Patients receive bevacizumab intravenously (IV) over 30-90 minutes on days -15, 1, and 15 (day -15 of course 1 only) and tivantinib orally (PO) twice daily (BID) on days 1-28. Courses repeat every 28 days in the absence of disease progression or unacceptable toxicity.
+
+After completion of study treatment, patients are followed up for 4 weeks.

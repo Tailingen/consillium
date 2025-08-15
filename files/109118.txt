@@ -1,0 +1,27 @@
+Pembrolizumab and Afatinib in Patients With Non-small Cell Lung Cancer With Resistance to Erlotinib
+This phase I/Ib trial studies the side effects and best dose of pembrolizumab when given together with afatinib dimaleate in treating patients with non-small cell lung cancer that has spread to other places in the body and usually cannot be cured or controlled with treatment, or has come back and does not respond to erlotinib hydrochloride. Monoclonal antibodies, such as pembrolizumab, may interfere with the ability of tumor cells to grow and spread. Afatinib dimaleate may stop the growth of tumor cells by blocking some of the enzymes needed for cell growth. Giving pembrolizumab and afatinib dimaleate together may be an effective treatment for non-small cell lung cancer.
+Recurrent Non-Small Cell Lung Carcinoma|Stage IIIA Non-Small Cell Lung Cancer|Stage IIIB Non-Small Cell Lung Cancer|Stage IV Non-Small Cell Lung Cancer
+DRUG: Afatinib Dimaleate|BIOLOGICAL: Pembrolizumab
+Maximum Tolerated Dose (MTD) Recommended Dose of Pembrolizumab in Combination With Lead in Pembrolizumab and Afatinib Dimaleate, MTD is defined as the dose were less than two patients experienced a dose limiting toxicity. Dose limiting toxicities are defined in the protocol and graded per CTCAE 4.0., Day 21
+Overall Response Rate Per RECIST 1.1, Response classified per RECIST version 1.1 and assessed by CT or MRI: Complete Response (CR): Disappearance of all target lesions; Partial Response (PR): At least a 30% decrease in the sum of the diameters of target lesions; Overall Response (OR) is the best response recorded from the start of the treatment until disease progression/recurrence., Up to 3 years|Progression Free Survival, Response classified per RECIST version 1.1 and assessed by CT or MRI: Complete Response (CR): Disappearance of all target lesions; Partial Response (PR): At least a 30% decrease in the sum of the diameters of target lesions; Overall Response (OR) is the best response recorded from the start of the treatment until disease progression/recurrence. Kaplan-Meier plot and life-table summary will be used., Time from start of treatment to time of progression or death, whichever occurs first, assessed up to 3 years
+PRIMARY OBJECTIVES:
+
+I. To evaluate the safety and tolerability of MK-3475 (pembrolizumab) when given in combination with afatinib (afatinib dimaleate) in patients with advanced or metastatic non-small cell lung cancer with epidermal growth factor receptor (EGFR) activating mutations who have progressive disease on erlotinib (erlotinib hydrochloride).
+
+SECONDARY OBJECTIVES:
+
+I. To assess in a preliminary manner the efficacy of this combination (response rate, disease control rate and progression free survival).
+
+OUTLINE: This is a dose de-escalation study of pembrolizumab. Patients assigned to 1 of 2 treatment arms.
+
+ARM I (DOSE DE-ESCALATION COHORT): Patients receive afatinib dimaleate orally (PO) once daily (QD) on days 1-21 and pembrolizumab intravenously (IV) over 30 minutes on day 1.
+
+6 patients were enrolled into Dose Level 0 at 40 mg QD of afatinib, no de-escalation was needed prior to expansion.
+
+ARM II (EXPANSION COHORT): Patients receive pembrolizumab IV over 30 minutes on day 1 for 2 courses. Beginning course 3, patients receive afatinib dimaleate PO and pembrolizumab IV as in Arm I.
+
+All 5 expansion patients were enrolled at the dose of 40 mg QD of afatinib.
+
+In both Arms, courses repeat every 21 days (for up to 2 years for pembrolizumab) in the absence of disease progression or unacceptable toxicity.
+
+After completion of study treatment, patients are followed up at 30 days and then every 12 weeks thereafter.

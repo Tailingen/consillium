@@ -1,0 +1,33 @@
+SWOG-9346, Hormone Therapy in Treating Men With Stage IV Prostate Cancer
+RATIONALE: Testosterone can stimulate the growth of prostate cancer cells. Hormone therapy may be effective treatment for prostate cancer. It is not yet known which regimen of hormone therapy is most effective for stage IV prostate cancer.
+
+PURPOSE: This randomized phase III trial is studying two different regimens of hormone therapy and comparing how well they work in treating men with stage IV prostate cancer.
+Prostate Cancer
+DRUG: bicalutamide|DRUG: goserelin acetate|OTHER: clinical observation
+Overall Survival, Non-inferiority test to determine if intermittent combined androgen deprivation (CAD) overall survival is not substantially worse than continuous CAD overall survival. Specifically, the trial is designed for a one-sided test of the hypothesis that the hazard ratio of intermittent CAD to continuous CAD is 1.2. The assumptions used to compute the trial size are an overall type I error rate of 0.05 and a type II error of 0.10 (power = 0.9)., Up to 15 years|Physical Functioning as Measured by the SF-36, This outcome was scored on a scale of 0 to 100, with higher scores indicating better functioning. Change from Baseline in SF-36 Score at 3 Months, 3 months|Emotional Functioning as Measured by the SF-36 Mental Health Inventory, This outcome was scored on a scale of 0 to 100, with higher scores indicating better functioning. Change from Baseline in SF-36 Score at 3 Months, 3 months|Erectile Dysfunction, This outcome was assessed by having patients report whether they had erectile dysfunction (a score of 1) or no erectile dysfunction (a score of 0). This analysis looks at change from Baseline to 3 Months., 3 months|High Libido, This outcome was assessed by having patients report whether their interest in sexual activities was very high, high, or moderate (a score of 1) or low or very low (a score of 0). This outcome measure is reporting a change from baseline in the percentage of participants with High Libido at 3 months. "High Libido" is defined as very high, high or moderate interest in sexual activities., 3 months|Vitality, This outcome was scored on a scale of 0 to 100, with higher scores indicating better functioning. This analysis looks at mean change from Baseline score to 3 Months., 3 months
+Global Perception of Quality of Life, 15 months|Social Functioning, Mean of the change in social functioning from randomization, 15 months|Role Functioning, Mean of the change in role functioning from randomization, 15 months|General Symptoms, 15 months
+OBJECTIVES:
+
+Primary
+
+* Compare the survival of patients with metastatic stage IV prostate cancer responsive to combined androgen-deprivation therapy (CAD) treated with intermittent vs continuous CAD.
+* Compare the effects of these treatment regimens on impotence, libido, and vitality/fatigue as well as the physical and emotional well-being of these patients.
+
+Secondary
+
+* Compare general symptoms, role functioning, global perception of quality of life, and social functioning of patients treated with these regimens.
+* Assess prostate-specific antigen (PSA) levels after continuous CAD administered before randomization and evaluate PSA changes throughout randomized treatment of these patients.
+
+OUTLINE: This is a randomized, multicenter study. Patients are stratified according to SWOG performance status (0-1 vs 2), severity of disease (minimal vs extensive), and prior hormonal therapy (neoadjuvant hormonal therapy vs finasteride vs neither).
+
+* Induction therapy: Patients receive combined androgen-deprivation (CAD) therapy comprising goserelin subcutaneously once a month and oral bicalutamide once daily for 8 courses (7 months).
+* Consolidation therapy: Patients are randomized to 1 of 2 consolidation regimens.
+
+  * Arm I (continuous CAD therapy): Patients continue CAD therapy as in induction therapy. Treatment continues in the absence of disease progression.
+  * Arm II (intermittent CAD therapy): Patients undergo observation in the absence of rising prostate-specific antigen (PSA) or clinical symptoms of progressive disease. Patients with rising PSA or progressive disease begin CAD therapy as in induction therapy. Patients whose PSA normalizes after 8 courses return to observation. Patients whose PSA does not normalize after 8 courses continue CAD therapy.
+
+Quality of life is assessed before induction therapy, at 3 months (before consolidation therapy), and then at 9 and 15 months.
+
+Patients are followed every 6-12 months for at least 10 years.
+
+PROJECTED ACCRUAL: Approximately 1,500 patients will be accrued for this study.

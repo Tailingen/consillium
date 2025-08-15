@@ -1,0 +1,25 @@
+EA2176: Phase 3 Clinical Trial of Carboplatin and Paclitaxel +/- Nivolumab in Metastatic Anal Cancer Patients
+This phase 3 trial compares the addition of nivolumab to chemotherapy (carboplatin and paclitaxel) versus usual treatment (chemotherapy alone) for the treatment of anal cancer that has spread to other places in the body (metastatic). Immunotherapy with monoclonal antibodies, such as nivolumab, may help the body's immune system attack the cancer, and may interfere with the ability of tumor cells to grow and spread. Chemotherapy drugs, such as carboplatin and paclitaxel, work in different ways to stop the growth of tumor cells, either by killing the cells, by stopping them from dividing, or by stopping them from spreading. Giving nivolumab together with carboplatin and paclitaxel may help doctors find out if the treatment is better or the same as the usual approach.
+Anal Basaloid Carcinoma|Anal Canal Cloacogenic Carcinoma|Metastatic Anal Squamous Cell Carcinoma|Recurrent Anal Squamous Cell Carcinoma|Stage III Anal Cancer AJCC v8|Stage IV Anal Cancer AJCC v8|Unresectable Anal Squamous Cell Carcinoma
+DRUG: Carboplatin|BIOLOGICAL: Nivolumab|DRUG: Paclitaxel
+Progression-free survival (PFS), Defined as the first of progressive disease or death due to any cause. Analyzed using a stratified two-sided overall 0.05 level log-rank test. Will utilize standard Eastern Cooperative Oncology Group -American College of Radiology Imaging Network interim monitoring for efficacy evaluation., Up to 2 years
+Objective response rate (ORR), ORR is the ratio of the number of patients with a complete response or partial response, as defined by Response Evaluation Criteria in Solid Tumors version 1.1, to the total number of treated patients., Up to 2 years|Overall survival, Evaluated by a stratified log-rank test, and using a two-sided 0.05 level Cochran Mantel-Haenzel., Time between treatment randomization and death by any cause, assessed up to 2 years|Incidence of adverse events, Analyses of toxicity will be via frequency tabulations and percentages by worst degree of toxicity and comparisons will be done via chi-square or Fisher's exact tests as appropriate., Up to 2 years|Association of PFS with human papillomavirus (HPV) circulating cell-free deoxyribonucleic acid (DNA) viral load, Will use a quantitative HPV test based on SafeSEQ Next Generation Sequencing technology to detect tumor-derived HPV16- and HPV18- DNA sequences present in the plasma., Up to 2 years
+PRIMARY OBJECTIVE:
+
+I. To demonstrate that anti-PD-1 therapy in combination with carboplatin/weekly paclitaxel results in improved progression-free survival (PFS) versus systemic chemotherapy alone.
+
+SECONDARY OBJECTIVES:
+
+I. To demonstrate that anti-PD-1 therapy in combination with carboplatin/weekly paclitaxel results in improved overall survival (OS) versus systemic chemotherapy alone.
+
+II. To demonstrate that anti-PD-1 therapy in combination with carboplatin/weekly paclitaxel results in improved objective response using Response Evaluation Criteria in Solid Tumors (RECIST) version (v)1.1 versus systemic chemotherapy alone.
+
+III. To evaluate toxicity profiles of the two regimens. IV. To elucidate the role of the human papillomavirus (HPV) circulating cell-free deoxyribonucleic acid (cfDNA) viral load on PFS with the hypothesis that longer PFS will be associated with viral load.
+
+OUTLINE: Patients are randomized to 1 of 2 arms. Randomization will be 2:1 favoring the experimental regimen, Arm B.
+
+ARM A: Patients receive paclitaxel intravenously (IV) on days 1, 8, and 15 of each cycle, and carboplatin IV on day 1 of each cycle. Treatment repeats every 28 days for up to 6 cycles in the absence of disease progression or unacceptable toxicity.
+
+ARM B: Patients receive nivolumab IV over 30 minutes on days 1 and 15 of cycle 1 and then on day 1 only of subsequent cycles, paclitaxel IV on days 1, 8, and 15 of each cycle, and carboplatin on day 1 of each cycle. Treatment repeats every 28 days for up to 6 cycles for carboplatin and paclitaxel, and up to 2 years for nivolumab in the absence of disease progression or unacceptable toxicity.
+
+After completion of study treatment, patients are followed up at 1 month, then every 3 months for 2 years.

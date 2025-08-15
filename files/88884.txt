@@ -1,0 +1,26 @@
+Alisertib in Treating Patients With Recurrent or Persistent Leiomyosarcoma of the Uterus
+This phase II trial studies how well alisertib works in treating patients with leiomyosarcoma of the uterus that has come back or persistent. Alisertib may stop the growth of tumor cells by blocking some of the enzymes needed for cell growth.
+Recurrent Uterine Corpus Sarcoma|Uterine Corpus Leiomyosarcoma
+DRUG: Alisertib|OTHER: Laboratory Biomarker Analysis
+Progression-free Survival (PFS) > 6 Months, Whether or not the patient survived progression-free for at least 6 months. 90% confidence interval (Bonferroni Corrected). Progression is defined as at least a 20% increase in the sum of the diameters of target lesions, taking as reference the smallest sum on study (this includes the baseline sum if that is the smallest on study). In addition to the relative increase of 20%, the sum must also demonstrate an absolute increase of at least 5 mm. (Note: the appearance of one or more new lesions is also considered progressions). Progression includes the appearance of one or more new lesions and/or unequivocal progression of existing non-target lesions. Unequivocal progression should not normally trump target lesion status. It must be representative of overall disease status change, not a single lesion increase., Assessed every other cycle for the first 6 months; then every 3 months from the date of enrollment until the date of first documented progression or date of death from any cause, whichever came first, assessed up to 60 months.|Tumor Response, Complete and Partial Tumor Response by RECIST 1.1. Patient response uses best overall response while on therapy. Complete response is defined as the disappearance of all target lesions and non-target lesions, and any pathological lymph nodes (whether target or non-target) must have reduction in the short axis to \<10 mm. Partial response is defined as at least a 30% decrease in the sum of the diameters of target lesions, taking as reference the baseline sum diameters. Complete or partial response requires confirmation at greater than or equal to 4 weeks from initial documentation., Every other cycle for the first 6 months; then every 3 months thereafter until withdrawal from study treatment or disease progression is confirmed.
+Overall Survival, The observed length of life from entry into the study to death or the date of last contact., From study entry to death or last contact, up to 5 years.|Number of Participants With Adverse Events as Assessed by NCI CTCAE Version 4.0, Every cycle during treatment and 30 days after the last treatment, up to 5 years.|Progression Free Survival, Progression-free survival (PFS) was defined as the period from study entry until disease progression, death, or the last date of contact. Progression was based on RECIST 1.1. RECIST 1.1 defines progressive disease as at least a 20% increase in the sum of the diameters of target lesions, taking as reference the smallest sum on study (this includes the baseline sum if that is the smallest on study). In addition to the relative increase of 20%, the sum must also demonstrate an absolute increase of at least 5 mm. The appearance of one or more new lesions or unequivocal progression of non-target lesions is also considered progression., every other cycle for the first 6 months; then every 3 months thereafter until disease progression is confirmed; up to 5 years
+Aurora A Kinase Expression, Aurora A Kinase expression will be assessed for associations with patient demographics and clinical outcome (response, PFS at 6 months, PFS, and OS)., Up to 5 years
+PRIMARY OBJECTIVES:
+
+I. To assess the clinical activity of MLN8237 (alisertib) in patients with recurrent or persistent leiomyosarcoma of the uterus who have received one or two prior cytotoxic therapies and the frequency of patients who survive progression-free for at least 6 months after initiating therapy or have objective tumor response.
+
+SECONDARY OBJECTIVES:
+
+I. To determine the frequency and severity of adverse events as assessed by Common Terminology Criteria for Adverse Events version 4 (CTCAE v4) among women with leiomyosarcoma treated with MLN8237.
+
+II. To determine the distribution of progression-free survival (PFS) and overall survival (OS).
+
+TERTIARY OBJECTIVES:
+
+I. To determine the relationship of Aurora A Kinase expression, measured by immunohistochemistry, with objective response, PFS at 6 months, survival, and progression-free survival.
+
+OUTLINE:
+
+Patients receive alisertib orally (PO) twice daily (BID) on days 1-7. Courses repeat every 21 days in the absence of disease progression or unacceptable toxicity.
+
+After completion of study treatment, patients are followed up every 3 months for 2 years and then every 6 months for 3 years.

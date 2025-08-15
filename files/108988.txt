@@ -1,0 +1,89 @@
+Leukemia Adapted Protocol
+In resource-constrained settings such as Malawi, survival rates for pediatric acute myeloid leukemia (AML) are dismally low compared to high-resource environments. This disparity highlights the urgent need for feasible treatment protocols tailored to the realities of these regions where most children with cancer are treated. In 2023, after reviewing favorable clinical trials results in other resource-limited settings, the Kamuzu Central Hospital (KCH) pediatric cancer unit adopted an evidence-based intensity-adapted clinical practice guideline (CPG) developed by the International Society of Paediatric Oncology (SIOP) as its standard of care for the treatment of pediatric AML, aiming to balance curative intent with manageable toxicity. The current study is a prospective evaluation of outcomes of standard of care in Malawi using the SIOP CPG in a real-world setting.
+
+The LEAP study aims to assess the implementation of the SIOP AML guidelines at KCH in an effort to continually improve outcomes in Malawi. The study is an observational-implementation design with a composite effectiveness-implementation outcome called Implementation Success. Implementation Success combines feasibility, the ability of patients to complete all aspects of the CPG, with effectiveness, the ability to maintain historical rates of complete remission of 40% at the treatment center.
+
+This prospective cohort study will enroll children under 18 years diagnosed with de novo AML at KCH. Implementation Success will be the primary endpoint, with secondary endpoints including CPG fidelity, long-term survival, adverse events, and hematologic recovery times. Patient-reported outcomes will also be collected to assess the impact of treatment on quality of life.
+
+This will be the first prospective study of pediatric AML in sub-Saharan Africa, providing critical data on the management of AML in low-resource settings. By assessing the implementation of a context-adapted CPG, the study will contribute to the global effort to improve pediatric AML outcomes in resource-constrained environments. The findings will serve to guide practitioners in Malawi and similar settings, and the data generated will be invaluable for future clinical decisions and CPG development.
+Acute Myeloid Leukaemia
+OTHER: Intensity-adapted pediatric acute myeloid treatment guidelines
+Determine the implementation success of an intensity adapted clinical practice guideline (CPG) based upon recommendations by the International Society of Paediatric Oncology (SIOP) for childhood AML in resource limited settings., CPG Implementation Success will be a composite endpoint comprised of:
+
+1. Feasibility: proportion of patients completing the CPG. (see Study Design for further details outlining CPG completion criteria)
+2. Effectiveness: proportion of patients in complete remission (CR) by the end of Induction 2 chemotherapy., From initiation of chemotherapy to assessment of completion of the CPG and attainment of end-of-induction bone marrow evaluation (if CPG completed to that point), assessed up to 12 months from the start of chemotherapy.
+Estimate the proportion of patients with negative minimal residual disease (MRD) following Induction, MRD will be evaluated by bone marrow examination with multiparameter flow cytometry. MRD positivity will be defined as ≥0.1% residual pathological myeloblasts., By end of second induction, assessed up to 6 months from initiating chemotherapy.|Estimate the proportion of patients with early mortality, Early mortality is defined as death occurring ≤42 days from the beginning of treatment., Assessed up to 42 days from start of chemotherapy|Estimate the proportion of patients with treatment-related mortality on the CPG, TRM will be defined as death occurring \>42 days from the beginning of treatment due to any cause in the absence of progressive cancer., Assessed from Day 43 following initiation of chemotherapy through to completion of the CPG, assessed up to 12 months.|Estimate the proportion of patients with serious adverse events, All adverse events among patients treated on the CPG will be graded using Common Terminology Criteria for Adverse Events (CTCAE) version 5. All the Grade ≥3 adverse events will be recorded, From initiation of chemotherapy through to completion of the CPG, assessed up to 12 months.|Estimate the time to hematologic recovery following cycles of chemotherapy, Time to transfusion independence of blood products following completion of therapy., From the final dose of curative-intent chemotherapy to blood product independence, assessed up to 6 months.|Estimate the proportion of patients with treatment abandonment., After starting Day 1 of therapy, any unplanned hiatus of curative-intent therapy lasting ≥4 weeks lasting ≥4 weeks., From initiation of chemotherapy to completion of the CPG, assessed up to 12 months.|Estimate survival of patients treated with the CPG., Overall, event-free, and relapse-free survival 12 \& 24 months from diagnosis., Assessed 24 months from start of therapy|Describe myeloblast cytogenetics, Myeloblast cytogenetics is defined as reported by NanoString bone marrow analysis at diagnosis., Time of diagnosis (samples are batched and assessed up to 6 months following diagnostic bone marrow evaluation)|Describe Patient Reported Outcomes at relevant timepoints., Patient-Reported Outcomes Measurement Information System (PROMIS-25) questionnaires will be given to parents and children enrolled on study at the time of diagnosis (within 30 days) and at the end of second Induction (within 30 days). Questionnaires will be administered by study personnel while patients are inpatient. As many families at the treatment center are illiterate, all questionnaires will be read and filled in by study personnel based on answers by the parents/children., Assessed within 30 days of diagnostic bone marrow evaluation (diagnosis timepoints) and within 30 days of the end of second induction (mid-therapy time-point, assessed up to 6 months from diagnosis).|Determine the fidelity to treatment and supportive care practice guidelines associated with AML therapy in Malawi, Proportion of discrete treatment and supportive care guideline elements received/completed as prescribed., From initiation of chemotherapy through to completion of the CPG, assessed up to 12 months.
+Participants:
+
+* All patients with have de novo AML presenting to Kamuzu Central Hospital (KCH) in Lilongwe, Malawi will be offered enrollment into the study.
+* Patients must be \<18 years of age at time of study enrollment.
+* Patients must begin treatment according to the 2023 KCH AML therapy CPG.
+* All patients at the treating center receiving curative-intent therapy for AML are treated on the 2023 KCH AML standard of care CPG based on the SIOP AML guidelines, independent of participation in research.
+* Patients should ideally be consented for data collection within one week of confirmatory diagnosis to ensure highest quality of prospective data collection.
+
+The therapy guideline used at KCH is based upon the published international guidelines for treating pediatric AML in resource-constrained centers published by the International Society of Paediatric Oncology (SIOP). It is currently the standard of care at KCH.
+
+Data Collection Schedule:
+
+All study measurements in this study are routinely captured as part of clinical care. No additional clinical studies will be obtained from patients as a consequence of enrollment onto the LEAP study.
+
+1. On-treatment schedule Patients are routinely admitted inpatient to the pediatric cancer unit at the start of each chemotherapy cycle. Patients remain inpatient according to standard practices of the unit until they no longer require routine blood product transfusions and their absolute neutrophil count is rising. Patients are discharged home for \~1 week prior to returning to start the subsequent cycle, but generally no later than 2 weeks from discharge.
+
+   Required Data Items are all routinely obtained as part of standard of care:
+   * Bone marrow aspirate with morphology +/- trephine biopsy
+   * Bone marrow flow cytometry OR immunohistochemistry
+   * Lumbar puncture with cerebrospinal fluid cell count \& morphological evaluation
+   * Leukemia cytogenetics
+   * Lanksy score
+   * Weight, height, MUAC
+   * History \& physical
+   * Complete blood count
+   * Serum electrolytes
+   * Confirmation of HIV serostatus (standard of care for all pediatric patients in Malawi)
+   * Chest X-ray
+   * Echocardiogram
+   * Adverse event monitoring
+   * PROMIS-25 parent \& patient questionnaire (additional research-only evaluation)
+   * REDCap data upload
+2. Post-treatment schedule Patients will be followed up by telephone monthly for the first six months off therapy. In-person visits routinely occur at 3 months, 6 months, 9 months, 12 months, 18 months, and 24 months following completion of therapy. They are followed annually thereafter.
+
+Required Data Items:
+
+* History and confirmation of vital status
+* Physical exam
+* Complete/full blood count
+* PROMIS-25 questionnaire
+* REDCap data upload
+
+Statistical analysis:
+
+Sample size determination of this study is based on accrual capacity of the study site, not from statistical power. Based on diagnoses over the previous three years at Kamuzu Central Hospital in Malawi, the investigators expect at least 10 de novo cases/year of AML.
+
+Primary Endpoint
+
+CPG Implementation Success will be a composite endpoint comprised of:
+
+1. Feasibility: proportion of patients completing the CPG
+2. Effectiveness: proportion of patients in complete remission (CR) by the end of Induction
+
+Implementation will be deemed successful if 1) ≥50% of patients are able to complete the CPG; AND 2) The historical benchmark of end-of-induction complete remission (CR) of 40% is maintained.
+
+Rates of CR (effectiveness outcome) and CPG completion (implementation outcome) will be monitored continuously by the study statistician team using an adaptation of the method of Ivanova and colleagues. This method provides a Pocock-type boundary so that the probability of crossing the boundary is at most 5% when the true rate of the event crosses the acceptable threshold. For the effectiveness threshold of CR, we will use the established historical rate of CR of 40% achieved on the old standard of care for AML in Malawi. The probability of boundary crossing rises to 24%, 68%, and 98% if the CR rate drops to 30%, 20%, and 10%, respectively, with corresponding accruals of N=28, 22, and 14. Similarly, for rate of CPG completion, we will use a threshold of 50%. The probability of boundary crossing rises to 22%, 59%, and 92% if the rate of completion rate drops to 40%, 30%, and 20%, respectively, with corresponding expected accruals of N=27, 22, and 15.
+
+Criteria for completing the CPG are:
+
+1. Completing all required chemotherapy cycles (Induction 1, Induction 2, Consolidation 1, Consolidation 2) and achieving transfusion independence following Consolidation 2 outside of the setting of relapse or bone marrow failure (in which case therapy will be considered complete for the purposes of the study outcome). Note that pre-phase is not required for completion.
+2. Completion of Inductions 1 and 2 but not in CR at the end of Induction.
+3. Completion of Inductions 1 and 2 having achieved CR by the end of Induction 2 but having had relapse prior to completing Consolidation 2.
+4. All patients with early mortality (≤42 days), treatment-related mortality, or treatment abandonment of curative-intent therapy will be considered incomplete.
+5. Patients removed from curative-intent therapy due to toxicity will be considered incomplete.
+
+Complete Remission is defined as \<5% myeloblasts on bone marrow evaluation.
+
+Secondary Endpoints
+
+* Event-free, relapse-free, and overall survival at 12 \& 24 months from diagnosis
+* Proportion of patients with CTCAE ≥3 adverse events
+* Patient-reported outcomes at diagnosis, end of induction, end of therapy, and 6 months post-therapy.
+* Cytogenetic characteristics of myeloblasts
+* Proportion of discrete treatment and supportive care CPG elements received/completed as prescribed

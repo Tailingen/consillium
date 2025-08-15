@@ -1,0 +1,6 @@
+Staging Prostate Cancer With Hybrid C11-Choline PET/MR and mpMRI
+The purpose of this study is to find out if a PET/MR scan in combination with standard MRI and CT scans can improve the early detection and treatment of patients with prostate cancer.
+Prostate Adenocarcinoma
+DRUG: C-11 choline PET tracer|DRUG: Gadobutrol|DEVICE: PET/MR scanner
+Uptake Value of C11-choline, Measured by maximum standardized uptake value (SUVmax) of indexed lesions. SUV is calculated as ratio of concentration of tissue reactivity divided by dose at time of injection divided by body weight., Baseline|Number of Lesions Showing C11-Choline Uptake, Measured by the mean number of lesions to show C11-Choline uptake., Baseline
+High risk prostate cancer patients will undergo C11-Choline PET/MR whole body fusion scan and pelvic mpMRI for accurate staging. The PET/MR imaging findings, including the primary lesion with the prostate bed and pelvic lymph nodes, will be correlated with the histopathologic result. Researchers aim to provide accurate one-stop shopping opportunity in diagnosis and staging of high risk prostate cancer using the C11-choline PET/MR scan.

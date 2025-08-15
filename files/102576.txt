@@ -1,0 +1,21 @@
+DNA Analysis of Tumor Tissue From Patients With Acute Myeloid Leukemia
+RATIONALE: Studying samples of tissue from patients with cancer in the laboratory may help doctors learn more about changes that occur in DNA and identify biomarkers related to cancer. It may also help doctors predict how well patients respond to treatment.
+
+PURPOSE: This laboratory study is looking at tissue samples from patients with acute myeloid leukemia.
+Leukemia
+GENETIC: DNA methylation analysis|GENETIC: comparative genomic hybridization|GENETIC: fluorescence in situ hybridization|GENETIC: microarray analysis|GENETIC: polymerase chain reaction|OTHER: diagnostic laboratory biomarker analysis|OTHER: immunologic technique
+Nucleophosmin exon 12 mutation-related normal cytogenetics leukemia (NCL) has a specific genetic and epigenetic profile, 1 day|Relatedness on a per-gene basis of cross-platform data, 1 day|Ability of supervised clustering to distinguish subgroups according to clinical prognostic and biomarker indicators, 1 day|Ability of unsupervised clustering to identify subgroups of NCL patients, 1 day|Relative power of each platform mentioned above vs the integrated platforms, 1 day
+OBJECTIVES:
+
+Primary
+
+* Determine gene expression, genome integrity, cytosine methylation, and chromatin structure in patients with normal cytogenetics leukemia (NCL) acute myeloid leukemia.
+* Determine whether NCL can be deconstructed into specific disease entities by analysis of the integrated genomic and epigenomic datasets using supervised and unsupervised methods in these patients.
+* Identify the gene pathways that define NCL subtypes and molecular targets for validation in preclinical and clinical trials for these patients.
+* Determine whether integrated analysis provides markers of prognostic and therapeutic response that accurately predicts clinical outcome and can be used to select patients for risk-stratified therapeutic trials.
+
+OUTLINE: This is a pilot, multicenter study.
+
+Samples are analyzed to assess array comparative genomic hybridization using polymerase chain reaction (PCR) and fluorescent in situ hybridization; chromatin immunoprecipitations (chip) using PCR; Hpa II tiny fragment enrichment by ligation-mediated PCR (HELP) using DNA methylation analysis; and gene expression profiling.
+
+PROJECTED ACCRUAL: A total of 32 patients will be accrued for this study.

@@ -1,0 +1,15 @@
+Umbilical Cord Blood Transplantation Using a Myeloablative Preparative Regimen for Hematological Diseases
+This is a treatment guideline for an unrelated umbilical cord blood transplant (UCBT) using a myeloablative preparative regimen for the treatment of hematological diseases, including, but not limited to acute leukemias. The myeloablative preparative regimen will consist of cyclophosphamide (CY), fludarabine (FLU) and fractionated total body irradiation (TBI).
+Acute Myeloid Leukemia (AML)|Acute Lymphocytic Leukemia (ALL)|Chronic Myelogenous Leukemia|Plasma Cell Leukemia|Myelofibrosis|Myelodysplasia|Chronic Lymphocytic Leukemia|Small Lymphocytic Lymphoma|Marginal Zone B-Cell Lymphoma|Follicular Lymphoma|Lymphoplasmacytic Lymphoma|Mantle-Cell Lymphoma|Prolymphocytic Leukemia|Diffuse Large B Cell Lymphoma|Lymphoblastic Lymphoma|Burkitt's Lymphoma|Non-Hodgkin Lymphoma|Multiple Myeloma
+DRUG: Fludarabine|DRUG: Cyclophosphamide|RADIATION: Total Body Irradiation|DRUG: Cyclosporine A|DRUG: Mycophenylate mofetil|BIOLOGICAL: Umbilical cord blood
+Survival at 1 year post-transplant, The number of patients that are still living 1 year after UCBT., 1 year
+Incidence of neutrophil engraftment at day 42., Number of subjects with neutrophil engraftment at day 42 post UCBT., 42 days|Platelet engraftment at 1 year., Number of patients with platelet engraftment at 1 year post UCBT., 1 year|Pattern of chimerism after transplant., Pattern of chimerism after transplant. Chimerism will be plotted with box-plots and described over time., 1 year|Incidence of graft failure., Cumulative incidence of graft failure after UCBT., 100 days|Incidence of acute graft versus host disease at 100 days., Cumulative incidence will be used to estimate acute graft versus host disease 100 days after UCBT., 100 days|Incidence of chronic graft versus host disease at 1 year., Cumulative incidence will be used to estimate chronic GVHD at 1 year post UCBT., 1 year|Incidence of transplant related mortality at 6 months., Cumulative incidence will be used to estimate transplant related mortality at 6 months post UCBT., 6 months|Incidence of disease free survival, Kaplan-Meier curves will be used to estimate disease-free survival at 1 and 2 years post UCBT., 1, 2 years|Incidence of overall survival., Kaplan-Meier curves will be used to estimate overall survival at 1 and 2 years post UCBT., 1, 2 years
+This is a study to collect routine clinical data from UCBT using unrelated single or double UCB units as an alternative, non-HLA-matched stem cell source for patients with hematological diseases.
+
+* data collection from transplant preparative therapy consisting of treatments with chemotherapeutic regimens and total body irradiation.
+* data collection from umbilical cord blood selection and infusion.
+* data collection from standard supportive disease and transplant related care.
+
+Pre- and post-transplant medication, UCB selection and infusion, supportive care, and follow-up will be according to the current University of Minnesota BMT guidelines.
+
+An average of 18 patients are expected to be treated on this protocol per year.

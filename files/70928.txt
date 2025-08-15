@@ -1,0 +1,43 @@
+Temozolomide With or Without Capecitabine in Treating Patients With Advanced Pancreatic Neuroendocrine Tumors
+This randomized phase II trial studies how well giving temozolomide with or without capecitabine works in treating patients with advanced pancreatic neuroendocrine tumors. Drugs used in chemotherapy, such as temozolomide and capecitabine, work in different ways to stop the growth of tumor cells, either by killing the cells, by stopping them from dividing, or by stopping them from spreading. It is not yet known whether temozolomide is more effective with or without capecitabine in treating patients with advanced pancreatic neuroendocrine tumors.
+Gastrinoma|Glucagonoma|Insulinoma|Islet Cell Carcinoma|Pancreatic Polypeptide Tumor|Recurrent Islet Cell Carcinoma|Somatostatinoma
+DRUG: temozolomide|DRUG: capecitabine
+Progression-free Survival, Progression-free survival (PFS) is defined as the time from randomization to progression or death without evidence of progression. Progression was evaluated using the revised Response Evaluation Criteria in Solid Tumors (RECIST) guideline (version 1.1) and defined as at least a 20% increase in the sum of the diameters of target lesions, taking as reference the smallest sum on study (this includes the baseline sum if that is the smallest on study). In addition to the relative increase of 20%, the sum must also demonstrate an absolute increase of at least 5 mm. Kaplan-Meier method was used to estimate PFS., Assessed every 3 months for 3 years and then every 6 months for years 3-5
+Proportion of Patients With Response, Response was evaluated using the revised Response Evaluation Criteria in Solid Tumors (RECIST) guideline (version 1.1) and defined as either complete response (CR) or partial response (PR).
+
+CR is defined as disappearance of all target lesions. Any pathological lymph nodes (whether target or non-target) must have reduction in short axis to \< 10 mm.
+
+PR is defined as at least a 30% decrease in the sum of the diameters of target lesions, taking as reference the baseline sum diameters., Assessed every 3 months for 3 years and then every 6 months for years 3-5|Overall Survival, Overall survival is defined as time from randomization to death or date last known alive., Assessed every 3 months for 3 years and then every 6 months for years 3-5|Association Between Methyl Guanine Methyltransferase (MGMT) Status by Immunohistochemistry (IHC) and Response, Response was evaluated using the revised Response Evaluation Criteria in Solid Tumors (RECIST) guideline (version 1.1) and defined as either complete response (CR) or partial response (PR). CR is defined as disappearance of all target lesions. PR is defined as at least a 30% decrease in the sum of the diameters of target lesions, taking as reference the baseline sum diameters.
+
+MGMT status was determined by IHC using paraffin-embedded sections of 4µm. A score (H-score) was generated based on the findings and scoring was performed by two pathologists. This H-score ranges from 0 (no staining in the tumor) to 300 (diffuse intense staining of the tumor). The highest score was used if there was disagreement. H-scores were grouped into 3 standard categories for MGMT status:
+
+Category 1 - \<=50 Category 2 - 51-100 Category 3 - \>100, Assessed every 3 months for 3 years and then every 6 months for years 3-5|Association Between Methyl Guanine Methyltransferase (MGMT) Status by Promoter Methylation and Response, Response was evaluated using the revised Response Evaluation Criteria in Solid Tumors (RECIST) guideline (version 1.1) and defined as either complete response (CR) or partial response (PR).
+
+CR is defined as disappearance of all target lesions. Any pathological lymph nodes (whether target or non-target) must have reduction in short axis to \< 10 mm.
+
+PR is defined as at least a 30% decrease in the sum of the diameters of target lesions, taking as reference the baseline sum diameters.
+
+MGMT status is determined by promoter methylation, a clinically validated methylation-specific polymerase chain reaction (PCR) analysis. A tumor sample is considered positive for MGMT promoter methylation if an 80bp band is detected in the methylated PCR reaction. It would be considered MGMT negative if an 80bp band is not detected in the methylated PCR reaction., Assessed every 3 months for 3 years and then every 6 months for years 3-5
+PRIMARY OBJECTIVES:
+
+I. To evaluate progression-free survival (PFS) associated with temozolomide alone or temozolomide and capecitabine in patients with advanced pancreatic neuroendocrine tumors.
+
+SECONDARY OBJECTIVES:
+
+I. To evaluate response rates (RR) associated with temozolomide alone or temozolomide and capecitabine treatment in patients with advanced pancreatic neuroendocrine tumors.
+
+II. To evaluate overall survival (OS) associated with temozolomide alone or temozolomide and capecitabine in patients with advanced pancreatic neuroendocrine tumors.
+
+III. To evaluate the toxicity associated with temozolomide alone or temozolomide and capecitabine treatment in patients with advanced pancreatic neuroendocrine tumors.
+
+IV. To evaluate the usefulness of methyl guanine methyltransferase (MGMT) status (by immunohistochemistry \[IHC\] and promoter methylation) for predicting response in pancreatic neuroendocrine tumor patients treated with either temozolomide or temozolomide and capecitabine.
+
+V. To bank radiology images for evaluation of quality, reproducibility, and compliance with computed tomography (CT) methodology.
+
+OUTLINE: Patients are randomized to 1 of 2 treatment arms.
+
+ARM A: Patients receive temozolomide orally (PO) once daily (QD) on days 1-5. Treatment repeats every 28 days for up to 13 courses in the absence of disease progression or unacceptable toxicity.
+
+ARM B: Patients receive capecitabine PO twice daily (BID) on days 1-14 and temozolomide PO QD on days 10-14. Treatment repeats every 28 days for up to 13 courses in the absence of disease progression or unacceptable toxicity.
+
+After completion of study treatment, patients are followed up every 3 months for 2 years, and then every 6 months for 3 years.

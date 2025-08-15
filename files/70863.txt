@@ -1,0 +1,25 @@
+A Vaccine (CDX-1401) With or Without a Biologic Drug (CDX-301) for the Treatment of Patients With Stage IIB-IV Melanoma
+This phase II trial studies the effect of a vaccine called CDX-1401 given with or without a biologic drug called CDX-301 in treating patients with stage IIB-IV melanoma. The cancer vaccine CDX-1401 attaches to a protein that is made in tumor cells. The vaccine helps the body recognize the tumor to fight the cancer. The biologic drug CDX-301 may help the body make more of the tumor fighting cells, known as dendritic cells. Another biologic drug, poly-ICLC, may stimulate the immune system and help these dendritic cells mature so that they can recognize the tumor. Giving CDX-301 may make the immune response to a combination of CDX-1401 and poly-ICLC better.
+Cutaneous Melanoma|Melanoma|Melanoma of Unknown Primary|Mucosal Melanoma|Ocular Melanoma|Stage IIB Cutaneous Melanoma AJCC v6 and v7|Stage IIC Cutaneous Melanoma AJCC v6 and v7|Stage III Cutaneous Melanoma AJCC v7|Stage IIIA Cutaneous Melanoma AJCC v7|Stage IIIB Cutaneous Melanoma AJCC v7|Stage IIIC Cutaneous Melanoma AJCC v7|Stage IV Cutaneous Melanoma AJCC v6 and v7
+BIOLOGICAL: DEC-205/NY-ESO-1 Fusion Protein CDX-1401|DRUG: Poly ICLC|BIOLOGICAL: Recombinant Flt3 Ligand
+Immune T-cell Response to NY-ESO-1, Response rates will be analyzed by tabulating the frequency of positive response for each assay by antigen and treatment arm at each time point for which an assessment is performed. Response rates will be presented with their corresponding 95% confidence interval estimates calculated using the score test method. Fisher's exact tests will be used to compare cohort 1 and cohort 2 at the peak time point, with a significant difference declared if the 1-sided P value is =\< 0.10., At 12 weeks after final vaccination
+T Cell Responses to Other Ongoing and Nascent Antitumor Response Antigens Associated With Melanoma (e.g. PRAME, MAGE-A3, p53, and gp1000) as Well as Memory and Chronic Viral Responses (CMV, EBV), Response rates will be analyzed by tabulating the frequency of positive response for each assay by antigen and treatment arm at each time point for which an assessment is performed. Response rates will be presented with their corresponding 95% confidence interval estimates calculated using the score test method. Fisher's exact tests will be used to compare cohort 1 and cohort 2 at the peak time point, with a significant difference declared if the 1-sided P value is =\< 0.10., Up to 12 weeks after final vaccination|Frequency and Phenotypic Character of PBMC Subsets Including DCs, Monocyte Populations, T Cells, and NK Cells - Highest Peak Fold Change Over Baseline (Log 2 Fold), Graphical and tabular summaries of the assay data will be made. Linear mixed effects model and possibly weighted generalized estimating equation methods will be considered for a supportive analysis of the longitudinal data over time., Up to 12 weeks after final vaccination|Tumor Recurrence, Time to first recurrence from first vaccine among subjects who have experienced recurrence. (days), Up to 600 days from first vaccine|Overall Survival, Overall survival not assessed, Up to 1 year after patient's 12 week visit
+PRIMARY OBJECTIVE:
+
+I. To determine whether the immune response to NY-ESO-1 elicited by vaccination with DEC-205/NY-ESO-1 fusion protein CDX-1401 (CDX-1401) plus polyinosinic-polycytidylic acid stabilized with poly-L-lysine and carboxymethylcellulose (poly-ICLC) is substantially increased by prior expansion in the number of circulating dendritic cells (DC) by therapy with recombinant Flt3 ligand (CDX-301) (fms-related tyrosine kinase 3 ligand \[Flt3L\]).
+
+SECONDARY OBJECTIVES:
+
+I. To assess the effect of the vaccine regimen on immune responses to other ongoing and nascent antitumor response antigens associated with melanoma (e.g., PRAME, MAGE-A3, p53, and gp100) as well as memory viral responses (influenza A) and chronic viral responses (cytomegalovirus \[CMV\], Epstein-Barr virus \[EBV\]).
+
+II. To assess the effect of the vaccine regimen on the frequency and phenotypic character of peripheral blood mononuclear cell (PBMC) subsets including DCs, monocyte populations, T cells, and natural killer (NK) cells.
+
+III. To assess the safety, tolerability, and clinical efficacy of the vaccine regimens.
+
+OUTLINE: Patients are randomized to 1 of 2 treatment arms.
+
+ARM I: Patients receive recombinant Flt3 ligand (CDX-301) subcutaneously (SC) on days -7 to -1, 1-3, and 22-28 of cycle 1 and only on days 1-3 of cycle 2. Patients also receive CDX-1401 SC or intradermally (ID) on day 1 of each cycle and poly-ICLC SC on days 1-2 of each cycle. Treatment repeats every 28 days for 4 cycles in the absence of disease progression or unacceptable toxicity.
+
+ARM II: Patients receive CDX-1401 and poly-ICLC as in Arm I. Treatment repeats every 28 days for 4 cycles in the absence of disease progression or unacceptable toxicity.
+
+After completion of study treatment, patients are followed up at 4 and 12 weeks and then annually thereafter.

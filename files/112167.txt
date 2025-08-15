@@ -1,0 +1,11 @@
+Adequacy Assessment of Bronchoscopic Biopsy Samples Using a Novel Instrument
+The goal of this study is to learn whether the Ruby Robotics system enables pathologists to determine whether a bronchoscopic biopsy sample is adequate for diagnosis. The main question it aims to answer is:
+
+- Are pathologists' evaluations of Ruby digital images concordant with their evaluations of manually created rapid on-site evaluation slides?
+Lung Cancer|Lung Diseases
+DIAGNOSTIC_TEST: Ruby ROSE evaluation
+Concordance between pathologists' rapid evaluations of Ruby images and manually-prepared slides, 2 months from time of sample collection
+Pathologist ratings of quality metrics for Ruby images and manually-prepared slides, 2 months from time of sample collection
+The goal of this study is to learn whether the Ruby Robotics system enables pathologists to determine whether a bronchoscopic biopsy sample is adequate for diagnosis. The main question it aims to answer is:
+
+- Are pathologists' evaluations of Ruby digital images concordant with their evaluations of manually created rapid on-site evaluation slides?

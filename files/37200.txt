@@ -1,0 +1,19 @@
+Head and Neck Quality of Life
+This study examines the quality of life for patients after head and neck free flap reconstruction, both pre-operative and at least 1 year post-operative. It aims to find out what influences quality of life, and whether these changes are stable over time. It will use a new method of analysis called "Time to Deterioration" which tells us when a patient notices a significant change in their quality of life, when subsequently does not get better.
+Head and Neck Cancer|Free Flap
+University of Wisconsin Quality of Life Questionnaire, University of Winconsin Quality of Life (UW-QoL) questionnaire (Taiwan mandarin version v4) is a 12-item scale with additional global questions, scored from 0 to 100, with separate Physical and Social component scores providing a composite overall score. Higher scores indicate higher quality of life., Once at enrollment pre-operatively, and repeated at least 1 year post-operatively
+Methods
+
+Prospectively collected quality of life (QoL) study using a longitudinal TTD approach in a large cohort of head and neck free flap reconstruction patients. Questionnaires completed pre-operatively and at outpatient clinic visits, with concomitant examination and complication status recorded. Quality of life data collected by a clinician not involved in the research.
+
+Participants and Setting Participants recruited from Chang Gung Memorial Hospital, Linkou, Taiwan. Inclusion criteria included all patients undergoing free flap reconstruction of benign or malignant head and neck disease, who had completed both pre-operative and a minimum of one post-operative questionnaire, at least 1 year post-operatively. Exclusion criteria included patients that did not undergo free flap reconstruction, extra-oral disease eg scalp, no pre-operative questionnaire, post-operative questionnaire without at least 1 year follow up, and patients unable to consent.
+
+Primary outcome University of Winconsin Quality of Life (UW-QoL) questionnaire (Taiwan mandarin version v4) is a 12-item scale with additional global questions, scored from 0 to 100, with separate Physical and Social component scores providing a composite overall score.
+
+Quality of Life primary outcomes Separate analysis of component scores, rather than overall score, is suggested in UW-QoL scoring guidelines. This study examined Physical component score as the primary outcome.
+
+Missing data Missing data in UW QoL questionairres were handled according to published scoring guidelines, with a minimum 4 components in both physical and social subscores.
+
+Time to Deterioration (TTD) definitions TTD methodology was used to assess changes in QoL over time. TTD is defined as a drop of \> 5 points in QoL scores without a subsequent increase \> 5 points compared to the previous score. Comparison with previous score accounts for 'response shift' in patient perceptions, whereby patients get accustomed to a new normal by internal recalibration. QoL studies typically use a General Linear Mixed Model approach that does not quantify for this 'response shift'. Using this approach also better accounts for 'reversibility' in QoL . Previous score was used rather than previous best score. An MCID of 5 points has been proposed for TTD methodology which is in line with estimates of 5-10% in the the UW QoL scoring guidelines.
+
+Health Related Quality of Life (HRQoL) Deterioration Free Survival HRQoL deterioration free survival includes death (all cause death) as an event and is akin to overall survival.

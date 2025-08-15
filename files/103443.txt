@@ -1,0 +1,33 @@
+Durvalumab and Standard Chemotherapy Before Surgery in Treating Patients With Variant Histology Bladder Cancer
+This phase II trial studies the side effects of durvalumab and chemotherapy before surgery in treating patients with variant histology bladder cancer. Immunotherapy with monoclonal antibodies, such as durvalumab, may induce changes in the body's immune system and may interfere with the ability of tumor cells to grow and spread. Drugs used in chemotherapy, such as methotrexate, vinblastine, doxorubicin, cisplatin, gemcitabine, and carboplatin, work in different ways to stop the growth of tumor cells, either by killing the cells, by stopping them from dividing, or by stopping them from spreading. Giving durvalumab in addition to standard chemotherapy may lead to better outcomes in patients with variant histology bladder cancer.
+Bladder Adenocarcinoma|Bladder Mixed Adenocarcinoma|Bladder Squamous Cell Carcinoma|Bladder Urothelial Carcinoma|Infiltrating Bladder Urothelial Carcinoma Sarcomatoid Variant|Infiltrating Bladder Urothelial Carcinoma With Giant Cells|Infiltrating Bladder Urothelial Carcinoma With Glandular Differentiation|Infiltrating Bladder Urothelial Carcinoma With Trophoblastic Differentiation|Infiltrating Bladder Urothelial Carcinoma, Clear Cell Variant|Infiltrating Bladder Urothelial Carcinoma, Micropapillary Variant|Infiltrating Bladder Urothelial Carcinoma, Nested Variant|Infiltrating Bladder Urothelial Carcinoma, Plasmacytoid Variant
+DRUG: Carboplatin|DRUG: Cisplatin|PROCEDURE: Cystectomy|DRUG: Doxorubicin|BIOLOGICAL: Durvalumab|DRUG: Gemcitabine|DRUG: Methotrexate|DRUG: Vinblastine
+Incidence of Grade 3-5 Adverse Events, Graded per National Cancer Institute Common Terminology Criteria for Adverse Events version 5.0. The safety and tolerability of durvalumab in combination with chemotherapy in subjects with variant histology bladder cancer who initiate study treatment will be assessed as the number, by treatment cohort, of grade 3, 4, or 5 adverse events, considered probably or definitely related by the investigator., At 120 days
+Proportion of Subjects Who Initiate Study Treatment and Achieve Tumor Stage of pT2 N0 M0 or Better (e.g., pT0, pT1 N0) at Cystectomy, Achievement of tumor staging will be determined by pathologist at cystectomy and reported by treatment cohort. Assessed per National Comprehensive Cancer Network bladder cancer guidelines.
+
+* T0 N0 M0 = No evidence of primary tumor
+* T1 N0 M0 = Tumor staging by pathological assessment detected in lamina propria (T0), with no tumor positive nodes (N0).
+* T2 N0 M0 = Tumor staging by pathological assessment detected in muscularis propria (pT2), with no tumor positive nodes (N0) or tumor metastases (M0) observed., At 20 weeks
+PRIMARY OBJECTIVES:
+
+I. To assess the safety and tolerability of durvalumab in combination with chemotherapy in subjects with variant histology bladder cancer.
+
+SECONDARY OBJECTIVES:
+
+I. To determine the percent of subjects post-neoadjuvant chemo-immunotherapy who achieve tumor stage of pT2 N0 M0 or better (pT1 N0 or pT0) at cystectomy.
+
+II. To assess the response rate (RR) in post-neoadjuvant chemo immunotherapy as assessed by the investigator using imaging at screening and post treatment.
+
+III. To assess the molecular characterization of tumor tissue pre-neoadjuvant therapy and at post treatment cystectomy (for subject who have persistent disease).
+
+IV. To determine circulating free deoxyribonucleic acid (DNA) (cfDNA) (cell free DNA) at baseline, during treatment and following post treatment cystectomy using Natera sequencing platform.
+
+OUTLINE: Patients are assigned to 1 of 3 cohorts.
+
+COHORT I: Patients receive durvalumab intravenously (IV) over 60 minutes on day 1. Chemotherapeutic agents will be administered as an IV infusion according to prescribing information or treatment guidance in general use by the Investigating site. Methotrexate on day 1, vinblastine IV on day 2, doxorubicin IV on day 2, and cisplatin IV on day 2. Cycles repeat every 14 days up to 4 cycles in the absence of disease progression or unacceptable toxicity. Patients undergo cystectomy within 6 weeks.
+
+COHORT II: Patients receive durvalumab IV over 60 minutes on day 1. Chemotherapeutic agents will be administered as an IV infusion according to prescribing information or treatment guidance in general use by the Investigating site. Cisplatin IV over 60 minutes on day 1, and gemcitabine IV on days 1 and 8. Cycles repeat every 21 days up to 4 cycles in the absence of disease progression or unacceptable toxicity. Patients undergo cystectomy within 6 weeks.
+
+COHORT III: Patients receive durvalumab IV over 60 minutes on day 1.Chemotherapeutic agents will be administered as an IV infusion according to prescribing information or treatment guidance in general use by the Investigating site. Carboplatin IV on day 1, and gemcitabine IV on days 1 and 8. Cycles repeat every 21 days up to 4 cycles in the absence of disease progression or unacceptable toxicity. Patients undergo cystectomy within 6 weeks.
+
+After surgery, patients are followed up at 30 and 90 days.

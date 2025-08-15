@@ -1,0 +1,31 @@
+Targeted Therapy in Treating Patients With Incurable Non-Small Cell Lung Cancer With Genetic Mutations
+This phase II trial studies how well targeted therapy works in treating patients with incurable non-small cell lung cancer with a genetic mutation. Giving drugs that target other genetic mutations or other specific proteins may work better when a patient has cancer caused by a driver mutation and the treatment that targets that mutation stops working.
+EGFR Activating Mutation|Recurrent Non-Small Cell Lung Carcinoma|Stage IV Non-Small Cell Lung Cancer
+DRUG: Chemotherapy|BIOLOGICAL: Immunotherapy|OTHER: Laboratory Biomarker Analysis|BIOLOGICAL: Nivolumab|BIOLOGICAL: Pembrolizumab|DRUG: Targeted Molecular Therapy|DRUG: Tyrosine Kinase Inhibitor
+Objective Response Rate in Patients With High PD-L1 Expressing Cancers After Failure of Targeted Therapy Defined as Complete or Partial Response According to the Investigator's Assessment, Objective Response is defined as Complete Response (CR), Partial Response (PR), Stable Disease (SD) or Progressive Disease (PD). This outcome applies only to Arm I. \* Complete Response (CR): Disappearance of all target lesions, \* Partial Response (PR): At least a 30% decrease in the sum of the target lesions Progressive Disease (PD): At least a 20% increase in the sum of the target lesions, Stable Disease (SD): Neither sufficient shrinkage to qualify for partial response nor sufficient increase to qualify for progressive disease, Up to 1 year after failure of targeted therapy
+Number of Participants With Adverse Events Measured Using Common Terminology Criteria for Adverse Events Version 4.0, Toxicities for each group will be estimated and described using counts and frequencies by grade, location and relatedness., Adverse events were collected following each cycle of treatment (1-4) and up to 30 days after the last dose of study treatment. The average collection time from start of treatment was 7 weeks, with a range of 3 to 11 weeks.|Number of Mutations in Secondary Genes for Patients With PD-L1 Expression < 50%, This outcome applies to only Arms II and III., Up to 1 year after failure of targeted therapy|Objective Response Rates for Patients Without High PD-L1 Expressing Cancers, Objective response rates will be estimated in the two PD-L1 expression \< 50% arms. At the time of protocol development, the intention was to estimate confidence intervals for each of these rates, and to make an exploratory comparison among the three groups comparing complete response/partial response versus stable disease/progressive disease among the groups using a Fisher's exact test (for the 2x3 table). Due to the low numbers of patients evaluable for response, these analyses were not performed., Up to 3 years after failure of targeted therapy|Overall Survival, Estimated using Kaplan-Meier methods and survival rates will be compared using log-rank tests.
+
+Note: Log-rank tests will not be used due to the very low sample size., From date of progression on primary targeted treatment to death, assessed up to 3 years.|Rate of Tobacco Use and Mutation Burden Based on PD-L1 Expression at Time of Progression, Smoking History was defined as Never, Former or Current, Assessed at enrollment into study.
+PRIMARY OBJECTIVES:
+
+I. To estimate the objective response rate among patients with high PD-L1 expressing cancers after failure of targeted therapy.
+
+SECONDARY OBJECTIVES:
+
+I. To compare the overall survival for patients receiving treatment targeting primary mutations, secondary mutations, or immunotherapy at the time of progression on tyrosine kinase inhibitor therapy.
+
+II. To assess the incidence of secondary mutations in this population according to smoking status.
+
+III. To evaluate the response rates of patients treated using these different approaches.
+
+IV. To correlate outcomes with specific secondary genetic changes.
+
+OUTLINE: Patients are assigned to 1 of 3 treatment arms.
+
+ARM I (PD-L1 \>= 50%): Patients receive nivolumab intravenously (IV) over 60 minutes every 2 weeks or pembrolizumab IV every 3 weeks in the absence of disease progression or unacceptable toxicity.
+
+ARM II (PD-L1 \< 50% without secondary oncogenic driver): Patients receive tyrosine kinase inhibitor therapy orally (PO) targeting the initial oncogenic driver or other treatment for about 3 weeks.
+
+ARM III (PD-L1 \< 50% with secondary oncogenic driver): Patients receive tyrosine kinase inhibitor therapy PO targeting initial oncogenic driver, a drug targeting the secondary mutation, or other treatment for about 3 weeks.
+
+After completion of study treatment, patients are followed up for a minimum of 30 days.

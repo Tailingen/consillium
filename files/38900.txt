@@ -1,0 +1,24 @@
+Vaccine Therapy, Trastuzumab, and Vinorelbine in Treating Patients With Locally Recurrent or Metastatic Breast Cancer
+RATIONALE: Vaccines made from a person's white blood cells may help the body build an effective immune response to kill tumor cells. Monoclonal antibodies, such as trastuzumab, can block tumor growth in different ways. Some block the ability of tumor cells to grow and spread. Others find tumor cells and help kill them or carry tumor-killing substances to them. Drugs used in chemotherapy, such as vinorelbine, work in different ways to stop the growth of tumor cells, either by killing the cells or by stopping them from dividing. Giving vaccine therapy together with trastuzumab and vinorelbine may kill more tumor cells.
+
+PURPOSE: This phase II trial is studying how well giving vaccine therapy together with trastuzumab and vinorelbine works in treating patients with locally recurrent or metastatic breast cancer.
+Breast Cancer
+BIOLOGICAL: sargramostim|BIOLOGICAL: therapeutic autologous dendritic cells|BIOLOGICAL: trastuzumab|DRUG: vinorelbine ditartrate
+Number of Participants With Response, Response: Per Response Evaluation Criteria In Solid Tumors Criteria (RECIST v1.0) for target lesions and assessed: Complete Response (CR), Disappearance of all target lesions; Partial Response (PR), \>=30% decrease in the sum of the longest diameter of target lesions; Overall Response (OR) = CR + PR., 5-6 years
+Generation of E75/E90 Tetramer-positive CD8+ T Cells, Evaluate the ability of peptide-pulsed dendritic cells plus trastuzumab to induce functional antigen specific T cells. Measured by percentage of intracellular cytokine staining for E75/E90 tetramer-positive CD8+ T cells, 13 weeks|Generation of Interferon Gamma Positive CD8+T Cells, Evaluate the ability of peptide-pulsed dendritic cells plus trastuzumab to induce functional antigen specific T cells. Measured by percentage of intracellular cytokine staining for interferon gamma positive CD8+ T cells, 13 weeks
+OBJECTIVES:
+
+Primary
+
+* Determine the efficacy of multiepitope autologous dendritic cell vaccine in combination with trastuzumab (Herceptin®) and vinorelbine ditartrate in patients with locally recurrent or metastatic breast cancer whose tumors overexpress human epidermal growth factor receptor 2 (HER2/neu).
+
+Secondary
+
+* Determine if this regimen is effective in generating functional antigen-specific T cells.
+
+OUTLINE:
+
+* Therapeutic autologous dendritic cell (DC) preparation: Patients undergo mobilization of DC and apheresis for production of therapeutic DC. DCs are expanded in vitro for 10-20 days and pulsed with E75 and E90 peptides.
+* Treatment: Patients receive vinorelbine ditartrate IV over 6-10 minutes, therapeutic autologous DC intradermally over 2-5 minutes, and trastuzumab (Herceptin®) IV over 30-90 minutes on day 1. Patients receive sargramostim (GM-CSF) subcutaneously on days 2, 4, and 6, or until neutrophil counts recover. Treatment repeats every 14 days for up to 6 courses (or more at the discretion of the investigator) in the absence of disease progression or unacceptable toxicity.
+
+After completion of study treatment, patients are followed every 3 months.

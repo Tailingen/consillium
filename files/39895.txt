@@ -1,0 +1,25 @@
+Sitravatinib and Nivolumab for the Treatment of Metastatic or Advanced Clear Cell Renal Cell Cancer
+This phase II trial investigates the effect of sitravatinib and nivolumab in treating patients with clear cell renal cell cancer that has spread to other places in the body (metastatic/advanced). Sitravatinib may stop the growth of tumor cells by blocking some of the enzymes needed for cell growth. Immunotherapy with monoclonal antibodies, such as nivolumab, may help the body's immune system attack the cancer, and may interfere with the ability of tumor cells to grow and spread. Giving sitravatinib and nivolumab may kill more tumor cells.
+Advanced Clear Cell Renal Cell Carcinoma|Metastatic Clear Cell Renal Cell Carcinoma|Stage IV Renal Cell Cancer AJCC v8
+BIOLOGICAL: Nivolumab|OTHER: Quality-of-Life Assessment|OTHER: Questionnaire Administration|DRUG: Sitravatinib
+Objective response rate, Will be defined as complete response + partial response. Will be defined by the Response Evaluation Criteria in Solid Tumors version 1.1 (RECIST 1.1)., At 24 weeks|Disease control rate, Will be defined by RECIST 1.1., At 24 weeks
+Overall survival, Kaplan-Meier survival curves will be generated. Cox regression models will be fitted to assess the association between prognostic variables, and the survival endpoints., At 1 year|Progression free survival, Kaplan-Meier survival curves will be generated. Cox regression models will be fitted to assess the association between prognostic variables, and the survival endpoints., At 1 year|Duration of response, Kaplan-Meier survival curves will be generated. Cox regression models will be fitted to assess the association between prognostic variables, and the survival endpoints., At 1 year|Incidence of adverse events, Will be assessed by National Cancer Institute Common Terminology Criteria for Adverse Events version 5.0. Will be summarized using descriptive statistics (e.g., frequency, 95% confidence interval) by type and grade., Up to 6 years|Health-related quality-of-life (QOL), Will be assessed using the Functional Assessment of Cancer Therapy- Kidney Symptom Index- Disease Related Symptoms questionnaire. Descriptive statistics (e.g., means, ranges, standard deviations) will be computed, together with ninety-five percent confidence intervals for the means. Proportions of subjects falling outside normative ranges for the stress and QOL measures will also be calculated. Values for the standardized scales will be compared to normative data and patients receiving other types of cancer therapy. Graphical methods (e.g., boxplots and histograms) will be employed to more closely examine the distributions of the measures at each time point. Change scores for the stress and QOL measures will be computed as the simple differences between the baseline measure and subsequent evaluations. Paired t-tests will be used to evaluate the change of the stress and QOL measures between different time points., Up to 24 weeks
+PRIMARY OBJECTIVE:
+
+I. To determine the objective response rate (ORR) and disease control rate (DCR) at 24 weeks of sitravatinib 100 milligrams (mg) by mouth (PO) daily plus nivolumab 480 mg intravenously (IV) every 4 weeks in patients with metastatic renal cell carcinoma (mRCC) who progress on prior PD-1 or PD-L1 immune checkpoint inhibitors (CPIs), cabozantinib, or lenvatinib, as defined by the Response Evaluation Criteria in Solid Tumors version 1.1 (RECIST 1.1).
+
+SECONDARY OBJECTIVES:
+
+I. To estimate the overall survival (OS), progression-free survival (PFS), duration of response (DOR), and 1-year OS of sitravatinib plus nivolumab in the same population.
+
+II. To determine the safety, tolerability, and impact on health-related quality of life of sitravatinib plus nivolumab in patients with mRCC who progress on PD-1/PD-L1 CPIs, cabozantinib, or lenvatinib as defined by National Cancer Institute (NCI) Common Terminology Criteria for Adverse Events (CTCAE) version 5.0.
+
+EXPLORATORY OBJECTIVE:
+
+I. To assess how the immune landscape, transcriptome, and genome change after contemporary first-line treatment via tumor tissue biopsy obtained at time of enrollment, 4 weeks after treatment with sitravatinib plus nivolumab, and at time of progression, as well as blood sample collection.
+
+OUTLINE:
+
+Patients receive sitravatinib PO once daily (QD) and nivolumab IV over 30 minutes on day 1. Cycles repeat every 4 weeks in the absence of disease progression or unacceptable toxicity.
+
+After completion of study treatment, patients are followed up every 3 months.

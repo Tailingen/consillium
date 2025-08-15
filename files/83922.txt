@@ -1,0 +1,135 @@
+A Study to Assess the Impact of an Artificial Intelligence (AI) System on Chest X-ray Reporting
+The study has an initial short retrospective component but is predominately a prospective study with two main parts.
+
+Initially during a 1 month period whilst reporters are familiarising themselves with the software two local databases will be reviewed by the AI software:
+
+* A training set of 100 chest X-rays (CXR) some of which contain nodules and is used as a training tool with previously documented radiologist performance.
+* A set of previously reported radiographs in patients referred by the reporter for CT, ground truth created from the prior CT report and review by two radiologists if required.
+
+This will allow comparison of stand-alone radiologist and AI performance
+
+This is followed by a 6 month period involving multiple groups of reporters and approximately 20,000 cases looking at the impact of an AI system which assesses 10 abnormalities on chest X-ray and reporting on the sensitivity for detection of lesions and its impact on reporter confidence. Specifically the investigators would look at:
+
+* Missed finding by AI, but detected by reporter
+* Correctly detected finding by AI
+* Missed finding by the reporter but detected by AI
+* Finding detected by AI but disputed by the reporter
+
+  ■ AI's impact on
+* Radiological report
+* Further recommended imaging
+* Altering patient management
+* improvement in report confidence as perceived by reporter
+
+A subsequent 3 month period looking at the impact of AI produced worklists on report turnaround times and the patient pathway from chest X-ray to CT. the investigators would specifically look at:
+
+* number of nodules detected
+* number of CXRs recommended for follow up CT
+* time taken from CXR to CT
+* number of lung cancers detected after CT\[1\]
+* Time to report, measured as previously from PACS and reporting software data
+
+The population to be studied will be all patients over 16 years of age referred by their General Practitioner to Hull University Hospitals NHS Trust for a chest radiograph and any chest radiograph performed in the Hull Royal Infirmary ED radiology for patients over 16 years of age during the 6 month study period. The ED department images patients from the emergency department and in-patients within the hospital.
+
+All radiographs will be reviewed initially without review of the AI information and then using the additional images. Reporters will mark the effect of the AI on their decision. All disagreements between the reporter and the AI will be reviewed by senior reporters and a consensus decision made.
+Artificial Intelligence
+OTHER: Artificial intelligence review
+Radiologist performance review, To demonstrate AI can help to improve the radiologist performance in terms of missed finding by radiologist detected by AI ( as a percentage error rate), six months
+Lung cancer detection, The number of nodules and cancers detected only by AI (as a percentage of overall number of nodules/tumours detected)., six months|Lung cancer pathway improvement, The time between the chest X-ray and CT scan for suspected cancers using AI generated worklists will be compared to historic time data predating the AI software ., three months|Report turnaround times improvement, The time between abnormal chest X-ray being performed and reported in an AI driven worklist will be compared to historic data predating the AI system, three months
+A single centre prospective study, in which data will be collected from Hull University Teaching Hospitals NHS Trust (HUTH).
+
+GP chest X-rays take place in the two main hospital sites of the Trust but also at satellite units in the local community. All of these use the same radiology information system (RIS) and chest X-rays are automatically stored on the HUTH picture archiving and communication system (PACS).
+
+The radiology unit in the Emergency Department at Hull Royal Infirmary undertakes chest X-rays for the emergency patients but also in-patients within the hospital.
+
+All chest X-rays will be booked into the RIS, performed and sent to the PACS system as normal. Any chest X-ray performed on a patient of 16 years of age or older from either of the above sets will be automatically transferred to the AI server and once processed the AI report will automatically transfer into the same PACS folder as the original film.
+
+Reporting of the chest X-ray and review of the AI information will take place in the normal reporting sessions undertaken within the radiology department by all grades of staff.
+
+The radiology department does currently outsource some plain film reporting, however for the duration of the study none of the above examinations will be out-sourced and all reporting will be undertaken by HUTH radiology team members.
+
+Chest X-ray reporting is undertaken by a range of radiology staff:
+
+* Consultant Radiologists
+* Registrar Radiologists in training pre-FRCR - Fellow of Royal College of Radiology examination post FRCR
+* Reporting Radiographers The radiology department currently has a staff of 46 Consultants, 26 Specialist registrars and 8 reporting radiographers. Although not all Consultants or radiographers undertake chest X-ray reporting.
+
+The study will involve all groups of reporters and the investigators will assess the responses of each group as well as the overall performance. Participants will be identified by group but not individually.
+
+The study is split into three phases.
+
+Phase One:
+
+This will occur immediately after the integration of the AI system to the HUTH PACS. There will be a one month period where reporters gain experience in using the software.
+
+During this time two local databases will be reviewed with the software:
+
+* a training set of 100 chest X-ray cases in which some pulmonary nodules are present with corresponding CT scans.
+* A set of previously reported chest X-rays requested by General Practitioners (GP's) which were referred by the reporter for urgent CT.
+
+The results of these will be reviewed by a small group of reporters. The reason for these reviews is two-fold:
+
+* To provide an overview of the software which may inform the instructions for phase two.
+* To allow a comparison between previously documented reporter performance and AI performance prior to the commencement of the prospective study.
+
+Phase Two:
+
+This will last 6 months and will comprise all chest X-rays for patients over 16 years from either a GP referral or performed in the Emergency department (ED) of the acute hospital, which includes Accident and Emergency attendances and in-patient studies. These will be sent to the AI server for evaluation, the returning data will be available in the PACS folder with the original image. This will occur prior to the film being available for reporting.
+
+It is estimated that this phase will include approximately 20,000 examinations in a roughly equal split. Calendar year 2019: GP 23,287 examinations and ED 22,042 examinations.
+
+GP films were chosen as these studies are often the first examinations to raise concerns regarding lung cancer, the third phase includes implementing AI generated worklists for reporting of suspected lung nodules/cancer and evaluating the impact on same day CT for this group.
+
+ED films as it was thought these would be the best data set to evaluate the ten findings detected by the software and the introduction of AI generated worklists in phase 3 could lead to faster reporting of abnormal studies.
+
+The reporters will review the original chest x-ray and create a report. They will then review the AI data and decide how this would affect their report, this will then be recorded.\[2\] The AI looks for ten different abnormalities on each chest X-ray and produces a heat map and percentage confidence score if it detects an abnormality. A single examination could have no AI finding or multiple AI findings.
+
+The reporters will enter their assessment of the AI for each film reported at the time of reporting.
+
+* For each finding present in the chest radiograph and/or the AI output, readers will record:
+
+  * Missed finding by AI, but detected by reporter
+  * Correctly detected finding by AI
+  * Missed finding by the reporter but detected by AI
+  * Finding detected by AI but disputed by the reporter
+* AI's impact on
+
+  * Radiological report
+
+    * helpful
+    * not helpful
+    * neutral
+  * Further recommended imaging
+
+    * significant
+    * not significant
+  * Altering patient management
+
+    * significant
+    * not significant
+
+The investigators will also assess whether AI has increased confidence in reporting an abnormality or reporting a study as normal.
+
+Any film where the reporter disagrees with the AI will immediately be placed into a PACS worklist and reviewed by a senior reporter/reporters and a consensus agreed. The result will be entered into the database.
+
+If a patient is advised to have a follow-up chest X-ray or CT this will be recorded. These follow-up examinations will be reviewed by a small group of reporters with repeat software analysis of any chest X-rays performed.
+
+The AI software only reviews the current image while the reporter has access to any earlier examinations which may be important in deciding on an abnormality, this will be recorded to assess its effects.
+
+The reporter will have an excel spreadsheet available on the PACS reporting workstation through a link to the shared departmental drive with fields for their reporting group, referral type, accession number of the exam - which allows review of the individual examination in case of disagreements or review with later examinations, presence of earlier films, a separate field for each AI abnormality and fields for follow-up chest X-ray or CT. This will be completed at the time of reporting.
+
+At the end of the reporting session the spreadsheet will be uploaded to a central Trust server, held in a departmental folder and integrated from there to a separately stored central database. Only members of the radiology department will have access to the departmental folder and the central database will be held separately, accessible to the data manager and research management team. Once uploaded into the master database the individual data will be deleted from the radiology folder. No data will be stored on the PACS workstations after the reporting session is completed and the file transferred.
+
+The data will be stored and processed exclusively within HUTH A copy of the master database will be made replacing the accession number with an anonymous identifier. This database will be used for analysis.
+
+Phase Three:
+
+This will last 3 months and will comprise the development of AI produced worklists.
+
+A GP worklist highlighting abnormalities which may represent malignancy will allow hot reporting and same day CT if required. The changes in time delay from the chest X-ray to the CT will be compared between the current system with radiographer triage of the x-rays and the AI triage.
+
+An ED worklist will be produced for AI positive studies and reporting times for these will be compared to the current system where there is no filtering of chest x-rays.
+
+All AI negative studies will be reported. The reporting time assessments will be made from routine data within the on the RIS and PACS systems with no patient identifiable data being included in the assessments.
+
+The data will be collected through PACS and the data will be processed locally in a dedicated server.

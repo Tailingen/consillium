@@ -1,0 +1,35 @@
+Vaccine Therapy in Treating Patients With Metastatic Solid Tumors
+Randomized phase I trial to compare the effectiveness of two different vaccines given directly into the tumor in treating patients who have metastatic solid tumors. Vaccines may make the body build an immune response to kill tumor cells. Infusing the vaccine directly into a tumor may cause a stronger immune response and kill more tumor cells. It is not yet known which vaccine may be more effective in treating metastatic solid tumors
+Unspecified Adult Solid Tumor, Protocol Specific
+BIOLOGICAL: recombinant fowlpox-B7.1 vaccine|BIOLOGICAL: recombinant fowlpox-TRICOM vaccine|OTHER: laboratory biomarker analysis|PROCEDURE: quality-of-life assessment
+Percentages of the DLTEs, Will be summarized and compared between arms, doses, and disease groups using Fisher's exact test., 12 weeks
+Proportion of patients with any response (CR, PR, or SD), First, the proportion with any response (CR, PR or SD) will be compared to those with no response (PD). Secondly, the proportion of any response (CR, PR or SD) compared to no response (PD) will be compared between the two treatment arms., 12 weeks|Immune response, Number of T-cells after treatment compared to those measured at baseline, and difference calculated as after-treatment minus baseline. First comparison includes all subjects who completed treatment. Mean change in T-Cells (final-baseline) tested against 0 with 2-tailed, 1-sample t-test, with alpha=.05. Second analysis compares mean change in T-Cells between arms. Performed as a 2-tailed, 2 independent samples t-test, with alpha=.05. Third comparison is a sub-set analysis of patients with melanoma., 12 weeks|Change in quality of life, assessed using the FACT-G survey of emotional and functional well being, A mean observed change in the FACT-G score will be tested against 0 (no change) for the group as a whole. Secondly, the change in score will be compared between the two treatment arms. The overall mean change will also be compared to historical controls either from the literature for cancer patients or to the values for non-subject cancer patients receiving other therapies. Comparisons will be by t-test if the sample distribution meets parametric assumptions. If not non-parametric procedures will be used., Baseline to 12 weeks
+PRIMARY OBJECTIVES:
+
+I. To determine and compare the feasibility and clinical toxicity of administering rF-B7.1 and rF-TRICOM vaccines to patients with accessible cutaneous, subcutaneous, or lymph node metastatic tumors.
+
+II. To determine and compare the feasibility and clinical toxicity of administering rF-B7.1 and rF-TRICOM vaccines to patients with accessible visceral metastatic tumors.
+
+III. To determine the optimal dose of rF-B7.1 and rF-TRICOM vaccine delivered by intra-tumoral injection.
+
+IV. To compare the clinical responses and safety profile of patients with cutaneous tumors and visceral tumors who receive rF-B7.1 vaccine to similar patients receiving rF-TRICOM vaccine.
+
+SECONDARY OBJECTIVES:
+
+I. To establish evidence of host anti-tumor immune reactivity following intra-lesional vaccine administration and compare any differences between rF-B7.1 and rF-TRICOM in patients with cutaneous tumors and visceral tumors.
+
+II. To evaluate the quality of life during vaccine administration.
+
+OUTLINE: This is a randomized study with dose-escalation component. Patients are stratified according to tumor location (cutaneous, subcutaneous, or lymph node metastases vs visceral metastases). Patients are randomized to 1 of 2 treatment arms.
+
+ARM I: Patients receive rF-B7.1 vaccine intratumorally on day 1.
+
+ARM II: Patients receive fowlpox-TRICOM vaccine intratumorally on day 1.
+
+Treatment in both arms repeats every 4 weeks for 3 courses in the absence of disease progression or unacceptable toxicity. Patients with stable or responding disease may receive additional courses.
+
+Three patients from the cutaneous disease (CD) stratum are treated at low-dose in each treatment arm. If no more than 1 of 6 patients experience dose-limiting toxicity (DLT), then 6 additional CD patients are randomized to high-dose treatment. If no more than 1 of these 6 patients experience DLT, then 12 patients from the visceral disease (VD) stratum are randomized to low-dose treatment. If no more than 2 of 12 VD patients experience DLT, then the next cohort of 12 VD patients is randomized to high-dose treatment. If 3 of the original 12 VD patients experience DLT, then 6 additional VD patients receive low-dose treatment. If no more than 3 of 18 patients experience DLT, then 12 VD patients receive high-dose treatment.
+
+Quality of life is assessed at baseline, monthly during therapy, and then at the end of therapy.
+
+Patients are followed every 3 months.

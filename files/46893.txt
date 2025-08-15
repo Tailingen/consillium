@@ -1,0 +1,20 @@
+Hypofractionated Radiotherapy Followed by Surgical Resection in the Treatment of Soft Tissue Sarcomas
+The trial will use neoadjuvant hypofractionated radiotherapy followed by surgical resection in the treatment for soft tissue sarcoma. It will allow patients to be treated over a shorter course (5 or 15 days of radiation) compared to the traditional 5 week regimen. It is proposed that this will be possible without increasing the risk of wound complication or local recurrence compared with a traditional 5 week course of pre-operative radiation.
+Soft Tissue Sarcomas
+RADIATION: Ultra-Hypo-fractionation Radiotherapy|PROCEDURE: Resection|OTHER: Questionnaire Administration|RADIATION: Moderately-Hypo-fractionation Radiotherapy
+Local control rate, Will be estimated with a Beta-Binomial model with Beta(0.5, 0.5) as the prior distribution. The median and a 95% credible interval of the posterior distribution will be reported., Approximately 2 years
+Complication rate, The complication rate will be modeled with a Beta-Binomial model with Beta(0.5, 0.5) as the prior distribution, and it will be monitored continuously throughout the study. The complication rate will also be modeled with a Beta-Binomial model with Beta(0.5, 0.5) as the prior distribution, and it will be monitored continuously throughout the study., Approximately 2 years
+Study Objectives:
+
+Primary:
+
+* To investigate the efficacy of neoadjuvant hypo-fractionated radiotherapy (HRT) followed by surgical resection in the treatment of soft tissue sarcoma (STS) as measured by local control
+* Examine the side effect profile using Radiation Therapy Oncology Group (RTOG) and Common Terminology Criteria for Adverse Events (CTCAE) acute and late side effects criteria and major and minor post-operative complication rates.
+
+OUTLINE: Patients are assigned to 1 of 2 groups by the radiation oncologist.
+
+GROUP I (ULTRA-HYPOFRACTIONATION \[UH\]): Patients undergo HRT daily for a total of 5 fractions followed by surgery.
+
+GROUP II (MODERATE HYPOFRACTIONATION \[MH\]): Patients undergo HRT daily for a total of 15 fractions followed by surgery.
+
+After completion of study treatment, patients are followed up within 3 months, then every 3-6 months for a minimum of 2 years.

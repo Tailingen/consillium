@@ -1,0 +1,32 @@
+Testing the Anti-cancer Drug, Rogaratinib (BAY 1163877), for Treatment of Advanced Sarcoma With Alteration in Fibroblast Growth Factor Receptor (FGFR 1-4), and in Patients With SDH-deficient Gastrointestinal Stromal Tumor (GIST)
+This phase II trial studies the effect of rogaratinib in treating patients with sarcoma with a change in a group of proteins called fibroblast growth factor receptors (FGFRs) or SDH-deficient gastrointestinal stromal tumor (GIST). Rogaratinib may stop the growth of tumor cells by blocking some of the enzymes needed for cell growth.
+Locally Advanced Gastrointestinal Stromal Tumor|Locally Advanced Sarcoma|Metastatic Gastrointestinal Stromal Tumor|Metastatic Sarcoma|Stage III Gastric and Omental Gastrointestinal Stromal Tumor AJCC v8|Stage III Small Intestinal, Esophageal, Colorectal, Mesenteric, and Peritoneal Gastrointestinal Stromal Tumor AJCC v8|Stage IV Gastric and Omental Gastrointestinal Stromal Tumor AJCC v8|Stage IV Small Intestinal, Esophageal, Colorectal, Mesenteric, and Peritoneal Gastrointestinal Stromal Tumor AJCC v8
+PROCEDURE: Biopsy Procedure|PROCEDURE: Biospecimen Collection|PROCEDURE: Computed Tomography|PROCEDURE: Magnetic Resonance Imaging|PROCEDURE: Positron Emission Tomography|DRUG: Rogaratinib
+Objective radiographic response, The duration of overall response is measured from the time measurement criteria are met for complete response or partial response (whichever is first recorded) until the first date that recurrent or progressive disease is objectively documented (taking as reference for progressive disease the smallest measurements recorded since the treatment started)., Up to 30 days after removal from study
+Progression-free survival, Will be estimated using Kaplan-Meier method., From start of treatment to time of progression or death, whichever occurs first, assessed up to 30 days after removal from study|Incidence of adverse events, Adverse events will be measured by the National Cancer Institute Common Terminology Criteria for Adverse Events version 5.0., Up to 30 days after removal from study
+Serial measurements of FGFR and FGFR ligand, Will be evaluated in serial tumor biopsies as potential pharmacodynamic markers of FGFR pathway inhibition by ribonucleic acid sequencing. Estimation of continuous biomarker measures will be via mean or median as appropriate and standard deviation., Up to 30 days after removal from study|Mechanisms of resistance, Will identify mechanisms of resistance via whole exome sequencing of pre- and post-treatment biopsies and considered exploratory., Up to 30 days after removal from study|Banking of tumor material, germline deoxyribonucleic acid, and peripheral blood, Will be banked for potential research., Up to 30 days after removal from study
+PRIMARY OBJECTIVE:
+
+I. To estimate the objective radiographic response rate to single agent rogaratinib (BAY 1163877) in two cohorts of patients with sarcoma: Cohort A defined as patients with a sarcoma which harbors an alteration in fibroblast growth factor receptor (FGFR) 1, 2, 3 or 4 identified by next-generation sequencing profiling, and Cohort B defined as patients with advanced succinate dehydrogenase (SDH)-deficient gastrointestinal stromal tumor (GIST).
+
+SECONDARY OBJECTIVES:
+
+I. To estimate progression-free survival (PFS) in patients in Cohort A and Cohort B treated with rogaratinib (BAY 1163877).
+
+II. Further assessment for safety and tolerability.
+
+EXPLORATORY OBJECTIVES:
+
+I. To evaluate serial measurements of FGFR and FGFR ligand in serial tumor biopsies as potential pharmacodynamic markers of FGFR pathway inhibition by ribonucleic acid sequencing (RNA-seq) (pre-treatment biopsy and post-progression biopsy \[if available\]).
+
+II. Whole exome sequencing (WES) of the pre-treatment biopsy and post-progression biopsy (if available) to help identify mechanisms of resistance.
+
+III. To bank tumor material, germline deoxyribonucleic acid (DNA), and peripheral blood for potential future research for participating subjects who provide additional consent.
+
+IV. To explore rogaratinib exposure with pharmacodynamics effects (i.e., clinical response, toxicity, and markers of FGFR pathway inhibition).
+
+OUTLINE:
+
+Patients receive rogaratinib orally (PO) twice daily (BID) on days 1-28 of each cycle. Treatment repeats every 28 days for up to 24 cycles in the absence of disease progression or unacceptable toxicity. Patients undergo biopsy at baseline and progression and computed tomography (CT), magnetic resonance imaging (MRI), and positron emission tomography (PET)-CT throughout the study. Patients may also undergo blood sample collection on study.
+
+After completion of study treatment, patients are followed up at 30 days.

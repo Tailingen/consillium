@@ -1,0 +1,23 @@
+Zanubrutinib and Rituximab for the Treatment of Previously Untreated Chronic Lymphocytic Leukemia or Small Lymphocytic Lymphoma
+This phase II trial studies how well zanubrutinib and rituximab work in treating patients with chronic lymphocytic leukemia or small lymphocytic lymphoma for which the patient has not received treatment in the past (previously untreated). Zanubrutinib may stop the growth of cancer cells by blocking some of the enzymes needed for cell growth. Rituximab is a monoclonal antibody that may interfere with the ability of cancer cells to grow and spread. The study is being done to find out if zanubrutinib combined with rituximab can help control previously untreated chronic lymphocytic leukemia or small lymphocytic lymphoma.
+Chronic Lymphocytic Leukemia/Small Lymphocytic Lymphoma
+BIOLOGICAL: Rituximab|DRUG: Zanubrutinib
+Success rate, Will estimate the proportion of patients who have treatment-free remission 6 months after discontinuation of zanubrutinib. Success rate will be estimated with 95% credible interval and confidence interval., At 6 months after discontinuation of zanubrutinib
+Clinical factors associated with a treatment-free remission of more than 6 months after discontinuation of zanubrutinib, To assess the contribution of various factors to relapse risk, will use Cox's proportional hazards analysis of predictors that have a p value \< 0.2 in the univariate analysis., Up to 5 years after discontinuation of zanubrutinib|Treatment-free remission length, The median treatment-free remission duration will be calculated by Kaplan-Meier analysis, and stratified groups will be compared with the log-rank test., Up to 5 years after discontinuation of zanubrutinib|Overall response, Defined as complete response or partial response after patients received 6 cycles of treatments., After 6 cycles of treatment (each cycle is 28 days)
+PRIMARY OBJECTIVE:
+
+I. To determine the proportion of patients who have treatment-free remission 6 months after discontinuation of zanubrutinib.
+
+SECONDARY OBJECTIVES:
+
+I. To determine clinical factors associated with a treatment-free remission of more than 6 months after discontinuation of zanubrutinib.
+
+II. To determine the treatment-free remission length. III. To evaluate the efficacy of re-treatment with zanubrutinib plus rituximab in patients who relapse.
+
+OUTLINE:
+
+FRONTLINE THERAPY: Patients receive zanubrutinib orally (PO) twice daily (BID) on days 1-28. Patients also receive rituximab intravenously (IV) over 3-4 hours on days 1, 8, 15, and 22 of cycle 1 and on day 1 of subsequent cycles. Treatment repeats every 28 days for up to 6 cycles in the absence of disease progression or unacceptable toxicity. Beginning cycle 7, patients with complete response (CR) continue zanubrutinib PO BID on days 1-28 for up to 6 additional cycles in the absence of disease progression or unacceptable toxicity. Beginning cycle 7, patients with partial response (PR) or stable disease (SD) continue zanubrutinib PO BID on days 1-28 and rituximab IV over 3-4 hours on day 1 for up to 6 additional cycles in the absence of disease progression or unacceptable toxicity. Beginning cycle 13, patients with CR continue zanubrutinib PO BID on days 1-28 for up to 6 additional cycles in the absence of disease progression or unacceptable toxicity. Beginning cycle 13, patients with PR or SD continue zanubrutinib PO BID on days 1-28 for up to 12 additional cycles in the absence of disease progression or unacceptable toxicity. Patients who do not have a PR after 24 cycles either continue zanubrutinib if there is a clinical benefit, or pursue alternative therapy per treating physician discretion.
+
+RE-TREATMENT FOR RELAPSED DISEASE: Patients with disease relapse and active disease that requires salvage therapy may restart zanubrutinib PO BID on days 1-28 and rituximab IV over 3-4 hours on day 1. Treatment repeats every 28 days for up to 6 cycles in the absence of disease progression or unacceptable toxicity. Beginning cycle 7, patients continue zanubrutinib PO BID on days 1-28 for up to 18 additional cycles in the absence of disease progression or unacceptable toxicity and then discontinue if in CR. Beginning cycle 25, patients with PR or SD may continue zanubrutinib PO BID on days 1-28 for up to 36 additional cycles in the absence of disease progression or unacceptable toxicity.
+
+After completion of study treatment, patients are followed up at 60 days, and then every 120 days for up to 5 years or until disease progression or start of a new treatment.

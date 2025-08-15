@@ -1,0 +1,45 @@
+NEO-BLAST: Neoadjuvant Therapy for Bladder Cancer Followed by Active Surveillance vs Treatment
+Invasive bladder cancer is managed with neoadjuvant therapy followed by bladder removal (cystectomy). Research shows that approximately 40% of patient will have no remaining cancer left in their bladder after completion of the initial systemic treatment, and perhaps could have avoided the surgery. However, currently physicians lack the ability to identify these patients.
+
+The investigators believe that by using advanced imaging (MRI), bladder biopsies and novel biomarkers that detect tumor DNA in blood, they can better identify participants without any remaining cancer after chemotherapy. This will make active surveillance of these participants safer. In this study, participants without evidence of residual cancer will be randomized to active surveillance vs conventional bladder treatment (bladder removal, or chemo-radiation of the bladder). This study will be a pilot randomized control trial (RCT), and if successful, it will transition to a larger phase 3 RCT.
+Muscle-Invasive Bladder Carcinoma
+PROCEDURE: Active Surveillance|PROCEDURE: Control arm - Definitive bladder treatment
+Proportion of patients found to have a cCR and randomized on the number of patients enrolled (pilot-RCT ; phase 2), Feasibility to randomized patients with cCR to either active surveillance or definitive bladder treatment., 24 months|Metastasis free survival at 2 years (phase 3), Time to metastasis, defined as \>cN1 (more than 1 clinically suspicious lymph nodes), cT4a (unresectable disease), or M1 disease or death., 24 months
+Bladder-intact event-free survival, Time from study entry to the earliest of histologically proven presence of MIBC (≥T2), clinical evidence of nodal or metastatic disease, radical cystectomy, or death due to any cause., 24 months|Proportion of cCR patient with ypT0, Rate of ypT0 (pathologic complete response) on cystectomy specimen following NAT in participants who had a cystectomy after identification of cCR., 24 months|Overall survival, Time from study entry to death; individuals who are alive at last contact will be censored on the date of last contact., 24 months|Acceptance rate to treatment allocation, Rate of concordance between treatment allocated and treatment received within the first 3 months following randomization., 6 months|Quality of life measure by EORTC-QLQ-C30 in participants according to treatment received, European Organisation for Research and Treatment of Cancer QLG Core Questionnaire (EORTC QLQ-C30). All of the scales and single-item measures range in score from 0 to 100. A high scale score represents a higher (better) response level and quality of life., 24 months|Quality of life measure by EORTC QLQ BLM-30 in participants according to treatment received, European Organisation for Research and Treatment of Cancer - Muscle-Invasive Bladder Cancer Module 30 (EORTC QLQ BLM-30). All of the Multi-item scales and Single-item measures range in score from 0 to 100. A high score for all of the Multi-item scales excluding Sexual functioning, and for the Single item, represents a high level of symptomatology or problems (worse outcome), whereas a high score for the Sexual functioning scale represents a high level of functioning (better outcome)., 24 months
+Purpose To assess the feasibility to randomize patients with muscle-invasive bladder cancer (MIBC) who experience a complete clinical response (cCR) following neoadjuvant therapy (NAT), as defined by negative ctDNA, negative bladder MRI and negative repeat TURBT to active surveillance vs standard of care (SOC) with definitive bladder treatment.
+
+Hypothesis The hypothesize is that the combination of bladder re-staging with MRI, repeat biopsy and the use of ctDNA will markedly enhance the ability to identified participant who achieve an excellent response to NAT (cCR) and who could safely be offered AS.
+
+Justification:
+
+Cisplatin-based neoadjuvant therapy (NAT) followed by radical cystectomy (RC), or alternatively in selected patient, a combination of chemo-radiation (trimodal therapy, TMT), are the current standards of care for treatment of MIBC. However, both have significant potential toxicity that can impact quality of life. Clinical trials have demonstrated that up to 38% of patients have a pathologic complete response (pCR) to NAT. Those patients could potentially avoid RC or TMT. Unfortunately, the clinical tools to predict pCR are still considered inadequate and definitive local therapy is advised. Retrospective data and now prospective phase 2 trials have reported promising outcomes in selected patients undergoing active surveillance. A prospective randomized trial is still lacking to ensure non-inferiority of active surveillance over the standard of care.
+
+Primary Objectives:
+
+* Phase 2 (pilot RCT): To determine the feasibility of randomizing patients with MIBC who experience a complete clinical response (cCR) following neoadjuvant treatment, as defined by negative ctDNA, negative bladder MRI and negative repeat TURBT, to active surveillance (AS) or definitive bladder treatment (DBT; consisting of radical cystectomy (RC) or trimodal therapy (TMT)).
+* Phase 3: To estimate the metastasis-free survival rate at 2 years among patients with MIBC who experience a complete clinical response (cCR) following NAT, as defined by negative ctDNA, negative bladder MRI and negative repeat TURBT and who are managed with active surveillance.
+
+Research design:
+
+Multi-center, phase II/III, open label randomized clinical trial
+
+After enrolment, participants will received SOC NAT. Blood and urine specimens will be collected before or at cycle 1 day 1 of NAT. Participants will undergo conventional restaging during NAT, recommended to be done at the end of cycle 2. Conventional imaging consists of computerized tomography (CT) scan of chest/abdomen/pelvis to rule-out local or distant progression on treatment. Participants who have successfully completed the full regimen of SOC NAT, and have not been found to have progression and/or metastasis on their SOC CT scan, will then undergo the following intervention for the "clinical restaging" (CRS) (must be completed within 4 weeks after last dose of NAT):
+
+* ctDNA from blood samples collected before and after completion of NAT.
+* Restaging bladder MRI
+* Urine Cytology and Cystoscopy with template bladder biopsy under anesthesia with or without site-directed bladder biopsies.
+
+Definition of clinical complete response (cCR):
+
+* Absence of metastasis on conventional imaging.
+* Negative MRI completed within 4 weeks of last dose of systemic treatment showing absence of VI-RADS 3, 4 or 5 lesion.
+* Transurethral bladder tumor resection (TURBT) with or without site-directed bladder biopsies showing absence of high-grade carcinoma ≥cT1 and/or extensive and multifocal CIS. Focal CIS and/or completely resected Ta will be included in the definition of cCR and offered randomization.
+* Negative ctDNA
+
+Participants with cCR will then be randomized to either active surveillance or definitive bladder treatment (DBT) (RC or TMT, according to patient/physician choice). Participants who do not meet all criteria of cCR will proceed with SOC and have RC or TMT under the treating investigator's care.
+
+Participants will adhere to the following schedule of surveillance:
+
+Cystoscopy with urine cytology (for those with preserved bladder) every 3 months for 2 years. After 2 years, follow up schedule is at the discretion of the treating physician.
+
+Repeat chest-abdomen-pelvis imaging with CT/MRI and ctDNA at 3, 6, 12, 18 and 24 months. After 2 years, follow up schedule is at the discretion of the treating physician.

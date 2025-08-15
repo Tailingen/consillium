@@ -1,0 +1,29 @@
+Early-Onset Colorectal Cancer: An Observational Retrospective and Prospective Multicenter Study
+Observational, retrospective and prospective multicentric Italian study of patients diagnosed with colorectal cancer between age 18-40, aiming at underpinning the biology of vEO-CRC, including colibactin as well as a broader proteo-genomic characterization, to identify potential new therapeutic targets specifically directed to this peculiar subset of patients.
+Colo-rectal Cancer
+BIOLOGICAL: BIOLOGICAL STUDY aiming at describing clinicophatological features of EO-CRC vs SO-CRC
+clinicopathological features description, Primaryto analyze clinicopathological features of a cohort of sporadic vEO-CRC (n=300), compared to an equal cohort of standard-onset (SO-CRC) patients diagnosed at 60 years or later;, Apr 2024- Dec2026|overall survival and response to standard-of-care treatments analisys, to analyze overall survival and response to standard-of-care treatments of a cohort of sporadic vEO-CRC (n=300), compared to an equal cohort of standard-onset (SO-CRC) patients diagnosed at 60 years or later;, Apr 2024- Dec2026
+prevalence of colibactin assessment, to assess the prevalence of colibactin in a cohort of sporadic vEO-CRC (n=300), compared to an equal cohort of standard-onset (SO-CRC) patients diagnosed at 60 years or later;, Apr 2024- Dec2026|perform a proteo-genomic characterization, to perform a proteo-genomic characterization of a cohort of sporadic vEO-CRC (n=300), compared to an equal cohort of standard-onset (SO-CRC) patients diagnosed at 60 years or later., Apr 2024- Dec2026
+Clinicopathological features, and survival data will be pseudo-anonymized and collected through a dedicated ReDCap database by each participating center.
+
+Colibactin assessment - FFPE samples will be stratified between colibactin-positive and negative ones using endpoint PCR. We will use primers flanking multiple regions of the colibactin genomic island (in particular, CLBO on the 5'-end, CLBI in the middle and CLBB on the 3'-end), since a fully intact sequence is required to produce a functional toxin 13. Amplicons will be around 100bp in length (150bp maximum) based on fragment size of plasma-derived DNA, and PCRs will be performed following a touchdown protocol. In a second approach, quantitative polymerase chain reaction (qPCR) will be performed to provide more quantitative correlation between colibactin and clinically relevant patient outcomes. We will amplify amplicons on the same regions used for the endpoint PCRs described above, and we will use primers flanking bacterial 16S sequence to estimate bacterial DNA content in plasma.
+
+Proteogenomic assessment - An initial subset of 50 vEO-CRC and 50 SO-CRC will undergoing full proteomic assessment by mass spectrometry and whole genome sequencing (WGS). Potential findings on this initial subset of patients will be then validated by immunohistochemistry, polymerase chain reaction (PCR), Next Generation Sequencing (NGS) or In-situ ibridization (ISH). These translational analyses will be performed at Grande Ospedale Metropolitano Niguarda, University of Turin, Istituto Nazionale di Genetica Medica (INGM) in Milan andIFOM-ETS which will be the preclinical partners of this project.
+
+Thanks to the collaboration with Azienda Territoriale Sanitaria (ATS)of the Metropolitan Area of Milan we will have access to epidemiological data regarding the real incidence of vEO CRC over the time.
+
+Liquid biopsy validation of proteogenomic findings from solid tissue - If available, 4 ml of plasma retrospectively collected through liquid biopsy and stored in participating centers will be queried to assess whether genomic or proteomic alterations can be identified in blood.
+
+Primary objective:
+
+1. to analyze clinicopathological features of a cohort of sporadic vEO-CRC (n=300), compared to an equal cohort of standard-onset (SO-CRC) patients diagnosed at 60 years or later;
+2. to analyze overall survival and response to standard-of-care treatments of a cohort of sporadic vEO-CRC (n=300), compared to an equal cohort of standard-onset (SO-CRC) patients diagnosed at 60 years or later;
+
+Secondary objective :
+
+1. to assess the prevalence of colibactin in a cohort of sporadic vEO-CRC (n=300), compared to an equal cohort of standard-onset (SO-CRC) patients diagnosed at 60 years or later;
+2. to perform a proteo-genomic characterization of a cohort of sporadic vEO-CRC (n=300), compared to an equal cohort of standard-onset (SO-CRC) patients diagnosed at 60 years or later.
+
+Exploratory objective :
+
+1. to assess if colibactin and potential proteo-genomic features of vEO-CRC can be also captured on plasma through liquid biopsy.

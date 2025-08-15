@@ -1,0 +1,314 @@
+Exploration of the Dynamic Changes and Mechanisms of the Immune Microenvironment in Advanced Colorectal Cancer Treated With IBI363 Combination Therapy
+Colorectal cancer (CRC) ranks as the fifth most common malignant tumor in the Chinese population. In current clinical practice, standard first- and second-line treatments for metastatic microsatellite-stable (MSS)/proficient mismatch repair (pMMR) CRC are based on multi-drug combination chemotherapy regimens combined with targeted therapies. These regimens include fluoropyrimidine-based chemotherapy (5-fluorouracil \[5-FU\], leucovorin, or capecitabine) in combination with oxaliplatin or irinotecan, with or without targeted monoclonal antibodies. After disease progression following second-line treatment, the approved treatment options in China include regorafenib, fruquintinib, and TAS-102; however, their clinical benefits remain unsatisfactory, with objective response rates (ORR) of 1-4%, progression-free survival (PFS) of 2-3 months, and overall survival (OS) of 6-9 months according to the respective drug labels. Immunotherapy is currently approved only for metastatic CRC with microsatellite instability-high (MSI-H) or deficient mismatch repair (dMMR) status. In summary, the treatment efficacy for advanced CRC remains limited, highlighting the urgent need for novel drugs and therapeutic strategies to improve patient outcomes.
+
+IBI363 is a recombinant bispecific molecule consisting of an anti-programmed death receptor 1 (PD-1) antibody fused with interleukin-2 (IL-2), administered as an injectable formulation. It blocks the PD-1/PD-L1 pathway while activating the IL-2 signaling pathway, thereby reversing T-cell exhaustion and promoting T/NK cell activation. As of July 31, 2023, a total of 169 participants were enrolled in the CIBI363A102 study, including 22 participants in Part A (accelerated titration and BOIN phase) and 147 in Part B (dose expansion phase). Regarding efficacy, in the dose-escalation phase, 21 participants were evaluable for efficacy, with three participants in the 100-300 μg/kg QW dose group achieving a best tumor response of partial response (PR). In the dose-expansion phase, 76 participants were evaluable for efficacy, with six participants in the 100-1000 μg/kg QW dose group achieving PR.
+
+It is well established that the immune system can eliminate tumor cells through the cancer-immunity cycle. However, this process is not sustained, as tumors can gradually shape the tumor immune microenvironment (TIME) into an immunosuppressive state to counteract host immunity. The balance between pro-tumor and anti-tumor inflammatory mediators may determine tumor progression (Figure 1). Anti-tumor immune cells primarily include effector T cells (such as cytotoxic CD8+ T cells and effector CD4+ T cells), natural killer (NK) cells, dendritic cells (DCs), and M1-polarized macrophages. Pro-tumor immune cells mainly consist of regulatory T cells (Tregs), myeloid-derived suppressor cells (MDSCs), tumor-associated macrophages (TAMs), M2-polarized macrophages, N2-polarized neutrophils, and type 2 innate lymphoid cells (ILC2s). Tumors have evolved various mechanisms to evade immune surveillance, such as defective antigen presentation, upregulation of negative immune regulatory pathways, and recruitment of pro-tumor immune cells. As a result, the function of anti-tumor immune cells is suppressed, and the anti-tumor immune response is difficult to sustain. The goal of immunotherapy is to restore the cytotoxic function of anti-tumor immune cells, particularly cytotoxic T lymphocytes (CTLs), against tumors. Therefore, investigating the function and mechanisms of different immune components within the TIME will help improve immunotherapy response rates and facilitate the development of novel immunotherapeutic strategies.
+
+Figure 1.Tumor-associated immune cells in the tumor microenvironment With the rapid development and iteration of omics technologies such as multiplex immunohistochemistry (mIHC), single-cell transcriptome sequencing (scRNA-seq), and spatial transcriptome sequencing (stRNA-seq), we can now investigate individual cells or specific cellular subpopulations at a higher resolution.
+
+This study aims to enroll patients with advanced MSS/pMMR colorectal cancer (CRC) and perform single-cell transcriptome sequencing on baseline and follow-up tissue samples. The objective is to dynamically map the spatial heterogeneity and evolutionary landscape of the tumor immune microenvironment (TIME) throughout the disease course, from initial diagnosis to disease progression. By analyzing TIME at different time points, we seek to elucidate the potential mechanisms of action of IBI363 in colorectal cancer. Furthermore, we will leverage spatiotemporal transcriptomic analyses to validate cell subpopulation interactions in situ within the tumor microenvironment.
+Immunotherapy
+OTHER: tissue biopsy
+Primary Efficacy Analysis, The primary efficacy endpoint is the Objective Response Rate (ORR). Descriptive statistics will summarize the Best Overall Response (BOR) across cohorts and treatment arms. The number and proportion of responders (CR+PR) will be provided, and the 95% CI for ORR will be estimated using the Clopper-Pearson method. The ORR difference between groups A and B within each cohort will be summarized using descriptive statistics, and the 95% CI will be calculated using the normal approximation method., 2027-12-31
+Exploration of the Dynamic Changes and Mechanisms of the Immune Microenvironment in Advanced Colorectal Cancer Treated with IBI363 Combination Therapy Study Protocol Version No.: 1.0.0 Version Date: December 2, 2024 I. Study Background Colorectal cancer (CRC) ranks as the fifth most common malignant tumor in the Chinese population. In current clinical practice, standard first- and second-line treatments for metastatic microsatellite-stable (MSS)/proficient mismatch repair (pMMR) CRC are based on multi-drug combination chemotherapy regimens combined with targeted therapies. These regimens include fluoropyrimidine-based chemotherapy (5-fluorouracil \[5-FU\], leucovorin, or capecitabine) in combination with oxaliplatin or irinotecan, with or without targeted monoclonal antibodies. After disease progression following second-line treatment, the approved treatment options in China include regorafenib, fruquintinib, and TAS-102; however, their clinical benefits remain unsatisfactory, with objective response rates (ORR) of 1-4%, progression-free survival (PFS) of 2-3 months, and overall survival (OS) of 6-9 months according to the respective drug labels. Immunotherapy is currently approved only for metastatic CRC with microsatellite instability-high (MSI-H) or deficient mismatch repair (dMMR) status. In summary, the treatment efficacy for advanced CRC remains limited, highlighting the urgent need for novel drugs and therapeutic strategies to improve patient outcomes.
+
+IBI363 is a recombinant bispecific molecule consisting of an anti-programmed death receptor 1 (PD-1) antibody fused with interleukin-2 (IL-2), administered as an injectable formulation. It blocks the PD-1/PD-L1 pathway while activating the IL-2 signaling pathway, thereby reversing T-cell exhaustion and promoting T/NK cell activation. As of July 31, 2023, a total of 169 participants were enrolled in the CIBI363A102 study, including 22 participants in Part A (accelerated titration and BOIN phase) and 147 in Part B (dose expansion phase). Regarding efficacy, in the dose-escalation phase, 21 participants were evaluable for efficacy, with three participants in the 100-300 μg/kg QW dose group achieving a best tumor response of partial response (PR). In the dose-expansion phase, 76 participants were evaluable for efficacy, with six participants in the 100-1000 μg/kg QW dose group achieving PR.
+
+It is well established that the immune system can eliminate tumor cells through the cancer-immunity cycle. However, this process is not sustained, as tumors can gradually shape the tumor immune microenvironment (TIME) into an immunosuppressive state to counteract host immunity. The balance between pro-tumor and anti-tumor inflammatory mediators may determine tumor progression (Figure 1). Anti-tumor immune cells primarily include effector T cells (such as cytotoxic CD8+ T cells and effector CD4+ T cells), natural killer (NK) cells, dendritic cells (DCs), and M1-polarized macrophages. Pro-tumor immune cells mainly consist of regulatory T cells (Tregs), myeloid-derived suppressor cells (MDSCs), tumor-associated macrophages (TAMs), M2-polarized macrophages, N2-polarized neutrophils, and type 2 innate lymphoid cells (ILC2s). Tumors have evolved various mechanisms to evade immune surveillance, such as defective antigen presentation, upregulation of negative immune regulatory pathways, and recruitment of pro-tumor immune cells. As a result, the function of anti-tumor immune cells is suppressed, and the anti-tumor immune response is difficult to sustain. The goal of immunotherapy is to restore the cytotoxic function of anti-tumor immune cells, particularly cytotoxic T lymphocytes (CTLs), against tumors. Therefore, investigating the function and mechanisms of different immune components within the TIME will help improve immunotherapy response rates and facilitate the development of novel immunotherapeutic strategies.
+
+Figure 1.Tumor-associated immune cells in the tumor microenvironment With the rapid development and iteration of omics technologies such as multiplex immunohistochemistry (mIHC), single-cell transcriptome sequencing (scRNA-seq), and spatial transcriptome sequencing (stRNA-seq), we can now investigate individual cells or specific cellular subpopulations at a higher resolution.
+
+This study aims to enroll patients with advanced MSS/pMMR colorectal cancer (CRC) and perform single-cell transcriptome sequencing on baseline and follow-up tissue samples. The objective is to dynamically map the spatial heterogeneity and evolutionary landscape of the tumor immune microenvironment (TIME) throughout the disease course, from initial diagnosis to disease progression. By analyzing TIME at different time points, we seek to elucidate the potential mechanisms of action of IBI363 in colorectal cancer. Furthermore, we will leverage spatiotemporal transcriptomic analyses to validate cell subpopulation interactions in situ within the tumor microenvironment.
+
+II. Research Objectives This study aims to collect and integrate clinical trial data from patients undergoing tumor immunotherapy and conduct in-depth data mining to dynamically map the spatial heterogeneity and evolutionary landscape of the tumor immune microenvironment (TIME) throughout the disease progression in colorectal cancer (CRC) patients.
+
+From the perspective of TIME, we will investigate the potential mechanisms of action of IBI363 in combination therapy compared to control treatments in CRC. Additionally, by analyzing resistance and immune evasion mechanisms, this study seeks to provide a mechanistic foundation for precision diagnosis, treatment optimization, and future therapeutic decision-making for CRC patients.
+
+III. Research Content
+
+1. Mapping the Tumor Immune Microenvironment (TIME) in Patients with Advanced MSS/pMMR CRC This study plans to enroll 50 patients with advanced microsatellite-stable/proficient mismatch repair (MSS/pMMR) colorectal cancer (CRC) who receive combination therapy with the immunotherapeutic agent IBI363 and bevacizumab plus chemotherapy. Tumor tissues will be collected at different time points during treatment (baseline and after every two treatment cycles for efficacy evaluation) through tissue biopsy (including core needle biopsy or endoscopic forceps biopsy).
+
+   A portion of the collected tissue samples will undergo 10× Genomics 3' single-cell RNA sequencing (scRNA-seq), while another portion will be paraffin-embedded for subsequent multiplex immunohistochemistry (mIHC)/immunofluorescence (IF) analysis. Cell clustering analysis will be performed using CellRanger or Seurat software based on gene expression profiles via t-SNE and UMAP dimensionality reduction methods. Tumor and immune cell populations-including T cells, B cells, natural killer (NK) cells, monocytes, macrophages, dendritic cells (DCs), and stromal cells such as fibroblasts, endothelial cells, and mesothelial cells-will be identified based on marker genes, constructing a comprehensive TIME landscape.
+2. Identifying Predictive Biomarkers of IBI363 Efficacy by Comparing TIME Differences in Responders and Non-Responders Among the 50 enrolled CRC patients, approximately 30 will receive IBI363 combination therapy, while 20 will undergo control treatment. Based on follow-up data, patients will be stratified into responder (CR+PR) and non-responder (SD+PD) groups. By comparing baseline clustering results and marker gene expression profiles between the two groups, we aim to identify cell subpopulations, enriched signaling pathways, or gene expression signatures significantly associated with therapeutic efficacy and patient benefit.
+
+   Spatial transcriptomics will be used to map the spatial relationships between key cell subpopulations and gene expression patterns, enabling the identification of the most relevant predictive biomarkers associated with treatment response.
+3. Investigating the Impact of IBI363 on TIME and Its Potential Mechanism of Action By performing single-cell sequencing on tumor tissues at baseline and post-treatment (cycle 2) across all patients, we will conduct pseudotime trajectory analysis to study the differentiation dynamics of cellular populations. RNA integrity-based analyses will be used to infer cellular developmental trajectories, while receptor-ligand interaction analyses will provide insights into intercellular communication networks.
+
+This comprehensive approach will allow us to systematically characterize the remodeling effects of different treatment regimens on tumor cells and immunosuppressive cell populations within the tumor microenvironment, including intratumoral Treg cells, tumor-associated macrophages (TAMs), myeloid-derived suppressor cells (MDSCs), and M2 macrophages. Ultimately, this study aims to uncover the potential clinical implications of different cellular subtypes in immunotherapy for CRC.
+
+IV.Technical route
+
+V. Inclusion Criteria and Exclusion Criteria for Study Participants
+
+Inclusion Criteria:
+
+1. The participant must sign a written informed consent form (ICF) and be able to comply with the protocol-specified visit schedule and related procedures.
+2. Age ≥18 years and ≤75 years, with no gender restrictions.
+3. Histologically or cytologically confirmed diagnosis of advanced malignant tumors, meeting the following cohort-specific criteria:
+
+Cohort 2:
+
+* Patients with histopathologically confirmed advanced colorectal cancer (CRC).
+* Locally confirmed as mismatch repair-proficient (pMMR)/microsatellite instability-low (MSI-L) or microsatellite stable (MSS) based on standard testing.
+
+Cohort 9:
+
+* Patients with histopathologically confirmed advanced colorectal cancer (CRC).
+* Locally confirmed as mismatch repair-proficient (pMMR)/microsatellite instability-low (MSI-L) or microsatellite stable (MSS) (if applicable testing results are available).
+* Baseline imaging must indicate the absence of active liver metastases. Note: Patients with previously treated liver metastases (including surgical resection, microwave or radiofrequency ablation, or stereotactic radiotherapy, but excluding transarterial chemoembolization) are eligible if they received definitive treatment at least 6 months prior to study enrollment and subsequent imaging confirms the absence of liver metastases.
+
+Exclusion Criteria
+
+1. Pregnant or breastfeeding women, or women planning to become pregnant before, during, or within 6 months after the last administration of the study drug.
+2. Active or untreated central nervous system (CNS) metastases, confirmed by imaging during screening or previous evaluations (e.g., brain or leptomeningeal metastases).
+
+   * Patients with asymptomatic brain metastases may participate.
+   * Patients who have received treatment for brain metastases and have been symptomatically stable for ≥2 weeks without evidence of new or enlarging lesions may also be eligible, provided they meet all of the following:
+   * Presence of measurable extracranial disease.
+   * No metastases in the meninges, midbrain, pons, medulla, or spinal cord, and no multiple cerebellar metastases.
+   * No compression of the cerebral aqueduct, third or fourth ventricle, or spinal cord.
+   * Discontinuation of steroid therapy at least 14 days prior to the first dose of study drug.
+3. Active thrombosis, deep vein thrombosis (DVT), or pulmonary embolism within 4 weeks prior to the first administration of the study drug, unless adequately treated and considered stable by the investigator.
+4. Clinically significant cardiovascular or cerebrovascular diseases, including but not limited to:
+
+   * Ventricular arrhythmias or other uncontrolled cardiac arrhythmias requiring medical intervention (e.g., antiarrhythmic therapy).
+   * Severe conduction disorders (e.g., third-degree atrioventricular block).
+   * QTc interval (corrected by Fridericia's formula) ≥480 ms.
+   * Uncontrolled arterial hypertension despite standard treatment (systolic BP ≥160 mmHg or diastolic BP ≥100 mmHg).
+   * History of myocarditis.
+   * Congestive heart failure requiring ongoing treatment.
+   * Left ventricular ejection fraction (LVEF) \<50%.
+   * New York Heart Association (NYHA) Class III or IV cardiovascular disease.
+   * Acute coronary syndrome (e.g., myocardial infarction, unstable angina), coronary angioplasty, or stent placement within 6 months before the first study drug administration.
+   * Stroke or transient ischemic attack within 6 months before the first study drug administration.
+   * Known active seizures.
+5. Interstitial lung disease (ILD), pulmonary fibrosis, pneumoconiosis, drug-induced pneumonitis, radiation pneumonitis requiring steroid treatment, or severe pulmonary dysfunction/restrictive lung disease.
+6. History of allergic diathesis, asthma, or atopic dermatitis.
+7. Recurrent or symptomatic pleural, pericardial, or peritoneal effusions requiring repeated drainage.
+8. Active autoimmune diseases requiring systemic therapy within 2 years before the first study drug administration (except for replacement therapies such as thyroid hormone, insulin, or corticosteroids for adrenal or pituitary insufficiency).
+9. History of allogeneic organ transplantation or allogeneic hematopoietic stem cell transplantation.
+10. Known or suspected hypersensitivity to the study drug or any excipients.
+11. History of significant immune checkpoint inhibitor-related toxicity requiring permanent discontinuation.
+12. Unresolved Grade \>1 toxicity from previous antitumor treatments, except for:
+
+    * Persistent Grade 2 alopecia, peripheral neuropathy, or hypomagnesemia.
+    * Stable, controlled toxicities (e.g., hypothyroidism managed with hormone replacement or hypertension controlled to \<160/100 mmHg with antihypertensive therapy).
+13. Incomplete recovery from surgery or major surgery within 4 weeks prior to the first study drug administration.
+14. Active, uncontrolled bleeding or known bleeding disorders.
+15. Significant gastrointestinal diseases within 6 months before the first study drug administration, including but not limited to:
+
+    * History of inflammatory bowel disease (IBD).
+    * ≥Grade 2 diarrhea within 2 weeks before the first study drug administration.
+    * Radiation enteritis.
+16. Uncontrolled tumor-related pain or symptomatic hypercalcemia.
+17. Known HIV infection, active hepatitis B (HBV), hepatitis C (HCV), or active tuberculosis:
+
+    * HBV-positive patients must undergo HBV DNA testing. Patients are eligible if HBV DNA is ≤2.5 × 10³ copies/mL or ≤500 IU/mL.
+    * HBsAg-positive patients must receive antiviral therapy during the study to prevent reactivation.
+    * Patients with HBcAb(+), HBsAg(-), HBs(-), and HBV DNA(-) do not require antiviral prophylaxis but must be closely monitored for reactivation.
+    * HCV-seropositive patients with negative or undetectable HCV RNA are eligible.
+    * Patients who have completed HCV treatment and achieved an undetectable viral load are eligible.
+18. Severe/uncontrolled infections requiring IV antibiotics within 2 weeks before the first study drug administration or unexplained fever (\>38°C).
+19. Diagnosis of another malignancy within the past 5 years, except for curatively treated basal/squamous cell carcinoma, carcinoma in situ, localized prostate cancer, or papillary thyroid carcinoma.
+20. Prohibited medications and therapies, including but not limited to:
+
+    * IL-2/IL-15 cytokines (except for their use in adoptive cell therapy or immune modulation in immunocompromised patients).
+    * Chemotherapy or small-molecule targeted therapy within 2 weeks (or 5 half-lives) before first study drug administration, unless no delayed toxicity is expected. Exceptions:
+    * Nitrosoureas and mitomycin C require a 6-week washout period.
+    * Antibody-based therapies within 4 weeks before the first study drug administration.
+    * Participation in another interventional trial within 2 weeks before the first study drug administration.
+    * Palliative radiotherapy within 2 weeks before the first study drug administration.
+    * Live vaccines within 4 weeks before the first study drug administration.
+    * Immunosuppressive therapy or systemic corticosteroids (\>10 mg/day prednisone equivalent) within 2 weeks before the first study drug administration.
+    * Traditional Chinese medicine with known antitumor effects within 1 week before the first study drug administration.
+21. Contraindications for combination therapies, including but not limited to:
+
+    * UGT1A1\*6/\*6, UGT1A1\*28/\*28, or UGT1A1\*6/\*28 genotypes, which may impact irinotecan metabolism.
+    * Prior extensive abdominal/pelvic radiotherapy, as assessed by the investigator, that may affect bone marrow or gastrointestinal function.
+22. Any condition, treatment, or laboratory abnormality that, in the investigator's judgment, may compromise patient safety, interfere with informed consent, affect compliance, or impact study drug evaluation.
+23. Severe psychiatric disorders, cognitive impairment, or substance abuse that may interfere with the consent process or study compliance.
+24. Any other known or anticipated factors that, in the investigator's opinion, would make the patient unsuitable for the study.
+
+Exclusion Criteria for Specific Cohorts
+
+Cohort 2:
+
+1. Symptoms or risk of bleeding, perforation, or obstruction at the primary colorectal tumor site.
+2. History of significant toxicity requiring permanent discontinuation of bevacizumab, oxaliplatin, capecitabine, or 5-FU.
+3. Known allergy to study drugs or excipients.
+
+Cohort 9:
+
+1. History of significant toxicity requiring permanent discontinuation of bevacizumab, fruquintinib, or trifluridine/tipiracil, or contraindications to study drugs as assessed by the investigator.
+2. Known allergy to study drugs or excipients.
+
+VI. Management Plan for Common Adverse Events
+
+I. The most common adverse reactions in this study are those associated with tissue biopsy. The main management principles and methods are as follows:
+
+1. Bleeding Cause: Biopsy induced damage to blood vessels (especially in tumors with abnormal coagulation or rich vascular supply).
+
+   Symptoms: Bleeding or hematoma at the puncture site; vomiting blood, black stools (gastrointestinal bleeding) after endoscopic biopsy; significant bleeding may lead to hypotension, tachycardia, and signs of shock.
+
+   Management Measures:
+   * Local Pressure: Apply pressure for 10-15 minutes for superficial bleeding; endoscopic bleeding can be controlled by spraying hemostatic agents (e.g., epinephrine solution) or electrocautery.
+   * Pharmacological Hemostasis: Intravenous administration of hemostatic drugs (e.g., tranexamic acid, vitamin K).
+   * Interventional/Surgical: Severe bleeding may require vascular embolization or surgical hemostasis.
+   * Monitoring: Monitor vital signs, hemoglobin levels, and transfuse blood if necessary.
+
+   Prevention:
+   * Preoperative coagulation assessment (INR, platelets) and correction of abnormalities.
+   * Avoid biopsy in areas with a high vascular supply (based on imaging).
+   * Control blood pressure in hypertensive patients before proceeding.
+2. Infection Cause: Contamination during the procedure or compromised immune status of the patient.
+
+   Symptoms: Redness, swelling, and pus formation at the puncture site; fever, chills, increased white blood cell count; deep infections (e.g., liver abscess, pneumonia).
+
+   Management Measures:
+   * Antibiotics: Broad-spectrum antibiotics (e.g., third-generation cephalosporins) tailored to the infection site and pathogens, intravenous administration for severe infections.
+   * Drainage: Drainage by puncture or surgery if an abscess forms.
+   * Supportive Treatment: Fluid replacement, antipyretics, etc.
+
+   Prevention:
+   * Strict aseptic technique, proper disinfection of endoscopic instruments.
+   * Prophylactic antibiotics for high-risk patients (e.g., diabetes, immunosuppressed).
+   * Postoperative care to keep the puncture site clean and dry.
+3. Pain Cause: Tissue damage or nerve stimulation. Symptoms: Persistent localized pain, possibly radiating to surrounding areas; referred pain after visceral biopsy (e.g., right shoulder pain after liver biopsy).-
+
+   Management Measures:
+   * Mild Pain: Local cold compress, rest, oral NSAIDs (e.g., ibuprofen).
+   * Severe Pain: After excluding bleeding or organ injury, weak opioids (e.g., tramadol) may be used short-term.
+   * Nerve Block: Persistent pain may require interventional treatment.
+
+   Prevention:
+   * Gentle technique to avoid repeated punctures.
+   * Adequate local anesthesia (e.g., lidocaine infiltration).
+4. Organ Injury
+
+   High-Risk Sites:
+   * Lung biopsy → Pneumothorax, hemopneumothorax.
+   * Liver biopsy → Bile leakage, biliary hemorrhage.
+   * Endoscopic intestinal biopsy → Perforation.
+
+   Symptoms:
+   * Pneumothorax: Sudden chest pain, dyspnea, decreased breath sounds on the affected side.
+   * Perforation: Severe abdominal pain, peritoneal irritation, free air under the diaphragm (on imaging).
+
+   Management Measures:
+   * Pneumothorax: Small (lung compression \<20%) → Observation, oxygen therapy; moderate to large → Closed chest drainage.
+   * Perforation: NPO, gastrointestinal decompression, intravenous antibiotics; endoscopic clipping or emergency surgery.
+   * Bile Leak: Interventional drainage or surgical management.
+
+   Prevention:
+   * Imaging-guided approach to avoid critical structures.
+   * Control puncture depth (e.g., for lung biopsy, insert at the end of exhalation).
+5. Allergic Reactions Triggers: Local anesthetics, disinfectants (e.g., iodine tincture), latex (e.g., gloves).
+
+   Symptoms: Skin erythema, itching; laryngeal edema, bronchospasm, anaphylactic shock.
+
+   Management Measures:
+
+   - Discontinue the offending agent, ensure airway patency.
+   * Antiallergic Treatment:
+   * Epinephrine (severe reaction): 0.3-0.5mg IM.
+   * Corticosteroids (e.g., dexamethasone 10mg IV).
+   * Antihistamines (e.g., diphenhydramine 20mg IM).
+   * Shock Management: Fluid resuscitation, vasopressors, CPR if necessary.
+
+   Prevention:
+   * Detailed allergy history preoperatively.
+   * Availability of emergency medications (e.g., epinephrine, oxygen).
+6. Vagal Nerve Reflex Common in: Endoscopic biopsy or puncture stimulating the vagus nerve. Symptoms: Pallor, sweating, bradycardia, hypotension.
+
+   Management:
+   * Stop the procedure, place the patient in the supine position.
+   * Atropine 0.5mg IV (for heart rate \<50 bpm).
+   * Rapid fluid resuscitation, vasopressors if necessary.
+
+   Prevention:
+
+   - Gentle technique, avoid excessive traction.
+7. Tumor Seeding (Rare) Risk: Tumor cell dissemination along the biopsy needle track or endoscopic biopsy path.
+
+Management:
+
+* Local radiotherapy or surgical resection.
+* Monitor for metastatic signs (e.g., via imaging follow-up).
+
+Prevention:
+
+* Choose the shortest biopsy path.
+* Perform post-procedure deactivation of the biopsy track (e.g., radiofrequency ablation).
+
+II. Adverse Reaction Handling Process
+
+1. Immediate Assessment: Monitor vital signs and identify the type of adverse reaction.
+2. Stabilize the Condition:
+
+   * Bleeding → Apply pressure, fluid resuscitation.
+   * Allergic Reaction → Epinephrine, antihistamines.
+   * Pneumothorax → Oxygen therapy, chest drainage.
+3. Multidisciplinary Collaboration: Contact surgery, interventional radiology, ICU for assistance.
+4. Record and Report: Document the incident thoroughly, and report severe adverse events according to hospital protocols.
+
+III. Special Considerations for Different Biopsy Types
+
+Biopsy Type High-Risk Complications Preventive Measures Endoscopic Bite Biopsy Bleeding, Perforation Avoid deep tissue bites, use electrocautery for vascular areas.
+
+Lung Biopsy Pneumothorax, Hemoptysis End-exhalation needle insertion, immediate post-op chest X-ray.
+
+Liver Biopsy Bleeding, Bile Leakage Ultrasound-guided to avoid major blood vessels and bile ducts, apply pressure dressing post-op.
+
+Prostate Biopsy Hematuria, Infection Preoperative bowel preparation, prophylactic antibiotics.
+
+VII. Data Analysis (A) Sample Size The sample size of this study is not based on statistical hypothesis testing. Approximately 50 subjects are planned to be enrolled.
+
+(B) Statistical Methods
+
+1. Basic Methods Unless otherwise specified, data in this study will be summarized using descriptive statistics. Categorical data will be presented as frequency counts (n) and percentages (%), with 95% confidence intervals (CI) where necessary. Continuous variables will be summarized using mean, standard deviation (SD), median, minimum, and maximum. Time-to-event data will be analyzed using Kaplan-Meier estimates with survival curves and 95% CIs. Pharmacokinetic (PK) data will be summarized using mean, geometric mean, SD, coefficient of variation (CV), geometric CV, median, maximum, and minimum as applicable.
+2. Efficacy Analysis
+
+<!-- -->
+
+1. Primary Efficacy Analysis:
+
+   The primary efficacy endpoint is the Objective Response Rate (ORR). Descriptive statistics will summarize the Best Overall Response (BOR) across cohorts and treatment arms. The number and proportion of responders (CR+PR) will be provided, and the 95% CI for ORR will be estimated using the Clopper-Pearson method. The ORR difference between groups A and B within each cohort will be summarized using descriptive statistics, and the 95% CI will be calculated using the normal approximation method.
+2. Secondary Efficacy Analysis:
+
+Disease Control Rate (DCR) will be analyzed similarly to ORR. For efficacy endpoints such as Duration of Response (DoR), Progression-Free Survival (PFS), and Overall Survival (OS), the Kaplan-Meier method will be used to estimate median times and plot survival curves. The 95% CI for median estimates will be calculated using the Brookmeyer-Crowley method. The 12-month OS rate and its 95% CI will be estimated using the log(-log) transformation and back-transformation based on the normal approximation.
+
+3. Tumor Immune Microenvironment (TIME) Mapping The TIME map is a visualization tool used to describe the cellular composition and interactions within the tumor microenvironment. It provides insights into the spatial distribution of various cell types such as tumor cells, immune cells, and stromal cells.
+
+1. CellRanger and Seurat Software:
+
+   - CellRanger: An analysis tool for single-cell RNA sequencing data that generates gene expression matrices and performs initial data processing.
+
+   - Seurat: An R package for single-cell RNA sequencing data analysis, offering functionalities such as data preprocessing, clustering, and visualization.
+2. t-SNE and UMAP:
+
+   * t-SNE (t-distributed Stochastic Neighbor Embedding) and UMAP (Uniform Manifold Approximation and Projection) are dimensionality reduction techniques that project high-dimensional data (e.g., gene expression data) into two- or three-dimensional space for visualization.
+   * These methods preserve local data structure and help identify different cell populations.
+3. Cell Clustering Analysis:
+
+   - After dimensionality reduction, cells are clustered based on gene expression patterns. Similar cells are grouped together, while dissimilar cells are separated.
+4. Marker Genes:
+
+   * Marker genes are characteristic of specific cell types. By analyzing their expression, researchers can identify various cell types in tumor tissue.
+
+   In the Tumor Immune Microenvironment (TIME), the following cell types are of primary interest:
+
+   Tumor Cells: Cancer cells within the tumor tissue.
+
+   Immune Cells:
+
+   - T cells: Responsible for cellular immune response.
+   * B cells: Antibody-producing cells.
+   * NK cells: Natural killer cells involved in antitumor immunity.
+   * Monocytes and macrophages: Participate in immune responses and removal of cellular debris.
+   * Dendritic cells: Antigen-presenting immune cells.
+
+   Stromal Cells:
+   * Fibroblasts: Involved in tissue repair and extracellular matrix formation.
+   * Endothelial cells: Constitute blood vessels.
+   * Mesothelial cells: Cover body cavities.

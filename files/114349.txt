@@ -1,0 +1,13 @@
+CTV Delineation Based Solely on Geometric Expansion From GTV in Nasopharyngeal Carcinoma
+This is a randomized, phase III, prospective, multi-center trial in newly diagnosed nasopharyngeal carcinoma (NPC) patients without distant metastasis. The aim of this study is to evaluate the efficacy and safety of modified IMRT, of which CTV delineation was only based on geometric expansion from GTV.
+Nasopharyngeal Carcinoma by AJCC V8 Stage
+RADIATION: CTV Delineation Based on Geometric Expansion From GTV in Nasopharyngeal Carcinoma
+Local failure-free survival (LFFS), The duration of time to LFFS was calculated from the date of histological diagnosis until documented treatment local failure or death from any cause., 3 years
+overall survival, time from the date of the start of chemotherapy to death due to any cause, 3 years|Regional failure-free survival, The regional relapse-free survival rate will be estimated using Kaplan-Meier method for each arm from the date of randomization to the date of nodal relapse or death from any cause, whichever occurred first. Their differences will be compared between treatment arms using the log-rank test., 3 years|Distant metastasis-free survival, The distant metastasis-free survival rate will be estimated using Kaplan-Meier, 3 years|Patient's quality-of-life, uropean Organization for Research and Treatment of Cancer Quality-of-Life Head, 3 years
+All enrolled patients underwent intensity-modulated radiation therapy (IMRT). The IMRT technique was selected based on the equipment available at each treatment center and the patients' preferences, including IMRT, VMAT, or TOMOTHERAPY. According to our study design, all enrolled patients will be randomly assigned in a 1:1 ratio before radiation therapy. The target area definitions are based on the international ICRU reports No. 50 and No. 60. The specific target area definitions and prescribed doses for the two groups are as follows:
+
+1. GTVp (70Gy/33Fx) Experimental Group: Gross tumor as seen on imaging and nasopharyngoscopy; Control Group: Gross tumor as seen on imaging and nasopharyngoscopy.
+2. CTVp1 (60Gy/33Fx) Experimental Group: None; Control Group: GTVp + 5 mm + entire nasopharyngeal mucosa.
+3. CTVp2 (54Gy/33Fx) Experimental Group: GTVp + 10 mm + entire nasopharyngeal mucosa; Control Group: GTVp + 10 mm + high-risk anatomical structures.
+4. GTVn Experimental Group: Lymph nodes as seen on imaging; Control Group: Lymph nodes as seen on imaging.
+5. CTVn Experimental Group: Defined according to CACA/CMDA guidelines; Control Group: Defined according to CACA/CMDA guidelines.

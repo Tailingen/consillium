@@ -1,0 +1,27 @@
+Atorvastatin for Preventing Disease Metastasis in Patients With Resected High-Risk Stage IIA, IIB, or IIIA Melanoma
+This clinical trial tests whether atorvastatin prevents metastasis of resected high-risk stage IIA, IIB or IIIA melanoma. The vast majority of melanomas are diagnosed at an early, localized stage. However, approximately 10-15% of these localized melanomas will eventually metastasize, despite appropriate local treatment. Once metastasis occurs, median survival is less than two years. Melanomas at high risk of metastasis can be identified by gene expression profiling. Statin drugs, like atorvastatin, have been used to treat high cholesterol for the prevention of major adverse cardiovascular events, but not for preventing melanoma metastasis. Statins could prevent melanoma metastasis through decreasing tumor cell migration, decreasing tumor cell adhesion, and increasing immune system response. Statins are also efficient inhibitors of new lymphatic vessels formation. Since tumor lymphatic vessels serve as highways to lymph nodes and may suppress immune system responses, statins may block a critical step towards melanoma metastasis. Using atorvastatin may have the potential to prevent metastasis and improve outcomes in patients with resected high-risk melanoma.
+Pathologic Stage IIIA Cutaneous Melanoma AJCC v8|Pathologic Stage IIA Cutaneous Melanoma AJCC v8|Pathologic Stage IIB Cutaneous Melanoma AJCC v8
+DRUG: Atorvastatin|DRUG: Placebo Administration|PROCEDURE: Computed Tomography|PROCEDURE: Magnetic Resonance Imaging|OTHER: Electronic Health Record Review
+Recurrence-free survival (RFS), Will be assessed in patients with high-risk melanoma treated with atorvastatin compared to placebo. Hypothesis testing between two arms will be performed using the stratified log-rank test with a 2-sided 0.1 level of significance. The median RFS and the rate at fixed time points (e.g. 3 year-RFS or 5 year-RFS) will be derived from the Kaplan-Meier estimate along with their 95% confidence interval. The stratified hazard ratio between the two groups along with 95% confidence interval will be obtained by fitting a stratified Cox regression model with the group variables and adjusting potential confounders., From randomization to any recurrence (local or regional [including invasive ipsilateral tumor and invasive loco-regional tumor], or distant) as ascertained by imaging and medical record review, or death due to any cause, assessed up to 5 years
+Distant metastasis-free survival (DMFS), Distant metastasis refers to cancer that has spread from the original (primary) tumor and beyond local or nearby tissues and lymph nodes to distant organs or distant lymph nodes. DMFS will be compared between treatment arms using a stratified log-rank test. The median and survival rates at various time points for each treatment arm will be derived from the Kaplan-Meier estimate along with their 95% confidence interval., From randomization to appearance of distant metastasis as assessed by the investigator, assessed up to 5 years|Overall survival (OS), OS will be compared between treatment arms using a stratified log-rank test. The median and survival rates at various time points for each treatment arm will be derived from the Kaplan-Meier estimate along with their 95% confidence interval., From randomization to death due to any cause, assessed up to 5 years
+PRIMARY OBJECTIVE:
+
+I. To compare recurrence-free survival (RFS) of patients with high-risk melanoma treated with atorvastatin to placebo.
+
+SECONDARY OBJECTIVES:
+
+I. To compare distant metastasis-free survival (DMFS) between treatment arms.
+
+II. To compare overall survival (OS) between treatment arms.
+
+EXPLORATORY OBJECTIVE:
+
+I. To assess the clinical utility of gene expression profiling in melanoma.
+
+OUTLINE: Patients are randomized to 1 of 2 arms.
+
+ARM I: Patients receive placebo orally (PO) once per day in the absence of disease progression or unacceptable toxicity for up to 5 years and undergo computed tomography (CT) and/or magnetic resonance imaging (MRI) throughout the study.
+
+ARM II: Patients receive atorvastatin PO once per day in the absence of disease progression or unacceptable toxicity for up to 5 years and CT and/or MRI throughout the study.
+
+After completion of study treatment, patients are followed for 5 years.

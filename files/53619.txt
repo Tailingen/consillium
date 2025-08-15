@@ -1,0 +1,24 @@
+Standard Follow-up Program (SFP) for Lung Cancer Patients Treated With Radiotherapy or Chemoradiation
+Motive:
+
+In order to improve the treatment technique, a comprehensive follow-up program is needed to obtain all relevant patient, treatment and toxicity data from lung cancer patients.
+
+Goal:
+
+To set-up and maintain a database containing treatment results in terms of tumor control, side effects, complications and patient-reported quality of life.
+
+A standard database of patients receiving photon treatment will be created. These data are then linked to dose-volume data of radiotherapy, with the aim to build prediction models for both tumor control and toxicity after radio (chemo) therapy that can later be used for selecting patients for proton treatment.
+Lung Cancer
+RADIATION: Radiotherapy
+Acute toxicity, esophagitis (Common Terminology Criteria for Adverse Events, version 4.0), Highest during and within 2 weeks after last day of radiation therapy|Late toxicity, esophagitis (Common Terminology Criteria for Adverse Events, version 4.0); pneumonitis (Common Terminology Criteria for Adverse Events, version 4.0), Highest within one year after last day of radiation therapy
+Overall survival, at 1 year after first day of radiation therapy|Overall survival, at 2 years after first day of radiation therapy|Overall survival, at 3 years after first day of radiation therapy|Overall survival, at 4 years after first day of radiation therapy|Overall survival, at 5 years after first day of radiation therapy|Loco-regional tumor control, at 1 year after first day of radiation therapy|Loco-regional tumor control, at 2 years after first day of radiation therapy|Loco-regional tumor control, at 3 years after first day of radiation therapy
+Patient-rated symptoms and Quality-of-Life, Within 1 week before or after last day of radiation therapy|Patient-rated symptoms and Quality-of-Life, at 3 months after first day of radiation therapy|Patient-rated symptoms and Quality-of-Life, at 6 months after first day of radiation therapy|Patient-rated symptoms and Quality-of-Life, at one year after first day of radiation therapy|Patient-rated symptoms and Quality-of-Life, at 2 years after first day of radiation therapy|Patient-rated symptoms and Quality-of-Life, at 3 years after first day of radiation therapy|Patient-rated symptoms and Quality-of-Life, at 4 years after first day of radiation therapy|Patient-rated symptoms and Quality-of-Life, at 5 years after first day of radiation therapy
+Motive:
+
+In order to improve the treatment technique, a comprehensive follow-up program is needed to obtain all relevant patient, treatment and toxicity data from lung cancer patients.
+
+Goal:
+
+To set-up and maintain a database containing treatment results in terms of tumor control, side effects, complications and patient-reported quality of life.
+
+A standard database of patients receiving photon treatment will be created. These data are then linked to dose-volume data of radiotherapy, with the aim to build prediction models for both tumor control and toxicity after radio (chemo) therapy that can later be used for selecting patients for proton treatment.

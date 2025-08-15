@@ -1,0 +1,33 @@
+Cisplatin, Docetaxel, and Nintedanib Before Surgery in Treating Patients With Previously Untreated Stage IB-IIIA Non-small Cell Lung Cancer
+This phase I trial studies the side effects and best dose of nintedanib when given together with cisplatin and docetaxel and to see how well they work in treating patients with previously untreated stage IB-IIIA non-small cell lung cancer who are undergoing surgery. Drugs used in chemotherapy, such as cisplatin and docetaxel, work in different ways to stop the growth of tumor cells, either by killing the cells, by stopping them from dividing, or by stopping them from spreading. Nintedanib may stop the growth of tumor cells by blocking some of the enzymes needed for cell growth. Giving cisplatin, docetaxel, and nintedanib before surgery may make the tumor smaller and reduce the amount of normal tissue that needs to be removed.
+Stage IB Non-Small Cell Lung Carcinoma AJCC v7|Stage II Non-Small Cell Lung Cancer AJCC v7|Stage IIA Non-Small Cell Lung Carcinoma AJCC v7|Stage IIB Non-Small Cell Lung Carcinoma AJCC v7|Stage IIIA Non-Small Cell Lung Cancer AJCC v7
+DRUG: Cisplatin|DRUG: Docetaxel|OTHER: Laboratory Biomarker Analysis|DRUG: Nintedanib
+Maximum tolerated dose (MTD) of nintedanib, Will be determined according to incidence of dose-limiting toxicity as graded according to National Cancer Institute (NCI) Common Terminology Criteria for Adverse Events (CTCAE) version 4., 21 days|Major pathologic response rate, defined as less than or equal to 10% viable tumor cells in the resected specimen using the methods described by Pataer, Multivariate analysis will be used to explore the role of biomarkers in predicting pathologic response to treatment, in an exploratory way., Up to 5 years
+Change in tumor size (Expansion phase), Will be assessed by computed tomography (CT) after single-agent nintedanib., Baseline to 4 weeks|Response rate after single-agent nintedanib (Expansion phase), Will be evaluated by Response Evaluation Criteria in Solid Tumors (RECIST)., Up to 4 weeks
+PRIMARY OBJECTIVES:
+
+I. To determine safety of nintedanib incorporated to chemotherapy in the induction setting.
+
+II. To determine the major pathologic response rate in patients treated with induction nintedanib and chemotherapy.
+
+SECONDARY OBJECTIVES:
+
+I. Response rates to induction treatment (by Response Evaluation Criteria in Solid Tumors \[RECIST\] version 1.1).
+
+II. Response rates to priming therapy with nintedanib single agent (by computed tomography \[CT\] assessment using RECIST version 1.1).
+
+III. Recurrence-free survival. IV. Overall survival. V. Correlations between major pathologic response with recurrence-free and overall survival.
+
+VI. Toxicity (assessed by the National Cancer Institute \[NCI\] Common Terminology Criteria for Adverse Events \[CTCAE\] version 4).
+
+VII. Peri-operative morbidity and mortality. VIII. Complete resection (R0) rate. IX. Correlations of response assessed by imaging studies with outcomes (both pathologic response to treatment and long-term recurrence-free survival).
+
+X. Correlations of blood- and tissue-based biomarkers with efficacy and toxicity.
+
+OUTLINE: This is a dose-escalation study of nintedanib.
+
+RUN-IN PHASE: Patients receive induction therapy comprising cisplatin intravenously (IV) over 2 hours on day 1, docetaxel IV over 1 hour on day 1, and nintedanib orally (PO) twice daily (BID) from day 2 of course 1 to day 7 of course 3. Treatment repeats every 21 days for up to 3 courses in the absence of disease progression or unacceptable toxicity. Patients then undergo surgery.
+
+EXPANSION PHASE: Patients receive single-agent nintedanib PO BID on days 1-28. Patients then receive 3 courses of induction chemotherapy and undergo surgery as above. Treatment continues even if patients experience disease progression, unless treatment is judged to be not in the best interest of the patient by the treating physician.
+
+After completion of study treatment, patients are followed up within 8 weeks and then periodically thereafter.

@@ -1,0 +1,27 @@
+LUX-Head & Neck 4: Afatinib (BIBW 2992) Versus Placebo for the Treatment of Head and Neck Squamous Cell Cancer After Treatment With Chemo-radiotherapy
+This randomised, double-blind phase III trial will be performed in patients with head and neck squamous cell carcinoma (HNSCC). The objectives of the trial are to compare the efficacy and safety of afatinib (BIBW 2992) with placebo as adjuvant therapy to patients who have received definitive chemo-radiotherapy.
+Head and Neck Neoplasms
+DRUG: Placebo|DRUG: Afatinib
+Disease Free Survival (DFS), DFS, defined as the number of days from the date of randomisation to the date of tumour recurrence/ Second Primary Tumours (SPT) or death from any cause, whichever occurred first.
+
+For patients with known date of tumour recurrence/SPT (or death), the event date was the date of tumour recurrence/SPT or the date of death, whichever came first, i.e.
+
+DFS \[day\] = minimum (date of tumour recurrence/SPT, date of death) - date of randomisation +1.
+
+For patients known to be alive and without tumour recurrence/SPT by the end of trial or follow-up visit, they were censored at the date of last imaging when the patient was known to be disease-free and alive:
+
+DFS (censored) \[days\] = date of last imaging when the patient was known to be diseasefree and alive - date of randomisation + 1. The Kaplan-Meier (KM) method was to be used to estimate the median DFS for each treatment group. 95% confidence interval (CI) was to be constructed using the Greenwood variance estimate., up to 4 years
+Disease Free Survival (DFS) Rate at 2 Years, Disease Free Survival (DFS) rate at 2 years is presented, up to 2 years|Overall Survival (OS), OS was defined as time from the date of randomisation until death.
+
+For patients with known date of death (regardless of the cause of death):
+
+OS \[days\] = date of death - date of randomisation +1
+
+For patients known to be alive by the end of trial:
+
+OS (censored) \[days\] = the last date when the patient was known to be alive - date of randomisation +1 OS was to be analysed similarly to DFS., up to 4 years|Health Related Quality of Life (HRQOL), The main analysis of HRQOL questionnaires was to focus on the change in score from baseline in the following scales measured on the European Organisation for Research and Treatment of Cancer (EORTC) Quality of Life Questionnaire (QLQ)-C30 and EORTC QLQ-H\&N35:
+
+* Global Health Status/ Quality of Life (QOL) Scale
+* Pain Scale
+* Swallowing Scale, up to 4 years
+This randomised, double-blind phase III trial will be performed in patients with head and neck squamous cell carcinoma (HNSCC). The objectives of the trial are to compare the efficacy and safety of afatinib (BIBW 2992) with placebo as adjuvant therapy to patients who have received definitive chemo-radiotherapy.

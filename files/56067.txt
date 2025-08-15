@@ -1,0 +1,32 @@
+Veliparib and Dinaciclib in Treating Patients With Advanced Solid Tumors
+This phase I trial studies the side effects and the best dose of veliparib and dinaciclib in treating patients with solid tumors that have spread to other places in the body and usually cannot be cured or controlled with treatment. Veliparib and dinaciclib may stop the growth of tumor cells by blocking some of the enzymes needed for cell growth.
+Advanced Malignant Solid Neoplasm
+DRUG: Dinaciclib|DRUG: Veliparib
+Recommended phase 2 dose of veliparib/dinaciclib, Will be determined by dose-limiting toxicities graded according to the National Cancer Institute Common Terminology Criteria for Adverse Events version 5.0. Frequency tables of worst grade of adverse event, drug-related adverse events, and worst grade of laboratory value will be presented by dose cohort., Up to day 28
+Pharmacokinetic parameters (maximum concentration [Cmax], area under the curve [AUC], and half-life [t1/2]) of veliparib in the absence or presence of dinaciclib, At 0.25, 0.5, 1, 2, 2.25, 2.50, 3.0, 4.0, 6.0, 8.0, and 24.0 hours after dosing (days 1 and 8 of cycle 1)|Pharmacokinetic parameters (Cmax, AUC, t1/2) of dinaciclib in the presence of veliparib, At 0.25, 0.5, 1, 2, 2.25, 2.50, 3.0, 4.0, 6.0, 8.0, and 24.0 hours after dosing (days 1 and 8 of cycle 1)|Changes in immunohistochemical or biochemical measurements of cyclin-dependent kinase (cdk), poly (ADP-ribose) polymerase 1 activity, Levels of activity and percent changes post-treatment will be summarized using descriptive statistics., Baseline up to day 10|Level of deoxyribonucleic acid damage in tissue samples, Up to day 10|Expression of homologous recombination repair proteins, 56 days|Anti-tumor activity of veliparib/dinaciclib, Assessed by Response Evaluation Criteria in Solid Tumors 1.1., Up to 8 years|Progression-free survival, Conducted using the Kaplan Meier method and overall survival estimates will be provided with 95% confidence interval., Up to 8 years|Objective response rate, Conducted using the Kaplan Meier method. Estimates will be provided with 95% confidence interval., Up to 8 years|Change in homologous recombination deficiency (HRD) score, The relationship between change in HRD score and clinical response will be assessed with the Wilcoxon rank-sum test to compare percent change in marker levels in patients whose best response is partial response (PR) or stable disease (SD), compared to those whose best response is progressive disease (PD)., Baseline up to 56 days
+Change in parameters defining combined cdk and PARP inhibition, The relationship between change in parameters defining combined cdk and PARP inhibition and clinical response will be assessed with the Wilcoxon rank-sum test to compare percent change in marker levels in patients whose best response is PR or SD, compared to those whose best response is PD., Baseline up to 56 days|Change in BRCA1 and RAD51 expression, A tumor biopsy pair will be classified as demonstrating proof-of-mechanism if there is at least a 50% decrease in the proportion of BRCA1 and/or RAD51 foci-positive cells between the biopsy obtained after veliparib alone and the biopsy obtained after veliparib and dinaciclib. A one-sided binomial test will be used., Baseline to day 7 of cycle 1|Change in BRCA1 and RAD51 expression, A tumor biopsy pair will be classified as demonstrating proof-of-mechanism if there is at least a 50% decrease in the proportion of BRCA1 and/or RAD51 foci-positive cells between the biopsy obtained after veliparib alone and the biopsy obtained after veliparib and dinaciclib. A one-sided binomial test will be used., Baseline and within 48 hours of combination therapy in cycle 1
+PRIMARY OBJECTIVES:
+
+I. To evaluate the safety and tolerability of veliparib (ABT-888) and dinaciclib (SCH727965) in patients with advanced solid tumors.
+
+II. To determine the recommended phase 2 dose (RP2D) for ABT-888 in combination with SCH727965, determined by evaluating the feasibility, safety, dose-limiting toxicities, and the maximally tolerated dose(s).
+
+SECONDARY OBJECTIVES:
+
+I. To confirm the safety of the combination of ABT-888 and SCH727965 in patients with known BRCA1 or BRCA2 germline mutation.
+
+II. To characterize the pharmacokinetic parameters of ABT-888 both alone and in combination with SCH727965.
+
+III. To assess the pharmacodynamic effects of ABT-888 in combination with SCH727965, both in surrogate tissues and in tumor.
+
+IV. To assess preliminary antitumor activity of the ABT-888/SCH727965 combinations in subjects with solid tumors.
+
+OUTLINE: This is a dose-escalation study of veliparib and dinaciclib followed by expanded doublet cohort studies of non-breast BRCA-proficient patients and BRCA-proficient triple negative breast cancer (TNBC) patients, a safety doublet cohort for BRCA-deficient patients, and cohorts of BRCA-associated TNBC (PARP inhibitor-naive and PARP inhibitor-resistant).
+
+PART 1A: Patients receive veliparib orally (PO) twice daily (BID) on days 1-28 and dinaciclib intravenously (IV) over 2 hours on days 8 and 22. Cycles repeat every 28 days in the absence of disease progression or unacceptable toxicity.
+
+PART 1B: Patients receive veliparib and dinaciclib as patients in Part 1A. Cycles repeat every 28 days in the absence of disease progression or unacceptable toxicity.
+
+PART 1C: Patients receive veliparib PO BID on days 1-7 of cycle 0. Patients then receive veliparib PO BID on days 1-21 and dinaciclib IV over 2 hours on days 1, 4, 8, and 11 or days 1 and 8. Cycles repeat every 21 days in the absence of disease progression or unacceptable toxicity.
+
+After completion of study treatment, patients are followed up every 3 months.

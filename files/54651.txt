@@ -1,0 +1,29 @@
+Cladribine, Idarubicin, Cytarabine, and Quizartinib in Treating Patients With Newly Diagnosed, Relapsed, or Refractory Acute Myeloid Leukemia or High-Risk Myelodysplastic Syndrome
+This phase I/II trial studies the side effects and how well cladribine, idarubicin, cytarabine, and quizartinib work in treating patients with acute myeloid leukemia or high-risk myelodysplastic syndrome that is newly diagnosed, has come back (relapsed), or does not respond to treatment (refractory). Drugs used in chemotherapy, such as cladribine, idarubicin, and cytarabine, work in different ways to stop the growth of cancer cells, either by killing the cells, by stopping them from dividing, or by stopping them from spreading. Quizartinib may stop the growth of cancer cells by blocking some of the enzymes needed for cell growth. Giving quizartinib with cladribine, idarubicin, and cytarabine may help to control acute myeloid leukemia or high-risk myelodysplastic syndrome.
+Acute Myeloid Leukemia|Blasts 20 Percent or More of Bone Marrow Nucleated Cells|High Risk Myelodysplastic Syndrome|Recurrent Acute Biphenotypic Leukemia|Recurrent Acute Myeloid Leukemia|Recurrent High Risk Myelodysplastic Syndrome|Refractory Acute Myeloid Leukemia|Refractory High Risk Myelodysplastic Syndrome
+DRUG: Cladribine|DRUG: Cytarabine|DRUG: Idarubicin|DRUG: Quizartinib
+Event free survival (EFS), Will be estimate using the Kaplan-Meier method for each patient cohort. In addition, efficacy EFS will be analyzed in the intent to treat (ITT) population per cohort., From the date of start of treatment until event (resistance or relapse) or death, whichever occurred first, assessed up to 12 months|Incidence of adverse events, Defined as any clinically significant treatment-related grade 3 or greater non-hematologic toxicity. Patient toxicity data will be summarized using frequency and percentages, by type, grade and relationship to the study drugs., Up to 12 months
+Overall survival (OS), Will be estimate using the Kaplan-Meier method for each patient cohort. In addition, efficacy OS will be analyzed in the ITT population per cohort., Up to 12 months|Disease free survival (DFS), Will be estimate using the Kaplan-Meier method for each patient cohort. In addition, efficacy DFS will be analyzed in the ITT population per cohort., Up to 12 months|Rate of response, The rate of response will be estimated for each 28-gene panel of gene mutations for each patient cohort., Up to 12 months|Change of FLT3 ligand level, Will also explore the change of FLT3 ligand level before and after treatment using summary statistics, by patient cohort and by other subgroups (i.e. age)., Baseline up to 12 months|Change in the presence of other gene mutations, Will also explore the change in the presence of other gene mutations before and after treatment using summary statistics, by patient cohort and by other subgroups (i.e. age)., Baseline up to 12 months
+PRIMARY OBJECTIVES:
+
+I. To determine the efficacy of quizartinib (AC220) in combination with cladribine, idarubicin and cytarabine (ara-C) induction chemotherapy in newly diagnosed or relapsed/refractory patients with high-risk myelodysplastic syndrome (MDS) and acute myeloid leukemia (AML).
+
+II. To determine the safety of the combination.
+
+SECONDARY OBJECTIVES:
+
+I. To determine the overall survival and disease-free survival of patients treated with this combination.
+
+II. To investigate correlations of response to this combination with a 81-gene panel of gene mutations both in patients with and without FLT3 mutations.
+
+III. To identify individual treatment-resistant cell populations and their signaling state that may relate to clinical outcomes using CyTOF (cytometry by time of flight) and single cell sequencing.
+
+OUTLINE:
+
+INDUCTION: Patients receive idarubicin intravenously (IV) over 1 hour on days 1-3, cladribine IV over 1-2 hours on days 1-5, cytarabine IV over 2 hours on days 1-5 (or days 1-3 for patients over age 60), and quizartinib orally (PO) once daily (QD) on days 6-19. Treatment repeats every 28 days for up to 2 cycles in the absence of disease progression or unacceptable toxicity.
+
+CONSOLIDATION: Patients who achieve complete response (CR) or CR with incomplete platelet recovery (CRp) after Induction receive idarubicin IV over 1 hour on days 1-2, cladribine IV over 1-2 hours on days 1-3, cytarabine IV over 2 hours on days 1-3, and quizartinib PO QD on days 4-28. Treatment repeats every 28 days for up to 5 cycles in the absence of disease progression or unacceptable toxicity.
+
+MAINTENANCE: Patients who achieve CR or CR with incomplete bone marrow recovery (CRi)/CR with partial hematologic recovery (CRh) after Consolidation receive quizartinib PO QD on days 1-28. Treatment repeats every 28 days for up to 12 cycles in the absence of disease progression or unacceptable toxicity.
+
+After completion of study treatment, patients are followed up every 6-12 months.

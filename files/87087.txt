@@ -1,0 +1,47 @@
+Analysis of PD-L1, TMB, MSI and ctDNA Dynamics to Predict and Monitor Response to Immunotherapy in Metastatic Cancer.
+This is an observational clinical trial, aiming to investigate whether the ctDNA dynamics could predict early response to ICIs in patients with advanced-stage cancer. Moreover, conventional tumor markers PD-L1, TMB and MSI are to be investigated for their combined prognostic values in ICI treatment.
+Non Small Cell Lung Cancer|Breast Cancer|Colorectal Cancer|Gastric Cancer|Liver Cancer|Advanced Cancer|Immune Checkpoint Inhibitor
+To investigate the relationship between ctDNA dynamics and clinical response to immune checkpoint inhibitors (ICIs) (assessed by RECIST 1.1)., * No response/progressive disease = ctDNA levels increase from baseline
+* Partial response/stable disease = ctDNA levels decrease from baseline
+* Complete response = ctDNA clearance., 24 months|To compare and combine ctDNA dynamics and RECIST1.1 to predict clinical response in case of pseudoprogression, * Correlation between ctDNA dynamics and clinical response
+* Correlation between RECIST1.1 and clinical response
+* Combination of ctDNA dynamics and RECIST v1.1 in the prognosis of clinical response., 24 months|To investigate the prognostic value of ctDNA clearance with PFS and OS, * Correlation between ctDNA clearance and PFS
+* Correlation between ctDNA clearance and OS., 12-24 months|To compare the prognostic values of PD-L1, TMB and MSI in predicting clinical response to ICI, best indicator(s) for ICI response., * Correlation between PD-L1 and clinical response
+* Correlation between TMB and clinical response
+* Correlation between MSI and clinical response., 24 months
+This study is recruiting female and male patients, aged 18 and older:
+
+* Who are diagnosed with stage IV cancer (lung, colorectal, breast, liver, gastric...) and indicated for ICI (first or second line). Concurrent chemotherapy with ICI is allowed.
+* Who have not started ICI before enrollment,
+* Compliant with treatment protocol,
+* Who have no medical or psychiatric conditions or occupational, responsibilities that may preclude compliance with the protocol,
+* Who consented to participate in the study.
+
+Sample collection.
+
+* 10 mL of peripheral blood (in Streck tubes) is collected for ctDNA analysis at 5 time points: pre-treatment (\<10 days before ICI), during ICI every 3 months until 12 months.
+* 6-8 sections of formalin-fixed paraffin-embedded (FFPE) tumor samples.
+
+As part of the protocol, demographic data, height, weight, medical and family history, and any relevant prior concomitant medication data will be recorded during follow-up visits. All patients are to be followed for 2 years from enrollment, with CT scan/ MRI/ PET-CT imaging measured every clinical visit for 24 months.
+
+Tumor sample processing,
+
+Genomic DNA was isolated from FFPE and matching white blood cells (WBC) samples by the QIAamp DNA FFPE Tissue Kit (Qiagen, USA) and the MagMAX™ DNA Multi-Sample Ultra 2.0 kit (ThermoFisher, USA) respectively according to manufacturers' instructions. DNA fragmentation and library preparation for both FFPE and WBC samples were performed using the NEBNext Ultra II FS DNA library prep kit (New England Biolabs, USA). Libraries were hybridized with predesigned probes for a gene panel of 473 targeted genes (Integrated DNA Technologies, USA). This gene panel was curated from large public cancer databases, high-impact cancer genomic studies, and particularly in-house database of prevalent mutations from \>10,000 cancer patients. The panel included entire exons of 473 genes, promoter region of TERT, and selected introns of 6 common fusion genes. Massive parallel sequencing of DNA libraries was performed on the DNBSEQ-G400 sequencer (MGI, China) with an average depth of 500X for FFPE and 500X for WBC samples.
+
+TMB and MSI analysis,
+
+TMB calculation was performed using our in-house developed script to divide the total number of eligible somatic variants by the size of the interrogated panel. An eligible somatic variant must meet all of the following criteria: (1) pass filtering parameters of the variant calling pipeline, (2) not likely a germline variant as filtered by the dbSNP database, (3) locate within the coding region, (4) not a synonymous mutation, (5) have VAF ≥ 5%, allele depth ≥ 5X, total depth ≥ 15X. The panel size was counted for the bases within coding regions with the minimal total depth ≥ 15X. The threshold for TMB-High (TMB-H) was determined as 10 mutations/Mb.
+
+For MSI status, unstable microsatellite loci were detected by MSIsensor-pro (v1.2.0) in matched tumor-normal mode. If the proportion of unstable loci among all detected microsatellite loci was at least 20%, the sample was determined as MSI-High (MSI-H).
+
+Tumor variant calling and ranking,
+
+Sequencing data were processed based on best practices workflows from Genome Analysis Tool Kit (GATK) for somatic variant calling. Specifically, reads were aligned to the human reference genome (GRCh38) by BWA-MEM (v0.7.15). Post-alignment procedures including sorting, marking duplicated reads, and accessing alignment quality were done by Picard (v2.25.6). Somatic variants were called by GATK MuTect2 (v4.0.12.0) in the tumor-normal mode for paired FFPE and WBC samples with the use of a panel of normals and the population allele frequency from The Genome Aggregation Database (gnomAD). All filtered variants were further assessed for their functional impact using Variant Effect Predictor with the data from COSMIC and Clinvar databases. For mutational spectrum analysis, a minimum Variant allele frequency (VAF) of 5% in FFPE was applied for additional filtering. The annotated Variant Call Format (VCF) was then converted to the Mutation Annotation File (MAF) format using vcf2maf (doi:10.5281/zenodo.593251). The MAF data were analyzed and visualized by the 'maftools' in R package v3.4.2. All non-synonymous alterations were ranked by our K-TrackTM scoring algorithm to identify the most potential tumor-derived mutations to track. The top mutations unique to each patient were selected to design bespoke multiplex PCR assays in plasma.
+
+Plasma sample processing and multiplex PCR,
+
+cfDNA was extracted from plasma samples using the MagMAX™ Cell-Free DNA Isolation Kit (ThermoFisher, USA). Compatible primers were designed by Primer-BLAST software and synthesized by PhuSa Biochem, Vietnam. cfDNA fragments carrying the selected mutation sites were amplified in a bespoke multiplex PCR reaction containing designed primer pairs and enzyme KAPA HiFi DNA Polymerase (Roche, USA). Additionally, cfDNA fragments were also amplified in another multiplex PCR reaction, including primer pairs that amplify 50 target gene regions containing mutations for targeted therapy, drug resistance, and frequent mutations in metastatic lung cancer. Amplified cfDNA fragments were indexed and sequenced on the NextSeq 2000 system (Illumina, USA) with an average depth of 100,000X per amplicon. Amplicons with less than 10,000X coverage were considered unsuccessful.
+
+Plasma variant calling and ctDNA analysis,
+
+The raw fastq data of amplicons were removed adapters with Trimmomatic (v0.39), mapped to the human reference genome (GRCh38) using BWA-MEM (v0.7.15), sorted and marked duplicates using Picard (v2.25.6). Variant calling was performed using mpileup from Samtools (v1.11). A plasma sample that had at least one mutation with VAF above 0.05% was defined as ctDNA positive.

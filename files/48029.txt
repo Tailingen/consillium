@@ -1,0 +1,46 @@
+Testing Treatment With Encorafenib and Binimetinib Before Surgery for Melanoma With Lymph Node Involvement
+This phase II trial studies how well encorafenib and binimetinib work before surgery in treating patients with BRAF V600-mutated stage IIIB-D melanoma that has spread to the lymph nodes. Encorafenib and binimetinib may stop the growth of tumor cells by blocking some of the enzymes needed for cell growth. This trial also studies how well 18F-FLT positron emission tomography (PET)/computed tomography (CT) works in predicting the response of melanoma to encorafenib and binimetinib. 18F-FLT is an imaging agent, sometimes called a tracer. PET and CT are types of imaging scans. Using 18F-FLT PET/CT together with encorafenib and binimetinib may provide more information on melanoma over time.
+Melanoma of Unknown Primary|Metastatic Malignant Neoplasm in Lymph Node|Pathologic Stage IIIB Cutaneous Melanoma AJCC v8|Pathologic Stage IIIC Cutaneous Melanoma AJCC v8|Pathologic Stage IIID Cutaneous Melanoma AJCC v8|Recurrent Cutaneous Melanoma
+DRUG: Binimetinib|PROCEDURE: Conventional Surgery|DRUG: Encorafenib|OTHER: Fluorothymidine F-18
+Pathologic Complete Response, Pathologic complete response (pCR) is defined as complete absence of viable tumor in the treated tumor bed. Partial pathologic response (pPR) is defined as less than or equal to 50% of the treated tumor bed is occupied by viable tumor cells. Pathologic non-response is defined as great than 50% of the treated tumor bed is occupied by viable tumor cells., Assessed at 10-12 weeks
+Objective Response, Objective response is defined as either complete response (CR) or partial response (PR) per Response Evaluation Criteria in Solid Tumors (RECIST) guideline (version 1.1). Complete response is defined as disappearance of all lesions. Partial response is defined as at least a 30% decrease in the sum of the diameters of target lesions, taking as reference the baseline sum diameters and/or persistence of one or more non-target lesion(s). Stable disease is defined as neither sufficient shrinkage to qualify for PR nor sufficient increase to qualify for progressive disease (PD), taking as reference the smallest sum diameters while on study. PD is defined as at least a 20% increase in the sum of the diameters of target lesions, taking as reference the smallest sum on study or appearance of one or more new lesions and/or unequivocal progression of existing non-target lesions., Assessed at baseline, 8 weeks, then every 12 weeks up to 1.4 years|Disease-free Survival, Disease-free survival is defined as the time from date of surgical resection to the date of recurrence or death, whichever occurs first.
+
+Recurrence must be documented by radiologic exams and with biopsy in all cases except for brain metastases (biopsy not required). Abnormal blood studies alone (e.g., elevated transaminases or alkaline phosphatase) are not sufficient evidence of relapse. Whenever possible, histologic proof of recurrence should be obtained unless the lesion is not accessible or a biopsy would cause undue risk to the patient., Assessed at baseline, 8 weeks, then every 12 weeks up to 19.4 months|Overall Survival, Overall survival is defined as the time from registration to death or date last known alive, which is the censoring date for patients who are still alive., Assessed at every 3 months for 2 years and then every 6 months, up to 2 years 9 months|Associations Between pCR and Best Response, Association between pCR and best response will be reported., Assessed at baseline, 8 weeks, then every 12 weeks up to 1.4 years
+CD8+ T Cell Infiltration and Ki-67 Status, Evaluation of CD8+ T cell infiltration and Ki-67 status in tumor or tumor bed pre, during, and post neoadjuvant treatment will be performed. The change in CD8+ TIL with neoadjuvant treatment will also be evaluated., Assessed at baseline, during neoadjuvant treatment and at surgery|Concordance Between Local Review for Pathologic Response and Central Pathology Review, The concordance between local review for pathologic response and central pathology review will be performed., Assessed at surgery|Change in 18F-FLT PET/CT Uptake, Comparison of the change in 18F-FLT PET/CT uptake from baseline to post-neoadjuvant therapy between patients with and without pathologic complete response will be performed., Assessed at baseline and post-neoadjuvant therapy|18F-FLT PET/CT Uptake, The uptake value of 18F-FLT PET/CT will be evaluated after neoadjuvant treatment is completed. This value will be compared between patients with and without pathologic complete response., Assessed after neoadjuvant treatment, about 16 weeks|Association Between Pathologic Complete Response and Change in 18F-FLT PET/CT Uptake as Well as Post-neoadjuvant 18F-FLT PET/CT Uptake, The association between pathologic complete response and change in 18F-FLT PET/CT uptake as well as post-neoadjuvant 18F-FLT PET/CT uptake will be evaluated. An optimal threshold of 18F-FLT PET/CT uptake for prediction of pathologic complete response will be estimated., Assessed at baseline and post-neoadjuvant treatment|Correlation Between Change in 18F-FLT PET/CT Uptake and Change in Ki-67, The correlation between change in 18F-FLT PET/CT uptake and change in Ki-67 will be evaluated., Assessed at baseline and post-neoadjuvant treatment
+PRIMARY CLINICAL OBJECTIVE:
+
+I. To evaluate the pathologic complete response (pCR) rate of neoadjuvant treatment with encorafenib and binimetinib.
+
+SECONDARY CLINICAL OBJECTIVES:
+
+I. To determine response rate (RR) (Response Evaluation Criteria in Solid Tumors \[RECIST\]), disease-free survival (DFS) and overall survival (OS).
+
+II. To describe correlation of pCR with RR, DFS and OS. III. To assess safety and toxicity.
+
+CORRELATIVE SCIENCE OBJECTIVES:
+
+I. To evaluate CD8 positive (+) T cell infiltration and Ki-67 status in tumor or tumor bed pre, during, and post neoadjuvant treatment and the change in CD8+ tumor infiltrating lymphocyte (TIL) with neoadjuvant treatment and correlate with clinical response.
+
+II. To compare local review for pathologic response with central pathology review.
+
+III. To assess the correlation between change in fluorothymidine F-18 (18F-FLT) PET/CT uptake and change in Ki-67.
+
+IMAGING OBJECTIVES:
+
+I. To compare the change in 18F-FLT PET/CT uptake (from baseline to post-neoadjuvant therapy) among patients with and without pathologic complete response.
+
+II. To compare post-neoadjuvant 18F-FLT PET/CT uptake among patients with and without pathologic complete response.
+
+III. To estimate an optimal threshold for prediction of pathologic complete response using i) change in 18F-FLT PET/CT uptake, and ii) post-neoadjuvant 18F-FLT PET/CT uptake.
+
+IV. To assess the correlation between change in 18F-FLT PET/CT uptake and change in Ki-67.
+
+OUTLINE:
+
+NEOADJUVANT TREATMENT: Patients receive 18F-FLT intravenously (IV) and undergo a PET/CT scan approximately 60 minutes later. Within 2 weeks, patients receive encorafenib orally (PO) once daily (QD) and binimetinib PO twice daily (BID) on days 1-28. Treatment repeats every 28 days for up to 2 cycles in the absence of disease progression or unacceptable toxicity. Patients then receive 18F-FLT IV and undergo a second PET/CT scan approximately 60 minutes later.
+
+SURGICAL RESECTION: Within 2 weeks of completing therapy with encorafenib and binimetinib, patients undergo surgery.
+
+ADJUVANT TREATMENT: Within 2-7 days after surgery, patients resume treatment with encorafenib PO QD and binimetinib PO BID on days 1-28. Treatment repeats every 28 days for up to 11 cycles in the absence of disease progression or unacceptable toxicity.
+
+After completion of study treatment, patients are followed up every 3 months for 1 year, then every 6 months for 3 years.

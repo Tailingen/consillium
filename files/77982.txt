@@ -1,0 +1,27 @@
+Dasatinib in Treating Patients With Recurrent or Metastatic Malignant Salivary Gland Tumors
+This phase II trial is studying how well dasatinib works in treating patients with malignant salivary gland tumors that have come back after treatment or have spread to other parts of the body. Dasatinib may stop the growth of tumor cells by blocking some of the enzymes needed for cell growth.
+Malignant Salivary Gland Neoplasm|Recurrent Salivary Gland Carcinoma|Salivary Gland Adenoid Cystic Carcinoma|Stage IV Major Salivary Gland Cancer AJCC v7
+DRUG: Dasatinib|OTHER: Laboratory Biomarker Analysis
+Response Rate, Response rate is percentage of the best overall response which recoded from the start of the treatment until diseases progression/recurrence. Response criteria are defined using the international criteria proposed by the Response Evaluation Criteria In Solid Tumors (RECIST) Committee: Complete Response, Disappearance of all target lesions; Partial Response, \>=30% decrease in the sum of the longest diameter of target lesions; Progressive Disease, 20% increase in the sum of the longest diameter of target lesions, or a measurable increase in a non-target lesion, or the appearance of new lesions; Stable Disease, neither sufficient shrinkage to qualify for partial response nor sufficient increase to qualify for progressive disease, no occurrence of progression disease for non-target lesions, and no new lesions., Up to 2 months|Progression-free Survival, Progression-free survival from start of treatment to the time of disease progression or death from any cause was estimated using the Kaplan-Meier method., up to 5 years
+Overall Survival, Kaplan-Meier curves will be generated and 90% confidence intervals will be derived., Up to 5 years|Changes in Laboratory Correlates, Changes in laboratory correlates pre-post therapy will be analyzed using paired t-tests. The association between RET gene rearrangements/mutations and tumor response, as well as the association between germ-line polymorp response, will be analyzed using Fisher's exact test. The correlative and genetic data will also be entered as cova only due to the small sample size) in a Cox regression model of progression-free survival., Baseline and 4 weeks
+PRIMARY OBJECTIVES:
+
+I. Determine the objective response rate (complete response plus partial response) of dasatinib in adenoid cystic carcinoma (ACC).
+
+II. Determine the progression-free survival of dasatinib in ACC.
+
+SECONDARY OBJECTIVES:
+
+I. Determine the duration of response. II. Determine the stable disease rate and duration of stable disease. III. Determine progression-free survival. IV. Determine the median survival. V. Determine the overall survival. VI. Determine the safety and tolerability.
+
+TERTIARY OBJECTIVES:
+
+I. To examine biomarkers that relate to SRC proto-oncogene, non-receptor tyrosine kinase (Src) signal transduction and to correlate these biomarkers with clinical response to dasatinib in ACC and non-ACC malignant salivary gland tumors (MSGT).
+
+II. Determine if activating mutations in platelet-derived growth factor alpha polypeptide (PDGFA) and KIT are associated with response in ACC.
+
+OUTLINE:
+
+Patients receive dasatinib orally (PO) twice daily (BID) on days 1-28. Courses repeat every 28 days in the absence of disease progression or unacceptable toxicity.
+
+After completion of study therapy, patients are followed at 8 weeks.

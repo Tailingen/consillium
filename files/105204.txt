@@ -1,0 +1,35 @@
+Cetuximab, Oxaliplatin, Fluorouracil, and Radiation Therapy in Treating Patients With Stage II or Stage III Esophageal Cancer
+RATIONALE: Monoclonal antibodies, such as cetuximab, can block tumor growth in different ways. Some block the ability of tumor cells to grow and spread. Others find tumor cells and help kill them or carry tumor-killing substances to them. Cetuximab may also make tumor cells more sensitive to radiation therapy. Drugs used in chemotherapy, such as oxaliplatin and fluorouracil, work in different ways to stop the growth of tumor cells, either by killing the cells or by stopping them from dividing. Radiation therapy uses high-energy x-rays to kill tumor cells. Giving cetuximab, chemotherapy, and radiation therapy before surgery may make the tumor smaller and reduce the amount of normal tissue that needs to be removed.
+
+PURPOSE: This phase I/II trial is studying the side effects and best dose of oxaliplatin and fluorouracil when given together with cetuximab and radiation therapy and to see how well they work in treating patients with stage II or stage III esophageal cancer.
+Esophageal Cancer
+BIOLOGICAL: cetuximab|DRUG: fluorouracil|DRUG: oxaliplatin|PROCEDURE: conventional surgery|PROCEDURE: neoadjuvant therapy|RADIATION: radiation therapy
+Maximum tolerated dose of oxaliplatin and fluorouracil (Phase I)|Response rate (histological remission) (Phase II)
+Toxicity as measured by NCI-CTC criteria|Postoperative complication rate and lethality|R0 resection rate|Overall survival|Event-free survival|Metabolic response rate
+OBJECTIVES:
+
+Primary
+
+* Determine the maximum tolerated dose of oxaliplatin and fluorouracil when administered with cetuximab and radiotherapy in patients with stage II or III squamous cell carcinoma of the esophagus. (Phase I)
+* Determine the response rate in patients treated with this regimen. (Phase II)
+
+Secondary
+
+* Determine the toxicity of this regimen in these patients.
+* Determine the postoperative complication rate and lethality in patients treated with this regimen.
+* Determine the R0 resection rate in patients treated with this regimen.
+* Determine the overall survival of patients treated with this regimen.
+* Determine the event-free survival of patients treated with this regimen.
+* Determine the metabolic response rate in patients treated with this regimen.
+
+OUTLINE: This is a phase I, dose-escalation study of oxaliplatin and fluorouracil followed by an open-label, phase II study.
+
+* Phase I: Patients receive cetuximab IV over 60-90 minutes on days -15, -8, 1, 8, 15, 22, and 29; oxaliplatin IV over 120 minutes on days 1, 8, 22, and 29; and fluorouracil IV continuously on days 1-5, 8-12, 15-19, 22-26, and 29-33. Patients undergo radiotherapy on days 1-5, 8-12, 15-19, 22-26, and 29-33. Patients then undergo radical esophagectomy 29-42 days after the completion of chemoradiotherapy.
+
+Cohorts of 3-6 patients receive escalating doses of oxaliplatin and fluorouracil until the maximum tolerated dose (MTD) is determined. The MTD is defined as the dose preceding that at which 2 of 3 or 2 of 6 patients experience dose-limiting toxicity.
+
+* Phase II: Patients receive oxaliplatin and fluorouracil as in phase I at the MTD determined in phase I. Patients also receive cetuximab and undergo radiotherapy and radical esophagectomy as in phase I.
+
+After completion of study therapy, patients are followed every 3 months for 2 years and then every 6 months for 3 years.
+
+PROJECTED ACCRUAL: A total of 43 patients will be accrued for this study.

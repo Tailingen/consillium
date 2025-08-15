@@ -1,0 +1,33 @@
+Darbepoetin Alfa With or Without Iron in Treating Anemia Caused By Chemotherapy in Patients With Cancer
+RATIONALE: Darbepoetin alfa may cause the body to make more red blood cells. Red blood cells contain iron that is needed to carry oxygen to the tissues. It is not yet known whether giving darbepoetin alfa (DA) together with intravenous iron or oral iron is more effective than giving darbepoetin alfa together with a placebo in treating anemia caused by chemotherapy.
+
+PURPOSE: This randomized phase III trial is studying giving darbepoetin alfa together with iron to see how well it works compared with giving darbepoetin alfa together with a placebo in treating anemia caused by chemotherapy in patients with cancer.
+Anemia|Leukemia|Lymphoma|Lymphoproliferative Disorder|Multiple Myeloma and Plasma Cell Neoplasm|Precancerous Condition|Unspecified Adult Solid Tumor, Protocol Specific
+BIOLOGICAL: darbepoetin alfa|DIETARY_SUPPLEMENT: ferrous sulfate|DRUG: sodium ferric gluconate complex in sucrose|OTHER: placebo
+Hematopoietic Response Rate Defined as the Number of Participants Who Exhibit a Hematopoietic Response, Hematopoietic response was defined as Hemoglobin (Hb) increment of 2.0 g/dL from baseline or achievement of Hb \>= 11 g/dL (whichever occurs first) in the absence of red blood cell transfusions during the preceding 28 days during the treatment period., 16 Weeks
+Percentage of Patients Maintaining an Average Hemoglobin Level Within the National Comprehensive Cancer Network (NCCN) Range (11-13 g/dL) Through Week 16, Once Achieving a Hemoglobin of ≥ 11 g/dL, 16 Weeks|Incidence of Patients Receiving at Least One Red Blood Cell (RBC) Transfusions, Week 1 to Week 16|Mean Increment in Hemoglobin Level at Week 7, Value at 7 weeks minus value at baseline., Baseline and 7 weeks|Mean Increment in Hemoglobin Level at Week 16, Value at 16 weeks minus value at baseline., Baseline and 16 weeks|Time to Hematopoietic Response, Hematopoietic response was defined as Hb increment of 2.0 g/dL from baseline or achievement of Hb \>= 11 g/dL (whichever occurs first) in the absence of red blood cell transfusions during the preceding 28 days during the treatment period., 16 weeks|Time to First Red Blood Cell (RBC) Transfusions, 16 weeks|Change From Baseline in Overall Quality of Life (QOL) Score as Measured by the Linear Analogue Self Assessment (LASA), Overall QOL item score range: 0 (Worst) to 10 (Best), ordinal. Change: score at 16 weeks minus score at baseline., Baseline and 16 weeks|Change From Baseline in Quality of Life (QOL) Score as Measured by Symptom Distress Scale (SDS) at End of Study, SDS Scale range: 0 (Worst), 100 (Best), ordinal. Change: score at 16 weeks minus score at baseline. A clinically significant result will be defined as a shift of 10 points on a 0-100 point transformed scale between the average QOL scores of the 3 variants of iron therapy., Baseline and 16 weeks|Change From Baseline in Quality of Life (QOL) Score as Measured by Brief Fatigue Inventory(BFI) Fatigue Now Scale at End of Study, Fatigue Now Scale range: 0 (No Fatigue) to 10 (Worst), ordinal. Change: score at 16 weeks minus score at baseline., Baseline and 16 weeks|Change From Baseline in Quality of Life (QOL) Score as Measured by The Functional Assessment of Cancer Therapy-Anemia (FACT-An) at End of Study, FACT-AN Scale range: 0 (Worst) to 100 (Best), ordinal. Change: score at 16 weeks minus score at baseline. A clinically significant result will be defined as a shift of 10 points on a 0-100 point transformed scale between the average QOL scores of the 3 variants of iron therapy., Baseline and 16 weeks|C-reactive Protein (CRP) Level at Week 1, Week 7 and Week 16, 1 Week, 7 Weeks and 16 Weeks|Soluble Transferrin Receptor (sTfR)Level at Week 1, Week 7 and Week 16, 1 week, 7 weeks and 16 weeks|Ferritin Level at Baseline, Week 7 and Week 16, Baseline, 7 weeks and 16 weeks|Mean Corpuscular Volume (MCV) Level at Baseline, Week 7 and Week 16, MCV is a measure of the average red blood cell volume., Baseline, 7 weeks and 16 weeks|Transferrin Saturation at Baseline, Week 7 and Week 16, Baseline, 7 weeks and 16 weeks
+OBJECTIVES:
+
+Primary
+
+\* To compare the effects of IV iron, oral iron, or placebo in combination with darbepoetin alfa on the hematopoietic response rate, defined as a hemoglobin increment of ≥ 2.0 g/dL from baseline or achievement of hemoglobin of ≥ 11 g/dL in the absence of red blood cell transfusions (RBC) in the preceding 28 days of the treatment period, in cancer patients with chemotherapy-associated anemia.
+
+Secondary
+
+* To compare the effects of these regimens on the mean hemoglobin increment from baseline to weeks 7 and 16 in these patients.
+* To compare the effects of these regimens on the percentage of patients maintaining an average hemoglobin level within the American Society of Hematology/American Society of Clinical Oncology (ASH/ASCO)and National Comprehensive Cancer Network(NCCN) guideline-based target hemoglobin range (11-13 g/dL), once achieving a hemoglobin of ≥ 11 g/dL from week 1 to week 16 in the absence of RBC transfusions in the preceding 28 days of the treatment period.
+* To compare the effects of intravenously (IV) iron, oral iron, or placebo on the response to darbepoetin alfa, in terms of time to achieving hemoglobin levels of ≥ 11g/dL.
+* To compare the effects of these regimens on the percentage of patients who require RBC transfusions and the total transfusion needs.
+* To compare the effects of these regimens on the change in hemoglobin week by week.
+* To compare the effects of these regimens on quality-of-life changes from baseline to weeks 7 and 16.
+* To identify if patients with inflammation (as indicated by elevated C-reactive protein (CRP) and serum hepcidin levels or low soluble transferrin receptor (sTfR)/log ferritin ratios) respond differently to darbepoetin alfa and iron therapy than patients without inflammation.
+
+OUTLINE: Patients are stratified according to severity of anemia (mild \[hemoglobin ≥ 9.5 g/dL\] vs severe \[hemoglobin \< 9.5 g/dL\]), treatment with a platinum-containing regimen (yes vs no), and gender. Patients are randomized to 1 of 3 treatment arms.
+
+* Arm I: Patients receive darbepoetin alfa subcutaneously and sodium ferric gluconate complex IV over 90 minutes on day 1.
+* Arm II: Patients receive darbepoetin alfa as in arm I and oral ferrous sulfate once daily on days 1-21.
+* Arm III: Patients receive darbepoetin alfa as in arm I and oral placebo once daily on days 1-21.
+
+In all arms, treatment repeats every 21 days for up to 15 weeks in the absence of unacceptable toxicity.
+
+Patients complete quality-of-life (QOL) questionnaires in weeks 1, 7, and 16.

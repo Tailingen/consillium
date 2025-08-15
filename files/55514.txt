@@ -1,0 +1,43 @@
+Quantification of Anastomostic Blood Flow With Fluorescence Imaging in Low Anterior Resection for Rectal Cancer
+A serious and life-threatening complication to rectal surgery is anastomotic leakage, AL. In Denmark, approximately 800 patients every year, are operated for rectal cancer, 50% of these with resection and anastomosis.
+
+The registered leakage rate for rectal anastomosis is 10-15%. AL can be life threatening and has long-term adverse effects for the patients, with reduced quality of life, due to a poor functional result of the neo-rectum known as low anterior rectal syndrome (LARS). Fistulas to the vagina or urinary tract are other severe complications. Furthermore, AL is associated with an increased risk of reccurence1. Finally, the AL-associated morbidity is also a significant economic burden to the health care system due to prolonged hospital stay, medicine, and reoperations.
+
+During surgery it is important to ensure optimal healing conditions for the anastomosis. The blood flow is evaluated by colour and pulsation in the mesentery.
+
+Studies suggest that it might be easier to evaluate the perfusion using fluorescent dye. This evaluation is a subjective evaluation, based mostly on the surgeon's experience.
+
+Assessing fluorescence by computer-based software, qICG, has been developed. But cut-off values for sufficient blood flow to diminish the risk of leakage, has not yet been defined.
+
+Aim:
+
+Primary objective: To establish cut-off values of qICG, where blood flow assumes sufficient for healing, and thereby reduce the risk of leakage.
+
+Secondary objective: To identify which long-term complications grade A, B and C leakages entails on Quality of Life.
+Anastomotic Leak
+DIAGNOSTIC_TEST: qICG
+Cut off Values for fluorescence, ROC curves, Inclusion period of 3 years
+Perfusion assessed quantitatively, Compared in leak and no-leak group by using wilcoxon ranksum test, Inclusion period of 3 years
+Pre-operative evaluation To evaluate which impact disease and treatment has on overall morbidity, patients will be asked to fill questionnaires regarding quality of life and bowel function prior to surgery. The validated EORTC-qlq-cr29 and LARS questionnaires will be used.
+
+These questionnaires will be repeated post-operatively on POD 365.
+
+ICG and anastomotic evaluation Patient characteristics will be noted according to registration form 1. All patients must undergo laparoscopic or robotic rectal resection, possibly combined with trans-anal approach. After the bowel has been resected and the anvil of the circular stapler has been placed in the proximal bowel, the ICG-FI evaluation will take place.
+
+The surgeon will place the camera in a stationary holder or in the robotic arm at the optimal position to view the bowel perfusion. The camera, patient, operating table, or bowel shall not be moved during observation.
+
+A bolus of 0,2mg/kg ICG, max 25mg, is administered intravenously and flushed with saline. The laparoscopic light is switched from white to infra-red and then the ICG-solution is infused. This procedure will be video-documented.
+
+When the anastomosis has been established, leakage-test and visual evaluation will be performed. All intra-operative observations will be registered according to registration form 2.
+
+Postoperative observation Patients will be observed daily according to standard post-operative care. On post-operative day (POD) 5 an abdominal CT scan with rectal enema will be performed to identify all AL, including subclinical. Findings will be registered according to registration form 3. If we find a leakage on CT, a flexible endoscopy will be performed (observations will be registered according to registration form 4). Findings will be addressed according to normal practice in participating centres; surgery, endoscopic lavage, treatment with endosponge and/or antibiotics.
+
+On POD 30 and 90, any complications will be noted from the electronic patient records, according to registration form 5.
+
+Pre-operative and on POD 365 the patients will be sent a questionnaire or online survey about their functional symptoms and quality of life, using the validated EORTC-qlq-cr29 questionnaire and the LARS score.
+
+q-ICG: Videos will postoperatively be analysed using the pixel analysis software q-ICG. We will evaluate the following parameters: Slope, normalized slope, TTP (Time-To-Peak=Tmax), T0 (first fluorescent sign), T1/2max, TR (Time Ratio: T1/2max/Tmax), and Fmax (Maximum fluorescent value), see registration form 6.
+
+Videos should be recorded in MP4 format or AVI format.
+
+Patient related data, findings and questionnaires will be entered into a RedCap database powered by OPEN - Open Patient data Explorative Network

@@ -1,0 +1,36 @@
+Trametinib and Akt Inhibitor GSK2141795 in Treating Patients With Relapsed or Refractory Multiple Myeloma
+This phase II trial studies how well trametinib and Akt inhibitor GSK2141795 work in treating patients with multiple myeloma that has come back (relapsed) or that does not respond to treatment (refractory). Trametinib and Akt inhibitor GSK2141795 may stop the growth of cancer cells by blocking some of the enzymes needed for cell growth.
+Recurrent Plasma Cell Myeloma|Refractory Plasma Cell Myeloma
+OTHER: Laboratory Biomarker Analysis|OTHER: Pharmacological Study|DRUG: Trametinib|DRUG: Uprosertib
+ORR Evidenced by Confirmed Response Rate, Defined as Number of Patients With Partial Response or Better by International Myeloma Working Group (IMWG) Criteria Divided by the Number of Patients in the Applicable Group (Biomarker Positive or Negative), "Per International Myeloma Working Group (IMWG) Criteria: Complete Response (CR), Negative immunofixation on the serum and urine and disappearance of any soft tissue plasmacytomas and \< 5% plasma cells in bone marrow; Partial Response (PR), \> 50% reduction of serum M-protein and reduction in 24 hours urinary M-protein by \>90% or to \< 200 mg/24 h; Overall Response (OR) = CR + PR.", Every 4 weeks until progression or death, whichever occurs first, an average of 9 months.
+PFS, Summarized for each cohort using the Kaplan-Meier method, from the date of start of treatment to the date of documented progression (based on IMWG criteria) or death due to any cause, assessed every 4 weeks, Time from the date of start of treatment to the date of documented progression (based on IMWG criteria) or death, whichever occurs first, due to any cause, assessed every 4 weeks, an average of 9 months.|DOR (Duration of Response), Summarized for each cohort using the Kaplan-Meier method., From time measurement criteria are met for CR or PR (complete or partial response), (whichever recorded first) until first date that recurrent or progressive disease is objectively documented or to death due to multiple myeloma, assessed every 4 weeks|ORR After the Addition of AKT Inhibitor GSK2141795 to Trametinib in Patients Who Have Developed Progressive Disease or Have Achieved Less Than a PR, "Per International Myeloma Working Group (IMWG) Criteria: Complete Response (CR), Negative immunofixation on the serum and urine and disappearance of any soft tissue plasmacytomas and \< 5% plasma cells in bone marrow; Partial Response (PR), \> 50% reduction of serum M-protein and reduction in 24 hours urinary M-protein by \>90% or to \< 200 mg/24 h; Overall Response (OR) = CR + PR.", Every 4 weeks until progression or death, whichever occurs first, an average of 9 months.|Incidence of Adverse Event Reactions Reported According to CTCAE v4.0, Reported by type, frequency, and severity., From time of treatment start until treatment completion, an average of 1 year
+Pharmacodynamic Markers of Trametinib, Analyses will be descriptively summarized., Baseline, day 1 of course 2, progression|Chromosomal Abnormalities as Determined by FISH, Analyses will be descriptively summarized., At baseline|Tumor Mutational Profile by Next Generation Sequencing, Analyses will be descriptively summarized., At baseline|Change in RAS-MEK-ERK Activation Determined by Phospho-flow Cytometry and RPPA (Reversal Phase Protein Arrays), Analyses will be descriptively summarized., At baseline|Detection of RAS and RAF Mutations Using cfDNA, Ultra-deep sequencing will be performed on cfDNA to assess the feasibility of detecting mutations of NRAS, KRAS and BRAF from peripheral blood samples., Baseline and every even cycle and at progression, an average of 9 cycles (9 months)
+PRIMARY OBJECTIVES:
+
+I. To evaluate the antitumor activity of trametinib determined by overall response rate (ORR) in patients that are stratified into groups based on: biomarker positive (neuroblastoma RAS viral \[v-ras\] oncogene homolog \[NRAS\], v-Ki-ras2 Kirsten rat sarcoma viral oncogene homolog \[KRAS\], v-raf murine sarcoma viral oncogene homolog B1 \[BRAF\] mutated) and biomarker negative (without NRAS, KRAS, BRAF mutation).
+
+SECONDARY OBJECTIVES:
+
+I. To evaluate progression free survival (PFS) and duration of response (DOR) in the two stratified groups.
+
+II. To document ORR after the addition of GSK2141795 (Akt inhibitor GSK2141795) to trametinib in patients who have developed progressive disease or have achieved less than a partial response (PR) after 4 cycles of treatment.
+
+III. To evaluate PFS and DOR in patients receiving trametinib plus GSK2141795. IV. To evaluate the safety profile of trametinib with and without GSK2141795.
+
+TERTIARY OBJECTIVES:
+
+I. To explore the relationship between clinical response and pharmacodynamic (PD) markers.
+
+II. To explore the relationship between v-maf avian musculoaponeurotic fibrosarcoma oncogene homolog (MAF) expression as determined by quantitative polymerase chain reaction (qPCR), chromosomal abnormalities detected by florescence in situ hybridization (FISH), and clinical response.
+
+III. To explore the role of integrin beta7 as a biomarker of MAF expression. IV. To explore the relationship between objective clinical response as well as progressive disease and the tumor mutational profile.
+
+V. To explore mechanism of phosphatidylinositol 3 kinase (PI3K)/v-akt Murine Thymoma Viral Oncogene Homolog 1 (AKT) and retrovirus-associated deoxyribonucleic acid (DNA) sequence (RAS)-mitogen-activated protein kinase kinase (MEK)-mitogen-activated protein kinase 1 (ERK) activation and correlate these with clinical response and PD markers.
+
+IV. To explore the feasibility of extracting circulating free tumor DNA (cfDNA) from peripheral blood and detecting RAS and RAF mutations using cfDNA.
+
+OUTLINE:
+
+Patients receive trametinib orally (PO) once daily (QD) on days 1-28. Courses repeat every 28 days in the absence of disease progression or unacceptable toxicity. Patients with progressive disease or who achieve less than PR after 4 courses may also receive Akt inhibitor GSK2141795 PO daily on days 1-28.
+
+After completion of study treatment, patients are followed up for 4 weeks.

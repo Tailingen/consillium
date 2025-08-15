@@ -1,0 +1,20 @@
+iCare for Cancer Patients
+The purpose of this study is to use genomic information from individual patients to create simulation avatars that will be used to predict novel drug combinations with therapeutic potential.
+Myelodysplastic Syndromes|Acute Myeloid Leukemia|Acute Myelogenous Leukemia|Acute Lymphoid Leukemia|Leukemia, Acute Lymphoblastic|Multiple Myeloma|Myelofibrosis
+GENETIC: Molecular diagnostic testing
+Overall Response, The overall response rate (ORR) is defined as achieving a complete remission (CR), partial remission (PR), and/or hematological improvement based on 2006 International Working Group (IWG) criteria (Cheson, et al. Blood 2006)., Up to 5 years
+Number of patients with drug-related Grade 3 and Grade 4 adverse events, Toxicity will be assessed by the National Cancer Institute (NCI) Common Toxicity Criteria (CTC) v 4. Adverse event incidences will be compared to individual pharmacogenetic gene variants., Up to 5 years|Progression-free survival after treatment, The disease free survival will be analyzed using Kaplan-Meier method and comparisons made to computer predicted response., Up to five years|Overall survival after treatment, The overall survival will be analyzed using Kaplan-Meier method and comparisons made to computer predicted response., Up to 5 years
+As part of normal clinical care, subjects will undergo peripheral blood draws and biopsies for disease assessment of their cancer. In cases of hematological malignancies, bone marrow aspiration \& biopsy are routinely performed.
+
+As part of this project, the following will be done to the samples collected and with clinical outcomes data:
+
+* donate peripheral blood specimens whenever blood is already being drawn for clinical purposes.
+* donate bone marrow aspiration samples whenever a bone marrow aspiration procedure is already being done for clinical purposes.
+* donate saliva whenever blood draw is already being done for clinical purposes.
+* allow the investigators to perform gene mutation profiling.
+* allow the investigators to study gene mutation results.
+* allow the investigators to perform pharmacogenetic profiling.
+* allow the investigators to study pharmacogenetic profiles.
+* allow the investigators to examine chromosome copy number variations.
+* allow the investigators to examine genomic methylation.
+* allow the investigators to quantify metabolomics/cytokines.

@@ -1,0 +1,30 @@
+TAHP for Patients With HER2-positive Early Breast Cancer and Subsequent AHP Adjuvant tHerapy After Surgery
+This study was phase IB-II clinical trial that designed to evaluate the efficacy and safety of docetaxel + atezolizumab + Herceptin sc plus pertuzumab(TAHP) plus adjuvant therapy of atezolizumab + trastuzumab + pertuzumab(AHP) after surgery in female patients with HER2-positive early breast cancer.
+
+Adjuvant AHP (atezolizumab + Herceptin SC + pertuzumab) will be continued for remaining 1 year.
+
+For non-p CR patients, they are going to treat with 4 cycles of AC rather than Taxane only before AHP adjuvant therapy.
+HER2-positive Breast Cancer
+DRUG: TAHP and AHP|DRUG: TAHP plus AC and AHP
+Pathologic CR(pCR) rate of neo-adjuvant chemotherapy, pCR rate of neoadjuvant chemotherapy with the patients with HER2+ EBC, Pathologic Clinical response is perforemed after end of cycle 6 (each cycle is 21days).
+Event free survival(EFS), Event free survival of the patient with pCR vs. non-pCR, 3 years
+Adverse events will be measured by the CTCAE scale, version 5.0, safety and toxicity, 1 year
+A, Neoadjuvant setting); 6 cycles q3weeks, intravenous(IV) administration
+
+* Docetaxel (75mg/m2, intravenous(IV)) Day(D)1
+* Atezolizumab (1200mg, IV) D1
+* Herceptin sc (600mg subcutaneous(SC))D1
+* Pertuzumab (840mg loading dose at Cycle 1 followed by 420mg(IV))D1
+
+B, Adjuvant setting : 11-12 cycles q3weeks \[patients with pCR\]
+
+* Atezolizumab (1200mg, IV)
+* Trastuzumab (600mg, SC)
+* Pertuzumab (420mg, IV) D1
+
+\[patients with non-pCR\]
+
+* Doxorubicin(60mg/m2), cyclophosphamide (600mg/m2) D1 X 4cycles 3weeks
+* Atezolizumab (1200mg, IV)
+* Trastuzumab (600mg, SC)
+* Pertuzumab (420mg, IV) D1 X 11-12 cycles q3weeks

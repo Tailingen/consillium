@@ -1,0 +1,14 @@
+SERS-Based Serum Molecular Spectral Detection of Invasive Lung Cancer
+Surgery is the main treatment for early lung cancer. It is worth noting that there are significant differences in postoperative prognosis and surgical methods between microinvasive cancer and early-stage invasive cancer. Micro invasive lung cancer can achieve 100% long-term survival through surgical resection, without the need for postoperative adjuvant radiotherapy. There is no need to remove lung lobes during surgery, only segmental or wedge resection is required, and systematic lymph node dissection is not recommended. Therefore, accurate prediction of preoperative and intraoperative microinvasive cancer and invasive cancer in pulmonary nodules is crucial for patients to choose surgical methods, which can significantly affect postoperative lung function retention and overall survival.
+
+Raman spectroscopy (RS), as a non-invasive and highly specific molecular detection technique, can be obtained at the molecular level to sensitively detect changes in biomolecules composed of proteins, nucleic acids, lipids, and sugars related to tumor metabolism in biological samples. The surface enhanced Raman spectroscopy (SERS) developed based on this technology is one of the feasible methods for high-sensitivity biomolecule analysis.
+
+We collected serum Raman spectroscopy data from a cohort of 138 early lung cancer patients in our preliminary research. Based on a machine learning model, we constructed an early lung microinvasive cancer and invasive cancer Raman intelligent diagnosis system, which achieved an accuracy rate of 89.4%. To obtain the highest level of clinical evidence and truly achieve clinical translation, this prospective, multicenter clinical study aims to validate the use of this intelligent diagnostic system for early diagnosis of lung cancer and the discrimination between microinvasive cancer and invasive cancer.
+Lung Cancer Patients
+DIAGNOSTIC_TEST: Serum Raman spectroscopy intelligent diagnostic system
+Diagnostic accuracy, Determine whether there is hematogenous metastasis in enrolled lung cancer patients through RAMAN intelligent diagnostic system, through study completion, an average of 1 year|Time to RAMAN diagnosis, The time to perform RAMAN testing and obtain diagnostic results after obtaining serum, up to 30 days
+Safety assessment Results, AEs and SAEs through Day 30, up to 30 days
+1. Screening interested participants should sign the appropriate informed consent (ICF) prior to completion any study procedures.
+2. The investigator will review symptoms, risk factors, and other non-invasive inclusion and exclusion criteria.
+3. Completion of baseline procedures, participants were assessed for 30 days and completed all safety monitoring.
+4. After completing the baseline assessment and confirming enrollment, participants will be given 2ml of fasting venous blood.

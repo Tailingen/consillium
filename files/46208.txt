@@ -1,0 +1,33 @@
+Cisplatin and Radiation Therapy With or Without Carboplatin and Paclitaxel in Patients With Locally Advanced Cervical Cancer
+This randomized phase III trial studies how well giving cisplatin and radiation therapy together with or without carboplatin and paclitaxel works in treating patients with cervical cancer has spread from where it started to nearby tissue or lymph nodes. Drugs used in chemotherapy, such as cisplatin, carboplatin, and paclitaxel, work in different ways to stop the growth of \[cancer/tumor\] cells, either by killing the cells, by stopping them from dividing, or by stopping them from spreading. External radiation therapy uses high-energy x rays to kill tumor cells. Internal radiation uses radioactive material placed directly into or near a tumor to kill tumor cells. It is not yet known whether giving cisplatin and external and internal radiation therapy together with carboplatin and paclitaxel kills more tumor cells.
+Cervical Adenocarcinoma|Cervical Adenosquamous Carcinoma|Cervical Squamous Cell Carcinoma, Not Otherwise Specified|Stage IB Cervical Cancer AJCC v6 and v7|Stage IIA Cervical Cancer AJCC v7|Stage IIB Cervical Cancer AJCC v6 and v7|Stage IIIB Cervical Cancer AJCC v6 and v7|Stage IVA Cervical Cancer AJCC v6 and v7
+RADIATION: Brachytherapy|DRUG: Carboplatin|DRUG: Cisplatin|RADIATION: External Beam Radiation Therapy|DRUG: Paclitaxel|OTHER: Quality-of-Life Assessment
+Overall Survival Rate at 5 Years, Estimate for probability of overall survival at 5 years by Kaplan-Meier method, where overall survival is defined as the time from randomization to time of death due to any cause or the date of last contact, whichever occurs first., 5 years from study randomization
+Progression-free Survival Rate at 5 Years, Estimate for probability of progression free at 5 years by Kaplan-Meier method, where progression-free survival is defined as the time from randomization to the time of disease progression, death from any cause or date of last contact, whichever occurs first. Disease progression is defined by increasing clinical, radiological or pathological evidence of disease from participant entry to when investigator deems a progression. RECIST V1.0 was not used to determine response on this study., 5 years from study randomization|Number of Participants With Adverse Events (Grade 3 or Higher) in First Year, Number of participants with a maximum grade of 3 or higher for pre-specified adverse events that occurred during the first year after randomization. Adverse events are graded and categorized using CTCAE v4.0., 1 year after randomization|Patterns of Disease Recurrence, Number of patients for the site of disease recurrence. Disease was considered as persistent if participant had evidence of disease at study entry and disease did not progress during study. Disease status was considered locoregional alone if a participant had disease progression in the pelvis region including vagina after study entry. Disease status was considered distant if a participant had disease progression outside the pelvis (for example the abdomen and lung) after study entry. Criteria used to determine the no progression group includes participants that expired without documentation of progression., through study completion an average of 60 months|Radiation Protocol Compliance, Radiation protocol compliance measured by external beam dose delivered, Average duration of 7 weeks|Quality of Life for Global Health Status, Quality of Life measured by change of global health status score from baseline to 12 months follow-up. A cancer-specific questionnaire with 30 items which summarize as five functioning scales, a global health status/quality of life scale, three symptom scales and six single items assessing additional symptoms and perceived financial impact. The minimum global health status score was 0 and the maximum global health status score was 100. A higher global health status score means better outcome., Baseline and 12 months
+PRIMARY OBJECTIVES:
+
+I. To determine if the addition of adjuvant chemotherapy to standard cisplatin-based chemoradiation improves overall survival.
+
+SECONDARY OBJECTIVES:
+
+I. To determine the progression-free survival rates. II. To determine acute and long-term toxicities. III. To determine patterns of disease recurrence. IV. To determine the association between radiation protocol compliance and outcomes.
+
+V. To determine patient quality of life, including psycho-sexual health.
+
+TERTIARY OBJECTIVES:
+
+I. To determine the association between the results of a follow-up positron emission tomography (PET) scan performed 4-6 months post completion of chemoradiation and outcomes for all patients in the trial.
+
+II. To determine the biological predictors of patients' outcomes based on translational laboratory studies of blood and tissue specimens.
+
+OUTLINE: Patients are randomized to 1 of 2 treatment arms.
+
+ARM I: Patients receive cisplatin intravenously (IV) over 60-90 minutes on days 1, 8, 15, 22, and 29. Patients also undergo external-beam radiation therapy once daily, 5 days a week, for approximately 5 weeks. Patients then undergo high-dose rate, pulsed-dose rate, or low-dose rate intracavitary brachytherapy.
+
+ARM II: Patients receive cisplatin and undergo external-beam radiation and brachytherapy as in arm I. Beginning 4 weeks later, patients also receive adjuvant chemotherapy comprising paclitaxel IV over 3 hours and carboplatin IV over 1 hour on day 1. Treatment repeats every 21 days for 4 courses in the absence of disease progression or unacceptable toxicity.
+
+Patients may undergo baseline tumor biopsy and blood collection for future correlative studies.
+
+Patients complete the European Organization for Research and Treatment of Cancer (EORTC) Core questionnaire (QLQ-C30), the EORTC cervix cancer module (CX24), the ovarian cancer module (OV28), and the Sexual function-Vaginal Changes Questionnaire (SVQ) questionnaires at baseline, during, and after completion of study treatment.
+
+After completion of study treatment, patients are followed up every 3 months for 2 years and then every 6 months for 3 years.

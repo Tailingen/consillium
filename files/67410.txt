@@ -1,0 +1,33 @@
+Total Marrow and Lymphoid Irradiation and Chemotherapy Before Donor Transplant in Treating Patients With Myelodysplastic Syndrome or Acute Leukemia
+This phase I trial studies the side effects and best dose of total bone marrow and lymphoid irradiation when given together with chemotherapy before donor stem cell transplant in treating patients with myelodysplastic syndrome or acute leukemia. Total marrow and lymphoid irradiation is a type of radiation therapy that targets bone marrow and blood, where the cancer is, instead of applying radiation to the whole body. Stem cell transplants use high doses of chemotherapy and radiation therapy, such as total marrow and lymphoid irradiation, to kill cancer cells, but these treatments kill normal cells as well. After chemotherapy, healthy cells from a donor are given to the patient to help the patient grow new blood cells.
+Adult Acute Lymphoblastic Leukemia in Complete Remission|Acute Myeloid Leukemia in Remission|Previously Treated Myelodysplastic Syndrome|Recurrent Adult Acute Lymphoblastic Leukemia|Recurrent Adult Acute Myeloid Leukemia|Recurrent Childhood Acute Lymphoblastic Leukemia|Recurrent Childhood Acute Myeloid Leukemia|Childhood Acute Lymphoblastic Leukemia in Complete Remission
+PROCEDURE: Bone Marrow Transplantation|DRUG: Cyclophosphamide|DRUG: Fludarabine Phosphate|OTHER: Laboratory Biomarker Analysis|DRUG: Mycophenolate Mofetil|PROCEDURE: Peripheral Blood Stem Cell Transplantation|DRUG: Tacrolimus|RADIATION: Total Marrow Irradiation
+Incidence of dose-limiting toxicity (DLT) scored on both the Bearman Scale and National Cancer Institute Common Terminology Criteria for Adverse Events version 4.03, Toxicity information recorded will include the type, severity, and the probable association with the study regimen. Tables will be constructed to summarize the observed incidence by severity and type of toxicity., Up to 100 days|Maximum tolerated dose of TMLI when given in combination with fludarabine phosphate and cyclophosphamide, defined as the highest dose where 6 patients have been treated and at most one patient experiences DLT, Toxicity information recorded will include the type, severity, and the probable association with the study regimen. Tables will be constructed to summarize the observed incidence by severity and type of toxicity., Up to day -3
+Complete remission proportion, At day 30|Immune reconstitution of B, T and NK cells, Up to 1 year|Incidence of acute GVHD of grades 2-4 and 3-4, The cumulative incidence of relapse/progression, non-relapse mortality and acute/chronic GVHD will be calculated as competing risks., Within the first 100 days post-transplant|Incidence of chronic GVHD, The cumulative incidence of relapse/progression, non-relapse mortality and acute/chronic GVHD will be calculated as competing risks., After 180 days post-transplant assessed up to 5 years|Incidence of infection, Microbiologically documented infections will be reported by site of disease, date of onset, severity and resolution, if any., Up to day 100|Minimal residual disease, Up to 180 days post-transplant|Non-relapse mortality (NRM), The cumulative incidence of relapse/progression, non-relapse mortality and acute/chronic GVHD will be calculated as competing risks., Up to 5 years|Overall survival, Survival estimates will be calculated using the Kaplan-Meier method., Time from start of protocol therapy to death, or last follow-up, whichever comes first, assessed up to 5 years|Progression-free survival, Survival estimates will be calculated using the Kaplan-Meier method., Time from start of protocol therapy to death, relapse/progression, or last follow-up, whichever comes first, assessed up to 5 years|Incidence of grade 3-5 adverse events per CTCAE v4.03, Toxicity information recorded will include the type, severity, and the probable association with the study regimen. Tables will be constructed to summarize the observed incidence by severity and type of toxicity., Up to 100 days post-transplant
+PRIMARY OBJECTIVES:
+
+I. To establish safety and determine the maximum tolerated dose of total marrow and lymphoid irradiation when given in combination with fludarabine (fludarabine phosphate) and pre-post-transplant cyclophosphamide, as conditioning for haploidentical hematopoietic cell transplantation (HCT) in patients with high-risk acute lymphocytic or myelogenous leukemia or intermediate/high-risk myelodysplastic syndrome.
+
+II. To evaluate the safety of the regimen at each dose level by assessing adverse events: type, frequency, severity, attribution, time course, duration.
+
+III. To evaluate the safety of the regimen at each dose level by assessing complications: including acute/chronic graft-versus-host disease (GvHD), infection and delayed engraftment.
+
+SECONDARY OBJECTIVES:
+
+I. To estimate overall survival (OS), progression-free survival (PFS), cumulative incidence (CI) of relapse/progression, and non-relapse mortality (NRM) at +100 Days, 1 year and 2 years.
+
+II. To characterize minimal residual disease from bone marrow aspirates on Days +30, +100, +180 post-transplant and describe in relation to total marrow and lymphoid irradiation (TMLI) dose level and patient disease status.
+
+III. To describe the kinetics of immune cell recovery in the first year post-transplantation.
+
+OUTLINE: This is a dose-escalation study of TMLI.
+
+CONDITIONING: Patients undergo TMLI twice daily (BID) on days -7 to -4 or -3 (depending on the dose level). Patients also receive fludarabine phosphate intravenously (IV) on days -7 to -3 and cyclophosphamide IV on days -7, -6, 3, and 4.
+
+TRANSPLANT: Patients undergo bone marrow or peripheral blood stem cell transplant on day 0.
+
+GHVD PROPHYLAXIS: Patients receive tacrolimus\* IV once daily (QD) or orally (PO) BID on days 5-180. Patients also receive mycophenolate mofetil PO thrice daily (TID) or IV on days 5-35. Treatment with tacrolimus and mycophenolate mofetil may continue in the presence of active GVHD.
+
+\*NOTE: Patients intolerant of tacrolimus may receive cyclosporine.
+
+After completion of study treatment, patients are followed up twice weekly for 100 days, twice monthly until 6 months, monthly until the patient is off immunosuppressive therapy without evidence of GVHD, and then at least yearly for a total of 5 years.

@@ -1,0 +1,11 @@
+Tumor Growth Rate (TGR) Predicts Clinical Outcomes for Advanced Non-small Cell Lung Cancer Undergoing Immunotherapy.
+We hypothesized that TGR could serve as an early predictor of outcomes for aNSCLC patients undergoing immune checkpoint inhibitors (ICIs). A retrospective analysis was conducted to investigate the association of TGR with response and long-term survival of aNSCLC patients undergoing ICI therapy.
+Non-Small Cell Lung Cancer
+OTHER: This item is not applicable to our observational study.
+Overall survival of patients undergoing ICI monotherapy, Overall survival (OS) was defined as the time from immunotherapy initiation to death from any causes., From date of ICI treatment initiation until the date of death from any causes, assessed up to 100 months.
+Progression-free survival of patients undergoing ICI monotherapy., Progression-free survival was calculated from ICI initiation to radiologically-defined progression or death from any causes., From date of ICI treatment initiation until the date of first documented progression or date of death from any causes, whichever came first, assessed up to 100 months.
+Tumor growth rate (TGR) signifies percentage change in tumor size per month (%/m). Electronic medical records were retrospectively reviewed for all histologically confirmed aNSCLC patients undergoing anti-PD-1/PD-L1 therapy at Sun Yat-Sen University Cancer Center (SYSUCC) between August 2016 and June 2018.
+
+All response and outcome evaluation were determined as per RECIST 1.1 by two senior radiologists blinded to patients'information. Discrepancy was solved by consensus.
+
+X-tile software was used to determine cut-off values that maximumly differentiate overall survival (OS). Log-rank tests and Cox regression models were performed for survival analysis. The predictive value of TGR for clinical outcomes in ICI-treated aNSCLC patients was validated in two external cohorts, recruited form Guangdong Province Traditional Chinese Medical Hospital and Shanghai Chest Hospital.

@@ -1,0 +1,21 @@
+Stereotactic Ablative Radiotherapy for Early-stage Glottic Larynx Cancer
+This is a prospective study to determine the local control and quality-of-life outcomes of using SBRT for early-stage glottic larynx cancer.
+Glottic Carcinoma
+RADIATION: Radiation therapy
+Number of Patients With Local Failure Following SABR Treatment of Early Glottic Larynx Cancers, Local failure is defined as biopsy-proven tumor anywhere on the true vocal cords., 2 years
+Voice-quality Score Following Treatment With SABR, Voice Handicap Index (VHI) voice-quality score to monitor changes in self-perception of voice handicap before and after treatment.
+
+0-30 Mild Minimal amount of handicap 31-60 Moderate handicap 60-120 Severe handicap, From baseline to 2 years post-treatment|Number of Patients With Grade 3-5 Acute and Late Toxicities Following Treatment With SABR, Number of patients with grade 3-5 acute (start of treatment through 90 days from the completion of treatment) and late (after 90 days from the completion of treatment) adverse events, according to NCI's Common Terminology Criteria for Adverse Events (CTCAE) v4.0 toxicity criteria., 90 days, 3 years|Health-related Quality of Life Following Treatment With SABR., Average patient visual analogue scale score (derived from EQ-5D) at baseline, 6, 12, and 24 months from the end of treatment
+
+The Visual Analogue Score (VAS) of the EQ-5D is a visual scale from 0-100, with 100 being perfect health, where patients can mark their perceived health. Researchers can then take the average score across all patients for each timepoint., From baseline to 2 years post-treatment|Percentage of Participants With Locoregional Failure Following SABR With Death as a Competing Risk, Specifically, the 2-year cumulative risk of biopsy-proven recurrence anywhere in the larynx or neck following SABR. Recurrence in this context includes biopsy-proven cancer anywhere in the supraglottic, glottic, or subglottic larynx, as well as any malignant lymph node in the cervical or supraclavicular lymph nodes., 2 years|Overall Survival, Overall survival, 2 years|Percentage of Patient Population With Regional Failure and Distant Metastasis, With death and prior locoregional failure as competing risks, 2 years|Laryngectomy-free Survival, Laryngectomy-free survival probability at 2 years, 2 years
+SBRT treatment will be delivered to patients diagnosed with stage I-II glottic larynx cancer twice per week for 5 fractions (42.5 Gy cohort, low-risk) or daily for 16 fractions (58.08 Gy cohort, moderate-risk).
+
+Low-risk is defined by:
+
+* Planning target volume (PTV) less than 10 cc, AND
+* No reported smoking within 1 month from registration
+
+Moderate-risk is defined by:
+
+* Planning target volume (PTV) greater than or equal to 10 cc, OR
+* Smoking within 1 month from registration (no more than 1 pack per day)

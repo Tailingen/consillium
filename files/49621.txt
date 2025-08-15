@@ -1,0 +1,37 @@
+"Mechanisms and Biomarkers of Response and Resistance to Current Targeted Therapies in Gastric Cancer" (THERRES)
+The main aim was to assess the tumor vascular perfusion pattern in gastric cancer (GC). The investigators used dynamic contrast harmonic imaging endoscopic ultrasound (CHI-EUS) and the results were compared with the immunohistochemical expression of CD105 and clinico-pathological parameters.
+Gastric Cancer
+DIAGNOSTIC_TEST: Endoscopic ultrasound
+Correlations with statistical significance between time-intensity curve analysis parameters, immunohistochemical markers of angiogenesis and clinico-pathological parameters., The investigators expect to see correlations with statistical significance between immunohistochemical markers of angiogenesis (CD105), clinico-pathological and time-intensity curve (TIC) parameters :peak enhancement (PE), wash-in area under the curve (WiAUC), rise time (RT), mean transit time (mTTI), time to peak (TTP), wash-in rate (WiR), wash-in perfusion index (WiPI), wash-outAUC (WoAUC) and wash-in and wash-outAUC (WiWoAUC), fall time (FT), wash-out rate (WoR), quality of fit (QOF), region of interest area (ROI area)., 1 year
+The study design is prospective and will include patients with gastric tumors referred to Gastroenterology Department from University of Medicine and Pharmacy of Craiova for EUS local staging enrolled during 18 months.
+
+Data collected for each participant will include: Personal data (name, surname, age, sex); results from previous investigations (blood count, liver and renal function tests, tumoral markers, gastroscopy, computed tomography), EUS variables (including CEH-EUS), histological and immunohistochemical findings, TNM and pTNM status (if possible), molecular analysis findings.
+
+Imaging tests All patients will be evaluated by EUS and CEH-EUS, using radial EUS instruments. Prior to the investigation the stomach has to be empty for at least 8 hours. During the examination biopsies will be taken from normal and tumor tissue for gene expression analysis. For EUS examination, the patient will be placed in left lateral position. The EUS scope will be inserted under direct vision, passed by the tumor and examination should begin during withdrawal at 7.5 MHz. The tumor will be characterized describing its echogenicity, echostructure, size, extent into the wall and surrounding structures, and it will be staged using the modification of the TNM classification. The presence/absence of power Doppler signals will be noted. All lymph nodes will be reported with their maximal size, echogenicity, shape and margins. Nodes larger than 5 mm in diameter, with hypoechoic appearance, round shape (rather than ovoid or flat), sharply demarcated borders and located nearby the tumor will be suspected for malignancy.
+
+CEH-EUS procedure: A two panel image with the usual conventional gray-scale B-mode EUS image on the right side and with the contrast harmonic image on the left side will be used, according to pre-established presets. The examination will be performed at a low mechanical index (dynamic wide-band contrast harmonic imaging mode) of 0.2. The starting point of the timer will be considered the moment of intravenous contrast injection (SonoVue 2,4 mL), with the whole movie (T0-T120s) recorded on the embedded HDD of the ultrasound system for later analysis. Parameters for objective measurement of tumor perfusion will include maximum intensity of enhancement, mean transit time, time to peak (wash-in time), wash-in slope, area under the curve, representing indirectly blood flow or blood volume in GC patients.
+
+Complications may occur during EUS, but they are rare. These consist of bleeding at the biopsy site which is usually minimal, self-limited and rarely requires follow-up. Perforation of the stomach is extremely rare. The safety profile of the ultrasound contrast agent (Sonovue®) showed a very low incidence of side effects. It is not nephrotoxic and the incidence of hypersensitivity or severe allergic events is lower than with current X-ray agents and comparable to that of other magnetic resonance contrast agents. Sono-Vue is approved for clinical use in EU countries.
+
+The biological material collected during the study will be frozen and stored. This will include one ml of whole blood and 4 tissue biopsies (2 from normal tissue and 2 from the tumour) of 2 to 3 mm each. When the expected number of participants is reached, the samples will undergo molecular studies for assessing the markers of angiogenesis as detailed further in the protocol. The biological materials will be stored and analysed during an estimated time of 20 months from the start of the trial. Biopsy samples for immunohistochemistry will be included in formalin solution and sent at pathology laboratory.
+
+Molecular tests
+
+* Blood analysis. Whole blood (1ml) will be collected before imaging procedures in an Eppendorf tube on EDTA solution, placed immediately at 40C for maximum 24 hours, and then kept at - 800C for later analysis of angiogenic factors.
+* Biopsy samples of normal and GC tissue. Gene expression will be analyzed using qPCR with Taqman®- labeled probes. To quantify the results obtained by real-time RT-PCR the standard curve method will be used. The paired-samples will be collected in RNAlater (Ambion), stored at 40C for 12- 24 hours, and then kept at - 800C. Later analysis will assess the genes expression of angiogenic markers.
+
+Immunohistochemistry IHC will be focused of angiogenic markers: VEGF-A family and their receptors: VEGFR as well as tyrosine kinases receptors (RTKs).
+
+The VEGF-C expression in tumor samples (marker of lymphangiogenesis) will be quantified. Furthermore, a correlation between EUS findings (N stage) and VEGF-C expression will be established.
+
+The microvessel density (MVD) will be calculated using immunohistochemistry for CD105.
+
+Statistical analysis The estimated number of participants enrolled to the study is at least 50 during first 24 months. Both descriptive data analysis and statistical inference will be performed.
+
+Correlations between CE-EUS parameters and pathologic and genetic findings will be analyzed using the T-test and the Pearson correlation coefficient (r) for continuous data, while the Chi-square test will be applied for categorical data. One-way analysis of variance (ANOVA) will be performed for comparison between different subgroups (T stages). Survival analysis from the moment of diagnosis will be evaluated using Kaplan-Meyer curves. Traditional parameters as TNM stage, type of treatment will be analyzed. Statistical significance will be defined as a p-value less than 0.05.
+
+These minimal risks will be outweighed by the potential implications for future patient care.
+
+Research subjects will receive consent on behalf of written and oral information before inclusion in the study. The interview will cover detailed information, including an understandable presentation of the project with its predictable risks and side-effects, expected outcomes and benefits from the research.
+
+Any unplanned events or adverse effects will be reported immediately to the Regional Ethics Committee on biomedical research.

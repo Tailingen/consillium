@@ -1,0 +1,29 @@
+Dabrafenib With or Without Trametinib in Treating Patients With Recurrent Thyroid Cancer
+This randomized phase II trial studies how well dabrafenib works with or without trametinib in treating patients with recurrent thyroid cancer. Dabrafenib and trametinib may stop the growth of tumor cells by blocking some of the enzymes needed for cell growth. It is not yet known whether dabrafenib is more effective when given with or without trametinib in treating thyroid cancer
+Follicular Thyroid Cancer|Insular Thyroid Cancer|Papillary Thyroid Cancer|Recurrent Thyroid Cancer
+DRUG: dabrafenib|DRUG: trametinib|OTHER: Correlative Studies
+Overall objective response rate, defined as the proportion of patients who have a minor response (MR), partial response (PR), or complete response(CR)assessed according to RECIST., The MR+PR+CR response rate will be estimated for each treatment arm. In determining this rate, the number of patients with RECIST-based MR, PR or CR will be divided by the number of evaluable patients. All evaluable patients will be used for this analysis. Exact binomial 95% confidence intervals for the true PR+CR response rate will be calculated., up to 24 weeks
+Portion of patients with progression-free survival (PFS), The MR+PR+CR response rate will be estimated for each treatment arm. In determining this rate, the number of patients with RECIST-based MR, PR or CR will be divided by the number of evaluable patients. All evaluable patients will be used for this analysis. Exact binomial 95% confidence intervals for the true PR+CR response rate, From start of treatment to time of progression or death|Overall survival, The Kaplan-Meier method will be used to estimate overall survival. We will also evaluate the proportion of patients who are alive at one year., up to 4 weeks after study treatment|Number of patients with Adverse events of GSK2118436 (BRAFi) as a single agent and adverse events of GSK2118436 (BRAFi) and GSK1120212 (MEKi) in combination., Frequency and severity of adverse events in each of the treatment arms will be collected and summarized using descriptive statistics. The maximum grade for each type of toxicity will be recorded for each patient, and frequency tables will be reviewed to determine toxicity patterns. In addition, we will review all adverse event data that is graded as 3, 4, or 5 and classified as either "unrelated" or "unlikely to be related" to study treatment in the event of an actual relationship developing. The incidence of severe (grade 3+) adverse events or toxicities will be described., Up to 4 weeks after completion of study treatment|Tolerability of the regimens in terms of the number of patients who required dose modifications and/or dose delays., Tolerability of the regimen in each of the treatment arms will be collected and summarized using descriptive statistics. We will also capture the proportion of patients who go off treatment due to adverse reactions or even those who refuse further treatment for lesser toxicities that inhibit their willingness to continue participation on the trial. These tolerability measures will be assessed within each of the treatment arms and we will explore differences in these measures between the arms., Up to 4 weeks after completion of study treatment
+PRIMARY OBJECTIVES:
+
+I. To screen two different regimens (GSK2118436 \[BRAFi\] \[dabrafenib\] as a single agent versus the combination regimen of GSK2118436 \[BRAFi\] and GSK1120212 \[MEKi\] \[trametinib\]) and identify which regimen is more promising for subsequent testing in a phase III trial in radioiodine refractory BRAF-mutated differentiated thyroid cancer (DTC) patients.
+
+SECONDARY OBJECTIVES:
+
+I. To understand duration of objective response, progression-free survival and overall survival for each treatment group.
+
+II. To assess tolerability and adverse events of GSK2118436 (BRAFi) as a single agent and the tolerability and adverse events of GSK2118436 (BRAFi) and GSK1120212 (MEKi) in combination, in patients with DTC.
+
+III. To evaluate impact of experimental drugs on serum tumor marker thyroglobulin and its correlation with overall response rate.
+
+IV. To understand pharmacokinetic, pharmacogenetics and pharmacodynamics of experimental drugs using serial tumor biopsies, tumor blocks and peripheral blood.
+
+OUTLINE: Patients are randomized to 1 of 2 treatment arms.
+
+ARM I: Patients receive dabrafenib orally (PO) twice daily (BID) on days 1-28. Patients with disease progression may cross-over to arm II.
+
+ARM II: Patients receive dabrafenib PO BID and trametinib PO once daily (QD) on days 1-28.
+
+In both arms, courses repeat every 28 days in the absence of disease progression or unacceptable toxicity.
+
+After completion of study treatment, patients are followed up for 4 weeks.

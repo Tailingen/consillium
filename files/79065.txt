@@ -1,0 +1,22 @@
+A Phase 1b/2 Study of Alvocidib Plus Decitabine or Azacitidine in Patients With MDS
+Alvocidib, a cyclin-dependent kinase 9 (CDK 9) inhibitor, in time-sequential therapy demonstrated significant clinical activity in secondary AML patients with prior MDS. Patients with IPSS-R intermediate and above MDS have an increased risk of developing AML and may be treated with the same chemotherapy regimens used in patients with AML. Eight Phase I or II clinical trials have been completed in patients with AML, totaling more than 400 patients with both relapsed/refractory or newly diagnosed AML.
+
+Preclinical studies have demonstrated that decitabine exposure increased the expression of NOXA, which is a specific antagonist of the survival factor MCL 1. Pharmacologic downregulation of MCL-1 via CDK 9 inhibition, as well as upregulation of the MCL-1 antagonist, NOXA, following decitabine exposure may result in enhanced antileukemic activity in MCL-1-dependent malignancies.
+Myelodysplastic Syndromes (MDS)
+COMBINATION_PRODUCT: Alvocidib Plus Decitabine (during dose escalation only) or Azacitidine
+Number of Participants With Adverse Events and Serious Adverse Events, Assessment of safety of alvocidib administered in combination with either decitabine (DEC) or azacitidine (AZA) by reporting of adverse events and serious adverse events, From the time of first dose to 30 days after the last dose, an average of 33.7 weeks.|Tolerability of Alvocidib as Evaluated by Incidence of Dose Limiting Toxicities (DLTs) as Observed in Cycle 1, The DLTs are defined as follows based on the NCI CTCAE v5.0: Must be at least possibly related to Alvocidib; Any Gr 4 nonhematologic toxicity; Gr 3 nonhematologic toxicity that does not resolve to ≤Gr 2 in 48 hours; Gr 3 diarrhea, mucositis, nausea, or vomiting will be considered dose limiting only if resolution to ≤Gr 2 requires \>7 days; and ≥Grade 3 creatinine elevation that does not resolve to \<G2 within 7 days., Cycle 1 (28 days)
+Determination of the Complete Response Rate, The calculation for Complete Response Rate is as follows: complete response \[CR\] / complete response with incomplete blood count recovery \[CRi\] / CRmarrow / partial response \[PR\] / hematologic improvement \[HI\], From the date of first treatment, every 8 weeks, for the first 6 cycles, for an average of 26 weeks|Improvement in Transfusion Dependence, Determine if treatment with alvocidib administered in sequence after DEC or AZA resulted in improvements in transfusion dependence, Duration of study treatment up to 6 months
+PHASE 1b:
+
+Patients will be enrolled in cohorts of 3-6 patients. Escalation of the alvocidib dose will follow a standard 3+3 design with sequential cohorts of 3 patients treated with incrementally higher doses of alvocidib administered in sequence after decitabine (during dose escalation) or azacitidine until a dose-limiting toxicity (DLT) is observed and the MTD is established.
+
+Once the MTD or preliminary RP2D of alvocidib administered via hybrid dosing is identified, 2 cohorts of at least 3 patients each will receive azacitadine followed by alvocidib administered as a 30-60 minute IV infusion.
+
+Expansion at MTD Once the MTD or preliminary RP2D of alvocidib administered as a 30-to-60 minute IV infusion is determined, up to 25 patients will be enrolled in an Expansion cohort to receive alvocidib following azacitadine to confirm safety, explore potential biomarkers, and evaluate potential signals of alvocidib activity. Once this Expansion cohort is completed, the study will progress to Phase 2
+
+PHASE 2:
+
+Phase 2 design is based on the Simon 2-stage minimax design (Simon 1989).
+
+* Stage 1: Up to 15 evaluable patients will be enrolled and treated at the RP2D identified in the Phase 1b study.
+* Stage 2: Ten patients will be enrolled to bring the total enrollment in Phase 2 (including Stage-1 patients) to 25 evaluable patients. Stage-2 patients will also receive the RP2D dose of alvocidib administered by 30-to-60 minute IV infusion identified in the Phase 1b study. If 6 or more responses are observed in 25 patients, the conclusion will be that the combination regimen is worthy of further investigation.

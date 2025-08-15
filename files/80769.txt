@@ -1,0 +1,23 @@
+Safety and Efficacy of Venetoclax With Escalating Doses of Omacetaxine in Patients With Acute Myeloid Leukemia Safety and Efficacy of Venetoclax With Escalating Doses of Omacetaxine in Patients With Acute Myeloid Leukemia (AML)
+This will be a single arm, open label Phase Ib dose-escalation study of the combination of VEN and OM, conducted using an innovative Bayesian Optimal Interval-design, to find the MTD in participants with AML failing treatment with venetoclax-containing regimens. Treatment plan will consist of an induction phase, followed by a consolidation phase if applicable.
+Relapsed or Refractory Hematologic Malignancies
+DRUG: Omacetaxine|DRUG: Venetoclax
+Maximum tolerated dose (MTD) of Omacetaxine in combination with Venetoclax, What is the MTD of Omacetaxine in combination with Venetoclax?, 12 months
+Efficacy of Omacetaxine in combination with Venetoclax, Number of participants achieving Overall Response Rate (ORR) after 3 cycles which includes Complete Response (CR) and Complete Remission with Incomplete hematologic recovery (CRi ), 16 weeks|Evaluate AEs, Number of participants having treatment related AES using CTCAE v5.0 criteria, 12 months|Overall Survival (OS), Number of participants having OS measured from the date of entry to the date of death from any cause, 6 months|Overall Survival (OS), Number of participants having OS measured from the date of entry to the date of death from any cause, 12 months|Event Free Survival (EFS), Number of participants having EFS measured from the date of entry to the date of treatment failure, disease relapse, or death from any cause, 6 months|Event Free Survival (EFS), Number of participants having EFS measured from the date of entry to the date of treatment failure, disease relapse, or death from any cause, 12 months
+This is a Phase Ib study of VEN and OM, the investigator will conduct a Bayesian Optimal Interval-designed trial following the approach of Yuan et al 40 to find the MTD with a target DLT rate of 2%, 4 pre-specified doses, and between 24 and up to 30 participants. Beginning with the first participant treated at the lowest dose of OM 0.625 mg/m2 q12h with VEN 400 mg, dose escalation and de-escalation of OM will involve a comparison of the observed DLT rate (p) at the current dose with a pair of fixed, pre-specified boundary rates: λe (escalation) with p ≤ 0.157; λd (de-escalation) with p ≥ 0.238; or otherwise remain at the same dose per the dosing schedule. The trial will start with a cohort size of 1 participant (unless DLT is experienced) and escalated for each subsequent participant until the first DLT occurs and the current dose cohort is expanded to 3.40 In a simulation of these conditions with a target DLT rate of 20% (1), the percentage correct selection of the MTD is between 60% with enrollment of 20 participants and 70% with enrollment of 24 participants. Implementation of the trial design will be performed using R package 'BOIN'. If the investigator observes an unexpected toxicity in Cohort 1 the investigator will use OM 0.5 mg/m2 daily with VEN for Cohort -1 Following each cycle, participants will be evaluated for complete response (CR) by International Working Group (IWG) criteria 41
+
+The subject visit schedule and procedures are below:
+
+Screening Visit:
+
+Physical Exam (vital signs, medical history, prior therapies, height and weight) Urine Pregnancy Test, EKG, Blood Work (Complete blood count, (CBC), basic metabolic panel (BMP), Uric Acid, Albumin, ALT/AST, bilirubin, alkaline phosphatase, protein, LDH, PT/INR, PTT and fibrinogen, HIV, Hepatitis B/C) Bone Marrow Aspirate
+
+Treatment Visits:
+
+Day 1 of Each Cycle:
+
+Physical Exam Urine Pregnancy Test, EKG, (only after 1st, 7th and 11th dose of study medication) Blood Work (Complete blood count, (CBC), basic metabolic panel (BMP), Uric Acid, Albumin, ALT/AST, bilirubin, alkaline phosphatase, protein, LDH, PT/INR, PTT and fibrinogen, HIV, Hepatitis B/C) Study Drug (s) Given
+
+Day 28 of each Cycle:
+
+Bone Marrow Biopsy Safety Follow Up Visit: (14 days + 7 days after the last dose of treatment) performed 14 days (±7 days) after the last dose of treatment. Physical Exam, Blood Work (Complete blood count, (CBC), basic metabolic panel (BMP), Uric Acid, Albumin, ALT/AST, bilirubin, alkaline phosphatase, protein, LDH, PT/INR, PTT and fibrinogen, HIV, Hepatitis B/C) Long Term Follow Up Visit: (every 2 months ±14 days for 12 months), Physical Exam Blood Work (Complete blood count, (CBC), basic metabolic panel (BMP), Uric Acid, Albumin, ALT/AST, bilirubin, alkaline phosphatase, protein, LDH, PT/INR, PTT and fibrinogen, HIV, Hepatitis B/C)

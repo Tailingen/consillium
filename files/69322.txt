@@ -1,0 +1,33 @@
+Vaccine Therapy With or Without Recombinant Interleukin-12 Followed by Daclizumab in Treating Patients With Metastatic Melanoma
+This randomized phase II trial is studying how well giving vaccine therapy together with or without recombinant interleukin-12 followed by daclizumab works in treating patients with melanoma that has spread to other places in the body. Vaccines made from peptides or antigens may help the body build an effective immune response to kill tumor cells. Recombinant interleukin-12 may kill tumor cells by stopping blood flow to the tumor and by stimulating white blood cells to kill melanoma cells. Monoclonal antibodies, such as daclizumab, may decrease the number of regulatory T cells (T cells that suppress the activation of the immmune system) and may lead to a better immune response against melanoma. It is not yet known whether vaccine therapy is more effective with interleukin-12 and daclizumab in treating melanoma.
+Recurrent Melanoma|Stage IV Skin Melanoma
+BIOLOGICAL: NA17.A2 Peptide Vaccine|BIOLOGICAL: Recombinant MAGE-3.1 Antigen|BIOLOGICAL: Recombinant Interleukin-12|BIOLOGICAL: MART-1 Antigen|OTHER: Laboratory Biomarker Analysis
+Frequency of Vaccine-induced CD8+ T Cells Assessed by Enzyme-linked Immunospot (ELISPOT), Data before treatment and after 3 vaccines will be assessed using paired t-tests within each cohort as well as a two-sample t-test of the mean post-treatment levels between cohorts. Repeated measures analysis of variance or mixed effects models will be utilized to further characterize changes in the levels of circulating T cells over time., Up to 4 years|Absolute Number of CD4+CD25+FoxP3+ Regulatory T Cells From Peripheral Blood, Descriptive statistics and paired t-tests will be generated to describe the frequency and absolute number of CD4+CD25+FoxP3+ cells before and after daclizumab, and also at subsequent time points. Repeated measures of analysis of variance and mixed effects models will be used to further evaluate change in numbers over time, and to compare these changes between cohorts., Up to 4 years|Type and Grade of Toxicity Incidents Assessed by Common Toxicity Criteria Version 4.0 (CTCAE v4.0), Up to 4 years
+Progression-free Survival Assessed by Modified World Health Organization (WHO) Criteria, Median progression-free survival and the associated 95% confidence limits will be derived using the procedure described in Brookmeyer and Crowley.
+
+The criteria for progressive disease are 1) appearance of new lesions, 2) 25% increase in the sum of the product of the largest perpendicular diameters of the indicator lesions, or 3) reappearance of any tumor., Up to 4 years|Overall Survival Assessed by Modified WHO Criteria, Median overall survival and the associated 95% confidence limits will be derived using the procedure described in Brookmeyer and Crowley., Up to 4 years|Gene Expression Profiles, Gene cluster analysis will be performed using deoxyribonucleic acid (DNA)-Chip Analyzer (dCHIP) software and comparisons will be made before and after treatment in each individual patient, and between responders and non-responders. Attempts will be made to identify gene expression profiles that correlate with clinical outcome., Up to 4 years
+PRIMARY OBJECTIVES:
+
+I. To determine if admixture of IL-12 (recombinant interleukin-12) with vaccine emulsion will increase the frequency of vaccine-induced cluster of differentiation (CD)8+ T cells in the blood.
+
+II. To determine if administration of daclizumab will deplete CD4+CD25+ regulatory T cells from the peripheral and potentiate specific immune responses induced by vaccination.
+
+III. To determine if vaccination +/- daclizumab will be safe in this patient population.
+
+SECONDARY OBJECTIVES:
+
+I. To determine if vaccination +/- daclizumab will have clinical activity in patients with advanced melanoma.
+
+II. To determine if clinical response may be associated with particular gene expression profiles in the tumor microenvironment.
+
+OUTLINE: Patients are randomized to 1 of 2 treatment arms.
+
+ARM I: Patients receive multipeptide vaccination comprising recombinant MAGE-3.1 antigen, MART-1 antigen, gp100 antigen, and NA17-A2 peptide emulsified with Montanide ISA-51 intradermically (ID) or subcutaneously (SC) on days 1, 22, and 50.
+
+ARM II: Patients receive vaccination as in arm I with an admixture of recombinant interleukin-12 (IL-12) on days 1, 22, and 50.
+
+In both arms, patients are evaluated for immune response. Patients with partial response or stable disease may be immunized for up to a maximum of 1 year. Patients with complete response may be treated with 1 additional course of 3 vaccinations.
+
+EXPANDED COHORT: Additional patients are accrued to the arm with higher immune response and receive daclizumab IV over 15 minutes on day -7. Patients then receive vaccination as in arm I or arm II on days 1, 22, and 50 in the absence of disease progression or unacceptable toxicity.
+
+After completion of study therapy, patients are followed up every 8 weeks until disease progression and then at least every 3 months thereafter.

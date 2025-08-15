@@ -1,0 +1,53 @@
+Multicenter Trial for Eliminating Breast Cancer Surgery or Radiotherapy in Exceptional Responders to Neoadjuvant Systemic Therapy
+This clinical trial studies eliminating surgery and how well radiation therapy after systemic therapy works in treating patients with HER2 positive or triple negative breast cancer when image-guided biopsy shows no residual cancer. Patients then receive standard breast radiotherapy.
+Estrogen Receptor Negative|HER2 Positive Breast Carcinoma|HER2/Neu Negative|Invasive Breast Carcinoma|Progesterone Receptor Negative|Stage I Breast Cancer AJCC v7|Stage IA Breast Cancer AJCC v7|Stage IB Breast Cancer AJCC v7|Stage II Breast Cancer AJCC v6 and v7|Stage IIA Breast Cancer AJCC v6 and v7|Stage IIB Breast Cancer AJCC v6 and v7|Triple-Negative Breast Carcinoma
+RADIATION: Undergo EBRT|OTHER: Laboratory Biomarker Analysis|OTHER: Quality-of-Life Assessment|OTHER: Questionnaire Administration|RADIATION: Partial Breast Irradiation
+Ipsilateral breast tumor recurrence-free survival (IBT-RFS), Will monitor IBT-RFS using the method of Thall et al. Will be estimated using the Kaplan-Meier method log-rank test will be performed to test the difference in time-to-event distributions between patient groups. Cox proportional hazards model will be used to include multiple covariates in the time-to-event analysis., From confirmation of pathologic complete response (pCR) to the time of ipsilateral breast tumor recurrence or death, whichever occurs first or the time of last contact, assessed for up to 10 years|Overall survival, Will be estimated using the Kaplan-Meier method log-rank test will be performed to test the difference in time-to-event distributions between patient groups. Cox proportional hazards model will be used to include multiple covariates in the time-to-event analysis., Up to 10 years
+Change in biomarkers in blood and plasma, Biomarkers in blood and plasma, specifically CTC and cDNA, will be assessed by exploratory data analysis and graphical methods, which will be applied to examine distributions and to identify data errors and outliers. Linear mixed effect models for repeated measures analysis will be employed to assess the change of the data over time with multi-covariates including disease characteristics (tumor stage, site, pathology), and other patient prognostic factors., 3 months, 3-8 weeks post radiation therapy (if applicable), 6 months, 12 months]|Residual cancer burden (RCB), Will be assessed by biopsy and routine surgery. Descriptive statistics will be used. The final biopsy will be compared with the response status determined by routine pathologic examination of surgery specimens using McNemar test., Up to 10 years|Incidence of ipsilateral breast and nodal recommendation and performance of biopsy based on breast imaging follow-up, Multivariable logistic regression analysis using generalized estimating equations to take the intra-patient correlation into account will be used to determine factors significantly associated with the outcome., Up to 10 years|Quality of Life measured by DRS questionnaire, The Decisional Regret Scale (DRS) questionnaire will assess the decisional comfort of the clinical trial participant.
+
+Question answers range : Strongly Agree, Agree, Neither Agree Nor Disagree, Disagree, or Strongly Agree, Baseline, 6 months, 12 months, 36 months, 60 months, 84 months, and 120 months]|Quality of Life measured by BCTOS questionnaire, The Breast Cancer Treatment Outcome Scale (BCTOS) will assess patient-reported cosmetic outcome, breast pain, and functional status by comparing the affected breast with her unaffected breast., Baseline, 6 months, 12 months, 36 months, 60 months, 84 months, and 120 months]|Quality of Life measured by FACT-B+4 questionnaire, The FACT-B+4 will assess the general quality of life of the patient., Baseline, 6 months, 12 months, 36 months, 60 months, 84 months, and 120 months]
+PRIMARY OBJECTIVES:
+
+I. Cohort A1 and A2: To determine the 6 mo, 1, 2, 3, 5, 7, and 10 year biopsy confirmed ipsilateral breast tumor recurrence rate (IBTR, invasive and/or in situ) among patients who do not undergo surgery.
+
+II. Cohort B: To determine the pCR rate 6 or 12 months after radiation therapy based on image-guided biopsy.
+
+III. Cohort C: To determine the 6 mo, 1, 2, 3, 5, 7 and 10-year ipsilateral breast tumor recurrence rate among patients who undergo surgery alone without radiation.
+
+SECONDARY OBJECTIVES:
+
+I. Cohort B: To determine the 6 mo, 1, 2, 3, 5, 7 and 10--year biopsy confirmed ipsilateral breast tumor recurrence rate (IBTR, invasive and/or in situ) among patients who do not undergo surgery.
+
+II. To determine the number (%) of patients where final biopsy reveals residual disease and quantify the residual disease (residual cancer burden, RCB) determined by routine pathologic examination of surgery specimens.
+
+III. To assess baseline, 6 months, 1, 3, 5, 7, and 10 years decisional comfort of clinical trial participation using the Decisional Regret Scale (DRS).
+
+IV. To determine patient-reported cosmetic outcome, breast pain, and functional status using the Breast Cancer Treatment Outcomes Scale (BCTOS) at baseline, 6 months, 1, 3, 5, 7, and 10 years.
+
+V. To determine the 6 mo, 1, 2, 3, 5, 7, and 10 years incidence of ipsilateral breast and nodal recommendation and performance of biopsy based on breast imaging follow-up.
+
+VI. Correlate "liquid biopsy" analyses (after standard routine NST, 6 months and one year post-radiotherapy or surgery) among protocol participants with pCR, utilizing circulating tumor cells (CTCs) and circulating tumor-DNA (ctDNA).
+
+VII. Among patients who decide to proceed with routine surgery, record the results of final biopsy compared with routine pathologic examination of surgery specimens.
+
+VIII. To determine patient-reported quality of life using the FACT B+4 instrument at baseline, 6 months, 1, 3, 5, 7, and 10 years after treatment.
+
+IX. To explore if radiation genomic sensitivity scores and Oncotype performed on the initial diagnostic core biopsy specimen correlate with pCR rates in Cohort B.
+
+X. To determine if changes in blood-based RNA Sequencing are elicited with radiation in Cohort B, measured at baseline, at the first 4-6 week follow-up after radiation, and at the 6 month post-radiation follow-up.
+
+XI. In Cohort B to determine the 3-year rate of tumor control/ progression free survival (PFS).
+
+XII. In Cohort C/D to determine whether nanomechanical biomarkers or quantification of stromal and tumor TILS can predict for low risk of local recurrence in exceptional responders who omit radiation therapy.
+
+XIII. In Cohorts A/B/C/D: To record 6 mo, 1, 2, 3, 5, 7, and 10 year breast cancer disease-free and overall survival.
+
+XIV. In Cohort D: Correlate nanomechanical biomarker analyses with pCR and/or local recurrence in patients with triple negative or her-2 positive breast cancer treated with lumpectomy +/- radiation.
+
+OUTLINE:
+
+For Cohorts A, within 12 weeks of completing neoadjuvant systemic therapy, patients undergo whole breast irradiation over 15-25 fractions on consecutive days. Patients then undergo external beam radiation therapy (EBRT) boost over 7 fractions on consecutive days beginning the day following completion of whole breast irradiation.
+
+For Cohort B, patients will receive 3 months of neoadjuvant endocrine therapy, after which they will receive ablative partial breast irradiation over 5 fractions. Patients will then continue with endocrine therapy.
+
+After completion of study treatment, patients are followed up every 6 months for 10 years.

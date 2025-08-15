@@ -1,0 +1,15 @@
+Study Comparing Early and Late Nutrition in Cancer Patients Undergoing Abdominal Surgery
+The aim of this study is to find which is the best nutritional strategy in cancer patients undergoing abdominal surgery regarding postoperative complications.
+Cancer|Abdominal Surgery|Parenteral Nutrition
+DIETARY_SUPPLEMENT: Early parenteral nutrition|DIETARY_SUPPLEMENT: Late parenteral nutrition
+Clinical complications, respiratory, cardiovascular, renal, neurological, infectious, surgical, 30 days
+Mortality, 30-day mortality, 30 days|Length of stay in ICU and in hospital, Length of stay, 30 days|ICU readmission rate, ICU readmission rate, 30 days|Duration of pharmacologic hemodynamic support, duration of vasopressor therapy, 30 days|Levels of C-reactive protein, serum levels of C-reactive protein, 7 days|Duration of mechanical ventilation, Duration of invasive mechanical ventilation, 30 days|Liver dysfunction, liver dysfunction according SOFA, 30 days
+There is a controversy regarding the timing of initiation of parenteral nutrition in cancer patients undergoing abdominal surgery in whom caloric targets cannot be met by enteral nutrition alone.
+
+This is a randomized and controlled trial comparing early initiation with late initiation of parenteral nutrition.
+
+Early-initiation group: patients will be randomized to initiate parenteral nutrition in the 2nd day after surgery.
+
+Late-initiation group: patients will be randomized to initiate parenteral nutrition in the 7th day after surgery.
+
+Calculations regarding the caloric goal included protein energy and were based on corrected ideal body weight, age and sex. When oral or enteral nutrition covered 80% of the calculated caloric goal, parenteral nutrition was reduced and progressively stopped.

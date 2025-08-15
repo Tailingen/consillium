@@ -1,0 +1,20 @@
+Factors Affecting Rehabilitation Time for Postoperative Complications Among Breast Cancer Patients
+Breast cancer patients who had undergone surgery, chemotherapy and radiotherapy suffered from complications, including shoulder stiffness, lymphedema and scar contracture. These symptoms impaired one's ADL function. Rehabilitation may relieved symptoms. However, it is difficult to estimate how long one should receive rehabilitation. The study is trying to establish a machine-learning based model in order to predict the period of rehabilitation.
+Breast Cancer
+PROCEDURE: therapies for breast cancer
+the rehabilitation time, total post-operation rehabilitation time (minute), since the first session of rehabilitation until one year after the last session
+Breast cancer survivors suffered from complications after surgery, chemotherapy and radiotherapy. These complications include shoulder stiffness, upper limb lymphedema and scar contracture, which altogether impaired one's ADL function. Rehabilitation had been approved to relieved these symptoms effectively. However, many factor may interfere the patient's participation of rehabilitation, making it difficult to estimate how long one should receive rehabilitation. In Taiwan, National Health Insurance provides affordable, accessible and unlimited health care and medical service for all citizens, eliminating many social-economic barriers. Thus we are trying to establish a machine-learning based model in order to predict the period of rehabilitation.
+
+Our study is a retrospective case-control study. The objectives are breast cancer survivors who attended post-surgery rehabilitation at least once for complications. The following data are collected from e-HIS system:
+
+1. Patient characteristic: age, unilateral or bilateral cancer.
+2. Surgery type: total, partial or simple mastectomy.
+3. Lymphatic surgery: ALND and SLNB
+4. Other surgical procedure: breast reconstruction, flap surgery.
+5. Combined therapy: chemotherapy, radiotherapy or hormone therapy.
+6. Complications: shoulder stiffness, lymphedema, scar contracture (ex., Axillary web syndrome), neurological deficit.
+7. The first between operation and first time of rehabilitation.
+
+The primary outcome is the total rehabilitation time, which will be divided as short term (less than 360 min) and long time (more than 360 min).
+
+The data will be processed using WEKA and machine learning algorithms, including Logistic regression, supportive vector machine, K-nearest neighbors, decision tree and random forest.

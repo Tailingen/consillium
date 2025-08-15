@@ -1,0 +1,27 @@
+Positron Emission Tomography (PET) Guided Stereotactic Body Radiation Therapy for the Treatment of Oligoprogressive Non-small Cell Lung Cancer, Melanoma, and Renal Cell Carcinoma
+This phase II trial tests the safety of positron emission tomography (PET) guided stereotactic body radiation therapy (SBRT) and how well it works to treat non-small cell lung cancer (NSCLC), melanoma, and renal cell carcinoma (RCC) that has up to 5 sites of progression (oligoprogression) compared to standard SBRT. SBRT uses special equipment to position a patient and deliver radiation to tumors with high precision. This method may kill tumor cells with fewer doses over a shorter period and cause less damage to normal tissue. A PET scan is an imaging test that looks at your tissues and organs using a small amount of a radioactive substance. It also checks for cancer and may help find cancer remaining in areas already treated. Using a PET scan for SBRT planning may help increase the dose of radiation given to the most resistant part of the cancer in patients with oligoprogressive NSCLC, melanoma, and RCC.
+Lung Non-Small Cell Carcinoma|Malignant Solid Neoplasm|Melanoma|Renal Cell Carcinoma
+PROCEDURE: Biospecimen Collection|PROCEDURE: Computed Tomography|PROCEDURE: Positron Emission Tomography|OTHER: Questionnaire Administration|RADIATION: Stereotactic Body Radiation Therapy
+Feasibility and safety of positron emission tomography (PET) adaptive stereotactic body radiation therapy (SBRT), Feasibility and safety of biologically-guided adaptive planning based on the standardized uptake value (SUV) on pre-treatment and inter-fraction FDG-PET/CT to guide SBRT dose-escalation with a simultaneous integrated boost (SIB) delivered to areas of higher activity in patients with oligoprogressive (1-5 sites) disease when compared to the current standard SBRT planning without inter-fraction adaptive planning, with the goal of demonstrating that PET-adaptive inter-fraction planning can improve total dose delivered over the course of treatment. We will be measuring the difference in total radiation dose in Gy between the two arms with the goal of achieving an absolute dose of 10 Gy or higher., At completion of SBRT up to 5 weeks
+Time to progression, Defined as time of randomization to disease progression at any site or death. Assessed using the modified Response Evaluation Criteria in Solid Tumors (mRECIST)., Up to 12 months|Time to next systemic therapy, Up to 12 months|Overall survival, Up to 12 months|Quality of life (QOL), Patient reported outcomes using the Functional Assessment of Cancer Therapy - G. Baseline changes in reported QOL will be summarized. Repeated QOL assessments will be tabulated and graphically displayed to describe the changes of QOL outcomes over time, no formal hypothesis testing is planned. An evaluation by dose, response and other characteristics may also be considered. For quantitative QOL scales, data will be represented using means/ medians, histogram/ boxplots. The area under curve will be used as a summary score for each patient. These can then be averaged across groups for informal assessment. Standard imputation methods will be used to deal with a large proportion of missing data., Up to 12 months|Incidence of adverse events, Clinician documented toxicity using common terminology for adverse events version 5., At 3, 6, and 12 months following radiation therapy|Local control rates, Assessed using the mRECIST., Up to 12 months|Dose delivered, Defined as the dose delivered in the experimental group for the first 3 fractions versus the dose given for the last 2 fractions., Up to 12 months
+PRIMARY OBJECTIVE:
+
+I. PET adaptive SBRT is both feasible and safe and allows for a higher total dose of radiation through an inter-fraction simultaneous integrated boost (SIB) based on inter-fraction PET uptake, leading to improved local control outcomes compared to current standard SBRT planning without a SIB.
+
+SECONDARY OBJECTIVES:
+
+I. Determine the duration of local and distant control followed PET adaptive SBRT treatment compared to standard external beam radiation therapy (EBRT).
+
+II. Evaluate the utility of measuring circulating tumor deoxyribonucleic acid (DNA) (ctDNA) before, during and after SBRT in conjuction with biological imaging to assess early disease response.
+
+III. Identify genomic predictors to predict for distant progression. IV. Determine durability of current systemic therapy with SBRT to oligoprogressive sites.
+
+EXPLORATORY OBJECTIVES:
+
+I. Biomarker changes based on ctDNA before, during and after treatment. II. Changes in fludeoxyglucose (FDG) uptake with SBRT and combined checkpoint inhibitor during and after treatment and correlation with local and distant control.
+
+OUTLINE: Patients are randomized to 1 of 2 arms.
+
+ARM I: Patients undergo 5 SBRT treatments every other day on study. Patients also undergo computed tomography (CT) or PET/CT and blood collection throughout study.
+
+ARM II: Patients undergo 3 SBRT treatments every other day week 1, undergo PET/CT and replanning one month post SBRT, then undergo 2 additional treatments with SIB on study. Patients also undergo CT or PET/CT and blood collection throughout study.

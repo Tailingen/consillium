@@ -1,0 +1,30 @@
+Prospective Cohort With Clinic-biologic Database of Patients Treated by Immunotherapy
+ImmuCCo-1905 is a monocentric interventional study on patients treated by immunotherapy, which consist in establishment of a prospective clinic-biologic database over 5 years, associated with a biobank. This database will allow carrying out works aiming at assessing immunotherapy in real life situation.
+Solid Tumor, Adult
+OTHER: ImmuCCo Cohort
+Number of patients treated by immunotherapy and registered in the database., Number of patients treated by immunotherapy and registered in the database, 5 years
+Overall Survival, Time between date of start of immunotherapy to date of death whatever the cause. Patients alive at last follow-up will be censored., 6 years|Progression-Free Survival, Time between start of immunotherapy to date of disease progression or death whatever the cause. Alive, non-progressive patients at last follow-up will be censored., 6 years|Tumor response, Tumor response will be based on the first tumor assessment performed during the immunotherapy. Objective response according to iRECIST (Response Evaluation Criteria in Solid Tumours for immunotherapy) criteria will be defined at the first tumor assessment and during the course of the treatment, meaning until disease progression of start of another systemic treatment.
+
+Responses will be: Complete response (iCR), partial response (iPR), stability (iSD), progression, or pseudo-progression. Confirmed progressive disease (iCPD) will be distinguished from pseudo-progression (iUPD) according to control images. Hyper-progression will be defined as a progression according to iRECIST criteria and a doubling of tumor growth rate.
+
+A prolonged tumor response will be defined as a progression free survival duration at least 3 time superior to median duration of progression free survival of patients of the study presenting the same disease., 6 years|Co-medications, All comedications given during the course of the study will be compiled, 6 years|Toxicity of immunotherapy, All Adverse events occuring from the start of the immunotherapy to the follow-up performed on year after the end of the immunotherapy will be notified, whatever the grade and the relationship with immunotherapy, apart from those undoubtfully related to the disease or the progression of the disease.The AE will also be notified in case of start of a second line of treatment, apart from thos undoubtfully related to this second line of treatment. The main analysis will be done on AE potentially related to immunotherapy. The relationship will be evaluated by a medical expert of immunotherapy. AE will be graded according to CTCAE v5.0 classification. Patients who received less than 4 doses will be considered non-evaluable for this outcome apart from those who discontinued treatment because they had a toxicity. Each AE with a grade \> 2 and/or leading to treatment discontinuation will be considered as severe., 6 years
+The aim of this study is to establish a prospective clinic-biologic database of patients treated by immunotherapy. This database will allowed to carry out works (such as translational research) aiming at assessing immunotherapy in real life situation.
+
+Other objectives of the study include:
+
+* Describe overall survival, progression-free survival, response to immunotherapy (in particular hyper-progression, pseudo-progression) considering the first tumor assessment and the best response, prolonged response
+* Identifying prognostic factors of overall survival, progression-free survival, hyper-progression, best response under immunotherapy
+* Describe AEs (Adverse Events) potentially associated with immunotherapy, their kinetics of appearance, from the start of treatment and after the end of treatment in order to assess the risk of delayed appearance
+* To identify factors associated with increased risk of severe adverse event (grade \> 2 or leading to end of treatment) potentially related to immunotherapy, from the beginning of immunotherapy to 1 year after this start of the treatment, in patients who received at least 4 doses or who stopped the treatment earlier (before 4 doses) due to toxicity.
+* Identifying delayed adverse events potentially related to immunotherapy, occurring between 90 days and 1 year after the treatment discontinuation, in patients who received at least 4 doses or who stopped the treatment earlier (before 4 doses) due to toxicity.
+* To identify and describe rare toxicities
+* To evaluate the association between co-medications and disease evolution
+* To evaluate the association between co-medications and toxicities occurrence
+
+Translational research objectives:
+
+* To identify biomarkers that might be associated with tumor response and/or toxicity of immunotherapy from:
+
+  * Establishment of serum and plasma bank which will be used for diverse works;
+  * A systematic analysis of the lymphocyte profile
+* To study the impact of tabagism on efficacy and toxicity of immunotherapy from systematic collection of urinary cotinine.

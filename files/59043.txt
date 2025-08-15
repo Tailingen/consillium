@@ -1,0 +1,43 @@
+HIF-2 Alpha Inhibitor PT2385 in Treating Patients With Recurrent Glioblastoma
+This phase II trial studies how well HIF-2 alpha inhibitor PT2385 works in treating patients with recurrent glioblastoma. HIF-2 alpha inhibitor PT2385 may stop the growth of tumor cells by blocking some of the enzymes needed for cell growth.
+Recurrent Glioblastoma
+DRUG: HIF-2alpha Inhibitor PT2385|OTHER: Pharmacological Study|OTHER: Laboratory Biomarker Analysis|OTHER: Pharmacogenomic Study
+Tumor Radiographic Response as Assessed by the RANO Criteria, Tumor radiographic response assessed by Response Assessment in Neuro-Oncology (RANO) criteria.
+
+* Complete Response (CR) = no change in size of T1-gadolinium-enhancing (T1-Gd+) disease, stable or reduced T2/FLAIR signal, no new lesion, no corticosteroid use, and stable or improved clinical status
+* Partial Response (PR) = ≥50% change in size of T1-Gd+ disease, stable or reduced T2/FLAIR signal, no new lesion, stable or reduced corticosteroid use, and stable or improved clinical status
+* Stable Disease (SD) = \<50% reduction to \<25% increase size of T1-Gd+ disease, stable or reduced T2/FLAIR signal, no new lesion, stable or reduced corticosteroid use, and stable or improved clinical status
+* Progressive Disease (PD) = ≥25% increase size of T1-Gd+ disease, or increased T2/FLAIR signal, or presence of new lesion, or worsening clinical status., Up to 2 years
+Progression-free Survival (PFS), PFS (in months) will be estimated using Kaplan-Meier method along with 95% confidence interval. Definition of PFS is date treatment started to the date of progression., Assessed up to 2 years|Overall Survival, Overall survival (in months) will be estimated using Kaplan-Meier method along with 95% confidence interval., From the date of treatment start to the date of death occurrence/or censored at the time of last known alive, assessed up to 2 years|Incidence of Grade 3 and Grade 4 Adverse Events, Number of participants experiencing grade 3 and grade 4 adverse events assessed by National Cancer Institute Common Terminology Criteria for Adverse Events version 5.0., Up to 1 year
+Pharmacokinetics (Cmin) for PT2385, Minimum concentration (Cmin) on Day 15 of cycle 1.
+
+* Cycle 1, Week 1, Day 1, Pre-dose 1: within 15 minutes prior to dose
+* Cycle 1, Week 1, Day 1, 6 Hours Post-dose 1: 6 hours +/- 15 minutes post-dose
+* Cycle 1, Week 3, Day 15, Pre-dose 1: within 30 minutes prior to dose, Day 15 cycle 1|Pharmacokinetics for PT2385 Drug Exposure, Drug exposure levels in 3 groups: Cmin \>1000ng/mL; Cmin: 300-1000 ng/mL and Cmin \<300ng/mL, Day 15 cycle 1|Determine Association Between Baseline Tumor Acidity and PT2385 (Imaging), Baseline Tumor acidity was measured using pH-weighted amine chemical exchange saturation transfer (CEST) MRI contrast on the Magnetic Resonance Imaging R\^2 = "reversible transverse relaxation rate" (and is proportional to oxygen extraction and thus hypoxia).
+
+MTR = MTRasym "the asymmetry in the magnetization transfer ratio at 3ppm from water" (and it is a surrogate of tumor acidity (MTR) pH quantitative measure of the acidity or basicity (pH) of aqueous or other liquid solutions. Lower pH values correspond to solutions which are more acidic in nature, while higher values correspond to solutions which are more basic or alkaline.
+
+Exp = exposure Acid = Acidity Perit Tiss = Peritumoral Tissue Enh Tum = Enhancing Tumor DurTx = Duration treatment, At baseline
+PRIMARY OBJECTIVES:
+
+I. To estimate the efficacy of hypoxia inducible factor (HIF)-2 alpha inhibitor PT2385 (PT2385) as measured by radiographic response rate (by Response Assessment in Neuro-Oncology, RANO, criteria) in patients with recurrent glioblastoma.
+
+SECONDARY OBJECTIVES:
+
+I. To estimate the efficacy of PT2385 as measured by progression free and overall survival in patients with recurrent glioblastoma.
+
+II. To determine the safety of oral PT2385 in patients with recurrent glioblastoma.
+
+TERTIARY OBJECTIVES:
+
+I. To describe the pharmacokinetic and pharmacodynamic properties of PT2385 in patients with recurrent glioblastoma.
+
+II. To describe baseline intratumoral hypoxia using novel, advanced magnetic resonance (MR)-based neuroimaging sequences in patients with recurrent glioblastoma.
+
+III. To explore genetic polymorphisms involved in the metabolism of PT2385.
+
+OUTLINE:
+
+Patients receive HIF-2 alpha inhibitor PT2385 orally (PO) twice daily (BID) on days 1-28. Courses repeat every 28 days in the absence of disease progression or unacceptable toxicity.
+
+After completion of study treatment, patients are followed up every 2 months for 2 years and every 6 months thereafter.

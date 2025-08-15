@@ -1,0 +1,15 @@
+Phase II Trial to Correlate Radiographic Response Induced By Gefitinib With Mutations in the Protein-Tyrosine Kinase Domain of the EGF Receptor Gene
+The purpose of this research study is to:
+
+* see if gefitinib pills can shrink Stage 1 or 2 non-small cell lung cancers before surgery
+* see if your non-small cell lung cancer has a mutation in a certain part of the EGFR gene
+* see if patients whose tumor does shrink with gefitinib treatment are more likely to have a mutation in a certain part of the EGFR gene
+* see if the pattern of protein expression in the blood is related to the tumor's sensitivity or resistance to gefitinib treatment.
+* see if expression of certain genes in the tumor are related to the tumor's sensitivity or resistance to gefitinib treatment.
+Lung Cancer|Non-small Cell Lung Cancer|Bronchioloalveolar Cancer
+DRUG: Gefitinib
+The Radiographic Response to Gefitinib, Radiographic response is defined as a minor response ( \> 25% decrease in the sum of the products of measured lesions), 21 days
+Microarray Analysis to Identify Gene(s) or Gene Clusters That Exhibit Changes in Gene Expression; Time to Relapse and Overall Survival Data, Each patient provides two binary variables: presence/absence of mutation and responder/non responder. The association between the two will be tested using the Fisher's exact test for the resulting 2x2 table.Changes in expression levels within a patient will be assessed using a paired t-test. Similarly differences in expression levels between responders and non-responders will be assessed using a two-sample t-test. Appropriate adjustment will be made for the multiple comparisons problem that arises because there are over 21,000 probe sets on the U133A array., 2 years
+This is a phase II, single institution trial to correlate gefitinib response and mutations in the protein-tyrosine kinase domain of the EGF receptor gene. The study will be conducted in patients with Stage I and II NSCLC who have been determined to be operable and resectable.
+
+Patients must have 1 or more of the following features: never smoker or smoking history of \< 15 pack years and/or features of bronchioloalveolar lung cancer. 50 patients will be enrolled on this study. Treatment will be with gefitinib for at least 21 days before surgery (depending on the timing of the surgery). Patients will discontinue gefitinib 2 days before their operation. For patients that demonstrate a radiographic response to gefitinib preoperatively and /or patients with mutations in the protein-tyrosine kinase domain of the EGF receptor gene (identified from the surgical sample), gefitinib will continue for 2 years post-surgery. Patients who do not have evidence of radiographic response or mutations in the protein-tyrosine kinase domain of the EGF receptor gene will be removed from the study.

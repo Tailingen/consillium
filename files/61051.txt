@@ -1,0 +1,35 @@
+Combination Chemotherapy and Filgrastim Before Surgery in Treating Patients With HER2-Positive Breast Cancer That Can Be Removed By Surgery
+This phase II trial studies how well giving combination chemotherapy and filgrastim together before surgery works in treating patients with human epidermal growth receptor 2 (HER2)-positive breast cancer that can be removed by surgery. Drugs used in chemotherapy, such as doxorubicin hydrochloride, cyclophosphamide, and paclitaxel work in different ways to stop the growth of tumor cells, either by killing the cells or by stopping them from dividing. Giving combination chemotherapy before surgery may make the tumor smaller and reduce the amount of normal tissue that needs to be removed. Colony-stimulating factors, such as filgrastim, may increase the number of immune cells found in bone marrow or peripheral blood and may help the immune system recover from the side effects of chemotherapy. Giving doxorubicin hydrochloride, cyclophosphamide, and filgrastim together followed by paclitaxel before surgery may be an effective treatment for breast cancer
+Estrogen Receptor-negative Breast Cancer|Estrogen Receptor-positive Breast Cancer|HER2-positive Breast Cancer|Progesterone Receptor-negative Breast Cancer|Progesterone Receptor-positive Breast Cancer|Stage IA Breast Cancer|Stage IB Breast Cancer|Stage II Breast Cancer|Stage IIIA Breast Cancer
+DRUG: doxorubicin hydrochloride|DRUG: cyclophosphamide|DRUG: paclitaxel|BIOLOGICAL: filgrastim|DRUG: capecitabine|DRUG: methotrexate|DRUG: vinorelbine tartrate|PROCEDURE: needle biopsy|PROCEDURE: therapeutic conventional surgery|OTHER: immunohistochemistry staining method|BIOLOGICAL: trastuzumab|DRUG: tamoxifen citrate|DRUG: letrozole|OTHER: laboratory biomarker analysis
+Combined Rate of Microscopic pCR and Macroscopic Pathologic Complete Response (mCR), Microscopic pCR: No evidence of microscopic invasive tumor at the primary site or in the regional lymph nodes at the time of definitive surgical resection. mCR: The examining pathologist cannot identify gross residual tumor mass in the surgical specimen. This differs from a pCR where the specimen must also be negative for invasive tumor by microscopy. For this study, we are using a definition of mCR that will make the trial more translatable to other institutions. For this study, mCR will be defined as no focus of invasive cancer \>= 1 cm.
+
+Count of participants with either a pCR or mCR., Up to 16 weeks
+Number and Percent of Patients Reporting Grade 2, 3, 4, or Fatal Toxicities of These Regimens, Need for Dose Reduction, or Treatment Interruption or Discontinuation, From the initiation of study treatments to 30 days after the end of neoadjuvant treatment or adjuvant treatment if received|Correlation of Molecular Markers With Response, After completion of neoadjuvant therapy|Relapse Rate in Patients With Operable Breast Cancer Treated With Neoadjuvant Chemotherapy for 12 Weeks Followed by Weekly Paclitaxel for 12 Weeks and Adjuvant Chemotherapy, Count of patients that relapsed., Up to 8 years|Time to Progression, Median time to progression free survival., Up to 5 years|OS in Patients With Operable Breast Cancer Treated With Neoadjuvant Chemotherapy for 12 Weeks Followed Weekly Paclitaxel for 12 Weeks and Adjuvant Chemotherapy With XMN, Kaplan-Meier estimate of overall survival, assessed at 1, 2, and 5 years., 1, 2, and 5 years|Disease-free Survival, Kaplan-Meier estimate of disease-free survival, assessed at 1, 2, and 5 years., 1, 2, and 5 years|Clinical Response to Neoadjuvant Therapy, Up to 12 weeks|Clinical Response to Paclitaxel, Up to 24 weeks
+PRIMARY OBJECTIVES:
+
+I. To assess the pathologic response rate in patients with operable breast cancer treated with a two part, neoadjuvant regimen consisting of weekly doxorubicin (doxorubicin hydrochloride) and daily oral cyclophosphamide given with G-CSF (filgrastim) support for 12 weeks followed weekly paclitaxel for 12 weeks.
+
+SECONDARY OBJECTIVES:
+
+I. To assess the clinical response rate in patients with surgically resectable breast cancer treated with weekly doxorubicin and daily oral cyclophosphamide given with G-CSF support for 12 weeks.
+
+II. To assess the clinical response rate in patients with surgically resectable breast cancer treated with weekly paclitaxel for 12 weeks.
+
+III. To assess the relapse rate, overall and disease-free survival in patients with operable breast cancer treated with neoadjuvant chemotherapy consisting of weekly doxorubicin and daily oral cyclophosphamide given with G-CSF support for 12 weeks followed weekly paclitaxel for 12 weeks and adjuvant chemotherapy with Xeloda (capecitabine), Methotrexate and Navelbine (vinorelbine tartrate) (XMN).
+
+IV. To assess the toxicity associated with these regimens. V. To assess whether the phenotype of breast cancer changes with treatment. VI. To assess whether phenotypic changes in breast tumors predict outcome.
+
+OUTLINE:
+
+PART I: Patients receive doxorubicin hydrochloride intravenously (IV) on day 1 of each week, cyclophosphamide orally (PO) once daily (QD), and filgrastim subcutaneously (SC) QD on days 2-7 of each week. Treatment continues for 12 weeks in the absence of disease progression or unacceptable toxicity.
+
+PART II: Patients\* receive paclitaxel IV over 1 hour on day 1 of each week. Treatment continues for 12 weeks in the absence of disease progression or unacceptable toxicity. Patients then undergo definitive surgical resection by partial mastectomy (lumpectomy) or mastectomy after completion of neoadjuvant chemotherapy.
+
+PART III: Patients\*\* unable to achieve complete pathologic response (pCR) or disease that has been down-staged to =\< 1 cm with no positive nodes following surgery receive capecitabine PO twice daily (BID) on days 1-14, methotrexate IV on days 1, 8 and 15, and vinorelbine tartrate IV over 6-10 minutes on days 1, 8, and 15. Treatment repeats every 3 weeks for 4 courses in the absence of disease progression or unacceptable toxicity.
+
+NOTE: \*Patients with HER2/neu-positive disease also receive trastuzumab IV over 30-90 minutes once weekly or every 3 weeks for 1 year beginning in Part II.
+
+NOTE: \*\*Patients with hormone receptor-positive disease also receive tamoxifen PO QD for 5 years (premenopausal) OR letozole PO QD or tamoxifen PO QD for 5 years (postmenopausal) beginning in Part III.
+
+After completion of study treatment, patients are followed up every 3 months for 3 years, every 6 months for 2 years, and then annually thereafter.

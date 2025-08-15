@@ -1,0 +1,47 @@
+Combination Treatment (Talazoparib Plus Avelumab) for Stage IV or Recurrent Non-Squamous Non-Small Cell Lung Cancer With STK11 Gene Mutation (A LUNG-MAP Treatment Trial)
+This phase II LUNG-MAP treatment trial studies how well combination treatment (talazoparib plus avelumab) works in treating patients with non-squamous non-small cell lung cancer that has an STK11 gene mutation and has come back (recurrent) or is stage IV. Talazoparib may stop the growth of tumor cells by blocking some of the enzymes needed for cell growth. Immunotherapy with monoclonal antibodies, such as avelumab, may help the body's immune system attack the cancer, and may interfere with the ability of tumor cells to grow and spread. Immunotherapy drugs given as single therapies or in combination with chemotherapy do not appear to work as well in lung cancer cells with mutations in the STK11 gene versus those that do not have the mutation. Adding the medicine talazoparib to the immunotherapy drug avelumab may work better in treating lung cancers that have an STK11 gene mutation.
+Advanced Lung Non-Squamous Non-Small Cell Carcinoma|Recurrent Lung Non-Squamous Non-Small Cell Carcinoma|Stage IV Lung Cancer AJCC v8|Stage IVA Lung Cancer AJCC v8|Stage IVB Lung Cancer AJCC v8
+DRUG: Avelumab|DRUG: Talazoparib|DRUG: Talazoparib Tosylate
+Objective Response Rate (ORR), Percentage of participants with confirmed or unconfirmed, complete or partial response to treatment with talazoparib plus avelumab per Response Evaluation Criteria in Solid Tumors (RECIST 1.1) criteria.
+
+Complete Response (CR): Complete disappearance of all target and non-target lesions. No new lesions. No disease related symptoms. Any lymph nodes (whether target or non-target) must have reduction in short axis to \< 1.0 cm. All disease must be assessed using the same technique as baseline.
+
+Partial Response (PR): Applies only to participants with at least one measurable lesion. Greater than or equal to 30% decrease under baseline of the sum of appropriate diameters of all target measurable lesions. No unequivocal progression of non-measurable disease. No new lesions. All target measurable lesions must be assessed using the same techniques as baseline., From date of registration to progression or treatment discontinuation, up to 1 year and 9 months|Disease Control Rate at 12 Weeks (DCR12), Percentage of participants with a best response of Complete Response (CR), Partial Response (PR), Unconfirmed Partial Response (UPR), or Unconfirmed Complete Response (UCR) by/at the second disease assessment at 12 weeks after registration (+/- 2 weeks), or stable disease at 12 weeks after registration (+/- 2 weeks). Participants with missing or delayed disease assessment at 12 weeks (+/- 2 weeks), at or before the disease assessment at 20 weeks (+/- 2 weeks) with documented lack of progression (CR, PR, UPR, UCR, or stable) were coded as having disease control at 12 weeks. Participants not known to have disease control at 12 weeks who have at least 12 weeks of follow-up were coded as not having disease control at 12 weeks., 12 weeks after registration
+Investigator-Assessed Progression-Free Survival (IA-PFS), From date of sub-study registration to date of first documentation of progression assessed by local review or symptomatic deterioration, or death due to any cause. Participants last known to be alive without report of progression are censored at date of last disease assessment. For participants with a missing scan (or consecutive missing scans) whose subsequent scan determines progression, the expected date of the first missing scan (as defined by the disease assessment schedule) is used as the date of progression.
+
+Progression is defined as: 20% increase in the sum of appropriate diameters of target lesions and absolute increase of at least 0.5 cm, or unequivocal progression of non-measurable disease, or appearance of any new lesion/site, or death from disease without prior documentation of progression or symptomatic deterioration.
+
+Symptomatic deterioration: Global deterioration of health status requiring discontinuation of treatment without objective evidence of progression., From date of registration to a maximum of 3 years or death|Overall Survival (OS), From date of sub-study registration to date of death due to any cause. Participants last known to be alive are censored at date of last contact., From date of registration to a maximum of 3 years or death|Duration of Response (DOR), From date of first response to first progression assessed by local review or symptomatic deterioration, or death among patients with a response (CR or PR). Those last known to be alive without progression are censored at date of last disease assessment. For those with a missing scan whose next scan shows progression, expected date of the first missing scan is used as progression date.
+
+Complete Response (CR): Disappearance of all target and non-target lesions. No new lesions or disease related symptoms. Lymph nodes must have reduction in short axis to \< 1.0cm. Assessed using same technique as baseline.
+
+Partial Response (PR): At least 30% decrease under baseline of the sum of appropriate diameters of all target measurable lesions. No unequivocal progression of non-measurable disease. No new lesions. Assessed using same technique as baseline.
+
+Symptomatic deterioration: Global deterioration of health status requiring discontinuation of treatment w/o objective evidence of progression., From date of registration to a maximum of 3 years or death|Number of Participants With Gr 3 Through 5 Adverse Events That Are Related to Study Drugs, Only adverse events that are possibly, probably or definitely related to study drug are reported. CTCAE Version 5.0 was used for routine toxicity reporting and serious adverse events (SAEs)., Duration of treatment and follow up until death or 3 years post registration
+PRIMARY OBJECTIVES:
+
+I. To evaluate the objective response rate (ORR) (confirmed and unconfirmed, complete and partial) with talazoparib plus avelumab in patients with stage IV or recurrent non-squamous non-small cell lung cancer bearing pathogenic STK11 genomic alterations that were previously-treated with anti-PD-1/PD-L1 therapy and platinum-based chemotherapy.
+
+II. To evaluate disease control rate at 12 weeks (DCR12) after registration.
+
+SECONDARY OBJECTIVES:
+
+I. To evaluate investigator assessed progression-free survival (IA-PFS). II. To evaluate overall survival (OS). III. To evaluate duration of response (DOR) among responders. IV. To evaluate the frequency and severity of toxicities.
+
+TRANSLATIONAL MEDICINE OBJECTIVES:
+
+I. To collect, process, and bank cell-free deoxyribonucleic acid (DNA) (cfDNA) at baseline, cycle 3 day 1, progression, and end of treatment for future development of a proposal to evaluate comprehensive next-generation sequencing of circulating tumor DNA (ctDNA) and examine molecular mechanisms of resistance to talazoparib and avelumab.
+
+II. To establish a tissue/blood repository from patients with refractory non-small cell lung cancer (NSCLC).
+
+III. To evaluate clinical outcomes (ORR, IA-PFS, OS) in patients with concurrent somatic mutations in KEAP1 detected on the Foundation Medicine Inc. (FMI) panel from the LUNGMAP screening protocol.
+
+IV. To evaluate clinical outcomes (ORR, IA-PFS, OS) in patients with concurrent mutations in ATM or other DNA damage response genes detected on the FMI panel from the LUNGMAP screening protocol.
+
+V. To evaluate the association between tumor mutational burden (TMB) measured on the FMI panel from the LUNGMAP screening protocol and clinical outcomes (ORR, IA-PFS, OS).
+
+OUTLINE:
+
+Patients receive talazoparib orally (PO) daily and avelumab intravenously (IV) over 60 minutes on days 1 and 15. Cycles repeat every 28 days in the absence of disease progression or unacceptable toxicity.
+
+After completion of study treatment, patients are followed up until death or 3 years after sub-study registration.

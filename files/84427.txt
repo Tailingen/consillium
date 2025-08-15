@@ -1,0 +1,33 @@
+Maintenance Chemotherapy With or Without Local Consolidative Therapy in Treating Patients With Stage IV Non-small Cell Lung Cancer
+This randomized phase II/III trial studies how well giving maintenance chemotherapy with or without local consolidation therapy works in treating patients with stage IV non-small cell lung cancer. Drugs used in maintenance chemotherapy, such as docetaxel, pemetrexed disodium, erlotinib hydrochloride, and gemcitabine work in different ways to stop the growth of tumor cells, either by killing the cells, by stopping them from dividing, or by stopping them from spreading. Local consolidation therapy such as radiation/stereotactic body radiation or surgery may kill cancer cells left after initial treatment. Giving maintenance chemotherapy and local consolidation therapy together may work better than maintenance chemotherapy alone in treating patients with stage IV non-small cell lung cancer.
+Recurrent Non-Small Cell Lung Carcinoma|Stage IV Non-Small Cell Lung Cancer
+RADIATION: 3-Dimensional Conformal Radiation Therapy (3D-CRT)|DRUG: Docetaxel|DRUG: Gemcitabine|RADIATION: Intensity-Modulated Radiation Therapy (IMRT)|DRUG: Pemetrexed Disodium|RADIATION: Stereotactic Body Radiation Therapy (SBRT)|DRUG: Erlotinib Hydrochloride|DRUG: Pembrolizumab
+[Phase II] Progression-free Survival, Progression-free survival (PFS) is estimated by the Kaplan-Meier method. Progression-free survival time is measured from randomization to the first date of local or regional disease, distant metastases, second primary tumor, death due to any cause, or last known follow-up (censored). Analysis was to occur after progression or death was reported for 138 participants., From randomization to first date of local or regional disease, distant metastases, second primary tumor, death, or last follow-up, whichever comes first. Maximum follow-up time at time of analysis was 5.4 years.|[Phase III] Overall Survival, Overall survival is estimated by the Kaplan-Meier method. Survival time is measured from randomization to date of death from any cause or last known follow-up (censored). Analysis was to occur after \*\*\*\* deaths were reported., From randomization to death or last follow-up.
+In-Field Local Failure, In-field local failure is defined as local or marginal failure. In-field local failure rates are estimated by the cumulative incidence method, in which death without failure is treated as competing risk and participants alive without failure are censored at last known follow-up. Analysis was to occur after progression or death was reported for 138 participants., From randomization to first in-field failure, death or last follow-up, whichever occurs first. Maximum follow-up at time of analysis was 5.4 years. The one- and two-year estimates are reported.|Development of New Lesions, New lesion rates are estimated by the cumulative incidence method, in which death without new lesions is treated as competing risk and participants alive without new lesions are censored at last known follow-up. Analysis was to occur after progression or death was reported for 138 participants., From randomization to the first occurrence of any new lesions, death, or last follow-up, whichever occurs first. Maximum follow-up time at the time of analysis was 5.4 years. One- and two-year estimates are reported.|Number of Participants by Highest Grade Adverse Event Reported, National Cancer Institute (NCI) Common Terminology Criteria for Adverse Events (CTCAE) version 5.0 grades adverse event severity as follows: 1 = mild, 2 = moderate, 3 = severe, 4 = life-threatening, 5 = death related to adverse event. Summary data is provided in this outcome measure; see Adverse Events Module for specific adverse event data., From randomization to last follow-up. Maximum follow-up at time of analysis was 5.4 years.|Duration of Maintenance Chemotherapy Usage, Will be performed on an intent to treat basis., Up to 3 years
+PRIMARY OBJECTIVES:
+
+Phase II
+
+To evaluate the impact of adding local consolidative therapy (LCT) to maintenance systemic therapy versus maintenance systemic therapy alone on progression-free survival for patients with metastatic non-small cell lung cancer (NSCLC) with no evidence of progression and limited metastatic sites after first-line systemic therapy.
+
+Phase III
+
+To evaluate the impact of adding LCT to maintenance systemic therapy versus maintenance systemic therapy alone on overall survival for patients with metastatic NSCLC with no evidence of progression and limited metastatic sites after first-line systemic therapy.
+
+SECONDARY OBJECTIVES:
+
+I. To evaluate the impact of adding LCT to maintenance systemic therapy versus maintenance systemic therapy alone on in-field local failure.
+
+II. To evaluate the impact of adding LCT to maintenance systemic therapy versus maintenance systemic therapy alone on the time to development of new lesions.
+
+III. To evaluate the impact of adding LCT to maintenance systemic therapy versus maintenance systemic therapy alone on toxicity.
+
+IV. To evaluate the impact of adding LCT to maintenance systemic therapy versus maintenance systemic therapy alone on duration of maintenance systemic therapy usage.
+
+V. To evaluate the effect of adding LCT to systemic therapy in limited stage IV NSCLC on Quality of Life (QOL).
+
+VI. To collect biospecimens and evaluate the correlation between clinical outcomes and circulating tumor DNA (ctDNA).
+
+Patients are randomized 2:1 between the SBRT and chemotherapy vs. chemotherapy alone arms.
+
+After completion of study treatment, patients are followed up every 3 months for 2 years, every 6 months for 3 years, then annually thereafter.

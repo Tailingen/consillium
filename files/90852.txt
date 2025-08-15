@@ -1,0 +1,45 @@
+Testing Olaparib in Patients With Advanced or Metastatic (Cancer That Has Spread) Bladder Cancer and Other Genitourinary Tumors With DNA-Repair Genetic Changes
+This phase II trial studies how well olaparib works in treating patients with bladder cancer and other genitourinary tumors with deoxyribonucleic acid (DNA)-repair defects that has spread to other places in the body (advanced or metastatic) and usually cannot be cured or controlled with treatment. PARPs are proteins that help repair DNA mutations. PARP inhibitors, such as olaparib, can keep PARP from working, so tumor cells can't repair themselves, and they may stop growing.
+Advanced Bladder Carcinoma|Advanced Genitourinary System Carcinoma|Metastatic Bladder Carcinoma|Metastatic Genitourinary System Carcinoma|Stage III Bladder Cancer AJCC v8|Stage IV Bladder Cancer AJCC v8
+PROCEDURE: Biopsy Procedure|PROCEDURE: Biospecimen Collection|PROCEDURE: Bone Marrow Biopsy|PROCEDURE: Bone Scan|PROCEDURE: Computed Tomography|PROCEDURE: Magnetic Resonance Imaging|DRUG: Olaparib|PROCEDURE: Positron Emission Tomography
+Overall response rate (ORR), Will be evaluated by Response Evaluation Criteria in Solid Tumors (RECIST). ORR will be reported along with 95% exact confidence intervals., Up to 5 years
+Overall survival (OS), OS will be calculated using the Kaplan-Meier method, starting at the date that the participant was first considered to be included in that set of participants undergoing treatment or observation., Up to 5 years|Progression free survival (PFS), PFS will be determined using a Kaplan-Meier curve, with probabilities at various time points indicated along with appropriate confidence intervals., From the date of olaparib initiation to investigator-assessed clinical progression or radiographic progression (by RECIST), or death from any cause, whichever occurs first, assessed up to 5 years|Incidence of adverse events, Will be assessed according to the Common Terminology Criteria for Adverse Events version 5.0., Up to 5 years|Individual deoxyribonucleic acid (DNA)-repair defects, The association between individual DNA-repair defects and ORR will be determined using Fisher's exact test., Up to 5 years
+PRIMARY OBJECTIVE:
+
+I. To evaluate the efficacy of olaparib in two cohorts of patients with metastatic/advanced non prostate genitourinary (GU) cancer pre-selected by DNA-repair defects as measured by overall response rate (ORR).
+
+SECONDARY OBJECTIVES:
+
+I. To describe the effect of therapy on progression free survival (PFS). II. To describe the effect of therapy on overall survival (OS). III. To describe the safety/tolerability and drug-related toxicities of olaparib.
+
+IV. To follow patients without the pre-selected DNA-repair defects for survival. (Cohort 3 only)
+
+CORRELATIVE OBJECTIVES:
+
+I. To determine the proportion of patients with DNA-repair pathway-mutated genes in metastatic non-prostate GU cancer (patient cohort referred for screening).
+
+II. To correlate levels of baseline circulating tumor cells (CTCs) with survival in untreated patients.
+
+III. To explore tumor-mutational profiles in metastatic tumor biopsies, saliva "normal" DNA, changes in tumor or peripheral immune characteristics, or tumor associated somatic mutation load in blood DNA in response to treatment.
+
+IV. To explore changes in plasma cytokines and correlate with clinical response.
+
+V. To correlate levels of circulating endothelial cells with clinical outcome. VI. To correlate levels of circulating tumor cells (CTCs) with clinical outcome.
+
+VII. To correlate peripheral immune and DNA damage response transcriptional signatures with clinical outcomes.
+
+VIII. To determine the effectiveness of using next-generation sequencing (NGS) to identify DNA-repair pathway gene defects in tumor samples and circulating DNA and identify patients with non-prostate GU cancer suitable for PARP inhibition.
+
+IX. To determine the expression of Schlafen 11 (SLFN11) in tumor versus (vs.) stroma cells, and the potential tumor heterogeneity based on SLFN11 expression.
+
+X. To determine if the levels of hyaluron (HA) detected in circulating plasma correlates with outcomes in patients treated with olaparib.
+
+XI. To determine if the levels of HGF and MET detected in circulating plasma correlates with outcomes in patients with olaparib.
+
+OUTLINE: Patients are assigned to 1 of 3 cohorts.
+
+COHORT I and II: Patients that have cancer-associated DNA-repair gene mutations receive olaparib orally (PO) twice daily (BID) on days 1-28 of each cycle. Cycles repeat every 28 days in the absence of disease progression or unacceptable toxicity. Additionally, patients undergo blood sample collection, computed tomography (CT), magnetic resonance imaging (MRI), positron emission tomography (PET)/CT, or bone scan and optional tumor biopsy and bone marrow biopsy on study.
+
+COHORT III: Patients that do not have cancer-associated DNA-repair gene mutations undergo blood sample collection at baseline. Additionally, patients undergo CT, MRI, PET/CT, or bone scan and optional tumor biopsy and bone marrow biopsy on study.
+
+After completion of study treatment, patients are followed up at 4 weeks, every 2 months for 1 year, then every 3 months thereafter.

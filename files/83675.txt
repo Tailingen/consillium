@@ -1,0 +1,30 @@
+Necitumumab and Trastuzumab in Combination With Osimertinib for the Treatment of Refractory Epidermal Growth Factor Receptor (EGFR)-Mutated Stage IV Non-small Cell Lung Cancer
+This phase Ib/II trial studies the side effects and best dose of trastuzumab and necitumumab together with osimertinib, and to see how well they work for the treatment of stage IV non-small cell lung cancer that is EGFR-mutated, resistant to osimertinib, and has not responded to previous treatment (refractory). Immunotherapy with monoclonal antibodies, such as trastuzumab and necitumumab, may help the body's immune system attack the cancer, and may interfere with the ability of tumor cells to grow and spread. Osimertinib may stop the growth of tumor cells by blocking some of the enzymes needed for cell growth. Giving trastuzumab and necitumumab together with osimertinib may work better than osimertinib alone in treating patients with stage IV EGFR-mutated non-small cell lung cancer.
+Metastatic Lung Non-Small Cell Carcinoma|Refractory Lung Non-Small Cell Carcinoma|Stage IV Lung Cancer American Joint Committee on Cancer (AJCC) v8|Stage IVA Lung Cancer AJCC v8|Stage IVB Lung Cancer AJCC v8
+BIOLOGICAL: Necitumumab|DRUG: Osimertinib|OTHER: Quality-of-Life Assessment|OTHER: Questionnaire Administration|BIOLOGICAL: Trastuzumab
+Identification of the recommended phase II dose (R2PD) regimen for combination osimertinib, necitumumab, trastuzumab (ONT) therapy (Phase Ib), Up to 1 year|Incidence of adverse events (Phase Ib), Will be defined by the Common Terminology Criteria for Adverse Events version 5.0 (CTCAE V5.0)., Up to 1 year|Objective response rate (ORR) (Phase II), Will be based on the Full Analysis Set (FAS) of the phase II portion of the trial and the phase Ib patients treated at the recommended phase II dose (RP2D). ORR is defined as defined as complete response (CR) or partial response (PR) by Response Evaluation Criteria in Solid Tumors (RECIST) 1.1 criteria. Will be determined by the investigator. A Cox proportional hazards model will be used to estimate the hazard ratio and its 95% confidence interval (CI)., Up to 1 year
+Progression free survival (PFS) (Phase II), PFS is defined as the time from trial initiation to cancer progression per RECIST 1.1 based on investigator assessment or death due to any cause., Up to 1 year|Duration of response (DoR) (Phase II), DoR is time from documentation of tumor response to disease progression., Up to 1 year|Overall survival (OS) (Phase II), OS is defined as time from randomization to death by any cause., Up to 1 year|Time to response (TTR), Up to 1 year|Patient reported outcomes (PROs), Will be assessed using Patient Reported Outcomes-Common Terminology Criteria for Adverse Events (PRO-CTCAE)., Up to 1 year
+Quality of life data questionnaire, Will be obtained from the Functional Assessment of Cancer Therapy - Lung (FACT-L) questionnaire. Will be analyzed by the clinical biostatisticians in the University of California, Los Angeles (UCLA) Department of Medicine Medical Statistics Core., Up to 1 year|Potential biomarkers associated with response from liquid biopsies, Will be assessed using response from liquid biopsies and optional but recommended baseline tissue biopsy. Will correlate pre-and post-treatment biopsies molecular changes (i.e. expression of HER2, HER3, AXL, MET) with response., Up to 1 year|Mutant allele fraction in circulating tumor deoxyribonucleic acid (DNA) (ctDNA), Will be assessed using liquid biopsy with response., Up to 1 year
+PRIMARY OBJECTIVES:
+
+I. Determine the recommended phase II dose (RP2D) of osimertinib and necitumumab in combination with trastuzumab. (Phase Ib) II. Evaluate the efficacy of osimertinib, necitumumab, and trastuzumab (ONT) as measured by objective response rate (ORR), which is defined as complete response (CR) or partial response (PR) by Response Evaluation Criteria in Solid Tumors (RECIST) 1.1. (Phase II)
+
+SECONDARY OBJECTIVES:
+
+I. To evaluate the efficacy of ONT as measured progression free survival (PFS), duration of response (DoR), and overall survival (OS).
+
+II. To evaluate the safety and tolerability of ONT as measured by adverse events (AEs) defined by Common Terminology Criteria for Adverse Events version 5.0 (CTCAE V 5.0).
+
+EXPLORATORY OBJECTIVES:
+
+I. To assess patient-reported outcomes on health-related quality of life and adverse events.
+
+II. Assess potential biomarkers associated with response from liquid biopsies and optional but recommended baseline tissue biopsy.
+
+IIa. Correlate pre-and post-treatment biopsies molecular changes with response. III. Correlate mutant allele fraction in circulating tumor deoxyribonucleic acid (DNA) (ctDNA) via liquid biopsy with response.
+
+OUTLINE: This is a phase Ib, dose-escalation study of osimertinib and necitumumab followed by a phase II study.
+
+Patients receive necitumumab intravenously (IV) over 60 minutes and trastuzumab IV over 30-90 minutes on days 1 and 15. Patients also receive osimertinib orally (PO) once daily (QD) on days 1-28. Cycles repeat every 28 days in the absence of disease progression or unacceptable toxicity.
+
+After the completion of study treatment, patients are followed up at 30 days, every 8 weeks through week 24, then every 12 weeks up to 1 year.

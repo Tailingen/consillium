@@ -1,0 +1,15 @@
+Prediction of Individual Radiosensitivity During Radiotherapy for Breast Cancer Patients
+Non-randomized clinical cohort study investigating if single nucleotide polymorphism (SNP) or inflammatory markers can predict radiosensitivity in breast cancer patients receiving radiotherapy.
+Radiation Tolerance|Breast Neoplasms
+RADIATION: Blood sample
+Acute radiation dermatitis grading criteria, Acute radiation dermatitis grading criteria according to the Radiation Therapy Oncology Group. Minimum value 1 and maximum value 4, higher value means a worse outcome, Before and during treatment and after one year
+Quality of life (QoL), Quality of life determined by European Organisation for Research and Treatment of Cancer questionnaire QLQ-C30, Before and during treatment and after one year|Breast cancer specific Quality of life (QoL), Quality of life determined by European Organisation for Research and Treatment of Cancer questionnaire QLQ-BR23, Before and during treatment and after one year|Cancer related fatigue Quality of life (QoL), Quality of life determined by European Organisation for Research and Treatment of Cancer questionnaire QLQ-FA12, Before and during treatment and after one year|Number of participants with heart disease, Heart disease as described in patient chart diagnosed after radiotherapy, at five years|Number of participants with lung disease, Lung disease as described in patient chart diagnosed after radiotherapy and related to the radiotherapy treatment area, at five years
+Objectives
+
+1. To explore if acute radiation response can be predicted in patients, by analyzing a single nucleotide polymorphism (SNP rs1801516) sampled prior to radiotherapy.
+2. If acute radiation response can be predicted in patients, by analyzing genetic and inflammatory markers in blood sampled prior to radiotherapy.
+3. If late side effects from radiotherapy can be predicted in patients, by analyzing genetic and inflammatory markers in blood sampled before and after radiotherapy.
+4. If there is a correlation between genetic and inflammatory markers in blood and patient reported outcome measures (PROM) and quality of life (QoL).
+5. To train an algorithm to correlate the appearance of skin before radiotherapy and the extent of skin reaction to radiotherapy
+
+Outline This study is a non-randomized clinical cohort study. Adults with breast cancer will be invited to participate in the study. Blood will be collected before start of treatment and after radiotherapy is completed. Quality of life (QoL) and symptoms will be assessed before and weekly during treatment, at the end of treatment and after one year. A total of 550 patients is expected to be recruited.

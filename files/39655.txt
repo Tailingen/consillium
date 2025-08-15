@@ -1,0 +1,32 @@
+Carboplatin, Gemcitabine Hydrochloride, and Berzosertib in Treating Patients With Recurrent and Metastatic Ovarian, Primary Peritoneal, or Fallopian Tube Cancer
+This phase I trial studies the side effects and best dose of gemcitabine hydrochloride and berzosertib when given together with carboplatin in treating patients with ovarian, primary peritoneal, or fallopian tube cancer that has come back (recurrent) and has spread to other places in the body (metastatic). Chemotherapy drugs, such as carboplatin and gemcitabine hydrochloride, work in different ways to stop the growth of tumor cells, either by killing the cells, by stopping them from dividing, or by stopping them from spreading. Berzosertib may stop the growth of tumor cells by blocking some of the enzymes needed for cell growth. Giving berzosertib with chemotherapy (carboplatin and gemcitabine hydrochloride) may work better in treating patients with ovarian, primary peritoneal, or fallopian tube cancer compared to chemotherapy alone.
+Metastatic Fallopian Tube Carcinoma|Metastatic Ovarian Carcinoma|Metastatic Primary Peritoneal Carcinoma|Ovarian Endometrioid Tumor|Ovarian High Grade Serous Adenocarcinoma|Platinum-Sensitive Ovarian Carcinoma|Recurrent Fallopian Tube Carcinoma|Recurrent Ovarian Carcinoma|Recurrent Primary Peritoneal Carcinoma|Stage IV Fallopian Tube Cancer AJCC v6 and v7|Stage IV Ovarian Cancer AJCC v6 and v7|Stage IV Primary Peritoneal Cancer AJCC v7
+DRUG: Berzosertib|DRUG: Carboplatin|DRUG: Gemcitabine Hydrochloride|OTHER: Laboratory Biomarker Analysis|OTHER: Pharmacological Study
+Maximum tolerated dose (MTD) (phase I dose escalation), The MTD in this study will be defined as the highest safely tolerated dose, up to a maximum of dose level 4, where at most 1 out of six patients experience a dose limiting toxicity (DLT) with the next higher dose having at least 2 DLTs in 3 or more patients. Will be reported descriptively., Up to 28 days|Incidence of adverse events, The maximum grade for each type of adverse event will be summarized using Common Terminology Criteria for Adverse Events (CTCAE) version 5.0., Up to 3 years
+Confirmed response rate, Will be assessed by Response Evaluation Criteria in Solid Tumors (RECIST) 1.1 criteria., Up to 3 years|Overall survival (OS), OS will be estimated using the Kaplan-Meier method., From study entry to death from any cause, assessed up to 3 years|Duration of response, The duration of confirmed responses will be assessed using the Kaplan-Meier method., From first documented date of confirmed response (complete response [CR] or partial response [PR]), to the date at which progression is first documented, up to 3 years|Progression free survival (PFS), Disease progression will be determined based on Response Evaluation Criteria in Solid Tumors (RECIST) 1.1 criteria. PFS will be estimated using the Kaplan-Meier method., From registration to the first of either disease progression or death from any cause, up to 3 years
+Changes in the frequency of marker inhibition, Semi-quantitative data will be used to compare the data between the treatment arms using boxplots and descriptive statistics., Baseline to up to 3 years|Correlation between deoxyribonucleic acid (DNA) damage markers and mutation data with clinical endpoints (i.e. response, PFS, OS), Statistical and graphical techniques will be used to explore these relationships. For time-to-event endpoints, we will use Cox proportional hazards models, and for response data we will use Logistic regression models. In addition, we will use Fisher's exact tests to test the association between categorical marker data and response., Up to 3 years
+PRIMARY OBJECTIVES:
+
+I. Assess safety and tolerability of the combination therapy carboplatin, gemcitabine hydrochloride (gemcitabine), and berzosertib (M6620 \[VX-970\]) in adult women with platinum sensitive recurrent high grade serous or high grade endometrioid ovarian, primary peritoneal or fallopian tube cancer. (Phase I Dose Escalation/Safety Lead-in) II. Determine the dose of the triple therapy to be used in the dose expansion cohort of the study. (Phase I Dose Escalation/Safety Lead-in) III. Confirm the safety at the maximum tolerated dose (MTD) for the addition of M6620 (VX-970) to carboplatin and gemcitabine in first or second recurrence of platinum sensitive high grade serous or endometrioid ovarian, primary peritoneal or fallopian tube carcinoma. (Expansion Cohort)
+
+SECONDARY OBJECTIVES:
+
+I. To determine if the MTD for the combination of carboplatin, gemcitabine and M6620 (VX-970) improves the confirmed response rate in adult women with platinum sensitive recurrent high grade serous or high grade endometrioid ovarian, primary peritoneal or fallopian tube cancer.
+
+II. To determine the impact of the MTD on overall survival (OS), duration of response, and progression-free survival (PFS).
+
+INTEGRATED CORRELATIVE STUDY OBJECTIVES:
+
+I. Collection of specimens for biomarker studies to provide preliminary proof of mechanism. Assess, in an exploratory fashion, whether the combination of gemcitabine and carboplatin activates the ATR/CHK1 pathway at achievable concentrations and also whether M6620 inhibits the activated pathway.
+
+II. To determine whether increased deoxyribonucleic acid (DNA) damage as assessed by two different multiplex assays correlates with response to combination therapy with M6620 (VX-970).
+
+III. To determine whether mutations in homologous recombination repair genes correlate with response to combination therapy with M6620 (VX-970).
+
+IV. To ascertain modulation of ATR autophosphorylation and other pharmacodynamic readouts for ATR inhibition by M6620 (VX-970).
+
+OUTLINE: This is a dose-escalation study of gemcitabine hydrochloride and berzosertib.
+
+Patients receive carboplatin intravenously (IV) over 30 minutes on day 1, gemcitabine hydrochloride IV over 30 minutes on days 1 and 8, and berzosertib IV over 60 minutes on days 2 and 9. Cycles repeat every 21 days in the absence of disease progression or unacceptable toxicity.
+
+After completion of study treatment, patients are followed up for 3 years.

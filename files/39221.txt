@@ -1,0 +1,14 @@
+Using Novel Imaging to More Safely Treat Neuroendocrine Tumors
+The goal of this research is to determine if DetectnetTM PET/CT can be used to make Lutathera therapy safer for patients with neuroendocrine cancer.
+
+Participants will:
+
+* Complete two phases involving 6 visits
+* Undergo additional research PET/CT, and possibly SPECT/CT scans
+Neuroendocrine Tumors|Somatostatin Receptor-positive Neuroendocrine Tumor
+DEVICE: Single Photon Emission Computed Tomography/ Computed Tomography (SPECT/CT)|DEVICE: Photon Emission Tomography / CT (PET/CT)|DRUG: 64Cu-Dotatate|DRUG: 177Lu-Dotatate
+Compare pre-therapy and post-therapy voxel-based dosimetry estimates, Absorbed doses to organs will be estimated using radiation dosimetry methods based on both multi-timepoint PET and multi-timepoint SPECT imaging. Mean dose estimates in units of Gy to the index tumor(s) and dose limiting organs (kidneys and bone marrow) will be compared between PET-based dosimetry and SPECT-based dosimetry. Using SPECT-based dosimetry as the gold standard truth, Bland-Altman analysis will be performed for each organ/tumor to compare PET-based dose estimates to SPECT-based estimates. Mean bias and 95% confidence intervals will be calculated., Baseline and 120 hours post-dose
+Absorbed radiation doses, Absorbed radiation doses from 177Lu-DOTATATE in organs will be summarized with descriptive statistics., 1 hour post-dose, 4 hours post-dose, 48 hours post-dose, 120 hours post-dose|Absorbed radiation doses of 64Cu-DOTATATE, Absorbed radiation doses of 177Lu-DOTATATE in organs using 64Cu-DOTATATE as an imagining surrogate will be summarized with descriptive statistics., 1 hour post-dose, 4 hours post-dose, 48 hours post-dose, 120 hours post-dose|Compare 3D voxel-based versus model based dosimetry in participants receiving 177Lu_DOTATATE, Absorbed doses to organs will be estimated using radiation dosimetry methods based on multi-timepoint SPECT imaging. Mean dose estimates in units of Gy to the index tumor(s) and dose limiting organs (kidneys and bone marrow) will be compared between 3D voxel-based and model-based dosimetry methods. Using 3D voxel-based dosimetry as the gold standard truth, Bland-Altman analysis will be performed for each organ/tumor to compare 3D voxel-based to model-based methods. Mean bias and 95% confidence intervals will be calculated., Baseline and 120 hours post-dose
+The goal of this research study is to determine if DetectnetTM PET/CT scanning over several days can be used to deliver Lutathera in a safer manner.
+
+In this research, participants will be asked to complete a screening phase and possibly a dosimetry phase. The screening phase will require 2 visits. The dosimetry phase will also require 3 research visits.

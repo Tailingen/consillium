@@ -1,0 +1,56 @@
+Pembrolizumab TX-naive Distant Mets Melanoma and Use of (C11-AMT) PET at Baseline as Imaging Biomarker
+Explore the association between intensity of 11C-methyl-L-tryptophan (C11-AMT) positron emission tomography (PET) at baseline, as measured by mean standardized uptake value (SUVmax) at each lesion, total tumor metabolic volume, measurement of intra-tumoral and inter-lesional heterogeneity, with objective response rate (ORR) at 12 weeks (as defined via RECIST 1.1) to pembrolizumab in patients with treatment-naïve metastatic melanoma.
+Melanoma
+DIAGNOSTIC_TEST: FDG PET/CT scan|DIAGNOSTIC_TEST: C11-AMT PET scan|DRUG: Pembrolizumab|DIAGNOSTIC_TEST: CT scan
+Association of Baseline C11-AMT PET SUV Max Value With Objective Response, Association between intensity of C11-AMT PET at baseline, as measured by maximum standardized uptake value (SUV max) and objective response (OR) using computerized tomography images with intravenous contrast, as defined via RECIST v.1.1, at 12 weeks. Subject is considered responder if subject has CR or PR while subject is considered not-responder if they do not have CR or PR at 12 weeks.
+
+RECIST v.1.1: Complete Response (CR), disappearance of all target lesions; Partial Response (PR), \>=30% decrease in the sum of the longest diameter of target lesions; Stable Disease (SD), no response or less response than Partial or Progressive; or Progressive Disease (PD), as a 20% increase in the sum of the longest diameter of target lesions, or a measurable increase in a non-target lesion, or the appearance of new lesions., 12 weeks
+Objective Response Rate, Objective Response Rate (ORR) is defined as the number of the subjects with a Complete Response, Partial Response, stable disease, and progressive disease according to Response Evaluation Criteria in Solid Tumors ( RECIST 1.1) at 12 weeks after starting to study treatment.
+
+RECIST v.1.1: Complete Response (CR), disappearance of all target lesions; Partial Response (PR), \>=30% decrease in the sum of the longest diameter of target lesions; Stable Disease (SD), no response or less response than Partial or Progressive; or Progressive Disease (PD), as a 20% increase in the sum of the longest diameter of target lesions, or a measurable increase in a non-target lesion, or the appearance of new lesions., 12 Weeks|Progression-Free Survival, Progression Free Sruvival (PFS) is defined time from first day of treatment until disease progression as defined by RECIST1.1., 3 years|Association of Baseline FDG-PET and C11-AMT PET, Associations of SUVmax values between baseline FDG-PET and baseline C11-AMT PET images were examined.
+
+To objectively determine tumor regions of interest on C11-AMT and 18F FDG PET, the voxel with the highest tracer concentration (e.g., SUVmax) was determined. The voxel with the highest AMT tracer concentration (e.g., SUVmax) as well as a background region in close proximity to the location of the tumor using the MIM vista PET viewing software (MIM software Inc., Cleveland, OH, version 7.0.5)., Baseline|Metabolic Changes, Assess metabolic changes at week 12 (or earlier, if patient progresses) following treatment with pembrolizumab using baseline and week 12 FDG PET. Each lesion is considered independently since subjects might have some lesion with SUV max value increased and another lesion with SUV max value decreased., 12 weeks|Baseline Positron Emission Tomography (PET) Parameters (SUVmax) Corresponding to Tumors That Were Subsequently Collected for Immunohistochemical (IHC) Analysis. Melanoma-specific Indoleamine 2,3-dioxygenase (IDO) Protein Expression in Research Biopsies, Outcome Measure Description: Associations between baseline C-methyl-L-tryptophan (C11-AMT) PET imaging and fluorodeoxyglucose (FDG) PET SUVmax values with melanoma-specific IDO expression by single colon immunohistochemistry (IHC) within the harvested tumors.
+
+We used the following single-color IHC scoring system to semiquantify the staining intensity and percentage of positive melanoma cells: 0 (no staining), 1+ (\<25% of melanoma cells with membrane or cytoplasmic stain), 2+ (25-80% of melanoma cells with the membrane of cytoplasmic stain), 3+ (\>80% of melanoma cells with membrane or cytoplasmic stain) scale was used., Baseline
+Objectives:
+
+Primary Objective
+
+Explore the association between intensity of C11-AMT PET at baseline, as measured by mean standardized uptake value (SUVmax at each lesion), total tumor metabolic volume, measurement of intra-tumoral and inter-lesional heterogeneity), with objective response rate (ORR) at 12 weeks as defined via Response evaluation criteria in solid tumors (RECIST) 1.1 to pembrolizumab in patients with Programmed Death (PD)-1 inhibitor-naïve unresectable, American Joint Committee on Cancer (AJCC) stage III or distant metastatic (stage IV) melanoma.
+
+Secondary Objectives
+
+Estimate ORR (CR + PR) by RECIST 1.1 at 12 weeks to pembrolizumab in patients with PD-1 inhibitor-naïve unresectable stage III or distant metastatic metastatic melanoma (AJCC stage III/IV).
+
+Estimate progression-free survival (PFS) in patients with unresectable stage III or distant metastatic melanoma treated with pembrolizumab as front-line therapy.
+
+Explore associations in SUVmax and other PET parameters (e.g. total tumor metabolic volume, measurement of intra-tumoral and inter-lesional heterogeneity) between C11-AMT PET and fluorodeoxyglucose (FDG)-PET at baseline.
+
+Explore associations between SUVmax, and other PET parameters (e.g. total tumor metabolic volume, measurement of intra-tumoral and inter-lesional heterogeneity) identified at baseline C11-AMT PET imaging with expression of components of the Indoleamine-pyrrole 2,3-dioxygenase (IDO) pathway detected by immunohistochemistry (IHC) or immunofluorescence (L -type amino acid transporter 1 (LAT1), IDO, tryptophan hydroxylase (TPH1)) and lymphocyte subtypes (CD4, cluster of differentiation 8 (CD8), FoxP3, MDSC), PD-1/PD-L1, and other immune checkpoint pathways (lymphocyte-associated gene 3 (LAG3), glucocorticoid-induced tumor necrosis factor receptor (GITR), T-cell immunoglobulin and mucin domain-3 (TIM3)) in freshly acquired tumor specimens prior to treatment with pembrolizumab.
+
+Assess metabolic changes at week 12 (or earlier, if patient progresses) following treatment with pembrolizumab using baseline and week 12 FDG PET.
+
+Outline:
+
+Screening:
+
+Physical exam, medical history, and laboratory tests, as per standard of care. Brain Magnetic resonance imaging (MRI) and Whole body FDG PET/ Computed tomography (CT) scan with IV contrast will be performed at least 24 hours before C11-AMT PET scanning. Although, the FDG PET/CT scan with IV contrast is preferred the following baseline measurements may be used if they have occurred within the below specified windows:
+
+1. Whole body FDG PET/CT scan without IV contrast, will be accepted for study purposes (i.e. correlation between baseline FDG PET scan and baseline C11-AMT scan) if it has occurred within 28 days before the C11-AMT PET scan. In this case, the patient will only be required to have a baseline CT scan of the chest, abdomen, and pelvis (also neck, if applicable) with IV contrast within 28 days of starting pembrolizumab.
+2. CT scan with intravenous (IV) contrast will be accepted for study purposes (i.e. baseline tumor assessment) if it has occurred within 28 days of starting pembrolizumab. In this case, the patient will only be required to have a baseline PET scan without CT coregistration 28 days prior to C11-AMT. This is to correlate baseline FDG PET with baseline C11-AMT PET parameters.
+
+If eligibility criteria are met, patients will proceed to Study Related Scans and Biopsy:
+
+C11-AMT PET will be performed at least 24 hours before pembrolizumab treatment and at least 24 hours after FDG PET/CT scan. A research biopsy will be performed before pembrolizumab treatment.
+
+After screening and study related scans and biopsy, treatment will consist of the following:
+
+Pembrolizumab 200mg IV flat dose will be administered over 30 minutes on Day 1; Pembrolizumab dosing will be repeated every 3 weeks until progression or subject withdrawal for other reasons.
+
+At the end of treatment:
+
+Whole body FDG PET/CT scan with IV contrast.
+
+Projected Accrual:
+
+Up to 25 subjects who have not received prior therapy for their recent diagnosis of distant metastatic melanoma.

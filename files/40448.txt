@@ -1,0 +1,20 @@
+Immunotolerance in Endometrial Cancer and at the Maternal-fetal Interface: Immunological Profiling of the Tumor Microenvironment in Risk Stratification of Recurrence
+This pilot/exploratory study will be configured as a non-retro-prospective study interventional on endometrial tissue samples taken from surgically treated patients at the Regina Elena National Cancer Institute, IRE - IFO and stored at the Biobank of same Institute (BBIRE) (cohort 1) and on samples of decidualized endometrium and trophoblast from patients with ongoing spontaneous abortion treated surgically at the UOC of Gynecology ed Obstetrics of the Federico II University Polyclinic of Naples (cohort 2)
+Endometrial Cancer
+DIAGNOSTIC_TEST: tissue samples (healthy and tumor taken from the same patient) and tissue samples (decidualized endometrium and trophoblast taken from it patient)
+Description of genetic signatures shared between the maternal-fetal interface, The trial aims to describe gene signatures shared between the maternal-fetal interface and the various stages of progression of endometrial carcinoma, through transcriptomic analysis, with the aim of evaluate their functional role in the immune escape of endometrial carcinoma.Transcriptomics (RNA-seq) coupled with will be used imaging approaches (IHC) and digital pathology. Spatial techniques will be exploited transcriptomics coupled to single-cell RNA-seq to study interactions between cells in the TME and at the maternal-fetal interface. The results of each patient's immuno-score will be correlated with his prognosis, in terms disease-free survival, overall survival, relapse-free survival, disease-specific survival cancer, distant and/or local free survival, to validate their potential role independent in the progression of endometrial cancer., 36 months|Calculation of potential immuno-score, Calculation of potential immuno-score for each patient, considering immune pathways, correlating the results of each patient's immuno-score with his prognosis, in terms disease-free survival and overall survival., 36 months|characterize the risk classes, To characterize the various risk classes, the immuno-score will be combined with the already known risk factors, included in the ESMO-ESGO-ESTRO classification and in the biomolecular classification of endometrial carcinoma, to investigate whether the Microenvironmental immunological factors in endometrial cancer might allow for better stratification of patients in risk classes, with the use of Artificial Intelligence, such as Machine Learning and neural networks., 36 months
+For the experiments proposed in the project the following will be used:
+
+Court 1: tissue samples (healthy and tumor taken from the same patient) collected at the Institute's Biobank (starting from 2017) (retro-prospective); Court 2: tissue samples (decidualized endometrium and trophoblast taken from it patient) which will be collected at the Gynecology and Obstetrics Unit of the Polyclinic Federico II University of Naples (prospective) and transfer to the Regina National Cancer Institute Elena, IRE-IFO.
+
+Clinical data
+
+The following data will be collected for each patient:
+
+* Age, ethnicity, parity, luxury habits, level of education, marital status, height, weight, index of body mass
+* Data on previous clinical history, previous gynecological-obstetric pathologies and any treatments, current comorbidities and medical therapies
+
+For Cohort1 patients only:
+
+* Data relating to the neoplastic pathology: histotype, grading, FIGO stage
+* Data on oncological follow-up: any intra- or post-operative complications, any therapies adjuvants, type and data of any recurrence/metastasis, type of treatment if any recurrence, date and manner of death.

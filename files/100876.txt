@@ -1,0 +1,33 @@
+Gemcitabine Hydrochloride and Cisplatin With or Without Nab-Paclitaxel in Treating Patients With Newly Diagnosed Advanced Biliary Tract Cancers
+This phase III trial studies how well gemcitabine hydrochloride and cisplatin given with or without nab-paclitaxel work in treating patients with newly diagnosed biliary tract cancers that have spread to other places in the body. Drugs used in chemotherapy, such as gemcitabine hydrochloride, cisplatin, and nab-paclitaxel, work in different ways to stop the growth of tumor cells, either by killing the cells, by stopping them from dividing, or by stopping them from spreading. It is not known if giving gemcitabine hydrochloride and cisplatin with or without nab-paclitaxel may work better at treating biliary tract cancers.
+Stage III Distal Bile Duct Cancer AJCC v8|Stage III Gallbladder Cancer AJCC v8|Stage III Intrahepatic Cholangiocarcinoma AJCC v8|Stage IIIA Distal Bile Duct Cancer AJCC v8|Stage IIIA Gallbladder Cancer AJCC v8|Stage IIIA Intrahepatic Cholangiocarcinoma AJCC v8|Stage IIIB Distal Bile Duct Cancer AJCC v8|Stage IIIB Gallbladder Cancer AJCC v8|Stage IIIB Intrahepatic Cholangiocarcinoma AJCC v8|Stage IV Distal Bile Duct Cancer AJCC v8|Stage IV Gallbladder Cancer AJCC v8|Stage IV Intrahepatic Cholangiocarcinoma AJCC v8|Stage IVA Gallbladder Cancer AJCC v8|Stage IVB Gallbladder Cancer AJCC v8|Unresectable Extrahepatic Bile Duct Carcinoma|Unresectable Gallbladder Carcinoma|Unresectable Intrahepatic Cholangiocarcinoma
+DRUG: Cisplatin|DRUG: Gemcitabine Hydrochloride|DRUG: Nab-paclitaxel
+Overall Survival (OS), OS will be determined using the log-rank test with stratification by disease site (gallbladder adenocarcinoma versus \[vs.\] intrahepatic cholangiocarcinoma vs. extrahepatic cholangiocarcinoma), disease stage (locally advanced vs. metastatic), and Zubrod performance status (0 vs. 1). Distributions of overall survival by treatment arm will be estimated using the method of Kaplan-Meier., Up to 3 years
+Number of Participants With Gr 3 Through 5 Adverse Events That Are Related to Study Drugs., Only adverse events that are possibly, probably, or definitely related to study drugs are reported. CTCAE Version 5.0 was used for all AE reporting., Duration of treatment and follow-up until death or 3 years post registration.|Progression-free Survival (PFS), Distributions of PFS will be described using cumulative incidence estimates with differences in these estimates between treatment arms assessed by a stratified Cox regression model., From date of registration to date of first documentation of progression or symptomatic deterioration, or death due to any cause, assessed up to 3 years|Overall Response Rate (ORR) as Measured by Response Evaluation Criteria in Solid Tumors (RECIST) 1.1 Criteria, ORR is defined as confirmed and unconfirmed; complete response + partial response + stable disease. The chi-square test will be used to compare ORR, disease control rate (DCR), and rates of toxicity events across arms. ORR will be assessed in the subset of patients with measurable disease., Up to 3 years|Disease Control Rate as Measured by RECIST 1.1 Criteria, The chi-square test will be used to compare ORR, DCR, and rates of toxicity events across arms. Disease control includes confirmed and unconfirmed complete response, confirmed and unconfirmed partial response, and stable disease. In patients with non-measurable disease, disease control will be defined as those who are alive without disease progression., Up to 3 years|Changes in Carbohydrate Antigen 19-9 (CA 19-9) Levels, Correlations between changes in CA19-9 levels from baseline to post-treatment and ORR will be estimated via logistic regression models, both within each treatment arm and in the overall cohort. Analyses will explore the prognostic and predictive values of CA19-9 for disease response., Baseline up to course 3
+PRIMARY OBJECTIVES:
+
+I. To compare overall survival (OS) in patients with untreated, advanced biliary cancers treated with gemcitabine hydrochloride (gemcitabine) and cisplatin (GC) versus those treated with gemcitabine, cisplatin, and nab-Paclitaxel (GCN).
+
+SECONDARY OBJECTIVES:
+
+I. To compare progression-free survival (PFS) in patients treated with GC versus GCN.
+
+II. To compare overall response rate (ORR), complete and partial, confirmed and unconfirmed, in the subset of patients with measurable disease treated with GC versus GCN.
+
+III. To compare disease control rate (confirmed and unconfirmed; complete response + partial response + stable disease) (DCR) in patients treated with GC versus GCN.
+
+IV. To evaluate the frequency and severity of toxicity associated with GC and GCN in the patient population.
+
+V. To explore the correlation between change in cancer antigen 19-9 (CA19-9) levels from baseline to post-treatment (after 3 cycles) and overall response rate, in each treatment arm separately and in the total cohort.
+
+ADDITIONAL OBJECTIVES:
+
+I. To bank tissue and blood for future translational medicine studies.
+
+OUTLINE: Patients are randomized to 1 of 2 arms.
+
+ARM I: Patients receive nab-paclitaxel intravenously (IV) over 30 minutes, cisplatin IV over 60 minutes, and gemcitabine hydrochloride IV over 30 minutes on days 1 and 8. Courses repeat every 21 days in the absence of disease progression or unacceptable toxicity.
+
+ARM II: Patients receive cisplatin IV over 60 minutes and gemcitabine hydrochloride IV over 30 minutes on days 1 and 8. Courses repeat every 21 days in the absence of disease progression or unacceptable toxicity.
+
+After completion of study treatment, patients are followed up every 6 months for 2 years and then at the end of year 3.

@@ -1,0 +1,35 @@
+Testing the Effects of Exercise on Chemotherapy-Induced Peripheral Neuropathy
+This phase II trial studies whether using exercise is better than the usual approach for treating chemotherapy-induced peripheral neuropathy (CIPN). CIPN occurs when chemotherapy damages the nerves communicating between the brain, spinal cord, and the rest of the body. The usual approach for treating CIPN is treatment with drugs that help reduce symptoms of other types of neuropathy (for example, from diabetes). However, these drugs do not treat all symptoms of CIPN. Exercise may help to reduce CIPN symptoms.
+Chemotherapy-Induced Peripheral Neuropathy|Hematopoietic and Lymphoid Cell Neoplasm|Malignant Solid Neoplasm
+OTHER: Best Practice|OTHER: Exercise Counseling|OTHER: Exercise Intervention|PROCEDURE: Magnetic Resonance Imaging|OTHER: Neuropathy Assessment|OTHER: Questionnaire Administration
+Chemotherapy-induced peripheral neuropathy (CIPN) symptom severity, Will estimate the effects of exercise versus usual care on CIPN using analysis of covariance (ANCOVA). Will be measured by the mean European Organization for Research and Treatment of Cancer-CIPN20. The model will include CIPN-20 at Week 6 as the outcome, treatment group (exercise vs. usual care) as the independent variable of interest and the pre-intervention CIPN-20 score as a covariate., Week 6 post randomization
+Effects of exercise on the severity of CIPN symptoms, We will estimate the effects of exercise vs. usual care on CIPN symptoms (i.e., hot/burning or sharp/shooting pain in the hands or feet, numbness or tingling in the hands or feet) collected from the daily symptom inventory (0-10 severity) using analysis of covariance (ANCOVA). The model will include the average of daily symptom inventory for each CIPN symptom at post-intervention as the outcome, controlling for the average of daily symptom inventory for each CIPN symptom at pre-intervention., Up to 6 weeks post randomization|Effects of exercise on tactile sensitivity, We will estimate the effects of exercise vs. usual care on tactile sensitivity in the fingers and toes, assessed via an established touch test procedure with a set of monofilaments, using analysis of covariance (ANCOVA). The model will include the tactile sensitivity score at post-intervention as the outcome, controlling for the pre-intervention score., Up to 6 weeks post randomization|Effect of exercise on interoception, We will estimate the effects of exercise vs. usual care on interoception, measured via the Multidimensional Assessment of Interoceptive Awareness version 2 (MAIA-2), using analysis of covariance (ANCOVA). The model will include the MAIA-2 total score at post-intervention as the outcome, controlling for the pre-intervention MAIA-2 total score., Up to 6 weeks post randomization
+PRIMARY OBJECTIVE:
+
+I. Assess the preliminary efficacy of exercise versus (vs.) standard care for treating CIPN (via patient-reported CIPN-20 total score).
+
+SECONDARY OBJECTIVES:
+
+I. Assess the preliminary efficacy of exercise vs. standard care on individual symptoms of CIPN (via CIPN Symptom Inventory; i.e., numbness, tingling, burning/shooting pain, and cramping in the hands and feet).
+
+II. Assess the preliminary efficacy of exercise vs. standard care on a clinical test of CIPN symptoms (via the tactile sensitivity in the fingers and toes).
+
+III. Assess the effects of exercise vs. standard care on two possible CIPN mechanisms, namely interoception (via Multidimensional Assessment of Interoceptive Awareness version 2 \[MAIA-2\] questionnaire).
+
+EXPLORATORY OBJECTIVES:
+
+I. Assess the effects of exercise vs. standard care on other common symptoms related to cancer, chemotherapy, and CIPN, including:
+
+Ia. Daily Diary of symptoms of CIPN. Ib. An array of cancer and treatment symptoms (MD Anderson Symptom Inventory; MDASI).
+
+Ic. Anxiety and depression (hospital anxiety and depression scale; HADS). Id. Pain catastrophizing (pain catastrophizing scale; PCS). Ie. Cognitive impairment (Functional Assessment of Cancer Therapy-Cognitive \[FACT-Cog\]).
+
+If. Fatigue (brief fatigue inventory; BFI). Ig. Quality of life (Functional Assessment of Cancer Therapy - General \[FACT-G\]).
+
+OUTLINE: Participants are randomized to 1 of 2 arms.
+
+ARM 1 (EXERCISE): Participants undergo the exercise for cancer patients (EXCAP) intervention consisting of a home-based, self-directed, individually tailored progressive walking and resistance program for up to 6 weeks. Participants also undergo a tactile sensitivity test at baseline and after completion of EXCAP over 15-25 minutes. In addition, participants meet with a certified exercise instructor over 45 minutes at baseline and 2 additional booster meetings over 15-30 minutes during weeks 2 and 3 or weeks 4 and 5.
+
+ARM 2 (CONTROL): Participants receive usual care for 6 weeks. At the end of the study, participants may receive the exercise kit and complete the EXCAP program as in Arm 1. Participants also undergo a tactile sensitivity test at baseline and after completion of EXCAP over 15-25 minutes.
+
+Participants may optionally undergo magnetic resonance imaging (MRI) on study.

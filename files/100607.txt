@@ -1,0 +1,37 @@
+Low-Intensity Chemotherapy and Blinatumomab in Treating Patients With Philadelphia Chromosome Negative Relapsed or Refractory Acute Lymphoblastic Leukemia
+This phase II trial studies how well low-intensity chemotherapy and blinatumomab work in treating patients with Philadelphia chromosome negative acute lymphoblastic leukemia that has come back or does not respond to treatment. Drugs used in chemotherapy, such as dexamethasone, filgrastim, pegfilgrastim, cyclophosphamide, methotrexate, cytarabine and vincristine sulfate, work in different ways to stop the growth of tumor cells, either by killing the cells, by stopping them from dividing, or by stopping them from spreading. Immunotherapy with monoclonal antibodies, such as blinatumomab, may help the body's immune system attack the cancer, and may interfere with the ability of tumor cells to grow and spread. Giving low-intensity chemotherapy and blinatumomab may work better at treating acute lymphoblastic leukemia.
+Philadelphia Chromosome Negative|Recurrent B Acute Lymphoblastic Leukemia|Refractory B Acute Lymphoblastic Leukemia
+BIOLOGICAL: Blinatumomab|DRUG: Cyclophosphamide|DRUG: Cytarabine|DRUG: Dexamethasone|BIOLOGICAL: Filgrastim|OTHER: Laboratory Biomarker Analysis|DRUG: Leucovorin Calcium|DRUG: Mercaptopurine|DRUG: Methotrexate|BIOLOGICAL: Pegfilgrastim|BIOLOGICAL: Rituximab|DRUG: Vincristine Sulfate
+Event Free Survival (EFS) Where Events Defined as no Response, Loss of Response, or Death, Time from date of treatment start until the date of first objective documentation of disease-relapse. Relapse and resistant disease will be defined based on morphological assessment of bone marrow and peripheral blood.
+
+Complete Remission (CR): Normalization of the peripheral blood and bone marrow with 5% or less blasts in normocellular or hypercellular marrow with a granulocyte count of 1 x 10\^9/L or above, and platelet count of 100 x 10\^9/L. Complete resolution of all sites of extramedullary disease is required for CR.
+
+Complete remission without recovery of counts (CRi): Peripheral blood and marrow results as for CR, but with incomplete recover of counts (platelets \< 100 x 10\^9/L; neutrophils \< 1 x 10\^9/L).
+
+Partial Response (PR): As above for CR except for the presence of 6-25% marrow blasts., Time from the first day of treatment assessed up to 3 years, 1 month
+Number of Participants Negative for Minimal Residual Disease (MRD), Minimal Residual Disease (MRD) was assessed by flow cytometry. MRD negativity: Absence of detectable leukemia using multiparameter flow cytometry with a sensitivity of \</= 0.01%., Up to 3 years|Duration of Response, Response date to loss of response or last follow up. Complete Remission (CR): Normalization of the peripheral blood and bone marrow with 5% or less blasts in normocellular or hypercellular marrow with a granulocyte count of 1 x 10\^9/L or above, and platelet count of 100 x 10\^9/L. Complete resolution of all sites of extramedullary disease is required for CR.
+
+Complete remission without recovery of counts (CRi): Peripheral blood and marrow results as for CR, but with incomplete recover of counts (platelets \< 100 x 10\^9/L; neutrophils \< 1 x 10\^9/L).
+
+Partial Response (PR): As above for CR except for the presence of 6-25% marrow blasts., Time from the first day of treatment assessed up to 3 years, 1 month|Participants With a Response, defined as the percentage of patients achieving complete response (CR) or CR with inadequate count recovery (CRi). Complete Remission (CR): Normalization of the peripheral blood and bone marrow with 5% or less blasts in normocellular or hypercellular marrow with a granulocyte count of 1 x 10\^9/L or above, and platelet count of 100 x 10\^9/L. Complete resolution of all sites of extramedullary disease is required for CR.
+
+Complete remission without recovery of counts (CRi): Peripheral blood and marrow results as for CR, but with incomplete recover of counts (platelets \< 100 x 10\^9/L; neutrophils \< 1 x 10\^9/L)., Up to 3 years|Overall Survival, Time from date of treatment start until date of death due to any cause or last Follow-up., Time from the first day of treatment assessed up to 3 years, 1 month
+PRIMARY OBJECTIVE:
+
+I. To evaluate the combined effect of blinatumomab and mini-hyper-CVD (low-intensity chemotherapy) on event-free survival.
+
+SECONDARY OBJECTIVES:
+
+I. Evaluating other clinical efficacy endpoints (minimal residual disease \[MRD\] negativity, duration of response, the overall response rate \[complete response (CR) + CR with inadequate count recovery (CRi)\]) of the regimen occurred any time during the treatment.
+
+II. Overall survival. III. Determining the safety of the combination regimen.
+
+OUTLINE:
+
+INDUCTION PHASE: Patients receive blinatumomab intravenously (IV) continuously on days 1-28 and dexamethasone orally (PO) or IV over 30 minutes on days -3 to day 0 and 7-10. Patients also receive filgrastim subcutaneously (SC) on days 1-42 or pegfilgrastim SC on days 1 and 25, cyclophosphamide IV over 3 hours twice daily (BID) on days -3 to -1, methotrexate intrathecally (IT) on day 2 and IV over 24 hours on day 22, cytarabine IT on day 7 and IV over 3 hours BID on days 23 and 24, and vincristine sulfate IV over 15 minutes on days 0 and 7. At the discretion of the treating physician, patients may receive rituximab IV over 4-6 hours on days -3, 0, 22 and 29, and leucovorin calcium IV over 15 minutes or PO 4 times daily (QID) for 8 doses.
+
+CONSOLIDATION PHASE: Patients receive blinatumomab IV continuously on days 1-28 and dexamethasone PO or IV over 30 minutes on days 1-4 and 11-14. Patients also receive cyclophosphamide IV over 3 hours BID on days 1-3, vincristine sulfate IV over 15 minutes on days 1 and 11, filgrastim SC on days 1-4 and 22-42 or pegfilgrastim SC on day 5 and 25, methotrexate IT on day 2 and IV over 24 hours on day 22, cytarabine IT on day 7 and IV over 3 hours BID on days 23 and 24. At the discretion of the treating physician, patients may receive rituximab IV over 4-6 hours on days 1, 8, 22 and 29, and leucovorin calcium IV over 15 minutes or PO QID for 8 doses. Treatment repeats every 42 days for up to 3 cycles in the absence of disease progression or unacceptable toxicity.
+
+MAINTENANCE PHASE: Patients receive prednisone PO and vincristine sulfate IV over 15 minutes on days 1-5 of cycles 5-9, 7-11 and 13-24, and mercaptopurine PO BID on days 1-28 of cycles 1-5, 7-11, and 13-24. Patients also receive methotrexate PO once a week and blinatumomab IV continuously on days 1-28 of cycles 6 and 12. Cycles repeat every 28 days for up to 24 cycles (2 years) in the absence of disease progression or unacceptable toxicity.
+
+After completion of study treatment, patients are followed up at 30 days.

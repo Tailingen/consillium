@@ -1,0 +1,49 @@
+Local Consolidative Therapy and Durvalumab for Oligoprogressive and Polyprogressive Stage III NSCLC After Chemoradiation and Anti-PD-L1 Therapy
+This phase II trial finds out the effect of local consolidative therapy and durvalumab in treating patients with stage III non-small cell lung cancer that has 3 or fewer lesions of progression (oligoprogressive) and greater than 3 lesions of progression (polyprogressive) after chemoradiation and anti-PD-l1 therapy. Local consolidative therapy, such as surgery and/or radiation, after initial treatment may kill any remaining tumor cells. Immunotherapy with durvalumab, may induce changes in body's immune system and may interfere with the ability of tumor cells to grow and spread. Giving local consolidative therapy and durvalumab may help to control the disease.
+Stage III Lung Cancer AJCC v8|Stage III Lung Non-Small Cell Cancer AJCC v7|Stage IIIA Lung Cancer AJCC v8|Stage IIIA Lung Non-Small Cell Cancer AJCC v7|Stage IIIB Lung Cancer AJCC v8|Stage IIIB Lung Non-Small Cell Cancer AJCC v7|Stage IIIC Lung Cancer AJCC v8
+DRUG: Carboplatin|BIOLOGICAL: Durvalumab|DRUG: Gemcitabine|PROCEDURE: Local Consolidation Therapy|DRUG: Nab-paclitaxel|DRUG: Paclitaxel|DRUG: Pemetrexed|OTHER: Quality-of-Life Assessment|OTHER: Questionnaire Administration
+Progression free survival (PFS), The Kaplan-Meier product-limit estimate of the PFS function will be estimated and displayed for each treatment group. The median PFS time will be given with 95% confidence interval. Summaries of the number and percentage of patients experiencing a PFS event, and the type of event (Response Evaluation Criteria in Solid Tumors version 1.1 or death) will be provided. As comparative analysis, the one-sample log-rank test will be used to test difference in PFS between treatment and the historical control., From local consolidative therapy (LCT) initiation until progression or death, assessed up to 2 years
+Overall survival (OS)1, Will be estimated in each study cohort by Kaplan-Meier estimate. Summaries of the number and percentage of patients who have died, are still in survival follow-up, are lost to follow-up and have withdrawn consent will be provided along with median OS. Furthermore, one-sample log-rank test will be used to test difference in OS between treatment and historical control. Multivariate Cox proportional hazards model will be fitted to investigate the association between OS1/OS2 and other important prognostic variables such as age, histology, and gender., From diagnosis to death, assessed up to 2 years|OS2, Will be estimated in each study cohort by Kaplan-Meier estimate. Summaries of the number and percentage of patients who have died, are still in survival follow-up, are lost to follow-up and have withdrawn consent will be provided along with median OS. Furthermore, one-sample log-rank test will be used to test difference in OS between treatment and historical control. Multivariate Cox proportional hazards model will be fitted to investigate the association between OS1/OS2 and other important prognostic variables such as age, histology, and gender., From LCT initiation until death, assessed up to 2 years|Rate of intralobar progression, Will be determined by surveillance imaging. Will be assessed using Kaplan-Meier estimate., Up to 2 years|Rate of mediastinal progression, Will be determined by surveillance imaging. Will be assessed using Kaplan-Meier estimate., Up to 2 years|Rate of distant progression, Will be determined by surveillance imaging. Will be assessed using Kaplan-Meier estimate., Up to 2 years|Quality of life questionnaires, Will include MDA Symptom Inventory - Lung Cancer mean score and standard deviation for each time point. The trajectory and trend of QOL will also be assessed by plotting MDASI-LC score vs time by treatment arm. The impact of patient and treatment characteristics will be evaluated by other analyses such as area under the curve and linear mixed models., Up to 2 years
+PRIMARY OBJECTIVES:
+
+I. To determine the efficacy of local consolidative therapy (LCT) followed by durvalumab for oligoprogressive non-small cell lung cancer (NSCLC) compared to historical standard control in terms of progression-free survival (PFS).
+
+II. To determine the efficacy of LCT followed by chemotherapy and durvalumab for polyprogressive NSCLC compared to historical standard control in terms of PFS.
+
+SECONDARY OBJECTIVES:
+
+I. To determine the efficacy of LCT followed by durvalumab for oligoprogressive NSCLC compared to historical standard control in terms of overall survival (OS)1.
+
+II. To determine the efficacy of LCT followed by chemotherapy and durvalumab for polyprogressive NSCLC compared to historical standard control in terms of OS1.
+
+III. To determine the efficacy of LCT followed by durvalumab for oligoprogressive NSCLC compared to historical standard control in terms of OS2.
+
+IV. To determine the efficacy of LCT followed by chemotherapy and durvalumab for polyprogressive NSCLC compared to historical standard control in terms of OS2.
+
+V. To assess patterns of failure after LCT followed by durvalumab for oligoprogressive NSCLC.
+
+VI. To assess patterns of failure of LCT followed by chemotherapy and durvalumab for polyprogressive NSCLC.
+
+VII. To assess quality of life of LCT followed by durvalumab for oligoprogressive NSCLC.
+
+VIII. To assess quality of life of LCT followed by chemotherapy and durvalumab for polyprogressive NSCLC.
+
+SAFETY OBJECTIVES:
+
+I. To assess the safety and tolerability profile of LCT followed by durvalumab for oligoprogressive NSCLC.
+
+II. To assess the safety and tolerability profile of LCT followed by chemotherapy and durvalumab for polyprogressive NSCLC.
+
+EXPLORATORY OBJECTIVES:
+
+I. Biomarker analyses on tumor biopsies pre-radiation, while on systemic therapy (cycle 2), and optional at progression, as well as blood collections pre-radiation, pre-durvalumab, while on systemic therapy (cycle 2), every other restaging scan, and optional at progression.
+
+II. Microbiome analyses on stool sample pre-radiation, pre-systemic therapy, and at progression.
+
+OUTLINE: Patients are assigned to 1 of 2 cohorts.
+
+COHORT A (OLIGOPROGRESSIVE): Patients undergo LCT consisting of radiation therapy and/or surgery, then receive durvalumab intravenously (IV) over 1 hour on day 1. Cycles repeat every 28 days in the absence of disease progression or unacceptable toxicity.
+
+COHORT B (POLYPROGRESSIVE): Patients undergo LCT consisting of radiation therapy and/or surgery, then receive durvalumab IV over 1 hour on day 1. Patients also receive one of the following chemotherapy options: carboplatin and paclitaxel on day 1, carboplatin on day 1 and nab-paclitaxel on days 1, 8, 15, or carboplatin on day 1 and gemcitabine on days 1 and 8. Treatment repeats every 21 days for 4 cycles in the absence of disease progression or unacceptable toxicity. Patients with non-squamous histology receive pemetrexed on day 1 every 21 days for cycles 1-4, pemetrexed and durvalumab IV on day 1 every 28 days in the absence of disease progression or unacceptable toxicity.
+
+After completion of study treatment, patients are followed up every 12 weeks for 2 years.

@@ -1,0 +1,60 @@
+Drosophila-generated CTL
+Background:
+
+* Recent cancer treatment studies have shown that altering a cancer patient's own white blood cells may help the immune system fight the cancer. In all of these studies, participants donate their own white blood cells through a procedure called leukapheresis, and the cells are altered in the laboratory and given back to the participants. After the cells are given, the patients receive aldesleukin (IL-2) to help the tumor fighting cells stay alive longer. For individuals with metastatic melanoma, pieces of melanoma proteins may be added to the collected white blood cells to help the immune system recognize and attack the cancer cells.
+* Researchers are interested in testing a new process in which cells from fruit flies (Drosophila) are used to help the melanoma proteins attach to the white blood cells. The fruit fly cells die off shortly after the proteins are introduced to the white blood cells. Researchers are also interested in determining whether IL-2 treatment is necessary after this new cancer treatment process.
+
+Objectives:
+
+* To test the safety and effectiveness of modified white blood cells (Drosophila-generated CTL) as a treatment for metastatic melanoma that has not responded to standard treatments.
+* To determine whether IL-2 treatment improves the effectiveness of Drosophila-generated cytolytic T lymphocytes (CTL).
+
+Eligibility:
+
+- Individuals at least 18 years of age who have been diagnosed with metastatic melanoma that has not responded to previous IL-2 treatment.
+
+Design:
+
+* Participants will be screened with a physical examination and medical history, tumor imaging studies, and heart and lung function tests.
+* Prior to treatment, participants will have an intravenous catheter inserted into the chest to administer the study drugs.
+* Participants will have leukapheresis to provide white blood cells for laboratory modification.
+* Seven days before the start of the treatment, participants will be admitted to the hospital to have chemotherapy with cyclophosphamide and fludarabine. These drugs will suppress the immune system to improve the effects of the treatment.
+* One to four days after the last dose of chemotherapy, participants will receive the modified cells. Participants in the group that will receive IL-2 will begin to receive the treatment 24 hours after the cell infusion, every day for 5 days. All participants will receive filgrastim injections to help the body produce more white blood cells.
+* Participants will recover in the hospital for about 7 to 12 days after the cell infusion or the last dose of IL-2. Participants will continue to receive medications and provide blood and tumor samples for testing.
+* Participants will have regular followup visits to assess the effects of the treatment.
+Metastatic Cutaneous Melanoma
+DRUG: fludarabine|DRUG: cyclophosphamide|DRUG: Drosophila-peptide pulsed Melanoma-reactive autologous CD8+ PBL|DRUG: Aldesleukin
+Clinical Response, Clinical response is assessed by the Response Evaluation Criteria in Solid Tumors (RECIST) criteria. Complete response (CR) is a disappearance of all target lesions. Partial response (PR) is at least a 30% decrease in the sum of the longest diameter (LD) of target lesions taking as reference the baseline sum LD. Progression disease (PD) is at least a 20 % increase in the sum of the LD of target lesions taking as reference the smallest sum LD recorded since the treatment started or the appearance of one or more lesions. Stable disease (SD) is neither sufficient shrinkage to qualify for PR nor sufficient increase to qualify for PD taking as references the smallest sum LD., 7 months|Safety of Drosophila Generated PBL Administered in Combination With a Lymphodepleting Preparative Regimen and Supportive Systemic Aldesleukin, Here is the number of participants with adverse events. For a detailed list of adverse events see the adverse event module., 7 months
+Investigate Low-dose Systemic Aldesleukin to Cell Efficacy, Low-dose systemic aldesleukin will be evaluated to determine cell activity in metastatic melanoma., 7 months
+Background:
+
+* Adoptive transfer studies in patients with metastatic melanoma following lymphodepletion have resulted in up to 50% objective response rates with a 10-15% rate of complete responses.
+* A novel method involves the use of insect cell lines which do not express any native major histocompatibility complex (MHC) molecules.
+* When stably transfected with human MHC molecules and appropriate adhesion and costimulatory molecules, a Drosophila cell line can potently stimulate tumor-reactivity in vitro from human peripheral blood lymphocytes (PBL).
+* The current proposed transfer of Drosophila-cell stimulated autologous cluster of differentiation 8 (CD8) plus PBL administered in conjunction with a lymphodepleting preparative regimen, with or without low-dose aldesleukin would represent a significantly novel approach to adoptive immunotherapy.
+
+Objectives:
+
+* To determine whether infusion of CD8+ autologous PBL sensitized in vitro with peptide pulsed HLA-A2-expressing Drosophila cells (CTL-05) and administered in combination with a lymphodepleting preparative regimen and supportive systemic aldesleukin can result in clinical tumor regression in human leukocyte antigen serotype within HLA-A A serotype group (HLA-A2+) patients with metastatic melanoma.
+* To determine the safety of the above regimen.
+* To investigate the contribution of low-dose systemic aldesleukin to cell efficacy.
+
+Eligibility:
+
+Patients who are HLA-A\*0201 positive and 18 years of age or older must have
+
+* metastatic melanoma with measurable disease
+* been previously treated with aldesleukin for melanoma;
+* normal basic laboratory values.
+
+Patients may not have:
+
+* concurrent major medical illnesses;
+* any form of primary or secondary immunodeficiency;
+* requirement for systemic steroid therapy
+
+Design:
+
+* The first 20 patients enrolled (cohort 0) will receive a non-myeloablative lymphocyte depleting preparative regimen followed by administration of intravenous CTL-05 and low-dose subcutaneous aldesleukin (daily for 5 days).
+* If 3 or more of the 20 patients respond, subsequent patients will be randomized between two cohorts. Patients in cohort 1 will receive a non-myeloablative lymphocyte depleting preparative regimen followed by administration of CTL-05 and low-dose subcutaneous aldesleukin (daily for 5 days). Patients in Cohort 2 will receive a non-myeloablative lymphocyte depleting preparative regimen followed by administration of CTL-05 and NO subsequent aldesleukin.
+* A complete evaluation will be conducted 8 weeks (plus or minus 2 weeks) after the initiation of chemotherapy. The trial will be conducted using a small Simon MinMax Phase II design in the initial phase and a Simon optimal design in the second phase. A maximum of 35 patients may be accrued to each of cohorts 1 and 2. If no responses are seen in the first 13 patients receiving no systemic aldesleukin, then accrual to that cohort will cease. Total enrollment may be up to 90 patients.

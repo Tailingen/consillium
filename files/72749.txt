@@ -1,0 +1,21 @@
+Sunitinib Malate and Bevacizumab in Treating Patients With Kidney Cancer or Advanced Solid Malignancies
+This phase I trial studies the side effects and the best dose of sunitinib malate when given together with bevacizumab in treating patients with kidney cancer or advanced solid malignancies. Sunitinib malate may stop the growth of tumor cells by blocking some of the enzymes needed for cell growth or by blocking blood flow to the tumor. Monoclonal antibodies, such as bevacizumab, can block tumor growth in different ways. Some block the ability of tumor to grow and spread. Others find tumor cells and help kill them or carry cancer-killing substances to them. Giving sunitinib malate together with bevacizumab may kill more tumor cells.
+Clear Cell Renal Cell Carcinoma|Recurrent Renal Cell Cancer|Stage I Renal Cell Cancer|Stage II Renal Cell Cancer|Stage III Renal Cell Cancer|Stage IV Renal Cell Cancer|Unspecified Adult Solid Tumor, Protocol Specific
+DRUG: sunitinib malate|BIOLOGICAL: bevacizumab|OTHER: pharmacological study|OTHER: laboratory biomarker analysis|OTHER: fluorine F 18 fluorothymidine|PROCEDURE: positron emission tomography|PROCEDURE: computed tomography
+Proportion of patients with grade 3 or higher toxicities and recommended phase II dose of sunitinib in the presence of bevacizumab or sunitinib alone graded by National Cancer Institute Common Terminology Criteria for Adverse Events version 4.0, 6 weeks|Objective response rate using the Response Evaluation Criteria in Solid Tumors (RECIST), Responses will be summarized using descriptive statistics and frequency tables. Two-sided 95% confidence intervals for the proportions of subjects with a confirmed anti-tumor response will be computed for the two treatment schedules of sunitinib malate, Up to 2 years
+Pharmacodynamic change in SUV peak and tumor perfusion using FLT PET/CT, Summarized in terms of means, standard deviations and ranges. Percentage changes will be computed and formally compared using paired t-tests and/or the nonparametric Wilcoxon Signed Rank test, should the normality assumption be violated., Baseline, at 4 weeks and 6 weeks of course 1|Changes in the ration of free-bound plasma VEGF by Enzyme-linked immuno sorbent assay (ELISA), Plasma VEGF will be summarized using descriptive statistics such as means, standard deviations and ranges. Changes from baseline will be evaluated using paired t-tests and/or nonparametric Wilcoxon Signed Rank tests, should the normality assumption be violated and should no normality-improving transformation be found, Baseline to 2 years
+PRIMARY OBJECTIVES:
+
+I. To evaluate the safety and tolerability of sequential sunitinib (sunitinib malate) with bevacizumab in patients with clear cell kidney cancer.
+
+II. To assess the objective response rate of sequential sunitinib with bevacizumab in patients with clear cell kidney cancer.
+
+SECONDARY OBJECTIVES:
+
+I. To determine the pharmacodynamic change in standardized uptake values (SUV) peak and tumor perfusion using fluorine F 18 fluorothymidine positron emission tomography (FLT-PET)/computed tomography (CT) scans at baseline, during sunitinib exposure, and during bevacizumab exposure (during sunitinib withdrawal period) in patients with renal cell and other solid malignancies.
+
+II. To characterize changes in the ratio of free: bound plasma vascular endothelial growth factor (VEGF) in patients treated with sequential sunitinib with bevacizumab.
+
+OUTLINE: This is a dose-escalation study of sunitinib malate.
+
+Patients receive sunitinib malate orally (PO) on days 1-28 and bevacizumab intravenously (IV) over 30-90 minutes on day 29. Courses repeat every 6 weeks in the absence of disease progression or unacceptable toxicity.

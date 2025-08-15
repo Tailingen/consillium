@@ -1,0 +1,33 @@
+Activated White Blood Cells With ASCT for Newly Diagnosed Multiple Myeloma
+RATIONALE: Activating white blood cells in the laboratory may help them kill more cancer cells when they are put back in the body. This may be an effective treatment for patients undergoing a stem cell transplant for multiple myeloma.
+
+PURPOSE: This phase I/II trial is studying the side effects of activated white blood cells and to see how well they work in treating patients who are undergoing a stem cell transplant for newly diagnosed stage II or stage III multiple myeloma.
+Multiple Myeloma and Plasma Cell Neoplasm
+BIOLOGICAL: MILs|DRUG: Melphalan|BIOLOGICAL: PCV13
+Hematopoietic Engraftment, Days to absolute neutrophil count \> 500 cells per microliter., Up to 1 year|Disease Response, Percentage of participants with partial or complete response by Bladé criteria. Partial response is defined as a \>= 50% decrease in serum paraprotein or 90% decrease in urinary light chains (for participants without measurable serum paraprotein). Complete response is defined as negative serum and urine immunofixation and a bone marrow aspirate with \< 5% plasma cells., Up to 2 years|Feasibility of MILs Generation as Assessed by Percentage of Participants With Successful MIL Generation, Success rate of expanding MILs in vitro and obtaining a protocol-specified product., Up to 1 year
+T-cell Reconstitution as Determined by Absolute Lymphocyte Count (ALC), ALC counts trending over time., Days 14, 28, 60, 180, and 360|Survival, Survival in months for participants who are alive (Overall Survival) and alive without disease progression (Progression-free survival). Disease progression is defined as a change from negative to positive on immunofixation or electrophoresis for participants previously in complete remission or a 25% increase in serum electrophoresis for participants not previously in complete remission. Partial response is defined as a \>= 50% decrease in serum paraprotein or 90% decrease in urinary light chains (for participants without measurable serum paraprotein). Complete response is defined as negative serum and urine immunofixation and a bone marrow aspirate with \< 5% plasma cells., Up to 129 months|Pneumococcal-specific Vaccine Responses, CRM-197 Prevnar-specific vaccine responses that measure the T-cell response of the vaccine quantified as %CD3+/CFSE-low/IFN-gamma+., At time of bone marrow harvest, Day 60 post-transplant, Day 180 post-transplant, and Day 360 post-transplant|Anti-tumor Immune Responses, Myeloma lysate response that measures the T-cell response quantified as %CD3+/CFSE-low/IFN-gamma+., At time of bone marrow harvest, Day 60 post-transplant, Day 180 post-transplant, and Day 360 post-transplant
+OBJECTIVES:
+
+Primary
+
+* Evaluate the safety and response rate of activated marrow infiltrating lymphocytes (aMILs) in patients undergoing autologous peripheral blood stem cell transplantation for newly diagnosed, stage II-III multiple myeloma.
+* Determine the overall in vitro fold-expansion and assess pre- and post-expansion for myeloma T-cell specificity in assessing the feasibility of generating aMILs from myeloma patients.
+* Assess the toxicity of aMILs.
+* Evaluate the effect of aMILs on hematopoietic engraftment, including neutrophil engraftment, platelet engraftment, and primary graft failure (if failure occurs).
+* Evaluate response rates utilizing the Blade criteria, including the complete response (CR) rate, near complete response (nCR) rate, very good partial response (VGPR) rate, partial response (PR) rate, minimal response (MR) rate, and overall response rate (CR, VGPR, PR, MR).
+
+Secondary
+
+* Evaluate T-cell reconstitution, including absolute lymphocyte counts, CD3+, CD4+, and CD8+ T-cell counts.
+* Evaluate progression-free survival and overall survival.
+* Evaluate anti-tumor immune response.
+* Determine pneumococcal-specific vaccine responses.
+* Determine delayed-type hypersensitivity (DTH) responses.
+
+OUTLINE: Patients undergo collection of marrow infiltrating lymphocytes (MILs)\* either at diagnosis prior to the initiation of induction therapy or upon completion of induction therapy. The MILs bone marrow product undergo ex vivo activation and expansion of T cells for 7-8 days to produce activated marrow infiltrating lymphocytes (aMILs). Patients then undergo stem cell mobilization and leukapheresis to collect the peripheral blood stem cells 12 days after mobilization. Patients receive melphalan IV over 20-30 minutes on days -2 and -1 and undergo a peripheral blood stem cell transplantation on day 0 as planned. Patients receive aMILs infusion on day 3. Patients receive pneumococcal polyvalent vaccine on day 21.
+
+NOTE: \*Patients who have completed induction therapy receive pneumococcal polyvalent vaccine approximately 2 weeks prior to MILs collection; patients undergoing MILs collection prior to starting induction therapy do not receive a pre-transplantation vaccine.
+
+Blood and bone marrow samples are collected periodically for laboratory correlative studies.
+
+After completion of study treatment, patients are followed periodically for up to 1 year.

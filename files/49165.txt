@@ -1,0 +1,12 @@
+PERS Genetic Model Assistant Decision-making System of Neoadjuvant Chemotherapy for Breast Cancer
+This study aims to explore new PERS prediction model can improve the pathological complete response rate of neoadjuvant chemotherapy of breast cancer and disease-free survival.
+Breast Cancer Model|Effects of Chemotherapy|Breast Cancer
+DRUG: NVB|DRUG: EPI|DRUG: DDP|DRUG: CAP|DRUG: GEM|DRUG: H|DRUG: CTX|DRUG: T
+Surgical specimens of breast primary tumors and axillary lymph nodes as measured by Pathological examination., pCR(pathologic complete response), up to 96 months
+Time as a measure from randomization to disease recurrence or patients died due to disease progression., DFS(Disease-free survival), up to 96 months
+Number of participants with treatment-related adverse events as assessed by NCI(National Cancer Institude) CTC (Clinical Trials Center)v3.0, Safety evaluation, up to 96 months
+This is a multi-center, prospective, randomized phase III clinical trial. Planning 320 cases.
+
+This study will be divided into two stages. Phase one, 120 cases of local advanced breast cancer (LABC)who need neoadjuvant chemotherapy. Gene prediction model test(PERS) is performed before treatment(ddEC-T+/-H), verify the prediction efficacy of PERS.
+
+Phase two, 200 cases of LABC primary resistant of antharcycline and taxans. Patients were randomized to Arm ddEC-T+/-H and Arm PERS (regimens according to PERS,eg NVB+DDP,capacitabine,gemcitabine and so on) pCR rate and DFS is observed.

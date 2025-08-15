@@ -1,0 +1,9 @@
+Plasma Metabolic Biomarkers for Multi-Cancer Diagnosis
+The aim of this observational study is to comprehensively analyze the metabolites in plasma samples from multi-cancer patients using advanced mass spectrometry detection technology, in conjunction with metabolomics approaches. The goal is to construct a plasma metabolite database for multi-cancer patients. Simultaneously, we will delve into the exploration and validation of a series of metabolic biomarkers for early multi-cancer diagnosis. The objective is to establish a safer, more convenient, and more sensitive early screening method, thereby providing a reliable scientific foundation and critical evidence for improving the early diagnostic process for individuals at high risk of multi-cancer.
+Lung Cancer|Breast Cancer|Colorectal Cancer|Thyroid Cancer|Gastric Cancer|Cervical Cancer|Liver Cancer|Pancreatic Cancer|Cholangiocarcinoma|Prostate Cancer|Esophageal Cancer|Ovarian Cancer|Renal Cell Carcinoma
+Plasma metabolite content, The outcome will be tested by metabolomics detection technology based on mass spectrometry, Before receiving treatment for cancer
+Firstly, a wide-targeted metabolomic measurement will be conducted on all samples to identify potential metabolite candidate markers and analyze differences in the metabolic profiles of patients with different types of cancer. Additionally, a comprehensive metabolite database specific to cancer patients will be constructed.
+
+Secondly, Samples will be randomly allocated into modeling and testing cohorts. The modeling cohort will be further divided into training and validation sets. Bioinformatics methods will be used to conduct an in-depth analysis of a wide range of metabolite information to screen out metabolic marker combinations with high diagnostic efficacy for cancer.
+
+Ultimately, the testing cohort will be used to validate these metabolic biomarkers, aiming to ensure reliability and stability across different patient populations.

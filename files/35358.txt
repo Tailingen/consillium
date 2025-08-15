@@ -1,0 +1,34 @@
+Testing Lutetium Lu 177 Dotatate in Patients With Somatostatin Receptor Positive Advanced Bronchial Neuroendocrine Tumors
+This phase II trial studies the effect of lutetium Lu 177 dotatate compared to the usual treatment (everolimus) in treating patients with somatostatin receptor positive bronchial neuroendocrine tumors that have spread to other places in the body (advanced). Lutetium Lu 177-dotate is a radioactive drug. It binds to a protein called somatostatin receptor, which is found on some neuroendocrine tumor cells. Lutetium Lu 177-dotatate builds up in these cells and gives off radiation that may kill them. It is a type of radioconjugate and a type of somatostatin analog. Lutetium Lu 177 dotatate may be more effective than everolimus in shrinking or stabilizing advanced bronchial neuroendocrine tumors.
+Advanced Lung Neuroendocrine Tumor|Functioning Lung Neuroendocrine Tumor|Locally Advanced Lung Neuroendocrine Neoplasm|Lung Neuroendocrine Neoplasm|Lung Neuroendocrine Tumor G1|Lung Neuroendocrine Tumor G2|Metastatic Lung Neuroendocrine Neoplasm|Metastatic Lung Neuroendocrine Tumor|Non-Functioning Lung Neuroendocrine Tumor|Recurrent Lung Neuroendocrine Neoplasm|Unresectable Lung Neuroendocrine Neoplasm|Unresectable Lung Neuroendocrine Tumor
+PROCEDURE: Biospecimen Collection|PROCEDURE: Computed Tomography|DRUG: Everolimus|OTHER: Fludeoxyglucose F-18|DRUG: Lutetium Lu 177 Dotatate|PROCEDURE: Magnetic Resonance Imaging|PROCEDURE: Positron Emission Tomography|PROCEDURE: Single Photon Emission Computed Tomography|OTHER: Survey Administration
+Median progression-free survival (PFS), Will be compared between patients with a bronchial neuroendocrine tumor receiving lutetium Lu 177 dotatate to those receiving everolimus. The distribution of PFS will be estimated using the Kaplan Meier method. Will be tested using a one-sided stratified log rank test. The median PFS, along with 90% confidence intervals (CIs), will be estimated for the two treatment groups., From randomization until either radiographic progression confirmed by central radiology review or death, assessed up to 5 years from study registration
+Overall survival (OS), The distribution of OS will be estimated using the method of Kaplan-Meier. The median OS, along with 90% CIs, will be estimated by the two treatment groups. OS will be compared between the two between treatment arms using the stratified log-rank test at a one-sided 10% level of significance., From randomization until death due to any cause, with patients censored at the last date known to be alive or last contact date, assessed up to 5 years from study registration|Overall response rate (ORR), Defined as the proportion of patients in each arm whose best response is either complete response (CR) or partial response (PR). Will be estimated using point estimates and 95% CIs according to the methods in Duffy and Santner., Up to 5 years from study registration|Incidence of adverse events, Will evaluate and compare the toxicity profile of lutetium Lu 177 dotatate and everolimus. As per National Cancer Institute Common Terminology Criteria for Adverse Events version 5.0, the term toxicity is defined as adverse events that are classified as either possibly, probably, or definitely related to the study treatment., Up to 5 years from study registration
+Incidence of late toxicities of lutetium Lu 177 dotatate therapy, The incidence of grade 3+ late toxicities will be analyzed in a descriptive manner. Incidence will be described for each treatment arm. Frequency tables will be reviewed for patterns., More than 30 days after treatment|Pretreatment disease burden, Baseline|Somatostatin receptor (SSTR) status on DOTATATE positron emission tomography (PET) (or other SSTR-PET), Up to 5 years from study registration|Dosimetry of response, Up to 5 years from study registration|Response rate, The proportion of patients in each carcinoid group with either CR or PR as their best response will be estimated using point estimates and 95% CIs according to the methods in Duffy and Santner. ORR will be compared between treatment arms using the 2-sample z-test to compare sample proportion at a one-sided 5% level of significance., Up to 5 years from study registration
+PRIMARY OBJECTIVE:
+
+I. To compare progression-free survival (PFS) of receiving lutetium Lu 177 dotatate to that of receiving everolimus in patients with bronchial neuroendocrine tumor (NET).
+
+SECONDARY OBJECTIVES:
+
+I. To compare the overall survival (OS) of receiving lutetium Lu 177 dotatate versus everolimus in patients with bronchial NET.
+
+II. To compare the overall response rate (ORR) associated with lutetium Lu 177 dotatate versus everolimus in patients with bronchial NET.
+
+III. To evaluate and compare the toxicity profile of lutetium Lu 177 dotatate and everolimus.
+
+EXPLORATORY OBJECTIVES:
+
+I. To study late toxicities of lutetium Lu 177 dotatate therapy including renal dysfunction, myelodysplastic syndrome, and acute leukemia.
+
+II. To study the impact of pretreatment disease burden, somatostatin receptor status on lutetium Lu 177 dotatate (DOTATATE) positron emission tomography (PET) (or other somatostatin receptor \[SSTR\]-PET), and measured dosimetry of response.
+
+III. To evaluate the response rate (RR) and other efficacy parameters in typical and atypical carcinoid based on central retrospective pathology review.
+
+OUTLINE: Patients are randomized to 1 of 2 arms.
+
+ARM I: Patients receive lutetium Lu 177 dotatate intravenously (IV) over 30-40 minutes on day 1 of each cycle. Treatment repeats every 56 days for 4 cycles in the absence of disease progression or unacceptable toxicity. Patients undergo PET during screening. Patients also undergo computed tomography (CT) or magnetic resonance imaging (MRI) during screening and on the trial as well as fludeoxyglucose F-18 (FDG) PET and single photon emission computed tomography (SPECT) on the trial. Additionally, patients undergo blood and tissue sample collection during screening and on the trial.
+
+ARM II: Patients receive everolimus orally (PO) once daily (QD) on days 1-28 of each cycle. Cycles repeat every 28 days in the absence of disease progression or unacceptable toxicity. Patients with disease progression may be able to cross-over to Arm I. Patients undergo PET during screening. Patients also undergo CT or MRI during screening and on the trial as well as FDG PET and SPECT on the trial. Additionally, patients undergo blood and tissue sample collection during screening and on the trial.
+
+After completion of study treatment, patients are followed up every 3 months until disease progression and then every 6 months for up to 5 years following study registration.

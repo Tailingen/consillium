@@ -1,0 +1,37 @@
+Testing the Combination of Venetoclax and Rituximab, in Comparison to the Usual Treatment (Ibrutinib and Rituximab) for Waldenstrom's Macroglobulinemia/Lymphoplasmacytic Lymphoma
+This phase II trial studies the effects of venetoclax and rituximab in comparison to ibrutinib and rituximab in treating patients with previously untreated Waldenstrom's macroglobulinemia/lymphoplasmacytic lymphoma. Ibrutinib may stop the growth of cancer cells by blocking some of the enzymes needed for cell growth. Rituximab is a monoclonal antibody. It binds to a protein called CD20, which is found on B cells (a type of white blood cell) and some types of cancer cells. This may help the immune system kill cancer cells. Venetoclax is in a class of medications called B-cell lymphoma-2 (BCL-2) inhibitors. It may stop the growth of cancer cells by blocking Bcl-2, a protein needed for cancer cell survival. Giving venetoclax and rituximab may work better in treating patients with previously untreated Waldenstrom's macroglobulinemia than ibrutinib and rituximab alone.
+Lymphoplasmacytic Lymphoma|Waldenstrom Macroglobulinemia
+PROCEDURE: Biospecimen Collection|PROCEDURE: Bone Marrow Aspiration|PROCEDURE: Bone Marrow Biopsy|PROCEDURE: Computed Tomography|DRUG: Ibrutinib|PROCEDURE: Positron Emission Tomography|BIOLOGICAL: Rituximab|DRUG: Venetoclax
+Very good partial response or better (VGPR or better) rate, A Cochran-Mantel-Haenszel test will be performed to compare the VGPR or better rates in Arm 1 and Arm 2 accounting for the stratification factor of prior rituximab, and VGPR or better rate will be reported in each study arm with a binomial confidence interval., Up to 5 years
+Progression-free survival, Will be analyzed using the Kaplan-Meier method, and a stratified log-rank test will be performed to compare survival outcomes in the ibrutinib rituximab (IR) and venetoclax rituximab (VR) arms while controlling for the effects from the stratification factor of prior rituximab treatment., From the date of registration to the date of first documentation of progressive disease or symptomatic deterioration, or death due to any cause, assessed up to 5 years|Overall survival, Will be analyzed using the Kaplan-Meier method, and a stratified log-rank test will be performed to compare survival outcomes in the IR and VR arms while controlling for the effects from the stratification factor of prior rituximab treatment., From the date of registration to the date of death due to any cause, assessed up to 5 years|Rate of complete response, Will be analyzed using the cumulative incidence competing risks method., From the date of registration to the date of complete response, assessed up to 5 years|Overall response rate, Defined as the percentage of participants achieving a best response of complete response, very good partial response, or partial response while on study. Will be reported with a binomial confidence interval., Up to 5 years|Time to VGPR or better, Defined as the percentage of participants achieving a best response of very good partial response or better while on study. Will be reported with a binomial confidence interval., Up to 5 years|Incidence of adverse events, As assessed by Common Terminology Criteria for Adverse Events Version 5.0., Up to 5 years
+PRIMARY OBJECTIVE:
+
+I. To compare the rate of very good partial response or better (VGPR or better) in previously untreated participants with Waldenström's macroglobulinemia (WM)/lymphoplasmacytic lymphoma (LPL) who are treated upfront with ibrutinib plus rituximab (IR) versus (vs.) venetoclax plus rituximab (VR) regimen.
+
+SECONDARY OBJECTIVES:
+
+I. To compare overall response rates (ORR) in WM participants treated upfront with IR vs. those treated with VR.
+
+II. To compare progression-free survival (PFS), time to next treatment, duration of response in WM participants treated upfront with IR vs. those treated with VR.
+
+III. To compare the rate of complete response (CR) in WM participants treated upfront with IR vs. those treated with VR.
+
+IV. To evaluate the safety of the IR regimen as compared to VR regimen in participants with WM.
+
+V. To evaluate the time to VGPR in WM participants treated upfront with IR and those treated with VR.
+
+VI. To evaluate the ORR in participants who progress on treatment with IR and VR and are crossed over to the other respective arm.
+
+VII. To compare overall survival (OS) in WM participants treated upfront with IR vs. those treated with VR.
+
+BANKING OBJECTIVE:
+
+I. To bank specimens for future correlative studies.
+
+OUTLINE: Patients are randomized to 1 of 2 arms.
+
+ARM I: Patients receive ibrutinib orally (PO) once daily (QD) on days 1-28 of cycles 1-24 and rituximab intravenously (IV) on days 1, 8, 15, and 22 of cycles 2 and 5. Cycles repeat every 28 days for up to 24 cycles in the absence of disease progression or unacceptable toxicity. Patients with progressive disease during Arm I may receive rituximab and venetoclax as in Arm II for up to an additional 24 cycles. Patients undergo computed tomography (CT) or positron emission tomography (PET)/CT and bone marrow biopsy and aspiration as well as blood sample collection throughout the trial.
+
+ARM II: Patients receive venetoclax PO QD on days 1-28 of each cycle and rituximab IV on days 1, 8, 15, and 22 of cycles 2 and 5. Treatment repeats every 28 days for up to 24 cycles in the absence of disease progression or unacceptable toxicity. Patients with progressive disease during Arm II may receive ibrutinib and rituximab as in Arm I for up to an additional 24 cycles. Patients undergo CT or PET/CT and bone marrow biopsy and aspiration as well as blood sample collection throughout the trial.
+
+After completion of study treatment, patients removed from protocol prior to progression are followed every 3 months until progression, death or 5 years after initial registration, whichever occurs first. Patients followed after progression of disease are followed every 6 months until death or 5 years after initial registration.

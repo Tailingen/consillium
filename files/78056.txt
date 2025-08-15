@@ -1,0 +1,10 @@
+Exploration of DNA Methylation as a Marker for Early Detection of High Grade Serous Epithelial Ovarian Cancer
+The purpose of this study is to determine if there are markers in plasma that can be used to develop a diagnostic panel for early detection and diagnosis of high grade serous epithelial ovarian cancer.
+Epithelial Ovarian Cancer
+OTHER: DNA Methylation
+Identification of DNA markers using HiSeq Genome Analyzer that can predict Serous Epithelial Ovarian Cancer, Isolate DNA using QiaAMp DNA mini kits from tissue and plasma samples from subjects with serous epithelial ovarian cancer and normal subjects and then sequence the DNA using HiSeq Genome Analyzer. The investigators will identify the sequence reads using Illumina base-calling software and analyze them using Zymo Research proprietary analysis pipeline to identify differences in genomic expression in normal subjects compared to subjects with Serous Epithelial Ovarian Cancer., 2 years
+This study has two phases: "Discovery" cohort and "Validation" cohort.
+
+The "Discovery" phase of this study will obtain tissue samples in a retrospective manner. The investigators will perform genome-scale DNA Methylation analysis to obtain a panel of candidate methylated DNA biomarkers. Twenty archival primary serous epithelial ovarian cancer and twenty archival normal ovarian and salpingeal tissues will be identified by running a report of diagnosis.
+
+During the "Validation" phase of this study, blood and tissue samples will be obtained in a prospective manner. The patients will be undergoing consultation for undiagnosed pelvic mass and are being scheduled for a diagnostic laparoscopic biopsy. At the time of their consultation, patients will be recruited and consented for this phase of the study.

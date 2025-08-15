@@ -1,0 +1,33 @@
+Evaluation of the Impact of Empty Versus Full Bladder in Patients with Prostate Cancer, RELIEF Trial
+This clinical trial evaluates the effects of an empty bladder versus (vs.) a full bladder prior to undergoing a computed tomography (CT) simulation for radiation therapy in patients with prostate cancer. Radiation therapy is a commonly used treatment for men diagnosed with prostate cancer. Prior to initiation of a course of radiotherapy, all patients with prostate cancer undergo a CT simulation that allows for computer-based optimization of radiation dose delivery to the target tissue (i.e., prostate) and simultaneous dose minimization to surrounding normal tissues, such as bladder and rectum. Patients are typically given standard instructions for preparation to present with a reproducible full bladder at the time of CT simulation and for each subsequent radiation treatment appointment. The goal of bladder distension is to displace portions of the bladder and bowel away from the highest dose radiation delivery to the prostate. However, as typical urinary symptoms related to radiotherapy develop during treatment, some patients are unable to reproduce the bladder distention achieved at the time of CT simulation. This can result in increased daily treatment time, sub-optimal reproducibility of patient internal anatomy, and increased stress for patients and radiation therapy staff. This trial will evaluate the effects of an empty bladder vs. a full bladder prior to CT simulation and radiation therapy in patients with prostate cancer and how it effects patient reported outcomes.
+Prostate Carcinoma
+OTHER: Best Practice|PROCEDURE: Computed Tomography|OTHER: Electronic Health Record Review|PROCEDURE: Imaging Procedure|OTHER: Questionnaire Administration|RADIATION: Radiation Therapy
+Patient-reported urinary symptoms, Assessed by the change score of urinary irritative/obstructive scale score from the Expanded Prostate Index Composite (EPIC) or EPIC-26 short form questionnaire and compared between patients treated with an empty bladder and standard bladder filling. A t-test will be used to test for non-inferiority of bladder emptying compared to standard bladder filling at the 5% alpha level., Baseline, 3 months, 1 and 2 years post radiation therapy (RT)
+Incidence of physician reported gastrointestinal (GI) and genitourinary (GU) adverse events, Defined as a composite of the hematuria, urinary incontinence, urinary retention, urinary tract pain, urinary frequency, and urinary urgency items from the Common Terminology Criteria for Adverse Events version 5.0 (CTCAE v 5.0) for the genitourinary toxicities and by a composite of the rectal hemorrhage, diarrhea, and proctitis items from the CTCAE v 5.0 for the gastrointestinal toxicities. The proportion of patients with a grade 2 or higher GU and GI toxicity at 3 months post-RT will be estimated by the number of patients experiencing a grade 2 or higher GU and GI event divided by the total number of evaluable patients, respectively. Comparisons between treatment arms will be made using a Chi-square test with an alpha level of 5%., At 3 months post-RT|Patient-reported bowel quality of life, Assessed by the bowel scale score from EPIC-26 and compared between patients treated with an empty bladder and standard bladder filling. A t-test will be used to test for non-inferiority of bladder emptying compared to standard bladder filling at the 5% alpha level with a non-inferiority margin of 7 points., At 3 months post-RT|Patient-reported severity of urinary tract symptoms, Assessed by International Prostate Symptom Score (IPSS) and t-test will be used to test for non-inferiority of bladder emptying compared to standard bladder filling at the 5% alpha level with a non-inferiority margin of 4 points., At 3 months post-RT
+PRIMARY OBJECTIVE:
+
+I. To determine whether an empty bladder during radiation therapy delivery for prostate cancer is non-inferior to standard bladder filling for change in patient-reported urinary symptoms 3 months post-treatment.
+
+SECONDARY OBJECTIVES:
+
+I. To evaluate whether an empty bladder during radiation therapy delivery for prostate cancer is non-inferior to standard bladder filling for patient-reported bowel symptoms and patient-reported severity of urinary symptoms 3 months post-treatment.
+
+II. To compare physician-assessed genitourinary and gastrointestinal Common Terminology Criteria for Adverse Events (CTCAE) toxicity related to radiation therapy in patients treated with a full versus an empty bladder 3 months post-treatment.
+
+EXPLORATORY OBJECTIVES:
+
+I. To evaluate the differences in dosimetric parameters, using both absolute and relative volumetric measures, between the full bladder and empty bladder patients and correlate with toxicity scores 3 months post-treatment.
+
+II. To compare patient experience questionnaire answers between arms. III. To compare daily treatment evaluations by radiation therapists (RTT) between arms.
+
+IV. To test for moderation of the treatment effect on the primary endpoint by the four stratification factors.
+
+V. To evaluate whether an empty bladder during radiation therapy delivery for prostate cancer is non-inferior to standard bladder filling for patient-reported urinary symptoms at end of therapy (EOT) and severity, function, and bother 3 months post- treatment.
+
+OUTLINE: Patients are randomized to 1 of 2 arms.
+
+ARM I: Patients perform standard of care (SOC) bladder filling and then undergo computed tomography (CT) and radiation therapy in 2-39 fractions at the discretion of the treating clinician on study.
+
+ARM II: Patients perform bladder emptying and then undergo CT and radiation therapy in 2-39 fractions at the discretion of the treating clinician on study.
+
+After completion of study intervention, patients are followed up at 3 months.

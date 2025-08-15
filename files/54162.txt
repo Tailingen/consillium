@@ -1,0 +1,32 @@
+Testing the Addition of an Anti-cancer Drug, M3814, to the Usual Treatment (Mitoxantrone, Etoposide, and Cytarabine) for Relapsed or Refractory Acute Myeloid Leukemia
+This phase I trial studies the best dose and side effects of M3814 when given in combination with mitoxantrone, etoposide, and cytarabine in treating patients with acute myeloid leukemia that has come back (relapsed) or does not respond to treatment (refractory). M3814 may stop the growth of cancer cells by blocking some of the enzymes needed for cell growth. Chemotherapy drugs, such as mitoxantrone, etoposide, and cytarabine, work in different ways to stop the growth of cancer cells, either by killing the cells, by stopping them from dividing, or by stopping them from spreading. Giving M3814 in combination with mitoxantrone, etoposide, and cytarabine may lower the chance of the acute myeloid leukemia growing or spreading.
+Recurrent Acute Myeloid Leukemia|Refractory Acute Myeloid Leukemia
+PROCEDURE: Biospecimen Collection|PROCEDURE: Bone Marrow Biopsy|DRUG: Cytarabine|PROCEDURE: Echocardiogram Recording|DRUG: Etoposide Phosphate|DRUG: Mitoxantrone Hydrochloride|PROCEDURE: Multigated Acquisition Scan|DRUG: Peposertib
+Incidence of adverse events, Coded according to the Common Terminology Criteria for Adverse Events version 5., Up to 5 years
+Pharmacokinetic (PK) profile of M3814 in combination with mitoxantrone, etoposide, and cytarabine (MEC), Individual PK parameters will be estimated for maximum concentration (Cmax), area under the concentration-time curve, half-life, apparent clearance, and apparent volume of distribution using non-compartmental methods. The PK variables will be tabulated and descriptive statistics (e.g., geometric means and coefficients of variation) calculated for each dose level. PK parameters will be reported descriptively for exploratory comparison with historical data., Days 1 and 5|Overall response rate, Defined as the proportion of subjects with complete remission (CR) plus CR with incomplete count recovery (CRi) using European Leukemia Net response criteria. The percent of CR will be calculated and associated exact 95% confidence intervals will be constructed., Up to 5 years|Duration of CR/CRi, Summarized using Kaplan-Meier plots., From first documented CR/CRi response to relapse, assessed up to 5 years|Event-free survival, Summarized using Kaplan-Meier plots., From study entry to treatment failure (lack of response, i.e., no CR or CRi), relapse from CR or CRi, or death from any cause, assessed up to 5 years|Overall survival, Summarized using Kaplan-Meier plots., From study entry to death from any cause, assessed up to 2 years
+Rate of early mortality, Defined as the proportion of subjects with death from any cause at 90 days after starting study treatment., At 90 days|Rate of allogeneic hematopoietic cell transplantation (HCT), Defined as the proportion of subjects proceeding to allogeneic HCT after starting study treatment., Up to 5 years|Pharmacodynamic effects of M3814 in combination with MEC, Studies with pharmacodynamic (biological endpoints, toxicity and efficacy) will be analyzed using nonparametric statistics., Up to 5 years|Effect of cytogenetic and molecular abnormalities, Will assess the effect of cytogenetic and molecular abnormalities as potential predictive biomarkers of sensitivity to these regimens., Baseline
+PRIMARY OBJECTIVE:
+
+I. To assess the safety and tolerability and determine the recommended phase two dose (RP2D) of peposertib (M3814) in combination with mitoxantrone, etoposide, and cytarabine (MEC) in patients with relapsed or refractory (R/R) acute myeloid leukemia (AML).
+
+SECONDARY OBJECTIVES:
+
+I. To characterize the pharmacokinetic (PK) profile of MEC alone and of M3814 in combination with MEC.
+
+II. To evaluate the preliminary efficacy of M3814 in combination with MEC in patients with R/R AML as measured by the response rate (complete remission \[CR\] plus CR with incomplete count recovery \[CRi\]), duration of CR/CRi (DOR), event-free survival (EFS) and overall survival (OS).
+
+EXPLORATORY OBJECTIVES:
+
+I. To evaluate correlative biomarkers of M3814 target engagement and response. II. To correlate cytogenetic and molecular abnormalities with response. III. To evaluate the rates of early mortality and allogeneic hematopoietic cell transplantation.
+
+IV. To perform molecular profiling assays on malignant and normal tissues, including, but not limited to, whole exome sequencing (WES) and messenger ribonucleic acid (RNA) sequencing (RNAseq), in order to:
+
+IVa. Identify potential predictive and prognostic biomarkers beyond any genomic alteration by which treatment may be assigned; IVb. Identify resistance mechanisms using genomic deoxyribonucleic acid (DNA)- and RNA-based assessment platforms.
+
+V. To contribute genetic analysis data from de-identified biospecimens to Genomic Data Commons (GDC), a well annotated cancer molecular and clinical data repository, for current and future research; specimens will be annotated with key clinical data, including presentation, diagnosis, staging, summary treatment, and if possible, outcome.
+
+OUTLINE: This is a dose-escalation study of peposertib followed by a dose-expansion study.
+
+Patients receive peposertib orally (PO) twice daily (BID) on days 2-21, mitoxantrone intravenously (IV) over 15 minutes, etoposide IV over 60 minutes and cytarabine IV over 60 minutes on days 1-5 in the absence of disease progression or unacceptable toxicity. Additionally, patients undergo echocardiogram (ECHO) and multigated acquisition scan (MUGA) during baseline, and blood collection and bone marrow biopsy throughout the study.
+
+After completion of study treatment, patients are followed up at 30 days, every 3 months for 1 year, then every 6 months thereafter up to 5 years.

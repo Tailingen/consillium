@@ -1,0 +1,48 @@
+Impact of Salovum® and SPC® Flakes on Brain Tumor Induced Edema
+The objective of this clinical trial is to explore the effects of Salovum®, an egg yolk powder enriched with the endogenous protein antisecretory factor, and SPC® flakes , hydrothermically processed oats, on cerebral edema with clinical symptoms in participants with brain tumors.
+
+The primary questions the trial seeks to answer are:
+
+* Can Salovum® and SPC® flakes have effect on clinical symptoms of tumor-induced cerebral edema?
+* Can Salovum® and SPC® flakes induce regression of radiological edema in tumor-induced cerebral edema Additionally, the study will investigate the impact of Salovum® and SPC® flakes in steroid refractory, steroid naïve cerebral edema and type of barin tumor
+
+Researchers will:
+
+Evaluate edema change from baseline by MRI after 14 days Evaluate neurological and cognitive symptoms Register dose of steroid medications
+
+Participants will:
+
+* Ingest Salovum® 11g three times daily for 14 days, thereafter tapered during 14 days
+* Ingest SPC® flakes 1g/kg daily from day 7
+Glioblastoma|Cerebral Metastases|Meningioma
+DIETARY_SUPPLEMENT: Salovum/SPC flakes
+Change of neurological symptoms, To investigate whether Salovum® and SPC® flakes can change neurological symptoms in participants with tumor induced cerebral oedema as measured by the neurologic assessment in neurooncology (NANO) scale (range 0-23, 0 best-23 worst), 28 days
+Change of cerebral edema, To investigate whether Salovum® and SPC® flakes can change radiological signs of edema in participants with tumor induced cerebral oedema, 28 days
+Change of symptoms from cerebral oedema in steroid naive participants, To investigate whether Salovum® and SPC flakes can change neurological symptoms in steroid naive participants with tumor induced cerebral oedema as measured by the neurologic assessment in neurooncology (NANO) scale (range 0-23, 0 best-23 worst), 28 days|Change of symptoms from cerebral oedema in steroid refractory cerebral oedema, To investigate whether Salovum® and SPC flakes can change neurological symptoms in participants with diverse tumor types as measured by by the neurologic assessment in neurooncology (NANO) scale (range 0-23, 0 best-23 worst) after Salovum® and SPC® flakes, 28 days|Change of symptoms from cerebral oedema in participants with diverse tumor types, To investigate whether the change of neurological symptoms measured by the neurologic assessment in neurooncology (NANO) scale (range 0-23, 0 best-23 worst) differs between diverse tumor types after ingestion of Salovum® or SPC® flakes, 28 days
+Background and Rationale Both primary and secondary brain tumors malignant but also benign meningiomas can induce cerebral edema . The edema can cause several nerurologic and cognitive symptoms which affect both performance and quality of life. Cerebral edema can be treated with high dose corticosteroids but witj substantial side effects. Alternative less toxic therapies are warranted.
+
+Antisecretory factor (AF) is a crucial 41 kDa endogenous protein initially identified for its ability to inhibit experimental diarrhea. The active amino-terminal segment of AF has been synthesized into a 16-amino acid peptide (AF-16) and utilized in animal studies. Salovum®, a product based on the egg yolk powder B221®, contains high levels of AF and is classified as a "food for special medical purposes" by the European Food Safety Agency. It is available over-the-counter in Swedish pharmacies. Specially processed cereals (SPC®) have been shown to induce circulating AF derived peptides after ingestion.
+
+Many tumors, including glioblastoma, exhibit higher interstitial fluid pressure (IFP) than surrounding tissues, potentially hindering chemotherapy penetration in systemic treatments and possibly increasing excretion during intratumoral treatments.
+
+In head injury models, AF has been effective in reducing elevated intracranial pressure and improving functional outcomes. Similarly, AF has demonstrated a significant reduction in intracranial pressure and increased survival rates in an experimental model of herpes encephalitis. Preliminary results from our studies indicate that treatment with antisecretory factor in patients with severe traumatic head injuries reduces intracranial pressure and improves treatment outcomes. Since Salovum® is not classified as a drug, clinical trials have only required ethics approval.
+
+AF is an endogenous protein, and no antibody formation has been observed when administered to humans. Despite being administered to hundreds of patients, no side effects have been reported. Egg yolk allergy is a contraindication, though no cases of triggered allergies have been documented.
+
+In mouse models of malignant brain tumors, AF-16, Salovum® , or SPC® have been shown to lower interstitial fluid pressure and enhance the efficacy of both systemic and intratumoral temozolomide treatment. AF-16 also exhibits immunomodulatory effects on myeloid cells in vitro and on the secretion of immunomodulatory substances from tumor cells. It remains unclear whether AF's effects in tumor models are due to its antisecretory or immunomodulatory properties, or if the former is a result of the latter. Modulation of circulating complement complexes with proteasome units has also been suggested as a potential mechanism.
+
+Details of Trial Participants with clinical and radiological signs of cerebral edema with diagnosis of primary or secondary malignant brain tumors or meningioma will be asked for informed consent to participate in the trial. Both patients with steroid naïve edema (in newly diagnosed participants) and steroid refractory edema (participants on steroid medication but with severe side effects or insuffiscient effect) will be recruited.
+
+Participants will steroid naïve edema will be followed daily as in-patients and if no effect is found after 3 days the trial intervention will be abandoned and steroids will be initiated by the discretion of the responsible physician. Patients with steroid refractory cerebral edema will be evaluated after 7 days and if no effect is found the trial intervention will be abandoned and steroids will be initiated or increased in dose by the discretion of the responsible physician.
+
+Participants will be evaluated with NANO scale for neurological symptoms, MOCA scale for cognitive symptoms and ECOG for performance.
+
+MRI including T2 and FLAIR sequences will be performed at basline and at 14 (steroid naïve participants) or 28 days (steroid refractory participants). Edema volume and edema index will be calcualted frpm MRI images.
+
+In both groups the patients will offered SPC® flakes from day 7. if Salovum® has shown an effect. After day 14 Salovum will be gradually tapered during 14 days.
+
+Statistical analysis plan The oedema volume, oedema index , ECOG, MOCA and NANO scores are compared before and after treatment with Wilcoxon signed rank test (non-parametric data, paired observations).
+
+The data will also be analyzed graphically and descriptively. All statistical analyses will be performed using R-project (https://www.r-project.org).
+
+Ethical Considerations Glioblastoma carries a grim prognosis. Antisecretory factor has shown promising results in combination with chemotherapy in experimental models of human and mouse brain tumors. A clinical open phase 2 trial has demonstrated the safety and feasibility of this treatment, with no reported side effects from Salovum®. As with all studies involving serious and fatal diseases, there is an ethical consideration regarding the hope for treatment efficacy. Both oral and written information will emphasize that there are no guarantees of treatment effectiveness.

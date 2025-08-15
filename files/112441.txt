@@ -1,0 +1,66 @@
+Ibrutinib Before and After Stem Cell Transplant in Treating Patients With Relapsed or Refractory Diffuse Large B-cell Lymphoma
+This randomized phase III trial studies ibrutinib to see how well it works compared to placebo when given before and after stem cell transplant in treating patients with diffuse large B-cell lymphoma that has returned after a period of improvement (relapsed) or does not respond to treatment (refractory). Before transplant, stem cells are taken from patients and stored. Patients then receive high doses of chemotherapy to kill cancer cells and make room for healthy cells. After treatment, the stem cells are then returned to the patient to replace the blood-forming cells that were destroyed by the chemotherapy. Ibrutinib is a drug that may stop the growth of cancer cells by blocking a protein that is needed for cell growth. It is not yet known whether adding ibrutinib to chemotherapy before and after stem cell transplant may help the transplant work better in patients with relapsed or refractory diffuse large B-cell lymphoma.
+Recurrent Diffuse Large B-Cell Lymphoma Activated B-Cell Type|Refractory Diffuse Large B-Cell Lymphoma Activated B-Cell Type
+PROCEDURE: Autologous Bone Marrow Transplantation|PROCEDURE: Autologous Hematopoietic Stem Cell Transplantation|DRUG: Carmustine|DRUG: Cyclophosphamide|DRUG: Cytarabine|DRUG: Etoposide|DRUG: Ibrutinib|OTHER: Laboratory Biomarker Analysis|DRUG: Melphalan|OTHER: Pharmacogenomic Study|OTHER: Placebo Administration
+24-month progression-free survival (PFS), defined as the proportion of patients who are alive and progression-free 2 years from randomization, Will be assessed using the Lugano classification., Time between registration and disease progression or death, whichever comes first, assessed at 24 months
+Overall survival (OS), For each arm, the distribution of OS will be estimated using the Kaplan-Meier method. OS will be compared between the two arms using the log-rank test and Cox regression method adjusting for the known predictors., The time between randomization and death from any cause, assessed up to 5 years (60 months)|Time to hematopoietic engraftment, Will be defined as platelet count greater than or equal to 20,000/uL following nadir., First day of one week without platelet transfusion, assessed up to 5 years|PFS, For each arm, the distribution of PFS will be estimated using the Kaplan-Meier method. PFS will be compared between the two arms using the log-rank test and Cox regression method adjusting for the known predictors., Time between registration and disease progression or death, whichever comes first, assessed up to 5 years (60 months)|Response rate using the Lugano classification, The metabolic response proportion following AutoHCT will be compared between the two arms using chi-squared test., Up to 60 months|Treatment-related mortality, Treatment-related mortality will be summarized using contingency tables., Up to 60 months|Incidence of hematologic toxicity of ibrutinib therapy, Hematologic toxicity will be summarized using contingency tables., Up to 60 months|Incidence of secondary malignancies, Incidence of secondary malignancies will be summarized using contingency tables., Up to 60 months
+Fludeoxyglucose positron emission tomography (FDG-PET) imaging results, PFS and OS will be compared between PET/computed tomography (CT) positive and negative groups using the two-sample log-rank test with a 2-sided alpha of 5%. A Cox regression model will be conducted to regress PFS and OS on PET/CT positivity. Deauville criteria analyses will be conducted with cutoffs at scores of 2 and 3, and quantitative measurements, e.g. delta standard uptake value (SUV), %SUV decline and %MTV decline, in place of the dichotomous FDG-PET/CT outcome. Positive/negative predictive values, sensitivity and specificity of PET/CT further estimated by dichotomizing the PFS and OS at 2 years., Baseline|GSTT1 null allele expression, GSTT1 null allele expression will be associated with carmustine toxicity. Quantified using the standard Common Terminology Criteria for Adverse Events and changes in diffusing capacity of the lungs for carbon monoxide from baseline., Baseline|Single-nuclear polymorphisms (SNPs) in the BCNU metabolism or damage repair pathways, All SNPs will be evaluated for deviation from Hardy-Weinberg. In the absence of a hypothesized effect, analyses will be powered for allele dosing (i.e., additive) effects. The Cochran-Armitage test (for binary endpoints), Jonkheere-Terpstra test (for quantitative traits including biomarker or gene expressions in serum or tumor ribonucleic acid) and the Cox score test (for censored time-to-event outcomes) will be used to quantify marginal associations. Multivariable models, with molecular, clinical and demographic variables, will be constructed using conditional inference trees and random forests., Baseline|BCR pathway mutations, The mutation of CD79a/b, caspase recruitment domain family, member 11 (CARD11), tumor necrosis factor, alpha-induced protein 3 TNFAIP3), and myeloid differentiation primary response 88 (MYD88) will be associated with each outcome in the ibrutinib arm (Arm A) using the chi-squared test for response rate and the log-rank test for each censored outcome. Similar analyses will be conducted for the placebo arm (Arm B) to show that the association between mutation and the outcomes observed in the ibrutinib arm is not observed in the placebo arm., Baseline|BCL2, MYC, and Ki67 expression in tissue samples by immunohistochemistry (IHC), The expression of BCL2, MYC, and Ki67 will be analyzed to assess whether they affect clinical outcomes., Baseline|MYC translocations, Translocations in MYC with or without BCL2, and BCL6 will be analyzed to determine whether they are related to poor outcomes and whether ibrutinib modifies the prognosis., Baseline
+PRIMARY OBJECTIVE:
+
+I. To evaluate the ability of ibrutinib to improve 24-month progression free survival (PFS) compared to placebo in patients with non-germinal center B-cell-like (GCB) diffuse large B-cell lymphoma (DLBCL) as determined by immunohistochemistry (IHC).
+
+SECONDARY OBJECTIVES:
+
+I. To evaluate the ability of ibrutinib to improve overall survival (OS) compared to placebo.
+
+II. To evaluate the ability of ibrutinib to improve progression free survival (PFS) compared to placebo.
+
+III. To evaluate the ability of ibrutinib to improve post-transplant response rates compared to placebo.
+
+IV. To evaluate time to hematopoietic recovery in the two arms. V. To evaluate the safety and tolerability of ibrutinib compared to placebo. VI. To evaluate the incidence of secondary malignancies in the two arms. VII. To evaluate immune reconstitution in the two arms.
+
+CORRELATIVE SCIENCE OBJECTIVES:
+
+I. To assess whether pre-autologous hematopoietic stem cell transplantation (AutoHCT) positive fludeoxyglucose F-18 (FDG)-positron emission tomography (PET) is associated with inferior 24-month PFS as well as PFS and OS.
+
+II. To assess whether pre-AutoHCT FDG-PET results are differentially associated with 24-month PFS, PFS and OS in the ibrutinib versus placebo arms.
+
+III. To evaluate the application of the Lugano criteria and change in quantitative measurements between pre-AutoHCT and post AutoHCT (e.g. delta standard uptake variable \[SUV\], %SUV decline and %metabolic tumor volume \[MTV\] decline, and other available applicable quantitative measurements) to assess the association between changes in these variables and outcomes, such as PFS and OS.
+
+IV. To assess whether the GSTT1 null polymorphism is correlated with pulmonary toxicity after BCNU (carmustine)-containing conditioning regimens as part of autologous stem cell transplantation.
+
+V. To assess whether other polymorphisms in the BCNU metabolism pathway or BCNU damage repair pathway(s) are associated with pulmonary toxicity after BCNU-containing conditioning regimens as part of autologous stem cell transplantation.
+
+VI. To evaluate whether any of the proposed deoxyribonucleic acid (DNA) polymorphisms are associated with other toxicities.
+
+VII. To assess whether DLBCL subtype based on the lymphoma subtyping test (LST) is associated with 24-month PFS, PFS, and OS with ibrutinib compared to placebo in patients treated on this protocol.
+
+VIII. To assess whether activating mutations in the BCR pathway are associated with response to ibrutinib and with clinical outcomes in patients treated on this protocol.
+
+IX. To assess whether there are any phenotypic associations with IHC markers (particularly MYC protein expression level) and presence of these mutations.
+
+X. To assess whether BCL2, MYC, and Ki67 expression by IHC affect clinical outcomes in patients treated on this protocol.
+
+XI. To assess whether translocations in MYC with or without BCL2 and BC6 have poor outcomes in patients treated on this protocol and whether ibrutinib modifies the prognosis.
+
+OUTLINE: Patients are randomized to 1 of 2 treatment arms.
+
+CONDITIONING REGIMEN:
+
+ARM I: Investigators may choose to use either the BEAMi (carmustine, etoposide, cytarabine, melphalan, ibrutinib) or CBVi (cyclophosphamide, carmustine, etoposide, ibrutinib) regimen.
+
+BEAMi: Patients receive ibrutinib orally (PO) on days -6 to -1, carmustine intravenously (IV) over 2 hours on day -6, etoposide IV twice daily (BID) over 1-2 hours and cytarabine IV BID over 1-2 hours on days -5 to -2, and melphalan IV over 20-30 minutes on day -1. Optionally, if a day of rest is planned, patients may receive BEAMi on days -7 to -2.
+
+CBVi: Patients receive ibrutinib PO on days -6 to -1, carmustine IV over 2 hours on day -6, etoposide IV over 4 hours on day -4, and cyclophosphamide IV on day -2. Optionally, if a day of rest is planned, patients may receive CBVi on days -7 to -2.
+
+ARM II: Patients receive placebo PO on days -6 to -1 and receive 1 of the 2 conditioning regimens as in Arm I.
+
+TRANSPLANT: In both arms, patients undergo autologous hematopoietic progenitor cell or bone marrow transplant on day 0.
+
+CONTINUATION REGIMEN:
+
+ARM I: Beginning 30-60 days after transplant, patients receive ibrutinib PO on days 1-28. Treatment repeats every 28 days for 12 cycles in the absence of disease progression or unacceptable toxicity.
+
+ARM II: Beginning 30-60 days after transplant, patients receive placebo PO on days 1-28. Treatment repeats every 28 days for 12 cycles in the absence of disease progression or unacceptable toxicity. Patients experiencing disease progression may crossover Arm I.
+
+After completion of treatment, patients are followed up every 6 months for up to 60 months from registration.

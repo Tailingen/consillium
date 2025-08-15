@@ -1,0 +1,13 @@
+Pharmacokinetics of SPI-2012 (Eflapegrastim) in Breast Cancer Patients Receiving Docetaxel and Cyclophosphamide (TC) Chemotherapy
+The purpose of this study is to evaluate the pharmacokinetic (PK) profile of a fixed dose of SPI-2012 in patients with early-stage breast cancer receiving docetaxel and cyclophosphamide (TC) chemotherapy, as measured by the serum concentration of SPI-2012 on specific days following drug administration.
+Breast Cancer|Pharmacokinetics
+DRUG: SPI-2012
+Peak Plasma Concentration (Cmax), PK samples will be collected at predetermined time intervals and Peak Concentration is measured at highest value among all concentrations., Up to 42 days|Area under the plasma concentration versus time curve (AUC), PK samples will be collected at predetermined time intervals. AUC is calculated in the plot of plasma concentration versus time curve, Up to 42 days
+Number of participants with treatment-related adverse events as assessed by CTCAE v4.03, An AE is defined as any untoward medical occurrence in a patient or clinical investigation patient, temporally associated with the use of a medicinal product or study procedure, whether or not considered related to the medicinal product. A treatment-emergent AE (TEAE) is any AE that occurs from the first dose of study treatment through 35 (±5) days after the date of patient early discontinuation., 6 months|Population slope of the relationship between the change from baseline in QTc intervals and plasma concentrations of SPI-2012, A linear mixed effects modeling approach will be used to quantify the relationship between the plasma concentrations of SPI-2012 and change from baseline in QT intervals (∆QTc). Plasma concentration, intercept, and subject are to be included as random effects., Up to 42 days
+This is a Phase 1, single-arm multicenter study to evaluate the PK and safety of SPI-2012 (a long acting myeloid growth factor) in breast cancer patients treated with TC chemotherapy.
+
+Approximately 25 patients will be enrolled.
+
+Each cycle will be 21 days and patients will receive 4 cycles of treatment with 2 additional cycles based on the investigator's discretion. On Day 1 of each cycle, patients will receive TC chemotherapy and on Day 2 of each cycle, patients will receive SPI-2012.
+
+Pharmacokinetics will be evaluated only in Cycles 1 and 3.

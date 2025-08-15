@@ -1,0 +1,39 @@
+Immunotherapy (Nivolumab or Brentuximab Vedotin) Plus Combination Chemotherapy in Treating Patients With Newly Diagnosed Stage III-IV Classic Hodgkin Lymphoma
+This phase III trial compares immunotherapy drugs (nivolumab or brentuximab vedotin) when given with combination chemotherapy in treating patients with newly diagnosed stage III or IV classic Hodgkin lymphoma. Immunotherapy with monoclonal antibodies, such as nivolumab, may help the body's immune system attack the cancer, and may interfere with the ability of tumor cells to grow and spread. Brentuximab vedotin is a monoclonal antibody, brentuximab, linked to a toxic agent called vedotin. Brentuximab attaches to cancer cells in a targeted way and delivers vedotin to kill them. Chemotherapy drugs, such as doxorubicin, vinblastine, and dacarbazine, work in different ways to stop the growth of cancer cells, either by killing the cells, by stopping them from dividing, or by stopping them from spreading. The addition of nivolumab or brentuximab vedotin to combination chemotherapy may shrink the cancer or extend the time without disease symptoms coming back.
+Ann Arbor Stage III Hodgkin Lymphoma|Ann Arbor Stage III Lymphocyte-Depleted Classic Hodgkin Lymphoma|Ann Arbor Stage III Mixed Cellularity Classic Hodgkin Lymphoma|Ann Arbor Stage III Nodular Sclerosis Classic Hodgkin Lymphoma|Ann Arbor Stage IV Hodgkin Lymphoma|Ann Arbor Stage IV Lymphocyte-Depleted Classic Hodgkin Lymphoma|Ann Arbor Stage IV Mixed Cellularity Classic Hodgkin Lymphoma|Ann Arbor Stage IV Nodular Sclerosis Classic Hodgkin Lymphoma|Classic Hodgkin Lymphoma|Lymphocyte-Rich Classic Hodgkin Lymphoma
+PROCEDURE: Biospecimen Collection|DRUG: Brentuximab Vedotin|PROCEDURE: Computed Tomography|DRUG: Dacarbazine|DRUG: Doxorubicin Hydrochloride|BIOLOGICAL: Filgrastim|PROCEDURE: Magnetic Resonance Imaging|BIOLOGICAL: Nivolumab|BIOLOGICAL: Pegfilgrastim|PROCEDURE: Positron Emission Tomography|OTHER: Quality-of-Life Assessment|OTHER: Questionnaire Administration|RADIATION: Radiation Therapy|DRUG: Vinblastine Sulfate
+Progression free survival (PFS), Will test the null hypothesis (HR=1) for PFS using stratified log-rank test with a one-sided alpha of 0.021. The analysis will be based on modified intent-to-treat and will include all eligible patients as randomized regardless of treatment received. The one-sided alpha of .021 will control of the overall type-one error of the study (including the 2 interim superiority analyses) to be less than .025., From date of registration to date of first observation of progressive disease according to the 2014 Lugano classification, or death due to any cause, assessed at 2 years
+Overall survival, 2 years|Event-free survival (EFS), Will be estimated using Kaplan-Meier method and compared between treatment arms using cox regression model., From date of registration to date of first occurrence of EFS event, assessed at 2 years|Metabolic complete response rate, Defined using 2014 Lugano classification., Up to 10 years|Incidence of adverse events, Toxicity will be evaluated using Common Terminology Criteria of Adverse Events (CTCAE) version 5 items. Treatment-related toxicities between arms will be compared using Fisher's exact test stratified by age groups. Targeted patient-reported toxicities also will be collected at each time point using the Patient Reported Outcome (PRO)-CTCAE for patients 18 years and older and from youth 12-17 years, using the Pediatric PRO-CTCAE., Up to 10 years
+PRIMARY OBJECTIVE:
+
+I. To compare the progression-free survival (PFS) in patients with newly diagnosed advanced stage classical Hodgkin lymphoma randomized to N-AVD (nivolumab, doxorubicin hydrochloride \[doxorubicin\], vinblastine sulfate \[vinblastine\], dacarbazine) versus that obtained with BV-AVD (brentuximab vedotin, doxorubicin, vinblastine, dacarbazine).
+
+SECONDARY OBJECTIVES:
+
+I. To compare overall survival (OS) in patients randomized to N-AVD versus BV-AVD.
+
+II. To compare event-free survival (EFS) in patients randomized to N-AVD versus BV-AVD.
+
+III. To compare the metabolic complete response (CR) rate at the end of treatment in patients randomized to N-AVD versus BV-AVD.
+
+IV. To compare the physician-reported treatment-related adverse event rates between arms stratified by age groups.
+
+V. To compare patient-reported symptoms using selected Patient Reported Outcome Common Toxicity Criteria for Adverse Events (PRO-CTCAE) items between arms stratified by age groups.
+
+VI. To compare the safety and tolerability of N-AVD versus that of BV-AVD.
+
+QUALITY OF LIFE OBJECTIVE:
+
+I. To compare between arms patient-reported fatigue, neuropathy and health-related quality of life over time (baseline, beginning of cycle 3, 4-8 weeks after the last dose of protocol therapy \[following last dose of study drug or radiation therapy, whichever is later\], and 1 and 3 years after randomization) using the Patient Reported Outcomes Measurement Information System (PROMIS)-Fatigue, the Functional Assessment of Cancer Therapy/Gynecologic Oncology Group-Neurotoxicity (FACT/GOG-Ntx), and the PROMIS Global, respectively.
+
+BANKING OBJECTIVES:
+
+I. To bank specimens for future correlative studies. II. To bank positron emission tomography (PET)-computed tomography (CT) images for future correlative studies.
+
+OUTLINE: Patients are randomized to 1 of 2 arms.
+
+ARM I: Patients receive doxorubicin hydrochloride intravenously (IV), vinblastine sulfate IV, dacarbazine IV, and nivolumab IV over 30 minutes on days 1 and 15. Patients may receive pegfilgrastim subcutaneously (SC) on days 2 and 16, or filgrastim SC or IV on days 6-10 and 21-25. Treatment repeats every 28 days for 6 cycles in the absence of disease progression or unacceptable toxicity. After completion of cycle 6, patients may receive radiation therapy 5 days per week for approximately 4 weeks at the discretion of the treating physician. Patients also undergo peripheral blood specimen collection and CT, PET/CT and/or magnetic resonance imaging (MRI) on study.
+
+ARM II: Patients receive doxorubicin hydrochloride IV, vinblastine sulfate IV, dacarbazine IV, and brentuximab vedotin IV over 30 minutes on days 1 and 15. Patients may receive pegfilgrastim SC on days 2 and 16, or filgrastim SC or IV on days 6-10 and 21-25. Treatment repeats every 28 days for 6 cycles in the absence of disease progression or unacceptable toxicity. After completion of cycle 6, patients may receive radiation therapy 5 days per week for approximately 4 weeks at the discretion of the treating physician. Patients also undergo peripheral blood specimen collection and CT, PET/CT and MRI on study.
+
+After completion of study treatment and prior to disease progression, patients are followed up every 3 months for the first year, every 6 months for years 2 and 3, then annually until 10 years after registration. Patients are followed up at the time of progression and then annually until 10 years after registration. Patients who receive radiation therapy are followed up at 8-12 weeks after completion of radiation therapy.

@@ -1,0 +1,39 @@
+Sorafenib in Treating Patients With Advanced Solid Tumors
+This randomized phase I trial is studying the side effects, such as high blood pressure, and best dose of sorafenib in treating patients with advanced solid tumors. Sorafenib may stop the growth of tumor cells by blocking some of the enzymes needed for cell growth and by blocking blood flow to the tumor.
+Unspecified Adult Solid Tumor, Protocol Specific
+DRUG: sorafenib tosylate|OTHER: pharmacological study|PROCEDURE: assessment of therapy complications|OTHER: laboratory biomarker analysis
+Changes in BP, BP will first be calculated for each subject as BP after 1 week of treatment minus BP before that treatment dose. Then, for each randomized group separately, the BP changes in the two study phases will be compared using paired t-tests., From baseline to day 21
+Association between steady state trough levels of sorafenib and BP, Spearman correlation coefficients (since the distribution of sorafenib plasma trough levels is not normal and the relationship may be non-linear) will be calculated and scatter plots will be produced separately for each phase of the study. The association between differences in trough levels at the two different doses and changes in BP due to dose escalation will be tested in a similar manner. comparisons of BP changes and drug plasma levels between the three randomized treatment arms will be analyzed by analysis of variance (ANOVA) followed by Tukey's allowance for multiple comparisons., Days 8 and 22|Toxicity rates in the two high dose groups, Toxicity rates will be summarized by type, grade, and attribution and compared using chi-squared tests or Fisher exact tests, as appropriate., Every 2 weeks, assessed up to 1 year|Effect of sorafenib dose/exposure on thyroid function, Analysis of variance for repeated measures with one between groups factor (sorafenib dose) and one within subjects factor (time) will be used on serum parathyroid hormone (PTH)., From baseline up to 50 days
+PRIMARY OBJECTIVES:
+
+I. Determine whether increasing the dose of sorafenib tosylate increases the plasma steady-state concentration in patients with advanced solid tumors.
+
+II. Determine whether increasing the dose of this drug affects blood pressure in these patients.
+
+SECONDARY OBJECTIVES:
+
+I. Determine whether the variability in blood pressure elevation is due to pharmacokinetic or pharmacodynamic variability.
+
+II. Compare the toxicity and differences in pharmacokinetics of delivering a higher dose of this drug per day (using two different schedules) vs delivering the currently recommended dose of this drug.
+
+III. Investigate mechanisms of sorafenib tosylate-induced hypophosphatemia with serial measurements of phosphate metabolism (no longer assessed as of 4/29/2009) in these patients, detailed baseline measurements in all patients, and detailed evaluations of patients developing grade 3 or greater hypophosphatemia.
+
+IV. Detect subclinical effects of this drug on measures of thyroid function. V. Identify biomarkers predicting the categorization of patient response.
+
+OUTLINE: This is a randomized, dose-escalation study.
+
+Patients receive oral sorafenib tosylate twice daily on days 1-7 and once on day 8. Patients not experiencing at least one grade 2 or higher toxicity during the initial sorafenib treatment are randomized to 1 of 3 dose-escalated treatment arms.
+
+ARM I: Patients receive higher-dose oral sorafenib tosylate twice daily on days 15-36.
+
+ARM II: Patients receive standard-dose oral sorafenib tosylate three times daily on days 15-36.
+
+ARM III: (closed to accrual as of 4/29/2009) Patients receive standard-dose oral sorafenib tosylate twice daily on days 15-36.
+
+In all arms, treatment repeats every 3 weeks in the absence of disease progression or unacceptable toxicity.
+
+Patients undergo ambulatory blood pressure monitoring at baseline, on days 7, 14, and 21, and at 6 and 12 months. Blood samples are collected periodically throughout study and evaluated for pharmacokinetic studies, thyroid function, serum markers, and phosphate metabolism\*. CT perfusion imaging is performed at baseline, week 6, week 12, and then every 8-12 weeks thereafter.
+
+NOTE: \* Phosphate metabolism no longer assessed as of 4/29/2009.
+
+After completion of study treatment, patients are followed every 4 weeks for 1 year and then every 3 months thereafter.

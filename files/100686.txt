@@ -1,0 +1,14 @@
+Quantifying Oxygen Utilization of Tumors Using Oxygen-Enhanced Molecular MRI
+This trial looks to study the safety and feasibility of using oxygen-enhanced molecular MRI to understand how cancer cells use oxygen differently than normal cells. Cancer cells tend to utilize (or not utilize) oxygen differently than normal cells. By using the oxygen-enhanced molecular MRI, researchers will be able to create spatial "maps" depicting areas of abnormal oxygen utilization unique to cancer. This type of information may be useful for diagnosing new cancers, understanding various "subtypes" of cancer that might utilize oxygen differently, or this information may be useful for evaluating new drugs that impact cancer metabolism.
+Malignant Brain Neoplasm
+PROCEDURE: Arterial Spin Labeling Magnetic Resonance Imaging|PROCEDURE: pH-Weighted amine CEST|PROCEDURE: Oxygen-weighted SAGE-EPI
+Change in pH-weighted amine CEST MRI to measure tumor acidity (MTRasym at 3ppm) before/after oxygen enrichment, Will be measured by voxel-wise t-tests via analysis of functional NeuroImages (AFNI) software between the average R2' and MTRasym during normal room air and medical grade air., Baseline and two hours after Oxygen enrichment|Change in oxygen-weighted SAGE-EPI to measure oxygen extraction (R2') before and after oxygen enrichment, We will perform voxel-wise t-tests via AFNI software between the average R2' and MTRasym during normal room air and medical grade air., Baseline and two hours after Oxygen enrichment|Tumor blood flow as measured by cerebral blood flow (CBF) from arterial spin labeling (ASL)., Change in ASL perfusion estimates of relative cerebral blood flow (CBF) before and after oxygen enrichment, Baseline and two hours after Oxygen enrichment
+PRIMARY OBJECTIVES:
+
+I. Determine the safety, feasibility, and sensitivity of oxygen-enhanced molecular magnetic resonance imaging (MRI) in healthy volunteers.
+
+II. Measure oxygen-enhanced molecular MRI characteristics in human brain tumors.
+
+OUTLINE:
+
+Participants undergo arterial spin labeling (ASL) MRI scan and amine chemical exchange saturation transfer spin-and-gradient echo echo-planar imaging using amine proton CEST echo spin-and-gradient echo (SAGE) EPI (CEST-SAGE-EPI) while breathing normal room air (21% oxygen). Patients then undergo another ASL MRI and CEST-SAGE-EPI while breathing medical grade air (100% oxygen). Total ASL MRI and CEST-SAGE-EPI imaging scan time is 60 minutes.

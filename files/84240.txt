@@ -1,0 +1,7 @@
+Glucagon-like Peptide-1 Receptor PET/CT in GLP-1R Related Disease
+To evaluate the potential usefulness of 68Ga/18F-Exendin 4 positron emission tomography/computed tomography (PET/CT) for the diagnosis of primary and metastatic lesions in various GLP-1R-related disease patients.
+GLP1-R-related Disease|Tumor|Insulinoma|Positron Emission Tomography
+DIAGNOSTIC_TEST: 18F/68Ga-Exendin 4
+Standardized uptake value (SUV), Standardized uptake value (SUV) of Exendin 4 for each target lesion of subject or suspected primary tumor or/and metastasis, 30 days
+Diagnostic efficacy, The sensitivity, specificity and accuracy of Exendin 4 PET/CT were calculated., 30 days
+Subjects with various GLP1-R-related disease patients underwent 68Ga/18F-Exendin 4 PET/CT either for an initial assessment or for recurrence detection. Lesions uptake was quantified by the maximum standard uptake value (SUVmax). The sensitivity, specificity, positive predictive value (PPV), negative predictive value (NPV) and accuracy of 68Ga/18F-Exendin 4 PET/CT were calculated.

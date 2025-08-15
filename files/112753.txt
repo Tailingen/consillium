@@ -1,0 +1,116 @@
+Genetic Landscape in Women with Metastatic Ovarian Cancer Before and During Treatment with PARP Inhibitors
+Therapy related acute myeloid leukemia and myelodysplasia (t-MN) is a potential late complication of cytotoxic therapy, and it is of particular concern in the treatment of patients with epithelial ovarian carcinoma (EOC) exposed to multiple cycles of platinum-based chemotherapy during the course of their disease. An epidemiological analysis published in 2011 (Gynecologic Oncology) showed that the overall incidence of t-AML is 0.17%, with a median latency to development of leukemia of 4 years (range 0-27 years).
+
+Inhibition of PARP is a potential synthetic lethal therapeutic strategy for the treatment of cancers characterized by specific DNA repair defects, such as those that harbor a BRCA1 or BRCA2 (BRCA1/2) mutation and are therefore deficient in homologous recombination repair. In homologous recombination-deficient tumors, PARP inhibition eliminates an alternative DNA repair pathway essential for maintaining viability, leading to tumor cell death. The estimated prevalence of BRCA1/2 mutations in V2 03/06/2021 2 patients with newly diagnosed high-grade serous ovarian cancer is 20-25% and it might be higher in patients with platinum-sensitive, relapsed ovarian cancer. Early studies have shown significant efficacy for PARP inhibitors in patients with germline BRCA1/2 mutations.
+
+Our hypothesis is that these patients are carriers of clonal hematopoiesis of indeterminate potential (CHIP) before treatment with PARPi. CHIP refers to the presence of clonal population(s) of hematopoietic cells with somatic mutations in genes associated with hematological malignancies (e.g. DNMT3A, ASXL1, TET2, TP53 and others), in the absence of morphological evidence of disease.
+
+The proposed study will address the hypothesis that platinum-based chemotherapy may promote the onset of newly developed mutated clones and clonal selection of hematopoietic stem cells harboring somatic mutations.
+
+Moreover, the concomitant presence of germline mutations in cancer predisposing genes might increase the pool of pre-existing hematopoietic clones and/or favor the accumulation of subsequent somatic mutations.
+
+In this context, the inhibition of PARP-mediated repair of DNA lesions created by chemo or radiotherapy can further favor t-MN development.
+Leukemia, Myeloid, Acute|Myeloid Dysplasia|Ovarian Epithelial Cancer
+PROCEDURE: buccal cells|PROCEDURE: bone marrow cells|PROCEDURE: peripheral blood cells|PROCEDURE: bone marrow biopsy
+Identification of the events and determination of their incidence in study patient's population:, The study is descriptive in nature and no formal statistical testing is necessary or applicable.
+
+* Cell blood count abnormalities
+* Morphological alterations allowing a diagnosis of myelodysplastic syndrome or acute myeloid leukemia
+* Chromosomal abnormalities
+* Clonal hematopoiesis and extent of the expansion and evolution of the CHIP clones induced by PARP inhibitors.
+
+One of the primary objectives is to estimate the proportion of patients with stable abnormalities in hematologic counts. A patient is defined as having stable abnormalities in hematologic counts if the status "CTCAE grade ≥ 2 and/or platelets \<100,000/mmc" persists for at least two weeks.The 90% confidence interval of the proportion of patients with stable abnormalities in hematologic counts will be calculated using the exact one-sided binomial test., 8 years
+Survival data evaluation, * Overall survival (OS)
+* Progression free survival (PFS) Progression free survival (PFS) will be defined as the time from initiation of PARP-inhibitor treatment to objective disease progression on imaging or death from any cause. Overall survival (OS) will be defined as the time from initiation of PARP-inhibitor treatment to death from any cause.
+
+Both PFS and OS will be estimated using the Kaplan-Meier method., 8 years
+Analysis on peripheral blood
+
+After withdrawal, the following analysis will be performed on the peripheral blood samples:
+
+1. morphological evaluation with potential identification of dysplastic changes involving one or more hematopoietic lineage suggesting or not myelodysplastic syndrome or acute leukemias;
+2. cytofluorimetric analysis of mononuclear cell phenotype to identify possible abnormalities in the differentiation pathway and the presence of blasts.
+
+Immune phenotyping will be performed by 10 colors multiparametric FACS analysis (Navios, Beckman Coulter). Myeloid cell maturation and presence of progenitors/blasts will be assessed in blood samples with the following markers:
+
+* CD66b, CD11b, CD16, CD38, CD34, CD13, CD14, CD33, CD45, HLA-DR
+* CD34, CD117, CD45, CD10, CD19, CD13, CD33, CD64, CD36, CD71 The rest of the analyses will be performed on thawed mononuclear cells. For each staining, a marker of cell viability will be used (Live/Dead, Thermo Fisher Scientific). Parameters will be chosen based on previous results obtained from genome and phenotype analysis.
+
+The impact of the treatment on different cell populations will be measured by comparing patients.
+
+Analysis on bone marrow
+
+Bone marrow material will be withdrawn by bone marrow aspirate and bone marrow biopsy and the following analysis will be performed:
+
+* Bone marrow aspirate:
+
+  1. morphological evaluation with potential identification of dysplastic changes involving one or more hematopoietic lineage suggesting or not myelodysplastic syndrome or acute leukemias;
+  2. cytofluorimetric analysis of mononuclear cell phenotype to identify possible abnormalities in the differentiation pathway and the presence of blasts ;
+  3. cytogenetic and FISH analysis to identify the possible presence of chromosomal abnormalities induced by the previous or ongoing treatment.
+
+     Heparin bone marrow samples will be sent to the Hematology Lab and will be freshly processed following the standard diagnostic procedures.
+
+     For cytogenetic analysis, at least 10x106 cells will be cultured for 24/48h and will be processed following a standard protocol for karyotype analysis. The metaphases will be stained with QFQ banding and will be analyzed with Cytovysion Software (Leica). At least 20 metaphases will be analyzed and reported.
+
+     For FISH analysis, at least 500 ul of bone marrow sample will be processed following a standard protocol. For FISH analysis, the panel of probes routinely used in the hematology laboratory for myelodysplastic patients will be used:
+
+     EGR1/D5S630 for monosomy/deletion 5q Vysis Probe D7S486/CEN7 for monosomy7/deletion 7q Vysis Probe MECOM/EVI1 for inv(3)/t(3;3) Cytocell Probe D20S108 for deletion 20q Vysis Probe CEN8 for trisomy 8 Vysis Probe Each probe will be evaluated on 200 nuclei and will be reported with abnormalities if they are above our internal cut-off.
+* Paraffin embedded sections from bone marrow biopsy:
+
+  1. morphological evaluation;
+  2. immunohistochemistry.
+
+Genetic analysis
+
+The types of genetic analysis will be performed during the course of the study are:
+
+1. analysis of germline variants. To identify germline genetic variants that may predispose ovarian cancer patients to develop t-MN, an in-house developed personalized genetic panel, the Myelo Panel, will be used. The panel will target cancer predisposing genes, including those most frequently associated with the risk of development of hematological tumors, AML drivers, actionable genes and pharmacogenomics SNPs ;
+2. analysis of CHIP. In order to detect the presence of CHIP in the enrolled patients and to monitor the evolution of the CHIP clones following treatment with PARP inhibitor, it will be use high-sensitive NGS sequencing technology: Unique Molecular Barcoding (UMI) sequencing. The UMI-sequencing protocol, coupled to custom target enrichment, allows to detect mutations with a frequency as low as 0.1%.A personalized genetic panel containing the 80 most frequently mutated genes in CHIP will be used.
+
+   ABL1 BRCC3 ETV6 HIST1H1C MPL PIK3CA SETD2 STAT3 ASXL1 CALR EZH2 IDH1 MYD88 PPM1D SETDB1 SUZ12 ASXL2 CARD11 TENT5C (FAM46C) IDH2 NF1 PRDM1 SF1 TET1 ATM CBL FBXW7 IKZF1 NOTCH1 PTPN11 SF3B1 TET2 ATRX CBLB FLT1 JAK2 NOTCH2 RAD21 SH2B3 TNFAIP3 AXL CEBPA FLT3 JAK3 NOTCH3 RHEB SMAD4 TNFRSF14 BCOR CREBBP FOXP1 KDM6A NPM1 RICTOR SMC1A TP53 BCORL1 CUX1 GATA2 KIT NRAS RIT1 SMC3 U2AF1 BIRC3 DNMT3A GNAS KMT2D (MLL2) PAX5 RUNX1 SRSF2 WT1 BRAF EP300 GNB1 KRAS PHF6 SETBP1 STAG2 ZRSR2
+3. analysis of mutations associated with myeloid malignancies. To identify the genomic landscape of the developed t-MN, the mutational status of 69 genes potentially involved in the development of myeloid disease will be assessed using a commercially available diagnostic panel: Oncomine Myeloid Research Assay (Thermo Fisher Scientific, see Appendix 5). In parallel, the results obtained will be compared with the in-house developed custom gene panel, the Myelo Panel, which also includes genes most frequently associated with the risk of developing hematological malignancies, AML drivers, actionable genes and pharmacogenomic SNPs.
+
+   Analysis Timeline For each enrolled patient, the detailed analysis below will be performed. Before PARP inhibitor treatment (as first line and as maintenance therapy)
+
+   Buccal cells:
+   * custom myeloid gene panel (Myelo-Panel) to identify germline mutations predisposing to cancer development (Thermo Fisher Scientific)
+
+   Bone marrow cells (optional, for comparison, only in a limited number of patients):
+
+   - morphological analysis
+   * immunophenotype
+   * cytogenetics/FISH
+   * analysis of CHIP by custom gene panel and high sensitivity NGS
+
+   Peripheral blood cells:
+   * analysis of CHIP by custom gene panel and high sensitivity NGS
+
+   Bone marrow biopsy (optional, for comparison, only in a limited number of patients):
+
+   - histology
+
+   - immunohistochemistry
+
+   Every 6 months during PARP inhibitor treatment
+
+   Peripheral blood cells:
+
+   - analysis of CHIP by custom gene panel and high sensitivity NGS
+
+   Appearance of blood count abnormalities and/or haematological neoplasms During PARP inhibitor maintenance treatment, patients will be monitored monthly with clinical and blood count examination. In case of appearance of blood count abnormalities (CTCAE grade ≥ 2 and/or platelets\<100.000/mmc), involving at least one hematopoietic subpopulation, the drug will be suspended and blood cell counts evaluated every 2 weeks. In case of recovery the drug will be reintroduced. In case of stability or further deterioration, bone marrow and peripheral blood examinations (analysis detailed below) will be performed after 4-8 weeks from PARP inhibitor interruption at least, unless the worsening of the blood counts is so fast that it requires a bone marrow evaluation before.
+
+   At appearance of blood count abnormalities, the following analysis will be perform:
+
+   Bone marrow cells:
+
+   - morphological analysis
+
+   - immunophenotype
+
+   - cytogenetics/FISH
+   * analysis of mutations by both Oncomine Myeloid Research Panel and our custom Myelo-Panel (Thermo Fisher Scientific)
+   * analysis of CHIP by custom gene panel and high sensitivity NGS
+
+   Bone marrow biopsy:
+   * histology
+   * immunohistochemistry

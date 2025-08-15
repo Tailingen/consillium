@@ -1,0 +1,21 @@
+Study to Predict Risk of Relapse in Bone Marrow Cell Samples From Younger Patients With Acute Myeloid Leukemia
+RATIONALE: A screening test, such as My Profile Pediatric Assay, may help doctors predict a patient's risk of relapse and plan better treatment for acute myeloid leukemia.
+
+PURPOSE: This clinical trial is studying using the My Profile Pediatric Assay to see how well it works in predicting risk of relapse in bone marrow cell samples from younger patients with acute myeloid leukemia.
+Leukemia
+OTHER: diagnostic laboratory biomarker analysis
+Area under the receiver operating characteristic (ROC) curve of continuous score from the pre-specified classifier in predicting relapse after complete response to cytarabine- based induction chemotherapy, A logistic regression model and area under the ROC curve for the model will be tested for significance against a null value of 0.5., Up to 3 years
+Continuous score from the pre-specified classifier as a predictor of relapse after response to induction chemotherapy, A gate-keeper strategy will be applied to control the experiment-wise type I error rate at 0.05. The null hypothesis will be tested using a likelihood ratio test that will compare the likelihood for a full (LF) and a reduced (LR) logistic regression model of relapse (early relapse vs continuous complete response), where the full model will include the covariates and the continuous score from the pre-specified classifier and the reduced model will include only the covariates., Up to 3 years
+OBJECTIVES:
+
+Primary
+
+* To validate the accuracy of the My Profile Pediatric Assay to predict risk of relapse in pediatric patients with non-M3 acute myeloid leukemia (AML) who responded to cytarabine-based induction chemotherapy.
+
+Secondary
+
+* To validate the continuous score from the pre-specified classifier as a predictor of relapse after response to induction chemotherapy, while controlling for the simultaneous effects of the following clinical and laboratory variables: age, WBC, ethnicity, cytogenetics, Flt3-ITD, NPM1, MRD, and bone marrow (BM) donor availability.
+* To validate the accuracy of the prespecified low versus high relapse indicator variable (I_L/H) as a predictor of relapse after induction therapy.
+* To validate the accuracy of the prespecified I_L/H as a predictor of relapse after induction therapy, while controlling for the simultaneous effects of the following clinical and laboratory variables: MRD, age, WBC, ethnicity, cytogenetics, Flt3-ITD, NPM1, and BM donor availability.
+
+OUTLINE: Archived bone marrow mononuclear cells are analyzed by single cell network profile assay, the My Profile™ AML Risk of Relapse Assay. Molecular markers analyzed include Flt3-ITD, NPM1, and MRA. Results are then correlated with each patient's clinical data including patient's age, race/ethnic background, gender, treatment received, and outcomes.

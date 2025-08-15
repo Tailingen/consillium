@@ -1,0 +1,41 @@
+Vaccination Against COVID-19 in Cancer
+This study will collect information on immune response and adverse events after vaccination against coronavirus disease (COVID-19) in a vulnerable patient cohort. Understanding the ability or disability to mount a protective immune response after vaccination will help to counsel patients during the pandemic and support decisions on whom to vaccinate and to identify patients who require other measures to protect them from COVID-19.
+Cancer
+BIOLOGICAL: mRNA-1273 SARS-CoV-2 vaccine from Moderna
+Immune response to vaccination against COVID-19 measured as antibody response expressed as geometric mean concentration: arbitrary units (AU)/ml, The primary endpoint is the antibody based immune response to vaccination against COVID-19 on day 28 after the second vaccination in patients receiving cancer treatment as compared to individuals without cancer. Expressed as antibody response expressed as geometric mean concentration: arbitrary units (AU)/ml, Measured at 28 days after vaccination
+Safety assessment (S)AEs; Incidence and severity of solicited AEs during 7 days after each vaccination with incidence and nature of SAEs reported during 7 days after each vaccination, * Incidence and severity of solicited AEs during 7 days after each vaccination
+* Incidence and nature of SAEs during 7 days after each vaccination, During 7 days after vaccination|Safety assessment immune related (ir), with incidence and nature of newly occurring irAEs grade ≥ 3 in cohort B and D reported up to 28 days, - Incidence and nature of newly occurring irAEs grade ≥ 3 in cohort B and D up to 28 days after the last vaccination graded according to the Common Criteria for Adverse Events version 5.0 (CTCAE v5.0)
+
+* Neutralizing capacity of antibodies to test functionality
+* Assessment of SARS-CoV2 specific T cells response, 7 days, 28 days, and 6 months after vaccination using a high throughput Interferon ɣ ELIspot., From start till 28 days after second vaccination|Safety assessment AE of special interest (SI)s with Incidence, nature and severity of AESIs graded according to CTCAE v5.0 reported up to 12 months after vaccination, - Incidence, nature and severity of AESIs graded according to CTCAE v5.0, From start till 12 months after vaccination|Assessment of immune response: expressed as geometric mean antibody concentration: arbitrary units (AU)/ml, Persistence of antibody response expressed as geometric mean concentration: arbitrary units (AU)/ml, measured at 6 to 18 months after vaccination|Assessment of immune response: measured as levels of SARS-CoV-2 specific T-cell responses expressed as number of IFNg producing T cells/ million peripheral blood mononuclear cells (PBMCs), Levels of SARS-CoV-2 specific T-cell responses expressed as number of IFNg producing T cells/ million peripheral blood mononuclear cells (PBMCs), measured 28 days to 18 months after vaccination
+Rationale:
+
+Patients with cancer have an increased risk of adverse outcome of COVID-19, which is determined by their underlying disease and/or cancer treatment. Therefore, vaccination of cancer patients against COVID-19 is recommended. However, phase III studies do not provide robust information on efficacy and safety in this vulnerable population. In patients with cancer, the disease itself, but also immunotherapy and chemotherapy, may have a significant impact on the ability to develop an effective immune response to COVID-19 vaccination, and could even increase the risk of adverse events.
+
+Objective:
+
+To assess immune response and adverse events after administration of one approved vaccine against COVID-19 in patients with cancer treated with immunotherapy and/or chemotherapy.
+
+Study design:
+
+This is a prospective multicenter, multicohort study.
+
+Study population:
+
+Four cohorts will receive vaccination against COVID-19:
+
+A. Individuals without cancer (N=246, i.e., partners of patients in cohort B, C, and D) B. Patients with cancer treated with immunotherapy (N=135) C. Patients with cancer treated with chemotherapy (N=246) D. Patients with cancer treated with chemo-immunotherapy (N=246)
+
+Intervention:
+
+Participants will be vaccinated against COVID-19 with an approved vaccine. Blood will be drawn at different time points by venipuncture and mucosal lining fluid will be collected at 2 time points.
+
+Main study parameters/endpoints:
+
+The primary endpoint is the antibody based immune response on day 28 after the second vaccination. Participants will be classified as responders or non-responders. The definition of response is seroconversion defined as presence of SARS-CoV-2 spike S1-specific IgG antibodies in individuals without measurable anti-S antibodies at baseline. Participants who are seropositive at baseline will not be included in the analysis of the primary endpoint. The percentage of responders of each patient cohort will be compared with the percentage responders in the control group. Safety is a secondary endpoint which will be reported in terms of percentage of solicited local and systemic adverse events (AEs) graded according to severity. Other secondary endpoints include longevity at 6 months and levels of severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2) specific T cell responses.
+
+Nature and extent of the burden and risks associated with participation, benefit and group relatedness:
+
+Participants will have to visit the hospital at 6 time points and participants who receive a third vaccination will have 2 additional hospital visits. The vaccine will be administered two times according to standard of care, with the option of a third vaccination for participants without an adequate response after 2 vaccinations. Blood will be drawn (\~373 ml in total for participants receiving 2 vaccinations, and \~539ml in participants receiving 3 vaccinations) prior to the vaccinations and at day 28 and 6 months, 11 months and 18 months after the second vaccination. Nasal mucosal lining fluid samples will be collected at baseline and day 28 after the second vaccination in a subgroup of patients. Blood sampling will give minor discomfort. Vaccination can cause AEs including fatigue, chills, headache, myalgia, and pain at the injection site. For seven days after each vaccination, participants will be asked to record local and systemic reactions using a questionnaire. At baseline and at 3, 6, 9, 12, 15 and 18 months after the second vaccination, patients will be asked to complete questionnaires about potential subsequent testing for SARS-CoV-2, diagnosis of COVID-19, and severity of COVID-19.
+
+This study will collect information on immune response and adverse events after vaccination against COVID-19 in a vulnerable patient cohort. It will also explore immune response and safety of a third vaccination in participants without an adequate antibody response after the second vaccination. Understanding the ability or disability to mount a protective immune response after vaccination will help to counsel patients during the pandemic and support decisions on whom to vaccinate and to identify patients who require other measures to protect them from COVID-19. Participants will be informed about their antibody titer in a letter that includes an explanation about what this means to them. This will be done after antibody measurements have been completed for day 28 after second vaccination, and again after completion of measurements for 6 months and 28 days after third vaccination, and 11 months and 18 months after the second vaccination.

@@ -1,0 +1,62 @@
+Pharmacokinetic Study of Lurbinectedin in Combination With Irinotecan in Patients With Selected Solid Tumors
+Prospective, open-label, dose-ranging, uncontrolled phase I/II study of Lurbinectedin in combination with irinotecan. The study will be divided into two stages: a Phase I dose escalation stage and a Phase II expansion stage.
+Advanced Solid Tumors|Glioblastoma|Soft Tissue Sarcoma (Excluding GIST)|Endometrial Carcinoma|Epithelial Ovarian Carcinoma|Mesothelioma|Gastroenteropancreatic Neuroendocrine Tumor|SCLC|Gastric Carcinoma|Pancreatic Adenocarcinoma|Colorectal Carcinoma|Neuroendocrine Tumors
+DRUG: Lurbinectedin|DRUG: Irinotecan
+Maximum Tolerated Dose (MTD), The MTD will be the lowest dose level explored during dose escalation which one third or more of evaluable patients develops DLTs in Cycle 1. DLTs are related AEs during Cycle 1 fulfilling at least 1 of the criteria below:
+
+* Grade 4 neutropenia lasting \>3 days
+* Febrile neutropenia of any duration or neutropenic sepsis
+* Grade 4 thrombocytopenia/Grade 3 with clinically bleeding requiring a transfusion
+* Grade 4 ALT/AST increase/Grade 3 lasting \>14 days
+* Grade≥2 increased ALT/AST concomitantly with total bilirubin increase ≥2.0×ULN and normal ALP
+* Grade≥3 diarrhea lasting \>5 days and despite adequate corrective treatment
+* Grade≥3 CPK increase
+* Grade≥3 non-hematological related AE, excluding nausea/vomiting, hypersensitivity reactions, extravasations, grade 3 fatigue lasting \<1 week and nonclinically biochemical abnormalities
+* Administration delay of Cycle 2 \>15 days from the Day 22 due to any related AEs
+* Failure to meet the Day-8 continuation criteria for irinotecan in Cycle 1, 66 months|Recommended Dose (RD), The RD will be the highest dose level explored during dose escalation in which fewer than one third of patients develop DLTs during Cycle 1. DLTs are related AEs during Cycle 1 fulfilling at least 1 of the criteria below:
+
+* Grade 4 neutropenia lasting \>3 days
+* Febrile neutropenia of any duration or neutropenic sepsis
+* Grade 4 thrombocytopenia/Grade 3 with clinically bleeding requiring a transfusion
+* Grade 4 ALT/AST increase/Grade 3 lasting \>14 days
+* Grade≥2 increased ALT/AST concomitantly with total bilirubin increase ≥2.0×ULN and normal ALP
+* Grade≥3 diarrhea lasting \>5 days and despite adequate corrective treatment
+* Grade≥3 CPK increase
+* Grade≥3 non-hematological related AE, excluding nausea/vomiting, hypersensitivity reactions, extravasations, grade 3 fatigue lasting \<1 week and nonclinically biochemical abnormalities
+* Administration delay of Cycle 2 \>15 days from the Day 22 due to any related AEs
+* Failure to meet the Day-8 continuation criteria for irinotecan in Cycle 1, 66 months|Response Rate, Phase II Expansion Stage: Efficacy Response rate is a percentage of patients with any response: partial response or complete response.
+
+Antitumor activity will be measured according to RECIST v.1.1.
+
+* An increase of ≥20% from the baseline or new lesion appears represents progressive disease.
+* A decrease in the sum of target disease of ≥30% represents partial response.
+* Stable disease lies between partial response and progressive disease.
+* Complete response is the disappearance of all lesions with nodes measuring \<10 mm and normal tumour markers
+
+Patients included in the tumor-specific expansion cohort(s) at the RD for each group, and in the new cohort of patients with NENs, must be evaluable per RECIST v.1.1 (including ovarian cancer patients). Specifically, patients with glioblastoma must be evaluated per RECIST v.1.1 and RANO criteria. A patient evaluable for efficacy should have received at least one complete dose of lurbinectedin and irinotecan., At least six weeks after treatment initiation, up to 66 months
+Safety evaluation, AEs will be graded according to the NCI-CTCAE v.4., Since start of the treatment until 30 days after the last administration of study treatment; or until start of a new antitumor therapy or death|Peak Plasma Concentration (Cmax), Pharmacokinetic Outcome Measures, 66 months|Area under the plasma concentration versus time curve (AUC), Pharmacokinetic Outcome Measures, 66 months|Volume of distribution based on the terminal half-life (Vz), Pharmacokinetic Outcome Measures, 66 months|Volume of distribution at steady state (Vss), Pharmacokinetic Outcome Measures, 66 months|Clearance (CL), Pharmacokinetic Outcome Measures, 66 months|Half-life (t1/2), Pharmacokinetic Outcome Measures, 66 months|Duration of response, Evaluable and measurable as per RECIST v.1.1 or RANO for Glioblastoma patients, Time from date when response criteria are fulfilled to the first date when progression disease, recurrence or death, until 18 months after the inclusion of the last evaluable patient in the study (end of study), whichever occurs|Progression-free Survival, Time from the date of first infusion of study treatment to the date of progression or death (due to any cause). If progression or death has not occurred at the time of the analysis, the Progression-free Survival (PFS) will be censored on the date of last tumor evaluation., From the date of first infusion of study treatment to the date of progression or death or until 18 months after the inclusion of the last evaluable patient in the study (end of study), whichever occurs first.|Overall Survival, Time from the date of first infusion of study treatment to the date of death (due to any cause). Patients with no documented death will be censored at the last date they are known to be alive., From the date of first infusion of study treatment to the date or death or until 18 months after the inclusion of the last evaluable patient in the study (end of study), whichever occurs first.
+Phase I dose escalation stage.
+
+During the Phase I escalation stage, patients with selected advanced solid tumors will be divided into three groups: the Lurbinectedin Escalation Group, the Irinotecan Escalation Group and the Intermediate Escalation Group. Each group will have a different dose escalation scheme. A treatment cycle is defined as an interval of three weeks.
+
+Three to six patients will be included at each dose level. If dose-limiting toxicity (DLT) occurs in less than one third of evaluable patients in each cohort, escalation can proceed to the next dose level within each group.
+
+The MTD in each group will be the lowest dose level explored during dose escalation in which one third or more of evaluable patients develops a DLT in Cycle 1. At any dose level, if one among the first three evaluable patients has a DLT, the dose level should be expanded up to six patients. Dose escalation will be terminated once the MTD or the last dose level is reached, whichever occurs first, except if all DLTs occurring at a given dose level are related to neutropenia (i.e., febrile neutropenia, grade 4 neutropenia lasting \> 3 days or neutropenic sepsis) in which case dose escalation may be resumed, starting at the same dose level and following the same original schedule but with mandatory primary G-CSF prophylaxis.
+
+Once the MTD has been reached, a minimum of nine evaluable patients will be recruited at the immediately lower dose level (or at the last dose level if the MTD is not defined yet): this level will be confirmed as the RD if less than one third of the first nine evaluable patients develop DLT during Cycle 1.
+
+Phase II expansion stage.
+
+If signs of activity are observed in one or more tumor types, there will be a phase II expansion stage after the RD is defined for each group. A tumor-specific expansion cohort (or cohorts if signs of activity are observed in more than one of the permitted tumor types) at each of these RDs may include approximately 20 treated patients per tumor type. If no indication of efficacy is observed in the dose escalation phase of a specific group, then recruitment of patients into that group may be terminated.
+
+Furthermore, one new cohort of patients with neuroendocrine neoplasms (NENs), with approximately 40 treated patients, will be included in the Phase II expansion stage of this study. Patients in this cohort will be treated at the RD determined during the Phase I escalation stage in the Lurbinectedin Escalation Group (Lurbinectedin 2.0 mg/m2 plus irinotecan 75 mg/m2 with the administration of G-CSF). These patients will be divided into two groups of 20 treated patients each:
+
+* Group 1 will include patients with poorly differentiated grade 3 neuroendocrine cancer (NEC) (Ki67 \>20%) of gastroenteropancreatic origin or unknown primary site (excluding lung primary tumors) according to the 2019 World Health Organization (WHO) classification of tumors of the digestive system, after progression to first-line chemotherapy with a platinum-based regimen.
+* Group 2 will include patients with well differentiated grade 2 (Ki-67 3-20%) or grade 3 (Ki-67 21-55%) gastroenteropancreatic neuroendocrine tumors (GEP-NETs) according to the 2019 WHO classification of tumors of the digestive system, after progression to no more than three prior lines of systemic therapy.
+
+Following the finding of promising efficacy to date, two expansion cohorts in the Lurbinectedin Escalation Group will be further expanded:
+
+* The cohort of patients with small cell lung cancer (SCLC) will be expanded to at least 100 patients treated in second line.
+* The cohort of patients with soft tissue sarcoma (STS) will be expanded with between 25 and 80 treated patients with synovial sarcoma (a subtype of STS)
+
+Only in these two expansion cohorts, an Independent Review Committee (IRC) will determine the response evaluation at each tumor assessment necessary to derive the best patient's response and assign the date of first documentation of response and progression/censoring according to RECIST v.1.1. Operational details for the IRC and the algorithm and its validation by an expert panel are described in detail in the IRC charter.

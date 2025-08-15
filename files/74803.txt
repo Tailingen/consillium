@@ -1,0 +1,19 @@
+Patient Reported Outcomes by Patients With Metastatic Renal Cell Carcinoma
+The purpose of PRORECECA is to test whether adding weekly active patient-reported outcomes to the treatment of patients with metastatic renal cell carcinoma can improve patient-reported physical function.
+Metastatic Renal Cell Carcinoma|Kidney Cancer|Kidney Neoplasm|Urologic Cancer|Urologic Neoplasms|Advanced Renal Cell Carcinoma
+DEVICE: Electronic patient-reported outcomes regarding symptoms and health-related quality of life
+Physical function, Patient-reported physical function in the European Organization for the Research and Treatment of Cancer Quality of Life Questionnaire (EORTC QLQ-C30) - Whether patients using PRO experience a better physical function compared to patients receiving standard care and handling of side effects., Within the first 3 months of treatment
+Health related quality of life, Registration of differences in quality of life between the two arms in the study.
+
+The quality of life questionnaires EORTC QLQ-C30 (scale range 0-100, a higher score indicating better quality of life) will be used for as quality of life measurement.
+
+Differences between the two arms will be tested using t-test and analysis of covariance (ANCOVA)., Within the first 6 months of treatment|Admissions (number), Registration of number of admissions. The registration is made to investigate whether the use of PRO and thereby a closer contact to the clinic between visits can decrease the number of hospital admissions., Within the first 6 months of treatment|Admissions (length), Registration of length of admissions. The registration is made to investigate whether the use of PRO and thereby a closer contact to the clinic between visits can decrease the length of hospital admissions., Within the first 6 months of treatment|Symptom management (number), Registration of differences in number of intervention in the two treatment arms., Within the first 6 months of treatment|Symptom management (type), Registration of differences in types of intervention in the two treatment arms., Within the first 6 months of treatment|Number of contacts to the clinic, Registration of number of contacts to the clinic (both phone and attendance). The registration is made to investigate whether the use of PRO de- or increases the number of contacts to the clinic., Within the first 6 months of treatment
+PRORECECA is a two-armed randomized controlled trial for patients with metastatic renal cell carcinoma initiating 1st or 2nd line of standard therapy.
+
+Patients will be randomized to either receiving questions from Patient-Reported Outcomes Version of the Common Terminology Criteria for Adverse Events (PRO-CTCAE™) with a specifically developed alert-algorithm and the European Organization for the Research and Treatment of Cancer Quality of Life Questionnaire (EORTC QLQ-C30) or receiving standard procedure regarding side effect registration and handling.
+
+The hypothesis is that weekly active patient-reported outcomes in the intervention group can improve physical function 30% compared to the group who receive standard care and standard handling of side effects.
+
+A total of 174 patients will be included with 87 patients in each arm.
+
+Primary endpoint is physical function reported by the patient after 3 months of treatment. The patients will assess their physical function by completing the EORTC QLQ-C30.

@@ -1,0 +1,41 @@
+Prospective Study in Patients With Advanced or Metastatic Cancer and SARS-CoV-2 Infection
+A prospective, controlled, randomized, multicenter study whose goal is to compare the efficacy of an autophagy inhibitor (GNS561), an anti-NKG2A (monalizumab) and an anti-C5aR (avdoralimab) versus standard of care in patients with advanced or metastatic cancer who have Sars-CoV-2 infection not eligible to a resuscitation unit.
+
+According to their severity level at the time of enrolment, eligible patients will be randomized into 2 different cohorts:
+
+* COHORT 1 (mild symptoms or asymptomatic): GNS561 vs anti-NKG2A vs standard of care (randomization ratio 1:1:1).
+* COHORT 2 (moderate/severe symptoms): anti-C5aR vs standard of care (randomization ratio 1:1).
+SARS-CoV-2 (COVID-19) Infection|Advanced or Metastatic Hematological or Solid Tumor
+DRUG: Autophagy inhibitor (GNS651)|OTHER: Standard of care|DRUG: Avdoralimab|DRUG: Monalizumab
+28-day survival rate, 28-day survival rate, defined by the proportion of patients still alive 28 days after randomization.
+
+If vital status at 28 days post randomisation is not available due to early transfer in an external resuscitation unit, patients will be considered as failure at the date of the transfer.
+
+Comparison of each experimental arm (GNS561 then monalizumab for cohort1 and avdoralimab for cohort2) to control arm will be performed using a Fisher exact test., 28 days from randomization
+Time to clinical improvement, Time to clinical improvement defined as the time from randomization to an improvement of two points (from the status at randomization) on a seven-category ordinal scale (WHO-ISARIC) or live discharge from the hospital, whichever comes first., 28 days from randomization|Clinical status, Clinical status will be assessed using a 7-point ordinal scale :
+
+1. Not hospitalized, no limitations on activities
+2. Not hospitalized, limitation on activities;
+3. Hospitalized, not requiring supplemental oxygen;
+4. Hospitalized, requiring supplemental oxygen;
+5. Hospitalized, on non-invasive ventilation or high flow oxygen devices;
+6. Hospitalized, on invasive mechanical ventilation or ECMO;
+7. Death., Day 7, Day 14, Day 28|Clinical status, The NEWS2 score (National Early Warning Score) allocates a score based on six physiological parameters (respiratory rate / oxygen saturation / systolic blood pressure / heart rate / consciousness / temperature).
+
+It Determines the degree of illness of a patient and prompts critical care intervention.
+
+The total possible score ranges from 0 to 21. The higher the score, the greater the clinical risk. A total score close to 0 corresponds to a low risk and a total score higher than 7 corresponds to a high risk., Day 7, Day 14, Day 28|Mean change in the ranking on the ordinal scale from baseline to D7, D14 and D28, Mean change in clinical status from baseline will be assessed by using a 7-point ordinal scale., Day 7, Day 14, Day 28|Mean change in the ranking of the NEWS2 score from baseline to D7, D14 and D28, Mean change in clinical status from baseline will be assessed by using the NEWS2 score (National Early Warning Score).
+
+The NEWS2 score (National Early Warning Score) allocates a score based on six physiological parameters (respiratory rate / oxygen saturation / systolic blood pressure / heart rate / consciousness / temperature).
+
+It Determines the degree of illness of a patient and prompts critical care intervention.
+
+The total possible score ranges from 0 to 21. The higher the score, the greater the clinical risk. A total score close to 0 corresponds to a low risk and a total score higher than 7 corresponds to a high risk., Day 7, Day 14, Day 28|Overall survival, Overall survival will be defined by the time from date of randomization until date of death, regardless of the cause. Any patient not known to have died at the time of analysis will be censored based on the last recorded date on which the patient was known to be alive., 3 months (i.e. at the time of last patient last visit)|Length of stay in Intensive Care Unit, The length of stay in Intensive Care Unit (from the date of admission in the Unit to the date of discharge)., 3 months (i.e. at the time of last patient last visit)|Duration of mechanical ventilation or high flow oxygen devices, The duration of mechanical ventilation or high flow oxygen devices (from the date of intubation to the stop date of mechanical ventilation or high flow oxygen), 3 months (i.e. at the time of last patient last visit)|Duration of hospitalization, The duration of hospitalization (from the date of hospitalization to the date of definitive discharge for live patients), 3 months (i.e. at the time of last patient last visit)|Rate of throat swab negativation, Day 7, Day 14, Day 28|Quantitative SARS-CoV-2 virus in throat swab and blood samples, Day 7, Day 14, Day 28|The rate of secondary infection by other documented pathogens (bacteria, fungi), Day 7, Day 14, Day 28 (if available)|Biological parameters, Changes from baseline in neutrophils count (G/L), 3 months (i.e. at the time of last patient last visit)|Number of participants with treatment-related adverse events as assessed by CTCAE v5.0, Treatment-Emergent Adverse Events, Serious Adverse Events, Suspected Unexpected Serious Adverse Reactions, New Safety Issues described using the NCI-CTC AE classification v5.
+
+Number of participants with a discontinuation or temporary suspension of study drugs (for any reason)., 3 months (i.e. at the time of last patient last visit)|Cost-Effectiveness Analyses (CEA), Incremental Cost-Effectiveness Ratios (ICERs) expressed in cost per Life Year Gained., 3 months (i.e. at the time of last patient last visit)|Biological parameters, Changes from baseline in lymphocytes count (G/L), 3 months (i.e. at the the time of last patient last visit)|Biological parameters, Changes from baseline in platelets count (G/L), 3 months (i.e. at the the time of last patient last visit)|Biological parameters, Changes from baseline in hemoglobin count (g/dL), 3 months (i.e. at the the time of last patient last visit)|Biological parameters, Changes from baseline in CRP count (mg/L), 3 months (i.e. at the the time of last patient last visit)|Biological parameters, Changes from baseline in pro-inflammatory cytokine (IL6), 3 months (i.e. at the the time of last patient last visit)|The rate of patients with SARS-CoV-2 IgG antibodies at D7, D14 and D28, Day 7, Day 14, Day 28
+A prospective, controlled, randomized, multicenter study whose goal is to compare the efficacy of an autophagy inhibitor (GNS561), an anti-NKG2A (monalizumab) and an anti-C5aR (avdoralimab) versus standard of care in patients with advanced or metastatic cancer who have Sars-CoV-2 infection not eligible to a resuscitation unit.
+
+According to their severity level at the time of enrolment, eligible patients will be randomized into 2 different cohorts:
+
+* COHORT 1 (mild symptoms or asymptomatic): GNS561 vs anti-NKG2A vs standard of care (randomization ratio 1:1:1).
+* COHORT 2 (moderate/severe symptoms): anti-C5aR vs standard of care (randomization ratio 1:1).

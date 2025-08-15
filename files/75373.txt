@@ -1,0 +1,15 @@
+Validity of Brain Metastasis Risk Predictive Model in Hormone Positive Breast Cancer Patients
+This study aims to validate a prediction model of brain metastasis risk for females with HR+ breast cancer by using variables collected at diagnosis.
+Breast Cancer, Estrogen Receptor-Positive
+Validity of prediction model of brain metastases risk for females with HR+ breast cancer, A Cox regression analysis to assess each group's risk of developing brain metastases. Adjusted hazard ratios (aHRs), 95 % CIs, and p values will be evaluated., 2 years
+1. Data collection:
+
+   Age at BC diagnosis, tumor size, axillary adenopathy, clinical stage, HER2 status, Ki67 proliferation index and the modified Scarff-Bloom-Richardson grade of differentiation.
+2. Analysis Plan:
+
+   Continuous variables as means and standard deviation (SD) if they follow a normal distribution; if not, as medians and IQR (interquartile range). Numbers and percentages display categorical variables.
+3. Model validation:
+
+The association between covariates and the diagnosis of brain metastases by performing logistic regression analyses; odds ratio (OR), 95 % confidence intervals (CI), and p-value will be estimated. Variables with a p-value \< 0.05 in the univariate logistic regression analysis will be further assessed in a multivariate logistic regression analysis.
+
+For the clinical use of the model, we will use a score to each variable as that designed by Cacho-Díaz B. et. al. then, we will categorize patients into three risk groups according to the sum of the scores. We will employe a Cox regression analysis to assess each group's risk of developing brain metastases. Adjusted hazard ratios (aHRs), 95 % CIs, and p values will be evaluated.

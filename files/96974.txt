@@ -1,0 +1,27 @@
+Comparing ATG or Post-Transplant Cyclophosphamide to Calcineurin Inhibitor-Methotrexate as GVHD Prophylaxis After Myeloablative Unrelated Donor Peripheral Blood Stem Cell Transplantation
+This phase II trial studies how well 3 different drug combinations prevent graft versus host disease (GVHD) after donor stem cell transplant. Calcineurin inhibitors, such as cyclosporine and tacrolimus, may stop the activity of donor cells that can cause GVHD. Chemotherapy drugs, such as cyclophosphamide and methotrexate, may also stop the donor cells that can lead to GVHD while not affecting the cancer-fighting donor cells. Immunosuppressive therapy, such as anti-thymocyte globulin (ATG), is used to decrease the body's immune response and reduces the risk of GVHD. It is not yet known which combination of drugs: 1) ATG, methotrexate, and calcineurin inhibitor 2) cyclophosphamide and calcineurin inhibitor, or 3) methotrexate and calcineurin inhibitor may work best to prevent graft versus host disease and result in best overall outcome after donor stem cell transplant.
+Acute Lymphoblastic Leukemia in Remission|Acute Myeloid Leukemia Arising From Previous Myelodysplastic Syndrome|Chronic Myelomonocytic Leukemia|Chronic Phase Chronic Myelogenous Leukemia, BCR-ABL1 Positive|Hematopoietic and Lymphoid System Neoplasm|Myelodysplastic Syndrome|Myelofibrosis|Myeloproliferative Neoplasm|Recurrent Acute Myeloid Leukemia|Recurrent Hodgkin Lymphoma|Recurrent Non-Hodgkin Lymphoma|Refractory Acute Myeloid Leukemia|Therapy-Related Acute Myeloid Leukemia
+BIOLOGICAL: Anti-Thymocyte Globulin|DRUG: Busulfan|DRUG: Cyclophosphamide|DRUG: Cyclosporine|DRUG: Fludarabine Phosphate|DRUG: Methotrexate|PROCEDURE: Peripheral Blood Stem Cell Transplantation|OTHER: Quality-of-Life Assessment|OTHER: Questionnaire Administration|DRUG: Tacrolimus|RADIATION: Total-Body Irradiation
+Moderate to severe chronic graft versus host disease (GVHD) based on National Institute of Health 2014 consensus criteria, Probabilities of chronic GVHD at one year will be compared using a chi-square test., At 1 year
+Survival, At 1 year post transplant|GVHD-free relapse-free survival (GRFS), At 1 year post transplant|Chronic GVHD-free relapse-free survival (CRFS), At 1 year post transplant|Grade II-IV acute GVHD, At 100 days|Grade III-IV acute GVHD, At 100 days|Relapse, At 1 year post transplant|Non-relapse mortality, At 1 year post transplant
+OUTLINE:
+
+CONDITIONING REGIMENS: Participants receive 1 of 3 regimens and are randomized to 1 of 3 arms for GVHD prophylaxis.
+
+REGIMEN A: Participants undergo total body irradiation (TBI) twice daily (BID) on days -6 to -4 (-7 to -4 for those \< 18 years), then receive cyclophosphamide IV over 1-2 hours on days -3 and -2. Participants randomized to Arm 2 only receive TBI on days -3 to -1 (-4 to -1 for those \< 18 years).
+
+REGIMEN B: Participants receive fludarabine phosphate IV and busulfan IV every 6 hours on days -5 to -2.
+
+REGIMEN C: Participants receive busulfan orally (PO) or IV every 6 hours on days -7 to -4 and cyclophosphamide IV over 1-2 hours on days -3 and -2.
+
+Myelofibrosis or other myeloproliferative neoplasms: Participants \>= 18 years receive cyclophosphamide IV over 1-2 hours on days -7 and -6 and busulfan IV on days -5 to -2. Participants \< 17 years receive busulfan IV every 6 hours on days -7 to -4 and cyclophosphamide IV on days -3 and -2.
+
+All participants undergo peripheral blood stem cell transplantation on day 0.
+
+ARM 1: Participants receive anti-thymocyte globulin IV over 4-6 hours on days -3 to -1. Beginning day -1, participants also receive tacrolimus IV or cyclosporine IV twice daily (BID) tapered at day 50, and methotrexate IV on days 1, 3, 6 and 11 in the absence of disease progression or unacceptable toxicity.
+
+ARM 2: Participants receive cyclophosphamide IV over 1-2 hours on days 3 and 4. Beginning day 5, participants also receive tacrolimus IV or cyclosporine IV BID tapered at day 50 in the absence of disease progression or unacceptable toxicity.
+
+ARM 3: Beginning day -1, participants receive tacrolimus IV or cyclosporine IV BID tapered at day 50, and methotrexate IV on days 1, 3, 6 and 11 in the absence of disease progression or unacceptable toxicity.
+
+After completion of study treatment, participants are followed up at 6 months, then annually up to 5 years.

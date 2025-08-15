@@ -1,0 +1,19 @@
+Neo-adjuvant Treatment in Non-Small Cell Lung Cancer (NSCLC)
+RATIONALE: Monoclonal antibodies, such as cetuximab, can block tumor growth in different ways. Some block the ability of tumor cells to grow and spread. Others find tumor cells and help kill them or carry tumor-killing substances to them. Drugs used in chemotherapy, such as cisplatin and docetaxel, work in different ways to stop the growth of tumor cells, either by killing the cells or by stopping them from dividing. Radiation therapy uses high-energy x-rays to kill tumor cells. Specialized radiation therapy that delivers a high dose of radiation directly to the tumor may kill more tumor cells and cause less damage to normal tissue. Giving these treatments before surgery may make the tumor smaller and reduce the amount of normal tissue that needs to be removed.
+
+PURPOSE: This phase II trial is studying the side effects of giving cetuximab together with cisplatin and docetaxel before radiation therapy and cetuximab followed by surgery and to see how well it works in treating patients with stage IIIB non-small cell lung cancer that can be removed by surgery.
+Lung Cancer
+DRUG: cetuximab|DRUG: cisplatin|DRUG: docetaxel|RADIATION: Radiotherapy|PROCEDURE: Surgery
+Progression-free survival, at 1 year (+/- 1 month)
+Treatment-related death during chemoimmunotherapy, radioimmunotherapy, and perioperatively, 30 days after surgery|Metabolic response evaluated by PET, At baseline and after chemo-immunotherapy|Response status after chemoimmunotherapy and radioimmunotherapy, After chemoimmunotherapy and after radioimmunotherapy|Complete pathological response, After surgery|Overall survival, At the end of the follow-up phase (max. 5 years after treatment termination or surgery)|Adverse events, During the all trial treatment until 30 days after surgery or treatment stop|Operability, Before trial treatment
+OBJECTIVES:
+
+* To evaluate the efficacy and safety of neoadjuvant sequential chemoimmunotherapy comprising cetuximab, cisplatin, and docetaxel before radiotherapy and cetuximab followed by surgery in patients with resectable stage IIIB non-small cell lung cancer.
+
+OUTLINE: This is a multicenter study.
+
+* Chemoimmunotherapy (courses 1-3): Patients receive chemoimmunotherapy comprising cetuximab IV over 1-2 hours on days 1, 8, and 15; cisplatin IV over 1 hour on days 1 and 2; and docetaxel IV over 1 hour on day 1. Patients also receive filgrastim (G-CSF) on days 3-8 or a single dose of pegfilgrastim the day after chemotherapy. Treatment repeats every 3 weeks for 3 courses.
+* Radiotherapy (course 4): Beginning on day 1 of week 10, patients undergo 3-dimensional conformal or intensity-modulated radiotherapy 5 days a week for 3 weeks. Patients also receive cetuximab IV over 1 hour on days 1, 8, and 15.
+* Surgery: Beginning 21-28 days after completion of radiotherapy, patients undergo surgery.
+
+After completion of study treatment, patients are followed every 3 months for 2 years and every 6 months for 3 years.

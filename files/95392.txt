@@ -1,0 +1,95 @@
+Clinical Trial of BMS-986504 in Recurrent GBM Patients
+This is an open-label, multi-center, Phase 0/1 dose-escalation trial designed to enroll up to 9 total recurrent glioblastoma (rGBM) participants with confirmed MTAP loss/deletion in their archival or pretreatment biopsy tissue, who are scheduled for surgical resection. MTAP loss/deletion will be determined by next-generation sequencing (NGS). The trial will include a dose escalation design to evaluate the pharmacokinetics (PK) and safety and tolerability of BMS-986504 (MRTX1719). The trial will be composed of a Phase 0 component and an Expansion Phase 1 component. Participants with tumors demonstrating a positive PK response in the Phase 0 component of the study will be eligible to enroll into the the Phase 1 component that will include 21-day cycles of therapeutic dosing of BMS-986504.
+Glioblastoma WHO Grade IV
+DRUG: BMS-986504
+BMS-986504 Concentration in Tumor Tissue, Total and unbound BMS-986504 concentration will be quantified in Gd-enhancing and Gd-non-enhancing tumor tissue collected during Phase 0 surgery., intraoperative|Number of Treatment-Emergent Adverse Events, Safety and tolerability of BMS-986504 will be assessed by tabulating (Number and Percent) Treatment-Emergent Adverse Events (TEAEs) according to the highest grade observed per participant for each event or category (per CTCAE v5.0). The analysis population includes participants who took at least one dose of the study drug., From date of enrollment until 30 days after last dose, assessed over 15 months|Number of Treatment-Related Adverse Events, Safety and tolerability of BMS-986504 will be assessed by tabulating (Number and Percent) Treatment-Related Adverse Events (TEAEs) according to the highest grade observed per participant for each event or category (per CTCAE v5.0). The analysis population includes participants who took at least one dose of the study drug., From date of first dose of study drug until 30 days after last dose, assessed over 15 months|Number of Serious Adverse Events, Safety and tolerability of BMS-986504 will be assessed by tabulating (Number and Percent) Serious Adverse Events (SAEs) according to the highest grade observed per participant for each event or category (per CTCAE v5.0). The analysis population includes participants who took at least one dose of the study drug., From date of enrollment until 30 days after last dose, assessed over 15 months|Number of Clinical Laboratory Abnormalities, Safety and tolerability of BMS-986504 will be assessed by tabulating (Number and Percent) Clinical Laboratory Abnormalities according to the highest grade observed per participant for each event or category (per CTCAE v5.0). The analysis population includes participants who took at least one dose of the study drug., From date of enrollment until 30 days after last dose, assessed over 15 months|Number of Drug-Related Toxicities, Safety and tolerability of BMS-986504 will be assessed by tabulating (Number and Percent) Drug-Related Toxicities (defined by Dose Limiting Toxicities) according to the highest grade observed per participant for each event or category (per CTCAE v5.0). The analysis population includes participants who took at least one dose of the study drug., From date of first dose of study drug until 30 days after last dose, assessed over 15 months
+BMS-986504 Concentration in Cerebrospinal Fluid (CSF), BMS-986504 concentration will be quantified in CSF collected during Phase 0 surgery., intraoperative|6-Month Progression Free Survival (PFS6) Rate, PFS6 rate of participants that had a positive PK response and enrolled into the Expansion Phase 1 component will be quantified. Positive PK response will be defined as unbound concentrations of BMS-986504 equal or greater than a 5x biochemical IC50 within Gd-non-enhancing tumor tissue. Death is due to any cause., From date of Phase 0 surgery to date of disease recurrence or death, assessed over 27 months|Overall Survival (OS), OS of participants that had a positive PK response and enrolled into the Expansion Phase 1 component will be summarized using Kaplan-Meier Curves and Estimates. Positive PK response will be defined as unbound concentrations of BMS-986504 equal or greater than a 5x biochemical IC50 within Gd-non-enhancing tumor tissue. Death is due to any cause., From date of surgery until death, assessed up to 27 months
+Systemic PK: Peak Plasma Concentration (Cmax), Peak plasma concentration (Cmax) of total and unbound BMS-986504 levels will be quantified., From date of first dose until standard of care post-op follow-up visit, assessed over 2 months|Systemic PK: Time to Peak Plasma Concentration (Tmax), Time to peak plasma concentration (Tmax) of total and unbound BMS-986504 levels will be quantified., From date of first dose until standard of care post-op follow-up visit, assessed over 2 months|Systemic PK: BMS-986504 Half-Life (T1/2) in Plasma, The half-life (T1/2) of total and unbound BMS-986504 levels in plasma will be quantified., From date of first dose until standard of care post-op follow-up visit, assessed over 2 months|Area Under Time/Concentration Curve (AUC0-24) in Plasma, Area under the time/concentration curve (AUC0-24) over 24 hours of total and unbound BMS-986504 levels in plasma will be quantified., From time of last dose assessed over 24 hours|Total (Kp) and Unbound (Kp,uu) Partition Coefficient, The tumor to plasma partition coefficients of BMS-986504 for total (Kp) and unbound (Kp,uu) drug levels will be quantified., From date of first dose to 30 days after last Phase 0 dose, assessed over 2 months|Change in Biomarker Concentrations in Tumor Tissue, Tumor tissue collected during surgery will be compared to baseline tissue to assess fold induction change of ClCas-3, pH2AX, and MIB-1 (percentage of cells with positive expression)., Baseline, intraoperative|Change of SDMA Expression Levels, Tumor tissue collected during surgery will be compared to baseline tissue to assess fold induction change of SDMA (percentage of cells with positive expression and the H-score of SDMA levels in digitally scanned images)., Baseline, intraoperative|Cell State and Gene Expression Changes in Tumor Tissue, Tumor tissue collected at subsequent resections (if any) will be compared to tumor tissue collected during Phase 0 surgery to determine changes in cell state and gene expression using single-cell RNA-seq analysis., intraoperative|Genomic Changes of DNA in CSF, Genomic changes will be assessed by sequencing DNA from tumor cells and/or cell-free DNA in CSF collected during Phase 0 surgery and throughout study duration of participants with an Ommaya reservoir and shunt placed during surgery., Baseline, intraoperative, 48 hour post-op follow-up, day 1 of each cycle (cycles are 21 days) assessed over 15 months|Transcriptome Changes of RNA in CSF, Transcriptomic changes will be assessed by sequencing RNA from tumor cells and/or cell-free RNA in CSF collected during Phase 0 surgery and throughout study duration of participants with an Ommaya reservoir and shunt placed during surgery., Baseline, intraoperative, 48 hour post-op follow-up, day 1 of each cycle (cycles are 21 days) assessed over 15 months
+PHASE 0
+
+Eligible participants will enroll in the Phase 0 study and receive BMS-986504 in three dose escalation cohorts over 6 days prior to surgical resection. The final dose will be administered 3-5 hours before tumor resection on Day 6. Participants without histologically confirmed diagnosis of recurrent GBM after the craniotomy will be replaced.
+
+Phase 0 Dose Escalation
+
+An initial cohort of three participants will be enrolled at the starting dose level. If ≤1 of the participants experiences a dose-limiting toxicity (DLT) through the end of the Phase 0, the dose is escalated to the next level. Dose escalation continues to the next level if no more than one out of three participants experience a DLT. However, if two or more participants experience DLTs at any dose level, dose escalation stops.
+
+A written report will be submitted to the DSMB Chair (or qualified alternate) describing the time intervals, dose levels, adverse events, safety reports and any DLTs observed after enrollment into each cohort is complete. The DSMB Chair will review the report and provide a written authorization to proceed or will request more information within approximately 2 business days. Approval for the initiation of enrollment must be obtained prior to implementation.
+
+Phase 0 Dose Limiting Toxicity (DLT)
+
+DLTs will be defined as any adverse event that is not clearly due to the underlying disease or extraneous causes, t and unrelated to disease, disease progression, intercurrent illness or concomitant medications from Phase 0 Day 1 through termination from the study or study completion. DLTs will include:
+
+* ≥ Grade 3 thrombocytopenia with clinically significant bleeding
+* \> Grade 4 neutropenia for more than 7 days
+* Neutropenic fever
+* As determined by the investigator, any unacceptable toxicity which may include treatment-related death or grade 4 toxicity
+* Any non-hematologic toxicity:
+
+  * Grade ≥ 3 regardless of relatedness to study treatment, duration, or baseline grade;
+  * Events that meet Hy's law criteria;
+  * Excluding the following:
+
+    * Grade 3 nausea/vomiting or diarrhea for less than 72 hours with adequate antiemetic and other supportive care
+    * Grade 3 fatigue for greater than 1 week
+    * Grade 3 or higher electrolyte abnormality that lasts up to 72 hours, is not clinically complicated, and resolves spontaneously or responds to conventional medical interventions
+* Any death not clearly due to the underlying disease or extraneous causes
+
+Phase 0 PK/PD Assessments Tumor PK and PD analyses will be performed at IVY. To assess the PK and PD endpoints listed, blood, CSF and brain tumor tissue (Gd-enhancing and Gd-non-enhancing tumor tissue will be collected and analyzed separately) will be collected intraoperatively.
+
+Retrospective genomic analysis of tissue from Phase 0 and subsequent resections at recurrence will be performed if positive PK/PD responses are observed.
+
+Participants with tumors demonstrating negative PK will not proceed to the Expansion Phase 1 component but will receive standard of care. Participants will complete the end-of-treatment visit, safety follow-up, and survival monitoring as outlined in the "All Participants" section.
+
+PHASE 1
+
+Participants with tumors demonstrating PK response will continue treatment with the same dose that was received in Phase 0 once daily (QD) in a continuous regimen expressed in 3-week (21-day) cycles. Treatment will begin once the participant has recovered from surgery. Participants will receive BMS-986504 until the progression of disease, unacceptable toxicity or death, withdrawal of consent, loss to follow-up, or study termination by sponsor. Participants will complete the end-of-treatment visit, safety follow-up, and survival monitoring as outlined in the "All Participants" section.
+
+Phase 1 Dose Modifications
+
+Participants who experience a clinically significant Grade 2 toxicity considered related to study treatment, or a Grade 3 or 4 toxicity considered related to study treatment may temporarily suspend study treatment. Depending on the toxicity, study treatment may resume within 28 days after discussion with the Safety Officer.
+
+Dosing of BMS-986504 during Phase 1 can be interrupted for approximately 28 days for medical events that are not associated with toxicity related to study treatment or disease progression.
+
+Criteria for treatment modifications and suggested guidelines for the management of toxicities related to BMS-986504 are summarized in the protocol. These general guidelines may be modified at the discretion of the Investigator based on the best clinical judgement at that time. Any toxicities related to BMS-986504 should be managed according to standard medical practice.
+
+A participant must discontinue study treatment, if, after treatment is resumed at a lower dose, the toxicity recurs with the same or worse severity.
+
+ALL PARTICIPANTS
+
+All participants will return to the clinic for safety monitoring per the schedule of activities following treatment discontinuation and will be contacted approximately every 3 months for up to 12 months for survival data collection. MRI scans and review to monitor progression in guidance with RANO criteria will occur approximately 2-3 month, per standard of care. The start of follow-up for long-term survival begins following completion of the Day 30 safety follow up call.
+
+At treating physician's discretion, longitudinal biomarker analysis through liquid biopsy will be conducted to characterize genomic and/or transcriptomic changes from tumor cells or cell-free DNA collected from CSF at Phase 0, at Expansion Phase, or recurrent craniotomy.
+
+Additional biomarker analysis may be conducted using surgical tissue. If the participant undergoes repeat craniotomy for recurrence or progression of his/her brain tumor, IVY will request samples from the resected tumor, CSF or blood to enable longitudinal sample collection and analysis that will help identify possible resistance mechanisms.
+
+STUDY STOPPING CRITERIA
+
+Study stopping rules are:
+
+* If \< 1 of 3 participant shows positive PK at the highest dose level.
+* If ≥ 2 participants have a ≥ 4-week delay to surgery due to BMS-986504 related toxicity at any dose level.
+* Any unacceptable toxicity such as Grade 4 toxicity or death not clearly related to underlying disease or extraneous cause
+
+The following options may occur as a result of any of the above:
+
+* Halt participant dosing or study enrollment until the toxicity data can be further studied by the DSMB.
+* Amend the protocol to address any of the below:
+
+  * Evaluate additional subjects in a particular dose cohort or in each dose cohort to make the study more sensitive to characterizing adverse events;
+  * Implementation of smaller dose increases between dose cohorts;
+  * Exclusion of certain participants thought to be more at-risk for a particular adverse event.
+* Stop the study.
+
+STUDY OBJECTIVES The Phase 0 Primary Objective is to evaluate concentration of BMS-986504 in Gd-non-enhancing tumor tissue, and the Expansion Phase Primary Objective is to assess safety and tolerability of BMS-986504 in participants who receive at least one dose.
+
+The Phase 0 Secondary Objective is to evaluate concentration of BMS-986504 in CSF collected during Phase 0 surgery, and the Expansion Phase Secondary Objectives are to measure the rate of 6-month progression free survival (PFS6) and examine overall survival (OS) in participants.
+
+STUDY DURATION The estimated total study length of around 15 months includes study initiation and accrual of 9 participants in 9 months, and follow-up for the participants for an additional 6 months to conclude the study.
+
+The final trial report will be summarized and submitted for peer-review journals for publication
+
+Phase 0 Participants: Up to approximately 2 months (screening window of 28 days through Day 30 phone call follow-up).
+
+Phase 1 Participants: BMS-98604 will be taken by the participant as long as the drug is tolerated, and the investigator believes the participant may be obtaining benefit. Treatment will be taken by the participant until confirmed progression, unacceptable toxicity, death, withdrawal of consent, lost to follow-up, or end of treatment.
+
+All Participants: Participants will be followed for survival for up to 12 months following end of treatment.

@@ -1,0 +1,29 @@
+Testing the Combination of Copanlisib, Nivolumab and Ipilimumab in Patients With Advanced Cancer and Lymphoma
+This phase Ib trial studies the side effects and best dose of copanlisib and nivolumab and side effects of copanlisib given together with nivolumab and ipilimumab in treating patients with solid tumors that may have spread from where it first started to nearby tissue, lymph nodes, or distant parts of the body (advanced) or lymphoma. Copanlisib stops tumors from growing by blocking proteins that are known to be important for tumor cell growth. Immunotherapy with monoclonal antibodies, such as nivolumab and ipilimumab, may help the body's immune system attack the cancer, and may interfere with the ability of tumor cells to grow and spread. Giving copanlisib together with nivolumab or with nivolumab and ipilimumab may work better in treating patients with solid tumors or lymphoma.
+Lymphoma|Metastatic Malignant Solid Neoplasm|Recurrent Malignant Solid Neoplasm|Unresectable Malignant Solid Neoplasm
+PROCEDURE: Biopsy Procedure|PROCEDURE: Biospecimen Collection|PROCEDURE: Computed Tomography|DRUG: Copanlisib|PROCEDURE: Echocardiography Test|BIOLOGICAL: Ipilimumab|PROCEDURE: Magnetic Resonance Imaging|BIOLOGICAL: Nivolumab
+Recommended phase 2 dose of copanlisib and nivolumab combination, Will be defined as dose limiting toxicity in =\< 1 out of 6 patients at highest dose level below the maximally administered dose., Up to 28 days|Incidence of adverse events, Graded according to the National Cancer Institute Common Terminology Criteria for Adverse Events version 4.0., Up to 30 days after the last dose of study drug
+Markers of anti-tumor immunity assessed in circulating immune cells, circulating tumor cells, and pre- and post-treatment tumor biopsies, Evaluations will be performed, with results reported with appropriate caveats about the exploratory nature of the analysis, and without formal adjustment for multiple comparisons., Up to 6 years|Biomarkers of AKT inhibition, deoxyribonucleic acid damage (gammaH2AX, pNbs1, Rad51), apoptosis, and epithelial-mesenchymal transition assessed in pre- and post- treatment tumor biopsies, Evaluations will be performed, with results reported with appropriate caveats about the exploratory nature of the analysis, and without formal adjustment for multiple comparisons., Up to 6 years|Preliminary antitumor activity, Evaluations will be performed, with results reported with appropriate caveats about the exploratory nature of the analysis, and without formal adjustment for multiple comparisons., Up to 6 years
+PRIMARY OBJECTIVES:
+
+I. To establish the safety, tolerability, and the recommended phase 2 dose (RP2D) of copanlisib and nivolumab combination in patients with advanced solid tumors and lymphomas.
+
+II. To evaluate the safety and tolerability of copanlisib combined with nivolumab and ipilimumab in patients with advanced solid tumors and lymphomas.
+
+EXPLORATORY OBJECTIVES:
+
+I. Evaluate the effect of the doublet and triplet combinations on markers of anti-tumor immunity in circulating immune cells and pre- and post-treatment tumor biopsies.
+
+II. Evaluate the effect of the combinations on biomarkers of AKT inhibition, deoxyribonucleic acid (DNA) damage (gammaH2AX, pNbs1, Rad51), apoptosis, and epithelial-mesenchymal transition in pre- and post- treatment tumor biopsies.
+
+III. Assess preliminary antitumor activity of the combinations.
+
+OUTLINE: This is a dose-escalation study of copanlisib and nivolumab, followed by a dose-expansion study.
+
+COHORT I (DOUBLET TREATMENT PLAN): Patients receive copanlisib intravenously (IV) over 1 hour on days 1 and 15 or days 1, 8, and 15 of each cycle and nivolumab IV over 30 minutes on day 1 or days 1 and 15 of each cycle. Cycles repeat every 28 days in the absence of disease progression or unacceptable toxicity. Patients also undergo computed tomography (CT) scan and/or magnetic resonance imaging (MRI) throughout the trial. Patients undergo blood sample collection on study and during follow-up, as well as tumor biopsy on study. Patients also undergo an echocardiography (ECHO) during screening and as clinically indicated on study.
+
+COHORT II (TRIPLET SAFETY RUN-IN PHASE TREATMENT PLAN): Patients receive copanlisib IV over 1 hour on days 1, 8, and 15 of each cycle, nivolumab IV over 30 minutes on day 1 of each cycle, and ipilimumab IV over 90 minutes on day 1 for cycles 1-4. Cycles repeat every 28 days in the absence of disease progression or unacceptable toxicity. Patients also undergo CT scan and/or MRI throughout the trial. Patients undergo an ECHO during screening and as clinically indicated on study.
+
+COHORT III (TRIPLET TREATMENT PLAN): Patients receive copanlisib IV over 1 hour on days 1, 8, and 15 of each cycle, nivolumab IV over 30 minutes on day 15 of cycle 1 and then day 1 of each subsequent cycles, and ipilimumab IV over 90 minutes on day 1 for cycles 2-5. Cycles repeat every 28 days in the absence of disease progression or unacceptable toxicity. Patients also undergo CT scan and/or MRI throughout the trial. Patients undergo blood sample collection on study and during follow-up, as well as tumor biopsy on study. Patients also undergo an ECHO during screening and as clinically indicated on study.
+
+After completion of study treatment, patients are followed up monthly for 4 months.

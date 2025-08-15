@@ -1,0 +1,22 @@
+Development of 3D Multi-Parametric Ultrasound (MPUS) as a Decision Support Tool for Patients
+This clinical trial studies how well 3-dimensional multi-parametric ultrasound (3D MPUS) imaging works as a decision-support tool for patients with liver tumors undergoing therapy. Continuous and dynamic imaging of patients undergoing therapy is required to monitor early-phase treatment response. 3D-MPUS is an inexpensive and safe method, which may provide complementary quantitative functional (perfusion) and tissue characterization information to anatomical radiological assessment or blood biomarkers.
+Liver Cancer, Adult
+DIAGNOSTIC_TEST: 3D-MPUS
+Diagnostic yield of the 3D-MPUS data acquisition, Diagnostic yield will be the percentage of non-missing measurements (per reader, per measurement)
+
+Participants with successful measurements of the following parameters (following administration of a radiotracer).
+
+* volume
+* peak enhancement (PE)
+* area-under-the-curve (AUC)
+* time-to-peak (TP)
+* mean-transit-time (MTT)
+* mid-band fit (MBF)
+* spectral slope (SS)
+* spectral intercept (SI)
+
+Readers include Principal Investigator and technician., Baseline visit (average approximately to 45 minutes to perform scan)
+Inter-reader agreement for 3D-MPUS measurements at first scan, Investigators will test for a difference between responders and non-responders, using a Wilcoxon rank-sum test.
+
+Readers include Principal Investigator and technician., Baseline visit (average approximately to 45 minutes to assess scan)|Relationship between baseline and one-month 3D-MPUS measurements and treatment response after three-months, Investigators will perform univariable and multivariable logistic regressions of treatment response at three months on percent change in measurements between baseline and one-month post treatment., Baseline and 3 months post treatment
+This clinical trial studies how well 3-dimensional multi-parametric ultrasound (3D MPUS) imaging works as a decision-support tool for patients with liver tumors undergoing therapy. Continuous and dynamic imaging of patients undergoing therapy is required to monitor early-phase treatment response. 3D-MPUS is an inexpensive and safe method, which may provide complementary quantitative functional (perfusion) and tissue characterization information to anatomical radiological assessment or blood biomarkers.

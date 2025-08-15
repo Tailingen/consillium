@@ -1,0 +1,19 @@
+Cyclophosphamide and Veliparib in Treating Patients With Locally Advanced or Metastatic Breast Cancer
+This phase I trial studies the side effects and best dose of cyclophosphamide and veliparib when given together in treating patients with breast cancer that has spread from where it started to nearby tissue or lymph nodes or to other places in the body. Drugs used in chemotherapy, such as cyclophosphamide, work in different ways to stop the growth of tumor cells, either by killing the cells, by stopping them from dividing, or by stopping them from spreading. Veliparib may stop the growth of tumor cells by blocking some of the enzymes needed for cell growth. Giving cyclophosphamide together with veliparib may work better in treating breast cancer.
+Locally Advanced Unresectable Breast Carcinoma|Metastatic Breast Carcinoma|Recurrent Breast Carcinoma|Stage IIIB Breast Cancer AJCC v7|Stage IIIC Breast Cancer AJCC v7|Stage IV Breast Cancer AJCC v6 and v7
+DRUG: Cyclophosphamide|OTHER: Laboratory Biomarker Analysis|DRUG: Veliparib
+Recommended phase II dose of veliparib and cyclophosphamide, The descriptions and grading scales found in the revised National Cancer Institute Common Terminology Criteria for Adverse Events version 4.0 will be utilized for adverse events reporting., 21 days
+Clinical response (complete or partial response) according to RECIST version 1.1, Clinical response and benefit rates in each group will be estimated by computing proportions and corresponding 95% confidence intervals. Rates will be compared between groups using the Fisher's exact test., Up to 24 weeks|Overall survival, Overall survival will be analyzed using standard survival analytic approaches including the Kaplan-Meier method and the log-rank test., Time from treatment initiation to death, assessed up to 6 years|MacroH2A1.1 expression levels, Expression levels of macroH2A1.1 will be compared between patients with and without clinical benefit using the two-sample T-test or Wilcoxon rank sum test, depending on the distribution of the data. Logistic regression models will also be fit to the data to adjust for potential confounders in the analysis., Up to 6 years|PARP1 expression status, Expression levels of PARP1 will be compared between patients with and without clinical benefit using the two-sample T-test or Wilcoxon rank sum test, depending on the distribution of the data. Logistic regression models will also be fit to the data to adjust for potential confounders in the analysis., Up to 6 years
+PRIMARY OBJECTIVES:
+
+I. To determine the recommended phase II dose of veliparib (ABT-888) that can be combined with metronomic dose cyclophosphamide in patients with metastatic breast cancer.
+
+SECONDARY OBJECTIVES:
+
+I. To determine whether the macroH2A1.1 and poly (adenosine diphosphate \[ADP\]-ribose) polymerase 1 (PARP1) expression status in archival paraffin embedded tumor specimens from either the primary tumor or metastatic disease is predictive of clinical benefit with veliparib (ABT-888) plus cyclophosphamide.
+
+OUTLINE: This is a dose-escalation study.
+
+Patients receive veliparib orally (PO) once daily (QD) and cyclophosphamide PO QD on days 1-21. Courses repeat every 21 days in the absence of disease progression or unacceptable toxicity.
+
+After completion of study treatment, patients are followed up periodically.

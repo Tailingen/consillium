@@ -1,0 +1,40 @@
+Bevacizumab, Pemetrexed Disodium, and Cisplatin or Erlotinib Hydrochloride and Bevacizumab in Treating Patients With Stage IV Non-Small Cell Lung Cancer. A Multicenter Phase II Trial Including Biopsy at Progression (BIO-PRO Trial).
+RATIONALE: Monoclonal antibodies, such as bevacizumab, can block tumor growth in different ways. Some block the ability of tumor cells to grow and spread. Others find tumor cells and help kill them or carry tumor-killing substances to them. Drugs used in chemotherapy, such as pemetrexed disodium and cisplatin, work in different ways to stop the growth of tumor cells, either by killing the cells or by stopping them from dividing. Erlotinib hydrochloride may stop the growth of tumor cells by blocking some of the enzymes needed for cell growth. It is not yet known whether bevacizumab given together with pemetrexed disodium and cisplatin is more effective than erlotinib hydrochloride given together with bevacizumab in treating patients with non-small cell lung cancer.
+
+PURPOSE: This phase II trial is studying giving bevacizumab together with pemetrexed disodium and cisplatin to see how well it works compared with giving erlotinib hydrochloride together with bevacizumab in treating patients with stage IV non-small cell lung cancer.
+Lung Cancer
+BIOLOGICAL: bevacizumab, erlotinib|DRUG: bevacizumab, pemetrexed, cisplatin
+Progression-free survival at 6 months in stratum wtEGFR cohort 1, at 6 months
+Progression-free survival, at 6 months|Overall survival, from registration until death|Best response (RECIST 1.1), up to disease progression or start of new treatment|Adverse events (CTCAE v4.0)|Molecular markers in tumor tissue and blood
+OBJECTIVES:
+
+Primary
+
+* To demonstrate that tailored therapy, according to tumor histology and EGFR-mutation status, and the introduction of novel drug combinations in the frontline treatment of patients with stage IV non-squamous non-small cell lung cancer, is promising for further investigation.
+
+Secondary
+
+* To prospectively explore molecular markers of clinical outcomes.
+
+OUTLINE: This is a multicenter study. Patients are stratified according to EGFR(epidermal growth factor receptor)-mutation status (mutated vs wildtype). Patients are assigned to 1 of 2 groups.
+
+* mutEGFR (mutated epidermal growth factor receptor) group: Patients receive bevacizumab IV over 30-90 minutes on day 1 and oral erlotinib hydrochloride once daily on days 1-21. Courses repeat every 21 days in the absence of disease progression or unacceptable toxicity.
+* wtEGFR (wildtype epidermal growth factor receptor) group cohort 1:
+
+  * Induction chemotherapy: Patients receive bevacizumab IV over 30-90 minutes, pemetrexed disodium IV over 10 minutes, and cisplatin IV over 60 minutes on day 1. Treatment repeats every 21 days for up to 4 courses in the absence of disease progression or unacceptable toxicity.
+  * Maintenance therapy: Patients without progressive disease receive bevacizumab IV over 30-90 minutes and pemetrexed disodium IV over 10 minutes on day 1. Treatment repeats every 21 days in the absence of disease progression.
+
+Blood and tissue specimens are collected for EGFR and molecular markers analysis, including gene expression, mutation, and pharmacogenomic analyses.
+
+After completion of study treatment, patients are followed every 3 months.
+
+* wtEGFR (wildtype epidermal growth factor receptor) group cohort 2:
+
+  * Induction chemotherapy: Patients receive pemetrexed disodium IV over 10 minutes, and cisplatin IV over 60 minutes on day 1. Treatment repeats every 21 days for up to 4 courses in the absence of disease progression or unacceptable toxicity.
+  * Maintenance therapy: Patients without progressive disease receive pemetrexed disodium IV over 10 minutes on day 1. Treatment repeats every 21 days in the absence of disease progression.
+
+Blood and tissue specimens are collected for EGFR and molecular markers analysis, including gene expression, mutation, and pharmacogenomic analyses.
+
+After completion of study treatment, patients are followed every 3 months.
+
+PROJECTED ACCRUAL: A total of 129 evaluable patients (77 in cohort 1 and 52 in cohort 2) with wtEGFR status and 20 patients with mutEGFR status will be accrued for this study.

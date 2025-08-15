@@ -1,0 +1,28 @@
+Preoperative Radiosurgery for the Treatment of High Grade Glioma, NeoGlioma Trial
+This phase I trial finds out the possible benefits and/or side effects of radiosurgery before surgery (preoperative) in treating patients with high grade glioma. Radiosurgery uses special equipment to position the patient and precisely give a single large dose of radiation to the tumor. This method may kill tumor cells with fewer doses over a shorter period and cause less damage to normal tissue. Giving pre-operative radiosurgery may improve the odds of brain tumor control and reduce treatment-related side effects.
+Malignant Glioma
+RADIATION: Radiation Therapy|RADIATION: Radiosurgery|PROCEDURE: Stereotactic Biopsy|DRUG: Temozolomide|PROCEDURE: Tumor Treating Fields Therapy|PROCEDURE: Magnetic Resonance Imaging|PROCEDURE: Biospecimen Collection|PROCEDURE: Biopsy|PROCEDURE: Therapeutic Conventional Surgery
+Proportion of patients experiencing any acute grade 3 or greater unplanned adverse event, Assessed per Common Terminology Criteria for Adverse Events (CTCAE) version (v)5.0. The toxicity rate will be estimated using a binomial estimator and a one-sided 95% confidence interval (CI) of the rate will be computed with normal approximation., Up to 4 weeks postoperative radiotherapy|Acute clinical toxicity, Assessed per CTCAE v5.0. The maximum grade for each type of acute adverse events will be recorded for each patient. Data will be summarized as frequencies and relative frequencies by treatment arm. Additionally, the relationship of the adverse event(s) to the study treatment will be taken into consideration. Rates will be compared between arms using chi-squared tests., Up to 4 weeks postoperative radiotherapy|Maximum tolerated dose (MTD) of preoperative radiosurgery, After the trial is completed, the MTD will be based on isotonic regression. The dose for which the isotonic estimate of the toxicity rate is closest to the target toxicity rate will be selected as the MTD. If there are ties, the higher dose level will be selected when the isotonic estimate is lower than the target toxicity rate; and the lower dose level will be selected when the isotonic estimate is greater than or equal to the target toxicity rate., Up to 4 weeks postoperative radiotherapy
+Radiographic tumor control, Assessed per Response Assessment in Neuro-Oncology (RANO) criteria. The cumulative incidence of radiographic tumor recurrence will be estimated using a competing risks method (Gooley et al.). The competing risks will be death., At 12 months post-surgery|Rate of pseudoprogression, Assessed per RANO criteria. Data will be summarized as frequencies and relative frequencies overall and by treatment dose. Additionally, the relationship of the pseudoprogression(s) to the study treatment will be taken into consideration., At first post radiation scan|Overall survival, Overall survival (OS) is defined as the time from study enrollment to death by any cause. Will be estimated with a Kaplan-Meier estimator and curve for patients treated with preoperative radiosurgery. Estimates will be given for specific time points along with 95% CIs., At 12 months post-surgery
+Tumor tissue evaluation of tumor changes, Any excess tissue recovered from the surgical specimen (after standard of care pathologic evaluation) will undergo a series of advanced testing, potentially including but not limited to evaluation of the tumor repair pathways triggered by radiation, tumor vascular changes, tumor microenvironment immune profiling, cell cultures, and the creation of orthotopic xenograft models for future study. Analysis will be completed outside the scope of this protocol., Up to 14 days Post-radiosurgery
+PRIMARY OBJECTIVE:
+
+I. To evaluate the feasibility, safety and maximum tolerated dose (MTD) of preoperative radiosurgery in the treatment of patients with biopsy-proven high-grade glioma prior to conventional therapy.
+
+SECONDARY OBJECTIVES:
+
+I. Acute clinical toxicity profile using Common Terminology Criteria for Adverse Events (CTCAE) version 5 (defined as within 4 weeks of completion of postoperative radiotherapy.
+
+II. Radiographic tumor control at 12 months following surgery (per Response Assessment in Neuro-Oncology \[RANO\] criteria).
+
+III. Rate of pseudoprogression at first post radiation scan (RANO criteria). IV. Overall survival at 12 months following surgery.
+
+CORRELATIVE RESEARCH OBJECTIVE:
+
+I. Evaluation of the tumor repair pathways triggered by radiation, tumor vascular changes, tumor microenvironment immune profiling, cell cultures, and the creation of orthotopic xenograft models for future study.
+
+OUTLINE: This is a dose-escalation study.
+
+Patients undergo magnetic resonance imaging (MRI)-guided stereotactic biopsy. Within 14 days of registration, patients undergo either standard of care surgery or radiosurgery in 1 fraction. Within 14 days, patients who underwent radiosurgery then undergo surgery. Within 4-6 weeks, all patients then receive standard of care radiation therapy over 30 fraction and temozolomide daily with or without tumor treating fields (TTF) at the discretion of the treating neuro-oncologist. Additionally, patients undergo MRI and blood sample collection and optional biopsy throughout the study.
+
+After completion of study treatment, patients are followed up every 2-3 months for 12 months and then every 3 months for up to 3 years after registration.

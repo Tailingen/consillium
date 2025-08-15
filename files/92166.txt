@@ -1,0 +1,43 @@
+Comparing the Outcome of Immunotherapy-Based Drug Combination Therapy With or Without Surgery to Remove the Kidney in Metastatic Kidney Cancer, the PROBE Trial
+This phase III trial compares the effect of adding surgery to a standard of care immunotherapy-based drug combination versus a standard of care immunotherapy-based drug combination alone in treating patients with kidney cancer that has spread to other places in the body (metastatic). Immunotherapy with monoclonal antibodies, such as nivolumab, ipilimumab, pembrolizumab, and avelumab, may help the body's immune system attack the cancer, and may interfere with the ability of tumor cells to grow and spread. Axitinib may stop the growth of tumor cells by blocking some of the enzymes needed for cell growth. Surgery to remove the kidney, called a nephrectomy, is also considered standard of care; however, doctors who treat kidney cancer do not agree on its benefits. It is not yet known if the addition of surgery to an immunotherapy-based drug combination works better than an immunotherapy-based drug combination alone in treating patients with kidney cancer.
+Metastatic Clear Cell Renal Cell Carcinoma|Metastatic Renal Cell Carcinoma|Stage IV Renal Cell Cancer AJCC v8
+PROCEDURE: Cytoreductive Nephrectomy|DRUG: Active Comparator
+Overall survival, Analysis will be intent-to-treat. Evidence suggesting early termination of the trial and a conclusion that the cytoreductive nephrectomy (CN) approach is superior to treatment alone would be if the null hypothesis is rejected at the one-sided 0.005 level. For the second and third interim analyses, the null and alternative hypotheses with respect to survival will be tested, with superiority tested at the one-sided 0.005 level, and futility determined to be met if the (CN versus no CN) hazard ratio is greater than or equal to 1. A proportional hazards model will be fit to estimate the hazard ratio adjusting for the stratification factors as covariates in the model. Will evaluate whether each of the stratification factors are predictive factors of cytoreductive nephrectomy by placing an interaction term corresponding to each stratification factor and treatment arm in the proportional hazards survival model., From date of randomization to date of death due to any cause, assessed up to 7 years.
+Overall survival in subset who received assigned protocol treatment, Will be included in the proportional hazards regression model adjusting for stratification factors as covariates., From date of randomization to date of death due to any cause, assessed up to 7 years|Progression-free survival, A proportional hazards model will be used to compare progression-free survival between arms, adjusting for the stratification factors as covariates., From date of randomization to date of first documentation of progression, or death due to any cause, assessed up to 7 years|Objective response, Objective response includes all confirmed and unconfirmed partial and complete responses. Baseline will be disease assessment at randomization. Response Evaluation Criteria in Solid Tumors response rates will be evaluated, excluding the primary tumor in the kidney because that disease will be removed in half the participant's post-randomization. Comparison of response rates will be performed using logistic regression with stratification factors as covariates and an indicator for treatment arm., Up to 7 years|Change in maximum diameter of primary tumor, Descriptive statistics will be provided including stratified results by treatment regimen received. Potential additional analyses may include assessment of the interaction between change in primary tumor and randomized treatment arm. This will be modeled as an interaction term in the proportional hazards survival model., From the disease assessment just prior to the start of immunotherapy to the week 12 disease assessment
+PRIMARY OBJECTIVE:
+
+I. To compare overall survival in participants with newly diagnosed metastatic renal cell carcinoma who are randomized to receive immune checkpoint inhibitor-based combination treatment plus cytoreductive nephrectomy versus immune checkpoint inhibitor-based combination treatment alone.
+
+SECONDARY OBJECTIVES:
+
+I. To compare overall survival between arms in the subset who received their assigned protocol treatment.
+
+II. To assess complications of nephrectomy and post-randomization drug toxicities.
+
+III. To compare objective response rate in metastatic sites between the arms in participants with measurable metastatic disease.
+
+IV. To assess change in diameter of primary tumor at week 12 disease assessment in participants who have received pre-randomization treatment.
+
+BANKING OBJECTIVE:
+
+I. To bank specimens for future correlative studies.
+
+OUTLINE:
+
+PRE-RANDOMIZATION TREATMENT: Treatment naive patients are assigned to 1 of 3 treatment regimens per standard of care.
+
+REGIMEN I: Patients receive nivolumab intravenously (IV) and ipilimumab IV. Treatment repeats every 3 weeks for up to 4 cycles in the absence of disease progression or unacceptable toxicity. Patients then receive nivolumab IV on day 1. Cycles repeat every 2-4 weeks in the absence of disease progression or unacceptable toxicity.
+
+REGIMEN II: Patients receive pembrolizumab IV on day 1 and axitinib orally (PO) twice daily (BID) on days 1-21. Cycles repeat every 3 weeks in the absence of disease progression or unacceptable toxicity.
+
+REGIMEN III: Patients receive avelumab IV on day 1 and axitinib PO BID on days 1-14. Cycles repeat every 2 weeks in the absence of disease progression or unacceptable toxicity.
+
+NOTE: Some patients may have already completed the standard of care pre-randomization treatment specified above off-trial.
+
+RANDOMIZATION TREATMENT: Between 10-14 weeks from the start of on-trial or off-trial pre-randomization treatment, patients are randomized to 1 of 2 arms.
+
+ARM I: Patients receive nivolumab IV, pembrolizumab IV, or avelumab IV on day 1. Patients also receive axitinib PO BID. Cycles with nivolumab repeat every 2 or 4 weeks, cycles with pembrolizumab repeat every 3 weeks, and cycles with avelumab repeat every 2 weeks in the absence of disease progression or unacceptable toxicity.
+
+ARM II: Within 42 days following randomization, patients undergo radical or partial nephrectomy in addition to nivolumab, pembrolizumab, avelumab, and axitinib as in Arm I in the absence of disease progression or unacceptable toxicity. Axitinib should be stopped at least 24 hours prior to surgery.
+
+After completion of trial treatment, patients are followed up every 3 months for the first year, every 6 months for years 2 and 3, and then annually for up to 7 years from randomization.

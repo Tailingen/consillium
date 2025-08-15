@@ -1,0 +1,31 @@
+A Window of Opportunity Study for Investigating Drug Tolerant Persister (DTP) to Preoperative Brigatinib in Resectable Non-small Cell Lung Cancer (NSCLC) Harboring ALK Fusions.
+This study is single arm, open label, phase II trial for resectable ALK+ NSCLC. Eligible patients will receive brigatinib after 7-day lead-in 90mg from 4 to 10 weeks.
+
+The objective of this study is as follows.
+
+* Primary objective: To identify molecular mechanism of DTP causing innate drug resistance to neoadjuvant brigatinib in resectable NSCLC harboring ALK fusion by analyzing single cell RNA-seq.
+* Secondary objectives:
+
+  1. To assess the pathologic response rate to neoadjuvant treatment with Brigatinib
+  2. To evaluate the clinical efficacy in resectable ALK-positive NSCLC patients treated with brigatinib induction therapy
+  3. To evaluate the successful curative resection rate
+  4. To evaluate the safety of brigatinib as neoadjuvant treatment in resectable ALK-rearranged NSCLC patients.
+  5. To investigate the changes of ALK rearrangement and other hot spot mutations by GUARDANT LUNAR assay of circulating tumor DNA present in blood plasma immediately with serial sampling.
+  6. To assess of variant allele frequencies between pre-treatment and post-treatment sampling by GUARDANT LUNAR assay
+  7. To explore cell-free biomarkers that may be predictive of response or primary resistance to brigatinib neoadjuvant therapy
+Non-small Cell Lung Cancer
+DRUG: Brigatinib
+molecular candidates identified by analyzing scRNA-seq, Molecular candidates identified by analyzing scRNA-seq from pre-treatment tumor biopsy specimens and tumor tissue acquired at the time of surgical resection., 10weeks (after surgery)
+Pathologic complete response rate (pCR), absence of (0%) viable tumor present histologically in the resected tumor specimen, 10weeks (after surgery)|Major pathologic response (MPR), ≤10% residual viable tumor following neoadjuvant therapy, 10weeks (after surgery)|Disease-free survival (DFS), Up to 2 years|Event free survival (EFS), Up to 2 years|Overall survival (OS), 6months|Overall survival (OS), Up to 2 years|Objective response rate (ORR), CR+PR rate based on RECIST ver 1.1 criteria., From date of enrollment until the date of first documented progression or date of death from any cause, whichever came first, assessed up to 24 months.|Rate of inability to undergo surgical resection, 10 weeks|Rate of conversion from operable to non-operative, It will be recorded as rate of patients initially assessed as surgically resectable, who are subsequently unable to undergo surgical resection due to either treatment-related adverse events (AEs) or disease progression, 10weeks|Rate of surgical complications occurring post op period, 16weeks (6 weeks after surgery)
+This study is single arm, open label, phase II trial for resectable ALK+ NSCLC. Eligible patients will receive brigatinib after 7-day lead-in 90 mg from 4 to 10 weeks. The surgery with curative intent will be performed within 4 - 10 weeks after initiating brigatinib (optimal duration: 6 weeks). The surgery with curative intent represents more than sublobar resection with mediastinal lymph node dissection. Patients take it up to the day before surgery and can be allow stop up to 3 days before surgery by physician's discretion.
+
+Post-operative adjuvant treatment will be conducted based on the treating physician's best medical judgement.
+
+Brigatinib will be administered orally at a dose of 90 mg QD for the first 7 days. Patients who have tolerated the 90 mg starting dose on Days 1 through 7 will be expected to increase their dose to 180 mg QD beginning on Day 8 and continuously every day, with a 28-day study procedure execution cycle. The study drug shall be taken approximately at the same time of the day each day. It may be taken with or without food. Patients shall be instructed to swallow the tablets whole and not crush or chew them. Patients will take the dose with water (recommended 240 mL). If a dose of brigatinib is missed or vomiting occurs after taking a dose, do not administer an additional dose and take the next dose of brigatinib at the scheduled time.
+
+The patient's daily dose of brigatinib should not be increased to 180 mg if any of the following adverse reactions are experienced during treatment at 90 mg QD:
+
+* Interstitial lung disease (ILD)/pneumonitis (any grade).
+* Symptomatic bradycardia (Grade 2 or greater).
+* Grade 2 or higher visual disturbance.
+* Any other Grade 3 or higher adverse reaction.

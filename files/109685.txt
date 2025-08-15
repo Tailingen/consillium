@@ -1,0 +1,28 @@
+Intraoperative Rapid Diagnosis of Glioma Based on Fusion of Magnetic Resonance and Ultrasound Imaging
+The aim of this observational study is to enable rapid diagnosis of molecular biomarkers in patients during surgery by medical imaging and artificial intelligence models, to help clinicians with strategies to maximize safe resection of gliomas. The main questions it aims to answer are:
+
+1. To solve the current clinical shortcomings of intraoperative molecular diagnosis, which is time-consuming and complex, and enables rapid and automated molecular diagnosis of glioma, thus providing the possibility of personalized tumor resection plans.
+2. To implement a neuro-navigation platform that combines preoperative magnetic resonance images, intraoperative ultrasound signals and intraoperative ultrasound images to address real-time molecular boundary visualisation and molecular diagnosis for glioma, providing an approach to improve glioma treatment.
+
+Participants will read an informed consent agreement before surgery and voluntarily decide whether or not to join the experimental group. they will undergo preoperative magnetic resonance imaging, intraoperative ultrasound, and postoperative genotype identification. Their imaging data, genotype data, clinical history data, and pathology data will be used for the experimental study. The data collection process will not interrupt the normal surgical process.
+Glioma, Malignant|Computer-Assisted Surgery
+Accuracy rate, describing the number of correct people or correct regions predicted by the computer-aided algorithm as a proportion of the total sample., The accuracy rate has a value between 0 and 1, with higher values indicating a more reliable system., End of study (24 weeks)
+BACKGROUND:
+
+The extent of glioma resection is directly related to patient survival, and a combination of multiple imaging and molecular pathology imaging methods has been developed to achieve maximum safe resection. In this study, three types of data, preoperative magnetic resonance imaging, intraoperative ultrasound and molecular genotype, will be collected and combined to build an artificial intelligence imaging model to achieve maximum safe resection and prolong patient's life.
+
+PLAN:
+
+In order to achieve the goal of maximum safe resection, we plan to sequentially implement imaging-based molecular visualization techniques, and integrated guidance techniques through a combination of intraoperative ultrasound and preoperative magnetic resonance imaging, in order to address the two critical scientific issues of glioma molecular boundary visualization and intraoperative real-time molecular diagnosis. It can also help neurosurgeons to achieve complete glioma resection at the molecular level, maximizing patient survival time and providing another effective approach to improving glioma treatment.
+
+PROCESS:
+
+Participants will read an informed consent agreement before surgery and voluntarily decide whether or not to join the experimental group. They will undergo preoperative magnetic resonance imaging and intraoperative ultrasound to obtain magnetic resonance images, ultrasound images, and ultrasound radio-frequency signals. After surgery, the patient's tumor tissue samples will undergo specialist genetic testing to obtain multiple molecular diagnostic results, such as isocitrate dehydrogenase (IDH), telomerase reverse transcriptase promoter (TERTp), the short arm chromosome 1 and the long arm of chromosome 19 (1p/19q), et al. Also, their imaging data, genotype data, clinical history data, and pathology data will be used for the experimental study.
+
+The data collected from each patient will be performed in three steps as follows.
+
+1. Image translation and alignment of intraoperative ultrasound and preoperative MRI navigation across modalities for glioma.
+2. Multimodality imaging of IDH1/2 gene mutations from structural to molecular boundaries.
+3. Applied study of molecular boundary visualization. All the above information will be summarized and handed over to Fudan University to build an artificial intelligent model.
+
+Compared with the previous gold standard glioma resection, this study adds intraoperative ultrasound, intraoperative multi-point tumor specimen sampling for IDH genotype identification during the surgery, and will collect relevant molecular imaging data, MRI data, intraoperative ultrasound data, clinical case data and pathology data from patients after the surgery. Intraoperative ultrasound is non-invasive, real-time and rapid, without adding additional operative time or risk of infection.

@@ -1,0 +1,15 @@
+Follow Up of High Risk Hodgkin Lymphoma in First Complete Remission
+Cohort study enrolled high-risk Hodgkin Lymphoma patients in first relapse after induction therapy followed after remission either with a systemic imaging-based surveillance (Imaging cohort) or with standard clinical-based surveillance (standard cohort).
+Hodgkin Lymphoma|High Risk|Relapse
+DIAGNOSTIC_TEST: Standard cohort: Clinical lab follow-up|DIAGNOSTIC_TEST: Imaging cohort: integrated imaging follow-up
+Event Free Survival (EFS), Events:
+
+* refractoriness
+* relapse
+* death, Time period from the first relapse after induction therapy to the date of an event (refractoriness, relapse, or death) or the last follow-up visit after autologous stem cell transplantation (ASCT), up to 2 years
+EFS for clinically silent relapses, Events:
+
+* refractoriness
+* relapse
+* death, Time period from the first relapse after induction therapy to the date of an event (refractoriness, relapse, or death) or the last follow-up visit after autologous stem cell transplantation (ASCT), up to 2 years|Response rate, Rate of response, After salvage therapy and autologous stem cell transplantation (ASCT), up to 2 years
+Cohort study enrolled high-risk Hodgkin Lymphoma patients in first relapse after induction therapy followed after remission either with a systemic imaging-based surveillance (Imaging cohort) or with standard clinical-based surveillance (standard cohort).

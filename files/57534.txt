@@ -1,0 +1,14 @@
+Heuristics, Algorithms and Machine Learning: Evaluation & Testing in Radiation Therapy
+The Hamlet.rt study is a prospective data collection and patient questionnaire study for patients undergoing image-guided radiotherapy with curative intent.
+
+The aim of the study is to use novel machine learning and mathematical techniques to build a model that can predict the risk of significant side effects from radiotherapy treatment for an individual patient: using calculations of normal tissue dose from radiotherapy treatment planning and patient baseline characteristics derived from image and non-image data, continuously updated as the patient is reviewed both during and after treatment.
+
+A secondary goal of the project is to facilitate research in machine learning and medical image processing for radiation therapy through the creation of a discoverable and shared data resource for research use.
+Cancer
+RADIATION: Radical Image-Guided Radiotherapy
+Machine Learning Modelling, Characterise machine learning models for the four disease sites. Developing machine learning algorithms for autosegmentation of normal tissue anatomy, and to extend machine learning algorithms to identify and segment normal tissue structures in cone beam CT images, and to utilise the ML segmentations to evaluate image signatures correlated with treatment toxicity, 8 years from FPFV|Predictive Modelling, Predict performance matches with published techniques. Combining the machine learning models in outcome 1, with pre-treatment assessment data and on-treatment quantitative assessments in outcome 3 for the construction and evaluation of a predictive mathematical model, 8 years from FPFV|Clinical Toxicity Evaluation, Evaluation of the clinical toxicity experienced by each patient up to 5 years post radiotherapy to inform the predictive models in outcome 2, 8 years from FPFV
+The Hamlet.rt study is a prospective data collection and patient questionnaire study for patients undergoing image-guided radiotherapy with curative intent.
+
+The aim of the study is to use novel machine learning and mathematical techniques to build a model that can predict the risk of significant side effects from radiotherapy treatment for an individual patient: using calculations of normal tissue dose from radiotherapy treatment planning and patient baseline characteristics derived from image and non-image data, continuously updated as the patient is reviewed both during and after treatment.
+
+A secondary goal of the project is to facilitate research in machine learning and medical image processing for radiation therapy through the creation of a discoverable and shared data resource for research use.

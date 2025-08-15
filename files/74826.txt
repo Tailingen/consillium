@@ -1,0 +1,50 @@
+Cisplatin With or Without Sodium Thiosulfate in Treating Young Patients With Stage I, II, or III Childhood Liver Cancer
+RATIONALE: Drugs used in chemotherapy, such as cisplatin, work in different ways to stop the growth of tumor cells, either by killing the cells or by stopping them from dividing. Chemoprotective drugs, such as sodium thiosulfate, may protect normal cells from the side effects of chemotherapy. It is not yet known whether giving sodium thiosulfate is effective in reducing hearing damage caused by cisplatin in treating young patients with liver cancer.
+
+PURPOSE: This randomized phase III trial is studying how well sodium thiosulfate works to decrease hearing loss caused by cisplatin in treating young patients with stage I, stage II, or stage III childhood liver cancer.
+Liver Cancer|Ototoxicity
+DRUG: cisplatin|DRUG: sodium thiosulfate
+Rate of Brock grade ≥ 1 hearing loss, To investigate if the administration of sodium thiosulfate simultaneously with the administration of Cisplatin significantly reduces the hearing impairment, End of trial treatment or at an age of 3.5 years, whichever is later
+Response to preoperative chemotherapy, Defined as:
+
+Complete response (CR):
+
+no evidence of disease and normal serum AFP value (for age).
+
+Partial response (PR):
+
+any tumour volume shrinkage associated with a decreasing serum AFP value, \> 1 log below the original measurement.
+
+Stable disease (SD):
+
+no tumour volume change and no change, or \< 1 log fall of the serum AFP concentration.
+
+Progressive disease (PD):
+
+unequivocal increase in 1 or more dimensions and/or any unequivocal increase of the serum AFP concentration (three successive 1-2 weekly determinations) even without clinical (physical and/or radiological) evidence of tumour re-growth., Following completion of preoperative chemotherapy|Complete resection, Total macroscopic removal of the tumour as reported by the surgeon and pathologist. In case of any doubt the lack of residual tumour must be confirmed with imaging studies performed, Within 2 weeks after surgery.|Complete remission, Lack of evidence of residual disease and normal (for age) alpha-foetal protein (AFP). To establish a complete remission all of the following requirements must be fulfilled:
+
+* No evidence of tumour intra-abdominally: negative abdominal (including hepatic) ultrasound or CT scan or Magnetic resonance imaging
+* No evidence of metastases: clear chest X-ray (PA and lateral) for non-metastatic patients. (Normal lung CT scan for patients with lung metastasis at diagnosis, who are high-risk by definition and not treated according to SIOPEL 6).
+* Serum AFP level either normal or compatible with age for at least 4 weeks after normalisation., End of trial treatment|Event-free survival (EFS), Calculated from the time of randomisation to the first of the following events: progression, relapse, secondary primary malignancy or death., Until first event or up to 5 years|Overall survival (OS), Calculated from the time of randomisation to death., Until event or up to 5 years|Toxicity as graded by CTCAE v 3.0, Adverse drug reactions are defined as adverse events, which are possibly, probably or definitely related to the trial treatment. They will be assessed according to NCI CTCAE v 3.0., 30 days post treatment|Long-term renal clearance, By clearance method either EDTA, iohexol or inulin., Until event or up to 5 years|Feasibility of central audiology review, The feasibility of central review, End of trial treatment or at an age of 3.5 years, whichever is later
+OBJECTIVES:
+
+Primary
+
+* To assess the efficacy of sodium thiosulfate (STS) to reduce the hearing impairment caused by cisplatin chemotherapy.
+
+Secondary
+
+* To carefully monitor any potential impact of STS on response to cisplatin and survival.
+* To assess the short- and long-term tolerability of the combination of STS and cisplatin
+* To prospectively evaluate and validate biological, radiological and pathological features of standard-risk hepatoblastoma for future risk adapted management
+* To investigate the effect of STS on the formation of cisplatin-DNA adducts.
+* To prospectively collect patient DNA specifically for the analysis of possible genetic factors that may contribute to the development of treatment-related ototoxicity and nephrotoxicity
+
+OUTLINE: This is a multicenter study. Patients are stratified according to country, median age (\< 15 months vs ≥ 15 months), and PRETEXT tumor classification (I vs II vs III). Patients are randomized to 1 of 2 treatment arms.
+
+* Arm I (Neoadjuvant and adjuvant cisplatin): Patients receive cisplatin IV over 6 hours on day 1. Treatment repeats every 2 weeks for 4 courses. Patients with progressive disease after course 4 are taken off study. Patients without evidence of disease progression proceed to surgery. Beginning within 3 weeks after surgery, patients receive cisplatin IV over 6 hours on day 1. Treatment repeats every 2 weeks for 2 courses in the absence of disease progression or unacceptable toxicity.
+* Arm II (Neoadjuvant and adjuvant cisplatin and sodium thiosulphate): Patients receive cisplatin IV over 6 hours and sodium thiosulphate IV over 15 minutes (beginning 6 hours after completion of cisplatin) on day 1. Treatment repeats every 2 weeks for 4 courses. Patients with progressive disease after course 4 are taken off study. Patients without evidence of disease progression proceed to surgery. Beginning within 3 weeks after surgery, patients receive cisplatin IV over 6 hours and sodium thiosulphate IV over 15 minutes (as in neoadjuvant therapy) on day 1. Treatment repeats every 2 weeks for 2 courses in the absence of disease progression or unacceptable toxicity.
+
+Patients undergo blood collection and tumor biopsies periodically for biological and pharmacological studies consisting of biomarker analysis, gene expression profiling, IHC, proteomic analysis, and gene rearrangement analysis. Patients undergo auditory evaluations at baseline, and at the completion of study treatment or at an age of at least 3.5 years to measure ototoxicity and hearing impairment.
+
+After completion of study treatment, patients are followed periodically for at least 5 years.

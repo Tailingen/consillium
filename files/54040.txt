@@ -1,0 +1,38 @@
+Construction of a Model for the Differential Diagnosis of SArcoma/myoma Based on the RAdiomics Features: Single-center Observational Study
+Uterine sarcomas are rare and aggressive tumors originating from the muscular wall of the uterus. They have a high risk of recurrence and death, regardless of the stage of the disease at diagnosis. The therapy is surgical and involves hysterectomy preferably via laparotomy in consideration of the high risk of neoplastic dissemination through the rupture and fragmentation of the neoplasm as occurs through removal by other surgical routes which involve core drilling of the mass (laparoscopic, vaginal , hysteroscopic).
+
+Uterine myoma represents a very frequent benign pathology in women, with an incidence of approximately 70%-80%. Asymptomatic cases do not require treatment, while symptomatic cases can be treated through the administration of generally antiestrogenic drugs to block growth and symptoms. Only a small part is removed surgically.
+
+Currently the diagnosis of uterine sarcoma is almost always defined in the post-operative setting with the definitive histological examination, due to the lack of typical sonographic and radiological characteristics of certainty capable of differentiating benign neoplastic forms (myoma) from malignant ones of the uterus (sarcoma).
+
+Magnetic resonance imaging is currently the most reliable imaging modality for characterizing such uterine masses. Unfortunately, although it offers useful information, it is not able to discriminate with good precision a benign uterine lesion from a malignant one.
+
+CT is a method widely used in the staging of oncological diseases and therefore also in sarcomas. It is usually prescribed when there is an ultrasound doubt of a sarcoma before proceeding with surgery.
+
+However, although it is important in the definition of secondaries, it has very low sensitivity (60%) and specificity in the differential diagnosis between sarcoma and myoma.
+
+Radiomics is a novel approach that translates medical images into data by extracting a large number of quantitative features describing tissue characteristics, shape and texture, combining quantitative data analysis with biological and clinical endpoint.
+
+Capturing information from imaging that goes beyond the different biomedical imaging formats themselves is the great promise of this growing field.
+
+The application of radiomics analysis to CT with the aim of preoperatively discriminating between sarcoma (malignant) and myoma (benign) could be a valid support in the preoperative evaluation and therapeutic decision-making process in order to personalize the most appropriate therapeutic approach .
+Uterine Sarcoma|Uterine Myoma
+ROC analysis parameters, Sensitivity, specificity, PPV, NPV, AUC of the classifier (radiomics model) compared to the gold standard (histological report) to discriminate between myoma and sarcoma., 6 months
+ROC analysis parameters, Sensitivity, specificity, PPV, NPV, AUC of the classifier (radiomics model) to discriminate between aggressive sarcomas that have relapsed and sarcomas that have not relapsed in the first year of follow up., 6 months
+Uterine sarcomas are rare and aggressive tumors originating from the muscular wall of the uterus. They have a high risk of recurrence and death, regardless of the stage of the disease at diagnosis. The therapy is surgical and involves hysterectomy preferably via laparotomy in consideration of the high risk of neoplastic dissemination through the rupture and fragmentation of the neoplasm as occurs through removal by other surgical routes which involve core drilling of the mass (laparoscopic, vaginal , hysteroscopic).
+
+Uterine myoma represents a very frequent benign pathology in women, with an incidence of approximately 70%-80%. Asymptomatic cases do not require treatment, while symptomatic cases can be treated through the administration of generally antiestrogenic drugs to block growth and symptoms. Only a small part is removed surgically.
+
+Currently the diagnosis of uterine sarcoma is almost always defined in the post-operative setting with the definitive histological examination, due to the lack of typical sonographic and radiological characteristics of certainty capable of differentiating benign neoplastic forms (myoma) from malignant ones of the uterus (sarcoma).
+
+Magnetic resonance imaging is currently the most reliable imaging modality for characterizing such uterine masses. Unfortunately, although it offers useful information, it is not able to discriminate with good precision a benign uterine lesion from a malignant one.
+
+CT is a method widely used in the staging of oncological diseases and therefore also in sarcomas. It is usually prescribed when there is an ultrasound doubt of a sarcoma before proceeding with surgery.
+
+However, although it is important in the definition of secondaries, it has very low sensitivity (60%) and specificity in the differential diagnosis between sarcoma and myoma.
+
+Radiomics is a novel approach that translates medical images into data by extracting a large number of quantitative features describing tissue characteristics, shape and texture, combining quantitative data analysis with biological and clinical endpoint.
+
+Capturing information from imaging that goes beyond the different biomedical imaging formats themselves is the great promise of this growing field.
+
+The application of radiomics analysis to CT with the aim of preoperatively discriminating between sarcoma (malignant) and myoma (benign) could be a valid support in the preoperative evaluation and therapeutic decision-making process in order to personalize the most appropriate therapeutic approach .

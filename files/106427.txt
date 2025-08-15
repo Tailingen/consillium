@@ -1,0 +1,15 @@
+Metabolic and Microbial Profiling of Lung Cancer
+This pilot study will establish non-invasive sample collections, including breath, saliva, blood and urine pre-surgery and at the participant's one-month post-surgery follow-up visit. Participants with suspected non-small cell lung cancer (NSCLC) stage I-III will be recruited.
+Nonsmall Cell Lung Cancer|Nonsmall Cell Lung Cancer Stage
+OTHER: Breath Collection|OTHER: Saliva Collection|OTHER: Blood Collection|OTHER: Urine Collection|OTHER: Tumor Collection|OTHER: Medical History Data Collection
+Number of Participants Needed for Feasibility, The primary objectives is to assess the feasibility of adding these non-invasive sample collections to pre- and post-surgery visits the following outcomes (counts) will be gathered - (number eligible for trial, number that consent to participate, number that provide pre-surgery samples, number that provide post-surgery samples) using a 95% exact Clopper-Pearson confidence interval for each feasibility estimate., One month|Pre-Surgery and Post-Surgery Metabolic Signatures, Metabolic assessments will be taken before and after surgery of lung cancer biomarkers to examine a series of paired t-tests to determine which markers significantly change between the two time points for participants., One month post surgery|Pre-Surgery and Post-Surgery Microbial Signatures, Metabolic assessments will be taken before and after surgery of lung cancer biomarkers to examine a series of paired t-tests to determine which markers significantly change between the two time points for participants., One month post surgery
+Identification of Lung Cancer Stage Specific Signatures, For lung cancer examine whether pre-surgery, post-surgery or change from pre- to post- surgery metabolic or microbial measures are different depending on lung cancer stage. Consideration of the metabolic or microbial measures as outcomes and use a general linear models framework to see if lung cancer stage (included as a class variable, but then examined as an ordinal variable using a contrast statement in general linear model) is associated with any marker., One month post surgery|Identification of Signatures Associated With Pulmonary Function, For pulmonary function, the same approach as for lung cancer stage, except that pulmonary function will be considered as a continuous variable in the model. Pulmonary function can be examined at both time-points (pre- and post- surgery) thus we can examine the relationships between pulmonary function measures and biomarker measures at each time points (and the change in measures over time)., One month post surgery
+Primary Objective
+
+* To evaluate the feasibility of adding non-invasive sample collections in the pre-surgical setting and at the post-surgery follow-up visit.
+* To identify and assess metabolic and microbial signatures collected at pre- and post-surgery and determine which are indicative of lung cancer.
+
+Secondary Objective
+
+* To identify signatures which are associated with lung cancer stage.
+* To identify signatures which are impacted by patient's pulmonary function status.

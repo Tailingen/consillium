@@ -1,0 +1,31 @@
+S1827 (MAVERICK) Testing Whether the Use of Brain Scans Alone Instead of Brain Scans Plus Preventive Brain Radiation Affects Lifespan in Patients With Small Cell Lung Cancer
+This phase III trial studies magnetic resonance imaging (MRI) surveillance and prophylactic cranial irradiation (PCI) to see how well they work compared to MRI surveillance alone in treating patients with small cell lung cancer. MRI scans are used to monitor the possible spread of the cancer with an MRI machine over time. PCI is radiation therapy that is delivered to the brain in hopes of preventing spread of cancer into the brain. The use of brain MRI alone may reduce side effects of receiving PCI and prolong patients' lifespan. Monitoring with MRI scans alone (delaying radiation until the actual spread of the cancer) may be at least as good as the combination of PCI with MRI scans.
+Extensive Stage Lung Small Cell Carcinoma|Limited Stage Lung Small Cell Carcinoma|Lung Small Cell Carcinoma
+PROCEDURE: Magnetic Resonance Imaging|RADIATION: Prophylactic Cranial Irradiation
+Overall survival (OS), Will evaluate OS with magnetic resonance imaging (MRI) surveillance alone and MRI surveillance combined with prophylactic cranial irradiation (PCI) for the treatment of small cell lung cancer (SCLC)., From the date of registration to date of death due to any cause, assessed up to 2 years after randomization
+Cognitive failure-free survival (CFFS), The comparison of CFFS up to 12 months between the arms will be done using a 1-sided 5% level log-rank test., Baseline to first neurocognitive failure CF or death due to any cause, assessed up to 12 months after randomization|CFFS rate, There will be a comparison of the CFFS rates between the arms at each of the assessment times and the cumulative incidence of cognitive failure, evaluating death as a competing risk. The CFFS rates at the landmark times will be estimated using the method of Kaplan-Meier and the difference in rates will be evaluated using a 90% confidence interval using Greenwood?s formula., Baseline to first neurocognitive failure CF or death due to any cause, assessed at 90, 180, 270, 360, 540, and 720 days after randomization|Cumulative incidence of cognitive failure, The cumulative incidence of cognitive failure in the presence of the competing risk of death will be estimated used the method of Fine and Gray., Neurocognitive function test will be assessed at 90, 180, 270, 360, 540, and 720 days after randomization|OS in an "as-treated" analysis, The comparison of OS in the ?as-treated? analysis will be done as described for the primary analysis, however patients will be categorized per treatment received (patients who do not accept their randomized assignment will be analyzed per treatment received). The number of patients not accepting the randomized assignment will also be summarized., From the date of registration to date of death due to any cause, assessed up to 2 years after randomization. Patients will be seen at day 90, 180, 270, 360, 540, and 720|Brain metastases-free survival (BMFS), This will be estimated using the method of Kaplan-Meier and comparisons will be done using a log-rank test at the 1-sided 0.05 level. Hazard ratios and associated confidence intervals will be estimated using a Cox Proportional hazards model. Confidence intervals for medians will be estimated using the method of Brookmeyer-Crowley., Up to 2 years after randomization. Patients will have MRI on day 90, 180, 270, 360, 540, and 720|Incidence of adverse events, Binary proportions and associated confidence intervals will be estimated., Up to 2 years after randomization. Patients will be assessed for adverse event after PCI (for patients on PCI + MRI arm) and at month 3 (all patients)
+PRIMARY OBJECTIVE:
+
+I. To evaluate whether overall survival (OS) with magnetic resonance imaging (MRI) surveillance alone is not inferior to MRI surveillance combined with prophylactic cranial irradiation (PCI) for the treatment of small cell lung cancer (SCLC).
+
+SECONDARY OBJECTIVES:
+
+I. To compare cognitive failure free survival (CFFS) rate up to 12 months after randomization between the arms.
+
+II. To compare brain-metastasis-free survival between the arms. III. To compare OS between the arms within the subgroups of patients with limited-stage and extensive-stage disease.
+
+IV. To compare cognitive failure free survival (CFFS) rates at the assessment times between the arms.
+
+V. To compare the cumulative incidence of cognitive failure with death as a competing risk between the arms.
+
+VI. To compare the frequency and severity of toxicities between the two arms.
+
+ADDITIONAL OBJECTIVE:
+
+I. To collect blood for banking.
+
+OUTLINE: Patients are randomized to 1 of 2 arms.
+
+ARM I: Patients undergo conventional or hippocampal avoidance PCI over 20 minutes 5 days per week for 2 weeks. Patients also undergo MRI scan at 3, 6, 9, 12, 18, and 24 months.
+
+ARM II: Patients undergo MRI scan at 3, 6, 9, 12, 18, and 24 months.

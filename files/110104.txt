@@ -1,0 +1,6 @@
+OSPM-Enhanced AI Model to Identify Premalignant and Malignant Ocular Surface Tumors
+An OSPM-enhanced deep learning model has been developed for identifying premalignant and malignant tumors using data retrospectively collected from the Ningbo Eye Hospital, Jiangdong Eye Hospital, and the Eye Hospital of Wenzhou Medical University. To further substantiate the model's effectiveness, we intend to evaluate it prospectively at Ningbo Eye Hospital.
+Performance of the Model
+DIAGNOSTIC_TEST: OSPM-Enhanced AI Model
+AUROC, area under the receiver operating characteristic curve, 3 months
+An OSPM-enhanced deep learning model has been developed for identifying premalignant and malignant tumors using data retrospectively collected from the Ningbo Eye Hospital, Jiangdong Eye Hospital, and the Eye Hospital of Wenzhou Medical University. To further substantiate the model's effectiveness, we intend to evaluate it prospectively at Ningbo Eye Hospital.

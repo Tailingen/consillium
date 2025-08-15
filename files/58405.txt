@@ -1,0 +1,33 @@
+Testing of TAK228 (MLN0128, Sapanisertib) Plus Docetaxel to the Usual Standard of Care for Advanced Squamous Cell Lung Cancer (A Lung-MAP Treatment Trial)
+This phase II LUNG-MAP treatment trial studies how well sapanisertib and docetaxel work for the treatment for squamous cell lung cancer that is stage IV or has come back (recurrent). Sapanisertib may stop the growth of tumor cells by blocking some of the enzymes needed for cell growth. Drugs used in chemotherapy, such as docetaxel, work in different ways to stop the growth of tumor cells, either by killing the cells, by stopping them from dividing, or by stopping them from spreading. Giving sapanisertib and docetaxel may work better in treating patients with squamous cell lung cancer compared to standard chemotherapy.
+Lung Squamous Cell Carcinoma|Recurrent Lung Carcinoma|Stage IV Lung Cancer AJCC v8|Stage IVA Lung Cancer AJCC v8|Stage IVB Lung Cancer AJCC v8
+DRUG: Dexamethasone|DRUG: Docetaxel|BIOLOGICAL: Ramucirumab|DRUG: Sapanisertib
+Investigator-assessed progression-free survival (IA-PFS), IA-PFS will be compared between the arms using a stratified log-rank test., Up to 3 years
+Overall response rate (ORR), Will be assessed by Response Evaluation Criteria in Solid Tumors (RECIST) 1.1., Up to 3 years|Duration of response, Will be estimated using the Kaplan-Meier method. The Brookmeyer-Crowley method will be used to estimate 95% confidence intervals for the median. For point estimates at landmark times, the associated 95% confidence interval (CI) will be calculated using Greenwood's formula and based on a log-log transformation applied on the survival function. Hazard ratios for these outcomes will be estimated using a Cox Proportional Hazards regression model adjusting for the stratification factors., Up to 3 years|Progression free survival, Will be estimated using the Kaplan-Meier method. The Brookmeyer-Crowley method will be used to estimate 95% confidence intervals for the median. For point estimates at landmark times, the associated 95% CI will be calculated using Greenwood's formula and based on a log-log transformation applied on the survival function. Hazard ratios for these outcomes will be estimated using a Cox Proportional Hazards regression model adjusting for the stratification factors., Up to 3 years|Overall survival, Will be estimated using the Kaplan-Meier method. The Brookmeyer-Crowley method will be used to estimate 95% confidence intervals for the median. For point estimates at landmark times, the associated 95% CI will be calculated using Greenwood's formula and based on a log-log transformation applied on the survival function. Hazard ratios for these outcomes will be estimated using a Cox Proportional Hazards regression model adjusting for the stratification factors., Up to 3 years
+PRIMARY OBJECTIVE:
+
+I. To compare the investigator-assessed progression-free survival (IA-PFS) between patients with NFE2L2 or KEAP1-positive stage IV or recurrent squamous cell lung cancer (SQCLC) randomized to TAK228 (MLN0128, sapanisertib) + docetaxel versus standard of care therapy.
+
+SECONDARY OBJECTIVES:
+
+I. To compare overall response rate (ORR) by Response Evaluation Criteria in Solid Tumors (RECIST) 1.1 between the treatment arms.
+
+II. To compare overall survival (OS) between the treatment arms. III. To evaluate duration of response (DOR) among responders within each treatment arm.
+
+IV. To evaluate and compare the frequency and severity of toxicities associated within each treatment arm.
+
+V. To evaluate outcomes of IA-PFS, OS, and response in the subsets of patients eligible based on the presence of NFE2L2 versus KEAP1 alterations.
+
+TRANSLATIONAL MEDICINE OBJECTIVES:
+
+I. To collect, process, and bank cell-free deoxyribonucleic acid (DNA) (cfDNA) at baseline, cycle 2 day 1, and end of treatment for future development of a proposal to evaluate comprehensive next-generation sequencing of circulating tumor DNA (ctDNA).
+
+II. To establish a tissue/blood repository from patients with refractory non-small cell lung cancer (NSCLC).
+
+OUTLINE: Patients are randomized to 1 of 2 arms.
+
+ARM A: Patients receive docetaxel intravenously (IV) and dexamethasone IV over 30 minutes on days 1 and 8 and sapanisertib orally (PO) once daily (QD) on days 2-4, 9-11, and 16-18. Cycles repeat every 21 days in the absence of disease progression or unacceptable toxicity. If docetaxel is discontinued, patients receive sapanisertib PO QD on days 1-21. Cycles repeat every 21 days in the absence of disease progression or unacceptable toxicity.
+
+ARM B: Patients receive standard of care treatment comprising either docetaxel IV and dexamethasone IV over 30 minutes on day 1 or docetaxel IV, dexamethasone IV over 30 minutes, and ramucirumab IV over 60 minutes on day 1. Cycles repeat every 21 days in the absence of disease progression or unacceptable toxicity.
+
+After completion of study treatment, patients are followed up every 6 months for 2 years and then at 3 years.

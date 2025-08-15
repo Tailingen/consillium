@@ -1,0 +1,34 @@
+Leaderboard Influence on Self-Regulated Training in a Gamified Dermoscopy Training App
+This study aims to examine the isolated effect of leaderboards (scoreboards) and daily training motivation on dermatology skill acquisition and training engagement within a gamified dermoscopy training platform.
+
+Research Questions:
+
+What is the effect of leaderboards and/or daily motivation on diagnostic accuracy? What is the effect of leaderboards and/or daily motivation on self-regulated learning: time spent training and case amount? What is the effect of leaderboards and/or daily motivation on training distribution?
+
+Method:
+
+150 danish medical students will upon inclusion and end of trial answer a Multiple Choice Questionnaire (MCQ).
+
+Participants will be asked to download the gamified training platform onto their mobile devices. Within the app participants can access quizzes on a library of 10,000+ skin lesions combined with written educational modules on histopathological skin diagnosis. Participants receive instant feedback on quiz answered. Points are awarded for correct answers and removed for incorrect answers.
+
+Participants will be randomized to one of three groups; either receiving no communication from the principal investigator, receiving a daily motivational message, or receiving a once daily updated leaderboard ranking participant's scores.
+
+The intervention will last for seven days, followed by a 14-day washout period.
+Melanoma (Skin)|Skin Cancer
+OTHER: Daily updated ranking on leaderboard|OTHER: Daily motivational message
+Time spent training, The participant's time spent with the platform, measured by the platform, Three weeks|Amount of cases, The number of cases participants assign a diagnosis to, measured by the platform, Three weeks|Change in diagnostic accuracy, Measured as a percentage of correctly diagnoses skin lesions in validated multiple choice questionnaire, Three weeks
+Subjects will be recruited through advertisements in online forums for medical students across all four Danish medical schools.
+
+Upon recruitment, subjects will be included via an on-boarding online meeting. They will be introduced to the study and the training platform, and will, if they choose to participate, complete a consent form, a questionnaire of baseline information (age, gender, university semester, dermatological experience) and a 12-case validated diagnostic pre-test.
+
+Participants will be randomized to study groups via sequential block randomization.
+
+The intervention will last for seven days. Depending on group randomization, participants will on day two through seven either receive a group daily message using an internet-based messaging service (see appendix) and view a daily updated leaderboard ranking, only receive the group daily message, or receive neither.
+
+Within the app, participants are able to train dermoscopy diagnosis through sessions of 10 cases. If participants correctly diagnose 8/10 cases, they will progress to the next session with new 10 cases of a higher difficulty, and so on. If participants do not reach a certain diagnostic accuracy, they will repeat their current level with 10 new cases until they are able to progress. There are a total of 6 session levels. Each case is assigned a difficulty level from one to four, calculated based on the percentage of times it has been answered correctly by previous users. In each session, participants are presented with 40% cases at their current level, 20% of an easier difficulty, 20% of a higher difficulty, and 20% cases of an unspecified difficulty.
+
+Participants will be awarded 2 points multiplied by case difficulty for each correct answer. 2 points, multiplied by case difficulty, will be taken away if participants assign a benign diagnosis to a malignant case, and 1 point, multiplied by case difficulty, if a malignant diagnosis is assigned to a benign case. Participants will receive 0 points if a case is correctly classified as benign or malignant, but the precise histological diagnosis is incorrectly guessed (For example guessing melanoma on a basal cell carcinoma case, or nevus on a case of dermatofibroma). Participants will be able to view points earned following each training session, as well as a cumulative total.
+
+After the seven-day interventional period, participants will start a 14-day washout period, in which participants can train freely, but no group will receive either daily messages or have access to the leaderboard. After the washout period, participants will be asked to complete a validated 12-case retention test, supervised by a member of the research group in a virtual meeting.
+
+As this project is an educational study comprising medical students, it does not fulfill the criteria described in the Danish Scientific Ethical Committees Act § 2, and does not require approval by the The Regional Ethical Committee of the Copenhagen Capital Region of Denmark. A waiver has been obtained by The Regional Ethical Committee of the Copenhagen Capital Region of Denmark (case nr. F-23075872) The research group considers this project ethically responsible.

@@ -1,0 +1,29 @@
+Epidemiology and Outcomes of Upper Limb Surgery: Analysis of Routine Data
+Surgery is a common treatment type for damaged joints, tendons and nerves in the upper limb where conservative measures are inappropriate or have failed. These conditions are common and result in significant levels of pain and functional disability. The investigators are conducting a broad ranging study of variation in the provision of surgical treatment and factors affecting outcomes after surgical treatment of upper limb conditions. This will be a population-based study of all patients undergoing surgical treatment funded by the National Health Service (NHS) of England over a nineteen-year period. This study will help to understand the factors associated with a poor outcome following surgery, which can be shared with patients considering treatment options. The investigators will also document current and future health service burden associated with commonly performed surgical procedures including complications and repeat operations.
+Osteoarthritis|Dislocations|Inflammatory Arthritis|Rotator Cuff Tear|Shoulder Dislocation|Upper Limb Nerve Lesion|Shoulder Arthropathy|Elbow Arthropathy|Wrist Arthropathy|Arthropathy Unspecified, Involving Hand|Fracture, Shoulder|Fracture Elbow|Fracture Wrist and Hand|Dupuytren Contracture|Impingement Syndrome, Shoulder|Trigger Digit|Avascular Necrosis
+PROCEDURE: Shoulder arthroplasty|PROCEDURE: Elbow arthroplasty|PROCEDURE: Hand and wrist arthroplasty|PROCEDURE: Nerve decompression|PROCEDURE: Tendon repair|PROCEDURE: Joint stabilisation|PROCEDURE: Excision/division/release of palmar fascia|PROCEDURE: Surgical fixation of fractures|PROCEDURE: Soft tissue release/debridement/excision|PROCEDURE: Intra-articular injection
+Revision and reoperation, Estimated at annual increments and standardised lifetime risk, 1998-2017|Treatment volume: time series, Crude and adjusted for population by age/sex, 1998-2017|Treatment volume: geospatial patterns, Mapped according to residence and NHS organisation boundaries, 1998-2017
+Complications, Death and infection for all. Specific adverse events dependent on procedure, e.g. periprosthetic fracture after arthroplasty surgery, 30, 45, 60, 90 days post surgery + 1 year and last recorded follow-up/censoring.|Length of stay post surgery, Number of days - defined by time elapsed between surgery and the end of NHS spell., up to 52 weeks from date of surgery|Readmission to hospital, Number of patients readmitted to acute NHS trust, up to 30 days following surgery|Healthcare related costs, Calculated from Healthcare Resource Group codes for index episode and related episodes, up to 52 weeks from date of surgery
+The investigators will conduct time series analyses, geospatial mapping and risk-factor association studies for both access to and outcomes of surgical treatments of the upper limbs. A large cohort of pseudonymised records will be extracted from the NHS Hospital Episode Statistics Admitted Patient Care database. Suitable patients will be identified based on a match to a specified list of International Classification of Diseases (ICD-10) and Office for Population Censuses and Surveys (OPCS-4) codes. Dates and cause of death will be linked from the Office for National Statistics (ONS) by NHS Digital.
+
+Separate analyses will be conducted for different intervention types with detailed outcomes reporting for high volume procedures. Adults will be defined as those aged 18 years or older at the time of surgery. Children will be defined as those aged less than 18 years at surgery and only included in a limited number of analyses where relevant (e.g. trigger digit).
+
+Key analyses:
+
+1. Baseline demographics by procedure type
+2. Procedure volume incidence trends
+
+   * Time series analysis
+   * Adjusted to standard population distributions
+   * Geographical mapping including adjustment for sociodemographic indices including indices of deprivation
+3. Revision, reoperation and mortality rates:
+
+   * Estimation by Kaplan Meier and actuarial life table methods
+   * Life time risk calculated by the cumulative probability method
+   * Cox regression adjusted for comorbidities and demographic, social and geographic factors
+4. Complications, length of stay, costs:
+
+   * Logistic and linear regression models for binary and continuous outcomes respectively
+   * Adjusted for comorbidities and demographic, social and geographic factors
+
+Where appropriate, the impact of replacing missing data will be explored with use of multiple imputation. All suitable patients will be entered into analyses to maximise statistical efficiency.

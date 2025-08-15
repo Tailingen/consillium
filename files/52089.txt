@@ -1,0 +1,27 @@
+Haploidentical Donor Hematopoietic Stem Cell Transplant in Treating Patients With Hematologic Malignancies
+This phase II trial studies how well haploidentical donor hematopoietic stem cell transplant works in treating patients with hematologic malignancies. Giving chemotherapy and total-body irradiation before a donor stem cell transplant helps stop the growth of cancer cells. It may also stop the patient's immune system from rejecting the donor's stem cells. Giving an infusion of the donor's T cells (donor lymphocyte infusion) may replace the patient's immune cells and help destroy any remaining cancer cells. When the stem cells from a related donor, that closely matches the patient's blood, are infused into the patient they may help the patient's bone marrow make stem cells, red blood cells, white blood cells, and platelets.
+Malignant Neoplasm
+RADIATION: Total-body irradiation|BIOLOGICAL: Donor lymphocytes infusion (DLI)|DRUG: Cyclophosphamide|PROCEDURE: Allogeneic hematopoietic stem cell transplantation (HSCT)|DRUG: Tacrolimus|DRUG: Mycophenolate mofetil
+Number of Participants With Disease-free Survival (DFS), Disease free survival (DFS), defined as the time to death, relapse or disease progression., 1 year
+Number of Participants With Relapse of Disease, Relapse of Disease is defined as the return of a disease or the signs and symptoms of a disease after a period of improvement. Relapse is almost always associated with the immunological failure of the donor immune system to recognize and/or respond to reemergence of a tumor. The number of participants with relapse of disease will be collected., Up to 1 year|Rate of Grade III-IV GVHD in Female Recipients With Male Donors, The rates of grade III-IV GVHD in female recipients with male donors will be computed with corresponding exact binomial 95% confidence intervals., Up to 1 year|The Rates of Grade III-IV GVHD in Female Recipients With Male Donors Will be Computed With Corresponding Exact Binomial 95% Confidence Intervals., The difference in DFS in recipient-donor combinations in which there is at least 1 KIR ligand mismatch versus those without a KIR ligand mismatch will be tested using log-rank test., Up to 1 year
+PRIMARY OBJECTIVES:
+
+I. Examine the 1 year disease free survival (DFS) rate of patients with maternal donors or sibling donors who share the maternal haplotype (maternal group) and compare them to patients receiving cells from donors who have points from other characteristics such as killer immunoglobulin-like receptor (KIR) ligand mismatching, minor histocompatibility antigen (MHag) differences, or number of human leukocyte antigen (HLA) mismatches (non-maternal group).
+
+SECONDARY OBJECTIVES:
+
+I. Assess the incidences of relapse and graft-versus-host disease (GVHD) in maternal recipients whose only eligible donors are offspring.
+
+II. Assess the incidence of grades III-IV GVHD in female recipients with male donors.
+
+III. Compare the rates of DFS in recipient-donor combinations in which there is at least 1 KIR ligand mismatch versus those without a KIR ligand mismatch.
+
+OUTLINE:
+
+Patients undergo total body irradiation (TBI) twice daily (BID) on days -9 to -6, undergo donor lymphocyte infusion (DLI) on day -6, and receive cyclophosphamide intravenously (IV) over 2 hours on days -3 and -2.
+
+TRANSPLANT: Patients undergo haploidentical allogeneic hematopoietic stem cell transplant on day 0.
+
+GVHD PROPHYLAXIS: Patients receive tacrolimus IV beginning on day -1 with taper beginning on day 42, and mycophenolate mofetil IV BID from day -1 to day 28.
+
+After completion of study treatment, patients are followed up at 90, 180, and 270 days, and 1 year.

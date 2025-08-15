@@ -1,0 +1,28 @@
+Berzosertib and Irinotecan in Treating Patients With Progressive, Metastatic, or Unresectable TP53 Mutant Gastric or Gastroesophageal Junction Cancer
+This phase II trial studies the how well berzosertib and irinotecan work in treating patients with gastric or gastroesophageal junction cancer that is growing, spreading or getting worse (progressive), has spread to other places in the body (metastatic), or cannot be removed by surgery (unresectable). Berzosertib may stop the growth of tumor cells by blocking some of the enzymes needed for growth. Chemotherapy drugs, such as irinotecan, work in different ways to stop the growth of tumor cells, either by killing the cells, by stopping them from dividing, or by stopping them from spreading. Giving berzosertib and irinotecan may work better than irinotecan alone in treating patients with gastric and gastroesophageal junction cancer.
+Clinical Stage III Gastric Cancer AJCC v8|Clinical Stage III Gastroesophageal Junction Adenocarcinoma AJCC v8|Clinical Stage IV Gastric Cancer AJCC v8|Clinical Stage IV Gastroesophageal Junction Adenocarcinoma AJCC v8|Metastatic Gastric Adenocarcinoma|Metastatic Gastroesophageal Junction Adenocarcinoma|Unresectable Gastric Adenocarcinoma|Unresectable Gastroesophageal Junction Adenocarcinoma
+DRUG: Berzosertib|PROCEDURE: Computed Tomography Assisted Biopsy|PROCEDURE: Endoscopic Biopsy|DRUG: Irinotecan|PROCEDURE: Magnetic Resonance Imaging
+Objective response rate (ORR) according to Response Evaluation Criteria in Solid Tumors (RECIST) 1.1 response criteria, Up to 1 year
+Duration of responses (DOR), Will be estimated using the method of Kaplan and Meier. 95% confidence intervals for all point estimates of effect sizes (odd ratios, hazard ratios, differential pre-post biomarker expression) among subgroups will be estimated., From when patients achieve their best response (complete response [CR] or partial response [PR]) to when they progress or die for any reason, assessed up to 1 year|Time to progression (TTP), Will be estimated using the method of Kaplan and Meier. 95% confidence intervals for all point estimates of effect sizes (odd ratios, hazard ratios, differential pre-post biomarker expression) among subgroups will be estimated., From start of treatment to time of progression or death from progression, assessed up to 1 year|Progression-free survival (PFS), From enrollment to disease progression or death for any reason, assessed up to 1 year|Overall survival (OS), Will be estimated using the method of Kaplan and Meier. 95% confidence intervals for all point estimates of effect sizes (odd ratios, hazard ratios, differential pre-post biomarker expression) among subgroups will be estimated., From study enrollment to death for any reason, assessed up to 1 year
+ORR in sub-cohorts based on first-line platinum sensitivity, Up to 1 year|DOR in sub-cohorts based on first-line platinum sensitivity, Up to 1 year|TTP in sub-cohorts based on first-line platinum sensitivity, Up to 1 year|PFS in sub-cohorts based on first-line platinum sensitivity, Up to 1 year|OS in sub-cohorts based on first-line platinum sensitivity, Up to 1 year|Presence of other deoxyribonucleic acid (DNA) damage response defects (DDRD), Will be summarized as frequency counts and percent of study group., Up to 1 year
+PRIMARY OBJECTIVE:
+
+I. Determine objective response rate (ORR) superiority (target 25%) in TP53 mutant patients with progressive metastatic or unresectable gastric/gastroesophageal junction (GEJ) cancer who receive berzosertib (M6620) and irinotecan compared to ORR (5%) in historical control patients treated with single agent irinotecan alone.
+
+SECONDARY OBJECTIVES:
+
+I. Determine duration of response (DOR), time to progression (TTP), progression-free survival (PFS), and overall survival (OS) superiority in TP53 mutant gastric/GEJ cancer patients who receive M6620 and irinotecan compared to these measures in historical control patients treated with irinotecan alone.
+
+II. Perform the following correlative studies in 9 patients: gamma-H2AX, KAP1 phosphorylated (p)-Ser 824 and p-ATR analysis from biopsies collected at 24 hours (+/- 1 hour) post-irinotecan infusion on cycle 1 day 2 (C1D2) and at 24 hours (+/- 1 hour) post-M6620 on cycle 2 day 2 (C2D2).
+
+EXPLORATORY OBJECTIVES:
+
+I. Determine ORR, DOR, TTP, PFS, and OS in patients with other concomitant damage response defects (DDRD), such as mutations in BRCA1, BRCA2, MRE11, RAD50, RAD51, RAD52, RAD54L, NBN, ATM, H2AX, PALB2, RPA, BRIP1, BARD1, ATR, ATRX, CHK1, CHK2, MDM2, MDM4, FANCA, FANCC, FANCD2, FANCE, FANCF, FANCG, FANCL, treated with the experimental combination.
+
+II. Determine whether patients with first line platinum sensitivity (PFS \> 3 months) demonstrate improved ORR, DOR, TTP, PFS, and OS compared to patients who were platinum insensitive (PFS \< 3 months).
+
+OUTLINE:
+
+Patients receive irinotecan intravenously (IV) over 90 minutes and berzosertib IV over 60 minutes on days 1 and 15. Cycles repeat every 28 days in the absence of disease progression or unacceptable toxicity. Patients undergo endoscopic or computed tomography (CT) assisted biopsy and magnetic resonance imaging (MRI) on study.
+
+After completion of study treatment, patients are followed up for 30 days and then every 2 months for up to 1 year.

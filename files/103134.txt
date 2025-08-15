@@ -1,0 +1,27 @@
+Testing Maintenance Therapy for Small Cell Lung Cancer in Patients With SLFN11 Positive Biomarker
+This phase II trial studies whether atezolizumab in combination with talazoparib works better than atezolizumab alone as maintenance therapy for patients with SLFN11-positive extensive-stage small cell lung cancer. Immunotherapy with monoclonal antibodies, such as atezolizumab, may help the body's immune system attack the cancer, and may interfere with the ability of tumor cells to grow and spread. PARPs are proteins that help repair damage to DNA, the genetic material that serves as the body's instruction book. Changes (mutations) in DNA can cause tumor cells to grow quickly and out of control, but PARP inhibitors like talazoparib may keep PARP from working, so tumor cells can't repair themselves, and they stop growing. Giving atezolizumab in combination with talazoparib may help lower the chance of extensive-stage small cell lung cancer growing and spreading compared to atezolizumab alone.
+Extensive Stage Lung Small Cell Carcinoma
+DRUG: Atezolizumab|PROCEDURE: Biopsy Procedure|PROCEDURE: Biospecimen Collection|PROCEDURE: Computed Tomography|PROCEDURE: Magnetic Resonance Imaging|DRUG: Talazoparib
+Progression free survival, Analysis will be done using a 1-sided 10% level stratified log-rank test. Will be estimated using the Kaplan-Meier method. Associated confidence intervals around the median will be performed using the Brookmeyer-Crowley method., From the date of maintenance randomization to the date of first document of progression or symptomatic deterioration, or death due to any cause, assessed up to 18 months
+Overall survival, Will be estimated using the Kaplan-Meier method. Associated confidence intervals around the median will be performed using the Brookmeyer-Crowley method., From the date of maintenance randomization until death from any cause, with participants last known to be alive censored at the date of last contact, assessed up to 3 years from randomization
+PRIMARY OBJECTIVE:
+
+I. To compare progression free survival (PFS) among participants with Schlafen family member 11 (SLFN11) positive extensive stage small cell lung cancer (ES-SCLC) randomized to atezolizumab or atezolizumab plus talazoparib as maintenance therapy.
+
+SECONDARY OBJECTIVES:
+
+I. To compare overall survival (OS) between the arms. II. To compare objective response rate (ORR) among participants with measurable disease between the arms, including complete response (CR) and partial response (PR) (confirmed and unconfirmed) by Response Evaluation Criteria in Solid Tumors (RECIST) 1.1.
+
+III. To evaluate the frequency and severity of adverse events within each treatment arm.
+
+TRANSLATIONAL MEDICINE OBJECTIVE:
+
+I. To bank specimens for future correlative studies.
+
+OUTLINE: Patients are screened for SLFN11 biomarker during Step 1: Screening Registration by submitting tumor tissue to MDACC. Patients with SLFN11 biomarker are registered to Step 2: Randomization and are randomized to 1 or 2 arms.
+
+ARM I: Patients receive atezolizumab intravenously (IV) over 30-60 minutes on day 1. Cycles repeat every 21 days in the absence of disease progression or unacceptable toxicity.
+
+ARM II: Patients receive atezolizumab IV over 30-60 minutes on day 1 and talazoparib orally (PO) once daily (QD) on days 1-21. Cycles repeat every 21 days in the absence of disease progression or unacceptable toxicity.
+
+Patients may undergo magnetic resonance imaging (MRI) during screening. Patients undergo tumor biopsy while on study. Patients undergo computed tomography (CT) scan and blood sample collection throughout the study.

@@ -1,0 +1,45 @@
+The circTeloDIAG: Liquid Biopsy for Glioma Tumor
+Gliomas represent the most frequent primary brain tumor, with 2,500 to 3,000 new cases per year in France. Their diagnosis, although highly complex, is essential for determining patient management. While grade I gliomas (infrequent) are curable by surgery or present a slow progression, grades II to IV require heavy treatment (surgery and radio-chemotherapy), and are associated with a prognosis ranging from 10-15 years for grade II to only 15 months for glioblastoma.
+
+One of the key processes in glioma oncogenesis is the activation of a telomeric maintenance mechanism (TMM). Two TMMs ensure the maintenance of a telomere size compatible with intense cell proliferation (TERT mutation and ATRX loss).
+
+Liquid biopsy is used for the routine diagnosis and monitoring of treatment efficacy of different cancers. To date, no routine clinical testing of liquid biopsies is available for gliomas.
+
+The detection of glioma-specific oncogenic processes, by liquid biopsy, in peripheral blood (ctDNA) could improve diagnosis and follow-up and then avoid surgery for patients with suspected lesions.
+
+Three oncogenic markers can be used to detect gliomas: IDH mutation, TERT mutation, and a marker correlated with ATRX loss on total blood cells.
+
+We hypothesized that the circTeloDIAG will improve and accelerate the diagnostic/prognostic value of the actual classification and provide a new tool to manage patient response to treatment via liquid biopsy. It will combine detection of three markers in liquid biopsy, to produce a versatile tool for all types of gliomas.
+
+Patients with suspected newly diagnosed or recurrent glioma will be included.
+Glioma
+BIOLOGICAL: ctDNA analysis
+ctDNA analysis, The main objective is to evaluate the performances of the diagnostic test "circTeloDIAG" dedicated to liquid biopsy. Primary endpoint is the sensitivity and specificity of the circTeloDIAG assay, at time of initial surgery. It will be established in CTCs in comparison with tumoral with positivity of one of the three markers tested, At inclusion
+Gliomas, heterogeneous and aggressive tumors awaiting new therapeutic approaches.
+
+Gliomas are the most frequent primary brain tumors, with 2,500 to 3,000 new cases per year in France. They concern the elderly but can also affect children and young adults. Their diagnosis is often complex (differential diagnoses, delicate classification). However, this diagnosis is essential to determine the therapeutic management. Thus, while grade I gliomas (infrequent) are curable by surgery or have a slow progression, grades II to IV have a cost in terms of therapeutic costs (surgery and radio-chemotherapy), in connection with a prognosis ranging from heavy 10-15 years for grades II to only 15 months for glioblastoma (grade IV). New biotherapies (such as anti-VEGF) have not improved the prognosis and to date there are no targeted therapies or immune systems that have shown a benefit.
+
+It is more than ever necessary to propose targeted treatments against alterations of each type of glioma and to develop in parallel the therapeutic tests allowing their prescription.
+
+DIAGNOSIS OF GLIOMAS: IMPORTANCE OF BIOMARKERS
+
+The diagnosis of gliomas was subject to a high rate of inter-observer discrepancies. Molecular criteria have recently made it possible to refine and secure the diagnosis1. Thus, in hospital routine, mutations in Isocitrate Dehydrogenases (IDH1 and 2), 1p19q deletion, EGFR amplification, loss of CDKN2A, mutations in histones H3.3 and H3.1 (G35R / V, K28M), methylation of MGMT, as well as two telomeric markers: mutations of the TERT promoter (TERTmt) and the deletion of ATRX (lost ATRX) (see below). Thus, the new "histo-molecular" classification of WHO1 (2016) and its following updates define different classes of gliomas:
+
+* Oligodendrogliomas (OD) (IDHmt, 1p19q lost) (grades II-III)
+* IDHmt (A) Astrocytomas (IDHmt and ATRXperdu / TP53 positive) (grades II-III)
+* IDHmt Glioblastomas (GBM IDHmt) (IDHmt and ATRXperdu) (grade IV)
+* IDHwt (GBM) Glioblastomas (IDHwt and TERTmt) (grade IV)
+* IDHwt Astrocytomas (A IDHwt) (IDHwt) (grades II-III)
+* midline mutated histone gliomas (G35R / V, K28M)
+
+However, this classification does not fully reflect the actual aggressiveness of the tumors and has prognostic insufficiencies. Adaptations are therefore regularly made to these initial categories. Despite these diagnostic adaptations, some tumors present discrepancies between the immunohistological and molecular diagnosis, they are annotated NEC (Not Elsewhere Classified).
+
+LIQUID BIOPSY: AN EXPECTED DIAGNOSIS TOOL FOR GLIOMAS
+
+Liquid biopsy-type approaches have rapidly developed in the clinic; they already make it possible to monitor and / or participate in the diagnosis of various cancers on a routine basis (eg: EGFR mutations in lung cancers). In the case of gliomas, their benefit is obvious: in addition to imaging, or as a replacement for stereotaxic biopsy (1% mortality), they could improve the quality of follow-up and speed up the initial diagnosis. In particular, 47% of patients with GBM have an MRI imaging suggesting progression after radiotherapy, the detection of a circulating marker would make it possible to differentiate a progression (27%) from a "pseudo-progression" (20%). When monitoring gliomas, the reappearance of the circulating marker would make it possible to objectify the recurrence and to set up a second line or inclusion in a clinical trial more quickly. Finally, during the initial diagnosis, the delay of one month after biopsy or surgery necessary for the conventional diagnostic circuit could be reduced to one week thanks to this type of test; therapeutic management could then be accelerated.
+
+At this time, there is no such test for gliomas. However, preliminary studies carried out on cerebrospinal fluid (CSF) collected during surgery show a sensitivity of around 100% for the detection of TERTmt9. However, the removal of LCS for follow-up is an invasive act to which we should favor approaches by blood sampling.
+
+The first studies of this type on circulating DNA (cfDNA) in plasma, via whole exome sequencing (a very expensive technique) detected gene abnormalities in nearly 50% of the cfDNAs analyzed. However, detection of diagnostic hotspots characteristic of gliomas such as TERTmt is insufficient on cfDNA (0-8% detection for glioblastomas). Other studies have looked at the analysis of tumor DNA carried by exosome-like vesicles, but have not been satisfactory. Finally, an alternative is based on the purification of circulating tumor cells (CTC). The latter have been detected in nearly 77% of gliomas; the best results having been obtained using density gradient centrifugation techniques, such as that offered by the OncoQuick kits combining a density gradient with filtration. Using this technique, from 1 to 10 CTC per 7.5 ml of blood were detected in 31 patients with gliomas of different grades. The advantage of this approach is that it preserves the entire genome of the tumor cell and will therefore allow the identification of characteristic diagnostic hotspots such as TERTmt and IDH1 / 2mt. The search for these mutations will then be objectivable by inexpensive techniques (such as the digital PCR droplet), already used routinely and not by high-throughput techniques (eg: whole genome sequencing) unsuitable for routine.
+
+There is therefore a real expectation regarding liquid biopsies for the diagnosis and follow-up of gliomas. The targeted research approach for hotspot alterations with diagnostic value in glioma (such as TERTmt and IDH1 / 2mt), via CTC enrichment appears to be a promising avenue.

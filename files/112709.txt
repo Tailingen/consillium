@@ -1,0 +1,53 @@
+Chemotherapy With or Without Trastuzumab After Surgery in Treating Women With Invasive Breast Cancer
+This randomized phase III clinical trial studies chemotherapy with or without trastuzumab after surgery to see how well they work in treating women with invasive breast cancer. Drugs used in chemotherapy work in different ways to stop the growth of tumor cells, either by killing the cells, by stopping them from dividing, or by stopping them from spreading. Giving more than one drug (combination chemotherapy) and giving chemotherapy after surgery may kill more tumor cells. Monoclonal antibodies, such as trastuzumab, can block cancer growth in different ways. Some block the ability of tumor cells to grow and spread. Others find tumor cells and help kill them or carry tumor-killing substances to them. It is not yet known whether combination chemotherapy is more effective with trastuzumab in treating breast cancer.
+HER2/Neu Positive|Progesterone Receptor Positive|Recurrent Breast Carcinoma|Stage IA Breast Cancer AJCC v7|Stage IB Breast Cancer AJCC v7|Stage IIA Breast Cancer AJCC v6 and v7|Stage IIB Breast Cancer AJCC v6 and v7|Stage IIIA Breast Cancer AJCC v7|Stage IIIC Breast Cancer AJCC v7
+DRUG: Cyclophosphamide|DRUG: Docetaxel|DRUG: Doxorubicin|DRUG: Doxorubicin Hydrochloride|OTHER: Laboratory Biomarker Analysis|DRUG: Paclitaxel|OTHER: Quality-of-Life Assessment|BIOLOGICAL: Trastuzumab
+Percentage of Patients Alive and Free From Invasive Disease (IDFS), Percentage of patients free from an invasive disease-free survival event where events include any invasive recurrence, contralateral invasive breast cancer, second non-breast primary cancer (excluding squamous or basal cell carcinoma of the skin), or death from any cause., 5 years
+Percentage of Patients Alive and Disease-Free (DFS-DCIS), Percentage of patients free from a disease-free survival event where events include local recurrence (invasive or DCIS), regional or distant recurrence, contralateral breast cancer (invasive or DCIS), second primary cancer (excluding squamous or basal cell carcinoma of the skin), or death from any cause., 5 years|Percentage of Patients Alive and Free From Breast Cancer (BCFS), Percentage of patients free from a breast cancer-free survival event where events include local recurrence (invasive or DCIS), regional or distant recurrence, contralateral breast cancer (invasive or DCIS), or death from any cause., 5 years|Percentage of Patients Alive and Recurrence-Free (RFI), Percentage of patients free from a recurrence-free interval event where events include invasive local, regional, or distant recurrence, or death from breast cancer (censored for death from other causes)., 5 years|Percentage of Patients Alive and Free From Distant Recurrence (DRFI), Percentage of patients free from a distant recurrence-free interval event where events include distant recurrence or death from breast cancer (censored for deaths from other causes), regardless of occurrence of any intervening local or regional recurrences, contralateral breast cancers, or non-breast second primary cancer., 5 years|Percentage of Patients Alive (Overall Survival), Percentage of patients alive., 5 years|Toxicity Assessed by Adverse Events, Percentage of patients who ever experienced grade 2 or higher toxicites., While on study therapy. Day 1 of first dose through 30 days after Day 1 of last dose.|Change in HER2 mRNA Level, The interaction between treatment effect and HER2 mRNA level will be evaluated in the proportional hazards model, which would include an indicator for treatment group and the HER2 mRNA level as a continuous variable, and the corresponding interaction term. The log-hazard ratio plot for the interaction term with 95% confidence intervals will be used to determine the cut-off of the HER2 mRNA level that would determine a subset of the patients who would benefit from the adjuvant trastuzumab therapy., From baseline to 24 months|Fcgamma Receptor Polymorphism, The polymorphism of the Fcgamma 158 receptor gene will be dichotomized as V/V (valine) vs. other genotypes and the polymorphism of the Fcgamma 131 receptor gene will be dichotomized as H/H (histidine) vs. other genotypes to evaluate an interaction between treatment group and Fcgamma polymorphism. The Kaplan-Meier method105 will be used to estimate the distribution of the primary endpoints stratified by the dichotomized subgroups, and the log-rank test106 will be used to statistically compare the time-to-event distributions., From baseline to up to 24 months
+PRIMARY OBJECTIVES:
+
+I. To determine whether the addition of trastuzumab to chemotherapy (TC or AC→WP) improves invasive disease-free survival (IDFS) in women with resected node-positive or high-risk node-negative breast cancer which is reported as human epidermal growth factor receptor (HER)2-low by all HER2 testing performed.
+
+SECONDARY OBJECTIVES:
+
+I. To determine whether the addition of trastuzumab to chemotherapy (TC or AC→WP) improves disease-free survival (DFS)-ductal carcinoma in situ (DCIS) in women with resected node-positive or high-risk node-negative breast cancer which is reported as HER2-low by all HER2 testing performed.
+
+II. To determine whether the addition of trastuzumab to chemotherapy (TC or AC→WP) improves breast cancer-free survival (BCFS) in women with resected node-positive or high-risk node-negative breast cancer which is reported as HER2-low by all HER2 testing performed.
+
+III. To determine whether the addition of trastuzumab to chemotherapy (TC or AC→WP) improves recurrence-free interval (RFI) in women with resected node-positive or high-risk node-negative breast cancer which is reported as HER2-low by all HER2 testing performed.
+
+IV. To determine whether the addition of trastuzumab to chemotherapy (TC or AC→WP) improves distant recurrence-free interval (DRFI) in women with resected node-positive or high-risk node-negative breast cancer which is reported as HER2-low by all HER2 testing performed.
+
+V. To determine whether the addition of trastuzumab to chemotherapy (TC or AC→WP) improves overall survival (OS) in women with resected node-positive or high-risk node-negative breast cancer which is reported as HER2-low by all HER2 testing performed.
+
+VI. To evaluate the associations between amenorrhea and circulating reproductive hormone levels, and the associations between chemotherapy regimen, amenorrhea, and IDFS benefit in premenopausal women eligible at baseline for the menstrual history assessments.
+
+VII. To evaluate the toxicity associated with each of the regimens. VIII. To test the hypothesis that the HER2 messenger ribonucleic acid (mRNA) level is the predictor of the degree of benefit from trastuzumab and the threshold for benefit in the adjuvant setting is lower than defined by current American Society of Clinical Oncology (ASCO)/College of American Pathologists (CAP) Guidelines for HER2 assays (immunohistochemistry \[IHC\] and fluorescent in situ hybridization \[FISH\]).
+
+IX. To identify and/or validate molecular predictors of the degree of benefit from the addition of trastuzumab to chemotherapy (TC or AC→WP).
+
+X. To test the alternative hypothesis that the main determinant of trastuzumab response in the adjuvant setting of HER2-low breast cancer is through antibody-dependent cellular cytotoxicity (ADCC) by demonstrating that the polymorphism of the Fcgamma receptor gene is predictive of the degree of benefit from the addition of trastuzumab to chemotherapy (TC or AC→WP).
+
+XI. To examine the relationship between behavioral host factors (obesity, tobacco, alcohol) and comorbid conditions that may influence systemic inflammation and breast cancer outcomes, controlling for tumor/stage characteristics and treatment assignment.
+
+XII. To examine the relationship between medication exposures that may influence systemic inflammation and breast cancer outcomes, controlling for tumor/stage characteristics and treatment assignment.
+
+XIII. To examine the relationship between comorbid conditions, medication exposures, and behavioral host factors together and breast cancer outcomes, controlling for tumor/stage characteristics and treatment assignment.
+
+OUTLINE: Patients are randomized to 1 of 2 treatment arms.
+
+NOTE: \*Chemotherapy regimen is based on the investigator's preference.
+
+ARM I:
+
+GROUP IA: Patients receive docetaxel intravenously (IV) over 60 minutes and cyclophosphamide IV over 30 minutes on day 1. Treatment repeats every 3 weeks for 6 cycles in the absence of disease progression or unacceptable toxicity.
+
+GROUP IB: Patients receive doxorubicin hydrochloride IV over 15 minutes and cyclophosphamide IV over 30 minutes on day 1. Treatment repeats every 2 or 3 weeks for 4 cycles in the absence of disease progression or unacceptable toxicity. Beginning 2-3 weeks after last dose of doxorubicin hydrochloride and cyclophosphamide, patients also receive paclitaxel IV over 60 minutes once weekly for 12 doses in the absence of disease progression or unacceptable toxicity.
+
+ARM II:
+
+GROUP IIA: Patients receive docetaxel and cyclophosphamide as in Group IA. Patients also receive trastuzumab IV over 30-90 minutes on day 1. Courses repeat every 3 weeks for 1 year in the absence of disease progression or unacceptable toxicity.
+
+GROUP IIB: Patients receive doxorubicin hydrochloride, cyclophosphamide, and paclitaxel as in Group IB. Patients also receive trastuzumab IV over 30-90 minutes weekly for 12 doses and then every 3 weeks for subsequent doses. Treatment repeats every 3 weeks for 1 year in the absence of disease progression or unacceptable toxicity.
+
+After completion of study treatment, patients are followed up every 6 months for 5 years and then every 12 months for 5 years.

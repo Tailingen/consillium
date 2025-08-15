@@ -1,0 +1,24 @@
+Genetic Sequencing-Informed Targeted Therapy in Treating Patients With Stage IIIB-IV Non-small Cell Lung Cancer
+This randomized clinical trial studies how well genetic sequencing-informed targeted therapy works in treating patients with stage IIIB-IV non-small cell lung cancer. Targeted therapy is a type of treatment that uses drugs or other substances to identify and attack specific types of tumor cells that may have less harm to normal cells. Genetic sequencing may help identify these specific types of tumor cells in patients with non-small cell lung cancer.
+Malignant Pericardial Effusion|Malignant Pleural Effusion|Recurrent Non-small Cell Lung Cancer|Stage IIIB Non-small Cell Lung Cancer|Stage IV Non-small Cell Lung Cancer
+OTHER: cytology specimen collection procedure|PROCEDURE: therapeutic procedure|DRUG: targeted therapy|OTHER: laboratory biomarker analysis
+Progression Free Survival, A chi-square test (one-sided; alpha = .1) will be used to assess the efficacy of treating patients with targeted agents based in the Cancer-Code-50 in the second line setting. For each patient "success" will be defined as being progression free for at least 3 months following initiation of second line therapy. Progression free survival times will be characterized separately by arm using the method of Kaplan and Meier., Time from start of second line treatment to time of progression or death, whichever occurs first, assessed at 3 months
+Response Rate Defined by RECIST 1.1, The response rate (with 95% two-sided confidence intervals) will be computed separately by arm. One-sided chi-square or Fisher's exact tests (alpha = .1) will be used to evaluate differences in response rates between arms., Up to 2 years|Proportion of Arm B Patients Whose Second Line Therapy is Changed as a Result of Physician Access to CancerCode-50 Results, To assess the effect of sequencing on clinical practice and decision making the proportion of Arm B patients whose second line therapy is changed as a result of physician access to CancerCode-50 results will be computed. This comparison will be based on information provided by the treating physician before being exposed to the sequencing results, and information obtained from a from post-treatment chart review., Up to 2 years
+Concordance of Variants (Arm B), The concordance of variants identified when sequencing will be performed on samples from the same patient collected at baseline and follow-up time points will also be measured., Up to 2 years|Incidence of Non-protocol Testing (Arm A), The incidence of non-protocol testing of those patients in Arm A who undergo molecular testing (by any method) at the discretion of the treating physician will be estimated., Up to 2 years|Response Rate Defined by RECIST 1.1 (Arm A), The response rate of those patients in Arm A who undergo molecular testing (by any method) at the discretion of the treating physician will be estimated., Up to 2 years|Progression Free Survival (Arm A), The progression free survival of those patients in Arm A who undergo molecular testing (by any method) at the discretion of the treating physician will be estimated., Time from start of second line treatment to time of progression or death, whichever occurs first, assessed up to 2 year
+PRIMARY OBJECTIVES:
+
+I. The three month progression free survival (PFS) of patients treated with targeted agents in the second line setting based on the tumor molecular signature as defined by CancerCode will be 40% vs 20% with standard cytotoxic chemotherapy.
+
+SECONDARY OBJECTIVES:
+
+I. Response rate (RR). II. Overall survival (OS). III. Proportion of Arm-B patients whose second line therapy is changed as a result of physician access to CancerCode-50 results.
+
+IV. Concordance of variants identified when sequencing is performed on samples from the same patient collected at baseline and follow-up time points.
+
+OUTLINE: Patients are randomized to 1 of 2 treatment arms.
+
+ARM A: Patients receive standard of care therapy based on the discretion of the treating physician.
+
+ARM B: Patients undergo collection of tissue and blood samples for analysis via sequencing. Upon disease progression following front-line treatment, patients receive specific targeted therapy based on the mutational status obtained during sequencing.
+
+After completion of study treatment, patients are followed up every 3 months for 2 years, every 6 months for 1 year, and then annually thereafter.

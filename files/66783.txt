@@ -1,0 +1,41 @@
+Reduced Intensity Radio-chemotherapy for Stage IIA/B Seminoma
+The trial investigates a stage-adapted (stage IIA or IIB) de-escalation of the standard treatments in the context of a multimodality treatment with chemo- and radiotherapy in seminoma patients. The goal is to safely de-escalate treatment while maintaining/enhancing efficacy, which is not a standard practice yet.
+Seminoma|Testicular Cancer
+DRUG: Carboplatin|DRUG: Cisplatin|DRUG: Etoposide
+Progression free survival (PFS) at 3 years, PFS is defined as the time from registration until one of the following events occurs:
+
+* Progressive disease or relapse, defined as progression according to the modified trial-specific version of RECIST 1.1 or a rising level of the tumor marker beta-hCG (beta human chorionic gonadotropin) over the ULN (Upper limit of normal), confirmed by a second measurement. Presence of non-seminoma germ cell tumor has to be excluded in the latter case
+* Death from any cause., From the date of registration until the date of progressive disease, relapse or death, whichever occurs first, assessed up to 3 years after registration
+Response rate (RR), The response is categorized according to the modified trial-specific version of RECIST 1.1 measurability criteria as: complete remission (CR), partial remission (PR), stable disease (SD), progressive disease (PD).
+
+The response rate is defined as proportion of patients with CR or PR on imaging assessment and without rising beta-hCG. Patients with CR, PR and SD on imaging assessment, but with confirmed rising beta-hCG will not be counted as responders, if the presence on non-seminoma germ cell tumor was excluded. Response rate will be evaluated at 3 months and 3 years after registration., at 3 months and 3 years after registration|Progression free survival (PFS), From the date of registration until the date of progressive disease, relapse or death, whichever occurs first, assessed up to 20 years after registration|Time to progression (TTP), TTP is defined as the time from registration until documented PD or relapse according to the modified trial-specific version of RECIST 1.1 or death due to progression, whichever occurs first.
+
+Patients without an event at the time of analysis and patients starting a new anticancer therapy in the absence of an event will be censored at the date of the last tumor assessment showing non-progression before the start of a new therapy, if any., From the date of registration until the date of progressive disease, relapse or death due to progression, whichever occurs first, assessed up to 20 years after registration|Overall Survival (OS), OS is defined as the time from registration to the date of death from any cause. Patients who did not experience an event will be censored at the last known time they were known to be alive., From the date of registration until the date of death from any cause, assessed up to 20 years after registration|Seminoma-specific survival, Seminoma-specific survival is defined as the time from registration to the date of death due to seminoma. Patients who did not experience an event will be censored at the last known time they were known to be alive., From the date of registration until the date of death due to seminoma, assessed up to 20 years after registration|Time to distant metastasis, Time to distant metastasis is defined as the time from registration until first occurrence of distant metastasis. Patients not experiencing an event will be censored at the date of the last available assessment., From the date of registration until the date of first occurrence of distant metastasis, assessed up to 20 years after registration|Time to next treatment, Time to next treatment is defined as the time from registration to the start of any new anticancer therapy for progressive seminoma. Patients not receiving any new treatment are censored at the last date they were known to be alive., From the date of registration until the date of start of any new anticancer therapy for progressive seminoma, assessed up to 20 years after registration|Localization of progression, The localization of progression is defined as the first localization where progressive disease is detected. It is divided into the following sites:
+
+* Initially involved lymph node area
+* Non-initially involved paraaortic \& pelvic lymph node area
+* Supradiaphragmatic lymph node area
+* Organ involvement (lung, liver, bones, etc.)
+* Multiple sites simultaneously, at the date of the first occurrence of progressive disease, assessed from registration up to 20 years after registration|Method of detection of progression, The method of detection of progression is defined as the first method used to detect the first progression event and comprises the following categories:
+
+* Physical examination (inspection, palpation, etc.)
+* Rising beta-hCG tumor marker
+* CT imaging
+* Ultrasound imaging
+* X-ray imaging
+* Other imaging (e. g. MRI, PET-CT), at the date of the first occurrence of progressive disease, assessed from registration up to 20 years after registration
+Therapy de-escalation in stage IIA/B seminoma represents an unmet need in clinical practice; efficacy of modern standard of care therapies for these patients is high and only a few patients show disease recurrence but short- and long-term toxicities are a major concern. The magnitude of long-term toxicities is often associated with the intensity of the prescribed treatment modality. A higher cumulative dose of chemotherapy agents and radiation dose has been linked to a sharp increase in long-term sequelae. Combining treatment modalities and diversifying toxicity may thus provide an opportunity to limit long-term treatment sequelae.
+
+In this trial carboplatin, cisplatin and etoposide are the Investigational Medicine Products (IMPs). They are all medications with a marketing authorization for several solid tumor types and are standard practice in the treatment of testicular cancer in Switzerland and in the European Union (EU).
+
+Radiotherapy is also a standard therapy in this indication.
+
+However, the trial investigates a stage-adapted (stage IIA or IIB) de-escalation of these standard treatments in the context of a multimodality treatment with chemo- and radiotherapy. The goal is to safely de-escalate treatment while maintaining/enhancing efficacy, which is not a standard practice yet.
+
+The SAKK 01/18 trial is designed with the aim to answer these three questions:
+
+* Can the dose of involved-node radiotherapy be safely reduced in the context of multimodality treatment with chemo- and radiotherapy?
+* Can a more potent chemotherapy in the form of cisplatin/etoposide reduce the rate of distant failure in comparison to carboplatin?
+* Can a combination of cisplatin/etoposide and involved-node radiotherapy pose a potent treatment regime for patients with recurrence after adjuvant carboplatin or radiotherapy for stage I seminoma? Furthermore, as active surveillance is becoming standard of care in stage I seminoma, it is projected that the amount of patients in need of treatment with stage IIA/B disease will rise, due to more patients developing disease progression during active surveillance.
+
+The trial design, trial treatment and trial specifics are a consensus among the Swiss Urogenital Tumors Project Group and the Swiss Radio-oncology Section from the Swiss Group for Clinical Cancer Research (SAKK) and the German Testicular Cancer Study Group (GTCSG).

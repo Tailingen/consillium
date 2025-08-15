@@ -1,0 +1,29 @@
+Blood Samples to Identify Biomarkers in Patients Treated With Cyclophosphamide After Donor Stem Cell Transplant
+This trial uses blood samples to understand how patients' bodies process and respond to a drug called cyclophosphamide given after a donor stem cell transplant. Identifying biomarkers (molecules that can indicate normal or abnormal processes) may help researchers develop a blood test that can be used to predict how well patients will process and respond to cyclophosphamide.
+Allogeneic Hematopoietic Stem Cell Transplant Recipient|Donor|Malignant Neoplasm
+OTHER: Biospecimen Collection-Blood|OTHER: Biospecimen Collection-Stool
+Mathematical models of cyclophosphamide (CY) and mycophenolic acid pharmacokinetics (PK) with t cell effects., Will determine whether readily available patient characteristics influence CY PK using population (pop)PK modeling. Will validate our existing popPK model of CY, 4HCY, and carboxyethylphosphoramide mustard., Up to day 21
+Acute GVHD, Cumulative incidence estimates will be calculated with appropriate accounting for competing risks. Adjusted hazard ratios will be estimated via Cox regression models., Up to 4 years
+"Ancillary-Correlative" study type
+
+PRIMARY OBJECTIVES:
+
+I. To determine whether endogenous metabolomics compounds obtained before cyclophosphamide administration can predict the ratio of 4hydroxycyclophosphamide to cyclophosphamide area under the curve (4HCY/CY AUC).
+
+II. To evaluate mathematic models of CY and mycophenolic acid (MPA) pharmacokinetics and develop mathematic models including these pharmacokinetics, -omics data and clinical outcomes.
+
+SECONDARY OBJECTIVES:
+
+I. To assess if recipients' metabolomics and pharmacokinetics (e.g., CY and its metabolites AUCs) are associated with acute graft versus host disease (GVHD) and other clinical outcomes.
+
+II. To assess the association of the intestinal microbiome with the plasma metabolome, acute GVHD and other clinical outcomes.
+
+III. To obtain donor blood samples at one time pre-transplant and assess if donors' metabolomics are associated with acute GVHD and other clinical outcomes.
+
+EXPLORATORY OBJECTIVE:
+
+I. Donor and recipient germline deoxyribonucleic acid (DNA) isolation and genomic analysis.
+
+OUTLINE: Participants are assigned to 1 of 2 arms.
+
+ARM I (PATIENTS RECEIVING A HAPLOIDENTICAL TRANSPLANT): Patients undergo collection of blood prior to transplant, on day 0, days 3-7, day 14, and day 21. Patients also undergo collection of saliva prior to transplant and collection of stool prior to and post-transplant. Donors undergo collection of blood and saliva within 8 weeks prior to donation.

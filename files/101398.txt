@@ -1,0 +1,25 @@
+Virtual Reality 3D-Surgery Modeling to Enhance Head and Neck Cancer Surgery Quality
+This clinical trial studies the use of virtual reality technology and three dimensional surgery (3D-surgery) modeling to enhance current treatments in head and neck cancer surgery. Virtual reality 3D-surgery modeling may improve quality of surgical planning and interdisciplinary communication between surgeons and pathologists during the treatment of head and neck squamous cell cancer and ultimately increase the accuracy of planning, the quality of communication, and maximize the outcome patients with head and neck cancer experience throughout treatment.
+Head and Neck Squamous Cell Carcinoma
+OTHER: Medical Device Usage and Evaluation|OTHER: Best Practice|PROCEDURE: Resection
+Margin events, Will be defined as the number of positive margins along with the number of unexpected defect driven margins. Will be collected for patients in the control group and patients treated with the use of preoperative planning with virtual reality (VR). Margin events will be defined as binary (yes/no) on post-operative survey to be completed by surgeons. Logistic regression will be used to evaluate of a difference in any margin event between study groups (3 dimensional \[3D\] VR vs. control) adjusted for surgeon., Up to Completion of surgical resection
+Event free survival, Logistic regression will be used to estimate an odds ratio and 95% confidence interval (CI)., The time from completion of treatment to marginal recurrence of tumor at the primary site, assessed up to 3 years
+PRIMARY OBJECTIVES:
+
+To assess the potential for preoperative virtual reality and 3D pathological modeling to reduce total number of margin events as defined in the study as the number of positive frozen margins, number of positive final margins and the number of unexpected defect driven margins.
+
+SECONDARY OBJECTIVES:
+
+To assess the impact of preoperative virtual reality and 3D pathologic modeling as treatment for head and neck squamous cell carcinoma on event free survival (EFS) at 18-36 months after resection as defined by recurrence at the primary site.
+
+TERTIARY OBJECTIVE:
+
+I. To evaluate the quality of existing interdisciplinary intraoperative communication using the proposed VR/3D-case enhancement protocols (CEPs) as an evaluating medium.
+
+OUTLINE: Patients are randomized to 1 of 2 arms.
+
+ARM I (VR/3D-CEPs + STANDARD TREATMENT): Prior to surgery (day 0-13), patients undergo virtual reality 3D tumor resection via VR/3D-CEPs. Patients' pre-surgical computed tomography (CT) scans are reviewed per standard of care. Patients then undergo surgical resection on day 14-29 and a 3D model of true tumor is created and imported into the virtual reality environment.
+
+ARM II (STANDARD TREATMENT): Prior to surgery (day 0-13), patients' pre-surgical CT scans are reviewed per standard of care. Patients then undergo surgical resection on day 14-29.
+
+After completion of study intervention, patients are followed for up to 36 months.

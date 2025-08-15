@@ -1,0 +1,35 @@
+Real-world Elecsys® GAAD Implementation and Validation to Improve Surveillance and Early Detection of HCC
+Patients with liver cirrhosis are at high risk of developing hepatocellular carcinoma (HCC) which implies significant mortality. At present current surveillance methods detect hepatocellular carcinomas at a late stage resulting in few treatment options for patients and, in the majority of cases, premature death.
+
+The goal of this study is to implement Elecsys® GAAD in real-world hepatocellular carcinoma surveillance for those with liver cirrhosis.
+
+The main questions it aims to answer are:
+
+* Does the introduction of the Elecsys® GAAD algorithm to the surveillance pathway increase early detection of HCC?
+* Does the introduction of the Elecsys® GAAD algorithm to the surveillance pathway reduce false positive tests and unnecessary confirmatory investigations?
+* Does the new surveillance pathway improve adherence?
+
+Researchers will compare Elecsys® GAAD with standard of care tests to see if it results in earlier detection of hepatocellular carcinoma and will explore potential improvements to the surveillance pathway.
+Liver Cirrhosis|Hepatocellular Carcinoma
+DIAGNOSTIC_TEST: Elecsys® GAAD
+Incidence of hepatocellular carcinoma diagnosis, Incidence recorded as number of cases per study cohort, 2 years|Stage of hepatocellular carcinoma at diagnosis, Barcelona Clinic Liver Cancer (BCLC) stage 0-D, 2 years
+Rates of false positives for each combination of diagnostic tests, Count (%) of True/False positives for each test (against magnetic resonance imaging (MRI) / computerised tomography (CT)) will be reported.
+
+Results from different tests (and their (meaningful) combination) will be tabulated against each other:
+
+* Alpha-fetoprotein (AFP) vs GAAD
+* Ultrasound scan (USS) vs GAAD
+* AFP+ USS vs GAAD
+* AFP+USS vs GAAD +USS
+* AFP/GAAD/USS/AFP+USS/GAAD+USS vs MRI/CT for those who proceed to confirmatory imaging., 2 years|Rates of curative treatment, Rates of curative treatment being offered (%) will be recorded on an intention to treat (ITT) basis from Multi-Disciplinary Team (MDT) meeting outcomes., 2 years|Rates of adherence, • Attendance rates for biannual surveillance appointments (%), within predefined tolerance of 5-9 months post previous appointment., 2 years|Rates of discontinuation, • Count (%) of surveillance discontinuation, defined as no visit \>12 months., 2 years|Survival rates, Long-term follow up data will be collected to determine rates of survival following HCC diagnosis at 1-year, 3-years and 5-years., 7 years
+Patients with liver cirrhosis are at high risk of developing hepatocellular carcinoma (HCC) which implies significant mortality. At present current surveillance methods detect hepatocellular carcinomas at a late stage resulting in few treatment options for patients and, in the majority of cases, premature death.
+
+The goal of this study is to implement Elecsys® GAAD in real-world hepatocellular carcinoma surveillance for those with liver cirrhosis.
+
+The main questions it aims to answer are:
+
+* Does the introduction of the Elecsys® GAAD algorithm to the surveillance pathway increase early detection of HCC?
+* Does the introduction of the Elecsys® GAAD algorithm to the surveillance pathway reduce false positive tests and unnecessary confirmatory investigations?
+* Does the new surveillance pathway improve adherence?
+
+Researchers will compare Elecsys® GAAD with standard of care tests to see if it results in earlier detection of hepatocellular carcinoma and will explore potential improvements to the surveillance pathway.

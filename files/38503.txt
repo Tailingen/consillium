@@ -1,0 +1,23 @@
+DETERMINE (Determining Extended Therapeutic Indications for Existing Drugs in Rare Molecularly Defined Indications Using a National Evaluation Platform Trial) - Master Screening Protocol
+DETERMINE is an open-label phase II/III trial. It will look at targeted treatments in rare cancers or common cancers with rare genetic change (mutation). Patients must have a cancer with an identified mutation. This could be found during routine testing or as part of another research programme. The DETERMINE trial will recruit adults, teenagers and children. If a drug is found to benefit a new patient group, the study team will work with the NHS and the Cancer Drugs Funds to see if these drugs can be available for patients in the future. This clinicaltrials.gov record refers to the Overall Trial Protocol (Master Screening Record), additional records will be added to clinicaltrials.gov for each treatment arm.
+Haematological Malignancy|Solid Tumour
+DRUG: Alectinib|DRUG: Atezolizumab|DRUG: Entrectinib|DRUG: Trastuzumab in combination with pertuzumab|DRUG: Vemurafenib in combination with cobimetinib|DRUG: Capmatinib
+Number of patients who consent to each arm., This is a master screening entry with sub-study entries to capture the results of each arm. As such a primary outcome measure for this entry is not relevant, however this entry will be used to report the number of patients with a cancer containing the appropriate genetic alteration that have been successfully allocated and consented to each arm., Up to 5 years.
+DETERMINE is an umbrella-basket platform trial to evaluate the efficacy of licensed targeted therapies in rare\* adult, paediatric and teenage/young adult (TYA) cancers with actionable genomic alterations, including common cancers with rare actionable alterations.
+
+\*Rare is defined generally as incidence less than 6 cases in 100,000 patients (includes paediatric and TYA cancers) or common cancers with rare alterations.
+
+The number of treatment arms opened will depend on the number of licensed medicines identified for inclusion. Each trial cohort has a target sample size of 30 evaluable patients. Sub-cohorts may be defined and further expanded to a target of 30 evaluable patients each.
+
+This clinicaltrials.gov record refers to the Overall Trial Protocol (Master Screening Record), please refer to the references section for links to the individual treatment arm records.
+
+The main aims of the clinical trial arms are:
+
+* To describe the anti-cancer activity of licensed targeted drugs outside their licensed indication.
+* To assess the safety and adverse event (AE) profile of licensed, targeted anti-cancer drugs in the target population.
+* To understand biological mechanisms for response and resistance to targeted therapies.
+* To evaluate the quality of life (QoL) of target populations receiving the licensed, targeted anti-cancer drugs.
+
+This Master Screening Record will capture the number of patients with a cancer containing the appropriate genetic alteration that have been successfully allocated and consented to each arm. The trial results (according to the protocol defined outcome measures) will be reported per-arm for each treatment arm.
+
+The ultimate aim is to translate positive clinical findings to the NHS to provide new treatment options for rare adult, paediatric and TYA cancers.

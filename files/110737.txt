@@ -1,0 +1,43 @@
+Testing Drug Treatments After CAR T-cell Therapy in Patients With Relapsed/Refractory Diffuse Large B-cell Lymphoma
+This phase II trial tests whether mosunetuzumab and/or polatuzumab vedotin helps benefit patients who have received chemotherapy (fludarabine and cyclophosphamide) followed by chimeric antigen receptor (CAR) T-cell therapy (tisagenlecleucel, axicabtagene ciloleucel, or lisocabtagene maraleucel) for diffuse large B-cell lymphoma that has come back (recurrent) or that does not respond to treatment (refractory) or grade IIIb follicular lymphoma. Mosunetuzumab is a monoclonal antibody that may interfere with the ability of cancer cells to grow and spread. Polatuzumab vedotin is a monoclonal antibody, called polatuzumab, linked to a drug called vedotin. Polatuzumab is a form of targeted therapy because it attaches to specific molecules (receptors) on the surface of cancer cells, and delivers vedotin to kill them. Chemotherapy drugs, such as fludarabine and cyclophosphamide, work in different ways to stop the growth of cancer cells, either by killing the cells, by stopping them from dividing, or by stopping them from spreading. CAR T-cell therapy is a type of treatment in which a patient's T cells (a type of immune system cell) are changed in the laboratory so they will attack cancer cells. T cells are taken from a patient's blood. Then the gene for a special receptor that binds to a certain protein on the patient's cancer cells is added to the T cells in the laboratory. The special receptor is called a chimeric antigen receptor. Large numbers of the CAR T cells are grown in the laboratory and given to the patient by infusion for treatment of certain cancers. Giving mosunetuzumab and/or polatuzumab vedotin after chemotherapy and CAR T-cell therapy may be more effective at controlling or shrinking the cancer than not giving them.
+Diffuse Large B-Cell Lymphoma|Grade 3b Follicular Lymphoma|Primary Mediastinal (Thymic) Large B-Cell Lymphoma|Recurrent Diffuse Large B-Cell Lymphoma|Refractory Diffuse Large B-Cell Lymphoma|Transformed Follic Lymph to Diff Large B-Cell Lymphoma|Transformed Marg Zone Lymph to Diff Large B-Cell Lymphoma
+BIOLOGICAL: Axicabtagene Ciloleucel|PROCEDURE: Biospecimen Collection|PROCEDURE: Computed Tomography|DRUG: Cyclophosphamide|DRUG: Fludarabine|BIOLOGICAL: Lisocabtagene Maraleucel|BIOLOGICAL: Mosunetuzumab|OTHER: Patient Observation|DRUG: Polatuzumab Vedotin|PROCEDURE: Positron Emission Tomography|BIOLOGICAL: Tisagenlecleucel
+Progression free survival (PFS), Will compare PFS in participants with relapsed/refractory large B-cell lymphoma or follicular lymphoma grade 3B with stable disease (SD) or partial remission (PR) on first imaging response (day +30 positron emission tomography \[PET\]/computed tomography \[CT\] scan) after commercial CD19 chimeric antigen receptor (CAR) T-cell therapy who are randomized to receive each consolidation therapy versus those that receive no consolidation therapy (i.e. control). Specifically, will compare the PFS of 1) mosunetuzumab consolidation to no consolidation, 2) polatuzumab vedotin consolidation to no consolidation, 3) mosunetuzumab + polatuzumab vedotin to no consolidation. Will analyze results by arm rather than assuming no-interactions in some factorial analyses. Will follow multi-step hypothesis testing procedure of Freidlin and Korn to compare the arms within this randomized Phase II study. Each of the primary comparisons has 81% power using a stratified logrank test at one-sided alpha of 0.05., From date of randomization to date of first observation of progressive disease or death due to any cause, assessed up to 2 years
+Overall survival (OS), Will be estimated using the method of Kaplan-Meier and compared using the stratified log rank test., From date of randomization to date of death due to any cause, assessed up to 2 years|Complete remission (CR) conversion rate, The complete remission conversion rate up to one year after randomization will be calculated and compared using Cochran-Mantel-Haenszel test with a two-sided alpha of .05., Up to 1 year after randomization|Incidence of adverse events, Up to 2 years|Association between total metabolic tumor volume (TMTV), standardized uptake value (SUV) max, and sum product (SPD) of diameters, The association between TMTV, SUV max, and SPD by PET-CT at first imaging response as a continuous variable will be assessed using a univariate logistic regression with a two-sided alpha of .05, respectively., Up to 2 years|Conversion of CR, Evaluated as a binary variable. Assessed using a univariate logistic regression with a two-sided alpha of 0.05., Up to 2 years
+PRIMARY OBJECTIVES:
+
+I. To compare the progression-free survival in participants with relapsed/refractory large B-cell lymphoma or follicular lymphoma grade 3B with stable disease (SD) or partial remission (PR) on first imaging response by central review (day +30 positron emission tomography \[PET\]/computed tomography \[CT\] scan) after commercial CD19 CAR T-cell therapy who are randomized to receive each consolidation therapy versus those that receive no consolidation therapy (i.e. control).
+
+Ia. Specifically, to compare the progression free survival (PFS) of 1) mosunetuzumab consolidation to no consolidation, 2) polatuzumab vedotin consolidation to no consolidation, 3) mosunetuzumab + polatuzumab vedotin to no consolidation.
+
+SECONDARY OBJECTIVES:
+
+I. To compare overall survival (OS) in participants randomized to each consolidation treatment arm versus control.
+
+II. To compare the complete remission (CR) conversion rate up to one year in participants randomized to each consolidation arm versus control.
+
+III. To evaluate the treatment-related adverse events in participants randomized to each consolidation arm.
+
+IV. To evaluate the association between total metabolic tumor volume (TMTV), standardized uptake value (SUV) max, and sum product (SPD) of diameters by PET-CT at first imaging response with complete remission conversion up to one year in participants randomized to each consolidation arm as well as those randomized to control.
+
+V. To evaluate the overall response rate (ORR), CR rate, PFS, and OS of participants randomized to Arm 4 (observation) who have lymphoma progression within 12 months of CAR T-cell infusion and subsequently 'cross-over' to receive treatment with mosunetuzumab + polatuzumab vedotin.
+
+VI. To estimate overall survival for all patients registered to this study. VII. To assess the difference in overall survival between participants who achieved CR at first imaging (day +30) versus those who did not achieve CR at first imaging.
+
+BANKING OBJECTIVES:
+
+I. To bank specimens for future correlative studies. II. To bank PET-CT images for future correlative studies.
+
+OUTLINE:
+
+STEP I: Patients receive lymphodepleting chemotherapy consisting of fludarabine intravenously (IV) and cyclophosphamide IV on study. Patients then receive tisagenlecleucel IV, axicabtagene ciloleucel IV, or lisocabtagene maraleucel IV on study.
+
+STEP II: Patients are randomized to 1 of 4 arms.
+
+ARM I: Patients receive mosunetuzumab IV on study. Patients also undergo PET-CT and/or CT and undergo collection of blood and tissue samples throughout the study.
+
+ARM II: Patients receive polatuzumab vedotin IV on study. Patients also undergo PET-CT and/or CT and undergo collection of blood and tissue samples throughout the study.
+
+ARM III: Patients receive polatuzumab vedotin IV and mosunetuzumab IV on study. Patients also undergo PET-CT and/or CT and undergo collection of blood and tissue samples throughout the study.
+
+ARM IV: Patients undergo observation on study. Patients also undergo PET-CT and/or CT and undergo collection of blood and tissue samples throughout the study. Patients with subsequent progression within 12 months of CAR T-cell therapy may crossover to Arm III.

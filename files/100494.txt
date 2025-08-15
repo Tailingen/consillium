@@ -1,0 +1,44 @@
+Comparing the Addition of Radiation Either Before or After Surgery for Patients With Brain Metastases
+This phase III trial compares the usual treatment of surgery after stereotactic radiosurgery (SRS) to receiving SRS before surgery in treating patients with cancer that has spread to the brain (brain metastases). Stereotactic radiosurgery is a type of radiation therapy that delivers a high dose of radiation to target tumors and minimizes effect on normal surrounding brain tissue. The combination of surgery and radiation may stop the tumor from growing for a few months or longer and may reduce symptoms of brain metastases. This study investigates whether treating with SRS before surgery may be better than SRS after surgery in reducing the possibility of the tumor coming back, reducing or preventing the cancer from spreading to other areas of the brain and reducing the risk of scarring on the brain from radiation.
+Metastatic Malignant Neoplasm in the Brain
+PROCEDURE: Brain Surgery|OTHER: Quality-of-Life Assessment|OTHER: Questionnaire Administration|RADIATION: Stereotactic Radiosurgery
+Time to composite adverse endpoint (CAE), Analysis for this endpoint will consist of testing the cause-specific hazard ratio in a Cox proportional hazards model., Time from surgery (with the post-operative MRI as the 'baseline' for purposes of disease assessment) to local tumor progression (within the surgical bed), nodular meningeal disease, or radiation necrosis, whichever occurs first, assessed up to 4 years
+Overall survival (OS), Analysis for this endpoint will consist of estimation of the OS distribution of each treatment arm via the Kaplan-Meier method and a stratified log-rank test., Time from randomization to death due to any cause, assessed up to 4 years|Rate of local tumor progression, The time origin for these imaging-based endpoints will be time of surgery (with the post-operative magnetic resonance imaging \[MRI\] as the 'baseline' for purposes of disease assessment). These analyses will involve estimating the cumulative incidence function of local progression, radiation necrosis, nodular meningeal disease, and distant brain failures in the presence of competing event of deaths. The Gray's test will be used to evaluate the difference in the distribution of local progression between treatment arms., Up to 4 years|Rate of radiation necrosis, The time origin for these imaging-based endpoints will be time of surgery (with the post-operative MRI as the 'baseline' for purposes of disease assessment). These analyses will involve estimating the cumulative incidence function of local progression, radiation necrosis, nodular meningeal disease, and distant brain failures in the presence of competing event of deaths. The Gray's test will be used to evaluate the difference in the distribution of radiation necrosis between treatment arms., Up to 4 years|Rate of nodular meningeal disease, The time origin for these imaging-based endpoints will be time of surgery (with the post-operative MRI as the 'baseline' for purposes of disease assessment). These analyses will involve estimating the cumulative incidence function of local progression, radiation necrosis, nodular meningeal disease, and distant brain failures in the presence of competing event of deaths. The Gray's test will be used to evaluate the difference in the distribution of nodular meningeal disease between treatment arms., Up to 4 years|Rate of distant brain failures, The time origin for these imaging-based endpoints will be time of surgery (with the post-operative MRI as the 'baseline' for purposes of disease assessment). These analyses will involve estimating the cumulative incidence function of local progression, radiation necrosis, nodular meningeal disease, and distant brain failures in the presence of competing event of deaths. The Gray's test will be used to evaluate the difference in the distribution of distant brain failures between treatment arms., Up to 4 years|Frequency of adverse events (AEs), AEs will be graded according to Common Terminology Criteria for Adverse Events version 5.0. Comprehensive summaries of all AEs by treatment arm will be generated and examined. Counts and frequencies of worst (highest score) AE per patient will be presented overall and by AE type category, separately by assigned treatment group. The proportion of patients with at least one grade 3 or higher AE will be compared between treatment arms. Any frequencies to be tested will be evaluated using the chi-square or exact test as appropriate, with two-sided significance level 0.05., Up to 4 years|Change in MD Anderson Symptom Inventory - Brain Tumor (MDASI-BT), Will implement mixed effects models for repeated measures to evaluate the MDASI-BT scores longitudinally., Baseline up to 2 years after surgery|Change in cognitive function, Measured by Montreal Cognitive Assessment (MoCA). Will implement mixed effects models for repeated measures to evaluate the MoCA scores longitudinally., Baseline up to 2 years after surgery
+Type of surgical resection, Will compare if the type of surgical resection (piece-meal vs. en-bloc) may be associated with the rate of nodular meningeal disease. The competing risk approach by Gray (Gray 1988) will be used to compare the cumulative incidences of nMD by surgical type, where death prior to nMD will be treated as a competing risk event. This analysis will only include patients who undergo surgical resections at baseline., Up to 4 years
+PRIMARY OBJECTIVE:
+
+I. To determine if the time to composite adverse endpoint (CAE) (defined as: 1) local tumor progression within the surgical bed; and/or 2) adverse radiation effect \[ARE\], the imaging correlate of post-stereotactic radiosurgery \[SRS\] radiation necrosis; and/or 3) nodular meningeal disease \[nMD\]) is improved in patients treated with pre-resection SRS to the intact lesion versus those treated with post-resection SRS.
+
+SECONDARY OBJECTIVES:
+
+I. To assess the trajectory of symptom burden in patients treated with pre-resection SRS to the intact lesion versus those treated to the post-resection surgical cavity as measured by MD Anderson Symptom Inventory for brain tumor (MDASI-BT).
+
+II. To determine whether there is improved overall survival (OS) in patients with resected brain metastases who undergo pre-resection SRS compared to patients who receive post-resection SRS.
+
+III. To compare rates of ARE, the imaging correlate of radiation necrosis, in patients who receive pre-resection SRS to patients who receive post-resection SRS.
+
+IV. To determine whether there is increased time to whole brain radiotherapy (WBRT) in patients who receive pre-resection SRS compared to patients who receive post-resection SRS.
+
+V. To assess the trajectory of neuro-cognitive function in patients treated with pre-resection SRS to the intact lesion versus those treated to the post-resection surgical cavity as measured by the Montreal Cognitive Assessment (MoCA).
+
+VI. To compare rates of nodular meningeal disease in patients who receive pre-resection SRS to patients who receive post-resection SRS.
+
+VII. To compare rates of local recurrence in the resection cavity for patients who receive pre-resection SRS to patients who receive post-resection SRS.
+
+VIII. To compare rates of local recurrence of intact, non-index metastases treated with SRS.
+
+IX. To compare rates of distant brain failure in patients who receive pre-resection SRS to patients who receive post-resection SRS.
+
+X. To assess toxicity in the two treatment arms.
+
+EXPLORATORY OBJECTIVE:
+
+I. To explore if the type of surgical resection (piece-meal versus \[vs.\] en-bloc) may be associated with the rate of nodular meningeal disease.
+
+OUTLINE: Patients are randomized to 1 of 2 arms.
+
+ARM I: Patients undergo surgery per standard of care. Within 10-30 days after surgery, patients undergo stereotactic radiosurgery for 1 fraction.
+
+ARM II: Within 7 days before surgery, patients undergo stereotactic radiosurgery for 1 fraction. Patients undergo surgery per standard of care.
+
+After completion of study treatment, patients are followed up every 3 months for 2 years and then every 6 months for additional 2 years.

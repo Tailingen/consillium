@@ -1,0 +1,26 @@
+Next Generation Sequence Target-Directed Therapy in Treating Patients With Cancer
+This randomized clinical trial studies how well next generation sequence target-directed therapy works in treating patients with cancer. Next generation sequencing is a test that screens for mutations to cancer related genes. Target-directed therapy is a type of treatment that uses drugs or other substances to identify and attack specific types of cancer cells that may have less harm to normal cells. Next generation sequencing may help identify these specific types of cancer cells.
+Malignant Neoplasm
+OTHER: cytology specimen collection procedure|DRUG: targeted therapy|PROCEDURE: therapeutic procedure|OTHER: laboratory biomarker analysis
+Overall (composite) response rate, The overall (composite) response rate will be defined by tumor response rate according to RECIST 1.1 or by tumor marker response for patients without measurable disease defined by RECIST 1.1. Tumor marker response will be quantified as a 50% reduction in the marker of interest, when compared to baseline, without any radiographic evidence of progressive disease., Up to 2 years
+Progression free survival, The percentage of patients progression free and alive will be estimated using the method of Kaplan and Meier. PFS in control will be compared to those in the experimental arm using log-rank tests., Time from randomization to time of progression or death, whichever occurs first, assessed at 4 months|Mutation rate, Mutation rate, defined as the percentage of patients with \>= 1 mutation identified will be estimated using the method of Pearson and Clopper as binomial proportions. 95% confidence intervals will be provided for these proportions., Up to 2 years|Actionable mutation rate, The percentage of patients with "actionable" mutation rate will be estimated using the method of Pearson and Clopper as binomial proportions. 95% confidence intervals will be provided for these proportions., Up to 2 years|Incidence of adverse events graded according to the National Cancer Institute Common Terminology Criteria for Adverse Events version 4.0, The rate of adverse events will be estimated using the method of Pearson and Clopper as binomial proportions. 95% confidence intervals will be provided for these proportions. Adverse events will be tabulated according to severity., Up to 2 years|Median overall survival, OS will be estimated using the method of Kaplan and Meier. OS in control will be compared to those in the experimental arm using log-rank tests., Up to 2 years
+Targeted agent rate, The targeted agent rate will be estimated as the fraction of patients in arm B receiving target-directed therapy. 95% confidence intervals will be determined., Up to 2 years|Available protocol rate, The available protocol rate will be estimated as the fraction of mutations for which a local protocol offers a potential therapeutic. 95% confidence intervals will be determined., Up to 2 years|Protocol enrollment rate, The protocol enrollment rate will be estimated as the fraction of patients in any ongoing trial who participate in this one., Up to 2 years|Disease site influence, Disease site influence will be characterized by the median OS and 4 month PFS for each disease site allocation., Up to 2 years
+PRIMARY OBJECTIVES:
+
+I. Overall (composite) response rate (ORR).
+
+SECONDARY OBJECTIVES:
+
+I. 4-month progression free survival (PFS). II. Mutation rate. III. Adverse event rate/severity. IV. Overall survival.
+
+TERTIARY OBJECTIVES:
+
+I. Targeted agent rate. II. Available protocol rate. III. Protocol enrollment rate. IV. Disease site influence.
+
+OUTLINE: Patients are randomized to 1 of 2 treatment arms.
+
+ARM A: Patients undergo collection of tissue and blood samples for analysis via next generation sequencing. Patients receive standard of care therapy based on the discretion of the treating physician.
+
+ARM B: Patients undergo collection of tissue and blood samples for analysis via next generation sequencing. Based on the results of the next generation sequencing, patients receive target-directed therapy.
+
+After completion of study treatment, patients are followed up every 3 months for 2 years, every 6 months for 2 years, and then annually thereafter.

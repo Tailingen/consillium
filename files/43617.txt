@@ -1,0 +1,56 @@
+3D-printed Biodegradable Breast Implants for Breast Restoration
+The purpose of this clinical trial is to evaluate the cosmetic effect of breast reconstruction based on 3D-printed biodegradable material breast implants in personalized breast reconstruction and the quality of life of patients, with traditional breast-conserving surgery and traditional breast reconstruction as controls. It will also explore the safety of breast reconstruction based on 3D-printed biodegradable material breast implants in personalized breast reconstruction. The main question it aims to answer is:
+
+Can breast cancer patients who are not suitable for breast-conserving surgery use 3D-printed biodegradable material breast implants for breast reconstruction? Do patients who undergo breast reconstruction based on 3D-printed biodegradable material breast implants have advantages over those who receive breast-conserving surgery or traditional silicone prosthesis breast reconstruction surgery in terms of cosmetic effects, quality of life and safety? What medical problems may occur when participants use 3D-printed biodegradable material-based breast implants for breast reconstruction?
+
+Participants will:
+
+Non-random enrollment. In the experimental group, breast reduction surgery based on 3D-printed degradable biological implants was received; In control group 1, traditional breast-conserving surgery was received; Traditional silicone prosthesis breast reconstruction was received in control Group 2.
+Breast Cancer|Breast Reconstruction
+PROCEDURE: Breast restoration surgery based on 3D printed degradable biological implants|PROCEDURE: Traditional breast-conserving surgery|PROCEDURE: Traditional silicone prosthesis breast reconstruction
+Postoperative cosmetic effects and quality of life, Patient satisfaction in the reconstruction module of the BREAST-Q scale is used for scoring, including: satisfaction with the breast, satisfaction with the surgical outcome, and satisfaction with the treatment. Among them, the breast satisfaction score is the main endpoint of this study. After the BREAST-Q questionnaire is completed, its score is calculated and called Q-SCORE. The specific assessment requires the aid of the Q-SCORE scoring software. The surgical satisfaction score, treatment satisfaction score, and health-related quality of life (QOL) score in the Breast-Q scale include: physical, psychosocial, and sexual health. For all dimensions, the higher the score reported by patients, the higher their satisfaction and the better their quality of life., One year after the operation
+Recurrence-free survival (RFS), Imaging examinations confirm recurrence at the ipsilateral breast, ipsilateral chest wall or skin, and surgical scar sites. The date of the earliest discovered imaging examination is defined as the "local recurrence date".
+
+When local recurrence is diagnosed through clinical history and physical examination findings, the date of clinical "local recurrence" is determined as the "local recurrence day".
+
+In cases where local recurrence is diagnosed through cytology or tissue biopsy pathology, the earliest date of cytology or tissue biopsy pathology examination shall be regarded as the "local recurrence date".
+
+The time starting from the day of the surgery and ending from the date of disease recurrence/death. In the case where neither death nor tumor recurrence was observed through follow-up, the final date for confirming no recurrence was reached.
+
+Only an increase in relevant tumor markers such as CEA cannot be diagnosed as recurrence., Three months, half a year, one year after the operation, and then once a year thereafter until ten years|Disease-free survival (DFS), The time starting from the day of the surgery and ending from the date of tumor recurrence (if the specific date of tumor recurrence is unknown, the date of death due to the tumor is taken as the ending point). In the case where neither death nor tumor recurrence is followed up and observed, the final date for confirming no recurrence (the final recurrence-free survival confirmation date: the last date among the outpatient visit date or the examination date) is used up., Three months, half a year, one year after the operation, and then once a year thereafter until ten years|Overall survival (OS), The time between taking the day of the surgery as the starting point and deaths caused by various reasons as the ending point (when no death occurs, the time of the last follow-up is the ending point). In the case of survival, until the final date of survival confirmation. In cases where follow-up and tracking are not possible, the period ends on the last date when survival is confirmed before follow-up and tracking cannot be conducted., Three months, half a year, one year after the operation, and then once a year thereafter until ten years|Surgical technique safety (incidence of complications), Intraoperative complications encompass, but are not restricted to, intraoperative bleeding, vital blood vessel injury, subcutaneous emphysema, etc. Their incidence is calculated by using the total number of patients undergoing surgical treatment as the denominator and the number of patients experiencing any intraoperative complication as the numerator.
+
+Postoperative complications include, but are not limited to, infection, flap or nipple-areola necrosis, abnormal sensation in the surgical site, and prosthesis-related complications. Similarly, the calculation of their occurrence rate involves taking the total number of surgically treated patients as the denominator and the number of patients with any postoperative complication as the numerator.
+
+Regarding the rate of unplanned secondary surgeries, it is determined by using the total number of patients who received surgical treatment as the denominator and the number of patients undergoing unplanned secondary surgeries as the numerator., Immediately after the operation, and at 3 days, 7 days, 10 days, 14 days, 1 month, 3 months, 6 months, 12 months and 24 months after the operation
+This is a prospective, multicenter, controlled clinical study divided into three groups. The experimental group receives breast reconstruction using 3D-printed biodegradable material breast implants, while the control groups undergo traditional breast-conserving surgery or breast reconstruction with silicone implants.
+
+After providing full informed consent, subjects voluntarily choose their surgical approach, sign the informed consent form, and enter the trial period after passing screening. The specific treatment protocols are as follows:
+
+1. Preoperative Patient-Reported Outcome Assessment:
+
+   The Chinese version of the BREAST-Q V2.0 scale is used to evaluate breast aesthetics, satisfaction, and quality of life, with calculation of the Q-score.
+2. Imaging Assessment:
+
+   Enrolled patients undergo preoperative thin-slice breast magnetic resonance imaging (MRI), including conventional plain scan (SE T1WI sequence) and 3D dynamic contrast-enhanced scanning (FLASH sequence) to obtain three-dimensional enhanced images.
+3. Surgical Simulation, Design, and 3D Printing of Fillers for the Experimental Group:
+
+   Three-dimensional model data of the breast tissue to be resected are acquired via MRI scanning. The Mimics software is used to extract models of diseased and healthy tissues for surgical planning. Subsequently, Geomagic and 3-matic software are employed to design the breast filler model, which is optimized for mechanical properties, cell ingrowth conditions, and degradation time requirements. Finally, the breast implant model is layer-by-layer printed using polycaprolactone (PCL) as the material via selective laser sintering (SLS) technology, followed by sterilization for standby use.
+4. Surgery:
+
+   Experimental Group: Tumors are resected through transverse arc, periareolar, or radial incisions to ensure negative margins, followed by axillary lymph node dissection or sentinel lymph node biopsy. The 3D-printed filler is then implanted and sutured in place.
+
+   Control Groups: Conventional breast-conserving surgery or nipple-areola-preserving subcutaneous gland resection combined with simultaneous breast reconstruction using implants is performed according to clinical routines. Incision types are selected by the surgeon. Tissue behind the nipple is sent for intraoperative pathological examination, and patch application is decided as needed.
+5. Postoperative Managemen:
+
+   Wound dressing changes are performed on schedule, and the occurrence of complications or adverse reactions (e.g., infection) is recorded.
+6. Postoperative Systemic Therapy:
+
+   Systemic chemotherapy or endocrine therapy is administered according to standard protocols. All patients in the experimental group receive local radiotherapy following the regimen for conventional breast-conserving surgery, including boost irradiation to the tumor bed. Radiotherapy for the control groups is decided according to current clinical guidelines and specifications.
+7. Postoperative Follow-Up Imaging and Assessments:
+
+   Ultrasound Examinations: Routine breast ultrasound is conducted weekly within the first postoperative month, then monthly thereafter, to record changes in blood supply in the filler area. Full-volume breast ultrasound is performed every 3 months.
+
+   MRI Examinations and PRO Assessments: MRI is conducted at 3, 6, 12, and 24 months postoperatively. Concurrently, the Chinese version of the BREAST-Q V2.0 scale is used to evaluate breast aesthetics, satisfaction, and quality of life, with calculation of the Q-score.
+8. Database Follow-Up:
+
+Telephone follow-ups are conducted once monthly, and in-person follow-ups are conducted once every 3 months.

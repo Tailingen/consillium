@@ -1,0 +1,28 @@
+Pembrolizumab and Lenvatinib for the Treatment of Serous Ovarian Cancer Patients
+This pilot clinical trial studies the effect of pembrolizumab and lenvatinib in treating patients with high-grade serous ovarian cancers. Immunotherapy with monoclonal antibodies such as pembrolizumab may help the body's immune system attack the cancer, and may interfere with the ability of tumor cells to grow and spread. Lenvatinib is an enzyme inhibitor that may stop the growth of cancer cells by blocking some of the enzymes needed for cell growth. Giving pembrolizumab and lenvatinib may help to control the disease and provide an effective therapeutic option for cancer.
+High Grade Fallopian Tube Serous Adenocarcinoma|High Grade Ovarian Serous Adenocarcinoma|Peritoneal High Grade Serous Adenocarcinoma|Recurrent High Grade Fallopian Tube Serous Adenocarcinoma|Recurrent High Grade Ovarian Serous Adenocarcinoma|Recurrent Primary Peritoneal High Grade Serous Adenocarcinoma
+DRUG: Lenvatinib|BIOLOGICAL: Pembrolizumab
+Change in the proportion of CD8+ and CD4+ cells that are PD1+CD38+ at the monotherapy phase in comparison to the combination therapy phase of treatment., through study completion, an average of 1 year|Change in the proportion of CD8+ and CD4+ cells that are Ki67+ at the monotherapy phase in comparison to the combination therapy phase of treatment., through study completion, an average of 1 year
+PRIMARY OBJECTIVE:
+
+I. To estimate both the individual and combined effects of pembrolizumab and lenvatinib on T-cell dysfunction and proliferation in the peritoneal tumor microenvironment (p-TME) in subjects with high-grade serous ovarian cancers with peritoneal metastasis.
+
+SECONDARY OBJECTIVES:
+
+I. To estimate the objective response rate to pembrolizumab and lenvatinib combination in subjects with platinum-resistant high-grade serous ovarian cancer.
+
+II. To estimate the individual and synergistic effects of pembrolizumab and lenvatinib on T-cell effector function, improved T cell memory establishment, and myeloid subpopulations in the p-TME.
+
+EXPLORATORY OBJECTIVES:
+
+I. To profile the dynamic changes in the immune phenotypes by dissecting the cell types and functional states of various immune cell subsets in the sequential p-TME samples using single cell ribonucleic acid sequencing (scRNAseq) and investigate changes in peritoneal immune (T-cells, B cells, natural killer \[NK\] cells, dendritic cells, neutrophils, tumor-associated macrophages \[TAMs\], myeloid-derived suppressor cells \[MDSCs\]) and non-immune cells (fibroblasts, tumor cells) to identify cell subsets that are associated with immune resistance and therapy response.
+
+II. To characterize T/B cell immune repertoire and their clonotypic phenotypes in a subset of responders and non-responders using single cell T-cell receptor (TCR)/B-cell receptor (BCR) sequencing (scTCR/BCRseq) simultaneously with scRNAseq.
+
+OUTLINE: Patients are randomized to 1 of 2 arms.
+
+COHORT A: Beginning cycle 0, patients receive pembrolizumab intravenously (IV) over 30 minutes on day 1. Beginning cycle 1, patients also receive lenvatinib orally (PO) once daily (QD) on days 1-21. Treatment repeats every 21 days for up to 35 cycles in the absence of disease progression or unacceptable toxicity.
+
+COHORT B: Beginning cycle 0, patients receive lenvatinib PO QD on days 1-21. Beginning cycle 1, patients also receive pembrolizumab IV over 30 minutes on day 1. Treatment repeats every 21 days for up to 35 cycles in the absence of disease progression or unacceptable toxicity.
+
+After completion of study treatment, patients are followed at 30 days, every 6 weeks for 1 year, then every 9 weeks thereafter. Patients with confirmed disease progression are followed every 12 weeks.

@@ -1,0 +1,56 @@
+Hepatic and Systemic Hemodynamic Modeling During Liver Surgery
+" Despite the medical and surgical progress of the last two decades, the selection of candidates for liver surgery remains based on old principles and insufficiently sensitive to fine-tune the gesture to patient-specific characteristics and make almost zero risks of postoperative liver failure (PLF) and death. It is therefore necessary to develop new tools that will make possible to predict the evolution of the postoperative portocaval gradient (difference of pressure between portal vein and vena cava), a well-known major risk factor for PLF. Hemodynamic modeling of the human liver during surgery will represent the purpose of this work in order to help the clinicians in their patient's selection and anticipation of postoperative risk.
+
+The aim is to develop and validate an hemodynamics mathematical model to predict the evolution of the portocaval gradient in three surgical situations of increasing complexity: portal modulation by embolization, hepatectomy, and small partial graft liver transplantation.
+
+The endpoints will be the estimation of the intraoperative post-procedural portocaval gradient and comparison of the estimated portocaval gradient with that measured at the end of the procedure. This pressure differential is performed before parietal closure, after surgery. "
+Liver Diseases|Liver Transplantation
+PROCEDURE: Partial hepatectomy (open approach)|PROCEDURE: liver transplantation|PROCEDURE: Portal vein embolization
+Estimation of the intraoperative portocaval post-procedural gradient., The pressure differential is performed before the parietal closure, after resection. The simulation is accurate if the difference with the measurement is ≤ 3 mmHg., measures performed during surgery.
+Prediction of the evolution of portal pressure after surgery, measures performed during surgery.|Prediction of the evolution of cardiac outpout after surgery, measures performed during surgery.|Prediction of the evolution of hepatic artery and portal vein flows after surgery, measures performed during surgery.
+"The surgical management of liver cancer is becoming increasingly complex, with resections often extensive, iterative and on pathological liver (cirrhosis or multi-chemotherapies). This attitude is made possible by a better selection and perioperative management of patients, as well as by the regenerative capacity of the liver. However, even if extensive resections are routinely performed, the limitation remains the risk of postoperative liver failure (PLF), especially in patients with chronic liver disease. Despite numerous known risk factors, some of which are avoidable, PLF and/or postoperative liver decompensation (ascites) remain frequent complications (incidence \> 5%) and PLF remains one of the main causes of postoperative death.
+
+The difficulty lies finally in the choice of a treatment adapted to the carcinological needs, with the balance between what is technically feasible and what will be tolerated on the functional and metabolic level. This balance is founded on a surgical evaluation based on objective elements (volumetry and biological tests in particular) and on the surgeon's experience. This estimate is imperfect, the proof being the mortality at 3 months after hepatectomies which is still high, 5 to 7% if considering all types of hepatectomies. It is obviously possible to further improve these results and the computer tool must find its place in the medical-surgical algorithm. It is already known that virtual (preoperative) 3D hepatic reconstructions are an important aid and lead to a decrease in postoperative morbidity and mortality but hemodynamic simulation could also be used as a decision-making tool.
+
+After hepatectomy, the imperative to maintain a satisfactory liver function is to preserve a sufficient residual parenchymal volume associated with an intrahepatic blood supply (inflow) adapted to the volume of the liver and to the splanchnic flow, and a sufficient effluent (outflow) to avoid any intrahepatic congestion. The post-resection portocaval gradient is one of the most relevant reflections of the hemodynamic conditions of a liver and the risk of PLF but it is only available intraoperatively, after the surgical procedure has been performed, and therefore cannot be used as a tool for selecting candidates for surgery. Currently, there are several decision algorithms to guide the surgical management of a patient, based on preoperative clinical or biological data (platelets, bilirubin, indocyanine green clearance, ascites, esophageal varices...). The pre-resection portocaval gradient ≥10 mmHg, measured or estimated non-invasively, allows selection of high-risk patients, but remains not very sensitive and specific, and does not prevent the occurrence of any PLF.
+
+It therefore remains very difficult for a given patient (especially cirrhotic) to accurately predict the risk of postoperative decompensation and some patients may sometimes be undertreated for fear of decompensation. In these patients, it is therefore a loss of chance.
+
+In liver transplantation, the same need for adequacy between the vascular bed and the portal flow is necessary, especially in case of a small graft or partial liver. In case of mismatch, a small for size syndrome, i.e. portal hypertension (PHT) and organ failure (PLF equivalent) may occur, thus endangering the graft and the patient. As with partial hepatectomies, prediction of the post-transplant portocaval gradient would help avoid small-for-size syndrome by fine-tuning the maximum mass portal flow not to be exceeded. Thus, a better matching of the donor/recipient pair could be proposed, especially for living donor or auxiliary transplants.
+
+Finally, portal embolization is a radiological procedure to prepare an organ for hepatectomy via atrophy on the embolized side and contralateral hypertrophy. Sometimes, especially in cirrhosis, portal embolization can be complicated by portal thrombosis, the main risk factor of which is the elevation of the portocaval gradient. Currently, there is no tool to anticipate this gradient and a 0D simulation would allow to avoid this risk by adjusting the embolized volume (seuential embolizations if needed).
+
+In the end, and despite the medical-surgical progress of the last two decades, the selection of candidates for liver surgery remains based on old and insufficiently sensitive principles to finely adapt the procedure to the specific patient characteristics and minimize the postoperative risk. The aim of this study is to help surgeons in their decisions thanks to modern simulation tools that have never been tested in humains.
+
+The proposed tool is a 0D model applied to liver surgery. It is based on ordinary differential equations: blood flows are represented by electric currents and blood pressures by electric voltages. It is called 0D because there is no space dimension in the equations.
+
+Simulations and predictions will require:
+
+* Collection of preoperative data (imaging, biology, clinical,...).
+* Collection of intraoperative pre-procedural and post-procedural data: hemodynamic and biological measurements.
+* Collection of postoperative data (immediate postoperative follow-up, current biology, anatomopathology).
+
+These pre-procedure data are used to adjust the model for each patient. Once the model is ""calibrated"" to the real conditions, the simulation of the intervention can be performed to predict the post-procedural data, and compare them to the real measurements, as well as correlate them to the post-procedural events.
+
+Scheme: in a first phase, use of preoperative and intraoperative data to improve the 0D model initially developed in animals and tested in a pilot study in humans. Depending on the final accuracy of the algorithm, a validation of the algorithm will then be performed in a second phase.
+
+Expected benefits for the participants: no benefit because no modification of the medical-surgical management based on the measurements performed. All the simulations will be performed after the surgery, in a retrospective way.
+
+Expected benefits for the society (future patients):
+
+* Improved criteria for selecting organs or patients who are candidates for hepatectomy/transplantation/interventional radiology to minimize the risk of complications or death.
+* Possible improvement of surgical techniques (vascular anastomoses and liver positioning).
+
+Procedure:
+
+All potentially eligible patients will be asked to participate in the study during a preoperative visit performed as part of the care. Eligible patients who have signed the consent form will have protocol procedures performed as part of their care, such as flow MRI and ultrasound-based hepatic and cardiac flowmetry.
+
+Protocol procedures will also be performed intraoperatively at the beginning and end of the procedure (hepatectomy, TH or portal embolization). Patients with hepatectomy or TH will have the same follow-up as the care at D7 and D30 post-procedure with ultrasound, CT scan, biological work-up and consultation with the surgeon.
+
+Patients with portal embolization will also have the protocol procedures at the time of hepatectomy which will take place 4 to 6 weeks after portal embolization. These patients will be followed up 1 month after hepatectomy, at D7 and D30 post hepatectomy.
+
+Statistical analysis:
+
+LSM is an exploratory predictive model development and feasibility study, with no a priori hypothesis to test; therefore, the number of subjects needed is based on feasible inclusions over 36 months at the participating center. The potential inclusion is 50 patients per year, or 150 patients over 3 years. The study has two phases: a development and improvement phase of the 0D algorithm and a validation phase. In the first phase, the algorithm is tested as it is developed on an increasingly large cohort. At each test of the algorithm, the concordance between the porto-cavity gradient (PCG) measured postoperatively and the simulated PCG is calculated using the intraclass correlation coefficient and the Bland \& Altman graph. The completion of the second phase depends on the results of the first phase.
+
+These numbers are consistent with the recruitment center being a high-volume referral center.

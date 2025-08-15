@@ -1,0 +1,53 @@
+Effect of Smart Phone App-based Human Coaching Program in Gastrectomized Patients
+This study is a single center, prospective, randomized controlled study. The aim of this study is to evaluate the effect of smart phone app-based human coaching program on QOL in patients who underwent gastrectomy for stage I gastric cancer. The hypothesis of this study is the patients who used smart phone app-based human coaching program for three months after surgery will have better QOL than patients who did not use it. The QOL will be assessed using EORTC QLQ C30 and STO22 at 3 months postoperatively. The secondary endpoints are QOL at 6 months postoperatively, 12 months postoperative, food intake, body composition, and nutritional indicators from blood test.
+Stage I Gastric Cancer
+BEHAVIORAL: smart phone app based human coaching program
+Eating restriction score (XEatR) at 1 month postoperatively, Eating resection scale is calculated according to the following equation. a. Add questionnaire items 41,42, 43 and 46 and divide this sum by the number of items (4): EatR = (Q41+Q42+Q43+Q46)/4 b. Carry out a linear transformation to convert to a 1-100 scale: XEatR = (EatR-1)\*100/3 The 4 items are belong to European Organization for Research and Treatment of Cancer Quality of Life Questionnaire (EORTC QLQ) STO22. Each item has a value among 1, 2, 3, and 4 according to the answer and the scale score has a value ranging 0 (minimum) to 100 (maximum). Higher scores mean having more symptom and worse quality of life., 1 month postoperatively|Eating restriction score (XEatR) at 3 months postoperatively, Eating resection scale is calcuated according to the following equation.
+
+1. Add questionnaire items 41,42, 43 and 46 and divide this sum by the number of items (4):
+
+   EatR = (Q41+Q42+Q43+Q46)/4
+2. Carry out a linear transformation to convert to a 1-100 scale:
+
+XEatR = (EatR-1)\*100/3
+
+The 4 items are belong to European Organization for Research and Treatment of Cancer Quality of Life Questionnaire (EORTC QLQ) STO22.
+
+Each item has a value among 1, 2, 3, and 4 according to the answer and the scale score has a value ranging 0 (minimum) to 100 (maximum).
+
+Higher scores mean having more symptom and worse quality of life., 3 months postoperatively
+Eating restriction score (XEatR) at 6 months postoperatively, Eating resection scale is calcuated according to the following equation.
+
+1. Add questionnaire items 41,42, 43 and 46 and divide this sum by the number of items (4):
+
+   EatR = (Q41+Q42+Q43+Q46)/4
+2. Carry out a linear transformation to convert to a 1-100 scale:
+
+XEatR = (EatR-1)\*100/3
+
+The 4 items are belong to European Organization for Research and Treatment of Cancer Quality of Life Questionnaire (EORTC QLQ) STO22.
+
+Each item has a value among 1, 2, 3, and 4 according to the answer and the scale score has a value ranging 0 (minimum) to 100 (maximum).
+
+Higher scores mean having more symptom and worse quality of life., 6 months postoperatively|Eating restriction score (XEatR) at 12 months postoperatively, Eating resection scale is calcuated according to the following equation.
+
+1. Add questionnaire items 41,42, 43 and 46 and divide this sum by the number of items (4):
+
+   EatR = (Q41+Q42+Q43+Q46)/4
+2. Carry out a linear transformation to convert to a 1-100 scale:
+
+XEatR = (EatR-1)\*100/3
+
+The 4 items are belong to European Organization for Research and Treatment of Cancer Quality of Life Questionnaire (EORTC QLQ) STO22.
+
+Each item has a value among 1, 2, 3, and 4 according to the answer and the scale score has a value ranging 0 (minimum) to 100 (maximum).
+
+Higher scores mean having more symptom and worse quality of life., 12 months postoperatively|food intake, difference of food amount between discharge day and postoperative 1 month, discharge day: up to 3 weeks postoperatively,1 month postoperatively|Body weight, patient's weight in kilograms, 3 months postoperatively|serum albumin, g/dL, 3 months postoperatively|serum protein, g/dL, 3 months postoperatively|serum cholesterol, g/dL, 3 months postoperatively|seum hemoglobin, g/dL, 3 months postoperatively
+\< Patient enrollment\>
+
+* 90 patients in each group, a total of 180 patients
+* 1:1 Randomization using permutated mixed block randomization
+* stratified by surgical extent (distal gastrectomy vs. total gastrectomy)
+* using nQuery program and web-based management system
+* Before discharge, patients are informed how to use the smart phone app and registered to the app.
+* Patients use the app after discharge until 3 months postoperatively.

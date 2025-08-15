@@ -1,0 +1,44 @@
+ctDNA Monitoring to Predict the Efficacy of TNT for Rectal Cancer
+This is a prospective observational study with three primary objectives:
+
+Objective 1: Evaluate the detection rate and changes in circulating tumor DNA (ctDNA) levels in blood samples from colorectal cancer patients before, during, and after total neoadjuvant therapy (TNT).
+
+Determine the detection rate and change of CtDNA in blood samples of cancer patients before, during, and after TNT then assess changes in ctDNA expression within the study population during treatment.
+
+* Determine the ctDNA positivity rate before treatment.
+* Determine the ctDNA positivity rate during TNT.
+* Determine the ctDNA positivity rate after TNT and assess ctDNA level changes during treatment.
+
+Objective 2: Investigate the relationship between ctDNA expression and MRI/CT scan imaging with the pathological complete response (pCR) to neoadjuvant therapy :
+
+* Correlation between ctDNA detection and pCR/TRG/NAR score. Calculate the Positive Prediction Value - PPV, Negative Prediction Value - NPV of ctDNA,
+* Correlation between MRI/CT scan imaging and pCR. Calculate the PPV and NPV of MRI/CT scan
+* Combination of ctDNA detection and MRI/CT scan imaging to predict pCR. Calculate the PPV and NPV of the combined markers.
+
+Objective 3: Evaluate the relationship between post-TNT ctDNA expression and disease-free survival in colorectal cancer patients.
+Rectal Cancer|Rectal Cancer Stage II|Rectal Cancer Stage III
+To investigate the detection rate and change of ctDNA in blood samples of rectal cancer patients during total neoadjuvant therapy, Determine the detection rate and change of CtDNA in blood samples of cancer patients before, during and after total neoadjuvant therapy and assess changes in ctDNA expression within the study population during treatment.
+
+* Determine the ctDNA positivity rate before treatment.
+* Determine the ctDNA positivity rate during total neoadjuvant therapy TNT.
+* Determine the ctDNA positivity rate after TNT and assess ctDNA level changes during treatment., 12 months|To investigate the relationship between ctDNA expression and MRI/CT scan imaging with pCR response in total neoadjuvant therapy (TNT), * To investigate the prediction value of ctDNA to pathological complete response (pCR) in TNT: Calculate the percentage PPV, NPV of ctDNA to pCR
+* To investigate the prediction value of MRI/CT results to pCR in TNT: Calculate the percentage PPV, NPV of MRI/CT scan (RECIST 1.1) to pCR
+* To investigate the prediction value of MRI/CT results combined ctDNA results to pCR in TNT: Calculate the percentage PPV, NPV of MRI/CT combined ctDNA to pCR, 6 months|Evaluate the relationship between post-TNT ctDNA expression and disease-free survival in colorectal cancer patients in 2 years, Create a Kaplan-Meier curve to estimate the disease-free survival of two years according to the after-treatment ctDNA status of patients., 24 months
+This is a prospective observational study conducted at the Medical Genetics Institute (MGI), in collaboration with 3 hospitals (175 Military Hospital, Nguyen Tri Phuong Hospital, and 108 Military Central Hospital). Participants must meet all inclusion criteria and no exclusion criteria (detailed in the eligibility section).
+
+Sample Collection
+
+* 10 mL of peripheral blood (Streck tubes) is collected for ctDNA analysis at 3 time points: pre-TNT (at diagnosis), middle of treatment (after chemoradiotherapy or after chemotherapy), and post-TNT (before surgery).
+* 6-8 slides (6um thickness/slide) of FFPE biopsy tumor samples before treatment
+* 6-8 slides (6um thickness/slide) of FFPE tumor samples collected after surgery. This sample is used to compare the mutational profiles with the corresponding biopsy samples.
+
+Clinical results for collection
+
+* Age, sex, medical history
+* Number, size, and stage (TNM) of tumor
+* MRI and/or CT scan images and reports at pre-treatment, mid-treatment, and end-treatment (before surgery)
+* Histopathological evaluation of biopsy and surgery tissues, and conclusion of pathological response
+
+  * TNM classification, pCR conclusion
+  * TRG conclusion
+* Disease-free survival follow-up for 2 years

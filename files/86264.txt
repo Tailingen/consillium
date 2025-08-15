@@ -1,0 +1,53 @@
+BNC105P Combination Study in Partially Platinum Sensitive Ovarian Cancer Patients
+This phase I/II trial will determine the recommended dose and activity of BNC105P for patients with partially platinum sensitive ovarian cancer in first or second relapse.
+Ovarian Cancer
+DRUG: Carboplatin|DRUG: Gemcitabine|DRUG: Carboplatin|DRUG: Gemcitabine|DRUG: BNC105P
+Phase I: Determine Maximum Tolerated Dose for Patients, To determine the recommended dose of BNC105P given with gemcitabine and carboplatin (maximum dose of BNC105P with no more than 1 DLT in 6 phase I participants), 12 months|Phase II: Determine Objective Response Rate in Patients, To determine the objective response rate (ORR) in those with evaluable disease (ORR = CR, PR according to RECIST 1.1 and/or GCIG CA125 criteria) (percentage of those with measurable disease achieving CR or PR according to RECIST 1.1 and/or GCIG CA125 criteria), 12 months
+Progression Free and Overall Survival Distribution, To determine the progression free and overall survival distribution rates in this patient population, 12 months|Patient Side Effects and Tolerability, To determine the adverse event rates (Numbers (%) with G2-5 AE (NCI CTCAE v4.0), 12 months|Patient Quality of Life Benefits, To determine the effects on aspects of health related quality of life (HRQL measured with FOSI and MOST), including symptom benefit (Numbers (%) with significant symptom benefit), 12 months|Assessment of BNC105P Pharmacokinetics to Determine Interaction with Carboplatin and Gemcitabine, Plasma will be collected to assess BNC105P pharmacokinetics on days 2 and 9 of cycle 1 only. Results will be compared with data from previous trials of BNC105P to determine their consistency and to establish if there is any major interaction with carboplatin and gemcitabine., 12 months|Association of Biomarkers, Predictions and Outcomes, To determine the associations between baseline biomarkers, ORR, PFS, OS and AE, 12 months
+OUTLINE: This is a multi-center study.
+
+BNC105P is a novel vascular disrupting agent (VDA) with promising preclinical activity combined with platinum or gemcitabine. The results of standard chemotherapy with carboplatin and gemcitabine for ovarian cancer relapsing within 12 months of an initial platinum-based regimen require improvement. This trial will determine the recommended dose and activity of BNC105P administered with carboplatin and gemcitabine.
+
+PHASE I:
+
+This trial uses a standard 3+3 design for allocating participants to a starting dose level in Phase I.
+
+If dose level 1 is deemed to have acceptable toxicity then dose levels 2a and 2b can be opened at the same time. Dose level 3 will only open if both dose levels 2a and 2b are deemed to have acceptable toxicity.
+
+The underlying assumptions for determining the recommended doses for the triple combination of carboplatin, gemcitabine and BNC105P are that the likely minimum doses required of each agent are carboplatin AUC 4, gemcitabine 800 mg/m2 and BNC105P 12 mg/m2. This corresponds to dose level 1.
+
+PHASE II 1:1 RANDOMIZATION:
+
+Carboplatin AUC 4 on day 1, gemcitabine 800 or 1000 mg/m2 on days 1 and 8 of a 21 day cycle for a maximum of 6 cycles.
+
+OR
+
+Carboplatin AUC 4 on day 1, gemcitabine 800 or 1000 mg/m2 on days 1 and day 8 with dose of BNC105P as determined in phase I, on days 2 and 9 of a 21 day cycle for a maximum of 6 cycles, followed by single agent maintenance BNC105P 16 mg/m2 for a maximum of 6 additional cycles
+
+Minimum follow up for 12 months
+
+ECOG Performance Status for Phase I: 0-1; ECOG Performance Status for Phase II: 0-2
+
+Life Expectancy: Less than 12 weeks
+
+Hematopoietic (both phases):
+
+* Platelet count ≥ 100 x 109/L
+* ANC ≥ 1.5 x 109/L
+* Haemoglobin \> 9g/dl (can be post transfusion)
+* INR ≤ 1.5 x ULN
+
+Hepatic (both phases):
+
+* Total Bilirubin ≤ 1.5 x the upper limit of normal (ULN)
+* ALT ≤ 2.5 x ULN
+
+Renal (both phases):
+
+* Creatinine clearance ≥ 55 mL/min according to Cockcroft Gault formula
+* If Calculated GFR is 50 - 54 mL/min an isotopic GFR may be performed. If the isotopic GFR is \> 55ml/min, the patient will be eligible for the study but the calculated GFR will be used for dose calculation.
+
+Cardiovascular (both phases):
+
+* Normal left ventricular ejection fraction (LVEF), i.e. ≥ 50% on Gated Heart Pool Scan, or fractional shortening on echocardiogram ≥ institutional LLN performed within 2 months prior to randomisation
+* Corrected QTc \< 470 msec on ECG performed within 4 weeks prior to randomisation.

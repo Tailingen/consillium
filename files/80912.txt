@@ -1,0 +1,49 @@
+Combination Chemotherapy, Radiation Therapy, and/or Surgery in Treating Patients With High-Risk Kidney Tumors
+This phase II trial is studying how well combination chemotherapy, radiation therapy, and/or surgery work in treating patients with high-risk kidney tumors. Drugs used in chemotherapy work in different ways to stop the growth of tumor cells, either by killing the cells or by stopping them from dividing. Giving more than one drug (combination chemotherapy) may kill more tumor cells. Radiation therapy uses high-energy x-rays to kill tumor cells. Giving combination chemotherapy together with radiation therapy before surgery may make the tumor smaller and reduce the amount of normal tissue that needs to be removed.
+Childhood Renal Cell Carcinoma|Clear Cell Renal Cell Carcinoma|Clear Cell Sarcoma of the Kidney|Papillary Renal Cell Carcinoma|Rhabdoid Tumor of the Kidney|Stage I Renal Cell Cancer|Stage I Renal Wilms Tumor|Stage II Renal Cell Cancer|Stage II Renal Wilms Tumor|Stage III Renal Cell Cancer|Stage III Renal Wilms Tumor|Stage IV Renal Cell Cancer|Stage IV Renal Wilms Tumor
+DRUG: Doxorubicin Hydrochloride|DRUG: Irinotecan Hydrochloride|PROCEDURE: Conventional Surgery|DRUG: Cyclophosphamide|DRUG: Etoposide|DRUG: Carboplatin|BIOLOGICAL: Dactinomycin|DRUG: Vincristine Sulfate|RADIATION: Radiation Therapy|OTHER: Laboratory Biomarker Analysis
+Event-Free Survival of Patients With Diffuse Anaplastic Wilms' Tumor (DAWT), Compare the outcome of patients treated with alternating CyCE/VDCy chemotherapy (with or without vincristine/irinotecan cycles) to a fixed outcome based on that seen for similar patients treated with NWTS-5 (NCT00002610)., 4 years|Long-term Survival of Patients With Stage I-IV Malignant Rhabdoid Tumors, The outcome of these patients will be compared with a fixed outcome based on that seen for similar patients treated with NWTS-5 regimen (NCT00002610)., 4 years|Response Rate, Criteria for response assessed by three-dimensional measurement: Complete Response (CR), Disappearance of all index lesions and non-index lesions. No new lesions; Partial Response (PR), At least a 65% decrease in the sum of the volumes of the index lesions. No new lesions; Response rate (RR) = CR+PR of patients who received window therapy., Up to 2 months|Event Free Survival Probability, Event-free survival will be informally compared to that seem for similar patients treated on NWTS-5 (NCT00002610)., 4 years|Toxicity Rate, Percentage of participants with Grade 4 cardiac toxicities, Grade 4 Sinusoidal Obstruction Syndrome (SOS), and treatment-related deaths determined using CTCAE v4., Up to 4 years
+Number of Patients With INI1 Mutations in Renal and Extrarenal Malignant Rhabdoid Tumor by Fluorescent in Situ Hybridization, At baseline|Frequency of TP53 Mutations, At baseline
+PRIMARY OBJECTIVES:
+
+I. Evaluate whether a treatment regimen containing cyclophosphamide, carboplatin, and etoposide alternating with vincristine, doxorubicin hydrochloride, and cyclophosphamide (regimen UH-1) improves the event-free and overall survival of patients with diffuse anaplastic Wilms' tumor (DAWT) as compared to historical controls.
+
+II. Evaluate, in a phase II "window" study, the antitumor activity of a combination of vincristine and protracted-schedule irinotecan hydrochloride in patients with metastatic DAWT.
+
+III. Evaluate whether regimen UH-1 improves the event-free and overall survival of patients with malignant rhabdoid tumor (MRT) as compared to historical controls.
+
+IV. Maintain the excellent event-free survival of patients with stage I clear cell sarcoma of the kidney (CCSK) without the use of abdominal irradiation.
+
+SECONDARY OBJECTIVES:
+
+I. Describe the outcomes of patients with stage I DAWT or stages I-III focal anaplastic Wilms' tumor (FAWT) treated with vincristine, dactinomycin, doxorubicin hydrochloride, and flank radiation.
+
+II. Describe the outcomes of patients with stage IV FAWT or stage IV CCSK treated with regimen UH-1.
+
+III. Describe event-free and overall survival of children and adolescents with localized renal cell carcinoma (RCC) (including patients with local lymph node involvement) treated with surgical resection without adjuvant therapy.
+
+IV. Describe response rate, event-free survival, and overall survival of patients with unresectable or distantly metastatic RCC treated according to institutional preference.
+
+V. Correlate histologic and molecular cytogenetic findings with outcome in pediatric RCC.
+
+VI. Evaluate the frequency of germline and inherited INI1 mutations in renal and extrarenal MRT and correlate the presence of detectable INI1 mutation with clinical outcome.
+
+VII. Determine the frequency of TP53 mutations in anaplastic Wilms' tumor and correlate the presence of detectable TP53 mutation with clinical outcome.
+
+OUTLINE: This is a multicenter study. Patients are assigned to 1 of 6 treatment regimens according to tumor histology, stage of disease, and response to treatment.
+
+SURGERY (renal cell carcinoma \[RCC\]): Patients with completely resectable stage I-IV RCC undergo surgical resection. Patients with incompletely resectable stage III-IV RCC undergo treatment as per physician's choice.
+
+REGIMEN UH-1 (stage II-III or stage IV \[with no measurable disease\] diffuse anaplastic Wilms' tumor \[DAWT\], stage I-IV malignant rhabdoid tumor \[MRT\], stage IV focal anaplastic Wilms' tumor \[FAWT\], or stage IV clear cell sarcoma of the kidney \[CCSK\]): Patients receive vincristine IV on day 1 in weeks 1-3, 10-12, 13-15, 22-24, and 28-30; doxorubicin hydrochloride IV over 15 minutes on day 1 and cyclophosphamide (CPM2) IV over 15-30 minutes on day 1 in weeks 1, 10, 13, 22, and 28; and cyclophosphamide (at lower doses \[CPM1\]) IV over 1 hour and etoposide IV over 1 hour on days 1-4 and carboplatin IV over 1 hour on day 1 in weeks 4, 7, 16, 19, and 25. Patients whose primary tumors were initially resected undergo radiotherapy once daily 5 days a week for 4-5½ weeks beginning on day 1 in week 1. Patients with delayed primary tumor resection undergo radiotherapy beginning on day 1 in week 13. If the primary tumor was not previously resected, patients undergo resection, if feasible, in week 13. Patients with unresectable CCSK receive no further study therapy.
+
+IRINOTECAN/VINCRISTINE WINDOW THERAPY\* (stage IV DAWT with measurable disease at diagnosis): Patients receive vincristine IV on day 1 and irinotecan hydrochloride IV over 30 minutes on days 1-5 in weeks 1 and 2. Patients with progressive disease (PD) are treated with regimen UH-1. Patients with stable disease (SD), partial response (PR), or complete response (CR) receive another course of irinotecan hydrochloride/vincristine window therapy beginning on day 22. After the second course, patients with SD or PD are treated with regimen UH-1 and patients with PR or CR are treated with regimen UH-2.
+
+NOTE: \*Patients who are eligible for but who are unwilling to receive window therapy, receive therapy on regimen UH-1.
+
+REGIMEN UH-2 (DAWT with CR/PR to irinotecan hydrochloride/vincristine window therapy): Patients receive vincristine on day 1 in weeks 1-3, 10, 11, 16-21, 25, 26, 28-30, and 34-36 and doxorubicin hydrochloride and CPM2 as in regimen UH-1 in weeks 1, 16, 19, 28, and 34. Patients also receive CPM1, etoposide, and carboplatin as in regimen UH-1 in weeks 4, 7, 13, 22, and 31 and irinotecan hydrochloride IV over 30 minutes on days 1-5 in weeks 10, 11, 25, and 26. Patients whose primary tumors were initially resected undergo radiotherapy as in regimen UH-1 beginning on day 1 in week 1. Patients with delayed primary tumor resection undergo radiotherapy as in regimen UH-1 beginning on day 1 in week 7. If the primary tumor was not previously resected, patients undergo resection, if feasible, in week 7.
+
+REGIMEN I (stage I-III CCSK): Patients receive vincristine IV on day 1 in weeks 1-3, 5-9, 8-9, 11-14, 19, and 25; doxorubicin hydrochloride IV over 15 minutes on day 1 and cyclophosphamide IV over 1 hour on days 1-3 in weeks 1, 7, 13, 19, and 25; and cyclophosphamide IV and etoposide IV on days 1-5 in weeks 4, 10, 16, and 22. Patients whose primary tumors were initially resected (except those with stage I CCSK) undergo radiotherapy as in regimen UH-1 beginning on day 1 in week 1. Patients with delayed primary tumor resection undergo radiotherapy as in regimen UH-1 beginning on day 1 in week 13. If the primary tumor was not previously resected, patients undergo resection, if feasible, in week 13.
+
+REGIMEN DD-4A (stage I DAWT or stages I-III FAWT): Patients receive dactinomycin IV over 1-5 minutes on day 1 in weeks 1, 7, 13, 19, and 25; vincristine IV on day 1 in weeks 1-10, 13, 16, 19, 22, and 25; and doxorubicin hydrochloride IV over 15 minutes on day 1 in weeks 4,10, 16, and 22. Patients whose primary tumors were initially resected undergo radiotherapy as in regimen UH-1 beginning on day 1 in week 1. Patients with delayed primary tumor resection undergo radiotherapy as in regimen UH-1 beginning on day 1 in week 13. If the primary tumor was not previously resected, patients undergo resection, if feasible, in week 13. Treatment continues in the absence of disease progression or unacceptable toxicity.
+
+After completion of study treatment, patients are followed periodically for at least 3 years.

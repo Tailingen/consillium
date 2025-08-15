@@ -1,0 +1,50 @@
+S0221 Adjuvant Doxorubicin, Cyclophosphamide, and Paclitaxel in Treating Patients With Breast Cancer
+RATIONALE: Drugs used in chemotherapy, such as doxorubicin, cyclophosphamide, and paclitaxel, use different ways to stop tumor cells from dividing so they stop growing or die. Combining more than one drug and giving them after surgery may kill any remaining tumor cells. It is not yet known which combination chemotherapy regimen is more effective in treating resected breast cancer.
+
+PURPOSE: This randomized phase III trial is comparing 2 different regimens of combination chemotherapy to see how well they work in treating patients who have undergone surgery for stage I, stage II, or stage III breast cancer.
+Breast Cancer
+BIOLOGICAL: pegfilgrastim|DRUG: AC regimen|DRUG: cyclophosphamide|DRUG: doxorubicin hydrochloride|DRUG: paclitaxel
+Disease-free Survival, Disease-free survival (DFS) defined as time from registration (randomization assignment) to first instance of disease recurrence (local, regional, or distant), new breast primary tumor, or death as a result of any cause. The results are entered as disease free survival at year 5., every 6 months (annually for mammograms) for 5 years|Overall Survival, Overall survival defined as time from registration to death as result of any cause. Results were entered as overall survival rate at year 5., Every 6 months for 5 years
+Number of Patients With Gr 3 Through 5 Adverse Events That Are Related to Study Drugs, Adverse Events (AEs) are reported by CTCAE Version 3.0. Only adverse events that are possibly, probably or definitely related to study drug are reported., Toxicity assessment was evaluated every 4 weeks while on protocol therapy.|Disease-free Survival Comparison Between 2 Treatments in HR-positive, HER-2 Negative Group, Disease-free survival (DFS) defined as time from registration (randomization assignment) to first instance of disease recurrence (local, regional, or distant), new breast primary tumor, or death as a result of any cause. The results are entered as disease free survival at year 5., Biomarkers were measured by gene expression analysis before study entry. DFS were measured every 6 months for 5 years|Overall Survival Comparison Between 2 Treatments in HR-positive, HER-2 Negative Group, Overall survival defined as time from registration to death as result of any cause. Results were entered as overall survival rate at year 5., Biomarkers were measured by gene expression analysis before study entry. OS was measured every 6 months for 5 years|Disease-free Survival Comparison Between 2 Treatments in HR-negative, HER-2 Negative Group, Disease-free survival (DFS) defined as time from registration (randomization assignment) to first instance of disease recurrence (local, regional, or distant), new breast primary tumor, or death as a result of any cause. The results are entered as disease free survival at year 5., Biomarkers were measured by gene expression analysis before study entry. DFS was measured every 6 months for 5 years|Overall Survival Comparison Between 2 Treatments in HR-negative, HER-2 Negative Group, Overall survival defined as time from registration to death as result of any cause. Results were entered as overall survival rate at year 5., Biomarkers were measured by gene expression analysis before study entry. OS was measured every 6 months for 5 years|Disease-free Survival Comparison Between 2 Treatments in HER2-positive Group, Disease-free survival (DFS) defined as time from registration (randomization assignment) to first instance of disease recurrence (local, regional, or distant), new breast primary tumor, or death as a result of any cause. The results are entered as disease free survival at year 5., Biomarkers were measured by gene expression analysis before study entry. DFS was measured every 6 months for 5 years|Overall Survival Comparison Between 2 Treatments in HER-2 Positive Group., Overall survival defined as time from registration to death as result of any cause. Results were entered as overall survival rate at year 5., Biomarkers were measured by gene expression analysis before study entry. OS was measured every 6 months for 5 years
+OBJECTIVES:
+
+* Compare the disease-free survival of patients with node-positive or high-risk node-negative breast cancer treated with 2 different schedules of adjuvant doxorubicin, cyclophosphamide, and paclitaxel.
+* Compare the overall survival of patients treated with these regimens.
+* Compare the toxic effects of these regimens in these patients.
+* Correlate outcome with putative prognostic markers in patients treated with these regimens.
+
+OUTLINE: This is a randomized, multicenter study. Patients are randomized to 1 of 2 treatment arms (arms V and VI) (arms I-IV closed 11/10/10).
+
+* Arm I: (closed 11/10/10) Patients receive doxorubicin IV and cyclophosphamide IV on day 1 and pegfilgrastim subcutaneously (SC) on day 2 or filgrastim (G-CSF) SC on days 3-10. Treatment repeats every 14 days for 6 courses.
+
+Beginning 2 weeks after completion of doxorubicin and cyclophosphamide, patients receive paclitaxel IV over 3 hours on day 1 and pegfilgrastim SC on day 2. Treatment repeats every 14 days for 6 courses.
+
+* Arm II: (closed 11/10/10) Patients receive doxorubicin IV on day 1, oral cyclophosphamide on days 1-7, and G-CSF SC on days 2-7. Treatment repeats every 7 days for 15 courses.
+
+Beginning 2 weeks after completion of cyclophosphamide, patients receive paclitaxel and pegfilgrastim as in arm I.
+
+* Arm III: (closed 11/10/10) Patients receive doxorubicin, cyclophosphamide, and pegfilgrastim or G-CSF as in arm I.
+
+Beginning 2 weeks after completion of doxorubicin and cyclophosphamide, patients receive paclitaxel IV over 1 hour on day 1. Treatment repeats every 7 days for 12 courses.
+
+* Arm IV: (closed 11/10/10) Patients receive doxorubicin, cyclophosphamide, and G-CSF as in arm II.
+
+Beginning 2 weeks after completion of cyclophosphamide, patients receive paclitaxel as in arm III.
+
+* Arm V: Patients receive doxorubicin IV and cyclophosphamide IV on day 1 and pegfilgrastim SC on day 2. Treatment repeats every 14 days for 4 courses. Patients receive doxorubicin IV and cyclophosphamide IV on day 1 and pegfilgrastim SC on day 2. Treatment repeats every 14 days for 6 courses.
+
+Beginning 2 weeks after completion of doxorubicin and cyclophosphamide, patients receive paclitaxel IV over 3 hours on day 1 and pegfilgrastim SC on day 2. Treatment repeats every 14 days for 6 courses.
+
+* Arm VI: Patients receive doxorubicin, cyclophosphamide, and pegfilgrastim as in arm V.
+
+Beginning 2 weeks after completion of doxorubicin and cyclophosphamide, patients receive paclitaxel IV over 1 hour on day 1. Treatment repeats every 7 days for 12 courses.
+
+In all arms, treatment continues in the absence of disease progression or unacceptable toxicity.
+
+In all arms patients with HER2/neu-positive tumors also receive trastuzumab (Herceptin®) weekly or every 3 weeks beginning concurrently with paclitaxel OR 3 months after the last dose of paclitaxel and continuing for up to 52 weeks.
+
+In all arms, patients with estrogen-receptor or progesterone-receptor positive tumors receive hormonal therapy beginning within 28 days of the completion of adjuvant chemotherapy or radiotherapy (if given).
+
+After finishing study treatment patients are followed up every 6 months for 5 years and then once a year for up to 15 years.
+
+PROJECTED ACCRUAL: A total of 3,250 patients will be accrued for this study.

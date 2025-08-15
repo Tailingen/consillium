@@ -1,0 +1,162 @@
+Adding Targeted Drugs to Usual Chemotherapy for Adults With Newly Diagnosed T-Cell Acute Lymphoblastic Leukemia (T-ALL) and T-Cell Lymphoblastic Lymphoma (T-LBL)
+This phase II trial tests the safety and effectiveness of giving chemotherapy with or without venetoclax and/or navitoclax for the treatment of patients with newly diagnosed T-cell acute lymphoblastic leukemia (T-ALL) or T-cell lymphoblastic lymphoma (T-LBL). Chemotherapy drugs work in different ways to stop the growth of cancer cells, either by killing the cells, by stopping them from dividing, or by stopping them from spreading. Venetoclax and navitoclax are in a class of medications called B-cell lymphoma-2 (BCL-2) inhibitors. They may stop the growth of cancer cells by blocking Bcl-2, a protein needed for cancer cell survival. Giving chemotherapy with or without venetoclax and/or navitoclax may be effective treatments for patients with newly diagnosed T-ALL or T-LBL.
+T Acute Lymphoblastic Leukemia|T Lymphoblastic Lymphoma
+PROCEDURE: Biospecimen Collection|PROCEDURE: Bone Marrow Aspiration|PROCEDURE: Bone Marrow Biopsy|DRUG: Calaspargase Pegol|PROCEDURE: Computed Tomography|DRUG: Cyclophosphamide|DRUG: Cytarabine|DRUG: Daunorubicin|DRUG: Dexamethasone|DRUG: Doxorubicin|PROCEDURE: Echocardiography|PROCEDURE: Lumbar Puncture|DRUG: Mercaptopurine|DRUG: Methotrexate|PROCEDURE: Multigated Acquisition Scan|BIOLOGICAL: Navitoclax|DRUG: Nelarabine|DRUG: Pegaspargase|PROCEDURE: Positron Emission Tomography|DRUG: Thioguanine|DRUG: Venetoclax|DRUG: Vincristine|PROCEDURE: X-Ray Imaging
+Incidence of adverse events (Cohorts 1, 2 and 3), National Cancer Institute (NCI) Common Terminology Criteria for Adverse Events will be used to determine severity of toxicity., Up to 10 years|Undetectable minimal residual disease (MRD) (Cohort 1), There will be three primary analyses, each comparing an experimental arm with the shared control arm using Fisher's exact test with a one-sided alpha of 10%. All eligible randomized participants will be used in the efficacy comparison., At day 29 following induction|Percent of participants with detectable disease in the bone marrow (Cohort 2), Binomial estimates will be reported along with exact 95% confidence intervals., At diagnosis and at days 29 and 57|Undetectable MRD (Cohorts 1 and 3), Binomial estimates will be reported along with exact 95% confidence intervals., At days 29 and 78
+Rate of complete remission (CR), Response rates in each arm and cohort will be calculated and presented with exact binomial 95% confidence intervals., End of consolidation therapy|Rate of complete remission with incomplete count recovery (CRi) with and without MRD, Response rates in each arm and cohort will be calculated and presented with exact binomial 95% confidence intervals., End of consolidation therapy|Event free survival, Will be estimated using the method of Kaplan-Meier; randomized arms within Cohort 1 will be compared using the stratified log rank test., From the date of initial registration on study until the first of the following events: death from any cause, relapse from MRD-negative remission, or completion of protocol therapy without documentation of MRD-negative remission, up to 10 years|Relapse free survival, Will be estimated using the method of Kaplan-Meier; randomized arms within Cohort 1 will be compared using the stratified log rank test., From the date the participant first achieves CR or CRi until relapse from CR/CRi or death from any cause, up to 10 years|Overall survival, Will be estimated using the method of Kaplan-Meier; randomized arms within Cohort 1 will be compared using the stratified log rank test., From the day of registration to death from any cause, up to 10 years|Incidence of adverse events, National Cancer Institute (NCI) Common Terminology Criteria for Adverse Events will be used to determine severity of toxicity., Up to 10 years|Serum asparaginase activity levels, Of patients with reduced doses Peg-asparaginase in participants age \> 30 years and/or participants with at least one of the following risk factors for toxicity: Body mass index (BMI) \> 30, history of liver disease, history of diabetes mellitus type 2., At day 8 and day 15 of induction, day 19 and 26 of consolidation and day 6 and 13 of interim maintenance|Incidence of adverse events associated with reduced doses of Peg-asparaginase, Participants age \>30 years and/or in participants with at least one of risk factors for toxicity., Up to 10 years
+Rates of MRD, With centrally evaluated flow cytometry. Binomial estimates will be reported along with exact 95% confidence intervals., At day 29 (all cohorts), day 78 (cohorts 1 and 3), and day 57 (cohort 2)|Percentage of participants with ETP and non-ETP immunophenotype, Binomial estimates will be reported along with exact 95% confidence intervals., Diagnosis|Association of CR/CRi, event-free survival, relapse-free survival, and overall survival with early thymic precursor (ETP) and non-ETP immunophenotype, Response rates will be compared using Fisher's exact test.
+
+Survival outcomes will be compared using log-rank tests., Up to 10 years
+PRIMARY OBJECTIVES:
+
+I. To evaluate the safety of venetoclax + navitoclax + AALL0434 chemotherapy backbone (arm 4) before initiating randomization. (Cohort 1) II. To compare rates of undetectable measurable residual disease (MRD) at day 29 following induction therapy of AALL0434 chemotherapy (arm 1) versus: 1) venetoclax + AALL0434 chemotherapy backbone (arm 2); 2) navitoclax + AALL0434 chemotherapy backbone (arm 3) and; 3) venetoclax and navitoclax + AALL0434 chemotherapy backbone (arm 4) (3 primary comparisons). (Cohort 1) III. To evaluate the safety of AALL0434 chemotherapy backbone (without nelarabine). (Cohort 2) IV. If the AALL0434 chemotherapy backbone is found to be safe, then to evaluate the safety of the backbone + venetoclax and navitoclax. (Cohort 2) V. To estimate the percent of participants with detectable disease in the bone marrow as measured by multiparameter flow cytometry at diagnosis. (Cohort 2) VI. To estimate rates of undetectable MRD at day 29 following induction therapy within and across treatment arms in cohort 2. (Cohort 2) VII. To evaluate the safety of modified AALL0434 chemotherapy backbone (including nelarabine). (Cohort 3) VIII. If the AALL0434 chemotherapy backbone is found to be safe, then to evaluate the safety of the backbone + venetoclax and navitoclax. (Cohort 3) IX. To estimate rates of undetectable MRD at day 29 within and across treatment arms in cohort 3. (Cohort 3)
+
+SECONDARY OBJECTIVES:
+
+I. To estimate the response rates of complete remission (CR), complete remission with incomplete count recovery (CRi), both with and without MRD, event-free survival, relapse-free survival, and overall survival across participant cohorts and within randomized regimens in cohort 1.
+
+II. To estimate the frequency and severity of toxicities across participant cohorts and within randomized regimens in cohort 1.
+
+III. Within cohorts 1-3, to evaluate the association of CR, CRi, event-free survival, relapse-free survival, and overall survival with the T-cell immunologic subtype of early T-cell precursor (ETP) lymphoblastic leukemia, defined as CD3+, CD7+, CD8-, CD1a-, and one or more myeloid/stem cell markers CD34, CD117, HLA-DR, CD13, CD33, CD11b, and CD65, but negative for myeloperoxidase (MPO).
+
+IV. Within cohorts 1-3, to evaluate the association of endpoints (CR, CRi, event-free survival, relapse-free survival, and overall survival) with pretreatment characteristics (including age, gender, white blood cell count, central nervous system \[CNS\] leukemia at diagnosis, immunophenotype, karyotype).
+
+V. Across cohorts 1-3 where laboratory data is available (laboratory evaluation is not mandated in the study), to evaluate serum asparaginase activity levels at day 8 and day 15 of Induction, at day 19 and day 26 of consolidation, and day 6 and 13 of interim maintenance courses, of reduced doses peg-asparaginase in participants age \> 30 years and/or participants with at least one of the following risk factors for toxicity: body mass index (BMI) \> 30, history of liver disease, history of diabetes mellitus type 2. To compare asparaginase activity levels between the different arms of cohort 1.
+
+VI. Across cohorts 1-3, to estimate the frequency and severity of toxicities associated with reduced doses of peg-asparaginase in participants age \> 30 years and/or in participants with at least one of risk factors for toxicity as noted above.
+
+TRANSLATIONAL MEDICINE PRIMARY OBJECTIVE:
+
+I. Across all cohorts, to estimate rates of MRD (day 29) with centrally evaluated flow cytometry.
+
+TRANSLATIONAL MEDICINE SECONDARY OBJECTIVES:
+
+I. Across all cohorts, to estimate rates of MRD (day 78 for cohorts 1 \& 3, day 57 for cohort 2) with centrally evaluated flow cytometry.
+
+II. Within and across cohorts 1-3, to estimate the percentage of participants with ETP and non-ETP immunophenotype.
+
+III. Within and across cohorts 1-3, to evaluate the association of CR/CRi, event-free survival, relapse-free survival, and overall survival with ETP and non-ETP immunophenotype.
+
+BANKING OBJECTIVE:
+
+I. Across cohorts 1-3, to bank specimens for future correlative studies.
+
+OUTLINE:
+
+SAFETY PHASE: Patients in Cohort 1 are assigned to Arm 4. Patients in Cohort 2 are assigned to Arm 5 or Arm 6. Patients in Cohort 3 are assigned to Arm 7 or Arm 8.
+
+RANDOMIZED PHASE: Patients in Cohort 1 are randomized to Arms 1, 2, 3, or 4.
+
+ARM 1:
+
+INDUCTION: Patients receive cytarabine intrathecally (IT) on day 1, vincristine intravenously (IV) and daunorubicin IV on days 1, 8, 15 and 22, dexamethasone orally (PO) twice per day (BID) on days 1-7 and 15-21, peg-L-asparaginase IV and calaspargase pegol-MKNL IV on day 4, and methotrexate IT on days 8 and 29 (days 15 and 22 for patients with central nervous system \[CNS 3\] disease). Treatment continues for one 4-week cycle (weeks 1-4) in the absence of disease progression or unacceptable toxicity. Patients then undergo disease assessments.
+
+CONSOLIDATION: Patients receive nelarabine IV on days 1-5 and 43- 47, cyclophosphamide IV on days 8 and 50, cytarabine IV or subcutaneously (SC) on days 8-11, 15-18, 50-53 and 57-60, mercaptopurine PO on days 8-21 and 50-63, vincristine IV on days 22, 29, 64, and 71, peg-L-asparaginase IV and calaspargase pegol-MKNL IV on days 22 and 64 and methotrexate IT on days 15, 22, 57 and 64 (NOTE: Patients with CNS 3 disease omit methotrexate on day 22). Treatment continues for one 11-week cycle (weeks 6-16) in the absence of disease progression or unacceptable toxicity. Patients then undergo disease assessments. Patients who are MRD negative proceed, patients who are MRD positive are removed from the study.
+
+INTERIM MAINTENANCE: Patients receive methotrexate IV and vincristine IV on days 1, 11, 21, 31 and 41, peg-L-asparaginase IV and calaspargase pegol-MKNL IV on days 2 and 22 and methotrexate IT on days 1 and 31. Treatment continues for one 8-week cycle (weeks 17-24) in the absence of disease progression or unacceptable toxicity.
+
+DELAYED INTENSIFICATION: Patients receive dexamethasone PO BID on days 1-7, and 15-21, doxorubicin IV on days 1, 8 and 15, peg-L-asparaginase IV and calaspargase pegol-MKNL IV on days 4 and 50, nelarabine IV on days 29-33, cyclophosphamide IV on day 36, cytarabine IV or SC on days 36-39 and 43-46, thioguanine PO on days 36-49, vincristine IV on days 1, 8, 15, and 50 and methotrexate IT on days 1, 36, and 43. Treatment continues for one 9-week cycle (weeks 25-33) in the absence of disease progression or unacceptable toxicity.
+
+MAINTENANCE: Patients receive vincristine IV on days 1 and 57 of each cycle, dexamethasone PO BID on days 1-5, and 57-61 of each cycle, mercaptopurine PO on days 1-28 and 36-84 of each cycle, methotrexate PO on days 8, 15, 22, 36, 43, 50, 57, 64, 71, and 78 of each cycle, methotrexate IT on day 1 of each cycle, and nelarabine IV on days 29-33 of cycles 1-3. Cycles repeat every 84 days for a total of 2 years from the start of Interim Maintenance in the absence of disease progression or unacceptable toxicity.
+
+Patients undergo x-ray and EKG at screening and echocardiogram or mitigated acquisition scan (MUGA), computed tomography (CT), positron emission tomography (PET), bone marrow aspiration, bone marrow biopsy, lumbar puncture and blood sample collection throughout the study.
+
+ARM 2:
+
+INDUCTION: Patients receive cytarabine IT on day 1, venetoclax PO on days 1-14, vincristine IV and daunorubicin IV on days 1,8,15 and 22, dexamethasone PO BID on days 1-7 and 15-21, peg-L-asparaginase IV on day 4 and methotrexate IT on days 8 and 29 (days 15 and 22 for patients with CNS 3 disease). Treatment continues for one 4-week cycle (weeks 1-4) in the absence of disease progression or unacceptable toxicity. Patients then undergo disease assessments.
+
+CONSOLIDATION: Patients receive nelarabine IV on days 1-5 and 43 -47, cyclophosphamide IV on days 8 and 50, cytarabine IV on days 8-11, 15-18, 50-53 and 57-60, mercaptopurine PO on days 8-21 and 50-63, vincristine IV on days 22, 29, 64, and 71, peg-L-asparaginase IV and calaspargase pegol-MKNL IV on days 22 and 64, methotrexate IT on days 15, 22, 57 and 64 (NOTE: Patients with CNS 3 disease omit methotrexate on day 22), and venetoclax PO on days 8-21. Treatment continues for one 11-week cycle (weeks 6-16) in the absence of disease progression or unacceptable toxicity. Patients then undergo disease assessments. Patients who are MRD negative proceed, patients who are MRD positive are removed from the study.
+
+INTERIM MAINTENANCE: Patients receive methotrexate IV and vincristine IV on days 1, 11, 21, 31 and 41, peg-L-asparaginase IV and calaspargase pegol-MKNL IV on days 2 and 22 and methotrexate IT on days 1 and 31. Treatment continues for one 8-week cycle (weeks 17-24) in the absence of disease progression or unacceptable toxicity.
+
+DELAYED INTENSIFICATION: Patients receive dexamethasone PO BID on days 1-7, and 15-21, doxorubicin IV on days 1, 8 and 15, peg-L-asparaginase IV and calaspargase pegol-MKNL IV on days 4 and 50, nelarabine IV on days 29-33, cyclophosphamide IV on day 36, cytarabine IV on days 36-39 and 43-46, thioguanine PO on days 36-49, vincristine IV on days 1, 8, 15, and 50 and methotrexate IT on days 1, 36, and 43. Treatment continues for one 9-week cycle (weeks 25-33) in the absence of disease progression or unacceptable toxicity.
+
+MAINTENANCE: Patients receive vincristine IV on days 1 and 57 of each cycle, dexamethasone PO BID on days 1-5, and 57-61 of each cycle, mercaptopurine PO on days 1-28 and 36-84, methotrexate PO on days 8, 15, 22, 36, 43, 50, 57, 64, 71, and 78 of each cycle, methotrexate IT on day 1 of each cycle, and nelarabine IV on days 29-33 of cycles 1-3. Cycles repeat every 12 weeks (84 days) for a total of 2 years from the start of Interim Maintenance in the absence of disease progression or unacceptable toxicity.
+
+Patients undergo x-ray and EKG at screening and echocardiogram or MUGA, CT, PET, bone marrow aspiration, bone marrow biopsy, lumbar puncture and blood sample collection throughout the study.
+
+ARM 3:
+
+INDUCTION: Patients receive cytarabine IT on day 1, vincristine IV and daunorubicin IV on days 1, 8, 15 and 22, dexamethasone PO BID on days 1-7 and 15-21, peg-L-asparaginase IV and calaspargase pegol-MKNL IV on day 4, navitoclax PO on days 1-14 and methotrexate IT on day 8 and 29 (days 15 and 22 for patients with CNS 3 disease). Treatment continues for one 4-week cycle (weeks 1-4) in the absence of disease progression or unacceptable toxicity. Patients then undergo disease assessments.
+
+CONSOLIDATION: Patients receive nelarabine IV on days 1-5 and 43 -47, cyclophosphamide IV on days 8 and 50, cytarabine IV on days 8-11, 15-18, 50-53 and 57-60, mercaptopurine PO on days 8-21 and 50-63, vincristine IV on days 22, 29, 64, and 71, peg-L-asparaginase IV and calaspargase pegol-MKNL IV on days 22 and 64, navitoclax PO on days 8-21 and methotrexate IT on days 15, 22, 57 and 64 (NOTE: Patients with CNS 3 disease omit methotrexate on day 22). Treatment continues for one 11-week cycle (weeks 6-16) in the absence of disease progression or unacceptable toxicity. Patients then undergo disease assessments. Patients who are MRD negative proceed, patients who are MRD positive are removed from the study.
+
+INTERIM MAINTENANCE: Patients receive methotrexate IV and vincristine IV on days 1, 11, 21, 31 and 41, peg-L-asparaginase IV and calaspargase pegol-MKNL IV on days 2 and 22 and methotrexate IT on days 1 and 31. Treatment continues for one 8-week cycle (weeks 17-24) in the absence of disease progression or unacceptable toxicity.
+
+DELAYED INTENSIFICATION: Patients receive dexamethasone PO BID on days 1-7, and 15-21, doxorubicin IV on days 1, 8 and 15, peg-L-asparaginase IV and calaspargase pegol-MKNL IV on days 4 and 50, nelarabine IV on days 29-33, cyclophosphamide IV on day 36, cytarabine IV on days 36-39 and 43-46, thioguanine PO on days 36-49, vincristine IV on days 1, 8, 15, and 50 and methotrexate IT on days 1, 36, and 43. Treatment continues for one 9-week cycle (weeks 25-33) in the absence of disease progression or unacceptable toxicity.
+
+MAINTENANCE: Patients receive vincristine IV on days 1 and 57 of each cycle, dexamethasone PO BID on days 1-5, and 57-61 of each cycle, mercaptopurine PO on days 1-28 and 36-84 of each cycle, methotrexate PO on days 8, 15, 22, 36, 43, 50, 57, 64, 71, and 78 of each cycle, methotrexate IT on day 1 of each cycle, and nelarabine IV on days 29-33 of cycles 1-3. Cycles repeat every 12 weeks (84 days) for a total of 2 years from the start of Interim Maintenance in the absence of disease progression or unacceptable toxicity.
+
+Patients undergo x-ray and EKG at screening and echocardiogram or MUGA, CT, PET, bone marrow aspiration, bone marrow biopsy, lumbar puncture and blood sample collection throughout the study.
+
+ARM 4:
+
+INDUCTION: Patients receive cytarabine IT on day 1, vincristine IV and daunorubicin IV on days 1, 8, 15 and 22, dexamethasone PO BID on days 1-7 and 15-21, peg-L-asparaginase and calaspargase pegol-MKNL IV on day 4, venetoclax PO and navitoclax PO on days 1-14 and methotrexate IT on day 8 and 29 (days 15 and 22 for patients with CNS 3 disease). Treatment continues for one 4-week cycle (weeks 1-4) in the absence of disease progression or unacceptable toxicity. Patients then undergo disease assessments.
+
+CONSOLIDATION: Patients receive nelarabine IV on days 1-5 and 43 -47, cyclophosphamide IV on days 8 and 50, cytarabine IV on days 8-11, 15-18, 50-53 and 57-60, mercaptopurine PO on days 8-21 and 50-63, vincristine IV on days 22, 29, 64, and 71, peg-L-asparaginase IV and calaspargase pegol-MKNL IV on days 22 and 64, navitoclax PO and venetoclax PO on days 8-21 and methotrexate IT on days 15, 22, 57 and 64 (NOTE: Patients with CNS 3 disease omit methotrexate on day 22). Treatment continues for one 11-week cycle (weeks 6-16) in the absence of disease progression or unacceptable toxicity. Patients then undergo disease assessments. Patients who are MRD negative proceed, patients who are MRD positive are removed from the study.
+
+INTERIM MAINTENANCE: Patients receive methotrexate IV and vincristine IV on days 1, 11, 21, 31 and 41, peg-L-asparaginase IV and calaspargase pegol-MKNL IV on days 2 and 22 and methotrexate IT on days 1 and 31. Treatment continues for one 8-week cycle (weeks 17-24) in the absence of disease progression or unacceptable toxicity.
+
+DELAYED INTENSIFICATION: Patients receive dexamethasone PO BID on days 1-7, and 15-21, doxorubicin IV on days 1, 8 and 15, peg-L-asparaginase IV and calaspargase pegol-MKNL IV on days 4 and 50, nelarabine IV on days 29-33, cyclophosphamide IV on day 36, cytarabine IV on days 36-39 and 43-46, thioguanine PO on days 36-49, vincristine IV on days 1, 8, 15, and 50 and methotrexate IT on days 1, 36, and 43. Treatment continues for one 9-week cycle (weeks 25-33) in the absence of disease progression or unacceptable toxicity.
+
+MAINTENANCE: Patients receive vincristine IV on days 1 and 57 of each cycle, dexamethasone PO BID on days 1-5, and 57-61 of each cycle, mercaptopurine PO on days 1-28 and 36-84 of each cycle, methotrexate PO on days 8, 15, 22, 36, 43, 50, 57, 64, 71, and 78 of each cycle, methotrexate IT on day 1 of each cycle, and nelarabine IV on days 29-33 of cycles 1-3. Cycles repeat every 12 weeks (84 days) for a total of 2 years from the start of Interim Maintenance in the absence of disease progression or unacceptable toxicity.
+
+Patients undergo x-ray and EKG at screening and echocardiogram or MUGA, CT, PET, bone marrow aspiration, bone marrow biopsy, lumbar puncture and blood sample collection throughout the study.
+
+ARM 5:
+
+INDUCTION: Patients receive cytarabine IT on day 1, vincristine IV and daunorubicin IV on days 1, 8, 15 and 22, dexamethasone PO BID on days 1-7 and 15-21, peg-L-asparaginase and calaspargase pegol-MKNL IV on day 4 and methotrexate IT on day 8 and 29 (days 15 and 22 for patients with CNS 3 disease). Treatment continues for one 4-week cycle (weeks 1-4) in the absence of disease progression or unacceptable toxicity. Patients then undergo disease assessments.
+
+CONSOLIDATION: Patients receive cyclophosphamide IV on days 1 and 29, cytarabine IV or SC on days 1-4, 8-11, 29-33, and 36-39, mercaptopurine PO on days 1-14 and 29-42, vincristine IV on days 15, 22, 43, and 50, peg-L-asparaginase IV and calaspargase pegol-MKNL IV on days 15 and 43, and methotrexate IT on days 1, 8, 15 and 22 (NOTE: Patients with CNS 3 disease omit methotrexate on days 15 and 22). Treatment continues for one 8-week cycle (weeks 6-13) in the absence of disease progression or unacceptable toxicity. Patients then undergo disease assessments. Patients who are MRD negative proceed, patients who are MRD positive are removed from the study.
+
+INTERIM MAINTENANCE: Patients receive methotrexate IV and vincristine IV on days 1, 11, 21, 31 and 41, peg-L-asparaginase IV and calaspargase pegol-MKNL IV on days 2 and 22 and methotrexate IT on days 1 and 31. Treatment continues for one 8-week cycle (weeks 14-21) in the absence of disease progression or unacceptable toxicity.
+
+DELAYED INTENSIFICATION: Patients receive dexamethasone PO BID on days 1-7and 15-21, doxorubicin IV on days 1, 8 and 15, peg-L-asparaginase IV and calaspargase pegol-MKNL IV on days 4 and 43, cyclophosphamide IV on day 29, cytarabine IV or SC on days 29-32 and 36-39, thioguanine PO on days 29-42, vincristine IV on days 1, 8, 15, 43 and 50, and methotrexate IT on days 1, 29, and 36. Treatment continues for one 9-week cycle (weeks 22-30) in the absence of disease progression or unacceptable toxicity.
+
+MAINTENANCE: Patients receive vincristine IV on days 1, 29 and 57 of each cycle, dexamethasone PO BID on days 1-5, 29-33, and 57-61 of each cycle, mercaptopurine PO on days 1-84 of each cycle, methotrexate PO on days 8, 15, 22, 36, 43, 50, 57, 64, 71, and 78 of each cycle, and methotrexate IT on day 1 of each cycle. Cycles repeat every 12 weeks (84 days) for a total of 2 years from the start of Interim Maintenance in the absence of disease progression or unacceptable toxicity.
+
+Patients undergo x-ray and EKG at screening and echocardiogram or MUGA, CT, PET, bone marrow aspiration, bone marrow biopsy, lumbar puncture and blood sample collection throughout the study.
+
+ARM 6:
+
+INDUCTION: Patients receive cytarabine IT on day 1, vincristine IV and daunorubicin IV on days 1, 8, 15 and 22, dexamethasone PO BID on days 1-7 and 15-21, peg-L-asparaginase and calaspargase pegol-MKNL IV on day 4, venetoclax PO and navitoclax PO on days 1-14 and methotrexate IT on day 8 and 29 (days 15 and 22 for patients with CNS 3 disease). Treatment continues for one 4-week cycle (weeks 1-4) in the absence of disease progression or unacceptable toxicity. Patients then undergo disease assessments.
+
+CONSOLIDATION: Patients receive cyclophosphamide IV on days 1 and 29, cytarabine IV on days 1-4, 8-11, 29-32, and 36-39, mercaptopurine PO on days 1-14 and 29-42, vincristine IV on days 15, 22, 43 and 50, peg-L-asparaginase IV and calaspargase pegol-MKNL IV on days 15 and 43, navitoclax PO and venetoclax PO on days 1-14 and methotrexate IT on days 1, 8, 15 and 22. Treatment continues for one 8-week cycle (weeks 6-13) in the absence of disease progression or unacceptable toxicity. Patients then undergo disease assessments. Patients who are MRD negative proceed, patients who are MRD positive are removed from the study.
+
+INTERIM MAINTENANCE: Patients receive methotrexate IV and vincristine IV on days 1, 11, 21, 31 and 41, peg-L-asparaginase IV and calaspargase pegol-MKNL IV on days 2 and 22 and methotrexate IT on days 1 and 31. Treatment continues for one 8-week cycle (weeks 14-21) in the absence of disease progression or unacceptable toxicity.
+
+DELAYED INTENSIFICATION: Patients receive dexamethasone PO BID on days 1-7, and 15-21, doxorubicin IV on days 1, 8 and 15, peg-L-asparaginase IV and calaspargase pegol-MKNL IV on days 4 and 43, cyclophosphamide IV on day 29, cytarabine IV on days 29-32, and 36-39, thioguanine PO on days 29-42, vincristine IV on days 1, 8, 15, 43 and 50 and methotrexate IT on days 1, 29, and 36. Treatment continues for one 9-week cycle (weeks 22-30) in the absence of disease progression or unacceptable toxicity.
+
+MAINTENANCE: Patients receive vincristine IV on days 1, 29 and 57 of each cycle, dexamethasone PO BID on days 1-5, 29-33, and 57-61 of each cycle, mercaptopurine PO on days 1-84 of each cycle, methotrexate PO on days 8, 15, 22, 36, 43, 50, 57, 64, 71, and 78 of each cycle, and methotrexate IT on day 1 of each cycle. Cycles repeat every 12 weeks (84 days) for a total of 2 years from the start of Interim Maintenance in the absence of disease progression or unacceptable toxicity.
+
+Patients undergo x-ray and EKG at screening and echocardiogram or MUGA, CT, PET, bone marrow aspiration, bone marrow biopsy, lumbar puncture and blood sample collection throughout the study.
+
+ARM 7:
+
+INDUCTION: Patients receive cytarabine IT on day 1, vincristine IV and daunorubicin IV on days 1, 8, 15 and 22, dexamethasone PO BID on days 1-7, peg-L-asparaginase IV on day 15, and methotrexate IT on day 8 and 29 (days 15 and 22 for patients with CNS 3 disease). Treatment continues for one 4-week cycle (weeks 1-4) in the absence of disease progression or unacceptable toxicity. Patients then undergo disease assessments.
+
+CONSOLIDATION: Patients receive nelarabine IV on days 1-5 and 43-47, cyclophosphamide IV on days 8 and 50, cytarabine IV or SC on days 8-11, 15-18, 50-53, and 57-60, mercaptopurine PO on days 8-21, and 50-63, vincristine IV on days 22, 29, 64, and 71, peg-L-asparaginase IV on days 22 and 64, and methotrexate IT on days 15, 22, 57 and 64 (NOTE: Patients with CNS 3 disease omit methotrexate on day 22). Treatment continues for one 11-week cycle (weeks 6-16) in the absence of disease progression or unacceptable toxicity. Patients then undergo disease assessments. Patients who are MRD negative proceed, patients who are MRD positive are removed from the study.
+
+INTERIM MAINTENANCE: Patients receive methotrexate IV and vincristine IV on days 1, 11, 21, 31 and 41, peg-L-asparaginase IV on days 2 and 22 and methotrexate IT on days 1 and 31. Treatment continues for one 8-week cycle (weeks 17-24) in the absence of disease progression or unacceptable toxicity.
+
+DELAYED INTENSIFICATION: Patients receive dexamethasone PO BID on days 1-7, doxorubicin IV on days 1, 8 and 15, peg-L-asparaginase IV, on days 4 and 50, nelarabine IV on days 29-33, cyclophosphamide IV on day 36, cytarabine IV or SC on days 36-39, and 43-46, thioguanine PO on days 36-49, vincristine IV on days 1, 8, 15, and 50 and methotrexate IT on days 1, 36, and 43. Treatment continues for one 9-week cycle (weeks 25-33) in the absence of disease progression or unacceptable toxicity.
+
+MAINTENANCE: Patients receive vincristine IV on days 1 and 57 of each cycle, dexamethasone PO BID on days 1-5, and 57-61 of each cycle, mercaptopurine PO on days 1-28 and 36-84 of each cycle, methotrexate PO on days 8, 15, 22, 36, 43, 50, 57, 64, 71, and 78 of each cycle, methotrexate IT on day 1 of each cycle, and nelarabine IV on days 29-33 of cycles 1-3. Cycles repeat every 12-weeks (84 days) for a total of 2 years from the start of Interim Maintenance in the absence of disease progression or unacceptable toxicity.
+
+Patients undergo x-ray and EKG at screening and echocardiogram or MUGA, CT, PET, bone marrow aspiration, bone marrow biopsy, lumbar puncture and blood sample collection throughout the study.
+
+ARM 8:
+
+INDUCTION: Patients receive cytarabine IT on day 1, vincristine IV and daunorubicin IV on days 1, 8, 15 and 22, dexamethasone PO BID on days 1-7, peg-L-asparaginase on day 15, venetoclax PO and navitoclax PO in days 1-14, and methotrexate IT on day 8 and 29 (days 15 and 22 for patients with CNS 3 disease). Treatment continues for one 4-week cycle (weeks 1-4) in the absence of disease progression or unacceptable toxicity. Patients then undergo disease assessments.
+
+CONSOLIDATION: Patients receive nelarabine IV on days 1-5 and 43-47, cyclophosphamide IV on days 8 and 50, cytarabine IV on days 8-11, 15-18, 50-53, and 57-60, mercaptopurine PO on days 8-21, and 50-63, vincristine IV on days 22, 29, 64, and 71, peg-L-asparaginase IV on days 22 and 64, venetoclax PO and navitoclax PO on days 8-21, and methotrexate IT on days 15, 22, 57 and 64 (NOTE: Patients with CNS 3 disease omit methotrexate on day 22). Treatment continues for one 11-week cycle (weeks 6-16) in the absence of disease progression or unacceptable toxicity. Patients then undergo disease assessments. Patients who are MRD negative proceed, patients who are MRD positive are removed from the study.
+
+INTERIM MAINTENANCE: Patients receive methotrexate IV and vincristine IV on days 1, 11, 21, 31 and 41, peg-L-asparaginase IV on days 2 and 22 and methotrexate IT on days 1 and 31. Treatment continues for one 8-week cycle (weeks 17-24) in the absence of disease progression or unacceptable toxicity.
+
+DELAYED INTENSIFICATION: Patients receive dexamethasone PO BID on days 1-7, doxorubicin IV on days 1, 8 and 15, peg-L-asparaginase IV, on days 4 and 50, nelarabine IV on days 29-33, cyclophosphamide IV on day 36, cytarabine IV or SC on days 36-39, and 43-46, thioguanine PO on days 36-49, vincristine IV on days 1, 8, 15, and 50 and methotrexate IT on days 1, 36, and 43. Treatment continues for one 9-week cycle (weeks 25-33) in the absence of disease progression or unacceptable toxicity.
+
+MAINTENANCE: Patients receive vincristine IV on days 1 and 57 of each cycle, dexamethasone PO BID on days 1-5, and 57-61 of each cycle, mercaptopurine PO on days 1-28 and 36-84 of each cycle, methotrexate PO on days 8, 15, 22, 36, 43, 50, 57, 64, 71, and 78 of each cycle, methotrexate IT on day 1 of each cycle, and nelarabine IV on days 29-33 of cycles 1-3. Cycles repeat every 84 days for a total of 2 years from the start of interim maintenance in the absence of disease progression or unacceptable toxicity.
+
+Patients undergo x-ray and EKG at screening and echocardiogram or MUGA, CT, PET, bone marrow aspiration, bone marrow biopsy, lumbar puncture and blood sample collection throughout the study.
+
+After completion of study treatment, patients are followed up periodically for up to 10 years after registration.

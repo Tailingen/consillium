@@ -1,0 +1,23 @@
+Azacitidine in Treating Patients With Previously Treated Advanced Non-Small Cell Lung Cancer
+This phase II clinical trial is studying how well azacitidine works in treating patients with previously treated advanced non-small cell lung cancer. Drugs used in chemotherapy, such as azacitidine, work in different ways to stop the growth of tumor cells, either by killing the cells or by stopping them from dividing.
+Recurrent Lung Non-Small Cell Carcinoma|Stage IV Lung Non-Small Cell Cancer AJCC v7
+DRUG: Azacitidine|OTHER: Diagnostic Laboratory Biomarker Analysis|OTHER: Pharmacological Study
+DNA Hypomethylation and Re-expression of Silenced Tumor Suppressor Genes When Stratified for Low or High Expression of mir29, The change in mean methylation of the genes between the patients with a low mir29 and a high mir29 expression will be evaluated by a two-sample t-test. Secondary analyses include a multivariate regression where all 5 changes in methylation will be regressed on mir29 expression (low vs. high) and adjusted for patient demographic and clinical attributes at baseline., Up to 12 weeks after completion of study treatment
+Overall Survival, Analyzed using a Kaplan-Meier methods., From the day of initial treatment until death (from any cause), assessed up to 12 weeks after completion of study treatment|Progression-free Survival, Analyzed using a Kaplan-Meier methods., From the day of initial treatment until documented disease progression (per PET) or death, assessed up to 12 weeks after completion of study treatment
+PRIMARY OBJECTIVES:
+
+I. To determine the ability of 5-azacytidine to cause DNA hypomethylation and re-expression of silenced tumor suppressor genes when stratified for high or low expression of mir29a, b, and c.
+
+SECONDARY OBJECTIVES:
+
+I. To compare the molecular studies (mir29 expression and tumor suppressor gene methylation) between archival tissue, fresh biopsy pre-treatment samples, and post-treatment fresh samples.
+
+II. To determine the overall response rate by CT (RECIST 1.1 criteria) and PET (EORTC PET response criteria), PFS, and OS of patients treated with azacytidine in the second- or third-line setting.
+
+III. To correlate the blood microRNA profiles (and changes in microRNA profiles) with response to azacytidine.
+
+OUTLINE:
+
+Patients receive azacitidine subcutaneously on days 1-7. Courses repeat every 28 days in the absence of disease progression or unacceptable toxicity.
+
+Patients undergo tissue and blood sample collection at baseline and periodically during study treatment for correlative studies. After completion of study treatment, patients are followed up for 12 weeks.

@@ -1,0 +1,35 @@
+Testing the Addition of Radiation Therapy to Immunotherapy for Merkel Cell Carcinoma
+This randomized phase II trial studies how well pembrolizumab with or without stereotactic body radiation therapy works in treating patients with Merkel cell cancer that has spread to other places in the body (advanced). Immunotherapy with monoclonal antibodies, such as pembrolizumab, may help the body's immune system attack the cancer, and may interfere with the ability of tumor cells to grow and spread. Stereotactic body radiation therapy uses special equipment to position a patient and deliver radiation to tumors with high precision. This method can kill tumor cells with fewer doses over a shorter period and cause less damage to normal tissue. Giving pembrolizumab with stereotactic body radiation therapy may work better in treating patients with Merkel cell cancer.
+Advanced Merkel Cell Carcinoma|Clinical Stage III Cutaneous Merkel Cell Carcinoma AJCC v8|Clinical Stage IV Cutaneous Merkel Cell Carcinoma AJCC v8|Metastatic Merkel Cell Carcinoma|Pathologic Stage III Cutaneous Merkel Cell Carcinoma AJCC v8|Pathologic Stage IIIA Cutaneous Merkel Cell Carcinoma AJCC v8|Pathologic Stage IIIB Cutaneous Merkel Cell Carcinoma AJCC v8|Pathologic Stage IV Cutaneous Merkel Cell Carcinoma AJCC v8
+BIOLOGICAL: Pembrolizumab|RADIATION: Stereotactic Body Radiation Therapy
+Progression-free Survival (PFS), Will compare PFS in non-radiated lesion(s) of patients receiving either (a) stereotactic body radiation therapy (SBRT) + pembrolizumab compared to (b) pembrolizumab alone in patients with advanced Merkel cell carcinoma. Kaplan- Meier curves will be constructed and median PFS times will be calculated for each arm. Progression is defined using Response Evaluation Criteria In Solid Tumors Criteria (RECIST v1.0), as a 20% increase in the sum of the longest diameter of target lesions, or a measurable increase in a non-target lesion, or the appearance of new lesions, From randomization to either disease progression or death (without progression), assessed up to 3 years
+PFS Among All Response Evaluation Criteria in Solid Tumors Lesions, Same as the primary endpoint, but includes both irradiated and non-radiated lesions. It is a time to event endpoint and will be evaluated using the Kaplan- Meier method. Median PFS times will be calculated for each arm and a cox proportional hazards model will be constructed to determine if there is a PFS benefit for patients receiving SBRT + pembrolizumab compared to pembrolizumab alone., From randomization to either evidence of disease progression or death (without evidence of progression), assessed up to 3 years|Overall Response Rate, Defined as partial response (PR) on 2 consecutive evaluations. Response rates will be calculated and compared across treatment arms utilizing a chi-square test., Up to 3 years|Progression-free Survival, The rates of success will be calculated and compared across treatment arms utilizing a chi-square test., At 6 months|Incidence of Adverse Events, Graded according to National Cancer Institute's Common Terminology Criteria for Adverse Events, version 5.0. Maximum grade adverse events will be summarized by treatment arm in a tabular setting., Up to 3 months|PFS for Lesions Chosen for Radiation Prior to Randomization, The protocol irradiated tumors are considered to be controlled if they have no evidence of progression. No evidence of progression is defined as complete response, PR, or stable disease. Local control of the protocol-irradiated tumor will be described using the Kaplan-Meier technique., Up to 3 years|Delivered Radiation Dose Using Cone-beam Computed Tomography (CT) Images, Radiation doses will be summarized descriptively and compared to the planned dose., Up to 3 years
+PRIMARY OBJECTIVE:
+
+I. To describe the progression-free survival (PFS) of stereotactic body radiation therapy (SBRT) + pembrolizumab (MK-3475) compared to pembrolizumab (MK-3475) alone in advanced/metastatic Merkel cell carcinoma (MCC) patients.
+
+SECONDARY OBJECTIVES:
+
+I. To describe the PFS of SBRT + MK-3475 compared to pembrolizumab (MK-3475) alone across Response Evaluation Criteria in Solid Tumors (RECIST) measurable (including both radiated and non-radiated) cancer deposits.
+
+II. To describe the overall response rate of SBRT + pembrolizumab (MK-3475) compared to pembrolizumab(MK-3475) alone in both radiated and in non-radiated deposit(s).
+
+III. To determine the PFS at 6 months of SBRT + pembrolizumab (MK-3475) compared to pembrolizumab (MK-3475) alone across all cancerous deposits by RECIST.
+
+IV. To determine the rate of grade \> 3-4 adverse events, by organ system, by Common Terminology Criteria for Adverse Events (CTCAE) version (v) 5.0.
+
+V. To determine the local control of SBRT treated tumors. VI. To calculate delivered radiation dose using cone-beam computed tomography (CT) images collected on the radiation treatment table in the final treatment position.
+
+CORRELATIVE SCIENCE OBJECTIVES:
+
+I. To test the utility of CT-based radiomics to predict radiation-induced pneumonitis and true delivered dose of SBRT based on cone beam collected imaging and diagnostic scans.
+
+II. Biobanking for future correlative science projects.
+
+OUTLINE: Patients are randomized to 1 of 2 groups.
+
+GROUP I: Patients receive pembrolizumab intravenously (IV) over 30 minutes on day 1. Cycles repeat every 21 days for up to 2 years in the absence of disease progression or unacceptable toxicity.
+
+GROUP II: Patients receive pembrolizumab IV over 30 minutes on day 1. Cycles repeat every 21 days for up to 2 years in the absence of disease progression or unacceptable toxicity. Patients also undergo SBRT for 3 doses during cycle 1.
+
+After completion of study treatment, patients are followed up every 6 months for up to 5 years.

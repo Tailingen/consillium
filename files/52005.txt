@@ -1,0 +1,28 @@
+PET-MRI in Diagnosing Patients With Colon or Rectal Cancer
+This pilot clinical trial studies positron emission tomography (PET)-magnetic resonance imaging (MRI) and PET-computed tomography (CT) as diagnostic imaging in patients with colon and/or rectal cancer. New diagnostic imaging procedures, such as PET-MRI, may help find and diagnose rectal cancer or recurrence of colorectal cancer
+Recurrent Colon Cancer|Recurrent Rectal Cancer|Stage IIA Colon Cancer|Stage IIA Rectal Cancer|Stage IIB Colon Cancer|Stage IIB Rectal Cancer|Stage IIC Colon Cancer|Stage IIC Rectal Cancer|Stage IIIA Colon Cancer|Stage IIIA Rectal Cancer|Stage IIIB Colon Cancer|Stage IIIB Rectal Cancer|Stage IIIC Colon Cancer|Stage IIIC Rectal Cancer|Stage IVA Colon Cancer|Stage IVA Rectal Cancer|Stage IVB Colon Cancer|Stage IVB Rectal Cancer
+PROCEDURE: positron emission tomography|PROCEDURE: computed tomography|PROCEDURE: magnetic resonance imaging|RADIATION: fludeoxyglucose F 18
+Maximum Standardized Uptake Value (SUVmax) in Physiologic Regions and Fluorodeoxyglucose (FDG) Avid Lesions in Participants Where PET-CT Was Performed Prior to the PET-MRI, SUV max in physiologic regions (blood pool, liver) and FDG avid lesions, in which the PET-CT was performed prior to the PET-MRI. SUVmax is defined as \[tissue concentration (MBq/g) x body weight (g)\]/\[injected dose (MBq/g)\], Up to 6 months (each scan taking an average of 45 minutes)|Maximum Standardized Uptake Value (SUVmax) in Physiologic Regions and FDG Avid Lesions in Participants Where PET-MRI Was Performed Prior to the PET-CT, SUV max in physiologic regions (blood pool, liver) and FDG avid lesions, in which the PET-MRI was performed prior to the PET-CT. SUVmax is defined as \[tissue concentration (MBq/g) x body weight (g)\]/\[injected dose (MBq/g)\], Up to 6 months (each scan taking an average of 45 minutes)|SUVmax in Which the PET-CT Was Performed Prior to the PET-MRI., SUVmax in FDG avid lesions in which the PET/CT was performed prior to the PET-MRI.
+
+SUVmax is defined as \[tissue concentration (MBq/g) x body weight (g)\]/\[injected dose (MBq/g)\], Up to 6 months (each scan taking an average of 45 minutes)|SUVmax in Which the PET-MRI Was Performed Prior to the PET-CT, SUVmax in FDG avid lesions in which the PET-MRI was performed prior to the PET-CT SUVmax is defined as \[tissue concentration (MBq/g) x body weight (g)\]/\[injected dose (MBq/g)\], Up to 6 months (each scan taking an average of 45 minutes)|SUVmax Ratio in Which the PET-CT Was Performed Prior to the PET-MRI, SUVmax ratio in FDG avid lesions in which the PET-CT was performed prior to the PET-MRI
+
+SUVmax is defined as \[tissue concentration (MBq/g) x body weight (g)\]/\[injected dose (MBq/g)\], Up to 6 months (each scan taking an average of 45 minutes)|SUVmax Ratio in Which the PET-MRI Was Performed Prior to the PET-CT, SUVmax ratio in FDG avid lesions in which the PET-MRI was performed prior to the PET-CT SUVmax is defined as \[tissue concentration (MBq/g) x body weight (g)\]/\[injected dose (MBq/g)\], Up to 6 months (each scan taking an average of 45 minutes)|True Positive Rate, True positive rate for both modalities - TP/TP+FN
+
+TP = true positives FN = False negatives, Up to 6 months (each scan taking an average of 45 minutes)|True Negative Rate, True negative rate for both modalities - TN/TN+FP
+
+TN = true negatives FP = False positives, Up to 6 months (each scan taking an average of 45 minutes)|False Negative Rate, False negative rate for both modalities - FN/FN+TP
+
+FN = False negatives TP = true positives, Up to 6 months (each scan taking an average of 45 minutes)|Proportion of Lesions Identified by PET-CT That Were Correctly Detected by PET-MRI, On a per-lesion basis, proportion of lesions identified by PET-CT that were correctly detected by PET-MRI, Up to 6 months (each scan taking an average of 45 minutes)|Positive Predictive Values for PET-CT and PET-MRI, Percent of true positive rate of diagnostic accuracy., Up to 6 months (each scan taking an average of 45 minutes)|Negative Predictive Values for PET-CT and PET-MRI, Percent of true negative rate of diagnostic accuracy, Up to 6 months (each scan taking an average of 45 minutes)
+PRIMARY OBJECTIVES:
+
+I. To test the diagnostic performance of PET- MRI in the staging of preoperative high-grade rectal cancer patients, defined by T3 stage or higher or N1 stage or higher or presence of metastasis, that are referred to PET-CT and MRI.
+
+II. To test the diagnostic performance of PET-MRI the follow up of colorectal cancer patients that are referred to PET-CT with or without a diagnostic MRI request by their physicians.
+
+SECONDARY OBJECTIVES:
+
+I. To test different attenuation correction MR sequences and novel diagnostic MR sequences.
+
+OUTLINE:
+
+Patients undergo fludeoxyglucose F 18 PET-CT and PET-MRI.

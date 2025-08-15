@@ -1,0 +1,29 @@
+Gene Expression Levels in Predicting Treatment Response in Patients With Stage IV Non-small Cell Lung Cancer
+This pilot clinical trial studies whether the levels of certain genes in the tissue and blood are related to how well patients with stage IV non-small cell lung cancer respond to chemotherapy. Genes may affect how sensitive or resistant tumors are to chemotherapy. Studying the levels of genes related to tumor response before and after chemotherapy may help doctors learn whether they can predict how well patients will respond to treatment.
+Recurrent Non-small Cell Lung Cancer|Stage IV Non-small Cell Lung Cancer
+DRUG: docetaxel|DRUG: pemetrexed disodium|DRUG: gemcitabine hydrochloride|OTHER: laboratory biomarker analysis
+Baseline Marker Measurement, A univariable regression of continuous disease response on baseline marker value will be performed. A multivariable regression model adjusted for clinical covariates will be evaluated as well. Expression levels of RRM1, TS, BRCA1, and other molecules and disease response after course 2 will be log-transformed., Baseline
+Change in Biomarker Expression Levels, Evaluated using Pearson correlation. If data are not normally distributed after log transformation, a non-parametric method (e.g., Spearman correlation) will be used., Baseline to up to 8 weeks (after course 2)|Overall Survival (OS), Since, the study was canceled due to slow accrual, no biomarkers were measured; therefore, no analysis with biomarkers. Only the OS will be calculated., From the date of protocol-specified treatment initiation to the date of death or last observation, assessed up to 12 months|Progression-free Survival (PFS), Each biomarker evaluated using its expression level (continuous variable) and dichotomous form (based on a median cutoff). A univariable Cox regression model will be used to assess the relationship of expression levels of each biomarker to PFS. In addition, for the dichotomous variables, the sample will be divided into those above and below the median for each biomarker. PFS probabilities for each group will be estimated using the Kaplan-Meier method, with standard errors based on Greenwood's formula. Log rank tests will be used to determine the level of significance between survival curves. Since, the study was canceled due to slow accrual, no biomarkers were measured; therefore, no analysis with biomarkers. Only the PFS will be calculated., From the date of protocol-specified treatment initiation to the date of progression, death, or last observation, assessed up to 12 months|Expression Levels of Biomarkers and Other Molecules, To assess the relationship between expression levels of RRM1, TS, BRCA1, and other molecules and demographic and disease variables, the Wilcoxon rank sum test or Kruskal-Wallis test for dichotomous or polychotomous categorical variables (such as sex, and histology) and the Spearman correlation coefficient for continuous ordinal variables (such as age or stage) will be used., Up to 8 weeks (end of course 2)
+PRIMARY OBJECTIVES:
+
+I. To describe the association between baseline gene expression levels at the protein and messenger ribonucleic acid (mRNA) level and best treatment response after two cycles of single-agent or multi-agent chemotherapy
+
+SECONDARY OBJECTIVES:
+
+I. To describe changes in protein and mRNA levels of ribonucleotide reductase M1 (RRM1), thymidylate synthetase (TS), and excision repair cross-complementing rodent repair deficiency, complementation group 1 (ERCC1) in serial biopsies obtained from patients being treated with gemcitabine (gemcitabine hydrochloride), pemetrexed (pemetrexed disodium), and platinum.
+
+II. To describe the association between changes in marker levels and changes in tumor diameters.
+
+TERTIARY OBJECTIVES:
+
+I. To explore the relationship between marker levels in circulating tumor cells and solid tumor specimens.
+
+II. To explore the relationship between marker levels in viable peripheral blood mononuclear cells (PBMCs), circulating tumor cells, and tumor specimens.
+
+III. Should sufficient amounts and numbers of tumor specimens remain after these analyses, they will be used to assess if other genes implicated in non-small cell lung cancer (NSCLC) outcome and response to treatment might be useful as prognostic or predictive markers for patient outcome.
+
+OUTLINE:
+
+Patients receive 1 of 3 chemotherapy regimens at the discretion of the primary oncologist, including docetaxel intravenously (IV) on day 1, pemetrexed disodium IV on day 1, or gemcitabine hydrochloride IV on days 1 and 8. Treatment repeats every 3 weeks for 2 courses in the absence of disease progression or unacceptable toxicity. After course 2, patients may continue treatment off-study at the discretion of the treating physician.
+
+After completion of study treatment, patients are followed up for 12 months.

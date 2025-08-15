@@ -1,0 +1,11 @@
+Gastric-type Endocervical Adenocarcinoma: a Population-based Cohort Study
+This study aims to collect data of patients with Gastric-type Endocervical Adenocarcinoma from the SEER database, analyze the related prognostic factors and treatment patterns of Gastric-type Endocervical Adenocarcinoma, and explore the impact of surgical treatment on the prognosis of locally advanced Gastric-type Endocervical Adenocarcinoma.
+Uterine Cervical Neoplasms|Surgery|Therapy|Locally Advanced Cervical Carcinoma
+PROCEDURE: surgery
+Overall survival (OS), The time from diagnosis to death of the patient., The time from diagnosis to death of the patient，Assessed up to 227 months
+Vital status recode(study cutoff used), Any patient that dies after the follow-up cut-off date is recoded to alive as of the cut-off date., up to 227 months
+This study aims to collect data of patients with Gastric - type Endocervical Adenocarcinoma from the SEER database, analyze the related prognostic factors and treatment patterns of patients with Gastric - type Endocervical Adenocarcinoma, and explore the impact of surgical treatment on the prognosis of locally advanced Gastric - type Endocervical Adenocarcinoma.
+
+Study subjects: Patients diagnosed with Gastric - type Endocervical Adenocarcinoma were identified using the SEER database and SEER\*Stat 8.4.2 software. The search scope was the "SEER Research Plus Data, 17 Registries, Nov 2021 sub (2000 - 2019)" database, and the screening criteria included "Site and Morphology, Analytic Behavior Recode = Malignant" and "Site and Morphology, ICD - O - 3 / WHO 2008 Recode Site = Cervix". Patients with cervical Gastric - type Endocervical Adenocarcinoma were selected from the database.
+
+Outcome measures: Overall survival (OS): The time from diagnosis to death of the patient.

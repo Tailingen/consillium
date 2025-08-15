@@ -1,0 +1,14 @@
+Characterization of T-cell Repertoire in Patients With Acute Myeloid Leukemia Undergoing Donor Stem Cell Transplant
+This research trial studies characterization of T-cell repertoire through next-generation sequencing in patients with acute myeloid leukemia undergoing stem cell transplant. Characterizing T-cell repertoire may help to understand if immune system plays a significant role in high risk patients with acute myeloid leukemia.
+Acute Myeloid Leukemia
+PROCEDURE: Biospecimen Collection|OTHER: Laboratory Biomarker Analysis
+Time to diagnosis of acute graft versus (vs.) host disease (aGVHD), Will be calculated as the time from stem cell infusion until the date of the diagnosis of aGVHD. If a patient dies prior to day 100 and does not have aGVHD, the patient will be censored at the time of death; all patients without aGVHD will be censored on day 100., Up to 4 years|Time to diagnosis of relapse, Will be calculated as the time from stem cell infusion until the date of the of the diagnosis of relapse Patients who die of treatment toxicity or other cause, prior to relapse, will be censored at the time of death; all patients will be censored at 365 days following transplant., Up to 4 years
+PRIMARY OBJECTIVES:
+
+I. Characterize the T cell receptor (TCR) repertoire in acute myeloid leukemia (AML) patients before and after receiving hematologic stem cell transplantation (HSCT).
+
+II. Identify molecular changes (germline variants and somatic mutations) that contribute to shaping the TCR repertoire.
+
+OUTLINE:
+
+Patents undergo collection of blood samples before, on day 100, and 1 year after HSCT. Donors undergo collection of blood at the time of HSCT for ribonucleic acid (RNA)-based next generation sequencing of TCRA and TCRB genes.

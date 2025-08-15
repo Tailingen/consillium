@@ -1,0 +1,27 @@
+Phase I Study of IMRT and Molecular-Image Guided Adaptive Radiation Therapy for Advanced HNSCC
+RATIONALE: Specialized radiation therapy that delivers a high dose of radiation directly to the tumor may kill more tumor cells and cause less damage to normal tissue. CT and PET scans and treatment-planning systems may help in planning radiation therapy. Drugs used in chemotherapy, such as cisplatin, work in different ways to stop the growth of tumor cells, either by killing the cells or by stopping them from dividing. Giving radiation therapy together with cisplatin may kill more tumor cells.
+
+PURPOSE: This phase I trial is studying the side effects and best dose of intensity-modulated image guided adaptive radiation therapy when given together with cisplatin in treating patients with locally advanced head and neck squamous cell cancer
+Salivary Gland Squamous Cell Carcinoma|Stage II Salivary Gland Cancer|Stage II Squamous Cell Carcinoma of the Hypopharynx|Stage II Squamous Cell Carcinoma of the Lip and Oral Cavity|Stage II Squamous Cell Carcinoma of the Oropharynx|Stage II Verrucous Carcinoma of the Oral Cavity|Stage III Salivary Gland Cancer|Stage III Squamous Cell Carcinoma of the Hypopharynx|Stage III Squamous Cell Carcinoma of the Lip and Oral Cavity|Stage III Squamous Cell Carcinoma of the Oropharynx|Stage III Verrucous Carcinoma of the Oral Cavity|Stage IV Salivary Gland Cancer|Stage IV Squamous Cell Carcinoma of the Hypopharynx|Stage IV Squamous Cell Carcinoma of the Lip and Oral Cavity|Stage IV Squamous Cell Carcinoma of the Oropharynx|Stage IV Verrucous Carcinoma of the Oral Cavity
+RADIATION: intensity-modulated radiation therapy|DRUG: cisplatin|RADIATION: image-guided adaptive radiation therapy|OTHER: 3'-deoxy-3'-[18F]fluorothymidine|PROCEDURE: positron emission tomography/computed tomography|RADIATION: fludeoxyglucose F 18
+Feasibility of integrating molecular imaging (PET with FLT tracer) into current state-of-the-art image-guided adaptive radiation therapy (IGART) of head and neck cancer, 6 weeks
+Comparison of gross tumor volumes defined by FDG-PET, FLT-PET, CBCT, and regular FBCT, Before, during, and following completion of chemoradiation therapy|Impact of escalated doses to tumor sub-volumes with high FLT and FDG uptake using post-treatment FDG images as an early surrogate for sub-volume-specific local control, Prior to and during radiation therapy|Development of a database consisting of all molecular and anatomic images, including daily CBCT data sets, obtained during chemo-radiation therapy to support further research, Up to 5 years|Patient long-term toxicities and survival, At 2 and 4 weeks, 2, 3, 4, 5, 6, 9, and 12 months, every 6 months for 2 years, and then annually for 2 years|Impact of daily image-guided setup; off-line every other week adaptive re-planning; and molecular-image based targeting on sparing of tissues and organs responsible for late and early treatment sequelae, At 2 and 4 weeks, 2, 3, 4, 5, 6, 9, and 12 months, every 6 months for 2 years, and then annually for 2 years
+PRIMARY OBJECTIVES:
+
+I. To determine the feasibility of integrating molecular imaging (PET with FLT tracer) into current state-of-the-art image-guided adaptive radiation therapy (IGART) of head and neck cancer.
+
+II. To determine within a predefined range the maximum tolerated radiation dose for concurrent cisplatin and molecular and anatomic image-based IGART of head and neck cancer.
+
+SECONDARY OBJECTIVES I. To compare gross tumor volumes defined by FDG-PET, FLT-PET, CBCT, and regular FBCT before, during, and following completion of chemo-radiation therapy.
+
+II. To evaluate the impact of escalated doses to tumor sub-volumes with high FLT and FDG uptake prior to and during radiation therapy using post-treatment FDG images as an early surrogate for sub-volume-specific local control.
+
+III. To develop a database consisting of all molecular and anatomic images, including daily CBCT data sets, obtained during chemo-radiation therapy to support further research. Potential applications include determination of optimal adaptive re-planning frequency and the benefits of basing IGART on 4D anatomic data sets derived from deformably registering daily CBCT and FBCT data sets.
+
+IV. Determine patient long-term toxicities and survival. V. To evaluate the impact of daily image-guided setup; off-line every other week adaptive re-planning; and molecular-image based targeting on sparing of tissues and organs responsible for late and early treatment sequelae.
+
+OUTLINE: This a dose-escalation study of intensity-modulated radiotherapy.
+
+Patients undergo intensity-modulated image-guided adaptive radiotherapy once daily 5 days a week for 6 weeks. Patients also receive cisplatin IV on days 1 and 22. Treatment continues in the absence of disease progression or unacceptable toxicity.
+
+After completion of study treatment, patients are followed up at 2 and 4 weeks, 2, 3, 4, 5, 6, 9, and 12 months, every 6 months for 2 years, and then annually for 2 years.

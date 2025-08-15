@@ -1,0 +1,39 @@
+Cetuximab, Chemotherapy, and Radiation Therapy for Operable Stage III or IV Head and Neck Cancer
+RATIONALE: Monoclonal antibodies, such as cetuximab, can block tumor growth in different ways. Some block the ability of tumor cells to grow and spread. Others find tumor cells and help kill them or carry tumor-killing substances to them. Drugs used in chemotherapy, such as paclitaxel and carboplatin, work in different ways to stop the growth of tumor cells, either by killing the cells or by stopping them from dividing. Radiation therapy uses high-energy x-rays to damage tumor cells. Giving cetuximab with combination chemotherapy and radiation therapy before surgery may make the tumor smaller and reduce the amount of normal tissue that needs to be removed. Giving cetuximab after surgery may kill any tumor cells that remain.
+
+PURPOSE: This phase II trial is studying how well giving cetuximab together with combination chemotherapy and radiation therapy works in treating patients who are undergoing surgery for stage III or stage IV head and neck cancer.
+Head and Neck Cancer
+BIOLOGICAL: Cetuximab|DRUG: Carboplatin|DRUG: Paclitaxel|RADIATION: Radiation therapy
+Event-free Survival Rate at 1 Year, Event-free survival rate at 1 year was defined as the proportion of patients who did not have disease progression, primary site surgery, or death after being followed for 1 year., Assessed at 1 year.
+Proportion of Patients With Objective Response by RECIST, Per RECIST criteria, Complete response (CR)= disappearance of all target and nontarget lesions Partial response (PR)= \>=30% decrease in the sum of the longest diameters of target lesions from baseline, and persistence of one or more non-target lesion(s) and/or the maintenance of tumor marker level above the normal limits. Objective response = CR + PR., Assessed at weeks 7, 14, 18, 20, and then every every 3 months if patient is < 2 years from study entry and every 6 months if patient is 2-5 years from study entry|Progression-free Survival, Progression-free survival was defined as the time from registration to documented progression or death without progression. Progression is defined as at least a 20% increase in the sum of the longest diameters of target lesions, taking as reference the smallest sum longest diameter recorded since the baseline measurements, or the appearance of one or more new lesion(s) or unequivocal progression of existing nontarget lesions., Assessed at weeks 7, 14, 18, 20, and then every every 3 months if patient is < 2 years from study entry and every 6 months if patient is 2-5 years from study entry|Overall Survival, Overall survival is defined as the time from registration to death of any causes., Weekly during treatment, and then every every 3 months if patient is < 2 years from study entry and every 6 months if patient is 2-5 years from study entry
+OBJECTIVES:
+
+Primary
+
+* Determine the effect of induction therapy comprising cetuximab, paclitaxel, and carboplatin followed by chemoradiotherapy comprising cetuximab, paclitaxel, carboplatin, and radiotherapy and maintenance therapy comprising cetuximab on 1-year event-free survival (freedom from surgery at the primary site and freedom from recurrence and death) in patients with stage III or IV operable squamous cell cancer of the head and neck.
+
+Secondary
+
+* Determine the pathologic antitumor response at the primary site in patients treated with this regimen.
+* Determine disease-free and overall survival of patients treated with this regimen.
+* Determine the toxicity of this regimen in these patients.
+* Determine local/regional and distant failure rates in patients treated with this regimen.
+* Determine the effect of this treatment regimen on selective biologic pathways, total and phosphorylated epidermal growth factor receptor, ERK/MAPK, and P13K/AKT in these patients.
+
+OUTLINE: This is a multicenter study.
+
+* Induction therapy (weeks 1-6): Patients receive cetuximab IV over 1-2 hours, paclitaxel IV over 1 hour, and carboplatin IV over 30 minutes on days 1, 8, 15, 22, 29, and 36.
+
+During week 7 or 8, patients undergo biopsy and evaluation of the primary site. Patients then proceed to chemoradiotherapy.
+
+* Chemoradiotherapy (weeks 9-13): Patients receive cetuximab IV over 1 hour, paclitaxel IV over 1 hour, and carboplatin IV over 15 minutes on days 57, 64, 71, 78, and 85. Patients also undergo radiotherapy once daily, 5 days a week, on weeks 9-13.
+
+Patients with a positive biopsy at week 7 or 8 or persistent tumor at the primary site after induction therapy undergo a second biopsy after chemoradiotherapy at week 14. Patients with a negative biopsy at week 7 or 8 who achieve a complete clinical and pathological response at the primary site OR patients whose biopsy becomes negative at week 14 receive an additional 3-weeks of chemoradiotherapy beginning at week 15. Patients receive cetuximab, carboplatin, and paclitaxel as in chemoradiotherapy (as outlined above) on days 99, 106, and 113. Patients also undergo radiotherapy once daily, 5 days a week, for 3 weeks (weeks 15-17). Patients with N1-N3 disease undergo neck dissection in weeks 20-21.
+
+Patients with a positive biopsy at week 14 do not receive additional chemoradiotherapy, but rather undergo surgical resection of the primary site in weeks 18-19. Patients with N1-N3 disease also undergo neck dissection at this time.
+
+* Maintenance therapy: Beginning after completion of surgery and/or chemoradiotherapy, patients receive cetuximab IV over 1 hour once weekly for 6 months in the absence of disease progression or unacceptable toxicity.
+
+Patients are followed every 3 months for 2 years and then every 6 months for 3 years.
+
+ACTUAL ACCRUAL: A total of 74 patients were accrued for this study.

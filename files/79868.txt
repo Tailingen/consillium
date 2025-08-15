@@ -1,0 +1,13 @@
+Clinical Utility of Selected Circulating Tumor DNA Assays in Patients With Advanced Malignancy
+Circulating tumor DNA assays are becoming relevant for routine diagnostics, but many related aspects are yet unresolved. With this project, the investigators aim to develop pragmatic molecular diagnostic pathways of liquid biopsies relevant in advanced gastrointestinal malignancies with focus on clinical utility and sensible use of resources. They want to evaluate the ctDNA assays on a fully automated "low-cost" multiplex platform which is already implemented in routine molecular diagnostics of solid biopsies. The project will evaluate to what extent these ctDNA assays are relevant for clinical decision-making.
+Metastatic Colorectal Cancer|Pancreas Adenocarcinoma|Cholangiocarcinoma
+DIAGNOSTIC_TEST: Multiplex PCR-test for circulating tumor DNA
+Clinical validity of ctDNA tests, Number of participants where the ctDNA results leads to changes in diagnostic work-up, treatment initiation or change of treatment., 1 week
+Resources needed for ctDNA assays in routine diagnostics, Ratio of certain clinical features (i.e. location of metastasis; liver versus lung) or biochemical markers (elevated CRP, CEA etc versus normal markers) that is associated with a positive ctDNA result. The rationale is that ctDNA usually is higher with liver metastases compared to lung and that elevated biochemical markers are associated with more progressive disease and hence more inclined to give positive ctDNA results. Cost efficient use relies on positive ctDNA results as the opposite result is non-informative., 1 week
+Advanced pancreatic cancer (PDAC) and cholangiocarcinoma (CCA): -Could the Idylla ctKRAS test select the \~10% of PDAC patients with KRASwt eligible for more extensive diagnostics? In PDAC and CCA, is it possible to detect patient samples with KRAS G12C or BRAF mutation for study inclusion? Could the ΔCq-value of the tests be used as a semi-quantitative tumor marker? What is the clinical value compared to the current tumor marker CA19-9?
+
+•
+
+Metastatic Colorectal Cancer: Are the ctDNA assays useful in detecting primary resistance and/or monitoring for secondary/acquired resistance to EGFR antibody treatment? How does the sensitivity, specificity and turnaround time of the ctDNA assays compare to tissue-based analysis? Could the Idylla ctDNA assays accelerate detection of KRAS G12C or BRAF mutations, and hence facilitate study inclusion in the first line setting? Could the ctDNA assays guide rechallenge with EGFR treatment?
+
+Can the information of liver metastases or prognostic markers (s-CEA, s-CRP) guide timing of ctDNA sampling?

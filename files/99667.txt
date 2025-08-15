@@ -1,0 +1,38 @@
+Acalabrutinib in Combination With Venetoclax or Obinutuzumab for the Treatment of Treatment-naive Chronic Lymphocytic Leukemia
+This phase II trial tests whether acalabrutinib in combination with venetoclax or obinutuzumab works to shrink tumors in patients with treatment-naive chronic lymphocytic leukemia . Acalabrutinib is also an inhibitor that works in the body to block the activation of certain cells that lead to the growth of cancerous B cells. Venetoclax is in a class of medications called B-cell lymphoma-2 (BCL-2) inhibitors. It may stop the growth of cancer cells by blocking Bcl-2, a protein needed for cancer cell survival. Obinutuzumab is a monoclonal antibody that may interfere with the ability of cancer cells to grow and spread. Giving acalabrutinib in combination with venetoclax or obinutuzumab may help ease symptoms, decrease the amount of cancer suggestive of improvement, prolonged disease-free remission and/or survival, and increased knowledge about cancer treatment in patients with chronic lymphocytic leukemia. Patients will be treated with acalabrutinib for 12 cycles, and then randomized to receive 6 cycles of acalabrutinib plus obinutuzumab or acalabrutinib plus venetoclax.
+Chronic Lymphocytic Leukemia|Small Lymphocytic Lymphoma
+DRUG: Acalabrutinib|BIOLOGICAL: Obinutuzumab|DRUG: Venetoclax
+Rate of bone marrow undetectable minimal residual disease (uMRD), defined as tumor cell in 10,000 cells using standard flow based assay, achieved after completion of therapy, Will provide uMRD rates at the end of treatment with combination therapy for each experimental arm with 95% confidence intervals., Up to 1 year
+Progression-free survival, Will be calculated and compared between those who are uMRD by flow cytometry versus (vs) next generation sequencing (NGS) in the different treatment arms., From the start of combination therapy until documented disease progression, or death from any cause, whichever occurs first, assessed up to 1 year|Time to next treatment (TTNT), Will be estimated with 95% CIs for each arm., At 1 and 3 years up to time from start of combination therapy until next treatment is initiated|Overall response rate (ORR), ORR (computed tomography \[CT\] based) will be defined as the proportion of patients achieving a complete or partial response according to the International Workshop (iw)CLL criteria after combination therapy is completed; any eligible patient who begins treatment with the combination regimen will be included in the denominator when calculating the ORR. ORR will be reported with a 95% binomial exact confidence interval for each arm., Up to 1 year|Duration of response (DOR), DOR will be estimated using Kaplan-Meier method. The median DOR and DOR at 3 years will be estimated with 95% confidence intervals (CIs) for each arm., Time from the first tumor assessment supports the response, at 1 and 3 years, or to the time of confirmed disease progression or death due to any cause|Incidence of adverse events, Will be summarized by type and severity according to Common Terminology Criteria for Adverse Events (CTCAE) version (v). 5.0, with a focus on grade 3 or higher adverse events. Adverse events (AEs), adverse events of special interests (AESIs), and serious adverse events (SAEs) that occur during acalabrutinib monotherapy will be summarized separately from those that occur with combination therapy., Up to 1 year
+Discordant rate of uMRD between flow cytometry and NGS, Will be estimated with 95% confidence intervals across time. At each time point, the overall discordant rate will be defined as the number of patients who do not have the same uMRD status by flow cytometry and NGS divided by the total number of evaluable patients. For each comparison of uMRD results between flow cytometry and NGS, Cohen's kappa statistic for agreement will also be calculated., At various time points up to 1 years|Numbers of T, B, and NK cells during and after therapy, Will be described separately for each treatment arm. Descriptive statistics (means, medians, standard deviations, interquartile range) and graphical displays will be used to characterize central tendency and variability over time. Values will be log transformed as appropriate., Up to 1 year|Presence or absence of genomic features, The association between the presence or absence of genomic features with uMRD and ORR will be explored using logistic regression and adjusting for treatment arm, whereas the association between the presence or absence of genomic features with time-to-event endpoints will be explored using Cox proportional hazards models and adjusting for treatment arm., Up to 1 year
+PRIMARY OBJECTIVE:
+
+I. To evaluate whether the addition of venetoclax or obinutuzumab for 6 cycles to patients receiving acalabrutinib for 1 year in treatment-naive (TN) chronic lymphocytic leukemia (CLL) will improve rate of bone marrow (BM) undetectable minimal residual disease (uMRD).
+
+SECONDARY OBJECTIVES:
+
+I. To assess the safety and tolerability of a delayed approach to combination therapy in patients with TN CLL.
+
+II. To determine the overall response rate (ORR) of the addition of venetoclax or obinutuzumab for 6 cycles to patients receiving acalabrutinib for 1 year in TN CLL.
+
+III. To determine the progression free survival (PFS) of the addition of venetoclax or obinutuzumab for 6 cycles to patients receiving acalabrutinib for 1 year in TN CLL.
+
+IV. To determine the duration of response (DOR) of the addition of venetoclax or obinutuzumab for 6 cycles to patients receiving acalabrutinib for 1 year in TN CLL.
+
+V. To determine the time to next treatment (TTNT) of the addition of venetoclax or obinutuzumab for 6 cycles to patients receiving acalabrutinib for 1 year in TN CLL.
+
+EXPLORATORY OBJECTIVES:
+
+I. To determine the concordance rate between uMRD status as measured by next generation sequencing (NGS) versus standard flow cytometry as well as blood vs bone marrow, and examine implications for PFS.
+
+II. To determine how acalabrutinib plus venetoclax or obinutuzumab changes numbers of T, B, and natural killer (NK) cells during and after therapy.
+
+III. To determine how baseline genomic features predict outcomes following acalabrutinib plus venetoclax or obinutuzumab.
+
+OUTLINE: Patients are randomized into 1 of 2 arms.
+
+ARM I: Patients receive acalabrutinib orally (PO) twice daily (BID) on days 1-28. Patients also receive obinutuzumab intravenously (IV) on days 1, 2, 8, and 15 of cycle 13 and day 1 of cycles 14-18. Treatment repeats every 28 days for up to 18 cycles in the absence of disease progression or unacceptable toxicity.
+
+ARM II: Patients receive acalabrutinib PO BID on days 1-28. Patients also receive venetoclax PO once daily (QD) on days 1-28 days of cycles 13-18. Treatment repeats every 28 days for up to 18 cycles in the absence of disease progression or unacceptable toxicity.
+
+After completion of the study treatment, patients are followed up at 30 days and every 6 months up to 10 years.

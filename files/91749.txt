@@ -1,0 +1,64 @@
+Assessing the Agreement Between Endoscopic and Histopathological Diagnosis of Colorectal Sessile Serrated Lesions.
+The goal of this observational study was to assess the degree of agreement between the endoscopic and anatomopathological diagnosis of sessile serrated colorectal lesions in adult patients undergoing colonoscopy in Hospital Sírio-Libanes.
+
+The main questions it aimed to answer were:
+
+* The degree of agreement between endoscopic and anatomopathological diagnosis of sessile serrated colorectal lesions by calculating the Kappa Value of agreement.
+* To establish the detection rate of sessile serrated lesions and adenomas in the Endoscopy Department at Hospital Sírio-Libanês.
+* To evaluate the degree of agreement between endoscopic and anatomopathological diagnosis of sessile serrated colorectal lesions based on the resection method.
+* To assess the accuracy, positive predictive value, and negative predictive value of endoscopic diagnosis of serrated lesions compared to anatomopathological diagnosis.
+
+The data were prospectively collected through a form specifically designed for this project, that was completed immediately after the examination by the performing colonoscopist. All patients enrolled in this study agreed to participate in it and signed an informed consent form prior to the colonoscopy.
+Sessile Serrated Adenoma|Colorectal Polyp|Adenoma Colon|Colorectal Cancer|Colonoscopy|Adenoma Detection Rate|Quality Indicator
+To assess the degree of agreement between the endoscopic and the anatomopathological diagnosis of sessile serrated colorectal lesions, To evaluate concordance between colonoscopy diagnosis and anatomopathological diagnosis, both overall and according to the resection method employed, Cohen's Kappa coefficients and their respective 95% confidence intervals were calculated. These coefficients were then categorized based on Landis \& Koch's criteria (1977)., 2 years
+To establish the detection rate of sessile serrated lesions and adenomas in the Endoscopy Department at Hospital Sírio-Libanês., The Detection Rate in colonoscopy is calculated by dividing the number of procedures where at least one of the interested lesion is detected by the total number of procedures performed by the colonoscopist, and then multiplying by 100 to get a percentage., 2 years|Evaluate the degree of agreement between endoscopic and anatomopathological diagnosis of sessile serrated colorectal lesions based on the resection method., To evaluate concordance between colonoscopy diagnosis and anatomopathological diagnosis, both overall and according to the resection method employed, Cohen's Kappa coefficients and their respective 95% confidence intervals were calculated. These coefficients were then categorized based on Landis \& Koch's criteria (1977)., 2 years|Assess the accuracy, positive predictive value, and negative predictive value of endoscopic diagnosis of serrated lesions compared to anatomopathological diagnosis., Sensitivity, specificity, positive predictive values, and negative predictive values (with corresponding 95% confidence intervals) of colonoscopy for diagnosing sessile serrated lesions using the anatomopathological examination as the gold standard were calculated., 2 years
+The study population was:
+
+Patients aged over 18 undergoing colonoscopy at Hospital Sírio-Libanês in the Bela-Vista unit, São Paulo, Brazil, between June and August 2020.
+
+The sample:
+
+For the present study, an odds ratio of 1.5 in the adenoma detection rate of colorectal lesions was considered concerning the vascular pattern classification of the lesion (NICE), with an expected discordance rate of 30% regarding the histopathological pattern. To achieve this, an estimated sample size of 758 patients was calculated, considering an 80% statistical power and a risk α≤5% for a Type I error, using the McNemar's test for proportions.
+
+Inclusion criteria:
+
+* Patients undergoing elective colonoscopy at Hospital Sírio-Libanês between February 2020 and August 2020.
+* Age over 18 years.
+
+Exclusion criteria:
+
+* Patients with inflammatory bowel disease (IBD)
+* Patients diagnosed with hereditary polyposis or non-polyposis syndromes.
+* Patients with a history of colorectal surgery.
+* Patients previously diagnosed with colorectal cancer (CRC).
+
+Study variables analyzed:
+
+* Age (years)
+* Gender
+* Colon preparation (Boston Scale)
+* Presence of colorectal lesions
+* Lesion resection technique
+* Lesion size
+* Lesion location
+* Morphological classification of the lesion (Paris)
+* Vascular pattern classification of the lesion (NICE)
+* Number of lesions found per examination/patient.
+
+Methods:
+
+All colonoscopies in this study were conducted in the endoscopy department of Hospital Sírio-Libanês, and the equipment used was the Olympus™ EVIS Exera III - CV190.
+
+All lesions identified in the study were sent to the pathology service of Hospital Sírio-Libanês for specialized and standardized anatomopathological analysis. The pathologists were blinded to the endoscopic diagnosis of the lesions. The lesions were classified according to the 2019 WHO Classification and subsequently categorized for this study into: hyperplastic polyps, adenomas, sessile serrated lesions, adenocarcinoma, or "others".
+
+Statistical analysis:
+
+Data obtained was assessed using the Gaussian curve and determined as parametric or non-parametric using the Kolmogorov-Smirnov test and the Shapiro-Wilk test. Parametric data were represented by mean and standard deviation, while non-parametric data were represented by median and interquartile range (25th and 75th percentiles). Categorical data were represented by absolute frequency (n) and relative frequency (%) and presented through contingency tables.
+
+Sensitivity, specificity, positive predictive values, and negative predictive values (with corresponding 95% confidence intervals) of colonoscopy for diagnosing sessile serrated lesions using the anatomopathological examination as the gold standard were calculated.
+
+To evaluate agreement between colonoscopy diagnosis and anatomopathological diagnosis, both overall and according to the resection method employed, Cohen's Kappa coefficients and their respective 95% confidence intervals were calculated. These coefficients were then categorized based on Landis \& Koch's criteria (1977).
+
+Ethical considerations:
+
+The research project for this study was thoroughly detailed and submitted for analysis to the Research Ethics Committee (CEP) of Hospital Sírio-Libanês, receiving approval under CAAE 27604919.2.0000.5461. Patients participating in the study agreed to take part and signed the Informed Consent Form. The involved colonoscopists committed to maintaining the confidentiality of the data.

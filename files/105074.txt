@@ -1,0 +1,8 @@
+Deep Learning-based Classification and Prediction of Radiation Dermatitis in Head and Neck Patients
+to develop a deep learning-based model to grade the severity of radiation dermatitis (RD) and predict the severity of radiation dermatitis in patients with head and neck cancer undergoing radiotherapy, so as to provide support for doctors' diagnosis and prediction.
+Radiation Dermatitis|Head and Neck Cancer
+Accuracy, Evaluate the rate of deep learning based rating model in accordance with experts' assessment., July 1, 2022 to June 30, 2025|Precision, The proportion of positive samples in the positive prediction result, July 1, 2022 to June 30, 2025|Recall, The proportion of positive samples that were predicted to be positive, July 1, 2022 to June 30, 2025|F1-measure, The harmonic average of precision and recall, July 1, 2022 to June 30, 2025|ROC curve, July 1, 2022 to June 30, 2025
+dice value, Ratio of overlap and distance between artificial and automatic neck segmentation regions, July 1, 2022 to June 30, 2025
+1. Image acquisition The images of the neck area were collected from the enrolled patients one week before and every week during radiotherapy. The photographs were taken from three angles (front, left and right oblique) of the neck area.
+2. Grading evaluation Each image was individually graded by three experienced radiotherapy experts according to the RD criteria of RTOG
+3. Data analysis Construct a dermatitis grading model basing on deep learning. Evaluate the performance of model using accuracy, precision, recall, F1-measure, dice value.

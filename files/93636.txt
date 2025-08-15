@@ -1,0 +1,17 @@
+A Trial on the Use of Point-of-care Ultrasound in the Assessment of Breast Symptoms
+The high cost of diagnostic equipment, limited expertise, and inadequate infrastructure are major barriers to early breast cancer diagnosis in low- and middle-income countries. Point-of-care ultrasound (POCUS) offers a relatively low-cost, portable solution that, when combined with artificial intelligence (AI)-driven image analysis, has the potential to significantly expand access to breast assessment in these settings. The purpose of this study is to evaluate the performance of POCUS for women with focal breast symptoms and to assess the performance of AI to analyze POCUS images. The study will be divided in two parts: a prospective interventional study and a retrospective multicase multireader study.
+Breast Cancer
+DIAGNOSTIC_TEST: Point-of-care ultrasound
+The area under the receiver operating characteristic curve (AUC) for the intervention, compared to that of the comparator, 1. The AUC of POCUS compared to SoC
+2. The AUC of AI compared to average radiologists on POCUS, From the last enrolled participant to the end of one-year follow up
+The performance of POCUS and POCUS AI, * The sensitivity, specificity, PPV, and NPV of POCUS compared to SoC (Part 1)
+* The sensitivity, specificity, PPV, and NPV of POCUS compared to standard ultrasound (Part 1)
+* The sensitivity, specificity, PPV, and NPV of POCUS compared to mammography (Part 1)
+* The AUC of POCUS AI compared to SoC (Part 1)
+* The AUC, sensitivity, and specificity of POCUS in relation to tumor type, stage, breast density, previous history of breast cancer, age, and demographics (Part 1 and Part 2)
+* The AUC, sensitivity and specificity of POCUS AI in relation to tumor type, stage, breast density, previous history of breast cancer, age, and demographics (Part 1 and Part 2)
+* The sensitivity, specificity, PPV, and NPV of average radiologists on POCUS compared to standard ultrasound (Part 2)
+* The sensitivity and specificity of POCUS AI at different operating thresholds (Part 2)
+* The balanced accuracy of POCUS AI compared to average radiologists (Part 2)
+* The AUC, sensitivity, and specificity of POCUS AI, From the last enrolled participants to the end of one year follow up
+In this trial we want to understand if the use of POCUS is non-inferior to Standard of Care (SoC) and if the combination of POCUS AI can reach non-inferior performance to that of breast radiologists. There is a need for breast diagnostic tools in underserved countries since late-stage diagnosis is a major cause of the high breast-cancer mortality in low-and middle-income countries. Showing that POCUS can be sufficient for an assessment of focal breast symptoms can provide evidence for a broader use. Also, enabling automated interpretation using AI can add to the value of this low-cost and accessible solution. The first part of the trial is a prospective open-label accuracy study with paired design. The intervention of POCUS as a targeted diagnostic method for women with focal breast complaints will be compared with SoC. We will also be able to compare POCUS with the individual components of SoC (mammography and standard ultrasound) and retrospectively with POCUS AI. The second part of the trial is a single-blinded retrospective paired mulitcase multireader study. In this part we can directly assess POCUS and POCUS AI without the influence of mammography and benchmark to a larger group of radiologists and in addition compare with standard ultrasound

@@ -1,0 +1,29 @@
+Prophylactic EUS-guided Gastroenterostomy in Advanced Periampullary Cancers
+The goal of this randomized controlled trial is to investigate the effectiveness and safety of Prophylactic EUS-gastroenterostomy (ProEUS-GE) as a preventative approach for malignant gastric outlet obstruction (MGOO) in men and women aged 18 years or older diagnosed with periampullary cancer.
+
+The main question this study aims to answer is can ProEUS-GE effectively prevent the occurrence of MGOO in patients with periampullary cancer?
+
+Patients will be randomly assigned to one of two groups: Group 1 (ERCP alone) or Group 2 (ERCP + ProEUS-GE). The study will compare the outcomes between these groups to determine the effectiveness of ProEUS-GE in preventing MGOO.
+
+Researchers will compare Group 1 (ERCP alone) with Group 2 (ERCP + ProEUS-GE) to see if the addition of ProEUS-GE leads to a reduced occurrence of MGOO in patients with periampullary cancer.
+
+The primary endpoint is the rate of malignant gastric outlet obstruction.
+Cancer Gi
+PROCEDURE: ERCP alone|PROCEDURE: ERCP +ProEUS-GE
+Rate of gastric outlet obstruction (GOO), Gastric outlet obstruction is defined as GOOSS of \< 2 AND radiological and/or endoscopic confirmation of the presence of GOO either from a gastroduodenal stricture, stent obstruction, or stent migration., 18 months
+Rate of adverse events, Adverse events are defined and rated according to the ASGE lexicon for endoscopic adverse events., 18 months|Quality of life of the participant, Quality of life will be assessed through the European Organization for Research and Treatment of Cancer (EORTC) Quality of Life of Cancer Patients questionnaire. The EQ-5D-5L will also be used to obtain Health Related Quality of Life (HRQoL) or health utilities, 18 months|Nutritional status, Nutritional status will be assessed using the patient-generated subjective global assessment short form (PG-SGA). The PG-SGA scoring scales from 0 to \>9, with a higher score indicating a need for symptom management or nutritional intervention. We will also assess for sarcopenia by incorporating objective quantification of muscle and adipose tissue compartments. These compartments have been shown to have significant prognostic value in patients with pancreatic cancer, including overall survival., 18 months
+Research Question:
+
+The principal research question is whether ProEUS-GE can prevent the occurrence of MGOO in patients with pancreatic head cancer. We hypothesize that the addition of ProEUS-GE during ERCP reduces the rate of development of subsequent MGOO in advanced periampullary solid cancer without significantly increasing the rate of adverse events when compared to ERCP alone.
+
+The Proposed Trial Trial Design: This is a patient- and outcome assessor-blinded multicentre randomized controlled superiority trial. The endoscopist performing the procedure will not be blinded to treatment allocation.
+
+Planned Trial Interventions: 1) ERCP with biliary decompression + prophylactic EUS-guided gastroenterostomy (ProEUS-GE) and 2) ERCP with biliary decompression alone. All procedures will be performed by experienced endoscopists with or without trainee involvement. Following informed consent, sedation will be via conscious sedation or general anesthesia, as per existing institutional procedural protocols. A medical effectiveness approach will be adopted where only the initial randomly allocated treatment is dictated by the trial.
+
+Participant Allocation: After confirmation of fulfillment of all study inclusion/exclusion criteria and pre-procedural consent, patients will be randomly allocated, intra-procedurally during the ERCP, to one of the two approaches.
+
+The primary endpoint is the rate of gastric outlet obstruction.
+
+Sample size calculation is based on the primary endpoint of MGOO considering competing risk of death. Based on the most current available literature and institutional data, we estimated a cumulative incidence rate of MGOO of 5% and 25% at 18 months in the ERCP + ProEUS-GE and ERCP alone arms, respectively. Using a two-sided log-rank test that accounts for a 35% rate of competing risk (death 30% and surgery 5%) in each group while considering a loss to follow-up of 10%, with a minimal follow-up time of 1 year, we calculated that a sample size of 110 patients (55 patients in each arm) is needed to achieve 80% power at a 0.05 significance level (hazard ratio of 5.6) (nQuery, Boston, USA). A pre-planned blinded sample size re-estimation will be conducted by members of the Biostatistics Consulting Unit at the RI-MUHC when approximately 50% of patients have been evaluated for the primary endpoint. The decision to increase the sample size will be made by the DSMB independently from any investigators. The study team has no intention of decreasing the sample size.
+
+For the secondary endpoint of rate of severe adverse event, which is estimated to be 1% for ERCP alone, a sample size of 110 patients would give us 80% power with a one-sided significance of 0.05 to detect non-inferiority at a margin of 4.8%.

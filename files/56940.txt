@@ -1,0 +1,42 @@
+RO4929097, Temozolomide, and Radiation Therapy in Treating Patients With Newly Diagnosed Malignant Glioma
+This phase I trial studies the side effects and best dose of gamma-secretase/Notch signalling pathway inhibitor RO4929097 (RO4929097) when given together with temozolomide and radiation therapy in treating patients with newly diagnosed malignant glioma. Enzyme inhibitors, such as gamma-secretase/Notch signalling pathway inhibitor RO4929097, may stop the growth of tumor cells by blocking some of the enzymes needed for cell growth. Drugs used in chemotherapy, such as temozolomide, work in different ways to stop the growth of tumor cells, either by killing the cells, by stopping them from dividing, or by stopping them from spreading. Radiation therapy uses high-energy x-rays to kill tumor cells. Giving gamma-secretase/Notch signalling pathway inhibitor RO4929097 together with temozolomide and radiation therapy may kill more tumor cells.
+Acoustic Schwannoma|Adult Anaplastic (Malignant) Meningioma|Adult Anaplastic Astrocytoma|Adult Anaplastic Ependymoma|Adult Brain Stem Glioma|Adult Choroid Plexus Neoplasm|Adult Craniopharyngioma|Adult Diffuse Astrocytoma|Adult Ependymoblastoma|Adult Ependymoma|Adult Giant Cell Glioblastoma|Adult Glioblastoma|Adult Gliosarcoma|Adult Grade I Meningioma|Adult Grade II Meningioma|Adult Medulloblastoma|Adult Mixed Glioma|Adult Myxopapillary Ependymoma|Adult Oligodendroglioma|Adult Papillary Meningioma|Adult Pilocytic Astrocytoma|Adult Pineal Gland Astrocytoma|Adult Pineoblastoma|Adult Pineocytoma|Adult Primary Melanocytic Lesion of Meninges|Adult Subependymal Giant Cell Astrocytoma|Adult Subependymoma|Adult Supratentorial Primitive Neuroectodermal Tumor|Malignant Adult Intracranial Hemangiopericytoma
+RADIATION: 3-Dimensional Conformal Radiation Therapy|DRUG: Gamma-Secretase Inhibitor RO4929097|RADIATION: Intensity-Modulated Radiation Therapy|OTHER: Laboratory Biomarker Analysis|OTHER: Pharmacological Study|DRUG: Temozolomide|PROCEDURE: Therapeutic Conventional Surgery
+Maximum-tolerated dose defined as the highest dose studied for which the incidence of dose limiting toxicity is less than 33% using National Cancer Institute Common Toxicity Criteria, The percentage of patients who experience toxicity at each dose level will be calculated, with a 95% confidence interval., 28 days
+Changes in MRI parameters, Perfusion and diffusion-based MRI parameters including but not restricted to blood volume, mean and median apparent diffusion coefficient and structural volumes will be analyzed. Results will be summarized, and mean and median values at different time points will be tabulated. Changes in such parameters will be checked for statistical significance and correlated with the disease status., Baseline to up to 4 years|Percent changes in serum YKL-40 levels and hair follicle HES1 levels, Means and medians of all patients together will be calculated and tabulated for each time point, with depiction of standard deviations. A Wilcoxon test will be used to determine p value of changes in mean values of YKL-40 and hairy and enhancer of split 1, (Drosophila) (HES1), with a p value of less than 0.05 considered statistically significant., Baseline to up to 4 years|Pharmacokinetic (PK) parameters of gamma-secretase/Notch signalling pathway inhibitor RO4929097, Noncompartmental and/or compartmental methods will be used to calculate PK parameters of gamma-secretase/Notch signalling pathway inhibitor RO4929097 and temozolomide from the plasma concentration-time data collected from each individual. Descriptive statistics (including number, mean and/or median, standard deviation, coefficient of variation, and range) for PK parameters will be tabulated by dose level., Pre-dose, 30 minutes, 1, 2, 4, 6, and 8 hours
+Expression of a variety of proteins through immunohistochemistry and/or real time quantitative polymerase chain reaction and tumor tissue culture, Analyses will include comparison of results before and after exposure to gamma-secretase/Notch signalling pathway inhibitor RO4929097 (Wilcoxon rank sum test), as well as status of the Notch pathway and cancer stem cells in a control population of 20 untreated patients (Mann Whitney test)., Up to 4 years
+PRIMARY OBJECTIVES:
+
+I. To establish the maximum tolerated dose/recommended phase II dose of RO4929097 in combination with temozolomide and radiotherapy in patients with glioblastoma or malignant gliomas.
+
+SECONDARY OBJECTIVES:
+
+I. To evaluate the pharmacokinetics of RO4929097 when given in combination with temozolomide (correlative study C1).
+
+II. To evaluate brain and tumor penetration of RO4929097 when given in recommended phase II single agent schedule and when given at the maximum tolerated dose (MTD) for the combination with radiotherapy and temozolomide (correlative study C2).
+
+TERTIARY OBJECTIVES:
+
+I. To evaluate pharmacodynamic effects of RO4929097 in the resected specimens, and comparison with specimens obtained from untreated patients.
+
+II. Effects of RO4929097 on the cancer stem cell population (correlative study C4).
+
+III. Effects of RO4929097 on angiogenesis (correlative study C5). IV. To evaluate the combined effects of RO4929097, radiation and temozolomide in explants established from patients' tumor specimens (correlative study C6).
+
+V. To evaluate the effects of RO4929097 on magnetic resonance imaging (MRI) parameters (correlative study C7), including dynamic contrast enhanced (DCE) MRI perfusion, diffusion weighted imaging and volumetric analysis.
+
+VI. Preliminary evaluation of efficacy of this treatment regimen: 6 month (6m) and median progression-free and overall survival, and response rates.
+
+VII. To evaluate potential biomarkers of gamma-secretase and Notch inhibition activity (correlative study C8).
+
+OUTLINE: This is a dose-escalation study of gamma-secretase/Notch signalling pathway inhibitor RO4929097. Patients are assigned to 1 of 2 treatment arms.
+
+PRE-SURGERY TREATMENT: Patients receive gamma-secretase/Notch signalling pathway inhibitor RO4929097 orally (PO) once daily (QD) on days 1-7 of week 1 and day 1 of week 2.
+
+SURGERY: Patients undergo surgery 2-3 hours after administration of gamma-secretase/Notch signalling pathway inhibitor RO4929097 on day 1 of week 2.
+
+TREATMENT CONCURRENT WITH RADIOTHERAPY: Beginning 3-4 weeks after surgery, patients undergo conventional focal (intensity-modulated radiation therapy \[IMRT\] or 3-D conformal) radiotherapy 5 days a week for approximately 6 weeks. Patients also receive gamma-secretase/Notch signalling pathway inhibitor RO4929097 PO QD for approximately 10 weeks beginning the day of radiotherapy and temozolomide PO QD for approximately 6 weeks beginning the day before radiotherapy.
+
+ADJUVANT TREATMENT FOLLOWING RADIOTHERAPY: Approximately 4 weeks after completion of radiotherapy, patients receive gamma-secretase/Notch signalling pathway inhibitor RO4929097 PO QD on days 1-28 and temozolomide PO QD on days 1-5. Treatment repeats every 28 days for 12 courses in the absence of disease progression or unacceptable toxicity.
+
+After completion of study treatment, patients are followed up every 2 months.

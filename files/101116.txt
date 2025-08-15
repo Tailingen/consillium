@@ -1,0 +1,107 @@
+Intervention Study Based on Real-world Data to Improve Quality of Life After Breast Cancer Treatment, the REBECCA-2 Study
+The overall objective of the REBECCA studies at Stavanger University Hospital (SUH) is to improve the QoL of patients affected by cancer-related fatigue during and after end of treatment, by collecting multi-source real world data (RWD) and intervening based on the collected RWD.
+
+In the intervention study, REBECCA-2, the investigators will use the collected real world data to provide a personalised follow-up to the breast cancer patients in order to improve their quality of life. The patients in this study are randomised into 2 groups after end of primary treatment:
+
+* The control group (n=55): Patients will receive standard follow-up according to national guidelines plus 3 generic lifestyle consultation sessions via telephone.
+* The experimental REBECCA group (n=55): Patients will, in addition to receiving standard follow-up also receive REBECCA-assisted follow-up. Data will be collected from a REBECCA smartwatch, plug-in and PROMs.
+
+If the REBECCA system detects signs of deterioration in patients' QoL during the study period, the intervention will include changes in medication given, dietary advice, referral to a psychologist/psychiatrist and/or personal training with a physiotherapist at 'Pusterommet' (SUH)
+
+After 12 months of RWD collection participants will be offered the option to continue in the study for another 6 months. For patients in the experimental Rebecca group this includes the use of the REBECCA system for another 6 months. In the clinical REBECCA-2 study, patients' visits are planned every 6 months and include collection of both PROMs and biological samples.
+Cancer Related Fatigue
+DRUG: REBECCA-assisted intervention 1|BEHAVIORAL: REBECCA-assisted intervention 2|OTHER: Standard follow-up
+Quality of life (QoL) measured by the SF36-questionnaire., The SF-36 scores the patients physical and mental health on a scale of 0-100, where higher values indicate better health. An increase of 10% or more indicates an improved QoL., Every 6 months, from time of diagnosis to 24-months.
+Fatigue in primary breast cancer patients measured by the fVAS questionnaire., The fatigue Visual Analog Scale (fVAS) scores fatigue on a scale of 0-100, where lower values indicate less fatigue, thus a reduction in fVAS score between timepoints indicates a reduction of fatigue., Every 6 months, from time of diagnosis to 24-months.|Fatigue in primary breast cancer patients measured by the FSS questionnaire., The Fatigue Severity Scale (FSS) scores fatigue on a scale of 1-7, where lower values indicate less fatigue, thus a reduction in FSS score between timepoints indicates a reduction of fatigue., Every 6 months, from time of diagnosis to 24-months.|Fatigue in primary breast cancer patients measured by the FQ questionnaire., The Fatigue Questionnaire (FQ) scores fatigue on a scale of 0-33, where lower values indicate less fatigue, thus a reduction in FQ score between timepoints indicates a reduction of fatigue., Every 6 months, from time of diagnosis to 24-months.|Effect on fatigue levels after personalized training with a physiotherapist., The Fatigue Questionnaire (FQ) scores fatigue on a scale of 0-33, where lower values indicate less fatigue. A reduction of 10 % or more in FQ score indicate an improvement in levels of fatigue., Every 6 months, from time of diagnosis to 18-months.|Fatigue biomarker HSP90 in plasma of primary breast cancer patients., Measure levels of heat shock protein 90 (HSP90) (ng/ml), Every 6 months, from time of diagnosis to 24-months.|Fatigue biomarkers of interleukins (IL) in plasma of primary breast cancer patients., Measure levels of IL1β, IL1βRa, IL6 and IL10 (pg/ml), Every 6 months, from time of diagnosis to 24-months.|Fatigue biomarkers of DNA methylation in plasma of primary breast cancer patients., Measure levels of DNA methylations (number of methylations), Every 6 months, from time of diagnosis to 24-months.|Gut microbiota composition in primary breast cancer patients., Long-read 16S rRNA sequencing of faecal samples to characterize the gut microbiota composition., Every 6 months, from time of diagnosis to 24-months.|REBECCA functional index score at 12-months, The REBECCA functional index score is given as values between 0 and 100, where higher values indicate higher QoL., At 12-months from time of diagnosis.|REBECCA functional index score at 18-months, The REBECCA functional index score is given as values between 0 and 100, where higher values indicate higher QoL., At 18-months from time of diagnosis.|Longitudinal analysis of the effect of the use of REBECCA using Generalized Estimating Equation (GEE)., Weekly measurements over a 6-month period., From month 6 - 12|Correlation between the REBECCA system index score and QoL questionnaire score., REBECCA score (scale 0-100) correlation to the SF36 (scale 0-100)., At 12 and 18 months from time of diagnosis.|Correlation between the REBECCA system index score and fatigue questionnaire scores., REBECCA score (scale 0-100) correlation to the fVAS (scale 0-100), FSS (scale 0-7) and FQ (scale 0-33)., At 12 and 18 months from time of diagnosis.|Correlation between the REBECCA system index score and fatigue biomarker levels in plasma., REBECCA score (scale 0-100) correlation to fatigue biomarker levels of HSP90, IL1β, IL6, IL10, IL1βRa and DNA methylation in plasma., At 12 and 18 months from time of diagnosis.|Correlation between the REBECCA system index score and fatigue biomarker levels in feces., REBECCA score (scale 0-100) correlation to fatigue biomarker levels of pro-inflammatory and anti-inflammatory microbes in feces., At 12 and 18 months from time of diagnosis.
+1. Background:
+
+   Clinical research is undergoing revolutionary changes by use of electronic patient records (EHR), digital registers and smartphones. The widespread use of portable devices have led to possibilities to collect "real-world data" (RWD) that provides great opportunities for advancing clinical research.
+
+   Fatigue or exhaustion is one of the most common and most annoying late side effects after breast cancer treatment. Cancer Related Fatigue (CRF) may be elevated even before starting treatment and generally increases in intensity during treatment . CRF is multi-dimensional and can have physical, mental and emotional manifestations, including general weakness, decreased concentration or attention, decreased motivation or interest in participating in regular activities, as well as emotional lability. Fatigue has also been shown to have a negative impact on work, social relationships, mood and daily activities and causes a significant reduction in overall quality of life during and after treatment for the patients affected. Thus, studying of RWD in CRF will be an appropriate method and design. As far as known this has not been done before.
+
+   The biological mechanisms associated with the development of CRF may involve inflammatory processes contribute to fatigue during and especially after cancer treatment.
+2. Rationale behind the REBECCA project:
+
+   By using multi-source RWD in clinical studies, it will be possible to monitor the quality of life of patients and have a unique opportunity to map the challenges patients have in their daily lives in terms of work life participation, physical activity, social activity / relationships and their concerns. At the same time, the investigators will explore whether different immunological candidate biomarkers can provide prognostic information related to the development of fatigue in this patient group.
+3. Objectives:
+
+   The purpose of the REBECCA-2 study at SUS is to use multi-source RWD to monitor the quality of life of breast cancer patients who are affected by fatigue during and after cancer treatment, and to provide a more comprehensive and personal follow-up to those with goals about improving the quality of life.
+4. Specific aims include:
+
+   * To evaluate whether the use of REBECCA aggregated patient information (ie collection of continuous RWD and PROMs) will contribute to better follow-up of breast cancer patients in the first 12 months after completion of primary treatment, as well as result in an improved quality of life for patients participating in this study arm compared to which receives standard follow-up. To evaluate whether the observed improvement is long-term, at least that it will persist until the time of the 18-month evaluation.
+   * To evaluate whether an improvement in quality of life is associated with improvements demonstrated by REBECCA's behavioral indicators, which are calculated from continuous "real-world" REBECCA measurements. This will show whether RWD can ensure a more efficient and better follow-up of breast cancer patients after primary treatment has ended.
+   * To evaluate whether immunological biomarkers such as HSP90, IL1b, IL6, IL10, IL-17, IL1 β Ra, IL1-RII, HPX, CFB, APOA4 and Serpin-F1 as well as DNA methylation patterns can provide prognostic information related to the development of fatigue in breast cancer patients.
+   * To evaluate whether an improvement in quality of life is associated with lower reporting of cancer-related fatigue, and reduced levels of fatigue-related biomarkers in the biological samples.
+   * To evaluate whether an improvement in quality of life is associated with improvements in REBECCA's PROM index, calculated from continuous "real-world" REBECCA measurements.
+5. Study design:
+
+   In the intervention study, REBECCA-2, the investigators will use the collected real world data to provide a personalised follow-up to the breast cancer patients in order to improve their quality of life. The patients in this study are randomised into 2 groups after end of primary treatment:
+   * The control group (n=55): Patients will receive standard follow-up according to national guidelines plus 3 generic lifestyle consultation sessions via telephone.
+   * The experimental REBECCA group (n=55):
+
+   The patients participating in the experimental study arm will be allowed to borrow a smartwatch, which they must wear for 12 months. In addition, they must install a REBECCA patient app on their mobile phone and a plug-in on their PC/laptop so that the investigators can obtain objective "real-world data (RWD)" related to the participants' quality of life and lifestyle over the next 12 months.
+
+   If the REBECCA system detects signs of deterioration in patients' QoL during the study period, the intervention will include changes in medication given, dietary advice, referral to a psychologist/psychiatrist and/or personal training with a physiotherapist at 'Pusterommet' (SUH)
+
+   After 12 months of RWD collection participants will be offered the option to continue in the study for another 6 months. For patients in the experimental Rebecca group this includes the use of the REBECCA system for another 6 months. In the clinical REBECCA-2 study, patients' visits are planned every 6 months and include collection of both PROMs and biological samples.
+
+   The attending physician at SUS will have access to a summary of the "real-world" patient data through "the Clinical Dashboard", in order to be able to actively use this information to improve the follow-up of the patient.
+
+   Participants in the experimental arm will also be able to give permission for others, e.g. family members or close friends, to contribute with information about their physical and emotional state of health to REBECCA. This data is then reported in the REBECCA companion app.
+6. REAL WORLD DATA COLLECTION
+
+   A. Smartwatch:
+
+   Acceleration, pulse, Activity sessions (type of exercise (running, walking, walking, cycling Length of activity(minutes, training distance (km) and altitude meters Intensity level(number of calories, intensity)
+
+   B. Smartphone and mobile apps
+   * GPS positions (movement pattern)
+   * Answer to questionnaires
+   * Photo initiated in the Rebecca app (related to meals/eating habits and environment)
+   * Publicity available data from map services location and environmental.
+
+   C. REBECCA. PC plug in internet from \*Social media such as Facebook, You Tube etc.
+
+   D. REBECCA companion app (optional) \*answer questions about the patient's quality of life , symptoms and environment.
+7. Patient Reported Outcome Measures (PROMs)
+
+   Patient-reported data (PROMs) related to lifestyle, quality of life, working conditions, sleep and medication use will also be collected in REBECCA. For this purpose, the investigators will both use standardized PROM forms (ΕORTC-QLQ-BR2340, SF-3641, ΕORTC-QLQ-C3042, HAD43, FSS44, FQ45 og VAS-fatigue 34, 46, 47) and self-report form.
+8. Collection and analyses of blod-, urine- and faeces samples
+
+   All patients included in the REBECCA-2 sub-study will be asked to give blood, urine and faeces samples i.) at the time of diagnosis ii.) after the end of treatment (month 6) and iii.) at 12 and 18 months follow-up. A tissue sample will also be taken at the time of diagnosis. The blood samples will be used to investigate whether immunological biomarkers such as HSP90, IL1b, IL6, IL10, IL-17, IL1βRa, IL1-RII, HPX, CFB, APOA4 and Serpin-F1-can provide prognostic information related to the development of fatigue in breast cancer patients.
+
+   DNA methylation will be examined by Full-genome methylation assays using Illumina's Human Methylation 850K platform and 8 CpG sites from our partner Mylin Torres will in addition be validated.
+9. Data flow
+
+   The REBECCA system will function as a data collection system, and will be a "stand alone" system that will have no communication with other systems in the hospital.
+
+   i.) A smartwatch: The smartwatch to be used in REBECCA for RWD collection will be a commercial Garmin-type smartwatch.
+
+   ii.) REBECCAs patient app (pApp): GPS data, data from third-party health apps, images and sensor data will first be uploaded to REBECCA's pApp. The data will be stored in the app on a separate memory location on the phone, which is isolated and therefore not available for the other phone apps. .
+
+   iii.) REBECCAs PC plug-in: patients will install this on their PC. The REBECCA's PC plug-in utilizes the browser's local storage space to store information that is critical to its functionality, while the data from the patient's online activity is directly transferred and stored on the REBECCA server for subsequent processing.
+
+   iv.) REBECCAs companion app (cApp): Family members or close friends who will contribute information to REBECCA will report this data in REBECCA's companion app, which they will install on their mobile. .
+
+   v.) RedCap server at HelseVest IKT: Deidentified clinical data and PROM data will be stored in the RedCap server at HelseVest IKT before being transferred pseudonymously and encrypted to the remotely managed REBECCA server.
+10. Data storage, privacy and data security
+
+    Data security and privacy are a high priority in REBECCA and will of course be in line with both Norwegian and European laws. The law firm TimeLex, located in Belgium, is responsible for creating an operational data security and ethical framework that the study will follow. This means that all precautions will be taken in REBECCA to respect the privacy of study participants in accordance with European Parliament and Council Regulation (EU) 2016/679 of 27 April 2016 regarding the protection of individuals with regard to the processing of personal data and the free movement of such data , and repealing Directive 95/46 / EC (General Data Protection Regulation) (GDPR))50. TimeLex, will identify and describe the ethical guidelines that apply to the various REBECCA participating countries, and the list of necessary measures will apply to the entire ethical operation of the REBECCA project.
+11. Expected impact of the REBECCA project
+
+    REBECCA aims to use "real-world data" combined with an advanced data management platform and innovative methods for modeling causal data, to close the gap between clinical research and clinical practice in the treatment of cancer patients. The REBECCA project will initially focus on breast cancer, but will also demonstrate the REBECCA system's transmission to other cancers such as prostate cancer. REBECCA's technological and methodological advances will also be relevant for other clinical research domains that want to investigate the causal relationship between several clinical factors, through analysis of registry and biobank data and observational data from patients' real life / everyday life.
+12. Among REBECCAs milestones are:
+
+A. Development of new approaches to measurement, and a better understanding, of indicators related to the patient's health status and quality of life.
+
+B. Development of methods for statistical and causal analysis of "real-world data".
+
+C. Clinical studies in cancer-related fatigue / fatigue, cancer-induced peripheral neuropathy and cancer-related osteoporosis.
+
+D. Examination of patient monitoring in clinical trials, as a tool to improve the quality of life of cancer patients.
+
+E. Generation and reuse of data sets that will enable the investigation of new medical issues as well as the design, implementation and delivery of an AI-enhanced data collection and management system for comprehensive monitoring of breast cancer survivors' health status and quality of life.
+
+F. To offer new tools and data to clinicians that lead to improved follow-up of cancer patients.
+
+G. Improved patient experience and quality of life due to detailed monitoring and a more personal follow-up.

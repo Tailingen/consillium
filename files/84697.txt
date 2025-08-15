@@ -1,0 +1,13 @@
+Interleukin-2 and Pembrolizumab for Metastatic Kidney Cancer
+The main purpose of this study is to evaluate the effects of the interleukin-2 given in combination with pembrolizumab.
+
+Interleukin-2 (IL-2) is also called aldesleukin, or Proleukin™.
+
+Pembrolizumab is also called Keytruda™, or anti-PD-1 antibody.
+Kidney Cancer
+DRUG: Pembrolizumab|DRUG: Interleukin-2
+Overall Response Rate (ORR), Overall Response According to Immune-related response criteria (irRC). Overall response rate ORR is defined with confirmation of the response status Complete Response (CR) or Partial Response (PR) among the combination treatment population patients; the binomial estimate and its one-sided 95% confidence interval will be reported. CR: Disappearance of all lesions in two consecutive observation not less than 4 weeks apart. PR: ≥50% decrease in tumor burden compared with baseline in two observations at least 4 weeks apart., Up to 24 months
+Overall Survival (OS) of Intent to Treat (ITT) Population, Analysis: Overall Survival (OS) of ITT patients using Kaplan-Meier estimate, counting from the eligible date to death from any cause, or censored on end of known follow up, either within this study or in the Prometheus Laboratories sponsored PROCLAIM registry (PROCLAIM Registry to Evaluate the Treatment Patterns and Clinical Response in Malignancy, NCT01415167)., Up to 24 months|Progression Free Survival (PFS), Progression-free survival (PFS) of ITT patients using Kaplan Meier estimate, from the confirmed eligible date to the first occurrence of disease progression or death, from any cause, or lost to follow up, whichever is earliest; or censored at last follow-up during study. Progressive Disease (PD): At least 25% increase in tumor burden compared with nadir (at any single time point) in two consecutive observations at least 4 weeks apart., Up to 24 months
+The treatment is organized into blocks of 9 weeks, with pembrolizumab treatment planned for weeks 1, 4 and 7. On the second and third blocks, interleukin-2 is added, for 5 doses at a time, one dose every 8 hours, on a weekly schedule on the two weeks after the week 1 and the week 4 pembrolizumab doses.
+
+There is no dose escalation portion: The dose and schedule of IL-2 is fixed, 600,000 IU/kg/dose, with a cap of 66 mIU/dose. Doses may be omitted for safety. The dose of pembrolizumab is fixed, flat dose 200 mg/dose.

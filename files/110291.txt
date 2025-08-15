@@ -1,0 +1,26 @@
+Machine Learning-Based Prediction of BCG Response in High-Risk Non-Muscle Invasive Bladder Cancer Patients
+This prospective study aims at using Artificial intelligence to create a helpful unbiased machine learning-based model that predicts BCG unresponsiveness in high risk BCG-naïve NMIBC patients incorporating all potential clinico-pathological, radiological and/or molecular prognostic factors.
+Non-Muscle Invasive Bladder Cancer
+DRUG: Bacillus Calmette-Guerin
+BCG unresponsiveness, T1/Ta HG recurrence within 6 months of adequate BCG therapy, 6 months
+Introduction:
+
+In the era of BCG shortage and BCG-associated morbidity, the development of prognostic models remains a never-ending topic of research to predict Non Muscle Invasive Bladder Cancer (NMIBC) patients of high risk of BCG unresponsiveness; hence optimize their treatment, achieve survival benefit with minimal long-term morbidity, and prioritize patients with expected good response.
+
+Aim of the study:
+
+This prospective study aims at using Artificial intelligence to create a helpful unbiased machine learning-based model that predicts BCG unresponsiveness in high risk BCG-naïve NMIBC patients incorporating all potential clinico-pathological, radiological and/or molecular prognostic factors.
+
+Patients and Methods:
+
+Patients with diagnosed bladder tumors seen through the outpatient clinic in the urology department (Urology and Nephrology Center, Mansoura University, Egypt) will be assessed for eligibility to the study and inclusion criteria (Ability to give informed consent, High-risk NMIBC, Good performance status and No prior history of BCG intravesical therapy) then asked to participate in this prospective study via an informed consent form.
+
+All patients will be thoroughly evaluated by medical history and physical examination, routine laboratory investigations (including cytology and N/L ratio), mpMRI lower abdomen and pelvis and molecular markers evaluation (Urinary IL-10 levels by solid phase ELISA Immunoassay, Reverse Transcriptase-quantitative Polymerase Chain Reaction (RT qPCR) technology-based assessment of serum TNF-a and Chromosomal anomalies using FISH technique) . Then, all patients will be managed by cystoscopy and initial complete TURBTfollowed by re-staging TUR biopsy 2-6 weeks later on. All patients will be discharged after the re-staging TUR to receive adjuvant intravesical BCG therapy in the outpatient clinic and to be followed-up according to the predetermined protocol. If any patient has new tumour/positive cytology by outpatient cystoscopy after ICR, he will be readmitted to our center and subjected to cystoscopic-guided biopsy. If high grade or CIS proven pathology, BCG unresponsiveness will be considered. Univariate and multivariate analysis will be performed to identify independent prognostic factors associated with BCG unresponsiveness. After that, each of these factors will have a score according to its regression coefficient. Then, these independent factors with their scores will be summed into Artificial Neural Network-based prediction model for predicting BCG unresponsiveness.
+
+Sample size and statistical analysis:
+
+Sample size is calculated for the final analysis 6 months post initial TURBT with α = 0.05 (adjusted for the primary outcome which is BCG unresponsiveness) and a power of 80% (β = 0.20). A sample size of 45 patients per group should be available for final analysis. Since an overall dropout rate of about 10% is expected, 50 patients per group have to be recruited. All statistical analyses will be performed using ABM SPSS program version 20.
+
+Ethical considerations:
+
+A fully informed consent will be taken from all patients. The study will approved by the local ethical committee IRB (Institutional review board), faculty of medicine, Mansoura University. Patients will be managed according to Declaration of Helsinki.

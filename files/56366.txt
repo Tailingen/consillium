@@ -1,0 +1,33 @@
+Brentuximab Vedotin and Nivolumab for the Treatment of Patients with Relapsed/refractory Classical Hodgkin Lymphoma
+This phase II trial investigates how well brentuximab vedotin and nivolumab work in treating patients with classical Hodgkin lymphoma that has come back after initial treatment (relapsed) or has not responded to initial treatment (refractory). Brentuximab vedotin is a monoclonal antibody, brentuximab, linked to a toxic agent called vedotin. Brentuximab attaches to CD30 positive cancer cells in a targeted way and delivers vedotin to kill them. Nivolumab is an antibody that enhances the immune system to better fight Hodgkin lymphoma cells. Giving brentuximab vedotin and nivolumab may be able to defer stem cell transplant treatment and spare the considerable cost and toxicity on transplantation.
+Relapsed Classic Hodgkin Lymphoma
+DRUG: Brentuximab Vedotin|BIOLOGICAL: Nivolumab
+Progression-free survival (PFS) at 24 months in patients who achieve complete metabolic response (CMR) after 4 cycles of treatment, Estimated using Kaplan-Meier product limit method., From start of protocol treatment to time of disease relapse/progression or death due to any cause, assessed at 24 months
+Complete metabolic response (CMR) rate, Defined as the proportion of response-evaluable participants that achieve a best response of CMR with brentuximab vedotin (BV)-nivolumab (Nivo) therapy. Will be estimated along with the 95% exact binomial confidence interval., After 4 or 8 cycles (each cycle is 21 days)|Overall response rate (ORR), defined as the proportion of response-evaluable participants that achieve a best response of either CMR or partial metabolic remission (PMR) with BV-Nivo therapy. Will be estimated along with the 95% exact binomial confidence interval., After 4 or 8 cycles (each cycle is 21 days)|Overall survival (OS), Will be estimated using the product-limit method of Kaplan and Meier along with the Greenwood estimator of standard error; 95% confidence interval will be constructed based on log-log transformation. Median PFS/OS will be estimated when available. PFS and OS will be estimated for the entire cohort, for subgroups defined by response, and for responders who did and did not receive radiotherapy., From start of protocol treatment to time of death due to any cause, assessed up to 5 years (each cycle is 21 days)|PFS, Will be estimated using the product-limit method of Kaplan and Meier along with the Greenwood estimator of standard error; 95% confidence interval will be constructed based on log-log transformation. Median PFS/OS will be estimated when available. PFS and OS will be estimated for the entire cohort, for subgroups defined by response, and for responders who did and did not receive radiotherapy., From start of protocol treatment to time of disease relapse/progression or death due to any cause, whichever occurs earlier, assessed up to 5 years(each cycle is 21 days)|Incidence of adverse events, Toxicities will be graded using the National Cancer Institute (NCI) Common Terminology Criteria for Adverse Events (CTCAE) version (v) 5.0. Observed toxicities of BV-Nivo therapy will be summarized by type (organ affected or laboratory determination such as absolute neutrophil count), severity, and attribution., Up to 30 days post-treatment
+PRIMARY OBJECTIVE:
+
+I. Assess the durability of response to brentuximab vedotin (BV) plus nivolumab (nivo) by 24-month progression-free survival (PFS) in participants (with relapsed/refractory classical Hodgkin lymphoma (RcHL) after frontline therapy) who achieved early complete metabolic response (CMR) (CMR after 4 cycles).
+
+SECONDARY OBJECTIVES:
+
+I. Estimate CMR and overall response rate (ORR) after 4 cycles and at the end of BV-nivo therapy.
+
+II. Estimate the PFS and overall survival (OS) for the entire cohort and for subgroups of patients defined by their response.
+
+III. Estimate the PFS and OS separately for responders who did and did not receive radiotherapy.
+
+IV. Evaluate the toxicities of BV-nivo in the study population.
+
+EXPLORATORY OBJECTIVES:
+
+I. Estimate the second PFS after salvage therapy for patients who progress after study therapy, and for the subset of these patients who proceeded to autologous stem cell transplant (ASCT).
+
+II. Explore the association between clinical outcomes and pathological tumor characteristics.
+
+III. Explore the association between clinical outcomes and circulating tumor deoxyribonucleic acid (ctDNA) characteristics (mutation profile, kinetics of clearance).
+
+OUTLINE:
+
+Patients receive brentuximab vedotin intravenously (IV) over 30 minutes and nivolumab IV over 30 minutes on day 1. Treatment repeats every 21 days for up to 16 cycles in the absence of disease progression or unacceptable toxicity.
+
+After completion of study treatment, patients are followed up at 30 days and 6, 12, 18, 24, 36, 48, and 60 months.

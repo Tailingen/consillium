@@ -1,0 +1,27 @@
+Imaging Study of [89Zr]DFO-YS5 for Detecting CD46 Positive Malignancy in Multiple Myeloma
+This phase I trial tests the safety of \[89Zr\]DFO-YS5 positron emission tomography (PET) imaging and how well it works to detect CD46 positive cancer cells in patients with multiple myeloma. \[89Zr\]DFO-YS5 is an imaging agent called a radiopharmaceutical tracer. A radiopharmaceutical tracer uses a small amount of radioactive material that is injected into a vein to help image different areas of the body. \[89Zr\]DFO-YS5 targets a specialized protein called CD46, which is in certain multiple myeloma cancer cells, and \[89Zr\]DFO-YS5 PET scans may improve detection of multiple myeloma.
+Multiple Myeloma|Plasma Cell Myeloma
+DRUG: Zirconium Zr 89-DFO-YS5|PROCEDURE: Positron Emission Tomography / Computed Tomography (PET/CT)|PROCEDURE: Positron Emission Tomography / Magnetic Resonance Imaging (PET/MRI)|OTHER: Fludeoxyglucose F-18
+Sensitivity of metastatic lesion, Defined as the rate of lesions with positive uptake when compared against 18F-fluorodeoxyglucose (FDG) PET/computed tomography (CT) positivity. Sensitivity estimated based on lesion level without considering the location of the lesions or the possible intracorrelation of the lesions from the same patient by point estimate with its 95% confidence interval., Up to 1 week|Median maximum standardized uptake value (SUVmax), The median and range of standardized uptake value maximum (SUVmax) (across all metastatic lesions per participant) in each study cohort will be descriptively reported using mediastinal blood pool and normal organ background uptake values., Up to 1 week|Median Standardized Uptake Value averaged across lesions (SUVmax-avg), The median and range of SUVmax-average across all lesions in each study cohort will be descriptively reported using mediastinal blood pool and normal organ background uptake values., Up to 1 week
+Proportion of participants reporting treatment-related Adverse Events, Will be reported descriptively using the National Cancer Institute Common Terminology Criteria for Adverse Events version 5.0., Up to 35 days|Average organ uptake of [89Zr]DFO-YS5, Regions of interest will be drawn on major organs, and the SUVmax calculated for each patient. Average organ uptake reported with descriptive statistics, including the mean and standard deviation (SD)., Up to 1 week|Descriptive patterns of intra-tumoral uptake of [89Zr]DFO-YS5, On whole body PET, site of disease, uptake by tumor type, inter-tumoral and inter-patient heterogeneity, and tumor-to-background signal. The median and range for intra-tumoral SUVmax within metastatic lesions will be reported descriptively on a per-lesion basis to assess for intra-tumoral heterogeneity and differences in uptake by site of disease., Up to 1 week|Dosimetry measurements (Cohort B only), Dosimetry calculations will be performed and reported in millisievert (mSv)/megabecquerels (MBq) on a per-patient basis. Time-activity curves will be generated for each organ, and curve-fitting will be performed to derive the time-integrated activity coefficients, Up to 1 week
+PRIMARY OBJECTIVE:
+
+I. To determine the sensitivity of metastatic lesion detection in multiple myeloma using zirconium Zr 89-DFO-YS5 (\[89Zr\]DFO-YS5 PET, as compared with fludeoxyglucose F-18 (18F-FDG) PET imaging.
+
+SECONDARY OBJECTIVES:
+
+I. To determine the safety of \[89Zr\]DFO-YS5. II. To determine the average organ uptake of \[89Zr\]DFO-YS5. III. To descriptively report the patterns of intra-tumoral uptake of \[89Zr\]DFO-YS5 on whole body PET, including by site of disease, uptake by tumor type, inter-tumoral and inter-patient heterogeneity, and tumor-to-background signal.
+
+IV. To calculate the dosimetry of \[89Zr\]DFO-YS5 in patients with multiple myeloma.
+
+EXPLORATORY OBJECTIVE:
+
+I. To determine the association between uptake (standardized uptake value maximum \[SUVmax\]) of \[89Zr\]DFO-YS5 with 1q amplification by fluorescence in situ hybridization (FISH) on tumor biopsies (when available; FISH may be conducted as part of routine, standard-of-care).
+
+OUTLINE: Participants are assigned to 1 of 2 cohorts based on participant preference.
+
+COHORT A: Participants receive \[89Zr\]DFO-YS5 intravenously (IV) and undergo a single PET/CT or PET/MRI scan 5-7 days post-injection. Participants also receive fludeoxyglucose F-18 IV and undergo PET/CT or PET/MRI scan within 28 days prior to day 1.
+
+COHORT B: Participants receive \[89Zr\]DFO-YS5 IV and undergo four PET/CT or PET/MRI scans on days 1, 2, 3-4, and 5-7 post-injection. Participants also receive fludeoxyglucose F-18 IV and undergo PET/CT or PET/MRI scan within 28 days prior to day 1.
+
+Patients are followed up at 30 days after final scan.

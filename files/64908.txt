@@ -1,0 +1,14 @@
+Ex-vivo Examination of Excisions of Skin Tumors by Confocal Optical Coherence Tomography (LC-OCT) With Integrated Dermoscopy and Comparison With Histology (DERMOCTAV)
+This project aims to validate ex vivo the use of the OCTAV® prototype integrating the "dermoscope" function before an in vivo application, by comparing images obtained by the OCTAV® prototype integrating the "dermoscope" function with the histological sections of a skin tumor excision corresponding to them exactly, at the same level.
+Cutaneous Tumor|Optical Coherence Tomography|Basal Cell Carcinoma|Squamous Cell Carcinoma|Melanoma
+PROCEDURE: Confocal optical coherence tomography - OCTAVE
+Concordance RATE, Correlation between LC-OCT images on the first 500 microns of the skin and histological images of skin and tumor excision analysis., 10 days
+There are mainly 3 types of skin cancer: melanoma, basal cell carcinoma and squamous cell carcinoma. The diagnosis of skin cancers is now based on anatomo-pathological evidence. However, given the progress made, imaging is a technique that now has a full role in the diagnosis of these pathologies. This is particularly the case of confocal optical coherence tomography (LC-OCT), which is a recent imaging technique that has proven itself in ophthalmology with the obtaining of precise images of the retina.
+
+LC-OCT can be applied in dermatology according to the following principle: the low intensity laser beam delivered by the LC-OCT device interferes with the melanin, is reflected and makes it possible to instantly acquire a 3D cross-sectional image of the skin, with a resolution of the order of a micrometer. It is finally an "optical echography", the light allowing a tissue definition much higher than the ultrasonic waves. It is therefore possible to obtain sections of histological resolution, and to scan the entire area studied.
+
+Based on this principle, DAMAE has created OCTAV®, a class 1 medical device intended to allow "an in-depth study of skin pathologies", which is currently being evaluated in vivo as part of a clinical trial ( OCTAV - NCT03731247).
+
+The device evaluated in the OCTAV trial does not include the "dermoscope" function. However, coupled with an image capture and processing system, it would increase the magnification obtained from 10 times to 20 or 30 times, allowing precise targeting of the lesion. As a result, a new prototype of OCTAV® has been developed which integrates the "dermoscope" function.
+
+In this context, this project aims to validate ex vivo the use of the OCTAV® prototype integrating the "dermoscope" function before an in vivo application, by comparing images obtained by the OCTAV® prototype integrating the "dermoscope" function with the histological sections of a skin tumor excision corresponding to them exactly, at the same level.

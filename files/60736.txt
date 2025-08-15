@@ -1,0 +1,21 @@
+Dasatinib in Treating Patients With Stage IIIB, Stage IV, or Recurrent Non-Small Cell Lung Cancer
+Dasatinib may stop the growth of tumor cells by blocking some of the enzymes needed for cell growth. This phase II trial is studying how well dasatinib works in treating patients with stage IIIB, stage IV, or recurrent non-small cell lung cancer.
+Non-small Cell Lung Cancer|Recurrent Non-small Cell Lung Cancer|Stage IIIB Non-small Cell Lung Cancer|Stage IV Non-small Cell Lung Cancer
+DRUG: dasatinib
+Number of Participants With Objective Response (Complete Response (CR) or Partial Response (PR)), Objective response defined as participants with Complete Response (CR) or Partial Response (PR) evaluated using the Response Evaluation Criteria in Solid Tumors (RECIST) criteria. RECIST definitions are Complete Response (CR): Disappearance of all target lesions; Partial Response (PR): At least a 30% decrease in sum of the longest diameter (LD) of target lesions, taking as reference the baseline sum LD; Progressive Disease (PD): At least a 20% increase in the sum of the LD of target lesions, taking as reference the smallest sum LD recorded since the treatment started or the appearance of one or more new lesions; Stable Disease (SD): Neither sufficient shrinkage to qualify for PR nor sufficient increase to qualify for PD, taking as reference the smallest sum LD since the treatment started. Response measured by tumor size on computed tomography scans and by metabolic activity on positron emission tomography scans., 12 weeks|Progression-free Survival (PFS), Progression-free survival (PFS) is defined as the duration of time from start of treatment to time of progression or death., Time from start of treatment to time of progression or death, assessed at 2 months
+Time to Progression (TTP), Time from start of treatment to time of progression or death, assessed radiographically every 6 weeks|Epidermal Growth Factor Receptor (EGFR) Mutational Status, Baseline|Epidermal Growth Factor Receptor (EGFR) Copy Number, Baseline|Phospho-Src (pSrc) Expression, Baseline
+PRIMARY OBJECTIVES:
+
+I. Determine the progression-free survival at 12 weeks in patients with stage IIIB or IV or recurrent non-small cell lung cancer treated with dasatinib.
+
+SECONDARY OBJECTIVES:
+
+I. Determine the rate of response in patients treated with this drug. II. Examine the relationship between clinical response to this drug and epidermal growth factor receptor (EGFR) mutational status, EGFR copy number, and (phosphorylated Src) pSrc expression levels in pre-treatment tumor biopsies.
+
+III. Determine the toxicity of this drug.
+
+OUTLINE:
+
+Patients received oral dasatinib twice daily on days 1-21. Treatment repeats every 21 days in the absence of disease progression or unacceptable toxicity.
+
+Previously obtained paraffin-embedded tumor tissue samples are analyzed by polymerase chain reaction and fluorescent in situ hybridization (FISH) for epidermal growth factor receptor and by immunohistochemistry for pSrc expression.

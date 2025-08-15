@@ -1,0 +1,13 @@
+A Study of Circulating Immune Cell Activity Changes in Blood of Colorectal Cancer Patients
+Previous studies have shown that colorectal cancer patients' prognosis and overall survival was related with immune cell expression in patients' tissue. However, the circulating immune cell activity changes in patients' blood has few studies. The purpose of this study is to analyze the variation of circulating immune cell activity in colorectal patients' blood which is classed as clinical staging.
+Colorectal Cancer
+DEVICE: Early stage|DEVICE: Late stage
+Circulating helper T cell activity, change of expression level of T cell (0\~100 %), preoperative time
+Cytotoxic T cell and natural killer cell activity, change of expression level Cytotoxic T cell and natural killer cell(0\~100 %)from 0 to 100), preoperative time
+CD4 and Treg cell activity and change of percentage of CD39 and CD73, change of expression level of CD4 and Treg cell activity and change of percentage of CD39 and CD73(0\~100 %), preoperative time
+The patients were classed as clinical staging
+
+1. Early (stage1+2) and Late(stage3+4)
+2. regional lymph node metastasis
+3. Distant metastasis
+4. TNM stage

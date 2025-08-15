@@ -1,0 +1,61 @@
+Study Adding Drugs to Usual Treatment for Large B-Cell Lymphoma That Returned or Did Not Respond to Treatment
+This phase 2 trial studies the side effects and best dose of tazemetostat and zanubrutinib in combination with tafasitamab and lenalidomide, and to see how well these combinations work in treating patients with large B-cell lymphoma that returned or did not respond to earlier treatment. Tazemetostat is in a class of medications called EZH2 inhibitors. It helps to stop the spread of cancer cells. Zanubrutinib is in a class of medications called kinase inhibitors. It works by blocking the action of the abnormal protein that signals cancer cells to multiply. This helps stop the spread of cancer cells. tafasitamab is a monoclonal antibody that may interfere with the ability of cancer cells to grow and spread. Lenalidomide is in a class of medications called immunomodulatory agents. It works by helping the bone marrow to produce normal blood cells and by killing abnormal cells in the bone marrow. The addition of tazemetostat or zanubrutinib to tafasitamab and lenalidomide may be able to shrink the cancer or extend the time without cancer symptoms coming back.
+Grade 3b Follicular Lymphoma|High Grade B-Cell Lymphoma|High Grade B-Cell Lymphoma With MYC and BCL2 and/or BCL6 Rearrangements|Recurrent Diffuse Large B-Cell Lymphoma|Refractory Diffuse Large B-Cell Lymphoma|Transformed Non-Hodgkin Lymphoma
+PROCEDURE: Biospecimen Collection|PROCEDURE: Computed Tomography|DRUG: Lenalidomide|PROCEDURE: Magnetic Resonance Imaging|PROCEDURE: Positron Emission Tomography|OTHER: Quality-of-Life Assessment|OTHER: Questionnaire Administration|BIOLOGICAL: Tafasitamab|DRUG: Tazemetostat|DRUG: Zanubrutinib
+Progression-free survival (PFS), Will be compared between participants randomized to control Arm 2 (tafasitamab + lenalidomide) versus (vs) experimental Arm 1 (tafasitamab + lenalidomide + tazemetostat), AND control Arm 2 vs experimental Arm 3 (tafasitamab + lenalidomide + zanubrutinib), respectively., From date of randomization to date of first observation of progressive disease according to the 2014 Lugano classification, or death due to any cause, assessed up to 3 years|Trial Outcome Index (TOI) score from the Functional Assessment of Cancer Therapy-Lymphoma (FACT-Lym) (Patient Reported Outcome [PRO] Study), Will compare the trial outcome index (TOI) score between each experimental arm (Arm 1 and Arm 3) to the control arm (Arm 2). The TOI score is composed of the Physical Well-Being, Functional Well-Being, and lymphoma-specific subscale scores. The scores range from 0-116, with higher scores indicating a higher quality of life., Baseline up to 3 months after randomization
+Hazard ratio for PFS in the germinal center B-cell (GCB) subgroup, Will calculate the 80% confidence interval (CI) for the Cox regression time-to-event estimate of the hazard ratio associated with addition of tazemetostat to tafasitamab+lenalidomide combination (Arm 2 vs Arm 1) in the GCB subgroup. If the confidence interval excludes 1, then 80% CI will be calculated for the non-GCB group., Up to 3 years|Hazard ratio for PFS in the non-GCB subgroup, Will calculate the 80% CI for the hazard ratio associated with addition of zanubrutinib to tafasitamab+lenalidomide combination (Arm 2 vs Arm 3) in the non-GCB subgroup. If the confidence interval excludes 1, then 80% CI will be calculated for the GCB group., Up to 3 years|PFS, Will estimate in GCB and non-GCB large B-cell lymphoma (LBCL) for each treatment. Will be estimated using the method of Kaplan-Meier and 80% confidence interval will be calculated., From date of randomization to date of first observation of progressive disease according to the 2014 Lugano classification, or death due to any cause, assessed up to 3 years|Overall response rate (ORR), Will estimate in GCB and non-GCB LBCL for each treatment. Will be estimated using the method of Kaplan-Meier and 80% confidence interval will be calculated., Up to 3 years|Complete response (CR) rate, Will estimate in GCB and non-GCB LBCL for each treatment. Will be estimated using the method of Kaplan-Meier and 80% confidence interval will be calculated., Up to 3 years|Partial response (PR) rate, Will estimate in GCB and non-GCB LBCL for each treatment. Will be estimated using the method of Kaplan-Meier and 80% confidence interval will be calculated., Up to 3 years|Duration of response (DOR), Will estimate in GCB and non-GCB LBCL for each treatment. Will be estimated using the method of Kaplan-Meier and 80% confidence interval will be calculated., From date of first documentation of response to treatment (CR, PR) to date of first documentation of progression, or death due to any cause among patients who achieve a response (CR or PR), assessed up to 3 years|Event free survival (EFS), Will estimate in GCB and non-GCB LBCL for each treatment. Will be estimated using the method of Kaplan-Meier and 80% confidence interval will be calculated., From date of randomization to date of first occurrence of EFS event, assessed up to 3 years|Overall survival (OS), Will estimate in GCB and non-GCB LBCL for each treatment. Will be estimated using the method of Kaplan-Meier and 80% confidence interval will be calculated., From date of randomization to date of death due to any cause, assessed up to 3 years|Incidence of adverse events, Will be evaluated using the Common Terminology Criteria for Adverse Events (CTCAE) Version 5. Eligible participants receiving at least one dose of drug will be included in the assessment of adverse events by treatment arms. The maximum Grade for each toxicity will be recorded for each participant, and frequency tables will be reviewed to determine toxicity patterns. With 60 eligible participants in each arm, any toxicity occurring with at least 5% probability is likely to be seen at least once (95% chance). Toxicity rates in each arm can be estimated to within at least +/- 13% with 95% confidence., Up to 3 years
+PRIMARY OBJECTIVES:
+
+I. To determine the recommended phase II dose of tafasitamab + lenalidomide + tazemetostat AND of tafasitamab + lenalidomide + zanubrutinib. (Safety Run-in) II. To compare progression-free survival (PFS) of patients with relapsed/refractory large B-cell lymphoma (R/R LBCL) treated with tafasitamab + lenalidomide + tazemetostat vs control (tafasitamab + lenalidomide) AND treated with tafasitamab + lenalidomide + zanubrutinib versus (vs) control. (Randomized Phase II Study)
+
+SECONDARY OBJECTIVES:
+
+I. To estimate the hazard ratio for PFS for control vs. tafasitamab + lenalidomide + tazemetostat in germinal center B-cell (GCB) and non-GCB (activated B-cell \[ABC\]/unclassified) subsets.
+
+II. To estimate the hazard ratio for PFS for control vs. tafasitamab + lenalidomide + zanubrutinib in GCB and non-GCB (ABC/unclassified) subsets.
+
+III. To estimate progression-free survival (PFS), overall response rate (ORR), complete response rate (CR), partial response rate (PR), duration of response (DOR), event-free survival (EFS), overall survival (OS), in GCB and non-GCB LBCL for each treatment.
+
+IV. To evaluate adverse events within each treatment arm.
+
+OTHER OBJECTIVES:
+
+I. To explore PFS within subgroups defined by molecular profile (e.g., MCD, BN2, N1 and EZB) and genetic subtypes.
+
+II. To explore PFS in the tafasitamab-lenalidomide control arm vs that in matched historical control from L-MIND and realMIND studies.
+
+III. To assess frailty (Cumulative Illness Rating Scale \[CIRS\] and Timed Get Up and Go \[TUG\]) and its correlation with outcome.
+
+PRIMARY PATIENT-REPORTED OUTCOMES OBJECTIVE:
+
+I. To compare patient-reported lymphoma-specific symptoms as measured by the Functional Assessment of Cancer Therapy-Lymphoma (FACT-Lym) Trial Outcome Index sub-scale at 3 months after randomization between the control arm and each experimental arm (Arm 1 versus Arm 2 and Arm 3 versus Arm 2).
+
+SECONDARY PATIENT-REPORTED OUTCOMES OBJECTIVE:
+
+I. To compare participant-reported toxicity (treatment side effect) symptoms using selected Patient Reported Outcomes-Common Terminology Criteria for Adverse Events (PRO-CTCAE) items between experimental vs control arms.
+
+EXPLORATORY PATIENT-REPORTED OUTCOMES OBJECTIVES:
+
+I. To compare patient-reported quality of life using the FACT-General (G) subscale score and the FACT-Lym total score at 3 months after randomization between the control arm and each experimental arm.
+
+II. To compare quality of life over time between treatment arms from baseline to 12 months after randomization as measured by the FACT-Lym trial outcome index (TOI), FACT-G, and FACT-Lym total score using longitudinal analysis.
+
+BANKING OBJECTIVE:
+
+I. To bank specimens for future correlative studies.
+
+OUTLINE: This is a dose-escalation study of tazemetostat and zanubrutinib.
+
+PART I (SAFETY RUN-IN): Patients are assigned to 1 of 2 arms per treating investigator's choice.
+
+ARM I: Patients receive tafasitamab intravenously (IV), lenalidomide orally (PO), and tazemetostat PO on study. Patients also undergo positron emission tomography/computed tomography (PET/CT) and CT or magnetic resonance imaging (MRI) scans throughout the trial. Patients also have the option to undergo collection of blood samples during screening and on study.
+
+ARM III: Patients receive tafasitamab IV, lenalidomide PO, and zanubrutinib PO on study. Patients also undergo PET/CT and CT or MRI scans throughout the trial. Patients also have the option to undergo collection of blood samples during screening and on study.
+
+PART II: Patients are randomized to 1 of 3 arms.
+
+ARM I: Patients receive tafasitamab IV, lenalidomide PO, and tazemetostat PO on study. Patients also undergo PET/CT and CT or MRI scans throughout the trial. Patients also have the option to undergo collection of blood samples during screening and on study.
+
+ARM II: Patients receive tafasitamab IV and lenalidomide PO on study. Patients also undergo PET/CT and CT or MRI scans throughout the trial. Patients also have the option to undergo collection of blood samples during screening and on study.
+
+ARM III: Patients receive tafasitamab IV, lenalidomide PO, and zanubrutinib PO on study. Patients also undergo PET/CT and CT or MRI scans throughout the trial. Patients also have the option to undergo collection of blood samples during screening and on study.

@@ -1,0 +1,32 @@
+Phase 1-2 of a CpG-Activated Whole Cell Vaccine Followed by Autologous Immunotransplant for MCL
+Mantle cell lymphoma (MCL) is a sub-type of non-Hodgkin's lymphoma (NHL) which is generally considered incurable with current therapy. Participants will receive an autologous vaccine against their individual lymphoma after undergoing stem cell transplantation. This vaccination may prolong the time which patients will stay in remission from their disease.
+Lymphoma, Mantle-Cell
+BIOLOGICAL: CpG-MCL vaccine|BIOLOGICAL: PF-3512676|PROCEDURE: Vaccine-primed T-cells|PROCEDURE: Autologous hematopoietic stem cell transplant (HSCT)|DRUG: Rituximab|DRUG: Standard induction chemotherapy|DRUG: Cyclophosphamide|DRUG: Filgrastim
+Freedom From Molecular Residual Disease (MRD) Post-autologous Stem Cell Transplant (ASCT), Molecular residual disease (MRD) is defined as detection in blood samples by the ClonoSEQ test of the (11;14) (q13;q32) gene translocation. It is considered positive if a tumor-specific VDJ sequence is detected in the peripheral blood cells by Ig-HTS at a frequency of greater or equal to 1 molecule per 10,000 input leukocyte equivalents of DNA within 1 year post-autologous stem cell transplant (ASCT). The outcome will be reported as number and percent of participants that maintain MRD-negative status (ie, 1-year freedom from MRD). This outcome is reported as a number without dispersion., 12 months
+Time-to-progression (TTP), Time-to-progression (TTP) is measured from the time of autologous stem cell transplantation (ASCT) until the cancer progresses or relapses. Progression is assessed based on CT imaging per the Cheson Criteria (2008). Progression per the Cheson Criteria is defined as having occurred when the sum of tumor lesion dimensions is ≥ 150% of the baseline value. The outcome is reported as the median with 95% confidence interval, as determined by Kaplan-Meier analysis and log-rank test., 7.7 years|Overall Survival (OS), Overall survival (OS) rate is reported as number and percentage of participants remaining alive the date of transplant through each year, up to 5 years (reported as a number without dispersion)., After 1, 2, 3, 4, and 5 years|Detection of Tumor-specific CD8-positve Memory T-cells Before and After Vaccination, Anti-tumor T-cell immune responses were evaluated by an in vitro evocative test on their peripheral blood mononuclear cell (PBMCs) before and after vaccination, as assessed by measurement of intracellular cytokines and/or intracellular perforin/granzyme in CD8+ T-cells, and/or CD137 induction on CD4+ T-cells. PBMCs were co-cultured with CpG-activated autologous MCL tumor cells and evaluated for tumor-specific immune responses as measured by CD137 expression on their T cells. The outcome is reported as the number of participants for whom tumor-specific memory CD8 cells were detected at baseline and after vaccination and transplant (numbers without dispersion)., Baseline and after vaccination and transplant, approximately 5 years|Detection of Tumor-specific CD4-positve T-cells Before and After Vaccination, Anti-tumor T-cell immune responses were evaluated by an in vitro evocative test on their peripheral blood mononuclear cell (PBMCs) before and after vaccination, as assessed by measurement of intracellular cytokines and/or intracellular perforin/granzyme in CD8+ T-cells, and/or CD137 induction on CD4+ T-cells. PBMCs were co-cultured with CpG-activated autologous MCL tumor cells and evaluated for tumor-specific immune responses as measured by CD137 expression on their T cells. The outcome is reported as the number of participants for whom tumor-specific memory CD4 cells were detected at baseline and after transplant (numbers without dispersion)., Baseline and after vaccination and transplant, approximately 5 years
+Study treatment is a complex set of steps of research procedures and regular medical care. By using a participant's cancer cells as an immungen, the study hopes to improve freedom from molecular residual disease (MRD).
+
+PRIMARY OBJECTIVE Freedom from molecular residual disease at 1-year post-autologous transplant.
+
+SECONDARY OBJECTIVE Time To Clinical Progression (TTP)
+
+This study has 2 research agents, PF-03152676 and CpG-MCL Vaccine.
+
+PF-03152676 is a synthetic DNA molecule, 24 nucleotides in length with a nuclease-resistant phosphorothioate backbone. It is an immunostimulatory, single-stranded oligodeoxynucleotide (oligo-DNA) containing unmethylated cytosine and guanine (CpG) motifs and synthesized with a nuclease-resistant phosphorothioate backbone. PF-03512676 acts as an agonist of human Toll-like receptor 9, leading to activation of antigen-presenting cells and a cascade of anti-tumor immune reactions.
+
+CpG-MCL Vaccine is the primary study agent. It is prepared by dissociating a participant's harvested tumor cells into a single-cell suspension, and culturing them with PF-03152676 for 72 hours at 37 degrees C, 5% CO2 to allow for up-regulation of antigen-presenting and co-stimulatory molecules, then irradiated to 200 Gy to destroy any remaining cancer propagating ability.
+
+The study procedure is summarized as 12 steps, listed below.
+
+* Step 1. Undergo excisional tumor biopsy or apheresis to obtain tumor cells, which will be used to generate the CpG-MCL vaccine .
+* Step 2. Receive standard induction chemotherapy (regular medical care).
+* Step 3. Once in remission, receive 3 vaccinations of CpG-MCL Vaccine over 3 weeks. With each CpG-MCL vaccination, a concurrent subcutaneous injection of PF-3512676 is administered as an adjuvant.
+* Step 4. About 4 weeks later, receive rituximab 375 mg/m² to minimize any residual tumor.
+* Step 5. Apheresis procedure to harvest the CpG-MCL Vaccine-primed T-cells. Each collection is \~1 x 10e10 CD3+ T-cells.
+* Step 6. High-dose cytoxan and filgrastim to mobilize peripheral blood progenitor cell (PBPC).
+* Step 7. Undergo separate apheresis procedure to harvest PBPC).
+* Step 8. Receive myeloablative chemotherapy (regular medical care).
+* Step 9. Receive PBPC infusion (also known as autologous hematopoietic cell transplant, AHCT).
+* Step 10. Within 3 days of AHCT (but typically 1 day), receive infusion of CpG-MCL Vaccine-primed T-cells, followed within 1 hour by a with 4th vaccination with CpG-MCL Vaccine (1st booster vaccination).
+* Step 11. After hematopoietic recovery, receive 5th vaccination with CpG-MCl (2nd booster vaccination).
+* Step 12. Monitor participants for general health and disease status through at least 3 years.

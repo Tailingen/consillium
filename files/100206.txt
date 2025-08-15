@@ -1,0 +1,30 @@
+Evaluating Informatics-assisted Immune-related Adverse Event Detection to Improve Registration Onto a Biorepository
+Immunotherapies have improved cancer outcomes, but have a unique profile of immune-related adverse events (irAEs). Biorepositories have been established to collect data and samples to help improve our understanding of irAEs, however identifying patients who are eligible for these biorepositories in a timely fashion can be challenging. The goal of this study is to determine if an informatics system for automated irAE detection can improve registration to a prospective irAE biorepository (NCT04242095). The informatics system automatically "reads" participants' electronic health records (EHRs) and determines whether that patient may be experiencing an irAE. The main questions it aims to answer are:
+
+* Is it feasible to implement an informatics system for daily analysis of EHR data to detect irAEs?
+* Does the automated irAE detection system improve registration rates to an irAE biorepository at our institution following an eligible irAE?
+
+Researchers will compare standard irAE monitoring to informatics-assisted irAE monitoring to see if using the informatics system increases the registration rate and improves data entry efficiency and quality.
+
+Participants will:
+
+* Be randomly assigned to standard monitoring or informatics-assisted monitoring for irAE detection.
+* Have their EHR reviewed to collect demographic, medical, and cancer treatment history.
+* Be monitored for irAEs through daily automated analysis of their EHR data for up to 12 months or until registration in the biorepository.
+Malignancy|Immune Related Adverse Events
+OTHER: Informatics system for eligibility monitoring|OTHER: Standard eligibility monitoring
+Feasibility, Feasibility is defined as successfully connecting the informatics system to subjects' relevant EHR data, carrying out inferencing on the records, and reporting newly identified automatically extracted irAEs in a tabular format daily for a minimum of 1 week. Feasibility is defined at the patient-level., 2 months|Registration, Registration rate is the proportion of subjects who are registered onto a prospective irAE biopository at Dana Farber/Brigham Cancer Center. Patients are eligible for biorepository registration within 96 hours of a severe (grade 3-4) irAE., 12 months
+Time to data entry, Time to data entry is defined as the time from first evidence of an irAE in the EHR until the data is first entered into the irAE biorespository clinical data management system., 12 months|irAE capture rate, irAE capture rate is defined as the proportion of subjects who experienced a severe irAE that were registered onto the prospective irAE biorepository. The occurrence of a severe irAE will be determined by dual expert clinician review of the EHR of enrolled patients., 12 months
+This is a single institution, randomized controlled trial of an informatics system for automated immune-related adverse event (irAE) detection from the electronic health records (EHR) for eligibility monitoring for an Alliance prospective irAE biorepository (NCT04242095). This study will enroll approximately 100 patients receiving immunotherapy. Our co-primary endpoints test the hypothesis that informatics-assisted EHR monitoring for biorepository eligibility is feasible and improves registration rates onto the biorepository following an eligible irAE. Secondary endpoints evaluate time to data entry after an irAE, and irAE capture rate based on post-hoc subject matter expert review. This study will take place at Dana-Farber/Brigham Cancer Center.
+
+Our co-primary objectives are:
+
+1. To establish the feasibility of implementing the informatics system for daily inferencing on EHR data
+2. To assess the ability of automated irAE detection to improve registration to a prospective irAE biorepository
+
+Our secondary objectives are:
+
+1. To evaluate whether automated irAE detection reduces the time to data entry in a prospective biorepository data management system
+2. To evaluate whether automated irAE detection leads to differences in irAE capture rates of patients with an eligible irAE based on clinician expert review of the EHR
+
+Subjects will be randomized to standard irAE monitoring for an eligible registration event (control arm) vs. informatics-assisted irAE monitoring for an eligible registration event (experimental arm). There will be a seamless feasibility run-in of the first 10-20 patients to establish feasibility. These subjects will be included in the full analysis.

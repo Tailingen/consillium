@@ -1,0 +1,31 @@
+NXP800 for the Treatment of Patients With Advanced or Metastatic Cholangiocarcinoma
+This phase I trial tests the safety, best dose, and effectiveness of NXP800 in treating patients with cholangiocarcinoma that may have spread from where it first started to nearby tissue, lymph nodes, or distant parts of the body (advanced) or that has spread from where it first started (primary site) to other places in the body (metastatic). NXP800 inhibits a pathway called the heat shock factor 1 (HSF1) pathway. The inhibition of this pathway inhibits proliferation, migration, survival, and metastasis in susceptible tumor cells. Overexpressed, amplified and/or overactivated in many cancer cells, HSF1 activates a set of genes that play a key role in tumor initiation, progression and metastasis. Inhibiting this pathway may in turn inhibit tumor initiation, progression, and/or metastasis. Giving NXP800 may be safe, tolerable and/or effective in treating patients with advanced or metastatic cholangiocarcinoma.
+Advanced Cholangiocarcinoma|Metastatic Cholangiocarcinoma|Refractory Cholangiocarcinoma|Stage III Hilar Cholangiocarcinoma AJCC v8|Stage III Intrahepatic Cholangiocarcinoma AJCC v8|Stage IV Hilar Cholangiocarcinoma AJCC v8|Stage IV Intrahepatic Cholangiocarcinoma AJCC v8
+PROCEDURE: Biospecimen Collection|PROCEDURE: Computed Tomography|BIOLOGICAL: Heat Shock Factor 1 Pathway Inhibitor NXP800|PROCEDURE: Magnetic Resonance Imaging|PROCEDURE: Positron Emission Tomography|PROCEDURE: Ultrasound-Guided Biopsy
+Maximum tolerated dose (MTD), MTD is defined as the dose level below the lowest dose that induces dose-limiting toxicity in at least one-third of patients., Up to 12 months|Recommended phase 2 dose, Recommended phase 2 dose is based on MTD (Outcome 1)., Up to 12 months
+Incidence of adverse events, Overall toxicity incidence as well as toxicity profiles by dose level, patient and tumor site will be explored and summarized. Frequency distributions, graphical techniques and other descriptive measures will form the basis of these analyses. The grade 3+ adverse events will also be described and summarized in a similar fashion., Up to 30 days after the administration of the last dose of study drug|Best response, Best response is defined to be the best objective status recorded. The patient's best response assignment will depend on the achievement of both measurement and confirmation criteria. The Response Evaluation Criteria in Solid Tumors 1.1 criteria will be used for tumor evaluation and patients will be re-evaluated every 8 weeks. Responses will be summarized by simple descriptive summary statistics delineating complete and partial responses as well as stable and progressive disease in this patient population (overall and by dose level). The number of responses may indicate further evaluation for specific tumor types in a phase II setting., Up to 3 years|Overall survival (OS), OS will be estimated using the Kaplan-Meier method. The median OS and corresponding 95% confidence interval (by Brookmeyer and Crowley) will be reported., Up to 3 years|Progression-free survival (PFS), PFS will be estimated using the Kaplan-Meier method. The median PFS and corresponding 95% confidence interval (by Brookmeyer and Crowley) will be reported., Up to 3 years
+PRIMARY OBJECTIVE:
+
+I. To determine the maximum tolerated dose (MTD)/recommended phase 2 dose for heat shock factor 1 pathway inhibitor NXP800 (NXP800).
+
+SECONDARY OBJECTIVES:
+
+I. To determine the toxicity profile of NXP800. II. To determine the best response for NXP800 using Response Evaluation Criteria in Solid Tumors (RECIST) version (v)1.1.
+
+III. To estimate the overall survival (OS) for NXP800. IV. To estimate the progression-free survival (PFS) for NXP800.
+
+EXPLORATORY OBJECTIVES:
+
+I. To evaluate transcriptomic features associated with sensitivity, resistance and pharmacodynamic effect of NXP800 using serial ribonucleic acid-sequencing (RNA-Seq).
+
+II. To assess tumor evolution with NXP800 using serial whole genome-sequencing (Seq).
+
+III. To assess tumor evolution with NXP800 using serial circulating tumor deoxyribonucleic acid (DNA) (ct-DNA).
+
+IV. To estimate tumor marker response using serial CA19-9/carcinoembryonic antigen (CEA).
+
+OUTLINE: This is a dose de-escalation study of NXP800 followed by a dose-expansion study.
+
+Patients receive NXP800 orally (PO) according to assigned treatment schedule. Cycles repeat every 28 days in the absence of disease progression or unacceptable toxicity. Patients also undergo computed tomography (CT), magnetic resonance imaging (MRI), and/or positron emission tomography (PET) at baseline and on study. Patients may optionally undergo ultrasound-guided tumor biopsy and/or collection of blood samples on study and during follow up.
+
+After completion of study treatment, patients are followed up every 6 months until progressive disease or death for up to 3 years.

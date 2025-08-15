@@ -1,0 +1,26 @@
+Lumbar Punctures for the Detection of ctDNA in the Cerebrospinal Fluid of Patients With Stage III and IV Non-Small Cell Lung Cancer
+This phase I trial assesses the use of lumbar punctures to detect whether there is circulating tumor deoxyribonucleic acid (ctDNA) in the fluid that surrounds the brain and spinal cord (cerebrospinal fluid) in patients with stage III and IV non-small cell lung cancer (NSCLC). Patients with stage III and IV NSCLC are at risk of having their cancer spread from where it first started to the brain (metastatic). Because of this, more effective prognostic tools are necessary to determine which stage III and IV NSCLC patients are more likely to develop brain metastases. Cerebrospinal fluid (CSF) could be a reliable source of ctDNA to confirm and predict the presence of brain metastases in these patients. Assessing cell free DNA shed from tumor cells could be a sensitive and minimally invasive way to detect or characterize metastatic tumors in the central nervous system (CNS). Lumbar puncture is procedure in which a thin needle called a spinal needle is put into the lower part of the spinal column to collect CSF. Lumbar punctures for the collection of CSF may help doctors detect or measure changes in cell types, genes, and proteins of circulating tumor cells related to lung cancer that will help determine the presence of brain metastases which could become a standard of care screening tool utilized in the follow-up of patients diagnosed with stage II or IV NSCLC.
+Lung Non-Small Cell Carcinoma|Stage III Lung Cancer AJCC v8|Stage IV Lung Cancer AJCC v8
+PROCEDURE: Biospecimen Collection|PROCEDURE: Lumbar Puncture|DEVICE: Magnetic Resonance Imaging
+Number of subjects with Intracranial disease in locally advanced lung cancer patients, An MRI will be performed six months after lumbar puncture in Cohort One. MRI sequences with T1 post-contrast for disease and structure definition and T2/FLAIR sequences for identification of peri-tumoral edema or cystic volumes will be obtained., Up to 6 months|Cerebral spinal fluid- circulating tumor deoxyribonucleic acid (ctDNA) detection rate for lung non-small cell carcinoma patients with metastatic disease to the brain, Will estimate the frequency of ctDNA detection with a 90% Clopper-Pearson confidence interval., Up to 12 months
+PRIMARY OBJECTIVES:
+
+I. To determine if CSF-ctDNA positivity in patients with locally advanced lung cancer can predict the presence of brain metastases within a one year period.
+
+II. To prospectively confirm that cerebrospinal fluid (CSF) circulating tumor DNA (ctDNA) can be detected in patients diagnosed with metastatic non-small cell lung cancer (NSCLC) to the brain utilizing next generation sequencing (NGS) and single gene quantitative/biomarker analyses through the CNSide (trademark) platform.
+
+SECONDARY OBJECTIVES:
+
+I. To use the CNSide (trademark) platform to assess for the presence of circulating tumor cells in both CSF and peripheral blood.
+
+II. To compare the NGS profile of the ct-DNA in the CSF with matched peripheral blood samples.
+
+OUTLINE: Patients are assigned to 1 of 2 cohorts.
+
+COHORT 1 (STAGE III/IV NSCLC WITHOUT BRAIN METASTASES): Patients undergo lumbar puncture (LP) for collection of CSF and blood sample collection after completion of chemoradiotherapy (stage III) or after diagnosis (stage IV) on study. Patients also undergo magnetic resonance imaging (MRI) during screening and 12 month follow-up.
+
+COHORT 2 (STAGE IV NSCLC WITH BRAIN METASTASES): Patients undergo LP for collection of CSF and blood sample collection on study. Patients also undergo MRI during screening.
+
+Patients with CSF negative for ctDNA at the first LP draw, undergo an additional LP draw at 6 months. Patients with CSF positive for ctDNA at the first LP draw, may not undergo an additional LP at 6 months.
+
+Patients without brain metastases are followed for 12 months. Patients with brain metastases are followed for 6 months.

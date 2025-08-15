@@ -1,0 +1,32 @@
+Design and Evaluation of a Novel Methodology for SABR for Lung Cancer
+Aims: To increase the number of patients that benefit from Stereotactic Ablative Radiotherapy (SABR) for lung cancer using new treatment methods that reduce the amount of non-cancer tissue receiving a high radiation dose without affecting tumour dose coverage.
+
+Background: SABR is a treatment for lung cancer which offers major advantages over conventional radiotherapy. It is a more precise highly effective treatment with significantly improved treatment outcomes (greater elimination of cancer cells).
+
+SABR requires high doses per treatment so extreme accuracy is required to minimise healthy tissue damage. Normal breathing results in significant tumour movement, therefore to avoid missing the tumour, larger volumes need to be treated, resulting in more good tissue damage.
+
+UK Standard practice requires the tumour to be irradiated in all positions during breathing whilst the new approach targets the tumours at the position it spends most time to minimise normal tissue affected by radiation.
+
+Current practice for SABR patients would be improved (fewer severe radiation side-effects) and potentially could become a viable treatment for high risk patients.
+
+Methods: 30 SABR patients receiving current standard SABR treatment will be recruited. This is an observation study in which patients will continue to receive standard of care but in addition:
+
+* A camera will be used to make videos of how the patient's chest moves in 3D at CT and treatment. I will build a complex mathematical model that infers movement of the tumour from movement of the chest.
+* Their breathing patterns, corresponding tumour motions and treatments plans will be utilised to develop a method for safely implementing the new treatment approach.
+Lung Cancer
+Design a methodology that ensures tumour dose coverage is obtained when using the new treatment approach., 2 years
+Use a novel markerless non-contact approach (Microsoft Kinect) to create a model to correlate external respiratory motion with internal tumour motion., 2years|Validate and refine correlation between predicted tumour motion and actual breathing motion., 2years
+Aims: To increase the number of patients that benefit from Stereotactic Ablative Radiotherapy (SABR) for lung cancer using new treatment methods that reduce the amount of non-cancer tissue receiving a high radiation dose without affecting tumour dose coverage.
+
+Background: SABR is a treatment for lung cancer which offers major advantages over conventional radiotherapy. It is a more precise highly effective treatment with significantly improved treatment outcomes (greater elimination of cancer cells).
+
+SABR requires high doses per treatment so extreme accuracy is required to minimise healthy tissue damage. Normal breathing results in significant tumour movement, therefore to avoid missing the tumour, larger volumes need to be treated, resulting in more good tissue damage.
+
+UK Standard practice requires the tumour to be irradiated in all positions during breathing whilst the new approach targets the tumours at the position it spends most time to minimise normal tissue affected by radiation.
+
+Current practice for SABR patients would be improved (fewer severe radiation side-effects) and potentially could become a viable treatment for high risk patients.
+
+Methods: 30 SABR patients receiving current standard SABR treatment will be recruited. This is an observation study in which patients will continue to receive standard of care but in addition:
+
+* A camera will be used to make videos of how the patient's chest moves in 3D at CT and treatment. I will build a complex mathematical model that infers movement of the tumour from movement of the chest.
+* Their breathing patterns, corresponding tumour motions and treatments plans will be utilised to develop a method for safely implementing the new treatment approach.

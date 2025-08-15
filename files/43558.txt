@@ -1,0 +1,23 @@
+WP1066 and Radiation Therapy in Treating Patients With Newly Diagnosed Glioblastoma
+This phase II trial tests how well the combination of WP1066 and radiation therapy works in treating newly diagnosed glioblastoma. Glioblastoma is difficult to treat effectively because the cells within the tumor vary widely and are controlled by factors within and around the tumor, requiring multiple approaches to treat the tumor. The study drug WP1066 targets a specific pathway, known as STAT3, which is responsible for promoting tumor growth and causing the body's immune system to avoid attacking the tumor. Radiation therapy prevents glioblastoma from growing. Giving WP1066 with radiation therapy may prevent glioblastoma from growing and prolong survival.
+Glioblastoma, IDH-Wildtype|MGMT-Unmethylated Glioblastoma
+PROCEDURE: Biospecimen Collection|PROCEDURE: Magnetic Resonance Imaging|RADIATION: Radiation Therapy|DRUG: STAT3 Inhibitor WP1066|PROCEDURE: Surgical Procedure
+Progression-Free Survival (PFS) (Cohort 1), For PFS analysis, disease progression is defined as progressive disease (PD) per Response Assessment in Neuro-Oncology (RANO) criteria Will be summarized using the Kaplan-Meier method., From subject registration to the earlier of the day of first documented disease progression or death from any cause, assessed up to 36 months post-registration|Tumor microenvironment activation and cluster interactions (Cohort 2), Up to 36 months post-registration
+Overall Survival (OS), Will be analyzed using similar methods to PFS., From the date of initial diagnosis until death from any cause, assessed up to 36 months|Overall Response Rate (ORR), Defined as the proportion of treated subjects who experience a complete response (CR) or partial response (PR) per RANO criteria., Up to 36 months post-registration|Duration of response (DOR), All eligible, registered subjects who have measurable disease at baseline, who have received at least 1 dose of trial therapy, and who experience a CR, PR, or SD per RANO criteria will be evaluable., Up to 36 months post-registration|Frequency of adverse events, According to the National Cancer Institute (NCI)-Common Terminology Criteria for Adverse Events (CTCAE) version 5.0., Up to 36 months post-registration|Time to response/progression, Up to 36 months post-registration
+PRIMARY OBJECTIVES:
+
+I. To determine the progression-free survival (PFS) outcomes of patients with MGMT-unmethylated glioblastoma treated with STAT3 Inhibitor WP1066 (WP1066) in combination with standard-of-care radiation therapy. (Cohort 1) II. To ascertain the changes induced in the tumor microenvironment by the combination of WP1066 and radiation. (Cohort 2)
+
+SECONDARY OBJECTIVES:
+
+I. Determine the overall survival (OS) outcomes of patients with malignant gliomas. (Cohort 1 and 2) II. Assess overall response rate (ORR) and duration of response in patients with malignant gliomas using Response Assessment in Neuro-Oncology (RANO) criteria. (Cohort 1 and 2) III. Assess time to radiographically assessed disease progression and/or response in patients with glioblastoma, as assessed by RANO criteria. (Cohort 1 and 2) IV. Assess systemic immunological responses and phosphorylated (p)-STAT3 inhibition in patients with glioblastoma. (Cohort 1 and 2) V. Assess the safety and tolerability of WP1066 given in combination with radiation therapy (RT) using the National Cancer Institute (NCI) Common Toxicity Criteria of Adverse Events version 5.0 (CTCAE v5.0). (Cohort 1 and 2) VI. Determine the progression free survival (PFS) outcomes of patients with malignant gliomas. (Cohort 2)
+
+EXPLORATORY OBJECTIVE:
+
+I. Correlate machine learning texture analysis of advanced brain tumor magnetic resonance imaging (advanced brain tumor imaging \[ABTI\] optional) obtained within 1 week pre-surgery with the histological and immune functional data obtained directly from the tumor. (Cohort 2)
+
+OUTLINE: Patients are assigned to one of two cohorts.
+
+Cohort I: Patients whose tumor was completely removed at the time of initial surgery receive WP1066 orally (PO) for 6 weeks during routine radiation therapy, and then for twelve 28-day cycles on study. Patients also undergo magnetic resonance imaging (MRI) and collection of blood samples throughout the trial.
+
+Cohort II: Patients whose tumor was not fully removed at the time of initial surgery receive WP1066 PO for 6 weeks during routine radiation therapy on study. Patients may then undergo possible surgery or open biopsy if eligible, followed by twelve 28-day cycles of WP1066 PO on study. Patients also undergo MRI and collection of blood samples throughout the trial.

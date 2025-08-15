@@ -1,0 +1,36 @@
+Trametinib With or Without GSK2141795 in Treating Patients With Metastatic Uveal Melanoma
+This randomized phase II trial studies how well trametinib with or without Akt inhibitor GSK2141795 (GSK2141795) works in treating patients with uveal melanoma that has spread to other parts of the body (metastatic). Trametinib and GSK2141795 may stop the growth of tumor cells by blocking some of the enzymes needed for cell growth. It is not yet known whether trametinib is more effective with or without GSK2141795 in treating patients with metastatic uveal melanoma.
+Recurrent Uveal Melanoma|Stage IV Uveal Melanoma AJCC v7
+OTHER: Laboratory Biomarker Analysis|OTHER: Pharmacological Study|DRUG: Trametinib|DRUG: Uprosertib
+Time to Progression (Progression-free Survival [PFS]), Defined From the Date of Randomization to the Date of Documented Progression or Death Per RECIST, Progression is defined using Response Evaluation Criteria In Solid Tumors Criteria (RECIST v1.0), as a 20% increase in the sum of the longest diameter of target lesions, or a measurable increase in a non-target lesion, or the appearance of new lesions., from randomization to the earlier date of objective disease progression or death
+Number of Participants With Toxicity, Graded According to the National Cancer Institute CTCAE v4.0, Who Were Treated and Did Not Withdraw Consent, Graded according to the National Cancer Institute CTCAE v4.0. Please see AE/SAE Section for specifics., From date of randomization until the date of death from any cause or 4 weeks from last treatment of the initial treatment assignment, whichever came first, assessed up to 12 months|Overall Survival (OS) Per RECIST Criteria, OS curves will be generated using Kaplan-Meier methodology., up to 36 months|Response Rate (Complete Response+ Partial Response) Using the RECIST Criteria, Per Response Evaluation Criteria In Solid Tumors Criteria (RECIST v1.0) for target lesions and assessed by MRI and/or CT: Partial Response (PR), \>=30% decrease in the sum of the longest diameter of target lesions; Stable Disease (SD), neither sufficient shrinkage to qualify for a Partial Response nor sufficient increase to qualify for Progression of Disease (PD); PD, 20% increase in the sum of the longest diameter of target lesions, or a measurable increase in a non-target lesion, or the appearance of new lesions; Complete Response (CR), Disappearance of all target lesions., From date of randomization until the date of death from any cause or 4 weeks from last treatment of the initial treatment assignment, whichever came first, assessed up to 12 months
+Change in Apoptosis in Paired Samples as Assessed by Caspase 3 Cleavage, Baseline to 4 weeks from last treatment|Change in Suppression of Phosphorylated (p)-ERK, AKT, and Cyclin-D1, Association between suppression and response to treatment will be assessed using Fisher's exact test., Baseline to 4 weeks from last treatment|Circulating Tumor DNA Levels, The numeric data will be summarized by clinical response., Up to 4 weeks from last treatment|Gnaq/11 Mutational Status, Clinical response will be associated with Gnaq/11 mutational status using Wilcoxon rank sum test., Up to 4 weeks from last treatment
+PRIMARY OBJECTIVES:
+
+I. To compare progression-free survival between those treated with trametinib alone and those treated with the combination of trametinib and GSK2141795.
+
+SECONDARY OBJECTIVES:
+
+I. To compare overall survival between those treated with trametinib alone and those treated with the combination of trametinib and GSK2141795.
+
+II. To compare the overall response rate between those treated with trametinib alone and those treated with the combination of trametinib and GSK2141795.
+
+III. To compare the safety and toxicity between those treated with trametinib alone and those treated with the combination of trametinib and GSK2141795.
+
+TERTIARY OBJECTIVES:
+
+I. To assess clinical outcomes (response rate, progression-free and overall survival) with trametinib and GSK2141795 after progression on trametinib.
+
+II. To assess toxicity with trametinib and GSK2141795 after progression on trametinib.
+
+III. To correlate clinical outcome with Gnaq/11 mutational status. IV. To assess the pharmacodynamic effects of trametinib alone and with GSK2141795, and utilize whole-transcriptome and reverse phase protein array to identify markers of sensitivity and primary resistance to trametinib alone and with GSK2141795.
+
+V. To assess for changes in circulating tumor deoxyribonucleic acid (DNA) with therapy.
+
+OUTLINE: Patients are randomized to 1 of 2 treatment arms.
+
+ARM A: Patients receive trametinib orally (PO) once daily (QD) on days 1-28. Courses repeat every 4 weeks in the absence of disease progression or unacceptable toxicity. Patients who experience objective disease progression may crossover to Arm B. (no patients will be enrolled to Arm B or Crossover therapy as of 11/6/2015)
+
+ARM B: Patients receive trametinib PO QD and Akt inhibitor GSK2141795 PO QD on days 1-28. Courses repeat every 4 weeks in the absence of disease progression or unacceptable toxicity.
+
+After completion of study treatment, patients are followed up for 4 weeks and then every 12 weeks thereafter.

@@ -1,0 +1,32 @@
+Genistein in Treatment of Metastatic Colorectal Cancer
+Colorectal neoplasms are the third most common malignancies in the United States. Patients with metastatic (stage IV) colorectal cancer have a median life expectancy of 2 years. The response rates to chemotherapy range from 35-40%.
+
+Epidemiologic evidence suggests that soy compounds may reduce the incidence of colorectal cancers. Laboratory analyses demonstrate that genistein, a soy-derived compound, may inhibit Wnt signaling, a pathway activated in majority of colorectal cancers. Laboratory observations also demonstrate that genistein may augment growth inhibition when combined with chemotherapeutic agents of 5-Fluorouracil and platinum compounds.
+
+Based on pre-clinical data the investigators hypothesize that combining genistein with the standard of care chemotherapeutic regimens will reduce chemotherapy resistance and improve response rates in patients. The aim of the study is to add genistein to the regimens of FOLFOX or FOLFOX-Avastin in patients with newly diagnosed stage IV colon or rectal neoplasms.
+Colon Cancer|Rectal Cancer|Colorectal Cancer
+DRUG: Genistein
+Number of Adverse Events, Number of adverse events to assess tolerability of genistein treatment. Evaluation of side effects conducted every 14 days before each chemotherapy/genistein cycle., up to 6 months|Percent Change in Tumor Size, Percent change in tumor size after cycle 6. Each cycle is 21 days., end of Cycle 6
+Response Rate RECIST Criteria, Response Rate (RR) as measured by radiologic RECIST criteria. Complete Response (CR): Disappearance of all target lesions. Any pathological lymph nodes (whether target or non-target) must have reduction in short axis to \<10 mm.
+
+Partial Response (PR): At least a 30% decrease in the sum of diameters of target lesions, taking as reference the baseline sum diameters.
+
+Progressive Disease (PD): At least a 20% increase in the sum of diameters of target lesions, taking as reference the smallest sum on study (this includes the baseline sum if that is the smallest on study). In addition to the relative increase of 20%, the sum must also demonstrate an absolute increase of at least 5 mm. (Note: the appearance of one or more new lesions is also considered progression).
+
+Stable Disease (SD): Neither sufficient shrinkage to qualify for PR nor sufficient increase to qualify for PD, taking as reference the smallest sum diameters while on study., end of Cycle 6|Number of Participants With an Overall Response Rate (ORR), Number of participants with an ORR - the portion of patients with a tumor size reduction of a predefined amount for a minimum time period, up to 50 months|Best Overall Response Rate RECIST Criteria, Best Overall Response Rate (ORR) as measured by radiologic RECIST criteria. The best overall response is the best response recorded from the start of the treatment until disease progression/recurrence (taking as reference for PD the smallest measurements recorded since the treatment started). In general, the patient's best response assignment will depend on the achievement of both measurement and confirmation criteria.
+
+SD - target lesion SD, non target lesions Non-PD, and no new lesions. PR - target lesion CR, non target lesions Incomplete response/SD and no new lesions; or target lesion PR, non target lesions Non-PD, and no new lesions.
+
+PD - target lesions PD, non target lesions Any, can have new lesions; or target lesions Any, non target lesions PD, can have new lesions; or target lesions Any, non target lesions Any, have new lesions., up to 50 months|Number of Participants With Best Overall Response Rate (ORR), The number of participants with best overall response is the best response recorded from the start of the treatment until disease progression/recurrence (taking as reference for PD the smallest measurements recorded since the treatment started). In general, the patient's best response assignment will depend on the achievement of both measurement and confirmation criteria., up to 50 months|Progression Free Survival (PFS), Patients monitored for progression. Progression-free survival (PFS) is the length of time during and after the treatment that a patient lives with the disease but it does not get worse., up to 50 months|Percent of Patients With Progression Free Survival (PFS) at 6 Months and 12 Months, Patients monitored for progression during the study period and 1 year following.
+
+Progression-free survival (PFS) is the length of time during and after the treatment that a patient lives with the disease but it does not get worse., 6 month and 12 month|Overall Survival (OS), Overall Survival - Number of months still living since baseline, up to 50 months
+OBJECTIVES:
+
+Primary
+
+* Evaluate the tolerability of genistein when combined with chemotherapy
+
+Secondary:
+
+* Evaluate Response Rate (RR) as measured by the radiologic RECIST criteria
+* Evaluate Progression Free Survival (PFS)

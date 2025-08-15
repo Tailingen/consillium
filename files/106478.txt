@@ -1,0 +1,40 @@
+Dietary Habits, Metabolome, Immune Profile and Microbiota in Patients With Bone Sarcoma
+Osteosarcoma and Ewing sarcoma treatment has not changed in the last 30 years.
+
+For other types of cancer the epidemiologic and prognostic correlations between dietary behavior, lifestyle and metabolic alterations (i.e.obesity, insulin-resistance) are well known (breast cancer, prostate cancer, colon cancer). However, no epidemiological or prognostic data are available about the metabolic profile and lifestyle behaviors in patients with osteosarcoma and Ewing'sarcoma and only few preclinical studies are available. An in vitro study showed a higher glucose and glutamine consumption from metastatic osteosarcoma cells compared to primary tumor osteosarcoma cells. The effect of the intestinal microbiota into the metabolism of nutrients, drugs, inflammation, epigenetic and immune response was found not only correlated to gastrointestinal tumors but also to other tumors outside gastrointestinal system as well The aim of this study is to investigate if there are differential dietary habits, metabolome, microbiota or immune profile in patients with bone sarcoma compared to a control population in a 1:2 multicenter study.
+Osteosarcoma|Ewing Sarcoma
+OTHER: EPIC-COS Food Frequency Questionnaire diet Evaluation|OTHER: Metabolome, Microbiota, Lymphocytes subpopulations
+Diet habits in patients versus case controls measured by EPIC COS FFQ, Diet habits from osteosarcoma and Ewing sarcoma patients will be compared with diet habits from a control population. The diet habits data will be evaluated EPIC COS FFQ( European Prospective Investigation Into Cancer and Nutrition Case Only Study Food Frequency Questionnaire) which report:
+
+the food consumptions in the last 12 months
+
+- Main food groups (water and other drinks, grain products, fruits and vegetables, legumes, meat and fish products, dairy products, sweets and savory snacks)
+
+FFQ-EPIC COS can be accessed on PubMed (PMID: 12484126 and PMID: 12484120)., At diagnosis, up to 4 years|Diet Quality Index -, Diet quality index from osteosarcoma and Ewing sarcoma patients will be compared with diet habits from a control population. Data will be accessed with EPIC COS FFQ( European Prospective Investigation Into Cancer and Nutrition Case Only Study Food Frequency Questionnaire )
+
+- Diet quality index will be calculated to compare adherence to dietery guidelines and it will be expressed in percentage, At diagnosis, up to 4 years|Number of patients overweight and obese measured by Body mass index (BMI compared to controls), Body Mass Index (BMI) measure will be achieved in patients and controls by impedance Tanita scale model BC545 based on height (in centimeters) and weight (in Kilograms) expressed in subjects \>18yrs as 1) underweight if \<18.5, 2) normal weight 18.5 to 25,3)overweight 25-30 and 4) obese \>30.
+
+BMI measure will be achieved by impedance Tanita scale model BC545 in study patients at diagnosis and compared with a control subjects., At diagnosis, up to 4 years|Body composition, Lean mass and fat mass will be calculated via impedance Tanita scale model BC545 as a percentage of total weight .Lean body mass is the difference between total body weight and body fat weight, expressed as percentage (%), At diagnosis, up to 4 years
+Concentration of blood metabolites - Metabolome, Concentration of untargeted blood metabolites obtained via mass spectometry SANIST technique from blood of 55 patients and from 110 control subject blood. Metabolome will be analyzed in order to determine if there is an occurrence of altered or more recurrent metabolites in patients' blood compared to controls., At diagnosis, up to 4 years|Microbiota, Microbiota will be analyzed with S16 method. Microbiota diversity and composition between patients and controls will be analyzed and expressed as alpha and beta diversity, At diagnosis, up to 4 years|Concentrations of lymphocytes subpopulation, Concentrations of (CD3,CD4.CD8,NK) lymphocytes subpopulation will be detected onceat diagnosis before any treatment for sarcoma and they will beexpressed as total number.
+
+The lymphocytes subpopulation will be measured once at diagnosis in study patients and matched controls., At diagnosis, up to 4 years|Lipid profile and Glucidic profile, Fatty acids triglycerids(mg/dL), total cholesterol (mg/dL), HDLcholesterol (mg/dL) and LDL cholesterol (mg/dL), glucose (mg/dL) will be measured once in blood at diagnosis in study patients and control subjects, At diagnosis, up to 4 years
+MATERIALS \& METHODS A population of 270 patients of \>12 yrs old (pediatric and adults) with new diagnosis of osteosarcoma and Ewing sarcoma will be included. A detailed dietary intake assessment will be done with EPIC-COS food frequency questionnaire (FFQ) and anthropometric measures (Weight, Height, body fat/lean mass composition) will be taken at diagnosis before treatment and compared to 540 controls matched by age, sex, and italian geographic area.
+
+In addition, inside this main study a pilot study of 55 patients and 110 controls of same age, sex, geographic area will be performed for analysis of metabolome, microbiota, and immune profile.
+
+At diagnosis, before any treatment , a blood sample will be obtained for metabolomics analyses (untargeted approach with over 100.000 of metabolites, (Mass Spectrometry method) and to evaluate lymphocyte subpopulations (CD3, CD4, CD8, NK) in blood. Microbiota will be analyzed in donated stool samples using the S16 method. All data will be analyzed for inter-correlations among the different parameters and to investigate putative associations with EPIC-COS Food Frequency questionnaires and anthropometric data .
+
+STATISTICAL ANALYSIS Conditional logistic regression analyses will be used to calculate odds ratio (OR) and 95% confidence interval (CI) to investigate associations between dietary habits and bone sarcoma risk in the case control study. An odds ratio of 1.6 with a potency of 85% was considered in the sample size calculations, leading to a target sample size of 270 cases with 540 matched healthy controls.
+
+For the pilot cohort samples of 55 cases and 110 controls will be analyzed for metabolome, microbiota and immune profile. According to the results of this pilot study further cases among the population of FFQ study will undertake further analysis of metabolome and/or microbiota and/or lymphocyte subpopulation to confirm the results of pilot study.
+
+OBJECTIVES OF THE STUDY
+
+1. Compare the diet habits and anthropometric measures in bone sarcoma patients at diagnosis with matched controls
+2. Pilot study: in the first 55 pts and their matched 110 healthy voluntary controls will be explored:
+
+   1. the occurrence of altered or more recurrent metabolites in patients' blood compared to controls
+   2. different microbiota diversity and composition between patients and case controls
+   3. different lymphocytes subpopulations composition.
+
+Bioinformatics analysis will be performed to investigate these objectives

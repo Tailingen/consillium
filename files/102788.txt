@@ -1,0 +1,38 @@
+Pentostatin, Alemtuzumab, and Rituximab in Treating Patients With Relapsed or Refractory Chronic Lymphocytic Leukemia or Small Lymphocytic Lymphoma
+RATIONALE: Drugs used in chemotherapy, such as pentostatin, work in different ways to stop the growth of cancer cells, either by killing the cells or by stopping them from dividing. Monoclonal antibodies, such as alemtuzumab and rituximab, can block cancer growth in different ways. Some block the ability of cancer cells to grow and spread. Others find cancer cells and help kill them or carry cancer-killing substances to them. Giving pentostatin together with alemtuzumab and rituximab may kill more cancer cells.
+
+PURPOSE: This phase II trial is studying how well giving pentostatin together with alemtuzumab and rituximab works in treating patients with relapsed or refractory chronic lymphocytic leukemia or small lymphocytic lymphoma.
+Leukemia|Lymphoma
+BIOLOGICAL: alemtuzumab|BIOLOGICAL: rituximab|DRUG: pentostatin|DRUG: sargramostim
+Complete Response Rate, A Complete Response (CR) requires the disappearance of all nodes, a non-palpable liver and spleen, no constitutional symptoms, absolute neutrophil counts \>1500/uL, platelets \>100000/uL, Hemoglobin \>11.0 g/dL, and lymphocytes \<4000/uL. In addition, a bone marrow biopsy with evidence of \<30% lymphocytes and no nodules.
+
+Here we report the rate of complete response as the number of patients attaining a CR status divided by the total number of evaluable patients. The 95% CI is estimated using the binomial distribution., Up to 3 cycles of treatment and 2 cycles of observation (up to 5 months total)
+Overall Response Rate (Complete and Partial Response), A Complete Response (CR) requires the disappearance of all nodes, a non-palpable liver and spleen, no constitutional symptoms, absolute neutrophil counts \>1500/uL, platelets \>100000/uL, Hemoglobin \>11.0 g/dL, and lymphocytes \<4000/uL. A bone marrow biopsy with evidence of \<30% lymphocytes and no nodules.
+
+Patients who fulfill all criteria for a CR but have a persistent anemia, thrombocytopenia, or neutropenia related to drug toxicity will be classified as CR with incomplete marrow recovery (CRi).
+
+A Partial Response (PR) requires a 50% reduction in nodes and liver/spleen measurements and at least two of the following: absolute neutrophil counts \>1500/uL, platelets \>100000/uL, Hemoglobin \>11.0 g/dL, or a \>50% reduction in lymphocytes.
+
+Here we report the rate of overall response as the number of patients attaining a CR, PR, or CRi status divided by the total number of evaluable patients. The 95% CI is estimated using the binomial distribution., Up to 3 cycles of treatment and 2 cycles of observation (up to 5 months total)|Overall Survival, Survival time is defined as the time from registration to death due to any cause. The distribution of survival time will be estimated using the method of Kaplan-Meier., Follow-up status and retreatment information will be collected up to 5 years from registration|Progression-free Survival, The progression-free survival (PFS) time is defined as the time from registration to progression or death due to any cause. The distribution of progression-free survival will be estimated using the method of Kaplan-Meier., Follow-up status and retreatment information will be collected up to 5 years from registration|Time to Retreatment, Time to subsequent therapy is defined to be the time from the registration to the date subsequent therapy is initiated. The distribution of time to subsequent therapy will be estimated using the method of Kaplan-Meier, Follow-up status and retreatment information will be collected up to 5 years from registration
+OBJECTIVES:
+
+Primary
+
+* To assess the rate of complete and overall response in patients with relapsed or refractory chronic lymphocytic leukemia or small lymphocytic lymphoma treated with pentostatin, alemtuzumab, and low-dose rituximab.
+* To monitor and assess toxicity of this treatment regimen.
+
+Secondary
+
+* To determine the overall and progression-free survival, duration of response, and time to next treatment.
+* To assess the correlation between individual prognostic markers (17p-, 11q-, unmutated VH gene, VH3-21, ZAP-70+, CD38+, CD49d, and β2 microglobulin, miRNA profiles, angiogenesis status, and karyotypes of CpG stimulated cells) and clinical outcome.
+
+OUTLINE: This is a multicenter study.
+
+* Course 1: Patients receive pentostatin IV on days 8 and 22; alemtuzumab subcutaneously (SC) on days 3-5, 8, 10, 12, 15, 17, 19, 22, 24, 26, 29, 31, and 33; rituximab IV on days 1, 3, 5, 8, 10, 12, 15, 17, 19, 22, 24, 26, 29, 31, and 33; and sargramostim (GM-CSF) SC on days 10-14 and 24-28. Patients then proceed to course 2.
+* Courses 2 and 3: Patients receive pentostatin IV on days 1 and 15; alemtuzumab SC and rituximab IV on days 1, 3, 5, 8, 10, 12, 15, 17, 19, 22, 24, and 26; and GM-CSF SC on days 3-7 and 17-21. After completion of course 2, patients with a complete response proceed to observation. Patients with a partial response or stable disease receive another course of therapy (course 3).
+
+Treatment continues in the absence of disease progression or unacceptable toxicity.
+
+Blood is collected on days 1, 3, 8, and 10 of course 1 for monoclonal antibody studies. Samples are analyzed for serum concentration of alemtuzumab and rituximab by ELISA and PCR; CH50 assay; complement activation and cytokine levels by ELISA; NK cell activation; and NK cell phenotype by immunofluorescent staining and flow cytometry.
+
+After completion of study treatment, patients are followed up monthly for 6 months, every 3 months for 6 months, and then every 6-12 months for up to 5 years.

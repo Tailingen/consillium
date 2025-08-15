@@ -1,0 +1,30 @@
+Contrast-Enhanced Mammography for Breast Cancer Staging in Patients Referred for a Second Opinion
+This clinical trial investigates contrast-enhanced mammography (CEM) in detecting breast cancer. CEM is similar to standard mammography, but it includes an injection of an iodine-based contrast, which makes tissue and blood vessels more visible in scans. Diagnostic procedures, such as CEM, may increase the chance of finding breast cancers and decrease the risk of having unnecessary biopsies.
+Breast Carcinoma|Invasive Breast Carcinoma
+PROCEDURE: Contrast-Enhanced Mammography|PROCEDURE: Digital Tomosynthesis Mammography|OTHER: Electronic Health Record Review|DRUG: Iodinated Contrast Agent
+Accuracy of contrast enhanced mammography (CEM) for incremental cancer detection in the ipsilateral and contralateral breasts, Defined as the number of concordant cases between CEM/low energy (LE) and pathologic evaluation divided by the total sample size. Will be estimated along with 95% confidence intervals; and compared between the modalities using the McNemar test or the weighted generalized score statistic proposed by Kosinski, if deemed appropriate. To account for multiple lesions, outcome variables will be analyzed using generalized liner mix models or extended McNemar's test, and additional analyses may be further performed if deemed appropriate., Up to 12 months
+PRIMARY OBJECTIVE:
+
+I. To compare the accuracy of CEM and low energy (LE) images (equivalent of full field digital mammogram \[FFDM\] as the standard of care) for the detection of additional cancer sites in the affected breast and in the contralateral breast.
+
+SECONDARY OBJECTIVES:
+
+I. To evaluate the sensitivity, specificity, positive and negative predictive value of CEM compared to LE CEM images (FFDM equivalent), digital breast tomosynthesis (DBT) and ultrasound for the detection of additional malignant lesions in the ipsilateral and contralateral breast.
+
+II. To evaluate the difference of the index cancer size estimation among CEM, LE images, DBT, and ultrasound compared to pathology measurements as the ground truth.
+
+III. To evaluate the incremental cancer detection rate provided by CEM, DBT, and ultrasound (US) compared to the outside facility (OSF) diagnosis.
+
+EXPLORATORY OBJECTIVES:
+
+I. To evaluate the rate of referral to breast magnetic resonance imaging (MRI) in the study cohort.
+
+II. To evaluate the performance of MRI for breast cancer diagnosis and compare it with other imaging modalities of CEM, LE images, DBT, and US.
+
+III. To evaluate the feasibility of CEM-guided biopsy of CEM-only detected lesions.
+
+OUTLINE:
+
+Patient receive iodinated contrast agent intravenously (IV) and undergo CEM. Patients who have not undergone DBT as part of their screening or diagnostic imaging within 3 month, undergo DBT. Patients medical records are reviewed.
+
+After completion of study treatment, patients are followed up for 12 months.

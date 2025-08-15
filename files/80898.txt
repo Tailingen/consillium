@@ -1,0 +1,16 @@
+Cetuximab and Envafolimab Plus mFOLFOXIRI as First-line Treatment for RAS/BRAF Wild-type, MSS, Unresectable Left-side Metastatic Colorectal Cancer
+The primary aim of phase II CEIL study is to evaluate the efficacy of cetuximab and envafolimab plus mFOLFOXIRI versus cetuximab plus mFOLFOX6/FOLFIRI as first line treatment of patients with initially unresectable and previously untreated RAS/BRAF wild-type, MSS, left-side metastatic colorectal cancer(mCRC), in terms of Progression-free Survival.
+Metastatic Colorectal Cancer
+DRUG: Cetuximab + Envafolimab + mFOLFOXIRI|DRUG: Cetuximab + mFOLFOX6/FOLFIRI
+Progression free survival, Time from date of randomization until the date of first documented progression or date of death from any cause, whichever came first., 2 year
+Objective response rate, CR + PR rate according to RECIST, 2 year|Disease control rate, CR + PR + SD rate according to RECIST, 2 year|No evidence of disease, The percentage of patients who had a curative treatment following protocol treatment, i.e., liver metastases that can be completely resected and/or ablated with no evidence of residual malignant disease., 2 year|Overall survival, Time from date of randomization until the date of first documented death from any cause., 4 year|Safety (Incidence of Adverse Events), Percentage of patients, relative to the total of enrolled subjects, experiencing a specific adverse event of grade 3/4, according to National Cancer Institute Common Toxicity Criteria (version 5.0), during the induction and the maintenance phases of treatment., 2 year|Health related quality of life, Scores according to EORTC QLQ-CR29 scoring manual., Every 2 weeks after the first treatment until 6 months.|Quality-adjusted time without symptoms or toxicity, Q-TWiST was calculated as the sum of the utility-weighted mean durations for each health state. Q-TWiST = (TWiST × μTWiST) + (TOX × μTOX) + (REL × μREL).
+
+Base case utilities: μTWiST = 1, μTOX = 0.5, μREL = 0.5. Duration of AEs was measured until disease progression. All time in TOX was front-loaded at the beginning of threrapy., 2 year
+Tumor-infiltrating lymphocyte, Assessment of the tumor-infiltrating lymphocytes (TILs) in tumor tissue before treatment and during tumor progression., 2 year|Treatment-emergent genetic mutations (e.g., KRAS, NRAS, BRAF, SMAD4, HER2, Etc.), Assessment of the correlation between mutation status of relevant genes and treatment response through ctDNA testing., 2 year
+This is a prospective, open-label, multicentric, randomized controlled phase II trial in which patients with initially unresectable and previously untreated RAS/BRAF wild-type, MSS, left-side mCRC will be randomized to two therapy groups:
+
+Experimental arm A: receive induction treatment with cetuximab and envafolimab plus mFOLFOXIRI up to 8 cycles followed by maintenance with cetuximab and envafolimab plus 5-FU/LV until disease progression, unacceptable toxicity or patient's refusal.
+
+Standard arm B: receive induction treatment with cetuximab plus mFOLFOX6/FOLFIRI up to 8 cycles followed by maintenance with cetuximab plus 5-FU/LV until disease progression, unacceptable toxicity or patient's refusal.
+
+The second- and subsequent lines of treatment will be at investigators' choice.

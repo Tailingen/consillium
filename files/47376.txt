@@ -1,0 +1,21 @@
+Cetuximab and/or Dasatinib in Patients With Colorectal Cancer and Liver Metastases That Can Be Removed by Surgery
+This phase 0 trial is studying whether 2 weeks of cetuximab and dasatinib will change tumor cells in patients with colorectal cancer and liver metastases that can be removed by surgery. Monoclonal antibodies, such as cetuximab, can block tumor growth in different ways. Some block the ability of tumor cells to grow and spread. Others find tumor cells and help kill them or carry tumor-killing substances to them. Dasatinib may stop the growth of tumor cells by blocking some of the enzymes needed for cell growth.
+Liver Metastases|Mucinous Adenocarcinoma of the Colon|Mucinous Adenocarcinoma of the Rectum|Recurrent Colon Cancer|Recurrent Rectal Cancer|Signet Ring Adenocarcinoma of the Colon|Signet Ring Adenocarcinoma of the Rectum|Stage IV Colon Cancer|Stage IV Rectal Cancer
+BIOLOGICAL: cetuximab|DRUG: dasatinib|PROCEDURE: therapeutic conventional surgery|OTHER: laboratory biomarker analysis
+Patients With a Biologic Response, Patients who experienced a pre-to-post treatment reduction of at least 1 scoring level from baseline on preoperative-day 15 in at least 1 biomarker of the pathway being inhibited: epidermal growth factor (EGFR) for Cohort B, sarcoma (Src) for Cohort C, and both EGFR and Src for Cohort D. Blood for these biomarkers will be taken on day of baseline and pre-operatively on day 15. Determined by 0-4-scale scoring with score determined by percentage of tumor cells positively stained for pathway in question: minimum 0 (0%), 1 (1-24%), 2 (25-49%), 3 (50-74%), and maximum 4 (75-100%)., on baseline and preoperatively on day of surgery (day 15)
+Patients With Reduction of Biomarkers in Tumor Tissue, Patients with pre-to-post treatment reduction at least 1 scoring level from baseline on preoperative-day 15 in at least 1 biomarker: total \& phi-EGFR, phi-MAPK, phi-Akt, Ki67, phi-FAK, phi-paxillin, phi-Src, capase 3. Determined by 0-4-scale scoring with score determined by percentage of tumor cells positively stained for biomarker in question: minimum 0 (0%), 1 (1-24%), 2 (25-49%), 3 (50-74%), and maximum 4 (75-100%), study entry to day 15|Number of Patients With the Given Severity of Adverse Event Within a Specified Duration, Number of patients with each grade of adverse event (AE) during the specified timeframe using the Common Terminology Criteria for AEs guide, grades 1-5 with one being mild, five is death., weekly to day 15, and at followup on day 30|Number of Patients With the Given Severity of Post-operative Complications Within the Specified Duration, From day 15 (day of surgery) to 30 days after surgery
+PRIMARY OBJECTIVES:
+
+I. To evaluate the biological effects of cetuximab, dasatinib, or the combination on epidermal growth factor receptor (EGFR)- and Src-signaling pathways in resected colorectal cancer liver metastases.
+
+OUTLINE: This is a multicenter study. Patients are initially enrolled in cohort A. Once cohort A is completed, additional patients are enrolled and randomized to treatment in either cohorts B or C. If a significant biological effect is seen in cohorts B or C, additional patients are enrolled in cohort D.
+
+COHORT A: Patients receive no systemic neoadjuvant therapy between enrollment and the time of definitive surgical resection of liver metastases. Liver biopsies were performed at surgery since this cohort received no systemic therapy.
+
+COHORT B: Patients receive 400 mg/m2 cetuximab intravenously (IV) over 120 minutes on day 1 and 250 mg/m\^2 cetuximab IV over 60-120 minutes on day 8. Definitive surgical resection of liver metastases will take place on day 15.
+
+COHORT C: Patients receive dasatinib 100 mg orally once daily on days 1-14. Definitive surgical resection of liver metastases will take place on day 15.
+
+COHORT D: Patients receive 400 mg/m\^2 cetuximab IV over 120 minutes on day 1 and 250 mg/m\^2 cetuximab IV over 60-120 minutes on day 8 AND dasatinib 100 mg orally once daily on days 1-14. Definitive surgical resection of liver metastases will take place on day 15.
+
+Patients undergo tumor tissue (from initial liver tumor biopsies and liver resection samples), serum, and peripheral blood mononuclear cell sample collection periodically for biomarker analysis via immunohistochemistry (IHC).

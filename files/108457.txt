@@ -1,0 +1,19 @@
+Evaluating Patient Reported Outcomes in Radiation Therapy, the PRO-RT Study
+This study explores the use of the Hugo platform to involve study participants in their healthcare and treatments. The Hugo platform may allow researchers to collect better and more accurate real-time health data, from other clinics/hospitals, pharmacies and other electronic devices. The purpose of this research is to see if the use of the Hugo platform is consistent, accurate, cost effective, and time efficient, as it collects and transmits important real-time health information from other clinics/hospitals, pharmacies, and other electronic devices.
+Breast Carcinoma|Head and Neck Carcinoma|Lung Carcinoma|Malignant Solid Neoplasm
+OTHER: Electronic Health Record Review|OTHER: Medical Device Usage and Evaluation|OTHER: Survey Administration
+Survey completion rate, The difference in rates will be estimated. A chi square, or Fisher's exact test as appropriate, will be used to compare the rates between cohorts. A logistic regression model will be used to understand the association of patient and disease variables with the odds of completion (at least one of the surveys at the treated site)., Baseline up to 6 months after completion of radiation therapy|Percentage of patients with access to wearable device, A logistic regression model will be used to understand the association of patient and disease variables with the odds of access to a wearable device., Up to 6 months after completion of radiation therapy
+Incidence of adverse events, Logistic regression will be used to predict presence of a patient toxicity. Baseline patient and disease characteristics, along with biometric information will be used to assess associations with toxicity. Multiple variable models will be considered depending on the number of patients identified with a toxicity., Up to 6 months after completion of radiation therapy
+PRIMARY OBJECTIVES:
+
+I. Evaluate the data aggregation from a patient centered platform over a follow up period for completeness and quality, including externally linked electronic health record (EHR) information, toxicity completion, and the patient reported outcomes (PRO) response rates for study patients, compared with historical pre-coronavirus disease (COVID) cohort of registry patients.
+
+II. To explore biometric information obtained from wearables as it pertains to the toxicity of treatment for patients using a wearable device.
+
+III. To estimate app-based survey completion rates using Hugo-based survey incentive completion (gift cards).
+
+IV. To explore the cost data available on the platform.
+
+OUTLINE:
+
+Patients complete surveys via the Hugo Platform at baseline (before treatment), after treatment, and at 3 and 6 months after treatment. Patients' medical records and Fitbit information are also collected into the Hugo Platform.

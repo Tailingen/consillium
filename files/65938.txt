@@ -1,0 +1,67 @@
+18F-DCFPyL PET/CT in Hepatocellular Carcinoma
+Background:
+
+A radiotracer (or tracer) is a radioactive substance. It is used in Positron Emission Tomography (PET) imaging to help see specific sites in the body. Researchers want to learn if a new tracer can help them better identify hepatocellular cancer (HCC) in people.
+
+Objective:
+
+To learn if a radiotracer called 18F-DCFPyL can identify sites of HCC better than current standard imaging.
+
+Eligibility:
+
+Adults aged 18 years and older who may have HCC based on previous standard imaging.
+
+Design:
+
+Participants will be screened with a medical history, physical exam, and blood tests. They will have a computed tomography (CT) and/or magnetic resonance imaging (MRI) scan.
+
+Participants will have a whole-body PET/CT scan. The PET and CT scanners use x-rays to make pictures of the inside of the body. The PET uses a tracer to help make the pictures. Participants will get an intravenous (IV) injection of 18F-DCFPyL 1 hour before the scan.
+
+Within two weeks, participants will have a 18F-FDG PET/CT scan. 18F-FDG is a commonly used tracer. They will get 18F-FDG via IV 1 hour before the scan.
+
+Participants will have a CT/MRI within 2 months of the first 18F-DCFPyL PET/CT.
+
+Participants will have standard treatment for their cancer. During treatment, they will have a tumor biopsy. If the biopsy shows they do not have HCC, they will be removed from the study.
+
+For participants who have HCC and their cancer was identified in the 18F-DCFPyL PET/CT, they will have a second 18F-DCFPyL PET/CT and 18F-FDG PET/CT.
+
+Participants will have follow-up visits every 3 months for 2 years. Then they will have yearly visits for 3 years.
+Hepatocellular Carcinoma
+DRUG: F18-FDG|DEVICE: MRI|DEVICE: CT|DRUG: F18-DCFPyL
+Positive predictive value, The point estimates and 95% confidence intervals of the positive predictive value of 18F-DCFPyL PET/CT will be reported in which the confidence limits are the 2.5th and 97.5th percentile of the 2000 bootstrap samples obtained by random sample without replacement at the participant level to account for inter-lesion correlation., Baseline, post ablation, disease progression
+Lesion level sensitivity, specificity and positive predictive value, The lesion level sensitivity, specificity and positive predictive value of 18F-DCFPyL PET/CT and CT/MRI will be calculated and compared. The confidence interval for each estimate will be obtained from the bootstrap samples and the difference in the estimates between the imaging modalities will be compared by the Wald test with the standard error calculated from the bootstrap samples., Baseline, post ablation, disease progression|Change in 18F-DCFPyL PET/CT uptake between pre- and post-treatment, change in 18F-DCFPyL PET/CT uptake between pre- and post-treatment will be compared by paired Wilcoxon test., Pre- and post-treatment HCC treatment
+Background:
+
+Prostate specific membrane antigen is overexpressed in high-grade tumors, and increases when de-differentiation, metastatic or hormone-refractory disease occur, making the expression level a prognostic factor for disease outcome.
+
+It has been shown that PSMA can be expressed not only on prostate cancer cells, but also on cell lines of other malignancies, as well as tumor endothelium.
+
+A recent publication reported that nearly 95% of hepatocellular carcinoma (HCC) stained positive for PSMA in the tumor vasculature. Research suggests that the process of endothelial cell recruitment to HCC occurs early and throughout the process of hepatic tumorigenesis, making an endothelial cell tracer an ideal marker to detect early disease.
+
+18F-DCFPyL, a second generation PSMA PET agent, binds with high affinity to PSMA yet clears rapidly from the blood pool and thus, whole-body PET imaging with this agent, may provide a new tool in staging high risk cancers and detecting recurrent disease.
+
+We propose to expand our clinical work using 18F-DCFPyL, and evaluate its usefulness for detecting sites of hepatocellular carcinoma.
+
+Objective:
+
+To assess the ability of 18F-DCFPyL PET/CT imaging to detect sites of hepatocellular carcinoma
+
+Eligibility:
+
+Participants \>= 18 years old
+
+High radiological suspicion of hepatocellular carcinoma (HCC) with at least one measurable lesion on standard imaging modality (CT and/or MRI)
+
+Eastern Cooperative Oncology Group (ECOG) Performance score of 0 to 2
+
+Design:
+
+This is a multi-site imaging study enrolling participants with suspected hepatocellular carcinoma. The accrual ceiling is set to 50 participants.
+
+All participants will undergo a baseline 18F-DCFPyL PET/CT scan. A standard of care CT and/or MRI will be performed within 2 months of the 18F-DCFPyL PET/CT. Participants will be also scanned with an 18F-FDG PET/CT imaging within approximately 2 weeks of the 18F-DCFPyL PET/CT imaging.
+
+Participants will be scheduled to undergo a biopsy prior to or during standard of care local treatment for HCC (e.g., resection, radiofrequency ablation, microwave ablation, transarterial embolization (TAE), stereotactic body radiotherapy (SBRT)).
+
+Participants with a baseline positive 18F-DCFPyL-PET/CT imaging (i.e. with the presence of DCFPyL-avid tumor/s) and biopsy confirming HCC diagnosis will undergo a post-treatment 18F-DCFPyL PET/CT imaging during the first routine follow-up period, typically within 16 weeks. Subjects with negative tumor uptake at baseline 18F-DCFPyL-PET/CT will not be re-scanned post-treatment but will remain in follow-up.
+
+Participants with a positive HCC biopsy will be followed for 5 years to assess progression free survival.

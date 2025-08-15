@@ -1,0 +1,41 @@
+Cabozantinib S-malate and Nivolumab in Treating Patients With Advanced, Recurrent, or Metastatic Endometrial Cancer
+This randomized phase II trial studies how well cabozantinib s-malate and nivolumab work in treating patients with endometrial cancer that has come back (recurrent) or spread to other places in the body (advanced or metastatic). Cabozantinib may stop the growth of tumor cells by blocking some of the enzymes needed for cell growth. Immunotherapy with monoclonal antibodies, such as nivolumab, may help the body's immune system attack the cancer, and may interfere with the ability of tumor cells to grow and spread. Giving cabozantinib and nivolumab may work better in treating endometrial cancer.
+Advanced Endometrial Carcinoma|Metastatic Endometrial Carcinoma|Recurrent Endometrial Carcinoma|Stage III Uterine Corpus Carcinoma or Carcinosarcoma AJCC v8|Stage IV Uterine Corpus Carcinoma or Carcinosarcoma AJCC v8
+PROCEDURE: Biopsy Procedure|PROCEDURE: Biospecimen Collection|DRUG: Cabozantinib S-malate|PROCEDURE: Computed Tomography|PROCEDURE: Magnetic Resonance Imaging|BIOLOGICAL: Nivolumab
+Progression free survival (PFS), Up to 1 year
+Overall response rate (ORR), Summary statistics, such as mean, median, counts and proportion, will be used to summarize the patients. Potential association between variables will be measured using Pearson correlation coefficients, chi-square tests, one- or two-sample t-tests or logistic regression analyses as appropriate. Non-parametric tests such as Spearman correlation coefficients, Fisher's exact tests and Wilcoxon rank sum test may be substituted if necessary. 95% percent confidence intervals will be constructed and selected results will be illustrated using figures and plots., Up to 1 year|Overall survival (OS), Survival estimates will be computed using the Kaplan-Meier method., Up to 1 year|Incidence of adverse events, Frequency and severity of adverse events will be tabulated using counts and proportions detailing frequently occurring, serious and severe events of interest., Up to 1 year|PD-L1 expression, CD3, CD4 and CD8 analysis, Correlated with outcomes (PFS, ORR, OS). The log rank test, cox model or Chi-Square test will apply to access the association between PD-L1, CD3, CD4, CD8 expression and outcome (PFS, OS, ORR) where appropriate., Up to 1 year
+PRIMARY OBJECTIVE:
+
+I. To evaluate the clinical anti-tumor activity of cabozantinib s-malate (XL184 (\[cabozantinib\]) and nivolumab based on progression free survival (PFS) in patients with advanced, recurrent or metastatic endometrial cancer previously treated with at least one line of platinum-based chemotherapy compared to patients receiving nivolumab alone.
+
+SECONDARY OBJECTIVES:
+
+I. To evaluate the efficacy of XL184 and nivolumab in terms of overall response rate (ORR) compared to nivolumab alone.
+
+II. To evaluate overall survival (OS) of patients receiving XL184 and nivolumab compared to patients receiving nivolumab alone.
+
+III. To evaluate the safety of combination treatment using XL184 and nivolumab in patients with advanced, recurrent metastatic endometrial cancer.
+
+IV. To evaluate correlation between PD-L1 expression, CD3, CD4 and CD8 infiltrates and outcome (PFS, ORR, OS).
+
+V. To compare PD-L1 expression, CD3, CD4 and CD8 infiltrates in the primary tumor (archival tissue) and in the tissue from baseline biopsy.
+
+VI. To assess activity (PFS, ORR and OS) of nivolumab alone or in combination with XL184 according to microsatellite instability (MSI)/mismatched repair (MMR) status.
+
+EXPLORATORY OBJECTIVES:
+
+I. To assess activity (PFS, ORR and OS) of XL184 and nivolumab in patients progressed after previous exposure to anti PD-1, PD-L1 or PD-L2 agents or crossed-over from single agent nivolumab, and in patients with diagnosis of carcinosarcoma.
+
+II. To compare microsatellite (MS) and MMR status, in the primary tumor (archival tissue) and in the tissue from baseline biopsy.
+
+III. To assess the genomic and immune-markers landscape at baseline on tumor tissue and changes in immune landscape in peripheral blood during treatment and correlate with outcome.
+
+OUTLINE: Patients are randomized to 1 of 2 arms.
+
+ARM A: Patients receive cabozantinib s-malate orally (PO) once daily (QD) on days 1-28 and nivolumab intravenously (IV) over 30 minutes on days 1 and 15, then on day 1 beginning cycle 5. Patients undergo computed tomography (CT) scan, magnetic resonance imaging (MRI), and blood sample collection throughout the study and undergo biopsy at screening and optionally at follow up.
+
+ARM B: Patients receive nivolumab as in Arm A. Patients may cross-over to Arm A at the time of disease progression. Patients undergo CT scan, MRI, and blood sample collection throughout the study and undergo biopsy at screening and optionally at follow up.
+
+In both arms, cycles repeat every 28 days in the absence of disease progression or unacceptable toxicity.
+
+After completion of study treatment, patients are followed up at 30-37 days, then every 8-12 weeks.

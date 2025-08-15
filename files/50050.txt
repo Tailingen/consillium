@@ -1,0 +1,21 @@
+Dexamethasone Effects in Patients With Refractory Non-Small Cell Lung Cancer Using FLT Positron Emission Tomography
+This pilot research trial studies the effects of dexamethasone in patients with non-small cell lung cancer that has not responded after previous treatment. Drugs such as dexamethasone can affect how tumors grow and respond to treatments. Imaging tests, such as fluoro-L-thymidine (FLT) positron emission tomography , use a small amount of radioactive substance to show changes in tumor cells. Studying the effects of dexamethasone on lung tumors using FLT positron emission tomography may help doctors plan better treatments.
+Recurrent Non-Small Cell Lung Carcinoma|Stage IIIA Non-Small Cell Lung Cancer|Stage IIIB Non-Small Cell Lung Cancer|Stage IV Non-Small Cell Lung Cancer
+DRUG: Dexamethasone|DEVICE: Device for PET|OTHER: Laboratory Biomarker Analysis|PROCEDURE: Positron Emission Tomography
+Change in tumor SUVmax assessed by 18F-FLT PET imaging, The primary analysis is one sample t-test for the change of SUVmax., Baseline to day 9
+Change in senescence markers in circulating tumor cells, Baseline to day 9|Change in serum dexamethasone concentration, Baseline to day 9|Dexamethasone withdrawal as measured by changes in tumor FLT retention, Secondary analyses will be carried out with descriptive statistics such as mean, SD, range. Correlation analysis will be descriptive. Spearman correlation coefficient will be calculated and scatter plot will be plotted. Subgroup analyses for dexamethasone withdrawal will be performed within the GRα high group. All subgroup analyses will be descriptive due to the expected small sample size., Day 6-9|Tumor glucocorticoid receptor alpha expression, Baseline
+PRIMARY OBJECTIVES:
+
+I. To evaluate the effect of dexamethasone (Dex) treatment in patients with relapsed non-small cell lung cancer (NSCLC) using 3'-fluorothymidine (FLT) positron emission tomography (PET) as measured by changes in tumor maximum standardized uptake value (SUVmax).
+
+SECONDARY OBJECTIVES:
+
+I. Assess the reversibility of Dex-mediated changes in tumor FLT retention following the withdrawal of Dex.
+
+II. Measure tumor Glucocorticoid Receptor alpha expression (GRα) from recent patient biopsy samples.
+
+III. Analyze blood samples obtained during imaging to determine serum Dex concentration and for senescence markers in circulating tumor cells.
+
+OUTLINE:
+
+Patients receive dexamethasone orally (PO) twice daily (BID) on days 1-5. Patients undergo 3 fluorothymidine F-18 (18F)-FLT PET scans. One scan within 7 days prior to the start of dexamethasone, one scan on day 3 after the 5th dose of dexamethasone, and one scan 6-9 days after the last dose of dexamethasone.

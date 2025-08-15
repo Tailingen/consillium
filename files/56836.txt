@@ -1,0 +1,33 @@
+Fludarabine Phosphate and Total Body Irradiation Followed by a Donor Peripheral Stem Cell Transplant in Treating Patients With Myelodysplastic Syndromes or Myeloproliferative Disorders
+This phase II trial studies the side effects and best dose of total-body irradiation when given together with fludarabine phosphate followed by a donor peripheral stem cell transplant in treating patients with myelodysplastic syndromes (MDS) or myeloproliferative disorders (MPD). Giving low doses of chemotherapy, such as fludarabine phosphate, and total-body irradiation before a donor peripheral blood stem cell transplant helps stop the growth of cancer cells. Giving chemotherapy or radiation therapy before or after transplant also stops the patient's immune system from rejecting the donor's stem cells. The donated stem cells may replace the patient's immune cells and help destroy any remaining cancer cells (graft-versus-tumor effect). Sometimes the transplanted cells from a donor can also make an immune response against the body's normal cells. Giving cyclosporine and mycophenolate mofetil after the transplant may stop this from happening.
+Atypical Chronic Myeloid Leukemia, BCR-ABL1 Negative|Chronic Myelomonocytic Leukemia|de Novo Myelodysplastic Syndrome|Essential Thrombocythemia|Myeloproliferative Neoplasm|Paroxysmal Nocturnal Hemoglobinuria|Polycythemia Vera|Polycythemia Vera, Post-Polycythemic Myelofibrosis Phase|Primary Myelofibrosis|Refractory Anemia|Refractory Anemia With Excess Blasts|Refractory Anemia With Ring Sideroblasts|Refractory Cytopenia With Multilineage Dysplasia|Refractory Cytopenia With Multilineage Dysplasia and Ring Sideroblasts
+DRUG: Cyclosporine|DRUG: Fludarabine Phosphate|OTHER: Laboratory Biomarker Analysis|DRUG: Mycophenolate Mofetil|PROCEDURE: Nonmyeloablative Allogeneic Hematopoietic Stem Cell Transplantation|PROCEDURE: Peripheral Blood Stem Cell Transplantation|RADIATION: Total-Body Irradiation
+Number of Patients With HCT Failure., HCT failure will be defined as graft rejection (defined as \< 5% donor T-cell chimerism) or disease progression within 200 days of transplant., 200 days
+Number of Patients Who Had Infections, Number of patients who experienced bacterial, fungal, or viral infections., 1 year|Number of Patients Who Engrafted, Continued engraftment will be defined as the detection of donor T-cells (CD3+) as a proportion of the total T-cell of greater than 5%., 1 year|Number of Patients With Progression-free Survival, Evidence of disease progression will be an indication for therapeutic intervention. Defined as any evidence by morphologic or flow cytometric evaluation of the bone marrow aspirate of an incremental increase in 5% blasts in MDS/CMML; defined as any evidence of blastic transformation in agnogenic myeloid metaplasia/atypical CML; and defined as progressive erythrocytosis, thrombocytosis, or evidence of leukemic transformation in polycythemia vera and essential thrombocythemia., 1 year|Number of Patients With Relapse/Progression, Evidence of disease progression will be an indication for therapeutic intervention. Defined as any evidence by morphologic or flow cytometric evaluation of the bone marrow aspirate of an incremental increase in 5% blasts in MDS/CMML; defined as any evidence of blastic transformation in agnogenic myeloid metaplasia/atypical CML; and defined as progressive erythrocytosis, thrombocytosis, or evidence of leukemic transformation in polycythemia vera and essential thrombocythemia., 1 year
+PRIMARY OBJECTIVES:
+
+I. Decrease the incidence of day-200 hematopoietic cell transplantation (HCT) failure to \< 20% in patients with MDS-Refractory anemia (RA)-(ringed sideroblasts \[RS\])/MPD and in patients with chronic myelomonocytic leukemia (CMML)/refractory anemia with excess blasts (RAEB).
+
+SECONDARY OBJECTIVES:
+
+I. The rate of relapse/progression in patients with MPD or MDS-RA and those with CMML or MDS-RAEB.
+
+II. The probability of progression free survival (PFS) in patients with MPD or MDS-RA and those with CMML or MDS-RAEB.
+
+III. The kinetics of donor engraftment.
+
+IV. The incidence of infections.
+
+OUTLINE: This is a dose-escalation study of total body irradiation (TBI).
+
+NONMYELOABLATIVE CONDITIONING REGIMEN: Patients receive fludarabine phosphate intravenously (IV) on days -4 to -2 and undergo TBI on day 0.
+
+PERIPHERAL BLOOD STEM CELL (PBSC) TRANSPLANTATION: Patients undergo filgrastim (G-CSF)-mobilized PBSC infusion after TBI on day 0.
+
+IMMUNOSUPPRESSION:
+
+Matched Related Donor: Patients receive cyclosporine orally (PO) twice daily (BID) on days -3 to 56, followed by a taper until day 180. Patients also receive mycophenolate mofetil (MMF) PO BID beginning 4-6 hours after transplantation on day 0 and continue until day 27.
+
+Unrelated Donor: Patients receive cyclosporine PO BID on days -3 to 100, followed by a taper until day 180. Patients also receive MMF PO three times daily beginning 4-6 hours after transplantation on day 0 and continue until day 40, followed by a taper until day 96.
+
+After completion of study treatment, patients are followed periodically.

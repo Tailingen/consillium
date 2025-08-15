@@ -1,0 +1,43 @@
+Benefits of Morphine Gel for Pain Reduction in Patients With Cancer Wounds
+The goal of this clinical trial is to compare in compare pain reduction in patients with malignant wounds using morphine gel or lidocaine gel. The main question to be answered is:
+
+• Does morphine gel offer better pain control in malignant wounds when compared to lidocaine gel? Participants will answer a questionnaire where they report a note for pain at the site of the malignant wound and then the dressing will be performed by a nurse from the research team. The patient and the nurse do not know which product is being used. At the end of the dressing, the patient answers a new questionnaire. This process will be carried out for 3 days.
+
+The researchers will compare the intervention group (morphine gel) and the control group (lidocaine gel) and verify if there is a difference in pain reduction between the two products.
+Wounds and Injuries|Cancer Pain|Cancer, Breast|Cancer Head Neck
+DRUG: Morphine Sulfate|DRUG: Lidocaine Hcl 2% Jelly
+Numeric pain rating scale, The scale assesses the intensity of pain, where 0 means no pain and 10 means the most intense pain possible, 3 days
+Pain relief, Difference in the means of pain assessed by the numeric pain assessment scale before and after the intervention., 3 days|General Comfort Questionnaire, General comfort questionnaire with scores ranging from 48-192, where 48 reports the worst comfort measure and 192 the highest comfort level reported by the patient., 3 days
+Potential participants will be all patients with malignant wounds in the head and neck or breast region who meet the inclusion and exclusion criteria, forming the study population.
+
+After signing the free and informed consent form, the intervention group will receive topical morphine based on hydrogel in the formulation of 10mg of morphine sulfate - intravenous solution (1 ml) with 8g of hydrogel and the control group will receive lidocaine in gel.
+
+To ensure the quality and accuracy of the data, in addition to the safety of the research participants, face-to-face monitoring visits will be carried out by the team from the Representative Area of Clinical Research (ARPC)/INCA throughout the execution of this protocol.
+
+After signing the TCLE by the patient and researcher, the completion of the clinical form will begin. The pharmacist of the research team responsible for the randomization will be contacted to inform the inclusion of the patient in the study. The research team doctor will be responsible for prescribing the medication to be used, be it morphine or lidocaine gel, with a view to release by the hospital pharmacy.
+
+Both morphine gel and lidocaine gel will be prepared in a flow hood suitable for handling the medications.
+
+Adverse events will be reported, using medical terminology, in the source document and in the eCRF (electronic case report form). Upon identification of a reaction, the participant will be evaluated by the research team physician. All measures required for the treatment of the adverse event will be recorded in the source document.
+
+Randomization and allocation will be performed using Research Electronic Data Capture (REDCap) software in a form that will only be viewed by non-blind members of the pharmacy team, responsible for handling the products and sending them to the team nurse who will be responsible for wound dressing evil.
+
+The data collection forms (eCRF) will be customized in the REDCap software by the representative research area (ARPC) data management team. The data will be entered into the eCRFs according to the standard operating procedures of the Division of Clinical Research-INCA. The data will be exported to the R software by API (Application Programming Interface) where the statistical analyzes will be performed.
+
+The sample size of each group was determined using the G\*Power application (version 3.1.9.4), using the Wilcoxon and Mann-Whitney nonparametric test approach. The calculation suggests a minimum sample size of 53 patients per group.
+
+In the first part of the analysis, a descriptive analysis of the sample profile and comparison of the baseline variables of the control and intervention groups will be performed. The second part will evaluate the effect of the treatments in the control and intervention groups, analyzing the significance of the observed differences and the size of the treatment effect.
+
+For qualitative variables, the significance of the association between two variables, or the difference between the distribution of the proportions of the two groups, will be investigated using the chi-square test and, when it proves to be inconclusive, Fisher's exact test will be used.
+
+The odds ratio (OR) will be the measure used to express some risk of a qualitative outcome when comparing the occurrence of the outcome in the groups.
+
+For quantitative variables, the normality of distributions will be verified by the Kolmogorov-Smirnov and Shapiro-Wilk tests. If the variable of interest has a normal distribution in both groups, the comparison will be made using the student's t-test; if at least one of the groups does not present normal distribution, or if the variable to be compared is an ordinal scale, such as the pain scale, the comparison of the two groups will be performed using the Mann-Whitney test.
+
+Two repeated measures in different evaluations will be compared by the paired Student's t-test, if the two measures present normal distribution, or by the Wilcoxon signed rank test, if at least one of the measures does not present normal distribution or if it is a scale measure ordinal.
+
+More than two repeated measures will be compared by ANOVA for repeated measures, in the case of normality for all measures, or by the Friedman test, if at least one of the measures does not present normal distribution, or if it is an ordinal scale measure.
+
+Classifications or qualitative factors observed repeatedly at different times will be compared by McNemmar test.
+
+The effect of the received intervention on the pain score will be evaluated by the Glass effect size measure.

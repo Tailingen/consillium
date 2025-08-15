@@ -1,0 +1,29 @@
+Evaluating Decision-making Using ChatGPT-4 Among Trainees in Surgery
+This study aims to assess whether ChatGPT-4 can support surgical trainees in clinical decision-making. By comparing the performance of ChatGPT-4 with junior residents, senior residents, and attending surgeons on standardized clinical scenarios, the study seeks to understand the potential role of large language models in surgical education. The ultimate goal is to evaluate whether ChatGPT-4 can be safely integrated as a supplementary educational tool to aid junior residents in developing critical thinking and surgical judgment.
+Artificial Intelligence (AI)|Training|Surgery
+OTHER: Clinical Cases
+Proportion of correct responses, Binary outcome (correct vs. incorrect decision), Baseline
+Comparison of accuracy across experience levels, Proportion of correct responses by group: Junior residents, Senior residents, Attending surgeons, ChatGPT-4, Baseline|Confidence level, Participants and ChatGPT are asked to rate how confident they feel in their answer (1-5 Likert scale, where 1 means no confident and 5 very confident), Baseline|Percentage of use of AI for clinical cases evaluation, Participants are asked if they use or not ChatGPT in their clinical activity, Baseline
+Background:
+
+Artificial Intelligence (AI) is rapidly transforming the medical landscape, offering new possibilities in education, diagnostics, and decision support. In surgery, clinical decision-making is a core competency developed progressively through training. ChatGPT-4, a state-of-the-art large language model developed by OpenAI, has demonstrated competence in handling medical queries and clinical reasoning tasks. However, its performance in complex surgical decision-making compared to human trainees remains largely unexplored.
+
+Objective:
+
+The EDuCATe study aims to evaluate the accuracy and reliability of ChatGPT-4's responses to clinical scenarios involving general surgery cases. Specifically, the study compares the model's performance to that of junior residents, senior residents, and attending surgeons to understand if ChatGPT-4 can serve as a safe and effective educational tool for surgical trainees.
+
+Methods:
+
+Seven clinical scenarios will be constructed using real anonymized patient data representing common general surgery conditions. Each case will be presented step-by-step, mimicking the clinical decision-making process. Participants will answer a question related to treatment choice.
+
+Participants will include junior residents (PGY1-2), senior residents (PGY3+), and attending surgeons from a single surgical department. ChatGPT-4 will be prompted with the same scenarios. All participants will be instructed to complete the cases without using external resources such as AI tools or internet searches, relying solely on their clinical knowledge.
+
+Statistical analysis will compare performance across groups using non-parametric tests (e.g., Wilcoxon rank sum).
+
+Expected Outcomes:
+
+The study hypothesizes that ChatGPT-4 will perform at a level comparable to senior residents or attending surgeons and outperform junior residents in decision-making. If confirmed, these results could support the safe use of ChatGPT-4 as a training aid for junior surgical residents, potentially improving educational outcomes and clinical reasoning skills.
+
+Significance:
+
+This study will provide novel insight into the role of AI in surgical education. By rigorously comparing ChatGPT-4's decision-making capabilities to that of human surgeons at various levels, the study hopes to define its utility, limitations, and appropriate use in residency training programs.

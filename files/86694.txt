@@ -1,0 +1,22 @@
+Combination Chemotherapy and Ofatumumab in Treating Patients With Acute Lymphoblastic Leukemia or Lymphoblastic Lymphoma
+This phase II trial studies how well combination chemotherapy and ofatumumab work in treating patients with acute lymphoblastic leukemia or lymphoblastic lymphoma. Drugs used in chemotherapy, such as cyclophosphamide, vincristine sulfate, doxorubicin hydrochloride, and dexamethasone, work in different ways to stop the growth of cancer cells, either by killing the cells, by stopping them from dividing, or by stopping them from spreading. Immunotherapy with ofatumumab, may induce changes in body's immune system and may interfere with the ability of tumor cells to grow and spread. Giving combination chemotherapy together with ofatumumab may be an effective treatment for acute lymphoblastic leukemia or lymphoblastic lymphoma.
+Acute Lymphoblastic Leukemia|Adult Acute Lymphoblastic Leukemia in Complete Remission|Burkitt Leukemia|Burkitt Lymphoma|CD20 Positive|Childhood Acute Lymphoblastic Leukemia in Complete Remission|Lymphoblastic Lymphoma
+DRUG: Cyclophosphamide|DRUG: Cytarabine|DRUG: Dexamethasone|DRUG: Doxorubicin Hydrochloride|OTHER: Laboratory Biomarker Analysis|DRUG: Methotrexate|BIOLOGICAL: Ofatumumab|DRUG: Vincristine Sulfate
+Number of Participants With Complete Remission (CR), Complete Remission is Normalization of the peripheral blood and bone marrow with 5% or less blasts in marrow with a granulocyte count of 1 x 109/L or above and a platelet count of 100x 109/L or above. Complete resolution of all sites of extramedullary disease is required for CR., Up to 8 years|4-Year Overall Survival, Overall Survival is defined as time from date of treatment start until date of death due to any cause or last Follow-up. For continuous data, summary statistics including n, mean, standard deviation, median, minimum and maximum will be computed. The posterior median time to event and it 95% credible interval will be estimated. Kaplan-Meier method, Log rank test and Cox proportional hazards regression modeling will be utilized to analyze survival at 4 years., Up to 4 years|4-year Event Free Survival, Event Free Survival defined as the time from the start of therapy to time of primary refractory disease, relapse from CR, death from any cause or last follow-up. Kaplan-Meier method will be utilized to analyze event free survival for the 4 year percent alive and in CR., Up to 4 years
+PRIMARY OBJECTIVES:
+
+I. To evaluate the clinical efficacy of the combination of hyper-CVAD (cyclophosphamide, vincristine sulfate, doxorubicin hydrochloride, and dexamethasone) + ofatumumab in patients with newly diagnosed acute lymphoblastic leukemia with any level of CD20 expression: event-free survival; overall response rate; overall survival.
+
+SECONDARY OBJECTIVES:
+
+I. To evaluate the safety of this combination.
+
+OUTLINE:
+
+COURSES 1, 3, 5, 7: Patients receive hyper-CVAD comprising cyclophosphamide intravenously (IV) over 3 hours every 12 hours on days 1-3; doxorubicin hydrochloride IV over 24 hours on day 4; vincristine sulfate IV over 15 minutes on days 4 and 11; and dexamethasone IV over 30 minutes or orally (PO) once daily (QD) on days 1-4 and 11-14. Patients also receive ofatumumab IV over 4-6 hours on days 1 and 11 of courses 1 and 3.
+
+COURSES 2, 4, 6, 8: Patients receive high-dose methotrexate IV over 2 hours and then over 22 hours on day 1 and cytarabine IV over 2 hours every 12 hours on days 2-3. Patients also receive ofatumumab IV over 4-6 hours on days 1 and 8 of courses 2 and 4.
+
+Treatment repeats every 21-28 days for 8 courses in the absence of disease progression or unacceptable toxicity. Patients may receive maintenance therapy for an additional 30 months.
+
+After completion of study treatment, patients are followed up at 30 days and then every 3 months for 1 year.

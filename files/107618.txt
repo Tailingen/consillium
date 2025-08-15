@@ -1,0 +1,42 @@
+PREOPANC-4 Implementation Program for Locally Advanced Pancreatic Cancer
+A prospective, nationwide, implementation program of the international standard of excellence for locally advanced pancreatic cancer (LAPC) care in the Netherlands (2021\[7\]-2030\[6\]), including a multidisciplinary training program by the four leading international expert centers.
+
+The PREOPANC-4 project aims a safe and patient-centered implementation of the international standards of excellence for LAPC (surgery) in the Netherlands.
+Pancreatic Cancer|Locally Advanced Pancreatic Adenocarcinoma|Pancreatic Adenocarcinoma Non-resectable|Chemotherapy Effect
+OTHER: Implementation - International best-practice care
+Resection rate, Resection rate of the pancreatic tumor, Immediately after completing the inclusion period (December 31, 2024).|Overall survival (OS), OS from time of resection (mOS, 1-year OS \& 5-year OS), After completing the follow-up period (December 31, 2029)|In-hospital mortality, Mortality after resection (during primary hospitalization), Yearly assessment throughout the inclusion period|In-hospital major morbidity, Clavien-Dindo grade IIIa or higher major morbidity after resection (during primary hospitalization), Yearly assessment throughout the inclusion period
+R0 resection rate, R0 (microscopic radical resection \>1mm) versus R1 (microscopic residual tumor ≤1mm). NB. For the anterior margin, only direct ingrowth is considered as R1., Immediately after completing the inclusion period (December 31, 2024).|Quality of life, EORTC QLQ-C30: global health status
+
+Outcome measures will be calculated, according to the validated questionnaire manuals., Measured at 3, 6, 9, 12, 18, and 24 months from diagnosis, followed by yearly measurements.|Shared decision-making: patients' healthcare satisfaction, APECC decision-making self-efficacy scale.
+
+Outcome measures will be calculated, according to the validated questionnaire manuals., Measured at 3, 6, 9, 12, 18, and 24 months from diagnosis, followed by yearly measurements.
+Rationale:
+
+Non-metastasized locally advanced pancreatic cancer (LAPC) is diagnosed in 35% of all pancreatic cancer patients and is traditionally treated with palliative care. Recently, the multidisciplinary management of LAPC has evolved by the introduction of modern multi-agent induction chemotherapies, leading to an increased resection rate and improved outlook for five-year survival. In contrast, five-year survival after chemotherapy without surgery is virtually non-existent. In the Netherlands, the LAPC resection rate after induction chemotherapy remains low with 8% versus 25% in international centers of excellence, leading to missed opportunities for five-year survival in a selected subgroup of LAPC patients. Explanations for this large difference include the spectrum of chemotherapy use, interpretation of diagnostics, patient selection, and surgical techniques.
+
+Objective:
+
+A safe and patient-centered implementation of the international standards of excellence for LAPC (surgery) in the Netherlands.
+
+Study design:
+
+A prospective, nationwide, implementation program of the international standard of excellence for LAPC care in the Netherlands (2021\[7\]-2030\[6\]), including a multidisciplinary training program by the four leading international expert centers (i.e. University of Heidelberg, University of Colorado, NYU Langone, and MD Anderson Cancer Center). Subsequently, the three Dutch centers with the highest surgical volume and documented experience in LAPC surgery will implement this highly complex LAPC surgery in close collaboration with the other Dutch Pancreatic Cancer Group (DPCG) centers. Patients who meet the inclusion criteria will be discussed within an online (inter)national expert panel to properly select patient for surgery. In addition, the other DPCG centers can present their LAPC patients to this panel for advice about (surgical) treatment options and if these patients should be referred to the three high-volume DPCG centers for surgery. Outcomes will be compared with a historical Dutch LAPC cohort, using propensity score matching.
+
+Study population:
+
+Adult patients with pathology confirmed non-metastasized LAPC and non-progressive disease after at least four months of (modified) FOLFIRINOX or gemcitabine-nab-paclitaxel induction chemotherapy and fit for major surgery.
+
+Study aim:
+
+The primary study aim is to double the LAPC resection rate in the Netherlands from 8% to 16% with adequate survival and morbidity targets.
+
+Primary targets:
+
+1. Survival: After resection, mOS of 25 months, 1-year survival \>90%, and 5-year survival \>20%. These outcomes will be compared to the Dutch cohort of patients (2015-2020) with RECIST non-progressive LAPC after induction chemotherapy who did not undergo surgical exploration;
+2. In-hospital morbidity and mortality: in-hospital/30-day mortality ≤5% and in-hospital major morbidity of \<50% after resection, which will be compared with a recent Dutch cohort (2015-2020) of resected patients with borderline resectable and locally advanced pancreatic cancer after induction/neoadjuvant therapy.
+
+Secondary targets:
+
+1. Non-inferior radical resection (R0) rate as compared to a recent Dutch cohort (2015-2020) of resected patients with borderline resectable and locally advanced pancreatic cancer after induction/neoadjuvant therapy;
+2. Non-inferior quality of life, mental and physical health status, and potential side effects on the long-term follow-up, compared to a control cohort of Dutch LAPC patients;
+3. Non-inferior patients' healthcare satisfaction, compared to the Dutch historical cohort of pancreatic cancer patients.

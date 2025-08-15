@@ -1,0 +1,37 @@
+Rituximab, Pentostatin, Cyclophosphamide, and Lenalidomide in Treating Patients With Previously Untreated B-Cell Chronic Lymphocytic Leukemia or Small Lymphocytic Lymphoma
+RATIONALE: Monoclonal antibodies, such as rituximab, can block cancer growth in different ways. Some block the ability of cancer cells to grow and spread. Others find cancer cells and help kill them or carry cancer-killing substances to them. Drugs used in chemotherapy, such as pentostatin and cyclophosphamide, work in different ways to stop the growth of cancer cells, either by killing the cells or by stopping them from dividing. Lenalidomide may stop the growth of cancer cells by blocking some of the enzymes needed for cell growth. Giving rituximab together with combination chemotherapy and lenalidomide may kill more cancer cells.
+
+PURPOSE: This phase II trial is studying how well giving rituximab together with pentostatin, cyclophosphamide, and lenalidomide works in treating patients with previously untreated B-cell chronic lymphocytic leukemia or small lymphocytic lymphoma.
+Leukemia|Lymphoma
+BIOLOGICAL: Rituximab|DRUG: Cyclophosphamide|DRUG: Lenalidomide|DRUG: Pentostatin
+Number of Participants With Complete Response (CR), A complete response, as defined by the National Cancer Institute Working Group (NCIWG), requires all of the following for a period of at least 2 months:
+
+- CR: no lymphadenopathy, hepatomegaly, splenomegaly or constitutional symptoms; normal complete blood count; confirmed by bone marrow (BM) aspirate \& biopsy, 12 months
+Number of Participants Who Convert From a Nodular Partial Response (nPR), Partial Response (PR), or Stable Disease (SD) After Pentostatin, Cyclophosphamide, and Rituximab (PCR) to a Complete Response (CR) After 6 Courses of Consolidation With Lenalidomide, According to the NCIWG criteria, response is defined as follows:
+
+nPR: Meets all criteria for CR, as described above, except the presence of residual clonal nodules in the bone marrow PR: 50% decrease in peripheral blood lymphocytes, lymphadenopathy, liver/spleen size, presence/absence of constitutional symptoms; plus ≥1 of the following: ≥1500/μL polymorphonuclear leukocytes, \>100000/μL platelets, \>11.0 g/dL hemoglobin or 50% improvement for these parameters without transfusions SD: participant who does not meet any of the criteria described above, 12 months|Number of Participants Who Convert From a CR With Minimal Residual Disease (MRD) Positive Status After PCR to a CR With MRD-negative Status After 6 Courses of Consolidation With Lenalidomide, MRD refers to small number of leukemic cells that remain in the participant during treatment or after treatment when the participant has achieved CR. For all participants who achieved CR, the follow-up bone marrow sample was tested for malignant B cells to determine if there was any MRD., 12 months|Number of Participants With a Response (CR, nPR, PR), Response criteria described in above outcomes., During treatment (up to 5 years)|Overall Survival (OS), Overall Survival (OS) was defined as the time from registration to death of any cause. Participants were followed for a maximum of 5 years from registration. The median OS with 95% CI was estimated using the Kaplan Meier method., time from registration to death (up to 5 years)|Treatment Free Survival (TFS), Treatment Free Survival (TFS) was defined as the time from registration to the earliest date documentation of subsequent treatment or death, whichever came first. Participants were followed for a maximum of 5 years from registration. The median TFS with 95% CI was estimated using the Kaplan Meier method., time from registration to progression (up to 5 years)
+OBJECTIVES:
+
+Primary
+
+* To assess the rate of complete and overall response using pentostatin, cyclophosphamide, and rituximab (PCR) followed by consolidation with lenalidomide in patients with previously untreated B-cell chronic lymphocytic leukemia (CLL) or small lymphocytic lymphoma.
+
+Secondary
+
+* To assess the proportion of patients who convert from a nodular partial response (nPR), PR, or stable disease after completing PCR to a complete response (CR) after 6 cycles of consolidation with lenalidomide.
+* To assess the proportion of patients who convert from a CR with detectable minimal residual disease (MRD) after PCR to a CR with MRD negative state after 6 courses of consolidation with lenalidomide.
+* To assess the proportion of patients who convert from a CR with detectable MRD, nPR, PR, or stable disease with residual disease after PCR to a CR with MRD negative state after 6 cycles of consolidation with lenalidomide.
+* To monitor and assess toxicity of this regimen.
+* To determine if molecular prognostic parameters (e.g., ZAP-70, CD38, cytogenetic abnormalities identified by FISH, IgVH mutation status) relate to response to PCR-lenalidomide therapy.
+* To use evaluation of MRD to determine the duration of lenalidomide therapy.
+* To determine the progression-free survival in CLL patients using this treatment regimen.
+
+OUTLINE: This is a multicenter study.
+
+* Induction therapy: Patients receive rituximab IV over 4 hours on days 1 and 2 of course 1, and over 1 hour on day 1 of each subsequent course. Patients also receive pentostatin IV over 30 minutes and cyclophosphamide IV over 30 minutes on day 1, and pegfilgrastim subcutaneously on day 2. Treatment repeats every 21 days for up to 6 courses in the absence of disease progression or unacceptable toxicity.
+* Consolidation therapy: Beginning 2 months after completion of induction therapy, patients receive oral lenalidomide once daily on days 1-28. Treatment repeats every 28 days for 6 courses in the absence of disease progression or unacceptable toxicity.
+* Continuation therapy: Patients with residual disease continue to receive lenalidomide as in consolidation therapy until they achieve a minimal residual disease-negative status or complete remission. Patients who achieve complete response with no detectable disease discontinue therapy and enter the observation phase.
+
+Blood samples are collected periodically during treatment for translational and pharmacologic studies. Samples are analyzed for immunoglobulin heavy chain gene mutational status, ZAP-70 status, and levels of VEGF, bFGF, thrombospondin, and TGF-beta by ELISA; and for the effects of therapy on immune function. Samples are also stored for future research. Bone marrow aspirate samples are analyzed for minimal residual disease by flow cytometry.
+
+After completion of study treatment, patients are followed every 90 days for 3 years.

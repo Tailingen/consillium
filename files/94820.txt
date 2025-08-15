@@ -1,0 +1,25 @@
+CCI-779 in Treating Patients With Locally Advanced or Metastatic Pancreatic Cancer
+Drugs used in chemotherapy, such as CCI-779, work in different ways to stop tumor cells from dividing so they stop growing or die. This phase II trial is studying how well CCI-779 works in treating patients with locally advanced or metastatic pancreatic cancer
+Adenocarcinoma of the Pancreas|Recurrent Pancreatic Cancer|Stage II Pancreatic Cancer|Stage III Pancreatic Cancer|Stage IV Pancreatic Cancer
+DRUG: temsirolimus|OTHER: laboratory biomarker analysis
+Overall survival (OS), The method of Thall and Simon will be employed., 6 months
+Overall response rate defined as the number of patients who achieved CR or PR divided by the number of patients treated, 95% confidence interval will be presented, Up to 2 years|Duration of response, From the time of objective response to the time of progressive disease, assessed up to 2 years|Time to progression (TTP), From the time of the study entry to the time of relapse or progression, assessed up to 2 years|Systemic and local adverse events assessed using the established National Cancer Institute (NCI) Common Terminology Criteria for Adverse Events (CTCAE), Descriptive statistics (mean, standard deviation, median, and range) will be displayed for relevant laboratory parameters., Up to 2 years|Levels of PTEN, AKT, and PI3K, Expression levels will be correlated with patient survival duration using Cox proportional hazard regression analysis, Up to 2 years|Expression and phosphorylation status of p70s6k, Descriptive statistics will be applied to report the mean, duration of the effects on p70s6k phosphorylation., Up to 7 days
+PRIMARY OBJECTIVES:
+
+I. Determine the overall survival at 6 months in patients with locally advanced or metastatic pancreatic cancer treated with CCI-779.
+
+SECONDARY OBJECTIVES:
+
+I. Determine time to progression, progression-free survival, overall survival, and tumor response rate in patients with measurable disease treated with this drug.
+
+II. Correlate biomarkers of response with clinical response in patients treated with this drug.
+
+III. Determine the safety and toxicity of this drug in these patients.
+
+OUTLINE: This is an open-label study.
+
+Patients receive CCI-779 IV over 30 minutes once weekly. Courses repeat every 4 weeks in the absence of disease progression or unacceptable toxicity.
+
+Patients are followed every 3 months.
+
+PROJECTED ACCRUAL: A total of 40 patients will be accrued for this study within 13 months.

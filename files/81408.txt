@@ -1,0 +1,33 @@
+RP-3500 and Olaparib in DNA Damage Repair Pathway Deficient Relapsed/Refractory Chronic Lymphocytic Leukemia
+This is an open-label, multicenter, phase Ib/II study of the combination of RP-3500 and olaparib in Relapsed/Refractory Chronic Lymphocytic Leukemia (R/R CLL) patients with DDR deficiencies.
+Chronic Lymphocytic Leukemia
+DRUG: RP-3500|DRUG: Olaparib
+Maximum Tolerated Dose (MTD) of Camonsertib (RP-3500) in Combination With Olaparib, This outcome will report the number of patients who experienced a Dose-Limiting Toxicity (DLT) in Phase Ib Dose Level 1, Phase Ib Dose Level 2, Phase Ib Dose Level 3, and Phase Ib Dose Level -1 during the DLT window (Cycle 1 Day 1 to Cycle 1 Day 21).
+
+A keyboard phase I design was employed; the target toxicity was 30% with an equivalence interval between 25-33% of patients. The first 5 patients were treated at DL-1 (camonsertib 40mg daily and olaparib 100mg BID dosing 3 days per week)., up to 28 days after initiation of study drug|Overall Response, This outcome will assess the overall responseof combination RP-3500 and olaparib. Overall response is defined by the count of subjects achieving any confirmed partial (PR) and complete response (CR) as assessed by 2018 International Working Group on Chronic Lymphocytic Leukemia (iwCLL) response criteria.
+
+Subjects without a baseline/screening tumor assessment or at least one on-treatment assessment will be considered non-responders., up to 85 Days after initiation of study drug
+Adverse Events (AE) by Grade, This outcome measure will assess the safety and tolerability of RP-3500 and olaparib.
+
+The severity of AEs was assessed using CTCAE v5.0 criteria, a 1-5 scale with higher numbers indicating greater severity. Grade 1 indicates "mild; asymptomatic or mild symptoms; clinical or diagnostic observations only; intervention not indicated" and Grade 5 indicates "death related to AE".
+
+The severity of adverse hematologic adverse events was assessed using the 2018 IWCLL grading scale. Grade 0 indicates "≤10% decrease in platelets (PLT) or hemoglobin (Hb) from baseline and ≥2 absolute neutrophil count (ANC)" and Grade 4 indicates "≥75% decrease in PLT or Hb from baseline and \<0.5 ANC"
+
+This outcome measure will report the count of participants who experienced each AE grade. Subjects were monitored for adverse events from the start of treatment until 28 days after the last dose of the study drug., up to 28 days after the last dose of study treatment (up to 113 days after initiation of study drug)|Progression-free Survival (PFS), Progression-free survival (PFS) as defined as the time from study drug initiation to the time documented disease progression (as assessed by 2018 iwCLL criteria) or death from any cause. Patients were followed for PFS until progression of disease was noted or death, whichever occurred first.
+
+This outcome will report the median PFS with 95% confidence intervals., up to 15 months from initiation of study treatment|Overall Survival (OS), This outcome will assess OS as defined as the time between treatment initiation and death of any cause.
+
+Subjects were followed for OS from the initiation of therapy until death from any cause or until the study was terminated. Subjects lost to follow-up or refused follow-up were censored at the time of the last known follow-up.
+
+This outcome will report the median OS with 95% confidence intervals., up to 21 months after study registration|Duration of Response (DoR) as Defined as the Interval of Time From the Date of Initial Documented Response (PR or Better as Per 2018 iwCLL Criteria for Response) to the Time of Progression., DoR is defined as the interval of time from the date of the initial documented response (PR or better as per 2018 iwCLL criteria for response) to the time of progression.
+
+Patients would be followed for DoR from the date of the initial documented response until progression of disease was noted or death, whichever occurred first.
+
+This outcome would have reported the median DoR with 95% confidence intervals., up to 21 months after initiation of study treatment.
+The Phase Ib part of the trial will seek to assess the Maximum Tolerated Dose (MTD) of camonsertib (RP-3500) in combination with olaparib. Given the potential overlapping toxicities of RP-3500 and olaparib, a keyboard phase I design, a novel Bayesian method that typically underestimates the MTD,61 will be employed. The target toxicity is 30% with an equivalence interval between 25-33% of patients. With an anticipated 3 dose levels (DL) and an option for a DL-1, up to 18 patients may be required to determine the MTD. A maximum of 12 patients will be treated at a DL.
+
+The first 5 patients treated at the previous DL1 (camonsertib 40mg daily and olaparib 100mg two times a day (BID) dosing 3 days per week) determined that this dosing strategy may not be appropriate for R/R CLL patients and reduced dosing may be necessary to increase safety of the combination therapy. Therefore, the newly proposed DLs will seek to enroll an additional 18 patients.
+
+After completion of the phase Ib portion and assignment of the recommended phase 2 dose (RP2D), continuous enrollment of patients may commence into the phase II dose expansion portion. All patients enrolled at the RP2D during the phase Ib dose-escalation portion of the trial can be carried over into the phase II analysis. The maximum number of patients that can be carried over from the dose escalation to the dose-expansion portion is 12.
+
+The phase II dose expansion will consist of two separate cohorts of subjects: an enrichment cohort and a cohort for all other eligible subjects. All subjects enrolled into the enrichment cohort must have a del(11q) and/or ATM mutation. Eight subjects will be enrolled into the enrichment cohort and 16 will be enrolled into the second cohort for a total phase II cohort of 24 patients.

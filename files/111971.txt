@@ -1,0 +1,23 @@
+Akt Inhibitor MK2206 and Hydroxychloroquine in Treating Patients With Advanced Solid Tumors, Melanoma, Prostate or Kidney Cancer
+This phase I trial studies the side effects and the best dose of Akt inhibitor MK2206 together with hydroxychloroquine in treating patients with advanced solid tumors, melanoma, prostate or kidney cancer. Akt inhibitor MK2206 may stop the growth of tumor cells by blocking some of the enzymes needed for cell growth. Drugs used in chemotherapy, such as hydroxychloroquine, work in different ways to stop the growth of tumor cells, either by killing the cells, by stopping them from dividing, or by stopping them from spreading. Giving Akt inhibitor MK2206 together with hydroxychloroquine may kill more tumor cells than giving either drug alone.
+Advanced Malignant Solid Neoplasm|Stage III Cutaneous Melanoma AJCC v7|Stage III Prostate Cancer AJCC v7|Stage III Renal Cell Cancer AJCC v7|Stage IIIA Cutaneous Melanoma AJCC v7|Stage IIIB Cutaneous Melanoma AJCC v7|Stage IIIC Cutaneous Melanoma AJCC v7|Stage IV Cutaneous Melanoma AJCC v6 and v7|Stage IV Prostate Cancer AJCC v7|Stage IV Renal Cell Cancer AJCC v7
+DRUG: Akt Inhibitor MK2206|DRUG: Hydroxychloroquine
+Maximum tolerated dose of Akt inhibitor MK-2206, Will be assessed by Common Terminology Criteria for Adverse Events (CTCAE) version 4.0., 21 days|Dose-limiting toxicity rate, Will be assessed by CTCAE version 4.0., 21 days
+Changes in expression pattern of markers Beclin1, LC3, and p62, Will be assessed by immunohistochemistry (IHC), Western blotting, and number of autophagosomes by electron microscope (EM). Spaghetti plots or boxplots at time points will be produced for each marker and for EM. Appropriate transformations of the measurements will be carried out to normalize the data. Descriptive summary statistics will be provided for each type of measure at each time point., Baseline to 4 weeks|Change in autophagy activity induced by hydroxychloroquine, Will be measured by the amount of autophagosomes by EM. Student t-test and Wilcoxon nonparametric tests will be conducted., Baseline to 4 weeks|Validation of Beclin1, LC3, and p62 as markers for autophagy, Will be measured by EM. Linear mixed models will be fitted to the data, EM as the independent variable, the 3 markers and time points as fixed effects, plus a subject-specific random effect. A backward variable selection will be carried out for the 3 markers until a final model is selected. An ROC curve will be produced. The log-transformed ratio of LC3-II/LC3-I and difference in the log-transformed ratios of LC3-II./LC3-I pre-post treatment between high autophagy activity (HA, \>= 6 AV/cell) and low autophagy activity (LA, \< 6 AV/cell) will be analyzed for evaluating treatment effect using a two sided paired t-test., Up to 4 weeks
+PRIMARY OBJECTIVES:
+
+I. To define the maximum tolerated dose (MTD) of MK-2206 (Akt inhibitor MK2206) and hydroxychloroquine (HCQ) when used in combination.
+
+SECONDARY OBJECTIVES:
+
+I. To determine side effects and activity of MK-2206 and hydroxychloroquine when used in combination.
+
+II. To determine if hydroxychloroquine alters the pharmacokinetics of MK-2206 due to a drug-drug interaction.
+
+III. To validate biomarkers for autophagy detection.
+
+OUTLINE: This is a dose-escalation study of Akt inhibitor MK-2206.
+
+Patients receive Akt inhibitor MK2206 orally (PO) on days 1, 8, and 15. Beginning on cycle 2, patients also receive hydroxychloroquine PO twice daily (BID) on days 1-21. Cycles repeat every 21 days in the absence of disease progression or unacceptable toxicity.
+
+After completion of study treatment, patients are followed up for 4 weeks.

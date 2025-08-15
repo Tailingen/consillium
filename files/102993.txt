@@ -1,0 +1,28 @@
+Combination Chemotherapy and Bevacizumab in Treating Patients With Advanced Neuroendocrine Tumors
+RATIONALE: Drugs used in chemotherapy, such as fluorouracil, leucovorin, and oxaliplatin, work in different ways to stop the growth of tumor cells, either by killing the cells or by stopping them from dividing. Monoclonal antibodies, such as bevacizumab, can block tumor growth in different ways. Some block the ability of tumor cells to grow and spread. Others find tumor cells and help kill them or carry tumor-killing substances to them. Bevacizumab may also stop the growth of neuroendocrine tumors by blocking blood flow to the tumor. Giving combination chemotherapy together with bevacizumab may kill more tumor cells.
+
+PURPOSE: This phase I/II trial is studying the side effects of giving combination chemotherapy together with bevacizumab and to see how well it works in treating patients with advanced neuroendocrine tumors.
+Gastrointestinal Carcinoid Tumor|Islet Cell Tumor|Lung Cancer|Neoplastic Syndrome|Neuroendocrine Tumor
+BIOLOGICAL: bevacizumab|DRUG: 5-fluorouracil|DRUG: leucovorin|DRUG: oxaliplatin
+Rate of Discontinuation Due to Adverse Events Possibly Related to Study Treatment, Rates of discontinuation were calculated as counts and percentages of patients whom discontinued treatment due to adverse events possibly related to the investigational treatments not including neuropathy., From beginning of treatment up to 18 months; Post-study survival follow-up up to 8 years|Best Objective Response, Best Objective Response by RECIST with Exact 95% Binomial CIs across all tumor types. The patient's best response assignment will depend on the achievement of both measurement and confirmation criteria Target lesions response + Non-Target lesions response + Evaluation of non-target lesions (Yes / No) = Overall response, From Baseline until disease progression, up to 8 years
+Time to Progression, Time to disease progression will be defined as the time from baseline until documented disease progression or death (whichever occurs first)., From beginning of treatment up to 18 months; Post-study survival follow-up up to 8 years|Overall Median Survival, The overall survival is defined as the time from baseline until death (Carcinoid, PNET, PDNEC) using Kaplan-Meier Survival analysis methods., until death, up to 8 years|Overall Time to Treatment Failure, Time to treatment failure is defined as the time from the initial complete or partial response to documented disease progression or death (whichever occurs first) across treatment groups and inclusive of drug holidays and estimated using Kaplan-Meier survival analysis methods, From initial complete or partial response to disease progression, up to 8 years|Biochemical Marker Response, Biochemical marker response is defined as \>=50% reduction in marker or hormone(s) that were elevated at baseline. Markers/hormones tested are: Chromagranin A (CGA), 5-HIAA, Insulin, Proinsulin, C-peptide, Pancreatic polypeptide, Gastrin, Glucagon, and Vasointestinal Peptide., From Baseline until end of treatment, up to 8 years
+OBJECTIVES:
+
+Primary
+
+* Determine the safety of fluorouracil, leucovorin calcium, and oxaliplatin (FOLFOX) with bevacizumab in patients with advanced neuroendocrine tumors.
+* Determine the best overall response rate in patients treated with this regimen.
+
+Secondary
+
+* Determine the overall survival of patients treated with this regimen.
+* Determine the time to treatment failure and progression in patients treated with this regimen.
+* Determine the biochemical marker response in patients treated with this regimen.
+
+OUTLINE: This is an open-label, pilot study. Patients are stratified according to tumor type (carcinoid vs islet cell vs poorly differentiated neuroendocrine).
+
+Patients receive oxaliplatin IV over 2 hours and leucovorin calcium IV over 2 hours on day 1 and fluorouracil IV continuously over 46-48 hours beginning on day 1. Patients also receive bevacizumab IV over 30-90 minutes on day 1. Treatment repeats every 14 days for up to 26 courses in the absence of disease progression or unacceptable toxicity.
+
+After completion of study treatment, patients are followed every 3 months.
+
+PROJECTED ACCRUAL: A total of 39-102 patients (13-34 per stratum) will be accrued for this study.

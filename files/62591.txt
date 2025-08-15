@@ -1,0 +1,41 @@
+Cediranib Maleate and Olaparib Compared to Bevacizumab in Treating Patients With Recurrent Glioblastoma
+This randomized phase II trial studies how well cediranib maleate and olaparib work compared to bevacizumab in treating patients with glioblastoma that has come back (recurrent). Cediranib maleate and olaparib may stop the growth of tumor cells by blocking some of the enzymes needed for cell growth. Immunotherapy with monoclonal antibodies, such as bevacizumab, may help the body's immune system attack the cancer, and may interfere with the ability of tumor cells to grow and spread.
+Recurrent Glioblastoma
+BIOLOGICAL: Bevacizumab|DRUG: Cediranib|DRUG: Cediranib Maleate|DRUG: Olaparib
+Number of Participants With Progression-Free Survival at 6 Months, Progression-Free Survival (PFS) is defined as the time from randomization to progressive disease (PD) per Response Assessment in Neuro-Oncology (RANO) criteria, or death due to any cause, whichever occurs first. Participants alive without PD are censored at date of last disease evaluation.
+
+PD criteria:
+
+(A) 25% increase in sum of the products of perpendicular diameters of enhancing lesions (over best response or baseline if no decrease) on stable or increasing doses of steroids and/or one or more of the following: (B) Significant increase in T2/FLAIR non-enhancing lesion on stable or increasing doses of steroids compared to baseline scan or best response following initiation of therapy, not due to co-morbid events (C) Any new lesions (D) Clear clinical deterioration not attributable to other causes apart from the tumor, per discretion of the treating physician (E) Failure to return for evaluation due to death or deteriorating condition., 6 months
+Progression Free Survival, Progression free survival is defined as the time from randomization until progressive disease or death from any cause., Up to 3 years|Overall Survival (OS), Overall Survival (OS) is defined as the time from randomization to death due to any cause, or censored at date last known alive., up to 3 years|Incidence of Adverse Events (AE), The grade of adverse events be assessed by National Cancer Institute Common Terminology Criteria for Adverse Events 5.0. The incidence of an adverse event at a particular grade is the number of patients who experienced that adverse event/grade., Up to 3 years|Levels of Circulating Cytokines Involved With Angiogenesis, Descriptive statistics will be provided for all continuous biomarkers outcomes. Contingency tables will be provided for categorical data. All comparisons between study arms will be adjusted for multiplicity and in particular false discovery rate (FDR) (Hochberg and Binaymini) will be used for genome data. Binary endpoints will be reported using 95% binomial confidence intervals., Up to 3 years|Levels of Serial Circulating Biomarkers Involved With Deoxyribonucleic Acid (DNA) Repair, Descriptive statistics will be provided for all continuous biomarkers outcomes. Contingency tables will be provided for categorical data. All comparisons between study arms will be adjusted for multiplicity and in particular FDR (Hochberg and Binaymini) will be used for genome data. Binary endpoints will be reported using 95% binomial confidence intervals., Up to 3 years|Tumor Genomic Alteration, Will be assessed by whole exome sequencing. Descriptive statistics will be provided for all continuous biomarkers outcomes. Contingency tables will be provided for categorical data. All comparisons between study arms will be adjusted for multiplicity and in particular FDR (Hochberg and Binaymini) will be used for genome data. Binary endpoints will be reported using 95% binomial confidence intervals., Up to 3 years|Imaging Correlates (Vascular Permeability, Tumor Perfusion and Oxygenation, Brain Tumor Cellularity), Descriptive statistics will be provided for all continuous biomarkers outcomes. Contingency tables will be provided for categorical data. All comparisons between study arms will be adjusted for multiplicity and in particular FDR (Hochberg and Binaymini) will be used for genome data. Binary endpoints will be reported using 95% binomial confidence intervals., Up to 3 years
+PRIMARY OBJECTIVES:
+
+I. To compare the antitumor activity of cediranib maleate (cediranib)/olaparib versus reference bevacizumab monotherapy, as measured by progression-free survival at 6 months (PF6), in patients with recurrent glioblastoma (GBM).
+
+SECONDARY OBJECTIVES:
+
+I. To compare overall survival (OS), progression free survival (PFS) and objective response (ORR) in patients with recurrent GBM treated with cediranib/olaparib versus bevacizumab.
+
+II. To assess the safety of the combination of olaparib and cediranib in patients with recurrent GBM.
+
+III. To evaluate the association of blood based biomarkers involved with angiogenesis using the Biomarker Review Committee-approved Plasma Angiome Panel (bFGF, Ang-1, Ang-2, Tie-2, SDF1-alpha, Collagen IV, PlGF, sVEGFR1, sVEGFR2, VEGF, Il-1beta, Il-6, Il-8, TNF-alpha, CAIX) with the clinical activity of cediranib/olaparib.
+
+IV. To evaluate the association of tissue biomarkers involved with deoxyribonucleic acid (DNA) repair using the Biomarker Review Committee-approved BROCA panel with the clinical activity of cediranib/olaparib.
+
+V. To identify genomic alteration by whole exome sequencing in GBM tumor specimens that correlate with the clinical activity of cediranib/olaparib.
+
+VI. To evaluate the association of magnetic resonance imaging (MRI) imaging parameters (tumor perfusion and oxygenation, brain tumor cellularity) with the biological response of cediranib/olaparib.
+
+VII. To contribute genetic analysis data from de-identified biospecimens to Genomic Data Commons (GDC), a well annotated cancer molecular and clinical data repository, for current and future research; specimens will be annotated with key clinical data, including presentation, diagnosis, staging, summary treatment, and if possible, outcome.
+
+VIII. To bank formalin-fixed, paraffin-embedded (FFPE) tissue, blood (for cell-free DNA analysis), and nucleic acids obtained from patients at the Experimental Therapeutics Clinical Trials Network (ETCTN) Biorepository at Nationwide Children's Hospital.
+
+OUTLINE: Patients are randomized to 1 of 2 arms.
+
+ARM A: Patients receive olaparib orally (PO) twice daily (BID) and cediranib maleate PO once daily (QD) on days 1-28.
+
+ARM B: Patients receive bevacizumab intravenously (IV) over 30-90 minutes every 2 weeks.
+
+In both arms, cycles repeat every 28 days in the absence of disease progression or unacceptable toxicity.
+
+After completion of study treatment, patients are followed up at 30 days and then periodically for 3 years.

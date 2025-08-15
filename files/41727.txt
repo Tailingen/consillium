@@ -1,0 +1,29 @@
+Cisplatin and Radiation Therapy Followed by Paclitaxel and Carboplatin in Treating Patients With Stage IB-IVA Cervical Cancer
+This phase I trial studies the side effects and the best dose of paclitaxel and carboplatin after cisplatin and radiation therapy in treating patients with stage IB-IVA cervical cancer. Drugs used in chemotherapy, such as cisplatin, paclitaxel, and carboplatin, work in different ways to stop the growth of tumor cells, either by killing the cells, by stopping them from dividing, or by stopping them from spreading. Radiation therapy uses high-energy x-rays to kill tumor cells. Giving paclitaxel and carboplatin after cisplatin and radiation therapy may kill more tumor cells.
+Cervical Adenocarcinoma|Cervical Adenosquamous Carcinoma|Cervical Squamous Cell Carcinoma, Not Otherwise Specified|Stage IB Cervical Cancer AJCC v6 and v7|Stage IIA Cervical Cancer AJCC v7|Stage IIB Cervical Cancer AJCC v6 and v7|Stage IIIA Cervical Cancer AJCC v6 and v7|Stage IIIB Cervical Cancer AJCC v6 and v7|Stage IVA Cervical Cancer AJCC v6 and v7
+DRUG: Carboplatin|DRUG: Cisplatin|RADIATION: External Beam Radiation Therapy|RADIATION: Internal Radiation Therapy|DRUG: Paclitaxel
+MTD of adjuvant carboplatin and paclitaxel determined based on the dose-limiting toxicities assessed by NCI CTCAE version 4, 21 days
+Objective tumor response rate in patients enrolled with measurable disease, Will be tabulated overall., Up to 1 year|Progression-free survival (PFS), PFS will be summarized using Kaplan-Meier plots., Time from study entry to time of progression or death, whichever occurs first, assessed at 1 year|Overall survival, Survival will be summarized using Kaplan-Meier plots., Time from study entry to time of death or the date of last contact, assessed up to 1 year|Location of recurrence (loco-regional versus distant) defined as newly evident disease for patients who have no evidence of disease at baseline or progressive disease for patients who have strictly non-measurable disease at baseline, Up to 1 year|Chronic toxicities experienced classified using the CTCAE version 4, Within 1 year of study entry
+PRIMARY OBJECTIVES:
+
+I. To determine the maximum-tolerated dose (MTD) and dose-limiting toxicities (DLT) of adjuvant carboplatin and paclitaxel chemotherapy following concurrent weekly cisplatin chemotherapy and extended field radiation in women with newly diagnosed stage IB-IVA cervical cancer, with positive para-aortic nodes.
+
+II. To determine the feasibility of the treatment regimen over the four cycles of adjuvant chemotherapy once the MTD is estimated.
+
+III. To assess the toxicities of the treatment regimen the National Cancer Institute (NCI) Common Terminology Criteria for Adverse Events (CTCAE) version 4.0.
+
+SECONDARY OBJECTIVES:
+
+I. To assess the response rate to this treatment regimen in patients with measurable disease.
+
+II. To examine progression-free survival for one year on this treatment regimen.
+
+III. To examine overall survival. IV. To examine the location of recurrence, loco-regional versus distant for one year after completion of therapy.
+
+V. To estimate the frequency of chronic toxicities experienced within one year of study entry.
+
+OUTLINE: This is a dose-escalation study of carboplatin and paclitaxel.
+
+Patients receive cisplatin intravenously (IV) over 1 hour on days 1, 8, 15, 22, 29, and 36 and undergo extended-field radiotherapy daily 5 days a week for 6 weeks followed by brachytherapy. Beginning 4-6 weeks after completion of chemoradiation, patients receive adjuvant chemotherapy comprising paclitaxel IV over 3 hours and carboplatin IV over 30-60 minutes on day 1. Treatment repeats every 21 days for 4 courses in the absence of disease progression or unacceptable toxicity.
+
+After completion of study therapy, patients are followed up every 3 months for 1 year.

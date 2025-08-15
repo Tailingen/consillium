@@ -1,0 +1,31 @@
+Evaluation of the Automatic Deformable Recontouring on the Daily MVCT for Head and Neck Cancer Adaptive Radiotherapy
+This trial is a prospective, monocentric study aiming to evaluate an adaptive radiotherapy method (automatic deformable recontouring on the daily MVCT (MegaVoltage Computerized Tomography)) using the Precise ART™ software in patients with head and neck cancer.
+
+Patients will receive helical intensity-modulated radiotherapy (IMRT) according to the standard recommendations (35 fractions during 7 weeks). Radiotherapy will include daily repositioning MVCT.
+
+For the study, patients will undergo 4 intermediate re-planning CT-scan (without injection of intravenous contrast agent) at week 3, week 4, week 5 and week 6 of treatment.
+
+3 recontouring modalities will be evaluated for the study:
+
+* Manuel recontouring (standard method)
+* Precise ART™ deformed contours
+* Precise RTX™ deformed contours
+
+The total duration of the study for each patient will be 7 weeks.
+Head and Neck Cancer
+OTHER: Helical intensity-modulated radiotherapy (IMRT)
+Rate of patients with Dice Similarity Coefficient (DSC) of the volumes of left and right parotid gland superior to 0.85 (DSC > 0.85), 7 weeks for each patient
+Rate of patients with DSC > 0.85 for other organs at risk (oral cavity, medullar canal, mandible,brain stem, larynx), 7 weeks for each patient|Rate of patients with DSC > 0.85 for target volumes (clinical target volume, gross target volume, planning target volume), 7 weeks for each patient|Time saving defined by the difference between standard recontouring time (manuel recontouring) and experimental recontouring time (Precise ART™ or Precise RTX™), 7 weeks for each patient
+This trial is a prospective, monocentric study aiming to evaluate an adaptive radiotherapy method (automatic deformable recontouring on the daily MVCT (MegaVoltage Computerized Tomography)) using the Precise ART™ software in patients with head and neck cancer.
+
+Patients will receive helical intensity-modulated radiotherapy (IMRT) according to the standard recommendations (35 fractions during 7 weeks). Radiotherapy will include daily repositioning MVCT.
+
+For the study, patients will undergo 4 intermediate re-planning CT-scan (without injection of intravenous contrast agent) at week 3, week 4, week 5 and week 6 of treatment.
+
+3 recontouring modalities will be evaluated for the study:
+
+* Manuel recontouring (standard method)
+* Precise ART™ deformed contours
+* Precise RTX™ deformed contours
+
+The total duration of the study for each patient will be 7 weeks.

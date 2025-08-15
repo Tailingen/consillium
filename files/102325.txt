@@ -1,0 +1,33 @@
+Clofarabine, Cytarabine, and G-CSF in Treating Patients With Relapsed or Refractory Acute Myeloid Leukemia
+RATIONALE: Drugs used in chemotherapy, such as clofarabine and cytarabine, work in different ways to stop the growth of cancer cells, either by killing the cells or stopping them from dividing. Colony stimulating factors, such as G-CSF, may increase the number of immune cells found in bone marrow or peripheral blood and may help the immune system recover from the side effects of chemotherapy.
+
+PURPOSE: This phase I trial is studying the side effects and best dose of clofarabine to see how well it works when given together with cytarabine and G-CSF in treating patients with relapsed or refractory acute myeloid leukemia
+Acute Myeloid Leukemia|Adult Acute Myeloid Leukemia With 11q23 (MLL) Abnormalities|Adult Acute Myeloid Leukemia With Inv(16)(p13;q22)|Adult Acute Myeloid Leukemia With t(15;17)(q22;q12)|Adult Acute Myeloid Leukemia With t(16;16)(p13;q22)|Adult Acute Myeloid Leukemia With t(8;21)(q22;q22)|Adult Acute Promyelocytic Leukemia (M3)|Recurrent Adult Acute Myeloid Leukemia
+DRUG: clofarabine|DRUG: cytarabine|BIOLOGICAL: filgrastim
+Maximum Tolerated Dose of Clofarabine, 45 days after the last dose of clofarabine|Dose-limiting Toxicity as Assessed by NCI CTCAE v3.0, 45 days after the last dose of clofarabine|Response Rates by Cytogenetic Risk Category, Number of participants who achieved Complete Remission (less than 5% blasts in the marrow and count recovery of Absolute Neutrophil Count to 1,000/microL and Platelet Count to 100,000/microL) under each cytogenetic risk category., 45 days after the last dose of clofarabine|Response Rates by Cytogenetic Risk Category and Clofarabine Dose, Number of participants under each Cytogenetic Risk Category and Clofarabine dose who achieve CR (Complete Remission = less than 5% blasts in the marrow and count recovery of Absolute Neutrophil Count to 1,000/microL and Platelet Count to 100,000/microL) or CRp (Complete Remission, but with a platelet count of less than 100,000/microL)., 45 days after the last dose of clofarabine|Response Rates by Duration First Complete Remission (CR1), Number of participants whose first Complete Remission lasted 0, 1-6, 6-12, or greater than 12 months. Only those participant who had a first CR are included in this data., 45 days after the last dose of clofarabine|Response Rates by Salvage Number, Number of participants in each Salvage number category who achieved a Complete Remission. Salvage number refers to whether treatment with GCLAC on this study was the pariticipant's first salvage regimen (1), second salvage regimen (2), or third or greater salvage regimen (3 or greater)., 45 days after the last dose of clofarabine
+Hematologic and Non-hematologic Side Effect Profile, 45 days after the last dose of clofarabine|Efficacy, Number of Patients Surviving at Five Years, At five years after the last dose of clofarabine|Disease-free Survival, Number of participants who survived and were disease-free at 5 years, At five years after the last dose of clofarabine|Overall Survival, At five years after the last dose of clofarabine
+PRIMARY OBJECTIVES:
+
+I. To determine the maximum tolerated dose of clofarabine, and the dose-limiting toxicities of the combination of clofarabine and cytarabine with G-CSF priming, in the treatment of patients with relapsed or refractory AML.
+
+SECONDARY OBJECTIVES:
+
+I. To determine the hematological and non-hematological side effect profile of the combination of clofarabine, cytarabine, and G-CSF.
+
+II. To determine the efficacy of clofarabine in combination with cytarabine and G-CSF priming in the treatment of patients with relapsed or refractory AML.
+
+III. To determine the disease-free and overall survival after therapy with clofarabine, cytarabine, and G-CSF for relapsed or refractory AML.
+
+OUTLINE: This is a dose escalation study of clofarabine.
+
+PART I:
+
+INDUCTION THERAPY: Patients receive clofarabine IV over 1 hour and cytarabine IV over 2 hours on days 1-5, and filgrastim (G-CSF) subcutaneously once daily beginning 24 hours prior to chemotherapy and continuing until blood count recover. Patients with residual leukemia (\>= 5% blasts by morphology) at day 14 and if blast remain \> 5% by day 21 receive a second course of induction therapy.
+
+CONSOLIDATION THERAPY: Patients receive clofarabine, cytarabine, and G-CSF as in induction therapy. Patients may receive a second course of consolidation therapy depending on response and whether additional therapy (e.g., stem cell transplant or donor lymphocyte infusion) is planned.
+
+PARTS II and III:
+
+Patients receive induction therapy and consolidation therapy as in part 1.
+
+After completion of study treatment, patients are followed every 3 months for 2 years and then annually for 3 years.

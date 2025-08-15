@@ -1,0 +1,21 @@
+Docetaxel, Cisplatin, Pegfilgrastim, and Erlotinib Hydrochloride in Treating Patients With Stage IIIB or Stage IV Non-Small Cell Lung Cancer
+This phase II trial is studying how well docetaxel given together with cisplatin and pegfilgrastim followed by erlotinib hydrochloride works in treating patients with stage IIIB or stage IV non-small cell lung cancer. Drugs used in chemotherapy, such as docetaxel and cisplatin, work in different ways to stop the growth of tumor cells, either by killing the cells or by stopping them from dividing. Colony stimulating factors, such as pegfilgrastim, may increase the number of immune cells found in bone marrow or peripheral blood and may help the immune system recover from the side effects of chemotherapy. Erlotinib hydrochloride may stop the growth of tumor cells by blocking some of the enzymes needed for cell growth. Giving dose-dense combination chemotherapy together with pegfilgrastim and erlotinib hydrochloride may kill more tumor cells
+Adenocarcinoma of the Lung|Adenosquamous Cell Lung Cancer|Bronchoalveolar Cell Lung Cancer|Large Cell Lung Cancer|Non-small Cell Lung Cancer|Recurrent Non-small Cell Lung Cancer|Squamous Cell Lung Cancer|Stage IIIB Non-small Cell Lung Cancer|Stage IV Non-small Cell Lung Cancer
+DRUG: cisplatin|BIOLOGICAL: pegfilgrastim|DRUG: erlotinib hydrochloride|OTHER: laboratory biomarker analysis|GENETIC: polymorphism analysis|OTHER: pharmacogenomic studies|GENETIC: genetic linkage analysis|DRUG: docetaxel
+Time to Progression, Determined using RECIST. Estimated using the Kaplan-Meier method. Log-rank tests will be used to test for differences and Cox proportional hazards regression modeling will be used to adjust for patient demographics and characteristics such as smoking status at baseline (actively/non-actively smoking). Progression is defined as at least a 20% increase in the sum of the longest diameter (LD) of target lesions taking as references the smallest sum LD recorded since the treatment started or the appearance of one or more new lesions., 2 years
+Response Rate Among Subgroups of Patients According to Molecular Profiles Including Tumor Characteristics and Genetic Polymorphisms From Peripheral Blood, Per Response Evaluation Criteria In Solid Tumors Criteria (RECIST v1.0) for target lesions and assessed by MRI: Complete Response (CR), Disappearance of all target lesions; Partial Response (PR), \>=30% decrease in the sum of the longest diameter of target lesions; Overall Response (OR) = CR + PR. Pre-specified that data is only presented for the subgroups "Low Cyclin D1" and "High Cyclin D1"., 2 years|Median Survival Among Subgroups of Patients According to Molecular Profiles Including Tumor Characteristics and Genetic Polymorphisms From Peripheral Blood, 2 years
+PRIMARY OBJECTIVES:
+
+I. To determine if this regimen improves the time-to-progression for patients with advanced non-small cell lung cancer (NSCLC) compared to historical controls.
+
+SECONDARY OBJECTIVES:
+
+I. To assess response rate and median survival. II. To evaluate tumor biomarkers that could predict response and survival for patients treated with this regimen including endothelial growth factor receptor (EGFR) expression, EGFR Fluorescence in situ hybridization (FISH), and k-ras mutations.
+
+III. To evaluate genetic polymorphisms as markers of response and survival for patients treated with this regimen including polymorphisms in XPD, XRCC1, XRCC3, and cyclin D1.
+
+OUTLINE:
+
+Patients receive docetaxel intravenously (IV) over 1 hour on day 1, cisplatin IV over 1 hour on day 1, and pegfilgrastim subcutaneously (SC) on day 2. Treatment repeats every 2 weeks for 4 courses in the absence of disease progression or unacceptable toxicity. Beginning 2 weeks after completion of docetaxel, cisplatin, and pegfilgrastim, patients receive erlotinib hydrochloride orally (PO) once daily (QD) in the absence of disease progression or unacceptable toxicity.
+
+After completion of study treatment, patients are followed every 3 months for 1 year and every 6 months for 2 years.

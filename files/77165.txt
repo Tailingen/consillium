@@ -1,0 +1,56 @@
+Safety and Avoidance of Futile Excisions Through Skin Tele-triage
+The goal of this study is to estimate the triage values, efficiency and safety of tele-dermoscopic triage of skin lesions suspected of melanoma. The main question\[s\] it aims to answer are:
+
+* What is the rate of correct patient management by a single, 2, 3 and 5 dermatologists.
+* What is the consequence for the patients if teledermoscopic triage is implemented, in termes of missed melanomas and reduced unnecessary excisions/biopsies.
+
+Retrospectively included patients will have their skin lesions re-examined by setups of 1, 2, 3 and 5 tele-dermoscopists who will assign a tentative diagnosis and a recommended clinical action.
+
+The investigators will compare the rate of correct patient management between the different setups.
+Melanoma (Skin)|Telemedicine
+DIAGNOSTIC_TEST: Single Assessor Teledermatological triage (TDT)|DIAGNOSTIC_TEST: 2 people Teledermatological triage (TDT)|DIAGNOSTIC_TEST: 3 people Teledermatological triage (TDT)|DIAGNOSTIC_TEST: 5 people Teledermatological triage (TDT)
+Triage Values, Recommended clinical action, correct vs incorrect. Each teledermatologist will recommend a clinical action for each patient case. We evaluate the correctness of this recommended clinical action (in binary classification of correct vs incorrect) by a list of pre-defined "best practice management rules" for each diagnosis., Immediately after all participants have completed the evaluations
+Diagnostic Values, Secondary outcomes include assessing the diagnostic values (in terms of Sensitivity, Specificity, False Negative and False Positive Rate using the dichotomized histopathological diagnosis of benign vs malignant as Gold Standard) of the TDT expert panel., Immediately after all participants have completed the evaluations
+Background The incidence of melanoma has been increasing in Denmark for decades \[1\]. With an age-standardized rate of 29.7 per 100.000 citizens, Denmark has the third highest melanoma rate in the world, and the highest rate for women (33.6) \[2\].
+
+The excision rate in Danish departments of plastic surgery is close to 100%, although only 46% of referred patients have a malignant tumour \[3\].
+
+To combat this over-treatment, the patient should be triaged by an expert in evaluation of skin tumours as early as possible, who, to a higher degree, could be able to distinguish between benign and malignant skin lesions and dismiss patients with benign lesions without a biopsy.
+
+This triage should therefore be made by subspecialized dermatologists with expertise regarding diagnosing melanocytic skin lesions.
+
+Teledermoscopy has a high sensitivity equal to face-to-face examination \[8\], and images taken in the primary care setting and at the hospital have been found to be of comparable quality \[9\], enabling an accurate assessment of images acquired in the primary care setting.
+
+Our hypothesis is that a mandatory teledermoscopic triage by teledermoscopic experts for all pigmented lesions referred for excision, may reduce the number of unnecessary benign excisions. Yet even the experts may misdiagnose these tricky lesions, and so this study aims to evaluate the management and diagnostic values of a teledermoscopic expert panel on a high-incidence dataset and the safety of the triage method before potential clinical implementation.
+
+Methods Based on a sample size calculation (see Statistics), 250 consecutive patients from the dataset will be included. The patients, whose skin lesions are included in the study, have been referred from PCPs or departments of dermatology at the local public hospitals, but the majority were referred by privately practicing dermatologists.
+
+The teledermatological experts included in this study are dermatologists working mainly with diagnosing melanoma, who have more than 10 years of clinical dermatology experience and have clinical experience with teledermoscopy of melanocytic skin lesions.
+
+Patient and lesion data and images are obtained from the electronic medical record systems Dermloop (Melatech ApS) and Sundhedsplatformen (Epic Systems), used at the Department of Plastic Surgery, Herlev and Gentofte Hospital.
+
+The panel of tele-dermatologists will review all cases and determine a diagnosis and a management. To be able to distinguish primary and secondary outcomes, both a diagnosis and recommended clinical management are required from the experts.
+
+Outcomes The primary outcome of the study is the recommended clinical management, Triage Values, of the TDT panels. The recommended clinical management for each lesion is assessed in binary classification of correct vs incorrect by a list of pre-defined "best practice management" rules based on its histopathological diagnosis outlined in Table 3.
+
+Both a Majority Consensus and a Worst-Case analysis (see Statistics for further explanation) will be done.
+
+In addition, the investigators will report the number of each management option recommended by the different modes of tele-dermatological assessment (single assessor, 2, 3 and 5 assessors).
+
+Secondary outcomes include assessing the diagnostic values (in terms of Sensitivity, Specificity, False Negative and False Positive Rate using the dichotomized histopathological diagnosis of benign vs malignant as Gold Standard) of the TDT expert panel.
+
+The diagnostic accuracy and range are reported separately. For the melanomas in the dataset, a descriptive analysis will me made of how often the tele-dermatologists correctly identify the Breslow thickness, in terms of true positives for each category.
+
+Statistical analysis and Sample Size Calculation In order to discern a disparity between the conventional practice and the diagnostic efficacy of teledermatological assessment, a sample size of 44 cases is sufficient to detect a statistically significant difference, with a level of significance set at 0.05, accompanied by a statistical power of 80%. However, when evaluating the safety of a pure teledermatological triage system, it is imperative to ensure a sufficiently high sensitivity to avoid overlooking melanomas, while concurrently achieving a narrow confidence interval to confidently articulate the findings.
+
+Based on a simulation model using R Studio \[16\] of five teledermoscopy experts diagnosing a number of cases with a 40% prevalence of malignancy with a sensitivity and specificity estimated from previous studies \[8, 17\] an estimated sensitivity of 99% can be found with a narrow confidence interval from 99%-100% with five experts evaluating 250 patient cases. Choosing an uneven number of experts for the panel enables a Majority Consensus analysis and easier interpretation of the results in regard to clinical practice.
+
+Management is ranked hierarchically when defining "worst case" as follows, from least to worst: Dismiss, Dermatological Treatment, Followup, Biopsy, Excision.
+
+Because incongruence between the experts is inevitable, separate analyses will be made using 1) majority consensus (ignoring answers given by less than half of the panel) and 2) "worst-case" consensus (letting even a single expert's suspicion of malignancy or recommendation for a management of a higher rank overrule the rest of the panel).
+
+Perspective This study will report the number of patients that could have avoided having their skin lesions excised and to what degree malignant skin lesions would have been incorrectly managed if the teledermoscopically recommended clinical management had been followed.
+
+The knowledge gained from this study has the potential to significantly change how to diagnose and triage patients suspected of having melanoma, which is the most common type of cancer among young Danes aged 15-34 \[18\].
+
+The results of this and future studies will lead to the excision and treatment of fewer benign skin lesions and pave the way for a smoother patient pathway with less physical referrals, which will benefit not only patients but also lead to potential savings for the healthcare system resources by reducing the number of unnecessary consultations and procedures.

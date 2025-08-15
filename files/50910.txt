@@ -1,0 +1,36 @@
+Velcade,Thalidomide, and Dexamethasone Versus Velcade and Dexamethasone Versus Velcade, Melphalan, and Prednisone
+This is a randomized, open label, multicenter clinical trial to compare the efficacy and safety of Velcade (bortezomib) and dexamethasone versus Velcade, thalidomide, and dexamethasone versus Velcade, melphalan, and prednisone in patients with previously untreated multiple myeloma not considered candidates for high-dose chemotherapy and autologous stem cell transplantation.
+Multiple Myeloma
+DRUG: Bortezomib|DRUG: Dexamethasone|DRUG: Melphalan|DRUG: Prednisone|DRUG: Thalidomide
+Progression Free Survival (PFS), PFS is defined as the time from randomization to disease progression or death, whichever occurs first. Participants who did not progress and were still alive at the cut-off date were censored at the date of last contact. Response was assessed by the Investigator using the International Myeloma Working Group (IMWG) uniform response criteria.
+
+Progressive disease requires 1 of the following:
+
+* Increase of ≥ 25% from nadir in:
+
+  * Serum M-component (absolute increase ≥ 0.5 g/dl)
+  * Urine M-component (absolute increase ≥ 200 mg/24 hours)
+  * In patients without measurable serum and urine M-protein levels the difference between involved and uninvolved free light chain (FLC) levels (absolute increase \> 100 mg/dl)
+  * Bone marrow plasma cell percentage (absolute % ≥ 10%)
+* Development of new or increase in the size of existing bone lesions or soft tissue plasmacytomas.
+* Development of hypercalcemia (corrected serum calcium \> 11.5 mg/dl) attributed solely to plasma cell proliferative disease, From randomization until disease progression. Median follow-up time was 43 months.
+Percentage of Participants With an Overall Response, Overall response defined as a best overall response of complete response (CR), very good partial response (VGPR) or partial response (PR), assessed by the Investigator using the IMWG uniform response criteria.
+
+CR: Negative immunofixation on the serum and urine, disappearance of any soft tissue plasmacytomas, and \<5% plasma cells in bone marrow.
+
+VGPR: Serum and urine M-protein detectable by immunofixation but not on electrophoresis or ≥ 90% reduction in serum M-protein plus urine M-protein level \<100 mg per 24 hours (h).
+
+PR requires 1 of the following:
+
+* ≥50% reduction of serum M-protein and 24-h urinary M-protein by ≥ 90% or to \<200 mg/24 h, or
+* If M-protein not measurable, a ≥50% decrease in the difference between involved and uninvolved FLC levels, or
+* If FLC not measurable, a ≥ 50% reduction in plasma cells, provided baseline bone marrow plasma cell percentage was ≥30%.
+
+If present at baseline, a ≥50% reduction in the size of soft tissue plasmacytomas is also required., Response assessed every other cycle for up to 13 cycles (49 weeks).|Percentage of Participants With a Complete Response, Participants with a best overall response of complete response, defined as negative immunofixation on the serum and urine, disappearance of any soft tissue plasmacytomas, and \<5% plasma cells in bone marrow. Response was assessed by the Investigator using the IMWG uniform response criteria., Response assessed every other cycle, for up to 13 cycles (49 weeks).|Percentage of Participants With a Complete Response or a Very Good Partial Response, Complete response is defined by negative immunofixation on the serum and urine, disappearance of any soft tissue plasmacytomas, and \<5% plasma cells in bone marrow.
+
+Very good partial response is defined by serum and urine M-protein detectable by immunofixation but not on electrophoresis or 90% or greater reduction in serum M-protein plus urine M-protein level \<100 mg per 24 hours.
+
+Response was assessed by the Investigator using the IMWG uniform response criteria., Response assessed every other cycle for up to 13 cycles (49 weeks).|Duration of Response, Duration of response is defined in participants with an overall response as the time between first documentation of response and disease progression. Responders without disease progression were censored at the last clinical assessment of response., From first documented response until disease progression. Median follow-up time was 43 months.|Overall Survival, Overall survival is defined as the time between randomization and death. Participants still alive at the cutoff date or lost to follow-up were censored at the date of last contact., From randomization until death. Median follow-up time was 43 months.|Time to Alternative Therapy, Time to alternative therapy is defined as the time between randomization and alternative therapy. Participants who did not receive alternative therapy were censored at the time of last contact., From randomization until alternative therapy. Median follow-up time was 43 months.|Change From Baseline in EORTC QLQ-C30 - Global Health Status, The European Organisation for Research and Treatment of Cancer (EORTC) Core Quality of Life (QOL) questionnaire (EORTC QLQ-C30) is a 30-question tool used to assess the overall quality of life in cancer patients. It consists of 15 domains: 1 global health status (GHS) scale, 5 functional scales (Physical, Role, Cognitive, Emotional, Social), and 9 symptom scales/items (Fatigue, Nausea and Vomiting, Pain, Dyspnea, Sleep Disturbance, Appetite Loss, Constipation, Diarrhea, Financial Impact).
+
+The EORTC QLQ-C30 Global Health Status/QOL Scale is scored between 0 and 100, where higher scores indicate better Global Health Status/QOL. Negative changes from baseline indicate deterioration in QOL or functioning and positive changes indicate improvement., Baseline and Day 1 of Cycles 3, 5, 7, 9, 11 and 13
+This is a randomized, open label, multicenter clinical trial to compare the efficacy and safety of Velcade (bortezomib) and dexamethasone versus Velcade, thalidomide, and dexamethasone versus Velcade, melphalan, and prednisone in patients with previously untreated multiple myeloma not considered candidates for high-dose chemotherapy and autologous stem cell transplantation.

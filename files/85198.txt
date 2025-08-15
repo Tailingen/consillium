@@ -1,0 +1,29 @@
+CCI-779 in Treating Patients With Extensive-Stage Small Cell Lung Cancer
+Randomized phase II trial to compare the effectiveness of different doses of CCI-779 in treating patients who have extensive-stage small cell lung cancer. Drugs used in chemotherapy use different ways to stop tumor cells from dividing so they stop growing or die
+Extensive Stage Small Cell Lung Cancer
+DRUG: temsirolimus|OTHER: pharmacological study|OTHER: laboratory biomarker analysis
+Progression-free survival (PFS), A log-rank test will compare the PFS curves of both arms., Time to death or relapse, assessed up to 6 years
+Toxicity rate graded according to NCI CTC version 2.0, The difference in the true toxicity rates of the two arms will be detected using Fisher's exact test., Up to 6 years
+PRIMARY OBJECTIVES:
+
+I. To study the progression-free survival in patients who receive a lower or a higher dose of CCI-779, a cytostatic agent following cytoreductive chemotherapy in extensive SCLC.
+
+II. To determine the toxicity of two treatment regimens involving a lower or a higher dose of CCI-779.
+
+SECONDARY OBJECTIVES:
+
+I. To quantify the effects of CCI-779 treatment on p70S6 phosphorylation in peripheral blood mononuclear cells of patients with small cell lung cancer who are treated with CCI-779.
+
+II. To measure the effects on mTOR activation and signaling of plasma from patients treated with CCI-779.
+
+III. To determine the relationship between CCI-779 dose and its pharmacodynamic parameters.
+
+IV. To correlate the inhibition of p70S6 with indices of patient outcome.
+
+OUTLINE: This is a randomized, multicenter study. Patients are stratified according to brain metastases (yes vs no), prior induction chemotherapy regimen (platinum and etoposide vs platinum and irinotecan), and response to prior induction chemotherapy (complete or partial response vs stable disease). Patients are randomized to 1 of 2 treatment arms.
+
+ARM I: Patients receive low-dose CCI-779 IV over 30 minutes once weekly. Treatment continues in the absence of disease progression or unacceptable toxicity.
+
+ARM II: Patients receive high-dose CCI-779 as in arm I.
+
+Patients are followed every 3 months for 2 years, every 6 months for 3 years, and then annually thereafter.

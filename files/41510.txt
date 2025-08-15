@@ -1,0 +1,47 @@
+Vaccine Therapy, Temozolomide, and Radiation Therapy in Treating Patients With Newly Diagnosed Glioblastoma Multiforme
+RATIONALE: Vaccines made from peptides may help the body build an effective immune response to kill tumor cells. Drugs used in chemotherapy, such as temozolomide, work in different ways to stop the growth of tumor cells, either by killing the cells or by stopping them from dividing. Radiation therapy uses high-energy x-rays to kill tumor cells. Giving vaccine therapy together with temozolomide and radiation therapy may kill more tumor cells.
+
+PURPOSE: This phase I trial is studying the side effects of vaccine therapy when given together with temozolomide and radiation therapy in treating patients with newly diagnosed glioblastoma multiforme.
+Brain and Central Nervous System Tumors
+BIOLOGICAL: glioblastoma multiforme multipeptide vaccine IMA950|BIOLOGICAL: sargramostim|DRUG: temozolomide|OTHER: laboratory biomarker analysis|OTHER: pharmacological study|PROCEDURE: adjuvant therapy|RADIATION: radiation therapy
+Causality of each adverse event (AE) to glioblastoma multiform multi-antigen vaccine IMA950 and GM-CSF and AE severity according to NCI CTCAE Version 4.0|Total number of patients showing patient-individual T-cell responses against a single or multiple tumor-associated peptides (TUMAP) contained in the study vaccine IMA950 at one or more post-vaccination time points by HLA multimer analysis
+Progression-free survival (PSF) at 6 and 9 months post-surgery as assessed by the Macdonald criteria from conventional gadolinium-enhanced MRI and clinical assessment|Correlation between steroid levels and observed T-cell responses|Correlation between O6-methyl-DNA-methyltransferase (MGMT) promoter methylation status in tumor tissue using methylation-specific polymerase chain reaction and clinical benefit (PFS at 6 months and 9 months)|Kinetics of vaccine-induced TUMAP responses including summary descriptions of the time of onset, sustainability, and magnitude of the observed response
+OBJECTIVES:
+
+Primary
+
+* To assess the safety and tolerability of glioblastoma multiform multi-antigen vaccine IMA950 plus sargramostim (GM-CSF) in combination with standard chemoradiotherapy comprising temozolomide and radiotherapy followed by adjuvant temozolomide in patients with newly diagnosed glioblastoma multiforme.
+* To determine the immunogenicity of this regimen in these patients.
+
+Secondary
+
+* To determine the anti-tumor effect of this regimen in these patients.
+* To determine the effect of pre-treatment levels of regulatory T-cells on the immunogenicity of this regimen in these patients. (Exploratory)
+* To evaluate the potential effect of steroid dose on the immunological response to glioblastoma multiform multi-antigen vaccine IMA950 plus GM-CSF.
+
+Tertiary
+
+* To assess the level of O6-methyl-DNA-methyltransferase (MGMT) promoter methylation in tumor tissue and any potential association with any observed anti-tumor effect.
+* To evaluate the kinetics of the observed immunogenicity of glioblastoma multiform multi-antigen vaccine IMA950 plus GM-CSF.
+* To explore the possible biomarker signatures that may predict immunological response to glioblastoma multiform multi-antigen vaccine IMA950 plus GM-CSF. (Exploratory)
+* To explore the possible effects of this regimen on any observed pseudo-progression and pseudo-regression in these patients. (exploratory)
+
+OUTLINE: This is a multicenter study. Patients are recruited to cohort 1 or 2 with priority recruitment to cohort 1. All patients undergo standard chemoradiotherapy followed by adjuvant temozolomide as planned.
+
+* Standard therapy (chemoradiotherapy and adjuvant temozolomide): Beginning after surgery, patients receive chemoradiotherapy comprising oral temozolomide daily for 6 weeks and radiotherapy once daily, 5 days a week for 6 weeks. Beginning 35 days after completion of radiotherapy, patients receive adjuvant oral temozolomide alone on days 1-5. Treatment with temozolomide repeats every 28 days for 6 courses.
+* Vaccine therapy: Patients also receive vaccine therapy beginning at one of two time points. Patients are recruited into 1 of 2 cohorts that differ in the timing of the vaccination schedule in relation to a patient's standard therapy.
+
+  * Cohort 1: Vaccination begins 7-14 days prior to chemoradiotherapy.
+
+    * Induction phase: Patients receive the first 6 doses of sargramostim intradermally (ID) followed by glioblastoma multiform multi-antigen vaccine IMA950 ID on days 1, 2, 3, 8, 15, and 22 in the absence of disease progression or unacceptable toxicity.
+    * Maintenance phase: Patients receive sargramostim followed by glioblastoma multiform multi-antigen vaccine IMA950 ID on days 50 and 78 and then on day 21 of each adjuvant temozolomide course, beginning in course 1, for 3 courses in the absence of disease progression or unacceptable toxicity.
+  * Cohort 2: Vaccination begins at least 7 days after chemoradiotherapy and 28 days prior to adjuvant temozolomide.
+
+    * Induction phase: Patients receive the first 6 doses of sargramostim followed by glioblastoma multiform multi-antigen vaccine IMA950 ID as in cohort 1 induction phase, beginning at a different time point.
+    * Maintenance phase: Patients receive sargramostim followed by glioblastoma multiform multi-antigen vaccine IMA950 ID on day 21 of each adjuvant temozolomide course, beginning in course 1, for 5 courses in the absence of disease progression or unacceptable toxicity.
+
+Blood samples are collected periodically for pharmacodynamic, biomarker, and immunologic studies.
+
+After completion of study treatment, patients are followed at 41 weeks.
+
+Peer Reviewed and Funded or Endorsed by Cancer Research UK

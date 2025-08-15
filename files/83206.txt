@@ -1,0 +1,31 @@
+Stereotactic Body Radiation Therapy With or Without Nivolumab in Treating Patients With Stage I-IIA or Recurrent Non-small Cell Lung Cancer
+This phase II trial studies how well stereotactic body radiation therapy with or without nivolumab works in treating patients with stage I-IIA non-small cell lung cancer or cancer that has come back. Stereotactic body radiation therapy uses special equipment to position a patient and deliver radiation to tumors with high precision. This method can kill tumor cells with fewer doses over a shorter period and cause less damage to normal tissue. Immunotherapy with monoclonal antibodies, such as nivolumab, may help the body's immune system attack the cancer, and may interfere with the ability of tumor cells to grow and spread. Giving stereotactic body radiation therapy and nivolumab may work better at treating non-small cell lung cancer.
+Lung Atypical Carcinoid Tumor|Lung Neuroendocrine Neoplasm|Lung Non-Small Cell Squamous Carcinoma|Minimally Invasive Lung Adenocarcinoma|Neuroendocrine Carcinoma|Recurrent Lung Adenocarcinoma|Recurrent Lung Large Cell Carcinoma|Recurrent Lung Non-Small Cell Carcinoma|Stage I Lung Cancer AJCC v8|Stage IA1 Lung Cancer AJCC v8|Stage IA2 Lung Cancer AJCC v8|Stage IA3 Lung Cancer AJCC v8|Stage IB Lung Cancer AJCC v8|Stage IIA Lung Cancer AJCC v8
+BIOLOGICAL: Nivolumab|RADIATION: Stereotactic Body Radiation Therapy
+Event-free survival with events defined as local recurrence, regional recurrence, distant metastasis, secondary malignancy (including lung cancer), and death, Will be estimated using Kaplan-Meier method. The stratified log-rank test will be performed to test the difference in time-to-event distributions between patient groups. Stratified Cox proportional hazards model will be utilized to include multiple covariates in the time-to-event analysis., From the randomization date, assessed up to 5 years
+Overall survival, Will be estimated using Kaplan-Meier method. The stratified log-rank test will be performed to test the difference in time-to-event distributions between patient groups. Stratified Cox proportional hazards model will be utilized to include multiple covariates in the time-to-event analysis., From the randomization date assessed up to 5 years|Incidence of adverse events related to stereotactic body radiation therapy and immunotherapy, Will be summarized by frequency tables. The association between the types and severity of toxicity and the treatment groups will be evaluated. No formal statistical testing will be performed on these summary data., Up to 5 years|Immunologic markers analyses, Up to 5 years
+PRIMARY OBJECTIVE:
+
+I. Event-free survival (EFS), with events defined as local recurrence, regional recurrence, distant metastasis, secondary malignancy (including lung cancer), and death.
+
+SECONDARY OBJECTIVES:
+
+I. Overall survival (OS). II. Toxicity related to stereotactic body radiation therapy (stereotactic ablative body radiation therapy \[SABR\]) and immunotherapy.
+
+III. Exploratory analyses of potential predictive markers and immunologic mechanisms of action.
+
+EXPLORATORY/TRANSLATIONAL RESEARCH OBJECTIVES:
+
+I. Identify candidate tumor-associated antigens or genes that elicit cellular and humoral immune responses in serum samples (with Immunotherapy Platform).
+
+II. Assess PDL1 expression in tumor biopsy specimens (with Department of Pathology).
+
+III. Identify potential radiomics features from positron emission tomography (PET)/computed tomography (CT) or magnetic resonance imaging (MRI) scans that may predict treatment response and toxicity (with Department of Radiation Physics).
+
+OUTLINE: Patients are randomized to 1 of 2 arms.
+
+ARM I: Patients undergo stereotactic body radiation therapy over 1-2 weeks.
+
+ARM II: Patients undergo stereotactic body radiation therapy over 1-2 weeks. Beginning within 36 hours before or after the first fraction of stereotactic body radiation therapy, patients also receive nivolumab intravenously (IV) over 30 minutes on day 1. Cycles with nivolumab repeat every 4 weeks for up to 12 weeks in the absence of disease progression or unacceptable toxicity.
+
+After completion of study treatment, patients are followed up every 3 months for 2 years, every 6 months for up to 3 years, then annually thereafter.

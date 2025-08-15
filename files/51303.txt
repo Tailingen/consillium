@@ -1,0 +1,27 @@
+Pegylated Liposomal Doxorubicin Hydrochloride and Carboplatin Followed by Surgery and Paclitaxel in Treating Patients With Triple Negative Stage II-III Breast Cancer
+This phase II trial studies how well pegylated liposomal doxorubicin hydrochloride and carboplatin followed by surgery and paclitaxel work in treating patients with stage II-III breast cancer that does not have estrogen receptors, progesterone receptors, or large amounts of human epidermal growth factor receptor 2 (HER2)/neu protein (triple negative). Drugs used in chemotherapy, such as pegylated liposomal doxorubicin hydrochloride, carboplatin, and paclitaxel, work in different ways to stop the growth of tumor cells, either by killing the cells, by stopping them from dividing, or by stopping them from spreading. Giving pegylated liposomal doxorubicin hydrochloride and carboplatin before surgery may make the tumor smaller and reduce the amount of normal tissue that needs to be removed. Giving pegylated liposomal doxorubicin hydrochloride and carboplatin followed by surgery and paclitaxel may be an effective treatment for breast cancer.
+Estrogen Receptor-negative Breast Cancer|HER2-negative Breast Cancer|Progesterone Receptor-negative Breast Cancer|Stage IIA Breast Cancer|Stage IIB Breast Cancer|Stage IIIA Breast Cancer|Stage IIIB Breast Cancer|Stage IIIC Breast Cancer|Triple-negative Breast Cancer
+DRUG: pegylated liposomal doxorubicin hydrochloride|DRUG: epirubicin hydrochloride|DRUG: carboplatin|PROCEDURE: therapeutic conventional surgery|DRUG: paclitaxel|OTHER: laboratory biomarker analysis|OTHER: quality-of-life assessment
+Rate of Pathologic Complete Response (pCR) Based on Response Evaluation Criteria in Solid Tumors Criteria, The pCR rate will first be determined as proportions and calculating its 95% confidence interval. To study the association between pCR response (yes/no) and the presence of gross residual disease, type and number of mutations, clinical lymph node status (positive/negative), tumor size (\< 2 cm/\>= 2 cm) based on p53, logistic regression analysis will be used, controlling for cancer treatment and disease stage and other covariates if numbers allow., Disease was evaluated at baseline to after four cycles every 28 days and then after twelve weeks of treatment after surgery (up to 28 weeks from baseline).
+OS, Survival functions will be computed using the Kaplan-Meier method, and compared between mutation status using the log-rank test. Adjustment for additional covariates, such as cancer treatment and disease stage, will be performed using Cox proportional hazards regression analysis if numbers allow., Time from initiation of chemotherapy until death from any cause, assessed up to 20 years|Mutational Spectrum of Tumors, The Cox model analysis will be used to study the association between cancer recurrence and the presence of specific mutations with IHC parameters, e.g. p53, Ki67, apoptotic markers (cleaved caspase 3), phosphorylated proteins in targeted pathways, gamma-H2A histone family, member X for deoxyribonucleic acid damage. All test procedures will be done at significance level 5%. It will be determined which tumors with gross residual disease are sensitive to targeted agent, cytotoxins, or the combination as a function of mutational profile and will be tested for additive and synergistic effects., Time from initiation of chemotherapy until death from any cause, assessed up to 20 yearsUp to 20 years
+PRIMARY OBJECTIVES:
+
+I. To determine the rate of pathologic complete response with treatment of liposomal doxorubicin (pegylated liposomal doxorubicin hydrochloride) and carboplatin in patients with estrogen receptor (ER), progesterone receptor (PR), HER2 negative breast cancer (triple negative breast cancer \[TNBC\]).
+
+SECONDARY OBJECTIVES:
+
+I. To determine the recurrence free survival (RFS), 2-year RFS, and overall survival (OS) after treatment with neoadjuvant liposomal doxorubicin and carboplatin followed by definitive breast surgery and then weekly paclitaxel in patients with ER, progesterone receptor (PgR), HER2 negative breast cancer.
+
+II. To describe the mutational spectrum of tumors found in primary, untreated ER, PgR, HER2 negative breast cancer and their association with pathologic complete response to neoadjuvant pegylated liposomal doxorubicin hydrochloride (doxil) and carboplatin.
+
+III. To determine functional significance of genomic landscape in predicting drug response using patient derived xenograft (PDX) and ex vivo models.
+
+OUTLINE:
+
+NEOADJUVANT: Patients receive pegylated liposomal doxorubicin hydrochloride\* intravenously (IV) over 90 minutes and carboplatin IV over 30-60 minutes on day 1. Treatment repeats every 28 days for 4 courses in the absence of disease progression or unacceptable toxicity.
+
+ADJUVANT: Patients undergo definitive surgery at the discretion of the treating physician. Patients then receive paclitaxel IV over 60 minutes once weekly for 12 weeks in the absence of disease progression or unacceptable toxicity.
+
+\*NOTE: If there is a shortage of pegylated liposomal doxorubicin hydrochloride, patients receive epirubicin hydrochloride IV over 15-20 minutes on day 1.
+
+After completion of study treatment, patients are followed up every 6 months for up to 20 years.

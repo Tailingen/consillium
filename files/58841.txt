@@ -1,0 +1,58 @@
+Green Approach to Improved Nutritional Support for Cancer Patients
+In this study, we aim to reduce the burden of malnutrition in cancer patients by implementing and evaluating an improved nutritional support, using digital communication and registration tools during the clinical pathway. The project targets a group of patients with a high frequency of malnutrition, due to cancer and the subsequent therapy, where knowledge on the efficient and cost-effective treatment is scarce. The effect of the improved nutrition support will be evaluated in a randomised controlled trial, and the primary endpoint is the prevalence of malnutrition. The long-term goal is to benefit the patients by increasing the completion rate of cancer treatment, reducing the infection rate, need for antibiotics, the total length of hospital stays and number of non-elective re-admissions, and thus increasing the patients' quality of life and survival. The project will be patient-orientated and result in a sustainable approach for the management of malnutrition.
+Malnutrition
+OTHER: Diatary advices
+Malnutrition, Measured by PG-SGA, After 6 months
+Other clinical outcomes, Cancer treatment completion rate, 6 months|Survival, From electronic medical records, 12 months|Health-related quality of life, Questionnaires Core 30 (QLQ-C30), 6 and 12 months|Cancer specific quality of life, EQ-5D-5L, 6 and 12 months|Health costs, To be estimated, 12 months|Appreciation by health care professionals and patients, By interviews, 6 months|Infection rate, Number, 6 months|Need for antibiotics, Number, 6 months|Length of hospital stay, Days, 6 months|Re-admissions, Number, 6 and 12 months
+WP1. Effect of the improved nutritional support
+
+Task 1.1 Recruitment of participants
+
+Consenting, eligible participants will be screened for malnutrition using NRS-2002 by the PhD student, and randomised to intervention or control group stratified for malnutrition risk. All participants will go through a baseline assessment at the Center for clinical nutrition. Participants in the intervention group will be scheduled for a first dietitian visit at the nutrition outpatient clinic at OUH, at the same day as the baseline assessment.
+
+Task 1.2 Intervention
+
+Included in the green approach to improved nutritional support are:
+
+* Individual dietitian support for patients at risk
+* Self-monitoring of food intake and weight
+
+Digital communication tools to enable frequent follow-up during the cancer treatment. Patients at risk of malnutrition will be given individual goals on energy- and protein intake, weight and body composition. The goals will be converted to specific, measurable and acceptable guidance according to the motivational interview techniques.
+
+Participants will be provided with a tablet computer to monitor dietary intake using the FoodCapture system, intended for nutrition monitoring and follow-up. The interface of FoodCapture consists of an app for mobile devices and a website and includes functions to record, evaluate and document nutrition and generate reports for health professionals.
+
+The technical development of the FoodCapture device is performed by the University Centre for Information Technology (USIT) at the University of Oslo. A web form is used for data flow in the app and data are sent to 'Services for sensitive data' (Tjenester for sensitive data, TSD), both hosted by USIT. Information registered in the FoodCapture app and the recordings of dietary intake are sent encrypted through the web form to TSD. The TSD system is a high-security private cloud eInfrastructure to process and store sensitive research data. It is included in NorStore, the Norwegian national infrastructure for handling and storing scientific data (21).
+
+All data recorded in the FoodCapture app are continuously sent to TSD. In cases of technical problems or loss of internet connection, the data are stored temporarily in an encrypted format before being sent to TSD when the device resumes an internet connection.
+
+To gain access to the FoodCapture web report, healthcare professionals have to complete an access form, that has to be approved by an administrator. Log-in to the webserver is done through the common log-in solution to public services in Norway: ID-porten and authentication is sent to the TSD server to verify access to the web report. The FoodCapture tool is CE marked as a medical device class 1 and registered at the Norwegian Medicines Agency.
+
+Self-monitoring of weight will be facilitated by a digital scale, with a wireless connection to the tablet computer. All data from the digital scale will be transferred to "Services for Sensitive Data" (TSD) and then becomes available for the dietitian, who contacts patients in need of support.
+
+The intervention includes physical and digital follow-up sessions (telephone or video-meetings) with the patient's personal dietician, who will be the main responsible for the nutritional support throughout the clinical pathway. The patient follow-up frequency will be customised, depending on the situation and the patient's needs, but will at a minimum include one physical visits in addition to digital follow-ups during the first 6 months.
+
+Follow-up visits. All participants will be followed up after 6 months to assess malnutrition status. The 12 months follow-up visit is included to evaluate the long-term effect on quality of life and survival.
+
+Sample size: Based on our previous experience with the effect of FoodCapture, we expect a difference in the prevalence of malnutrition of 17 percentage points after 6 months. With a statistical power of 80 % and a significance level of 5 %, we will need a total of 104 patients: 52 in each group to detect expected difference. To allow for a 20 % drop-out, we will recruit 130 participants, and anticipate that the recruitment will last for about 7 months.
+
+WP2. Implementation of improved nutritional support
+
+WP2 will be conducted in close cooperation with the users, including patients, health care professionals and next-of-kin. An implementation study will be performed before and in parallel with the effect study (WP1), using a mixed-method approach with qualitative and quantitative measurements. This WP consists of three tasks:
+
+Task 2.1 First, we will explore the readiness and potential barriers and facilitators of the improved nutritional support by using the Consolidated Framework for Implementation Research. Data will be gathered in focus group discussions.
+
+Task 2.2 The identified barriers and facilitators will be used to create a plan for the implementation of the improved nutritional support. The plan will include implementation strategies, like methods for stakeholder engagement, management support, training and follow-up.
+
+Task 2.3 Finally, we will study the implementation outcomes as described by Proctor et al (30) and explore how the nutritional support is perceived among patients and their next-of-kins. This will include acceptability and practical use of the nutritional support and compatibility with the clinical pathway, if the intervention was delivered as intended, and how the intervention can reach sustainability in the future. Data will be gathered using online questionnaires, technical log-data, focus group discussions and individual interviews
+
+WP3. Economic evaluation on nutritional support
+
+WP3 will be conducted in close cooperation with experts on health economics at the Clinical Trial Unit at OUH. Economic evaluation is defined as the comparison of alternative options in terms of cost and consequences (outcomes).
+
+To calculate the economic impact of the improved nutritional support, based on the results of WP1. We will perform a cost-utility analysis of the nutritional support compared to standard routine care in cancer patients, taking a societal perspective. The generic outcome is Quality adjusted life-years (QALYs) measured by the generic instrument EQ-5D-5L. In order to generate QALYs, health utilities are needed. Utilities are preference weights, measured on a scale from 0 (dead) and 1 (full health). Data will be collected through self-reported measures and electronic patient records, and the health economic analysis will include following costs:
+
+Intervention related costs, mainly related to intervention implementation (introduction to health care personnel and patients, maintenance (software and security updates) and personnel costs due to follow-up.
+
+Health care costs/direct costs, mainly related to use of health care services (including primary care; general practitioner, physical therapy, psychology visits, secondary care; hospitalization, readmission, outpatient visits, use of antibiotics, enteral and parenteral nutrition products.
+
+Societal costs/indirect costs, including work absence (i.e., productivity loss).

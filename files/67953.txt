@@ -1,0 +1,37 @@
+Clinico-biological Data Collection Study of Metastatic Breast Cancer
+RATIONALE : Currently, the mechanisms associated with the response or resistance to treatment are poorly understood and are multifactorial. These mechanisms involve clinical and biological factors associated with the host and the tumor and possibly the patient's psycho-social environment.
+
+PURPOSE : This trial will assess the use of a prospective database dedicated to patients with breast cancers that contains clinical data as well as epidemiological, psychological, emotional, social, imaging, biological and bio-pathological data. These data will allow a creation of new modelling algorithms in order to predict response and resistance to treatment.
+Breast Cancer
+PROCEDURE: Metastasis biopsy|BIOLOGICAL: Biomarkers blood, urine and microbiota samples|BEHAVIORAL: Patient Reported Outcome (PRO)
+Creation of complex prospective clinico-biological database in metastatic breast cancer, specific metastatic biopsy intervention, At each progressive disease, 15 years after inclusion|Creation of complex prospective clinico-biological database in metastatic breast cancer, search of algorithms combining multiple data (clinical, biological, imaging) in breast cancer management, At each progressive disease, 15 years after inclusion|Overall survival, Overall Survival is the delay between the date of inclusion and the date of death or last follow-up assessment if censored., 15 years after inclusion
+Progression free survival, Progression Free survival is the delay between the first dose of a treatment sequence and the date of documented disease progression or death, 15 years after inclusion|Quality of life during treatment, QLQ-C30 Questionnaire (total score), every 4-6 months for 15 years after inclusion|Quality of life during treatment, BR23 Questionnaire (total score), every 4-6 months for 15 years after inclusion|Quality of life during treatment, STAI anxiety Questionnaire (total score), every 4-6 months for 15 years after inclusion|Quality of life during treatment, Beck Depression Inventory (BDI) (total score), every 4-6 months for 15 years after inclusion|Response to treatment for each therapeutic sequence, RECIST 1.1 or iRECIST assessment, every 4-6 months for 15 years after inclusion|Response to treatment for each therapeutic sequence, biological assessment, every 4-6 months for 15 years after inclusion
+This prospective study will be conducted on first line metastatic breast cancer patients.
+
+Three phenotypic groups are identified on immunohistochemistry done at inclusion: on metastatic sites or breast tumor if local recurrence, usual treatment protocols are often guided by the following groups:
+
+* Group 1 : Patients HR (Hormon Receptor) + (E (Estrogen Receptor) + and/or PR (Progesterone Receptor) +) and HER2- (Human Epidermal Growth Factor Receptor-2)
+* Group 2 : Patients HER2 + with or without HR+
+* Group 3 : Patients triple negative (HR- and HER2-) Patients will receive treatments as per standard care according to the patient group.
+
+Standard treatments recommended for treatment first line are:
+
+1. For group 1 : For HR + and HER2- patients :
+
+   * For patients requiring Chemotherapy (visceral crisis), the recommended treatment is : Taxanes based chemotherapy Anthracyclines based chemotherapy
+   * For the patients without visceral crisis: the recommended treatment is : Hormonal therapy combined with CDK 4-6 inhibitors (Cyclin-dependent kinase) as recommended in standard care.
+2. For group 2 : HER2 + (with or without HR+), the recommended treatment is :
+
+   * Paclitaxel (Taxol) combined with Trastuzumab (Herceptin) and Pertuzumab (Perjeta) as per the institutional standard of care.
+   * Docetaxel (Taxotere) combined with Trastuzumab (Herceptin) and Pertuzumab (Perjeta) as per the institutional standard of care.
+3. For group 3 : triple negative (HR- and HER2-) patients, the recommended treatment is :
+
+   * Paclitaxel (Taxol) with or without Bevacizumab (Avastin) as per the institutional standard of care.
+
+Further treatment lines are administered according to standard practice. Biological and histological assessments are performed on specific metastasis biopsy samples done at baseline and at each progression.
+
+Physical exam, standard laboratory tests, imaging (CT (computerized tomography) scan, PET-CT (Positron emission tomography-computed tomography) and bone scan (for patients with bone metastasis) will be performed every 2 to 6 months according to patient group.
+
+Clinical, biological, pathological, epidemiological, socio-economic and multi-omic data will be collected throughout the study duration.
+
+These massive data will be used to create new algorithms in order to help clinicians to predict treatment response.

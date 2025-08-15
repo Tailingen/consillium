@@ -1,0 +1,30 @@
+Autoguide Positioning Device for Multiple Stereotactic Biopsies
+The purpose of this clinical study should be that, in the context of planned resections of glial brain tumors, pieces of tissue (biopsies) are removed from the tumor at several specific locations before the actual tumor resection takes place.
+
+The aim of these biopsies in advance to the actual tumor resection will be to receive tumor tissue samples not altered in such a way that it is no longer adequate for further treatment. If not adequate, a so-called "undergrading" could occur, which means that the biological structure of the tumor is misjudged and further therapy does not achieve the desired effect in the patient.
+
+On the one hand, certain tumor regions can drift due to a "brain shift" which leads to inaccurate tissue removal, and on the other hand samples are not altered by pressure or bleeding.
+
+To carry out these biopsies, a robot positioning device (AutoGuide®) will be used that has already been approved and tested for this type of intervention. The use of the AutoGuide® is intended to ensure that the tumor sample is taken with the greatest possible precision.
+Multiple Stereotactic Tumor Biopsies During a Brain Tumor Resection
+DEVICE: Multiple stereotactic Tumor Biopsies during a Brain Tumor Resection
+Biopsy Results, histopathological results (according to the WHO classification of CNS tumours) of the multiple biopsies will be matched with the results of the main tumor specimen, 30 minutes to 1 hour (frozen section procedure)
+Operations involving positioning of needles and catheters are amongst the most common procedures in cranial neurosurgery. One of the most important matters that have to be considered is that, submillimetric (\<0.1 mm) precision is essential for the success of these procedures. However, many biopsy needle procedures for obtaining tissue specimens are currently performed with limited accuracy, i.e. using a mechanical arm. This could potentially lead to procedural failure such as inconclusive tissue sampling and even major complications, e.g. cerebral hemorrhage with consecutive neurologic deficits.
+
+Therefore, navigation-guidance was implemented and established over the last two decades. Using preoperatively compiled anatomical patient data from radiological images (Computerized Tomography \[CT\] or Magnetic Resonance Imaging \[MRI\] scans) a trajectory from entry to target point can be defined and matched intraoperatively on the patient's head.
+
+In case of stereotactic needle biopsies, inaccuracy is associated with the acquisition of non-diagnostic samples in up to 24% of stereotactic biopsy series or non-representative tumor samples in up to 64% of biopsies. Therefore, serial biopsies could be performed to overcome this drawback - associated with an increased risk of intracranial hemorrhages, which have been reported in 0.3 - 59.8% of the cases and contribute considerably to the reported morbidity of 0-16.1% of this procedure.
+
+The Autoguide® system is a modular guidance system for surgical invasive tools which provides a precise, submillimetric trajectory alignment according to the predefined navigation data.
+
+After the development of this miniaturized robotic guidance system for neurosurgery was successfully finalized, AutoGuide®, a robot for clinical application in neurosurgery, is now commercially available from the Medtronic company.
+
+Precision medicine requires highly accurate tissue sampling from radiologic targets. Thereby, multiple targets on molecular imaging (e.g., MR-spectroscopy, PET) are of interest in many cases. On the basis of the pathologist's diagnosis of these tissue samples, the oncologist can provide patient-specific targeted therapy - a current standard practice in modern cancer treatment.
+
+The aim of this study is to perform a clinical series of multiple stereotactic needle biopsies with the AutoGuide® system previous of brain tumor resection to achieve a more accurate diagnosis of a possible hotspot within the tumor.
+
+Prior to oncologic treatment, neurosurgical resection for maximum reduction of tumor cell load is still the basis of brain tumor treatment. During surgery, tissue sampling is performed manually by removing tumor tissue from hotspots as shown on the navigation system screen. This method of tissue harvesting, however, is prone to considerable inaccuracy due to the brain shift that occurs as soon as the craniotomy has been performed. High precision targeting is therefore required for highly accurate tissue sampling from radiologic targets to ensure correct postoperative therapy allocation.
+
+A robotic system such as AutoGuide® has the potential to provide highly accurate tissue samples from hotspots of interest prior to craniotomy. This allows to send a highly relevant tumor sample to pathology for frozen section right at the very beginning of surgery for decisions about further resection.
+
+The major advantage in AutoGuide® performed surgeries lies in its rapid re-alignment if multiple areas have to be targeted. Such "pre-resection biopsies" could be routinely performed before brain tumor surgery with only minimal additional time expenditure and a more accurate diagnosis of a hotspot area of the tumor.

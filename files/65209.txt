@@ -1,0 +1,25 @@
+Metformin in Head and Neck Squamous Cell Carcinoma: Effect on Tissue Oxygenation
+The study evaluates the effects of the drug Metformin on the oxygen content in cancer tissue. Low oxygen concentration in cancer tissue accelerates cancer growth. Moreover, the response to radiation therapy is worse when tissue oxygen is low, because radiation therapy depends on oxygen to unfold therapeutic effects. Metformin has been used to treat type II diabetes for over 50 years and features additional properties that could slow down cancer growth. One of these properties is the improved oxygen concentration in cancer tissue. This effect has been proven for various cancers.
+
+This study was planned to verify this effect in head and neck cancer. Patients who suffer from cancer of the mouth and are planned for surgical removal of the cancer will be given Metformin for 9 to 14 days. The tissue removed in the subsequent surgery will be compared to a tissue sample that had been taken from the same patient prior to Metformin intake. To evaluate the oxygen content in the tissue samples, the expression of genes that react to oxygen levels will be measured and compared between the samples taken before and after treatment with Metformin.
+
+A secondary aim is to evaluate whether changes in the oxygen content within the tumor can be visualized by means of magnetic resonance imaging (MRI). Therefore, participants undergo an MRI scan, before and after Treatment with Metformin. The changes in the MRI will be correlated to the changes measured in gene expression.
+Head and Neck Cancer|Oral Cavity Squamous Cell Carcinoma
+DRUG: Metformin
+Metformin dependent changes in gene expression, Metformin induced changes in gene expression between samples taken before and after the intervention, analyzed by RNAseq, with special attention to hypoxia responsive genes:
+
+* Hypoxia inducible factor 1 (HIF1) and co-transcription factors (ARNT, COPS5, HIF1A, HIFAN, HIF3a, HNF4A, NCOA1, PER1)
+* HIF interactors (APEX1, EGLN1, EGLN2, NFKB1, P4HA1, P4HB, TP53)
+* Markers of Angiogenesis (ADROA2B, ANGPTL4, ANXA2, BTG1, EGR1, EDN1, EPO, F3, GPI, HMOX1, JMJD6, LOX, MMP9, PGF, PLAU, SERPINE1, VEGFA)
+
+Additionally, metformin induced changes in HIF1A, Ki67, cleaved caspase 3, CAIX, p-mTOR and p-AKT will be assessed by immunohistochemistry, Baseline and two weeks
+Hypoxia dependent changes in MRI, Diffusion-weighted MRI and blood oxygen level dependent imaging (BOLD) will be obtained before and after the Intervention and compared. Alterations will be correlated to changes in gene Expression., baseline and two weeks
+The main objective of this trial is to prove the hypothesis that Metformin reduces tissue hypoxia in oral cavity squamous cell carcinoma after a course of treatment of 9-14 days.
+
+The primary endpoint of the trial is the change in hypoxia-regulated gene expression upon Treatment with Metformin. Secondary endpoint are changes in MRI imaging correlating with the changes in gene expression.
+
+Study design: This is a single-arm, open-label interventional window of opportunity study for proof of principle. Oral cavity squamous cell carcinoma is primarily treated by surgical tumor resection. This offers the possibility to study the effect of metformin on the tumor tissue.
+
+Baseline tissue from potential participants before the intervention will be acquired by biopsy during diagnostic panendoscopy. Provided surgery is recommended by tumor board decision, participants will be orally administered 850 mg of metformin twice daily between the therapeutic decision of the tumor board and the surgical resection of the tumor. The duration of the treatment is 9-14 days, depending on the date of the planned surgery. The resected tumor tissue as well as the biopsy taken prior to metformin treatment will be subjected to massive parallel sequencing and immunohistochemistry.
+
+To assess whether changes in hypoxia regulated gene expression can be correlated to changes in MRI scans, each participants will undergo a MRI scan before metformin treatment and a second MRI scan within 48 hours prior to the surgical resection of the tumor.

@@ -1,0 +1,34 @@
+Daunorubicin Hydrochloride, Cytarabine, and Nilotinib in Treating Patients With Newly Diagnosed Acute Myeloid Leukemia
+This phase II trial studies how well daunorubicin hydrochloride, cytarabine, and nilotinib work in treating patients newly diagnosed with acute myeloid leukemia. Drugs used in chemotherapy, such as daunorubicin hydrochloride and cytarabine, work in different ways to stop the growth of cancer cells, either by killing the cells, by stopping them from dividing, or by stopping them from spreading. Nilotinib may stop the growth of cancer cells by blocking some of the enzymes needed for cell growth. Giving daunorubicin hydrochloride with cytarabine and nilotinib may kill more cancer cells.
+Untreated Adult Acute Myeloid Leukemia
+DRUG: Cytarabine|DRUG: Daunorubicin Hydrochloride|OTHER: Laboratory Biomarker Analysis|DRUG: Nilotinib|OTHER: Pharmacological Study
+Proportion of Complete Responses (CR or CRi) During Induction Therapy, The proportion of successes will be estimated by the number of successes divided by the total number of evaluable patients. Confidence intervals for the true success proportion will be calculated according to the approach of Duffy and Santner., Up to 56 days
+Disease Free Survival(DFS) Rate, Disease free survival time is defined for all evaluable patients who have achieved a CR or CRi as the time from registration to relapse or death due to any cause. The distribution of disease-free survival will be estimated using the method of Kaplan-Meier., 35 months|Duration of Complete Response, The distribution of duration of complete response will be estimated using the method of Kaplan-Meier., 2 years|Incidence of Adverse Events as Assessed by NCI CTCAE Version 4.0, The maximum grade for each type of adverse event will be recorded for each patient, and frequency tables will be reviewed to determine patterns. Additionally, the relationship of the adverse event(s) to the study treatment will be taken into consideration. This data will be reported in the Adverse Events section of the results., 35 months|Overall Survival(OS) Rate, Overall survival time is defined as the time from registration to death due to any cause. The distribution of survival time will be estimated using the method of Kaplan-Meier(Kaplan E 1958)., 39 Months
+Bone Marrow Flt3 Mutation, Will be summarized and used to help characterize the types of patients accrued to this trial., Baseline|Bone Marrow Kit Mutation Status, Up to 3 years|Bone Marrow Kit Mutation/Expression, Will be summarized and used to help characterize the types of patients accrued to this trial., Baseline|MRD, Assessed by PCR or Flow Cytometry, MRD status will be correlated with response using Fisher's exact test. In addition, the relationship between MRD status (positive vs. negative) and disease-free survival will be evaluated using landmark analyses., Up to 3 years
+PRIMARY OBJECTIVES:
+
+I. To determine the complete response rates of combination nilotinib, cytarabine, and daunorubicin (daunorubicin hydrochloride) in patients newly diagnosed with acute myeloid leukemia (AML) and v-kit Hardy-Zuckerman 4 feline sarcoma viral oncogene homolog (Kit) overexpression.
+
+SECONDARY OBJECTIVES:
+
+I. Determine the 2-year overall survival (OS) and disease-free survival (DFS) rates.
+
+II. Determine the complete response duration in patients treated with this regimen.
+
+III. Assess the safety and toxicity of this regimen based on National Cancer Institute (NCI) Common Terminology Criteria for Adverse Events (CTCAE) version 4.0.
+
+TERTIARY OBJECTIVES:
+
+I. Assess the prognostic and predictive factors (Kit mutation/expression level, fms-related tyrosine kinase 3 \[Flt3\] mutation) for patients treated with this regimen.
+
+II. Assess the patterns of molecular response and relapse for Kit. III. Assess the effect on minimal residual disease (MRD) by polymerase chain reaction (PCR) or flow cytometry.
+
+OUTLINE:
+
+INDUCTION THERAPY: Patients receive daunorubicin hydrochloride intravenously (IV) over 10 minutes on days 1-3, cytarabine IV continuously on days 1-7, and nilotinib orally (PO) twice daily (BID) on days 4-14. Patients achieving complete remission (CR) or complete remission with incomplete blood count recovery (CRi) proceed to consolidation therapy. Patients not achieving a significant decrease in bone marrow recovery or CR/CRi upon bone marrow recovery receive another course of induction therapy.
+
+CONSOLIDATION THERAPY: Patients receive cytarabine IV every 12 hours on days 1, 3, and 5, and nilotinib PO BID on days 4-14. Treatment repeats every 28 days for 4 courses in the absence of disease progression or unacceptable toxicity. Patients achieving CR or CRi proceed to maintenance therapy.
+
+MAINTENANCE THERAPY: Patients receive nilotinib PO BID on days 1-84. Treatment repeats every 84 days for up to 8 courses in the absence of disease progression or unacceptable toxicity.
+
+After completion of study treatment, patients are followed up every 6 months for up to 3 years.

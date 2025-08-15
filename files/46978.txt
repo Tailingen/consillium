@@ -1,0 +1,43 @@
+Daunorubicin and Cytarabine With or Without Uproleselan in Treating Older Adult Patients With Acute Myeloid Leukemia Receiving Intensive Induction Chemotherapy
+This phase II/III trial studies how well daunorubicin and cytarabine with or without uproleselan works in treating older adult patients with acute myeloid leukemia receiving intensive induction chemotherapy. Drugs used in chemotherapy, such as daunorubicin and cytarabine, work in different ways to stop the growth of cancer cells, either by killing the cells, by stopping them from dividing, or by stopping them from spreading. Uproleselan may prevent cancer from returning or getting worse. Giving daunorubicin and cytarabine with uproleselan may work better in treating patients with acute myeloid leukemia compared to daunorubicin and cytarabine alone.
+Acute Myeloid Leukemia
+PROCEDURE: Biospecimen Collection|PROCEDURE: Bone Marrow Aspiration|PROCEDURE: Bone Marrow Biopsy|DRUG: Cytarabine|DRUG: Daunorubicin|PROCEDURE: Echocardiography Test|PROCEDURE: Multigated Acquisition Scan|DRUG: Uproleselan
+Event-free survival (EFS) (Phase II), EFS is defined as the time from the date of randomization to the first of failure to achieve a complete remission (CR)/ CR with incomplete blood count recovery (CRi) during induction, relapse, or death due to any cause, with patients last known to be alive and event-free censored at the date of last contact., Up to 5 years|Overall survival (OS) (Phase III), Will be measured from the date of randomization to death from any cause, with patients last known to be alive censored at the date of last contact., Up to 5 years
+EFS rate, Will be formally tested hierarchically in a confirmatory setting at an overall one sided alpha of 0.025 level at the same time as the primary endpoint. Both hazard ratio and p-value for EFS will be presented., Up to 1 year|Impact of off-protocol transplantation, Sensitivity analyses will be conducted. In addition, the proportion of patients who received transplantation in the two arms will be summarized and compared using a chi-square test., Up to 5 years|Consistency of the treatment effect among each subgroup, Non-parametric methods such as Kaplan-Meier and log-rank tests will be used within each subgroup. Univariate/multivariate Cox models will be fit within each subgroups; hazard ratios will be used to quantify the treatment effect within each subgroup, along with the 95% confidence intervals., From baseline up to 5 years|Disease-free survival (DFS), Time from achieving a complete response to time of relapse or death, assessed up to 5 years|Complete remission (CR) and overall response rate, Up to 5 years|Incidence of adverse events, Will be assessed according to National Cancer Institute Common Terminology Criteria for Adverse Events (NCI CTCAE) version (v) 5.0. The maximum grade for each type of toxicity will be recorded for each patient, and frequency tables will be reviewed to determine toxicity patterns., Up to 5 years|Prediction of CR, EFS, DFS, and OS by pretreatment characteristics such as age, morphology, cytogenetics, immunophenotype, molecular genetic features, WBC count and hemogram, and performance status with clinical outcomes, The associations between these baseline factors and CR, EFS, DFS, and OS will be analyzed using Kaplan-Meier curves, log-rank test, contingency table and chi-square test whenever appropriate. Multivariable analysis including Cox proportional hazards models and logistic regression models will be used as well to evaluate the associations., Up to 5 years
+PRIMARY OBJECTIVES:
+
+I. Compare the event-free survival (EFS) of daunorubicin, cytarabine plus uproleselan versus daunorubicin and cytarabine in subjects \>= age 60 with previously untreated acute myeloid leukemia. (Phase II) II. Compare the overall survival (OS) of the daunorubicin, cytarabine plus uproleselan to daunorubicin and cytarabine in this patient population. (Phase III)
+
+SECONDARY OBJECTIVES:
+
+I. Determine the rates of complete remission (CR), complete remission with incomplete count recovery (CRi), complete remission with incomplete hematopoietic recovery (CRh) and cytogenetic complete remission (CCyR) for each chemotherapy regimen.
+
+II. Determine the overall survival (OS), and remission duration of patients for each chemotherapy regimen.
+
+III. Describe the frequency and severity of adverse events for patients for each chemotherapy regimen.
+
+IV. Describe the interaction of pretreatment disease and patient characteristics including morphology, cytogenetics, molecular genetic features, white blood cell (WBC) count and hemogram, and performance status on clinical outcomes.
+
+CORRELATIVE SCIENCE OBJECTIVES:
+
+I. Correlate specific karyotype groups (normal or various primary and secondary chromosomal abnormalities) with clinical and laboratory parameters and with response rates, response duration, survival and cure in patients treated with various induction and post-induction regimens.
+
+II. Correlate specific karyotype groups with selected molecular abnormalities and with measurable residual disease.
+
+III. To determine karyotype changes at end of consolidation and the influence of the type of change (or no change) in karyotype at the end of consolidation on subsequent clinical course.
+
+IV. To determine karyotype changes at relapse and the influence of the type of change (or no change) in karyotype at relapse on subsequent clinical course.
+
+OUTLINE: Patients are randomized to 1 of 2 arms. (PHASE III CLOSED TO ACCRUAL 08/12/2024)
+
+ARM 1: INDUCTION: Patients receive daunorubicin intravenously (IV) on days 1-3 and cytarabine via continuous intravenous infusion (CIVI) over 168 hours on days 1-7. Patients with residual disease indicated by bone marrow examination receive a second induction including daunorubicin IV on days 1-2 and cytarabine CIVI over 12 hours on days 1-5.
+
+CONSOLIDATION: Patients receive cytarabine IV over 3 hours on days 1-5. Treatment repeats every 28 days for up to 3 cycles in the absence of disease progression or unacceptable toxicity.
+
+ARM 2: INDUCTION: Patients receive uproleselan IV QD on day 1 and then every 12 hours on days 2-10. Patients also receive daunorubicin IV on days 2-4 and cytrarabine CIVI over 168 hours on days 2-8 over 168 hours. Patients with residual disease indicated by bone marrow examination receive a second induction including uprleselan IV QD on day 1 and then every 12 hours on days 2-8, daunorubicin IV on days 2-3, and cytarabine CIVI over 120 hours on days 2-6.
+
+CONSOLIDATION: Patients who achieve a CR or CRi receive uproleselan IV QD on day 1 and every 12 hours on days 2-8 and cytarabine IV over 3 hours on days 2-6. Treatment repeats every 28 days for up to 3 cycles in the absence of disease progression or unacceptable toxicity.
+
+Additionally, all patients undergo multigated acquisition scan (MUGA) or echocardiogram (ECHO) during baseline, and bone marrow aspirate, bone marrow biopsy, and blood collection throughout the study.
+
+After completion of study treatment, patients are followed up every 2 months for 1 year, every 3 months in year 2, and then every 6 months for up to 5 years.

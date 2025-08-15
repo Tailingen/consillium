@@ -1,0 +1,48 @@
+Polygenic Risk Stratification Combined With mpMRI to Identify Clinically Relevant Prostate Cancer
+The goal of this clinical trial is to evaluate a screening method to detect clinically relevant prostate cancer. This clinical trial is using genetic data to determine a man's risk of cancer, together with multiparametric magnetic resonance imaging (mpMRI) to identify men with higher grade cancer.
+
+The main questions it aims to answer are:
+
+* If genetic data related to prostate cancer used with MRI can identify higher-grade, potentially fatal prostate cancer
+* What age a MRI is useful clinically for prostate cancer screening
+* If deep learning methods used with MRI when the genetic risk of the man is known can more accurately predict significant cancers
+
+Participants will:
+
+* Get a prostate specific antigen (PSA) blood test
+* Get an mpMRI
+* Get the results of their genetic data to determine if they are considered high-, intermediate-, or low-risk for prostate cancer based on the trials genetic testing
+* Follow-up for this trial based on the participants risk and findings from the PSA test and mpMRI
+Prostate Cancer|Polygenic Risk Score
+OTHER: Polygenic Risk Score (PRS)
+Risk Ratio - Three Age Groups, The ratio between men with high PRS and intermediate PRS in each of the three age groups (40-54, 55-64, 65-69) regardless of their ethnicity., Through study completion, an average of 1 year.
+Risk Ratio - Six Age Groups, The ratio between men with high PRS and intermediate PRS in each of the six age groups (40-44, 45-49, 50-54, 55-59, 60-64, 65-69) regardless of their ethnicity., Through study completion, an average of 1 year.|Rare Variants, Examine the extent to which the addition of rare variants to the PRS involves risk prediction. The weighting procedure will be implemented to account for oversampling of high risk cases., Through study completion, an average of 1 year.
+Background:
+
+* Prostate cancer is the most commonly diagnosed cancer among men in the United States
+* Prostate cancer screening using the marker prostate-specific antigen (PSA) is controversial
+* PSA based screening is less effective, at least in part, because it rests on screening the entire population
+* Polygenic risk scores stratify men based on their prostate cancer genetic predisposition and may improve population level screening programs by focusing on men with higher risk of disease and sparing low risk men
+* It is critical that studies aiming to translate the development of an early-detection strategy are conducted within a diverse patient population to address prostate cancer mortality disparities
+
+Study Design:
+
+* Plan to accrue 1,500 participants from both established biobanks and primary care offices
+* Participants will get an initial PSA screening blood test and an mpMRI
+* Participants will have their polygenic risk score determined from genome-wide association study (GWAS) data
+* Participant follow-up will be determined by PRS results, as well as if there are abnormal findings on their PSA screening and/or mpMRI
+
+Objectives:
+
+* To evaluate a screening algorithm to detect clinically relevant prostate cancer (Gleason score ≥7) using genetic data (PRS) to determine risk of cancer and mpMRI to identify men with higher grade cancer
+* To determine optimal age to begin screening using PRS and mpMRI
+* To determine if rare variants in DNA repair enzymes could help refine screening
+* To determine if deep learning methods applied to mpMRI and informed by genetic risk can more accurately predict significant cancers
+
+Prostate cancer screening using prostate specific antigen (PSA) is controversial. On the one hand, there is a reduction in prostate cancer mortality associated with screening. On the other, there is clear evidence that widespread and indiscriminate PSA based screening has led to over diagnosis and over treatment of prostate cancer. In part this is due to indiscriminate screening of all men, not just those at risk. Development and implementation of a screening strategy specifically targeting men at risk for potentially harmful prostate cancer, while sparing low risk men the burdens of screening, is urgently needed.
+
+The investigators believe that integration of genetic testing and multiparametric MRI (mpMRI) will dramatically improve screening. Polygenic risk scores (PRS) have been developed to determine an individual's risk of prostate cancer and attempts have been made to create risk scores for clinically relevant disease. mpMRI has been established as an aid in differentiating clinically relevant from indolent prostate cancer.
+
+Our scientific premise is that an integrated approach which leverages the strengths of both genetics and mpMRI will do more than simply risk stratify men into those at risk for and not at risk for prostate cancer; the investigators will stratify a population of men into those with and those without clinically relevant prostate cancer. The investigators hypothesize that genetic testing to first identify patients at risk of prostate cancer followed by mpMRI to determine who likely has clinically relevant disease represents an optimal strategy.
+
+This study will determine if a polygenic risk score can be used in conjunction with mpMRI to identify Gleason score ≥7 cancer.

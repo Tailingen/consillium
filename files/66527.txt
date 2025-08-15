@@ -1,0 +1,5 @@
+Validation of a Model for Predicting Anastomotic Leakage
+This study will validate a machine learning model for predicting anastomotic leakage of esophagogastrostomy and esophagojejunostomy.
+Gastric Cancer
+Incidence of anastomotic leakage, Within 30 days after operation
+Anastomotic leakage is a fatal complication after total and proximal gastrectomy in gastric cancer patients. Identifying patients with high-risk of AL is important for guiding the surgeons' decision making, such as a more rigorous anastomotic operation， placing a jejunal feeding tube and dual-lumen flushable drainage catheter. We have developed a high-performance machine learning model based on 1660 gastric cancer patients, which showed good discrimination of anastomotic leakage. Hence, this multi-center prospective study will validiate the usability of the model for predicting anastomotic leakage in gastric cancer patients who receive total and proximal gastrectomy.

@@ -1,0 +1,19 @@
+CARA Treatment Pilot Study for Breast Positioning
+CARA is a novel Carbon-fibre Adjustable and Re-usable Accessory for supine breast positioning during radiation therapy. CARA was developed at BC Cancer. In this study, twenty patients will be planned and treated with CARA positioning to establish safety and workflow measures of this novel device. The device is designed to remove the infra-mammary skin fold and lateral breast droop which can lead to unwanted dose to normal tissue.
+Breast Cancer|Side Effect
+DEVICE: CARA - carbon fibre adjustable re-usable accessory for breast positioning
+Number of participants for whom dose volume treatment planning constraints are not met using CARA support for breast setup, Treatment planning dose constraints are:
+
+\>=95% of the prescribed dose covering \>=98% of the breast target tissue, including internal mammary chain when requested by the treating oncologist
+
+volume of ipsi-lateral lung receiving \>= 20Gy should be \<=35%
+
+volume of heart receiving \>=25Gy should be \<=5%
+
+maximum dose to any point in the body \<=110% of the prescribed dose
+
+volume of breast receiving \>=107% of prescribed dose should be \<=22 cm\^3, 12 months|Number of participants having measured breast skin dose => 110% of the prescribed dose to an area of skin => 1 cm^2, Skin dose is measured on the breast surface under the carbon fibre device using radio-chromic film. The area of skin receiving 70% of the prescribed dose up to the maximum absorbed dose is measured in 5% dose increments to an accuracy of 0.5 cm\^2.
+
+If any participant receives =\> 110% of the prescribed dose to \>=1 cm\^2 area of skin, the study will be stopped., 12 months|Number of participants scoring =>6 on the CTCAE Version 4.0 skin assessment, Participants will undergo a detailed breast skin assessment at baseline, one week prior to RT completion, last week of RT, and one and two weeks post RT using the CTCAE Version 4 skin assessment scoring system as well as examination of the infra-mammary fold for any moist desquamation. The dimensions and location of moist desquamation will be recorded. In the event that a skin reaction of ≥ 6 (indicating ulceration, hemorrhage or necrosis) on the CTCAE V 4.0 scale is reported, the trial will be stopped., 12 months
+Workflow measures, Measured time to accomplish set up and treatment with CARA positioning, 12 months|Setup reproducability, Measure required shifts in patient position using kilo-voltage imaging, 12 months|Doses to organs at risk comparison with standard of care, Comparison of lung, heart, breast and normal tissue dose versus standard of care, 12 months|Skin assessment versus skin dose, CTCAE V4 and specific moist desquamation assessment of breast skin compared with measured skin dose-area data, 12 months|Patient Reported outcome - skin reaction, Questionnaire to assess patient reported side effects and skin reaction, 12 months
+This pilot study will investigate the safety and potential benefits of CARA breast positioning by treating 20 patients using the device. Patients will be planned with CARA positioning and standard of care positioning. CARA plans will be evaluated to ensure all treatment planning goals are met and patients will proceed to treatment with CARA positioning. This pilot study will ensure that patients can be safely treated with the CARA and provide us with valuable information from therapists, oncologists and patients about the performance of the current design. This will also inform the direction of design improvements and the production of educational materials for training practitioners in the use of the device. Overall, this will prepare us for a randomized clinical trial of the CARA positioning technique versus current standard of practice to assess whether reduced toxicity can be achieved using the CARA technique.

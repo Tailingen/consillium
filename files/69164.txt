@@ -1,0 +1,37 @@
+Neoadjuvant Nivolumab and Relatlimab in Merkel Cell Carcinoma
+The goal of this clinical trial is to test neoadjuvant dual immunotherapy in Merkel cell carcinoma with the aim to improve recurrence-free survival
+Merkel Cell Carcinoma
+DRUG: Nivolumab 240 mg / Relatlimab 80 mg in a fixed dose combination
+Pathological complete response rate, Proportion of patients with a pathological complete response, as determined on the week 6 surgical specimen using the guidelines published by the International Neoadjuvant Melanoma Consortium: Complete pathological response (pCR) = 0% viable tumour cells in the surgical specimen, Week 6
+Pathological non-complete response rate to neoadjuvant immunotherapy, Proportion of patients with each non-pCR response category, as determined on the week 6 surgical specimen using the guidelines published by the International Neoadjuvant Melanoma Consortium:
+
+* Near complete pathological response - (near pCR) - \>0% - ≤10% viable tumour
+* Partial pathological response (pPR) - \>10 - ≤50% viable tumour
+* Non pathological response (pNR) - \>50% viable tumour, Week 6|Toxicity and tolerability of neoadjuvant immunotherapy and surgery, The proportion of patients with adverse events (AE) as described in CTCAE version 5.0, from the initiation of study treatment until at least 135 days after the end of treatment. Outcome measures include the proportion of patients with:
+
+* An AE by CTCAE term and grade and duration
+* AEs attributable to neoadjuvant study treatment
+* Grade 3/4/5 AEs by AE term
+* A requirement to interrupt study treatment and/or delay surgery within time limit due to an AE
+* A requirement to discontinue study treatment early due to an AE
+* A requirement for oral or parenteral steroid treatment for immune-related adverse events.
+* Post-operative complications (e.g. seroma formation, wound infection or lymphoedema) and duration of events.
+* and the Surgeon's assessment of 'operability' from baseline and at surgery., Week 24|Objective response rate to neoadjuvant immunotherapy, The proportion of patients within each response category, as assessed using RECIST version 1.1, comparing week 6 to baseline CT and MRI.
+
+Objective response rate= CR and PR, Week 6|Metabolic response rate to neoadjuvant immunotherapy, The proportion of patients within each response category, as assessed using PERCIST (standardised uptake value \[SUV\]) comparing week 6 to baseline PET.
+
+Metabolic response rate = CMR and PMR., Week 6|Recurrence-free survival, The proportion of patients alive and disease free from the time of surgery, 10 years|Disease progression rate, 1. The proportion of patients alive and with RECIST-defined progression of disease from the date of consent to the first radiographical evidence of local, regional or distant progression.
+2. Disease progression which leads to unresectable MCC., Week 6|Event-free survival rate, The proportion of patients alive and disease free from the date of consent to the first radiographical evidence of local, regional or distant progression, 10 years|Overall survival rate, The proportion of patients alive at years 1, 2, 5 and 10, and to actual date of death (in months), from the initiation of study treatment., 10 years|Patient reported quality of life, 1. Changes in patient rated quality of life scores using QLQ-C30 and EQ-5D-5L from date of consent to 6 -12 weekly intervals until the end of year 1.
+2. The correlation of patient-rated quality of life scores with adverse events., 1 year|Study treatment completion rate, 1. Proportion of patients receiving full neoadjuvant drug treatment per schedule and number of treatments missed.
+2. Proportion of patients undergoing planned surgery at week 6.
+3. Reasons for incomplete study treatment e.g. adverse event, withdrawn consent, , disease progression, patient lost to follow-up., Week 8
+Polyomavirus positivity, Proportion of patients with and without polyomavirus in tumour tissue and/or in blood samples at baseline. Correlate Merkel cell polyomavirus viral positivity (MCPyV+) in stage I-III MCC with pathological response., Week 6|Biomarkers of response, resistance, toxicity, * Morphological assessment H\&E, including viable MCC cells, Ki67, TILs density, % fibrosis, % necrosis, compared with paired baseline measures.
+* Tumour PD-L1 expression status (+ve status = ≥1% tumour cells positive staining using Dako 28-8 PD-L1 IHC assay).
+* Characterisation of immune profile in tumour microenvironment using multiplex immunohistochemistry and Imaging mass cytometry.
+* RNA sequencing - gene expression profile including potential to perform single cell analysis on dissection specimen from tumour dissociates (single cell RNA seq).
+* Characterisation of peripheral immune profile through Cytometry by time of flight.
+* DNA sequencing to determine tumour mutational burden and key somatic mutations.
+* Response to treatment using circulating tumour DNA in peripheral blood using droplet digital PCR to quantify tumour DNA (copies/ml plasma) of known mutation in MCC tissue., Week 6|Correlation of gut microbiome on outcomes, 1. Correlation of bacterial diversity and abundance with treatment response and incidence of treatment-related toxicities
+2. Correlation of self-reported dietary habits (including use of oral probiotics) at baseline and impact on bacterial diversity in the gut
+3. The use of antibiotics and/or steroids during neoadjuvant treatment and the impact on intestinal bacterial diversity and abundance, Week 6|Correlation of outcome measures, Proportion of patients with concordance in pathological response, RECIST response and metabolic response (PERCIST), Week 6|Assessment of concordance between RECIST and immune-related response criteria, Proportion of patients with CR, PR, SD and PD as measured with both response criteria, Week 6|Comparison of outcomes against CheckMate, Comparison of primary and secondary efficacy outcomes to those reported in the Checkmate 358 trial, 10 years
+This is a phase 2, open label, single cohort, single centre, clinical trial of neoadjuvant immunotherapy with dual inhibition of PD-1 and LAG-3 immune checkpoint pathways. The hypothesis is that neoadjuvant therapy produces a higher pathological response rate (pCR) and a longer recurrence-free survival in a cohort of treatment-naïve patients with resectable stage I (≥10 mm) to stage III Merkel cell carcinoma compared to neoadjuvant nivolumab monotherapy in Checkmate 358 (n=123, NCT02488759, historical control).

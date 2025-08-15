@@ -1,0 +1,62 @@
+A Phase II Study Evaluating an Organ Preservation Strategy Using Immune Checkpoint Blockade for Participants With Primary Colorectal or Gastroesophageal Cancer
+Background:
+
+People with colorectal cancer (CRC) or gastroesophageal cancer (GEC) must often have major surgery to remove tumors from the esophagus, stomach, colon, or rectum. These surgeries can have adverse effects on their quality of life. Researchers want to know if one or two approved drugs (nivolumab with or without ipilimumab) can help people with CRC or GEC delay or avoid surgery.
+
+Objective:
+
+To test 1 or 2 drugs in people with CRC or GEC.
+
+Eligibility:
+
+People aged 18 years and older with CRC or GEC. People with GEC must also have changes in a particular gene.
+
+Design:
+
+Participants will visit the clinic about 15 times over the first 2 years. Each visit will last 4 to 8 hours.
+
+Participants will be screened. They will have a physical exam with blood and urine tests. They will have imaging scans. Small samples of tissue will be collected from their upper or lower digestive tract where the tumor is located.
+
+Both ipilimumab and nivolumab are administered through a tube attached to a needle inserted into a vein in the arm. Some participants will receive both drugs. Some will receive only nivolumab. Treatment will be given once every 3 weeks for up to 8 cycles up to (24 weeks).
+
+Participants will be evaluated every 6 weeks. Those who are responding well will continue with the drug treatments. If their disease progresses, they will go to surgery.
+
+After treatment ends, participants will have follow-up visits every 6 months for up to 5 years....
+Colorectal Cancer|Gastroesophageal Cancer
+DRUG: nivolumab|DRUG: ipilimumab
+Clinical complete response (CR) or near-complete response (nCR), Assessed endoscopically with concordant radiographic findings clinical CR/nCR in each cohort will be reported along with 80% and 95% two-sided confidence intervals., 6, 12 18 and 24 weeks
+Disease free survival (DFS), DFS will be reported using the Kaplan-Meier method with 95% confidence intervals on the median DFS in each cohort., 6, 12 18 and 24 weeks then every 4 months for 2 years then every 6 months for years 3-5|Resection-free survival (RFS), Organ preservation as evaluated by resection-free survival will be reported using the Kaplan-Meier method with 95% confidence intervals on the median resection-free survival in each cohort., 6, 12 18 and 24 weeks then every 4 months for 2 years then every 6 months for years 3-5|Safety, The number and frequency of adverse events including immune-related adverse events assessed per CTCAE version 5. Safety will be analyzed by reporting the number of patients experiencing toxicity, classified by type and grade to the experimental regimen., until 30 days after the last dose of study drugs|Delay in surgery, Report the number of participants who had unplanned delays in surgery for (1) any reason and (2) due to irAE, along with the length of the delays in days beyond the date of documented progressive disease +30., until 30 days after documented progressive disease|Locoregional failure, Fraction of participants with locoregional failure de ned as either an unresectable primary tumor following protocol neoadjuvant treatment, an R2 resection for the primary tumor, or recurrence in the primary tumor bed after an R0-R1 resection will be reported for each cohort with 80% and 95% two-sided confidence intervals., 6, 12 18 and 24 weeks then every 4 months for 2 years then every 6 months for years 3-5
+Background:
+
+* Immune checkpoint blockade (ICB) using antibodies against programmed cell death protein 1 (PD-1) and cytotoxic T lymphocyte associated protein 4 (CTLA-4) can induce major pathologic responses (MPR) in approximately 23% of mismatch repair (MMR) proficient colorectal cancers, 90% of MMR deficient colorectal cancers and 74% of MMR deficient gastroesophageal cancers.
+* MPR after ICB, defined as \>90% treatment response, is associated with exceptional local and distant disease-free survival (DFS). This has been observed in participants with advanced melanoma, MMR deficient colorectal cancer and MMR deficient gastroesophageal cancer.
+* We hypothesize that it is safe to forego surgical resection in participants who have had an MPR to ICB. To test this hypothesis, we designed an organ preservation strategy for participants with colorectal cancer and gastroesophageal cancer using induction ICB and close interval surveillance.
+
+Objectives:
+
+Primary objective:
+
+--Determine the rate of clinical complete response (CR) or near-complete response (nCR) after induction ICB in participants with MMR proficient colorectal cancer (Cohort 1), MMR deficient colorectal cancer (Cohort 2) and MMR deficient gastroesophageal cancer (Cohort 3).
+
+Eligibility:
+
+* Age \>= 18 years
+* Biopsy-confirmed stage I-III colorectal cancer (MMR proficient or MMR deficient) or stage I-III gastroesophageal cancer (MMR deficient only)
+* ECOG 0-1
+* May not have allergies or hypersensitivities to anti-PD-1 or anti-CTLA-4 administration
+* No concurrent major medical illnesses
+* No history of grade III or IV irAEs affecting major organ systems associated with the administration of single agent anti-PD-1, anti-PD-L1 or anti-CTLA-4 antibodies
+* Adequate organ function
+
+Design:
+
+* This is a phase II, single center study evaluating induction PD-1 blockade with or without CTLA-4 blockade in participants with primary colorectal or gastroesophageal cancer.
+* Participants will undergo baseline complete endoscopy with biopsies, scans and labs. Apheresis will also be performed before treatment initiation.
+* All participants will receive nivolumab (3 mg/kg) every 3 weeks for an initial 4 cycles and may be eligible for an additional 4 cycles depending on response, for a total of 8 cycles.
+* Participants in Cohort 1 (MMR proficient colorectal cancers) and Cohort 3 (MMR deficient gastroesophageal cancers) will receive low-dose ipilimumab at 1 mg/kg every 6 weeks for 2 cycles, and may be eligible for an additional 2 cycles depending on response, for a maximum of 4 cycles.
+* Participants will be dosed with nivolumab +/- ipilimumab every three weeks at the NIH Clinical Center. A safety evaluation will be performed before each dose including history, physical exam and laboratory tests.
+* Radiographic and endoscopic evaluation for response will be every 6 weeks while on study (6, 12, 18 and 24 weeks). The assessment at each timepoint will dictate further management (observation, continuation of therapy or surgery/ standard chemo/ chemoradiation).
+* After a maximum of 8 cycles (24 weeks):
+
+  * Participants with CR or nCR will be followed on a standardized surveillance protocol consisting of physical examination, cross-sectional imaging and flexible endoscopy.
+  * All other participants will be recommended to undergo surgical resection or will be referred for other standard treatments if available (i.e. chemotherapy or radiotherapy if indicated).

@@ -1,0 +1,39 @@
+Targeted Pathway Inhibition in Patients With Pancreatic Cancer
+This early phase I trial aims to determine how cobimetinib, olaparib, onvansertib, azenosertib, AZD5305 or tremelimumab works in patients with pancreatic cancer. Validation of cobimetinib, olaparib, onvansertib azenosertib, AZD5305 and tremelimumab molecular targets will be explored by comparing pre-treatment biopsies with post-treatment specimens. This knowledge will help design future biomarker driven trials to determine whether giving cobimetinib, or olaparib, or onvansertib or azenosertib, or AZD5305, or tremelimumab will work better than standard treatments in patients with pancreatic cancer.
+Locally Advanced Pancreatic Ductal Adenocarcinoma|Metastatic Pancreatic Ductal Adenocarcinoma|Stage II Pancreatic Cancer AJCC v8|Stage III Pancreatic Cancer AJCC v8|Stage IV Pancreatic Cancer AJCC v8|Unresectable Pancreatic Ductal Adenocarcinoma|Borderline Resectable Pancreatic Ductal Adenocarcinoma|Resectable Pancreatic Ductal Adenocarcinoma
+DRUG: Cobimetinib|DRUG: Olaparib|DRUG: Onvansertib|DRUG: Azenosertib|DRUG: Saruparib|BIOLOGICAL: Tremelimumab
+Proportion of all pharmacodynamic feasibility-evaluable participants within a study arm that have a measurable change in post-treatment tumor biology from baseline, Will be estimated with a 95% confidence interval (CI)., Changes in tumor biology from baseline (i.e., Day 0) and on-treatment biopsy (i.e., 10 days from start of study intervention)
+Incidence of >= grade 3 toxicities for each assigned window treatment (as described in sub-protocol), Assessed per Common Terminology Criteria for Adverse Events version 5.0. The 95% CI will be reported with the point estimate of toxicity rate. All grade 3+ acute toxicities will also be summarized with its grade., Up to 30 days
+PRIMARY OBJECTIVE:
+
+I. Independently assess the pharmacodynamic (PD) feasibility of detecting a measurable change in tumor biology at post-treatment from baseline (i.e., before the study treatment window) for all feasibility-evaluable participants in each study arm.
+
+SECONDARY OBJECTIVE:
+
+I. Assess preliminary safety and tolerability of the proposed study agent(s) in each study arm.
+
+EXPLORATORY OBJECTIVES:
+
+I. Identify predictive biomarkers of sensitivity to assigned study agent(s).
+
+II. Identify emerging mechanism(s) of resistance to assigned study agent(s).
+
+III. Determine cellular and molecular changes in pancreatic tumor cells exposed to assigned study agent(s).
+
+IV. Identify tumor markers suggestive of combinatorial therapy that could overcome resistance to therapy.
+
+OUTLINE: Patients are assigned to 1 of 6 arms.
+
+ARM Olaparib: Patients receive olaparib orally (PO) twice daily (BID) on days 1-10 in the absence of disease progression or unacceptable toxicity. Within 12-24 hours, patients undergo biopsy or surgery as clinically appropriate per institutional standards for management of patient's disease. (Arm Closed as of 8/12/2024)
+
+ARM Cobimetinib: Patients receive cobimetinib PO once daily (QD) on days 1-10 in the absence of disease progression or unacceptable toxicity. Within 12-24 hours, patients undergo biopsy or surgery as clinically appropriate per institutional standards for management of patient's disease. (Arm Closed as of 8/12/2024)
+
+ARM Onvansertib: Patients receive onvansertib PO QD on days 1-10 in the absence of disease progression or unacceptable toxicity. Within 12-24 hours, patients undergo biopsy or surgery as clinically appropriate per institutional standards for management of patient's disease. (Arm Closed as of 8/12/2024)
+
+ARM Azenosertib: Patients receive azenosertib PO QD on days 1-10 in the absence of disease progression or unacceptable toxicity. Within 12-24 hours, patients undergo biopsy or surgery as clinically appropriate per institutional standards for management of patient's disease.
+
+ARM AZD5305: Patients receive AZD5305 (saruparib) PO QD on days 1-10 in the absence of disease progression or unacceptable toxicity. Within 12-24 hours, patients undergo biopsy or surgery as clinically appropriate per institutional standards for management of patient's disease.
+
+ARM Tremelimumab: Patients receive tremelimumab intravenously (IV) over 60 minutes one-time. Within 12-24 hours of cycle completion, patients undergo biopsy or surgery as clinically appropriate per institutional standards for management of patient's disease.
+
+After completion of study treatment, patients are followed up for 12 months.

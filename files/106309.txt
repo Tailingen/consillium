@@ -1,0 +1,31 @@
+Copenhagen Master Observational Trial
+The primary objectives of this prospective non-interventional study (NIS) are to assess and describe outcomes in relation to biomarkers, including whole-genome sequencing (WGS) in patients with non- small cell lung cancer (NSCLC) or breast cancer receiving treatment offered in the clinic (standard of care or included in clinical trials).
+Non-small Cell Lung Cancer|Breast Cancer
+OTHER: NO intervention
+Progression free survival, Time from baseline to progression (measured using RECIST v1.1), 3 years|Patient reported outcomes, Health related quality of life. Two istruments will be used: EQ-5D-5L and EORTC QLQ-C30. The EQ-5D-5L will be administered at baseline and after each chemo cycle. The EORTC QLQ-C30 will be administered at baseline and 3 months after baseline., 3 years
+Overall survival, Time from baseline to death or censoring, 3 years|Treatment response, Treatment response will be measured using RECIST v1.1, 3 years|Adverse events, Adverse events will be measured using a selection of instruments from the NCI PRO-CTCAE Measurement System (Danish version 1.0).
+
+For patients with lung cancer, the selection includes question #8, 9, 15, 16, 19, 20, 24, 46, 48, 52, 53, 54, 56 as well as free text entry.
+
+For patients with breast cancer, the selection includes question #8, 15, 39, 46, 48, 52, 53, 54, 56 as well as free text entry., 3 years|Late effects, Late effects will be measured using a selection of instruments from the NCI PRO-CTCAE Measurement System (Danish version 1.0).
+
+For patients with lung cancer, the selection includes question #8, 9, 15, 16, 19, 20, 24, 46, 48, 52, 53, 54, 56 as well as free text entry.
+
+For patients with breast cancer, the selection includes question #8, 15, 39, 46, 48, 52, 53, 54, 56 as well as free text entry., 3 years
+To date, there have been few studies evaluating the day- to-day effects of non-small cell lung cancer (NSCLC), and advanced (ABC) or metastatic breast cancer (mBC) and its treatment on patients in a real-world setting. There is a gap between the data from the narrowly focused low-quantity, high-quality interventional studies and less granular data collection, high-quantity real world data (RWD). Therefore, prospective, observational trials including all patients independent of biomarkers and collecting comprehensive data on each are needed.
+
+Research question and objectives:
+
+* To describe treatment outcomes based on RWD by a complete set of clinical, socio-psychological, medico-economics data and biospecimens, including whole genome sequencing (WGS) of all patients with breast cancer and NSCLC.
+* To record the treatment-related adverse events and late effects experienced by patients based on PRO tools.
+* To perform refined biomarker analyses, including (but not limited to) whole genome sequencing, on tumor biopsies at baseline and at progression, in order to identify potential treatment targets.
+
+Study design: Prospective, non-interventional, multicenter study of patients initiating treatment for NSCLC or breast cancer in Copenhagen (Denmark).
+
+Population: Eligible patients will have breast cancer or NSCLC and acceptable performance status and organ function.
+
+Data sources: Study data will be collected via a baseline site questionnaire; Patient Reported Outcomes (PRO) questions via mobile application at cycle-based intervals; and patient medical information from medical records into an eCRF at baseline and at every visit until the end of the follow-up period. Baseline WGS will be performed on diagnostic/surgical specimens after informed consent according to the Danish law of the National Genome Center. There are no specific protocol-mandated tests, procedures, or clinic visits for this study, but repeat sequential biopsies for WGS are optional at progression. All data collection for this study will occur over a 30-months period (including all treatment lines for new patients included in the period).
+
+Study size: Up to 2400 patients diagnosed with NSCLC or breast cancer will be enrolled. Breast cancer patients will be enrolled at Rigshospitalet, and NSCLC at Rigshospitalet and Herlev Hospital. Any patient who meets the eligibility criteria will be invited to participate in the study. Eligibility will be assessed prior to enrollment during a scheduled visit.
+
+Data analysis: Analyses will generally be descriptive and explorative in nature and will be conducted using SPSS statistical software, and no sample size calculations can be performed. All variables will be summarized descriptively through tabular displays of mean, median, ranges, and standard deviations of continuous variables and frequency distributions of categorical variables. Exploratory analyses may be conducted to examine correlations and/or other research questions (e.g., time-to-first-neutropenia using Kaplan- Meier methods or mutational status and response). No formal hypothesis testing or comparisons between treatment groups are performed.

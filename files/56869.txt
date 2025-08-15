@@ -1,0 +1,42 @@
+Radiation Medication (Radium-223 Dichloride) Versus Radium-223 Dichloride Plus Radiation Enhancing Medication (M3814) Versus Radium-223 Dichloride Plus M3814 Plus Avelumab (a Type of Immunotherapy) for Advanced Prostate Cancer Not Responsive to Hormonal Therapy
+This phase I/II trial studies the best dose of M3814 when given together with radium-223 dichloride or with radium-223 dichloride and avelumab and to see how well they work in treating patients with castrate-resistant prostate cancer that had spread to other places in the body (metastatic). M3814 may stop the growth of tumor cells by blocking some of the enzymes needed for cell growth. Radioactive drugs, such as radium-223 dichloride, may carry radiation directly to tumor cells and not harm normal cells. Immunotherapy with monoclonal antibodies, such as avelumab, may help the body's immune system attack the cancer, and may interfere with the ability of tumor cells to grow and spread. This study is being done to find out the better treatment between radium-223 dichloride alone, radium-223 dichloride in combination with M3814, or radium-223 dichloride in combination with both M3814 and avelumab, to lower the chance of prostate cancer growing or spreading in the bone, and if this approach is better or worse than the usual approach for advanced prostate cancer not responsive to hormonal therapy.
+Metastatic Castration-Resistant Prostate Carcinoma|Metastatic Malignant Neoplasm in the Bone|Metastatic Malignant Neoplasm in the Lymph Nodes|Stage IVB Prostate Cancer AJCC v8
+DRUG: Avelumab|PROCEDURE: Biospecimen Collection|PROCEDURE: Bone Scan|PROCEDURE: Computed Tomography|PROCEDURE: Magnetic Resonance Imaging|DRUG: Peposertib|OTHER: Questionnaire Administration|RADIATION: Radium Ra 223 Dichloride
+Dose-limiting toxicity (Phase 1), Adverse events will be summarized as count and percentages, overall as well as by dose level/regimen, by severity, and by patient characteristics., Up to 28 days|Radiographic progression free survival (rPFS) (Phase 2), Empirical survival probabilities will be estimated by the Kaplan-Meier (KM) product limit method by arms and the survival difference between arms will be compared by 1-sided log rank test., Date of randomization to date of scan showing either skeletal or extraskeletal progression following Prostate Cancer Clinical Trials Working Group 3 methodology or death, assessed up to 2 years
+PFS, Will be similarly analyzed using the KM method, log rank test and univariate and multivariate Cox model as described for rPFS., From date of randomization to the event of disease recurrence/progression or death due to any cause, assessed up to 2 years|Overall survival (OS), OS will be similarly analyzed using the KM method, log rank test and univariate and multivariate Cox model as described for rPFS., From date of randomization to date of death due to any cause, assessed up to 2 years|Symptomatic skeletal event (SSE), Wiil be assessed per standardized case report form distinguishing between pathologic and non-pathologic fractures. SSE rate will be estimated using the KM estimates with 95% confidence interval., Up to 2 years post treatment|Incidence of toxicity and adverse events, Will be graded according to Common Terminology Criteria for Adverse Events (CTCAE) version 5.0., Up to 2 years post treatment
+Quality of life, The Patient Reported Outcomes-Common Terminology Criteria for Adverse Events (PRO-CTCAE) data will be evaluated for data quality, to characterize baseline symptom status of patients on study and the change over time, to explore the development of symptomatic adverse events (AEs) and the change over time, and to explore the patient scores with clinician graded AEs. PRO-CTCAE data will be summarized descriptively as the number (percent) of patients reporting each grade for individual items. Comparisons between the two treatment arms will be performed on a per question basis., Up to 2 years post treatment|Biomarker analysis, Gleason score at baseline will be grouped as =\< 6, 7 and \>= 8. Prostate specific antigen (PSA) at baseline will be classified as =\< 10, 10\~20 and \> 20 ng/mL. Categorical Gleason score, PSA will be summarized by counts and percentages. Fisher's exact test will be used to examine the distribution of Gleason score and PSA. Descriptive statistics will be used to summarize quantitative imaging/biomarker by arm. Multivariate Cox model will be applied to data across arms to examine the effect of Gleason score, pretreatment PSA, clinical stage etc. incorporated with adjusted hazard ratio reported with 95% confidence interval., Up to 2 years post treatment
+PRIMARY OBJECTIVES:
+
+I. To determine the maximum tolerated dose (MTD) of peposertib (M3814) in combination with radium-223 dichloride or in combination with radium-223 dichloride and avelumab in patients with advanced metastatic castrate-resistant prostate cancer (mCRPC) based on dose limiting toxicities (DLTs) in the doublet or triplet combinations. (Phase 1) II. Radiographic progression free survival (rPFS) will be evaluated based on both skeletal and extraskeletal progression following Prostate Cancer Working Group 3 (PCWG3) methodology. (Phase 2)
+
+SECONDARY OBJECTIVES:
+
+I. To determine the time to the first symptomatic skeletal event \[SSE\]. II. To determine the safety of radium-223 dichloride, M3814, and avelumab combination treatment.
+
+III. To observe and record anti-tumor activity. IV. To evaluate progression free survival (PFS) and overall survival (OS). V. To evaluate symptomatic skeletal events (SSE) per standardized case report form (CRF) distinguishing between pathologic and non-pathogenic fractures.
+
+VI. To explore patient-reported symptomatic adverse events (AE) for tolerability of each treatment arm.
+
+VII. To examine the radium-223 dichloride bio-distribution and absorbed dose in each bone metastatic lesions as well as elsewhere in the body including critical organs using dosimetry.
+
+EXPLORATORY OBJECTIVES:
+
+I. To perform molecular profiling assays on malignant and normal tissues, including, but not limited to, whole exome sequencing (WES), and messenger ribonucleic acid (RNA) sequencing (RNAseq), in order to:
+
+Ia. Identify potential predictive and prognostic biomarkers beyond any genomic alteration by which treatment may be assigned, and Ib. Identify resistance mechanisms using genomic deoxyribonucleic acid (DNA)- and RNA-based assessment platforms.
+
+II. To contribute genetic analysis data from de-identified biospecimens to Genomic Data Commons (GDC), a well annotated cancer molecular and clinical data repository, for current and future research; specimens will be annotated with key clinical data, including presentation, diagnosis, staging, summary treatment, and if possible, outcome.
+
+III. To bank plasma and peripheral immune cells from patients to assess predictive biomarkers of response at the Experimental Therapeutics Clinical Trials Network (ETCTN) biorepository at Nationwide Children's Hospital.
+
+IV. To correlate change in level of total alkaline phosphatase, bone-specific alkaline phosphatase, and serum osteocalcin to rPFS and OS.
+
+OUTLINE: This is a phase I, dose-escalation study of peposertib, followed by a phase II study. Patients are randomized to 1 of 3 arms.
+
+ARM A: Patients receive radium-223 dichloride intravenously (IV) over 1 minute on day 1. Treatment repeats every 28 days for up to 6 cycles in the absence of disease progression or unacceptable toxicity. Patients undergo blood sample collection, bone scan, and computed tomography (CT) or magnetic resonance imaging (MRI) throughout the study.
+
+ARM B: Patients receive radium-223 dichloride as in Arm A and peposertib orally (PO) once daily (QD) or twice daily (BID) on days 3-26. Treatment repeats every 28 days for up to 6 cycles in the absence of disease progression or unacceptable toxicity. Patients undergo blood sample collection, bone scan, and CT or MRI throughout the study.
+
+ARM C: Patients receive radium-223 dichloride IV as in Arm A and peposertib PO QD or BID as in Arm B. Patients also receive avelumab IV over 60 minutes on days 1 and 15 of cycles 2-6. Treatment repeats every 28 days for up to 6 cycles in the absence of disease progression or unacceptable toxicity. Patients undergo blood sample collection, bone scan, and CT or MRI throughout the study.
+
+After completion of study treatment, patients are followed up at 30 days and then every 3 months for up to 2 years.

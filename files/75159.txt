@@ -1,0 +1,40 @@
+Pembrolizumab, Endocrine Therapy, and Palbociclib in Treating Postmenopausal Patients With Newly Diagnosed Metastatic Stage IV Estrogen Receptor Positive Breast Cancer
+This phase II trial studies how well pembrolizumab works when given together with endocrine therapy and palbociclib in treating postmenopausal patients with newly diagnosed stage IV estrogen receptor positive breast cancer that has spread to other parts of the body (metastatic). Immunotherapy with monoclonal antibodies, such as pembrolizumab, may help the body's immune system attack the cancer, and may interfere with the ability of tumor cells to grow and spread. Estrogen can cause the growth of breast cancer cells. Fulvestrant blocks the use of estrogen by the tumor cells. Letrozole lowers the amount of estrogen made by the body. This may help stop the growth of tumor cells that need estrogen to grow. Palbociclib may stop the growth of tumor cells by blocking some of the enzymes needed for cell growth. Giving pembrolizumab, palbociclib, and letrozole or fulvestrant may be an effective treatment for patients with stage IV estrogen receptor positive breast cancer.
+Metastatic Breast Carcinoma|Stage IV Breast Cancer AJCC v6 and v7
+DRUG: Fulvestrant|OTHER: Laboratory Biomarker Analysis|DRUG: Letrozole|DRUG: Palbociclib|BIOLOGICAL: Pembrolizumab
+Response rate (complete response or partial response), Will be assessed using Response Evaluation Criteria in Solid Tumors (RECIST) version 1.1., Up to 24 months
+Incidence of adverse events, Assessed by National Cancer Institute Common Terminology Criteria for Adverse Events, version 4. Adverse events will be analyzed including but not limited to all adverse events (AEs), serious adverse events (SAEs), fatal AEs, and laboratory changes. Immune-related adverse events will also be collected., Up to 24 months|Complete response rate, Will be assessed using RECIST version 1.1., Up to 24 months|Duration of response, Will be assessed using RECIST version 1.1., Up to 24 months|Progression free survival, Assessed using RECIST version 1.1. Generated using Kaplan-Meier estimates., Up to 24 months|Overall survival, Assessed using RECIST version 1.1. Generated using Kaplan-Meier estimates., Up to 24 months|Time to treatment failure, Assessed using immune-related Response Evaluation Criteria in Solid Tumors (irRECIST). Generated using Kaplan-Meier estimates., Up to 24 months
+Tumor response, Will be assessed using irRECIST., Up to 24 months|Clinical benefit, Will be assessed using irRECIST., Up to 24 months
+PRIMARY OBJECTIVES:
+
+I. To evaluate the objective response rate (ORR), based on Response Evaluation Criteria in Solid Tumors (RECIST, version 1.1), of pembrolizumab in combination with letrozole and palbociclib in patients with newly diagnosed metastatic estrogen receptor (ER) positive (+) human epidermal growth factor receptor (HER)2 negative (-) breast cancer, and determine if the addition of pembrolizumab to letrozole and palbociclib combination can achieve an improved response rate (ORR = complete response \[CR\] + partial response \[PR\]) measured from the study baseline, based on RECIST version 1.1.
+
+II. To evaluate the clinical response rate (CR or PR via RECIST 1.1). (Cohort 3) III. To evaluate dynamic changes in host peripheral blood in predicting response to treatment: CD8+ EMRA T cells; CD4+ EM T cells; classic monocytes (CD14+ CD16-) and non-classic monocytes (CD14Dim- CD16+). (Cohort 3)
+
+SECONDARY OBJECTIVES:
+
+I. To determine the safety and tolerability of adding pembrolizumab (200 mg every 3 weeks) to letrozole (2.5 mg) and palbociclib (125 mg, 3 weeks on, one week off) in patients with metastatic ER+HER2- breast cancer.
+
+II. To evaluate the CR rate. III. To evaluate progression-free survival (PFS). IV. To evaluate overall survival (OS). V. To evaluate duration of response (DOR) using RECIST version 1.1. VI. To evaluate clinical benefit rate (CBR) using RECIST version 1.1. VII. To evaluate toxicities (using the National Cancer Institute \[NCI\] Common Terminology Criteria for Adverse Events \[CTCAE\], version 4.0) associated with the triple drug combination (pembrolizumab, letrozole, and palbociclib) in patients with metastatic ER+HER2- breast cancer.
+
+VIII. To evaluate CR, PR, ORR, PFS, DOR, and CBR using immune-related Response Criteria in Solid Tumors (irRECIST); time to treatment failure will also be assessed.
+
+IX. To further evaluate the safety/tolerability of the combination. (Cohort 3) X. To evaluate the PFS, DOR (time from documentation of tumor response to disease progression or death), overall survival (OS). (Cohort 3) XI. Cellular/humoral immune response by analyzing immune and stromal cell characteristics before and after treatment that correlate with clinical response. (Cohort 3) XII. Circulating tumor deoxyribonucleic acid (DNA) (ctDNA) changes. (Cohort 3)
+
+EXPLORATORY OBJECTIVES:
+
+I. To study cellular/humoral immune response by analyzing immune and stromal cell characteristics before and after treatment that correlate with clinical response; this includes programmed cell death 1 ligand 1 (PD-L1) expression levels.
+
+II. To study the peripheral serum thymidine kinase (TK) level and its association with treatment response.
+
+III. To study circulating tumor DNA (ctDNA) and the effect of combining pembrolizumab, letrozole, and palbociclib on ctDNA profiles.
+
+IV. To evaluate genomic and phenotypic status of breast tumor.
+
+OUTLINE: Patients are assigned to 1 of 2 cohorts.
+
+COHORTS 1 AND 2: Patients receive letrozole orally (PO) once daily (QD) on days 1-28 and palbociclib PO QD for 3 weeks. Cycles with letrozole and palbociclib repeat every 28 days in the absence of disease progression or unacceptable toxicity. Patients also receive pembrolizumab intravenously (IV) over 30 minutes on day 1. Cycles with pembrolizumab repeat every 21 days in the absence of disease progression or unacceptable toxicity. (CLOSED TO ACCRUAL)
+
+COHORT 3: Patients receive either letrozole PO QD on days -28 to -1 and days 1-28, or fulvestrant on days -28, -14, and day 1 of subsequent cycles. Patients also receive palbociclib PO QD for 3 weeks. Cycles with palbociclib, and letrozole or fulvestrant repeat every 28 days in the absence disease progression or unacceptable toxicity. Patients also receive pembrolizumab IV over 30 minutes on day 1. Cycles with pembrolizumab repeat every 21 days in the absence of disease progression or unacceptable toxicity.
+
+After completion of study treatment, patients are followed up at 30 days, every 6 months for 3 years, and then every 12 months for 1 year.

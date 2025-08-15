@@ -1,0 +1,51 @@
+A Dose Escalation Study of Carfilzomib Taken With Thalidomide and Dexamethasone in Relapsed AL Amyloidosis
+This study evaluates the safety and efficacy of carfilzomib used in combination with thalidomide and dexamethasone in patients with relapsed AL amyloidosis. The trial begins with a dose escalation phase, in which the maximum tolerated and recommended dose will be determined. The trial will then open into an expansion phase in which the combination efficacy is assessed.
+Amyloidosis
+DRUG: Carfilzomib|DRUG: Thalidomide|DRUG: Dexamethasone
+Number of Participants With Dose-Limiting Toxicities as Assessed by Reported Data, Dose-Limiting Toxicities (Dose escalation phase), between the time of receiving the first registered dose of carfilzomib in cycle 1 and day 1 cycle 2, in order to establish the Maximum Tolerated Dose (MTD) of carfilzomib in combination with thalidomide and dexamethasone, will be assessed based on reported data. The number of reported dose limiting toxicities will be reported., After 1 cycle of treatment; to be completed within 1 year.|Number of Participants Experiencing Grade 3 or 4 Toxicity as Assessed by CTCAE v4.0., The percentage of patients treated who experience any grade 3 or 4 toxicity as assessed by CTCAE v4.0 throughout all treatment cycles will be assessed based on reported data., Between informed consent provided and 30 days post last trial treatment administration, up to 7 months
+Clonal Response Rate Within 3 Months, at 3 Months, Within 6 Months and at 6 Months as Determined by Paraprotein and Free Light Chain Assessment., Participant clonal response rate within 3 months, at 3 months, within 6 months and at 6 months will be assessed. The percentage of participants who achieve at least a partial response will be reported.
+
+Clonal response is defined as:
+
+CR: Negative immunofixation of serum and urine (serum alone in anuric patients) AND normal FLC concentration and kappa/lambda FLC ratio (FLC ratio alone in renal failure) AND ≤5% plasma cells in bone marrow without clonality by immunohistochemistry or immunofluorescencea
+
+VGPR: \>90% reduction in serum paraprotein or abnormal component of FLC or dFLC over the starting value or dFLC \<40mg/L
+
+PR: ≥50% decrease in aberrant FLC concentration or dFLC (or ≥50% decrease in dFLC if renal failure) or serum paraprotein but not fulfilling criteria for CR or VGPR
+
+MR: \>25% but \<50% decrease in aberrant FLC or dFLC or paraprotein
+
+NR: Not meeting FLC criteria for CR, PR or MR, Within 3 months, at 3 months, within 6 months and at 6 months|Amyloidotic Organ Response Rate Within 3 Months and 6 Months Based on Biochemical, Electrocardiographical, and Radiographical Assessment., Amyloidotic organ response rate is assessed using the following criteria:
+
+Heart - Interventricular septal thickness decreased by 2 mm or 10% improvement in ejection fraction or a 30% and 35 pMol/L reduction in NT-ProBNP (only applicable if there is no change or \<25% improvement in renal function) or significant improvement in lateral wall TDI S wave and E/E' ratio
+
+Kidney - 50% decrease (at least 0.5 g/day) in 24-hr urinary protein loss (urine protein must be\>0.5 g/day pretreatment) without fall in creatinine clearance of ≥25% from baseline
+
+Liver - 50% decrease in abnormal alkaline phosphatase value or a decrease in liver size radiographically by at least 2 cm
+
+Nerve - Improvement in electromyogram nerve conduction velocity
+
+Soft tissue - Definite clinical and/or radiographic improvement with associated functional improvement in affected tissue.
+
+The percentage of patients who achieve organ response within 3 and 6 months of trial registration will be reported., Within 3 months and 6 months|Time to Amyloidotic Organ Response Based on Reported Data., The time to amyloidotic organ response (as outlined above) will be assessed based on reported data. The number of months this takes will be reported., Within 6 months|Number of Deaths at 6 Months Based on Reported Data., The number of deaths at 6 months will be assessed and reported based on reported data., 6 months|Number of Patients Progression-free at 6 Months Based on Reported Data., The number of patients who are progression-free at 6 months will be assessed based on reported data. Patients who are progression-free will have not had an haematological relapse or organ progression.
+
+Haematological relapse is defined as:
+
+From CR: Increase in the aberrant serum free light chain concentration to outside the normal range and by a factor of ≥2 from that at the time of CR or re-appearance of the original paraprotein
+
+From PR or VGPR: Increase in the aberrant free light chain concentration by a factor of ≥2 from that at the time of PR (≥50% change in ratio away from normal in patients with renal failure) or doubling of the serum paraprotein level (if starting \>5g/L) or doubling and increase of serum paraprotein to \>5g/L (if starting \<5g/L)
+
+Organ progression is defined, by organ, as:
+
+Heart: Interventricular septal thickness increased by \>2 mm compared with baseline or 20% decline in ejection fraction
+
+Kidney: 50% increase (at least 1 g/day) in 24-hr urinary, 6 months|Maximum Response Determined by Paraprotein and Free Light Chain Assessment., The maximum response to therapy will be determined by assessing the best reported response for each participant. Maximum response will be determined based on free light chain and paraprotein assessments by the National Amyloidosis Centre. The data will be reported using the response rates observed (complete, very good partial, partial, no response)., Within 6 months|Time to Maximum Response Based on Reported Data., The time to maximum response to treatment will be assessed by determining the time required for each participant to achieve maximum response (defined above), and will be presented on Kaplan-Meier curves. The number of months taken to achieve this maximum response will be reported. Time to maximum response was analysed overall only, and not by arm due the small sample size., Within 6 months|Number of Patients Withdrawing From Treatment Based on Reported Data., The number of patients withdrawing from treatment will be assessed based on reported data., Within 6 months|Number of Patients Experiencing Dose Delays Based on Reported Data., The number of patients experiencing dose delays will be assessed based on reported data., Within 6 months|Compliance Profile of KTD Based on Reported Chemotherapy Compliance Data., The compliant profile of participants to KTD will be assessed by determining the number of missed doses from recorded data. Participants will be regarded as compliant if participants have missed no more than 14 days of thalidomide, 2 days of dexamethasone, and 1 dose of carfilzomib per cycle. Compliance will be reported in terms of the number of participants who were compliant., Within 6 months
+Amyloidosis is a disorder of protein folding in which normally soluble proteins are deposited as abnormal, insoluble fibrils that progressively disrupt tissue structure and impair function. The treatment of systemic AL amyloidosis has evolved to a risk adapted approach based on the end organ damage, particularly cardiac involvement, and the functional status of the patient. Intensive therapies like high dose melphalan followed by an autologous stem cell transplant are considered for patients with limited organ involvement, younger age and excellent functional status.
+
+The majority of patients with AL amyloidosis, however, will not be candidates for ASCT and are generally treated with combination chemotherapy. This therapy may include bortezomib, a proteasome inhibitor which is particularly effective in AL amyloidosis but which may have a severe side-effect profile.
+
+Carfilzomib is specific for the chymotrypsin-like active site of the 20S proteasome, is structurally and mechanistically distinct from bortezomib, and has demonstrated less reactivity against non-proteasomal proteases when compared to bortezomib. It also appears to be better tolerated. However, information regarding the use of carfilzomib in the treatment of AL amyloidosis is limited.
+
+In the dose escalation phase of this study, a minimum of 6 (3 at dose level 0 and 3 at dose level -1)and a maximum of 18 (6 at dose level 0, 1, and 2) patients will recruited in a 3+3 design with cohorts of between 3 and 6 patients, in order to determine maximum tolerated dose and recommended dose.
+
+At the recommended dose level identified, a further 20 (minimum) patients will be recruited to further assess safety and toxicities at the RD.

@@ -1,0 +1,26 @@
+Cryoablation for the Treatment of Metastatic Cancer
+This interventional trial studies the effectiveness of adding cryoablation treatment in patients who are receiving standard of care immunotherapy to treat cancer that is has spread to other parts of the body (metastatic). Cryoablation uses a probe that freezes the tissue around the tumor to try to kill the cancer cells. Using cryoablation to treat cancerous lesions may help to kill the cancer cells.
+Metastatic Malignant Neoplasm
+PROCEDURE: Core Biopsy|PROCEDURE: Cryosurgery|DRUG: Immunotherapeutic Agent
+Best objective response (complete response or partial response), Will be determined by Immune-Modified Response Evaluation Criteria in Solid Tumors (iRECIST). Best objective response will be measured by the proportion of patients who achieve complete response (CR) + partial response (PR). The proportion of patients in the efficacy evaluable population who respond (i.e., have a best response of CR or PR) will be estimated along with the corresponding 95% confidence interval, using the Clopper-Pearson exact method., Up to 12 months post cryoablation
+Progression free survival (PFS), Will be determined by iRECIST. PFS will be calculated and plotted by Kaplan-Meier methods., Up to 2 years|Time to progression (TTP), Will be determined by iRECIST. TTP will be calculated and plotted by Kaplan-Meier methods, Up to 2 years|Time to progression on a ablated versus non-ablated basis, Ablated lesions time to progression will be determined b iRECIST and RECIST 1.1. Non-ablated lesion time to progression will be determined by iRECIST and RECIST 1.1. TTP will be calculated and plotted by Kaplan-Meier methods., Up to 2 years|Disease control rate (CR + PR + stable disease [SD]), Descriptive statistics will summarize disease control rate by iRECIST., Up to 2 years|Duration of stable disease, Descriptive statistics will summarize duration of stable disease by iRECIST., Up to 2 years|Duration of response, Descriptive statistics will summarize duration of response by iRECIST., Up to 2 years|Incidence of adverse events (AEs), AEs will be graded and categorized according to Common Terminology Criteria for Adverse Events (CTCAE) version 5. Counts and percentages of patients experiencing each adverse event as well as any grade 3 or higher event will be summarized., Up to 2 years|Overall survival (OS), OS will be calculated and plotted by Kaplan-Meier methods., From the date of study entry until death from any cause, assessed up to 2 years|Changes in T-effector cell populations, Will use a paired t test to determine if there is a difference in pre- and post immune cryoablation therapy in T-effector cell populations; T-regulatory populations; CD4 subsets; B cell populations; dendritic and macrophage populations. Will use scatterplots to demonstrate correlation between immunologic markers obtained in peripheral blood versus those obtained at the tissue level. A Pearson correlation will be estimated to describe the level of association., Baseline up to 12 months post cryoablation
+Immune parameters, Will assess various immune parameters in blood and tissue, including changes in immune cell composition and peripheral blood samples. Will use scatterplots to demonstrate correlation between immunologic markers obtained in peripheral blood versus those obtained at the tissue level. A Pearson correlation will be estimated to describe the level of association., Up to 2 years
+PRIMARY OBJECTIVE:
+
+I. To determine the effect of cryoablation on adaptive resistance to immunotherapy in metastatic cancer patients.
+
+SECONDARY OBJECTIVES:
+
+I. To assess additional efficacy response to treatment. II. To assess the safety and tolerability of cryoablation in this population. III. To compare the radiologic response of ablated and non-ablated lesions using Immune-Modified Response Evaluation Criteria in Solid Tumors (iRECIST) and RECIST 1.1.
+
+IV. To assess the immune effect of cryoablation on the non-ablated lesion using pre- and post-treatment biopsies.
+
+EXPLORATORY OBJECTIVE:
+
+I. To evaluate the immune microenvironment and systemic changes as a result of cryoablation with the goal of biomarker discovery.
+
+OUTLINE:
+
+Beginning 1 week prior to the next scheduled standard of care immunotherapy infusion, patients undergo core biopsy of the lesion to be ablated and a non-ablated lesion and also undergo cryoablation. Patients undergo a mandatory second core biopsy of the non-ablated lesion at 4 weeks after cryoablation.
+
+After completion of study, patients are followed up for 12 months after cryoablation and then periodically thereafter.

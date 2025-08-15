@@ -1,0 +1,67 @@
+OPTIMAL>60 / DR. CHOP, Improvement of Therapy of Elderly Patients with CD20+ DLBCL Using Rituximab Optimized and Liposomal Vincristine
+The purpose of this study is to improve the outcome of elderly patients with CD20-Aggressive B-Cell Lymphoma and to reduce the toxicity of standard used Immuno-Chemotherapy by using an optimised schedule of the monoclonal antibody Rituximab, substituting conventional by Liposomal Vincristine and by a PET-guided reduction of therapy in Combination with Vitamin D Substitution.
+CD20+ Aggressive B-Cell Lymphoma
+DRUG: Conventional Vincristine|DRUG: Liposomal Vincristine|DRUG: Ricover-scheme rituximab|DRUG: optimised rituximab-schedule
+Progression-free survival, "OPTIMAL\>60 Less Favourable": To test the effects of substitution of conventional by liposomal vincristine and of a 2-week applications of 8x rituximab by an optimised application of 12 x rituximab stratified log rank tests will be performed for each question (stratified for IPI-factors). Proportional hazard models will be used to investigate treatment interaction and to obtain estimates for the single treatment effects (HR) adjusting for the IPI-factors.
+
+"OPTIMAL\>60 Favourable" Grade of neurotoxicity will be estimated and indicated with a 95% confidence interval (CI) separated to each type of vincristine. To investigate the 3-year PFS with 95% CI the Kaplan-Meier estimator will be used., 9 years
+for efficacy: CR-rate, PR-rate, rate of primary progressions, relapse rate, EFS and OS; rate and CTC grades of PNP. Prognostic value of the FDG-PET derived imaging biomarkers for lymphoma load: SUV, MTV, TLG., Secondary endpoints: To analyze how (i. e. in which direction) and how often a pre-treatment FDG-PET-based assignment (PET-0) would have affected the assignment of a patient to a different stage, IPI risk group or treatment, respectively. The different FDG-PET derived imaging biomarkers for lymphoma load (SUV, MTV, TLG) will be analyzed for their relationship with CR-rate, PR-rate, rate of primary progressions, relapse rate, EFS, PFS and OS.
+
+To compare the efficacy and side effects of the (post-induction therapy FDG-PET-based) individualised treatment strategy in OPTIMAL\>60 with the fixed (pre-defined) treatment strategy in RICOVER-60.
+
+Rates and grades of polyneuropathy will be determined according to CTC-v4.03. Comparison of the patients without vitamin-D-substitution with patients receiving a vitamin-D-substitution., 9 years
+Primary objective of study:
+
+"OPTIMAL\>60 Less Favourable" Patients with less favourable prognosis: To test whether progression-free survival (PFS) can be improved by substituting conventional by liposomal vincristine; To test whether PFS can be improved by 12 optimised applications instead of 8 2-week applications of rituximab.
+
+"OPTIMAL\>60 Favourable": Patients with favourable prognosis: Comparison of neurotoxicity of conventional and liposomal vincristine; Determination of PFS for the treatment strategy of reducing treatment in patients with negative FDG-PET after 4 x R-CHOP/CHLIP-14 (PET-4) and comparison with the corresponding patient population in RICOVER-60.
+
+Secondary objectives: "OPTIMAL\>60 Favourable" and "OPTIMAL\>60 Less Favourable":
+
+Comparison of the prognostic value of a pre-treatment FDG-PET (PET-0) with conventional CT/MRT.
+
+Prospective evaluation on the role of (metabolic) tumor volume to confirm or refuse the hypothesis that optimized rituximab should improve the outcome of patients with a high (metabolic) tumor volume more than that of patients with low MTV and to analyse the substitution of conventional vincristine by liposomal. • Estimation of the vincristine-related neurotoxicity ("OPTIMAL\>60 Less Favourable only, since vincristine related neurotoxicity is primary objective of the study in favourable patients") and other toxicities (all patients).
+
+Determination of the therapeutic efficacy of a vitamin D substitution.
+
+Comparison of the FDG-PET-based individualised treatment strategy in OPTIMAL\>60 with the fixed (pre-defined) treatment strategy in RICOVER\>60.
+
+Investigation of the prognostic value of different FDG-PET derived imaging biomarkers for lymphoma load (SUV, MTV, TLG).
+
+Comparison of the vincristine related neurotoxicity before and after amendment 4.
+
+Comparison of CNS events before and after amendment 4. Comparison of the Cheson, Lugano and RECIL response criteria. Prospective evaluation of the improvement of the prognostic value of ECOG performance status during prephase treatment.
+
+Prospective evaluation of reference pathology biomarkes. Prospective evaluation of circulating tumor DNA (ctDNA), correlation and comparison with PET.
+
+Prospective evaluation of the role of 2 additional cycles of CHOP/CHLIP-14 and involved node radiotherapy in PET-positive patients after 4xR-CHOP/CHLIP-14 in favourable patients.
+
+Evaluation of the role of radiotherapy to PET-positive bulky disease patients after 6xR-CHOP/CHLIP-14 in less favourable patients.
+
+Quality assurance of the performed radiotherapy, including in in-field and outfield relapses.
+
+Investigation of the effect of cross-site ComBat harmonization. Analysis of FDG-PET derived biomarkers in combination with clinical and laboratory variables as distance of lesions and Ann-Arbor stage.
+
+Estimation of the prognostic value of a pre-treatment FDG-PET (PET-0) compared to conventional imaging with CT/MRT.
+
+Prospective evaluation of the prediction of the probability of time-to-progression (TTP) within 2 years by a convolutional neural network trained to analyze maximum intensity projection images from baseline PET.
+
+Analysis regarding molecular subtype, transcriptomics, methylome analysis, spatious analysis of interaction of tumor cells and microenvironment by cyTOF, 3D-morphology (AI-based) or similar techniques, viruses (EBV, HHV6, HHV7), micro-RNA in tumor samples.
+
+Analysis of ctDNA analysis by i) digital droplet PCR, ii) e.g. CAPP or similar methods and iii) methylome analysis as prognostic and predictive marker and comparison with imaging biomarkers.
+
+Analysis special focus on refractory, relapsed courses (including specific patterns of relapse regarding location and time) compared to matched controls and regarding comparison with imaging biomarkers.
+
+Analysis of specific BCR-antigens of aggressive B-NHL as Ars2, SAMD14/neurabin-I in tissue and blood. of initial samples of cases with refractory, relapsing course (including specific patterns of relapse regarding location and time).
+
+Analysis of factors influencing immune effector cells e.g.KIR2DS1 and homozygous HLA-C2, PRF1 A91V or other fHLH variants and prognostic and predictive markers in comparison to RICOVER-60.
+
+Investigation of possible prognostic, or predictive markers of treatment related toxicity as: Neurofilament light chain (NfL) to estimate vincristine-related neurotoxicity, or as clonal hematopoiesis with indeterminate potential (CHIP) and association with cardiovascular events.
+
+Investigation of specific concomitant medication and possible impact on outcome.
+
+Investigation of the efficacy of the modified mandatory infectious prophylaxis OPTIMAL compared to the RICOVER trial with a focus on mandatory chinolon prophylaxis.
+
+Investigation of COVID-19-reated events Impact of interval of diagnosis to time to treatment. Comparison with similar patient populations treated in real-world or prospective clinical trials.
+
+Analysis of EFS and PFS at 24 months (EFS24/PFS24) and its impact on subsequent outcome.

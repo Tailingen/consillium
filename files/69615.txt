@@ -1,0 +1,21 @@
+Functional Imaging of T-Cell Activation With [18F]F-AraG in Urothelial Carcinoma Patients Receiving Neoadjuvant Therapy or Patients With Cancer Receiving Standard of Care Anti-PD-1/L1
+This phase II trial studies how well fluorine F 18 Ara-G positron emission tomography (PET)/magnetic resonance (MR) imaging works in measuring clinical response to atezolizumab or patients with cancer receiving standard of care Anti-PD-1/L1. Diagnostic procedures, such as fluorine F 18 Ara-G PET/MR imaging, may help measure a patient's response to standard of care atezolizumab or Anti-PD-1/L1 treatment.
+Bladder Cancer
+DRUG: Fluorine F 18 Ara-G|PROCEDURE: Positron Emission Tomography|PROCEDURE: Magnetic Resonance Imaging
+Change Between Pre-treatment and Post-treatment SUVmax (Standardized Uptake Values) in the Primary and/or Metastatic Tumor(s) on Whole-body [18F]F-AraG Positron Emission Tomography/Magnetic Resonance (PET/MR) Imaging by Study Cohort., The nonparametric paired Wilcoxon Signed-rank test will be used to assess differences in SUVmax before and after treatment. The log2 ratio of post-treatment versus baseline SUVmax within the tumor and lymphoid tissues will also be calculated, Up to 2 weeks
+Compare Change in SUVmax of the Primary Tumor in Patients Who Achieve Pathologic Downstaging or Clinical Response and Those Without Pathologic or Clinical Response at Time of Surgery in Patients Receiving Neoadjuvant Atezolizumab (Cohort 1), To correlate change in SUVmax to clinical and/or pathologic response, patients will be divided into two groups: those who achieved clinical response and/or pathologic downs-staging, and those who did not. The median and interquartile range of change in SUVmax from baseline to pre-surgery in the different groups will be descriptively reported. For Cohort 1, clinical response will be determined by abdominal imaging performed \<30 days after the last dose of atezolizumab prior to cystectomy compared to baseline pre-treatment imaging using RECIST v1.1 criteria, as specified in the companion treatment protocol. For Cohort 1, pathologic response will be determined by evidence of down-staging (e.g. from muscle invasive to non-muscle invasive, or complete pathologic response) at the time of cystectomy., Up to 6 weeks|Change Between Pre-treatment and Post-treatment SUVmax in Lymphoid Organs on Whole-body [18F]F-AraG PET/MR Imaging (Cohort 1 and 2), Up to 8 days
+PRIMARY OBJECTIVES:
+
+I. To assess the change in fluorine F 18 Ara-G (\[18F\]F-AraG) uptake in primary and/or metastatic tumor(s) on whole-body \[18F\]F-AraG PET/MR imaging associated with neoadjuvant atezolizumab and standard of care (SOC) anti-PD-1 or anti-PD-L1 treatment.
+
+SECONDARY OBJECTIVES:
+
+I. To correlate change in \[18F\]F-AraG uptake within the primary tumor with clinical and pathologic response in patients treated with neoadjuvant atezolizumab. (Cohort 1) II. To assess \[18F\]F-AraG uptake in lymphoid organs before and after anti-PD-1 or anti-PD-L1 treatment. (Cohort 1 and 2)
+
+OUTLINE: Patients are assigned to 1 or 2 cohorts.
+
+COHORT I (NEOADJUVANT COHORT): Patients receive fluorine F 18 Ara-G intravenously (IV) and undergo PET/MR imaging over 1.5-3 hours within 7 days of starting standard of care atezolizumab and within 7 days before surgery.
+
+COHORT II (SOC COHORT): Patients receive fluorine F 18 Ara-G IV and undergo PET/MR imaging over 1.5-3 hours within 7 days of initiating course 1 of anti-PD-1 or anti-PD-L1 therapy and between day 15 of course 1 and day 7 of course 2 of anti-PD-1 or anti-PD-L1 treatment.
+
+After completion of study, patients are followed up at days 2 and 8.

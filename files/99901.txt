@@ -1,0 +1,38 @@
+Osimertinib and Tegavivint As First-Line Therapy for the Treatment of Metastatic EGFR-Mutant Non-small Cell Lung Cancer
+This phase Ib trial is to find out the best dose, possible benefits and/or side effects of osimertinib and tegavivint as first-line therapy in treating patients with EGFR-mutant non-small cell lung cancer that has spread to other places in the body (metastatic). Osimertinib and tegavivint may stop the growth of tumor cells by blocking some of the enzymes needed for cell growth.
+Metastatic Lung Non-Small Cell Carcinoma|Stage IV Lung Cancer AJCC V8|Stage IVA Lung Cancer AJCC V8|Stage IVB Lung Cancer AJCC V8
+DRUG: Osimertinib|DRUG: Tegavivint
+Maximum tolerated dose, Up to 28 days
+Overall response rate (ORR), Defined as patients with complete or partial response using Response Evaluation Criteria in Solid Tumors (RECIST) version (v)1.1. will be calculated as the proportion of patients who achieve a response to therapy divided by the total number of evaluable patients. An evaluable patient is defined as an eligible patient who has received at least one dose of therapy. All evaluable patients will be included in calculating the ORR for the study along with corresponding 95% binomial confidence intervals (CIs) (assuming that the number of patients who respond is binomially distributed)., Up to 4 years|Progression free survival, Survival will initially be modeled using Kaplan-Meier methods, resulting in median survival times with 95% CI, assuming sufficient events have occurred., From initiation of therapy to disease progression or death, assessed up to 4 years|Duration of response, From objective response to disease progression or death, assessed up to 4 years|Overall survival, Survival will initially be modeled using Kaplan-Meier methods, resulting in median survival times with 95% CI, assuming sufficient events have occurred., From start of treatment until death of any cause, assessed up to 4 years
+Tegavivint (BC2059) pharmacokinetics (PK), Assessed by BC2059 drug levels following combination therapy with BC2059 and AZD9291 in patients with metastatic EGFR activating mutation positive non-small cell lung cancer (NSCLC)., Pre-dose on day 1 of cycles 1, 8, and 15 and day 22 of cycle 1, 96 hours after treatment on days 5 and 19 of cycle 1 and, 4 hours after treatment on day 15 cycle 1|Osimertinib (AZD9291) PK, Assessed by AZD9291 drug levels following combination therapy with BC2059 and AZD9291 in patients with metastatic EGFR activating mutation positive NSCLC., Pre-dose on day 1 of cycles 1, 8, and 15 and day 22 of cycle 1 and 30 minutes, 1.5 hours, and 4 hours on day 15 cycle 1|Β-catenin pathway activity, Will be evaluated by measuring serum levels of the secreted transcriptional targets, PAI1 and MMP7 pre- and post-treatment. EGFR and Notch3/B-catenin expression, cellular localization, and pathway activity will also be assessed in voluntary serial tumor biopsies using immunohistochemical analysis., Up to 4 years|Circulating tumor deoxyribonucleic acid (ctDNA), Will be assessed pre- and posttreatment to evaluate for clearance, as well as at time of progression to assess for changes in EGFR mutation status., Up to 4 years|Fludeoxyglucose F 18 (18F-FDG) positron emission tomography (PET) imaging, Assessed by static (standardized uptake value \[SUV\]max, average SUV, tumor-to-background ratio, metabolic tumor volume, total lesion glycolysis) and dynamic (net influx rate constant and glucose metabolic rate at 30 and 60 minutes) parameters will be assessed in patients with metastatic EGFR activating mutation positive NSCLC. 18F-FDG-PET parameters will also be summarized at baseline and after treatment using mean +/- SEM, range, and median. The changes in the FDG-PET/computed tomography parameter measurements from baseline to after treatment will be compared between responders and non-responders using two sample t-test or Wilcoxon test, whichever is appropriate. Logistics regression model might also be used to identify potential predictive and prognostic biomarkers beyond any genomic alteration with response to study drugs., Baseline to 4 years
+PRIMARY OBJECTIVE:
+
+I. Assess the safety and tolerability of osimertinib (AZD9291) in combination with tegavivint (BC2059) in patients with metastatic EGFR-mutant non-small lung cancer (NSCLC) and determine the recommended phase 2 dose (RP2D).
+
+SECONDARY OBJECTIVES:
+
+I. Determine the objective response rate (ORR) in patients with metastatic EGFR-mutant NSCLC treated with the combination of AZD9291 and BC2059.
+
+II. Determine the progression free survival (PFS) in patients with metastatic EGFR-mutant NSCLC treated with the combination of AZD9291 and BC2059.
+
+III. Determine the duration of response (DOR) in patients with metastatic EGFR-mutant NSCLC treated with the combination of AZD9291 and BC2059.
+
+IV. Determine the overall survival (OS) in patients with metastatic EGFR-mutant NSCLC treated with the combination of AZD9291 and BC2059.
+
+CORRELATIVE/EXPLORATORY OBJECTIVES:
+
+I. Evaluate biomarkers of EGFR, Notch3, and beta-catenin pathway activity in tumor biopsies and blood samples.
+
+II. Assess the pharmacokinetics (PK) of AZD9291 and BC2059 in patients with metastatic EGFR-mutant NSCLC.
+
+III. Assess circulating tumor deoxyribonucleic acid (DNA) (ctDNA) at baseline, following 2 and 4 weeks of treatment to evaluate for clearance, and at time of progression to assess for changes in EGFR mutation status.
+
+IV. Measure response using computed tomography (CT) tumor volumetry and dynamic positron emission tomography (PET)/CT.
+
+V. Identify a gene signature that may be predictive of treatment response or resistance using ribonucleic acid (RNA) sequencing of tumor tissue.
+
+OUTLINE:
+
+Patients receive osimertinib orally (PO) once daily (QD) on days 1-28 and tegavivint intravenously (IV) on day 1. Treatment repeats every 28 days for 4 cycles in the absence of disease progression or unacceptable toxicity. Patients then receive osimertinib PO QD on days 1-28. Treatment repeats every 28 days for 4 cycles in the absence of disease progression or unacceptable toxicity.
+
+After completion of study treatment, patients are followed up for 30 days and then for 4 years.

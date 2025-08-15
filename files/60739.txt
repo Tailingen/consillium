@@ -1,0 +1,26 @@
+Docetaxel, Oxaliplatin, Capecitabine, Fluorouracil, and Radiation Therapy in Treating Patients With Locally Advanced Cancer of the Esophagus or Gastroesophageal Junction
+This randomized phase II trial studies how well docetaxel, oxaliplatin, capecitabine, fluorouracil, and radiation therapy works compared with fluorouracil when given together with oxaliplatin and radiation therapy in treating patients with cancer of the esophagus or gastroesophageal junction that has spread from where it started to nearby tissue or lymph nodes. Drugs used in chemotherapy, such as docetaxel, oxaliplatin, capecitabine, and fluorouracil, work in different ways to stop the growth of tumor cells, either by killing the cells, by stopping them from dividing, or by stopping them from dividing. Radiation therapy uses high-energy x-rays to kill tumor cells. Giving more than one drug (combination chemotherapy) together with radiation therapy before surgery may make the tumor smaller and reduce the amount of normal tissue that needs to be removed.
+Adenocarcinoma of the Gastroesophageal Junction|Esophageal Cancer|Gastric Cancer
+DRUG: capecitabine|DRUG: docetaxel|DRUG: fluorouracil|DRUG: oxaliplatin|RADIATION: radiation therapy|PROCEDURE: therapeutic conventional surgery
+Percentage of Participants With Pathologic Complete Response (PCR), Pathologic complete response was defined as no gross or microscopic tumor identified with the surgical specimen. All lymph nodes should be free of tumor to document a PCR. If no gross tumor is visible, section around the area of inflammation (nodularity) should be made every 2-3 cm and specimens examined., Up to 2 years
+Overall Survival, Overall survival was defined as the time from randomization to the time of death from any cause. Overall survival was censored at the date of last follow-up visit for patients who are still alive or loss of follow-up., Up to 2 years|Disease-free Survival, Disease-free survival was defined as the time from randomization to the date of recurrent or death, whichever comes first., Up to 2 years|Number of Participants Who Experienced a Maximum Grade of 3 or Above Adverse Event, Adverse events were assessed using National Cancer Institute Common Terminology Criteria for Adverse Events (CTCAE) version 4.0., Up to 2 years|Percentage of Participants With Overall Clinical Tumor Response (CR or PR), Overall clinical tumor response rate was defined as the percentage of evaluable participants who achieved either complete response (CR) or partial response (PR) noted on the objective status from pre-surgical staging (for arm II) or either from pre-RT or pre-surgical staging (for arm I).\> CR was defined as disappearance of all non-target lesion (TL) and normalization of tumor biomarker level, all lymph nodes (LN) must be non-pathological in size (\<1 cm short axis); or disappearance of all TL and normalization of tumor biomarkers, any pathological LN (whether target or non-target) must have reduction in short axis to \<1 cm; or \>=30% decrease in the sum of the diameters of TL taking as reference the baseline sum of the diameters., Up to 2 years
+PRIMARY OBJECTIVES:
+
+I. To assess and compare the pathologic complete response (PCR) rate of patients in Arm A receiving the sequence docetaxel, oxaliplatin, and capecitabine (DOC) followed by 5-fluorouracil (5-FU), oxaliplatin, and radiation therapy (RT) with patients in Arm B receiving only 5-FU, oxaliplatin and RT in patients with potentially resectable adenocarcinoma (ACA) of the esophagus, gastroesophageal junction (GEJ), or gastric cardia.
+
+SECONDARY OBJECTIVES:
+
+I. To assess the adverse event (AE) profile and safety of the proposed treatment in this population.
+
+II. To assess and compare the overall survival (OS) between treatment arms. III. To assess and compare the disease-free survival between treatment arms. IV. To assess and compare the clinical tumor response rate of the proposed regiments when administered before surgery between treatment arms.
+
+OUTLINE: Patients are randomized to 1 of 2 treatment arms.
+
+ARM I: Patients receive docetaxel intravenously (IV) over 1 hour and oxaliplatin IV over 2 hours on day 1. Patients also receive capecitabine orally (PO) twice daily (BID) on days 1-14. Treatment repeats every 21 days for 2 courses in the absence of disease progression or unacceptable toxicity. After completion of the second course, patients receive fluorouracil\* IV continuously on days 1-5 and oxaliplatin IV over 2 hours on days 1, 15, and 29. Patients also undergo radiotherapy\*\* 5 days a week for 5.5 weeks in the absence of disease progression or unacceptable toxicity. Approximately 4-12 weeks after completion of radiotherapy, patients undergo surgery.
+
+ARM II: Patients receive fluorouracil IV continuously on days 1-5 and oxaliplatin IV over 2 hours on days 1, 15, and 29. Patients also undergo radiotherapy and then surgery as in Arm I.
+
+* NOTE: \* Fluorouracil continuous IV infusion begins within 24 hours of radiotherapy and ends within 24 hours of radiotherapy completion.
+* NOTE: \*\* Radiotherapy should begin within 2-6 weeks after completion of 2 courses of docetaxel, oxaliplatin, and capecitabine.
+
+After completion of study treatment, patients are followed up every 3 months for 2 years.

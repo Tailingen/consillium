@@ -1,0 +1,44 @@
+Using the Anticancer Drug Olaparib to Treat Relapsed/Refractory Acute Myeloid Leukemia or Myelodysplastic Syndrome With an Isocitrate Dehydrogenase (IDH) Mutation
+This phase II trial studies how well olaparib works in treating patients with acute myeloid leukemia that has come back (relapsed) or does not respond to treatment (refractory), or myelodysplastic syndrome. Patients must also have a change in the gene called the IDH gene (IDH mutation). Olaparib may stop the growth of cancer cells by blocking some of the enzymes needed for cell growth.
+Acute Myeloid Leukemia|Acute Myeloid Leukemia Arising From Previous Myelodysplastic Syndrome|Acute Myeloid Leukemia Post Cytotoxic Therapy|Recurrent Acute Myeloid Leukemia|Recurrent Myelodysplastic Syndrome|Refractory Acute Myeloid Leukemia|Refractory Myelodysplastic Syndrome
+PROCEDURE: Biospecimen Collection|PROCEDURE: Bone Marrow Aspiration|DRUG: Olaparib
+Cumulative Overall Response Rate (ORR), Will be evaluated by Myelodysplastic Syndrome International Working Group (IWG) 2006 criteria (Cheson et al., 2006) and acute myeloid leukemia (AML) IWG 2003 criteria (Cheson et al., 2003) after 6 cycles of treatment. Cumulative ORR will include complete remission (CR), complete remission with incomplete blood count recovery (CRi), partial response (PR), and bone marrow complete remission (marrow CR) achieved at least at one point during these 6 cycles., Up to 6 cycles
+ORR, The effectiveness of the drug in patients for each cohort will be independently assessed by ORR. The exact two-sided 95% confidence intervals (CI) for the ORR will be reported. The CI based on the Greenwoods variance will be reported., Up to 12 months|Progression-free Survival (PFS), Will be estimated using the Kaplan-Meier method with the 95% CIs. The CI based on the Greenwoods variance will be reported. In addition, the possible risk factors will be compared for survival with log-rank test. For multivariate analysis, the proportional hazards Cox model will be applied to investigate potential prognostic factors, such as age and stage of disease on the survival data. The adjusted p-values of the odds ratios and the adjusted 95% confidence interval will be reported., From first day of therapy to the time of documentation of progression, death of any cause, or last follow-up, whichever comes first, assessed up to 12 months|Overall Survival (OS), Will be estimated using the Kaplan-Meier method with the 95% CIs. The CI based on the Greenwoods variance will be reported. In addition, the possible risk factors will be compared for survival with log-rank test. For multivariate analysis, the proportional hazards Cox model will be applied to investigate potential prognostic factors, such as age and stage of disease on the survival data. The adjusted p-values of the odds ratios and the adjusted 95% confidence interval will be reported., From first day of therapy to the time of death or last follow-up, whichever comes first, assessed up to 12 months|Duration of Response (DOR), From first documentation of response to the time of documentation of progression, death of any cause, or last follow-up, whichever comes first, assessed up to 12 months|Incidence of Adverse Events, Non-hematologic toxicity will be evaluated by Common Terminology Criteria for Adverse Events version 5 criteria. Presented are the count of those that experienced at least one non-serious adverse event., Up to 12 months
+Change in 2-hydroxyglutarate (2HG) Levels, The Mann-Whitney U test will be used to test for differences in post-treatment plasma 2HG concentrations between patients with a response to treatment and those without. Will also test for differences in Delta2HG (defined as pre-treatment minus post-treatment plasma concentration) between patients with a response to treatment and those without. Differences with p =\< 0.05 will be considered significant. The area under the receiver operating characteristic curve (ROC AUC) will be calculated to determine the cutoff value of the Delta2HG difference. The optimal cutoff value will be determined at the point on the ROC curve at (sensitivity + specificity - 1) is maximized., Up to 12 months|Minimal Residual Disease (MRD) Assessment, Will define MRD based on the variation of the variant allele frequency of the IDH1/2 mutation in the bone marrow of the patients before and during therapy. Will evaluate two different variables: MRD negativity (defined by the absence of detection of the IDH mutant in the sample) and the molecular response (defined by the log reduction of the frequency of the mutant allele). MRD negativity is a qualitative variable and will be reported as a percentage with 95% confidence interval for each time point and mutation. Will compare the different groups using a Chi-Square test. Molecular response is a quantitative variable reported as a median, min and max for each time point and we will use a student t test for the comparison of the different groups., Up to 12 months|Mutant Allele Frequency, Will be estimated using Poisson distribution model as the fraction of positive reads divided by total reads containing a target. The limit of detection will be defined for each mutation as the mean value of IDH1/2 wild-type controls plus three standard deviations., Up to 12 months
+PRIMARY OBJECTIVE:
+
+I. To determine the rate of complete response (CR) to olaparib using a composite CR endpoint (CR + CR with incomplete hematologic response \[CRi\] + CR with partial hematologic response \[CRh\]) in subjects with isocitrate dehydrogenase (IDH)1/2 mutant myelodysplastic syndrome (MDS) or IDH1/2-mutant acute myeloid leukemia (AML).
+
+SECONDARY OBJECTIVES:
+
+I. To determine the overall response rate (ORR) to olaparib using a composite ORR endpoint (CR + morphologic leukemia-free state \[MLFS\] + partial response \[PR\]) in patients with IDH mutant AML or MDS treated with olaparib.
+
+II. To establish the progression free survival (PFS) of patients with IDH mutant AML or MDS treated with olaparib.
+
+III. To determine the overall survival (OS) of patients with IDH mutant AML or MDS treated with olaparib.
+
+IV. To establish the duration of response (DOR) to treatment with olaparib. V. To evaluate the safety and tolerability of olaparib in AML or MDS patients.
+
+EXPLORATORY OBJECTIVES:
+
+I. To establish a relationship between treatment response and correlative studies such as plasma and bone marrow 2-hydroxyglutarate (2HG) levels, and IDH variant allele frequency.
+
+II. To evaluate persistence of double strand breaks in IDH 1/2 mutant AML or MDS.
+
+III. To evaluate response to therapy in the different IDH mutant genotypes.
+
+IV. To perform molecular profiling assays on malignant and normal tissues, including, but not limited to, whole exome sequencing (WES), ribonucleic acid (RNA) sequencing (RNAseq) order to:
+
+IVa. Identify potential predictive and prognostic biomarkers beyond any genomic alteration by which treatment may be assigned.
+
+IVb. Identify resistance mechanisms using genomic deoxyribonucleic acid (DNA)- and RNA-based assessment platforms.
+
+V. To contribute genetic analysis data from de-identified biospecimens to Genomic Data Commons (GDC), a well annotated cancer molecular and clinical data repository, for current and future research; specimens will be annotated with key clinical data, including presentation, diagnosis, staging, summary treatment, and if possible, outcome.
+
+VI. To bank blood and bone marrow aspirate obtained from patients at the EET Biobank at Nationwide Children's Hospital.
+
+OUTLINE:
+
+Patients receive olaparib orally (PO) twice daily (BID) on days 1-28. Cycles repeat every 28 days in the absence of disease progression or unacceptable toxicity, or absence of remission after 6 cycles for patients without prior exposure to IDH inhibitors. Patients also undergo bone marrow aspiration and collection of blood throughout the study.
+
+After completion of study treatment, patients are followed up at 90 days and then every 3 months until death.

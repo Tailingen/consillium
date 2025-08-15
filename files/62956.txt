@@ -1,0 +1,41 @@
+Testing Immunotherapy (Atezolizumab) With or Without Chemotherapy in Locoregional MSI-H/dMMR Gastric and Gastroesophageal Junction (GEJ) Cancer
+This phase II trial compares atezolizumab in combination with chemotherapy (docetaxel, oxaliplatin, leucovorin calcium, fluorouracil, capecitabine) to atezolizumab alone for controlling the growth and/or spreading of the disease in patients with gastric or gastroesophageal junction (JEG) cancer that has not spread from where it first started (local) or only has spread to nearby lymph nodes or tissue (locoregional) and has high microsatellite instability (MSI-H) and mismatch repair deficiency (dMMR). The mismatch repair (MMR) system in the body corrects errors made during the copying of DNA and serves as a proofreading function. If this system isn't working correctly, mutations (changes) in DNA occur which can allow the cancer to grow or spread. This is called dMMR (deficient mismatch repair) . MSI-H describes cancer cells that have a high number of mutations within microsatellites. For example, microsatellite testing that shows mutations in 30% or more microsatellites is called microsatellite instability-high (MSI-H). Microsatellites are short, repeated sequences of DNA. There is evidence that MSI-H/ dMMR gastric or GEJ tumors respond well to immunotherapy. Immunotherapy with monoclonal antibodies, such as atezolizumab, may help the body's immune system attack the cancer, and may interfere with the ability of tumor cells to grow and spread. Docetaxel is in a class of medications called taxanes. It stops tumor cells from growing and dividing and may kill them. Oxaliplatin is in a class of medications called platinum-containing antineoplastic agents. It damages the cell's DNA and may kill tumor cells. Capecitabine is in a class of medications called antimetabolites. It is taken up by tumor cells and breaks down into fluorouracil, a substance that kills tumor cells. Chemotherapy drugs such as leucovorin calcium and fluorouracil work in different ways to stop the growth of tumor cells, either by killing the cells, by stopping them from dividing, or by stopping them from spreading. Using atezolizumab as immunotherapy with and following chemotherapy versus atezolizumab alone prior to and after surgery may shrink or stabilize the tumor in patients with MSI-H/dMMR localized gastric or GEJ cancer and may increase the length of time after treatment that cancer does not come back or get worse.
+Clinical Stage I Gastric Cancer AJCC v8|Clinical Stage I Gastroesophageal Junction Adenocarcinoma AJCC v8|Clinical Stage II Gastric Cancer AJCC v8|Clinical Stage II Gastroesophageal Junction Adenocarcinoma AJCC v8|Clinical Stage III Gastric Cancer AJCC v8|Clinical Stage III Gastroesophageal Junction Adenocarcinoma AJCC v8|Clinical Stage IVA Gastric Cancer AJCC v8|Clinical Stage IVA Gastroesophageal Junction Adenocarcinoma AJCC v8|Gastric Adenocarcinoma|Gastroesophageal Junction Adenocarcinoma
+BIOLOGICAL: Atezolizumab|PROCEDURE: Biospecimen Collection|DRUG: Capecitabine|PROCEDURE: Computed Tomography|DRUG: Docetaxel|PROCEDURE: Echocardiography Test|DRUG: Fluorouracil|DRUG: Leucovorin Calcium|PROCEDURE: Lymphadenectomy|PROCEDURE: Magnetic Resonance Imaging|DRUG: Oxaliplatin|PROCEDURE: Positron Emission Tomography|PROCEDURE: Surgical Procedure
+Event-free survival (EFS), EFS is defined as the time from randomization to an unfavorable event. Hence, occurrences such as local, resectable recurrences, patients' refusal for surgery of resectable tumor, or patients' undergoing definitive therapy such as salvage surgery would not be counted as events for EFS., From randomization to systemic progression of disease that precludes surgery or distant recurrence, or death due to any cause, assessed up to 3 years
+Tumor regression grade (TRG), Will be assessed in the primary tumor using Becker's grading criteria. Fisher's exact test will be used to compare the TRG across the arms., Up to 10 years|Overall survival (OS), The stratified log rank test will be used to compare OS across the arms., From randomization to death from any cause, assessed up to 10 years|Incidence of adverse events, All adverse events will be graded using the National Cancer Institute Common Terminology Criteria for Adverse Events version 5.0. Formal comparison (hypothesis testing) of toxicity rates across the arms is not a primary goal of this trial and the sample size of 240 patients will provide sufficient power for detecting only relatively large differences in adverse events., Up to 10 years|Circulating tumor-derived deoxyribonucleic acid (ctDNA), The proportion of ctDNA clearance on each arm would be correlated with time-to-event (EFS and OS) and binary (TRG) data of the trial. For correlating ctDNA clearance rates and time-to-event data, cox-regression would be used to estimate the correlation magnitude. For correlating ctDNA and binary data, proportions of ctDNA clearances will be compared., Up to 10 years
+PRIMARY OBJECTIVE:
+
+I. To compare three-year event-free survival (EFS) following the administration of perioperative atezolizumab and chemotherapy versus atezolizumab alone in patients with resectable microsatellite instability-high (MSI-H)/mismatch repair deficiency (dMMR) gastric and gastroesophageal junction (GEJ) cancer.
+
+SECONDARY OBJECTIVES:
+
+I. To assess tumor regression grade (TRG) rates following the administration of perioperative atezolizumab and chemotherapy versus atezolizumab in patients with resectable MSI-H/dMMR gastric and gastroesophageal junction (GEJ) cancer.
+
+II. To assess overall survival (OS) following the administration of perioperative atezolizumab and chemotherapy versus atezolizumab in patients with resectable MSI-H/dMMR gastric and gastroesophageal junction (GEJ) cancer.
+
+III. To assess the toxicity associated with the administration of perioperative atezolizumab and chemotherapy versus atezolizumab in patients with resectable MSI-H/dMMR gastric and gastroesophageal junction (GEJ) cancer.
+
+IV. To correlate circulating tumor-derived deoxyribonucleic acid (ctDNA) clearance (defined as \> 50% reduction or a reduction to undetectable levels) with TRG, EFS and OS.
+
+OUTLINE: Patients are randomized to 1 of 2 arms.
+
+ARM A:
+
+NEOADJUVANT THERAPY: Patients receive physician's choice of chemotherapy regimen consisting of 4 cycles of docetaxel intravenously (IV), oxaliplatin IV, leucovorin calcium IV, and fluorouracil IV (FLOT) or 4 cycles of oxaliplatin IV, leucovorin calcium IV, and fluorouracil IV (mFOLFOX) or 3 cycles of oxaliplatin IV and capecitabine orally (PO) (CAPOX) in addition to atezolizumab IV on study.
+
+SURGERY: Patients undergo surgery with lymphadenectomy on study.
+
+ADJUVANT THERAPY: Patients receive FLOT, mFOLFOX, or CAPOX and atezolizumab IV as in Neoadjuvant Therapy and then receive atezolizumab IV alone.
+
+ARM B:
+
+NEOADJUVANT THERAPY: Patients receive 3 cycles of atezolizumab IV on study.
+
+SURGERY: Patients undergo surgery with lymphadenectomy on study.
+
+ADJUVANT THERAPY: Patients receive 9 cycles of atezolizumab IV on study.
+
+All patients also undergo computed tomography (CT) or magnetic resonance imaging (MRI) throughout the trial. Patients may optionally undergo positron emission tomography (PET)/CT and/or collection of blood samples throughout the trial. Patients may also undergo echocardiography (ECHO) throughout the trial as clinically indicated.
+
+Patients are followed up for 10 years from the date of randomization.

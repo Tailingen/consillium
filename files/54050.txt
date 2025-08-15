@@ -1,0 +1,15 @@
+Comparison of Chemoradiotherapy and Chemoradiotherapy Combined With Consolidation Chemotherapy for ESCC
+This study is a phase III, multicenter, prospective randomized controlled clinical study comparing the efficacy of non-surgical esophageal squamous cell carcinoma with radical chemoradiotherapy and radical chemoradiotherapy combined with consolidation chemotherapy. The survival time and side effects of patients were observed and compared.
+Esophageal Squamous Cell Carcinoma|Chemotherapy Effect|Side Effect of Drug
+COMBINATION_PRODUCT: Consolidation chemotherapy (4 courses)|COMBINATION_PRODUCT: Concurrent chemotherapy (2 courses)
+3-years overall survival (OS), Overall survival was measured from the initiation of chemotherapy to the date of the last follow-up or death., up to 3 years|5-years overall survival (OS), Overall survival was measured from the initiation of chemotherapy to the date of the last follow-up or death., up to 5 years
+3-year progression-free survival (PFS), The PFS was calculated from the initiation of chemotherapy to the date of disease progression or death., up to 3 years|Objective response rate (ORR) Objective response rate (ORR), Proportion of patients with reduction in tumor burden of a predefined amount, including complete remission and partial remission, through study completion, an average of 36 month|5-year progression-free survival (PFS), The PFS was calculated from the initiation of chemotherapy to the date of disease progression or death., up to 5 years
+Test grouping:
+
+Group A: radical chemoradiotherapy group; Group B: radical chemoradiotherapy combined with consolidation chemotherapy group;
+
+Specific chemotherapy regimens:
+
+Concurrent chemotherapy (2 courses): Lipusu (T) + Cisplatin (DDP) scheme: T 135mg/m2 ivgtt, d1, 3week\*2cycles; DDP 75mg/m2 ivgtt, d2, 3week\*2cycles; Consolidation chemotherapy (4 courses): After the concurrent chemoradiotherapy is over, after 2-3 weeks of rest, the patients in the consolidation chemotherapy group will be given 4 cycles of consolidation chemotherapy, and the chemotherapy regimen is the same as the concurrent chemotherapy regimen; Radiotherapy scheme: intensity modulated radiotherapy PTV50-54Gy, PGTV 56-60Gy, conventional fractionation.
+
+Primary efficacy endpoints: 3-year overall survival (OS), 5-year overall survival (OS) Secondary efficacy endpoints: 3-year progression-free survival (PFS), 5-year progression-free survival (PFS), objective response rate (ORR), disease control rate (DCR), toxic and side effects, and patient quality of life

@@ -1,0 +1,59 @@
+Delphinus SoftVue Prospective Case Collection - ARM 2
+The SoftVue™ is a whole breast ultrasound system with an automated scanning curvilinear ring-array transducer that employs UST. It is currently cleared under FDA 510(k) K123209 and K142517 for use as both a B-mode ultrasonic breast imaging system and color imaging of transmission data (sound speed and attenuation). SoftVue™ is not intended to be used as a replacement for screening mammography.
+
+SoftVue uses non-ionizing ultrasound energy to generate tomographic image volumes of the whole breast. While the patient lays prone on a padded table with one breast comfortably submerged in a bath of warm water, a ring-shaped transducer, 22 cm in diameter, encircles the breast and pulses low-frequency sound waves through the water and into the breast tissue. More than 2000 elements in the curvilinear transducer's 360 degree array emit and receive ultrasound signals to analyze echoes from the breast anatomy in all directions, from the chest wall to the nipple. Not only does SoftVue capture data from the reflection of the sound waves off of tissue boundaries and structures within the breast, but because the transducer surrounds the whole breast, SoftVue also captures signals that are transmitted through the breast. This additional transmission data enhances the visualization of the anatomic structure of the breast tissue and is not currently available in any other commercially marketed breast ultrasound device.
+
+This prospective, multicenter, multi-arm, clinical case collection program is IRB-approved and will be conducted in compliance with Good Clinical Practice, the Declaration of Helsinki and all applicable regulatory requirements. Arm 2 aims to collectively enroll up to 1,000 women at a total of up to 8 clinical sites. The design of Arm 2 in this protocol is strictly limited to case collection and is non-interventional; any investigational and/or statistical plans for future analyses will be prepared and registered separately, if they are applicable to the requirements of FDAAA 801.
+
+Arm 2 is limited to the cohort of diagnostic female patients of any breast density composition category, who have been recommended for a breast biopsy (BI-RADS 4 or 5) after diagnostic imaging, or who have confirmed imaging findings. Matched sets of diagnostic imaging and SV exams, from the same patient, demographic information, and clinical outcome data, will be collected during diagnostic workup. Ultrasound characteristics for all types of lesions, whether they are benign or malignant, will be collected as well as objective and subjective breast density composition data. Ultrasound image data may be acquired with modified SoftVue devices, which have passed safety and quality evaluations per Delphinus' quality management system (QMS) and satisfy design change control standards, at select clinical sites in accordance with 21 CFR 812.2 (b), as a routine part of feasibility, validation, and verification testing for engineering and product development purposes.
+
+The exams and clinical data accumulated in this prospective case collection (PCC) protocol will populate a database from which future investigations may be designed for peer reviewed publication, development of user training curricula, building teaching case, and creating new marketing materials for SoftVue.
+Breast Neoplasms
+OTHER: Non-Interventional|DEVICE: Automated Whole Breast Ultrasound
+No Breast Cancer, Non-Cancer cases, confirmed by normal or negative breast imaging findings or concordant breast biopsy with benign pathology., Current Diagnostic Evaluation Episode, 0 to 60 Days|Breast Cancer, Cancer cases, confirmed by breast biopsy with malignant pathology, Current Diagnostic Evaluation Episode, 0 to 60 Days
+MEDICAL DEVICES:
+
+* SoftVue™ (SV) automated whole breast ultrasound system, 510(k) Cleared for B-Mode ultrasound breast imaging, manufactured by Delphinus Medical Technologies.
+* SoftVue™ with device modifications (software, hardware, user-interface), safety-tested for human use to complete feasibility, verification, and validation testing as a routine part of product development and performed in accordance with FDA 21 CFR 812.2 (b), manufactured by Delphinus Medical Technologies.
+* Full-field digital mammography (FFDM), FDA Approved for breast screening and diagnosis, various manufacturers. (If clinically indicated)
+* Digital breast tomosynthesis (DBT), FDA Approved for breast screening and diagnosis, various manufacturers.
+* Handheld Ultrasound (HHUS), FDA-Cleared for diagnostic breast imaging, various manufacturers. (If clinically indicated)
+* Other diagnostic tests and medical device examinations of the breast, including, but not limited to MRI, BSGI, PET, biopsy, and elastography, on the order of a licensed physician, when clinically indicated.
+
+OBJECTIVES:
+
+* Primary: To establish a library of cases for use in future SoftVue™ research studies, user training, and marketing.
+* Secondary: Determine the frequency and severity of adverse events (AEs) to further evaluate the safety of SoftVue.
+
+ENDPOINTS:
+
+From multiple clinical sites whichever comes first:
+
+• Up to 1,000 total enrolled subjects
+
+SITES:
+
+At least six (≥ 6) qualified clinical sites in the United States
+
+* MQSA Certified
+* Digital Breast Tomosynthesis Screening Program Implemented
+* Academic, Community Hospital, or Private Practice Setting
+
+PROJECT DESIGN AND PROCEDURES:
+
+* Potential participants will be recruited from the group of women presenting for diagnostic evaluation or biopsy at multiple clinical sites.
+* All participants will complete the same standard care diagnostic evaluations that were recommended by a physician
+* Eligible patients will receive a SV scan at the time of their scheduled diagnostic appointments, preferably prior to biopsy
+* Investigators at the sites will compare SV images to the accompanying diagnostic images and pathology results
+* No clinical SV interpretation will be performed and no clinical interventions will be made or changed based on SV images
+* All evaluation results, diagnosis and treatment outcomes will be recorded
+* Cancer status for all participants will be surveyed from program entry until and including the completion of physician recommended diagnostic workup
+* A case will be determined cancer negative if the participant has non-malignant breast biopsy findings or confirmed non-suspicious diagnostic breast imaging findings
+* A case will be determined cancer positive if a pathological evaluation confirms a breast cancer diagnosis (malignancy)
+
+STATISTICAL ANALYSIS:
+
+* Demographic characteristics (age, race, and ethnicity) and other baseline characteristics (e.g., project arm, project site, breast density, lesion-specific characteristics) will be tabulated for all participants.
+* A flow diagram or table will illustrate patient disposition ("accountability of patient cohort") including reasons for ineligibility and/or unevaluability.
+* Safety will be summarized for all enrolled women. With the exception of anticipated events, adverse events (AEs) and serious adverse events (SAEs), occurring from the time of enrollment (SoftVue) and for 24 hours following the conclusion of the SoftVue exam, will be recorded.
+* A separate statistical plan will be developed for any future analysis that includes justification of sample size and, if applicable to the requirements of FDAAA 801, will be registered separately in order to share the results.

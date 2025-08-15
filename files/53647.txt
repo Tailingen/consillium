@@ -1,0 +1,77 @@
+Methods of T Cell Depletion Trial (MoTD)
+A multi-centre phase II trial of GvHD prophylaxis following unrelated donor stem cell transplantation comparing Thymoglobulin vs. Calcineurin inhibitor or Sirolimus-based post-transplant cyclophosphamide.
+Acute Myeloid Leukemia|Acute Lymphoblastic Leukemia|Chronic Myelomonocytic Leukemia|Myelodysplastic Syndromes|Non Hodgkin Lymphoma|Hodgkin Lymphoma|Multiple Myeloma|Chronic Myelogenous Leukemia|Myelofibrosis
+DRUG: Thymoglobulin|DRUG: Cyclophosphamide|DRUG: Cyclosporine|DRUG: Sirolimus|DRUG: Mycophenolate Mofetil
+GVHD-free, relapse-free survival, GVHD assessment scoring will be performed as per the modified Glucksberg criteria (revised by MAGIC) and the National Institutes of Health (NIH) criteria. GvHD-free, relapse-free survival (GRFS) defined as the time from date of day 0 (defined as the day of stem cell infusion) to the date of first event or death from any cause. An event is defined as GvHD (both acute and chronic), relapse or progression. Patients who are alive and event free at the end of the trial will be censored at their date of last follow-up, at 1 year
+Cumulative incidence of acute grade II-IV and III-IV GvHD, GVHD assessment scoring will be performed as per the modified Glucksberg criteria (revised by MAGIC) and the National Institutes of Health (NIH) criteria. GvHD-free, at 1 year|Cumulative incidence of moderate and severe chronic GvHD, GVHD assessment scoring will be performed as per the modified Glucksberg criteria (revised by MAGIC) and the National Institutes of Health (NIH) criteria. GvHD-free, at 1 year|Cumulative incidence of NRM, Non-relapse mortality (NRM) is defined as the time from day 0 to date of non-relapse death. Patients who die post-relapse from any other cause will be considered a competing risk and patients alive at the end of the trial will be censored at their date last seen., at 1 year|Overall survival, Overall survival (OS) is defined as the time from day 0 to date of death, from any cause. Patients who are alive at the end of the trial will be censored at their date last seen., at 1 year|Progression-free survival, Progression-free survival (PFS) is defined as the time from day 0 to date of first relapse/progression or death from any cause. Patients who are alive and progression free at the end of the trial will be censored at their date last seen., at 1 year|Immune suppression-free survival, Immune suppression-free survival is defined as time from day 0 to the date of first immunosuppressive agent use. Patients who are alive and immune suppression free at the end of the trial will be censored at their date last seen, at 1 year|Cumulative incidence of engraftment, Cumulative incidence of engraftment defined as time from day 0 to date of engraftment (Neutrophil engraftment defined to be the first of 3 consecutive days a neutrophil count ≥ 0.5×〖10〗\^9/L is reached and platelet engraftment defined to be the first of 3 consecutive days an unsupported platelet count ≥ 20×〖10〗\^9/L is reached). Patients who relapse/progress or die prior to relapse, progression or engraftment will be considered a competing risk at their date of relapse/progression for the former and date of death for the latter. Patients alive and engraftment free at the end of the trial will be censored at their date last seen., at 1 year|The incidence of full donor chimerism, Engraftment will be assessed by lineage specific chimerism measurements. Lineage specific chimerism in both whole blood and T-cell compartments (where possible) will be assessed as per local procedure, performed at 3 monthly intervals for the first 12 months post-transplant; at day 100 and then months 6, 9 and 12. Tests should be performed in local laboratories., at 100 days|The cumulative incidence of infection requiring inpatient admission, The cumulative incidence of infection requiring inpatient admission measured by blood test and tissue culture at 1 year, at 1 year|The number of inpatient days, The sum of inpatients days, during first 12 months|The timing of mixed chimerism, persistent disease or relapse, We will be recording the time (days, post-transplant) whenever mixed chimerism, persistent disease or relapse occurred post transplant, during first 12 months|Cumulative incidence of EBV-related PTLD, Measured by blood sample, EBV PCR testing., during first 12 months|The number of doses of Rituximab administered for EBV reactivation, We will collect the number of doses every time the patient will receive Rituximab whenever there is EBV reactivation, during first 12 months|QoL measured by FACT-BMT questionnaire, QoL measured by FACT-BMT questionnaire at baseline, 6 months and 12 months. FACT-BMT Questionnaire uses Units on a scale 0-4, higher scores mean a better outcome., at baseline, 6 months and 12 months|Cumulative incidence of patients with haemorrhagic cystitis, Cumulative incidence of patients with haemorrhagic cystitis measured by blood and urine sample at 1 year, at 1 year|Cumulative incidence of CMV viremia and CMV end-organ disease, Cumulative incidence of CMV viremia and CMV end-organ disease measured by blood sample at 1 year, at 1 year|Safety defined as the incidence of ≥ grade 3 toxicities reported as per the National Cancer Institute Common Terminology Criteria for Adverse Events (NCI CTCAE) V4.0, . Safety defined as the incidence of ≥ grade 3 toxicities reported as per the National Cancer Institute Common Terminology Criteria for Adverse Events (NCI CTCAE) v4.0. Details of all AEs will be documented and reported from the date of commencement of protocol defined treatment until 28 days after the administration of the last dose of IMP. Serious AEs will be reported from the date of consent., from the date of commencement of protocol defined treatment until 28 days after the administration of the last dose of IMP.|Tolerability defined to be the number of patients able to complete therapy as scheduled, Tolerability defined to be the number of patients able to complete therapy as scheduled (excluding any patients who discontinued treatment due to toxicities, during first 12 months|Dose of Donor lymphocyte infusion (DLI) for mixed chimerism, persistent disease or relapse, We will be collecting the dose of DLI (CD3 Cells/kg) whenever required for mixed chimerism, persistent disease or relapse, during first 12 months
+This is a prospective, phase II, adaptive, multicentre, randomised clinical trial in patients undergoing reduced intensity conditioned (RIC) unrelated donor allogeneic stem cell transplantation (allo-SCT). The trial will compare the novel graft-versus-host disease (GvHD) prophylaxis regimens of post-transplant cyclophosphamide (PTCy) + Calcineurin inhibitor (CNI) (PTCy-CNI) or PTCy + Sirolimus to a current standard-of-care involving the use of T-cell depletion with Thymoglobulin. Patients will be minimised at randomisation by their randomising centre, disease risk score (low/intermediate or high/very high) and human leukocyte antigen (HLA) match (10/10 or 9/10). Patients eligible for entry into the trial will be randomised on a 1:1:1 ratio to receive either one of the experimental treatment arms or the control arm.
+
+The primary objective is to compare GvHD-free, relapse-free Survival (GRFS) in patients treated with the GvHD prophylaxis regimens PTCy-CNI, PTCy-Sirolimus or T-cell depletion with Thymoglobulin.
+
+The secondary objectives are to evaluate the cumulative incidence of acute GvHD (aGvHD), the cumulative incidence of moderate and severe chronic GvHD (cGvHD), the cumulative incidence of non-relapse mortality (NRM), overall survival (OS), progression-free survival (PFS), immune suppression-free survival, the cumulative incidence of engraftment, the incidence of full donor chimerism, the cumulative incidence of infection requiring inpatient admission, the number of inpatient days, the timing and dose of donor lymphocyte infusion (DLI), the cumulative incidence of Epstein-Barr virus (EBV) related-post transplant lymphoproliferative disease (PTLD), the number of doses rituximab administered for EBV reactivation, quality of life (QoL), the cumulative incidence of haemorrhagic cystitis, the cumulative incidence of cytomegalovirus (CMV) viraemia and CMV end-organ disease and safety and tolerability.
+
+The scientific research will address the questions about how plasma biomarkers for GvHD predict GvHD and non-relapse mortality following T-cell depleted methods of transplantation and how the different methods of T-cell depletion impact on immune function and re-constitution.
+
+Outcome Measures
+
+Primary Outcome Measure:
+
+• GvHD-free, relapse-free survival at 1 year
+
+Secondary Outcome Measures:
+
+* Cumulative incidence of acute grade II-IV and III-IV GvHD at 1 year
+* Cumulative incidence of moderate and severe chronic GvHD at 1 year
+* Cumulative incidence of NRM at 1 year
+* Overall survival at 1 year
+* Progression-free survival at 1 year
+* Immune suppression-free survival at 1 year
+* Cumulative incidence of engraftment at 1 year
+* The incidence of full donor chimerism at 100 days
+* The cumulative incidence of infection requiring inpatient admission at 1 year
+* The number of inpatient days during first 12 months
+* The timing and dose of DLI for mixed chimerism, persistent disease or relapse
+* Cumulative incidence of EBV-related PTLD
+* The number of doses of rituximab administered for EBV reactivation during first 12 months
+* QoL measured by FACT-BMT questionnaire at baseline, 6 months and 12 months
+* Cumulative incidence of patients with haemorrhagic cystitis at 1 year
+* Cumulative incidence of CMV viremia and CMV end-organ disease at 1 year
+* Safety defined as the incidence of ≥ grade 3 toxicities reported as per the National Cancer Institute Common Terminology Criteria for Adverse Events (NCI CTCAE) v4.0
+* Tolerability defined to be the number of patients able to complete therapy as scheduled
+
+Exploratory Outcome Measures:
+
+The scientific research will address the following questions:
+
+1. Do plasma biomarkers for GvHD predict GvHD and non-relapse mortality following T-cell depleted methods of transplantation?
+2. Do PTCy methods increase T cell receptor repertoire diversity (as measured by TCR DNA sequencing) compared to ATG-based T cell depletion?
+3. How do the different methods of T-cell depletion impact upon donor Treg reconstitution?
+4. How do the different methods of T-cell depletion impact upon thymic function as evaluated by measurement of recent thymic emigrants?
+5. Are PTCy methods of TCD associated with better preservation of virus-specific immunity (as measured by tetramer or ex vivo functional immune responses)?
+
+Patient Population
+
+Adults considered suitable for an allo-SCT with the following haematological malignancies will be recruited to this trial:
+
+* Acute Myeloid Leukaemia (AML)
+* Acute lymphoblastic leukaemia (ALL)
+* Chronic myelomonocytic leukemia (CMML)
+* Myelodysplastic syndromes (MDS)
+* Non-Hodgkin lymphoma (NHL)
+* Hodgkin lymphoma (HL)
+* Multiple myeloma (MM)
+* Chronic lymphocytic leukaemia (CLL)
+* Chronic myeloid leukaemia (CML)
+* Myelofibrosis
+
+Sample Size:
+
+Up to 400 patients will be randomised to the MoTD trial across IMPACT centres.
+
+Trial Duration:
+
+Patients will be recruited over 48 months. Patients will be followed up for a minimum of 1 year.
+
+MoTD Trials Office Contact Details:
+
+MoTD trials office, Centre for Clinical Haematology, Queen Elizabeth Hospital, Edgbaston, Birmingham, B15 2TH Tel: 0121 371 7858 Email: MoTD@trials.bham.ac.uk

@@ -1,0 +1,12 @@
+Role of Gut Microbiome in Cancer Therapy
+This study examines how gut microbiome can affect cancer therapy in cancer patients undergoing cancer therapy or stem cell transplant. The human microbiome affects the way some cancer drugs are metabolized in the human body. Information from this study may help doctors improve the way cancer treatment is delivered, and increase its effectiveness and success.
+Hematopoietic and Lymphoid Cell Neoplasm|Malignant Solid Neoplasm
+PROCEDURE: Biospecimen Collection|OTHER: Electronic Health Record Review
+Gut microbiome associations with cancer diagnoses, Will be done using Shogun pipeline for metagenomics data followed by analysis using QIIME 2.0., Through study completion, average of 1 year|Associations between microbial community abundances and clinical outcomes, Will use a linear multivariate regression model specifically developed for microbiome data (MaAsLin, Multivariate microbial Association by Linear models., Through study completion, average of 1 year
+PRIMARY OBJECTIVE:
+
+I. To correlate gut microbiome with specific cancer diagnoses and the clinical response (efficacy), and adverse effects of cancer therapy (single or multiple) and stem cell transplant.
+
+OUTLINE:
+
+Patients undergo collection of blood and stool samples and have their medical records reviewed.

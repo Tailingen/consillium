@@ -1,0 +1,17 @@
+DNA Methylation Biomarkers to Predict Survival After Surgery for Lung Adenocarcinoma
+This study is designed to assess DNA 5-methylcytosine (5mC) methylation modifications in lung adenocarcinoma (LUAD) samples and develop a prognosis-predictive model for LUAD based on cancer tissue DNA 5mC levels. The research will link post-surgical recurrence and survival outcomes to the DNA 5mC profiles of patients. By collaborating with two hospitals in China, this multicentral study will utilize over three years of prognostic data from LUAD patients to validate the model's accuracy. Additionally, the research aims to explore the potential of the model in guiding adjuvant treatment strategies by comparing the differences in outcomes between high-risk patients who receive further treatment and those who do not. This study aspires to enhance future treatment planning for LUAD patients, providing personalized and effective therapeutic options based on precise prognostic predictions.
+Lung Adenocarcinoma|Surgery|Prognostic Cancer Model
+Overall survival, Subjects will be divided into high-risk and low-risk groups based on the DNA methylation model. The overall survival (OS) of these two groups will be compared to determine if there is a significant difference. Additionally, we will analyze whether there are significant differences in OS between high-risk and low-risk groups that received further treatment and those that did not., 4years and/or 5years after surgery completion
+Disease-free survival, Subjects will be divided into high-risk and low-risk groups based on the DNA methylation model. The disease-free survival (DFS) of these two groups will be compared to determine if there is a significant difference. Additionally, we will analyze whether there are significant differences in DFS between high-risk and low-risk groups that received further treatment and those that did not., 4-year and/or 5-year after surgery completion
+* Model Development
+
+  * The methylation data will be analyzed to identify specific 5mC methylation patterns associated with post-surgical recurrence and survival outcomes.
+  * A prognostic model will be developed based on these methylation profiles to predict LUAD prognosis.
+* Model Validation
+
+  * Clinical data from LUAD patients at two hospitals in China, including over three years of follow-up information, will be used to validate the accuracy and reliability of the prognostic model.
+  * Statistical methods will be applied to assess the model's predictive power and its ability to accurately stratify patients into different risk categories.
+* Exploration of Follow-up and Adjuvant Therapy Guidance
+
+  * The study will compare outcomes between high-risk patients who receive additional adjuvant treatment and those who do not, based on the risk categories identified by the prognostic model.
+  * This comparison aims to explore the model's potential in guiding adjuvant therapy decisions, ultimately enhancing personalized treatment strategies and improving survival rates for LUAD patients.

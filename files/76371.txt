@@ -1,0 +1,25 @@
+Temsirolimus and Dexamethasone in Treating Patients With Recurrent or Refractory Multiple Myeloma
+This phase I trial is studying the side effects and best dose of temsirolimus when given together with dexamethasone in treating patients with recurrent or refractory multiple myeloma. Temsirolimus may stop the growth of cancer cells by blocking some of the enzymes needed for cell growth. Drugs used in chemotherapy, such as dexamethasone, work in different ways to stop the growth of cancer cells, either by killing the cells or by stopping them from dividing. Giving temsirolimus together with dexamethasone may kill more cancer cells.
+Refractory Multiple Myeloma|Stage I Multiple Myeloma|Stage II Multiple Myeloma|Stage III Multiple Myeloma
+DRUG: dexamethasone|DRUG: temsirolimus|OTHER: laboratory biomarker analysis
+Maximum tolerated dose of temsirolimus, The MTD is the dose level at which less than 2 out of 6 subjects experience DLT. Assessed according to the NCI Common Toxicity Criteria (CTC)., Course 1 (first 28 days)|Toxicity and safety, The description and grading scales found in the revised NCI Common Terminology Criteria for Adverse Events (CTCAE) version 3.0 will be utilized for AE reporting., Continuously from start of treatment study
+Correlation between response to treatment with temsirolimus and the degree of p70 inhibition in peripheral blood mononuclear cells and in multiple myeloma (MM) cells, We will examine a scatter plot of the absolute and Percent change in PBMNC versus the absolute and percent change in BM. Spearman (non-parametric) and Pearson (parametric) correlation coefficients and linear and/or spline smoothing regression on either the original or a transformed scale will be used to assess the relationship. We will compare mean and median levels in those who respond versus those who do not using the Wilcoxon rank sum test and we will report the percent of overlap in P70 between the two groups. Assessed using analysis of variance methods or their non-parametric analog., Every 4 weeks|Correlation between response to treatment with temsirolimus and the degree of pre-treatment AKT activation in MM cells, Assessed by immunohistochemistry (IHC). We will first carry out a bivariate assessment of AKT percent positivity versus the binary outcome of response versus no response to treatment. For AKT score, we will compare mean and median levels in those who respond versus those who do not using the Wilcoxon rank sum test and we will report the percent of overlap in AKT between the two groups., Every 4 weeks|Correlation between response to treatment with temsirolimus and the degree of PTEN expression in MM cells, PTEN expression will be determined by IHC. We will first carry out a bivariate assessment of PTEN score versus the binary outcome of response versus no response to treatment. For PTEN variables, we will report the corresponding contingency table versus response and use Wilcoxon test to assess the association if applicable., Every 4 weeks|Correlation between response to treatment with temsirolimus and the presence of RAS mutations, We will first carry out a bivariate assessment of RAS mutational status versus the binary outcome of response versus no response to treatment. For RAS variables, we will report the corresponding contingency table versus response and use Fishers exact test to assess the association., Every 4 weeks|Correlation between response to treatment with temsirolimus and the presence of myc mutations, We will first carry out a bivariate assessment of MYC mutational status versus the binary outcome of response versus no response to treatment. For MYC variables, we will report the corresponding contingency table versus response and use Fishers exact test to assess the association., Every 4 weeks
+PRIMARY OBJECTIVES:
+
+I. To assess the toxicity and safety of temsirolimus in combination with dexamethasone in patients with recurrent or refractory multiple myeloma.
+
+II. To assess a dose of temsirolimus that is capable of inhibiting the mammalian target of rapamycin (mTOR) in myeloma tumor cells.
+
+SECONDARY OBJECTIVES:
+
+I. To assess the efficacy of temsirolimus in combination with dexamethasone in these patients.
+
+II. To correlate the efficacy of this regimen with molecular characteristics of the individual tumor clones.
+
+OUTLINE: This is a multicenter, dose-escalation study of temsirolimus.
+
+Patients receive temsirolimus intravenously (IV) over 30 minutes once weekly on days 1, 8, 15, and 22 and oral dexamethasone once on days 1, 2, 8, 9, 15, 16, 22, and 23. Courses repeat every 28 days in the absence of disease progression or unacceptable toxicity.
+
+Patients undergo bone marrow aspiration and blood sample collection periodically for correlative studies. Correlative studies include analysis of p70S6 kinase activity in peripheral blood mononuclear cells and in multiple myeloma cells; analysis of the degree of AKT phosphorylation and degree of PTEN expression in multiple myeloma cells by immunohistochemistry; Ras mutational analysis; and Myc 5'UTR mutational analysis.
+
+After completion of study treatment, patients are followed for 4 weeks.

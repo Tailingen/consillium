@@ -1,0 +1,28 @@
+Irinotecan, Oxaliplatin, and Capecitabine as First-Line Therapy in Treating Patients With Metastatic or Unresectable Locally Advanced Small Bowel Cancer
+This phase II trial studies how well giving irinotecan hydrochloride together with oxaliplatin and capecitabine works as first-line therapy in treating patients with metastatic or unresectable locally advanced small bowel cancer. Drugs used in chemotherapy, such as irinotecan hydrochloride, oxaliplatin, and capecitabine, work in different ways to stop the growth of tumor cells, either by killing the cells or by stopping them from dividing. Giving more than one drug (combination chemotherapy) may kill more tumor cells.
+Small Intestine Adenocarcinoma|Recurrent Small Intestine Cancer
+DRUG: capecitabine|DRUG: irinotecan hydrochloride|DRUG: oxaliplatin
+Confirmed Tumor Response Rate (Proportion of Participants With Complete Response), Evaluated using RECIST version 1.0. Confirmed tumor response rate was defined as achieving partial response (PR) or complete response (CR) in two consecutive assessments at least 6 weeks apart. CR is complete disappearance of all target lesions and PR is at least a 30% decrease in the sum of longest diameter (LD) of target lesions, taking as reference baseline sum LD. The confirmed response rate is reported as the number of participants with confirmed responses divided by the number of evaluated participants., 36 weeks
+Overall Survival, Overall survival will be defined as the time from registration to death. Patients lost to follow-up for this endpoint will be censored at the date of last contact (i.e., last known alive). The distribution of overall survival will be estimated using Kaplan-Meier methodology., Up to 2 years|Progression Free Survival, Time to disease progression is defined as the time from registration to the earlier of documentation of disease progression or death. Progression is defined using Response Evaluation Criteria In Solid Tumors Criteria (RECIST v1.0), as a 20% increase in the sum of the longest diameter of target lesions, or a measurable increase in a non-target lesion, or the appearance of new lesions. The distribution of time to progression will be estimated using Kaplan-Meier methodology., Up to 2 years|Duration of Response, Duration of response is defined for all evaluable patients who have achieved an objective response as the date at which the patient's objective status is first noted to be either a CR or PR to the date progression is documented. Duration of response will be analyzed using Kaplan-Meier methods., Up to 2 years|Time to Treatment Failure, Time to treatment failure is defined to be the time from the date of registration to the date at which the patient is removed from treatment due to progression, toxicity, or refusal. If the patient is considered to have had a major treatment violation or is taken off study as a non-protocol failure, the patient will be censored on the date they are removed from treatment. Time to treatment failure will be analyzed using Kaplan-Meier methods., Up to 2 years
+PRIMARY OBJECTIVE:
+
+To assess the confirmed tumor response of the combination of oxaliplatin, irinotecan (irinotecan hydrochloride), and capecitabine in patients with advanced adenocarcinoma of the small bowel when dosed according to UGT1A1 genotype.
+
+SECONDARY OBJECTIVES:
+
+1. To assess the toxicity of this regimen in these groups of patients.
+2. To gain preliminary data on whether microsatellite instability influences outcome within this arm.
+3. To gain preliminary data on whether evidence of celiac disease may affect toxicity and outcome.
+4. To gain preliminary data on whether site of tumor origin (duodenal, jejunal, or ileal) affects response or survival.
+
+OUTLINE: Patients are assigned to 1 of 3 treatment groups based on UGT1A1 genotype.
+
+GROUP 1 (6/6 UGT1A1 genotype): Patients receive irinotecan hydrochloride intravenously (IV) over 90 minutes and oxaliplatin IV over 2 hours on day 1 and capecitabine orally (PO) twice daily (BID) on days 2-15.
+
+GROUP 2 (6/7 UGT1A1 genotype): Patients receive irinotecan hydrochloride as in group 1. They also receive oxaliplatin and capecitabine as in group 1 but at lower doses.
+
+GROUP 3 (7/7 UGT1A1 genotype): Patients receive irinotecan hydrochloride, oxaliplatin, and capecitabine as in group 1 but at lower doses.
+
+In all groups, treatment repeats every 3 weeks in the absence of disease progression or unacceptable toxicity.
+
+After the completion of study treatment, patients are followed every 6 weeks for 2 years and then periodically thereafter.

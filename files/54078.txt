@@ -1,0 +1,86 @@
+Administering Peripheral Blood Lymphocytes Transduced With a Murine T-Cell Receptor Recognizing the G12V Variant of Mutated RAS in HLA-A*11:01 Patients
+Background:
+
+A new cancer therapy involves taking white blood cells from a person, growing them in the lab, genetically modifying them, then giving them back to the person. This therapy is called gene transfer using anti-KRAS G12V mTCR cells.
+
+Objective:
+
+To see if anti-KRAS G12 V mTCR cells are safe and can shrink tumors.
+
+Eligibility:
+
+Adults at least 18 years old with cancer that has the KRAS G12V molecule on the surface of tumors.
+
+Design:
+
+In another protocol, participants will:
+
+Be screened
+
+Have cells harvested and grown
+
+Have leukapheresis
+
+In this protocol, participants will have the procedures below.
+
+Participants will be admitted to the hospital.
+
+Over 5 days, participants will get 2 chemotherapy medicines as an infusion via catheter in the upper chest.
+
+A few days later, participants will get the anti-KRAS G12V mTCR cells via catheter.
+
+For up to 3 days, participants will get a drug to make the cells active.
+
+A day after getting the cells, participants will get a drug to increase their white blood cell count. This will be a shot or injection under the skin.
+
+Participants will recover in the hospital for 1-2 weeks. They will have lab and blood tests.
+
+Participants will take an antibiotic for at least 6 months.
+
+Participants will have visits every few months for 2 years, and then as determined by their doctor.
+
+Visits will be 1-2 days. They will include lab tests, imaging studies, and physical exam. Some visits may include leukapheresis or blood drawn.
+
+Participants will have blood collected over several years.
+Pancreatic Cancer|Gastric Cancer|Gastrointestinal Cancer|Colon Cancer|Rectal Cancer
+DRUG: Cyclophosphamide|DRUG: Fludarabine|BIOLOGICAL: Anti-KRAS G12V mTCR PBL|DRUG: Aldesleukin
+Response rate, Percentage of patients who have a clinical response (PR+CR) to treatment (objective tumor regression), 6 weeks and 12 weeks following administration of the cell product, then every 3 months x3, then every 6 months x 2 years, then per PI discretion|Frequency and severity of treatment-related adverse events, Grade and type of toxicity per dose level; fraction of patients who experience a DLT at a given dose level, and number and grade of each type of DLT, From time of cell infusion to two weeks after cell infusion
+Background:
+
+* We generated an HLA-A\*11:01-restricted murine T-cell receptor (mTCR) that specifically recognizes the G12V-mutated variant of KRAS (and other RAS family genes), expressed by many human cancers and constructed a single retroviral vector that contains alpha and beta chains that confer recognition of this antigen when transduced into PBL.
+* In co-cultures with HLA-A\*11:01+ target cells expressing this mutated oncogene, mTCR transduced T cells lyse target cells and secrete IFN-gamma with high specificity.
+
+Objectives:
+
+Primary objectives:
+
+* Phase I: Determine the safety of administering PBL transduced with anti-KRAS G12V mTCR in concert with preparative lymphodepletion and high-dose interleukin-2 (IL-2; aldesleukin).
+* Phase II: Determine if anti-KRAS G12V mTCR-transduced PBL can mediate the regression of tumors harboring the RAS G12V mutation.
+
+Eligibility:
+
+Patients must be/have:
+
+* Age greater than or equal to 18 years and less than or equal to 72 years
+* HLA-A\*11:01 positive
+* Metastatic or unresectable RAS G12V-expressing cancer which has progressed after standard therapy (if available).
+
+Patients may not have:
+
+-Allergies or hypersensitivities to high-dose aldesleukin, cyclophosphamide or fludarabine.
+
+Design:
+
+* This is a Phase I/II, single center study of PBL transduced with anti-KRAS G12V mTCR in HLA-A\*11:01 positive patients with advanced solid tumors expressing G12V mutated RAS.
+* PBMC obtained by leukapheresis will be cultured in the presence of anti-CD3 (OKT3) and aldesleukin in order to stimulate T-cell growth.
+* Transduction is initiated by exposure of these cells to retroviral vector supernatant containing replication-incompetent virus encoding the anti-KRAS G12V mTCR.
+* All patients will receive a non-myeloablative, lymphodepleting preparative regimen of cyclophosphamide and fludarabine.
+* On day 0, patients will receive their PBL transduced with the anti-KRAS G12V mTCR and will then begin high-dose aldesleukin.
+* A complete evaluation of lesions will be conducted approximately 6 weeks (+/- 2 weeks) after treatment.
+* The study will be conducted using a phase I/II Simon minimax design, with two separate
+
+cohorts for the Phase II component: Cohort 2a, patients with RAS G12V pancreatic
+
+cancer, and Cohort 2b, patients with RAS G12V non-pancreatic cancer.
+
+-A total of up to 110 patients may be required; approximately 24 patients in the phase I portion of the study and 86 (41, plus an allowance of up to 2 non-evaluable per phase II cohort) patients in the phase II portion of the study.

@@ -1,0 +1,49 @@
+Cetuximab as Salvage Therapy in Patients With Neo Wild-type RAS/RAF Metastatic Colorectal Cancer With Liver Metastases.
+The purpose of this study is to investigate the efficacy of cetuximab or cetuximab-irinotecan in patients with neo wild-type colorectal cancer who have been previously treated for metastatic disease.
+
+Patients will be included in cohort #1 or cohort #2. The inclusion in cohort #2 will start when the results of the cohort #1 are available.
+
+Patient will receive either cetuximab alone (cohort #1) or cetuximab with irinotecan (cohort #2).
+Cancer Colorectal
+DRUG: Cetuximab|DRUG: Irinotecan
+response rate, Tumor measurements will be obtained at baseline and every 8 weeks following treatment initiation. At the investigator's discretion, tumor assessments may be repeated at any time if progressive disease is suspected. Tumor response and progression will be assessed by the Investigator using RECIST v1.1., 4 months
+Overall survival, OS is defined as the time interval from the date of inclusion to the date of death from any cause. Alive patients will be censored at the last date known to be alive, either during study treatment period or during follow-up period., time interval from inclusion to the date of death from any cause. Assessed up to 12 months after the beginning of the study|Progression-free survival, PFS is defined as the time interval from the date of inclusion to the date of first documented disease progression or death from any cause, whichever occurs first. Alive patients without progression will be censored at the last tumor assessment, either during study treatment period or during follow-up period., the time interval from inclusion to the date of first documented disease progression or death from any cause, whichever occurs first. Assessed up to 12 months after the beginning of the study|Disease Control rate, Disease control rate (DCR) is defined as the percentage of patients achieving CR, PR, or stable disease (SD)., from baseline until end of treatment, assessed up to 12 months after the beginning of the study|Tolerance, Frequency of adverse events using NCI-CTCAE v5.0, Assessed from study entry to 1 month after last study drug administration, assessed up to 12 months after the beginning of the study
+Tumor biomarkers, Tumor biomarkers will be tested : mismatch repair system (pMMR vs dMMR), HER1 (EGFR expression), HER2 expression, amphiregulin (AREG) and HER1 (EGFR GCN, cut-off 4.0), HER2, PI3KCA, PTEN, IRS2,, Assessed from study entry to end of study treatment, assessed up to 12 months after the beginning of the study
+Background - Rationale
+
+KRAS and NRAS mutations are present in roughly 50% of patients with advanced colorectal cancer and predict failure of anti-EGFR mabs therapies, thus genotyping colorectal cancer (CRC) is mandatory for personalized treatments.
+
+Research has been selectively concentrated on the emergence of resistant clones in the blood of patients with wild-type (WT) RAS CRC as biomarker of anti-EGFR therapy resistance.
+
+It has been suggested that patients with metastatic CRC harboring mutated primary tumors, thus not candidate to EGFR inhibitors, frequently have WT RAS circulating tumor cells in blood. Preliminary data suggest that patients with mutant KRAS colon cancer can frequently (50%) switch to a prevalent WT KRAS disease in course of treatment with anti-angiogenic drugs.
+
+In patients with RAS wild-type colorectal cancer who previously received standard therapies, anti-EGFR mabs achieve a response rate of 20% as monotherapy and 30-40% in combination with irinotecan.
+
+The aim of this study is to evaluate the efficacy of cetuximab in patients with pretreated neo wild-type colorectal cancer using liquid biopsies for RAS molecular assessment
+
+Study Objectives
+
+Primary:
+
+• To evaluate the response rate using RECIST 1.1
+
+Secondary:
+
+* To evaluate progression-free survival (PFS), overall survival (OS)
+* To evaluate disease control rate (DCR)
+* To evaluate safety
+
+Exploratory:
+
+* Frequency of neo wild-type tumors
+* Frequency of RAS and BRAF neomutations during treatment
+
+Study Design Prospective multicentric single-arm open-label phase II study in to 2 successive patient cohorts (cohort #1 followed by cohort #2).
+
+Molecular screening using Idylla™ (Biocartis) ctKRAS and ctNRAS/BRAF Mutation Assays.
+
+Cohort #1: Patients will be treated with cetuximab monotherapy (cetuximab 500mg/m² IV, day 1).
+
+Cohort #2: Patients will be treated with cetuximab and irinotecan (cetuximab 500mg/m² IV, day 1; irinotecan 180mg/m² IV, day 1).
+
+In both cohorts, treatment will be given intravenously every 14 days (q2w) until disease progression or limiting toxicity. Tumor evaluations will be done with CT-scan (or MRI) every 8 weeks using RECIST v1.1.

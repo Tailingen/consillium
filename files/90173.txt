@@ -1,0 +1,83 @@
+The Effect of Mobile-Based Care and Monitoring on Lymphatic Edema Management and Quality of Life in Breast Surgery
+There is a lack of synthesized evidence focusing on the design and development of mobile applications targeting the care of patients with breast cancer. This gap will impede understanding of care through mobile applications and hinder digital health intervention strategies that support these patients. Considering the increasing needs of breast cancer patients, the magnitude of care burden, and the widespread use of mobile applications, increased studies are needed to improve care in this population. For this purpose, the mobile application to be developed in the project will include information that patients will need in the perioperative period, preoperative training, exercises to be done in the postoperative period, symptom management, nutrition and lifestyle content. Thus, it is thought that the mobile application will contribute to consultancy and care on issues such as patients' quality of life and symptom management.
+Breast Cancer
+OTHER: Patients in the intervention group will use the mobile-based care support application (M-Breast cancer personal care and monitoring system (M-MEKKBİS)
+Functional Assessment Scale in Cancer Treatment (FACT-B):, This scale was developed by the "Center on Outcomes, Research, and Education (CORE)" in the USA to determine the quality of life in cancer patients. The Functional Assessment Scale in Cancer Treatment (FACT) has been translated into 52 different languages and has scales for different types of cancer. Functional Assessment in Cancer Treatment-Breast Cancer (FACT-B) quality of life scale is a scale adapted to Turkish by the center that aims to measure the quality of life in breast cancer. Permission to use the scale was received by this center . All of the questions in the physical state sub-dimension and questions 1, 3, 4, 5 and 6 in the emotional state sub-dimension contain negative expressions. The total score of the scale varies between 0-144. The total score of the scale is evaluated in relation to the high quality of life., six month
+Body Image and Sexual Adjustment Scale, The sexual adjustment and body image scale was developed by Dalton et al. in 2009, and its validity and reliability in our country were confirmed by Erol Ursavaş and Karayurt in 2016. The scale, which evaluates sexual adjustment and body image as two separate scales, has 14 items. It can be used as two different scales for women of all ages diagnosed with breast cancer. There is no total score for both scales, and sexual adjustment is evaluated through body image scores. Low mean scores indicate that patients are negatively (badly) affected., six month|Lymph Edema Findings Evaluation Form, This form was created by the researcher by scanning the relevant literature to evaluate lymph edema findings. The form will evaluate whether there is swelling, tenderness, pain, stiffness, tension, numbness, burning, tingling, seroma, redness, blistering, warmth and limitation in wrist movements in the affected arm, which may have signs of lymphedema., six month|Wound Site Evaluation Form, The Wound Site Evaluation Form was created by the researcher. In the form, the amount, color, density and odor of the exudate, the condition of the wound bed, the temperature of the wound, signs of infection and the duration of the drain are evaluated., two month
+Type of study: This study was planned as a randomized controlled intervention study to determine the effect of mobile-based care and monitoring on lymphedema management and quality of life in patients undergoing breast surgery.
+
+Place and time of the research: It will be conducted at SANKO University Hospital General Surgery Service, after obtaining the permission of the ethics committee and the institution.
+
+Research Population and sample of the research: Sample calculation In the doctoral thesis titled "The Effect of Mobile-Based Care Support Application on Symptom Management and Quality of Life of Patients Undergoing Breast Cancer Surgery", taking into account the last measurement quality of life score averages of the patients in the experimental and control groups, alpha = 0.05 and power = 0.80. When the calculation was made, the minimum sample size per group was found to be 18. It is recommended to have a minimum of 30 people per group. Randomization will be done using the minimization method.
+
+Randomization:
+
+* Number of radiotherapy sessions: 25-30
+* Area where radiotherapy is applied: breast, lymph nodes, clavicle
+* There is / is not lymph node metastasis
+* Type of lymph node intervention taken: sentinal, axillary
+* Number of lymph nodes removed: 10-20, 21-30, 30 and above
+* BMI: 18-30, 30 and above
+* Reconstruction plan: yes/no
+* Surgery type: breast conservation, lymph node resection.
+
+Application Process:
+
+• Patients who meet the inclusion criteria for the study will be included in the control and intervention groups using the face-to-face interview method. The purpose of the research will be explained to the patients at the first pre-operative meeting in the general surgery service of the mentioned hospital, and an informed consent form and an Introductory Characteristics Questionnaire will be applied. Patients will be evaluated and assigned to groups according to randomization criteria.
+
+Patients in the control group after surgery;
+
+* Wound evaluation form every two weeks in the first two months,
+* Monthly Arm Circumference Measurement Form for six months, Lymphatic Edema Findings Evaluation Form
+* The Body Image and Sexual Adjustment Scale and Breast Cancer (FACT-B) quality of life scale (FACT-B) will be administered twice, in the first week and at the end of the 6-month period after the surgery.
+
+Patients in the intervention group will use the mobile-based care support application (M-Breast cancer personal care and monitoring system (M-MEKKBİS)) developed within the scope of the research after the surgery.
+
+* Wound evaluation form every two weeks in the first two months,
+* Arm Circumference Measurement Form and Lymphatic Discharge Findings Evaluation Form once a month for six months
+* The Body Image and Sexual Adjustment Scale and the Functional Assessment Scale in Cancer Treatment (FACT-B) will be administered twice, in the first week and at the end of the 6-month period after the surgery
+
+Since it is thought that the surgeon who performs the surgery is effective in the development of lymphedema, only Prof. Dr. Göktürk Maralcan's patients will be included.
+
+M-MEKKBİS: The content of the application will include a video explaining the use of the application, information about the pre- and post-operative (short and long) period, scales and forms, and ask the specialist sections. Pre-application will be made after the mobile application is ready. A phone number, username and password will be created for patients who will use the mobile application.
+
+Research Inclusion and Exclusion Criteria Acceptance criteria for the study;
+
+* 18 years and over,
+* Able to understand and speak Turkish,
+* It is decided to undergo breast-conserving surgery or lymph node dissection,
+* Using any of the social media applications (facebook, whatsapp, instagram)
+
+Exclusion criteria from the study;
+
+* Having another health problem (amputation, visible scar, visible physical disability, etc.) that may affect body image
+* Those with speech, hearing and vision problems
+* Having a psychiatric diagnosis
+* Having a disease that restricts the movement of the upper extremity (rheumatological diseases, fracture, health problem that will cause joint restriction, amputation, etc.).
+* Never used the application
+
+Study termination criteria;
+
+* Discontinuation of communication with the patient before the data collection stages are completed
+* Leaving work voluntarily Data collection tools
+* Informed Volunteer Consent Form
+* Promotional Features Questionnaire
+* Wound Site Evaluation Form
+* Findings Regarding Lymphatic Edema Evaluation Form
+* Body Image and Sexual Adjustment Scale
+* Functional Assessment Scale in Cancer Treatment (FACT-B)
+* Application Evaluation FormDescriptive Characteristics Questionnaire: This form, prepared by the researcher by scanning the relevant literature, contains 15 questions that will determine the sociodemographic characteristics of the patients and information about the surgery period.
+
+Wound Site Evaluation Form: The Wound Site Evaluation Form was created by the researcher. In the form, the amount, color, density and odor of the exudate, the condition of the wound bed, the temperature of the wound, signs of infection and the duration of the drain are evaluated.
+
+Lymph Edema Findings Evaluation Form: This form was created by the researcher by scanning the relevant literature to evaluate lymph edema findings. The form will evaluate whether there is swelling, tenderness, pain, stiffness, tension, numbness, burning, tingling, seroma, redness, blistering, warmth and limitation in wrist movements in the affected arm, which may have signs of lymphedema.
+
+Body Image and Sexual Adjustment Scale: . The scale, which evaluates sexual adjustment and body image as two separate scales, has 14 items. It can be used as two different scales for women of all ages diagnosed with breast cancer. There is no total score for both scales, and sexual adjustment is evaluated through body image scores. Low mean scores indicate that patients are negatively (badly) affected.
+
+Functional Assessment Scale in Cancer Treatment (FACT-B):
+
+This scale was developed by the "Center on Outcomes, Research, and Education (CORE)" in the USA to determine the quality of life in cancer patients. The Functional Assessment Scale in Cancer Treatment (FACT) has been translated into 52 different languages and has scales for different types of cancer. Functional Assessment in Cancer Treatment-Breast Cancer (FACT-B) quality of life scale is a scale adapted to Turkish by the center that aims to measure the quality of life in breast cancer. Permission to use the scale was received by this center. The scale consists of five sub-dimensions and 36 items. Sub-dimensions; It includes physical (7 items), social/family (7 items), emotional (6 items) and functional well-being (7 items) and breast cancer (9 items). Responses are in five-point Likert type and all item scores are summed as "(0) not at all, (1) very little, (2) a little, (3) quite a bit and (4) very much". In calculating the scale score, negative responses are subtracted from four and included in the scoring, while positive statements are added to the scoring. All of the questions in the physical state sub-dimension and questions 1, 3, 4, 5 and 6 in the emotional state sub-dimension contain negative expressions. The total score of the scale varies between 0-144. The total score of the scale is evaluated in relation to the high quality of life.
+
+Application Evaluation Form: M-MEKKBİS evaluation form was created by the researcher for breast cancer patients to evaluate the application. There are 6 questions in the M-MEKKBİS evaluation form.
+
+Evaluation of data: In the analysis of data, mean ± std is used as descriptive statistics. deviation values will be given. Categorical variables will be defined as number (n) and percentage (%). Student-t test will be used to compare numerical data in 2 groups. Spearman rank correlation coefficient will be used to test the relationships between ordinal variables, and Chi square test and Fisher's exact Chi square test will be used to test the relationships between categorical variables. Analyzes will be performed in the Statistical Package for the Social Sciences (SPSS) 25.0 package program.

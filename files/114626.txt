@@ -1,0 +1,44 @@
+Immunotherapy With N 803, ETBX-071, and M-CENK in Combination With Radiation for Participants With High-Risk Prostate Cancer.
+This study tests a new treatment for men with high-risk prostate cancer who can't have surgery. The treatment combines three experimental drugs and radiation therapy. Researchers will track how well the treatment works and how safe it is. The study will last about five years.
+High-risk Prostate Cancer
+DRUG: N-803 (IL-15 Superagonist)|DRUG: ETBX-071 (PSA-based Oncolytic Virus)|DRUG: M-CENK (Activated NK Cells)|RADIATION: External Beam Radiation Therapy (EBRT)|RADIATION: Androgen Deprivation Therapy (ADT)|RADIATION: Post-radiation immunotherapy
+Complete Pathologic Response (CPR) after pre-radiation immunotherapy., Complete Pathologic Response (CPR) after pre-radiation immunotherapy: Assesses the complete absence of cancer in tissue samples taken after the pre-radiation immunotherapy phase. This signifies a complete eradication of the cancer at that stage of the treatment process., CPR: Assessed within approximately 6 weeks of study start.|PSA30 response at end-of-treatment (EOT) after post-radiation immunotherapy, Measures a ≥30% reduction in Prostate-Specific Antigen (PSA) levels from baseline to the end of treatment. PSA is a common biomarker used to monitor prostate cancer treatment success. A decrease in PSA suggests successful treatment in reducing the cancer burden., Assessed at EOT, which occurs roughly 30 to 39 weeks after the study begins.
+Clinical Pathologic Response (after pre-radiation immunotherapy), Clinical Pathologic Response (CPR) is an assessment of the extent of tumor reduction after treatment, combining clinical (imaging) and pathological (tissue examination) findings. In this study, CPR is evaluated both after pre-radiation and post-radiation immunotherapy. The specific criteria for determining CPR will vary depending on whether it's assessed by imaging or pathology., Within approximately 6 weeks of the study start.|Time to Recurrence Interval (TTRI), This measures the time elapsed between the completion of radiation therapy and the recurrence of the cancer. Longer TTRI indicates more durable treatment results., Variable, ranging from the end of radiation therapy (around 2-9 weeks after pre-radiation immunotherapy, depending on individual schedules) to up to 5 years (260 weeks).|Safety (AEs and SAEs), Safety will be assessed by monitoring adverse events (AEs) and serious adverse events (SAEs) throughout the study, graded using the CTCAE v5.0 scale., Continuous monitoring throughout the entire study duration (approximately 303 weeks).
+Quality of Life (QoL), Assessed using validated questionnaires, Approximately 5 years|Sexual Function, Assessed using the Sexual Health Inventory for Men (SHIM) questionnaire., Approximately 13 Months|Changes in Immune Subsets and Antigen-Specific Immune Responses, This evaluates the effects of the treatment on the immune system, looking for changes in various immune cells and their responses to specific cancer antigens., Approximately 13 Months|PSA Levels, Prostate-specific antigen (PSA) is a protein produced by the prostate gland. PSA levels in the blood are commonly used as a marker to monitor prostate cancer., Approximately 13 months|Tumor Microenvironment (TME), Evaluated through analysis of tissue samples using whole slide images, spatial transcriptome, immunohistochemistry, and bulk RNA sequencing., Pre-radiation TME: Approximately 6 weeks after study start. Post-radiation TME: Approximately 30-39 weeks after study start.|Circulating Tumor DNA (ctDNA), Measured to assess the presence of cancer DNA in the blood., Approximately 5 years
+This study (ResQ110B-PROS, IND 027158) is a Phase 2, open-label clinical trial designed to assess the safety and efficacy of a novel, multi-component treatment strategy for men with high-risk prostate cancer who are unsuitable for prostatectomy. The experimental treatment combines three investigational products with standard external beam radiation therapy (EBRT). The study is interventional, not observational.
+
+The Investigational Products:
+
+N-803 (nogapendekin alfa inbakicept): A soluble complex of an IL-15 variant bound to a human IL-15 receptor alpha subunit/human IgG1 Fc fusion protein. It acts as a growth and activation factor for NK cells and effector and memory T cells, aiming to stimulate the immune system's response to the cancer. Administered subcutaneously (SC).
+
+ETBX-071 (hAd5 \[E1-, E2b-, E3-\]-PSA): A replication-defective human adenovirus serotype 5 (hAd5) vector modified to encode human prostate-specific antigen (PSA). This acts as a cancer vaccine, designed to generate an immune response targeting PSA-expressing prostate cancer cells. Administered subcutaneously (SC).
+
+M-CENK (cytokine-induced memory-like NK cells): Autologous natural killer (NK) cells expanded and modified ex vivo using a cytokine cocktail (IL-12, IL-15, and IL-18) to enhance their cytotoxic activity and persistence. These cells are administered intravenously (IV).
+
+Treatment Regimen:
+
+The study employs a staged treatment approach:
+
+Screening and Baseline Assessments: Participants undergo screening to confirm eligibility, including PSMA-PET scans, genomic testing, and PSA level assessment. Baseline assessments are collected before starting treatment.
+
+Apheresis: Autologous peripheral blood mononuclear cells (MNCs) are collected from participants for the generation of M-CENK cells.
+
+Pre-Radiation Immunotherapy: Participants receive N-803, ETBX-071, and M-CENK according to a specified schedule over a 6-week period. A targeted biopsy is performed before radiation.
+
+Radiation Therapy (EBRT): Participants undergo EBRT (either a standard 2-week course or an extended 9-week course, as determined by the investigator).
+
+Post-Radiation Immunotherapy: Following radiation, participants receive N-803, ETBX-071, and M-CENK for four 6-week cycles. Androgen deprivation therapy (ADT) may be initiated 6 months after completing radiotherapy.
+
+Follow-up: Participants are followed for up to 5 years after the end of treatment (EOT).
+
+Endpoints:
+
+Primary: Complete pathologic response (CPR) after pre-radiation immunotherapy and PSA30 response at EOT after post-radiation immunotherapy.
+
+Secondary: Clinical pathologic response, time to recurrence interval (TTRI), and safety.
+
+Exploratory: Quality of life (QoL), sexual function, immune responses (including changes in immune subsets and antigen-specific responses), tumor microenvironment (TME), and circulating tumor DNA (ctDNA).
+
+Study Population and Duration:
+
+The study plans to enroll up to 20 participants. The total study duration is up to 303 weeks, including treatment and 5 years of follow-up.

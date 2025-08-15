@@ -1,0 +1,33 @@
+CC-99282 + Rituximab Early Post CART for Non-Hodgkin's Lymphoma
+This phase I trial tests the safety, side effects and best dose of CC-99282 with rituximab for the treatment of patients who have received chimeric antigen receptor (CAR) T cell therapy for non-Hodgkins lymphoma and in whom have had a sub-optimal response early on to CAR T-cell therapy. Immunotherapy with CC-99282 may induce changes in the body's immune system and may interfere with the ability of tumor cells to grow and spread. Rituximab is a monoclonal antibody. It binds to a protein called CD20, which is found on B cells (a type of white blood cell) and some types of cancer cells. This may help the immune system kill cancer cells. Giving CC-99282 with rituximab may be a safe and effective treatment option for patients who have received CAR-T cell therapy for relapsed or refractory non-Hodgkin's lymphoma.
+B-Cell Non-Hodgkin Lymphoma-Recurrent|Diffuse Large B-Cell Lymphoma-Recurrent|Follicular Lymphoma-Recurrent|High Grade B-Cell Lymphoma-Recurrent|Primary Mediastinal Large B-Cell Lymphoma-Recurrent|Transformed Indolent B-Cell Non-Hodgkin Lymphoma to Diffuse Large B-Cell Lymphoma-Recurrent|B-Cell Non-Hodgkin Lymphoma-Refractory|Diffuse Large B-Cell Lymphoma-Refractory|Follicular Lymphoma-Refractory|High Grade B-Cell Lymphoma-Refractory|Primary Mediastinal Large B-Cell Lymphoma-Refractory|Transformed Indolent B-Cell Non-Hodgkin Lymphoma to Diffuse Large B-Cell Lymphoma-Refractory
+PROCEDURE: Biopsy|PROCEDURE: Biospecimen Collection|PROCEDURE: Computed Tomography|DRUG: Golcadomide|PROCEDURE: Positron Emission Tomography|BIOLOGICAL: Rituximab
+Incidence of adverse events, Will describe frequency and nature of adverse events associated with CC-99282 + rituximab post CD19 chimeric antigen receptor (CAR) -T cell therapy using Common Terminology Criteria for Adverse Events (CTCAE) version (v) 5.0., At 30 days post completion of enrollment|Maximum tolerated dose, Will use Bayesian Optimal Interval design to define the maximum tolerated dose., At 30 days post completion of enrollment
+Freedom from progression, Will utilize baseline positron emission tomography/computed tomography at 30 days post infusion of CD19.CART compared to day+150 PET post initiation of CC-99282., At 150 days|Number of patients with response to treatment as assessed by PET imaging, Patients with response to treatment assessed by PET imaging and as defined by the Lugano criteria. Lugano classification is a five-point scale for reporting FDG PET., At 60 days and 150 days post initiation of CC-99282 and then every 3 months, assessed up to 2 years|Number of patients with response to treatment as assessed by CT imaging, Patients with response to treatment assessed by CT imaging and as defined by the Lugano criteria. Lugano classification is a five-point scale for reporting FDG PET., At 60 days and 150 days post initiation of CC-99282 and then every 3 months, assessed up to 2 years|Objective response rate, Will be calculated with 95% confidence interval., At 60 days and 150 days post initiation of CC-99282|Progression free survival, Will be estimated using the Kaplan-Meier method., Time from initiation of CC-99282 to clinical progression or death, assessed at 150 days and 2 years post infusion of CD19.CAR-T cell therapy|Overall survival, Will be estimated using the Kaplan-Meier method., Time from CD19.CAR-T infusion to date of death as a result of any cause, assessed at 150 days and 2 years post infusion of CD19.CAR-T cell therapy|Incidence of adverse events, The frequency and nature of adverse events associated with CC-99282 + rituximab post CD19.CAR-T cell therapy will be described using CTCAE v5.0., Up to 2 years
+PRIMARY OBJECTIVE:
+
+I. To determine the safety profile and maximum tolerated dose (MTD) of early, risk adapted golcadomide (CC-99282)/rituximab for patients with relapsed/refractory (R/R) non-Hodgkin lymphoma (NHL) post-commercial CD19.CAR-T infusion.
+
+SECONDARY OBJECTIVES:
+
+I. To perform a preliminary efficacy analysis of CC-99282 and rituxan early post CD19.CAR-T defined as the progression free survival (PFS) rate at day+150 post initiation of CC-99282.
+
+II. To describe disease response rates in patients with active disease who are treated with CC-99282 + rituximab.
+
+III. To estimate PFS in subjects treated with CC-99282 + rituximab. IV. To estimate the overall survival (OS) in subjects treated with CC-99282 + rituximab.
+
+EXPLORATORY OBJECTIVES:
+
+I. To describe CD19.CAR-T cell expansion and persistence following treatment with CC-99282/rituximab.
+
+II. To evaluate CC-99282/rituximab's effect on CAR T-cells and other immune cell subsets composition and how this effects clinical outcomes.
+
+III. To evaluate CC-99282/rituximab's effect on CAR T-cell and other immune cell subset function and how this effects clinical outcomes.
+
+IV. To evaluate CC-99282/rituximab's effect on the tumor microenvironment (TME) and how this effects clinical outcomes.
+
+OUTLINE: This is a dose-escalation study of CC-99282 in combination with fixed-dose rituximab.
+
+Patients receive rituximab intravenously (IV) on day 1 of each cycle and CC-99282 orally (PO) once daily (QD) on days 1-14 of each cycle. Treatment repeats every 28 days for up to 6 cycles of rituximab and up to 24 cycles of CC-99282 in the absence of disease progression or unacceptable toxicity. Patients also undergo positron emission tomography (PET)/computed tomography (CT) and collection of blood samples throughout the trial. Patients may undergo biopsy at screening.
+
+After completion of study treatment, patients are followed up at days 240, 365, 455, 547, 637, and 730.

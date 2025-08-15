@@ -1,0 +1,8 @@
+FDG-PET Scan Response Guided Chemotherapy Strategy for Advanced Non-small Cell Lung Cancer
+The usual response to chemotherapy is decided through the image change by computed tomography (CT), which is taken at least 6-9 weeks.
+
+In order to predict the response to chemotherapy earlier, patients received FDG-PET scan at the first cycle of chemotherapy. Chemotherapy was guided by the metabolic response by FDG-PET scan.
+Non-small Cell Lung Cancer
+DEVICE: FDR-PET|DEVICE: CT
+change in response rate, The usual response rate of GenexolPM/Cisplatin chemotherapy is 30-40%. This trial will assess whether the changing chemotherapy strategy using FDG-PET can increase response rate by 15%., within 4 cycles
+Prospective, Open-label, Randomized phase II, single institution trial that compared chemotherapy guided by traditional evaluation based on RECIST versus chemotherapy guided by FDG-PET (metabolic) response.

@@ -1,0 +1,11 @@
+Lenvatinib Plus Paclitaxel for Patients With Advanced Biliary Tract Cancer Who Failed to Gemcitabine-based Treatment
+To evaluate the following items in patients with advanced cholangiocarcinoma receiving lenvatinib plus paclitaxel treatment, Primary endpoint: Overall response rate (ORR) by RECIST 1.1 Secondary endpoints Progression-free survival (PFS) Time to progression Overall survival Disease control rate (Overall response rate + stable disease ≧ 4 weeks) Response rate by modified RECIST Association between therapeutic efficacy and tumor vascularity Quality of life Safety profile Predictive biomarker of cholangiocarcinoma
+Advanced Biliary Tract Cancer
+DRUG: Lenvatinib Pill,Paclitaxel
+Overall response rate, Overall response rate (ORR) by RECIST 1.1, 2 year
+Progression-free survival (PFS), Progression-free survival (PFS), 2 year
+1. Safety run-in phase: 2-6 cases Traditional 3+3 design is applied for the determination of initial lenvatinib dose.
+2. Extension phase:
+
+   The estimated number of patients in current trial is calculated with Simon's minimax two-stage analysis. Considering the response rate is at least 10% higher (based on Ueno's data) than the 5% response rate of mFOLFOX in patients who fail gemcitabine plus cisplatin in ABC-06 trial, the assumption of response rate of lenvatinib plus paclitaxel will is 15% or higher. Therefore, Simon's minimax two-stage design is applied with P0 = 5%, P1 = 15%, error 0.10, and errors 0.20. If tumor response is not observed in the first 29 patients, the study will be stopped. Otherwise, 15 additional patients be accrued for a total of 44. The null hypothesis will be rejected if 5 or more subjects have tumor response to the treatment of lenvatinib plus paclitaxel in 44 patients. If the investigators assume that drop-out rate is 10%, total accrual patient will be 49.
+3. Total case number = patients in safety run-in phase + patients in extension phase = (2 - 6) + 49 = 51 - 55

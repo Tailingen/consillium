@@ -1,0 +1,39 @@
+Nivolumab, BMS-986205, and Radiation Therapy With or Without Temozolomide in Treating Patients With Newly Diagnosed Glioblastoma
+This phase I trial studies the side effects of nivolumab, BMS-986205, and standard radiation therapy with or without temozolomide in treating patients with new diagnosed glioblastoma. Immunotherapy with nivolumab, may induce changes in body?s immune system and may interfere with the ability of tumor cells to grow and spread. BMS-986205 may stop the growth of tumor cells by blocking some of the enzymes needed for cell growth. Radiation therapy uses high energy x-rays to kill tumor cells and shrink tumors. Drugs used in chemotherapy, such as temozolomide, work in different ways to stop the growth of tumor cells, either by killing the cells, by stopping them from dividing, or by stopping them from spreading. Giving nivolumab and BMS-986205 may work better compared to radiation therapy and temozolomide alone in treating patients with newly diagnosed glioblastoma.
+Glioblastoma
+DRUG: IDO1 Inhibitor BMS-986205 25mg|DRUG: Nivolumab|RADIATION: Radiation Therapy|DRUG: Temozolomide|DRUG: IDO1 Inhibitor BMS-986205 50 mg|DRUG: IDO1 Inhibitor BMS-986205 100 mg
+Incidence of adverse events (AEs), Drug safety and tolerability will be evaluated by descriptively summarizing AEs, laboratory assessments, vital signs, and electrocardiogram assessments using tables of frequencies and counts for categorical variables and means (sds) or medians (ranges, interquartile ranges) for continuous variables., Up to 30 days after last dose
+Overall survival, The survival curve will be plotted using the Kaplan-Meier method. Median survival time and the 95% confidence interval will be presented for each study group and 1-year overall survival will be estimated. The 95% confidence intervals will be obtained by Greenwood?s formula., Up to 1 year|Median survival, The survival curve will be plotted using the Kaplan-Meier method. Median survival time and the 95% confidence interval will be presented for each study group and 1-year overall survival will be estimated. The 95% confidence intervals will be obtained by Greenwood?s formula., Up to 1 year|Progression free survival at 6 months, The Kaplan Meier curve will be plotted and median time to disease progression and the 95% confidence interval will be calculated. 6-month progression free survival will also be estimated. Since tumor assessment will only be performed periodically (every 8 weeks), the Kaplan-Meier estimate (estimated probability that a subject is progression-free at a specific time) and its 95% confidence interval will be provided at the end of each 8-week period., Up to 6 months|Median time to disease progression, The Kaplan Meier curve will be plotted and median time to disease progression and the 95% confidence interval will be calculated. 6-month progression free survival will also be estimated. Since tumor assessment will only be performed periodically (every 8 weeks), the Kaplan-Meier estimate (estimated probability that a subject is progression-free at a specific time) and its 95% confidence interval will be provided at the end of each 8-week period., Up to 1 year|Radiographic response rates (RR), Response rate is the percentage of subjects who achieve partial response (PR) or complete response (CR) according to the immunotherapy Response Assessment in Neuro-Oncology (iRANO) criteria. Radiographic RR will be determined by iRANO criteria. The response rate will be calculated as the percentage of responders, and similarly, the 95% confidence interval will be calculated using the exact binomial method, if data allows., Up to 3 years|Response rate, Defined as percentage of subjects who achieve PR or CR according to the iRANO criteria. The response rate will be calculated as the percentage of responders, and similarly, the 95% confidence interval will be calculated using the exact binomial method, if data allows., Up to 3 years|Median duration of response, Tumor response will be reported as CR, PR, stable disease (SD), PD, or unknown according to the iRANO criteria. The response rate will be calculated as the percentage of responders, and similarly, the 95% confidence interval will be calculated using the exact binomial method, if data allows., Up to 1 year
+PRIMARY OBJECTIVES:
+
+I. To determine the safety and tolerability of nivolumab in combination with IDO1 inhibitor BMS-986205 (BMS986205) and radiation in newly diagnosed MGMT promoter unmethylated glioblastoma and MGMT promoter methylated glioblastoma.
+
+SECONDARY OBJECTIVES:
+
+I. Descriptive survival analyses (overall survival \[OS\] and OS at 12 months \[OS12\]) in patients with MGMT unmethylated and MGMT methylated promoter.
+
+II. Progression free survival (PFS) and PFS at 6 months (PFS6) in patients with MGMT unmethylated and MGMT methylated promoter.
+
+III. Radiographic response rates (RR) as determined by Response Assessment in Neuro-Oncology (RANO) and immunotherapy (i)RANO criteria in patients with MGMT unmethylated and MGMT methylated promoter.
+
+EXPLORATORY OBJECTIVES:
+
+I. Determine the T-cell changes that occur in glioblastoma (GBM) treated with nivolumab in combination with BMS-986205 and radiation.
+
+II. Correlate T-cell changes and IDO1 expression with patient outcomes.
+
+OUTLINE: This is a dose-escalation study of IDO1 inhibitor BMS-986205. Patients are assigned to 1 of 2 cohorts.
+
+COHORT I:
+
+RADIATION THERAPY: Patients with MGMT methylated promoter undergo radiation therapy 5 days per week (Monday-Friday) for up to 6 weeks. Patients also receive temozolomide orally (PO) once daily (QD), IDO1 inhibitor BMS-986205 PO QD, and nivolumab intravenously (IV) over 30 minutes every 2 weeks for up to 6 weeks in the absence of disease progression, unacceptable toxicity, withdrawal of consent, the study ends, or until Q4W dosing begins.
+
+MAINTENANCE THERAPY: Patients receive IDO1 inhibitor BMS-986205 PO QD on days 1-28 and nivolumab IV over 30 minutes on days 1 and 15 of cycles 1-5 and on day 1 of subsequent cycles. Within 4 weeks of radiation therapy completion, patients also receive temozolomide PO QD on days 1-5 of cycles 2-6. Cycles repeats every 28 days for up to 2 years in the absence of disease progression or unacceptable toxicity.
+
+COHORT II:
+
+RADIATION THERAPY: Patients with MGMT unmethylated promoter undergo radiation therapy 5 days per week (Monday-Friday) for up to 6 weeks. Patients also receive IDO1 inhibitor BMS-986205 PO QD and nivolumab IV over 30 minutes every 2 weeks for up to 6 weeks in the absence of disease progression or unacceptable toxicity.
+
+MAINTENANCE THERAPY: Patients receive IDO1 inhibitor BMS-986205 PO QD on days 1-28 and nivolumab IV over 30 minutes on days 1 and 15 of cycles 1-5 and on day 1 of subsequent cycles. Cycles repeats every 28 days for up to 2 years in the absence of disease progression, unacceptable toxicity, withdrawal of consent, the study ends, or until Q4W dosing begins.
+
+After completion of study treatment, patients are followed up at 30 days and then every 3 months thereafter.

@@ -1,0 +1,39 @@
+IMPROVE-pT1: Accurate Allocation of Completion Resection in Early Colorectal Cancer
+After introducing a nationwide screening program for colorectal cancer (CRC) in Denmark, more cases of early-stage CRC are being detected. Cancers in the earliest stages are often removed locally, either during the diagnostic colonoscopy or through planned minimally invasive surgery.
+
+This early detection of cancer, and thereby an improved prognosis, is a positive feature but has also introduced a new clinical dilemma. Is the patient fully cured by the local resection, or do they need further surgery? Whether further surgery is recommended at the Multi-Disciplinary Team (MDT) board meeting depends on the outcome of specific criteria from the histopathological assessment of the locally removed specimen.
+
+The presence of these criteria does not, however, translate directly into the presence of residual disease - merely into a theoretically increased risk. In Denmark, after surgery, the fraction of cases with residual disease has been around 15% for many years. In the remaining 85% of cases, local removal alone was curative - and the surgery appears excessive.
+
+Investigating blood samples for the presence of circulating tumor DNA (ctDNA) is a new and promising method for cancer detection. The method utilizes that cancer cells release ctDNA into the circulation. ctDNA detected in blood drawn from a patient a few days after local removal of a tumor indicates that residual disease is present and further treatment, such as surgery, is needed.
+
+The purpose of this study is to investigate, whether analyses of ctDNA can correctly identify patients with residual disease after local removal of early CRC. If this identification proves accurate, many patients can be spared further surgery.
+Colorectal Cancer|Colorectal Polyp|Colorectal Cancer Stage I
+ctDNA analysis, Blood samples will be categorized as either ctDNA positive or negative, After recruitment of the last patient, we expect that ctDNA analyses can be performed within 6 months
+Pathological evaluation of the resected specimen from the completion resection, Evaluations will be used to group patients into residual and no residual disease after local resection, After recruitment of the last patient, these data will be available (expected in spring 2024)|30- and 90-day mortality related to the completion resection, Mortality data for secondary outcomes, These data will be extracted from the patient's medical records 3 months after surgery|Postoperative morbidities, Morbidity data for secondary outcomes, After recruitment of the last patient, these data will be extracted from the patient's medical records within 6 months
+KEY POINTS
+
+* 85% of patients receiving completion bowel resection after local removal of pT1 CRC are overtreated.
+* ctDNA is a biomarker of residual cancer disease and could help identify those patients, where completion bowel resection is necessary, sparing those that are already cured.
+
+GOALS ● To explore ctDNA analysis for identification of the patient subgroup with residual disease after local excision of pT1 tumors and hence need for completion resection.
+
+PERSPECTIVES
+
+● Practice-changing evidence for ctDNA-guided risk-stratification for pT1 CRCs after local excision, an important and well-recognized clinical dilemma in the management of CRC.
+
+PROJECT DESCRIPTION After the introduction of the nationwide screening program for CRC in Denmark, the number of very early-stage CRC cases (pT1) has increased. Many of these early cancers present macroscopically as polyps and are removed by local excision. Despite the early detection leading to improved prognosis, locally resected pT1 CRC presents a clinical dilemma, due to the small, but significant, risk of regional lymph node metastasis. This introduces the question: Was the patient cured by local resection alone? - or is segmental bowel resection (termed completion resection) required to remove metastatic regional lymph nodes and cure the patient? The present guideline for managing this clinical situation has led to massive overtreatment. Resection is recommended if the local excision was non-radical or if the histopathological assessment revealed ≥1 histopathological risk factor. However, only 15% of the patients receiving completion resection are diagnosed with metastatic lymph nodes. For the remaining 85%, the local excision was curative, and the completion resection was an overtreatment. Each year in Denmark, 130 colon and 40 rectal completion resections are performed. The complication rate after bowel resection is substantial. Following colonic resections 11% of patients suffer from surgical complications, 7% from medical complications, and 4% from a combination of both. For rectal cancer resection, the corresponding fractions are 20%, 5%, and 5%, respectively. The associated overall 30-day mortality is 1.3%, rising to 1.5% after surgical complications and to 11% after medical or combined complications. Furthermore, many patients suffer from long-term or even chronic postoperative morbidities and late organ effects such as pain, bowel obstruction, and hernia formation.
+
+This highlights the significant importance of accurately choosing patients who indeed require completion resection for a definite cure.
+
+In the current study the use of ctDNA will be explored for identification of the patient subgroup with residual disease after local excision of pT1 tumors and, hence, the need for completion resection.
+
+The hypotheses are (1) ctDNA can be used to identify patients with residual disease requiring completion resection and (2) patients without detectable ctDNA were cured by the local resection, and therefore can be spared completion resection.
+
+Investigators will conduct a prospective, observational feasibility study, assessing the association between pre-completion-resection ctDNA status and the presence of residual disease established by pathological evaluation of the resected specimen. A total of 67 patients, who have undergone local resection of pT1 CRC and who are planned to receive a completion resection will be included. Blood samples will be collected before the completion resection. Tumor tissue will be obtained from the locally resected pT1 tumor.
+
+ctDNA analysis will be performed using the recently published whole genome sequencing-based MRDetect approach.
+
+Feasibility measures: 1) recruitment of \>30 patients every 6 months, 2) a ctDNA positivity rate ≥70%, and 3) accuracy of ctDNA status predicting lymph node status. Using the pathology evaluation of the completion resection specimen as gold standard.
+
+If the performance criteria are met, the study will be transitioned into an open-label 1:1 randomized trial comparing the effect of ctDNA-guided patient selection for completion resection to current practice, which is completion resection to all. If the performance criteria are not met, the method will be re-evaluated to optimize sensitivity.

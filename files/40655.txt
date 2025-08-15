@@ -1,0 +1,23 @@
+Lenalidomide and GM-CSF in Treating Patients With Prostate Cancer
+RATIONALE: Lenalidomide may stop the growth of prostate cancer by blocking blood flow to the tumor. GM-CSF may stimulate the immune system in different ways and stop tumor cells from growing. Giving lenalidomide together with GM-CSF may kill more tumor cells.
+
+PURPOSE: This phase I/II trial is studying the side effects and best dose of lenalidomide when given together with GM-CSF and to see how well it works in treating patients with prostate cancer.
+Prostate Cancer
+BIOLOGICAL: sargramostim|DRUG: lenalidomide|OTHER: laboratory biomarker analysis
+Number of Patients With a PSA Response, Number of patients with a PSA Response defined as a PSA decline greater or equal to 50% compared with baseline value., reevaluated for response every eight weeks|RECIST-defined Measurable Disease, Patients who have a response of Complete Response (CR), Partial Response (PR), or Stable Disease (SD) by RECIST criteria. To be assigned a status of PR or CR, changes in tumor measurements must be confirmed by repeat assessments that should be performed no less than 4 weeks after the criteria for response are first met. In the case of SD, follow-up measurements must have met the SD criteria at least once after study entry at a minimum interval of 6-8 weeks, every 8 weeks and at end of treatment
+Number of Patients With Statistically Significant Change in Immune Response From Baseline to End of Study, The change in mean T cell immunohistochemical markers and dendritic cells over time will be evaluated using analysis of variance methods for repeated measures with additional main factors included in the analysis for subset comparisons. The pattern of immune response will be evaluated based upon overall clinical response using these same techniques., every 28 days for first 3 cycles, end of study
+OBJECTIVES:
+
+* Establish the safety of a predetermined target dose or, if the target dose is not tolerable, find the maximum tolerated dose of lenalidomide when administered in combination with sargramostim in patients with androgen-independent prostate cancer.
+* Evaluate the preliminary efficacy of this regimen to ascertain whether additional study of lenalidomide is warranted in patients with androgen-independent prostate cancer.
+* Evaluate the safety of this regimen in these patients.
+* Describe the effects of this regimen on serum cytokines (e.g., TNF-α, bFGF, sIL2R, IL-8, and IL-12) and on serum VEGF levels.
+* Assess the co-stimulatory effects of this regimen on CD4+, CD8+, CD83, and CD86 cells.
+
+OUTLINE: This is a phase I, dose-escalation study of lenalidomide followed by a phase II study.
+
+Patients receive oral lenalidomide on days 1-21 and sargramostim subcutaneously on days 1, 3, 5, 8, 10, 12, 15, 17, 19, 22, 24, and 26. Courses repeat every 28 days in the absence of disease progression or unacceptable toxicity.
+
+Blood samples are collected periodically for correlative biomarker and immunological laboratory studies.
+
+After completion of study therapy, patients are followed up at 30 days and then every 3 months thereafter.

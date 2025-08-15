@@ -1,0 +1,29 @@
+Cilengitide in Treating Patients With Unresectable or Metastatic Melanoma
+This randomized phase II trial is studying how well cilengitide works in treating patients with unresectable stage III or stage IV melanoma. Cilengitide may stop the growth of melanoma by stopping blood flow to the tumor.
+Stage III Melanoma|Stage IV Melanoma
+DRUG: cilengitide|OTHER: pharmacological study|OTHER: laboratory biomarker analysis
+PFS, Each dose of EMD 121974 will be analyzed separately., At 8 weeks
+Response rate, calculated by the ratio of the number of (CR + PR) / total number of treated patients, Up to 4 years|PFS, For each dose of EMD 121974, Kaplan-Meier life table methods and Cox proportional hazards regression modeling will be utilized to analyze progression-free survival., Up to 4 years|Overall survival, For each dose of EMD 121974, Kaplan-Meier life table methods and Cox proportional hazards regression modeling will be utilized to analyze overall survival., Up to 4 years|Incidence of adverse events graded according to CTCAE version 3.0, Adverse events will be tabulated by dose of EMD 121974 and toxicity grade., Up to 4 years|Population Pharmacokinetics of EMD 121974, including Cmax, tmax, AUClast, t1/2, AUCinf, CL, Vz, Mean and SD will be estimated for each parameter except for tmax, where the median and range will be reported. Plasma concentrations and pharmacokinetic parameters for each dose will be summarized using descriptive statistics and the mean plasma concentrations for each dose will be plotted versus time. Pharmacokinetic parameters will be compared among doses using graphical and statistical analyses., Before and 2, 4, and 24 hours after dose of the first dose of courses 1 and 2 and before and 4 hours after dose of the third dose of courses 1 and 2
+PRIMARY OBJECTIVES:
+
+I. To evaluate the clinical efficacy of EMD 121974 at two different doses in patients with metastatic melanoma by determining the progression-free survival rate at 8 weeks.
+
+SECONDARY OBJECTIVES:
+
+I. To determine the response rate of EMD 121974 in patients with metastatic melanoma.
+
+II. To determine the overall survival in patients who receive EMD 121974. III. To determine the safety and toxicity of EMD 121974 in patients with metastatic melanoma.
+
+IV. To determine the population pharmacokinetics of EMD 121974. V. To determine the biological activity of EMD 121974 in melanoma cells of patients who are treated with the drug.
+
+VI. To evaluate the use of optical imaging and functional dynamic imaging scans in assessing biological activity of EMD 121974.
+
+OUTLINE: This is a randomized, double-blind study. Patients are stratified according to prior systemic treatment (yes vs no), visceral metastases (yes vs no), serum lactic dehydrogenase level (normal vs abnormal), and tumor integrin α_vβ_3 overexpression (yes vs no). Patients are randomized into 1 of 2 treatment arms.
+
+ARM I: Patients receive cilengitide IV over 1 hour on days 1, 4, 8, 11\*, 15, 18, 22, and 25. Courses repeat every 28 days in the absence of disease progression or unacceptable toxicity.
+
+NOTE: \*For the first course only, treatment is omitted on day 11.
+
+ARM II: Patients receive cilengitide as in arm I at a higher dose.
+
+After completion of study treatment, patients are followed every 3 months for 1 year and then every 6 months thereafter.

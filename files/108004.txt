@@ -1,0 +1,39 @@
+S0232 Dexamethasone With or Without Lenalidomide in Treating Patients With Previously Untreated Stage I, Stage II, or Stage III Multiple Myeloma
+RATIONALE: Drugs used in chemotherapy such as dexamethasone use different ways to stop cancer cells from dividing so they stop growing or die. Lenalidomide may stop the growth of multiple myeloma by stopping blood flow to the tumor. It is not yet known whether dexamethasone is more effective with or without lenalidomide in treating multiple myeloma.
+
+PURPOSE: This randomized phase III trial is studying dexamethasone and lenalidomide to see how well they work compared to dexamethasone alone in treating patients with previously untreated stage I, stage II, or stage III multiple myeloma.
+Multiple Myeloma|Plasma Cell Neoplasm
+DRUG: dexamethasone|DRUG: lenalidomide|OTHER: placebo
+Progression-Free Survival, Progression is defined as a \> 25% increase from baseline in myeloma protein production or other signs of disease progression such as hypercalcemia, etc.
+
+In patients with a confirmed Partial Remission, Remission, or Complete Remission, relapse is defined as the first occurrence of any of the following: 1) a myeloma protein increase by than 100% from the lowest level recorded on study, provided the absolute magnitude of this increase is at least 1g/dL for a serum monoclonal protein or at least 500 mg/24 hrs of urine M-protein; 2) a myeloma protein increase above the response criteria for Partial Remission, with the same requirements for the absolute magnitude of the protein increase; 3)reappearance of any myeloma peak that had disappeared while on protocol treatment, provided it meets the same requirements listed above; 4) increase in the size and number of lytic bone lesions recognized on radiographs., From date of initial registration to date of progression/relapse of disease or death from any cause, whichever came first, up to 5 years
+Toxicity, Compare the toxicity profile of these regimens, including thrombotic complications, in these patients, based on CTCAE v. 3.0., From time of initiating study treatment until discontinuation of study treatment or of open-label REVLIMID + LOW DOSE DEX, whichever comes last, up to 5 years
+OBJECTIVES:
+
+* Compare the progression-free survival of patients with previously untreated stage I, II, or III multiple myeloma treated with dexamethasone with or without lenalidomide.
+* Compare the overall response rate in patients treated with these regimens.
+* Compare the major response rate (indicated by greater than 75% decrease in M-protein) in patients treated with these regimens.
+* Compare the overall survival and time to best response in patients treated with these regimens.
+* Compare the toxicity profile of these regimens, including thrombotic complications, in these patients.
+* Compare the effect of these regimens on gene expression and proteomic analysis in these patients.
+
+OUTLINE: This is a randomized, double-blind, crossover, multicenter study. Patients are stratified according to disease stage by the International Staging System (I vs II vs III) and Zubrod performance status (0-1 vs 2-3). Patients are randomized to 1 of 2 treatment arms.
+
+Arm I
+
+* Induction therapy: Patients receive oral dexamethasone (DM) on days 1-4, 9-12, and 17-20 and oral lenalidomide on days 1-28. Treatment repeats every 35 days for up to 3 courses in the absence of disease progression or unacceptable toxicity.
+* Maintenance therapy: Patients receive oral DM on days 1-4 and 15-18 and oral lenalidomide on days 1-21. Courses repeat every 28 days in the absence of disease progression or unacceptable toxicity.
+
+Arm II
+
+* Induction therapy: Patients receive DM as in arm I induction and oral placebo on days 1-28. Treatment repeats as in arm I induction.
+
+Patients with responding or stable disease proceed to maintenance therapy. Patients with disease progression during induction therapy cross over and receive unblinded treatment with DM and lenalidomide as in arm I induction. Patients with responding or stable disease after unblinded induction therapy receive unblinded maintenance therapy with DM and lenalidomide as in arm I maintenance.
+
+* Maintenance therapy: Patients receive oral DM as in arm I maintenance and oral placebo on days 1-21. Courses repeat as in arm I maintenance.
+
+Patients with disease progression during maintenance therapy cross over and receive unblinded treatment with DM and lenalidomide as in arm I induction. Patients with responding or stable disease after unblinded induction therapy proceed to unblinded maintenance therapy with DM and lenalidomide as in arm I maintenance.
+
+Patients are followed periodically for up to 5 years.
+
+PROJECTED ACCRUAL: A total of 500 patients (250 per treatment arm) will be accrued for this study within 4 years.

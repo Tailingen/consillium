@@ -1,0 +1,30 @@
+Tegavivint for Treating Patients with Relapsed or Refractory Large B-Cell Lymphoma
+This phase I trial tests the safety, side effects, and best dose of tegavivint in treating patients with large b-cell lymphomas that has come back (relapsed) or does not respond to treatment (refractory). Tegavivint may stop the growth of cancer cells by blocking some of the enzymes needed for cell growth. Giving tegavivint may help control the disease.
+Recurrent Diffuse Large B-Cell Lymphoma Activated B-Cell Type|Recurrent Diffuse Large B-Cell Lymphoma Germinal Center B-Cell Type|Recurrent High Grade B-Cell Lymphoma with MYC and BCL2 or BCL6 Rearrangements|Recurrent High Grade B-Cell Lymphoma with MYC, BCL2, and BCL6 Rearrangements|Refractory Diffuse Large B-Cell Lymphoma Activated B-Cell Type|Refractory Diffuse Large B-Cell Lymphoma Germinal Center B-Cell Type|Refractory High Grade B-Cell Lymphoma with MYC and BCL2 or BCL6 Rearrangements|Refractory High Grade B-Cell Lymphoma with MYC, BCL2, and BCL6 Rearrangements|Transformed Indolent B-Cell Non-Hodgkin Lymphoma to Diffuse Large B-Cell Lymphoma
+PROCEDURE: Biospecimen Collection|PROCEDURE: Computed Tomography|PROCEDURE: Positron Emission Tomography|DRUG: Tegavivint
+Incidence of dose-limiting toxicity, At the end of Cycle 1 (each cycle is 28 days)|Maximum tolerated dose (MTD) for tegavivint, Determination of the MTD of tegavivint using a 3+3 design., At the end of Cycle 1 (each cycle is 28 days)|Determination of the recommended phase II dose (RP2D) of tegavivint, At the end of Cycle 1 (each cycle is 28 days)
+Overall response rate (ORR), Will be estimated by molecular subtype and across subtypes with exact 80% and 90% confidence intervals., After cycle 2 (each cycle is 28 days) or end of treatment|Complete response (CR) rate, Will be estimated by molecular subtype and across subtypes with exact 80% and 90% confidence intervals., At the end of Cycle 2 (each cycle is 28 days)|Duration of response (DOR), Will be summarized by the Kaplan-Meier method, and two-year estimates will be provided with 80% and 90% confidence intervals, for each subtype and for all patients., Time from the date of first response until the first date of progression or death from any cause, assessed up to 2 years from study enrollment|Progression-free survival (PFS), Will be summarized by the Kaplan-Meier method, and two-year estimates will be provided with 80% and 90% confidence intervals, for each subtype and for all patients., Time from the date of first treatment until the first date of progression or death from any cause, assessed up to 2 years from study enrollment|Event-free survival (EFS), Will be summarized by the Kaplan-Meier method, and two-year estimates will be provided with 80% and 90% confidence intervals, for each subtype and for all patients., Time from the date of first treatment until the first date of progression, re-treatment of lymphoma after initial immune-therapy, or death from any cause, assessed up to 2 years from study enrollment|Overall survival (OS), Will be summarized by the Kaplan-Meier method, and two-year estimates will be provided with 80% and 90% confidence intervals, for each subtype and for all patients., Time from the date of first treatment until the date of death from any cause, assessed up to 2 years from study enrollment
+Pharmacokinetic (PK) analysis AUC0-t, The reporting of pharmacokinetic parameters will be determined based on the final parameter analysis on the available data. Parameters will be assessed using AUC0-t, Up to 14 weeks|Pharmacokinetic (PK) analysis AUC0-infinity, The reporting of pharmacokinetic parameters will be determined based on the final parameter analysis on the available data. Parameters will be assessed using AUC0-infinity., Up to 14 weeks|Pharmacokinetic (PK) analysis Tmax, The reporting of pharmacokinetic parameters will be determined based on the final parameter analysis on the available data. Parameters will be assessed using Tmax, Up to 14 weeks|Pharmacokinetic (PK) analysis Cmax, The reporting of pharmacokinetic parameters will be determined based on the final parameter analysis on the available data. Parameters will be assessed using Cmax., Up to 14 weeks|Pharmacokinetic (PK) analysis t1/2, The reporting of pharmacokinetic parameters will be determined based on the final parameter analysis on the available data. Parameters will be assessed using t1/2., Up to 14 weeks|Pharmacokinetic (PK) analysis clearance, The reporting of pharmacokinetic parameters will be determined based on the final parameter analysis on the available data. Parameters will be assessed using clearance., Up to 14 weeks|Pharmacokinetic (PK) analysis volume of distribution, The reporting of pharmacokinetic parameters will be determined based on the final parameter analysis on the available data. Parameters will be assessed using volume of distribution., Up to 14 weeks
+PRIMARY OBJECTIVES:
+
+I. To determine the safety and tolerability of tegavivint in patients with relapsed/refractory c-Myc overexpressing large B-cell lymphoma.
+
+II. To determine the maximum tolerated dose (MTD) or recommended phase II dose (RP2D) of tegavivint.
+
+SECONDARY OBJECTIVES:
+
+I. To determine the preliminary efficacy of tegavivint in patients with relapsed/refractory c-Myc overexpressing large B-cell lymphoma.
+
+II. To determine the pharmacokinetic parameters of tegavivint.
+
+EXPLORATORY OBJECTIVES:
+
+I. To correlate response to tegavivint with the presence of MYC, FBW7 and SKP2 mutations.
+
+II. To correlate response to tegavivint with TBL1 and c-Myc expression assessed by standard IHC on archived tumor biopsy.
+
+III. To determine the effects of tegavivint on immune cell subsets viability and function.
+
+OUTLINE: This is a dose-escalation study of tegavivint.
+
+Patients receive tegavivint intravenously (IV) on study. Patients also undergo computed tomography (CT) and/or positron emission tomography (PET) and undergo blood sample collection throughout the trial.

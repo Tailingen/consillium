@@ -1,0 +1,26 @@
+Pembrolizumab Every 12 Weeks Versus Every 3 Weeks in Treating Patients With Non-small Cell Lung Cancer
+This phase II trial studies how well pembrolizumab given every 12 weeks works compared to every 3 weeks in treating patients with non-small cell lung cancer. Immunotherapy with monoclonal antibodies, such as pembrolizumab, may help the body's immune system attack the cancer, and may interfere with the ability of tumor cells to grow and spread. Giving pembrolizumab every 12 weeks may provide similar disease control with fewer treatments for patients with non-small cell lung cancer when compared to every 3 weeks. Demonstrating that 12 week dosing is as effective as 3 week dosing may also have a significant impact when considering the cost required for these medications.
+Lung Non-Small Cell Carcinoma
+BIOLOGICAL: Pembrolizumab
+1-year progression-free survival (PFS), Measured using Response Evaluation Criteria in Solid Tumors (RECIST) 1.1., Baseline to 12 months
+Overall survival, Defined as the number of months between Loading Phase enrollment and death from any cause. Analysis of overall survival between the two treatment groups will be carried forth using a log-rank test accounting for the stratification factors, including other known variables such as PD-L1 tumor proportion score, line of therapy, histology, mutation profile., Up to 12 months after treatment completion|Incidence of adverse events, Assessed by National Cancer Institute (NCI) Common Terminology Criteria for Adverse Events (CTCAE) version 5.0. Will be assessed through the evaluation of grade 3 or higher toxicities deemed possibly related to treatment. Both efficacy and toxicity rates will be estimated using simple relative frequencies. The corresponding 95% confidence intervals for the estimated probabilities will be computed., Up to 12 months
+Cox regression models in terms of treatment resistance, Circulating biomarkers of treatment response and resistance, Up to 12 months|Length of time on treatment, Length of time on treatment as a time varying covariate will be carried out using Cox regression models., Up to 12 months
+PRIMARY OBJECTIVES:
+
+I. To evaluate the 1-year progression-free survival rate with 200mg pembrolizumab administered every 3 weeks compared to 200mg pembrolizumab administered every 12 weeks.
+
+SECONDARY OBJECTIVES:
+
+I. To assess overall survival between the two treatment groups. II. To assess the serious adverse event profiles between the two treatment groups.
+
+EXPLORATORY OBJECTIVES:
+
+I. To evaluate circulating biomarkers of treatment response and resistance. II. To characterize fecal microbiotic profile and to correlate those results with tumor characteristics and antitumor immune responses.
+
+OUTLINE: Patients are randomized to 1 of 2 arms.
+
+ARM I: Patients receive pembrolizumab intravenously (IV) over 30 minutes every 3 weeks for up to 24 months in the absence of disease progression or unacceptable toxicity.
+
+ARM II: Patients receive pembrolizumab IV over 30 minutes every 12 weeks for up to 24 months in the absence of disease progression or unacceptable toxicity.
+
+After completion of study treatment, patients are followed up at 30 days, and then every 12 weeks for at least 12 months.

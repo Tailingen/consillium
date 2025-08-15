@@ -1,0 +1,7 @@
+Multi-Reader Multi-Case, Retrospective Study to Evaluate Effectiveness of CadAI-B for Breast
+The purpose of this study is to evaluate the effectiveness of lesion detection and diagnosis-aiding software (CadAI-B for Breast) during ultrasound (US) examination
+Breast Cancer
+DEVICE: CadAI-B for Breast
+Area Under the LROC Curve, The area under the LROC curve (AUC_LROC) on the diagnosis of suspicious lesions was computed and compared between the aided and unaided sessions., 6 weeks
+Lesion detection sensitivity and specificity, The mean sensitivity and specificity of 15 readers were calculated and compared between the aided and unaided sessions., 6 weeks
+CadAI-B for Breast is a real-time AI diagnosis system designed to assist healthcare professionals in lesion detection and differential diagnosis during breast US examinations. The primary objective of the study is to evaluate the effectiveness of CadAI-B in the assistance of detection and diagnosis of breast cancer by comparing the clinical performance of physicians before and after using CadAI-B in their ultrasound reading. The secondary objective of this study is to evaluate the sensitivity and specificity using CadAI-B for US examinations.

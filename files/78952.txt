@@ -1,0 +1,11 @@
+Evaluation of Clinical Decision Support System for Brain Metastasis Using Brain MR Images
+BT-M01 is a software that has been pre-learned based on a brain metastasis detection model using brain MR images, and clinical decision support system for brain metastasis by automatically analyzing brain MR images by assisting the medical team.
+
+The specific aims of this study are to evaluate efficacy of BT-M01 for brain metastasis compared to the sensitivity and false positive rates of radiologists group.
+Brain Metastases
+DEVICE: BT-M01
+Sensitivity and false positive rates of BT-M01, Sensitivity and false positive rates of BT-M01 in detection of brain metastasis based on golden standards, Within 4 weeks after enrollment
+Positive predictive values of BT-M01, Positive predictive values of BT-M01 in detection of brain metastasis based on golden standards, Within 4 weeks after enrollment|Sensitivity and Positive predictive values of BT-M01 by primary cancer, Sensitivity and positive predictive values of BT-M01 in detection of brain metastasis based on golden standards by primary cancer, Within 4 weeks after enrollment|Dice coefficient of BT-M01, Dice coefficient of BT-M01 in detection of brain metastasis based on golden standards, Within 4 weeks after enrollment
+BT-M01 is a software that has been pre-learned based on a brain metastasis detection model using brain MR images, and clinical decision support system for brain metastasis by automatically analyzing brain MR images by assisting the medical team.
+
+The specific aims of this study are to evaluate efficacy of BT-M01 for brain metastasis compared to the sensitivity and false positive rates of radiologists group.

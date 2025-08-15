@@ -1,0 +1,86 @@
+Three-dimensional Virtual Imaging to Improve the Accuracy of Standard CT-based Nephrometric Scores: a Prospective Multicentric Observational Study
+STUDY DESIGN:
+
+prospective multicentric observational
+
+SAMPLE SIZE OF THE STUDY:
+
+The estimated number of patients to enroll in the multicenter study is at least 270 patients (statistically calculated referring to the results of a monocentric analysis including 101 patients with the same design, already performed by the Coordinator Center).
+
+NUMBER OF CENTERS INVOLVED:
+
+Considering a total number of patients enrolled of at least 270, number of Centers to be involved: 5.
+
+STUDY PROCEDURES:
+
+3D virtual model rendering
+
+* CT-scan images sent in DICOM format to MEDICS (Turin, Italy) after anonymization.
+* Dedicated online platform available to upload the anonymized CT images, after registration.
+* CT imaging processing by bioengineers and 3DVM building within 72 hours
+* 3D-PDF download from the same online platform
+
+Nephrometric score assessment
+
+* All CT-scans and their 3DVMsevaluation in order to assess surgical complexity, as classified by the PADUA nephrometry score and its relative PADUA risk category.
+* For each Center:
+
+  * assessment of the PADUA score on the basis of the CT-scans (2D-NS) by one urologist;
+  * assessment of the PADUA score on the basis of the 3DVMs (3D-NS) by another urologist.
+
+Surgical intervention and pathological assessment
+
+* Dedicated expert surgeon for each Center performing NSS to all patients with the same surgical technique.
+* Dedicated uro-pathologist for each Center performing the histopathological evaluations of the specimens.
+Kidney Neoplasms|Carcinoma, Renal Cell
+OTHER: 3D-PADUA nephrometric score|OTHER: 2D-PADUA nephrometric score
+PADUA nephrometry score calculated via 3D virtual modelling and standard bidimensional CT scan images, The PADUA nephrometry score predicts the risk of surgical and medical perioperative complications in patients who underwent partial nephrectomy.
+
+The PADUA nephrometry score evaluates different tumor characteristics:
+
+* Longitudinal (polar) location (Superior/inferior: 1pt; Middle: 2 pt),
+* Exophytic rate (\>=50%: 1pt; \<50%: 2pt; Endophytic: 3pt)
+* Renal rim (Lateral: 1pt; Medial: 2pt)
+* Renal sinus (Not involved: 1pt; Involved: 2pt)
+* Urinary collecting system (Not involved: 1pt; Dislocated/infiltrated: 2pt)
+* Tumor size (\<=4 cm: 1pt; 4.1-7 cm: 2pt; \>7: 3pt) The PADUA score, calculated as the sum of these parameters, stratify patients from PADUA 6 tumors, that have low risk of complications, to PADUA 14, with high risk of perioperative complications., Baseline
+To compare the occurrence of postoperative complications, assessed by Clavien-Dindo classification, The Clavien-Dindo classification evaluates severity of complications in 5 groups:
+
+* Grade I: Any deviation from the normal postoperative course without the need for pharmacological treatment or surgical, endoscopic and radiological interventions;
+* Grade II: Requiring pharmacological treatment with drugs other than such allowed for grade I complications;
+* Grade III: Requiring surgical, endoscopic or radiological intervention (IIIa: Intervention not under general anesthesia; IIIb: Intervention under general anesthesia);
+* Grade IV Life-threatening complication requiring IC/ICU-management (IVa: single organ dysfunction; IVb: multiorgan dysfunction);
+* Grade V: Death of a patient., 90 days after surgery
+STUDY DESIGN:
+
+prospective multicentric observational
+
+SAMPLE SIZE OF THE STUDY:
+
+The estimated number of patients to enroll in the multicenter study is at least 270 patients (statistically calculated referring to the results of a monocentric analysis including 101 patients with the same design, already performed by the Coordinator Center).
+
+NUMBER OF CENTERS INVOLVED:
+
+Considering a total number of patients enrolled of at least 270, number of Centers to be involved: 5.
+
+STUDY PROCEDURES:
+
+3D virtual model rendering
+
+* CT-scan images sent in DICOM format to MEDICS (Turin, Italy) after anonymization.
+* Dedicated online platform available to upload the anonymized CT images, after registration.
+* CT imaging processing by bioengineers and 3DVM building within 72 hours
+* 3D-PDF download from the same online platform
+
+Nephrometric score assessment
+
+* All CT-scans and their 3DVMsevaluation in order to assess surgical complexity, as classified by the PADUA nephrometry score and its relative PADUA risk category.
+* For each Center:
+
+  * assessment of the PADUA score on the basis of the CT-scans (2D-NS) by one urologist;
+  * assessment of the PADUA score on the basis of the 3DVMs (3D-NS) by another urologist.
+
+Surgical intervention and pathological assessment
+
+* Dedicated expert surgeon for each Center performing NSS to all patients with the same surgical technique.
+* Dedicated uro-pathologist for each Center performing the histopathological evaluations of the specimens.

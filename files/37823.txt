@@ -1,0 +1,19 @@
+Vaccine Therapy and Pembrolizumab in Treating Patients With Solid Tumors That Have Failed Prior Therapy
+This phase I trial studies the side effects of vaccine therapy and pembrolizumab in treating patients with solid tumors that have spread to other places in the body and usually cannot be cured or controlled with treatment, that have failed prior therapy, and that cannot be removed by surgery. Vaccines made from a gene-modified virus may help the body build an effective immune response to kill tumor cells. Monoclonal antibodies, such as pembrolizumab, may block tumor growth in different ways by targeting certain cells. Giving vaccine therapy together with pembrolizumab may be a better treatment in patients with solid tumors.
+Adult Solid Neoplasm|Bladder Carcinoma|Colon Carcinoma|Estrogen Receptor Negative|Head and Neck Squamous Cell Carcinoma|Hepatocellular Carcinoma|HER2/Neu Negative|Melanoma|Non-Small Cell Lung Carcinoma|Pancreatic Carcinoma|Progesterone Receptor Negative|Rectal Carcinoma|Renal Cell Carcinoma|Soft Tissue Sarcoma|Triple-Negative Breast Carcinoma|TP53 Gene Mutation|Unresectable Solid Neoplasm
+OTHER: Laboratory Biomarker Analysis|BIOLOGICAL: Modified Vaccinia Virus Ankara Vaccine Expressing p53|BIOLOGICAL: Pembrolizumab
+Tolerability of combined modified vaccinia virus Ankara vaccine expressing p53 and pembrolizumab, using the National Cancer Institute Common Terminology Criteria for Adverse Events version 4.3, Up to week 20
+Clinical responses, assessed by the modified Response Evaluation Criteria in Solid Tumors (RECIST), Evaluated using immune-related response criteria (irRECIST, irRC)., Up to week 19|T cell reactivity to p53, assessed by flow cytometry, Immunosuppressive cell types (MDSC, Tregs) and other selected lymphocyte subsets and markers including PD-1, PDL-1 and PDL-2 will be quantified. The Wilcoxon rank-sum test will be used, and are based on residual re-sampling simulations based on historical AUC values (subtracting baseline) and a hypothesized increase in that AUC., Up to week 19
+PRIMARY OBJECTIVES:
+
+I. To determine the safety and tolerability of combined p53MVA vaccine (modified vaccinia virus Ankara vaccine expressing p53) and pembrolizumab that are well-tolerated in patients with refractory, tumor protein 53 (p53) over expressing cancer.
+
+SECONDARY OBJECTIVES:
+
+I. To evaluate clinical response and anti-p53 T cell immune responses.
+
+OUTLINE: Patients receive pembrolizumab intravenously (IV) over 30 minutes followed by modified vaccinia virus Ankara vaccine expressing p53 subcutaneously (SC) at least 30 minutes later once in weeks 1, 4, and 7.
+
+Patients may receive additional doses of pembrolizumab in weeks 10, 13, 16, and 19, for a maximum of 7 doses if there are no signs of progressive disease. Treatment continues in the absence of disease progression or unacceptable toxicity.
+
+After completion of study treatment, patients are followed up periodically.

@@ -1,0 +1,42 @@
+Tagraxofusp to Eradicate Measurable Residual Disease in Patients With Acute Myeloid Leukemia
+This phase Ib/II trial tests the safety of tagraxofusp when given with or without azacitidine in patients with acute myeloid leukemia in remission with measurable residual disease who will undergo allogeneic hematopoietic cell transplant. Tagraxofusp is a recombinant protein consisting of IL-3 conjugated to a truncated diptheria toxin. The IL-3 attaches to the cancer cells and the toxic substance kills them. Azacitidine may stop the growth of tumor cells by blocking some of the enzymes needed for cell growth. Tagraxofusp and azacitidine may work better to kill cancer cells and eradicate measurable residual disease in patients with acute myeloid leukemia.
+Acute Myeloid Leukemia
+DRUG: Azacitidine|BIOLOGICAL: Tagraxofusp-erzs
+Dose-limiting toxicity, Grade \>= 3 toxicity using Common Terminology Criteria for Adverse Events version 5.0 or severe persistent hematologic toxicity defined as absolute neutrophil count (ANC) \< 500/uL OR platelet count \< 10,000/uL in participants that have morphologic leukemia-free state (bone marrow blasts \< 5%) are conditions for a dose limiting toxicity., Up to 42 days
+Measurable residual disease (MRD), As measured by the University of Washington multiparametric flow cytometry (MPFC) assay with sensitivity of 0.01%, At the end of cycle 1 and cycle 2 (each cycle is 28 days).|MRD, As measured by the University of Washington MPFC assay with sensitivity of 0.01%., Within 30 days prior to initiation of transplant conditioning regimen and at day 100 after transplant|Number of days between investigational regimen day 28 and initiation of transplant conditioning regimen, Between investigational regimen day 28 and initiation of transplant conditioning regimen, through study completion, an average of 1 year.|Rate of sinusoidal obstruction syndrome, up to 1 year following investigational therapy|Relapse, As defined by International Working Group criteria: the relapse rate and median duration of remission following allogeneic hematopoietic cell transplantation (HCT) will be reported along with an exact 95% confidence interval., Up to 1 year|MRD progression, Defined by presence of leukemia blasts \>0.01% at any time after achieving MRD negativity (\<0.01%)., Up to 1 year|Overall survival, Kaplan-Meier methods will estimate the overall survival at 1 year following allogeneic (allo)HCT. This analysis will be performed using the FAS. The 1-year survival estimate will be reported along with a 95% confidence interval., 1 year after transplant
+CD123 expression via immunohistochemical stain on leukemia blasts in the bone marrow specimen, CD123 expression, on the original bone marrow specimen at time of diagnosis or time of relapse and the bone marrow specimen at time of MRD negativity, will be described as bright, dim, partial, or negative; and summarized by mean, median, standard deviation, and interquartile range., at time of diagnosis or relapse and following cycle 1 and cycle 2 (each cycle is 28 days).|T-cell (CD3) chimerism via short tandem repeat assay, Days to achieve full T-cell chimerism following alloHCT will be characterized by Kaplan-Meier methods along with 95% confidence interval., 30, 90, 180, and 365 days after transplant
+PRIMARY OBJECTIVE:
+
+I. To determine the safety and tolerability of tagraxofusp-erzs (tagraxofusp) with or without azacitidine in participants with acute myeloid leukemia (AML) in remission who are planned to undergo allogeneic hematopoietic cell transplantation (alloHCT).
+
+SECONDARY OBJECTIVES:
+
+I. To estimate the rate of conversion from measurable residual disease (MRD) positive (\>= 0.01% by multiparametric flow cytometry \[MPFC\]) pre-investigational therapy to MRD negative (=\< 0.01% by MPFC) after 1 or 2 cycles of investigational therapy.
+
+II. To estimate the rate of conversion from MRD positive (\>= 0.01% by MPFC) pre-investigational therapy to MRD negative (=\< 0.01% by MPFC) post-investigational therapy within 30 days prior to initiation of transplant conditioning regimen and at day +100 following alloHCT.
+
+III. To evaluate if adverse effects of this investigational combination leads to delays in alloHCT.
+
+IV. To evaluate if this investigational therapy results in liver toxicities after alloHCT such as sinusoidal obstruction syndrome.
+
+V. To evaluate relapse rate following alloHCT in participants who receive investigational therapy.
+
+VI. To evaluate MRD progression following alloHCT in participants who receive investigational therapy.
+
+VII. To evaluate 1-year survival following alloHCT in participants who receive investigational therapy.
+
+EXPLORATORY OBJECTIVES:
+
+I. To estimate the rate of conversion from MRD positive to MRD negative by means of next generation sequencing.
+
+II. To describe the level of CD123 expression on leukemia blasts in the bone marrow specimen at diagnosis and/or time of relapse and the association with achievement of MRD negativity post-investigational therapy.
+
+III. To evaluate the number of days to full donor T-cell chimerism following alloHCT.
+
+OUTLINE: This is a dose-escalation study of tagraxofusp-erzs . Patients are assigned to 1 of 2 cohorts.
+
+COHORT I: Patients receive tagraxofusp-erzs intravenously (IV) once daily (QD) over 15 minutes on days 1-5. Treatment repeats every 28-42 days for up to 2 cycles in the absence of disease progression or unacceptable toxicity.
+
+COHORT II: Patients receive azacitidine subcutaneously (SC) daily on days 1-5 and tagraxofusp-erzs IV QD over 15 minutes on days 8-12. Treatment repeats every 28-42 days for up to 2 cycles in the absence of disease progression or unacceptable toxicity.
+
+After completion of study treatment, patients are followed up for 12 months.

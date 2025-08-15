@@ -1,0 +1,8 @@
+The Value of Preoperative Diagnosis and Prognostic Prediction Based on Radiomics of Giant Cell Tumor of Spine
+1. Exploit CT (plain scan), enhanced CT and fMRI based radiomic biomarkers, explore their correlation with the prognostic molecular markers of spinal GCTB(p53/vegf/rank/rankl...), and help accurate diagnosis of GCTB.
+2. Exploring a new method of preoperative risk stratification for spinal GCTB, and establishing radiomic model combined with clinical features. Exploring the GCTB biological behavior prediction model and the prognosis prediction of GCTB.
+Spinal Tumor
+DIAGNOSTIC_TEST: RANK/RANKL(RANK: Receptor Activator of Nuclear factor Kappa-Β /RANKL:Receptor Activator of Nuclear factor Kappa-Β Ligand)
+RANK/RANKL, Grade:low;high(Receptor Activator of Nuclear factor Kappa-Β/Ligand), 2020|VEGF, Grade:low;high(Vascular Endothelial Growth Factors), 2020|p53, Grade:low;high(Tumor Suppressor Protein), 2020
+Recurrence, recurrence group/non-recurrence group, 2020
+This study intends to conduct a systematic review of patients with spinal GCTB who have undergone standardized imaging (CT or MRI) in our hospital since 2006 to obtain case samples, conduct standardized clinical and imaging data extraction and analysis, and fully integrate histopathology and clinical follow-up results. To preliminarily explore the value of postoperative imaging-based radiomics markers in the preoperative precise diagnosis of spinal GCTB, risk stratification and prediction of tumor biological behavior.

@@ -1,0 +1,66 @@
+TEACO: Taxotere, Eloxatin, Avastin in Cancer of the Ovary
+Feasibility study to assess a novel combination of cytotoxic agents, docetaxel and oxaliplatin, as first-line therapy in the treatment of ovarian cancer and the impact of angiogenesis inhibition for the progression and prognosis of ovarian cancer by concurrent addition of bevacizumab (Avastin®).
+Ovarian Cancer
+DRUG: Bevacizumab (Avastin®)|DRUG: Docetaxel (Taxotere®)|DRUG: Oxaliplatin (Eloxatin®)
+Twelve-month Progression-free Survival (PFS) Rate in Participants, Tumor assessments were performed by Computed tomography (CT) and Magnetic Resonance Imaging (MRI) to evaluate disease progression based on Gynecologic Oncology Group (GOG) Response Evaluation Criteria in Solid Tumors (RECIST).
+
+Disease progression was recorded as any one of the following:
+
+* appearance of a new lesion
+* symptomatic deterioration
+* progression of target or nontarget lesions
+* death
+
+Participants who did not die or show show disease progression achieved PFS. PFS rate is the percent of participants who achieved PFS., up to 12 months following treatment initiation
+Twenty Four-month Progression-free Survival (PFS) Rate in Participants, Tumor assessments were performed by Computed tomography (CT) and Magnetic Resonance Imaging (MRI) to evaluate disease progression based on Gynecologic Oncology Group (GOG) Response Evaluation Criteria in Solid Tumors (RECIST).
+
+Disease progression was recorded as any one of the following:
+
+* appearance of a new lesion
+* symptomatic deterioration
+* progression of target or nontarget lesions
+* death
+
+Participants who did not die or show show disease progression achieved PFS. PFS rate is the percent of participants who achieved PFS., up to 24 months following treatment initiation|Median Time to Progression-free Survival (PFS), Time to PFS was the interval from the date of registration to the earliest date of disease progression or death, whichever occurred first.
+
+Time of PFS was censored
+
+* on the last available tumor assessment date for participants leaving the study prior to disease progression or death; and also for participants requiring off-study medication or additional debulking surgery (where assessment date used was the one prior to off-study medication or surgery),
+* at Day 1, for living participants with no post-baseline tumor assessments.
+
+Median PFS was estimated from a Kaplan-Meier curve., up to approximately 1300 days following treatment initiation|Tumor Response Rate Based on Gynecologic Oncology Group (GOG) Response Evaluation Criteria in Solid Tumors (RECIST), Tumors were assessed by CT and MRI. Tumor response was evaluated by GOG RECIST in which:
+
+* Complete response (CR) was the disappearance of all target and non-target lesions, with no evidence of new lesions
+* Partial response (PR) was at least a 30% decrease in the sum of longest dimensions (LD) of all measurable target lesions
+
+Participants with a response (CR or PR) were to have the initial response confirmed by tumor imaging in 4-6 weeks., up to 12 months following treatment initiation|Twelve-month Recurrence-free Survival (RFS) Rate in Participants With Non Measurable Disease at Baseline, Participants with Recurrence-free survival (RFS) were participants with a non-measurable disease at baseline, who had not achieved disease progression nor had died.
+
+Disease progression included the following:
+
+* the appearance of a new lesion
+* symptomatic deterioration
+* progression of non-target lesions
+* a predefined serum CA 125 increase.
+
+RFS rate was the percent of participants in the non-measurable disease subgroup who achieved RFS., up to 12 months following treatment initiation|Median Time to Recurrence-free Survival (RFS) in Participants With Non-measurable Disease at Baseline, The time to RFS was programmatically defined as the interval from the date of registration to the earliest date of disease progression or death, whichever occurred first.
+
+Participants were
+
+* censored on the last available CA 125 biomarker blood draw date if
+
+  * left the study prior to disease progression or death
+  * they received off-study anti-tumor medication
+  * underwent debulking surgery
+* censored at Day 1 if they were alive had no post baseline CA 125 biomarker blood draw., up to approximately 1500 days following treatment initiation|CA-125 Response Rate, A CA-125 response was considered at least a 50% reduction in the level of the biomarker, CA-125, from a pretreatment level, which was confirmed and maintained for at least 28 days.
+
+The overall CA-125 biomarker response rate was defined as the number of participants in the measurable disease subgroup who met the above criteria at least once within the study treatment period +21 days, divided by the number of evaluable participants in the disease subgroup., up to 12 months after treatment initiation|Overall Survival Rate, Survival was the observed length of life from entry into the study to death or the date of last contact.
+
+The overall survival rate (percentage of participants showing survival) at 12 and 24-months is reported here., up to up to approximately 1700 days after treatment initiation|Median Overall Survival Time, Survival was the observed length of life from entry into the study to death or the date of last contact.
+
+The median overall survival time was estimated using Kaplan-Meier Curve., up to approximately 1700 days after treatment initiation
+Participants were
+
+* administered study medication approximately 28 days after initial surgery for ovarian cancer
+* received the study treatment regimen of up to one year unless there was disease progression, unacceptable toxicity, death, participant refusal, or treatment delay beyond the time frame permitted for each treatment
+
+Participants were followed for survival for a minimum 3 years from the date of enrollment

@@ -1,0 +1,15 @@
+Improving Pancreas Radiotherapy Plans Using Respiration-driven Anatomic Deformation: A Pilot Study
+The overall aim of this study is to investigate a novel "dual instance" planning method to make use of the respiratory motion to improve pancreatic radiation therapy (RT) treatment planning.
+
+Specific Aim 1: Acquire patient abdominal MRI and CT at both deep inspiration (INSP) and expiration (EXP) positions and characterize the changes in geometric relationships between the INSP and EXP instances for tumor and normal tissues including stomach, duodenum and bowel. We hypothesize that INSP and EXP MRI and CT characterization will allow identification of patients who may benefit from the dual instance planning method.
+
+Specific Aim 2: Develop, investigate and evaluate plans based on free breathing, single instance breath hold, and the novel dual instance anatomical information. We hypothesize that use of the dual instance method will lead to improved plans, demonstrated by the ability to increase dose to the target, while maintaining the clinically-accepted normal tissue dose constraints.
+Pancreatic Cancer
+OTHER: Magnetic Resonance Imaging (MRI)
+Compare magnetic resonance (MR) in different breath-hold phases to quantify respiration induced anatomic changes, Baseline only (at least 3 days after CT simulation and up to 1 week after the initiation of radiation treatment)
+Modeling the feasibility of the dose escalation using respiration induced anatomic changes, Baseline only (at least 3 days after CT simulation and up to 1 week after the initiation of radiation treatment)
+The overall aim of this study is to investigate a novel "dual instance" planning method to make use of the respiratory motion to improve pancreatic radiation therapy (RT) treatment planning.
+
+Specific Aim 1: Acquire patient abdominal MRI and CT at both deep inspiration (INSP) and expiration (EXP) positions and characterize the changes in geometric relationships between the INSP and EXP instances for tumor and normal tissues including stomach, duodenum and bowel. We hypothesize that INSP and EXP MRI and CT characterization will allow identification of patients who may benefit from the dual instance planning method.
+
+Specific Aim 2: Develop, investigate and evaluate plans based on free breathing, single instance breath hold, and the novel dual instance anatomical information. We hypothesize that use of the dual instance method will lead to improved plans, demonstrated by the ability to increase dose to the target, while maintaining the clinically-accepted normal tissue dose constraints.

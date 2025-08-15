@@ -1,0 +1,6 @@
+Skeletal Metastasis Registry
+This is a prospective, observational study designed to contribute data from patients with symptomatic metastatic bone disease treated at Sibley Memorial Hospital and Johns Hopkins Medicine to an international registry hosted by the Swedish Regional Cancer Centrum in Stockholm, Sweden. This protocol supports a worldwide effort to collect and store information from patients treated for symptomatic bone metastases within the International Skeletal Metastasis Registry (ISMR)
+Metastatic Bone Tumor
+Overall survival (OS), OS (in months) calculated from the date of intervention., Up to 24 Months post surgery
+Reoperation or retreatment for any reason, Number of participants with reoperation or retreatment for any reason., Up to 24 24 months post surgery|Time to reoperation or retreatment for any reason, Timing of reoperation calculated from the date of intervention., Up to 24 months post surgery
+The registry is designed to update a suite of clinical decision-support tools designed for use when treating patients with metastatic bone disease. The models estimate the likelihood of survival at 1, 3, 6, 12, 18, and 24 months post surgery, which in turn, may be used for surgical decision-making.

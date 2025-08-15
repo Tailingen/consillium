@@ -1,0 +1,31 @@
+Clinical-pathological Evaluation of Pit-NETs
+Pituitary adenomas, namely pituitary neuroendocrine tumors (PitNETs), are recognized as rare neoplasia by national and international institutions.
+
+Albeit most PitNETs are slow-growing with an indolent behavior, about one-third do not achieve biochemical control, recur, re-grow, and resist conventional treatments.
+
+The predictors of aggressive behavior have not been identified for PitNETs. In 2013 Trouillas and coworkers developed a five tiered clinicopathological score by mixing histopathological data and clinico-radiological evidence of invasion. This system proved of prognostic value. Nonetheless, unlike for NET of gut and lung, no formal grading and/or staging tools were developed. In addition, PitNETs have not been thoroughly investigated by radiomics to predict clinical behavior, nor have druggable pathways been elucidated in PitNET cells to unveil new potential therapeutic approaches.
+
+The first aim of this project is to define grading and staging tools for PitNETs based on: i) lineage-specific transcription factors ; ii) cell type specification by hormone production (prolactin, TSH, LH, FSH, ACTH, GH or none); iii) integration of standard radiological measures with recognized tools for clinical and pathological staging.
+
+The second aim of this project is to investigate radiomics features as predictors of PitNETs behavior, prognosis, and treatment outcome.
+
+The third aim of this project is to investigate whether the expression of molecular biomarkers \[Vascular Endothelial Growth Factor (VEGF), Epithelial Growth Factor Receptor (EGFR), somatostatin receptors 1-5 (SSTRs), Fibroblast Growth Factor (FGF), mTOR (mammalian target of rapamycin), Programmed cells Death 1 (PD1) and its ligands (PD-L1), and Cytotoxic T Lymphocyte Associated protein 4 (CTLA4)\] may impact on patients prognosis. Identifying new molecular pathways may help fine-tune and schedule the emerging targeted therapies for aggressive PitNETs, including mTOR inhibitors, VEGF, EGFR, and immune check-point inhibitors.
+
+This study will investigate a large multicenter retrospective series of 740 PitNET patients and a prospective cohort of 200 patients to reach these objectives.
+Pituitary|Cancer|Neuroendocrine Tumors
+DIAGNOSTIC_TEST: grading &amp; staging|DIAGNOSTIC_TEST: PitNET morphology analysis|DIAGNOSTIC_TEST: Radiomics|DIAGNOSTIC_TEST: Molecular test: proteomics
+Grating and staging, To investigate the following pathological features of PitNET cell lineage-specific transcription factors, cell type specification by hormone production, proliferative index, p53, mitotic count, expression of somatostatin receptors, through immunohistochemistry analysis on formalin-fixed paraffin-embedded samples of PitNETs, 2 years
+PitNET morphology analysis, Identification of PitNET morphology features, as tumor maximum diameter, volume, sites of tumor extensions and invasion, and grading of cavernous sinus invasion though the revision of pre-surgical magnetic resonance images, 2 years|Radiomics, Radiomics features will be extracted and computed using the different standardized methods and platforms for quantitative imaging analysis though different standardized methods and platforms for quantitative imaging analysis. Radiomics analysis will be realized after segmentations test-retest, to evaluate and quantify features\&#39; reproducibility., 2 years|Molecular test: proteomics, To investigate on PitNets the expression of Vascular Endothelial Growth Factor (VEGF), Epithelial Growth Factor Receptor (EGFR), somatostatin receptors 1-5 (SSTRs), Fibroblast Growth Factor (FGF), mTOR (mammalian target of rapamycin), Programmed cells Death 1 (PD1) and its ligands (PD-L1), and Cytotoxic T Lymphocyte Associated protein 4 (CTLA4)\] through proteomic analysis on formalin-fixed paraffin-embedded samples of PitNETs for patients retrospectively included and on frozen tissues for patients prospectively enrolled., 2 years
+Pituitary adenomas, namely pituitary neuroendocrine tumors (PitNETs), are recognized as rare neoplasia by national and international institutions.
+
+Albeit most PitNETs are slow-growing with an indolent behavior, about one-third do not achieve biochemical control, recur, re-grow, and resist conventional treatments.
+
+The predictors of aggressive behavior have not been identified for PitNETs. In 2013 Trouillas and coworkers developed a five tiered clinicopathological score by mixing histopathological data and clinico-radiological evidence of invasion. This system proved of prognostic value. Nonetheless, unlike for NET of gut and lung, no formal grading and/or staging tools were developed. In addition, PitNETs have not been thoroughly investigated by radiomics to predict clinical behavior, nor have druggable pathways been elucidated in PitNET cells to unveil new potential therapeutic approaches.
+
+The first aim of this project is to define grading and staging tools for PitNETs based on: i) lineage-specific transcription factors ; ii) cell type specification by hormone production (prolactin, TSH, LH, FSH, ACTH, GH or none); iii) integration of standard radiological measures with recognized tools for clinical and pathological staging.
+
+The second aim of this project is to investigate radiomics features as predictors of PitNETs behavior, prognosis, and treatment outcome.
+
+The third aim of this project is to investigate whether the expression of molecular biomarkers \[Vascular Endothelial Growth Factor (VEGF), Epithelial Growth Factor Receptor (EGFR), somatostatin receptors 1-5 (SSTRs), Fibroblast Growth Factor (FGF), mTOR (mammalian target of rapamycin), Programmed cells Death 1 (PD1) and its ligands (PD-L1), and Cytotoxic T Lymphocyte Associated protein 4 (CTLA4)\] may impact on patients prognosis. Identifying new molecular pathways may help fine-tune and schedule the emerging targeted therapies for aggressive PitNETs, including mTOR inhibitors, VEGF, EGFR, and immune check-point inhibitors.
+
+This study will investigate a large multicenter retrospective series of 740 PitNET patients and a prospective cohort of 200 patients to reach these objectives.

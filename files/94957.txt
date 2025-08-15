@@ -1,0 +1,31 @@
+Optical-Coherence Tomography for the Non-invasive Diagnosis and Subtyping of Basal Cell Carcinoma
+Rationale:
+
+To date, the diagnosis and subtyping of basal cell carcinoma (BCC) is verified with histopathology which requires a biopsy. Because this technique is invasive, new non-invasive strategies have been developed, including Optical Coherence Tomography (OCT). This innovative technique enables microscopically detailed examination of lesions, which is useful for diagnosing and identification of various subtypes of BCC. The diagnostic value of the VIVOSIGHT OCT in daily clinical practice, has not been established to date.
+Basal Cell Carcinoma|Optical Coherence Tomography|Deep Learning|Artificial Intelligence
+DEVICE: Optical Coherence Tomography
+Diagnostic accuracy of OCT in diagnosis and subtyping of BCC, The main study parameter is the diagnostic value of OCT in diagnosis BCC defined as accuracy, sensitivity, specificity and negative- and positive diagnostic values. An increase of at least 10 percent in specificity and an equal sensitivity of OCT-based diagnosis is expected, compared with the clinical diagnosis and the golden-standard histopathology., February 2017-April 2021
+Developing a deep learning algorithm for automated detection of basal cell carcinoma (BCC) and recognizing three different BCC subtypes in OCT images., The ability of a deep learning algorithm to classify BCC from other skin lesions within OCT images, June 2020-August 2021
+Objective:
+
+The aim of the study is to investigate the diagnostic value and usability of OCT in the diagnosis and subtyping of clinically suspect BCC.
+
+Study design:
+
+In this prospective observational trial, the VIVOSIGHT OCT device will be used on all patients attending the policlinic Dermatology of the MUMC and will undergo a skin biopsy. Information collected from OCT images will be compared with the clinical diagnosis by the specialist, including dermatoscopy, and the gold standard consisting of the histopathological diagnosis obtained from biopsy.
+
+Study population:
+
+All patients attending the policlinic Dermatology of the MUMC that will undergo a skin biopsy.
+
+Intervention:
+
+In this study, patients will be asked for informed consent to participate in this study before the planned biopsy is performed. The consent includes the undergoing of the imaging and extracting the pathology report from the patient's file. Imaging of the lesion will be performed subsequently, which is non-invasive and requires only several minutes of time. After the imaging, the patient is treated conform regular care: the following biopsy will be send for histopathologic examination by the pathologist, and the patient will hear the outcome of this investigation via his or her own physician. The histopathologic diagnosis and subtype will be obtained from the pathology report to compare with the diagnosis and subtype based on clinical diagnosis and OCT imaging.
+
+Main study parameters/endpoints:
+
+The main study parameters comprise the diagnostic value of OCT imaging for BCC, defined as the sensitivity, specificity, positive- and negative predictive value, compared with the clinical diagnosis and the gold standard of histopathological diagnosis. Secondary outcome is the value of OCT for subtyping BCC. Retrospectively, the necessity of a biopsy to confirm the diagnosis will be evaluated.
+
+Nature and extent of the burden and risks associated with participation, benefit and group relatedness:
+
+This research is conducted during regular patient care. Patients that are planned to have a skin biopsy for histopathological study will be asked to participate and provide informed consent. When a biopsy is planned, the OCT imaging will be performed while the patients are waiting for the biopsy to be prepared, the OCT imaging process is performed by the investigator. The outcome of the planned biopsy will be used as the gold standard for comparison with OCT. The results of this biopsy will be extracted from the pathology report in the electronic patient history file. Possible risks for biopsies are not influenced by the OCT imaging apparatus and include: post-operative bleeding, allergic reactions, wound infection and hematoma formation. With OCT imaging valuable information can be obtained without influencing the regular care procedure. This is benificial because in the future the non-invasive OCT might replace invasive skin biopsies.

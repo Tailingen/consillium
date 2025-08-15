@@ -1,0 +1,16 @@
+STI571 Plus Cytarabine in Treating Patients With Chronic Myelogenous Leukemia
+Phase I/II trial to study the effectiveness of combining STI571 and chemotherapy in treating patients who have chronic myelogenous leukemia. Drugs used in chemotherapy use different ways to stop cancer cells from dividing so they stop growing or die. STI571 may stop the growth of leukemia cells. Combining chemotherapy and STI571 may kill more cancer cells
+Blastic Phase Chronic Myelogenous Leukemia|Chronic Myelogenous Leukemia, BCR-ABL1 Positive|Relapsing Chronic Myelogenous Leukemia
+DRUG: imatinib mesylate|DRUG: cytarabine
+Toxicity according to NCI/NIH Common Toxicity Criteria, Described by duration, relatedness to treatment, and action taken., Up to 2 years|Hematologic response, Up to 6 months|Bone marrow cytogenetic response, Up to 6 months
+OBJECTIVES:
+
+I. Determine the maximum tolerated dose of high-dose cytarabine when combined with imatinib mesylate in patients with blastic phase chronic myelogenous leukemia.
+
+II. Determine the safety of this regimen in these patients. III. Determine the pharmacokinetics of this regimen in these patients. IV. Determine the frequency of hematologic and cytogenetic responses, duration of response, and survival of patients treated with this regimen.
+
+OUTLINE: This is a multicenter, dose-escalation study of cytarabine.
+
+Phase I: Patients who have not previously received imatinib mesylate receive oral imatinib mesylate daily on days 1-35. Patients who have previously received imatinib mesylate for at least 28 days receive oral imatinib mesylate on days 22-35. All patients receive cytarabine IV over 2 hours every 12 hours on days 29-32. Patients with more than 5% residual blasts in bone marrow on day 28 receive a second course in the absence of disease progression or unacceptable toxicity. Cohorts of 3-6 patients receive escalating doses of cytarabine until the maximum tolerated dose (MTD) is determined. The MTD is defined as the dose preceding that which 2 of 6 patients experience dose-limiting toxicity.
+
+Phase II: Additional patients are treated at the dose level preceding the MTD. Patients are followed monthly.

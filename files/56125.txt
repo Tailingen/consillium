@@ -1,0 +1,48 @@
+S1505: Combination Chemotherapy or Gemcitabine Hydrochloride and Paclitaxel Albumin-Stabilized Nanoparticle Formulation Before Surgery in Treating Patients With Pancreatic Cancer That Can Be Removed by Surgery
+This randomized phase II trial studies how well fluorouracil, irinotecan hydrochloride, and oxaliplatin (combination chemotherapy) works and compares to gemcitabine hydrochloride and paclitaxel albumin-stabilized nanoparticle formulation before surgery in treating patients with pancreatic cancer that can be removed by surgery. Drugs used in chemotherapy, such as fluorouracil, irinotecan hydrochloride, oxaliplatin, gemcitabine hydrochloride, and paclitaxel albumin-stabilized nanoparticle formulation, work in different ways to stop the growth of tumor cells, either by killing the cells, by stopping them from dividing, or by stopping them from spreading. Giving more than one drug (combination chemotherapy) may kill more tumor cells. It is not yet known whether combination chemotherapy is more effective than gemcitabine hydrochloride and paclitaxel albumin-stabilized nanoparticle formulation before surgery in treating pancreatic cancer.
+Pancreatic Adenocarcinoma|Resectable Pancreatic Carcinoma
+DRUG: Fluorouracil|DRUG: Gemcitabine Hydrochloride|DRUG: Irinotecan Hydrochloride|DRUG: Oxaliplatin|DRUG: Paclitaxel Albumin-Stabilized Nanoparticle Formulation|PROCEDURE: Pancreatectomy
+Overall Survival (OS), OS is the length of time between protocol registration and patient death, Up to 4 years for the estimates of median overall survival. Up to 2 years for Statistical Analysis 1 and 2, comparing the observed 2-year overall survival (OS) to the null hypothesis of 40%, in each arm.
+Number of Patients With Grade 3 Through Grade 5 Adverse Events That Are Related to Study Drug, Only adverse events that are possibly, probably or definitely related to preoperative and postoperative chemotherapy are reported., Duration of treatment and follow up until death or 4 years post registration.|Number of Patients Going to Surgery for Resection After Preoperative Chemotherapy., Up to 8 months post registration (and within 4 to 8 weeks after the last dose of Cycle 3 preoperative chemotherapy).|Number of Patients Achieving R0 Resection After Preoperative Chemotherapy., R0 resection classification is defined as macroscopically complete tumor removal with negative microscopic surgical margins (bile duct, pancreatic parenchyma, and superior mesenteric artery margins)., Up to 8 months post registration (and within 4 to 8 weeks after the last dose of Cycle 3 preoperative chemotherapy).|Number of Participants With a Response Following Preoperative Chemotherapy, Including Confirmed and Unconfirmed, Complete and Partial Response, Per RECIST 1.1., Per Response Evaluation Criteria In Solid Tumors Criteria (RECIST v1.1) for target lesions and assessed by MRI: Complete Response (CR), disappearance of all target lesions; Partial Response (PR), \>=30% decrease in the sum of the longest diameter of target lesions; Overall Response (OR) = CR + PR., Up to 6 months post registration (and within 2 to 4 weeks after the last dose of Cycle 3 preoperative chemotherapy.).|Number of Participants With Complete Response, Moderate Response, Minimal Response, and Poor or No Response After Resection., Pathologic response was evaluated after the patient had surgery, and was based on local pathology review of the resected surgical specimen, according to the following Tumor Regression Grade definitions:
+
+0: Complete response - no residual tumor
+
+1. Moderate response - minimal residual cancer (single cells or small groups of cancer cells)
+2. Minimal response - residual cancer outgrown by fibrosis
+3. Poor or no response - no definite response identified (minimal or no tumor kill; extensive residual cancer), Up to 8 months post registration (and within 4 to 8 weeks after the last dose of Cycle 3 preoperative chemotherapy).|Number of Participants With Loco-regional and Distant Recurrence After R0 or R1 Resection., Loco-regional recurrence is defined as any evidence of new disease within the pancreatic tumor bed based on surveillance scans. The pancreatic tumor bed includes:
+
+1. Superior mesenteric artery and vein lymph nodes
+2. Lymph nodes in porta hepatis (bile duct, portal vein, hepatic artery lymph nodes)
+3. Lymph nodes around left renal vein, inferior vena cava or aorta
+4. Celiac axis lymph nodes.
+
+Distant Recurrence is defined as any evidence of new disease outside the primary tumor bed (liver, lungs, etc.) based on surveillance scans., Up to 4 years|Disease-free Survival From the Time of R0 or R1 Resection., Disease-free survival (DFS) is calculated for patients who undergo surgical resection (R0/R1). DFS will be measured from the date of surgical resection to date of first documentation of recurrence (loco-regional or distant) or death due to any cause. Patients last known to be alive and free of disease will be censored at date of last contact., Up to 4 years
+PRIMARY OBJECTIVES:
+
+I. To assess 2-year overall survival in each treatment arm (fluorouracil, irinotecan hydrochloride, and oxaliplatin \[modified (m)FOLFIRINOX\] and gemcitabine \[gemcitabine hydrochloride\]/nab-paclitaxel \[paclitaxel albumin-stabilized nanoparticle formulation\]) in patients with resectable pancreatic cancer.
+
+II. If the stated threshold is met in one or both arms: to choose the better regimen with respect to 2-year overall survival.
+
+SECONDARY OBJECTIVES:
+
+I. To estimate, for all patients and within treatment arms: frequency and severity of adverse events associated with chemotherapy in the perioperative setting.
+
+II. To estimate, for all patients and within treatment arms: proportion of patients going to surgery for resection after preoperative chemotherapy.
+
+III. To estimate, for all patients and within treatment arms: proportion of patients achieving macroscopically complete tumor removal with negative microscopic surgical margins (R0) resection after preoperative chemotherapy.
+
+IV. To estimate, for all patients and within treatment arms: overall response rate following preoperative chemotherapy, including confirmed and unconfirmed, complete and partial response, per Response Evaluation Criteria in Solid Tumors (RECIST) 1.1.
+
+V. To estimate, for all patients and within treatment arms: pathologic response rates after R0 or macroscopically complete tumor removal with any positive microscopic surgical margin (R1) resection.
+
+VI. To estimate, for all patients and within treatment arms: patterns of recurrence (loco-regional, distant) after R0 or R1 resection.
+
+VII. To estimate, for all patients and within treatment arms: disease-free survival from the time of R0 or R1 resection.
+
+OUTLINE: Patients are randomized to 1 of 2 treatment arms.
+
+ARM I: Patients receive oxaliplatin intravenously (IV) over 2 hours and irinotecan hydrochloride IV over 90 minutes on days 1 and 15. Patients also receive fluorouracil IV over 46 hours on days 1-3 and 15-17. Treatment repeats every 28 days for 3 courses in the absence of disease progression or unacceptable toxicity. Patients achieving stable disease or better undergo pancreatectomy 4-8 weeks after completion of first 3 courses of treatment. Within 4-8 weeks following pancreatectomy, patients receive an additional 3 courses of oxaliplatin, irinotecan hydrochloride, and fluorouracil treatment in the absence of disease progression or unacceptable toxicity.
+
+ARM II: Patients receive paclitaxel albumin-stabilized nanoparticle formulation IV over 30 minutes and gemcitabine hydrochloride IV over 30 minutes on days 1, 8, and 15. Treatment repeats every 28 days for 3 courses in the absence of disease progression or unacceptable toxicity. Patients achieving stable disease or better undergo pancreatectomy 4-8 weeks after completion of first 3 courses of treatment. Within 4-8 weeks following pancreatectomy, patients receive an additional 3 courses of paclitaxel albumin-stabilized nanoparticle formulation and gemcitabine hydrochloride treatment in the absence of disease progression or unacceptable toxicity.
+
+After completion of study treatment, patients are followed up every 3 months for 2 years and then every 6 months for 2 years.

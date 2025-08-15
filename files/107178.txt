@@ -1,0 +1,25 @@
+Characterization of Extracellular Vesicles in Breast Cancer Patients
+Extracellular vesicles (EVs) are lipid bilayer-delimited particles, naturally released from cells and mediators of intercellular cross-talk. In breast cancer (BC), EVs seem to be involved in the tumor microenvironment's shaping, in cancer cells invasion and in the set-up of metastasis.
+
+Clinical studies have provided initial evidence that these vesicles may have a prognostic and predictive value in breast cancer. Considering their ubiquitous presence in body fluids and their minimally invasive assessment through blood sampling, EVs could have a potential as liquid biopsy-derived biomarkers. Their quantification though is a complex task requiring complicated and time-consuming pre-analytical procedures of EVs isolation.
+
+This protocol want to develop a new method for the detection of tumor-derived-EVs associated proteins, based on the use of Single Molecule Array (SiMoA), a digital ELISA technology able to detect and quantify extremely low concentrations of target proteins or particles.
+
+The aim of this study is to evaluate how this new technology can allow the quantification of EVs plasma levels in patients affected by BC, providing useful diagnostic and prognostic information.
+Breast Cancer
+DIAGNOSTIC_TEST: Blood sample
+EVs levels in early BC, Determination of plasma EVs levels in patients with EBC by SIMOA digital ELISA and evaluation of the difference of their concentration compared to healthy controls, 36 months|EVs levels in metastatic BC, Determination of plasma EVs levels in patients with first diagnosis of metastatic BC by SIMOA digital ELISA and evaluation of the difference of their concentration compared to healthy controls, 36 months
+EVs levels after surgery, Determination of plasma EVs levels in patients with early BC one month after surgery and comparison with pre-surgery EVs levels in order to evaluate any qualitative of quantitative modifications in circulating EVs, 36 months|EVs levels after chemotherapy treatment, Determination of plasma EVs levels in patients with first diagnosis of metastatic BC after 4 months of systemic therapy and comparison with pre-therapy EV's plasma levels, 36 months
+This is a prospective, observational, monocentric and no profit study. The study involves the analysis of plasma from patients with breast cancer in order to quantify and characterize tumor-derived EVs at specific disease stages.
+
+The enrollment of consecutive patients affected by BC referring to an EUSOMA-accredited Breast Unit is planned.
+
+The patients will be divided into three pre-planned groups, as follows:
+
+Population 1: patients diagnosed with early breast cancer patients (stage I-III) with indication to curative surgery.
+
+Population 2: a control group made of sex- and age-matched healthy volunteers, not affected by cancer or chronic diseases.
+
+Population 3: patients with metastatic breast cancer diagnosis. For each patient a blood sample will be collected and plasma will be isolated. A new SiMoA assay based on the use of anti-CD63 and anti-CD9 antibodies, two well known protein markers of EVs, will be used to capture and quantify EVs directly from plasma without requiring any prior sample processing.
+
+The study will be conducted following the International Conference on Harmonization \[ICH\] Good Clinical Practice \[GCP\] guidelines. The Ethical Committee of ICS Maugeri authorized the study as protocol 2490/2020.

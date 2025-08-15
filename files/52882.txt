@@ -1,0 +1,27 @@
+A Study to Compare the Effects of Elranatamab (PF 06863135) Versus Standard of Care (SOC) in Patients With Multiple Myeloma (MM) in Germany and US
+The purpose of the study is to understand how well elranatamab (PF-06863135) may be used for relapsed refractory multiple myeloma (RRMM). MM is a type of cancer that begins in plasma cells (white blood cells that produce antibodies). Sometimes MM might improve at first, but then gets resistant to the treatment and starts growing again (known as relapsed refractory).
+
+This study medicine will be compared with standard-of-care (SOC) therapies. SOC are treatments that are accepted by medical experts as a proper treatment for a certain type of disease and that are widely used by doctors in real world.
+
+For people receiving elranatamab, the study doctors will use data from the other clinical trial (MagnetisMM-3). The study doctors will also use data from multiplemany real-world sources (TherapyMonitor MM Germany and Flatiron Health), for SOC in clinical practice. This study does not seek any participants for enrollment.
+
+The study doctors will compare the experiences of people receiving elranatamab to people receiving SOC therapies. This way, it will help the study doctors to know how well elranatamab can be used for RRMM treatment.
+Multiple Myeloma
+DRUG: Elranatamab|DRUG: Standard of Care
+Overall Survival, Time from initiation of the index Line of therapy until death due to any cause . Patients are censored at loss to follow-up or end of the study period., up to 402 weeks
+Progression-free Survival, Time from initiation of the index line of therapy (index date) to either the date of progression (proxy in TM-MM dataset: initiation of the next treatment line) or death due to any cause. Patients are censored at loss to follow-up or end of the study period., up to 402 weeks
+This study aims to contextualize the outcomes of Study C1071003 by comparing a priori specified clinical effectiveness of patients treated with elranatamab using patient-level data from study C1071003 vs. RW external control of patients with TCE MM treated with SOC therapies from the TM-MM Germany dataset and from the Flatiron Health database. The study is an extension of studies C1071024 and C1071031 with more recent data and an alternative set of therapies included in the ECA, following the G-BA's definition of the appropriate comparator therapy, and with an alternative data base focusing on German patients. Effectiveness will be measured by Overall Survival, Progression-free Survival with no differentiation between primary and secondary endpoints. To further reduce the potential for bias, appropriate comparative effectiveness methods and statistical techniques will be utilized (propensity score weighting/matching methods and multivariable regression). If appropriate, multiple imputation by chained equations will be performed. No formal sample size estimations have been performed for this observational study.
+
+All patients who meet the inclusion/exclusion criteria of the external control arm will be included in the analyses
+
+This is a retrospective study, so issues of quality control at study sites, e.g., data queries, do not apply. Analyses are programmed according to the specifications in the protocol. . Statistical programming code and summary output will be reviewed by the study team, including a biostatistician, for accuracy and completeness. Final deliverables will be reviewed and verified by a second, independent analyst. All quality checks will be documented.
+
+For the secondary data collected by the TM-MM Germany project, the completeness and plausibility checks have been carried out in three stages during the generation of the dataset include:
+
+1. Online check during data entry (incomplete and non-plausible data entries trigger an error message)
+2. Central individual review after completion of data entry by the TNXO team of clinical monitors (in-complete or non-plausible data entry triggers a query process).
+3. Central review of data sets by the TNXO team of data analysts to find and exclude any duplicated patients
+
+After the duplicate records are excluded, only complete and plausible records are included in the database. Once the TM-MM dataset is provided by TNXO to Cytel and Pfizer approves data access for Study C1071003, the study data management will adhere to pre-defined process guidelines, which mainly consist of data validation based on computer-assisted checking of variables/values. In the RW dataset, patients with any implausible/counter-intuitive data will be excluded from the sample during the selection of the study population or for the analysis of specific outcomes, as applicable. The study team will maintain adequate and accurate records to enable the conduct of the study to be fully documented.
+
+The Flatiron databases are compliant with both the spirit and the letter of the Health Insurance Portability and Accountability Act of 1996 (HIPAA). The databases meet the criteria for a limited-use dataset and contain none of the data elements prohibited by HIPAA for limited-use datasets.

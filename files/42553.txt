@@ -1,0 +1,38 @@
+Enasidenib in Combination With Cobimetinib for the Treatment of Relapsed or Refractory Acute Myeloid Leukemia
+This phase Ib trial tests the safety, side effects, and best dose of a enasidenib in combination with cobimetinib in treating patients with acute myeloid leukemia that has come back (relapsed) or does not respond to treatment (refractory). Enasidenib may stop the growth of cancer cells by blocking some of the enzymes needed for cell growth. Cobimetinib is used in patients whose cancer has a mutated (changed) form of a gene called BRAF. It is in a class of medications called kinase inhibitors. It works by blocking the action of an abnormal protein that signals cancer cells to multiply. This helps slow or stop the spread of cancer cells. Giving enasidenib and cobimetinib may kill more cancer cells in patients with relapsed or refractory acute myeloid leukemia.
+Recurrent Acute Myeloid Leukemia|Refractory Acute Myeloid Leukemia
+DRUG: Cobimetinib|DRUG: Enasidenib Mesylate
+Dose limiting toxicity, Toxicity will be graded according to the National Cancer Institute (NCI)-Common Terminology Criteria for Adverse Events (CTCAE), version 5.0., Cycle 1 (28 days)|Incidence of adverse events, Toxicity will be graded according to the NCI- CTCAE version 5.0. Observed toxicities will be summarized in terms of type (organ affected or laboratory determination), severity, time of onset, duration, probable association with the study treatment and reversibility or outcome., Up to 30 days after last dose of study drug
+Response, Response will be determined using European LeukemiaNet (ELN) criteria., Up to 1 year|Minimal residual disease (MRD) status, MRD status will be determined by standard of care (SOC) flow cytometry assay., Up to 1 year|Complete remission, Time to complete remission is defined as time from first study dose to attainment of complete response(CR), complete response with incomplete hematologic recovery CRi, or complete response with partial hematologic recovery CRh). Will calculate rates and 95% Clopper-Pearson binomial confidence interval (CI)., Up to 1 year|Time to first response, Time to first response is defined as time from first study dose to attainment of first documented CR, CRi, CRh, morphologic leukemia free state (MLFS), or partial response (PR). Will calculate rates and 95% Clopper-Pearson binomial CI., From first study does to first documented complete response, assessed up to 3 years|Response duration, Response Duration is defined as the time from the date of first documented response (CR, CRi, CRh, MLFS or PR) to documented disease relapse/progression or death, whichever occurs first. Will be estimated using the product-limit method of Kaplan and Meier., From first study does to first documented complete response, assessed up to 1 year|Event-free survival (EFS), Will be estimated using the product-limit method of Kaplan and Meier., From first study dose to first documented complete response to relapse/progression (> 5% blasts, reappearance of blasts in blood, or development of extramedullary disease) or death, whichever occurs first, assessed up to 1 year|Overall survival (OS), Will be estimated using the product-limit method of Kaplan and Meier., From first study dose to death from any cause, assessed up to 1 year
+Level of myeloid differentiation, Level of myeloid differentiation on pre and post-treatment peripheral blood (PB) and bone marrow (BM) samples by flow cytometry., Up to 1 year|Promotor methylation status of RAS pathway regulator, Promotor methylation status of RAS pathway regulators by enhanced reduced representation bisulfite sequencing., Up to 1 year|Changes in RAS pathway regulatory gene expression levels, Changes in RAS pathway regulatory gene expression levels by ribonucleic acid (RNA) sequencing pre- and post-treatment. Will use Next generation sequencing (HopeSeq) and/or rapid sequencing assays (Rapid AML Panel)., Pre and post- treatment, assessed up to 1 year
+PRIMARY OBJECTIVES:
+
+I. Assess the safety and tolerability of cobimetinib in combination with enasidenib.
+
+II. Determine the maximum tolerated dose(s) (MTD) and recommended phase 2 dose (RP2D).
+
+SECONDARY OBJECTIVES:
+
+I. Obtain preliminary estimates of clinical activity as measured by the complete remission (complete response \[CR\], complete response with incomplete hematologic recovery \[CRi\], or complete response with partial hematologic recovery \[CRh\]) rate and minimal residual disease (MRD) rate.
+
+II. Obtain preliminary estimates of clinical activity as measured by overall response rate (CR, CRi, CRh, morphologic leukemia free state \[MLFS\], and partial response \[PR\]).
+
+III. Obtain preliminary estimates of median time to complete remission. IV. Obtain preliminary estimates of median time to first response. V. Obtain preliminary estimates of response duration in all participants and in those attaining CR/CRi/CRh.
+
+VI. Obtain preliminary estimates of median and 1-year event-free survival (EFS).
+
+VII. Obtain preliminary estimates of median and 1-year overall survival (OS).
+
+EXPLORATORY OBJECTIVES:
+
+I. Characterize the effects of the combination on cellular differentiation of leukemic cells as measured by flow cytometry performed at study entry and at serial timepoints throughout the study.
+
+II. Evaluate changes in promotor methylation patterns after treatment with combination therapy.
+
+III. Evaluate changes in gene expression of RAS pathway regulators as a result of the combination therapy.
+
+OUTLINE: This is dose-escalation study of cobimetinib followed by a dose-expansion study.
+
+Patients receive cobimetinib orally (PO) once daily (QD) on days 1-21 and enasidenib mesylate PO QD on days 1-28 of each cycle. Treatment repeats every 28 days for 12 cycles in the absence of disease progression or unacceptable toxicity.
+
+After completion of study treatment, patients are followed up at 30 days, and every 3 months for 1 year at last treatment dose.

@@ -1,0 +1,30 @@
+Cancer Prevalence and Outcomes in Individuals With HIV and AIDS: Multicenter BUHASDER Study
+AIDS-defining cancers reported a 70% drop in the 1990s following the advent of triple antiretroviral therapy in the USA. With increased survival, the proportion of non-AIDS-defining cancers increases with age, making cancer a leading cause of death among individuals with HIV infection in developed countries, with higher cancer-related mortality rates in this group. In Turkey, studies have reported HIV-associated non-Hodgkin lymphoma cases, and a multicentre study documented 37 cancer cases from 1998 to 2016.
+
+This study aims to determine the prevalence of cancer in individuals with HIV and AIDS in Turkey over the past decade, examining the age-related distribution and risk factors for HIV-related and unrelated cancers. Additionally, the mortality rates and comorbidities affecting mortality will be assessed. The findings will be compared with the Turkish Statistical Institute's data on cancer prevalence, type, and mortality.
+Hiv|Cancer
+Prevalence and risk factors of cancer in individuals living with HIV and AIDS, This outcome measure aims to determine the prevalence of cancer in individuals living with HIV and AIDS in Turkey, including age-related distribution and cancer types.
+
+Measurement Tool/Method: Cancer prevalence will be assessed through retrospective analysis of patient records and registry data.
+
+Unit of Measure: Percentage of individuals diagnosed with cancer., Medical records of individuals living with HIV who were diagnosed with cancer between November 1, 2014, and November 1, 2024, will be reviewed starting on November 12, 2024. Patients will be enrolled in the study beginning on November 12, 2024.|Risk Factors of Cancer in Individuals Living with HIV and AIDS, This outcome measure aims to identify risk factors associated with cancer in individuals living with HIV and AIDS, including both HIV-related and unrelated cancer types.
+
+Measurement Tool/Method: Risk factors will be analyzed using multivariate regression models based on demographic, clinical, and treatment-related variables.
+
+Unit of Measure: Odds ratios (OR) for specific risk factors., Medical records of individuals living with HIV who were diagnosed with cancer between November 1, 2014, and November 1, 2024, will be reviewed starting on November 12, 2024. Patients will be enrolled in the study beginning on November 12, 2024.
+Mortality Rate in Individuals Living with HIV and AIDS, Description: As a secondary objective, this outcome measure aims to determine mortality rates and additional comorbid diseases that may affect mortality in individuals living with HIV and AIDS.
+
+Measurement Tool/Method: Mortality rates will be assessed through retrospective analysis of clinical outcomes and survival data.
+
+Unit of Measure: Percentage of deceased individuals within the study population., Medical records of individuals living with HIV who were diagnosed with cancer between November 1, 2014, and November 1, 2024, will be reviewed starting on November 12, 2024. Patients will be enrolled in the study beginning on November 12, 2024.
+Kaposi's sarcoma and B-cell lymphomas with an aggressive clinical course are observed in CD4+ T-cell lymphocytopenia and are with cervical cancer known as AIDS-defining cancers. According to data from the United States, the incidence of these cancers decreased by 70% in the 1990s after the discovery of the triple antiretroviral therapy. As survival increases, the proportion of non-AIDS-defining cancers also increases with advancing age. Cancer is now a leading cause of death in people living with HIV in developed countries, and cancer-related deaths are higher in people living with HIV. A study in Turkey reported HIV-associated non-Hodgkin's lymphoma cases, and a multicenter study reported 37 cancer cases between 1998 and 2016. However, HIV seroprevalence has been increasing in Turkey in recent years, and no studies have reflected the current cancer prevalence in individuals living with HIV and AIDS.
+
+In our study, the investigators aimed to determine the prevalence and risk factors of cancer in individuals living with HIV and AIDS in Turkey over the last decade, and to show the age-related distribution and risk factors of HIV-related and unrelated cancer types.
+
+As a secondary objective, the mortality rates and additional comorbid diseases that may affect mortality will be determined.
+
+The current picture will be compared with data from the Turkish Statistical Institute in terms of cancer prevalence, type, and mortality.
+
+It was planned to share the Excel file prepared by the principal investigator containing the data to be collected via e-mail and to evaluate all the data after collection via e-mail.
+
+Statistical evaluation will be performed using IBM SPSS (version 29.0; IBM Corp., Armonk, NY, USA). Chi-square and Fisher's exact test will be used to compare the categorical variables. The conformity of measurement variables to a normal distribution will be examined using the Kolmogorov-Smirnov test. Descriptive analyses will be presented using the mean, standard deviation, median, and minimum-maximum values. Risk factors for cancer will be evaluated using the Mann-Whitney U test or Student's t-test. Cancer will be considered as the dependent variable and analyzed using univariate logistic regression with other variables. p value \<0.05 will be considered significant. In a stepwise approach, the variables found to be significant in the univariate logistic regression test will be analyzed using multivariate logistic regression analysis. Cox regression will be used to analyze the factors affecting mortality and will be expressed in terms of the "hazard ratio".

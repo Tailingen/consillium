@@ -1,0 +1,32 @@
+Sorafenib Tosylate Before and After Donor Bone Marrow Transplant in Treating Patients With Acute Myeloid Leukemia
+This pilot clinical trial studies the side effects of sorafenib tosylate before and after donor bone marrow transplantation in treating patients with acute myeloid leukemia. Sorafenib tosylate may stop the growth of cancer cells by blocking some of the enzymes needed for cell growth.
+Acute Myeloid Leukemia With FLT3/ITD Mutation
+PROCEDURE: Bone Marrow Transplantation|DRUG: Sorafenib|DRUG: Sorafenib Tosylate
+Proportion of patients removed from the study in each cohort due to toxicity, Will be reported with exact binomial proportions and 95% confidence intervals. All toxicities by type and grade will be reported. The proportion of patients with graft failure in each cohort will also be reported with exact binomial proportions and 95% confidence intervals., Up to 24 months
+Cumulative incidence of non-relapse mortality and relapse, Estimated by competing risks analysis using Grey's method., Up to 2 years|Disease-free survival (DFS), Standard life table methods with Kaplan-Meier (KM) plots will be used to analyze DFS. Reported with 90% confidence intervals overall and by cohort., Up to 2 years|Overall survival (OS), Standard life table methods with KM plots will be used to analyze OS. Reported with 90% confidence intervals overall and by cohort., Up to 2 years|Change in minimal residual disease (MRD), Will be assessed by flow cytometry. Box plots will be used., Baseline to day 365|Change in FLT3 suppression, Will be assessed by plasma inhibitory assay and western blotting. Box plots will be used., Baseline to day 365|Pharmacodynamic parameters of sorafenib tosylate, Samples will be collected to assess sorafenib tosylate and the N-oxide metabolite (total and unbound) exposure to correlate with pharmacodynamic endpoints using non-parametric statistics., Up to 2 years post-transplant
+Changes in T-regulatory cell population, Regression modeling of subdistribution functions in competing risks by Gray's method will be conducted to examine how changes in immunologic parameters are associated with subsequent development of acute graft versus host disease. An appropriate transformation will be used to normalize the data. Differences between pre- and post-transplantation will be explored using methods appropriate for paired data. Patterns of change in marker values over time may also be explored using appropriate modeling., Baseline to 2 years post-transplant
+PRIMARY OBJECTIVE:
+
+I. Determine the toxicity and safety of incorporation of sorafenib tosylate (sorafenib) into the pre- or post-transplant maintenance setting for three types of transplants.
+
+SECONDARY OBJECTIVES:
+
+I. Improvement of 2 year disease free survival after bone marrow transplant by 25% based on a baseline relapse free survival at two years of 30%.
+
+II. Secondary graft failure is defined as the decline in neutrophil count to \< 500/cu mm after achieving engraftment which is unrelated to infection or drug effect (sorafenib?) and is unresponsive to stimulation by growth factors.
+
+III. Non-relapse mortality (NRM) is defined, as death in the absence of competing risks, relapse or progression of disease.
+
+IV. Survival without relapse or death (disease-free survival \[DFS\]) or without death (overall survival \[OS\]) will be determined and presented as Kaplan-Meier estimates at 1 and 2 years post-transplant.
+
+V. Patients will be evaluated for chronic graft versus host disease (GVHD) both as described in the National Institutes of Health (NIH) consensus project guidelines and by conventional criteria.
+
+LABORATORY CORRELATIVE OBJECTIVE:
+
+I. Patients will undergo serial examinations of bone marrow during the maintenance treatments evaluating minimal residual disease (MRD) by flow cytometry and FLT3 suppression by western blot analysis and plasma inhibitory assay (PIA).
+
+OUTLINE: This is a dose-escalation study.
+
+Patients receive sorafenib tosylate orally (PO) twice daily (BID) beginning at least 30 days after completion of induction therapy and/or transplant but no more than 120 days after transplant continuing for up to 2 years after transplant in the absence of disease progression or unacceptable toxicity.
+
+After completion of study treatment, patients are followed up for 24 months.

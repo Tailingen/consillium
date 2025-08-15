@@ -1,0 +1,32 @@
+AEG35156 and Docetaxel in Treating Patients With Solid Tumors
+RATIONALE: Drugs used in chemotherapy, such as docetaxel, work in different ways to stop the growth of tumor cells, either by killing the cells or by stopping them from dividing. AEG35156 may help docetaxel work better by making tumor cells more sensitive to the drug.
+
+PURPOSE: This phase I trial is studying the side effects and best dose of AEG35156 when given together with docetaxel in treating patients with solid tumors.
+Unspecified Adult Solid Tumor, Protocol Specific
+DRUG: AEG35156|DRUG: docetaxel
+Safety and toxicity evaluated according to the NCI CTCAE version 3.0, Every 3 weeks|Response and progression using RECIST criteria, Every 6 weeks|Response duration measured from the time complete response or partial response (whichever is first recorded) is documented until the first date that recurrent or progressive disease is objectively documented, After completion of protocol therapy, patients with PR/CR ongoing assessed q3 months until relapse., Every 3 months|Stable disease duration measured from the time of start of therapy until the criteria for progression are met, After completion of protocol therapy, patients with ongoing SD assess q 3months until progression., Every 3 months|Pharmacokinetics, cycle 1 and 2
+OBJECTIVES:
+
+Primary
+
+* Determine the maximum tolerated dose and define the recommended phase II dose of AEG35156 in combination with docetaxel in patients with solid tumors.
+
+Secondary
+
+* Determine the qualitative and quantitative toxicities of AEG35156 and docetaxel and define duration and reversibility of those toxicities.
+* Determine the pharmacokinetic profile of this regimen.
+* Assess, preliminarily, the antitumor activity of this regimen in patients with measurable disease.
+* Assess the pharmacodynamic effects of AEG35156 administration on X-linked inhibitor of apoptosis protein (XIAP) levels and apoptosis in peripheral blood mononuclear cells and, in selected patients, in tumor tissue.
+* Evaluate M30/M65 cytokeratin 18 level, a marker of apoptosis/necrosis of epithelial tumors, in these patients.
+
+OUTLINE: This is a multicenter, open-label, dose-escalation study of AEG35156.
+
+Patients receive AEG35156 IV continuously on days -2 and -1. Patients then receive AEG35156 IV continuously over 24 hours on days 1, 8, and 15. Beginning with course 2, patients also receive docetaxel IV over 1 hour on day 1. Treatment repeats every 3 weeks for up to 6 courses in the absence of disease progression or unacceptable toxicity.
+
+Cohorts of 3-6 patients receive escalating doses of AEG35156 until the maximum tolerated dose (MTD) is determined. The MTD is defined as the dose preceding that at which 2 of 3 or 2 of 6 patients experience dose-limiting toxicity.
+
+Blood is collected at baseline and periodically during study treatment for pharmacokinetic and pharmacodynamic assessment.
+
+After completion of study treatment, patients are followed at 4 weeks and then every 3 months thereafter.
+
+PROJECTED ACCRUAL: A total of 30 patients will be accrued for this study.

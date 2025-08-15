@@ -1,0 +1,33 @@
+Testing the Addition of Radiation Therapy to the Usual Treatment (Immunotherapy With or Without Chemotherapy) for Advanced Stage Non-small Cell Lung Cancer Patients Who Are PD-L1 Negative
+This phase II/III trial compares the addition of radiation therapy to the usual treatment (immunotherapy with or without chemotherapy) versus (vs.) usual treatment alone in treating patients with non-small cell lung cancer that may have spread from where it first started to nearby tissue, lymph nodes, or distant parts of the body (advanced) or that has spread from where it first started (primary site) to other places in the body (metastatic) whose tumor is also negative for a molecular marker called PD-L1. Radiation therapy uses high energy x-rays, particles, or radioactive seeds to kill tumor cells and shrink tumors. Immunotherapy with monoclonal antibodies, such as nivolumab, ipilimumab may help the body's immune system attack the cancer, and may interfere with the ability of tumor cells to grow and spread. The addition of radiation therapy to usual treatment may stop the cancer from growing and increase the life of patients with advanced non-small cell lung cancer who are PD-L1 negative.
+Lung Adenocarcinoma|Lung Adenosquamous Carcinoma|Lung Non-Small Cell Carcinoma|Stage IIIB Lung Cancer AJCC v8|Stage IIIC Lung Cancer AJCC v8|Stage IV Lung Cancer AJCC v8
+PROCEDURE: Biopsy Procedure|PROCEDURE: Biospecimen Collection|PROCEDURE: Computed Tomography|PROCEDURE: Echocardiography Test|BIOLOGICAL: Ipilimumab|PROCEDURE: Magnetic Resonance Imaging|BIOLOGICAL: Nivolumab|PROCEDURE: Positron Emission Tomography|OTHER: Quality-of-Life Assessment|RADIATION: Radiation Therapy
+Progression-free survival (PFS) (Phase II), Will be performed on an intent-to-treat (ITT) basis., From randomization to disease progression or death of all causes, whichever comes first, assessed up to 5 years|Overall survival (OS) (Phase III), Will be performed on an ITT basis. The comparison of the distributions of OS between treatment arms will be done with a one-sided stratified log-rank test). The rates at various time points (e.g., every 6 months after randomization) and medians of OS for each arm will be estimated using the Kaplan-Meier estimator. The associated 95% confidence interval (CI) will be calculated using Greenwood's formula and based on a log-log transformation applied on the survival function. Hazard ratios will be estimated using a stratified Cox regression model. The final phase III analysis of OS will be considered as "positive" if the stratified log-rank test statistics Z-value greater than the critical value adjusted for type 1 error using group sequential methods. Multivariable Cox models will be used to evaluate the treatment effect on survival time and its interaction with baseline covariates, including stage, systemic therapy, histology and performance status., From randomization and death of all causes, assessed up to 5 years
+PFS, Assessed per Response Evaluation Criteria in Solid Tumors (RECIST)., From randomization to disease progression or death of all causes, whichever comes first, assessed up to 5 years|Objective response rate (ORR), Assessed per RECIST for both irradiated and un-irradiated areas. The ORRs between treatments will be compared with Fisher's exact test. The difference of ORR between treatments will be estimated by the Miettinen-Nurminen method and its 95% CI will be given. Multivariable logistic regression will be used to evaluate the treatment effect on ORR while adjusting for significant baseline covariates., Up to 5 years|Quality of life, Up to 5 years|Incidence of treatment-related adverse events, Treatment-related toxicity will be summarized by grade, type, and system organ class. Comparisons of the percentages of patients experiencing an adverse event between Arm A and Arm B will be performed using Fisher's exact test., Up to 5 years
+PRIMARY OBJECTIVE:
+
+I. To assess if radiation improves the progression free survival (PFS, phase II portion) and overall survival (OS, phase III portion) of advanced stage non-small cell lung cancer (NSCLC) patients with PD-L1 tumor proportion score (TPS) \< 1% who receive immunotherapy with or without chemotherapy.
+
+SECONDARY OBJECTIVES:
+
+I. To estimate and compare the rates of \>= grade 3-4 and all grade adverse events by Common Terminology Criteria for Adverse Events (CTCAE) version (v)5.0 between the arms.
+
+II. To summarize and compare progression-free survival (PFS) per Response Evaluation Criteria in Solid Tumors (RECIST) between the arms.
+
+III. To determine and compare the objective response rate (ORR) per RECIST between the arms (including at both irradiated and un-irradiated sites).
+
+QUALITY OF LIFE (QOL) OBJECTIVE:
+
+I. To assess the health-related QOL in both treatment arms.
+
+CORRELATIVE SCIENCE OBJECTIVE:
+
+I. To evaluate changes in the peripheral immune microenvironment between the arms.
+
+OUTLINE: Patients are randomized to 1 of 2 arms.
+
+ARM A: Patients receive nivolumab intravenously (IV) over 30 minutes on days 1 and 22 and ipilimumab IV over 30 minutes on day 1 of each cycle. Cycles repeat every 6 weeks for 24 months in the absence of disease progression or unacceptable toxicity or patients may receive standard of care systemic immunotherapy. Patients also undergo magnetic resonance imaging (MRI), computed tomography (CT), or positron emission tomography (PET) throughout the trial. Patients may undergo blood sample collection and tissue biopsy on study as well as echocardiography (ECHO) during screening.
+
+Arm B: Patients receive nivolumab IV over 30 minutes on days 1 and 22 and ipilimumab IV over 30 minutes on day 1 of each cycle. Cycles repeat every 6 weeks for 24 months in the absence of disease progression or unacceptable toxicity or patients may receive standard of care systemic immunotherapy. Patients also undergo 3 fractions of radiation therapy every other day. Patients also undergo MRI, CT, or PET throughout the trial. Patients may undergo blood sample collection and tissue biopsy on study as well as ECHO during screening.
+
+After completion of study treatment, patients are followed up every 3 months for 3 years and then every 6 months for years 4-5 following randomization until disease progression. Following disease progression patients are followed for survival every 6 months for up to 5 years following randomization.

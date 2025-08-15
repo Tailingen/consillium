@@ -1,0 +1,117 @@
+Iloprost in Preventing Lung Cancer in Patients at High Risk for This Disease
+RATIONALE: Chemoprevention therapy is the use of certain drugs to try to prevent the development or recurrence of cancer. Iloprost may be effective in preventing lung cancer.
+
+PURPOSE: This randomized phase II trial is studying how well iloprost works in preventing lung cancer in patients who are at high risk for this disease.
+Lung Cancer|Precancerous Condition
+DRUG: iloprost|OTHER: placebo
+Change in Average (Follow-up - Baseline) From All Biopsies, This outcome measure is created for each subject as follows:
+
+From all biopsies scored at the baseline bronchoscopy, the mean WHO score is calculated.
+
+From all biopsies scored at the follow-up bronchoscopy, the mean WHO score is calculated.Histology on bronchial biopsies pre-treatment and post-treatment will be compared. All biopsies will be graded according to the WHO classification for bronchial epithelium for this outcome, and all the following outcomes.
+
+WHO Classification Grade Normal 1.0 Reserve Cell Hyperplasia 2.0 Metaplasia 3.0 Mild Dysplasia 4.0 Moderate Dysplasia 5.0 Severe Dysplasia 6.0 Carcinoma in Situ 7.0 Carcinoma 8.0
+
+The difference (follow-up mean - baseline mean) is used as the outcome measure for each subject., Nine years
+Change in Dysplasia Index (Follow-up - Baseline) Using All Biopsies, This outcome measure is created for each subject as follows:
+
+From all biopsies scored at the baseline bronchoscopy, the percentage with a WHO score greater than or equal to 4 is calculated (this is the definition of Dysplasia Index (DI)).
+
+From all biopsies scored at the follow-up bronchoscopy, the percentage with a WHO score greater than or equal to 4 is calculated.
+
+The difference (follow-up DI - baseline DI) is used as the outcome measure for each subject., 9 Years|Change in Average (Follow-up - Baseline) Using Reference Sites, This outcome measure is created for each subject as follows:
+
+The biopsies used in this analysis are those from the following 6 anatomical sites pre-specified in the protocol to be biopsied: RUL (Right upper lobe: the superior region of the right lung), RML (Right middle lobe: an anatomic portion of the right lung), RB6 (The carina in the right lower lobe at the entrance to the superior segment), LUL (Left upper lobe: the superior portion of the lung), LUDB (Left upper division bronchus: the carina between the lingular orifice and the left upper lobe), and LB6 (The carina in the left lower lobe at the entrance to the superior segment).
+
+From these biopsies scored at the baseline bronchoscopy, the mean WHO score is calculated.
+
+From these biopsies scored at the follow-up bronchoscopy, the mean WHO score is calculated.
+
+The difference (follow-up mean - baseline mean) is used as the outcome measure for each subject., 9 Years|Change in Maximum (Follow-up - Baseline) Using Reference Sites, This outcome measure is created for each subject as follows:
+
+The biopsies used in this analysis are those from the following 6 anatomical sites pre-specified in the protocol to be biopsied: RUL, RML, RB6, LUL, LUDB, and LB6.
+
+From these biopsies scored at the baseline bronchoscopy, the maximum WHO score is used.
+
+From these biopsies scored at the follow-up bronchoscopy, the maximum WHO score is used.
+
+The difference (follow-up maximum - baseline maximum) is used as the outcome measure for each subject., 9 Years|Change in Dysplasia Index (Follow-up - Baseline) Using Reference Sites, This outcome measure is created for each subject as follows:
+
+The biopsies used in this analysis are those from the following 6 anatomical sites pre-specified in the protocol to be biopsied: RUL, RML, RB6, LUL, LUDB, and LB6.
+
+From these biopsies scored at the baseline bronchoscopy, the percentage with a WHO score greater than or equal to 4 is calculated (this is the definition of Dysplasia Index (DI)).
+
+From these biopsies scored at the follow-up bronchoscopy, the percentage with a WHO score greater than or equal to 4 is calculated.
+
+The difference (follow-up DI - baseline DI) is used as the outcome measure for each subject., 9 Years|Change in Average (Follow-up - Baseline) Using Matched Sites, This outcome measure is created for each subject as follows:
+
+The biopsies used in this analysis are restricted to biopsies from anatomical sites that were biopsies during both the baseline and follow-up bronchoscopies, thus creating "pairs" of biopsies.
+
+From these biopsies scored at the baseline bronchoscopy, the mean WHO score is calculated.
+
+From these biopsies scored at the follow-up bronchoscopy, the mean WHO score is calculated.
+
+The difference (follow-up mean - baseline mean) is used as the outcome measure for each subject., 9 Years|Change in Maximum (Follow-up - Baseline) Using Matched Sites, This outcome measure is created for each subject as follows:
+
+The biopsies used in this analysis are restricted to biopsies from anatomical sites that were biopsies during both the baseline and follow-up bronchoscopies.
+
+From these biopsies scored at the baseline bronchoscopy, the maximum WHO score is used.
+
+From these biopsies scored at the follow-up bronchoscopy, the maximum WHO score is used.
+
+The difference (follow-up maximum - baseline maximum) is used as the outcome measure for each subject., 9 Years|Change in Dysplasia Index (Follow-up - Baseline) Using Matched Sites, This outcome measure is created for each subject as follows:
+
+The biopsies used in this analysis are restricted to biopsies from anatomical sites that were biopsies during both the baseline and follow-up bronchoscopies.
+
+From these biopsies scored at the baseline bronchoscopy, the percentage with a WHO score greater than or equal to 4 is calculated (this is the definition of Dysplasia Index (DI)).
+
+From these biopsies scored at the follow-up bronchoscopy, the percentage with a WHO score greater than or equal to 4 is calculated.
+
+The difference (follow-up DI - baseline DI) is used as the outcome measure for each subject., 9 Years|Change in Average (Follow-up - Baseline) Using Baseline Non-Normal Pairs, This outcome measure is created for each subject as follows:
+
+The biopsies used in this analysis are restricted to biopsies from anatomical sites that were biopsies during both the baseline and follow-up bronchoscopies, thus creating "pairs" of biopsies. Any "pair" for which the baseline WHO score was 1 (i.e. normal tissue) was excluded from the analysis.
+
+From these biopsies scored at the baseline bronchoscopy, the mean WHO score is calculated.
+
+From these biopsies scored at the follow-up bronchoscopy, the mean WHO score is calculated.
+
+The difference (follow-up mean - baseline mean) is used as the outcome measure for each subject., 9 Years|Change in Maximum (Follow-up - Baseline) Using Baseline Non-Normal Pairs, This outcome measure is created for each subject as follows:
+
+The biopsies used in this analysis are restricted to biopsies from anatomical sites that were biopsies during both the baseline and follow-up bronchoscopies, thus creating "pairs" of biopsies. Any "pair" for which the baseline WHO score was 1 (i.e. normal tissue) was excluded from the analysis.
+
+From these biopsies scored at the baseline bronchoscopy, the maximum WHO score is used.
+
+From these biopsies scored at the follow-up bronchoscopy, the maximum WHO score is used.
+
+The difference (follow-up maximum - baseline maximum) is used as the outcome measure for each subject., 9 Years|Change in Dysplasia Index (Follow-up - Baseline) Using Baseline Non-Normal Pairs, This outcome measure is created for each subject as follows:
+
+The biopsies used in this analysis are restricted to biopsies from anatomical sites that were biopsies during both the baseline and follow-up bronchoscopies, thus creating "pairs" of biopsies. Any "pair" for which the baseline WHO score was 1 (i.e. normal tissue) was excluded from the analysis.
+
+From these biopsies scored at the baseline bronchoscopy, the percentage with a WHO score greater than or equal to 4 is calculated (this is the definition of Dysplasia Index (DI)).
+
+From these biopsies scored at the follow-up bronchoscopy, the percentage with a WHO score greater than or equal to 4 is calculated.
+
+The difference (follow-up DI - baseline DI) is used as the outcome measure for each subject., 9 Years
+To Determine if Iloprost Can Modulate K-67 Proliferation Index in Patients at High Risk to Develop Lung Cancer, nine years|To Determine Whether Iloprost Affects Prostaglandin Metabolism by Examining 4 Markers, PGIS, COX-2, PPAR and PPAR., PGIS (Prostacyclin synthase: an enzyme in the eicosanoid pathway that catalyzes the conversion of prostaglandin H2 to prostaglandin I2 (prostacyclin). PPAR (Peroxisome proliferator-activated receptor: a group of nuclear receptor proteins that act as transcription factors regulating gene expression),, Nine years|To Determine the Toxicity Profile of Iloprost in Patients at High Risk to Develop Lung Cancer., Nine Years|Define the Genes Whose Expression is Altered by Iloprost Treatment by Gene Expression Arrays and Quantitative PCR., Nine Years|To Determine Whether Iloprost Can Modulate a Panel of Biomarkes., To determine if Iloprost can modulate a panel of biomarkers including MCM-2, EGFR, Her-2/neu, RARβ, p53, FHIT, apoptotic index, and microvessel density., 9 years
+OBJECTIVES:
+
+Primary
+
+* Compare the reversal of premalignant histological changes in the bronchial epithelium of patients at high risk for lung cancer (defined by \> 20 pack years of smoking and sputum atypia) treated with iloprost vs placebo.
+* Determine whether this drug modulates Ki-67 proliferation index (Antigen Ki-67) in these patients.
+* Determine whether this drug affects prostaglandin metabolism in these patients.
+* Determine the toxicity profile of this drug in these patients.
+
+Secondary
+
+* Determine whether this drug modulates a panel of biomarkers, including MCM-2(Minichromosome maintenance protein: forms DNA helicase), EGFR (Epidermal growth factor receptor: cell surface receptor for the epidermal growth factor family of proteins. Mutations in EGFR expression or activity can result in cancer.) , HER2/neu (Human epidermal growth factor receptor 2 HER2 is a member of the EGFR family), RARβ (Retinoic Acic Receptor Beta is a nuclear transcription regulator and a member of the thyroid-steroid hormone receptor superfamily), p53, FHIT (Fragile histidine triad protein is an enzyme involved in purine metabolism and had been demonstrated to be a tumor suppressor), apoptotic index, and microvessel density, in these patients.
+* Determine the genes whose expression is altered by this drug in these patients.
+
+OUTLINE: This is a randomized, double-blind, placebo-controlled, multicenter study. Patients are stratified according to smoking status (current vs former) and participating center. Patients are randomized to 1 of 2 treatment arms.
+
+* Arm I: Patients receive oral iloprost twice daily.
+* Arm II: Patients receive oral placebo twice daily. In both arms, treatment continues for 6 months in the absence of unacceptable toxicity.
+
+Patients are followed at 1 month and then annually thereafter.
+
+PROJECTED ACCRUAL: A total of 152 patients (76 \[38 current smokers and 38 former smokers\] per treatment arm) will be accrued for this study within 2 years.

@@ -1,0 +1,26 @@
+Detection of Electrodermal Activity in Pain 2
+The goal of this study is to investigate the association between self-reported pain and electrodermal activity and to create an algorithm that detects pain and provides timely alarms for rising pain levels in patients with life-threatening illnesses suffering from persistent pain. The study is exploratory.
+
+Hypothesis: Electrodermal activity can distinguish different pain intensity levels in patients with chronic pain and a life-threatening disease.
+
+Methodology: Thirty-seven patients with cancer and/or chronic obstructive pulmonary disease (COPD) will be identified through hospital record screening. These patients will wear a monitoring device for a maximum of one week and report their pain intensity throughout the day.
+
+Analysis: Discriminant analysis will be used to differentiate between mild, moderate, and severe pain. This study is exploratory, generating hypotheses for subsequent phases of the project.
+Cancer|Chronic Obstructive Pulmonary Disease (COPD|Pain
+Pain intensity, Numerical rating scale score. Pain intensity (interval, 0 to 10) is measured using the NRS, a commonly used tool asking patients to rate their pain intensity on a scale from 0 to 10, with 0 indicating no pain and 10 reflecting the worst possible pain., while participants wear the device (up to 7 days)
+Skin conductance level, The average skin conductance value (μS) for 10 seconds., while participants wear the device (up to 7 days)|Number of Skin Conductance Fluctuations, Peaks with minimum amplitudes of 0.02 μS and a slope rate \< 2 μS/s, in 10 second intervals, while participants wear the device (up to 7 days)|Patient Health Questionnaire (PHQ-9), The Patient Health Questionnaire (PHQ-9) will be used to screen participants as symptoms of depression in order to control during the statistical analysis.
+
+The PHQ-9 is the depression module, which scores each of the 9 DSM-IV criteria as "0" (not at all) to "3" (nearly every day), providing a 0 to 27 severity score., administered the day of enrollment|Pain frequency, Number of patient reported pain episodes of pain intensity over 5 (using the NRS pain intensity scale), while participants wear the device (up to a period of 7 days)|Pain evaluation from healthcare personale not possible, Evaluate how often it is not possible to estimate pain levels for patients, thus, a need for a tool to assist). This is marked at the patient journal., in the duration that the participant wears the device (up to 7 days)|Medication list, The list of medication a participant takes on regular basis during the week they will be assessed. This data will be collected from the patient journals to control and to understand the final dataset., while participants wear the device (up to 7 days)
+Methods The study is a phase 2 trial, preceded by a phase 1 trial that included healthy volunteers.
+
+Patients will be inpatients and outpatients at Department of Pulmonary and Endocrine Diseases, Hvidovre Hospital.
+
+Measures Subjective measures (self reported) Pain. Pain intensity (interval, 0 to 10) is measured using the NRS, a commonly used tool asking patients to rate their pain intensity on a scale from 0 to 10, with 0 indicating no pain and 10 reflecting the worst possible pain.
+
+Patient Health Status. The Patient Health Questionnaire (PHQ-9) is used to provisionally diagnose depression and grade severity of symptoms in general medical and mental health settings. The PHQ-9 is the depression module.
+
+Ambulatory assessment. The patient group in phase 2 will be asked to wear a wristband device for 1 week. During this period, a prompt will be sent on a smartphone connected to a wearable device provided by Movisens GmbH, five times a day (9 am, 12 pm, 3 pm, 6 pm, and 9 pm) to answer questions about their current pain levels using the NRS scale.
+
+Objective measures Electrodermal activity. A wearable device provided by Movisens GmbH will be used to record skin conductance measured in microsiemens (μS).
+
+Wearable device The EdaMove 4 device provided by Movisens GmbH consists of an EDA and activity sensor. It records EDA signals to monitor both tonic and phasic electrical activity in the skin.

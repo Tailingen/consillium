@@ -1,0 +1,25 @@
+Erlotinib Hydrochloride in Treating Non-Small Cell Lung Cancer That is Metastatic or Cannot be Removed by Surgery in Patients With HIV Infection
+This phase I trial studies the side effects and best dose of erlotinib hydrochloride in treating non-small cell lung cancer that has spread to other parts of the body or cannot be removed by surgery in patients with human immunodeficiency virus (HIV) infection. Erlotinib hydrochloride may stop the growth of tumor cells by blocking some of the enzymes needed for cell growth. Erlotinib hydrochloride is a standard drug used for treating lung cancer, however, it is not yet known whether it is safe to give erlotinib hydrochloride to patients who also have HIV infection or not.
+HIV Infection|Recurrent Non-Small Cell Lung Carcinoma|Stage IIIA Non-Small Cell Lung Cancer|Stage IIIB Non-Small Cell Lung Cancer|Stage IV Non-Small Cell Lung Cancer
+DRUG: Erlotinib Hydrochloride|OTHER: Laboratory Biomarker Analysis|OTHER: Pharmacological Study|OTHER: Quality-of-Life Assessment
+Incidence of toxicities evaluated with National Cancer Institute (NCI) Common Terminology Criteria for Adverse Events (CTCAE) version 4.0 (v4.0), Up to 30 days|Maximum tolerated dose of erlotinib hydrochloride defined as the dose level in which less than or equal to 1 out of 6 participants experiences dose-limiting toxicity evaluated with NCI CTCAE v4.0, 28 days
+CD4+ counts, A repeated measures analysis of variance will be used to assess the effect of erlotinib hydrochloride on CD4+ across time points. Analyses will be done per stratum, where the data are sufficient. If the data do not meet the assumptions of normality, the data will either be transformed or Friedman's test (i.e. nonparametric analogue to a repeated measures analysis of variance) will be used., Up to 30 days|CD8+ counts, A repeated measures analysis of variance will be used to assess the effect of erlotinib hydrochloride on CD8+ across time points. Analyses will be done per stratum, where the data are sufficient. If the data do not meet the assumptions of normality, the data will either be transformed or Friedman's test (i.e. nonparametric analogue to a repeated measures analysis of variance) will be used., Up to 30 days|HIV viral load, A repeated measures analysis of variance will be used to assess the effect of erlotinib hydrochloride on HIV viral loads across time points. Analyses will be done per stratum, where the data are sufficient. If the data do not meet the assumptions of normality, the data will either be transformed or Friedman's test (i.e. nonparametric analogue to a repeated measures analysis of variance) will be used., Up to 30 days|Incidence of erlotinib hydrochloride-associated skin rash, Spearman rank correlation coefficients will be used to investigate erlotinib-associated skin rash with immune competence. Fisher's exact tests will be used to investigate erlotinib-associated skin rash with participant response outcomes. Analyses will be done per stratum, where the data are sufficient., Up to 30 days|Pharmacokinetic parameters of erlotinib hydrochloride, including half-life (T1/2), clearance (Cl), and area under the curve (AUC), The pharmacokinetic variables will be tabulated and descriptive statistics (e.g., geometric means and coefficients of variation) calculated for each dose level. Pharmacokinetic parameters (i.e., T1/2, Cl, and AUC) will be compared across relevant antiretroviral therapies using nonparametric statistical testing techniques., Pre-treatment, 1, 2, 3, 4, 6, 8, and 24 hours post treatment|Response assessed via RECIST 1.1, Up to 30 days
+PRIMARY OBJECTIVES:
+
+I. To evaluate the safety and tolerability of erlotinib (erlotinib hydrochloride) as a single agent in non-small cell lung cancer participants with HIV infection and to determine the maximum tolerated dose of erlotinib in combination with antiretroviral therapy in this participant population.
+
+SECONDARY OBJECTIVES:
+
+I. To evaluate the efficacy of erlotinib in advanced non-small cell lung cancer persons with HIV infection.
+
+II. To investigate possible pharmacokinetic interactions between erlotinib and antiretroviral therapy in persons with HIV infection, while accounting for nicotine exposure.
+
+III. To investigate the effects of therapy on participant immune status and HIV viral load.
+
+IV. To preliminarily evaluate known molecular and phenotypic correlates of improved clinical outcomes associated with epidermal growth factor receptor (EGFR) inhibitors.
+
+OUTLINE: This is a dose-escalation study.
+
+Patients receive erlotinib hydrochloride orally (PO) once daily (QD) on days 1-28. Courses repeat every 28 days in the absence of disease progression or unacceptable toxicity.
+
+After completion of study treatment, patients are followed up for 30 days.

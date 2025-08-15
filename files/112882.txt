@@ -1,0 +1,31 @@
+Advanced ChemoHormonal Therapy for Treatment Naive Metastatic Prostate Cancer
+This phase II trial studies how well the combination of apalutamide, abiraterone acetate, and prednisone after chemotherapy work in treating patients that have received no prior treatment (treatment naive) for high risk prostate cancer that is sensitive to androgen deprivation therapy (castration sensitive) and has spread to other parts of the body (metastatic). This study also aims to understand the inheritance of prostate cancer. If a gene or genes that cause prostate cancer can be found, the diagnosis and treatment of prostate cancer may be improved. Testosterone (a male hormone) can cause the growth of prostate cancer cells. Hormone therapy using apalutamide may fight prostate cancer by blocking the use of testosterone by the tumor cells. Antihormone therapy, such as abiraterone acetate, may lessen the amount of testosterone made by the body. Anti-inflammatory drugs such as prednisone lower the body's immune response and are used with other drugs in the treatment of some types of cancer. Apalutamide, abiraterone acetate, and prednisone after chemotherapy may work better in treating patients with castration sensitive prostate cancer.
+Castration-Sensitive Prostate Carcinoma|Metastatic Prostate Carcinoma|Stage IVB Prostate Cancer AJCC v8
+DRUG: Abiraterone Acetate|DRUG: Antiandrogen Therapy|DRUG: Apalutamide|DRUG: Prednisone|PROCEDURE: Computed Tomography|PROCEDURE: Bone Scan|PROCEDURE: Biospecimen Collection|OTHER: Questionnaire Administration
+Complete prostate specific antigen (PSA) response, The complete PSA response is defined as a PSA =\< 0.2 ng/ml, confirmed with a 2nd measurement at least 3 weeks later. The estimated PSA response rate will be computed with 95% exact confidence interval. Binomial exact test will be used to determine whether the complete PSA response rate is significantly greater than 43%., At 12 months from the start of treatment
+Overall survival, Overall survival will be assessed with each patient visit. After the subject is off active follow up, survival will be assessed by phone., From day 1 of treatment, assessed up to 10 years|Incidence of adverse events >= grade 2, Determined by Common Terminology Criteria for Adverse Events (CTCAE) version 5., Up to 10 years|Proportion of patients with PSA response >= 50% decrease, The proportion will be reported with 95% confidence interval., From baseline, assessed up to 12 months|Proportion of patients with PSA response >= 90% decrease, The proportion will be reported with 95% confidence interval., From baseline, assessed up to 12 months|Time to treatment failure, Kaplan-Meier plot will be used to describe the survival distributions., From start of treatment, assessed up to 10 years|Time to biochemical (PSA) progression, Kaplan-Meier plot will be used to describe the survival distributions., From start of treatment, assessed up to 10 years|Time to radiographic progression, Kaplan-Meier plot will be used to describe the survival distributions., From start of treatment, assessed up to 10 years|Time to symptomatic progressive disease, Kaplan-Meier plot will be used to describe the survival distributions., From start of treatment, assessed up to 10 years|Time to next therapy for metastatic castration resistant prostate cancer, Kaplan-Meier plot will be used to describe the survival distributions., From start of treatment, assessed up to 10 years
+PRIMARY OBJECTIVE:
+
+I. Efficacy of apalutamide in combination with abiraterone acetate + prednisone following docetaxel with ongoing androgen deprivation therapy in men with high risk metastatic castration sensitive disease.
+
+SECONDARY OBJECTIVES:
+
+I. Safety and tolerability of apalutamide in combination with abiraterone acetate + prednisone following docetaxel with ongoing androgen deprivation therapy.
+
+II. Time to event.
+
+III. Depth of prostate specific antigen (PSA) response.
+
+EXPLORATORY OBJECTIVES:
+
+I. Quality of life.
+
+II. Falls.
+
+III. Molecular changes from prostate cancer over time.
+
+OUTLINE:
+
+Patients receive apalutamide orally (PO) once daily (QD), abiraterone acetate PO QD, and prednisone PO QD. Cycles repeat every 4 weeks in the absence of disease progression or unacceptable toxicity. Patients also receive androgen deprivation therapy per standard of care. Patients undergo computed tomography (CT) scan, bone scan and blood sample collection throughout the study.
+
+After completion of study treatment, patients are followed up every 6 months for up to 10 years.

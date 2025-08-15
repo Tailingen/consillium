@@ -1,0 +1,13 @@
+Prediction of Gastric Cancer in Intestinal Metaplasia and Atrophic Gastritis
+The primary objectives of this study are:
+
+* To identify clinical or histological factors associated with gastric cancer development in patients with IM and AG
+* To establish a machine learning algorithm for prediction of future gastric cancer risks and individual risk stratification in patient with IM and AG
+Gastric Cancer|Intestinal Metaplasia|Atrophic Gastritis
+Gastric cancer and gastric dysplasia, The primary endpoint is the incidence of gastric cancer (intestinal-type) and gastric dysplasia (low grade and high grade dysplasia)., 20 years
+Overall accuracy of machine learning model, Overall accuracy of machine learning models will be evaluated, 20 years|Sensitivity of machine learning model, Sensitivity of machine learning model will be evaluated, 20 years|Specificity of machine learning model, Specificity of machine learning model will be evaluated, 20 years|Positive predictive value of machine learning model, Positive predictive value of machine learning model will be evaluated, 20 years|Negative predictive value of machine learning model, Negative predictive value of machine learning model will be evaluated, 20 years|Area under the receiver operating characteristic curve of machine learning model, Area under the receiver operating characteristic curve of machine learning model will be evaluated, 20 years
+This is a two-part retrospective study including a clinical data part and a pathology part. A training cohort will be developed from approximately 70% of included cases. It will be followed by a validation cohort with the remaining cases.
+
+Clinical data will be collected retrospectively using the Clinical Data Analysis and Reporting System (CDARS) and Clinical management System (CMS). A cluster-wide cohort (New Territories East Cluster, NTEC) consisting of patients with history of histologically-proven gastric IM and AG will be identified and included for subsequent analysis. The data collection period for the retrospective data will be 2000-2020.
+
+Histology slides will be retrieved retrospectively when available (within NTEC). Whole slide imaging technique will be utilized for the development of training and validation cohorts with machine learning algorithms in the pathology part.

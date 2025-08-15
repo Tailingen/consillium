@@ -1,0 +1,28 @@
+Ribociclib and Letrozole in Treating Patients With Relapsed ER Positive Ovarian, Fallopian Tube, Primary Peritoneal, or Endometrial Cancer
+This phase II trial studies how well ribociclib and letrozole work in treating patients with estrogen receptor (ER) positive ovarian, fallopian tube, primary peritoneal, or endometrial cancer that has returned (come back) after a period of improvement. Ribociclib may stop the growth of tumor cells by blocking some enzymes needed for cell growth. Cancer cells that are estrogen receptor positive may need estrogen to grow. Letrozole lowers the amount of estrogen made by the body and this may stop the growth of tumor cells that need estrogen to grow. Giving ribociclib together with letrozole may be an effective treatment in patients with ovarian, fallopian tube, primary peritoneal, or endometrial cancer.
+Estrogen Receptor Positive|Postmenopausal|Recurrent Fallopian Tube Carcinoma|Recurrent Ovarian Carcinoma|Recurrent Primary Peritoneal Carcinoma|Recurrent Uterine Corpus Carcinoma
+OTHER: Laboratory Biomarker Analysis|DRUG: Letrozole|DRUG: Ribociclib
+Percentage of Patients Alive and Free of Progression at 12 Weeks (PFS12), The percentage of patients who are progression-free at 12 weeks (PFS12) is defined as patients who are alive and progression free at 12 weeks. Progression is defined according to Response Evaluation Criteria in Solid Tumors (RECIST) version 1.1. Progression is defined using Response Evaluation Criteria In Solid Tumors Criteria (RECIST v1.0), as a 20% increase in the sum of the longest diameter of target lesions, or a measurable increase in a non-target lesion, or the appearance of new lesions. The median and 95% confidence intervals are estimated using the Kaplan-Meier estimator., At 12 weeks
+Progression-free Survival, Progression free survival (PFS) is defined as the time from the date of registration to the date of disease progression or death resulting from any cause, whichever comes first. Progression is defined according to Response Evaluation Criteria in Solid Tumors (RECIST) version 1.1. The median and 95% confidence intervals are estimated using the Kaplan-Meier estimator., From registration to the first of either disease progression or death from any cause, assessed up to 2 years|Overall Survival, Overall survival time is defined as the time from registration to death due to any cause. The median and 95% confidence intervals are estimated using the Kaplan-Meier estimator., From registration to death from any cause, assessed up to 2 years|The Number of Patients With CA-125 Response, The number of patients with CA-125 response, defined as a 50% or greater reduction in baseline CA-125., Up to 2 years|The Number of Patients With Confirmed Response (Complete Response or Partial Response), The number of patients with confirmed response (complete response or partial response) using Response Evaluation Criteria in Solid Tumors version 1.1. Per Response Evaluation Criteria In Solid Tumors Criteria (RECIST v1.0) for target lesions and assessed by MRI: Complete Response (CR), Disappearance of all target lesions; Partial Response (PR), \>=30% decrease in the sum of the longest diameter of target lesions; Overall Response (OR) = CR + PR, Up to 2 years|The Number of Treatment-related Grade 3 or Higher Adverse Events, The number of treatment-related Grade 3 or higher adverse events using the National Cancer Institute Common Terminology Criteria for Adverse Events version 4.0, Up to 30 days post-treatment
+Creation of Patient Derived Xenograft Models for Future Translational Experiments, Xenograft will be created on each patient. For patient derived xenograft experiments, response to therapy will be based on tumor volumes measured by ultrasound. Tumor growth curves will be plotted graphically and notated to indicate the outcome status of the originating patients. End of study tumor volumes will be correlated with outcome status of the originating patient as well., 28 days following treatment initiation|Molecular Biomarkers Associated With a Response to Treatment With Letrozole and Ribociclib, Whether response rates to letrozole and ribociclib in patient derived xenograft avatars correlate to responses noted in the patients will be determined. Fisher's Exact test will be used to measure the associations., Baseline
+PRIMARY OBJECTIVES:
+
+I. Demonstrate if the combination of letrozole and ribociclib (LEE011) leads to a higher percentage of patients who are progression free at 12 weeks (PFS 12) as compared with that observed in prior studies with single agent letrozole.
+
+SECONDARY OBJECTIVES:
+
+I. Demonstrate if the combination of letrozole and ribociclib (LEE011) leads to a higher cancer antigen 125 (CA-125) response rate in patients with relapsed ER positive ovarian cancers and endometrial cancers as compared to that observed in previously reported single agent letrozole studies.
+
+II. Median progression-free survival (PFS), overall survival (OS), the confirmed response rate, and adverse events.
+
+TERTIARY OBJECTIVES:
+
+I. Identify molecular biomarkers associated with a response to treatment with letrozole and ribociclib (LEE011) (in patients with relapsed ovarian carcinomas and endometrial cancers).
+
+II. Develop patient derived xenograft (PDX) avatars on tumors from participants for possible future translational study evaluating a potential correlation between responses in the PDX model to patients' responses.
+
+OUTLINE:
+
+Patients receive ribociclib orally (PO) daily and letrozole PO daily on days 1-28. Courses repeat every 28 days in the absence of disease progression or unacceptable toxicity.
+
+After completion of study treatment, patients are followed up every 3-6 months for 2 years.

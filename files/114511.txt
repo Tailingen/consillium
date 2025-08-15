@@ -1,0 +1,65 @@
+Comparing Combinations of Drugs to Treat Newly Diagnosed Multiple Myeloma (NDMM) When a Stem Cell Transplant is Not a Medically Suitable Treatment
+This phase III trial compares three-drug induction regimens followed by double-or single-drug maintenance therapy for the treatment of newly diagnosed multiple myeloma in patients who are not receiving a stem cell transplant and are considered frail or intermediate-fit based on age, comorbidities, and functional status. Treatment for multiple myeloma includes initial treatment (induction) which is the first treatment a patient receives for cancer followed by ongoing treatment (maintenance) which is given after initial treatment to help keep the cancer from coming back. There are three combinations of four different drugs being studied. Bortezomib is one of the drugs that may stop the growth of cancer cells by blocking some of the enzymes needed for cell growth. Lenalidomide works by helping bone marrow to produce normal blood cells and killing cancer cells. Anti-inflammatory drugs, such as dexamethasone, lower the body's immune response and are used with other drugs in the treatment of some types of cancer. Daratumumab and hyaluronidase-fihj is a monoclonal antibody that may interfere with the ability of cancer cells to grow and spread. Patients receive 1 of 3 combinations of these drugs for treatment to determine which combination of study drugs works better to shrink and control multiple myeloma.
+Plasma Cell Myeloma
+DRUG: Bortezomib|DRUG: Daratumumab and Hyaluronidase-fihj|DRUG: Dexamethasone|DRUG: Lenalidomide|OTHER: Quality-of-Life Assessment|OTHER: Questionnaire Administration
+Progression free survival (PFS) of Arm 1 versus (vs.) Arm 2, Analysis of each of the dual primary endpoints will be performed using a stratified log-rank test for comparison between arms. The analyses will be stratified according to frailty score (frail vs. intermediate fit), presence of one or more high-risk abnormalities by fluorescence in situ hybridization (iFISH) (yes vs. no), and prior therapy (yes vs. no). All eligible participants will be considered in analyses of the dual primary endpoints, according to their assigned arm at randomization., From date of randomization to date of first documentation of progression or symptomatic deterioration, or death due to any cause, or assessed up to 10 years|Overall survival (OS) of Arm 1 vs. Arm 3, Analysis of each of the dual primary endpoints will be performed using a stratified log-rank test for comparison between arms. The analyses will be stratified according to frailty score (frail vs. intermediate fit), presence of one or more high-risk abnormalities by iFISH (yes vs. no), and prior therapy (yes vs. no). All eligible participants will be considered in analyses of the dual primary endpoints, according to their assigned arm at randomization., From date of randomization to date of death due to any cause, or assessed up to 10 years
+PFS, Analysis of PFS and OS endpoints will be performed using a stratified log-rank test for comparison between arms, with stratification according to frailty score (frail vs. intermediate fit) presence of one or more high-risk abnormalities by iFISH (yes vs. no) and prior therapy (yes vs. no)., From date of randomization to date of first documentation of progression or symptomatic deterioration, or death due to any cause, or assessed up to 10 years|OS, Analysis of PFS and OS endpoints will be performed using a stratified log-rank test for comparison between arms, with stratification according to frailty score (frail vs. intermediate fit) presence of one or more high-risk abnormalities by iFISH (yes vs. no) and prior therapy (yes vs. no)., From date of randomization to date of death due to any cause, or assessed up to 10 years|Overall response rate (ORR), ORR is defined as the percentage of participants achieving a best response of partial response (PR) or better while on study. ORR will be reported with a binomial confidence interval. Time to response will be analyzed using the cumulative incidence competing risks method., Up to 10 years|Time to complete response (CR), All eligible participants will be considered in analyses of the secondary endpoints, according to their assigned arm at randomization, and with participants who go off-study prior to response assessment considered as non-responders for the analysis of response rate and as censored at the time of removal from study for the analysis of time to response. Time to response will be analyzed using the cumulative incidence competing risks method., The time from the date of registration to the date of the first documented incidence of a response of CR or better, assessed up to 10 years|Time to very good partial response (VGFR), All eligible participants will be considered in analyses of the secondary endpoints, according to their assigned arm at randomization, and with participants who go off-study prior to response assessment considered as non-responders for the analysis of response rate and as censored at the time of removal from study for the analysis of time to response. Time to response will be analyzed using the cumulative incidence competing risks method., The time from the date of registration to the date of the first documented incidence of a response of VGPR or better, assessed up to 10 years|Time to PR, All eligible participants will be considered in analyses of the secondary endpoints, according to their assigned arm at randomization, and with participants who go off-study prior to response assessment considered as non-responders for the analysis of response rate and as censored at the time of removal from study for the analysis of time to response. Time to response will be analyzed using the cumulative incidence competing risks method., The time from the date of registration to the date of the first documented incidence of a response of PR or better, assessed up to 10 years|Minimal residual disease (MRD), The rate of MRD negativity will be calculated at each timepoint as the number of patients who are MRD negative divided by the number of patients who were eligible, analyzable and assessable for clinical response assessment at that timepoint. Rates of MRD negativity will be compared using a two-arm binomial test., At 9 months of induction therapy and 1 year of maintenance therapy|Patient report out comes (PRO) quality-of-life (QOL), We will use the European Organization for Research and Treatment of Cancer (EORTC) QLQ-C30 (version 3). This instrument includes questions broadly applicable to all cancer patients, assessing 5 functional domains (physical, role, cognitive, emotional, social) and 8 symptoms (fatigue, pain, nausea/vomiting, dyspnea, loss of appetite, insomnia, constipation, diarrhea), together with financial problems and global quality of life., At baseline and months 1, 3, 9, and 18 after randomization|Patient-reported toxicity (PRO-Common Terminology Criteria for Adverse Events [CTCAE]), PRO-CTCAE is intended to enhance the quality of adverse event data reporting in clinical trials, provide data that complements and extends the information provided by clinician reporting using CTCAE, represent the patient perspective of the experience of symptomatic adverse events (AEs), and improve detection of potentially serious adverse events. Descriptive statistics will be used to summarize selected PRO-CTCAEs tabulated at each cycle overall and by arm. We will examine the extent to which PRO-CTCAEs with provider reported AEs are correlated and evaluate differences in incidence and worst severity., At baseline, at each treatment cycle up to month 18 from randomization, and at discontinuation of treatment
+PRIMARY OBJECTIVES:
+
+I. To compare progression-free survival (PFS) in frail or selected intermediate fit newly diagnosed multiple myeloma (NDMM) participants treated with bortezomib with lenalidomide and dexamethasone at reduced dosing (VRd-Lite) induction followed by lenalidomide maintenance (Arm 1) versus daratumumab and hyaluronidase-fihj with lenalidomide and dexamethasone (DRd) induction followed by lenalidomide maintenance (Arm 2).
+
+II. To compare overall survival (OS) in frail or selected intermediate fit NDMM participants treated with VRd-Lite induction followed by lenalidomide maintenance (Arm 1) versus DRd induction followed by lenalidomide and daratumumab and hyaluronidase-fihj maintenance (Arm 3).
+
+SECONDARY OBJECTIVES:
+
+I. To compare PFS in Arm 1 versus Arm 3 II. To compare OS in Arm 1 versus Arm 2. III. To compare PFS in Arm 2 versus 3. IV. To compare the overall response rate (ORR) of Arm 1 against the ORR of Arm 2 and Arm 3.
+
+V. To compare the safety of Arm 1 with the safety of Arm 2 and Arm 3. VI. To explore veinous thrombo-embolism (VTE) incidence in participants receiving lenalidomide during induction across the three study arms.
+
+VII. To describe median time to response (complete response \[CR\] or better per International Myeloma Working Group \[IMWG\] criteria, very good partial response \[VGPR\] or better per IMWG criteria, partial response \[PR\] or better per IMWG criteria) on the three study arms.
+
+PRIMARY QUALITY OF LIFE (QOL) OBJECTIVE:
+
+I. To compare patient-reported global health status between treatment arms (Arm 1 versus the combination of Arms 2 and 3) at 9 months after randomization (end of induction therapy) using the European Organization for Research and Treatment of Cancer (EORTC) Core Quality of Life Questionnaire (QLQ-C30).
+
+SECONDARY QOL OBJECTIVE:
+
+II. To compare longitudinal changes in global health status between treatment arms (Arm 1 versus the combination of Arms 2 and 3) from baseline to 9 months after randomization (end of induction therapy).
+
+PATIENT REPORTED OUTCOMES-COMMON TERMINOLOGY CRITERIA FOR ADVERSE EVENTS (PRO-CTCAE) OBJECTIVE:
+
+I. To compare selected patient-reported outcome symptoms using PRO-CTCAE items among the 3 study arms.
+
+ADDITIONAL OBJECTIVES:
+
+I. To compare the rate of minimal residual disease (MRD) by clonoSEQ after 9 cycles of induction in Arm 1 versus Arm 2 and Arm 3, respectively.
+
+II. To compare the rate of MRD conversion after 1 year of maintenance in participants who were MRD positive after induction in Arm 1 versus Arm 2 and Arm 3, respectively.
+
+III. To compare the rate of sustained MRD negativity at time points of post-induction, post-1 year maintenance in Arm 1 versus Arm 2 and Arm 3, respectively.
+
+BANKING OBJECTIVES:
+
+I. To bank specimens for future correlative studies.
+
+OUTLINE: Patients are randomized to 1 of 3 arms.
+
+ARM I (VRd-Lite):
+
+INDUCTION CYCLES 1-9: Patients receive bortezomib subcutaneously (SC) on days 1, 8, 15, and 22 of each cycle, lenalidomide orally (PO) on days 1-21 of each cycle, and dexamethasone PO on days 1, 8, 15, and 22 of each cycle. Treatment repeats every 28 days for up to 9 cycles in the absence of disease progression or unacceptable toxicity.
+
+MAINTENANCE CYCLES 10+: Patients receive lenalidomide PO on days 1-21 of each cycle. Cycles repeat every 28 days in the absence of disease progression or unacceptable toxicity.
+
+ARM II (DRd-R):
+
+INDUCTION CYCLES 1-9: Patients receive daratumumab and hyaluronidase-fihj SC on days 1, 8, 15, and 22 of cycles 1-2, days 1 and 15 of cycles 3-6, and day 1 of cycles 7-9, lenalidomide PO on days 1-21 of each cycle, and dexamethasone PO on days 1, 8, 15, and 22 of each cycle. Treatment repeats every 28 days for up to 9 cycles in the absence of disease progression or unacceptable toxicity.
+
+MAINTENANCE CYCLES 10+: Patients receive lenalidomide PO on days 1-21 of each cycle. Cycles repeat every 28 days in the absence of disease progression or unacceptable toxicity.
+
+ARM III (DRd-DR):
+
+INDUCTION CYCLES 1-9: Patients receive daratumumab and hyaluronidase-fihj SC on days 1, 8, 15, and 22 of cycles 1-2, days 1 and 15 of cycles 3-6, and day 1 of cycles 7-9, lenalidomide PO on days 1-21 of each cycle, and dexamethasone PO on days 1, 8, 15, and 22 of each cycle. Treatment repeats every 28 days for up to 9 cycles in the absence of disease progression or unacceptable toxicity.
+
+MAINTENANCE CYCLES 10+: Patients receive daratumumab and hyaluronidase-fihj SC on day 1 of each cycle and lenalidomide PO on days 1-21 of each cycle. Cycles repeat every 28 days in the absence of disease progression or unacceptable toxicity.
+
+After completion of study treatment, patients are followed up every 3 months for 1 year, every 6 months for 2 years, and then annually for up to 10 years.

@@ -1,0 +1,13 @@
+Cisplatin, Pemetrexed and Bevacizumab for Untreated Malignant Mesothelioma
+To estimate the time to progression of cancer in patients with previously untreated mesothelioma receiving cisplatin, pemetrexed and bevacizumab
+Mesothelioma
+DRUG: bevacizumab|DRUG: cisplatin|DRUG: pemetrexed
+Progression Free Survival Rate at 6 Months, This is the percentage of patients alive and progression-free at 6 months from initiation of treatment., patients progression free at 6 months
+Response Rate, response was assessed by the RECIST criteria (version 1.0). Per those criteria, progression is defined as a 20% increase in the sum of the longest diameter of target lesions, or a measurable increase in a non-target lesion, or the appearance of new lesions., from time of enrollment to time of best response or death from any cause, whichever came first up to 100 months|Overall Survival, overall survival was measured from time of initiation of treatment to death from any cause, From date of randomization until the date of first documented progression or date of death from any cause, whichever came first, assessed up 100 months
+Secondary endpoints will include:
+
+objective response rate
+
+overall survival
+
+In addition, the objective of the analysis of the correlative science data is to determine any association between tumor expression of VEGF/KDR complex and/or the presence of sv40 (as detected by PCR amplification) and objective response.

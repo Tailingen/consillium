@@ -1,0 +1,74 @@
+NHL16: Study For Newly Diagnosed Patients With Acute Lymphoblastic Lymphoma
+This is a phase II clinical trial using risk-adapted therapy. The treatment is acute lymphoblastic leukemia (ALL)-based therapy, using multi-agent regimens comprising of induction, consolidation, and continuation (maintenance) phases delivered over 24-30 months. Participants will be classified into 3 treatment stratums, based on bone marrow/peripheral blood lymphoma cells involvement at diagnosis and day 8 for T-lymphoblastic lymphoma and bone marrow/peripheral blood lymphoma cells involvement at diagnosis for B-lymphoblastic lymphoma.
+
+The Primary Objective of this study is:
+
+To improve the outcome of children with lymphoblastic lymphoma (LL) who have minimal disseminated disease (MDD) equal to or more than 1% at diagnosis by using MDD- and minimal residual disease (MRD)- based risk-adapted therapy.
+
+The Secondary Objectives of this study are:
+
+* To estimate the event-free survival and overall survival of children with lymphoblastic lymphoma who are treated with MDD- or MRD-based risk- directed therapy.
+* To evaluate the prognostic value of levels of MDD at diagnosis and MRD on day 8 of remission induction.
+Lymphoblastic Lymphoma
+DRUG: Prednisone|DRUG: Vincristine|DRUG: Daunorubicin|DRUG: PEG-asparaginase|DRUG: Erwinia asparaginase|DRUG: Doxorubicin|DRUG: Cyclophosphamide|DRUG: Cytarabine|DRUG: Thioguanine|DRUG: Clofarabine|DRUG: Methotrexate|DRUG: Mercaptopurine|DRUG: Dexamethasone|DRUG: Hydrocortisone|DRUG: Etoposide
+Probability of Event-free Survival (EFS), For EFS, relapse and second malignancies are considered as failures in addition to death in complete remission. The time to EFS will be set to 0 for patients who fail to achieve complete remission. Kaplan-Meier estimates of the OS and EFS curves are computed, along with estimates of standard errors by Peto's method.
+
+Please note the unit of measurement of probabilities are percentages., Two years post therapy.
+Probability of Overall Survival (OS), For OS, only deaths are considered failures for OS. Kaplan-Meier estimates of the OS curves are computed along with estimates of standard errors by Peto's method.
+
+Please note the unit of measurement of probabilities are percentages., Two years post therapy.|Minimal Disseminated Disease (MDD), Detectable disease in bone marrow or blood: A binary measure, positive (detectable), negative (non-detectable), At Diagnosis|Minimal Residual Disease (MRD), Detectable disease in bone marrow or blood: A binary measure, positive (detectable), negative (non-detectable), Day 8
+TREATMENT PLAN
+
+Treatment will consist of 3 main phases: remission induction, consolidation \[only for patients with any central nervous system (CNS) disease and/or testicular involvement\], and continuation.
+
+* Induction (6-7 weeks).
+* Consolidation for participants with CNS involvement or those with testicular disease only (10 weeks).
+* Reintensification - Participants with residual disease any time after induction therapy may receive 1-2 cycles of re-intensification therapy and may proceed to allogeneic stem cell transplant if suitable donor is available.
+* Continuation Therapy (98-120 weeks).
+* Intrathecal Chemotherapy (days 1 and 15; if needed also on days 8 and 22)
+
+TREATMENT SCHEME
+
+T lymphoblastic lymphoma: bone marrow/peripheral blood (BM/PB) involvement (MDD/MRD): Diagnosis: less than 1%; Day 8: +/- (Stratum 1)
+
+* Induction
+
+  * Single dose of Cyclophosphamide
+  * Steroid: prednisone
+* Continuation: 98 weeks
+
+T lymphoblastic lymphoma: BM/PB involvement (MDD/MRD): Diagnosis: equal to or greater than 1%; Day 8: - (Stratum 2)
+
+* Induction
+
+  * Fractionated Cyclophosphamide
+  * Steroid: prednisone
+* Continuation : 98 weeks
+
+T lymphoblastic lymphoma: BM/PB involvement (MDD/MRD): Diagnosis: equal to or greater than 1%; Day 8: + (Stratum 3)
+
+* Induction
+
+  * Fractionated Cyclophosphamide
+  * Steroid: prednisone and dexamethasone
+* Continuation: 120 weeks
+
+B lymphoblastic lymphoma: Stage I-III (Stratum 1)
+
+* Induction
+
+  * Single dose of Cyclophosphamide
+  * Steroid: prednisone
+* Continuation: 98 weeks
+
+B lymphoblastic lymphoma: Stage IV or testicular (Stratum 2)
+
+* Induction
+
+  * Fractionated Cyclophosphamide
+  * Steroid: prednisone
+* Continuation: 98 weeks
+
+Patients with CNS or testicular involvement will receive Consolidation therapy prior to continuation therapy and receive extended maintenance therapy (120 weeks).
+
+Any patient with detectable disease (MRD, bone marrow or biopsy of residual mass) at the end of induction may be considered for reintensification and/or hematopoietic stem cell transplantation (HSCT).

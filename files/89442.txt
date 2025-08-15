@@ -1,0 +1,64 @@
+Rituximab and Alemtuzumab in Treating Older Patients With Progressive Chronic Lymphocytic Leukemia
+RATIONALE: Monoclonal antibodies, such as rituximab and alemtuzumab, can block cancer growth in different ways. Some block the ability of cancer cells to grow and spread. Others find cancer cells and help kill them or carry cancer killing substances to them. Giving rituximab together with alemtuzumab may kill more cancer cells.
+
+PURPOSE: This randomized phase II trial is studying two different doses of rituximab to compare how well they work when given together with alemtuzumab in treating older patients with progressive chronic lymphocytic leukemia.
+Chronic Lymphocytic Leukemia
+BIOLOGICAL: alemtuzumab|BIOLOGICAL: rituximab
+Proportion of Patients With Complete Response (CR), Response was evaluated using NCI-WG96 criteria.
+
+A CR requires all of the following for \>= 2 months:
+
+* Absence of lymphadenopathy \> 1 cm in diameter by physical examination
+* No hepatomegaly or splenomegaly on physical exam
+* No constitutional symptoms
+* Normal complete blood count (CBC)
+* Patients achieving a clinical CR with negative CT scan after 2 cycles of therapy are re-evaluated using immunohistochemical examination of bone marrow biopsy for residual CLL cells. Patients with no evidence of residual disease and no radiological evidence of residual CLL on CT scan of chest-abdomen-pelvis and no clinical evidence of CLL on clinical evaluation after completion of 2 cycles of therapy will be considered to have a CR with no evidence of residual disease, Assessed after 2 cycles of treatment and 2 months after completion of therapy|Proportion of Patients With Overall Response (OR), OR is defined as either CR, clinical CR, or partial response (PR) evaluated by NCI-WG96 criteria. CR has been defined in the other primary endpoint.
+
+A clinical CR requires all of the following:
+
+* Absence of lymphadenopathy by physical examination
+* No hepatomegaly or splenomegaly. Spleen and/or liver, if considered enlarged at baseline, should not be palpable, due to disease, on physical exam
+* Absence of constitutional symptoms
+* Normal CBC as exhibited by:
+
+A PR requires all the following for ≥2 months:
+
+* ≥50% decrease in peripheral blood lymphocyte count from baseline
+* ≥50% reduction in lymphadenopathy
+* ≥50% reduction in size of liver and/or spleen
+* Polymorphonuclear leukocytes ≥1.5x10\^9/L or 50% improvement over baseline
+* Platelets \>100x10\^9/L or 50% improvement over baseline
+* Hemoglobin \>11.0 gm/dl or 50% improvement over baseline without transfusions
+* Any constitutional symptoms, Assessed after 2 cycles of treatment and 2 months after completion of therapy
+Overall Survival (OS), OS is defined to be time from randomization to death from any cause. Those still alive are censored at the date of last contact., Assessed after 2 cycles of treatment, 2 months after completion of therapy and then yearly up to 5 years|Progression-free Survival (PFS), PFS is defined to be time from randomization to progression (PD) or to death without documentation of progression. For patients without PD, follow-up is censored at the date of last disease assessment without PD, unless death occurs within three months following the date last known progression free.
+
+PD is characterized by at least one of the following:
+
+* ≥50% increase in the sum of the products of at least 2 lymph nodes on 2 consecutive examinations 2 weeks apart (at least 1 node must be \>2 cm). Appearance of new palpable lymph nodes (\>1 cm in diameter).
+* ≥50% increase in the size of liver and/or spleen as determined by measurement below the respective costal margin; appearance of palpable hepatomegaly or splenomegaly which was not previously present.
+* Absolute number of circulating lymphocytes with a count of \>5x10\^9/L
+* Transformation to a more aggressive histology, Assessed after 2 cycles of treatment, 2 months after completion of therapy and then yearly up to 5 years|Time to Response, Time to response is defined to be time from randomization to first confirmed CR, PR or clinical CR. Those without confirmed CR, PR or clinical CR are censored at the date of last disease assessment., Assessed after 2 cycles of treatment, 2 months after completion of therapy and then yearly up to 5 years|Duration of Response, Duration of response is defined to be time from first confirmed CR, PR or clinical CR to progression or to death without documentation of progression. Patients without confirmed CR, PR or clinical CR are censored at time 0. Those without documentation of progression are censored at the date of last disease assessment without progression, unless death occurs within three months following the date last known progression free., Assessed after 2 cycles of treatment, 2 months after completion of therapy and then yearly up to 5 years
+OBJECTIVES:
+
+Primary
+
+* To compare the rate of complete and overall response in elderly patients with progressive chronic lymphocytic leukemia (CLL) treated with one of two doses of rituximab combined with alemtuzumab to determine if the use of modified-dose rituximab significantly affects outcome.
+
+Secondary
+
+* To monitor and assess toxicity of these regimens.
+* To determine the overall and progression-free survival, time to clinical response, time to next treatment, and duration of response in patients treated with these regimens
+* To assess the correlation between risk stratification prognostic markers (i.e., CD38, ZAP-70, fluorescent in situ hybridization (FISH), and IgVH mutation) and clinical outcome.
+* To assess response to these regimens using both the 1996 National Cancer Institute Working Group (NCI-WG 96) criteria and an expanded definition of response for patients in complete remission, including immunohistochemical examination of the bone marrow and sensitive flow cytometry (4-6 color) of blood for minimal residual disease and computed tomography (CT) scans for residual adenopathy.
+* To determine the mechanism of action of rituximab and alemtuzumab and to determine mechanisms of resistance of a subpopulation of CLL cells to these drugs.
+
+OUTLINE: This is a multicenter study. Patients are stratified according to FISH risk (low \[13q14-\] vs intermediate \[12+, no abnormality, all other abnormalities\] vs high \[17p13-,11q22-\]). Patients are randomized to 1 of 2 treatment arms.
+
+* Arm A: Patients receive alemtuzumab subcutaneously (SC) on days 1-3, 6, 8, 10, 13, 15, 17, 20, 22, 24, 27, 29, and 31 and standard-dose rituximab intravenously (IV) on days 8, 15, 22, and 29 in cycle 1 (33-day cycle). In cycle 2 and subsequent cycles (28-day cycle), patients receive alemtuzumab SC on days 1, 3, 5, 8, 10, 12, 15, 17, 19, 22, 24, and 26 and standard-dose rituximab IV on days 3, 10, 17, and 24. Treatment repeats every 28 days for up to 3 cycles.
+* Arm B: Patients receive alemtuzumab as in arm A. Patients also receive low-dose rituximab IV on days 6, 8, 10, 13, 15, 17, 20, 22, 24, 27, 29, and 31 in cycle 1 and on days 1, 3, 5, 8, 10, 12, 15, 17, 19, 22, 24, and 26 in cycless 2 and 3. Treatment repeats every 28 days for up to 3 cycles.
+
+Blood and bone marrow samples are collected periodically for cytogenetic and biomarker analysis.
+
+Alemtuzumab dose for Cycle 1 Week 1 of both Arms A and B requires a 'dose ramp' (3 mg day 1, 10 mg day2, and 30 mg day 3 of cycle 1).
+
+After completion of study therapy, patients are followed up periodically for 5 years.

@@ -1,0 +1,8 @@
+The Value of a Convolutional Neural Network-Based Renal Artery Perfusion Model in Predicting Renal Function After Partial Nephrectomy: A Prospective Study
+The goal of this observational study is to develop a CNN-based machine module to predict postoperative fractional renal function in people who are proposed to undergo partial nephrectomy. The main question it aims to answer is:
+
+• Does this machine learning model accurately predict renal function after partial nephrectomy?
+Renal Cell Cancer
+GFR of ipsilateral and contralateral kidneys, 3 months after surgery|volume of ipsilateral kidney, 3 months after surgery
+Postoperative total renal function(eGFR), 24 hours, 1 month, 3 months, 6 months, 1 year after surgery
+This prospective study is conducted to predict postoperative fractional renal function using the perfusion deficit method from a preoperatively established renal arterial perfusion model for people who are proposed to undergo partial nephrectomy. In this study, this prediction method will be compared with the true missing values of renal units on nuclear renal function, eGFR, and CTA. This study aims to evaluate the feasibility of applying the CNN-based model in predicting postoperative renal function after partial nephrectomy and provide high-level clinical evidence for the preoperative integrated diagnostic and treatment process of renal tumors, especially in terms of the functional evaluation.

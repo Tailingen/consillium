@@ -1,0 +1,54 @@
+French Assessment of MRD by Liquid Biopsies in Stage III CRC Patients (FRENCH.MRD.CRC)
+Improving personalized cancer treatments and finding the best strategies to treat each patient relies on using new diagnostic technologies. Currently, for colorectal cancer, the methods used to decide who gets additional post-surgery treatment are suboptimal. Some patients get too much treatment, while others do not get enough.
+
+There is a new way to explore if there is any cancer left in a patient's body using circulating tumor DNA (ctDNA) detected in blood samples. This can help decide who needs more treatment after surgery. Even though many tests have been developed, it has yet to be determined which test performs best at relevant time points.
+
+The GUIDE.MRD consortium is a group of experts, including scientists, technology, and pharmaceutical companies. The consortium is working on creating a reliable standard for the ctDNA tests, validating their clinical utility, and collecting data to help decide on the best treatment for each patient.
+
+FRENCH-MRD-CRC is the French study of the european GUIDE.MRD project.
+Colorectal Cancer|Stage III Colon Cancer|Minimal Residual Disease|Liquid Biopsy
+BIOLOGICAL: Blood sample/lliquid biopsy
+3-year disease-free survival (DFS), Disease-free survival was defined as the time between the date of the baseline blood sampling/inclusion\] and the date of the first event among or recurrence or death from any cause., 3 years after end of recruitment
+Sensitivity (Se) of the ctDNA diagnostics, Sensitivity (Se) of the ctDNA diagnostics is calculated in subjects with a 3-year recurrence: Se = TP/(TP+FN) (a positive reference test), 3 years after end of recruitment|Specificity (Sp) of the ctDNA diagnostics, Specificity (Sp) of the ctDNA diagnostics is calculated in subjects without a 3-year recurrence : Sp = TN/(TN+FP) (a negative reference test), 3 years after end of recruitment|Positive predictive value of the ctDNA diagnostics, The predictive value of a positive test or positive predictive value (PPV): PPV = TP/(TP+FP)., 3 years after end of recruitment|Negative predictive value of the ctDNA diagnostics, The predictive value of a negative test or negative predictive value (NPV): NPV =TN/(TN+FN)., 3 years after end of recruitment|Area under the curve of the ctDNA diagnostics, Area Under the Curve of the ctDNA:
+
+* AUC ≤0.75 = low classification accuracy,
+* 0.75 \< AUC \< 0.85 = moderate accuracy,
+* and AUC ≥0.85 = high accuracy, 3 years after end of recruitment|Time to clinical recurrence, Time to clinical recurrence was defined as the time between the date of the baseline blood sampling/inclusion \[debut\] and the date of the recurrence., 3 years after end of recruitment|Overall survival, Overall survival was defined as the time between the date of the baseline blood sampling/inclusion \[debut\] and the date of death from any cause., 3 years after end of recruitment|Time to molecular recurrence, Time to molecular recurrence was defined as the time between the date of the baseline blood sampling/inclusion \[debut\] and the date of the molecular recurrence (positive ctDNA test)., 3 years after end of recruitment
+FRENCH.MRD.CRC is a part of WP3 of the overarching GUIDE.MRD project. Each study chair has a local clinical trial protocol where patients are recruited. After the end of recruitment, samples will be analyzed under the GUIDE.MRD consortium.
+
+The overall aim of GUIDE.MRD is to investigate the clinical utility of ctDNA analysis to predict and guide the choice of multi-modal therapies prospectively. The fundamental steps towards this aim are assessment and benchmarking of the many available ctDNA diagnostics to identify the best-suited tests for clinical application. Clinical samples will be used to benchmark ctDNA diagnostics and assess their true clinical performance. The samples should reflect clinical situations where the ctDNA diagnostics are particularly useful, such as post-operatively, post-adjuvant, during chemotherapy, and longitudinally during post-treatment surveillance. In these situations, ctDNA diagnostics could be used to either monitor treatment response (in case of MRD after surgery) or to identify relapse at an early time point. Based on ctDNA information, medical treatment could be changed, or radiology could be used to reveal the location of residual disease.
+
+The rationale for the observational clinical study FRENCH.MRD.CRC is to prospectively collect the clinical samples needed to enable assessment of the performance of ctDNA diagnostics in the setting of colorectal cancer (CRC). There are two main scenarios where ctDNA diagnostic is useful in CRC:
+
+Stage III CRC (locally advanced, non-metastasized disease): This patient group is particularly relevant because adjuvant therapy is recommended for all stage III patients, due to their high recurrence risk, \~25%. Nevertheless, most patients do not recur, and most of these do not need therapy at all, because they were already cured by surgery alone, which leads to substantial overtreatment. Furthermore, the 25% of patients who recur despite both surgery and adjuvant therapy, probably could benefit from further multimodal therapies. The challenge is, however, that currently there is no marker in clinical use that can identify those patients with residual disease and need for therapy. Circulating tumor DNA is potentially such a marker. However, currently, it is unknown, which, if any, of the many different ctDNA diagnostics developed in recent years have the required performance to provide clinical utility in the management of stage III CRC. This clinical dilemma will be addressed with the first cohort of GUIDE.MRD-01-CRC.
+
+The FRENCH.MRD.CRC study is logistically divided into two parts, and patients are offered participation in each part separately. The parts are called "FRENCH.MRD.CRC part 1 - SURGERY", and "FRENCH.MRD.CRC part 2 - SURVEILLANCE".
+
+In FRENCH.MRD.CRC part 1, blood samples are collected before and after intended curative surgery. In FRENCH.MRD.CRC part 2, blood samples are collected immediately after adjuvant chemotherapy, and during standard-of-care surveillance. Using the patients included in FRENCH.MRD.CRC part 1, the Primary objective 1 (P1) will be addressed.
+
+The subset of the part I patients that are also included in FRENCH.MRD.CRC part 2 will be used to address the Primary objective P2 and Secondary objectives S1-S5 (see below).
+
+All FRENCH.MRD.CRC patients (parts 1 and 2) are followed 3 years from the date of surgery.
+
+PRIMARY OBJECTIVES Primary objective 1 (P1) To confirm that ctDNA analysis performed immediately after CRC treatment can identify patients with a high risk of recurrence.
+
+Specifically, the investigators want to determine the association between 3-year disease-free survival (DFS) and ctDNA detection status immediately after
+
+1. Curative intended surgery and,
+2. Adjuvant chemotherapy.
+
+Primary objective 2 (P2) To identify a cohort of UICC stage III CRC patients with planned adjuvant chemotherapy. These patients will be offered enrollment in the FRENCH.MRD.CRC part II and will further be included in a European collaboration named GUIDE.MRD funded by the European Union via the Innovative Health Initiative.
+
+SECONDARY OBJECTIVES Secondary objective 1 (S1) To technically assess, compare, and rank existing commercial ctDNA diagnostics after intended curative CRC treatment (surgery and adjuvant chemotherapy) to identify the best method at each time point, with no impact on diagnosis or treatment of patients enrolled in the study.
+
+Secondary objective 2 (S2)
+
+To assess the effect of standard-of-care adjuvant chemotherapy on the level of ctDNA. Especially, for patients with ctDNA detected after surgery, the investigators will measure and compare the ctDNA levels in plasma samples drawn before and after adjuvant chemotherapy. Further, the change in ctDNA level will be correlated to the oncological outcomes (time to clinical recurrence, disease-free survival, and overall survival).
+
+Secondary objective 3 (S3) To investigate if time to Molecular recurrence determined using serial ctDNA analyses in longitudinally collected plasma samples is shorter than time to Clinical recurrence using standard-of-care radiological imaging.
+
+Secondary objective 4 (S4) To investigate the correlation between ctDNA analysis results and findings on CT scans. ctDNA analysis will be restricted to blood sampling times that are coinciding with standard-of-care CT scans during standard-of care surveillance. If ctDNA analysis can predict the outcome of the CT scan, the potential is that ctDNA analysis in the future can guide when to perform CT scans.
+
+Secondary objective 5 (S5) To investigate the prognostic power of ctDNA at the time point of indeterminate CT scans.
+
+Secondary objective 6 (S6) To create a unique biobank of plasma and tissue samples from stage I to III CRC patients collected before any treatment.

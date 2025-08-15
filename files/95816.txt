@@ -1,0 +1,21 @@
+Assessment of a Minimally Invasive Collection Device for Molecular Analysis of Esophageal Samples
+This clinical trial evaluates the use of cytosponge, a minimally invasive collection device, for the detection of Barrett's esophagus (BE) in patients undergoing endoscopy. Non-endoscopic swallowable encapsulate sponge cell collection devices combined with markers for BE/esophageal adenocarcinoma (EAC) detection are a guideline-endorsed alternative to endoscopy for BE screening. The Oncoguard registered trademark Esophagus test (OGE) test uses esophageal cytology specimens collected with a minimally invasive, non-endoscopic, encapsulated sponge sampling device to identify BE/EAC biomarkers that indicate whether a patient should undergo diagnostic endoscopy. The OGE test is a simple and cost effective screening method that may lower barriers to widespread adoption of BE screening in at risk patients, resulting in increased and earlier detection of BE/EAC.
+Barrett Esophagus|Barretts Esophagus With Dysplasia|Barrett's Esophagus Without Dysplasia|Esophageal Adenocarcinoma
+DEVICE: Cytosponge Procedure|DIAGNOSTIC_TEST: Endoscopic Assessment
+DNA yield from esophageal cytology samples collected with the Cytosponge device, DNA concentration from samples collected with the Cytosponge device will be compared with DNA concentration previously observed from samples collected with the EsophaCap device on another study. The DNA concentration range for EsophaCap collected specimens ranged from 0.4 to 285ng/uL., 12 months|Accuracy of the Oncoguard Esophagus (OGE) test, Methylated DNA marker (MDM) levels and accuracy (sensitivity and specificity) will be evaluated to determine the accuracy of the OGE test using Cytosponge-collected esophageal samples. Accuracy will be established using upper endoscopy with pathology confirmed histology as the criterion standard for the diagnosis of Barrett's Esophagus (BE). The recently established algorithm for defining the OGE test as positive or negative (from EsophaCap samples collected from another study) will be utilized to adjudicate the Cytosponge samples as positive or negative. Accuracy of the OGE test for the Cytosponge device will be assessed in relation to the estimates and confidence intervals previously observed., 12 months
+Tolerability of the Cytosponge device, Tolerability will be assessed with a 6-question Tolerability Questionnaire using a 0-10 pain scale where 0 is none and 10 is severe (0 is good and 10 is not good)., 7 days|Trauma to the esophagus from the passage of the Cytosponge device, Presence of any trauma from the passage of the sponge will be assessed and recorded photographically during the sedated endoscopy. This will be defined as: No evidence of trauma; Superficial mucosal abrasion without bleeding; Superficial mucosal tear abrasion with minimal oozing similar to that from biopsy; Deep mucosal abrasion without bleeding; Deep mucosal abrasion with greater than minimal oozing; or Bleeding requiring endoscopic therapy or perforation., 7 days
+PRIMARY OBJECTIVES:
+
+I. Measure Deoxyribonucleic acid (DNA) yield from esophageal cytology samples collected with the Cytosponge device.
+
+II. Evaluate the methylated DNA markers (MDM) levels and accuracy of the Oncoguard Esophagus test (OGE test) for the detection of methylated DNA markers in Cytosponge collected esophageal cytology samples.
+
+SECONDARY OBJECTIVES:
+
+I. Assess the tolerability of the Cytosponge device using a tolerability questionnaire II. Evaluate presence of any trauma to the esophagus from the passage of the Cytosponge device using the endoscopic injury score.
+
+OUTLINE: Patients are assigned to 1 of 2 arms.
+
+ARM I: Patients with known or suspected Barrett's Esophagus undergo a biopsy and sample collection with the cytosponge followed by standard of care endoscopy and complete surveys while on study.
+
+ARM II: Patients without known or suspected Barrett's Esophagus undergo a biopsy and sample collection with the cytosponge followed by standard of care endoscopy and complete surveys while on study.

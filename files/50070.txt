@@ -1,0 +1,38 @@
+M-CHOP in Richter´s Syndrome
+The purpose of the study is to assess the efficacy, safety and tolerability of mosunetuzumab combined with CHOP in patients with untreated DLBCL-RS syndrome, identifying biological factors to address the probability of response.
+
+In addition, efficacy and tolerability of maintenance with mosunetuzumab in patients not receiving an allo-SCT will be ascertained.
+Richter Syndrome|Chronic Lymphocytic Leukemia
+BIOLOGICAL: Mosunetuzumab|DRUG: CHOP (cyclophosphamide, doxorubicin, vincristine, prednisone)
+Complete remission (CR), The number and percentage of patients with CR will be analyzed at 8-12 weeks after the end of induction (as primary endpoint by Lugano criteria) and at the end of maintenance (as secondary endpoint by Lugano and iwCLL criteria).
+
+CR is defined as a score of 1, 2 or 3 (no uptake above background) for lymph nodes and extra-lymphatic sites at PET/CT without new lesions and no evidence of fluorodeoxyglucose (FDG)-avid disease in bone marrow. In addition, to evaluate CR as per iwCLL criteria at the end of maintenance, patients need to have a normal blood count with normal/immunohistochemistry (IHC)-negative bone marrow morphology., 8-12 weeks after the end of induction|Overall Response Rate (ORR), The number and percentage of patients with a CR or PR will be analyzed 3 weeks after the end of induction (EoI) and 8-12 weeks the end of maintenance (EoM). The analysis will be performed in the ITT population, 8-12 weeks after the end of induction|Minimal-residual disease (MRD), The number and percentage of patients with MRD-negativity (defined as \< 1 CLL cell in 10,000 leukocytes), assessed by flow cytometry in responders (CR/PR) in PB and/or BM at 3 weeks after the EoI and 8-12 weeks after the EoM.
+
+Response endpoints will be summarized using descriptive statistics along with 2-sided 95% CIs for proportions (CR, ORR, MRD) using the Clopper-Pearson exact method, 8-12 weeks after the end of induction
+Progression-free survival (PFS), The time from the first dose of study treatment to the first occurrence of disease progression (assessed by the local investigator per Lugano criteria (PET) or death from any cause, whichever occurs first)., Up to 10 months|Overall Survival (OS), OS is defined as the time from first dose to death from any cause. Participants who do not die during the study will be censored at the last follow-up. This analysis will be performed in the ITT population, Up to 21 months|Duration of Response (DoR), DOR, defined as the time from best overall response (the first occurrence of a documented objective response) to disease progression (by Lugano) or death from any cause, whichever occurs first. Participants who do not experience disease progression, relapse, or die during the study will be censored at the date of their last tumor assessment. Only patients with a CR or PR will be included in the analysis., Up to 4 years
+The primary study objective and associated endpoint is to evaluate the efficacy of mosunetuzumab combined with CHOP (M-CHOP) after the end of induction (EoI) in patients with RS who have never received therapy.
+
+Primary endpoint will be complete remission (CR) evaluated by an independent review committee according to modified Lugano classification using PET/CT scan after the EoI visit. CR is defined as a score of 1, 2 or 3 for lymph nodes and extra-lymphatic sites at PET without new lesions and no evidence of fluorodeoxyglucose (FDG)-avid disease in bone marrow. All PET evaluable in patients with at least one dose of mosunetuzumab will be included in the efficacy population.
+
+The secondary study objectives and associated endpoints are:
+
+* To evaluate the efficacy of mosunetuzumab combined with CHOP (M-CHOP) after the end of induction (EoI) and maintenance (EoM) in patients with therapy naive RS.
+* Overall response rate (ORR), defined as the proportion of participants with a complete response (CR) or partial response (PR) at the end of induction (EoI) and maintenance (EoM), as determined by local and independent review committee according to modified Lugano classification using PET/CT scan and IWCLL criteria (Hallek 2018).
+* Complete remission (CR) at the EoM will be defined as a score of 1, 2 or 3 (no uptake above background) for lymph nodes and extralymphatic sites at PET without new lesions and no evidence of fluorodeoxyglucose (FDG)-avid disease in bone marrow. In addition, patients need to have a normal blood count with normal/immunohistochemistry (IHC)-negative bone marrow morphology as per iwCLL criteria (Hallek 2018). All PET evaluable patients with at least one dose of mosunetuzumab will be included in the efficacy population.
+* Best overall response: the best response is defined as the achievement of a PET score of 1-3 associated with a normal blood count with normal/immunohistochemistry (IHC)-negative bone marrow morphology as per iwCLL criteria, or a PET score of 1-3 associated with incomplete recovery in blood and normal/immunohistochemistry (IHC)-negative bone marrow morphology evaluated at any time during the treatment induction or maintenance, whichever occurs first.
+* Minimal residual disease (MRD) response rate determined by the proportion of patients with MRD-negativity (defined as \< 1 CLL cell in 10,000 leukocytes), assessed by flow cytometry in responders (CR/PR) in peripheral blood (PB) and/or bone marrow (BM) after the EoI and EoM.
+* Progression free survival (PFS), defined as the time from the first study treatment to the first occurrence of disease progression or death from any cause, whichever occurs first. PFS will be assessed by the investigator, using the Lugano criteria.
+* Overall survival (OS), defined as the time from first dose to death from any cause.
+* Duration of response (DoR), defined as the time from best overall response (the first occurrence of a documented objective response) to disease progression by Lugano criteria or death from any cause, whichever occurs first.
+
+To determine the incidence and severity of adverse events
+
+* Incidence of adverse events (AEs): number and percentage of patients with 1 or more AE.
+* Severity of AEs according to NCI CTCAE v5.0. For events of CSR, severity will be determined by ASTCT CSR consensus grading criteria. For events of TLS, the presence of laboratory and/or clinical TLS will be determined according to Howard criteria.
+
+To evaluate the study treatment exposure:
+
+* Treatment duration
+* Total dose received
+* Number of cycles and dose modifications
+* Treatment interruptions and discontinuations

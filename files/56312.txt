@@ -1,0 +1,30 @@
+Ensartinib, Carboplatin, Pemetrexed and Bevacizumab for the Treatment of Stage IIIC or IV or Recurrent ALK-Positive Non-small Cell Lung Cancer
+This phase Ib trial finds the best dose and side effects of ensartinib and its effects when given with carboplatin, pemetrexed and bevacizumab for in treating patients with ALK-positive non-small cell lung cancer that is stage IIIC or IV, or has come back (recurrent). Ensartinib may stop the growth of tumor cells by blocking some of the enzymes needed for cell growth. Chemotherapy drugs, such as carboplatin and pemetrexed, work in different ways to stop the growth of tumor cells, either by killing the cells, by stopping them from dividing, or by stopping them from spreading. Bevacizumab is a monoclonal antibody that may interfere with the ability of tumor cells to grow and spread. Giving ensartinib, carboplatin, pemetrexed and bevacizumab may help to control the disease.
+Metastatic Lung Non-Small Cell Carcinoma|Recurrent Lung Non-Small Cell Carcinoma|Stage IIIC Lung Cancer AJCC v8|Stage IV Lung Cancer AJCC v8|Stage IVA Lung Cancer AJCC v8|Stage IVB Lung Cancer AJCC v8
+BIOLOGICAL: Bevacizumab|DRUG: Carboplatin|DRUG: Ensartinib|DRUG: Pemetrexed
+Incidence of adverse events, The toxicity rate will be estimated with their exact 95% confidence intervals., Up to 30 days|Recommended phase 2 dose, Will employ the Bayesian optimal interval (BOIN) design (Liu and Yuan, 2015; Yuan et al., 2016) to find the maximum tolerated dose of ensartinib in combination with carboplatin, pemetrexed and bevacizumab., Up to 21 days
+Objective response rate, Assessed using modified Response Evaluation Criteria in Solid Tumors (1.1). The response rate will be estimated with their exact 95% confidence intervals., Up to 1.5 years|Progression-free survival, Will be estimated using the method of Kaplan and Meier., Up to 1.5 years|Overall survival, Will be estimated using the method of Kaplan and Meier., Up to 1.5 years
+Biomarkers associated with response and resistance, The difference in the biomarkers between responders and non-responders will be evaluated by Fisher's exact test for categorical biomarkers or Wilcoxon rank sum test for continuous biomarkers., Up to 1.5 years
+PRIMARY OBJECTIVES:
+
+I. To determine the safety of ensartinib in combination with carboplatin, pemetrexed and bevacizumab in patients with ALK-rearranged advanced non-small cell lung cancer (NSCLC).
+
+II. Determine the recommended phase 2 dose (RP2D) of ensartinib in combination with carboplatin, pemetrexed and bevacizumab.
+
+SECONDARY OBJECTIVES:
+
+I. To determine an objective response rate (ORR) in patients with ALK-rearranged advanced NSCLC treated with ensartinib in combination with carboplatin, pemetrexed and bevacizumab using modified Response Evaluation Criteria in Solid Tumors (RECIST 1.1).
+
+II. To determine progression-free survival (PFS). III. To determine overall survival.
+
+EXPLORATORY OBJECTIVE:
+
+I. To determine biomarkers associated with response and resistance to the study combination.
+
+OUTLINE: This is a dose de-escalation study of ensartinib and fixed-dose carboplatin, pemetrexed, and bevacizumab followed by a dose-expansion study.
+
+INDUCTION THERAPY: Patients receive ensartinib orally (PO) once daily (QD) on days 1-21, carboplatin intravenously (IV) over 15-60 minutes on day 1, pemetrexed IV over 10 minutes on day 1 and bevacizumab IV over 30-90 minutes on day 1. Treatment repeats every 21 days for up to 4 cycles in the absence of disease progression or unacceptable toxicity.
+
+MAINTENANCE THERAPY: Patients receive ensartinib PO QD on days 1-21 and bevacizumab IV over 30-90 minutes on day 1. Cycles repeat every 21 days in the absence of disease progression or unacceptable toxicity.
+
+After completion of study treatment, patients are followed up for 30 days.

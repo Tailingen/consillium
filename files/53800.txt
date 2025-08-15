@@ -1,0 +1,66 @@
+PLX038 in Primary Central Nervous System Tumors Containing MYC or MYCN Amplifications
+Background:
+
+About 90,000 new cases of brain and spinal cord tumors are diagnosed annually in the United States. Most of these tumors are benign; however, about 30% are malignant, and 35% of people with malignant tumors in the brain and spinal cord will die within 5 years. Many of these people have changes in certain genes (MYC or MYCN) that drive the development of their cancers.
+
+Objective:
+
+To test a study drug (PLX038) in people with tumors of the brain or spinal cord.
+
+Eligibility:
+
+People aged 18 years or older with a tumor of the brain or spinal cord. Some participants must also have tumors with changes in the MYC or MYCN genes.
+
+Design:
+
+Participants will be screened. They will have a physical exam and blood tests. They will have imaging scans and a test of their heart function. They may need to have a biopsy: A sample of tissue will be removed from their tumor.
+
+PLX038 is given through a tube attached to a needle inserted into a vein in the arm. All participants will receive PLX038 on the first day of each 21-day treatment cycle. They will take a second drug 3 days later to help reduce the risk of infection; for this drug, participants will be shown how to inject themselves under the skin at home.
+
+Blood tests, imaging scans, and other tests will be repeated during study visits. Hair samples will also be collected during these visits. Some participants may have an additional biopsy.
+
+Study treatment will continue up to 7 months.
+
+Follow-up visits will continue every few months for up to 5 years.
+Glioma|Medulloblastoma|Ependymoma
+DRUG: PLX038
+Phase I: To confirm the RP2D of PLX038 in participants with progressive or recurrent primary CNS tumors, Number of Dose Limiting Toxicities (DLT)., Days 1-42 (cycles 1-2)|Phase II: To assess the efficacy of PLX038 in primary CNS tumors containing MYC or MYCN amplifications, Adjuvant cohort: Defined as the time from the PLX038 treatment start date to the date of confirmed progression/death or last follow-up. Kaplan-Meier method will be used to estimate the survival function. The median PFS as well as the 95%CI will be summarized.Recurrent cohorts: Defined as the percentage of participants having CR, PR, or SD \>= 6 months as determined by investigator per RANO and/or RECIST v1.1. The DCR and its 95% exact binomial CI will be summarized., 5 years
+Determine overall survival (OS), Measured the time from the start of PLX038 treatment to the date of death or last follow-up. OS will be estimated using the methods of Kaplan and Meier. The median OS and its 95%CI will be summarized. (All cohorts), 5 years|Determine progression free survival (PFS), Defined as the time from the PLX038 treatment start date to the date of conformed progression/death or last follow-up. Kaplan-Meier method will be used to estimate the survival function. The median PFS as well as the 95% CI will be summarized. (Recurrent cohorts), 5 years|Determine the treatment-related toxicities, Clinical safety data (i.e., vital signs, ECGs, routine laboratory tests, physical examinations, and AEs) will be summarized using descriptive statistics (e.g., mean, frequency) using the safety analysis set (SAS). All the toxicity data will be summarized by dose level and by cohort., Days 1-60|Longitudinally evaluate patient reported outcomes (PRO), Feasibility of PRO data collection for each questionnaire will be evaluated by calculating the compliance rates which is the number of received valid forms over the number of expected forms. Analysis of results will be based upon each separate questionnaire type to determine meaningful change., 5 years
+Background:
+
+* The MYC genes encode a family of transcription factors (MYC-C, MYC-N, and MYC-L) that regulate the expression of a wide range of genes involved in cell division in development and adulthood.
+* Supraphysiologic levels of MYC are oncogenic and drive aggressive behavior across a range of human malignancies. Amplifications of MYC and MYCN are seen in multiple types of primary central nervous system (CNS) tumors, including gliomas, medulloblastomas, and ependymomas.
+* These CNS tumors are rare and there are limited prospective data to inform treatment choices and few efficacious options. At present, they are typically treated with maximal safe surgical resection followed by external beam radiation therapy, with the variable inclusion of cytotoxic chemotherapy regimens as first-line treatment and/or at recurrence. These "standard" options carry the risk of substantial side effects and have limited to no antitumor activity for many of these tumors, leading to short patient survival measured in several months to a few years and significant morbidity from therapy.
+* MYC-driven increase in transcription induces the formation of topoisome complexes (MYC-C/N, Topoisomerase 1 (TOP1), Topoisomerase 2 (TOP2), DNA) that are essential to managing the torsional strain that would otherwise oppose transcription and replication.
+* PLX038 is a PEGylated macromolecule that contains 4 molecules of SN-38, the active metabolite of irinotecan, that is currently being investigated in non-CNS solid tumor trials. SN38 binds to and inhibits Topoisomerase I and the unique formulation of PLX038 lead to a longer half-life, which is thought to increase tumor accumulation and decrease toxicity.
+
+Objectives:
+
+* Phase I: To confirm the recommended Phase II dose (RP2D) of PLX038 in participants with progressive or recurrent primary CNS tumors.
+* Phase II: To assess the efficacy of PLX038 in primary CNS tumors containing MYC or MYCN amplifications as measured by:
+
+  * Progression-free survival (PFS) for Cohort Phase IIA (adjuvant treatment), and
+  * Disease control rate (DCR), defined as confirmed complete response (CR) / partial response (PR) or durable stable disease (SD) (NOTE: Durable SD is SD lasting for at least 6 months) for Cohorts Phase IIB and Phase IIC (treatment for recurrence).
+
+Eligibility:
+
+* Subjects with histologically confirmed primary CNS tumors corresponding to any progressive or recurrent tumor type (Phase I) or one of the following tumor types (Phase II):
+
+  * Cohort Phase IIA: Newly diagnosed MYCN amplified ependymoma post resection and radiotherapy.
+  * Cohort Phase IIB: Recurrent or progressive MYCN amplified ependymoma or medulloblastoma with MYC or MYCN amplifications.
+  * Cohort Phase IIC: All other recurrent or progressive primary CNS tumors containing MYC or MYCN amplifications.
+* Age \>= 18 years.
+* Karnofsky Performance Status \>= 70%.
+* Ability to self-report symptoms and physical function as determined by assessment of the clinical team.
+* Tumor tissue available for central review and confirmation of diagnosis.
+
+Design:
+
+This is an open-label phase I/II clinical trial.
+
+* During Phase I RP2D and maximum tolerated dose (MTD) of PLX038 will be estimated.
+* In the Phase II component, participants will be treated with the TOP1 inhibitor PLX038 at the RP2D intravenously every 3 weeks (+/- 3 days, = 1 cycle). The Phase II study will be comprised of 3 independent disease cohorts that can enroll simultaneously and will be evaluated independently for efficacy.
+* Treatment will continue until progression or unacceptable toxicity, or a maximum of 10 cycles, whichever occurs first.
+* Safety and toxicity assessments will occur prior to each treatment cycle (every 3 weeks).
+* Efficacy (by magnetic resonance (MR) imaging and/or other imaging techniques if extra CNS tumor is present) and patient-reported outcomes measures (PROs): participant reported toxicity using predetermined patient-reported outcomes Common Terminology Criteria for Adverse Events (PRO-CTCAE) symptoms, Patient Global Impression of Severity (PGI-S), Patient Global Impression-Change (PGI-C), Overall Side Effect Bother, self-reported symptom severity and interference with daily activities using MD Anderson Symptom Inventory for brain tumor (MDASI-BT), and/or MD Anderson Symptom Inventory for spine tumors (MDASI-SP) questionnaires; self-reported physical functioning using Patient-Reported Outcomes Measurement Information System (PROMIS) Physical Functioning form 10b. PRO-CTCAE, PGI-S, PGI-C, Overall Side Effect Bother, and PROMIS Physical Function 10b will be obtained at baseline and weekly for the first two cycles of treatment then these and all other PRO assessments will be obtained at the time of disease imaging evaluation every 2 cycles (6 weeks). The only exceptions are the PGI-C and Overall Side Effect Bother which will not be obtained at baseline and Day 1 of Cycle 1. PRO measures will be completed prior to participants being informed of imaging results.
+* PLX038 drug distribution will be investigated in peripheral blood and tumor tissue post-treatment administration. Molecular biomarkers of treatment response or resistance will be investigated in an exploratory manner pre and post-treatment (after cycle 2 and after tumor progression) in tumor tissue, hair follicles, and peripheral blood.

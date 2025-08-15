@@ -1,0 +1,31 @@
+Pembrolizumab in Biliary Tract Cancer
+This is a single-arm, multi-centre, phase II study in biliary tract cancer (BTC) patients. The main objective is to detect an increase in progression-free survival rate at 6 months (according to RECIST version 1.1) from 60% in patients with BTC treated with standard chemotherapy (CT) approach to 75% when treated with CT combined with pembrolizumab.
+Biliary Tract Cancer|Metastatic Cancer|Advanced Cancer|Gallbladder Cancer
+DRUG: Pembrolizumab|DRUG: Cisplatin|DRUG: Gemcitabine
+Detection of progression-free survival (PFS) rate at 6 months defined according to RECIST 1.1., The main objective is to detect an increase in progression-free survival (PFS) rate at 6 months (according to RECIST version 1.1) from 60% in patients with BTC treated with standard chemotherapy approach to 75% when treated with CT combined with pembrolizumab., At 6 months
+Best overall response rate (according to RECIST 1.1) and overall response, Assessing both short term and long term outcome of patients receiving this combined treatment, Up to 120 days after last administration of Pembrolizumab|Toxicity (according to CTCAE 4.03), Establishing the safety of standard chemotherapy combined with pembrolizumab in these patients, Up to 120 days after last administration of Pembrolizumab|Progression free survival rate at 6 months according to iRECIST, At 6 months
+Immunological response (cytokines, lymphocyte phenotype, immunoglobulins), Assessment of immunological responses (cytokines, lymphocyte phenotype, immunoglobulins), Up to 2 years after start of study treatment|Pathological predictive factors for response and toxicity (TCR Sequencing, FACs, RNASeq, nanostring), Evaluation of pathological predictive factors for response and toxicity, Up to 2 years after start of study treatment|Clinical predictive factors for response and toxicity (TCR Sequencing, FACs, RNASeq, nanostring), Evaluation of clinical predictive factors for response and toxicity, Up to 2 years after start of study treatment|Biomarkers predictive of response and toxicity (protein profiling, HLA typing), Evaluation of biomarkers for prediction of response and toxicity, Up to 2 years after start of study treatment
+Primary endpoint: PFS rate at 6 months according to RECIST 1.1.
+
+Secondary endpoints:
+
+* Best overall response rate (according to RECIST 1.1 and iRECIST)
+* Response duration and stable disease duration (according to RECIST 1.1 and iRECIST)
+* PFS rate at 6 months according to iRECIST
+* PFS according to RECIST 1.1 and iRECIST
+* Overall survival (OS)
+* Toxicity of treatment (Common Toxicity Criteria CTCAE 5.0)
+* Safety analysis: A safety analysis will be done when at least 10 patients have completed at least one cycle of the three- drug combination.
+
+Events of clinical interest for this safety analysis are the following:
+
+* At least Grade 2 or higher CTCAE 5.0 signs of acute renal failure
+* Grade 3 or 4 liver dysfunction defined as elevation of liver transaminases (AST and ALT) and alkaline phosphatase, increased bilirubin
+* Grade 3 or 4 gastrointestinal disorders specifically colitis, diarrhea and stomatitis
+* Grade 3 or 4 dyspnea, dry cough and pneumonia
+* Grade 3 or 4 sepsis
+* Grade 3 or 4 skin toxicity If 4 out of these 10 patients experience any of the above, this will trigger an IDMC review. This cut-off is based on: 1) previous ABC-02 study where 57% of patients experienced a grade 3 or 4 toxicity at 12 weeks of treatment; and 2) KEYNOTE 028 where 17% of patients experienced grade 3 or 4 toxicity The primary analysis of efficacy endpoints will be performed in the protocol population.
+* PFS rate at 6 months will be estimated using Kaplan Meier estimate at the time point of interest. The lower bound of the one-sided 90% confidence interval (CI) will be calculated by Greenwood's estimation of the standard deviation. If the lower bound of the one-sided 90% CI is above 60%, it will be concluded that the new treatment is effective enough to warrant further evaluation in a phase III trial. Assuming exponential distributions for both PFS and for the risk of drop-out, power with a total sample size of 50 patients when the primary test is performed using Kaplan Meier analyses will be around 82% for a drop-out rate of 5% at 6 months and still above 80% for a drop-out rate of 10% at 6 months. The one-sided type I error will be respectively 9.33% and 9.02%.
+* PFS rate at 6 months according to iRECIST will be estimated using Kaplan Meier estimate and the one-sided 90% confidence interval (CI) will be calculated by Greenwood's estimation of the standard deviation.
+* BOR rate according to RECIST 1.1 and iBOR rate according to iRECIST will be displayed (point estimate) with their exact two-sided 95% confidence intervals. Response duration and stable disease duration according to RECIST 1.1 and iRECIST will be graphically displayed using swimmer plots and bar charts.
+* Progression free survival according to RECIST 1.1 and iRECIST and overall survival curves will be estimated using the Kaplan-Meier technique. The safety analyses will be performed in the Safety population. The worst toxicity grade per patient over the treatment period according to the CTCAE criteria version 5.0 will be displayed.

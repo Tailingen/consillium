@@ -1,0 +1,48 @@
+Metastasis Directed Stereotactic Body Radiotherapy for Oligo Metastatic Hormone Sensitive Prostate Cancer
+The study is an open label, multi-centre, randomized phase III study. The patients will be randomised in a 1:1 ratio to treatment consisting of
+
+* Arm A: MD-SBRT in addition to standard treatment
+* Arm B: Standard treatment
+
+Study population: Patients with hormone sensitive prostate cancer (HSPC) with oligometastatic disease detected by PSMA-PET/DT. This includes patients with de novo oligometastatic HSPC and recurrent HSPC after primary RT or prostatectomy.
+
+Primary endpoint: Failure free survival
+
+Secondary endpoints:
+
+* Predictive value of investigated biomarkers in blood and imaging
+* Acute and late toxicity after MD-SBRT
+* PROM at 3 months, 1, 3 and 5 years
+* Castration resistant prostate cancer, CRPC
+* Overall survival
+* Differences in outcome between patients by strata
+
+Stratification: To avoid imbalance between treatment arms the minimisation method will be used to achieve balance between de novo oligo-metastatic and oligo-recurrent patients, as well as treatment site.
+
+Safety evaluation: Adverse events and side effects graded according to CTCAE v5.0 will be collected every 6th month. Serious Adverse Events are to be reported within 24 hours throughout the study duration.
+
+Statistical methods: Survival endpoints will be calculated using the Kaplan-Meier method with differences compared using the stratified log-rank test. Randomization time is set as baseline time. Pre-planned subgroup analysis will occur based on pre-specified stratification variables. A Cox multivariable regression model will be used to determine factors predictive of survival. Safety analysis will be performed with Mann-Whitney U-test or Fishers exact test.
+
+Criteria for evaluation: Per protocol (patients that have started study treatment) and Intention to treat (all included patients).
+
+Planned sample size: 118 patients
+
+Analysis plan:
+
+The primary end point will be analysed after pre-specified number of events have occurred. All patients randomised to SBRT will be followed minimum 60 months for toxicity. Safety analysis of acute toxicity will take place after median follow up of 6 months. Safety analysis of late toxicity will be analysed after study closure.
+
+Duration of the study:
+
+Three to five years inclusion. 72 months of follow-up after randomization of the last patient.
+Prostate Cancer Metastatic|Radiation Therapy|Positron-Emission Tomography
+RADIATION: stereotactic body radiotherapy|COMBINATION_PRODUCT: androgen deprivation therapy|RADIATION: Radiotherapy
+Failure free survival, Time from randomisation to progressive disease. Progression is defined as 2 consecutive rises in blood PSA. PSA will be collected every third month and registered in the electronic case report form., Throughout the study duration (72 months of follow up for last patient included.)
+Number of participants with treatment-related adverse events as assessed by CTCAE v5., Side effects according to Common Terminology Criteria for Adverse Events version 5, CTCAE v5 will be collected at baseline, 3 and 6 months after randomisation for all organs at risk within 3 cm from the SBRT-target in the electronic case report form. Adverse events are scored from 0 (none) to 5 (fatal) in the electronic case report form. We will report the number of patients with no reported side effects as well as the number of patients scoring 1, 2, 3, 4 and 5 assessed by CTCAE v5., Until 6 months after randomisation|Number of participants with treatment-related serious adverse events as assessed by CTCAE v5., Side effects grade 4 or higher according to Common Terminology Criteria for Adverse Events version 5, CTCAE v5 will be collected every 6th months after randomisation for all organs at risk within 3 cm from the SBRT-target. Adverse events are scored from 0 (none) to 5 (fatal) are collected in the electronic case report form. We will report the number of patients with no reported side effects as well as the number of patients scoring 1, 2, 3, 4 and 5 assessed by CTCAE v5., Throughout the study duration (72 months of follow up for last patient included.)|Outcome prediction, Blood samples will be collected to enable evaluation of circulating biomarkers in relation to patient response to treatment at baseline, 1 and 3 months after randomisation, and at progression. Specifically, plasma will be sampled and circulating tumor cells and platelets will be further isolated. Imaging parameters from the baseline PSMA-PET/CT will also be evaluated in relation to outcome., Throughout the study duration (72 months of follow up for last patient included.)|Patient reported quality of life assessed by EORTC-QLQ 30, Patients will fill out a cross validated self registration questionnaire; European Organistaion for Research and Treatment of Cancer Quality of Life Questionnaire, EORTC QLQ 30, at baseline, 3 months, year 1, 3 and 5. The questionnaire consists of 28 statements that are to be graded from 1 (not at all) to 4 (very well) according to how well they correspond to the patients perception. EORTC QLQ30 also ask for the patient to score their overall sense of 1)health and 2)quality of life on a scale from 1 (very poor) to 7 (excellent)., Throughout the study duration (72 months of follow up for last patient included.)|Overall survival, Death due to any cause, Throughout the study duration (72 months of follow up for last patient included.)|Castration resistent prostate cancer, CRPC, 2 consecutive rises in blood PSA with castrate levels of testosterone. PSA will be collected every third month and registered in the electronic case report form. Testosterone will be collected if a rise in PSA level is detected., Throughout the study duration (72 months of follow up for last patient included.)
+outcome according to strata, all outcomes 1-6 will be analysed by stata; primary or recurrent oligometastatic prostate cancer and study site (for inclusion), Throughout the study duration (72 months of follow up for last patient included.)
+Standard of Care (arm A and B): 3 years of ADT with the addition of abiraterone+prednisolone for two years. If the patient is de novo oligo-metastatic, RT to the prostate +/- pelvic fields is considered as standard treatment.
+
+Study intervention (arm A): MD-SBRT to all PSMA-PET/CT positive metastatic target volume(s) with 30 Gy in 3 fractions or 40 Gy in 5 fractions in addition to SoC. For recurrent patients post prostatectomy with PSMA-PET-positive finding at prostate bed +/- regional lymph nodes (without prior local RT) salvage RT +/-pelvic fields with SIB to the PSMA+ GTV is to be delivered (sum of SBRT-targets maximum 3).
+
+Screening procedure:Inclusion/exclusion criteria evaluation including evaluation of feasibility of SBRT to all positive lesions on PSMA-PET/CT performed within approx. 30 days of randomization.
+
+Study specific procedure: Recording/collecting of baseline data including baseline PROM and pre-ADT testosterone and PSA. Standard treatment with ADT administered at randomization to all study patients. Abiraterone is initiated within 8 weeks of study entry. Start of MD-SBRT within approx. 28 days of randomization to patients in arm A. Additional RT as specified in study intervention started within 90 days. Follow up according to protocol, minimum 60 months.

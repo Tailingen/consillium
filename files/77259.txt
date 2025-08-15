@@ -1,0 +1,16 @@
+Patient Derived Cancer Cell Lines in Identifying Molecular Changes in Patients With Previously Untreated Pancreatic Cancer Receiving Gemcitabine Hydrochloride-Based Chemotherapy
+This pilot research trial studies patient derived cancer cell lines in identifying molecular changes in patients with previously untreated pancreatic cancer and are receiving gemcitabine hydrochloride-based chemotherapy. Cell lines refer to samples taken from the patient's tumor to grow for many months or years in a laboratory, and can therefore be studied scientifically. Studying cell lines in the laboratory may help doctors understand the genetic changes that occur to the tumor during chemotherapy that allows the tumor to resist or grow despite treatment.
+Pancreatic Ductal Adenocarcinoma|Stage IA Pancreatic Cancer|Stage IB Pancreatic Cancer|Stage IIA Pancreatic Cancer|Stage IIB Pancreatic Cancer|Stage III Pancreatic Cancer|Stage IV Pancreatic Cancer
+OTHER: Laboratory Biomarker Analysis|OTHER: Cytology Specimen Collection Procedure
+Genomic profiles of post-treatment samples with acquired resistance against pre-treatment and germline controls, This method includes a preprocessing step to filter out unreliable reads, a statistical classification step to identify point mutations that differ from both the reference genome hg19 and the control sample at controlled false-positive rate, and a post-processing step to eliminate platform-specific artifacts inherent in next generation sequencing. ANNOVAR software will then be used to analyze candidate point mutations for their predicted impact on protein function, which will be used to select and prioritize specific mutations for validation and/or further study., Up to 5 years|Identification of germline mutations in known cancer genes from whole blood genomic deoxyribonucleic acid, and somatic mutations in conditionally reprogrammed cells derived from pre-treatment and post-treatment (e.g., resistant) tumors, The study will be considered a positive study if in any of the patients' samples, unique mutations are identified in the post-treatment derived cell lines that are not present in the pre-treatment derived cell lines from the same patient., Up to 5 years
+PRIMARY OBJECTIVES:
+
+I. Compare the genetic profile of the tumor after progression has occurred, to the tumor prior to treatment.
+
+SECONDARY OBJECTIVES:
+
+I. Additional molecular patterns, beyond genetics, will be analyzed, including ribonucleic acid (RNA) and protein expression.
+
+OUTLINE:
+
+Tissue and blood samples are collected for genetic analysis via sequencing from patients receiving gemcitabine hydrochloride intravenously or gemcitabine hydrochloride and paclitaxel albumin-stabilized nanoparticle formulation. Chemotherapy is not part of the protocol. Per standard of care, patients receive gemcitabine hydrochloride (IV) the first 3 of 4 weeks (qw 3/4 wk) or gemcitabine hydrochloride and paclitaxel albumin-stabilized nanoparticle formulation IV qw 3/4 wk in the absence of disease progression or recurrence.

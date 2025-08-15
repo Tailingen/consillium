@@ -1,0 +1,32 @@
+AI Detection of Bladder Tumors Under Endoscopy
+The goal of this clinical trial is to learn if the AI algorithm can detect bladder tumors better than urologists under cystoscopy. It will also train the AI algorithm for bladder tumor detection. The main question it aims to answer is:
+
+Can AI algorithm achieve IOU value, precision, recall, false negative rate of bladder tumor detection similar to that of urologists? The cystoscopy video will be annotated by AI and urologists. Researchers will compare AI algorithm to urologists to see if Al algorithm has a similar capability as urologists do.
+Bladder Tumor
+DIAGNOSTIC_TEST: detection by artificial intelligence|DIAGNOSTIC_TEST: detection by urologists
+intersection over union, The overlapping area of the actual bladder lesion and detected bladder lesion divided by their combined areas., From Jan 1st 2024 to Dec 31st 2033
+1. Research Background Bladder cancer is the ninth most common malignancy worldwide, with an estimated 430,000 new cases diagnosed annually. The standard diagnosis and monitoring of bladder cancer rely on white light cystoscopy (WLC), with over 2 million cystoscopies performed annually in the United States and Europe. Due to the high recurrence rate of bladder cancer, frequent monitoring and intervention are necessary.
+
+   Early detection and complete resection of non-muscle invasive bladder cancer can reduce recurrence and progression. However, up to 40% of patients with multifocal disease do not achieve complete resection during the initial transurethral resection of bladder tumor (TURBT). Many papillary tumors and flat lesions are difficult to identify through WLC. There is an urgent need for cost-effective, non-invasive, and user-friendly adjunct imaging technologies to address the diagnostic deficiencies of WLC.
+
+   Recent advancements in deep learning-based automated image processing may provide new solutions to the limitations of cystoscopy. Convolutional neural networks (CNNs) possess the ability to learn complex relationships and integrate existing knowledge into models, showing potential applications across various fields, including bladder tumor diagnosis. We employed the HRNet algorithm, a convolutional neural network, for enhanced bladder tumor detection.
+2. Research Objectives We aim to explore the potential application of AI in urological tumors by collecting cystoscopy videos from patients undergoing cystoscopy. These videos include bladder tumors will be annotated manually by urologists, then, the AI algorithm will be used to recognize the bladder tumors.
+3. Research Methods This is a multicenter, retrospective, observational study.
+4. Research Process 4.1 Patient Cohort Inclusion criteria: 1. The patients who had bladder tumor and received WLC or TURBT, and the full-length surgery video is available.
+
+   Exclusion criteria: 1. The video is too blurry to distinguish the normal bladder wall and bladder tumor. 2. Lack of the appearance of bladder tumor before resection. 3. Lack of informed consent.
+
+   Patient information in the videos will not be shown. Videos from the initially recruited 200 bladder tumor patients will be used for algorithm development. Videos from an additional 100 patients are used for algorithm validation.
+
+   4.2 Data Preprocessing To reduce the data volume, we extract the frame at a ratio of 1:4. Two urologists outline the boundary of bladder tumors in each frame seperately and check for each other. AI algorithm is used to contour the same bladder tumors. The outlines of bladder tumor annotated by urologists and algorithm are compared, the IOU value, precision, sensitivity and false negative rate are analyzed.
+
+   4.3 Algorithm Development This study uses semantic segmentation to identify bladder tumors in WLC. The D-LinkNet network structure used a pre-trained ResNet34 on the ImageNet dataset as its encoder, with the central part utilizing dilated convolutions with different dilation rates in a cascaded manner, and upsampling performed using deconvolution. The original resolution of all images are 1920×1080, downsampled by 2 to 960×540, and zero-padded in the width direction to obtain the image with a resolution of 960×544. The RGB images of this size were normalized, mean-subtracted, and variance-divided before being input into the network. The images undergo five encoding processes, dilated convolutions, and five decoding processes, ultimately producing a prediction result of 960×544, which was further post-processed. In this research, the parameter settings were as follows: batch size of 8, Adam optimizer, a learning rate of 0.001. The training environment was an NVIDIA TITAN Xp GPU.
+
+   4.4 Results Interpretation The intersection over union (IOU) is a crucial standard for evaluating single-frame image recognition capability in image recognition. When IOU is above the threshold, it suggests that the model detects the object successfully, indicating a true positive. When IOU can not reach the threshold, it suggests that the model fails to detect the object, and indicating a false negative. If a prediction appears without ground truth in the image, it is considered a false positive. We calculate the model's sensitivity and precision in the test set. The Dice coefficient measures the similarity between two samples. A higher average Dice coefficient indicates a better detection performance of the model.
+
+   4.5 Observation Indicators
+
+   ① Video annotation and classification: annotation status and RLN recognition discernibility classification results for training and test set surgery videos; ② After grouping and training, observe the model's sensitivity, precision, false negative rate, false positive rate, and average Dice coefficient at IoU thresholds of 0.1 and 0.5 in the test set under different discernibility groups.
+
+   4.6 Statistical Methods Analysis will be analyzed by R 4.0.2 software, the data will be expressed as absolute numbers or percentages.
+5. Data Management and Confidentiality All data in this study is properly stored to ensure security without loss or leakage. Sensitive information and patient information will not be uploaded to public platforms. During data processing, patients' personal information will be anonymized, and patient identification codes will be used to replace patient names and IDs. If technical services are needed, data will be appropriately encrypted, and a confidentiality agreement will be signed.

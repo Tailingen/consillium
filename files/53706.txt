@@ -1,0 +1,35 @@
+A Phase 1 Study of AOH1996 in Patients With Relapsed/Refractory Acute Myeloid Leukemia
+This phase 1 trial tests safety, side effects, and best dose of AOH1996 for the treatment of patients with acute myeloid leukemia (AML) that has come back after a period of improvement (relapsed) or AML that has not responded to previous treatment (refractory). AOH1996 is in a class of medications called PCNA inhibitors. It inhibits cancer growth and induces deoxyribonucleic acid (DNA) damage. This may help keep cancer cells from growing and damage cancer cell DNA. Giving AOH1996 may be safe, tolerable and/or effective in treating patients with AML.
+Recurrent Acute Myeloid Leukemia|Refractory Acute Myeloid Leukemia
+DRUG: Azacitidine|PROCEDURE: Biospecimen Collection|PROCEDURE: Bone Marrow Aspiration|DRUG: PCNA Inhibitor AOH1996|DRUG: Venetoclax
+Incidence of dose limiting toxicity (DLT), Will evaluate for DLTs in patients that receive at least 75% of the planned dose(s) of AOH1996 per dose level assignment. In-evaluable subjects will be replaced. Will grade toxicity according to the National Cancer Institute (NCI) Common Terminology Criteria for Adverse Events version 5.0 (CTCAE v5.0)., During cycle 1 (Cycle length = 28 days)|Incidence of adverse events, Will evaluate toxicity in patients that receive any AOH1996. Will grade toxicity according to the NCI CTCAE v5.0. Will be summarized in terms of type (organ affected or laboratory determination), severity, time of onset, duration, probable association with the study treatment and reversibility or outcome., Up to 2 years
+Response, Will evaluate in all eligible patients with a baseline assessment who start therapy (i.e., receiving at least one dose of a AOH1996). These patients will be considered in the primary analysis of response rate as the denominator, with number of responders in the numerator. Patients will have their response classified according European LeukemiaNet criteria of Dohner and others (2022). Response rates will also be explored based on number/type of prior therapy(ies)., Up to 1 year|Minimal residual disease (MRD) status, Will be determined by conventional care flow cytometry assay performed locally using a 0.01% blast threshold for positivity. Will report MRD over the study period using both descriptive statistics and graphical methods., Up to 1 year|Complete remission (CR), Will evaluate time to CR. Rates and 95% Clopper-Pearson binomial confidence interval will be calculated for the complete remission rate (CR/CRi/CRh). Response rates will also be explored based on number/type of prior therapy(ies)., From start of treatment to attainment of CR/CR with incomplete hematologic recovery rate (CRi)/CR with partial hematologic recovery (CRh), assessed up to 1 year|First response, Will evaluate time to first response., From start of treatment to attainment of first documented CR/CRi/CRh/morphologic leukemia-free state/partial response, assessed up to 1 year|Duration of response (DOR), Will evaluate DOR. Will be estimated using the product-limit method of Kaplan and Meier., Time interval from the date of first documented response (CR+CRi+CRh) to the date of documented disease relapse or death whichever occurs first, assessed up to 2 years|Overall survival (OS), Will evaluate OS. OS will be censored at last follow-up if patients are known to be alive. Will be estimated using the product-limit method of Kaplan and Meier., Time interval from start of study treatment to the date of death from any cause, assessed up to 2 years|Progression-free survival (PFS), Will evaluate PFS. PFS will be censored at last follow-up if patients are alive and relapse/progression-free. Will be estimated using the product-limit method of Kaplan and Meier., Time interval from start of study treatment to the date of first documented disease relapse/progression or death from any cause, whichever occurs first, assessed up to 2 years|AOH1996 in plasma, Will evaluate levels of AOH1996 in plasma., 0-2 hours pre-dose and 15 minutes, 30 minutes, 1 hour, 2 hours, 3 hours, 4 hours, 6 hours, and 24 hours post-dose on days 1 and 8 of cycle 1 (Cycle length= 28 days) and pre-dose and 1-3 h post-dose of the morning doses on day 1 of cycles 2-12
+PRIMARY OBJECTIVES:
+
+I. Evaluate the safety and tolerability of AOH1996 in patients with relapsed/refractory (R/R) acute myeloid leukemia (AML).
+
+II. Determine the maximum tolerated dose (MTD) and recommended phase 2 dose (RP2D) of AOH1996.
+
+SECONDARY OBJECTIVES:
+
+I. Evaluate the anti-leukemic activity, as assessed by complete remission (CR) rate at the end of cycles 1 and 2.
+
+II. Evaluate the anti-leukemic activity, as assessed by overall response rate (\[ORR\]: CR+CR with incomplete hematologic recovery rate \[CRi\]+CR with partial hematologic recovery \[CRh\]+morphologic leukemia-free state \[MLFS\] + partial remission \[PR\]) at the end of cycles 1 and 2.
+
+III. Evaluate the anti-leukemic activity, as assessed by complete remission (CR), overall response (ORR: CR+CRi+CRh+PR) and minimal residual disease (MRD)- rate and duration over the study period.
+
+IV. Evaluate transfusion independence (TI). V. Estimate overall survival (OS) rate, progression-free survival (PFS) and duration of response (DOR) rate at 6 months and 1 year.
+
+VI. Describe the plasma pharmacokinetics (PK) of AOH1996 alone.
+
+EXPLORATORY OBJECTIVES:
+
+I. Determine biomarkers that may be predictive of AOH1996 activity. II. Study the impact of AOH1996 on altered mitochondrial metabolism and dynamics.
+
+III. Determine pharmacodynamics (PD) parameters (alteration of OPA1) of AOH1996.
+
+IV. Estimate leukemia stem cell burden in bone marrow pre-, post-therapy. OUTLINE: This is a dose-escalation study of AOH1996.
+
+COHORT I: Patients receive AOH1996 orally (PO) twice daily (BID) on days 1 - 28 of each cycle. Cycles repeat every 28 days for 2 cycles in the absence of disease progression or unacceptable toxicity. Patients that attain a CR/CRh/CRi with transfusion independence (TI) by the end of cycle 2 continue cycles every 28 days for up to 12 total cycles in the absence of disease progression or unacceptable toxicity. Additionally, patients undergo bone marrow aspiration and blood sample collection throughout the trial.
+
+After completion of study treatment, patients are followed up at 30 days and up to one year.

@@ -1,0 +1,35 @@
+A Phase I, Pharmacological, and Biological Study of OSI-774 in Combination With FOLFOX 4 (5-FU, Leucovorin, and Oxaliplatin) and Bevacizumab (Avastin) in Patients With Advanced Colorectal Cancer
+Erlotinib may stop the growth of tumor cells by blocking the enzymes necessary for their growth. Monoclonal antibodies, such as bevacizumab, can block tumor growth in different ways. Some block the ability of tumor cells to grow and spread. Others find tumor cells and help kill them or carry tumor-killing substances to them. Bevacizumab may also stop the growth of colorectal cancer by blocking blood flow to the tumor. Drugs used in chemotherapy work in different ways to stop tumor cells from dividing so they stop growing or die. Combining erlotinib and bevacizumab with combination chemotherapy may kill more tumor cells. This phase I trial is studying the side effects and best dose of erlotinib when given together with bevacizumab, fluorouracil, leucovorin, and oxaliplatin in treating patients with metastatic or locally advanced colorectal cancer.
+Mucinous Adenocarcinoma of the Colon|Mucinous Adenocarcinoma of the Rectum|Recurrent Colon Cancer|Recurrent Rectal Cancer|Signet Ring Adenocarcinoma of the Colon|Signet Ring Adenocarcinoma of the Rectum|Stage IIIA Colon Cancer|Stage IIIA Rectal Cancer|Stage IIIB Colon Cancer|Stage IIIB Rectal Cancer|Stage IIIC Colon Cancer|Stage IIIC Rectal Cancer|Stage IVA Colon Cancer|Stage IVA Rectal Cancer|Stage IVB Colon Cancer|Stage IVB Rectal Cancer
+DRUG: erlotinib hydrochloride|DRUG: fluorouracil|DRUG: leucovorin calcium|DRUG: oxaliplatin|BIOLOGICAL: bevacizumab
+Maximum tolerated dose (MTD) of OSI-774 given in combination with FOLFOX 4 and Bevacizumab, in patients with advanced colorectal cancer, 28 days|Toxicity profile of this regimen evaluated using the NCI Common Toxicity Criteria Version 2.0, The frequency of toxicities per organ system and grade will be summarized per each dose level., Up to 4 years|Antitumor activity of this combination determined using the RECIST criteria, The percentage of patients in each category of complete response, partial response, stable disease and progressive disease will be calculated using the total number of patients enrolled in an intent to treat analysis., Up to 4 years|Overall survival, Will be estimated using the Kaplan-Meier method and will be displayed graphically. Median overall survival and confidence limits will be determined. Kaplan-Meier estimates of survival at 6 and 12 months and their standard errors will be calculated., Up to 12 months|Progression-free survival, Progression-free survival will be estimated using the Kaplan-Meier method and will be displayed graphically. Median overall survival and confidence limits will be determined. Kaplan-Meier estimates of survival at 6 and 12 months and their standard errors will be calculated., Up to 12 months|The relationship between CYP3A4 activity and OSI-774 clearance, Days -7 to day -1
+Pharmacokinetics of OSI-774 given with FOLFOX 4, and Bevacizumab, Will be determined using conventional non-compartmental and compartmental analysis. The occurrence of pharmacokinetic interactions between oxaliplatin and OSI-774 will be explored by pair comparisons of pharmacokinetic parameters of each agent when given by itself or in combination., Days -7 to -1
+PRIMARY OBJECTIVES:
+
+I. To determine the maximum tolerated dose (MTD) of OSI-774 given in combination with FOLFOX 4 and Bevacizumab, in patients with advanced colorectal cancer.
+
+II. To characterize the toxicity profile of this regimen. III. To explore the antitumor activity of this combination.
+
+SECONDARY OBJECTIVES:
+
+I. To characterize the pharmacokinetics of OSI-774 given with FOLFOX 4, and Bevacizumab.
+
+II. To determine the relationship between CYP3A4 activity and OSI-774 clearance.
+
+III. To correlate Cytochrome P450 activity with OSI-774 PK using midazolam clearance.
+
+IV. To determine the relationship between expression and activation of the EGFR and related signaling pathways and outcome of patients with colorectal cancer patients who are treated with OSI-774 in combination with FOLFOX 4 and Bevacizumab.
+
+V. To explore the biological effects of OSI-774 in patients with advanced colorectal cancer and its relationship with dose and plasma concentration.
+
+VI. To explore the use of fluorodeoxy-glucose (FDG) positron emission tomography (PET) scan to predict the biological effects and outcome of patients with colorectal cancer who are treated with OSI-774 and FOLFOX 4 and Bevacizumab.
+
+VII. To assess 5FU PK when given in this manner, and to correlate with several previously characterized genetic polymorphisms and drug response VIII. To evaluate the association of allelic variants in AAG and OSI-774 disposition.
+
+OUTLINE: This is a dose-escalation study of erlotinib.
+
+Patients receive oral elotinib alone once daily for 1 week before the beginning of course 1. Patients then receive oral erlotinib once daily on days 1-28; oxaliplatin IV over 2 hours on day 1; and leucovorin calcium IV over 2 hours and fluorouracil IV over 22 hours on days 1 and 2. Patients also receive bevacizumab IV over 30-90 minutes on day 15 of course 1 and on days 1 and 15 of all subsequent courses. Courses repeat every 28 days in the absence of disease progression or unacceptable toxicity.
+
+Cohorts of 3-6 patients receive escalating doses of erlotinib until the maximum tolerated dose (MTD) is determined. The MTD is defined as the dose at which no more than 2 of 6 patients experience dose-limiting toxicity.
+
+PROJECTED ACCRUAL: Approximately 38 patients will be accrued for this study within 19-38 months.

@@ -1,0 +1,29 @@
+Zoptarelin Doxorubicin (AEZS 108) as Second Line Therapy for Endometrial Cancer
+Open-label, randomized, active-controlled, two-arm Phase III study to compare the efficacy and safety of AEZS-108 and doxorubicin.
+Endometrial Cancer
+DRUG: AEZS-108 / zoptarelin doxorubicin|DRUG: doxorubicin
+Compare the Overall Survival (OS) of Patients Treated With AEZS-108 to the OS of Patients Treated With Doxorubicin., Overall survival was defined as the elapsed time from randomization to death from any cause. For surviving patients, follow-up was to be censored at the date of last contact.
+
+The final analysis, which was event-based, was conducted after approximately 384 randomized patients had died.
+
+A log-rank test with an overall two sided Type I Error rate of 0.05 after taking the interim analyses into account was used to compare OS between the two treatment arms via a SAS (Statistical Analysis System) LIFETEST procedure. Kaplan Meier estimates were used to calculate median OS and the 95% confidence interval (CI) of the median OS. The proportion of patients alive at 6 and 12 months (from randomization date) and the 95% CIs for these estimated proportions were calculated., From randomization to death from any cause. During ongoing treatment: response evaluation every 3 cycles. For patients gone of treatment: re-assessment every 12 weeks.
+Compare Efficacy Based on Objective Response Rate (ORR)., The ORR was defined as the sum of the Complete Response (CR) and Partial Response (PR).
+
+CR: Disappearance of all target lesions. Any pathological lymph nodes (whether target or non-target) was to have a reduction in the short axis to \<10 mm.
+
+PR: At least a 30% decrease in the sum of the diameters of target lesions, taking as reference the baseline sum diameters.
+
+All responses were confirmed at least 4 weeks after the initial response was observed. Tumor assessments occurred every 3 cycles (± 7 days) during ongoing treatment then every 3 months (± 7 days) thereafter while the patient was on study. The last assessment occurred either when progression was confirmed or when approximately 384 randomized patients had died., 3 years|Compare Efficacy Based on Progression-free Survival (PFS)., Progression-free survival (PFS): days between randomization and the date of documented progression or death for any cause that occurred up to the end of the study. For patients whose progression status could not be determined, their PFS data was censored for the last adequate progression assessment date that the patient was confirmed to have no progression.
+
+Response and progression were to be evaluated using the international criteria proposed by the revised Response Evaluation Criteria in Solid Tumors (RECIST) guideline (version 1.1). Changes in the largest diameter (uni-dimensional measurement) of the tumor lesions and the shortest diameter in the case of malignant lymph nodes were to be used.
+
+During ongoing treatment, patients were to be re-evaluated for response every 3 cycles (i.e. every 9 weeks).
+
+A subsequent scan was obtained no earlier than 4 weeks following the initial documentation of an objective status of either complete response (CR) or partial response (PR)., During ongoing treatment: response evaluation every 3 cycles. For patients gone of treatment: re-assessment every 12 weeks.|Compare Efficacy Based on Clinical Benefit Rate (CBR)., Clinical benefit was defined as having stable disease (SD) or better lasting for at least 9 weeks. The CBR was analyzed using the same methods for the ORR analyses. The analysis of CBR (CR+PR+SD) was performed in the ITT (intention-to-treat) population.
+
+CR: Disappearance of all target lesions. Any pathological lymph nodes (whether target or non-target) was to have a reduction in the short axis to \<10 mm.
+
+PR: At least a 30% decrease in the sum of the diameters of target lesions, taking as reference the baseline sum diameters.
+
+All responses were confirmed at least 4 weeks after the initial response was observed. Tumor assessments occurred every 3 cycles (± 7 days) during ongoing treatment then every 3 months (± 7 days) thereafter while the patient was on study. The last assessment occurred either when progression was confirmed or when approximately 384 randomized patients had died., 3 years
+The study will include about 500 patients with endometrial cancer resistant to platinum/taxane-based chemotherapy.

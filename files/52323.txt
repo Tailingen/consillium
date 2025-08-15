@@ -1,0 +1,11 @@
+A Trial Evaluating the Addition of Nivolumab to Cisplatin-RT for Treatment of Cancers of the Head and Neck
+The purpose of this study is to determine the efficacy of nivolumab + cisplatin-RT relative to standard of care (SOC) cisplatin-RT alone, using the disease-free survival (DFS by investigator imaging assessment) as primary endpoint )
+Squamous Cell Carcinoma of Head and Neck
+DRUG: Cisplatin|DRUG: Nivolumab|RADIATION: RT
+Disease free survival, The time between the date of randomization and the date of first loco-regional or distant recurrence or death (of any cause) whichever occurs first., 3 years after the end of RT
+Overall survival, Time between the date of randomization and death, 60 months after the end of treatment|Acute toxicity, The maximal grade of each toxicity observed during radiotherapy plus concomitant treatment graded according to the NCI CTCAE v5.0, During treatment and until 90 months after the end of RT|Late toxicity, Late toxicity from 1 year to 5 years after radiotherapy will be categorized in three categories (none, grade 1-2, or grade 3-4), and compared between the two arms using generalised linear models for multinomial variables with a cumulative logit link, 1 to 5 years after radiotherapy
+This open-label, randomized, controlled, multicenter phase III study will include 680 patients who have been operated for their LA SCCHN and exhibiting extra capsular extension (ECE) and/or positive margins (high risk). Subjects will be randomized (1:1) to receive post-operative concomitant cisplatin-RT with or without nivolumab.
+
+The study is designed with the general objective of demonstrating that treatment with nivolumab in combination with 3 cycles of cisplatin during RT is more efficient and not more toxic than the SOC 3 cycles of cisplatin during RT.
+
+Stratification will be based on the P16 status (immunohistochemistry assay on surgical sample). Two classes: Oropharyngeal Cancer (OPC) p16 positive versus OPC p16 negative or not OPC.

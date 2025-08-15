@@ -1,0 +1,27 @@
+Stereotactic Body Radiation Therapy With Boost Using Urethral-Sparing Intensity-Modulated Radiation Therapy Planning in Treating Patients With Prostate Cancer
+This phase I/II trial studies the side effects and best dose of stereotactic body radiation therapy while using intensity-modulated radiation therapy (IMRT) planning to help avoid radiation to normal tissue in patients with prostate cancer. Stereotactic body radiation therapy is a specialized radiation therapy that sends x-rays directly to the tumor using small, high doses of radiation over several days and may cause less damage to normal tissue. This treatment schedule allows for a higher dose of radiation to be administered over a shorter overall treatment period in comparison to standard radiation therapy.
+Stage I Prostate Adenocarcinoma|Stage II Prostate Adenocarcinoma
+RADIATION: Radiation Therapy Treatment Planning and Simulation|RADIATION: SBRT|RADIATION: SBRT
+Incidence of GU and GI Acute Toxicity, Evaluation of delivering SBRT to the prostate using non-uniform dosing. The investigators will evaluate the potential for any added grade 3 rectal toxicity with the use of a simultaneous integrated boost., Up to 90 days|Incidence of GU and GI Late Toxicity, Evaluation of delivering SBRT to the prostate using non-uniform dosing. The investigators will evaluate the potential for any added grade 3 rectal toxicity with the use of a simultaneous integrated boost. A late adverse event will be defined as an adverse event occurring more than 90 days from the completion of RT., Up to 3 years|Disease-free survival as measured by the Phoenix definition, Up to 3 years
+Change in Expanded Prostate Cancer Index Composite (EPIC) 26 Quality of Life Assessment, The EPIC 26 assessment has a total range of possible scores of 1-100 where higher scores indicate higher satisfaction. Questionnaires will be performed prior to treatment, and one and two years after completion of treatment., at Baseline, 1 year, and 2 years|Change in American Urological Association Symptom Score (AUASS), The AUASS has a total possible range of scores of 0-35 where 1-7 is considered mild symptoms, 8-19 is considered moderate symptoms, and 20-35 is considered severe symptoms. Questionnaires will be performed prior to treatment, and one and two years after completion of treatment., at Baseline, 1 year, and 2 years|Change in International Index of Erectile Dysfunction Questionnaire (IIEF-5), The IIEF-5 questionnaire has a total score of 1-25 where 1-7 is considered severe erectile dysfunction (ED), 8-11 is moderate ED, 12-16 is mild-moderate ED, 17-21 is mild ED, and 22-25 is no ED. Questionnaires will be performed prior to treatment, and one and two years after completion of treatment., at Baseline, 1 year, and 2 years
+PRIMARY OBJECTIVES:
+
+I. To evaluate the incidence of genitourinary (GU) and gastrointestinal (GI) acute and late toxicity for patients treated with prostate stereotactic body radiotherapy (SBRT) with simultaneous integrative boost, urethral ring sparing, and enhanced prostate localization (magnetic resonance imaging \[MRI\\-computed tomography \[CT\] fusion).
+
+II. To also evaluate the incidence of GU and GI acute and late toxicity for patients treated with prostate stereotactic body radiotherapy (SBRT) with a more conventional and uniformly delivered dose of 7.25 Gy/fraction to the prostate.
+
+III. Disease-free survival: disease-free failure events include local progression, distant progression, biochemical failure as defined by the Radiation Therapy Oncology Group (RTOG) Phoenix definition, and death from any cause.
+
+SECONDARY OBJECTIVES:
+
+I. Evaluate patient quality of life (QOL) using the Expanded Prostate Cancer Index Composite 26 (EPIC-26) for evaluation of the QOL for up to 3 years after the completion of SBRT.
+
+OUTLINE: Participants are assigned to 1 of 2 treatment arms. Participants unable to undergo MRI, whose MRI proves technically inadequate for delineating needed anatomic structures, or who decline to enroll on Arm A are assigned to Arm B.
+
+ARM A: (n = 120) Participants undergo 5 fractions of moderate dose SBRT with simultaneous integrated boost (SIB) every other day for 10 days following urethral-sparing IMRT planning.
+
+ARM B: (n = 40) Participants undergo 5 fractions of uniform dose SBRT every other day for 10 days following undergo urethral-sparing IMRT planning.
+
+After completion of study treatment, patients are followed up at 4-8 weeks, at 4, 8, and 12 months, every 4 months for 1 year, every 6 months for 3 years, and then every 12 months thereafter.
+
+Per protocol amendment in December 2023, the follow up time period for data collection will change to 3 years after the last participant completed treatment.

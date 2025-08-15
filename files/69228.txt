@@ -1,0 +1,9 @@
+Study of Smoking Trajectory in Newly Diagnosis Lung Cancer Patients
+1. Understanding the smoking change patterns among the newly diagnosis lung cancer patients after cancer diagnosis.
+2. Explore the related factors of the smoking change patterns.
+3. The type of smoking trajectory impact on survival and quality of life.
+Newly Diagnosed Lung Cancer|Smoking, Cigarette|Survival|Quality of Life
+BEHAVIORAL: smoking
+Changes From Baseline Smoking Behavior at 1,2,3,4,5,6 Months, Self-reported smoking during the last 30 days was a dichotomous variable., baseline, 1-month, 2-month, 3-month, 4-month, 5-month, 6-month
+Changes From Baseline Quality of Life at 1,2,3,4,5,6 Months, Functional Assessment of Cancer Therapy-Lung, Version 4 (FACT-L v. 4) was a 36-item ordinal scale, five-point scale from 0 (not at all) to 4 (very much). There were 5 domains: Physical, social/family, emotional, and functional well-being; lung cancer subscale (symptoms, cognitive function, regret of smoking). Subscale scores added to obtain total score, with higher scores indicating better quality of life., baseline, 1-month, 2-month, 3-month, 4-month, 5-month, 6-month|Proportion of participants with Overall Survival up to 2 years, survival, follow up to one or two years
+This was a prospective longitudinal design study. The investigators used the structure questionnaires to collect the data from a consecutive sample of newly diagnosed lung cancer patients.

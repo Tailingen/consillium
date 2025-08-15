@@ -1,0 +1,40 @@
+FOR46 in Combination With Enzalutamide in Patients With Metastatic Castration Resistant Prostate Cancer
+This is a Phase 1b/2 study evaluating FOR46 in combination with enzalutamide in patients with metastatic castration resistant prostate cancer (mCRPC) after prior progression on abiraterone. FOR46 is designed to target and bind to CD46, a transmembrane cellular protein expressed at moderate or high levels in numerous cancer types. The investigators hypothesize that the combination of FOR46 plus enzalutamide will achieve a clinically significant composite response rate with sufficient durability of response in mCRPC patients.
+Metastatic Castration-resistant Prostate Cancer|Prostate Cancer
+BIOLOGICAL: FOR46|BIOLOGICAL: Enzalutamide|DRUG: Pegfilgrastim|PROCEDURE: Blood Samples
+Maximally tolerated dose (MTD) (Phase 1b), A minimum of 3 patients will be treated at each dose level. If \< 33%of patients (i.e. 0 of 3 patients, or 1 of 6 patients) within a cohort have a dose-limiting toxicity (DLT in Cycle 1, then enrollment of the next cohort may commence upon approval of Data and Safety Monitoring Committee. At any dose level, dose escalation will be discontinued if \>= 2 of 3 to 6 patients within a cohort experience a DLT in Cycle 1, the MTD will have been exceeded. The previous dose level will then be considered the MTD if 6 patients were previously evaluated at this dose level. If this dose level was previously evaluated with 3 patients, then 3 additional patients will be enrolled at this dose level; if 0 or 1 of the additional 3 patients experiences a DLT in Cycle 1, then this dose level will be considered the MTD., Up to 3 weeks|Number of participants with Dose-Limiting Toxicities (Phase 1b), Dose-limiting toxicities classified using the Common Terminology Criteria for Adverse Events (CTCAE) version 5.0will be tabulated by dose level and reported in descriptive fashion., Up to 3 weeks|Composite response rate (CRR) (Phase 2), Composite response is defined as a \>= 50% decline from baseline PSA (defined by Cycle 1 Day 1 value), confirmed by repeat measurement \>= 4 weeks later AND/OR objective tumor response by RECIST 1.1 criteria The composite response rate along with 95% confidence interval will be reported, Up to 2 years
+Proportion of participants with a greater than or equal to 50% change in PSA (PSA50), PSA50 response is defined as above, a ≥ 50% decline from baseline in serum PSA, confirmed by repeat measurement ≥ 4 weeks later. The PSA50 response proportion will be reported along with 95% confidence interval for each study cohort, for the subset of PSA-evaluable patients (serum PSA ≥ 2 ng/mL at baseline), Up to 2 years|Objective response rate (ORR), The objective response rate and median duration of response will be reported along with 95% confidence interval for the subset of patients with measurable soft tissue disease by RECIST 1.1 criteria at baseline, Up to 2 years|Median duration of objective response, The median duration of response will be reported along with 95% confidence interval for the subset of patients with measurable soft tissue disease by RECIST 1.1 criteria at baseline, Up to 2 years|Median time to PSA progression, Median time to PSA progression assessed by PCWG3 criteria will be determined from the date of first dose of protocol-defined therapy, using Kaplan-Meier product limit method. Patients who discontinue treatment for reasons other than adverse event, patient withdrawal, etc. will be censored by the date of last treatment., Up to 2 years|Median radiographic progression-free survival, Median radiographic progression-free survival assessed by PCWG3 criteria will be determined from the date of first dose of protocol-defined therapy, using Kaplan-Meier product limit method. Patients who discontinue treatment for reasons other than adverse event, patient withdrawal, etc. will be censored by the date of last treatment., Up to 2 years|Median overall survival survival., The median overall survival along with 95% confidence interval will be determined from the date of first dose of protocol-defined therapy until death from any cause, using the Kaplan-Meier product limit method. Patients will be followed for long-term survival as outlined in the Study Procedures. Patients who withdraw from study will be censored for analysis of overall survival using the date of study withdrawal., Up to 2 years|Frequency of treatment-related, adverse events (AE), Adverse events will be recorded and severity graded using CTCAE version 5.0. The frequency and highest grade of severity of adverse events will be descriptively reported, Up to 2 years
+PRIMARY OBJECTIVES:
+
+Phase 1b:
+
+I. To determine the maximally tolerated dose (MTD) and recommended phase 2 dose (RP2D) of FOR46 in combination with enzalutamide in patients with mCRPC.
+
+Phase 2:
+
+I. To determine the composite response rate of FOR46 plus enzalutamide, defined as:
+
+1. Decline in serum PSA \>= 50% (PSA50) from baseline, confirmed by repeat measurement at least 4 weeks later, and/or
+2. Objective response by Response Evaluation Criteria in Solid Tumors (RECIST) version 1.1 criteria.
+
+SECONDARY OBJECTIVES:
+
+Phase 1b and Phase 2:
+
+I. To determine the PSA50 response rate.
+
+II. To determine the objective response rate by RECIST 1.1 criteria among patients with measurable soft tissue by RECIST 1.1 criteria at baseline.
+
+III. To determine the median duration of objective response.
+
+IIII. To determine the median time to prostate-specific antigen (PSA) progression by Prostate Cancer Clinical Trials Working Group 3 (PCWG3) criteria.
+
+V. To determine the median radiographic progression-free survival by PCWG3 criteria.
+
+VI. To determine the median overall survival.
+
+VII. To determine the safety of the combination.
+
+OUTLINE:
+
+Participants may continue study treatment from the time of treatment initiation until confirmed radiographic disease progression per PCWG3 / RECIST 1.1 criteria, unequivocal clinical progression, unacceptable toxicity, or patient withdrawal, whichever occurs first. Patients will be followed for overall survival every 90 days (+/- 30 days) from last dose of study treatment, until death, withdrawal of consent, or the end of the study, whichever occurs first.

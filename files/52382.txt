@@ -1,0 +1,38 @@
+Testing Two Oral Drugs Combination (Cediranib and Olaparib) Compared to a Single Drug (Olaparib) for Men With Advanced Prostate Cancer
+This randomized phase II trial studies how well olaparib with or without cediranib works in treating patients with castration-resistant prostate cancer that has spread to other places in the body (metastatic). PARPs are proteins that help repair DNA mutations. PARP inhibitors, such as olaparib, can keep PARP from working, so tumor cells can't repair themselves, and they may stop growing. Cediranib may stop the growth of tumor cells by blocking some of the enzymes needed for cell growth. Giving olaparib and cediranib may help treat patients with castration-resistant prostate cancer.
+Advanced Prostate Adenocarcinoma With Neuroendocrine Differentiation|Castration-Resistant Prostate Carcinoma|Metastatic Prostate Adenocarcinoma With Neuroendocrine Differentiation|Metastatic Prostate Carcinoma|Prostate Adenocarcinoma With Neuroendocrine Differentiation|Stage IV Prostate Adenocarcinoma AJCC v7
+DRUG: Cediranib|DRUG: Olaparib
+Radiographic Progression Free Survival, The two study arms will be compared for radiographic progression free survival with Kaplan-Meier estimates and log-rank tests. The Rothman confidence interval, which is based on Greenwood's variance, Thomas and Grunkemeier confidence interval, and the simultaneous confidence bands by Nair and Hall and Wellner, will be reported. In addition, the possible confounding variables will be compared for survival with log-rank test., Time interval from random assignment to the date when the first site of disease is found to progress, or death, whichever occurs first, assessed up to 5 years
+Overall Survival, Will use the rank preserving structure failure time model for the overall survival analysis., Time between randomization and death due to any cause (or last contact for surviving patients and those lost to follow-up), assessed up to 5 years|Objective Response Rate, Will be assessed by Response Evaluation Criteria in Solid Tumors version 1.1. The exact 95% confidence interval of objective response rate will be reported based on the binomial distribution. The multivariate data analysis will be completed using the logistic regression model. The adjusted p-value and adjusted 95% confidence interval will also be reported., Up to 5 years|Prostate-specific Antigen Response Rate, Prostate-specific antigen response will be defined by prostate-specific antigen decline from baseline \> 50%, confirmed by a second value at 3-4 weeks later. Prostate-specific antigen response rate analysis will be based on a subset of patients who had prostate-specific antigen progression prior to enrollment. The multivariate data analysis will be completed using the logistic regression model., Up to 5 years|Correlation Between Homologous Recombination Deficiency Status and Radiographic Progression Free Survival, Homologous recombination deficiency positive status is defined by presence of homozygous deletion or deleterious mutations in key homologous recombination genes of deoxyribonucleic acid repair genes as analyzed by BROCA-homologous recombination test. The data analysis will be completed using log rank Test. The multivariate data analysis will be completed using the Cox PH model., Up to 1 week prior to start of therapy|Incidence of Genomic Alterations, Will be assessed by whole exome sequencing and transcriptome sequencing. The biomarker data analysis will be completed using Lasso-based elastic net method., Up to 5 years|Incidence of Adverse Events, Will be assessed by National Cancer Institute (NCI) Common Terminology Criteria for Adverse Events (CTCAE) version 4.0 (CTCAE version 5.0 will be effective by April 1, 2018). Descriptive statistics, including means, standard deviations, and ranges for continuous parameters, as well as percentages and frequencies for categorical parameters, will be presented. Adverse medical events will be tabulated. NCI toxicity grade 3 and grade 4 laboratory abnormalities will be listed and tabled. At the time of results reporting, presented are the count of participants in either arm that experienced at least 1 adverse event., Up to 5 years
+Baseline Predictive Biomarkers by Plasma Angiome, The data analysis will be completed using Lasso-based elastic net method., Baseline|On-treatment Markers of Acquired Resistance by Plasma Angiome, The data analysis will be completed using Lasso-based elastic net method., Up to 5 years
+PRIMARY OBJECTIVE:
+
+I. To assess the clinical activity of the combination of cediranib and olaparib, as measured by radiographic progression free survival (rPFS), as compared to olaparib monotherapy in patients with metastatic castration resistant prostate cancer (mCRPC).
+
+SECONDARY OBJECTIVES:
+
+I. To assess the clinical activity of the combination of cediranib and olaparib, as measured by prostate-specific antigen (PSA) response rate, radiographic response rate by Response Evaluation Criteria in Solid Tumors (RECIST) version (v)1.1, and overall survival (OS), as compared to olaparib monotherapy in patients with mCRPC.
+
+II. To evaluate association of homologous recombination deoxyribonucleic acid (DNA) repair deficiency (HRD) with the clinical activity of the combination of cediranib and olaparib or olaparib monotherapy, as measured by rPFS, in mCRPC patients.
+
+III. To evaluate the safety the combination of cediranib and olaparib and olaparib monotherapy in patients with metastatic prostate cancer.
+
+EXPLORATORY OBJECTIVES:
+
+I. To characterize genomic alterations by whole exome sequencing in mCRPC patients and correlate that with clinical activity or resistance to olaparib with or without cediranib.
+
+II. To characterize changes in ribonucleic acid (RNA) expression of DNA repair genes, angiogenesis markers, and immune markers, by whole transcriptome sequencing and correlate with clinical activity or resistance to olaparib with or without cediranib.
+
+III. To characterize changes in immune tumor microenvironment in mCRPC patients by profiling expression of co-stimulatory and co-inhibitory molecules and tumor infiltrating lymphocytes, and correlate with clinical activity or resistance to olaparib with or without cediranib.
+
+IV. To identify baseline predictive biomarkers for rPFS or response and to identify on-treatment markers of acquired resistance in men with mCRPC receiving either olaparib plus cediranib or olaparib alone.
+
+V. To explore biomarker signatures that correlate with the clinical activity or resistance to olaparib with or without cediranib, including changes in gene expression or acquired mutations in tumor biopsies.
+
+OUTLINE: Patients are randomized to 1 of 2 arms.
+
+ARM A: Patients receive olaparib orally (PO) twice daily (BID) and cediranib PO once daily (QD) on days 1-28. Cycles repeat every 28 days in the absence of disease progression or unacceptable toxicity.
+
+ARM B: Patients receive olaparib PO BID on days 1-28. Cycles repeat every 28 days in the absence of disease progression or unacceptable toxicity.
+
+After completion of study treatment, patients are followed up every 6 months.

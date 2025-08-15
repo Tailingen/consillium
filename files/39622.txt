@@ -1,0 +1,36 @@
+Dinutuximab in Combination With Sargramostim in Treating Patients With Recurrent Osteosarcoma
+This phase II trial studies how well dinutuximab works when given with sargramostim in treating patients with osteosarcoma that has come back after treatment (recurrent). Monoclonal antibodies, such as dinutuximab, may find tumor cells and help kill them. Sargramostim may help the body increase the amount of white blood cells it produces, which help the body fight off infections. Giving dinutuximab with sargramostim may work better and kill more cancer cells.
+Metastatic Malignant Neoplasm in the Lung|Metastatic Osteosarcoma|Recurrent Osteosarcoma
+BIOLOGICAL: Dinutuximab|OTHER: Laboratory Biomarker Analysis|OTHER: Pharmacological Study|BIOLOGICAL: Sargramostim
+Disease Control, Patients who can be confirmed to be free of detectable disease 12 months after enrollment, without intervening disease progression, will be considered to have demonstrated 12 month disease control. All other eligible patients will be considered not to have demonstrated 12 month disease control., 12 months after study enrollment
+T 1/2 Alpha of the Serum Concentration of Dinutuximab, T 1/2 alpha of the serum concentration of dinutuximab in days, Cycle 1 Day 4 and Day 7: pre-infusion, hour 4-6, end of infusion, 4-8 hours post infusion. Once between days 11-17. Cycle 2 Day 0 or 1|T 1/2 Beta of the Serum Concentration of Dinutuximab, T 1/2 beta of the serum concentration of dinutuximab in days, Cycle 1 Day 4 and Day 7: pre-infusion, hour 4-6, end of infusion, 4-8 hours post infusion. Once between days 11-17. Cycle 2 Day 0 or 1|Maximum of Concentration (Cmax) of the Serum Concentration Dinutuximab, Cmax of the serum concentration dinutuximab as mg/L., Cycle 1 Day 4 and Day 7: pre-infusion, hour 4-6, end of infusion, 4-8 hours post infusion. Once between days 11-17. Cycle 2 Day 0 or 1|Area Under the Curve (AUC)0 to Infinity of Serum Dinutuximab, (AUC)0 to infinity of serum dinutuximab in mg-h/L., Cycle 1 Day 4 and Day 7: pre-infusion, hour 4-6, end of infusion, 4-8 hours post infusion. Once between days 11-17. Cycle 2 Day 0 or 1|Number of Cycles Where an Unacceptable Toxicity as Defined in the Protocol Using The National Cancer Institute Common Terminology Criteria for Adverse Events Version 4 Was Observed, The number of cycles where a dose-limiting toxicity was identified where dose-limiting toxicity is defined in the protocol using the National Cancer Institute Common Terminology Criteria for Adverse Events version 4.0. Occurrence of unacceptable toxicity as graded according to the National Cancer Institute Common Terminology Criteria for Adverse Events version 4.0, coded as present or absent, in each cycle received by eligible patients where all prescribed therapy for the cycle is received or the patient experiences unacceptable toxicity., 5 cycles of protocol therapy planned as 140 days
+Tumor GD2 Expression, Archival tumor tissue will be assessed by immunohistochemistry to provide the level of GD2 expression in tissue as an integer between 0 and 3 with 0 indicating no GD2 expression and 3 indicating strong GD2 expression., At study enrollment|KIR Genotype Analyses, KIR mismatch will be assessed from the pre-treatment blood specimen as present or absent., At enrollment|NKp30c Genotype Analyses, Status of the immunosuppressive isoform of NKp30c KIR mismatch will be assessed from the pre-treatment blood specimen as present or absent., At enrollment|FcgammaR Genotype Analyses, FcgammaR genotype will be assessed from the pre-treatment blood specimen as H/R, R/R or H/H., At enrollment|Change in Circulating Ligand B7-H6 Levels, The change in surface expression of ligand B7-H6 in terms of counts between the blood sample taken prior to the start of protocol therapy and the end of cycle 1 will be calculated. Patients who do not receive all prescribed protocol therapy during cycle 1 will not be evaluable for this outcome measure., Cycle 1 of therapy planned to be 21 days|Banking of Tumor Samples (Optional), Individual statistical plans will be developed for future studies answering a specific question using these banked tumor specimens., 5 cycles of protocol therapy planned as 140 days|HACA Titer, HACA titer will be determined in each blood sample provided to the HACA reference laboratory., At enrollment, at the start of each cycle of therapy and within 30 days of the end of cycle 5|Circulating Tumor Deoxyribonucleic Acid Detection, Statistical considerations for specific future studies will be provided., 5 cycles of protocol therapy planned as 140 days
+PRIMARY OBJECTIVES:
+
+I. To determine the disease control rate in patients with completely resected recurrent osteosarcoma treated with ch14.18 (dinutuximab) in combination with sargramostim (granulocyte-macrophage colony-stimulating factor \[GM-CSF\]) as compared to historical Children's Oncology Group (COG) experience.
+
+SECONDARY OBJECTIVES:
+
+I. To characterize the pharmacokinetics of ch14.18 (dinutuximab) in patients with recurrent osteosarcoma.
+
+II. To determine the occurrence of unacceptable toxicity (UT) in patients with recurrent osteosarcoma treated with ch14.18 (dinutuximab) in combination with sargramostim.
+
+III. To assess the relationship between probability of disease control and tumor ganglioside GD2 (GD2) expression.
+
+TERTIARY OBJECTIVES:
+
+I. To assess the relationship between probability of disease control and tumor GD2 expression.
+
+II. To assess KIR and Fcgamma receptor (FcgammaR) genotypes, NKp30 isoforms and its circulating ligand, B7-H6, and their relationships to the probability of disease control.
+
+III. To attempt banking of tumor samples for future research studies from patients enrolled on study who undergo biopsy or resection of suspected metastatic disease recurrence while on protocol therapy or during the evaluation period.
+
+IV. To determine a descriptive profile of human anti-chimeric antibody (HACA) during immunotherapy.
+
+V. To bank serial plasma samples for future studies of circulating tumor deoxyribonucleic acid (ctDNA) detection as a marker of disease progression and response.
+
+OUTLINE:
+
+Patients receive sargramostim subcutaneously (SC) once daily (QD) on days 1-14 and dinutuximab intravenously (IV) over 10 hours on days 4-7 (dinutuximab infusion may be extended up to a total of 20 hours per day for anticipated toxicities). Treatment repeats every 28 days for up to 5 courses in the absence of disease progression or unacceptable toxicity.
+
+After completion of study treatment, patients are followed up at 8 and 12 months.

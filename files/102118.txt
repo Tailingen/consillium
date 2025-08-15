@@ -1,0 +1,23 @@
+CAD EYE Detection of Remaining Lesions After EMR
+In the last decade, many innovative systems have been developed to support and improve the diagnosis accuracy during endoscopic studies. CAD-Eye™ (Fujifilm, Tokyo, Japan) is a computer-assisted diagnostic (CADx) system that uses artificial intelligence for the detection and characterization of polyps during colonoscopy. However, the accuracy of CAD-Eye™ in the recognition of remaining lesions after endoscopic mucosal resection (EMR) has not been broadly evaluated.
+
+Finally, based on the importance of complete resection of the colonic mucosal lesions, namely suspicious high-grade dysplasia or early invasive cancer, the investigators aimed to assess the accuracy of CAD-Eye™ in the detection of remaining lesions after the procedure.
+Colorectal Dysplasia|Colorectal Neoplasms
+DIAGNOSTIC_TEST: EMR with CAD-Eye™|DIAGNOSTIC_TEST: EMR without CAD-Eye™|DIAGNOSTIC_TEST: Follow-up colonoscopy with CAD-Eye™
+Lesions recurrence after EMR, Detection of remaining lesions immediately after EMR procedure based on endoscopist expertise (EMR without CAD-Eye™ group) or CAD-Eye™ (EMR + CAD-Eye™ group). Lesions will be confirmed by biopsy.
+
+Data will be summarized as frequencies., up to 1 week|Lesions recurrence in a three-month follow-up after EMR, Evaluation of CAD-Eye™ in the detection of recurrent lesions after EMR procedure. Remaining lesions detected by CAD-Eye™ in the three-month follow-up. Lesions will be confirmed by biopsy.
+
+Data will be summarized as frequencies., up to 3 months
+Recurrence risk after EMR, Calculate de recurrence risk by the Sydney EMR recurrence tool (SERT) in a scale from 0 to 4
+
+* 2 points: size of 40 mm or larger
+* 1 point: Intraprocedural bleeding (IPB)
+* 1 point: high-grade dysplasia (HGD) in histopathology, up to 1 week
+Nowadays, the increased polyp and adenoma detection rate, and its early treatment have reduced considerably colorectal cancer-related mortality. For lesions suspicious of high-grade dysplasia or early invasive cancer, the endoscopic mucosal resection (EMR), along with snare polypectomy, is now considered one of the established standard treatments. However, there are many ´difficult-to-treat lesions´ such as the large and fibrotic ones, which can lead to incomplete resections.
+
+Based on the above, many newly diagnostic techniques guided by artificial intelligence (AI), currently proposed to improve the polyp detection rate during colonoscopy, can be applied for the detection of remaining lesions after endoscopic treatment.
+
+CAD-Eye™ is CADx for polyp detection and characterization. It improves polyp visualization by using techniques such as blue-laser imaging (BLI-LASER), blue-light imaging (BLI-LED), and linked-color imaging (LCI). This device aimed to improve real-time polyp detection, helping experts identify multiple polyps simultaneously and common inadvertently missed lesions (flat lesions, polyps in difficult areas).
+
+CAD-Eye™ had demonstrated in previous studies an accuracy of 89% to 91.7% in polyp detection. However, few studies had demonstrated its performance in the detection of remaining lesions after EMR. The investigators aimed to take advantage of this system in the detection of remaining lesions immediately after EMR and in its endoscopic control after three months.

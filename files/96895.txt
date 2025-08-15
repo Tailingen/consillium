@@ -1,0 +1,271 @@
+A Prospective Observational Study on Targeted Therapy for Unresectable or Metastatic BRAFV600E Mutant Melanoma Patients
+1. Background The purpose of this study is to describe the profile of patients with BRAF-mutated melanoma treated with BRAF/MEK inhibitors combination and using the Tavie Skin application.
+
+   TavieSkin app, a digital solution developped by Pierre Fabre, is dedicated to all BRAF-mutant unresectable or metastatic melanoma patients who are treated with "any" targeted therapies.
+2. Study objectives The primary objective of the survey is to describe the demographics and clinical characteristics of patients with unresectable or metastatic BRAF-mutated melanoma treated with targeted therapy (BRAFi/MEKi) and using the TavieSkin application
+
+   The secondary objectives include:
+   * To assess the use of TavieSkin app in patients with unresectable or metastatic BRAF-mutated melanoma treated with BRAFi/MEKi combination;
+   * To assess the treatment adherence of patients using TavieSkin app including treatment interruption or permanent discontinuation;
+   * To assess the health-related quality of life of patients using TavieSkin app (FACT-M);
+   * To assess work productivity and activity impairment over the treatment duration
+   * To assess the patient satisfaction toward the TavieSkin application;
+   * To assess the patient satisfaction toward the treatment.
+3. Research methods
+
+3.1 Study design This prospective, longitudinal, survey will be conducted in Europe to characterize BRAF-mutant unresectable or metastatic melanoma patients using TavieSkin app designed for accompanying patients treated with targeted therapies.
+
+To date, there are three combinations of BRAFi/MEKi available in routine practice for the treatment of BRAF-mutant unresectable or metastatic melanoma. The survey does not provide or recommend any treatment or procedure; all decisions regarding treatment are made at the sole discretion of the treating physicians in accordance with their usual practices. The patients initiating any BRAFi/MEKi combination will be invited to use the TavieSkin app by their healthcare provider (HCP) (i.e. oncologist, dermatologist, nurse...).
+
+Once the patient has installed and started to use the application, an e-survey will be proposed to the patient via the app. A detailed information letter about the data collection, data privacy and analysis will be displayed to the patient via the app along with an e-consent for data collection. The patient will be able then to provide an e-signature, if he/she accepts to take part of this survey. The survey will collect anonymized data about health status, QoL data and satisfaction. These data will be collected by the patient only. The physician will not be involved in this e-survey (including e-consent), nor in data collection.
+
+Only patients having given consent (e-consent) to data collection and analysis will be included. Data will be collected at baseline and at different subsequent timepoints during the BRAFi/MEKi treatment duration only. Only data reported by the patients in the application will be collected and analyzed.
+
+The patient will discontinue the study in case of definitive withdrawal of BRAFi/MEKi treatment, or if he/she decides to withdraw the study and to stop data collection.
+
+The target countries for patient enrollment will include Germany, Belgium, Portugal, France, Spain, Italy and Sweden with the additional possibility of including patients from other EU countries.
+
+At least, 400 adult patients (≥18 years) will be enrolled.
+
+3.2 Population (see section: Eligibility)
+
+3.3 Study outcomes (see section: Outcome measures)
+
+3.4 Statistical considerations Statistical analyses will be fully described in a written statistical analysis plan (SAP). The study endpoints will be analysed overall and by country. Analyses will be descriptive in nature, as no hypothesis will be tested.
+
+The treatment patterns of patients, baseline demographics and clinical characteristics, and reasons for treatment discontinuation will be described using summary statistics. Categorical variables will be summarized by frequencies and percentages. Continuous variables will be summarized by descriptive statistics (mean, and standard deviation, median, 25th and 75th percentiles, minimum and maximum). The number of missing observations for each variable will also be reported.
+
+Change in health-related quality-of-life scores (i.e. (FACT-M) will be summarised at baseline and at each timepoints. The change from baseline will be assessed using a mixed model for repeated measures (MMRM).
+
+Time to event data (i.e. time to treatment discontinuation, time QoL deterioration) will be evaluated using Kaplan-Meier survival curves. Median survival estimates will be reported along with the 25th and 75th percentiles and corresponding 95% confidence intervals (CIs). Cox regression analysis may be performed to adjust for predefined (baseline) covariates.
+
+If the sample size is adequate, subgroup analyses using variables at baseline might be conducted.
+Melanoma (Skin)|Metastatic Melanoma|BRAF V600 Mutation
+Description of age, Age will be assessed in years (date of the initiation of targeted therapy - date of birth), Baseline|Description of Sex, Sex will be described in percentage of Male and Female among the participants, Baseline|Description of BMI, Weight (in kg) and height (in m) will be combined to report BMI in kg/m2, Baseline|Description of sociodemographic status: country, The country will be described in number of participants included in each country (France, Portugal, Spain, Belgium, Germany, Italy), Baseline|Description of sociodemographic status: education level, The education level will be described by the following distribution of participants: with no degree/Primary education, High school level or equivalent and with college degree (i.e. Bachelor, Master or Doctorate), Baseline|Description of sociodemographic status: employment status, The employment status will be described by the following distribution of participants: employed, unemployed, retired and student, Baseline|Description of sociodemographic status: living place, The living place will be described by the following distribution of participants: living in urban/suburban and in rural, Baseline|Description of sociodemographic status: family situation, The family situation will be described by the following distribution of participants: living alone, cohabiting or living with family members and other, Baseline|Description of clinical characteristics of patients: time since initial diagnostic of melanoma, The time since initial diagnostic of melanoma will be assessed in number of years (date of the initiation of targeted therapy - date of initial diagnostic of melanoma), Baseline|Description of clinical characteristics of patients: time since metastatic diagnosis, The time since metastatic diagnosis will be assessed in number of years (date of the initiation of targeted therapy - date of metastatic diagnosis), Baseline|Description of clinical characteristics of patients: initial/primary site of tumor, The Initial/primary site of tumor will be described by the following distribution of participants: with localization in the upper extremities, head and neck, trunk, lower extremities, mucosal or uvea, unknown localization, Baseline|Description of clinical characteristics of patients: comorbidities, The comorbidities will be described by the following distribution of participants: with diabetes, hypertension, renal failure, cardiovascular disease, other cancer, autoimmune disease, ..., Baseline|Description of clinical characteristics of patients: prior therapies for melanoma, The prior therapies for melanoma will be described by the following distribution of participants: treated with surgery, radiotherapy, chemotherapy, immunotherapy, targeted therapy, other, Baseline
+Assessment of the use of TavieSkin application:number of subscribers who frequently use the application, The use of TavieSkin app will be assessed using the app usage data such as the number of subscribers who frequently use the application, Every day during targeted therapy until targeted therapy discontinuation or study completion, an average of 1 year, whichever comes first|Assessment of the use of TavieSkin application: duration of usage per day, The use of TavieSkin app will be assessed using the app usage data such as the duration of usage per day (in number of minutes per day), Every day during targeted therapy until targeted therapy discontinuation or study completion, an average of 1 year, whichever comes first|Assessment of the use of TavieSkin application: rate of completed data and completed questionnaires, The use of TavieSkin app will be assessed using the app usage data such as the rate of completed data and completed questionnaires, Every day during targeted therapy until targeted therapy discontinuation or study completion, an average of 1 year, whichever comes first|Assessment of the adherence to treatment, The adherence to treatment will be assessed by describing the effective taken medication. The frequency of treatment interruption and permanent discontinuation as reported by the patient will be described., Every day during targeted therapy until targeted therapy discontinuation or study completion, an average of 1 year, whichever comes first|Assessment of health-related quality of life., The health-related quality of life of patients will be described using the Functional Assessment of Cancer Therapy - Melanoma (FACT-M) score. The score range is 0-172, higher scores mean a better quality of life., Baseline, then every 6 weeks during targeted therapy until targeted therapy discontinuation or study completion, an average of 1 year, whichever comes first|Assessment of the activity and the physical function, Activity and physical function at baseline will be assessed using the World Health Organization (WHO) score, Baseline, then every month during targeted therapy until targeted therapy discontinuation or study completion, an average of 1 year, whichever comes first|Assessment of Work productivity and activity impairment, Work productivity and activity impairment (WPAI) will be assessed using the Specific Health Problem (SHP) V2.0, the WPAI:SHP questionnaire, Baseline, then every 2 months during targeted therapy until targeted therapy discontinuation or study completion, an average of 1 year, whichever comes first|Assessment of the patient satisfaction toward the TavieSkin application, The patient satisfaction toward the TavieSkin application will be assessed using the System Usability Scale (SUS) score. The score range is 0-100, higher scores mean a better satisfaction., Every 2 months during targeted therapy until targeted therapy discontinuation or study completion, an average of 1 year, whichever comes first|Assessment of the patient satisfaction toward the treatment, The patient satisfaction toward the treatment will be assessed using the Treatment Satisfaction Questionnaire for Medication (TSQM-9), Every 2 months during targeted therapy until targeted therapy discontinuation or study completion, an average of 1 year, whichever comes first
+1. BACKGROUND AND RATIONALE
+
+   1.1 BACKGROUND
+
+   Melanoma: overview of disease and management options Melanoma is one of the most aggressive cancers and is responsible for the majority of skin cancer deaths (Miller, 2006; Potrony, 2015; Ryu, 2017), with the presence of metastases prognostic for poor survival. In Europe, BRAF V600-positive mutations are present in 40%-60% of cases of metastatic melanoma (Moreau, 2012; Rutkowsi, 2014; Arance Fernández, 2015; Picard, 2014; Colombino, 2013), with the V600E variant being the most common (in up to 90% of BRAF V600 mutation-positive melanomas). BRAF mutations are associated with a younger age at onset, higher number of melanocytic nevi, melanoma location in the trunk region and intermittently UV-exposed skin (Rutkowski, 2014; Colombino, 2013; Carlino, 2014; Ekedahl, 2013; Long, 2011).
+
+   Although mortality from melanoma has decreased over last decades, survival rate varies considerably based on the disease stage at diagnosis. The 5-year survival rate is above 90% for patients diagnosed localised tumours, 24 to 88% for stage III, and 10-25% for stage IV (Svedman, 2016; Schoffer, 2016; Jochems, 1990; Gershenwald, 2017). This together with a growing incidence of the disease and a substantial decline in patient health-related quality of life (HRQoL) (Hinz, 2014) as disease advances, make the management of metastatic melanoma a critical public health issue.
+
+   In Europe, the European Society for Medical Oncology (ESMO) guidelines are the most important international treatment guidelines that guide the clinical management of melanoma patients. They also form the basis for the development of local/ country-specific guidelines and treatment protocols. These guidelines have been updated recently (Michielin, 2019). New therapeutic strategies, such as immunotherapy (cytotoxic T-lymphocyte antigen 4 \[CTLA-4\] inhibitors and programmed cell death 1 \[PD-1\] inhibitors) and selective BRAF inhibitors are deemed the backbone of systemic therapy in melanoma. For BRAFV600 mutation-positive tumours, depending on patient characteristics, immunotherapies or combination of BRAF/MEK inhibitors are recommended. In second-line, selection depends on the strategy used for the first-line. BRAFis/MEKis is the main option if not used in the first-line setting. There are no specific recommendations on the use of one BRAF or MEK inhibitor over another.
+
+   Mobile health apps in cancer Complications of melanoma and its treatments are common. Many patients will experience side effects following immunotherapies or targeted therapies. These lead to morbidity and mortality as well as increased resource utilization in the community or hospital setting. Complications of melanoma and its treatments are often predictable (fever, gastrointestinal symptoms, skin reactions and drug-specific effects). Education of patients might help to increase compliance with care pathways especially if tailored to an individual's needs (Osborn, 2019). In the context of an increasingly digital healthcare system, it is therefore worth considering the role of mobile health applications (mHealth) for clinical care, patient education and safety of treatment.
+
+   Mobile health (mHealth) is actually part of the wider "eHealth" movement, which is using technology such as computers, mobile phones, mobile health apps and patient monitors for health services and information. Both mobile health and eHealth help providers get the information they need to improve health care outcomes and lower costs. Research on interventions based on mHealth applications suggests that they can be used to alter health related behaviors (McKay, 2018), such as medication adherence (Haase, 2017), but economic evidence for their usage is limited (Iribarren, 2017).
+
+   1.2 STUDY RATIONAL
+
+   In order to support the patients with metastatic melanoma in their daily-life, Pierre Fabre has developed a digital solution, called TavieSkin, which is dedicated to all BRAF-mutant unresectable or metastatic melanoma patients who are treated with "any" targeted therapies. This application is expected to be extended to other therapies including immunotherapies.
+
+   The aim of the TavieSkin app is (i) to deliver the necessary information and education support to the patient in regards with their disease and medications, through virtual nurse coaching, (ii) to keep track of the medications taken throughout the days through push notification, with the aim to improve compliance, (iii) to assist patients in identifying side effects using the virtual nurse coaching and side effects library, and (iv) to engage them towards sustainable healthy behaviors thanks to lifestyle interventions, health trackers and real time coaching.
+
+   The TavieSkin app allows for the provision of a report for the healthcare provider (HCP) summarizing clinical and lifestyle data collected in the app and generated prior to the medical visit, if needed. The objective being to optimize the time spent at the clinic by facilitating the patient follow-up.
+
+   As per the Medicines and Healthcare products Regulatory Agency (MHRA) guidance, this mobile application could not be considered as a medical device. Health mobile apps classified as medical device are defined as softwares that gather data from the person or a diagnostic device, such as diet, heartbeat, or blood glucose levels and then analyze and interpret the data to make a diagnosis, prescribe a medicine, or recommend treatment. This is in any case the objective of TavieSkin app. The treating physician or the HCP remains the only eligible person to manage the patient and its disease.
+
+   Finally, a patient survey will be incorporated into the TavieSkin app to assess the health-related quality of life (HRQoL) under treatment and the patients' satisfaction toward their medications prescribed for melanoma and toward the application. The objective of this survey is to describe the profile of the users of TavieSkin app, their quality of life and daily activity impairment under targeted therapy treatments.
+2. STUDY OBJECTIVES
+
+   2.1 PRIMARY OBJECTIVE
+
+   The primary objective of this survey is to describe the demographics and clinical characteristics of patients with unresectable or metastatic BRAF-mutated melanoma treated with targeted therapy (BRAFi/MEKi) and using the TavieSkin application.
+
+   2.2 SECONDARY OBJECTIVES
+
+   The secondary objectives of the survey include:
+   * To assess the use of TavieSkin app in patients with unresectable or metastatic BRAF-mutated melanoma treated with BRAFi/MEKi combination;
+   * To assess the treatment adherence of patients using TavieSkin app including treatment interruption or permanent discontinuation;
+   * To assess the health-related quality of life of patients using TavieSkin app (FACT-M);
+   * To assess work productivity and activity impairment over the treatment duration
+   * To assess the patient satisfaction toward the TavieSkin application;
+   * To assess the patient satisfaction toward the treatment.
+3. RESEARCH METHODS
+
+   3.1 STUDY DESIGN This prospective, longitudinal, survey will be conducted in Europe to characterize BRAF-mutant unresectable or metastatic melanoma patients using TavieSkin app designed for accompanying patients treated with targeted therapies.
+
+   To date, there are three combinations of BRAFi/MEKi available in routine practice for the treatment of BRAF-mutant unresectable or metastatic melanoma. The survey does not provide or recommend any treatment or procedure; all decisions regarding treatment are made at the sole discretion of the treating physicians in accordance with their usual practices.
+
+   Access to the TavieSkin app The patients initiating any BRAFi/MEKi combination will be invited to use the TavieSkin app by their healthcare provider (HCP) (i.e. oncologist, dermatologist, nurse...). The HCP will give the patient an activation code printed on a flyer. The flyer will provide detailed information about the application and installation procedure. The patient will be able then to install the app and to activate it using the activation code provided on the flyer.
+
+   Access to the e-survey Once the patient has installed and started to use the application, an e-survey will be proposed to the patient via the app. A detailed information letter about the data collection, data privacy and analysis will be displayed to the patient via the app along with an e-consent for data collection. The patient will be able then to provide an e-signature, if he/she accepts to take part of this survey. The survey will collect anonymized data about health status, QoL data and satisfaction. These data will be collected by the patient only. The physician will not be involved in this e-survey (including e-consent), nor in data collection. If the patient declined the data collection, thus he/she will not take part of the survey, however he/she still can have access to the TavieSkin app modules.
+
+   Only patients having given consent (e-consent) to data collection and analysis will be included. The number of patients refusing to consent to data collection will be collected along with the reason, in order to assess the representativeness of the study.
+
+   Data will be collected at baseline and at different subsequent timepoints during the treatment. Only data reported by the patients in the application will be collected and analyzed.
+
+   Data will be collected only during the BRAFi/MEKi treatment duration. The patient will discontinue the study in case of definitive withdrawal of BRAFi/MEKi treatment, or if he/she decides to withdraw the study and to stop data collection.
+
+   The target countries for patient enrollment will include Germany, Belgium, Portugal, France, Spain, Italy and Sweden with the additional possibility of including patients from other EU countries.
+
+   At least, 400 adult patients (≥18 years) will be enrolled. A descriptive interim analysis may be performed when the number of patients reaches the 200 patients.
+
+   3.2 POPULATION
+
+   3.2.1 Study population
+
+   (See section: Eligibility)
+
+   3.2.2 Participants recruitment and follow-up
+
+   As mentioned above in section 3.1, the access to the app will be provided by the HCP through a flyer and an activation code. Patients with BRAF-mutant unresectable or metastatic melanoma will be invited by its healthcare provider (i.e. oncologist, dermatologist, nurse...) to use TavieSkin app during a routine visit. The physician will communicate orally to the patients, all necessary information about the application. In addition, a written letter of information (a flyer) and the procedure to access the application will be provided to the patient at this visit. The treatment decision with regard to BRAFi/MEKi must have been made prior to this visit.
+
+   3.2.2.1 Participant recruitment
+
+   The access to the e-survey will be provided through the application for patients having read and signed the e-consent for data collection and analysis. No involvement from the HCP is required for this step. The patient will be the sole actor involved in signing the e-consent and in reporting data.
+
+   Of note, the patients will have the choice to use the TavieSkin app, without participating to the e-survey.
+
+   3.2.2.2 Participant follow-up
+
+   The patient will be managed and followed as per routine clinical practice. No additional visit or any follow-up is required for the sake of this study.
+
+   3.2.2.3 Study duration
+
+   Data will be collected after Apps installation and informed consent provided and at different subsequent timepoints during the treatment.
+
+   Data will be collected only during the BRAFi/MEKi treatment duration. The patient will discontinue the study in case of definitive withdrawal of BRAFi/MEKi treatment, or if he/she decides to withdraw the study and to stop data collection.
+
+   3.3 STUDY OUTCOMES (see section: Outcome measures)
+
+   3.4 DATA SOURCES
+
+   The study will assess only self-reported measures. All the data will be completed and collected by the patient itself through the application. No other data will be abstracted using other existing sources such as medical records or hospital discharge files.
+
+   The data collection schedule is presented in the section: Outcome measures (Time Frame).
+
+   3.5 DATA MANAGEMENT
+
+   Patients will enter manually their clinical data in the TAVIE application through an application programming interface (API). MedClinik, the service provider responsible for data managing will ensure that data are anonymized, encrypted and secured, and then transferred from the TAVIE API to two databases: an Structured Query Language (SQL) database and a no SQL database (MongoDB) located on dedicated servers, themselves located in the region where data subjects are.
+
+   These anonymous databases will be transferred every 3 months to Pierre Fabre via a secured channel for processing and analytics.
+
+   3.6 STATISTICAL CONSIDERATIONS
+
+   3.6.1 Sample size
+
+   This survey is purely descriptive. The primary objective is to describe the patient profile at inclusion.
+
+   Since there is no hypothesis to test, we calculate the sample size for the worst-case estimate being 50% with a precision/accuracy of 5%. A sample size of at least 384 patients will be able to describe the patient profile with a precision of \< 5%. This was considered adequate to meet the descriptive objectives of this study.
+
+   3.6.2 General considerations
+
+   Statistical analyses will be fully described in a written statistical analysis plan (SAP). The study endpoints will be analysed overall and by country. Analyses will be descriptive in nature, as no hypothesis will be tested. In general, missing data will not be imputed (except for dates) and the data will be analysed according to the complete case approach.
+
+   The treatment patterns of patients, baseline demographics and clinical characteristics, and reasons for treatment discontinuation will be described using summary statistics. Categorical variables will be summarized by frequencies and percentages. Continuous variables will be summarized by descriptive statistics (mean, and standard deviation, median, 25th and 75th percentiles, minimum and maximum). The number of missing observations for each variable will also be reported.
+
+   Change in health-related quality-of-life scores (i.e. (FACT-M) will be summarised at baseline and at each timepoints. The change from baseline will be assessed using a mixed model for repeated measures (MMRM). Baseline covariates will be described in the SAP.
+
+   Time to event data (i.e. time to treatment discontinuation, time QoL deterioration) will be evaluated using Kaplan-Meier survival curves. Median survival estimates will be reported along with the 25th and 75th percentiles and corresponding 95% CIs. Cox regression analysis may be performed to adjust for predefined (baseline) covariates.
+
+   If the sample size is adequate, subgroup analyses using variables at baseline might be conducted.
+
+   3.6.3 Missing data
+
+   Due to the nature of the study, missing data (i.e., data that are not reported by the patient) may be observed for some variables. In general, missing data will not be imputed (except for dates) and the data will be analysed according to the complete case approach.
+
+   3.7 QUALITY CONTROL The data are self-reported and therefore is no way to describe the extent of source data verification or data monitoring. However, the quality of data will be ensured using auto-queries, i.e. a patient who enters an invalid data or an out of range value, a pop-up or a will automatically append warning message to the invalid data.
+
+   3.8 LIMITATIONS OF THE RESEARCH METHODS
+
+   The main limitation of this study is the response bias. It occurs when individuals offer self-assessed measures of some phenomenon. There are many reasons individuals might offer biased estimates of self-assessed behavior, ranging from a misunderstanding of what a proper measurement is to social-desirability bias, where the respondent wants to 'look good' in the survey, even if the survey is anonymous.
+
+   Second limitation is the selection bias. Only patients having access to the TavieSkin App could be included in the survey. Patients with no access to mobile or tablet could not take part of this survey. The demographics and health status of patients having access to the app may differ from those who do not have access or do not want to use the TavieSkin App.
+
+   Other limitations include also the number of missing data or non-completed questionnaires. Since the survey does not involve the HCP, the only possible reminders for missing data could be handled via the application; however, reminders or notifications must be sent in a respectful manner and might be deactivated at any time by the patient.
+
+   3.9 STUDY MANAGEMENT
+
+   3.9.1 Sponsor
+
+   Pierre Fabre Médicament will serve as the Sponsor of this study. It is the responsibility of Pierre Fabre (as a data controller) to ensure proper oversight of the company MedClinik (data processor) in conducting data management and compliance with all applicable regulatory guidelines and laws.
+
+   It is the responsibility of Pierre Fabre to conduct the statistical analysis according to the observational plan and to the SAP.
+
+   3.9.2 Service Provider responsible for data management
+
+   MedClinik is the digital solution provider that develops and maintains the TavieSkin Service. As part of the service, Medclinik will collect through the TAVIE Platform the necessary data for this survey. It is the responsibility of MedClinik to securely collect and host the data according to the requested data by Pierre Fabre. MedClinik will extract and send to Pierre Fabre anonymized data for analysis. Only data collected in the patient questionnaire will be sent to Pierre Fabre.
+4. PROTECTION OF HUMAN SUBJECTS AND LOCAL REGULATORY ASPECTS
+
+   4.1 ETHICS
+
+   This study will be conducted under the guidelines of good pharmacoepidemiology practices (GPPs) issued by the International Society for Pharmacoepidemiology (ISPE), the Declaration of Helsinki and its amendments, the European Union General Data Protection Regulation (EU GDPR) and any applicable national guidelines.
+
+   4.2 INDEPENDENT ETHICS COMMITTEE OR INSTITUTIONAL REVIEW BOARD (IEC/IRB)
+
+   Consistent with local regulations and prior to enrollment of patients at a given site, the observational plan will be submitted together with its associated documents (e.g., informed consent form \[ICF\]) to the responsible IRB/IEC for its review. Before implementation of any substantial changes to the observational plan, and amendments will also be submitted to the relevant IRB/IEC in a manner consistent with local regulations. Pertinent safety information will be submitted to the relevant IECs during the course of the study in accordance with local regulations and requirements.
+
+   This study will be undertaken only after the IRB/IEC have given full approval of the final observational plan, the ICF, and the Sponsor had received a copy of this approval.
+
+   An ICF (e-consent) must be signed by the patient before his or her participation to the survey.
+
+   4.3 PRIVACY OF PERSONAL DATA
+
+   Confidentiality of patient records will be maintained at all times. All study reports will contain aggregate data only and will not identify individual patients. At no time during the study the Sponsor will receive patients identifying information.
+
+   In order to maintain patient confidentiality, each patient will be assigned a unique patient identifier upon study enrollment. This patient identifier will be used in place of the patient name for the purpose of data analysis and reporting. All parties will ensure protection of patient personal data and will not include patient names or other identifiers (i.e. initials, full date of birth, address etc.) on any study forms, reports, publications or in any other disclosures, except where required by law. In accordance with local regulations in each of the countries, patients will be informed about data handling procedures and asked for their consent. Data protection and privacy regulations will be observed in capturing, forwarding, processing, and storing patient data.
+
+   Pierre Fabre Medicament (PFM) as Sponsor of the study and data controller is responsible for the processing of personal data in accordance with the provisions of Regulation 2016/679/EU of the European Parliament and of the Council of 27 April 2016 on the protection of natural persons with regard to the processing of personal data and the free movement of such data (GDPR), the data collected being for research purposes in the field of health, the legal basis of the processing being the legitimate interest of the data controller.
+
+   Within the context of this research, we may collect and process personal data. MedClinik will comply with all regulations regarding personal data - including European General Data Protection Regulation (GDPR).
+
+   MedClinik will only collect personal data strictly needed for the research, will implement appropriate technical and organizational measures to ensure the protection of personal data against unauthorized disclosure or access, will only retain personal data for a limited and fixed period after the end of the research.
+
+   Participant's rights towards personal data are:
+   * the right of access to their personal data;
+   * the right to rectify their personal data in case of mistakes;
+   * the right of limitation to the processing;
+   * the right to object processing with their personal data;
+
+   The personal information collected will be saved in a computerized file kept by MedClinik for the survey. This information will be stored for 15years and is reserved for use by PF for the purpose of conducting the analysis.
+
+   For any enquiry regarding the process of personal data, or to exercise rights, participants can contact MedClinik by email: tavieskin@tavierx.net or the Data Protection Officer of Pierre Fabre by email: dpofr@pierre-fabre.com
+
+   This survey is run via a secure server; all information held on this server is protected from external sources.
+5. MANAGEMENT AND REPORTING OF ADVERSE EVENTS/ADVERSE REACTIONS
+
+To note, this study has no objective of analysing the safety profile of the products.
+
+The survey is based on secondary use of data collected from consumers via the application.
+
+The submission of suspected adverse reactions in the form of individual case safety reports to competent authorities is therefore not required.
+
+7 PLANS FOR DISSEMINATING AND COMMUNICATING STUDY RESULTS (IF APPLICABLE)
+
+A final study report will be prepared within 12 months from end of data collection. Pierre Fabre is responsible for any presentation and/or publication arising from this study.
+
+Any publication of the results from this study must be consistent with the Pierre Fabre's publication policy and guided by the Uniform Requirements for Manuscripts Submitted to Biomedical Journals: Writing and Editing for Biomedical Publication of the International Committee of Medical Journal Editors (ICMJE), updated April 2010.
+
+All reporting will be consistent with the STROBE (STrengthening the Reporting of OBservational studies in Epidemiology) Initiative checklist.
+
+8 REGULATORY CONSIDERATIONS
+
+8.1 CONFIDENTIALITY
+
+The aim of the study, all information, or data relating to the study or any product studied provided to the contractor and/or their collaborators during the term of this agreement and all results of the study (hereinafter collectively called the "Information") will be maintained confidential for an unlimited time period by the contractor and/or their collaborators.
+
+In addition, all Information shall not be used by the contractor for any other purpose than the one described in this Agreement.
+
+The above obligations shall, however, not apply to:
+
+* Information which at the time of disclosure to the contractor is part of the public knowledge,
+* Information, which, after disclosure, becomes part of the public knowledge through no fault of the contractor
+* Information which the contractor can establish by competent proof was in its possession prior to disclosure hereunder and was not acquired from PFM, directly or indirectly under a secrecy obligation
+* Information which is subsequently obtained lawfully from a third party without any secrecy obligation and was not acquired by such third party from PFM, directly or indirectly under a secrecy obligation.
+
+No publication or communication relating to the study or the results thereof, in written or oral form, shall be made by the contractor and/or their collaborators, without PFM's prior written consent.
+
+8.2 PROPERTY OF RESULTS
+
+The results of the Study shall be PIERRE FABRE MEDICAMENT's exclusive ownership and PIERRE FABRE MEDICAMENT, and/or any designee shall have free use of the same in France and worldwide.
+
+Such ownership shall apply to any data, patentable or non-patentable inventions, know-how and any invention resulting from the Study.
+
+8.3 ARCHIVING
+
+It is the responsibility of the sponsor to archive the survey document for at least 15 years after completion of the survey.
+
+9 REFERENCES (See section: References)

@@ -1,0 +1,40 @@
+Testing a New Immune Cell Therapy, GD2-Targeted Modified T-cells (GD2CART), in Children, Adolescents, and Young Adults With Relapsed/Refractory Osteosarcoma and Neuroblastoma, The GD2-CAR PERSIST Trial
+This phase I trial investigates the side effects and determines the best dose of an immune cell therapy called GD2CART, as well as how well it works in treating patients with osteosarcoma or neuroblastoma that has come back (relapsed) or does not respond to treatment (refractory). T cells are infection fighting blood cells that can kill tumor cells. The T cells given in this trial will come from the patient and will have a new gene put in them that makes them able to recognize GD2, a protein on the surface of tumor cells. These GD2-specific T cells may help the body's immune system identify and kill GD2 positive tumor cells.
+Recurrent Childhood Neuroblastoma|Recurrent Childhood Osteosarcoma|Recurrent Neuroblastoma|Recurrent Osteosarcoma|Refractory Childhood Neuroblastoma|Refractory Childhood Osteosarcoma|Refractory Neuroblastoma|Refractory Osteosarcoma
+PROCEDURE: Biopsy Procedure|PROCEDURE: Biospecimen Collection|PROCEDURE: Bone Marrow Aspiration|PROCEDURE: Bone Marrow Biopsy|DRUG: Cyclophosphamide|PROCEDURE: Echocardiography Test|DRUG: Fludarabine Phosphate|BIOLOGICAL: GD2-CAR-expressing Autologous T-lymphocytes|PROCEDURE: Imaging Procedure|PROCEDURE: Magnetic Resonance Imaging of the Heart|PROCEDURE: Multigated Acquisition Scan|OTHER: Questionnaire Administration
+Feasibility of producing GD2-CAR-expressing autologous T-lymphocytes (GD2CART) cells, Success will be defined by manufacturing and expansion of GD2CART to satisfy the targeted dose level and meet the requirements of the Certificate of Analysis. Specifically, dose escalation will proceed if 3 or more of the first 3 to 6 patients in a dose level are able to produce adequate cells for evaluation., Up to day 28 days after cell infusion|Incidence of adverse events (AEs), Safety of GD2CART will be by the incidence and severity of dose limiting toxicities, treatment emergent AEs, serious adverse events, laboratory abnormalities, changes in vital signs, and changes in physical examination following infusion of GD2CART cells., Up to 15 years|Maximum tolerated dose, Estimate of the maximum tolerated dose of autologous GD2CART in children and young adults with relapsed/refractory osteosarcoma and neuroblastoma following cyclophosphamide-fludarabine based lymphodepletion defined as the dose at which less than 33% of evaluable patients experience a cycle 1 dose limiting toxicity., Up to day 28 days after cell infusion|Best response to GD2CART cells, Simon's two stage design will be used to evaluate the clinical benefit of GD2CART after conditioning lymphodepletion chemotherapy in two groups of patients: children and young adults with recurrent, refractory osteosarcoma and neuroblastoma., Up to day 28 days after cell infusion
+Persistence of GD2CART cells, Persistence of GD2CART and correlation with tumor regression and sustained clinical benefit will be assessed. Persistence will be defined as the duration of time that GD2CART cells can be detected above the background rate (baseline measure) as measured by polymerase chain reaction. The persistence will be compared between the different response statuses (responders versus non-responders) using a t-test allowing for unequal variance., Up to 5 years|Capacity for rimiducid (AP1903) to reverse unacceptable toxicity related to GD2CART administration, The toxicity is defined to be reversed or resolved when the toxicity grading has resolved to grade 2 or below. The resolution of toxicity will be summarized descriptively., Up to 28 days after cell infusion|Feasibility and tolerability of a second infusion of GD2CART cells, The proportion of evaluable patients who produce adequate GD2CART produced that meet Certificate of Analysis (COA) for infusion., After a 2nd infusion of GD2CART cells
+Persistence of GD2CART cells, Associations between biomarkers and chimeric antigen receptor persistence will be assessed by regression. The exact statistical model will depend on the observed responses which might not be linearly related to biomarkers but could show logistic or other association. Relationships of biomarkers to outcomes (overall survival, progression free survival) will be assessed by Cox regression using baseline measurements as predictors. The proportional hazards assumption will be checked retrospectively., Up to 15 years|Biomarkers, Will measure levels of circulating myeloid cells including myeloid derived suppressor cells in patients treated on this trial and compare levels to those observed in NCI 14-C-0059., Up to 28 days after cell infusion|GD2 expression, Tumor and/or normal tissue will be obtained from archival sample, tissue or tumor biopsy, or any clinically indicated surgeries. Bone marrow aspirations will be conducted in all patients with neuroblastoma. In patients with osteosarcoma, bone marrow aspirations will be conducted only if clinically indicated, i.e. known bone marrow involvement., Up to 28 days after cell infusion
+PRIMARY OBJECTIVES:
+
+I. Determine the feasibility of producing T cells modified to express a GD2-specific chimeric antigen receptor (GD2-CAR-expressing autologous T-lymphocytes \[GD2CART\]) meeting established release criteria using a dasatinib containing culture platform and retroviral vector in the Miltenyi CliniMACS Prodigy (Registered Trademark) system.
+
+II. Determine the safety and maximum tolerated dose (MTD) or recommended phase 2 dose (RP2D) via administration of escalating doses of autologous GD2CART in children and young adults with relapsed/refractory osteosarcoma and neuroblastoma following cyclophosphamide-fludarabine based lymphodepletion.
+
+III. Determine clinical activity in a preliminary fashion of autologous GD2CART in children and young adults with relapsed, refractory osteosarcoma and neuroblastoma.
+
+SECONDARY OBJECTIVES:
+
+I. Measure persistence of adoptively transferred GD2CART and correlate this with antitumor effects.
+
+II. If unacceptable toxicity occurs that is possibly, probably, or definitely related to GD2CART, assess the capacity for rimiducid (AP1903), a dimerizing agent, to mediate clearance of the genetically engineered cells and resolve toxicity.
+
+III. Describe the feasibility and tolerability of a second infusion of GD2CART in select patients.
+
+EXPLORATORY OBJECTIVES:
+
+I. Compare persistence of GD2CART administered in this trial to that observed in a previous trial using GD2.OX40.28.z.iCasp9 CAR T cells (NCI 14-C-0059) and assess features of the T cell product and the expanded T cells in vivo that correlate with persistence.
+
+II. Conduct exploratory studies measuring levels of circulating myeloid cells including myeloid derived suppressor cells (MDSCs) in patients treated on this trial and compare levels to those observed in NCI 14-C-0059.
+
+III. Explore GD2 expression in patients with neuroblastoma and osteosarcoma, including patients who have previously received anti-GD2 antibodies, from tissue and/or bone marrow samples at study entry and if available, after cell infusion.
+
+OUTLINE: This is a dose-escalation study of GD2CART followed by a dose-expansion study.
+
+LYMPHODEPLETION CHEMOTHERAPY: Patients receive fludarabine phosphate intravenously (IV) daily on days -5 to -2 and cyclophosphamide IV daily on days -4 to -2.
+
+GD2CART: Patients receive GD2CART cells IV on day 0.
+
+Patients also undergo echocardiogram (ECHO), multigated acquisition scan (MUGA) or cardiac magnetic resonance imaging (MRI) scan during screening, blood sample collection throughout the trial, and tumor biopsies and bone marrow aspiration and biopsy as clinically indicated. In addition, patients undergo standard imaging scans throughout the trial.
+
+After completion of study treatment, patients are followed up three times weekly until day 14, twice weekly until day 28, at months 2, 3, 6, 9, and 12, every 3 months until the end of the second year, then annually for up to 10 years.

@@ -1,0 +1,38 @@
+Testing the Combination of the Anti-cancer Drugs XL184 (Cabozantinib) and Nivolumab in Patients With Advanced Cancer and HIV
+This phase I trial investigates the side effects of cabozantinib and nivolumab in treating patients with cancer that may have spread from where it first started to nearby tissue, lymph nodes, or distant parts of the body (advanced) and who are undergoing treatment for human immunodeficiency virus (HIV). Cabozantinib may stop the growth of tumor cells by blocking some of the enzymes needed for cell growth. Immunotherapy with monoclonal antibodies, such as nivolumab, may help the body's immune system attack the cancer, and may interfere with the ability of tumor cells to grow and spread. Giving cabozantinib and nivolumab may shrink or stabilize cancer in patients undergoing treatment for HIV.
+Advanced Differentiated Thyroid Gland Carcinoma|Advanced Head and Neck Carcinoma|Advanced Hepatocellular Carcinoma|Advanced Kaposi Sarcoma|Advanced Lung Non-Small Cell Carcinoma|Advanced Lung Small Cell Carcinoma|Advanced Malignant Solid Neoplasm|Advanced Melanoma|Advanced Ovarian Carcinoma|Advanced Prostate Carcinoma|Advanced Renal Cell Carcinoma|Advanced Thyroid Gland Medullary Carcinoma|Advanced Triple-Negative Breast Carcinoma|Advanced Urothelial Carcinoma|Anatomic Stage III Breast Cancer AJCC v8|Anatomic Stage IV Breast Cancer AJCC v8|Castration-Resistant Prostate Carcinoma|Clinical Stage III Cutaneous Melanoma AJCC v8|Clinical Stage IV Cutaneous Melanoma AJCC v8|HIV Infection|Metastatic Differentiated Thyroid Gland Carcinoma|Metastatic Head and Neck Carcinoma|Metastatic Hepatocellular Carcinoma|Metastatic Kaposi Sarcoma|Metastatic Lung Non-Small Cell Carcinoma|Metastatic Lung Small Cell Carcinoma|Metastatic Malignant Solid Neoplasm|Metastatic Melanoma|Metastatic Ovarian Carcinoma|Metastatic Prostate Carcinoma|Metastatic Renal Cell Carcinoma|Metastatic Thyroid Gland Medullary Carcinoma|Metastatic Triple-Negative Breast Carcinoma|Metastatic Urothelial Carcinoma|Recurrent Differentiated Thyroid Gland Carcinoma|Recurrent Head and Neck Carcinoma|Recurrent Hepatocellular Carcinoma|Recurrent Kaposi Sarcoma|Recurrent Lung Non-Small Cell Carcinoma|Recurrent Lung Small Cell Carcinoma|Recurrent Malignant Solid Neoplasm|Recurrent Melanoma|Recurrent Ovarian Carcinoma|Recurrent Prostate Carcinoma|Recurrent Renal Cell Carcinoma|Recurrent Thyroid Gland Medullary Carcinoma|Recurrent Triple-Negative Breast Carcinoma|Recurrent Urothelial Carcinoma|Refractory Differentiated Thyroid Gland Carcinoma|Stage III Differentiated Thyroid Gland Carcinoma AJCC v8|Stage III Hepatocellular Carcinoma AJCC v8|Stage III Lung Cancer AJCC v8|Stage III Ovarian Cancer AJCC v8|Stage III Prostate Cancer AJCC v8|Stage III Renal Cell Cancer AJCC v8|Stage III Thyroid Gland Medullary Carcinoma AJCC v8|Stage IV Differentiated Thyroid Gland Carcinoma AJCC v8|Stage IV Hepatocellular Carcinoma AJCC v8|Stage IV Lung Cancer AJCC v8|Stage IV Ovarian Cancer AJCC v8|Stage IV Prostate Cancer AJCC v8|Stage IV Renal Cell Cancer AJCC v8|Stage IV Thyroid Gland Medullary Carcinoma AJCC v8
+PROCEDURE: Biospecimen Collection|DRUG: Cabozantinib S-malate|PROCEDURE: Computed Tomography|PROCEDURE: Magnetic Resonance Imaging|BIOLOGICAL: Nivolumab
+Incidence of dose limiting toxicities (DLTs), DLTs will be defined during cycle 1 of therapy., 28 days
+Immune status, Will assess immune status (CD4 and CD8 cell counts). Changes in immune status at each time point from baseline will be analyzed using paired non-parametric Wilcoxon sign-rank tests or paired t-tests in exploratory analyses., Up to 16 weeks post treatment|Human immunodeficiency virus (HIV) viral loads, Will assess HIV viral loads. Changes in viral loads at each time point from baseline will be analyzed using paired nonparametric Wilcoxon sign-rank tests or paired t-tests in exploratory analyses., Up to 16 weeks post treatment
+Change in serum markers of immune activation, Change in serum markers of immune activation- immune cell subsets and cytokine levels at each time point from baseline will be analyzed using paired nonparametric Wilcoxon sign-rank tests or paired t-tests in exploratory analyses. Will correlate markers of immune activation and expansion of immune cell subsets and cytokines with clinical outcome., Baseline up to 16 weeks post treatment|Change in immune checkpoint markers, Changes in immune checkpoint (PD-L1, B7x, B7-H3, HHLA2) markers at each time point from baseline will be analyzed using paired nonparametric Wilcoxon sign-rank tests or paired t-tests in exploratory analyses., Baseline up to 16 weeks post treatment|Change in angiogenesis markers, Changes in angiogenesis markers at each time point from baseline will be analyzed using paired nonparametric Wilcoxon sign-rank tests or paired t-tests in exploratory analyses., Baseline up to 16 weeks post treatment|Change in infiltrating immune cell markers, Changes in infiltrating immune cell markers at each time point from baseline will be analyzed using paired nonparametric Wilcoxon sign-rank tests or paired t-tests in exploratory analyses., Baseline up to 16 weeks post treatment
+PRIMARY OBJECTIVES:
+
+I. To determine the safety of combined nivolumab and cabozantinib s-malate (XL184 \[cabozantinib\]) in human immunodeficiency virus (HIV) patients with advanced solid tumors.
+
+II. To determine the feasibility to deliver the combined nivolumab and XL184 (cabozantinib) for a minimum of 4 cycles in at least 75% of the subjects in the expanded cohort with Kaposi sarcoma (KS) or to achieve a confirmed objective response.
+
+SECONDARY OBJECTIVES:
+
+I. To observe and record anti-tumor activity in subjects with Kaposi sarcoma (KS).
+
+II. To assess the effect of treatment on participants' immune status (CD4 and CD8 cell counts) and HIV viral loads.
+
+III. To preliminarily evaluate the objective response rate (ORR) to the combination treatment in subjects with KS.
+
+EXPLORATORY OBJECTIVES:
+
+I. To assess duration of response (DOR), progression-free survival (PFS), and overall survival (OS) in subjects with KS.
+
+II. To assess the PD-L1 immunohistochemistry (IHC) status in tumors and tumor microenvironment and its association with clinical outcome.
+
+III. To assess the expression characteristics and cellular distribution of immune checkpoints (PD-L1, B7x, HHLA2, B7H3), infiltrating immune cells (CD4 T cells, CD8 T cells, regulatory T-cells \[Treg\], myeloid-derived suppressor cell \[MDSC\]), and other tumor microenvironment biomarkers (VEGF, VEGFR, MET, and AXL) in the tissue by multiplex quantitative immunofluorescence (MQIF).
+
+IV. To correlate markers of immune activation and expansion of immune cell subsets and cytokines with clinical outcomes.
+
+V. To assess the treatment effects on latent HIV reservoir. VI. To investigate the dynamic changes of immune checkpoints, angiogenesis markers, and infiltrating immune cells among subjects with available pre- and post-treatment biopsy samples (including subjects with Kaposi sarcoma \[KS\]).
+
+OUTLINE:
+
+Patients receive cabozantinib s-malate orally (PO) once daily (QD) on days 1-28 of each cycle and nivolumab intravenously (IV) over 30 minutes on day 1 of each cycle. Cycles repeat every 28 days for up to 1 year or 1 year after a partial response is achieved, or 6 months after a complete response is achieved in the absence of disease progression or unacceptable toxicity. Patients also undergo a computed tomography (CT) scan and/or magnetic resonance imaging (MRI) as well as blood sample collection throughout the trial.
+
+After completion of study treatment, patients are followed up for 16 weeks.

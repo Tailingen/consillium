@@ -1,0 +1,29 @@
+Testing the Addition of Radiotherapy to the Usual Treatment (Chemotherapy) for Patients With Esophageal and Gastric Cancer That Has Spread to a Limited Number of Other Places in the Body
+This phase III trial studies how well the addition of radiotherapy to the usual treatment (chemotherapy) works compared to the usual treatment alone in treating patients with esophageal and gastric cancer that has spread to a limited number of other places in the body (oligometastatic disease). Radiotherapy uses high energy x-rays, gamma rays, or protons to kill tumor cells and shrink tumors. Drugs used in usual chemotherapy, such as leucovorin, 5-fluorouracil, oxaliplatin, and capecitabine, work in different ways to stop the growth of tumor cells, either by killing the cells, by stopping them from dividing, or by stopping them from spreading. Adding radiotherapy to the usual chemotherapy may work better compared to the usual chemotherapy alone in treating patients with esophageal and gastric cancer.
+Clinical Stage IV Esophageal Adenocarcinoma AJCC v8|Clinical Stage IV Gastric Cancer AJCC v8|Clinical Stage IVA Esophageal Adenocarcinoma AJCC v8|Clinical Stage IVA Gastric Cancer AJCC v8|Clinical Stage IVB Esophageal Adenocarcinoma AJCC v8|Clinical Stage IVB Gastric Cancer AJCC v8|Metastatic Esophageal Adenocarcinoma|Metastatic Gastric Adenocarcinoma|Oligometastatic Esophageal Adenocarcinoma|Oligometastatic Gastric Adenocarcinoma|Pathologic Stage IV Esophageal Adenocarcinoma AJCC v8|Pathologic Stage IV Gastric Cancer AJCC v8|Pathologic Stage IVA Esophageal Adenocarcinoma AJCC v8|Pathologic Stage IVB Esophageal Adenocarcinoma AJCC v8
+DRUG: Capecitabine|DRUG: Fluorouracil|DRUG: Leucovorin|DRUG: Leucovorin Calcium|DRUG: Oxaliplatin|RADIATION: Radiation Therapy
+Overall survival, From the time of randomization, assessed up to 5 years post treatment
+Incidence of adverse events, Toxicity will be evaluated in all treated subjects. All toxicity grades and all reportable adverse events will be graded using the National Cancer Institute (NCI) Common Terminology Criteria for Adverse Events (CTCAE) version 5.0., Up to 5 years post treatment|Progression-free survival, From the time of randomization, assessed up to 5 years post treatment
+PRIMARY OBJECTIVE:
+
+I. To establish superiority of consolidative radiation therapy over continuation of systemic therapy alone in patients with oligometastatic esophageal and gastric adenocarcinoma (EGA) that does not progress on first-line therapy.
+
+OUTLINE:
+
+STEP 1 (INDUCTION PHASE): Patients are assigned to 1 of 2 arms.
+
+ARM A: Patients receive oxaliplatin intravenously (IV) over 1.5 hours, leucovorin IV over 1.5 hours, and 5-fluorouracil IV over 46-48 hours on days 1 and 15. Treatment repeats every 28 days for up to 4 cycles in the absence of disease progression or unacceptable toxicity.
+
+ARM B: Patients receive oxaliplatin IV over 2 hours on day 1 and capecitabine orally (PO) twice daily (BID) on days 1-14. Treatment repeats every 21 days for up to 6 cycles in the absence of disease progression or unacceptable toxicity.
+
+STEP 2: Patients are randomized to 1 of 4 arms.
+
+ARM C: One week post induction of patients in ARM A, patients undergo radiation therapy for up to 15 days. Within 2-4 weeks post radiation therapy, patients receive oxaliplatin, leucovorin, and 5-fluorouracil as in Arm A for 2 years in the absence of disease progression or unacceptable toxicity.
+
+ARM D: Post induction of patients in ARM A, patients continue oxaliplatin, leucovorin, and 5-fluorouracil as in Arm A for 2 years in the absence of disease progression or unacceptable toxicity.
+
+ARM E: One week post induction of patients in ARM B, patients undergo radiation therapy for up to 15 days. Within 2-4 weeks post radiation therapy, patients receive oxaliplatin and capecitabine as in Arm B for 2 years in the absence of disease progression or unacceptable toxicity.
+
+ARM F: Post induction of patients in ARM B, patients continue oxaliplatin and capecitabine as in Arm B for 2 years in the absence of disease progression or unacceptable toxicity.
+
+After completion of study treatment, patients are followed up periodically for up to 5 years from study entry. Patients experiencing disease progression are followed up every 3 months in years 1-2, and then every 6 months for up to 5 years from study entry.

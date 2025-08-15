@@ -1,0 +1,71 @@
+Clinical Validation Study of an AI-based CAD System for Early Non-Invasive Detection of Cutaneous Melanoma
+The goal of this Cross-sectional analytical observational study of clinical case series is to validate a Computer-aided diagnosis software developed by AI Labs Group for the identification of cutaneous melanoma in images of lesions taken with a dermatoscopic camera. This study will be carried out in patients with skin lesions with suspected malignancy seen at the Dermatology Department of the Cruces University Hospital and Basurto University Hospital. The main questions it aims to answer are:
+
+* If the AI algorithm developed by AI Labs group is a valid tool to identify cutaneous melanoma in dermoscopic images with high reliability.
+* Comparing the device\&#39;s performance with dermatologists, with primary care physicians\&#39; assessment to be considered in later phases.
+* Assessing the utility and feasibility of the device in adverse environments with technical limitations.
+
+In this way, patients with skin lesions with suspected malignancy seen at the Dermatology Department of the Cruces and Basurto University Hospitals will be recruited. Patients in this study will not receive any specific treatment as part of the research protocol. In addition, they will continue their regular prescribed medications and treatments as directed by their primary healthcare providers. This study does not require doing a follow-up of the subjects. Every patient only gets their skin lesions photographed at the time of visit.
+Melanoma|Melanoma, Skin
+Number of images per subject, Number of images that every patient upload to the web app with tha AI algorithm, The moment of enrollment|Diagnosis, Diagnosis made by the AI algorithm, Moment of enrollment|Quality of the image, Quality of the uploaded image by patient. A bad quality will not be accepted for the study and the patient will be asked to upload an image with a better quality, The moment of enrollment|Melanoma detection, Sensitivity of the algorithm to detect the presence of melanoma or not, The moment of enrollment
+Age and sex, Age and sex of patients, The moment of enrollment
+Introduction Cutaneous melanoma (CM), a type of skin cancer, has seen a significant rise in incidence and mortality. It\&#39;s particularly aggressive and can metastasize rapidly, making it resistant to chemotherapy and radiotherapy. However, early detection through simple surgical excision is highly treatable. Differentiating between benign and malignant pigmented lesions, especially during visual examination, is challenging.
+
+Due to low public awareness and limited access to dermatologists, melanoma often gets diagnosed at a later stage. To address this, there\&#39;s growing interest in computer-aided diagnostics (CAD) using Artificial intelligence (AI) for early melanoma detection. AI technologies have shown competence comparable to dermatologists in classifying lesions from photographs. Machine vision and AI present a significant opportunity for improving diagnosis.
+
+Preventive activities and early diagnosis campaigns have improved patient survival, pointing at the fact that AI-based devices to assess skin lesion malignancy and distinguish between micro melanomas and other skin lesions like nevus and lentigines may further increase patient survival. This study aims to clinically validate the detection of cutaneous melanoma using computer vision and machine learning applications.
+
+Objectives Hypothesis A CAD system powered by with machine vision allows early and non-invasive diagnosis of cutaneous melanoma in-vivo.
+
+Primary objective
+
+To validate that the artificial intelligence algorithm developed by AI Labs Group S.L. for the identification of cutaneous melanoma in images of lesions taken with a dermatoscopic camera achieves the following values:
+
+* Area Under the Curve (AUC) greater than 0.8
+* Sensitivity of 80% or higher
+* Specificity of 70% or higher
+
+Secondary objective
+
+To compare the performance of the artificial intelligence algorithm developed by the manufacturer with the performance of healthcare professionals of different specializations:
+
+Dermatologists Primary care physicians Validate the usefulness and feasibility of the artificial intelligence algorithm developed by the manufacturer in adverse environments with severe technical limitations, such as lack of instrumentation or lack of internet connection.
+
+PRIMARY CARE PHYSICIANS The study does not compare the performance of the device against Primary care physicians; it only focuses on dermatologists. However, it is widely known that dermatologists have a significantly higher diagnostic success rate in the detection of melanoma.
+
+Population Patients with skin lesions of suspected malignancy seen at the Dermatology Department of the Cruces and Basurto University Hospitals.
+
+Design and Methods Design This is an analytical observational case series study for the performance of a diagnostic test study. Measurements are performed in a single case, so it is a cross-sectional study.
+
+Number of Subjects The initial number of subjects for the study was 40. However, due to the need for a balanced dataset (i.e., same number of melanoma and non-melanoma images), we considered it necessary to collect cases of nevus and/or other types of skin lesions if necessary. For this reason, the proposed number of subjects was increased to approximately 200 people, of which at least 40 present cutaneous melanoma.
+
+At the time of this report, a total of 96 subjects have been included in the study, 70 from Basurto University Hospital and 26 from Cruces University Hospital.
+
+Initiation Date The date of inclusion of the first subject was September 17th, 2020.
+
+Completion Date The last subject of the initial sample of 40 participants was included on March 24, 2021.
+
+The readjusted target sample size (200 participants) has not been reached yet, with 96 subjects included at the time of the report.
+
+Duration This study is estimated to have a recruitment period of 10 months for the inclusion of the first 40 patients. The recruitment period is extended by 12 months for the inclusion of patients up to a total of 200, with a minimum of 40 melanomas.
+
+The total duration of the study is estimated at 36 months, including the time required after recruitment of the last subject for closing and editing the database, data analysis and preparation of the final study report.
+
+Methods
+
+All the skin lesions are photographed following these technical indications:
+
+Uncompressed image format, such as PNG, HEIC or TIFF. Taken with the DermLite Foto X dermatoscope of the 3Gen Inc.
+
+Taken from a Smartphone with the following characteristics:
+
+With a camera with a minimum resolution of not less than 13 megapixels.
+
+Taken with one of the following models:
+
+* Google Pixel 3 and Google Pixel 3 XL.
+* Samsung Galaxy Note 10, Samsung Galaxy S10, Samsung Galaxy S10E
+* iPhone X and below
+* Disabling all image post-processing, such as HDR, portrait mode, color filters or digital zoom.
+
+On a monthly basis, the research team collects the images and verifies their correctness. If any image is not of sufficient quality, the investigator repeats the photograph. The research team also collects diagnostic data from the expert dermatologists.

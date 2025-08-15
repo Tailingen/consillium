@@ -1,0 +1,37 @@
+Larotrectinib for the Treatment of NTRK Amplification Positive, Locally Advanced or Metastatic Solid Tumors
+This phase II trial studies the effect of larotrectinib in treating patients with NTRK gene amplification positive solid tumors that have spread to nearby tissues or lymph nodes (locally advanced) or other places in the body (metastatic). Larotrectinib may stop the growth of tumor cells by blocking some of the enzymes needed for cell growth.
+Locally Advanced Malignant Solid Neoplasm|Metastatic Malignant Solid Neoplasm
+DRUG: Larotrectinib Sulfate
+Overall response, Will be scored by Response Evaluation Criteria in Solid Tumors (RECIST) version 1.1., Up to 2 years post-treatment
+Best overall response of confirmed complete response or partial response, Will be determined using RECIST version 1.1 or Response Assessment in Neuro-Oncology criteria, as appropriate to tumor type. A bias-correcting estimate of the best overall response rate and its one-sided 90% confidence interval will be calculated using an exact inference method that appropriately accounts for Bayesian optimal phase II design., Up to 2 years post-treatment|Duration of response, Will be calculated for subjects who achieve confirmed complete response or partial response, and Kaplan-Meier estimates, mean and median duration, and two-sided 95% confidence intervals will be generated., From the date complete response or partial response is first noted (whichever response is recorded first), to the date that recurrence or progressive disease is first documented or to date of death, assessed up to 2 years|Growth modulation index, Will be defined as the ratio of time to progression (TTP) with nth line of therapy (TTPn) to the most recent prior line of therapy and summarized with mean, median, standard error, and two-sided 95% confidence interval., Up to 2 years post-treatment|Progression-free survival, Kaplan-Meier estimates, mean and median duration, and two-sided 95% confidence intervals will be generated. In patients who have received prior therapy, corresponding Kaplan-Meier plots, mean and median duration with 95% confidence intervals will be used to compare the duration of progression-free survival following initiation of larotrectinib to that following the line of therapy immediately preceding larotrectinib., From initiation of larotrectinib to disease progression or death due to any cause, whichever occurs first, assessed up to 2 years|Overall survival, Kaplan-Meier estimates, mean and median duration, and two-sided 95% confidence intervals will be generated., From initiation of treatment to death from any cause, assessed up to 2 years|Clinical benefit rate, Will be defined as the proportion of subjects with best overall response of complete response, partial response, or stable disease lasting 16 or more weeks following initiation of treatment and summarized in percentages with two-sided 95% confidence intervals., Up to 2 years post-treatment|Incidence of adverse events, Safety will be assessed by clinical review of all relevant parameters including adverse events, serious adverse events, laboratory values, vital signs, and electrocardiogram results. Overall safety profiles will be provided along with tumor-specific profiles. Treatment-emergent adverse events, defined as adverse events that start on or after the first administration of study drug, will be summarized based on the number and percentage of subjects experiencing the event, as defined by Medical Dictionary for Regulatory Activities system organ class and preferred term. In the event a subject experiences repeat episodes of the same adverse event, then the event with the highest severity grade and strongest causal relationship to study drug will be used for purposes of incidence tabulations., Up to 4 weeks (after the final dose of the last cycle of treatment (between 21 and 35 days)|Change in clinical safety laboratory values and vital signs, Waterfall plots will be used to depict graphically for individual subjects the maximum percentage decrease from baseline in the sum of the longest diameters of target lesions. Similarly, spider and swimmer plots will be used to display the change in tumor burden over time for individual subjects and the occurrence of clinical outcomes of interest (e.g., tumor response, disease progression, treatment discontinuation, death)., Baseline up to 2 years post-treatment
+PRIMARY OBJECTIVE:
+
+I. To determine overall response rate (ORR) to larotrectinib sulfate (larotrectinib) in patients with advanced solid tumors harboring NTRK amplification and pan-TRK expression by immunohistochemistry (IHC), calculated as the proportion of subjects with confirmed complete (CR) or partial response (PR) as best response and as assessed by Response Evaluation Criteria in Solid Tumors (RECIST) version (v) 1.1 and Response Assessment in Neuro-Oncology (RANO) criteria in primary central nervous system (CNS) tumor.
+
+SECONDARY OBJECTIVES:
+
+I. To evaluate the duration of response (DOR) in subjects with CR or PR as best response.
+
+II. To estimate the proportion of subjects with any tumor regression as best response.
+
+III. To evaluate the growth modulation index (GMI) following initiation of larotrectinib.
+
+IV. To evaluate overall (OS) and progression-free survival (PFS) following initiation of larotrectinib.
+
+V. To evaluate the clinical benefit rate (CBR) based on the proportion of subjects with best response of CR, PR, or stable disease lasting \>= 16 weeks following initiation of larotrectinib safety.
+
+VI. To assess the safety profile and tolerability of larotrectinib.
+
+EXPLORATORY OBJECTIVES:
+
+I. To characterize NTRK1, NTRK2, and NTRK3 amplification by next-generation sequencing of tumor biopsies.
+
+II. To characterize TRKA, TRKB, and TRKC signaling in fresh pre-treatment tumor biopsies, with the aim of elucidating TRK biology and modifiers of response to larotrectinib.
+
+III. To characterize concurrently activated oncogenic pathways in fresh pre-treatment tumor biopsies, with the aim of elucidating TRK biology and modifiers of response to larotrectinib.
+
+OUTLINE:
+
+Patients receive larotrectinib sulfate orally (PO) twice daily (BID) on days 1-28. Cycles repeat every 28 days in the absence of unacceptable toxicity. Patients who experience disease progression and are deriving clinical benefit from larotrectinib may continue treatment per physician discretion.
+
+After completion of study treatment, patients are followed up at 4 weeks, and then every 3 months for 2 years.

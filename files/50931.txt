@@ -1,0 +1,21 @@
+MammoScreen Breast Cancer Risk Assessment and Decision Aid for Breast Cancer Screening and Referrals
+This study collects information to implement MammoScreen for Breast Cancer Screening and Referrals. MammoScreen is a risk assessment questionnaire that identifies individuals at average and increased risk for breast cancer and guides their screening decisions.
+Breast Carcinoma
+OTHER: Electronic Health Record Review|OTHER: Interview|OTHER: Media Intervention|OTHER: Survey Administration|OTHER: Training and Education
+Uptake of MammoScreen, Defined as the proportion of women who enroll and use MammoScreen. Proportions of invitations for newly eligible women and uptake of MammoScreen during the maintenance period, overall and by clinical team, will be characterized along with 95% exact confidence intervals., Up to 5 years|Number of women with above-average risk for breast cancer identified by MammoScreen integrated with the electronic health record, Up to 5 years
+Rates of mammography screening referral, Up to 5 years|Screening completed, The proportions of patients who open, and complete MammoScreen and 95% confidence intervals will be calculated. Demographic and clinical characteristics of patients who complete MammoScreen versus those who do not will be compared using a two-sample t-test or chi-square test as appropriate. Variation in completing MammoScreen by patient (e.g., age) and provider characteristics (e.g., panel size) will be explored., Up to 5 years|Mammography results, Will be stratified by risk category. Will be analyzed similarly using proportions and 95% confidence intervals, and a regression model if allowed by data., Up to 5 years|Number of above average risk MammoScreen users who received a genetic counseling referral, Will be analyzed similarly using proportions and 95% confidence intervals, and a regression model if allowed by data., Up to 5 years|Number of above average risk MammoScreen users who completed a genetic counseling visit, Up to 5 years|Number of above average risk MammoScreen users who had a genetic test done, Up to 5 years
+PRIMARY OBJECTIVES:
+
+I. Uptake of MammoScreen (the proportion of women who enroll and use MammoScreen, also referred to as Reach.
+
+II. Identification of women with above-average risk for breast cancer by MammoScreen integrated with the electronic health record (EHR).
+
+SECONDARY OUTCOMES:
+
+I. Rates of mammography screening referral. II. Screening completed and mammography results stratified by risk category. III. Among those who meet criteria, genetic counseling referral, visit completed and genetic test done.
+
+OUTLINE:
+
+CLINICAL STAFF: During development some clinical team members will participate in usability testing (up to 30 minutes) of the electronic health record interface with MammoScreen. Some participants will undergo training sessions of about 20 minutes, then participate in interviews lasting up to 30 minutes at baseline prior to MammoScreen launch. Clinical staff also participate in interviews up to 30 minutes after MammoScreen launch during years 2-4. Participants complete surveys during the maintenance phase about six months after the last reminders are sent.
+
+PATIENTS: Patients (enrolled from OHSU IMC) participate in interviews lasting up to 1 hour. Patients medical records are reviewed. Patients will be invited via MyChart to use the MammoScreen. Reminders will be sent via MyChart to non-respondents at 2 and 4 weeks. Patients will use MammoScreen one time right after enrollment. Some patients may also participate in interviews up to 1 hour each during years 3-5.

@@ -1,0 +1,10 @@
+A Phase 1/2 Study of BA3071 in Patients With Solid Tumors
+The objective of this study is to assess safety and efficacy of BA3071 in solid tumors
+NSCLC|Melanoma
+BIOLOGICAL: BA3071|BIOLOGICAL: Nivolumab|BIOLOGICAL: Pembrolizumab|DRUG: Pemetrexed (Alimta)
+Assess dose limiting toxicity as defined in the protocol, Phase 1: Safety Profile, Up to 24 months|Assess maximum tolerated dose as defined in the protocol, Phase 1: Safety Profile, Up to 24 months|Frequency and severity of AEs and/or SAEs, Phase 1 and 2: Safety Profile, Up to 24 months|Confirmed overall response rate (ORR) per RECIST v1.1, Phase 2: Efficacy, Up to 24 months
+Phase 1: Pharmacokinetics, Plasma concentrations of ADC, Up to 24 months|Phase 1: Pharmacokinetics, Plasma concentrations of total antibody, Up to 24 months|Phase 1: Pharmacokinetics, Plasma concentrations of MMAE, Up to 24 months|Peak Plasma Concentration (Cmax), Phase 1: Pharmacokinetics, Up to 24 months|Area under the plasma concentration versus time curve (AUC), Phase 1: Pharmacokinetics, Up to 24 months|Confirmed best overall response (BOR), Phase 1 and 2: Efficacy, Up to 24 months|Confirmed overall response rate (ORR), Phase 2: Efficacy, Up to 24 months|Disease control rate (DCR), Phase 1 and 2: Efficacy, Up to 24 months|Time to response (TTR), Phase 1 and 2: Efficacy, Up to 24 months|Overall survival (OS), Phase 1 and 2: Efficacy, Up to 24 months|Percent change from baseline in target lesion sum of diameters., Phase 1 and 2: Efficacy, Up to 24 months|Duration of response (DOR), Phase 1 and 2: Efficacy, Up to 24 months|Progression-free survival (PFS), Phase 1 and 2: Efficacy, Up to 24 months
+This is a multi-center, open-label study designed to evaluate the safety, tolerability, PK, immunogenicity, and antitumor activity of BA3071. Phase 2 is open and currently recruiting patients with:
+
+1. Melanoma - 1L
+2. nonsquamous or recurrent NSCLC (Type IIB, IIIA, IV) with single or any combination of the following mutations: KRAS mutation STK11 mutation KEAP1 mutation PD-L1 tumor proportion score (TPS) \<1%

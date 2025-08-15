@@ -1,0 +1,17 @@
+Treatment Resistance Related With Gene Expression Profile of Diffuse Large B-cell Lymphoma
+The investigators perform a retrospective microarray gene expression profiling study of FFPE from a cohort of DLBCL patients with whole genome cDNA mediated Annealing Selection and Ligation (WG-DASL) assay. The investigators also study the pattern of microRNA from patients with diffuse large B-cell lymphoma. The results of gene expression profiles and microRNA is correlated with clinical outcomes of diffuse large B-cell lymphoma.
+Diffuse Large B-cell Lymphoma
+Number of patients who relapse or progress after 1st line chemotherapy, two years
+Number and type of genes and microRNA which are significantly related with relapse or progression (P < 0.05), two years
+1. Whole genome cDNA mediated Annealing Selection and Ligation (WG-DASL) assay
+
+   * Diffuse large B-cell lymphoma patients
+   * Paraffin-embedded tissue
+   * End points: Progression-free survival, overall survival
+   * Statistics: Leave one-out method
+2. Nano string assay for microRNA
+
+   * Diffuse large B-cell lymphoma patients
+   * Paraffin-embedded tissue
+   * End points: Progression-free survival, overall survival
+   * Statistics: Leave one-out method

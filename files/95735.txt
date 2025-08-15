@@ -1,0 +1,16 @@
+Panc CA Risk Model & Biomarker Testing In High-Risk Cohort
+The purpose of this study is to test a double screening strategy for pancreatic cancer, based on a model developed using patient medical records. Investigators would also like to test whether adding specific blood tests, can further help identify people who have a higher risk of pancreatic cancer than the general population, and would benefit from imaging in order to detect cancer early.
+Pancreatic Adenocarcinoma
+DIAGNOSTIC_TEST: Blood Specimen
+Incident PDAC during the 3-year study observation period, The diagnosis of PDAC will be determined by ICD code (ICD10 codes C25.X, excluding C25.4), tumor registry records or pathology reports, 3 Years
+Timing of incident PDAC occurrence, time from index date to diagnosis, 3 Years|Tumor stage at PDAC diagnosis, stage at diagnosis per tumor registry/pathology report, 3 Years
+This research aims to identify people who have a higher risk of pancreatic cancer than the general population, by testing a double-screening strategy for pancreatic cancer. The purpose is to allow early detection of cancer, which potentially leads to cure.
+
+The double-screening will include a computer-based model developed using clinical data from medical records, and three different blood tests for early detection of pancreatic cancer.
+
+Participation in this study involves having medical records followed up for up to three years, and a single donation of blood specimens.
+
+- This is a Combined Retrospective and Prospective Review:
+
+* The first part of the study, involves collection of retrospective data from Electronic Health Record database (for the 3 collaborating HCOs) in order to deploy our EHR model, so that a high-risk group for pancreatic cancer can be identified. All individuals stratified into low, intermediate or high risk groups by the model, will be prospectively, electronically followed to assess outcome.
+* The second stage is prospective, and involves requesting biological specimen donations from participants identified as high-risk, for biomarker testing. The prospective "observation period" is up to 3 years (depending on each subject's index date at retrospective recruitment and outcome). Biological specimens will be collected during the prospective "observation period,"

@@ -1,0 +1,40 @@
+Adding Dasatinib Or Venetoclax To Improve Responses In Children With Newly Diagnosed T-Cell Acute Lymphoblastic Leukemia (ALL) Or Lymphoma (T-LLY) Or Mixed Phenotype Acute Leukemia (MPAL)
+This is a clinical trial testing whether the addition of one of two chemotherapy agents, dasatinib or venetoclax, can improve outcomes for children and young adults with newly diagnosed T-cell acute lymphoblastic leukemia and lymphoma or mixed phenotype acute leukemia.
+
+Primary Objective
+
+* To evaluate if the end of induction MRD-negative rate is higher in patients with T-ALL treated with dasatinib compared to similar patients treated with 4-drug induction on AALL1231.
+* To evaluate if the end of induction MRD-negative rate is higher in patients with ETP or near-ETP ALL treated with venetoclax compared to similar patients treated with 4-drug induction on AALL1231.
+
+Secondary Objectives
+
+* To assess the event free and overall survival of patients treated with this therapy.
+* To compare grade 4 toxicities, event-free survival (EFS) and overall survival (OS) of patients treated with this therapy in induction and reinduction to toxicities of similar patients treated on TOT17.
+T-cell Acute Lymphoblastic Leukemia|T-cell Lymphoma|Mixed Phenotype Acute Leukemia
+DRUG: Dexamethasone|DRUG: Vincristine|DRUG: Daunorubicin|DRUG: Calaspargase pegol|DRUG: Dasatinib|DRUG: Venetoclax|DRUG: Bortezomib|DRUG: Intrathecal triple therapy (methotrexate + hydrocortisone + cytarabine)|DRUG: Cyclophosphamide|DRUG: Cytarabine|DRUG: Mercaptopurine|DRUG: Nelarabine|DRUG: Methotrexate|DRUG: Thioguanine
+Minimal residual disease (MRD)-negativity rate in patients with T cell acute lymphoblastic leukemia, Comparison of the probability of achieving negative MRD (\<0.01%) and M1 bone marrow status at the end of induction between this protocol and COG AALL1231 will be performed. Statistical analysis of the primary objective will be conducted according to a group sequential design with 1 interim analysis, by a slightly modified version of the procedure for binary endpoint., Up to end of induction day 29 or death|MRD-negativity rate in patients with ETP or near ETP ALL, The proportion of patients with ETP or near-ETP treated with venetoclax based induction will be compared to the rate of such unsuccessful induction in patients treated on AALL1231 with a standard 4-drug induction. The probability of achieving negative MRD will be tested using a one-sided exact binomial proportion test., Up to end of induction day 29 or death
+Event-free survival (EFS), Kaplan-Meier estimates for EFS will be calculated along with standard error., Up to 10 years|Overall survival (OS), Kaplan-Meier estimates for OS will be calculated along with standard error., Up to 10 years|Incidence of grade 4 toxicities, Adverse events will be graded using Common Terminology Criteria for Adverse Events version 5 and compared using Fisher's or exact Chi-square test., Up to 30 days after last dose of study treatment|EFS compared to Total 17 (TOT17-NCT03117751), Comparisons of EFS to the corresponding TOT17 will be performed by the log-rank test., Up to 10 years|OS compared to TOT17, Comparisons of OS to the corresponding TOT17 will be performed by the log-rank test., Up to 10 years
+Patients will be identified in the first 3 days of therapy during their treatment on INITIALL.
+
+Treatment will consist of 3 main phases: Induction, Early Post Induction \[including Consolidation, High-Dose Methotrexate, Intensification, Interim 1, Reinduction 1, Interim 2, and Reinduction 2\], and Maintenance.
+
+Induction:
+
+* Remission Induction includes 3 days of therapy on the INITIALL classification protocol as well as the remainder of a total of 4 weeks of induction treatment on this trial. Treatment includes a total of 28 days of dexamethasone, 4 weekly doses of vincristine, 3 doses of daunorubicin, 1 dose of Calaspargase pegol, 6 doses of Intrathecal triple therapy (IT MHA), and one of 3 additional drugs. Patients with T-ALL without near-ETP or ETP phenotype (hereafter referred to simply as T-ALL) will receive 25 days of dasatinib. Patients with ETP or near-ETP ALL as well as those with MPAL will receive 14 days of venetoclax. Patients with T-LLy will receive bortezomib. Patients will have a week without chemotherapy at the end of Induction, although patients with Induction failure (MRD ≥5% disease) will proceed directly to consolidation.
+
+Early Post Induction:
+
+* Consolidation will be given following completion of Remission Induction Therapy. Patients will receive 2 cycles of BFM-1b therapy (a single dose of cyclophosphamide at the start of week 1, 4 daily doses of cytarabine in two consecutive weeks, and 2 weeks of mercaptopurine) separated by a week of nelarabine. Patients will have a week without chemotherapy at the end of Consolidation.
+* High-dose Methotrexate will be given for 4 cycles to all patients. Patients will also receive an intrathecal chemotherapy treatment with each of the 2-week cycles and will take oral mercaptopurine continuously if tolerated.
+* Intensification will be given to patients with T-ALL or ETP/ near-ETP. This therapy includes a week of nelarabine, one week of combination cyclophosphamide and cytarabine, and 1 week of rest without chemotherapy.
+* Interim Therapy 1 includes 6 weeks of oral mercaptopurine, 2 weeks (5 days of each week) of dexamethasone, and two doses (weeks 1 and 4) of daunorubicin, vincristine, and calaspargase pegol.
+* Reinduction Therapy 1 will consist of 3 weekly doses of vincristine, 1 dose of daunorubicin and calaspargase pegol at the start of the first week, and dexamethasone for 7 days in the first and third weeks. Patients will also receive the same additional agent received during induction based on immunophenotype.
+* Interim Therapy 2 includes 6 weeks of oral mercaptopurine, two doses (weeks 1 and 4) of daunorubicin, vincristine, and calaspargase pegol.
+* Reinduction Therapy 2 will consist of 3 weekly doses of vincristine, 1 dose of daunorubicin and calaspargase pegol at the start of the first week, and dexamethasone for 7 days in the first and third weeks. Patients will also receive the same additional agent received during induction based on immunophenotype.
+
+Maintenance therapy:
+
+* Early Maintenance Therapy follows Reinduction 2 and lasts 31 weeks. Patients will receive mercaptopurine and methotrexate interrupted by 1 week of nelarabine (week 3), 5 cyclophosphamide/ cytarabine pulses, and every 4-week dexamethasone/ vincristine pulses. For the first 32 weeks, patients will also receive every 4-week pulses including 5 days of dexamethasone and 1 dose of vincristine. Patients will receive low-dose methotrexate in all weeks when they do not receive dexamethasone or vincristine. All patients will receive every 4-week intrathecal chemotherapy beginning 4 weeks after the week of nelarabine.
+* Late Maintenance Therapy follows early maintenance and includes daily mercaptopurine, weekly methotrexate, and every 8-week intrathecal chemotherapy. It lasts a total of 44 weeks.
+
+Duration of therapy is approximately 2¼ years. It is recommended that patients be followed every 4 months for 1 year, every 6 months for 1 year and then yearly until the patient is in remission for 10 years and is at least 18 years old.

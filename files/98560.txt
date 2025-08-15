@@ -1,0 +1,65 @@
+Improving Nutrition and Physical Activity for Cancer Survivors (Tools To Be Fit)
+This clinical trial studies the effect of four different intervention components "tools" on body weight, nutrition, and physical activity in cancer survivors. Studies indicate that people with a history of cancer whose nutrition and physical activity habits are consistent with the American Cancer Society's Nutrition and Physical Activity Guidelines may have longer disease-free survival. The four different intervention components may help patients with a history of cancer adopt recommended health behaviors after they have completed treatment.
+Bladder Cancer|Breast Cancer|Colon Cancer|Endometrial Cancer|Ovarian Cancer|Rectal Cancer|Prostate Cancer|Renal Cell Carcinoma|Kidney Cancer
+OTHER: Counseling|OTHER: Educational Intervention|BEHAVIORAL: Health Education|OTHER: Health Promotion and Education - Direct Text Messaging|OTHER: Health Promotion and Education - Digital health tool kit|OTHER: Questionnaires|PROCEDURE: Optional Blood Specimen|PROCEDURE: Optional Stool Specimens
+Mean change in American Cancer Society (ACS) guideline score at 48 weeks, The ACS Guideline Score is comprised of scores on participant reported food intake (score range from 0-2), physical activity (score range from 0-2), and body mass index (BMI) (score range from 0-2). The total score is calculated by summing the scores on each component with a total score range from 0 to 6. Greater scores indicate a greater level of healthy choices made by the participant. The investigator will assess the independent and interaction effects of the four treatment components on change in ACS score as repeated measures and using a generalized linear mixed effect model, starting with the saturated model, including coefficients for main effects, interactions up to 3-way, and stratification variables (gender and age), and reduce the model via backward variable selection with a 0.05 significance level (alpha(α)=0.05) up to 48 weeks., Up to 48 weeks
+Mean change in ACS guideline score at 24 weeks, The ACS Guideline Score is comprised of scores on participant reported food intake (score range from 0-2), physical activity (score range from 0-2), and body mass index (BMI) (score range from 0-2). The total score is calculated by summing the scores on each component with a total score range from 0 to 6. Greater scores indicate a greater level of healthy choices made by the participant. The investigator will assess the independent and interaction effects of the four treatment components on change in ACS score as repeated measures and using a generalized linear mixed effect model, starting with the saturated model, including coefficients for main effects, interactions up to 3-way, and stratification variables (gender and age), and reduce the model via backward variable selection with a 0.05 significance level (α=0.05) up to 24 weeks., Up to 24 weeks|Mean change in scores on the individual components of the ACS at 24 weeks, The ACS Guideline Score is comprised of individual factor scores on (1) participant reported food intake (score range from 0-2), (2) physical activity (score range from 0-2), and (3) body mass index (BMI) (score range from 0-2). Greater scores indicate a greater level of healthy choices made by the participant. The investigator will assess the independent and interaction effects of the four treatment components on change in the individual ACS guideline factors from 0 to 24 weeks using linear mixed-effects models adjusting for the stratification variables gender and age with the individual factor of interest as the outcome., Up to 24 weeks|Mean change in scores on the individual components of the ACS at 48 weeks, The ACS Guideline Score is comprised of individual factor scores on (1) participant reported food intake (score range from 0-2), (2) physical activity (score range from 0-2), and (3) body mass index (BMI) (score range from 0-2). Greater scores indicate a greater level of healthy choices made by the participant. The investigator will assess the independent and interaction effects of the four treatment components on change in the individual ACS guideline factors from 0 to 48 weeks using linear mixed-effects models adjusting for the stratification variables gender and age with the individual factor of interest as the outcome., Up to 48 weeks
+PRIMARY OBJECTIVE:
+
+I. To determine the effect of four candidate intervention components (text messaging, digital health tool kit, health coaching, or support person training), and combinations of the four intervention components, on change cancer survivors' American Cancer Society (ACS) guideline score after 48 weeks of intervention.
+
+SECONDARY OBJECTIVES:
+
+I. To determine the effect of four candidate intervention components (text messaging, digital health tool kit, health coaching, or support person training), and combinations of the four intervention components, on cancer survivors' American Cancer Society (ACS) guideline score after 24 weeks of intervention.
+
+II. To determine the effect of four candidate intervention components, and combinations of the four intervention components, on cancer survivors' intake of fruits and vegetables, whole grains, refined grains, red meat, and processed meats; moderate-to-vigorous physical activity; and body mass index (BMI) after 48 weeks of intervention.
+
+EXPLORATORY OBJECTIVES:
+
+I. To determine the effect of four candidate intervention components (text messaging, digital health tool kit, health coaching, or support person coaching), and combinations of the four intervention components, on cancer survivors' American Cancer Society (ACS) guideline score after 12 weeks of intervention.
+
+II. To describe adherence to each intervention component.
+
+III. To explore the effects of each of the candidate intervention components (text messaging, digital health tool kit, health coaching, support person training) on theoretical constructs (e.g., self-efficacy, outcome expectations, self-monitoring, social support) from 0 to 24 and 48 weeks.
+
+IV. To explore whether sociodemographic (e.g., gender, age, race/ethnicity), clinical (e.g., stage of disease, treatment history, ostomy status, time since diagnosis), and/or psychological/behavioral (e.g., self-efficacy, social support, outcome expectations, depression) factors moderate the intervention components' effects on ACS guideline scores.
+
+VII. To explore change in ACS guideline score in relation to change in fasting insulin, glucose, homeostatic model assessment (HOMA-IR), and inflammatory markers (e.g., Interleukin 6 (IL-6), high-sensitivity C-reactive protein (hs-CRP), Tumor Necrosis Factor alpha (TNF-alpha) for a subset of participants from enrollment to 48 weeks among people with a history of cancer.
+
+VIII. To explore change in ACS guideline score in relation to change in fatigue, depression, and sleep quality from 0 to 24 and 48 weeks among people with a history of cancer.
+
+IX. To explore changes in the ACS guideline score in relation to change in the gut microbiome among a subset of participants with a history of cancer.
+
+OUTLINE: All patients receive a personal report comparing their nutrition and physical activity to ACS guidelines and a booklet on nutrition and physical activity for patients with a history of cancer. Patients are randomized to 1 of 16 conditions.
+
+CONDITION I: Patients receive text messages and use digital health tool kit for 48 weeks. Patients also receive 13 health coaching sessions over 30 minutes each for 48 weeks. Support persons receive four coaching sessions lasting 30 minutes each, approximately every 12 weeks for 48 weeks.
+
+CONDITION II: Patients receive text messages and use digital health tool kit for 48 weeks. Patients also receive 13 health coaching sessions over 30 each for 48 weeks.
+
+CONDITION III: Patients receive text messages and use digital health tool kit for 48 weeks. Support persons receive four coaching sessions lasting 30 minutes each, approximately every 12 weeks for 48 weeks.
+
+CONDITION IV: Patients receive text messages and use digital health tool kit for 48 weeks.
+
+CONDITION V: Patients receive text messages for 48 weeks. Patients also receive 13 health coaching sessions over 30 minutes each for 48 weeks. Support persons receive four coaching sessions lasting 30 minutes each, approximately every 12 weeks for 48 weeks.
+
+CONDITION VI: Patients receive text messages for 48 weeks. Patients also receive 13 health coaching sessions over 30 minutes each for 48 weeks.
+
+CONDITION VII: Patients receive text messages for 48 weeks. Support persons receive four coaching sessions lasting 30 minutes each, approximately every 12 weeks for 48 weeks.
+
+CONDITION VIII: Patients receive text messages for 48 weeks.
+
+CONDITION IX: Patients use digital health tool kit for 48 weeks. Patients also receive 13 health coaching sessions over 30 minutes each for 48 weeks. Support persons receive four coaching sessions lasting 30 minutes each, approximately every 12 weeks for 48 weeks.
+
+CONDITION X: Patients use digital health tool kit for 48 weeks. Patients also receive 13 health coaching sessions over 30 minutes each for 48 weeks.
+
+CONDITION XI: Patients use digital health tool kit for 48 weeks. Support persons receive four coaching sessions lasting 30 minutes each, approximately every 12 weeks for 48 weeks.
+
+CONDITION XII: Patients use digital health tool kit for 48 weeks.
+
+CONDITION XIII: Patients receive 13 health coaching sessions over 30 minutes each for 48 weeks. Support persons receive four coaching sessions lasting 30 minutes each, approximately every 12 weeks for 48 weeks.
+
+CONDITION XIV: Patients receive 13 health coaching sessions over 30 minutes each for 48 weeks.
+
+CONDITION XV: Support persons receive four coaching sessions lasting 30 minutes each, approximately every 12 weeks for 48 weeks.
+
+CONDITION XVI: Patients receive personal report and booklet only.

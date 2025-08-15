@@ -1,0 +1,54 @@
+PANVAC-V and PANVAC-F Vaccines Plus Sargramostim to Treat Advanced Cancer
+Background:
+
+* Many cancers produce two proteins, carcinoembryonic antigen (CEA) and mucin-1 (MUC-1).
+* The PANVAC-V (PANVAC vaccinia) priming vaccine and PANVAC-F (PANVAC fowlpox) boosting vaccine contain human genes that cause production of CEA and MUC-1, which can be used as a target for the immune system to attack the cancer. The vaccines also contain genes that cause production of other proteins that enhance immune activity.
+* Sargramostim is a protein that boosts the immune system.
+
+Objectives:
+
+* To evaluate the safety and effectiveness of PANVAC-V and PANVAC-F in patients with advanced cancer.
+* To document the immune response to the vaccines and any anti-tumor responses that may occur.
+
+Eligibility: Patients 18 years of age and older with advanced cancer whose tumors produce CEA or MUC-1 protein
+
+Design:
+
+* This trial has three cohorts: the first cohort includes 10 patients with advanced colorectal cancer and 10 to 15 patients with any advanced non-colorectal cancer that produces either EA or mitochondrial Ca2+ uniporter 1 (MCU-1); the second cohort includes 12 patients with advanced breast cancer and the third cohort includes 14 patients with advanced ovarian cancer.
+* All patients receive PANVAC-V on study day 1, followed by PANVAC-F on days 15, 29 and 43 then every 28 days for up to 12 vaccines followed by every 3 months until disease progression or toxicity. The vaccines are given by injection under the skin. Sargramostim is injected at the vaccination site on the day of each vaccination and for the next 3 days following vaccination.
+* Patients whose scans show that their disease has progressed, but who are otherwise clinically stable may revert back to monthly injections.
+* Patients undergo apheresis to collect white blood cells (lymphocytes) on day 1 and day 71 of the study to measure the immune response to the treatment. Blood is collected through a needle placed in one arm and directed through a cell separator machine where the lymphocytes are extracted. The rest of the blood components are returned to the patient through the same needle.
+* Patients are monitored with frequent blood tests and periodic imaging tests (scans) to monitor for safety and the response to treatment.
+Adenocarcinoma|Colorectal Cancer|Ovarian Cancer|Breast Cancer
+BIOLOGICAL: PANVAC-V|BIOLOGICAL: PANVAC-F|DRUG: Sargramostim (GM-CSF, Leukine)
+Number of Participants With Complete Responses (CRs), Partial Responses (PRs,) Stable Disease and Progressive Disease in the Ovarian Cancer and Breast Cancer Cohorts, Response was assessed by the Response Evaluation Criteria in Solid Tumors (RECIST). Complete Response is disappearance of all clinical and laboratory signs and symptoms of disease for a minimum of 4 weeks during which no new lesions may appear. Partial Response is a minimum of 30% decrease in the sum of the longest diameter of target lesions, taking as reference the baseline sum longest diameter. Stable disease is neither sufficient shrinkage to qualify for partial response nor progressive disease, taking as reference the smallest sum longest diameter since the treatment started. Progressive disease is a minimum of 20% increase in the sum of the longest diameter of target lesions, taking as reference the smallest sum longest diameter recorded since the treatment started or the appearance of one or more new measurable lesions., Approximately 6 months while on trial|Percentage of Vaccines Associated With Grade 1 and Grade 2 Adverse Events Related to Vaccine in the Colorectal Cancer and Non-Colorectal Cancer Arm/Group, Grade 1 (mild) and Grade 2 (moderate) adverse events were assessed by the Common Terminology Criteria in Adverse Events (CTCAE) v3.0 if reported prior to August 1, 2010 and CTCAE v4.0 if reported after. A non-serious adverse event is any untoward medical occurrence. A serious adverse event is an adverse event or suspected adverse reaction that results in death, a life threatening adverse drug experience, hospitalization, disruption of the ability to conduct normal life functions, congenital anomaly/birth defect or important medical events that jeopardize the patient or subject and may require medical or surgical intervention to prevent one of the previous outcomes mentioned., Approximately 6 months while on trial
+Percentage of Participants With Grade 1 and Grade 2 Adverse Events Possibly, Likely, or Definitely Related to Vaccine in the Breast Cancer and Ovarian Cancer Cohorts, Vaccines were administered to participants and Grade 1 (mild) and Grade 2 (moderate) adverse events were assessed by the Common Terminology Criteria in Adverse Events (CTCAE) v3.0 if reported prior to August 1, 2010 and CTCAE v4.0 if reported after. Common Terminology Criteria in Adverse Events. A non-serious adverse event is any untoward medical occurrence. A serious adverse event is an adverse event or suspected adverse reaction that results in death, a life threatening adverse drug experience, hospitalization, disruption of the ability to conduct normal life functions, congenital anomaly/birth defect or important medical events that jeopardize the patient or subject and may require medical or surgical intervention to prevent one of the previous outcomes mentioned., Approximately 2 months while on trial|Number of Participants With Adverse Events Assessed by the Common Terminology Criteria in Adverse Events (CTCAE) v3.0 and v4.0, Here is the count of participants with serious and non-serious adverse events assessed by the Common Terminology Criteria in Adverse Events (CTCAE) v3.0 if reported prior to August 1, 2010 and CTCAE v4.0 if reported after. A non-serious adverse event is any untoward medical occurrence. A serious adverse event is an adverse event or suspected adverse reaction that results in death, a life threatening adverse drug experience, hospitalization, disruption of the ability to conduct normal life functions, congenital anomaly/birth defect or important medical events that jeopardize the patient or subject and may require medical or surgical intervention to prevent one of the previous outcomes mentioned., Date consent signed to date off study, approximately 164 months and 10 days|Number of Participants With an Positive Immune Response to Carcinoembryonic Antigen (CEA) Peptide and/or Protein in the Colorectal Cancer and Non-colorectal Cancer Cohort Post Vaccination, Immune response in human leukocyte antigens (HLA)-A2 positive patients to carcinoembryonic antigen (CEA) was assessed by enzyme-linked immunospot assay (ELISPOT) analysis. A positive immune response was defined as a \>2x fold increase in the number of interferon gamma producing cells., post vaccination (up to Day 84)|Number of Participants With an Positive Immune Response to Carcinoembryonic Antigen (CEA) Peptide and/or Protein in the Breast Cancer and Ovarian Cancer Cohorts Post Vaccination, Immune response in human leukocyte antigens (HLA)-A2 positive patients to carcinoembryonic antigen (CEA) was assessed by enzyme-linked immunospot assay (ELISPOT) analysis. A positive immune response was defined as a \>2x fold increase in the number of interferon gamma producing cells., post vaccination (up to Day 84)
+Background:
+
+* Carcinoembryonic antigen (CEA) and mucin-1 (MUC-1) are overexpressed in multiple adenocarcinomas.
+* Pox viral vectors can induce a strong immune response to CEA and MUC-1.
+* The use of agonist epitopes within the tumor associated antigen (TAA) can induce a better immune response than native peptides and have been associated with clinical responses
+* Heterologous prime and boost regimens are superior in terms of generalizing immune responses; and this may translate into improved clinical responses
+* The use of granulocyte-macrophage colony-stimulating factor (GM-CSF) does not add significant toxicity and in pre-clinical models is essential for induction for optimal immune responses.
+* It is possible by using vectors directed against TAA that there may be additive or synergistic immune responses and this may be important in overcoming antigenic escape variance
+* Evidence of clinical benefit has been noted in some patients treated with this vaccine
+
+Objectives:
+
+* For colorectal cancer and non-colorectal cancer Cohort: To evaluate the safety and tolerability of the vaccine.
+* For the Ovarian Cancer and Breast Cancer Cohorts: To evaluate clinical response to the vaccine.
+
+Eligibility:
+
+* In the first cohort (colorectal and non-colorectal cancer), histologically confirmed adenocarcinoma that is CEA or MUC-1 positive described as metastatic disease (measurable or evaluable) or metastatic disease documented by biopsy but not evaluable by imaging (e.g. small volume peritoneal disease)
+* For the ovarian and breast cancer cohorts, patients must have evaluable disease
+* Normal organ function, Eastern Cooperative Oncology Group (ECOG) 0-1
+
+Design:
+
+* This is a non-randomized three cohort, pilot trial of pox viral vaccines that contain the transgenes for CEA and MUC-1 (both with modified human leukocyte antigen A2 (HLA-A2) agonist epitopes) as well as 3 human T-cell costimulatory molecules, B7-1, ICAM-1 (CD54), and LFA-3 (CD58) \[PANVAC(TM)-V (vaccinia) and PANVAC(TM)-F (fowlpox)\] in patients with metastatic carcinoma that express CEA or MUC-1 antigen.
+* The first cohort will enroll 10 patients with metastatic colorectal adenocarcinoma and 10-15 patients with any metastatic non-colorectal carcinoma that expresses either CEA or MUC-1. .
+* The second cohort will enroll 12 patients with metastatic breast carcinoma and 14 patients with metastatic ovarian carcinoma.
+* All patients will receive the same vaccines on the same schedule. PANVAC(TM)-V (vaccinia) subcutaneously (s.c.) scheduled on day 1, followed by PANVAC(TM)-F (fowlpox) s.c. scheduled on days 15, 29, and 43 then every 28 days for up to 12 vaccines followed by every 3 months until disease progression or toxicity.
+* Sargramostim (100 micro g) will be given at the site of the vaccination (PANVAC-V and PANVAC-F) on each vaccination day and for three consecutive days thereafter.
+* Patients who have radiographic evidence of progressive disease, but who are otherwise clinically stable may revert back to monthly vaccinations.

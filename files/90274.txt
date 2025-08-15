@@ -1,0 +1,6 @@
+Observational Bronchoscopy Video Data Collection Study With Adult Patients
+The primary aim is to develop a software algorithm that has the capacity to detect the normal 18 anatomical structures of the lung by using the position of the scope during the bronchoscopy procedure and using existing bronchoscopy technology.
+Lung Diseases|Lung Neoplasms|Lung Cancer|Lung Transplantation|Lung Diseases, Obstructive
+DIAGNOSTIC_TEST: Bronchoscopy
+Number of bronchial segments accessed during bronchoscopy, Accurate procedure recordings by the bronchoscope of all 18 anatomical segments +/- abnormalities, 1 year
+A data collection of bronchoscopy videos from 100-150 patients are enrolled for getting image material of different lung anatomies, captured with CE-marked and FDA-approved Ambu bronchoscopes (Ambu® aScope™ 5 Broncho HD). No intervention will take place, only standard of care. All types of indications are enrolled. All patients were given oral and written information prior to participating, and signed consent was provided. No patient identifiable information is stored.

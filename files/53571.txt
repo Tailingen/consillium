@@ -1,0 +1,26 @@
+Feasibility Trial of Magnetic-assisted Colonoscope Platform
+Colorectal cancer (CRC) screening program can reduce colon cancer-related mortality. Current CRC screening methods include stool occult blood and DNA testing, blood based tests and radiologic tests. Colonoscopy is considered the gold standard to detect colorectal neoplasms. Previous studies have estimated that cancer mortality to be 68% to 88% lower among persons who undergo screening colonoscopy than among those who do not. However, colonoscopy is an invasive examination, and 10% to 20% of patients fail to tolerate the procedure; therefore, greatly reduces the success rate of completion of colon examination.
+
+External controllability of capsule endoscope by means of an applied magnetic field is a possible solution to the maneuvering problem. However, there is no effective system with straight forward clinical applicability till now. This is ascribable to a lack of reliable magnetic instrumentation suitable for such a purpose. We have reported that magnetic field navigator (MFN) can effectively control the locomotion of capsule endoscope. We have demonstrated the feasibility and safety of magnetic-assisted capsule endoscope for the examination of upper gastrointestinal tract. In this study, we develop a magnetic-assisted capsule colonoscope by combination of the integrated circuit complementary metal-oxide-semiconductor imaging sensor, light-emitting diode, and magnetic control technology. This magnetic-assisted capsule colonoscope operation system includes a MFN Platform, high-end hand-controlled joystick, combined circuit component, control interface and software. This magnetic-assisted capsule colonoscope operation system creates a friendly operating environment for the operators, and may establishe a novel screening system for the colon.
+Colonoscopy|Colorectal Cancer
+DEVICE: Autonomous navigation of a magnetic colonoscope
+Feasibility of magnetic-assisted colonoscope system, The completion rate of colonoscopic examination by using the magnetic-assisted colonoscope system, The end of colonoscopic examination|Safety of magnetic-assisted colonoscope system, The complication rate of colonoscopic examination by using the magnetic-assisted, The end of colonoscopic examination
+1. Preparation before examination: All subjects must take bowel cleansing drugs as instructed before magnetically controlled colonoscopy After starting to drink laxatives, subjects should continue their daily activities .
+2. Magnetically Controlled Colonoscopy procedure:
+
+   No anesthesia will be used during the magnetically controlled colonoscopy in this experiment.
+
+   The subjects lie down on the magnetic control colonoscopy platform. After the magnetically controlled colonoscopy enters the rectum from the subject's anus, the external magnetron is used to assist and guide the pre-colonoscopy after the magnetically controlled colonoscopy enters the rectum from the subject's anus, and the external magnetron is used to assist and guide the colonoscopy go ahead. During the inspection process, the physician monitors the operation of the magnetically controlled colonoscope throughout the process, and the physician can adjust the movement of the colonoscope when necessary.
+
+   Whole colorectal examination is defined as the colonoscope must be inserted into the ileocecal region, and the cecum must be photographed.
+3. Pain assessment during examination:
+
+   During the colonoscopy, the researchers will conduct a questionnaire to the patients to assess the pain..
+
+   The evaluation method is based on the Verbal Scale to evaluate the maximum discomfort, from 0 to 10 points; ; Among them, 0 points are painless, 10 points are the most severe.
+
+   If the patient's pain assessment score is greater than 5 and the patient cannot tolerate colonoscopy, the examination will be terminated.
+
+   If there are difficulties during the examination, and the magnetic-controlled colonoscopy cannot complete the examination within 1 hours, the examination shall be terminated.
+4. After the colonoscopy is completed, the researcher conducts an overall pain assessment to the subjects by means of a questionnaire. On the day after the colonoscopy, the researcher asked the subjects whether they would like to accept the next colonoscopy follow-up examination by means of a questionnaire.
+5. After the magnetic-controlled colonoscopy, the images and time recorded by the colonoscopy will be interpreted by computer-captured images, and the completion rate of the magnetic-controlled colonoscopy will be analyzed.

@@ -1,0 +1,11 @@
+A Prospective Study to Evaluate the Diagnostic Accuracy of Computer-aided Diagnosis (CADx) System in Real-time Characterization of Colorectal Neoplasia
+The investigators hypothesize that a newly developed CADx system will have a higher diagnostic accuracy in predicting histopathology of colorectal neoplasia than both expert and junior endoscopists.
+Colorectal Neoplasms
+DEVICE: CADx
+Diagnostic accuracy, area under receiver operating characteristic curves, AUROC in prediction of final histopathology, During the colonoscopy
+Sensitivity, Sensitivity, During the colonoscopy|Specificity, Specificity, During the colonoscopy|Positive predictive value, Positive predictive value, During the colonoscopy|Negative predictive value, Negative predictive value, During the colonoscopy|Diagnostic time, Diagnostic time, During the colonoscopy
+Accurate diagnosis and characterization of colorectal polyps is essential before endoscopic resection. Optical diagnosis by enhanced imaging modality (e.g. Narrow Band Imaging, NBI) allows real-time prediction of histopathology. It can assist endoscopists to select the appropriate technique and differentiate between neoplastic or non-neoplastic polyps. Nevertheless, due to the substantial inter-observer variability, the widespread use was limited.
+
+Recently, artificial intelligence and computer-aided polyp diagnosis (CADx) systems have evolved rapidly. The major limitation was the heterogeneity from different types of imaging modalities. Endocytoscopic images require extra steps for pre-staining and magnification, which are time consuming and operator dependent. As a result, it limits the generalisability and applicability in real-world settings.
+
+A novel CADx system will be developed for real-time histopathological prediction of colorectal neoplasia, by using non-magnified conventional white-light and image enhanced endoscopy (NBI). The diagnostic accuracy of this CADx system will be compared with both expert and junior endoscopists.

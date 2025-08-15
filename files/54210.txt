@@ -1,0 +1,23 @@
+Safety Study of Adjuvant Vaccine to Treat Melanoma Patients
+The incidence of melanoma is increasing with an estimated incidence of 59,940 cases and an annual death rate of 8110 in 2007. Although patients diagnosed with early stage disease have an excellent clinical outcome, patients diagnosed with advanced or recurrent disease, continue to have a high mortality rate, even with initial optimal surgical resection. Effective adjuvant strategies are needed to increase the time to progression and to decrease the recurrence rate. Immunotherapy has long been recognized as a potential therapy for melanoma; the goal of adjuvant vaccine therapy is to train the endogenous immune system to recognize and target minimal residual disease.
+Melanoma
+BIOLOGICAL: NY-ESO-1 protein; Poly-ICLC; Montanide
+Phase I, Number of Participants With SAE and DLT, Safety measured by number of Serious Adverse Events per the CTEP v4.0 of the NCI Common Terminology Criteria for Adverse Events (CTCAE) and Dose Limiting Toxicity (DLT)., 52 weeks
+CD4+ and CD8+ Response, Cellular response evaluated for the induction of cellular T cell (CD4+ and CD8+) immunity to subcutaneous vaccination with NY-ESO-1 protein in combination with Poly-ICLC when given with or without Montanide. Number of participants with increase CD4+ and CD8+ levels., Up to 52 weeks|NY-ESO-1 Expression by IHC, Analysis of immune cell infiltration at the injection site by IHC. IHC analysis of immune cell infiltration was performed for each arm using a scoring system. 0: No expression of the marker of interest, 1: single cells or small clusters (\<5 cells together) expressing marker of interest, 2: medium size clusters of cells expressing marker of interest, and 3: huge and homogeneously positive clusters of cells expressing marker of interest., up to 52 weeks
+This is a Phase I open label dose escalation study of the TLR3 agonist Poly-ICLC as an adjuvant for NY-ESO-1 protein vaccination in patients with high risk melanoma in clinical complete remission (cCr), followed by a randomized Phase II component in which patients will be randomized to subcutaneous vaccination of NY-ESO-1 protein with Poly-ICLC alone dose TBD (Arm A) or with NY-ESO-1 protein, Poly-ICLC dose TBD and Montanide® ISA-51 VG (Montanide) (Arm B).
+
+Patients with histological confirmed malignant melanoma, AJCC Stages: IIB, IIC, III or IV, who are in complete clinical remission (cCr) but at high risk of disease recurrence, will be eligible for enrollment, regardless of whether antigen expression in the autologous tumor can be demonstrated by either PCR or immunohistochemistry.
+
+Primary Objectives:
+
+* Phase I: To define the safety of subcutaneous vaccination with NY-ESO-1 protein, Montanide and escalating doses of Poly-ICLC.
+* Phase II: To evaluate the induction of humoral and T cell (CD4+ and CD8+) immunity to subcutaneous vaccination with NY-ESO-1 protein in combination with Poly-ICLC when given with or without Montanide.
+
+Exploratory analyses:
+
+* Evaluation of primary tumor expression of NY-ESO-1 by IHC or RT-PCR.
+* Histologic quantitation of original tumor TILs (tumor infiltrating lymphocytes), CD3+ cells, evaluation of mitotic index and correlation of this data with immunologic response.
+* Correlation of NY-ESO-1 specific T cell responses with HLA type
+* Investigation of polymorphisms for TLR3 through germline SNP analysis.
+* Clinical Outcome (Time to Progression) reported descriptively.
+* Skin section analysis of protein/adjuvant treated sites for immune cell infiltration and gene expression analysis

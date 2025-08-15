@@ -1,0 +1,22 @@
+Text-based Intervention to Minimize the Time Burden of Routine Cancer Care
+The primary objective is to test whether a text-based e-triage can safely minimize the time associated with routine cancer care by identifying patients who can proceed directly to their immunotherapy infusion without a preceding in-person office assessment.
+Cancer|Solid Tumor|Patient Empowerment|Telemedicine
+OTHER: Text triage
+Healthcare Time, Time spent commuting to, waiting for, and receiving healthcare over a 3 month follow up period., 3 months
+Total Wait Time, Time spent waiting for healthcare over a 3 month follow up period., 3 months|Total Number of Hospitalization/Emergency Department Encounters, Total number of hospitalizations and emergency department encounters over a 3 month follow up., 3 months|Patient Satisfaction as Assessed by the Patient Satisfaction Questionnaire Short Form (PSQ-18), The Patient Satisfaction Questionnaire Short Form (PSQ-18) is a self-reported measure capturing satisfaction with medical care across 7 dimensions, all subscales (no total).
+
+* General Satisfaction (3\&17) - higher scores represent greater satisfaction
+* Technical Quality (2, 4, 6, 14) -higher scores represent better technical quality
+* Interpersonal Manner (10\&11) - higher scores represent better interpersonal manner
+* Communication (1\&13) - higher scores represent better communication
+* Financial Aspects (5\&7) - higher scores represent better financial aspects
+* Time Spent with Doctor (12\&15) - higher scores represent better time spent w/ dr
+* Accessibility and Convenience (8, 9, 16, 18) - higher scores represent more accessibility Reverse scoring takes place for items 1, 2, 3, 5, 6, 8, 11, 15, and 18 such that a response of 1 has a score value of 5, and so on.
+
+After noting score values for each individual response, items are then averaged for each subscale to gain a subscale score., 3 months|Health Related Quality of Life as Assessed by the Functional Assessment of Cancer Therapy-General (FACT-G), The Functional Assessment of Cancer Therapy-General (FACT-G) is a 27-item questionnaire comprised of four subscales to measure health-related quality of life:
+
+* physical well-being (PWB; 7-items, score range 0-28), higher score = better PWB
+* social/family well-being (SWB; 7-items, score range 0-28), higher score = worse SWB
+* emotional well-being (EWB; 6-items, score range 0-24), higher score = better EWB except item 2 where higher score = worse EWB
+* functional well-being (FWB; 7-items, score range 0-28), higher score = worse FWB All questions in the FACT-G use a 5-point rating scale (0=Not at all; 1=A little bit; 2=Somewhat; 3=Quite a bit; 4=Very much). Within a subscale, response are reversed for those where higher score = worse well-being, and then averaged for the scale score., 3 months
+The primary objective is to test whether a text-based e-triage can safely minimize the time associated with routine cancer care by identifying patients who can proceed directly to their immunotherapy infusion without a preceding in-person office assessment.

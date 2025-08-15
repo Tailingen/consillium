@@ -1,0 +1,33 @@
+Retifanlimab with Bevacizumab and Hypofractionated Radiotherapy for the Treatment of Recurrent Glioblastoma
+This phase II trial tests how well retifanlimab with bevacizumab and hypofractionated radiotherapy, compared to bevacizumab and hypofractionated radiotherapy alone, works in treating patients with glioblastoma that has come back after a period of improvement (recurrent). A monoclonal antibody is a type of protein that can bind to certain targets in the body, such as molecules that cause the body to make an immune response (antigens). Immunotherapy with monoclonal antibodies, such as retifanlimab, may help the body's immune system attack the cancer, and may interfere with the ability of tumor cells to grow and spread. Bevacizumab is in a class of medications called antiangiogenic agents. It works by stopping the formation of blood vessels that bring oxygen and nutrients to tumor. This may slow the growth and spread of tumor. Hypofractionated radiation therapy delivers higher doses of radiation therapy over a shorter period of time and may kill more tumor cells and have fewer side effects. Giving retifanlimab with bevacizumab and hypofractionated radiotherapy may work better in treating patients with recurrent glioblastoma than bevacizumab and hypofractionated radiotherapy alone.
+Recurrent Glioblastoma|Recurrent WHO Grade 4 Glioma
+BIOLOGICAL: Bevacizumab|PROCEDURE: Biospecimen Collection|PROCEDURE: Computed Tomography|OTHER: Electronic Health Record Review|RADIATION: Hypofractionated Radiation Therapy|PROCEDURE: Magnetic Resonance Imaging|BIOLOGICAL: Retifanlimab
+Overall survival (OS), Defined as the proportion of patients who are alive 9 months after randomization based on Kaplan Meier estimate. The proportion of patients alive will be compared between treatment arms using a z-score test statistic. The 9-month OS Kaplan Meier estimate and corresponding 95% confidence interval for each arm will be reported., Time until death from any cause, assessed up to 9 months after registration
+OS, Overall survival is defined as the time from registration to death from any cause. OS will be estimated using the Kaplan-Meier method. The logrank test will be used to compare the distribution between treatment arms. The median OS and corresponding 95% confidence interval (by Brookmeyer and Crowley) will be reported for each treatment arm., Up to 4 years after registration|Progression free survival (PFS), Progression free survival is defined as the time from randomization to documentation of disease progression or death due to any cause, whichever is first. The distribution of PFS will be estimated using the method of Kaplan-Meier. PFS will be compared between the 2 treatment arms using the log-rank test. The median PFS and corresponding 95% confidence intervals will be reported., Up to 4 years after registration|Objective response rate (ORR), Objective response is defined as experiencing a complete response (CR) or partial response (PR) (as defined by RANO criteria, see section 11.0) while on protocol treatment. Objective response rate (ORR) is defined as the number of patients who experience objective response divided by the number of patients in the primary analysis population. ORR will be compared between the 2 treatment arms. Confidence intervals for ORR will be calculated according to the approach of Clopper and Pearson. Overall response rate and the corresponding 95% confidence interval will be reported., Up to 4 years after registration|Neurologic function domain scores, Neurologic function domain scores of the Neurologic Assessment in Neuro-Oncology be summarized by descriptive statistics including mean, median, standard deviation, and range for each regimen at each time point. The difference between baseline and 2 months (1st restaging scan) will be compared using a Wilcoxon Rank Sum test across arm for each domain. The median difference for each domain and 1st and 3rd quartile will be reported for each arm., Up to 2 months after registration|Incidence of adverse events, The overall adverse event rates for grade 3 or higher adverse events will be reported., Up to 4 years after registration
+PRIMARY OBJECTIVE:
+
+I. To investigate the overall survival at 9 months (OS-9) of the combination of retifanlimab, bevacizumab and hypofractionated radiation therapy (HFRT) vs. the control group treated with bevacizumab and HFRT.
+
+SECONDARY OBJECTIVES:
+
+I. To assess the overall survival (OS) in this patient population for each regimen.
+
+II. To assess the progression free survival (PFS) in this patient population for each regimen.
+
+III. To assess the objective response rate (ORR) in this patient population for each regimen.
+
+IV. To assess the neurologic function by Neurologic Assessment in Neuro-Oncology (NANO) in this patient population for each regimen.
+
+V. To assess the frequency and severity of adverse events in this patient population for each regimen.
+
+CORRELATIVE OBJECTIVE:
+
+I. To assess the anti-glioma immune response before and after retifanlimab including assessment of immune cells phenotyping, function and activation in the pre-/post-treatment blood, and changes in cytokine levels over time.
+
+OUTLINE: Patients are randomized to 1 of 2 arms
+
+ARM A: Patients receive retifanlimab intravenously (IV) over 30 minutes on day 1 and bevacizumab IV on day 1 and 15 of each cycle. Treatment repeats every 28 days for up to 2 years in the absence of disease progression or unacceptable toxicity. Patients also undergo HFRT once daily (QD), starting in cycle 1 on day 15 for 10 treatments. Patients undergo magnetic resonance imaging (MRI) or computed tomography (CT), as well as blood sample collection throughout the study.
+
+ARM B: Patients receive bevacizumab IV on day 1 and 15 of each cycle. Treatment repeats every 28 days for up to 2 years in the absence of disease progression or unacceptable toxicity. Patients also undergo HFRT QD, starting in cycle 1 on day 15 for 10 treatments. Patients undergo MRI or CT, as well as blood sample collection throughout the study.
+
+After completion of study treatment, patients are followed up at 30 days. Survival follow-up is every 2 months for the first year, and then every 6 months for up to 4 years from registration.

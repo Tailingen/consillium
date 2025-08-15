@@ -1,0 +1,45 @@
+Neratinib in Treating Older Patients With Stage IV HER2-Positive Breast Cancer
+This phase II trial studies the side effects of and how well neratinib works in treating older patients with stage IV HER2-positive breast cancer. Neratinib may stop the growth of tumor cells by blocking some of the enzymes needed for cell growth.
+HER2 Positive Breast Carcinoma|Stage IV Breast Cancer AJCC v6 and v7
+OTHER: Comprehensive Geriatric Assessment|OTHER: Laboratory Biomarker Analysis|DRUG: Neratinib|OTHER: Pharmacological Study
+Percent of Participants With Grade 2 or Higher Toxicities, Will be graded according to the National Cancer Institute (NCI) Common Terminology Criteria for Adverse Events (CTCAE) version 4.0. Tables will be created to summarize the toxicities and side effects by organ system, attribution and severity for all participants that receive at least one dose of neratinib. Rates and associated 95% exact Clopper and Pearson binomial confidence limits will be estimated for grade 2 or higher toxicities attributed to neratinib., On treatment, 28 days per cycle up to 1 year
+Count of Participants With Grade 3 or Higher Gastrointestinal (GI) Toxicities Such as Diarrhea, Nausea and Vomiting, Will be graded according to the NCI CTCAE version 4.0. Tables will be created to summarize the toxicities and side effects by organ system, attribution and severity for all participants that receive at least one dose of neratinib., On treatment, 28 days per cycle up to 1 year|Rate of Participants With a Dose Reduction, Rates and associated 95% exact Clopper and Pearson binomial confidence limits will be estimated for dose reduction., On treatment, up to 48 months|Rate of Participants Requiring Hospitalizations, Rates and associated 95% exact Clopper and Pearson binomial confidence limits will be estimated for hospitalizations., On treatment, up to 48 months|Tumor Response Using Response Evaluation Criteria in Solid Tumors (RECIST), Complete Response (CR): Disappearance of all target lesions. Lymph node CR is when the lymph node has decreased to less than 10mm in the short axis.
+
+Partial Response (PR): At least a 30% decrease in the sum of the longest diameter (LD) of target lesions, taking as reference the baseline sum LD.
+
+Progressive Disease (PD): At least a 20% increase in the sum of the LD of target lesions, taking as reference the smallest sum LD recorded since the treatment started (including the baseline scan if that is the smallest), and at least a 5mm increase or the appearance of new lesions.
+
+Stable Disease (SD): Neither sufficient shrinkage to qualify for PR nor sufficient increase to qualify for PD, taking as reference the smallest sum LD since the treatment started., Participants are evaluated every 12 weeks, up to 48 months|Median Progression-free Survival (PFS) in Months, Rates and associated 95% exact Clopper and Pearson binomial confidence limits will be estimated for PFS. PFS will be estimated using the product limit method of Kaplan and Meier., From the date treatment begins until the first date on which recurrence, progression or death due to any cause, assessed up to 48 months|Median Overall Survival (OS), OS will be estimated using the product limit method of Kaplan and Meier., Time from start of treatment to death due to any cause, assessed up to 48 months|Cancer-specific Geriatric Assessment Score, The cancer specific geriatric assessment score includes an evaluation of functional status, co-morbidity, cognition, psychological stats, social functioning and support, and nutritional status. It assesses a patient's age, gender, height, weight, cancer type, dosage, number of chemotherapy agents, hemoglobin, hearing, number of falls in past 6 months, able to take own medicine, whether walking is limited, have physical or emotional problems interfered with social activities and serum creatinine.
+
+Scores can range from 0 to to 1, with a higher score indicating higher risk of chemotherapy toxicity.
+
+Generalized linear models and graphical methods will be used to explore factors as identified by a cancer-specific geriatric assessment., At day 0 of treatment|Pharmacokinetics of Steady State Neratinib Concentration Transformed Using a Logarithm Base 2, Least squares regression was used to assess the relationship between steady state neratinib concentration, transformed using a logarithm base 2 transformation, and age, Day 0 to day 15
+PRIMARY OBJECTIVES:
+
+I. To estimate the safety and tolerability of neratinib in adults age 60 or older with locally advanced or metastatic HER2 over-expressing breast cancer.
+
+SECONDARY OBJECTIVES:
+
+I. To describe the full toxicity profile including all grade toxicities measured by National Cancer Institute (NCI) Common Terminology Criteria for Adverse Events (CTCAE) version (v)4.0.
+
+II. To estimate the rate of all grades of gastrointestinal (GI) toxicities such as diarrhea, nausea, and vomiting.
+
+III. To estimate the rate of dose reduction, delays and discontinuation related to study drug.
+
+IV. To describe pharmacokinetic parameters of neratinib in adults 60 and older. V. To estimate overall response rate (ORR) and clinical benefit rate (CBR) defined by Response Evaluation Criteria in Solid Tumors (RECIST) 1.1.
+
+VI. To estimate event free survival (EFS), progression-free survival (PFS) and overall survival (OS).
+
+VII. To evaluate the role of cancer-specific geriatric assessment tool in predicting treatment toxicities.
+
+VIII. To estimate adherence rate to neratinib in older adults (percentage of doses of neratinib taken).
+
+IX. To explore the association of pharmacokinetic (PK) parameters and geriatric assessment findings.
+
+X. To explore if serum biomarkers of aging (interleukin \[IL\]-6, C-reactive protein \[CRP\], and D-dimer) are associated with treatment toxicities.
+
+OUTLINE:
+
+Patients receive neratinib orally (PO) once daily (QD) on days 1-28. Cycles repeat every 28 days in the absence of disease progression or unacceptable toxicity.
+
+After completion of study treatment, patients are followed up for 30 days and then periodically thereafter.

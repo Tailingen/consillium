@@ -1,0 +1,15 @@
+A Safety Study of 212Pb-Pentixather Radioligand Therapy
+This is a first-in-human clinical trial evaluating the safety of an alpha-radiation treatment (Lead-212 labelled Pentixather) in patients who have been diagnosed with, and previously treated, for atypical carcinoid lesions of the lung.
+Carcinoid Tumor Lung|Neuroendocrine Tumor of the Lung|Carcinoma, Small-Cell Lung
+DRUG: 212-Lead Pentixather|DIAGNOSTIC_TEST: 203-Lead Pentixather SPECT/CT
+Determine the recommended phase 2 dose of 212-Lead Pentixather, The recommended phase 2 dose is based on the number of dose limiting toxicities observed post-treatment., 3 months
+Determine the targeting of atypical pulmonary neuroendocrine tumor and/or neuroendocrine carcinoma lesions with 203-Lead Pentixather SPECT/CT, The number of lesions identified with 203-Lead Pentixather SPECT/CT will compared to FDG PET/CT and diagnostic CT scans at baseline., baseline|Determine tumor response, Tumor response will be assessed using the Response Evaluation Criteria in Solid Tumours (RECIST, v 1.1)., 3 months
+This is a study to determine what dose is acceptably safe for further testing.
+
+In this study, participants are asked to:
+
+* undergo SPECT/CT imaging with Lead-203 Pentixather (a radiotracer) to ensure the tumor lesions have the needed receptors
+* undergo serial blood sampling for during and after the SPECT/CT scan for radiation and dosimetry calculations (to determine how much of the Lead-212 Pentixather to administer)
+* receive up to 2 infusions of arginine \& lysine as a kidney protectant
+* receive up to 2 infusions of Lead-212 Pentixather, 6 weeks between each infusion
+* undergo imaging at 3 months post treatment to determine disease response

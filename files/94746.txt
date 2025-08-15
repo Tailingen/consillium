@@ -1,0 +1,19 @@
+Effect of Age, Weight and Sex on Levothyroxine Pharmacokinetics
+This study was a prospective, single-center, open-label, non-randomized, pharmacokinetic study using stable isotope carbon-13 labeled levothyroxine
+Hypothyroidism Primary
+DRUG: Administration of stable Isotope labeled levothyroxine
+CL/F, oral clearance rate (defined as the ratio of dose administered to AUC0-∞), 120 hours|V/F, apparent volume of distribution (estimated by CL/F/ λ), 120 hours|t-half, the half-life of the terminal disposition phase (t-half) estimated by ln(2)/λ ., 120 hours
+CL/F analysed by age groups, CL/F will be compared in adults (age ≤60 years) versus elderly (age\>60 years) using Wilcoxon signed-rank test using significance level of α = 0.05. Additionally, these PK parameters were regressed against age (as a continuous covariate).
+
+Sex (male or female), weight (as a continuous covariate), and body mass index (BMI) (as a continuous covariate) will be considered using a stepwise linear regression approach., 120 hours|V/F analysed by age groups, V/F will be compared in adults (age ≤60 years) versus elderly (age\>60 years) using Wilcoxon signed-rank test using significance level of α = 0.05. Additionally, these PK parameters were regressed against age (as a continuous covariate).
+
+Sex (male or female), weight (as a continuous covariate), and body mass index (BMI) (as a continuous covariate) will be considered using a stepwise linear regression approach., 120 hours|t-half by age groups, t-half will be compared in adults (age ≤60 years) versus elderly (age\>60 years) using Wilcoxon signed-rank test using significance level of α = 0.05. Additionally, these PK parameters were regressed against age (as a continuous covariate).
+
+Sex (male or female), weight (as a continuous covariate), and body mass index (BMI) (as a continuous covariate) will be considered using a stepwise linear regression approach., 120 hours
+Setting The study was conducted on the clinical research unit of an academic medical center.
+
+Participants Adults of any age being treated with levothyroxine for hypothyroidism were studied.
+
+Interventions A single dose of 13C- LT4 was administered to hypothyroid subjects taking levothyroxine replacement.
+
+Main Outcomes and Measures Eighteen serial plasma samples were collected. One sample was obtained before the 13C- LT4 dose and the remainder over the 312-hour period post-dosing. 13C- LT4 concentration was quantified using validated liquid chromatography tandem mass spectrometry methods. Pharmacokinetic analysis was conducted using linear log trapezoidal non-compartmental analysis using Phoenix 6.4.

@@ -1,0 +1,7 @@
+Evaluating the Potential Usefulness of 18F-AlF-FAPI PET/CT in Patients With Gastrointestinal Tumors and Compared With 18F-FDG PET/CT
+To evaluate the potential usefulness of 18F-AlF-FAPI positron emission tomography/computed tomography (PET/CT) for the diagnosis of primary and metastatic lesions in gastrointestinal tumors, and compared with 18F-FDG PET/CT.
+Gastric Cancer|Pancreatic Cancer|Liver Cancer
+DIAGNOSTIC_TEST: 18F-FDG, 18F-AlF-FAPI PET/CT
+Diagnostic accuracy, The sensitivity, specificity, and accuracy of 18F-FDG and 18F-AlF-FAPI PET/CT were calculated and compared to evaluate the diagnostic efficacy., 30 days
+SUV, Standardized uptake value (SUV) of 18F-FDG and 18F-AlF-FAPI PET/CT for each target lesion of subject or suspected primary tumor or/and metastasis., 7 days|Number of lesions, The numbers of positive primary and metastatic lesions of 18F-FDG and 18F-AlF-FAPI PET/CT were recorded by visual interpretation., 7 days
+Subjects with gastrointestinal tumors underwent contemporaneous 18F-AlF-FAPI and 18F-FDG PET/CT either for an initial assessment or for recurrence detection. Tumor uptake was quantified by the maximum standard uptake value (SUVmax). The numbers of positive tumor lesions of 18F-FDG and 18F-AlF-FAPI PET/CT were recorded by visual interpretation. The sensitivity, specificity, and accuracy of 18F-AlF-FAPI, 18F-FDG PET/CT were calculated and compared to evaluate the diagnostic accuracy.

@@ -1,0 +1,47 @@
+EPOCH-R Chemotherapy Plus Bortezomib to Treat Mantle Cell Lymphoma
+This study will evaluate the effectiveness of etoposide, prednisone, vincristine, cyclophosphamide, doxorubicin-rituximab (EPOCH-R) chemotherapy plus bortezomib for treating mantle cell lymphoma, a cancer of white blood cells called lymphocytes. EPOCH-R consists of the drugs prednisone, etoposide, doxorubicin and vincristine, with the addition of a new drug called rituximab. In a recent study of patients with newly diagnosed mantle cell lymphoma, 92 percent had a complete remission of their disease after treatment with EPOCH-R. This study will test whether adding bortezomib as "maintenance therapy" once chemotherapy is finished will lengthen the time before the disease relapses and improve the overall cure rate.
+
+Patients 18 years of age and older with mantle cell lymphoma may be eligible for this study. Candidates are screened with a medical history and physical examination, blood and urine tests, electrocardiogram, multi-gated acquisition scan (MUGA) or echocardiogram, imaging studies and biopsy to determine the extent of disease, and possible colonoscopy.
+
+Participants undergo treatment in three parts, as follows:
+
+* Part 1: Bortezomib alone: Patients receive 4 doses of bortezomib over 3 weeks. The drug is injected into a vein over about 30 seconds.
+* Part 2: EPOCH-R chemotherapy plus bortezomib: This phase of treatment begins 3 to 4 weeks after completing Part 1. Treatment is given on an outpatient basis in six 3-week cycles, with all drugs administered over the first 5 days of each cycle. Patients take prednisone by mouth on days 1 to 5 and etoposide, doxorubicin, and vincristine as a 96-hour infusion through a vein over days 1 to 5. The infused drugs are delivered through a lightweight, portable infusion pump. Rituximab is given by vein over several hours on day 1 immediately before the chemotherapy infusion begins. Bortezomib is given by vein over 30 seconds on day 1 before the rituximab and again on day 4. Cyclophosphamide is given by vein over about 15 minutes on day 5 immediately after the chemotherapy infusion is completed. Patients are taught how to self inject granulocyte colony stimulating factor (G-CSF), a drug that helps boost white cell counts after chemotherapy. They inject the drug under the skin (like an insulin shot) for 10 days of each cycle beginning day 6. Patients also take an antibiotic to help prevent infection during chemotherapy.
+* Part 3: Bortezomib alone: After completing EPOCH-R-B therapy, patients are randomly assigned to receive or not to receive bortezomib alone. The drug is given in 2 doses over 5 days, with a break of 16 days before the next dose. These 3-week cycles continue for up to 18 months or until the disease comes back or worsens. Patients who are assigned to the group that does not receive bortezomib will be offered the drug if their disease relapses.
+
+During therapy, patients have tests performed on their bone marrow, tumor tissue, blood or other fluids to look at different genes and proteins that may be involved in the development of their lymphoma or the reaction of the immune system. A tissue biopsy is done before treatment begins and a day after treatment starts. Disease progress is followed with computed tomography (CT) scans and blood tests. When treatment is completed, patients whose cancer has disappeared are scheduled for periodic follow-up examinations and tests. Those whose disease remains or recurs may be offered participation in another protocol if an appropriate one is available or are returned to the care of their local physician.
+
+...
+Lymphoma, Mantle Cell|Mantle Cell Lymphoma
+DRUG: Rituximab (R)|BIOLOGICAL: EPOCH|DRUG: Bortezomib (B)|DRUG: Bortezomib|DRUG: Bortezomib or observation
+Progression Free Survival (PFS), Time interval from start of treatment to documented evidence of disease progression. Progression is defined by at least one of the following: ≥50% increase in the sum of the products of at least two lymph nodes, appearance of new lymph nodes, ≥50% increase in the size of the liver and/or spleen as determined by measurement below the respective costal margin, appearance of new palpable hepatomegaly or splenomegaly that was not previously present, and ≥50% increase in the absolute number of circulating lymphocytes.The primary evaluation will be a Kaplan-Meier analysis with a two tailed log rank test., up to 5 years|Median Overall Survival (OS), Overall Survival is the time between the first day of treatment to the day of death. The primary evaluation will be a Kaplan-Meier analysis with a two tailed log rank test., up to 9.9 years|Overall Progression Free Survival, Time interval from start of treatment to documented evidence of disease progression. Progression is defined by at least one of the following: ≥50% increase in the sum of the products of at least two lymph nodes, appearance of new lymph nodes, ≥50% increase in the size of the liver and/or spleen as determined by measurement below the respective costal margin, appearance of new palpable hepatomegaly or splenomegaly that was not previously present, and ≥50% increase in the absolute number of circulating lymphocytes., up to 9.9 years|Overall Survival, Overall Survival is the time between the first day of treatment to the day of death. The primary evaluation will be a Kaplan-Meier analysis with a two tailed log rank test., up to 9.9 years
+Count of Participants With Serious and Non-Serious Adverse Events, Here is the count of participants with serious and non-serious adverse events assessed by the Common Terminology Criteria in Adverse Events (CTCAE v4.0). A non-serious adverse event is any untoward medical occurrence. A serious adverse event is an adverse event or suspected adverse reaction that results in death, a life threatening adverse drug experience, hospitalization, disruption of the ability to conduct normal life functions, congenital anomaly/birth defect or important medical events that jeopardize the patient or subject and may require medical or surgical intervention to prevent one of the previous outcomes mentioned., Date treatment consent signed to date off study, approximately 143 months and 7 days|Clinical Response, Clinical response is assessed by the response criteria for lymphomas and is defined as a fraction of patients who have a complete response (CR) or a complete response (CR) + partial response (PR). A complete response is disappearance of all detectable clinical and radiographic evidence of disease and disappearance of all disease-related symptoms if present before therapy, and normalization of those biochemical abnormalities (e.g. lactate dehydrogenase) definitely assignable to the lymphoma. Partial response is ≥50% decreased in the sum of the products of the greatest diameters of 6 largest dominant nodes or nodal masses. No increase in size of nodes, liver or spleen and no new sites of disease. Progressive disease is defined by at least one of the following: ≥50% increase in the sum of the products of at least two lymph nodes appearance of new lymph nodes, ≥50% increase in the size of the liver and/or spleen, ≥50% increase in the absolute number of circulating lymphocytes., up to 22 weeks after initiation of therapy
+Background:
+
+Mantle cell lymphoma (MCL) presents a clinical challenge because it is aggressive and incurable with chemotherapy. Therefore novel treatment approaches are needed.
+
+MCL has overexpression of NF-kappa B (NF-kappa B), a transcription factor that affects cell growth and survival, and cyclin D1 that affects cell cycle and growth. These proteins appear to be involved in the pathogenesis of MCL.
+
+Bortezomib, a proteasome inhibitor that inhibits NF-kappa B and cyclin D1, has demonstrated activity in patients with relapsed or refractory MCL.
+
+Dose-adjusted-etoposide, prednisone, vincristine, cyclophosphamide, doxorubicin-rituximab (EPOCH-R) has excellent activity in MCL, with a complete response (CR) rate of 92%, but patients eventually relapse.
+
+Objective:
+
+Determine the progression free survival (PFS) and overall survival (OS) of dose-adjusted etoposide, doxorubicin, and cyclophosphamide with vincristine, prednisone, and rituximab,bortezomib (DA-EPOCH-RB) followed by bortezomib maintenance versus observation.
+
+Eligibility:
+
+Diagnosis of mantle cell lymphoma.
+
+No prior treatment except for local radiation or a short course of steroids for control of symptoms,
+
+Age greater than or equal to 18 years old.
+
+Adequate major organ function unless impairment is due to lymphoma.
+
+Study Design:
+
+To assess the clinical activity and biological effects of bortezomib, patients will initially receive one cycle of bortezomib alone with sequential tumor biopsies for microarray analysis.
+
+All patients will then receive Dose-adjusted (DA)-EPOCH-RB for 6 cycles, and if they have at least a PR, this will be followed by randomization to either immediate bortezomib maintenance x 18 months, or to observation, followed by bortezomib if progression occurs. This study has as a primary goal, to describe progression free survival (PFS) and overall survival of early bortezomib maintenance versus observation following induction with bortezomib followed by DA-EPOCH-RB. Important secondary goals are to assess response and toxicity to bortezomib alone or DA-EPOCH-RB, to evaluate time to progression after receiving bortezomib following progression on an observation arm, and to assess the biological effects of bortezomib on untreated MCL.

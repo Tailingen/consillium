@@ -1,0 +1,19 @@
+AZD0530 in Treating Patients With Prostate Cancer That Did Not Respond to Hormone Therapy
+This phase II trial is studying how well AZD0530 works in treating patients with prostate cancer that did not respond to hormone therapy. AZD0530 may stop the growth of tumor cells by blocking some of the enzymes needed for cell growth
+Hormone-resistant Prostate Cancer|Recurrent Prostate Cancer
+DRUG: saracatinib|OTHER: laboratory biomarker analysis
+PSA Response Rate, Complete Response (CR), disappearance of all measurable and non-measurable disease. No new lesions. PSA ≤ 0.2 ng/mL; Partial Response (PR), a decline in PSA by at least 30%, confirmed by a second PSA value four or more weeks later; Overall Response (OR) = CR + PR, PSA measured every 4 weeks
+Progression-free Survival (PFS), PFS defined as time between start of treatment and disease progression or death. Using the method of Kaplan-Meier. Progression is defined using Response Evaluation Criteria In Solid Tumors Criteria (RECIST), as a 20% increase in the sum of the longest diameter of target lesions, or a measurable increase in a non-target lesion, or the appearance of new lesions., From start of treatment until progression or death, up to 2 years|Time to Treatment Failure, Defined as the time from start of treatment to the discontinuation of treatment for any reason, including disease progression, treatment toxicity, patient preference, or death Will be summarized using the Kaplan-Meier product-limit estimators. Progression is defined using Response Evaluation Criteria In Solid Tumors Criteria (RECIST), as a 20% increase in the sum of the longest diameter of target lesions, or a measurable increase in a non-target lesion, or the appearance of new lesions, From first day of treatment until discontinuation of treatment, up to 2 years|Overall Survival, Estimated using the product-limit method of Kaplan and Meier., From start of treatment, up to 5 years|Toxicity Data, Toxicity assessed by Common Terminology Criteria for Adverse Events (CTCAE) version 3.0. All grade 3 or worse toxicities (Possibly, Probably, or Definitely) attributed to AZD0530., Up to 2 years|Relationship Between Changes in Laboratory Correlates and Response and Survival, Up to 2 years|N-telopeptide and Deoxypyridinoline as Prognostic Bone Markers, At baseline, at 6 hours, at each course (day 1), and at 2 years
+PRIMARY OBJECTIVES:
+
+I. To test the hypothesis that AZD0530 will improve the prostate-specific antigen (PSA) response rate and progression-free survival (PFS) in comparison with historical controls for patients with hormone-refractory prostate cancer (HRPC).
+
+II. Evaluate the time to treatment failure and overall survival of patients with HRPC treated with AZD0530.
+
+III. Evaluate the toxicities and tolerance of AZD0530 therapy in the HRPC population.
+
+OUTLINE: This is a multicenter study.
+
+Patients receive oral AZD0530 once daily. Treatment repeats every 4 weeks for up to 2 courses in the absence of disease progression or unacceptable toxicity.
+
+After completion of study treatment, patients are followed every 6 months for the first 2 years and then yearly thereafter.

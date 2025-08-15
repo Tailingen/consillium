@@ -1,0 +1,19 @@
+18F-FSPG PET/CT in Diagnosing Early Lung Cancer in Patients With Lung Nodules
+This phase II trial studies how well 18F-FSPG positron emission tomography (PET)/computed tomography (CT) work in diagnosing early lung cancer in patients with indeterminate lung nodules. PET imaging with an imaging agent called 18F-FDG is often used in combination with a PET/CT scanner to evaluate cancers. Giving 18F-FSPG before a PET/CT scan may work better in helping researchers diagnose early lung cancer in patients with lung nodules.
+Cigarette Smoker|Current Smoker|Former Smoker|Multiple Pulmonary Nodules|Pulmonary Nodule
+DIAGNOSTIC_TEST: Computed Tomography|DRUG: Fludeoxyglucose F-18|DRUG: Fluorine F 18 L-glutamate Derivative BAY94-9392|DIAGNOSTIC_TEST: Positron Emission Tomography (PET/CT)
+Diagnostic Performance Metrics (Sensitivity, Specificity, PPV, NPV, and Accuracy) of Ultrasonography and Capnography for Malignant Lung Nodules, The diagnostic performance of ultrasonography and capnography in detecting malignant lung nodules was assessed using sensitivity, specificity, positive predictive value (PPV), negative predictive value (NPV), and accuracy. Sensitivity and specificity were calculated to determine the ability to correctly identify malignant and non-malignant nodules, respectively. Results were compared to a predefined threshold of 75%, with all percentages reported as proportions of the total number of nodules analyzed. Confidence intervals were calculated for each metric to ensure precision and reliability in the estimates., Through study completion, an average of 2 years and 6 months
+Improvement in Predictive Accuracy of Lung Nodule Diagnosis Using the C Statistic (Area Under the Curve, AUC), The predictive accuracy of the lung nodule diagnosis model was assessed using the C statistic, also referred to as the area under the receiver operating characteristic (ROC) curve (AUC). Improved performance was defined as a statistically significant increase (p \< 0.05) in the C statistic, determined using the DeLong test for comparing correlated ROC curves. The Mann-Whitney U test was also used to compare the distributions of the C statistic between diagnostic methods. Results are reported as the mean C statistic with 95% confidence intervals for each diagnostic method., Through study completion, an average of 2 years and 6 months
+PRIMARY OBJECTIVES:
+
+I. Comparison of fluorine F 18 L-glutamate derivative BAY94-9392 (18F-FSPG) accumulation with fludeoxyglucose F-18 (18F-FDG) accumulation to assess whether (4S)-4-(3-18F-Fluoropropyl)-L-Glutamate (18F-FSPG)-PET is better at discriminating between benign and malignant nodules.
+
+SECONDARY OBJECTIVES:
+
+I. To develop and validate early lung cancer detection biomarkers that would directly impact the growing need to integrate imaging and non-invasive molecular diagnostics for indeterminate pulmonary nodules and allow physicians to avoid unnecessary invasive procedures in patients with benign lung disease.
+
+OUTLINE:
+
+Patients receive 18F-FSPG intravenously (IV) and, undergo a PET/CT scan over 30-60 minutes. Within 24 hours-14 days, patients receive 18F-FDG and undergo a second PET/CT scan over 30-60 minutes.
+
+After completion of study, patients are followed up within 24-72 hours.

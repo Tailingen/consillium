@@ -1,0 +1,78 @@
+Multimodality Treatment in Stage III Non-small Cell Lung Cancer (NSCLC)
+Resectable, locally advanced NSCLC with involvement of mediastinal lymph nodes (N2) is associated with a high risk of (systemic) recurrence despite neo-adjuvant chemotherapy. Neo-adjuvant immunotherapy is a promising additional treatment modality aiming at increasing local control and better tackling micrometastases at the time of radical local treatment. Radiotherapy is thought to act synergistically with immunotherapy through release of tumor antigens and modulation of the local immune microenvironment in favor of a better antigen-presentation and (systemic) anti-tumor immune response (abscopal effect).
+
+The aim of the proposed SAKK 16/18 trial is to evaluate the efficacy and safety of adding immune-modulatory radiotherapy to the SAKK 16/14 treatment regimen by combining neo-adjuvant radio-immunotherapy. Due to the lack of evidence for an optimal radiotherapy regimen for an "in-situ vaccination" effect three different radiotherapy regimens will be tested.
+Non-small Cell Lung Cancer|NSCLC
+DRUG: Durvalumab|RADIATION: Radiotherapy
+Event-free survival (EFS) at 12 months, EFS is defined as time from registration to one of the following events, whichever occurs first:
+
+* Relapse or progression according to RECIST 1.1 criteria.
+* Second tumor
+* Death due to any cause Patients not experiencing an event will be censored at the date of last tumor assessment before starting a subsequent treatment, if any.
+
+As a sensitivity analysis, the primary endpoint will also be calculated according to the following definition of an event:
+
+* Progression during neoadjuvant treatment leading to inoperability
+* Recurrence of loco-regional disease after surgery
+* Appearance of metastases at any localization
+* Second tumor
+* Death due to any cause, at 12 months
+Event-free survival (EFS), EFS is defined as time from registration to one of the following events, whichever occurs first:
+
+* Relapse or progression according to RECIST 1.1 criteria
+* Second tumor
+* Death due to any cause Patients not experiencing an event will be censored at the date of last tumor assessment before starting a subsequent treatment, if any.
+
+As a sensitivity analysis, the primary endpoint will also be calculated according to the following definition of an event:
+
+* Progression during neoadjuvant treatment leading to inoperability
+* Recurrence of loco-regional disease after surgery
+* Appearance of metastases at any localization
+* Second tumor
+* Death due to any cause, From the date of registration until the date of progressive disease, relapse, second tumor or death, whichever occurs first, assessed up to 20 years after registration|Recurrence-free survival (RFS) after R0 resection, RFS after R0 resection is defined as the time from surgery until one of the following events, whichever comes first:
+
+* Recurrence of loco-regional disease
+* Appearance of metastases at any localization
+* Death Patients not experiencing an event will be censored at the date of the last available assessment before initiation of a subsequent treatment, if any.
+
+This endpoint will only be calculated for patients with R0 resection., From the date of surgery until the date of recurrence of loco-regional disease, appearance of metastases, or death, whichever occurs first, assessed up to 20 years after registration|Overall survival (OS), OS is defined as time from registration until death due to any cause. Patients not experiencing an event will be censored at the last date they were known to be alive., From the date of registration until the date of death from any cause, assessed up to 20 years after registration|Objective response (OR) after neoadjuvant chemotherapy, OR after neoadjuvant chemotherapy is defined as complete response (CR) or partial response (PR) at the first assessment after the end of neoadjuvant chemotherapy.
+
+Response will be evaluated according to RECIST 1.1 criteria. Patients without response assessment after the end of neoadjuvant chemotherapy and before the start of next trial treatment, if any, will be regarded as having a non-evaluable response (NE) and shall be considered as failures for this endpoint., At the date of tumor assessment after neoadjuvant chemotherapy, estimated at approximately 9 weeks post-baseline|OR after neoadjuvant immuno-radiotherapy, OR after neoadjuvant immuno-radiotherapy is defined as complete response (CR) or partial response (PR) at the first assessment after the end of neoadjuvant immuno-radiotherapy.
+
+Response will be evaluated according to RECIST 1.1 criteria. Patients without response assessment after the end of neoadjuvant immuno-radiotherapy before the start of next trial treatment, if any, will be regarded as having a non-evaluable response (NE) and shall be considered as failures for this endpoint., At the date of tumor assessment after neoadjuvant immune-radiotherapy, estimated at approximately 13 weeks post-baseline|Pathological Complete Response (pCR), pCR is defined as complete tumor regression with no evidence of vital tumor cells in the sections of the primary lesion and mediastinal lymph nodes after surgery .
+
+Patients who were not resected will not be taken into consideration for this endpoint.
+
+Results from Central Pathology will be used., At the date of tumor assessment after surgery, estimated at approximately 15 weeks post-baseline|Local Major pathological response (MPR), Local Major pathologic response (MPR) is defined as the presence of 10% or less of vital tumor cells in the sections of the primary lesion - without taking into account the presence or extent/viability of tumor cells in the lymph nodes presenting. Patients who were not resected will not be taken into consideration for this endpoint. Results from Central Pathology will be used., At the date of tumor assessment after surgery, estimated at approximately 15 weeks post-baseline|Overall Major pathological response (oMPR), Overall Major pathologic response (oMPR) is defined as the presence of 10% or less of vital tumor cells in the sections of the primary lesion and/or mediastinal lymph nodes presenting focal microscopic disease after surgery Patients who were not resected will not be taken into consideration for this endpoint. Results from Central Pathology will be used., At the date of tumor assessment after surgery, estimated at approximately 15 weeks post-baseline|Nodal down-staging to < ypN2, Nodal down-staging to \< ypN2 is defined as the case where after the surgery the remaining node status of the patients according to the TNM cancer staging system is less than N2 (N0/1).
+
+Patients who were not resected will not be taken into consideration for this endpoint., At the date of tumor assessment after surgery, estimated at approximately 15 weeks post-baseline|Complete resection, Complete resection is defined as fulfillment of all the following criteria, according to:
+
+* free resection margins proved microscopically (R0 resection)
+* systematic nodal dissection or lobe-specific systematic nodal dissection
+* no extracapsular nodal extension of the tumor
+* the highest mediastinal node removed must be negative Patients who were not resected will not be taken into consideration for this endpoint., At the date of tumor assessment after surgery, estimated at approximately 15 weeks post-baseline
+In resectable locally advanced lung cancer there is an urgent need for more efficacious therapy, since most of the patients will eventually have a relapse and will die of the disease. Distant metastases are the main site of recurrence. Therefore, the most promising treatment strategy is to better eliminate micrometastases present at the time of diagnosis through improved systemic treatment. In this regard, the SAKK 16/14 trial is investigating the efficacy of the anti-PD-L1 inhibitor durvalumab before and after surgery added to standard neoadjuvant chemotherapy with cisplatin/docetaxel. It has just completed accrual as of Q1 2019.
+
+The primary aim of the SAKK 16/18 trial is to evaluate the efficacy and safety of adding immune-modulatory radiotherapy to the SAKK 16/14 treatment regimen by combining it with neoadjuvant immunotherapy. Due to the lack of evidence for an optimal immune-modulatory radiotherapy regimen we test 3 different radiotherapy regimens to investigate differences in efficacy and tolerability as key exploratory endpoint.
+
+Neoadjuvant therapy is the optimal setting to test the combination of immune-modulatory radiotherapy and immune checkpoint inhibitor therapy. Resection of the primary tumor and mediastinal lymph nodes will allow to investigate pathological responses and nodal downstaging at an early time point. Furthermore, this setting allows for extensive translational research evaluating cellular and molecular mechanisms of anti-tumor immune response.
+
+SAKK 16/18 is a prospective, multicenter, phase II trial with 3 radiotherapy cohorts.
+
+The treatment consists of
+
+* Neoadjuvant chemotherapy with cisplatin and docetaxel: 3 cycles of 21 days
+* Neoadjuvant immunotherapy with durvalumab: 1 cycle
+* Neoadjuvant immune-modulatory radiotherapy
+
+  * Concurrent with neoadjuvant immunotherapy
+  * Random assignment to one of the following fractionation regimens:
+
+    * 20x2 Gy (weekdaily, 4 weeks)
+    * 5x5 Gy (weekdaily, 1 week)
+    * 3x8 Gy (on alternate days, 1 week)
+* Surgery
+
+  o Between 4 and 6 weeks after the application of durvalumab (independent of the radiotherapy regimen)
+* If indicated: Postoperative radiotherapy (should start between 3 to 6 weeks after surgery)
+* Adjuvant immunotherapy with durvalumab: 13 cycles of 28 days

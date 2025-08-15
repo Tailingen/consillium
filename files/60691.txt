@@ -1,0 +1,25 @@
+Tirapazamine Combined With Chemo and RT in Limited-Stage Small Cell Lung Cancer
+This phase II trial is studying how well giving tirapazamine together with cisplatin, etoposide, and radiation therapy works in treating patients with limited-stage small cell lung cancer. Drugs used in chemotherapy, such as cisplatin and etoposide, work in different ways to stop tumor cells from dividing so they stop growing or die. Radiation therapy uses high-energy x-rays to damage tumor cells. Tirapazamine may make the tumor cells more sensitive to chemotherapy and radiation therapy. Combining chemotherapy and radiation therapy with tirapazamine may kill more tumor cells.
+Limited Stage Small Cell Lung Cancer
+DRUG: tirapazamine|DRUG: cisplatin|DRUG: etoposide|RADIATION: radiation therapy|OTHER: laboratory biomarker analysis
+Overall Survival, Overall survival was defined as the time from date of enrollment until the date of death due to any cause. Patients last known to be alive were censored at the date of last conatct. Patients were followed for a maximum of 3 years from the date of enrollment., Weekly during protocol treatment, then every 3 months for first year, then every 6 months for up to 3 years after enrollment.
+Response Rate (Confirmed and Unconfirmed Complete and Partial Responses Per RECIST) in the Subset of Patients With Measurable Disease at Baseline., A complete response (CR) was defined as a complete disappearance of all disease with no new lesions. A partial response (PR) was defined as at least a 30% decrease under baseline of the sum of longest diameters of all target measurable lesions with no unequivocal progression of non-measurable disease and no new lesions. Both CR and PR had to be confirmed by a second determination at least 4 weeks apart. All disease had to be assessed using same method as baseline. Only patients with measurable disease at baseline were included in this analysis., After completeion of concurrent chemotherapy+radiation (Week 8); then after completion of consolidation chemotherapy (Week15); once off treatment, every 3 months until disease progression for a maximum of 3 years after enrollment.|Progression-Free Survival, Progression was defined as a \>= 20% increase in the sum of longest diameters of measurable lesions over the smallest sum observed or unequivocal progression of non-measurable disease or the appearance of any new lesion/site. Symptomatic deterioration was defined as a global deterioration of health status requiring discontinuation of treatment. Progression-free survival was defined as the time from the date of enrollment until the date of progression, symptomatic deterioration, or death due to any cause. Patients last known to be alive and progression-free were censored at last contact date., At end of concurrent chemoradiotherapy (Week 8), then at end of consolidation chemotherapy (Week 15). After off treatment, every 3 months for the first 2 years then every 6 months for up to 3 years after enrollment.
+PRIMARY OBJECTIVES:
+
+I. To assess overall survival in patients with limited stage small cell lung cancer (SCLC) treated with induction tirapazamine combined with cisplatin, etoposide and high dose thoracic radiotherapy followed by consolidative cisplatin and etoposide.
+
+II. To assess time to treatment failure calculated from initiation of step 1, response (confirmed plus unconfirmed, complete plus partial during induction in the subset of patients with measurable disease) and toxicity in this patient population treated with this regimen.
+
+III. To investigate in an exploratory manner the association of baseline PAI-1, VEGF, OPN and NDRG1 plasma markers with patient response and survival.
+
+OUTLINE: This is a multicenter study.
+
+CHEMORADIOTHERAPY: Patients receive tirapazamine IV over 1 hour on days 1, 8, 10, 12, 29, 36, 38, and 40; cisplatin IV over 1 hour on days 1, 8, 29, and 36; and etoposide IV over 1 hour on days 1-5 and 29-33. Beginning on day 1 of chemotherapy, patients undergo thoracic radiotherapy once daily 5 days a week for 7 weeks.
+
+CONSOLIDATION CHEMOTHERAPY: Within 28 days after completion of radiotherapy, patients with stable or responding disease receive cisplatin IV over 1 hour on days 1 and 22 and etoposide IV over 1 hour on days 1-3 and 22-24.
+
+Treatment continues in the absence of disease progression or unacceptable toxicity.
+
+Patients are followed every 2-3 months for 2 years and then every 6 months for 1 year.
+
+PROJECTED ACCRUAL: A total of 30-85 patients will be accrued for this study within 17 months.

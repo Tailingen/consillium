@@ -1,0 +1,10 @@
+Impact of C-arm CT in Patients With HCC Undergoing TACE: Optimal Imaging Guidance
+Patients will be enrolled based on presence of HCC and eligibility for TACE. They will be randomized to one of two arms for imaging navigation to the optimal catheter location for chemotherapy injection to treat the first (possibly sole) tumor target. The two arms will be: TACE using C-arm CT supplemented by DSA or DSA only (only DSA images will be used for navigation and tumor vessel tracking). Navigation to subsequent treatment targets in all patients will be done with fluoroscopy, CACT, and DSA, as is standard of care at Stanford University Medical Center, and is not part of the study. Vascular complexity, which affects navigation difficulty and thus the need for imaging, will be assessed separately for use in data analysis by two radiologists on a four-point scale.
+Carcinoma, Hepatocellular
+DEVICE: C-arm CT + DSA as needed|DEVICE: DSA only
+Dose Area Product (DAP), Dose area product (DAP) is a measure of the entire amount of energy (radiation dose) delivered to the patient by the beam (indicator of stochastic dose), Duration of a TACE procedure, an average of 2 hours|Cumulative Dose (CD), a Measure of Radiation Dose, CD - a measurement of total radiation to the skin (measure of a deterministic dose), Duration of a TACE procedure, an average of 2 hours
+We hope to learn more about the utility of C-arm CT in patients undergoing TACE for HCC. Data will be evaluated with regards to:
+
+1. Sensitivity and specificity to diagnose additional tumors and its impact on transplantation criteria.
+2. The ability to decrease procedural time by aiding navigation through complex arterial anatomy.
+3. Impact on radiation dose. Although the patient would receive the radiation during C-arm CT, overall the number of DSA angiograms and fluroscopy may decrease, potentially negating any effect of the additional dose from C-arm CT

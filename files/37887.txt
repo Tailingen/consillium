@@ -1,0 +1,21 @@
+Randomized Phase II Trial Evaluating DFS in The Absence of an Adjuvant Component of Perioperative Chemotherapy in Patients With Gastric Cancer
+This single-center, open-label, randomized phase II trial (JAGC-1) will evaluate whether adjuvant chemotherapy can be safely omitted in patients with stage IB-III gastric cancer (cT2-4a and/or N+) who have achieved a pathological complete response (pCR) or TRG 4-5 on the Mandard scale, following neoadjuvant chemotherapy and surgery. The study aims to compare disease-free survival and quality of life in patients receiving or not receiving adjuvant chemotherapy after neoadjuvant treatment and surgery.
+Gastric Cancer
+OTHER: Surveillance|DRUG: Adjuvant Chemotherapy
+Disease-free survival rates, Comparison of 3-year DFS in the group receiving the adjuvant component of perioperative chemotherapy and in the group without it and comparison of the indicators of 3-year DFS with TRG 4-5 on the Mandard scale in the group receiving the adjuvant component of perioperative chemotherapy and in the group without it., 3 years
+Аssessment of the quality of life, Quality of life assessment by European Organisation for Research and Treatment of Cancer scale Quality of Life Questionnaire - Core 30 (QLQ-C30) by Scoring of the QLQ-C30 Summary Score using the descriptive analysis with the qlqc30 command (detailed description in manual ISBN 2-9300 64-22-6)., 3 years
+Population: patients with localized or locally advanced gastric cancer ( cT2-4a and/or N+ according to TNM, 8th revision, 2017) after having undergone the full extent of the planned neoadjuvant component of perioperative chemotherapy, radical surgical intervention, with a histological tumor regression grade classified as pCR or TRG 4-5 according to the Mandard scale
+
+Study design Patients will be randomized in a ratio of approximately 1:1:
+
+Patients who achieve pCR will be randomly assigned to one of two groups:
+
+* Group A (no adjuvant therapy): Patients will not receive adjuvant chemotherapy
+* Group B (adjuvant therapy): Patients will receive the adjuvant component of perioperative chemotherapy
+
+Patients who achieve a TRG of 4-5 on the Mandard scale will be randomly assigned to one of two groups:
+
+* Group C (adjuvant therapy): Patients will not receive adjuvant chemotherapy.
+* Group D (no adjuvant therapy): Patients will receive the adjuvant component of perioperative chemotherapy.
+
+Patients in the groups with adjuvant therapy will receive treatment until progression or maximal effect of therapy is detected (the longest duration of treatment is 3 months).

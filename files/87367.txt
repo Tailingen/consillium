@@ -1,0 +1,29 @@
+Clinical Trial for Registration of HPV Nucleic Acid Genotyping Assay Kit
+The objective of this study is to verify the clinical effectiveness of HPV Genotyping Nucleic Acid Assay Kit. This is a multi-center clinical study involving at least three study centers, each with screening sites. The protocol describes two study phases: Phase I is a baseline study of the screened population and ASCUS referral population (if necessary), the data of which will be submitted after the baseline study is completed; Phase II is a three-year follow-up study of the screened population, the data of which will be submitted again after the follow-up is completed.
+Cervical Cancer
+DIAGNOSTIC_TEST: HPV Genotyping Nucleic Acid Assay Kit
+Verification of the accuracy of nucleic acid assay, The results of HPV Assay of test product and reference product, 12 weeks|PLR and NLR in ASCUS population, Clinical sensitivity (Sn), clinical specificity (Sp), positive predictive value (PPV), negative predictive value (NPV), positive likelihood ratio (PLR) and negative likelihood ratio (NLR) of carcinogenic HPV+ in case of ≥CIN2., 12 weeks|HPV risk of ≥ CIN2 in NILM 30+ population, 1. absolute risk and 95%CI of HPV+, HPV 16 / 18/45 +, HPV31 / 33_58 / 52; HPV51 / 35_39_68 / 56_59_66 + and HPV- in case of ≥ CIN2
+2. Relative risk and 95%CI of HPV+ and HPV- in case of ≥ CIN2
+3. Relative risk and 95%CI of HPV 16 / 18/45 and HPV- in case of ≥ CIN2
+4. Relative risk and 95%CI of HPV 31 / 33_58 / 52 and HPV- in case of ≥ CIN2
+5. Relative risk and 95%CI of HPV 51, 35 / 39 / 68, 56 / 59/66 and HPV- in case of ≥ CIN2
+6. Relative risk and 95%CI of HPV 16 / 18/45 + and HPV 31 / 33_58 / 52 + in case of ≥ CIN2
+7. Relative risk and 95%CI of HPV 16 / 18/45 + and HPV 51, 35 / 39 / 68, 56 / 59/66 + in case of ≥ CIN2
+8. Relative risk and 95%CI of HPV 31 / 33_58 / 52 + and HPV 51, 35 / 39 / 68, 56 / 59/66 + in case of ≥ CIN2, 3 years|HPV risk of ≥ CIN2 in Primary screening, 1. Absolute risk and 95%CI of NILM, HPV-, HPV +, HPV16 / 18/45 +, HPV 31 / 33_58 / 52 +, HPV 51, 35 / 39 / 68, 56 / 59/66 + and HPV in case of ≥ CIN2
+2. Relative risk and 95%CI of NILM and HPV- in case of ≥ CIN2
+3. Relative risk and 95%CI of HPV+ and HPV- in case of ≥ CIN2
+4. Relative risk and 95%CI of HPV 16 / 18/45+ and HPV- in case of ≥ CIN2
+5. Relative risk and 95%CI of HPV 31 / 33_58 / 52 and HPV- in case of ≥ CIN2
+6. Relative risk and 95%CI of HPV 51, 35 / 39 / 68, 56 / 59/66 and HPV- in case of ≥ CIN2
+7. Relative risk and 95%CI of HPV 16 / 18/45 + and HPV 31 / 33_58 / 52 + in case of ≥ CIN2
+8. Relative risk and 95%CI of HPV 16 / 18/45 + and HPV 51, 35 / 39 / 68, 56 / 59/66 + in case of ≥ CIN2
+9. Relative risk and 95%CI of HPV 31 / 33_58 / 52 + and HPV 51, 35 / 39 / 68, 56 / 59/66 + in case of ≥ CIN2, 3 years
+Baseline study of the screened population:
+
+The total sample size of screened population is approximately 12,000 cases (all females ≥ 21 years of age). Two cervical cytology samples will be collected from each subject with a tube of SurePath sample followed by a tube of PreservCyt sample. The 1st tube of SurePath liquid-based cytology sample is used for cytology test and BD Onclarity Assay HPV detection. Subjects with cytology test results ≥ ASCUS or positive HPV test results will be suggested to return for baseline colposcopy within approximately 12 weeks. Subjects with unsatisfactory cytology results may be recalled for a second sampling 2 months after the first collection of the cervical sample. In case of visible lesions under colposcopy, a biopsy of tissues at the site of the lesion will be performed (an ECC will be performed if necessary); in case of no visible lesions, randomly biopsy and/or ECC will be performed if necessary. Patients with histopathological findings ≥ CIN2 will complete the study (see Figure 1). In the baseline colposcopy phase, if the subject is pregnant, the subject will be withdrawn from the study without colposcopy performed.
+
+Based on the age of the subjects, different cytology results, and Surepath BD Onclarity Assay HPV results, a total of more than 500 PreservCyt samples will be selected for BD Onclarity Assay test and the HPV test for control product. For inconsistent results, a third-party sequencing method will be used to determine the final result.
+
+SurePath sample and PreserveCyt sample collected from the same subject will be used for BD OnclarityTM Assay test to compare the consistency of test results, at least 200 samples will be enrolled only for this test. Subjects will exit the study after those HPV test without any other test.
+
+ASCUS referral population study Female subjects with known ASCUS cytology results will be enrolled in the referral population (21-65 years old) if necessary. Female subjects with an ASCUS cytology result will be recalled to sign the informed consent to participate in the study and undergo colposcopy (within 12 weeks from the cytology sampling). For referral population, the remaining cervical samples collected prior to enrollment for cytology test will be tested with the BD Onclarity Assay HPV (see Figure 2). Such population is only used for the assessment of ASCUS triage indications and does not enter the follow-up longitudinal follow-up study.

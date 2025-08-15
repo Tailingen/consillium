@@ -1,0 +1,41 @@
+Clofarabine and Cytarabine in Treating Young Patients With Refractory or Relapsed Acute Myeloid Leukemia or Acute Lymphoblastic Leukemia
+RATIONALE: Drugs used in chemotherapy, such as clofarabine and cytarabine, work in different ways to stop the growth of cancer cells, either by killing the cells or by stopping them from dividing. Giving more than one drug (combination chemotherapy) may kill more cancer cells.
+
+PURPOSE: This phase I/II trial is studying the side effects and best dose of clofarabine when given together with cytarabine and to see how well they work in treating young patients with refractory or relapsed acute myeloid leukemia or acute lymphoblastic leukemia. (Phase I closed to enrollment as of 09/16/09)
+Leukemia
+DRUG: clofarabine|DRUG: cytarabine|DRUG: methotrexate|OTHER: laboratory biomarker analysis
+Overall Response (CR for ALL Patients), (CR + CRp for AML Patients), Overall response for ALL patients: CR - complete remission (attainment of an M1 bone marrow (\< 5% blasts) with no evidence of circulating blasts or extramedullary disease and with recovery of peripheral counts (absolute neutrophil count (ANC) \> 750/μL and platelet count \> 75,000/μL).
+
+Overall response for AML patients: (CR + CRp), defined as:
+
+CR - complete remission (attainment of an M1 bone marrow (\<5% blasts) with no evidence of circulating blasts or extramedullary disease and with recovery of peripheral blood counts (absolute neutrophil count (ANC) \> 1000/uL and platelet count \> 100,000/uL)) or CRp - remission without platelet recovery (Attainment of an M1 bone marrow (\<5% blasts) with no evidence of circulating blasts or extramedullary disease and with recovery of absolute neutrophil count (ANC) \> 1000/uL and platelet transfusion independence (defined as: no platelet transfusions x 1 week))., 2 cycles or up to 84 days
+Safety and Tolerability as Measured by CTCAE v3.0, Number of participants with at least one grade 3 or higher adverse event during therapy., End of therapy|Correlate the Expression of Apoptosis Specific Genes, Correlate the expression of apoptosis specific genes with chemoresistance and determine whether therapy with clofarabine is able to overcome blocks in apoptosis through modulation of gene expression. Gene expression analysis will be performed on specimens obtained during therapy. Apoptosis specific microarray data will be analyzed using GeneTraffic software (Iobion Informatics, La Jolla CA)., End of therapy
+OBJECTIVES:
+
+Primary
+
+* To define the overall response rate (complete remission or remission without platelet recovery) in young patients with relapsed or refractory acute myeloid leukemia (AML) or acute lymphoblastic leukemia (ALL) treated with clofarabine in combination with cytarabine.
+
+Secondary
+
+* To determine the safety profile and tolerability of clofarabine when given in combination with cytarabine in patients with and without prior stem cell transplantation.
+* To identify apoptosis specific genes that are important in mediating response to clofarabine and cytarabine.
+* To quantitate the level of human equilibrative nucleoside transporter proteins (hENT1 and hENT2) and human concentrative nucleoside transporter proteins (hCNT2 and hCNT3) in blasts of these patients.
+* To determine gene expression profiles at study entry and at time of relapse in order to isolate profiles that may predict response and also to complement apoptosis specific protein arrays.
+* To perform serial measurements of minimal residual disease (MRD) to provide an objective determination of the effectiveness of this treatment regimen and to correlate with post remission events (relapse, death).
+* To perform FLT3/ITD analysis to help determine the prevalence and clinical significance of this somatic mutation in patients with relapsed AML.
+
+OUTLINE: This is a multicenter, phase I, dose-escalation study of clofarabine followed by a phase II study. Patients are stratified according to disease (acute lymphoblastic leukemia \[ALL\] vs acute myeloid leukemia \[AML\]). (Phase I closed to accrual as of 09/16/09)
+
+* Intrathecal CNS prophylaxis (all patients with ALL and at physician's discretion for patients with AML or acute leukemia of ambiguous lineage): Patients receive intrathecal (IT) cytarabine on day 0 of the first course of induction therapy. Patients also receive IT methotrexate on day 1 of the second course of induction therapy and on day 1 of all courses of maintenance therapy.
+* Induction therapy:
+
+  * Course 1: Patients receive cytarabine IV over 2 hours and clofarabine IV over 2 hours on days 1-5. Patients with ≥ 5% blasts (i.e., M2 or M3 bone marrow) at days 14-21 proceed immediately to course 2 of induction therapy. Patients with \< 5% blasts (i.e., M1 bone marrow) may proceed to course 2 of induction therapy at blood count recovery or at day 42.
+  * Course 2: Patients receive clofarabine IV over 2 hours followed by cytarabine IV over 2 hours on days 1-5. After the second course of induction therapy, patients with M2 or M3 bone marrow at days 14-21 are removed from the study. Patients with M1 bone marrow proceed to maintenance therapy 14-42 days after the initiation of course 2.
+* Maintenance therapy: Patients receive clofarabine and cytarabine as in induction therapy. Treatment repeats every 14-42 days for up to 10 courses in the absence of disease progression or unacceptable toxicity.
+
+Patients may undergo blood and bone marrow sample collection periodically for correlative laboratory studies.
+
+After completion of study therapy, patients are followed periodically for up to 5 years.
+
+PROJECTED ACCRUAL: A total of 87 patients will be accrued for this study.

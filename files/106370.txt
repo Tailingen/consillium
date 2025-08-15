@@ -1,0 +1,34 @@
+ONC201 and Radiation Therapy Before Surgery for the Treatment of Recurrent Glioblastoma
+This phase I trial studies the effects of ONC201 in combination with standard of care radiation therapy in treating patients with glioblastoma that has come back (recurrent). ONC201 may stop the growth of tumor cells by blocking some of the enzymes needed for cell growth. Radiation therapy uses high energy photons to kill tumors cells and shrink tumors. Giving ONC201 in combination with radiation therapy may help treat patients with recurrent glioblastoma.
+Recurrent Glioblastoma|Recurrent Gliosarcoma|Recurrent Supratentorial Glioblastoma|Supratentorial Gliosarcoma
+DRUG: Akt/ERK Inhibitor ONC201|RADIATION: Radiation Therapy|PROCEDURE: Resection
+Incidence of adverse events, Assessed by the National Cancer Institute Common Terminology Criteria for Adverse Events version 5.0., Up to 90 days after the last study treatment|Percentage of neurosphere formation, A two-sample two-sided t-test will be performed to compare the percentage of neurosphere formation of treated brain tumor tissues and non-treated brain tumor tissues., At the tumor resection during surgery
+Expression of glioma stem cells using ribonucleic acid-sequencing (RNA-Seq), Will be compared between treated brain tumor tissues and non-treated brian tumor tissues. Markers for expression of glioma stem cells as determined by RNA-Seq and makers indicating cellular pathways leading to formation of GICs, such as Sox2, Oct3/4, Nanog, Akt and p-Akt, GSK3 and pGSK3alpha, will be examined graphically and summarized by descriptive statistics. Changes in markers pre- and post- treatment will be assessed using paired t-tests or Wilcoxon signed rank test. Between-group differences in these markers will be assessed by two-sample t-test or Wilcoxon rank-sum test for quantitative variables and by Chi-squared test or Fisher's exact test for categorical ones., At the tumor resection during surgery|Pharmacodynamic (PD) markers, Evaluated by immunohistochemistry such as Sox2, Oct3/4, Nanog, Akt and p-Akt, GSK3 and pGSK3alpha. Markers for expression of glioma stem cells as determined by RNA-Seq and makers indicating cellular pathways leading to formation of GICs, such as Sox2, Oct3/4, Nanog, Akt and p-Akt, GSK3 and pGSK3alpha, will be examined graphically and summarized by descriptive statistics. Changes in markers pre- and post- treatment will be assessed using paired t-tests or Wilcoxon signed rank test. Between-group differences in these markers will be assessed by two-sample t-test or Wilcoxon rank-sum test for quantitative variables and by Chi-squared test or Fisher's exact test for categorical ones., At the tumor resection during surgery
+Progression-free survival, Kaplan-Meier (KM) curves and the median time to progression estimated from the KM curves will be provided for each group as appropriate. Log-rank test will be used to compare Group A versus Group B., Up to 4 years|Overall survival, KM curves and the median time to progression estimated from the KM curves will be provided for each group as appropriate. Log-rank test will be used to compare Group A versus Group B., Up to 4 years|Pharmacodynamic markers, Post-treatment tissues will be assessed for Pharmacodynamic markers (Sox2, Oct3/4, Nanog, Akt and p-Akt, GSK3 and pGSK3alpha) by RNA-seq and IHC to evaluate the immunogenicity of ONC201 for recurrent glioblastoma., At the tumor resection during surgery|Determine if the combination of ONC201 + RT leads to increase cholesterol synthesis, Cholesterol synthesis level will be evaluated via laboratory testing of RNA-seq., At screening, pre-surgery, every 4 weeks post-surgery, and the end of study treatment, up to 48 months|Determine molecular markers of response to ONC201 in correlation to survival such as DRD5 expression, Pre-treatment archival tumor tissue and post-treatment tumor tissue will be obtained to evaluate other molecular markers of response to ONC201 + RT, including pharmacodynamic markers such as DRD2 and DRD5., Up to 4 years
+PRIMARY OBJECTIVES:
+
+I. To determine the safety and tolerability of Akt/ERK Inhibitor ONC201 (ONC201) in combination with radiotherapy before a tumor resection in recurrent glioblastoma (GBM) patients.
+
+II. To determine the ability of ONC201 to decrease glioblastoma-initiating cells as determined by percentage of neurosphere formation of treated brain tumor tissues compared to non-treated brain tumor tissues.
+
+SECONDARY OBJECTIVES:
+
+I. To determine the ability of ONC201 to decrease glioblastoma-initiating cells as determined by expression of glioma stem cells using ribonucleic acid-sequencing (RNA-Seq) of treated brain tumor tissues compared to non-treated brain tumor tissues.
+
+II. To assess the ability of ONC201 to inhibit Akt by evaluating progressive disease (PD) markers by immunohistochemistry such as Sox2, Oct3/4, Nanog, Akt and p-Akt, GSK3 and pGSK3alpha.
+
+EXPLORATORY OBJECTIVES:
+
+I. To estimate progression-free survival (PFS) and overall survival (OS). II. To determine the immunogenicity of the combination of ONC201 + radiation therapy (RT) via immune cell studies.
+
+III. To determine if the combination of ONC201 + RT leads to increase cholesterol synthesis.
+
+IV. To determine molecular markers of response to ONC201 in correlation to survival such as DRD5 expression.
+
+OUTLINE: Patients are randomized to 1 of 2 arms.
+
+ARM I: Patients undergo radiation therapy for 10 fractions over 2 weeks, and receive ONC201 orally (PO) daily on days 1, 2, 8, and 9. Beginning 24 hours after completion of radiation therapy, patients undergo surgical resection. Beginning 7 days from last pre-surgery dose of ONC201, patients receive ONC201 PO daily on two consecutive days weekly (2 days on/5 days off) in the absence of disease progression or unacceptable toxicity.
+
+ARM II: Patients undergo radiation therapy for 10 fractions over 2 weeks. Beginning 24 hours after completion of radiation therapy, patients undergo surgical resection. After recovery from surgery, patients receive ONC201 PO daily on two consecutive days weekly (2 days on/5 days off) in the absence of disease progression or unacceptable toxicity.
+
+After completion of study treatment, patients are followed up at 30 days and then every 3 months.

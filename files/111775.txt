@@ -1,0 +1,36 @@
+Combination Chemotherapy and Bevacizumab With or Without PRI-724 in Treating Patients With Newly Diagnosed Metastatic Colorectal Cancer
+This randomized phase II trial studies how well combination chemotherapy and bevacizumab with or without CBP/beta-catenin antagonist PRI-724 (PRI-724) works in treating patients with newly diagnosed colorectal cancer that has spread to other places in the body. Drugs used in chemotherapy, such as leucovorin calcium, oxaliplatin, and fluorouracil, work in different ways to stop the growth of tumor cells, either by killing the cells, by stopping them from dividing, or by stopping them from spreading. Monoclonal antibodies, such as bevacizumab, may block tumor growth in different ways by targeting certain cells. PRI-724 may help stop the growth of cancer cells by blocking the specific signaling pathway that cancer cells need to grow and spread. It is not yet known whether combination chemotherapy and bevacizumab works better with or without PRI-724 in treating patients with metastatic colorectal cancer.
+Colorectal Adenocarcinoma|Stage IVA Colorectal Cancer|Stage IVB Colorectal Cancer
+DRUG: CBP/beta-catenin Antagonist PRI-724|BIOLOGICAL: Bevacizumab|DRUG: Leucovorin Calcium|DRUG: Oxaliplatin|DRUG: Fluorouracil|OTHER: Laboratory Biomarker Analysis
+Progression free survival (PFS), PFS will be compared between arms by intent-to-treat using Kaplan-Meier curves. The median PFS and 95% confidence interval (CI) will be estimated. Unstratified and stratified hazard ratios and 95% CI will be estimated using the Cox-regression model., From time of randomization to time of progression or death on study whichever comes first, assessed up to 2 years
+Overall survival (OS), OS by arm will be compared using Kaplan-Meier curves and log-rank test., From time of randomization until death due to any cause, assessed up to 3 years|Overall response rate, Calculated as the ratio of the number of evaluable patients who experienced a confirmed complete response or partial response by Response Evaluation Criteria In Solid Tumors divided by the total number of randomized patients in each arm. 95% Wilson confidence intervals will be constructed. The difference in response rate by arm will be tested using chi-square test or Fisher's exact test whenever appropriate., Up to 3 years|Incidence of adverse events evaluated according to the National Cancer Institute CTCAE version 4.0, Up to 30 days after the last dose of study drugs|Survivin mRNA expression levels, Survivin expression level changes in CTC by cycles will be analyzed by repeated measures analysis of variance., Up to 3 years
+KRAS/BRAF mutation status, Baseline|Intratumoral gene expression of Wnt related biomarkers, The change in the gene expression levels prior to and after treatment will be analyzed by the paired t-test, or signed rank test as appropriate., Up to 3 years
+PRIMARY OBJECTIVES:
+
+I. Determine the progression-free survival in patients with newly diagnosed metastatic colorectal cancer treated with modified fluorouracil, leucovorin calcium, and oxaliplatin 6 (mFOLFOX6)/bevacizumab and PRI-724 vs. mFOLFOX6/bevacizumab alone.
+
+SECONDARY OBJECTIVES:
+
+I. Overall survival, defined as period from time of randomization to death. II. Response rate. III. Determine the incidence and severity of adverse events of PRI-724 administered as a 7-day continuous infusion in patients treated with mFOLFOX6/bevacizumab and PRI-724.
+
+IV. Determine messenger ribonucleic acid (mRNA) expression levels of genes involved in the Wnt pathway (i.e. survivin) by reverse transcriptase-polymerase chain reaction (RT-PCR) in patients treated with mFOLFOX6/bevacizumab and PRI-724 vs. mFOLFOX6/bevacizumab alone both in circulating tumor cells (CTCs) and tumor biopsy specimens.
+
+V. Determine if CTC survivin and stem cell marker expression is consistent and congruent with expression in tumor specimens.
+
+TERTIARY OBJECTIVES:
+
+I. Determine if a correlation exists between Kirsten rat sarcoma viral oncogene homolog (KRAS)/ B-Raf proto-oncogene, serine/threonine kinase (BRAF) mutation status and intratumoral gene expression of the following Wnt related biomarkers: survivin, vascular endothelial growth factor (VEGF), epidermal growth factor (EGF), epidermal growth factor receptor (EGFR), S100 calcium binding protein A4 (S100A4), EPH receptor B2 (EphB2), connexin43, cyclinD1 in patients treated with mFOLFOX6/bevacizumab and PRI-724 vs. mFOLFOX6/bevacizumab alone.
+
+II. Determine the mutational spectrum in colon cancer tissues. III. Determine single nucleotide polymorphism (SNP) profiles in normal and colon cancer tissues.
+
+IV. Determine and describe tumor heterogeneity in colon cancer tissue prior to and during treatment with PRI-724.
+
+V. Determine gene expression signatures, micro RNA (miRNA) signatures, and deoxyribonucleic acid (DNA) methylation signatures as potential predictive and prognostic markers.
+
+OUTLINE: Patients are randomized to 1 of 2 treatment arms.
+
+ARM I: Patients receive CBP/beta-catenin antagonist PRI-724 intravenously (IV) continuously on days 1-7, bevacizumab IV over 30 minutes, leucovorin calcium IV over 2 hours, oxaliplatin IV over 2 hours, and fluorouracil IV over 46 hours on day 8. Courses repeat every 14 days in the absence of disease progression or unacceptable toxicity.
+
+ARM II: Patients receive bevacizumab, leucovorin calcium, oxaliplatin, and fluorouracil as in Arm I. Courses repeat every 14 days in the absence of disease progression or unacceptable toxicity.
+
+After completion of study treatment, patients are followed up at 30 days and then every 3 months.

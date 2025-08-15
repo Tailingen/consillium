@@ -1,0 +1,45 @@
+Talabostat and Pembrolizumab for the Treatment of Advanced Solid Cancers
+This phase II trial studies the side effects of talabostat and pembrolizumab and to see how well they work for the treatment of solid cancers that have spread to other places in the body (advanced). Talabostat may stop the growth of tumor cells by blocking some of the enzymes needed for cell growth. Immunotherapy with monoclonal antibodies, such as pembrolizumab, may help the body's immune system attack the cancer, and may interfere with the ability of tumor cells to grow and spread. Giving talabostat and pembrolizumab may help control the disease.
+Advanced Malignant Solid Neoplasm|Recurrent Malignant Solid Neoplasm
+BIOLOGICAL: Pembrolizumab|DRUG: Talabostat Mesylate
+Disease Control Rate Per RECIST v1.1, Disease control rate was defined as the percentage of patients who had complete response (CR), partial response (PR), or stable disease (SD) according to RECIST v1.1., At baseline and at the end of Cycle 3 (approximately 9 weeks after the first study treatment dose), and then approximately every 9 weeks thereafter until development of progressive disease, up to 3 years|Immune-related Disease Control Rate Per iRECIST, Immune-related disease control rate was defined as the percentage of patients who had immune-related complete response (iCR), immune-related partial response (iPR), or immune-related stable disease (iSD) according to iRECIST., At baseline and at the end of Cycle 3 (approximately 9 weeks after the first study treatment dose), and then approximately every 9 weeks thereafter until development of progressive disease, up to 3 years|Dose-limiting Toxicities (DLTs), A DLT was defined as any of the following AEs occurring during Cycle 1, regardless of investigator attribution to study treatment:
+
+* Any Grade 4 laboratory abnormality, regardless of duration.
+* Any Grade 3 laboratory abnormalities if associated with clinical symptoms regardless of duration
+* Any Grade ≥3 non-hematologic AE, with the exceptions of Grade ≥3 nausea, vomiting, diarrhea, constipation, and fatigue, that resolves to Grade ≤1 within 72 hours with optimal medical management and/or supportive measures.
+* Grade ≥3 thrombocytopenia with Grade \>1 bleeding or requirement for platelet transfusion.
+* Grade ≥3 febrile neutropenia.
+* Grade ≥3 fever.
+* Grade ≥3 skin rash.
+* AST or ALT \>3 × upper limit of normal \[ULN\] with concomitant total bilirubin \>2 × ULN.
+* Any toxicity resulting in ≥30% held/skipped doses of BXCL701 during Cycle 1.
+* Delay of Cycle 2 by ≥14 days due to toxicity.
+* Any other significant toxicity considered by the investigatoro be dose-limiting., DLT was assessed during Cycle 1 (21-day cycle)
+Progression-free Survival (PFS) by RECIST v1.1, PFS was defined as the time from administration of the first dose to the first documented disease progression by RECIST v1.1 or death due to any cause, whichever occurs first. Patients who were alive and had not experienced disease progression at the time of data cutoff were censored., At baseline and at the end of Cycle 3 (approximately 9 weeks after the first study treatment dose), and then approximately every 9 weeks thereafter until development of progressive disease, up to 3 years|Progression-free Survival (PFS) by iRECIST, PFS was defined as the time from administration of the first dose to the first documented disease progression by iRECIST v1.1 or death due to any cause, whichever occurs first. Patients who were alive and had not experienced disease progression at the time of data cutoff were censored., At baseline and at the end of Cycle 3 (approximately 9 weeks after the first study treatment dose), and then approximately every 9 weeks thereafter until development of progressive disease, up to 3 years|Overall Survival (OS), Overall survival was measured from the first date of administration of the study drug to the date of death due to any cause. Patients who were alive at the last follow-up examination were censored., From the first date of administration of the study drug to the date of data cut-off (January 7, 2024)|Treatment-related Adverse Event (TRAE), All safety data from all patients, who received at least one dose of study drug were included in safety analysis. Each AE (as defined by NCI CTCAE v5) was counted only once for a given subject. In the event a patient experienced repeated episodes of the same AE, then the event with the highest severity and/or strongest causal relationship to study treatment was used for purposes of tabulations., Patients were monitored for AE from the first day of administration of study medication through 30 days following the last dose of BXCL701 and or pembrolizumab, an average of 3 years.
+PRIMARY OBJECTIVES:
+
+I. To evaluate response rate per Response Evaluation Criteria in Solid Tumors (RECIST) and immune (i)RECIST in patients treated in cohort A and in patients treated in cohort B.
+
+II. To evaluate dose-limiting toxicities (DLT) in the first 6 patients enrolled to the study.
+
+SECONDARY OBJECTIVES:
+
+I. To evaluate progression-free survival (PFS). II. To evaluate duration of response (DOR). III. To evaluate overall survival (OS). IV. To evaluate overall safety and tolerability.
+
+EXPLORATORY OBJECTIVES:
+
+I. To evaluate the quantitative and qualitative effects of talabostat (BXCL701) in combination with pembrolizumab on relevant immune effector cytokines in blood.
+
+II. To evaluate the quantitative and qualitative effects of BXCL701 in combination with pembrolizumab on various immunological effector cells, including neutrophils, myeloid derived suppressor cells (MDSCs), dendritic cells, cancer associated fibroblast (CAF), T-cells and macrophage density in pre-dose tumor biopsies and when feasible in post-dose tumor tissues.
+
+III. To explore the predictive value of baseline programmed death ligand 1 (PD-L1) tumor expression and tumor mutation burden (TMB) with clinical outcomes.
+
+IV. To evaluate changes in serially collected blood circulating tumor deoxyribonucleic acid (DNA) (ctDNA) to assess for tumor response and clonal evolution.
+
+V. To evaluate pre- and post-treatment PD-L1 positron emission tomography (PET)/computed tomography (CT) as a predictive tool for therapeutic efficacy.
+
+OUTLINE:
+
+Patients receive talabostat orally (PO) twice daily (BID) on days 1-14 and pembrolizumab intravenously (IV) over 30 minutes on day 1. Cycles repeat every 21 days in the absence of disease progression or unacceptable toxicity.
+
+After completion of study treatment, patients are followed up at 30 days.

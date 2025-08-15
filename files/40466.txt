@@ -1,0 +1,37 @@
+Intensified Follow-up of Lung Cancer Using Weekly Questionnaires Via the Internet
+This randomized controlled trial (RCT) will test if weekly supplementary internet-based self-monitoring of 12 core symptoms can increase survival in Danish lung cancer patients during follow-up or maintenance treatment. A threshold mechanism will automatically send an alert to the hospital in case of alarming or worsening symptoms and the patient will be contacted by the treating clinicians.
+Lung Cancer
+OTHER: Weekly Internet based PRO questionnaires
+Overall survival, 2 years
+ECOG (Eastern Cooperative Oncology Group) Performance status at time of progression, (0-5) 0 - Asymptomatic (Fully active, able to carry on all predisease activities without restriction)
+
+1. - Symptomatic but completely ambulatory (Restricted in physically strenuous activity but ambulatory and able to carry out work of a light or sedentary nature. For example, light housework, office work)
+2. - Symptomatic, \<50% in bed during the day (Ambulatory and capable of all self care but unable to carry out any work activities. Up and about more than 50% of waking hours)
+3. - Symptomatic, \>50% in bed, but not bedbound (Capable of only limited self-care, confined to bed or chair 50% or more of waking hours)
+4. - Bedbound (Completely disabled. Cannot carry on any self-care. Totally confined to bed or chair)
+5. - Death, 2 years|Progression free survival, 2 years|Type of treatment at time of progression, Number of patients who are candidates for 2nd line medical antineoplastic treatment, 2 years|Quality of life (QOL) measured by EuroQol EQ-5D-5L., EQ-5D-5L measures individual generic health status using 5 dimensions: mobility, self-care, usual activities, pain/discomfort, and anxiety/depression, and each dimension has 5 levels depending on severity of symptoms (1 no problems, 5 extreme problems) and a VAS (visual analogue scale). The scores can then be converted into a single index number. The index value will be used for calculation of quality-adjusted life years (QALYs) for a health economic analysis of the intervention., 2 years|Quality of life measured by EORTC QLQ C30/LC13., The EORTC QLQ-C30 questionnaire consists of 30 questions with five functional scores (physical, role, cognitive, emotional and social); a global health status score three symptom scale score (fatigue, pain, nausea and vomiting); and six independent one-item scores describing additional symptoms (dyspnea, appetite loss, sleep disturbance, constipation and diarrhea) and financial burden.
+
+The EORTC QLQ-LC13 is a supplementary module to the C30 questionnaire and generates a multiple-item scale score of dyspnea and a number of single-item scores that assesses chest pain, arm / shoulder pain, pain in other parts, coughing, sore mouth, dysphagia, peripheral neuropathy, alopecia and hemoptysis.
+
+All scales and single-item scores can be linearly transformed to a score ranged from 0 to 100. A higher score of global health and functional subscriptions indicates better functioning., 2 years|HADS score (Hospital Anxiety And Depression Scale), The HADS (The hospital anxiety and depression scale) is a fourteen-item scale. Seven items relate to depression and seven to anxiety. The tool has been developed for detection of anxiety and depression in patients with physical health problems. All items are scored from 0-3 with a possible total score between 0 and 21 for anxiety and depression respectably.
+
+A cut-off point of \>7 for anxiety or depression is considered significant., 2 years|Qualitative interviews, Qualitative interviews with members of the clinical staff and a group of patients in the intervention arm will be conducted during the study period. The purpose is to identify barriers, advantages and possible reasons for the outcomes of the study., 2 years|Baseline questionnaires of non-participants, All patients who met the inclusion criteria but declined to participate in the trial will be asked to fill in a questionnaire. The questionnaire will include information on socioeconomics, reasons for non-participation and the same HRQoL questionnaires that are filled in by the participants in the trial (EORTC QLQ-C30/LC13, HADS, EQ-5D-5L).
+
+The purpose is to identify baseline differences between participants and non-participants and thereby testing the PRO system for generalizability., 2 years
+This multicenter RCT study enrolls patients diagnosed with stage IV og incurable stage III lung cancer who has non-progressive disease at first evaluation scan. Patients in follow-up or maintenance therapy are eligible.
+
+492 patients will be included in the study with 246 patients in each group.
+
+Intervention In the experimental arm, patients will be asked to fill in a web-based Patient Reported Outcome (PRO) questionnaire every week. If one of the reported symptoms worsens and exceed a predefined threshold of severity, a notification is automatically sent to the hospital. A nurse will review til questionnaire and contact the patient for verification of symptoms. If progression of disease is suspected, a CT scan will be made. Otherwise, the nurse will schedule a visit at the clinic for physical examination and evaluation by a clinician. If progressive disease is not suspected, supportive care will be adjusted and the patient will continue follow up according to the usual schedule.
+
+The interventions ends in case of progressive disease.
+
+Evaluation Baseline CT-scan of thorax and upper abdomen is performed prior to initial treatment and an evaluation CT scan at the time of enrolment. CT scans will be repeated for assessing signs of progression due to standard follow-up procedures in both groups. If progressive disease is suspected based on symptom development, the following scan will be rescheduled to as soon as possible.
+
+Quality of life (QoL) will be measured in both groups using EORTC (European Organisation for Research and Treatment of Cancer) QOL-C30 / LC13 and HADS (Hospital Anxiety And Depression Scale) quality of life questionnaires every 2 month during the study period.
+
+Objectives The primary objective is to test if supplementary weekly PRO monitoring increases overall survival in a Danish Lung Cancer population
+
+Monitoring Clinical decisions taken on the basis of PRO notifications will daily be registered in the software system by the clinicians. Patient responses to questionnaires and PRO-notification handling by the clinical staff will be monitored by Primary Investigator.
+
+End points will be entered by local site investigators.

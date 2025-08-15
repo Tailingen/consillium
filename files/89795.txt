@@ -1,0 +1,37 @@
+PSCA-CAR T Cells in Treating Patients With PSCA+ Metastatic Castration Resistant Prostate Cancer
+This phase I trial studies side effects and best dose of PSCA-chimeric antigen receptor (CAR) T cells in treating patients with prostate stem cell antigen positive (PSCA+) castration resistant prostate cancer that has spread to other places in the body (metastatic). PSCA-CAR T cells are immune cells that have been engineered in the laboratory to kill tumor cells. This is done by using a virus to insert a piece of deoxyribonucleic acid (DNA) into the immune cells that allows them to recognize prostate tumor cells. It is not yet known how well PSCA-CAR T cells works in killing tumor cells in patients with metastatic castration resistant prostate cancer.
+Castration-Resistant Prostate Carcinoma|Metastatic Prostate Carcinoma|Stage IV Prostate Cancer AJCC v8|Stage IVA Prostate Cancer AJCC v8|Stage IVB Prostate Cancer AJCC v8
+BIOLOGICAL: Autologous Anti-PSCA-CAR-4-1BB/TCRzeta-CD19t-expressing T-lymphocytes|DRUG: Cyclophosphamide|DRUG: Fludarabine|DRUG: Fludarabine Phosphate
+Grade 3 Toxicity Profile, Grade 3 toxicity profile as assessed by the National Cancer Institute (NCI) Common Terminology Criteria for Adverse Events (CTCAE) version (v)5 and modified Cytokine Release Syndrome (CRS) grading as applicable post chimeric antigen receptor (CAR) T cell infusion., Up to 32 months|Number of Participants Experiencing a Dose-limiting Toxicity (DLT), Defined by any grade 3 or NCI CTCAE toxicities and modified CRS grading as applicable., Up to 28 days post treatment
+Percent of Participants With CAR T Cells Persistence at Day 28, Persistence is defined as CAR T cells comprising at least 7.5 copies/ug of DNA of total CD3 cells., Days 28 post infusion|Expansion of CAR T Cells, Peak expansion (max log10 copies/ug of genomic deoxyribonucleic acid \[DNA\]) will be described., Up to 28 days post treatment|Percent of Participants Achieving Stable Disease, Rates and associated 90% Clopper and Pearson binomial confidence limits will be estimated for response based on Prostate Cancer Working Group 3 (PCWG3) criteria., Up to 1 year post treatment|Percent of Participants Alive at Six Months, Rates and associated 95% exact Clopper and Pearson binomial confidence intervals will be estimated., From CAR T cell infusion to death from any cause or last contact date, assessed up to 6 months
+PRIMARY OBJECTIVES:
+
+I. Define the safety and tolerability of autologous anti-PSCA-CAR-4-1BB/TCRzeta-CD19t-expressing T lymphocytes (PSCA-CAR T cells) in patients with PSCA+ metastatic castration resistant prostate cancer (mCRPC).
+
+II. Define the recommended phase 2 dose (RP2D) of PSCA-CAR T cells in patients with PSCA+ mCRPC.
+
+SECONDARY OBJECTIVES:
+
+I. Assess the expansion and persistence of PSCA-CAR T cells.
+
+II. Assess clinical response based on Prostate Cancer Working Group 3 (PCWG3) criteria.
+
+III. Assess survival outcomes (including biochemical progression free survival \[PFS\], radiographic PFS and overall survival \[OS\]).
+
+IV. Assess serum cytokine profiles in peripheral blood pre- and post-therapy. V. Describe the PSCA expression level on tumor cells prior to CAR T cell infusion, and the relationship it may have with disease response and observed toxicities.
+
+EXPLORATORY OBJECTIVES:
+
+I. Characterize the phenotypes and frequencies of immune cell subsets in the peripheral blood pre- and post-therapy.
+
+II. Enumerate and characterize tumor-infiltrating lymphocytes (TILs) pre- and post-therapy.
+
+III. Enumerate and analyze gene expression of circulating tumor cells (CTC) pre- and post-therapy.
+
+IV. Analyze circulating cell-free DNA (cfDNA). V. Determine the immunogenicity of PSCA-CAR T cells.
+
+OUTLINE: This is a dose-escalation study.
+
+Patients may receive lymphodepleting regimen at the discretion of the treating physician including fludarabine intravenously (IV) on days -5 to -3 and cyclophosphamide IV on days -5 to -3 or on days -4 and/or -3. Patients then receive autologous anti-PSCA-CAR-4-1BB/TCRzeta-CD19t-expressing T lymphocytes IV over 10-15 minutes at day 0.
+
+After completion of study treatment, patients are followed up at day 1, every 2 days for up to 14 days, weekly for up to 1 month, every month for up to 1 year, and then annually for up to 15 years.

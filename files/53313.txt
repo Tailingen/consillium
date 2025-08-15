@@ -1,0 +1,33 @@
+Gemcitabine and Cisplatin Without Cystectomy for Patients With Muscle Invasive Bladder Urothelial Cancer and Select Genetic Alterations
+This phase II trial studies how well gemcitabine hydrochloride and cisplatin work in treating participants with invasive bladder urothelial cancer. Drugs used in chemotherapy, such as gemcitabine hydrochloride and cisplatin, work in different ways to stop the growth of tumor cells, either by killing the cells, by stopping them from dividing, or by stopping them from spreading.
+Infiltrating Bladder Urothelial Carcinoma|Stage II Bladder Urothelial Carcinoma|Stage III Bladder Urothelial Carcinoma
+DRUG: Gemcitabine Hydrochloride|DRUG: Cisplatin|BIOLOGICAL: Pegfilgrastim|PROCEDURE: Conventional Surgery|PROCEDURE: Radical Cystectomy|OTHER: Chemoradiotherapy
+Proportion of patients who are recurrence-free within the DDR mutated group who undergo the bladder sparing approach, Will use Kaplan Meier survival analysis to estimate the proportion of patients who are recurrence-free at three years. Will use a one-sided 90% confidence interval., At 3 years
+Clinical response rate for patients harboring deleterious DDR gene alterations, Will be defined as the number of patients with less than a cT1 response divided by the total number of patients harboring deleterious DDR gene alterations who completed 6 cycles of dose dense gemcitabine and cisplatin., After 6 courses (84 days)|Bladder-intact survival in DDR-altered patients with < cT1 responses who selected the bladder sparing approach, Will be estimated with Kaplan-Meier estimators and corresponding 95% confidence intervals., Time from registration up to 5 years|Overall survival, Will be estimated with Kaplan-Meier estimators and corresponding 95% confidence intervals., Time from study registration up to 5 years|Pathologic response (pT0) rate at cystectomy in participants without DDR gene alterations, This will be the number of patients without DDR gene alterations with pT0 at cystectomy divided by the number of patients without DDR gene alterations who underwent cystectomy following the completion of dose dense gemcitabine and cisplatin treatment. Will be estimated with a binomial point estimate and corresponding 95% binomial confidence intervals., Up to 5 years|Recurrence-free survival, The Kaplan-Meier estimator will be used to estimate the proportion of patients who are recurrence-free success at three years under the two alternative definitions of recurrence-free success above. The point estimate for the three-year recurrence free survival rate will be reported with a 95% confidence interval. These analyses will also be repeated for 5-year recurrence free survival., Time from study registration up to 5 years|The rate of cystectomies in patients with a DDR alteration and with a cT0/CIS/Ta response, Will be computed as the number of patients with a DDR alteration and with a cT0/CIS/Ta response who undergo a cystectomy within 3 years divided by the total number of patients with a DDR alteration and with a cT0/CIS/Ta response. Will be estimated with a binomial point estimate and corresponding 95% binomial confidence intervals., Within 3 years|Proportion of patients in the bladder-sparing group who undergo local therapy, Will be estimated with a binomial point estimate and 95% binomial confidence interval. The estimate will be determined as the number of patients who undergo local treatment (BCG or resection of non-invasive disease) in the bladder-sparing group divided by the total number of patients in the bladder-sparing group., Up to 5 years
+PRIMARY OBJECTIVES:
+
+I. To determine the 3-year event free survival, defined as the proportion of patients without invasive or metastatic recurrence following definitive gemcitabine hydrochloride (gemcitabine) and cisplatin (standard or dose-dense) chemotherapy in those patients whose pre-treatment transurethral resection of bladder tumor (TURBT) tumors harbor deleterious DDR gene alterations and who achieve \< cT1 response to chemotherapy.
+
+SECONDARY OBJECTIVES:
+
+I. To determine the clinical response rate (\< cT1) for patients harboring deleterious DDR gene alterations following dose dense gemcitabine and cisplatin.
+
+II. To determine the bladder-intact and overall survival for DDR-altered patients with \< cT1.
+
+III. For DDR gene altered patients who elect radical cystectomy despite \< cT1, to determine the pT0 rate in this patient population.
+
+IV. To determine the pathologic response rate at cystectomy and 3-year recurrence-free and overall survival for patients without DDR mutations who are registered onto this trial.
+
+V. To assess the local treatment burden (Bacillus Calmette-Guerin \[BCG\] therapy, resection of non-invasive disease, checkpoint blockade) over time in the bladder-sparing group.
+
+VI. To determine the bladder-intact disease-free survival in patients who elect to undergo chemoradiation therapy in the DDR mutant group and the DDR wild-type group.
+
+OUTLINE:
+
+Participants receive gemcitabine hydrochloride intravenously (IV) over 30 minutes on day 1, cisplatin IV on days 1 and 2, and pegfilgrastim subcutaneously (SC) on day 3. Treatment repeats every 14 days for up to 6 courses in the absence of disease progression or unaccepted toxicity. Participants are then assigned to 1 of 2 arms.
+
+ARM I: Participants with DDR gene alteration and disease stage \< cT1 undergo bladder sparing.
+
+ARM II: Participants with DDR gene alteration and disease stage \>= cT1 or participants without DDR gene alteration undergo radical cystectomy or chemoradiotherapy.
+
+After completion of study treatment, participants are followed up for 5 years.

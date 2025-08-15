@@ -1,0 +1,36 @@
+Vaccine Therapy for Patients With Stage IIIC-IV Ovarian Epithelial, Fallopian Tube, or Primary Peritoneal Cavity Cancer
+This pilot clinical trial studies the safety and immunogenicity of vaccine therapy in treating patients with stage IIIC-IV ovarian epithelial, fallopian tube, or primary peritoneal cavity cancer following surgery and chemotherapy. Vaccines made from a person's peptide treated white blood cells may help the body build an effective immune response to kill tumor cells.
+Fallopian Tube Clear Cell Adenocarcinoma|Fallopian Tube Endometrioid Tumor|Fallopian Tube Mucinous Neoplasm|Fallopian Tube Serous Neoplasm|Fallopian Tube Transitional Cell Carcinoma|Ovarian Clear Cell Cystadenocarcinoma|Ovarian Endometrioid Adenocarcinoma|Ovarian Mucinous Cystadenocarcinoma|Ovarian Seromucinous Carcinoma|Ovarian Serous Cystadenocarcinoma|Ovarian Transitional Cell Carcinoma|Primary Peritoneal Serous Adenocarcinoma|Recurrent Fallopian Tube Carcinoma|Recurrent Ovarian Carcinoma|Recurrent Primary Peritoneal Carcinoma|Stage IIIC Fallopian Tube Cancer|Stage IIIC Ovarian Cancer|Stage IIIC Primary Peritoneal Cancer|Stage IV Fallopian Tube Cancer|Stage IV Ovarian Cancer|Stage IV Primary Peritoneal Cancer|Undifferentiated Fallopian Tube Carcinoma|Undifferentiated Ovarian Carcinoma
+OTHER: Laboratory Biomarker Analysis|BIOLOGICAL: Multi-epitope Folate Receptor Alpha-loaded Dendritic Cell Vaccine
+Incidence of dose-limiting toxicities (DLT), graded using the National Cancer Institute Common Terminology Criteria for Adverse Events version 4.0, If the accrual schema is completed and there are fewer than 5 patients with a DLT, the vaccination treatment will be considered safe in this patient population., Up to 3 weeks
+Overall survival (OS), The Kaplan-Meier method will be used to estimate the distribution of OS., Number of days from study registration until death due to any cause, assessed up to 5 years|Time to disease recurrence (TDR), The Kaplan-Meier method will be used to estimate the distribution of TDR., Number of days from study registration until disease recurrence or death, assessed up to 5 years
+Change in FRalpha expression, Assessed using simple summary statistics (mean and 95% confidence interval., Baseline up to week 107|Change in the number of FRalpha-specific IL-17-secreting Th cells, Assessed using simple summary statistics (mean and 95% confidence interval., Baseline up to week 107|Change in the number of FRalpha-specific T cells that secrete IFNgamma, TNFalpha, IL-10, and granzyme B, Assessed using simple summary statistics (mean and 95% confidence interval., Baseline up to week 107|Changes in peripheral blood immune cell subsets, Assessed using simple summary statistics (mean and 95% confidence interval., Baseline up to week 107|DTH skin reaction specific for FRalpha., The percent of each category will be calculated along with a 95% confidence interval., Up to week 104|Induction of antibodies specific for FRalpha, The percent of each category will be calculated along with a 95% confidence interval., Up to week 107
+PRIMARY OBJECTIVES:
+
+I. Determine the safety and tolerability of folate receptor alpha dendritic cell (FRalphaDC) vaccination (folate receptor alpha-peptide loaded dendritic cell vaccine).
+
+SECONDARY OBJECTIVES:
+
+I. Measure time to disease recurrence of patients treated with FRalphaDCs. II. Measure overall survival of patients treated with FRalphaDCs.
+
+TERTIARY OBJECTIVES:
+
+I. Determine whether FRalphaDC vaccination induces an increase in the number of FRalpha-specific interleukin (IL)-17-secreting T helper (Th) cells, as determined by enzyme-linked immunosorbent spot (ELISpot).
+
+II. Determine whether FRalphaDC vaccination induces an increase in the number of FRalpha-specific T cells that secrete interferon (IFN)gamma, tumor necrosis factor (TNF)alpha, IL-10, and granzyme B, as determined by ELISpot.
+
+III. Determine whether FRalphaDC vaccination induces antibodies specific for FRalpha.
+
+IV. Determine whether FRalphaDC vaccination induces a delayed type hypersensitivity (DTH) skin reaction specific for FRalpha.
+
+V. Measure FRalpha expression in patients' primary tumors and in tumors that recur after FRalphaDC vaccine treatment (when available).
+
+VI. Determine whether FRalphaDC vaccination is associated with changes in peripheral blood immune cell subsets.
+
+OUTLINE: This is a dose-escalation study.
+
+INDUCTION PHASE: Patients receive folate receptor alpha peptide-loaded dendritic cell vaccine intradermally (ID) on day 1. Treatment repeats every 3 weeks for 5 courses in the absence of disease progression or unacceptable toxicity.
+
+MAINTENANCE PHASE: Patients receive folate receptor alpha peptide-loaded dendritic cell vaccine ID on day 1. Treatment repeats every 3 months for 7 courses in the absence of disease progression or unacceptable toxicity.
+
+After completion of study treatment, patients are followed up every 3-6 months for up to 5 years.

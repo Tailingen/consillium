@@ -1,0 +1,19 @@
+Can Neoadjuvant Chemoradiotherapy be Ommited in Mid-rectal Cancer: A Prospective, Observational Cohort
+This project aims to compare the oncological and functional outcomes of patients with mid-rectal cancer who have a low risk of local recurrence (without MRF involvement) and who either receive or do not receive neoadjuvant chemoradiotherapy (nCRT).
+
+Main Question:
+
+H0: In mid-rectal cancer patients without MRF involvement (cT2N+ and cT3Nx), there is no difference in 3-year disease-free survival between direct TME and TME after nCRT.
+
+H1: In mid-rectal cancer patients without MRF involvement (cT2N+ and cT3Nx), direct TME is associated with worse 3-year disease-free survival compared to TME after nCRT.
+
+Participants already taking both interventions as part of their regular medical care for rectal cancer will be recruited in a prospective database for 5 years.
+Mid-Rectal Cancer|Rectal Cancer Stage II|Rectal Cancer Stage III
+OTHER: Total mesorectal excision|OTHER: Neoadjuvant Chemotherapy followed by total mesorectal excision
+Disease-free survival (DFS), The proportion of patients who remain free of disease recurrence (local or distant) three years after surgical intervention. DFS will be assessed through clinical evaluations, imaging studies, and pathology reports at regular follow-up intervals., 3 years
+Overall Survival, The proportion of patients alive at 3 and 5 years post-treatment, regardless of disease status., 3 and 5 years|Local Recurrence Rate, The percentage of patients experiencing tumor recurrence at the primary site (anastomosis or pelvis) within 3 and 5 years., 3 years and 5 years|Colorectal Cancer Specific Quality of Life, Patient-reported outcomes assessed using the New Cleveland Clinic Colorectal Cancer Quality of Life Questionnaire, 1 year, 3 years and 5 years|Bowel Dysfunction Related Quality of Life, Patient-reported outcomes assessed using the low-anterior resection syndrome (LARS) score., 1 year, 3 years and 5 years
+Neoadjuvant chemoradiotherapy (nCRT) followed by total mesorectal excision (TME) is the standard treatment for patients with locally advanced rectal cancer. This approach has been shown to improve local control and reduce recurrence rates. However, there is no clear evidence showing the advantage of neoadjuvant CRT in high and middle rectal tumors without involvement of mesorectal fascia (MRF). The MERCURY study demonstrated that preoperative MRI-predicted positive CRM is an independent factor for local recurrence. Following this study, the selective use of nCRT in patients at high risk of local recurrence has been proposed.
+
+The ESMO guidelines indicate that T3a/b rectal tumors located above the levator muscles, without involvement of the circumferential resection margin (CRM) or extramural venous invasion (EMVI), are associated with a very low risk of local recurrence. Consequently, they suggest that upfront TME may be an appropriate treatment option for this subgroup of patients. This recommendation remains unchanged in the presence of lymph node involvement within the same group. For clinically staged cT3a/b mid- or high-rectal tumors with clear CRM and no evidence of EMVI, the routine use of nCRT remains a subject of debate. If the surgeon consistently performs high-quality total mesorectal excision (TME), upfront surgery may be a suitable treatment option for this subgroup of patients.
+
+In line with these recommendations, some surgeons perform upfront TME for patients with T2-3 node-positive mid-rectal cancer in the absence of MRF involvement. However, in these cases, the common approach is to administer neoadjuvant chemoradiotherapy. This study seeks to observe whether upfront TME achieves similar 3-year disease-free survival compared to the standard approach of nCRT followed by TME in patients with cT2N+ and cT3Nx mid-rectal cancer without mesorectal fascia involvement.

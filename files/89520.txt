@@ -1,0 +1,25 @@
+Neoadjuvant DPX-Survivac Aromatase Inhibition, Radiotherapy or Cyclophosphamide in HR+HER2- Breast Cancer
+The study seeks to establish the safety of neoadjuvant aromatase inhibitor with: DPX-Survivac, DPX-Survivac plus radiation, or DPX-Survivac with cyclophosphamide in stage I to III HR+HER2- breast cancer. There will be sequential enrollment into 3 arms with an anticipated N=6 participants per arm for N=18 participants in total. All participants will receive letrozole 2.5 mg daily during the 6 weeks of neoadjuvant therapy. Neoadjuvant therapy occurs weeks 1-6, with standard of care surgery taking place week 7 to 9.
+Breast Cancer
+BIOLOGICAL: DPX-Survivac|DRUG: Letrozole 2.5mg|DRUG: Cyclophosphamide 50mg|RADIATION: XRT 10Gy x2
+Number of participants without the following safety events: TASAEs, persistent grade III/IV TAAEs, or toxicity-related delays in curative-intent surgery. Toxicity graded by CTCAE v5.0 and monitoring of AEs performed per FDA and NCI guidelines., yes/no outcome variable, ascertained for each individual subject, and reported as a binomial proportion for each arm. Safety will be reported for all subjects who receive at least one dose of drug/radiation/study therapy, The safety assessment period begins with day 1 and ends within 30 days of surgical excision.
+Immunogenicity of each therapeutic arm IFN-γ ELISPOT, assessed by IFN-γ ELISPOT in PBMC, throughout the study day 1, Day 8, Day 15, Day 29, Day 36, Week 7-9, Week 11, and 6 months post-surgery|Immunogenicity of each therapeutic arm GEO-Mx digital spatial profiler, assessed by GEO-Mx digital spatial profiler evaluation of Formalin-Fixed, parafin-embedded (FFPE) tumor and TCRβ evaluation for surviving-specific T cells in the tumor, throughout the study day 1, Day 8, Day 15, Day 29, Day 36, Week 7-9, Week 11, and 6 months post-surgery
+Women with hormone receptor positive, HER2-negative (HR+/HER2-) breast cancer with large tumors or positive lymph nodes have low response rates with neoadjuvant chemotherapy. Survivin is overexpressed in HR+HER2- breast cancer. Increasing tumor-specific Th1 immunity by administration of DPX-Survivac may alter the immune environment of these tumors. Radiation is a standard component of breast cancer therapy causing a reduction in local recurrences and improved breast cancer specific survival. Low dose cyclophosphamide can deplete regulatory T-cells without altering levels of effector T-cells. The investigators predict that combining a vaccine targeting Survivin, overexpressed in HR+HER2- tumors, with other immune modulating therapies such as radiation or low dose cyclophosphamide can enhance the efficacy of DPX-Survivac.
+
+Primary Objective
+
+1) Safety of neoadjuvant aromatase inhibitor with: DPX-Survivac, DPX-Survivac plus radiation, or DPX-Survivac with cyclophosphamide in stage I to III HR+HER2- breast cancer Secondary Objectives
+
+1. Immunogenicity of each arm, assessed by IFN-γ ELISPOT in PBMC.
+2. Immunogenicity of each arm, assessed by GEO-Mx digital spatial profiler evaluation of FFPE tissue and TCRβ evaluation for surviving-specific T cells in the tumor.
+
+Exploratory Objectives
+
+1. Evaluation of the % TIL in the biopsy specimen and at the time of surgery within/between arms
+2. Evaluation of the Ki67 changes between the biopsy and at time of surgery within/between arms
+3. Comparison of immunogenicity, TIL change, and Ki67 change across arms
+4. Epitope spreading within/between arms
+5. Evaluation of Triseq (germline, whole exome sequencing, and RNAseq) of the tumor immune environment within/between arms
+6. Evaluation of immune environment using multi-parameter immunohistochemistry within/between arms
+7. Evaluation by experimental MRI in arm that adds radiation
+8. Evaluation of survivin-specific MHC-tetramer staining in PBMC

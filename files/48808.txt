@@ -1,0 +1,32 @@
+Testing the Addition of an Anti-cancer Drug, Navtemadlin, to the Usual Treatments (Cytarabine and Idarubicin) in Patients With Acute Myeloid Leukemia
+This phase Ib trial studies the side effects and best dose of navtemadlin when given together with the standard chemotherapy drugs cytarabine and idarubicin in patients with acute myeloid leukemia. Navtemadlin may stop the growth of cancer cells by blocking a protein called MDM2 that is needed for cell growth. Chemotherapy drugs, such as cytarabine and idarubicin, work in different ways to stop the growth of cancer cells, either by killing the cells, by stopping them from dividing, or by stopping them from spreading. Giving navtemadlin with cytarabine and idarubicin may stabilize cancer for longer when compared to giving usual treatments alone.
+Acute Myeloid Leukemia|Acute Myeloid Leukemia Arising From Previous Myelodysplastic Syndrome
+DRUG: Cytarabine|DRUG: Idarubicin Hydrochloride|DRUG: Navtemadlin
+Incidence of adverse events, Toxicity will be coded according to the Common Terminology Criteria for Adverse Events (CTCAE) version 5.0. Based on the toxicity observed, a derived variable, the occurrence of dose limiting toxicity, will be created. Toxicities will be tabulated and reported according to dose level, grade, type, cycle, and attribution and, if numbers permit, by whether the patient had newly diagnosed or previously treated acute myeloid leukemia (AML). Cumulative incidence curves will be used to estimate the proportion of patients who will discontinue therapy for reasons of toxicity or general inability to tolerate the regimen. The data from all patients treated at the recommended phase 2 dose (RP2D), will be combined for a final summary and listing of toxicities observed., Up to 30 days after the last dose of navtemadlin
+Pharmacokinetic (PK) profile of navtemadlin in combination with cytarabine and idarubicin, Will be quantitatively measured using liquid chromatography/tandem mass spectrometric (LC/MS/MS) method developed by the Analytical Pharmacology Core Laboratory at the Sidney Kimmel Comprehensive Cancer Center (SKCCC) at Johns Hopkins. For navtemadlin, the individual PK parameters from a single dose will be estimated for concentration maximum (Cmax), area under the curve (AUC), half-life (T1/2), apparent clearance (Cl/F), and apparent volume of distribution (V/F) using non-compartmental or compartmental PK methods with the software WinNonlin. Advanced population PK methods may be employed to assess the link between drug exposure and biological effects and efficacy., Pre-treatment and 1, 3, 5, 8, and 24 hours post-treatment on cycle 1, day 1 (1 cycle = 28-35 days)
+Complete response rate to navtemadlin, cytarabine and idarubicin, Defined as (complete response \[CR\] without minimal residual disease \[CR MRD negative(-ve)\], CR or CR with incomplete hematologic recovery \[CRi\]). Will be based on the revised European LeukemiaNet (ELN) criteria (Dohner et al., 2017)., Up to 2 years|Complete cytogenetic response to navtemadlin, cytarabine and idarubicin, Defined as cytogenic CR or molecular complete CR. Will be based on the revised ELN criteria (Dohner et al., 2017)., Up to 2 years|Progression-free survival (PFS), Patients who are alive and have not progressed or recurred at the time of their last disease assessment, will be censored at that time., From start of treatment to progression/recurrence or death - whichever comes first, assessed up to 2 years|Pharmacodynamic (PD) effects of navtemadlin, in combination with induction chemotherapy on leukemia blasts, Up to 2 years|Potential predictive biomarkers of sensitivity to this regimen (MTF2/H3K27me3), Up to 2 years
+PRIMARY OBJECTIVE:
+
+I. To evaluate the toxicities of navtemadlin (KRT-232 \[AMG 232\]), cytarabine and idarubicin hydrochloride (idarubicin), and to determine the maximum tolerated dose (MTD)/recommended phase 2 dose (RP2D) of KRT-232 (AMG 232), cytarabine and idarubicin.
+
+SECONDARY OBJECTIVES:
+
+I. To observe and record anti-tumor activity. II. To evaluate the pharmacokinetic (PK) profiles of KRT-232 (AMG 232), cytarabine and idarubicin when used in combination.
+
+III. To evaluate p53 signaling induced by KRT-232 (AMG 232), cytarabine and idarubicin.
+
+IV. To correlate KRT-232 (AMG 232), cytarabine and idarubicin exposure with pharmacodynamics endpoints (efficacy, toxicity, changes in p53 signaling).
+
+EXPLORATORY OBJECTIVES:
+
+I. To evaluate the response rate (RR) and progression free survival (PFS) of KRT-232 (AMG 232), cytarabine and idarubicin in acute myeloid leukemia (AML).
+
+II. To evaluate potential predictive biomarkers, including MTF2 and H3K27me3, of response to KRT-232 (AMG 232), cytarabine and idarubicin in AML.
+
+III. To evaluate the pharmacodynamic (PD) effects of KRT-232 and induction chemotherapy in AML blasts.
+
+OUTLINE: This is a dose-escalation study of navtemadlin.
+
+Patients receive navtemadlin orally (PO) once daily (QD) on days 1-7, cytarabine intravenously (IV) twice daily (BID) over 3 hours on days 1-7, and idarubicin IV over 10-15 minutes on days 1-3. Treatment repeats every 28 days for up to 2 cycles in the absence of disease progression or unacceptable toxicity. Patients with residual disease may receive cytarabine IV BID over 3 hours for 5 days and idarubicin IV over 10-15 minutes for 2 days starting between days 14-21 of cycle 1 or the second cycle of navtemadlin, cytarabine, and idarubicin. Patients who achieve a complete response (CR) or a CR with incomplete hematologic recovery (CRi) in either cycle 1 or 2 may receive cytarabine IV BID over 3 hours on days 1, 3, and 5 for 3-4 additional 28 to 35-day cycles in the absence of disease progression or unacceptable toxicity.
+
+After completion of study treatment, patients are followed up at 30 days and then every 3 months for 2 years, then every 6 months thereafter.

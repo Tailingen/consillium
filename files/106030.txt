@@ -1,0 +1,33 @@
+Radiomic Signature as Predictive Marker of Response to Chemoradiation and Durvalumab in Stage III NSCLC.
+The introduction of maintenance immunotherapy with the anti PD-L1 inhibitor durvalumab opened a new therapeutic window for stage III NSCLC patients who achieve at least stable disease after chemo-radiation, as shown by the randomized phase 3 PACIFIC study. However, still half of the patients do progress at 12 months (up to 70% at 18 months). In this study, the investigators aim to test a non-invasive image-based approach, namely a "radiomics" platform, as a tool to define a higher or lower likelihood of response to chemo-radiation and durvalumab. For this purpose, we will retrospectively and prospectively collect and analyze a cohort of at least 70 stage III NSCLC patients treated with CT-RT followed by maintenance durvalumab.
+Lung Cancer|Lung Cancer Stage III
+DRUG: Durvalumab
+Progression-Free Survival, Proportion of patients without disease progression (local, distant, or both) at 6,12,18 and 24 months, and median Progression-Free survival., 24 months from the end of radiotherapy
+Overall Survival, Proportion of patients alive at 6, 12, 18 and 24 months, and median overall survival, 24 months from the end of radiotherapy
+Specific aim (one):
+
+To collect and analyze CT scans at diagnosis and after chemoradiation, and assign them to a specific radiomic signature (blind assessment).
+
+Specific aim (two):
+
+- To correlate the radiomics signatures to clinical outcome: the main measure will be progression-free survival at 6 months, the second will be overall survival at 24 months.
+
+This is an observational longitudinal retrospective/prospective study.
+
+Criteria for study entry:
+
+* Histologically or cytologically confirmed diagnosis of non-small cell lung cancer (NSCLC)
+* Age 18-80
+* Stage IIIA-C disease judged to be unresectable by a multidisciplinary team including pulmonologists, thoracic surgeons, medical and radiation oncologists.
+* Signed informed consent
+
+Exclusion criteria:
+
+* Inability to sign the informed consent
+* Absence of analyzed CT images
+
+Treatment:
+
+As per indication, patients should have received a thoracic radiation dose of at least 54 Gy to the primary tumor and lymph nodes; all techniques are allowed. Conventional fractionation or mild hypofractionation is also allowed. All different platinum-based chemotherapy regimens are admitted for the present study in combination with radiotherapy, given either concomitantly or sequentially, according to International Guidelines for combination therapy in locally advanced NSCLC.
+
+Radiomic data extraction: after a pilot harmonization study phase, all CT scans will be analyzed using two different pre-defined signatures. The first one was developed by the Institut Gustave Roussy, Paris, and the second one by Radiomics (Liegi, Belgium). These two signatures have been either linked to response to anti PD1 or to chemoradiation alone.

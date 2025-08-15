@@ -1,0 +1,39 @@
+BELIEF (Bevacizumab and ErLotinib In EGFR Mut+ NSCLC)
+Rationale:
+
+Advanced non-small-cell lung cancer (NSCLC) patients harbouring epidermal growth factor receptor (EGFR) mutations (del19 or L858R) show an impressive progression-free survival between 9 and 14 months when treated with erlotinib. However, the presence of EGFR mutations can only imperfectly predict outcome. The investigators hypothesize that progression-free survival could be influenced both by the pretreatment EGFR T790M mutation and by components of DNA repair pathways.
+
+The investigators propose a model of treatment whereby patients with EGFR mutations (single or with T790M) can attain a benefit with longer overall PFS when treated with erlotinib plus bevacizumab. When the patients are grouped by BRCA1 mRNA levels and T790M the hypothesis is that the combination of erlotinib plus bevacizumab can improve the PFS in all subgroups.
+Lung Cancer
+DRUG: Erlotinib|DRUG: Bevacizumab
+Progression Free Survival, Time from the date of enrollment until an investigator-documented progression or death, whichever occurs first.
+
+Assessment of Progressive Disease (PD) is based on Response Evaluation Criteria In Solid Tumors Criteria (RECIST v1.1): at least a 20% increase in the sum of diameters of target lesions, taking as reference the smallest sum recorded on study. In addition to the relative increase of 20%, the sum must also demonstrate an absolute increase of at least 5 mm., From the date of enrollment until documented progression or death, whichever occurs first, assessed up to 48 months.
+Overall Survival, Time from the date of enrollment until death from any cause., From the date of enrollment until death, assessed up to 48 months.|Time to Treatment Failure, Time from the date of enrollment to discontinuation of treatment for any reason including progression of disease (based on RECIST v1.1), treatment toxicity (adverse events classified according to NCI CTCAE version 4.), refusal and death., From the date of enrollment until discontinuation of treatment, assessed up to 48 months.|Objective Response, Objective response is defined as best overall response (CR or PR) across all assessment time-points during the period from enrollment to termination of trial treatment. Objective response, along with progressive and stable disease, will be determined using RECIST 1.1 criteria:
+
+Complete Response (CR): Disappearance of all target lesions. Partial Response (PR): At least a 30% decrease in the sum of diameters of target lesions taking as reference the baseline sum of diameters.
+
+Progression (PD): At least a 20% increase in the sum of diameters of target lesions, taking as reference the smallest sum recorded on the trial. In addition to the relative increase of 20%, the sum must also demonstrate an absolute increase of at least 5 mm.
+
+Stable Disease (SD): Neither sufficient shrinkage to qualify for PR nor sufficient increase to qualify for PD taking as reference the smallest sum of diameters recorded on the trial., Assessed across all time-points from enrollment to termination of trial treatment (max 48 months).|Disease Control, Disease control is defined as achieving objective response (CR or PR, across all time-points from enrollment to termination of trial treatment) or stable disease for at least 6 weeks. Objective response, along with SD (disease control) and PD (no disease control), will be determined using RECIST 1.1 criteria:
+
+Complete Response (CR): Disappearance of all target lesions. Partial Response (PR): At least a 30% decrease in the sum of diameters of target lesions taking as reference the baseline sum of diameters.Progression (PD): At least a 20% increase in the sum of diameters of target lesions, taking as reference the smallest sum recorded on the trial. In addition to the relative increase of 20%, the sum must also demonstrate an absolute increase of at least 5 mm.Stable Disease (SD): Neither sufficient shrinkage to qualify for PR nor sufficient increase to qualify for PD taking as reference the smallest sum of diameters recorded on the trial., Assessed across all time-points from enrollment to termination of trial treatment (max 48 months).|Duration of Response, Interval from the date of first documentation of objective response (CR or PR) to the date of first documented progression or relapse. Assessment of Objective response and Progressive Disease (PD) is based on the RECIST 1.1 criteria:
+
+Complete Response (CR): Disappearance of all target lesions. Partial Response (PR): At least a 30% decrease in the sum of diameters of target lesions taking as reference the baseline sum of diameters.
+
+Progression (PD): At least a 20% increase in the sum of diameters of target lesions, taking as reference the smallest sum recorded on the trial. In addition to the relative increase of 20%, the sum must also demonstrate an absolute increase of at least 5 mm.
+
+Stable Disease (SD): Neither sufficient shrinkage to qualify for PR nor sufficient increase to qualify for PD taking as reference the smallest sum of diameters recorded on the trial., Assessed across all time-points from enrollment to to the date of first documented progression or relapse (max 48 months).|Adverse Events, Adverse events graded according to NCI CTCAE V4., Assessed across all time-points until end of treatment (30 +/-5 days following the last dose of study drug) (max 48 months).
+Objectives:
+
+1. To determine long-term outcome of patients with advanced non-squamous NSCLC harbouring EGFR mutations with or without T790M mutation at diagnosis and treated with the combination of erlotinib and bevacizumab. Primary endpoint: progression-free survival
+2. To evaluate the efficacy and tolerability of the combination
+3. To evaluate the correlation of BRCA1 mRNA and AEG-1 mRNA expression and T790M with progression-free survival
+4. To monitor EGFR mutations (including T790M) in serum and plasma longitudinally
+5. To evaluate molecular biomarkers related to EGFR TKI and bevacizumab
+
+Design:
+
+This is a multinational, multi-center phase II trial of erlotinib plus bevacizumab in patients with advanced non-squamous NSCLC harbouring EGFR mutations confirmed by central re-assessment. Patients will be stratified into two subgroups, with and without EGFR T790M mutation. The stratification will be done after the inclusion of patients.
+
+Sample size: 102 patients

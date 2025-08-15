@@ -1,0 +1,18 @@
+A Non Interventional Pilot Study on Machine Learning for ILD Detection Based on the Patient Data From Digital Devices in Unresectable Stage III Non-Small Cell Lung Cancer Patients Receiving Durvalumab
+Objective in this study is to investigate feasibility of developing machine-learning based model for the identification of future development of diagnosed Grade 2 and higher ILD and of disease progression in patients with unresectable Stage III NSCLC receiving durvalumab
+Carcinoma, Non-Small-Cell Lung
+Grade 2 and higher ILD including radiation pneumonitis, 6 months
+Disease progression, 6 months
+Study design: Multicentre, prospective, non-interventional pilot study
+
+Data Source(s): Medical records, wearable devices, and mobile application.
+
+Study Population:Patients treated durvalumab following chemoradiation therapy for stage III unresectable NSCLC in Japan from the June 2021 to June 2022. They must fulfil all of the inclusion /exclusion criteria.
+
+Exposure(s): dulvalumab
+
+Outcome(s): Disease progression, ILD including radiation pneumonitis.
+
+Sample Size Estimations : 150 patients
+
+Statistical Analysis: Continuous variables will be reported as mean, median, standard deviation, IQR, maximum, and minimum. Categorical variables will be summarized as absolute frequency and percentage. Ninety-five percent confidence intervals (CIs) will be presented where appropriate. Time-to event for ILD/Disease progression will be estimated by Kaplan-Meir method. Also, in the process of developing model, data production such as per-patient plots of the physiological data(multivariate time series) and physiological data before and after (in a shorter time-scale) the ILD event per event will be considered.

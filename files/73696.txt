@@ -1,0 +1,27 @@
+Cryotherapy and GM-CSF in Treating Patients With Lung Metastases or Primary Lung Cancer
+RATIONALE: Cryotherapy kills tumor cells by freezing them. Giving an injection of GM-CSF before cryotherapy and inhaling GM-CSF after cryotherapy may interfere with the growth of tumor cells and shrink the tumor. Giving cryotherapy together with GM-CSF may kill more tumor cells.
+
+PURPOSE: This phase II trial is studying how well giving cryotherapy together with GM-CSF works in treating patients with lung metastases or primary lung cancer.
+Kidney Cancer|Lung Cancer|Metastatic Cancer|Unspecified Adult Solid Tumor, Protocol Specific
+BIOLOGICAL: sargramostim|OTHER: flow cytometry|OTHER: immunoenzyme technique|PROCEDURE: biopsy|PROCEDURE: cryosurgery
+Immunologic Response as Measured by ELISPOT Assay and Flow Cytometry, CT-guided biopsy \& Peritumoral GM-CSF. a CR was defined as involution of the prior tumor and/or ablation site to only a thin, non-enhancing scar within the pulmonary parenchyma on enhanced chest CT. A PR was defined as incomplete resolution of an otherwise thoroughly hypovascular resolving ablation zone which had reached a diameter smaller than the original tumor size. Stable disease (SD) reflects no significant change in size of ablation site and/or overall tumor burden, while the standard definition for progressive disease (PD) remains as evidence of neTw or growing tumors., Days 1 & 32
+Clinical Response as Measured by CT Criteria, CT-guided biopsy. a CR was defined as involution of the prior tumor and/or ablation site to only a thin, non-enhancing scar within the pulmonary parenchyma on enhanced chest CT. A PR was defined as incomplete resolution of an otherwise thoroughly hypovascular resolving ablation zone which had reached a diameter smaller than the original tumor size. Stable disease (SD) reflects no significant change in size of ablation site and/or overall tumor burden, while the standard definition for progressive disease (PD) remains as evidence of neTw or growing tumors., Days 1 & 32|Toxicity of Grade 1 or Higher, Number of Participants with Toxicity of Grade 1 or Higher as defined by CTCAE v2, Days 11, 32, 43, & 63|Immune Function and Cancer-specific Response, Number of Participants with CT-guided biopsy \& Peritumoral GM-CSF. The number of IFNγ secreting T-cells was measured by a direct EliSpots at 10:1 E:T ratio to define the kinetics of the CTL responses from pre-CI to day 63 post CI., Days 1 & 63
+OBJECTIVES:
+
+Primary
+
+* Determine whether percutaneous cryotherapy in combination with aerosolized sargramostim (GM-CSF) has any demonstrable immunologic effect in patients with pulmonary metastases or primary lung cancer.
+* Determine whether any systemic immune response is detectable by the combination of cryotherapy as the antigen presentation source and GM-CSF as the immunologic adjuvant.
+* Determine whether low morbidities will be maintained in patients treated with this regimen.
+* Determine whether effective immunization is associated with a drop in CD4+, CD25+, LTP(TGF-β1)+, Tr cells as measured by flow cytometry or ELISPOT assay for TGF-β1-secreting cells.
+
+Secondary
+
+* Determine clinical response (i.e., tumor control in the dominant masses undergoing cryotherapy or in other metastatic sites) as measured by CT criteria.
+* Determine the toxicity of this regimen in these patients.
+
+OUTLINE: Patients undergo CT-guided core biopsy of a dominant lung mass and placement of at least 2 cryoprobes. Prior to initiating the freeze, patients receive an interstitial injection of sargramostim (GM-CSF) near the tumor. Patients then undergo percutaneous cryotherapy over 2 hours utilizing a freeze-thaw-freeze cycle. Beginning within 3 days of cryotherapy, patients receive aerosolized GM-CSF twice daily for 1 week. Beginning on day 32, patients may elect to undergo a second course of treatment as described above in the absence of disease progression or unacceptable toxicity.
+
+Patients undergo blood and tumor tissue collection at baseline and periodically during study for immunological correlative studies. Peripheral blood mononuclear cells isolated from blood samples are analyzed for antigen-specific CD4-positive or CD8-positive T-cell response by flow cytometry or by TGF-β1 ELISPOT assay to measure TGF-β1- secreting cells. Tumor cell lysates extracted from tumor samples are pulsed with autologous dendritic cells and analyzed by ELISPOT assay to measure T-cell reactivity in tumor specimens.
+
+After completion of study therapy, patients are followed at 6 and 12 months.

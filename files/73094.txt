@@ -1,0 +1,42 @@
+mTORC1/2 Inhibitor AZD2014 or the Oral AKT Inhibitor AZD5363 for Recurrent Endometrial and Ovarian
+This phase Ib/II trial studies the side effects and best dose of olaparib and vistusertib (AZD2014) or olaparib and capivasertib (AZD5363) when given together in treating patients with endometrial, triple negative breast cancer, ovarian, primary peritoneal, or fallopian tube cancer that has come back (recurrent). Olaparib, vistusertib, and capivasertib may stop the growth of tumor cells by blocking some of the enzymes needed for cell growth.
+BRCA1 Mutation Carrier|BRCA2 Mutation Carrier|Endometrial Adenocarcinoma|Estrogen Receptor Negative|HER2/Neu Negative|High Grade Ovarian Serous Adenocarcinoma|Progesterone Receptor Negative|Recurrent Breast Carcinoma|Recurrent Fallopian Tube Carcinoma|Recurrent Ovarian Carcinoma|Recurrent Primary Peritoneal Carcinoma|Recurrent Uterine Corpus Carcinoma|Stage III Uterine Corpus Cancer AJCC v7|Stage IV Breast Cancer AJCC v6 and v7|Stage IV Uterine Corpus Cancer AJCC v7|Triple-Negative Breast Carcinoma
+DRUG: Capivasertib|OTHER: Laboratory Biomarker Analysis|DRUG: Olaparib|OTHER: Pharmacological Study|DRUG: Vistusertib
+Maximum tolerated dose, Will be defined as the highest dose for which the posterior probability of toxicity is closest to 30%. The posterior probability of dose limiting toxicity (DLT) for each dose level and 90% credible interval for the probability of DLT at each dose level will be reported., Up to 28 days
+Toxicity profile, including dose-limiting toxicities, Descriptive statistics will be used to summarize the demographic and clinical characteristics of patients. Adverse events will be tabulated by grade, dose level, and overall., Up to 4 weeks post-treatment|Response rate, Will be measured using Response Evaluation Criteria in Solid Tumors 1.1 criteria. The proportion of patients with response with 95% exact binomial confidence intervals will be estimated. Response will be tabulated by presence/absence of selected biomarkers (aberrations in I3K/AKT/mTOR and HR defected pathway)., Up to 4 weeks post-treatment|Progression-free survival (PFS), PFS will be estimated with the Kaplan-Meier product limit estimator. Depending on distribution of marker aberration status, the relationship between these markers and PFS will be explored using the log-rank test., At 6 months from study treatment|Response duration, Descriptive statistics will be used to summarize response duration., Up to 4 weeks post-treatment|Cmax for Olaparib, For continuous and intermittent dosing, maximum plasma concentration will be measured,, Days -1, 4, and 8
+Changes in protein expression, Descriptive statistics and graphical methods will be used to compare pre-treatment to post-treatment changes in biomarker expression for each treatment overall and stratified by response and dose. Mean changes from pre-treatment to post-treatment will be estimated with 95% confidence intervals. A paired t-test will also be used to test whether these changes are statistically significant, and a 2-sample t-test will be used to compare changes between selected doses and specific subgroups., Baseline and within 4 weeks post-treatment|Cmax for AZD2014, For continuous and intermittent dosing, maximum plasma concentration will be measured., Days -1, 4, and 8
+PRIMARY OBJECTIVES:
+
+I. To determine the maximally tolerated dose (MTD) and recommended phase II dose (RP2D) of the combinations of AZD2014 + olaparib and confirmation of recommended phase 2 dose (RP2D) for the AZD5363 + olaparib combination in patients with recurrent endometrial, recurrent triple negative breast, recurrent high-grade serous ovarian, or recurrent breast cancer, BRCA mutant ovarian cancer.
+
+SECONDARY OBJECTIVES:
+
+I. To determine the tolerability of the RP2D of AZD2014 + olaparib and AZD5363 + olaparib.
+
+II. To determine the safety and observed toxicities of the combination of AZD2014 + olaparib and AZD5363 + olaparib in patients with recurrent endometrial, recurrent triple negative breast, recurrent high-grade serous ovarian, or BRCA mutant ovarian cancer.
+
+III. To estimate the activity of these drug combinations at all dose levels in each patient cohort by objective response rate and proportion of patients surviving progression free (PFS) at 6 months.
+
+IV. To determine response duration of these combinations at all dose levels. V. To determine the pharmacokinetics (PK) of each agent alone and in combination to assess the presence of any drug interaction between the two co-administered agents.
+
+EXPLORATORY TRANSLATIONAL OBJECTIVES:
+
+I. To determine if response to therapy is associated with molecular profile of the tumor (including, but not limited to, molecular aberrations in the phosphoinositide-3-kinase \[PI3K\]- v-akt murine thymoma viral oncogene homolog \[AKT\]- mechanistic target of rapamycin \[mTOR\] pathway or defects in homologous recombination) before treatment.
+
+II. To examine associations with early changes in functional proteomic biomarkers in tumor biopsies before and after treatment and tumor response in patients with recurrent endometrial, recurrent triple negative breast, recurrent high-grade serous ovarian, or BRCA mutant ovarian cancer treated with the investigational agents.
+
+III. To determine the molecular profile of unusual responders (significant regression of disease or progression of disease).
+
+IV. To provide data to investigate the relationship between plasma concentrations/exposure and changes in safety and efficacy outputs to facilitate population analysis by sponsor.
+
+OUTLINE: This is a dose-escalation study. Patients are assigned to 1 of 3 treatment arms.
+
+ARM I (CONTINUOUS AZD2014 DOSING): Patients receive olaparib orally (PO) twice daily (BID) on days 1-28 (days 5-28 of course 1 and alone on days -3 to -1 of week -1) and vistusertib PO BID on days 1-28 (alone on days 1-4 of week 1).
+
+ARM II (INTERMITTENT AZD2014 DOSING): Patients receive olaparib PO BID on days 1-28 (days 3-28 on course 1 and alone on days -5 to -3 of week -1) and vistusertib PO BID for 2 days on and 5 days off (alone on days 1-2 of week 1).
+
+ARM III (INTERMITTENT AZD5363 DOSING): Patients receive olaparib PO BID on days 1-28 (on days 5-28 of course 1 and alone on days -3 to -1 of week -1) and capivasertib PO BID for 4 days on and 3 days off (alone on days 1-4 of week 1).
+
+In all arms, courses repeat every 28 days in the absence of disease progression or unacceptable toxicity.
+
+After completion of study treatment, patients are followed up within 4 weeks.

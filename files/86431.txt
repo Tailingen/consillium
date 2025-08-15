@@ -1,0 +1,94 @@
+Artificial Intelligence-based Screening Models for Prevention and Early Detection of Colorectal Cancer
+Colorectal cancer screening is based on the fecal occult blood test (FIT), which has low sensitivity for adenomatous polyps, based on the currently used cut-off. Risk factors such as obesity, diabetes, alcohol, and cigarette smoking are associated with the presence of high-risk neoplasia in the screening population. CADe systems appear to increase ADR in screening programs; however, uncertainty remains regarding their true effectiveness.
+
+The study could provide the tools to:
+
+1. devise a personalized pathway of CRC screening so as to refer to colonoscopy (with CAD or without CAD depending on the results that will be obtained) those at high risk of carrying neoplasms amenable to removal or curative treatment;
+2. define risk categories for theoretical screening models giving the possibility of moving from the concept "one size fits all" to that of "personalized and precision prevention".
+Colorectal Cancer|Screening
+DEVICE: GI Genius|OTHER: Colonscope Olympus
+To develop a predictive risk model useful in tailoring screening strategies for high-risk colorectal neoplasm (advanced adenoma/early stage cancer), Adenoma Detection Rate (ADR, percentage of patients screened with at least 1 adenoma or carcinoma histologically proven) assessed following endoscopic examination and post-collection histopathological result in relation to risk factors., From enrollment to the end of treatment at 18 months.
+Colorectal cancer (CRC) represents the third most commonly diagnosed cancer and the fourth leading cause of cancer death worldwide. It is estimated for the coming decades that there will be a significant and progressive increase in its incidence, reaching a threshold of about 2.2 million new cases in 2030 worldwide.
+
+In 2022 in Italy, 48,100 new diagnoses of CRC were estimated compared to 43,702 in 2020 with an increase of 4400 cases in 2 years (Italian Medical Oncology Association IOM Report 2022 - the numbers of cancer in Italy). According to data from the Italian Association of Cancer Registries (AIRTUM), CRC is the second highest cancer incidence among both males (15% of all new cancers) and females (13%), preceded by prostate and breast cancer, respectively (AIOM Report 2022).
+
+Numerous risk factors are associated with colorectal cancer incidence, some of them non-modifiable, such as age, environmental determinants, hereditary factors, individual genetic predisposition, and epigenetic alterations, and others modifiable, such as sedentary lifestyle, high-calorie and saturated-fat diet, and smoking, behaviors that are more common in high-income countries.
+
+Regarding age, one of the non-modifiable risk factors, the likelihood of colorectal cancer diagnosis increases sharply after age 50: more than 90% of colorectal cancer cases occur in people aged 50 years or older.
+
+Among modifiable risk factors, physical activity is strongly associated with a reduced risk of colon cancer. Studies show that more physically active people have a 25% lower risk of developing both proximal and distal colon cancers than less active people.
+
+Excess body weight increases the risk of CRC, with a stronger association in men than in women. Weight gain appears to have a greater influence on CRC risk when it occurs in early adulthood than in later life stages, as indicated by the Americam Cancer Society in its 2005 report and confirmed by the 2012 study by Renehan et al. The scientific publication by Steins Bisschop CN et al (2014) shows how differences in CRC incidence globally are related to diet, which strongly influences the occurrence of this cancer.
+
+Diets high in fat, particularly animal fats, are an important risk factor for colorectal cancer because they increase intestinal excretion of bile acids, which can be metabolized by intestinal bacteria into carcinogens, as well as induce marked changes in the microbial community implicated in intestinal tumorogenesis.
+
+Some studies, as reported by Patel SG et al (2012), suggest that people on a diet low in fruits and vegetables may have a higher risk of colorectal cancer due to reduced intake of potential anti-carcinogenic compounds, which are present in high levels in fruits and vegetables.
+
+In November 2009, the International Agency for Research on Cancer reported that there is strong evidence to say that tobacco smoking causes CRC, while for alcoholic beverage consumption in particular moderate and severe, there is still no clear scientific evidence.
+
+Screening programs for prevention and early detection have been implemented in several European countries for high-prevalence cancers, such as CRC. The main goal of CRC screening is to identify asymptomatic or histologically advanced cancers early. Most countries are adopting a targeted approach that is based on the age of the population with the promotion of fecal immunochemical testing (FIT), an inexpensive and repetitive test that, if positive would direct further treatment through total colonoscopy (CT).
+
+Although many observational studies, such as the study by Lee, J. K et al (2014) and the research by Zauber AG et alt (2012), have affirmed that colonoscopy has a protective effect in the prevention of CRC, other studies have emphasized its sub-optimal effect due to the unexpected risk of intervallic carcinoma.
+
+To date, colonoscopy is considered the gold standard for detecting colonic lesions, although some small polyps may still be missed on detection. A systematic review of the literature reported that the rate of missed adenomas is 20-26% for any adenoma and 2.1% for large adenomas of size (=10 mm). Studies comparing results obtained by colonoscopy and virtual CT of the colon reported a rate of polyps "missed" by colonoscopy of 12% for large polyps (\>1 cm), as reported by Singh H et al (2006). Adenoma Detection Rate (ADR) also appears to be highly variable among operators.
+
+Artificial Intelligence (AI) is developing increasing interest due to its potential role in improving the quality of diagnosis and treatment in medicine.
+
+Specifically in digestive endoscopy, AI could be used to:
+
+1. minimize the risk of missed polyp identification during colonoscopy, increasing ADR and consequently decreasing the incidence of intervallic cancer.
+2. improve optical diagnosis of polyps resulting in better "management" of them (e.g., "resect-and-discard" strategy for diminutive polyps, or complex endoscopic resection methods or surgery for advanced lesions).
+
+Therefore, it is evident and necessary to enhance new strategies through a risk-based approach that integrates individual information such as sex, age, genetics, comorbidities, and exposome, including lifestyle and dietary habits, in large prospective cohorts.
+
+Therefore, the strategy implemented in this study of combining the data, which will be obtained through endoscopy performed with AI and anthropometric, genetic characteristics, and exposome data, intends to improve the appropriateness of prescriptions and surveillance procedures and the type of tests to be implemented, while reducing costs for facilities ("unlocking" health system resources).
+
+This would reduce where possible the number of unnecessary invasive procedures on patients and target those procedures to the type of patients who would benefit most.
+
+Primary objective The aim of the study is to develop a predictive risk model useful for personalizing screening strategies based on a model that will go on to identify those at higher risk of carrying a high-risk neoplasm (advanced adenoma/early stage cancer) and offer them a more precise and personalized screening program, with the goal of reducing the diagnostic burden for low-risk individuals.
+
+The model will build on the knowledge already known about risk factors for which there is clear evidence of correlation with adenoma occurrence (including serous adenomas) and cancer (e.g., familiarity, smoking habit, meat consumption, obesity) and supplement that on factors for which there is not strong evidence (e.g., diet, physical activity) and that influence ADR (e.g., type of optical or "AI-mediated" colonoscopy). Thus, it will be a "hybrid" AI-mediated model with a "data-driven - based" part and a "knowledge-based" part.
+
+Study design. Open-label randomized, controlled, interventional study using medical device, parallel-group, single-center in subjects who tested positive for fecal occult blood test performed as a result of independent adherence to the Emilia-Romagna Region's Colon Cancer screening program.
+
+Subjects who test positive for fecal occult blood test are contacted by telephone by the Azienda Usl Screening Center for an interview prior to performing an in-depth colonoscopy to verify the cause of bleeding according to the regional screening program.
+
+After the telephone interview, the patient goes to the outpatient clinic to receive a prescription and preparation for bowel cleansing, at which time he or she receives questionnaires useful for investigating diet type and physical activity.
+
+The patient on the scheduled date, and after bowel preparation, goes to the outpatient clinic to perform the colonoscopy and to hand in the questionnaires regarding eating habits and physical activity.
+
+Patients will be randomized to traditional colonoscopy or colonoscopy with artificial intelligence.
+
+If polyps and/or suspicious lesions are detected with the performance of colonoscopy, the specialist may decide to perform a follow-up colonoscopy at 1, 3, or 5 years, depending on the type of clinical problem found. These data will also be collected for the present study as a follow-up to increase information and optimize the screening pathway according to each patient's characteristics.
+
+Setting The study will take place at the U.O. Gastroenterology of IRCCS AOUBO, which will be responsible for patient enrollment. The U.O. Clinical Governance and Quality of IRCCS AOUBO and the University of Bologna are collaborating in the study.
+
+Participant eligibility (inclusion/exclusion criteria)
+
+Will be included:
+
+1. Subjects between the ages of 50 and 69 years old
+2. Male and female gender
+3. Subjects who presented positive for fecal occult blood test (FIT) performed during the colon cancer screening program of the Emilia- Romagna Region
+4. Subjects who have provided written consent to the study.
+
+Will be excluded:
+
+1. Subjects who do not understand the Italian language
+2. Subjects with previous history of total colectomy or bowel resections
+3. Subjects who have had colonoscopy performed in the previous 12 months
+4. Subjects with contraindications to colonoscopy
+5. Subjects with contraindications to sedation or anesthesia
+6. Subjects with a personal history of CRC
+7. Subjects with inherited gastrointestinal cancer syndrome: familial adenomatous polyposis (FAP), attenuated FAP, MutYH-associated polyposis, Lynch or Lynch-like syndrome, and serrated polyposis syndrome
+8. Subjects with inflammatory bowel disease (Crohn's disease, ulcerative colitis)
+
+Treatment and follow-up Colonoscopy will be performed by traditional method (CT) or with the support of medical device (artificial intelligence - AI) according to the randomization that will be done centrally for groups of 8-12 patients. The generation of the randomization sequence will be done through the random number generator from "The Emilia Romagna Region Portal" (http://wwwservizi.regione.emilia-romagna.it/generatore/).
+
+Colonoscopy will be performed with Olympus colonoscopes already available at the IRCCS AOUBO Gastroenterology OU with or without the help of the Gi Genius AI system that will be acquired through funds from the DARE - Digital Lifelong Prevention project PNC0000002 from the Ministry of University and Research.
+
+Sample size At least 1400 are expected to be included in the study for a period of 18 months.
+
+Duration of the study The study will have a duration of 72 months.
+
+Methodology of analysis The analyses will be carried out by personnel from the Department of Electrical Energy and Information Engineering "Guglielmo Marconi" of the University of Bologna.

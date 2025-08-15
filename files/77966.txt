@@ -1,0 +1,41 @@
+Pembrolizumab With or Without Axitinib for Clear Cell Kidney Cancer in Patients Undergoing Surgery
+This phase II trial studies how well pembrolizumab with or without standard of care axitinib works in treating patients with clear cell kidney cancer that has spread to nearby tissues or lymph nodes (locally advanced) or other places in the body (metastatic) who are undergoing surgery. Pembrolizumab is an antibody that is designed to bind to and block the activity of PD-1, a molecule in the body that may be responsible for inhibiting the body's immune response against cancer cells. Axitinib is a type of drug known as a tyrosine kinase inhibitor. Tyrosine kinase inhibitors work by blocking enzymes called tyrosine kinases. These enzymes may be too active or found at high levels in some types of cancer cells and blocking them may help keep cancer cells from growing. Giving pembrolizumab with or without axitinib may work better in controlling the cancer and decrease the likelihood of it coming back following surgery in patients with kidney cancer compared to usual treatment (surgery followed by chemotherapy and/or radiation therapy).
+Metastatic Clear Cell Renal Cell Carcinoma|Recurrent Clear Cell Renal Cell Carcinoma|Stage III Renal Cell Cancer AJCC v8|Stage IV Renal Cell Cancer AJCC v8|Clear Cell Renal Cell Carcinoma
+DRUG: Axitinib (VEGF-TKI)|PROCEDURE: Cytoreductive Nephrectomy (CN)|PROCEDURE: Metastasectomy (MET)|BIOLOGICAL: Pembrolizumab
+Proportion of participants with >= 2-fold increase in the number of tumor-infiltrating immune cells (TIICs), TIICs will be analyzed in pre- and post-pembrolizumab-based treatment tumor specimens. The proportion of participants with a \>=2-fold increase (from pre- to post-treatment) in the number of TIICs will be calculated., Baseline to cytoreductive nephrectomy (CN)/metastasectomy (MET), up to 1 year
+Objective Response Rate (ORR), Preoperative pembrolizumab-based therapy in participants with advanced RCC will be defined as complete response (CR) or partial response (PR) per Response Evaluation Criteria in Solid Tumors 1.1 modified to allow a maximum of 10 target lesions or 5 target lesions per organ and described with descriptive statistics., Up to 1 year|Disease-Free Survival Rate (DFS) for participants who obtain CR or PR/SD with R0 resection and are treated 1 year of pembrolizumab-based therapy, Continued pembrolizumab-based therapy in subjects with advanced RCC will be assessed in subjects who achieve CR, PR, or stable disease (SD) followed by R0 resection, and defined as the proportion of participants who remain disease-free at the end of the 1 year continued treatment period (1-year DFS rate), and at 1 year following the end of the continued treatment period (2-year DFS rate), Up to 2 years|Median DFS for participants who obtain CR or PR/SD with R0 resection and are treated 1 year of pembrolizumab-based therapy, In participants who achieve CR, PR or stable disease (SD) followed by R0 resection, median time participants remain disease-free will be reported using the Kaplan-Meier estimate., Up to 2 years|Progression-free survival rate (PFS) for participants who obtain PR/SD and have residual disease following CN/MET and are treated with 1 year of pembrolizumab-based therapy, In participants who achieve PR/SD with residual disease following CN/MET and are also treated with 1 year of pembrolizumab-based therapy and defined as the proportion of subjects who remain progression-free at the end of the 1 year continued treatment period (1-year PFS rate) and at 1 year following the end of the continued treatment period (2-year PFS rate), Up to 2 years|Median PFS for participants who obtain PR/SD and have residual disease following CN/MET and are treated with 1 year of pembrolizumab-based therapy, In participants who achieve CR, PR or stable disease (SD) followed by R0 resection, median time participants remain progression-free will be reported using the Kaplan-Meier estimate., Up to 2 years|Incidence of treatment-related adverse events, Will be assessed and reported with descriptive statistics using National Cancer Institute Common Terminology Criteria for Adverse Events version 5.0, Up to 30 days post-treatment
+PRIMARY OBJECTIVE:
+
+I. To determine the impact of pembrolizumab-based therapy on the composition, phenotype, and function of tumor-infiltrating immune cells (TIICs) in subjects with advanced renal cell carcinoma (RCC) undergoing cytoreductive nephrectomy (CN)/metastasectomy (MET).
+
+SECONDARY OBJECTIVES:
+
+I. To determine the clinical efficacy of preoperative pembrolizumab-based therapy in subjects with advanced RCC undergoing CN/MET.
+
+II. To explore the clinical efficacy of continued pembrolizumab-based therapy following CN/MET in subjects with advanced RCC.
+
+III. To determine the safety and tolerability of pembrolizumab-based therapy in subjects with advanced RCC undergoing CN/MET.
+
+EXPLORATORY OBJECTIVES:
+
+I. To explore the clinical efficacy of preoperative pembrolizumab-based therapy in subjects with advanced RCC, by pathologic response. (Clinical).
+
+II. To explore the relationship between changes in TIICs and clinical efficacy in subjects with advanced RCC treated with pembrolizumab-based therapy. (Scientific).
+
+III. To characterize changes in the frequency and number of circulating T cells induced by pembrolizumab-based therapy in subjects with advanced RCC. (Scientific).
+
+IV. To determine the impact of pembrolizumab-based therapy on the composition and phenotype of the tumor microenvironment (including tumor and stromal cells) in subjects with advanced RCC. (Scientific).
+
+V. To determine whether locally advanced versus metastatic RCC exhibit differences in immune composition or phenotype at baseline and in response to pembrolizumab-based therapy. (Scientific).
+
+VI. To determine the change in T cell repertoire within the tumor and blood induced by pembrolizumab-based therapy in subjects with advanced RCC. (Scientific).
+
+VII. To explore molecular profiles to identify potentially predictive biomarkers for subjects with advanced RCC treated with immunotherapy (Scientific).
+
+OUTLINE: Patients are assigned to 1 of 2 cohorts.
+
+COHORT A: Patients receive pembrolizumab intravenously (IV) over 30 minutes on day 1. Treatment repeats every 21 days for 3 cycles in the absence of disease progression or unacceptable toxicity. Within 14-21 days following the end of treatment, patients will undergo standard of care CN or MET. Patients with progressive disease (PD) may undergo CN or MET per physician discretion. Within 21-42 days after surgery, patients with no disease (R0 resection) or microscopic disease (R1 resection) receive pembrolizumab IV every 42 days for up to 9 cycles (1 year) and patients with macroscopic disease (R2 resection) receive pembrolizumab IV every 42 days for up to 18 cycles (2 years) in the absence of disease progression or unacceptable toxicity
+
+COHORT B: Patients receive pembrolizumab IV over 30 minutes on day 1 and standard of care axitinib orally (PO) twice daily (BID) on days 1-42. Treatment repeats every 21 days for 3 cycles in the absence of disease progression or unacceptable toxicity. Within 14-21 days following the end of treatment, patients undergo standard of care CN or MET. Patients with PD may undergo CN or MET per physician discretion. Within 21-42 days after surgery, patients with an R0 or R1 resection receive pembrolizumab IV over 30 minutes on day 1 and axitinib PO BID on days 1-42. Treatments repeat every 42 days for up to 9 cycles (1 year) in the absence of disease progression or unacceptable toxicity. Patients with an R2 resection receive pembrolizumab IV over 30 minutes on day 1 and axitinib PO BID on days 1-42. Treatment repeats every 42 days for up to 18 cycles (2 years) in the absence of disease progression or unacceptable toxicity.
+
+Follow-up will occur at treatment discontinuation, 30 days post-discontinuation, and then every 12 weeks for up to 1 year post-discontinuation. Subjects who discontinue study participation due to progressive disease will return for a mandatory safety follow-up visit within 30 days of(+7 days) after the final dose of study treatment.

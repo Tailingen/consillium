@@ -1,0 +1,46 @@
+Repeat CT Scans for Evaluation of Inter- and Intrafraction Motion and it's Effect on Radiotherapy Dose Distribution During Curative Radiotherapy for Pelvic Tumours
+Radiotherapy (combined with chemotherapy) is commonly used in the curative treatment of pelvic tumours, such as in cervical, vulvar and anal cancer. In these patients, cure rates are high but may be associated with significant treatment-related toxicities, especially dermatologic, gastrointestinal, genitourinary and hematologic toxicity.
+
+Accurate treatment planning and dose delivery is essential for radiotherapy in order to be effective in terms of local tumour control and to reduce radiation-induced side effects. However, accuracy is challenged by tumour and organ motion from fraction to fraction (interfraction movements). At present, radiotherapy treatment planning is typically performed on one planning-CT scan which is performed before the start of the treatment. However, interfraction set up variations and organ motions can lead to differences between the calculated dose distribution on the planning-CT and the radiation dose actually received by the tumour and normal organs (actual given dose). Current photon radiotherapy of the pelvic area is relatively insensitive to these changes and margins from CTV to PTV ensures an adequate dose coverage of the tumour area. Despite newer techniques in photon therapy, like intensity modulated radiotherapy (IMRT), critical organs still receive a substantial amount of dose leading to clinically relevant acute and late side effects. With proton beam therapy, the amount of radiation dose to the organs at risk can be significantly reduced.
+
+For proton beam therapy (PBT) however, knowledge of tumour and organ motion will be more important. The major potential advantages of PBT for tumours in the pelvic area in terms of prevention of radiation-induced side effects are challenged by differences in bladder volume, rectal filling and air gaps especially in the small bowel, sigmoid and rectum. Setup errors and organ motion cause geometric displacement of the tumours and normal tissues, which deteriorates the dose gradients from target volume to normal tissue. Furthermore, it can result in changes in tissue densities in the beam path, which can alter the position of the Bragg peaks, in turn leading to distorted dose distributions, usually manifesting as significant local under and/or over dosage.
+
+In this study, the investigators want to evaluate the impact of inter and intrafractional tumour and organ motion on photon and proton radiotherapy treatment planning in order to create robust intensity modulated photon- and/or proton treatment plans (IMRT, IMPT) with the final aim to lower treatment related toxicity.
+
+Objective: To explore the extent of inter- and intrafraction anatomical changes of the tumour and surrounding normal tissues, throughout the full course of treatment, and to subsequently assess the impact of these changes on the nominal planned dose. This information is required to design robust treatment plans (photon and/or proton) that will ensure optimal local tumour control while reducing toxicity.
+
+Study design: Pilot-study (40 patients).
+
+Study population: Patients with cervical, vulvar or anal cancer, who are planned for radiotherapy (with or without chemotherapy) with curative intent.
+
+Intervention (if applicable): Not applicable.
+
+Main study parameters/endpoints: Robustness parameters (homogeneity index; coverage of clinical target volume), dose to organs at risk (OARs), such as the small bowel, rectum, bladder and bone marrow.
+
+Nature and extent of the burden and risks associated with participation, benefit and group relatedness: During the radiotherapy treatment course, patients will undergo weekly repeat planning CT scans without contrast agents in order to evaluate the impact of intra and inter-fraction tumour and organ motion.
+
+The additional radiation dose of these 5 extra CT's is relatively low (5 x 8 mSv, plus 1 x 22 mSv for the 4D CT scan) in relation to the therapeutic radiation dose (50.4-85 Gy). The risks are therefore negligible and the burden is low.
+Pelvic Tumor
+RADIATION: Repeat CT scan
+CTV dose coverage on repeat CT scans, 1 year
+Radiotherapy (combined with chemotherapy) is commonly used in the curative treatment of pelvic tumours, such as in cervical, vulvar and anal cancer. In these patients, cure rates are high but may be associated with significant treatment-related toxicities, especially dermatologic, gastrointestinal, genitourinary and hematologic toxicity.
+
+Accurate treatment planning and dose delivery is essential for radiotherapy in order to be effective in terms of local tumour control and to reduce radiation-induced side effects. However, accuracy is challenged by tumour and organ motion from fraction to fraction (interfraction movements). At present, radiotherapy treatment planning is typically performed on one planning-CT scan which is performed before the start of the treatment. However, interfraction set up variations and organ motions can lead to differences between the calculated dose distribution on the planning-CT and the radiation dose actually received by the tumour and normal organs (actual given dose). Current photon radiotherapy of the pelvic area is relatively insensitive to these changes and margins from CTV to PTV ensures an adequate dose coverage of the tumour area. Despite newer techniques in photon therapy, like intensity modulated radiotherapy (IMRT), critical organs still receive a substantial amount of dose leading to clinically relevant acute and late side effects. With proton beam therapy, the amount of radiation dose to the organs at risk can be significantly reduced.
+
+For proton beam therapy (PBT) however, knowledge of tumour and organ motion will be more important. The major potential advantages of PBT for tumours in the pelvic area in terms of prevention of radiation-induced side effects are challenged by differences in bladder volume, rectal filling and air gaps especially in the small bowel, sigmoid and rectum. Setup errors and organ motion cause geometric displacement of the tumours and normal tissues, which deteriorates the dose gradients from target volume to normal tissue. Furthermore, it can result in changes in tissue densities in the beam path, which can alter the position of the Bragg peaks, in turn leading to distorted dose distributions, usually manifesting as significant local under and/or over dosage.
+
+In this study, the investigators want to evaluate the impact of inter and intrafractional tumour and organ motion on photon and proton radiotherapy treatment planning in order to create robust intensity modulated photon- and/or proton treatment plans (IMRT, IMPT) with the final aim to lower treatment related toxicity.
+
+Objective: To explore the extent of inter- and intrafraction anatomical changes of the tumour and surrounding normal tissues, throughout the full course of treatment, and to subsequently assess the impact of these changes on the nominal planned dose. This information is required to design robust treatment plans (photon and/or proton) that will ensure optimal local tumour control while reducing toxicity.
+
+Study design: Pilot-study (40 patients).
+
+Study population: Patients with cervical, vulvar or anal cancer, who are planned for radiotherapy (with or without chemotherapy) with curative intent.
+
+Intervention (if applicable): Not applicable.
+
+Main study parameters/endpoints: Robustness parameters (homogeneity index; coverage of clinical target volume), dose to organs at risk (OARs), such as the small bowel, rectum, bladder and bone marrow.
+
+Nature and extent of the burden and risks associated with participation, benefit and group relatedness: During the radiotherapy treatment course, patients will undergo weekly repeat planning CT scans without contrast agents in order to evaluate the impact of intra and inter-fraction tumour and organ motion.
+
+The additional radiation dose of these 5 extra CT's is relatively low (5 x 8 mSv, plus 1 x 22 mSv for the 4D CT scan) in relation to the therapeutic radiation dose (50.4-85 Gy). The risks are therefore negligible and the burden is low.

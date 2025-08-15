@@ -1,0 +1,27 @@
+Sunitinib Malate and Hydroxychloroquine in Treating Patients With Advanced Solid Tumors That Have Not Responded to Chemotherapy
+This phase I trial studies the side effects and best dose of sunitinib malate when given together with hydroxychloroquine in treating patients with advanced solid tumors that have not responded to chemotherapy. Sunitinib malate may stop the growth of tumor cells by blocking some of the enzymes needed for cell growth and by blocking blood flow to the tumor. Hydroxychloroquine may help sunitinib malate work better in treating solid tumors. Giving sunitinib malate together with hydroxychloroquine may kill more tumor cells.
+Adult Solid Neoplasm
+DRUG: Hydroxychloroquine|OTHER: Laboratory Biomarker Analysis|OTHER: Pharmacological Study|DRUG: Sunitinib Malate
+MTD of sunitinib malate, as assessed by the NCI CTCAE version 4.0 (v4.0), 28 days|Response rate using the international criteria RECIST, Reported with 95% confidence interval., Up to 2 years
+Survival, Analyzed using Kaplan-Meier product limit method., Up to 2 years|Percent changes of the marker expressions, beclin1, LC3, p62 and GRp170, as indicators of autophagy potential in tissue, Mean or median changes estimated by t-test or Wilcoxon signed rank test. Multiple test adjustment will be considered to control the overall type-I error rate., Up to 96 hours post-dose (course 2)|Mean number of autophagic vesicles per cell (mAV/cell) by electron microscopy (EM) as indication of flux through the autophagy pathway for non-apoptotic cells, Perform using a (pre-post samples) paired t-test., Up to 96 hours post-dose (course 2)|Steady-state plasma concentration of hydroxychloroquine (HCQ), The correlation between the steady-state plasma concentration of HCQ and of autophagy inhibition and pharmacokinetic (PK) interaction will be assessed by regression analyses with treatment (sunitinib malate and +HCQ) as a stratification covariate in the model., Up to 96 hours post-dose (course 2)|Autophagy inhibition and PK interaction, The correlation between the steady-state plasma concentration of HCQ and of autophagy inhibition and PK interaction will be assessed by regression analyses with treatment (sunitinib malate and +HCQ) as a stratification covariate in the model., Up to 96 hours post-dose (course 2)|Percent changes of the vascular marker levels of CD31, VEGF, thrombospondin-1, and CD105 for detection of decreased vascular proliferation, Mean or median changes examined by t-test or Wilcoxon signed rank test. Multiple test adjustment will be considered to control the overall type-I error rate., Up to 96 hours post-dose (course 2)
+PRIMARY OBJECTIVES:
+
+I. To determine the maximum tolerated dose (MTD) of the combination of sunitinib (sunitinib malate) (Sutent), an oral tyrosine kinase inhibitor with antiangiogenic activity that inhibits vascular endothelial growth factor receptor 2 (VEGFR2), stem cell factor receptor (c-kit) and platelet derived growth factor receptor (PDGFR), in combination with hydroxychloroquine (HCQ), an inhibitor of autophagy, in patients with advanced solid tumors that are refractory to standard chemotherapy.
+
+SECONDARY OBJECTIVES:
+
+I. Evaluating blocks of tissue from pre-treatment diagnostic biopsies and tissue from biopsies taken during therapy, when available from enrolled patients, for expression of markers beclin1, light chain 3 (LC3), sequestosome 1 (p62) and hypoxia up-regulated 1 (GRp170) as indicators of autophagy potential.
+
+II. Evaluating pre- and post- treatment peripheral blood mononuclear cells (PBMC) and tumor tissue, when available, for the presence of autophagosomes by electron microscopy (EM) as indication of flux through the autophagy pathway.
+
+III. Evaluating pre- and post- treatment PBMC for changes in the expression of LC3, p62 and GRp170 with the use of single agent sunitinib and the use of the combination of sunitinib with hydroxychloroquine.
+
+IV. Evaluating circulating tumor cells (CTCs) pre- and post- treatment with single agent sunitinib and sunitinib + HCQ, and characterize these for markers of autophagy. (exploratory) V. To determine whether the steady-state plasma concentration of HCQ correlates with inhibition of autophagy and whether a pharmacokinetic interaction exists between sunitinib and HCQ.
+
+VI. To examine, when available, post treatment tumor biopsies for vascular markers to detect decreased vascular proliferation by staining cluster of differentiation 31 (CD31), vascular endothelial growth factor (VEGF), thrombospondin-1, and cluster of differentiation 105 (CD105) staining to monitor micro vessel density.
+
+OUTLINE: This is a dose-escalation study of hydroxychloroquine.
+
+Patients receive sunitinib malate orally (PO) once daily (QD) on days 1-28 and hydroxychloroquine PO once daily (QD) or twice daily (BID) on days 1-42 (beginning day 4 of course 1). Treatment repeats every 42 days for 6 courses in the absence of disease progression or unacceptable toxicity.
+
+After completion of study treatment, patients are followed up for 6 months.

@@ -1,0 +1,42 @@
+POWER AUDIT, Postoperative Outcomes Within an Enhanced Recovery After Surgery Protocol After Gastric Surgery (POWER 4 + 3)
+The main objective of this study is to analyze the impact on three years survival of an enhanced recovery program (PRI) after radical surgert for adenocarcinoma gastric cancer. As secondaries objectives, we propose to analyze comparing survival distributions between patient groups (ERAS/no ERAS) and the relationship between the ERAS program and early incorporation into oncology therapies (RIOT).
+
+It is proposed to review the medical records of oncology patients included in POWER 4 (as already foreseen in that study), with the aim of performing a 3-year follow-up.
+
+To create comparable treatment and control groups, the Propensity Index method will be used. To study each variable, multivariate regression will be used. Kaplan-Meier will be used for survival and the log-rank test for comparisons. Significance will be considered if p \<0.05 (two tails).
+Adenocarcinoma of Stomach|Critical Pathways|Enhanced Recovery After Surgery (ERAS) Protocol|Retrospective Studies|Chemotherapy, Adjuvant|Gastric Cancer
+OTHER: gastric surgery and ERAS protocol
+Overall Survival, Patients alive from surgery to the last control, 3 years|Disease-free surviva, Number of patients alive and without cancer recurrence from the intervention period until the end of follow-up, 3 years|Time to disease recurrence, Detected from the day of the intervention until the end of follow-up, 3 years|Time to return to intended oncologic treatment (RIOT), Date between discharged and adjuvant treatment, 3 years
+Study Data three-year data will be collected from all eligible patients who have undergone elective colorectal surgery within the POWER4 protocol.
+
+Only routine clinical data will be included and, when not available, the field will be left blank, e.g., patients lost to follow-up. Regional groups may supplement their basic data set with a very limited number of additional variables.
+
+Data collection The data will be collected from CRFs collected in POWER4. The list of pseudo-anomized patients delivered at the time will be provided with the new variables to be completed by the centers.
+
+Variables Overall mortality: The number and percentage of deaths occurred since the intervention until the end of the follow-up period.
+
+Overall survival: patients alive from surgery to the last control. Disease-free survival: number of patients alive and without cancer recurrence from the intervention period until the end of follow-up.
+
+Disease recurrence: detected by CT or FCC, from the day of the intervention until the end of the follow-up.
+
+Date until start of adjuvant treatment: date between date of discharge and start of adjuvant treatment
+
+Satistica analyse All regional and institutional level data will be anonymised prior to publication.
+
+Continuous variables will be described as mean and standard deviation, if normally distributed, or median and inter-quartile range, if not normally distributed.
+
+Comparisons of continuous variables will be performed using one-way ANOVA or Mann-Whitney test as appropriate.
+
+Categorical variables will be described as proportions and will be compared using chi-square or Fisher's exact test.
+
+Single-level and hierarchical multi-level logistic regression models will be constructed to identify factors independently associated with these outcomes and to adjust for differences in confounding factors.
+
+Factors will be entered into the models based on their univariate relation to outcome (p\<0.05), biological plausibility and low rate of missing data. A stepwise approach will be used to enter new terms.
+
+Results of logistic regression will be reported as adjusted odds ratios (OR) with 95% confidence intervals. The models will be assessed through the use of sensitivity analyses to explore possible interacting factors and examine any effect on the results. A single final analysis is planned at the end of the study.
+
+Survival analyzes will be performed using the Kaplan-Meier method for survival comparisons the log-rank test will be used. The effects will be considered significant if p \<0.05.
+
+Monitoring and audit The data collection documents will be audited to ensure that study activities are carried out in accordance with the protocol, good clinical practice and applicable regulatory requirements. In the participating hospitals, local study documents can be selected for local auditing. The quality of the data will be audited.
+
+Limitations of the study Those of a prospective non-randomized study. Difficulty in recruiting patients for potential structural or multidisciplinary team problems. Inappropriate number of patients due loss of follow-up.

@@ -1,0 +1,43 @@
+Nivolumab + Chemoradiation in Stage II-IVB Nasopharyngeal Carcinoma (NPC)
+This phase II trial studies how well nivolumab and chemoradiotherapy works in treating patients with stage II-IVB nasopharyngeal cancer. Monoclonal antibodies, such as nivolumab, may block tumor growth in different ways by targeting certain cells. Chemoradiotherapy is the combination of chemotherapy and radiation therapy and may prevent the cancer from spreading when combined with nivolumab. Giving nivolumab and chemoradiotherapy may work better in treating patients with stage II-IVB nasopharyngeal cancer.
+Nasopharyngeal Carcinoma
+DRUG: Nivolumab|DRUG: Cisplatin|RADIATION: Radiation Therapy
+Rate of completion of all adjuvant immunotherapy, The rate of completion of all adjuvant therapy by patients treated at the maximum tolerated dose (MTD) schedule will be determined and compared to a historical control rate of 52%, the rate of completion of a standard adjuvant cisplatin-based platform to determine feasibility of study treatment, Up to 1 year
+Overall response rate (ORR), The ORR is based on the best overall response (BOR) recorded from the first day of treatment until time of assessment. The percentages of patients with a best overall response rate of complete response (CR), partial response (PR), stable disease (SD), or progressive disease (PD) will be determined as defined by the Response Evaluation Criteria in Solid Tumors (RECIST) 1.1 criteria., Up to 1 year after completion of treatment|Number of treatment-related Adverse Events (AEs), Adverse events will be classified using the National Cancer Institute Common Toxicity Criteria (NCI-CTCAE) version 5.0 by the investigator assessment and reported by, Up to 1 year after completion of treatment|Loco-regional Control (LRC) Rate, Duration of LRC will be calculated as 1+ the number of days from the first day of treatment to time of documented locoregional clinical or radiographic relapse, progression or death due to any cause. For patients who continue treatment post-progression, the date of clinical or radiographic relapse or progression will be used for analysis. The Kaplan-Meier analysis will be used to calculate the mean LRC rate with 95% confidence interval., Up to 1 year after completion of treatment|Distant Metastasis (DM) Rate, Time to DM will be calculated as 1+ the number of days from the first day of treatment to documented clinical or radiographic progression at a distant metastatic site, or death due to any cause. Pathologic confirmation is not required to document the date of distant progression. For patients who continue treatment post-progression, the date of clinical or radiographic progression will be used for analysis. The Kaplan-Meier analysis will be used to calculate the mean DM rate with 95% confidence interval., Up to 1 year after completion of treatment|Change in scores on the Functional Assessment of Cancer Therapy - Nasopharyngeal Cancer (FACT-NP), The FACT-NP is a self-report instrument that measures multidimensional quality of life (QOL) in patients with Nasopharyngeal cancer-specific scale. The FACT-NP consists of 43 questions that address physical, social, emotional, and functional well-being, with additional specific questions relevant to persons with nasopharyngeal cancers. Each item has a score range of 0 (Not at all) to 4 (Very much). For the 37 general health and head and neck cancer sections, the raw score range is 0-148, with the higher scores indicating better QOL reported by the participant. The 6 remaining questions for the nasopharyngeal cancers also fall on the same range of 0 to 4, with a raw total score range of 0-24, but on this subscale, lower scores indicate a higher QOL., Up to 1 year after completion of treatment|Percentage of participants with acute toxicities, Acute toxicity rates will be reported and classified according to CTCAE version 5 and include immune-related AEs, Up to 1 year after completion of treatment|Percentage of participants with Late toxicities, Late toxicity rates will be reported and classified according to CTCAE version 5 and include immune-related AEs, Up to 1 year after completion of treatment
+PRIMARY OBJECTIVES:
+
+I. To establish the feasibility of treatment completion of a combined chemoradiation-nivolumab regimen followed by adjuvant nivolumab.
+
+SECONDARY OBJECTIVES:
+
+I. To determine the overall response rate at 1 year from end of treatment, as determined by Response Evaluation Criteria in Solid Tumors (RECIST) 1.1 criteria.
+
+II. To determine the locoregional control rate at 1 year post-treatment.
+
+III. To determine the distant metastasis rate at 1 year post-treatment.
+
+IV. To determine the rate of Epstein-Barr virus (EBV) deoxyribonucleic acid (DNA) clearance at end of chemoradiation and at 1 year from end of treatment.
+
+V. To determine the acute and late toxicity rates according to Common Terminology Criteria for Adverse Events (CTCAE) version (v.) 5, including immune-related adverse events (AEs).
+
+VI. To assess patients' quality of life from baseline through 1 year from end of treatment.
+
+EXPLORATORY OBJECTIVES:
+
+I. To determine the overall survival rate at 5 year post-treatment.
+
+II. To determine whether PDL1-positive immunohistochemistry andvnovel quantitative assays correlate to clinical outcome.
+
+III. To determine if the density of infiltrating CD3+ T cells/μm2 correlates to clinical outcome.
+
+IV. To monitor immune changes by flow cytometry in the circulating T cell response to EBV antigens.
+
+V. To compare the change in the circulating T-cell repertoire by TCR sequencing and single-cell T-cell profiling.
+
+VI. To quantify treatment-induced changes over time in the circulating T cell immune response to EBV using TCR sequencing and enzymelinked immunospot (ELISPOT) assays.
+
+OUTLINE:
+
+Patients receive nivolumab intravenously (IV) over 60 minutes on day 1 of courses 1-5 and 7-12. Treatment repeats every 14 days for 11 courses in the absence of disease progression or unacceptable toxicity. Beginning at course 2, patients undergo radiation therapy once daily (QD) 5 days per week and receive cisplatin IV over 30-60 minutes on day 1. Treatment repeats every 7 days for up to 3 courses in the absence of disease progression or unacceptable toxicity.
+
+After completion of study treatment, patients are followed up at 1, 3, 6, 9, and 12 months for up to 1 year and then survival follow-up information may be collected via telephone calls, clinic follow-up visits, or medical records review for up to an additional 4 years. Survival and disease status will be collected until participant death, withdrawal, or if the participant is lost to follow-up.

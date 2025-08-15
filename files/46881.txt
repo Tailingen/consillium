@@ -1,0 +1,132 @@
+Biobanking Upper Gastrointestinal Tumors to Evaluate Response (BURGER With BACON)
+The goal of this observational study is to examine genetic changes that may contribute to immunotherapy resistance in gastroesophageal cancer. This information can potentially lead to the identification of new immunotherapeutic targets as well as improve the ability to identify those patients more likely to respond to immunotherapy.
+
+This study does not include any treatment or investigational drugs.
+
+Participants will be asked:
+
+* to enroll before beginning standard care of treatment for their cancer
+* for blood, archived tumor tissue, and fresh tumor tissue Researchers will compare participants who are not getting immunotherapy to identify potential differences in expression levels of a gene.
+GastroEsophageal Cancer
+DRUG: Immune checkpoint inhibitor (ICI) or chemotherapy alone
+Number of participants with Complete Response (CR), up to 3 years|Number of participants with Partial Response (PR), up to 3 years|Number of participants with Stable Disease, up to 3 years|Number of participants with Progressive Disease, up to 3 years
+The study will be divided into three cohorts: 1) Cohort A, which will enroll subjects prior to treatment with an immune checkpoint inhibitor or chemotherapy alone; 2) Cohort B, which will analyze samples collected from melanoma patients under Pro00059349; and 3) Cohort C, a retrospective portion that will allow for collection of data and archived tissue;
+
+Cohort A: GE Subjects Treated with ICI
+
+Participating subjects will be enrolled prior to initiating treatment with a regimen that includes an immune checkpoint inhibitor or chemotherapy alone in the case of the immunotherapy ineligible cohort. Archived formalin fixed paraffin embedded (FFPE) tumor tissue will be collected for all subjects if available. Patients will have an optional fresh research only biopsy if there is a lesion amenable to safe biopsy which will be frozen for further studies. Additionally, excess tissue may be collected and flash frozen from standard of care biopsies that occur while patient is on study. Objective response assessments for these patients will be made by MD assessment, based on standard-of-care CT or MRI cross-sectional imaging. Blood and/or tissue specimens will be taken accordingly at the following time points:
+
+Baseline (pre-treatment):
+
+Patients will undergo a research blood draw. If subject receives a standard of care biopsy after consenting but before starting anti-PD-1 therapy, every attempt will be made to collect tissue from this biopsy for research purposes. If the patient is not scheduled for standard of care biopsy during this period, they will only undergo blood draw.
+
+During Treatment:
+
+Patients will undergo an optional research tissue biopsy and a research blood draw while on anti-PD-1 therapy treatment at the time of their first restaging scan. Patient will undergo another research blood draw while on anti-PD-1 therapy at the time of their second restaging scan. Lesions that were biopsied previously will be prioritized for on treatment biopsy. Any tissue that has been subjected to radiation therapy will not be considered for sampling. Those patients that have evidence of stable disease or response may undergo a repeat blood draw at time points beyond the second staging scan at PI discretion. If patients remain on anti-PD-1 therapy for more than 12 months, the PI may request additional blood draws after 12 months on treatment.
+
+After Treatment:
+
+At the time of anti-PD-1 therapy discontinuation due to toxicity or disease progression, patient will undergo a blood draw. If the patient has a standard of care biopsy at progression, excess tissue from this biopsy will be obtained for research.
+
+Sample acquisition, processing and storage:
+
+Archived formalin fixed paraffin embedded (FFPE) tumor tissue will be collected for all subjects (if available). Available tissue blocks will be assessed and up to 40 slides will be collected for IHC, DNA and RNA extraction. On-treatment tumor biopsies will be performed only on patients who have a tumor lesion that is amenable to safe biopsy, and will be flash frozen. Frozen specimens will be processed for whole tumor RNA and subsequent transcriptional analysis. Those archived tissue specimens identified as being located at outside institutions will be requested by the study team and stored in the Hanks lab. Tumor tissue slides will require pathologic review by a board-certified pathologist, and an estimated minimum 10% of tumor tissue per slide will be confirmed.
+
+Use of any tissue blocks that would result in the exhaustion of available tissue will be avoided unless the patient is confirmed to be no longer living.
+
+Patient specimens containing whole blood will be collected and processed within the Duke Cancer Center Research Lab (CCRL). Four 10 mL EDTA tubes will be used for double spun, platelet poor plasma and peripheral blood mononuclear cells (PBMC). All four 10 mL EDTA tube will be used for buffy coat isolation. The buffy coat collected during this preparation for genomic DNA isolation will be transported and stored at -80°C in the Hanks Laboratory (LSRC, C164-167) for future genomic DNA sequencing studies. Plasma will be isolated and stored at -80°C in the Hanks Laboratory for subsequent multi-analyte ELISA studies, ctDNA analysis, ctRNA analysis, and/or exosome isolation and analysis. Three 8.5mL ACD tubes will be used for PBMCs. These will be processed and stored by the Substrate Services Core and Research Support (SSCRS). PBMCs will be analyzed by the Duke Immune Profiling Core facility under the direction of Dr. Kent Weinhold.
+
+Proposed Research:
+
+1. Up to 70 patients will be enrolled in Cohort A.
+2. Blood specimens may be investigated for:
+
+   1. Plasma-EDTA samples may be sent to an external collaborator for genomic profiling of circulating tumor DNA. Alternative CLIA-certified circulating tumor DNA assays can be considered.
+   2. Circulating protein biomarkers for immune function, inflammation, angiogenesis and vascular activation will be analyzed by multiplex ELISA assays.
+   3. PBMC samples will be analyzed for immune cell subtyping using high dimensional flow cytometry in the Duke Immune Profiling Core (DIPC) laboratory. A 28-parameter flow cytometry panels will be used to analyze changes in the immune cell subtypes that are expected to be altered by treatment, including T-cell activation, maturation, and exhaustion, as well as regulatory T-cell (Treg) and polymorphonuclear myeloid-derived suppressor cells (PMN-MDSC) frequencies.
+3. Blood-based analytes between responders and non-responders will be compared. Due to the small sample size, results will be descriptive.
+4. Clinical and demographic data (Cohorts A and C) will be extracted from the medical record for each subject, including but not limited to the following:
+
+   1. Age
+   2. Gender
+   3. Race
+   4. Zip Code
+   5. Number of prior therapies
+   6. Clinical outcomes from standard and investigational therapies (best response, duration of response, and reason for discontinuation)
+   7. Clinical outcomes from immune checkpoint inhibitor therapies (best response, duration of response, and reason for discontinuation)
+   8. Results of blood-based and tissue-based profiling studies
+   9. Molecular markers that may predict sensitivity or resistance to anti-PD-1 therapy, including but not limited to tumor mutational burden, PD-L1, MSI status, POLE STATUS
+5. Tissue specimens (Cohorts A and C) may be acquired from outside hospitals in cases where patients enrolled under this protocol have had biopsies performed and stored at hospitals outside of the Duke Health hospital system prior to transitioning care to Duke.
+6. Fresh frozen tissue specimens (Cohort A only) will be extracted for RNA and downstream transcriptional analysis will be performed. Available tissue blocks will be assessed and up to 40 slides will be collected for RNA extraction and further downstream processing to determine bulk tumor transcriptome when fresh tissue is not available.
+
+Cohort B: Melanoma Subjects Treated with ICI
+
+Samples collected under Pro00059349 came from subjects in the following groups:
+
+1. Arm 1 - stage IV/ unresectable stage III melanoma patients who enrolled prior to starting immunotherapy.
+2. Arm 2 - Stage III/IV adjuvant melanoma patients
+
+   Subjects in both arms had and may continue to have data collected from their medical records. Information was collected under Pro00059349 and may continue to be monitored under this protocol.
+
+   Cohort C: Retrospective Identification and Collection of Archived Tissue The DEDUCE (Duke Enterprise Data Unified Content Explorer) software tool will be utilized to identify patients with gastroesophageal adenocarcinoma or squamous cell or melanoma initiated on anti-PD-1 antibody immunotherapy at Duke University Medical Center and the Duke Cancer Institute between January 1, 2011 and August 31, 2023, and patients ineligible for immunotherapy that received chemotherapy during the same time period. Anti-PD-1 antibody therapies will include pembrolizumab, nivolumab, or another checkpoint inhibitor. Patients must be ≥18 years old at the time of initiating treatment. Objective response assessments for these patients will be made based on standard-of-care week 12 CT or PET CT cross-sectional imaging. Additional corresponding medical history will be collected and databased for these patients. This includes but is not limited to demographics, disease primary and metastatic sites, prior medical conditions, and cancer treatment. Tissue blocks and medical history will be obtained according to a Waiver of Consent for this retrospective component only as the collection represents a minimal risk activity and it is not feasible to consent patients that were identified retrospectively. Archived tissue collection will be the same as for Cohort A.
+
+   Screening Period During the Screening Period, subjects are consented and screened for the study. Informed consent must be obtained before initiation of any screening procedure that is performed solely for the purpose of determining eligibility for this study. Evaluations performed as part of routine care before informed consent can be considered as screening evaluations if done within the defined screening period, and if permitted by the local Institutional Review Board (IRB)/ Independent Ethics Committee (IEC) policies. Study eligibility is based on meeting all of the inclusion criteria and none of the exclusion criteria (refer to section 4.0) before the blood draws and/or biopsies are performed.
+
+   The following study procedures must be done within 28 days prior to blood draw and/or biopsy:
+   * Informed Consent
+   * Demographics
+   * Medical and cancer history
+   * Concomitant medications
+   * Excess tissue collection from standard of care biopsy; if applicable, safe and feasible The Screening Period ends at the time of the blood draw or biopsy or final determination that the subject is ineligible for the study.
+
+   5.1.1 On Study Period
+   * Prior to starting checkpoint inhibitor or chemotherapy
+
+     * Blood draws
+
+       * Approximately 40 cc total in 4 x 10 mL EDTA tubes
+       * Approximately 25.5 cc total in 3 x 8.5 mL ACD tubes
+   * Within +/- 7 days of 1st and 2nd restaging
+
+     o Blood draws
+     * Approximately 40 cc total in 4 x 10 mL EDTA tubes
+     * Approximately 25.5 cc total in 3 x 8.5 mL ACD tubes
+     * Optional tumor biopsy (1st restaging only)
+     * PT/INR prior to biopsy (1st restaging only)
+     * CBC prior to biopsy (1st restaging only)
+   * Within +/- 7 days of additional restaging visits at PI request
+
+     o Blood draws
+     * Approximately 40 cc total in 4 x 10 mL EDTA tubes
+     * Approximately 25.5 cc total in 3 x 8.5 mL ACD tubes
+   * Anytime while on treatment
+
+     o If the patient has a standard of care biopsy at any time while on treatment, excess tissue from this biopsy will be obtained for research if safe and feasible.
+
+     o Clinical data will be extracted from the medical record (per section 3.0) for each subject up until 3 months after completion of a line of checkpoint inhibitor therapy or chemotherapy while on study.
+   * Within +/- 7 days of discontinuing anti-PD-1 therapy for toxicity or progression o Blood draws - Approximately 40 cc total in 4 x 10 mL EDTA tubes
+
+     * Approximately 25.5 cc total in 3 x 8.5 mL ACD tubes o If the patient has a standard of care biopsy at progression, excess tissue from this biopsy will be obtained for research.
+
+       * If patient discontinues immunotherapy for complete response (CR), blood draws will occur at time of discontinuation and during 2 subsequent SOC re-staging visits or until progression, whichever comes first.
+   * End of study
+
+     * If available, archived FFPE tissue will be obtained from all subjects at the end of the study
+
+   Cohort B Sample collection for cohort B was completed under Pro00059349. Analysis is ongoing and will continue under this protocol. There will be no new subjects enrolled to cohort B, nor any new samples collected from these subjects. However, data will continue to be collected from their electronic medical records.
+
+   Cohort C Subjects for the retrospective cohort will be identified as described above. The investigators will enroll these subjects under a waiver of consent, collect the data listed in section 3.0 and obtain archived tissue. There will be no separate screening or f/up periods for these subjects.
+
+   Subject Discontinuation
+
+   Subjects will continue to be followed until they complete immune checkpoint inhibitor treatment and the final blood and tissue samples are collected. However, subjects may discontinue study treatment or withdraw their consent to participate in the study at any time without prejudice. Any subject who withdraws consent for Pro0059349 will also have their samples and data withdrawn from this study. All reasons for discontinuation or withdrawal from trial will be recorded. Reasons for subject discontinuation by the Investigator may include, but are not limited to, the following:
+
+   • Death
+
+   • Significant noncompliance by subject or Investigator
+
+   • Investigator or Lead PI determination that it is no longer safe and/or no longer in the subject's best interest to continue participation
+   * Withdrawal of consent
+   * Lost to follow-up
+   * Women who become pregnant or are breast feeding
+   * Request by regulatory agencies for termination of treatment of an individual subject or all subjects under the protocol.

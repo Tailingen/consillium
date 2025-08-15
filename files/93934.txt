@@ -1,0 +1,25 @@
+Pembrolizumab and Imatinib in Patients With Locally Advanced/Metastatic Melanoma With c-KIT Mutation/Amplification
+This phase I/II trial studies the side effects and how well pembrolizumab and imatinib mesylate work in treating patients with melanoma with c-KIT mutation or amplification that has spread to nearby tissue or other places in the body. Monoclonal antibodies, such as pembrolizumab, may interfere with the ability of tumor cells to grow and spread. Imatinib mesylate may stop the growth of tumor cells by blocking some of the enzymes needed for cell growth. Giving pembrolizumab and imatinib mesylate may work better in treating patients with melanoma with c-KIT mutation or amplification that has spread to nearby tissue or other places in the body.
+Stage IIIA Skin Melanoma|Stage IIIB Skin Melanoma|Stage IIIC Skin Melanoma|Stage IV Skin Melanoma
+DRUG: Imatinib Mesylate|OTHER: Laboratory Biomarker Analysis|BIOLOGICAL: Pembrolizumab
+BORR, Will be estimated with a 95% exact confidence interval., Up to 4 years
+Change in PD-1 and PDL-1 expression levels, Will be performed by estimating the 95% confidence interval for the difference in PD-1 and PDL-1 expression levels, respectively. Descriptive statistics and graphical displays will be used to evaluate change in biologic markers between pre- and post-treatment. A paired t-test will be used to determine if there is a statistically significant change., Baseline to 4 years|Incidence of adverse events assessed by the National Cancer Institute Common Terminology Criteria for Adverse Events version 4.0, Will be assessed by computing the proportion of patients with adverse events, along with an exact 95% confidence interval., Up to 4 years|OS, The distribution will be assessed using the Kaplan Meier method., From registration until death from any cause, assessed up to 4 years|PFS, Distribution of PFS time will be estimated using the method of Kaplan Meier., From registration until disease progression or death, assessed up to 4 years|TTP, Will be estimated using a Kaplan-Meier method., From registration until disease progression or death, assessed up to 4 years
+PRIMARY OBJECTIVES:
+
+I. To assess the best overall response rate (BORR = complete response + partial response) of the combination of pembrolizumab and imatinib for treatment of melanomas harboring c-Kit mutation or amplification.
+
+II. To evaluate the safety and adverse effect profile of the combination of pembrolizumab and imatinib in patients with melanomas harboring c-KIT aberrations (mutations or amplifications).
+
+SECONDARY OBJECTIVES:
+
+I. To assess the median time to progression (TTP), progression free survival (PFS), and overall survival (OS).
+
+TERTIARY OBJECTIVES:
+
+I. Assessment of programmed cell death ligand (PD-L)1 expression in melanoma patients with c-KIT aberrations before and after combined therapy.
+
+OUTLINE:
+
+Patients receive pembrolizumab intravenously (IV) over 30 minutes on day 1 and imatinib mesylate orally (PO) once daily (QD) on days 1-21. Courses repeat every 3 weeks in the absence of disease progression or unacceptable toxicity.
+
+After completion of study treatment, patients are followed up at 30 days and every 9 weeks for 1 year, and then every 12 weeks thereafter.

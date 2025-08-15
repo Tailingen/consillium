@@ -1,0 +1,37 @@
+Lung Cancer Prevention Screening Programme in Italy
+This prospective randomized multicentered clinical study aims at implementing early diagnosis of lung cancer in high-risk heavy smokers in the Italian population. The main goal of the study is to develop a nationwide lung cancer prevention screening with high quality standard, similar to that of other screening programs i.e. breast, colon and cervix ongoing in Italy.
+
+The Italian Pulmonary Screening Network (RISP) includes 18 centers, which will promote primary prevention by offering a smoking cessation program (i.e. counselling and anti-smoking cytisine-based therapy) and secondary prevention by screening volunteers with chest Low Dose Computed Tomography (LDCT). The primary objective of the study is to demonstrate the non-inferiority of a risk-based screening strategy (less intensive, every 2 years) compared to the standard annual screening, in terms of stage I/II lung cancer incidence.
+
+Furthermore, the study aims to provide evidence whether blood biomarkers screening intervals can improve the efficiency of lung cancer screening by requiring less CT examinations while retaining the ability to diagnose lung cancer at curative state.
+Lung Cancer|COPD (Chronic Obstructive Pulmonary Disease) With Acute Lower Respiratory Infection|Cardiovascular Diseases
+DIAGNOSTIC_TEST: early lung cancer detection|OTHER: blood test
+Change in lung cancer incidence, Change in lung cancer incidence: evaluate the impact on lung cancer incidence through LDCT at annual or biennial intervals., 3 years|Change in lung cancer specific and overall mortality, Change in lung cancer specific and overall mortality: evaluate the impact on lung cancer mortality through LDCT at annual or biennial intervals., 5 years|Change in smoking status, Change in the percentage of smokers, 3 years|Molecular risk profile through assessing the value of microRNA in blood and tissue samples, MicroRNA expression profile, using TaqMan microfluidic cards: increased efficiency of lung cancer diagnosis by requiring less CT examinations while retaining the ability to diagnose lung cancer at curative state., 5 years
+Tobacco smoking is the most relevant cause of avoidable death in all high-income countries, including the European Union and Italy. Smoking increases the risk of dying from emphysema by 10 times, doubles that of having a stroke, and increases two to four times that of being affected by a heart attack. In addition, the carcinogenic substances contained in tobacco smoke are responsible for about 90% of lung cancers, but also for most cancers of the oral cavity, larynx and bladder. Therefore, the main causes of death attributable to tobacco smoke are cancers, cardiovascular and respiratory diseases. Lung cancer is a serious and far-reaching health problem with reduced survival after 5 years. Seventy per cent of lung cancers are at an advanced clinical stage and difficult to treat when the first symptoms occur, and a certain diagnosis is made. Lung cancer mainly affects people over the age of 50, with a peak incidence around 70-75 years. Over a third of deaths attributed to smoking are between 35 and 69 years of age. For long time it was not possible to have a certain diagnosis by diagnostic tests. Only at the end of the '90s, it became clear that computed tomography allows lung cancer to be detected at an early stage (stage I), before symptoms occur.
+
+Large-scale randomized clinical trials (RCTs) have shown that early detection of lung cancer by CT can reduce lung cancer mortality between 20% and 39%, according to the duration of the intervention. In particular, LDCT screening has been shown to significantly reduce lung cancer mortality by 8-26% for men and 26-61% in women. International lung cancer screening guidelines, currently adopted in the United States, recommend repeating LDCT at annual intervals. However, annual chest LDCT screening has heavy economic impact and can induce radiation-related damage.
+
+Recent studies have shown that the first LDCT screening exam provides information on individual risk thus allowing the personalization of the screening interval. In particular, there are indications that screening interval can be extended safely for low-risk individuals. For example, several studies show that individuals with a negative baseline exam have a substantially lower risk than those with a positive baseline exam. A randomized prospective assessment of risk-based screening intervals therefore has the potential to improve efficiency and reduce the economic-health impact of lung cancer screening. In fact, a personalized screening protocol has a less serious economic impact, both at the instrumental level and in terms of the commitment of the radiological staff.
+
+In this context, the RISP network aims to promote a nationwide early diagnosis program with LDCT that reduces mortality from lung cancer, and at the same time, brings benefit in primary prevention of smoking-related diseases, such as chronic obstructive pulmonary diseases (COPD) and other cardiovascular diseases. RISP will start lung screening in a gradual and controlled way, through a network of reference centers with multidisciplinary clinical competence that provide adequate coverage of the territory, and meanwhile a level of quality fitting to the standards currently achieved in the screening of other cancers (breast, cervix, colon). A systematic screening program will also increase the percentage of lung cancer patients eligible for early-stage surgical resection from the current 25% (without screening) to 50-60%.
+
+At baseline- each volunteer will undergo:
+
+* a baseline questionnaire (e.g. socio-demographic, smoking habits, etc) with anti-smoking counseling program that includes cytisine-based anti-smoking therapy.
+* blood sampling for the assessment of the inflammatory and metabolic profile (i.e. bio-markers) (optional)
+* evaluation of respiratory function and measurement of carbon monoxide (CO)
+* chest LDCT without contrast
+* anthropometric evaluation (e.g. weight, height, BMI, etc)
+
+Follow-up- each randomized volunteer will undergo:
+
+* clinical examinations of LDCT
+* blood sampling and CO after 12 months of follow-up or 24 months depending on the arm to which they belong.
+
+Imaging will be performed by volumetric acquisition with a computed tomography scanner equipped with advanced technology hardware and software, including an AI-based second reading that will be validated by a radiologists panel.
+
+All data will be entered into a password-protected database. The protection of the identity of the subjects will be guaranteed by assigning unique participation numbers specific to the study. In a separate database, accessible only by the principal investigator or assigned team members, the unique identification number can be linked to participants' names and addresses for the purposes of local and central administrative processes such as scheduling scans, sending invitation letters, sending screening results and questionnaires for topics, and collecting follow-up information. All volunteer samples and paper/electronic files will be destroyed 15 years after completion of the study.
+
+Participants are assured that no personal data will be published in articles, reports or other study documentation.
+
+Randomization will be carried out using real-time automated statistical software: eligible subjects will be randomly assigned to one of the two intervention arms (A, B) with a 1:1 ratio.

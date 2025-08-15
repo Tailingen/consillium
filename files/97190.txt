@@ -1,0 +1,24 @@
+Performance and Safety of MiWEndo-assisted Colonoscopy (MiWEndo II)
+The study involves the planned use of a new microwave-based device during colonoscopy procedures in 50 patients to assess the performance and safety of its use for detection of colorectal polyps and lack of normal clinical practice modification. The device is a final design version, which has been previously tested in several preclinical studies (including phantom studies, an ex vivo study with human tissues, and an in vivo study with porcine model) and in a pilot study in humans (NCT05477836)
+Colorectal Cancer|Colorectal Polyp|Colorectal Adenoma|Colorectal Adenomatous Polyp|Colorectal Adenocarcinoma|Colorectal Neoplasms
+DEVICE: MiWEndo System
+Number of polyps, With MiWEndo assisted colonoscopy, detect at least one polyp before colonoscopy in 10% of patients., During the procedure.|Number of adverse events., Number of adverse events related with the use of the MiWEndo using the lexicon proposed by the American Society of Gastrointestinal Endoscopy (ASGE) (Cotton PB et al. GIE 2010;71:446-54)., During the procedure and up to 2 weeks after.|Number of mural injuries., Mural injuries related with the use of the MiWEndo., During the procedure and up to 2 weeks after.
+Number and size (adenomas and polyps)., The number and size of all lesions (adenomas and all polyps) detected with MiWEndo-assisted colonoscopy., During procedure.|True positives (TP), False positives (FP), False negatives (FN)., The concordance with the lesions detected by the standard colonoscopy (TP, FP, FN)., During procedure.|Patients' comfort., Patients' feedback related to colonoscopy using the Gloucester comfort score that ranges from 1 (no discomfort) to 5 (severe discomfort)., Immediately after the procedure and 2 weeks after.|Perception of difficulty., Perception of difficulty by the endoscopist based on a 5-points Likert scale (very easy to very difficult or very much to very little)., Immediately after the procedure.
+This study is designed as a single-center prospective, non-comparative study in 50 patients, whereby data will be subject to an analytical description, rather than to a statistical treatment (refer to Statistical design and analysis).
+
+In this study the principal aims are to assess the performance and safety of the device for the detection of colorectal polyps when used as an accessory to colonoscopy. Relevant claims to verify in this study are that the device will detect in first instance polyps not detected initially with the endoscopic image and can be used without ADEs, without any change in the current clinical practice, as well as without any major difficulty by the endoscopist, neither in the preparation nor in the use of the device during exploration.
+
+In addition, in the first phase of the study (n=15 patients), the study aims to gather real clinical data with the use of the device to optimise the processing software that will be key to demonstrate MiWEndo\&#39;s performance on the second part of the study (n=35 patients).
+
+Consequently, principal and secondary objectives of this investigation, are:
+
+Principal objectives:
+
+* To assess the performance of MiWEndo-assisted colonoscopy in the detection of colorectal polyps.
+* To assess the safety of MiWEndo-assisted colonoscopy.
+
+Secondary objectives:
+
+* To assess the perception of difficulty by the endoscopist when the device is used.
+* To provide exploratory analysis of differences in MiWEndo-assisted colonoscopy in different groups of patients to guide future RCT.
+* To assess the patient's comfort.

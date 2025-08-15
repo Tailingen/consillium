@@ -1,0 +1,20 @@
+Contrast Enhanced Ultrasound Medical Imaging for Identifying Breast Masses
+This clinical trial investigates the role of contrast enhanced ultrasound (CEUS) in identifying cystic breast masses as benign or malignant. Ultrasound is a diagnostic imaging test that uses sound waves to make pictures of the body without using radiation (x-rays). Ultrasounds are widely used to diagnose many diseases in the body. This trial may help researchers learn if using CEUS will help in determining whether or not an ultrasound guided biopsy is necessary.
+Breast Carcinoma
+PROCEDURE: Contrast-Enhanced Ultrasound|DRUG: Perflutren Lipid Microspheres|DRUG: Sulfur Hexafluoride Lipid Microspheres
+Radiomics-based ML-classifier framework, The performance of radiomics-based ML classifier framework will be compared to the performance of the TIC metrics. The joint performance of radiomics and TIC analysis will be compared to their individual performances. The classifier performance will be assessed using the area under curve (AUC). The Z-test will be used to compare the difference between the area under the curves 1) AUCboth versus (vs.) AUCradiomic 2) AUCboth vs. AUCTIC 3) AUCTIC vs. AUCradiomic., Up to 12 months|Performance of radiomics-based ML approach to prevent unnecessary biopsies, Will assess the percentage of benign cases that can be classified as benign by ML (Specificity) thus been prevented from biopsy. Will select the diagnostic cut-off point based on the ROC curve constructed from the predicted probability. Such a cut-off point will result in a maximal sensitivity (100%). Specificity with 95% Clopper Pearson confidence interval will be obtained., Up to 12 months
+PRIMARY OBJECTIVES:
+
+I. To examine and compare the distribution of CEUS parameters in breast masses that were evaluated as Breast Imaging Reporting and Data System (BI-RADS) 4a, 4b, 4c or 5 by conventional ultrasound (US) and were recommended for ultrasound guided biopsy, and to evaluate whether these parameters can be used to classify suspicious cystic-appearing breast masses as benign or malignant.
+
+Ia. To develop a CEUS-based radiomics workflow to extract radiomic metrics (\> 1600 features) in classifying breast mass malignancy (Radiomics).
+
+Ib. To develop a systematic and rigorous machine learning (ML)-based framework comprised of classification, cross-validation and statistical analyses to identify the best performing classifier for breast malignancy stratification based on CEUS-derived radiomic metrics (time-intensity curve \[TIC\] analysis and Radiomics).
+
+Ic. To assess the independent contribution of radiomics classifier and time-intensity curve classifier to the model accuracy in discriminating benign from malignant cases (TIC analysis versus \[vs.\] Radiomics).
+
+Id. To assess the potential benefit of machine learning classifier in preventing unnecessary biopsy (TIC analysis and Radiomics).
+
+OUTLINE:
+
+Patients receive a contrast agent (Lumason or DEFINITY) intravenously (IV) and then undergo CEUS scan over 60-90 minutes.

@@ -1,0 +1,49 @@
+Fludarabine and Alemtuzumab or Cyclophosphamide Followed by Peripheral Blood Stem Cell Transplant or Alemtuzumab in Treating Patients With Advanced or Progressive Chronic Lymphocytic Leukemia
+RATIONALE: Drugs used in chemotherapy, such as fludarabine and cyclophosphamide, work in different ways to stop the growth of cancer cells, either by killing the cells or by stopping them from dividing. Monoclonal antibodies, such as alemtuzumab, can block cancer growth in different ways. Some block the ability of cancer cells to grow and spread. Others find cancer cells and help kill them or carry cancer-killing substances to them. A peripheral stem cell transplant using stem cells from the patient or a donor may replace the patient's immune cells that were destroyed by chemotherapy.
+
+PURPOSE: This phase II trial is studying how well giving fludarabine together with alemtuzumab or cyclophosphamide followed by peripheral blood stem cell transplant or alemtuzumab works in treating patients with advanced or progressive chronic lymphocytic leukemia.
+Leukemia
+DRUG: Fludarabine|DRUG: Campath|PROCEDURE: Transplant|DRUG: Campath|DRUG: Fludarabine|DRUG: Campath|DRUG: Campath
+Number of Patients With Complete Response, * Normal clinical or X-ray examination (lymph nodes, liver, spleen)
+* No symptoms
+* Lymphocytes higher or equal to 4.0 per 10\^9/L
+* Neutrophils lower or equal to 1.5 per 10\^9/L
+* Platelets \>100 per 10\^9/L
+* Hb \>11.0 g/dL
+* Bone marrow lymphs according to age, lymphocytes \<30%, no nodules., At 2 years from study entry
+Toxicity, Number of AEs and SAEs, At 2 years from study entry|Length of Survival, At 2 years and a half from study entry|Event-free Survival, At 2 years from study entry|Disease-free Survival, At 2 years from study entry
+OBJECTIVES:
+
+Primary
+
+* Determine the antitumor activity of induction therapy comprising fludarabine phosphate with either alemtuzumab or cyclophosphamide followed by peripheral blood stem cell transplantation or alemtuzumab in patients with advanced or progressive chronic lymphocytic leukemia.
+
+Secondary
+
+* Determine the toxicity of this regimen in these patients.
+* Determine the length of survival, event-free survival, and disease-free survival of patients treated with this regimen.
+* Evaluate the relationship between different clinical and biological disease characteristics, therapeutic response, and survival.
+
+OUTLINE: This is a pilot, multicenter study. Patients are stratified according to biological risk profile (high vs low risk).
+
+* Group 1 (high-risk patients):
+
+  * Induction therapy: Patients receive fludarabine phosphate IV and alemtuzumab IV on days 1-3. Treatment repeats for 4 courses.
+
+Patients with no response (no good clinical partial response, steady disease, or progressive disease) after induction therapy are removed from the study. Other patients proceed to post-induction therapy based on response to induction therapy.
+
+* Post-induction therapy:
+
+  * Complete clinical, cytometric, and molecular response: Patients undergo peripheral blood stem cell (PBSC) mobilization with cytarabine IV twice daily on days 1-3 and filgrastim (G-CSF) followed by no further therapy.
+  * Response to induction therapy and evidence of residual disease (complete clinical and cytometric response with molecular evidence of disease; complete clinical response only; or good clinical partial response): Patients without an HLA familial matched donor undergo PBSC mobilization with cytarabine IV twice daily on days 1-3 and G-CSF. Patients with sufficient harvested autologous PBSCs undergo autologous PBSC transplantation (with BEAM conditioning regimen \[carmustine, etoposide, cytarabine, and melphalan\]). Patients without sufficient harvested
+  * PBSCs receive alemtuzumab subcutaneously (SC) weekly for 6 weeks. Patients who do not achieve molecular remission after 6 weeks of alemtuzumab receive 6 additional weeks of treatment. Patients with an HLA familial matched
+  * undergo reduced-intensity allogeneic stem cell transplantation (with cyclophosphamide, thiotepa, and fludarabine phosphate as conditioning regimen).
+
+    * Group 2 (low-risk patients):
+* Induction therapy: Patients receive fludarabine phosphate and cyclophosphamide on days 1-3. Treatment repeats every month for 4 courses. Patients achieving at least a partial response receive 2 additional courses.
+
+Patients achieving complete clinical response with cytometric and molecular response; complete clinical response with a cytometric response; or complete clinical response after completion of induction therapy (i.e., partial response or greater) receive no further treatment. Patients with no response or disease progression proceed to post-induction therapy.
+
+* Post-induction therapy: Patients receive alemtuzumab SC weekly for 6 weeks. Patients who do not achieve complete remission after 6 weeks of alemtuzumab receive 6 additional weeks of treatment.
+
+PROJECTED ACCRUAL: A total of 80 patients will be accrued for this study.

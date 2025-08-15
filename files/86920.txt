@@ -1,0 +1,58 @@
+Pilot Study of Docetaxel & Bevacizumab +/- Trastuzumab in First-Line Treatment of Patients With Metastatic Breast Cancer
+Pilot, phase II, parallel-group, open-label, noncomparative, prospective, multicenter study designed to evaluate the progression-free survival of docetaxel and bevacizumab ± trastuzumab for the first-line treatment of participants with metastatic breast cancer. Participants were stratified according to human epidermal growth factor receptor-2 (HER2) status at the time of enrollment. HER2 negative participants were assigned to receive docetaxel and bevacizumab (DB). HER2 positive participants were assigned to receive docetaxel, bevacizumab, and trastuzumab (DBT).
+
+All participants (except one) were off study treatment on 30 June 2011. All efficacy analysis and safety analysis was performed using the cut-off date of June 2011. One participant continued treatment till 11 March 2012. For this participant, adverse events were collected upto 19 April 2012 and included in the safety analysis.
+Breast Cancer
+DRUG: Bevacizumab|DRUG: Docetaxel|DRUG: Trastuzumab
+Progression-free Survival (PFS) Rate: Percentage of Participants With PFS, PFS was the time from registration to first documentation of
+
+* progressive disease (PD) based on Response Evaluation Criteria in Solid Tumors (RECIST) - criteria pre-defining changes in lesion size or appearance
+* symptomatic deterioration
+* death due to any cause (in absence of PD).
+
+The Percentage of participants with PFS is reported.
+
+For the analysis, participants were censored
+
+* on the last available tumor assessment date on study treatment if they
+
+  * had no PFS event
+  * were on anticancer therapy not related to study treatment
+* on the registration date if they
+
+  * did not receive study drug
+  * had no post baseline tumor assessment, Up to 6 months and 12 months after treatment initiation|Time to Progression-free Survival (PFS), Time to PFS was the interval from the date of registration to the earliest of the following documented dates:
+
+* PD as defined by RECIST (criteria pre-defining changes in lesion size or appearance)
+* symptomatic deterioration
+* death.
+
+Time to PFS was estimated from Kaplan-Meier Plots., From treatment initiation to PFS event (up to June 2011)
+Confirmed Overall Response (OR) Based on RECIST Criteria, Confirmed OR was confirmed Complete Response (CR) + confirmed Partial Response (PR). According to RECIST
+
+* CR was the disappearance of all tumor lesions
+* PR was a pre-defined decrease in the size of tumor lesions.
+
+To determine a response, radiologic tumors assessments were performed using computed tomography (CT) and/or magnetic resonance imaging (MRI) of the chest, and the abdomen, bone scan or positron emission tomography (PET) scan, and other imaging techniques as clinically indicated. To confirm a response, 2 assessments separated by 28 days or more were required., From treatment initiation to June 2011|Number of Participants With Confirmed Clinical Benefit Based on RECIST Criteria, Clinical Benefit (CB) was achieved in participants with a response (CR + PR) or a stable disease (SD).
+
+According to RECIST
+
+* CR was the disappearance of all tumor lesions
+* PR was a pre-defined decrease in the size of tumor lesions
+* SD was neither sufficient decrease in tumor size to qualify for PR or sufficient increase to qualify for PD.
+
+Confirmation of a response needed 2 responses scored, separated by 28 days or more (for CR and PR), and by 26 weeks or more (for SD)., From treatment initiation to June 2011|Duration of Response (DR), DR was the interval from date of initial documented confirmed response (CR or PR) to the first documented confirmed date of disease progression (PD) or death from any cause in the absence of previous documentation of objective tumor progression.
+
+Participants who were alive and without any record of PD at the time of discontinuation were censored at the last available tumor assessment date; participants with non-study anti-cancer therapy during the study were censored at the last available tumor assessment date prior to the anti-cancer therapy.
+
+DR was estimated from Kaplan-Meier Plots., From treatment initiation to June 2011|Overall Survival (OS) Time, OS was the interval between the date of study entry and the date of death from any cause. In the absence of confirmation of death, survival time was censored at the last date the participant was known to be alive.
+
+OS time was estimated from Kaplan-Meier Plots., From treatment initiation to June 2011|Number of Participants With Adverse Events (AE), An adverse event (AE) was any unfavorable and unintended sign, symptom, syndrome, or illness that developed or worsened during the clinical study. AEs occurring on or after first dose of study medication inclusive to 30 days post-last dose were the treatment emergent adverse events (TEAEs).
+
+An serious adverse event was an AE that at any dose (including overdose) resulted in death, was life-threatening, required or prolonged inpatient hospitalization, resulted in persistent or significant disability or incapacity, was a congenital anomaly, and/or was medically important., From treatment initiation to 30 days after the last dose of study treatment
+The study included:
+
+* Study registration on Day 1: Treatment Cycle 1 was initiated within 14 days of signing informed consent
+* Treatment was administered in 3 week treatment cycles until the participant developed unacceptable toxicity, had disease progression, withdrew consent, or died
+* If participants experienced a complete response (CR), partial response (PR), or stable disease (SD) at Cycle 8 or beyond or had unacceptable toxicity due to docetaxel, they could continue on bevacizumab and/or trastuzumab until they developed unacceptable toxicity, had disease progression, or withdrew consent
+* Participants had follow-up assessments within 30 days after discontinuation of treatment with the last of the study drugs for any reason other than death

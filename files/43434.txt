@@ -1,0 +1,18 @@
+Evaluation of Axillary Lymph Node Metastasis Status of Breast Cancer Based on Pathological Images and Virtual Staining
+The goal of this observational study is to develop an artificial intelligence model to transform unstained lymph node tissue slice images directly into stained images. The main questions it aims to answer are:
+
+Can the virtual staining model generate hematoxylin and eosin (H\&E) and immunohistochemistry (IHC) images suitable for clinical diagnosis from unstained paraffin-embedded lymph node slice images, including those from breast axillary lymph nodes and other tumor lymph nodes?
+
+Can the virtual staining model generate H\&E and IHC images suitable for clinical diagnosis from unstained frozen sentinel lymph node slice images from breast cancer patients?
+
+Researchers will retrospectively collect paraffin-embedded lymph node slices from tumor patients and prospectively collect frozen sentinel lymph node slices from breast cancer patients.
+Virtual Staining|Lymph Node Metastasis|Breast Cancer|Digital Pathology
+Lymph node metastasis status, Lymph node metastasis status: metastasis or non-metastasis, 2024-2025|Accuracy, Sensitivity, Specificity，Area under the curve，, The performance of pathologists diagnosing the lymph node metastasis status by virtual and real staining whole slide images, 2024-2025|Positive predictive value，Negative predictive value, The performance of pathologists diagnosing the lymph node metastasis status by virtual and real staining whole slide images, 2024-2025
+Peak Signal-to-Noise Ratio(PSNR), Scores of the similarity between virtual and real staining of lymph nodes, with values ranging from 0 to infinity, the higher scores mean the better outcomes, 2024-2025|Multi-Scale Structural Similarity (MS-SSIM), Scores of the similarity between virtual and real staining of lymph nodes, with values ranging from 0 to 1, the higher scores mean the better outcomes, 2024-2025|Pearson correlation coefficient, Scores of the similarity between virtual and real staining of lymph nodes, with values ranging from 0 to 1, the higher scores mean the better outcomes, 2024-2025
+The goal of this observational study is to develop an artificial intelligence model to transform unstained lymph node tissue slice images directly into stained images. The main questions it aims to answer are:
+
+Can the virtual staining model generate hematoxylin and eosin (H\&E) and immunohistochemistry (IHC) images suitable for clinical diagnosis from unstained paraffin-embedded lymph node slice images, including those from breast axillary lymph nodes and other tumor lymph nodes?
+
+Can the virtual staining model generate H\&E and IHC images suitable for clinical diagnosis from unstained frozen sentinel lymph node slice images from breast cancer patients?
+
+Researchers will retrospectively collect paraffin-embedded lymph node slices from tumor patients and prospectively collect frozen sentinel lymph node slices from breast cancer patients.

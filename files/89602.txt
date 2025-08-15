@@ -1,0 +1,42 @@
+Neo-Adjuvant Bladder Urothelial Carcinoma COmbination-immunotherapy
+In cohort 1 of this study, we used an attenuated schedule of neoadjuvant ipilimumab and nivolumab. In the multicenter extension (cohort 2), 30 patients were randomized between two neoadjuvant treatment schemes, both based upon an attenuated schedule of neoadjuvant ipilimumab and nivolumab.Both cohorts are completed.
+Urothelial Carcinoma
+DRUG: Ipilimumab|DRUG: Nivolumab
+Number of patients that had surgical resection <12 weeks after study start (Cohort 1), Percentage of patients that underwent surgery within 12 weeks after study start were assessed, At 12 weeks
+Efficacy of immunotherapy, assessed by by the percentage of pathological complete response rate (pCR) after cystectomy (Cohort 1, followed by Cohort 2a versus 2b), pCR rate after cystectomy according to pathological response criteria, At 12 weeks|Differences in immune infiltrates in responders vs nonresponders, Resistance mechanisms are explored by comparing immune (cell) infiltrates in responders and nonresponders in pre- and post treatment tissue \[Multiplex immunohistochemistry, RNA seq\], At 12 weeks|T-cell (dys)functionality as measured by comparing the transcriptome of tumor-specific T cells in intra-patient pre- and post therapy tissue, This component is done in a minority of patients on T cell lysates if a re-TUR (transurethral resection) pre-treatment was done., At 12 weeks|Explore whether radiomics-based predictive models can be established for immunotherapy responders vs non-responders (Cohort 1), CT and MRI images will be assessed in this manner to optimize recognition of an immunotherapy response., At 12 weeks|Provide an estimate of ≥grade 3 immune-related toxicity in cohorts 2a versus 2b, Immune-related toxicity were compared between cohhort 1 and cohort 2 and between cohorts 2a and 2b, At 12 weeks|Monitor peri-surgical complications., peri-operative complications and morbidity were graded according to the Clavien-Dindo classification., Until 90 days after surgery.|ctDNA in plasma during follow-up, Assessment of ctDNA in plasma during follow-up and at recurrence, During follow-up and with disease recurrence|As part of regular follow-up after radical surgery, follow-up CT scans were made after 1 and 2 years., As part of regular follow-up after radical surgery, follow-up CT scans were made after 1 and 2 years. Additional scans were performed according to local standards., Until 2 years after surgery (not part of primary study assessment)
+This is an open-label phase Ib trial to evaluate three different schedules of preoperative ipilimumab and nivolumab. Urothelial cancer patients will be included that are diagnosed with either:
+
+* cT3-4aN0M0 OR
+* T1-4aN1-3M0
+
+Cohort 1 (n=24):
+
+* Day 1: Ipilimumab 3 mg/kg
+* Days 22: Ipilimumab 3 mg/kg + Nivolumab 1 mg/kg
+* Day 43: Nivolumab 3 mg/kg
+* Day 56-84: Radical cystectomy or nefro/ureterectomy with appropriate lymph node dissection
+
+Patients in cohort 2 (n=30) were randomized between cohort 2a and 2b
+
+Cohort 2a (n=15):
+
+* Day 1: Ipilimumab 3 mg/kg + Nivolumab 1 mg/kg
+* Days 22: Ipilimumab 3 mg/kg + Nivolumab 1 mg/kg
+* Day 43: Nivolumab 3 mg/kg
+* Day 56-84: Radical cystectomy or nefro/ureterectomy with appropriate lymph node dissection
+
+Cohort 2b (n=15):
+
+* Day 1: Ipilimumab 1 mg/kg + Nivolumab 3 mg/kg
+* Days 22: Ipilimumab 1 mg/kg + Nivolumab 3 mg/kg
+* Day 43: Nivolumab 3 mg/kg
+* Day 56-84: Radical cystectomy or nefro/ureterectomy with appropriate lymph node dissection
+
+The primary endpoint for cohort 1 in this trial was safety. We determined the number of patients that had surgical resection \<12 weeks from first infusion, as this is an endpoint that is clinically meaningful for this population. After surgery, patients attended study visits at day 8 and day 29. Their final study visit for physical examination and laboratory testing is at day 57 (+/- 7 days), which is scheduled to anticipate late-onset adverse events (particularly endocrine). After this final visit, patients were followed according to standard clinical guidelines. Tumor biopsies/material preservation were required at baseline and during surgery.
+
+In cohort 2, we randomized patients between 2 arms. Here, the main secondary outcomes were:
+
+* To compare the efficacy of pre-operative ipilimumab + nivolumab in cohort 1 (sequenced ipilimumab/nivolumab), versus cohort 2a (ipi 3 mg/kg and nivo 1 mg/kg) and cohort 2b (ipi 1 mg/kg and nivo 3 mg/kg). Efficacy was defined as the pCR rate at resection.
+* Provide an estimate of ≥grade 3 immune-related toxicity in the ipi3/nivo1 and ipi1/nivo3 cohorts as opposed to the initial cohort (Cohort 1)
+
+An important additional secondary endpoint is translational. The main testable hypothesis is that a significant percentage of nonresponse can be explained by immune-inhibitory processes. Absence of immune infiltrates, presence of significant numbers of regulatory T-cells and presence of significant numbers of myeloid-derived suppressor cells will be compared between responders and nonresponders. The efficacy will be defined as the percentage of pathological complete response (pCR) at cystectomy (secondary endpoint).

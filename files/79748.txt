@@ -1,0 +1,37 @@
+Impact of Lymphodepletion Regimen on the Response to CAR T-cells in Patients With With Relapsed/Refractory Large B-cell Lymphoma
+CAR T cells therapy has transformed the prognostic of relapsed/refractory large B cells lymphomas. Relapse however is still high and multiple causes have been studied. CAR expansion seems to be necessary to for response and lymphodepletion type and exposure, notably to fludarabine, associated with expansion and response.
+
+The aim of the study is to analyse prospectivaly Fludarabine and cyclophosphamide exposure and correlate exposure to expansion, therapeutic response and survival.
+Large B Cell Lymphoma|CAR T Cell
+OTHER: Blood sampling
+Progression Free Survival, One year after the CAR T therapy, At 1 year
+Global response, At 1 month|Complete response, At 1 month|Global response, At 3 months|Complete response, At 3 months|Overall survival, At 1 year|CAR T specific toxixity assessment, During CAR administration based on used classification (Classification Lee/ASCT 2019), Up to 1 year|CAR T specific toxixity assessment, During CAR administration based on cytopenia grading, Up to 1 year|CAR T cell expansion, By flow cytometry/PCR, At day 0|CAR T cell expansion, By flow cytometry/PCR, At day 2|CAR T cell expansion, By flow cytometry/PCR, At day 4|CAR T cell expansion, By flow cytometry/PCR, At day 6|CAR T cell expansion, By flow cytometry/PCR, At day 8|CAR T cell expansion, By flow cytometry/PCR, At day 10|CAR T cell expansion, By flow cytometry/PCR, At day 30|CAR T cell expansion, By flow cytometry/PCR, At day 15|HLA-DR expression, At day 0|Compliance of autologous reconstitution, At 1 month|Monitoring of autologous reconstitution, At 2 months|Monitoring of autologous reconstitution, At 3 months|Monitoring of autologous reconstitution, At 6 months|Monitoring of autologous reconstitution, At 12 months
+Currently, a standard dose of fludarabine and cyclophosphamide is administered according to the type of CAR T-cells used.
+
+For Tisa-cel, a dose of 25 mg/m²/day of fludarabine is administered from Day -5 to Day -3, and a dose of 250 mg/m²/day of cyclophosphamide is administered from Day -5 to Day -3.
+
+For Axi-cel, a dose of 30 mg/m²/day of fludarabine is administered from Day -5 to Day -3, and a dose of 500 mg/m²/day of cyclophosphamide is administered from Day -5 to Day -3.
+
+For Liso-cel, a dose of 30 mg/m²/day of fludarabine is administered from Day -5 to Day -3, and a dose of 300 mg/m²/day of cyclophosphamide is administered from Day -5 to Day -3.
+
+The administration of lymphodepletion is quite straightforward and follows a standard practice. Urinary tract protection is ensured by injecting Uromitexan just before cyclophosphamide, then at 3, 6, and 9 hours after the cyclophosphamide injection.
+
+In all three cases, CAR T-cell infusion takes place on Day 0, following two days of monitoring without treatment.
+
+The doses selected for each CAR T-cell therapy in the context of B-cell malignancies have been optimized based on pivotal studies (Locke 2019, Zhang 2020) up to market approval to achieve the best efficacy and an acceptable safety profile. Indeed, treatment doses have been adjusted due to severe adverse effects (grade 3-4 neurotoxicity, hypotension with shock and cardiac arrest, death; Kochenderfer 2015, Schuster 2017 and 2019, Geyer 2019), even though higher doses had shown better efficacy (Curran 2019).
+
+Our study hypothesis is to prospectively analyze fludarabine exposure to propose, in the future, a personalized lymphodepletion dosing strategy to achieve better CAR T-cell expansion and, consequently, improved efficacy.
+
+This will require hyperhydration with 3L of saline solution per 24 hours over three days, administration of fludarabine over 30 minutes, followed 30 minutes later by a 2-hour infusion of cyclophosphamide. Prevention of cyclophosphamide-induced urinary toxicity will be managed through Uromitexan injections before and at 3, 6, and 9 hours after cyclophosphamide administration, as per standard procedure.
+
+According to study design, six blood samples will be collected, including a pre-dose sample within the hour before fludarabine administration, followed by samples at 30 minutes ±10 minutes, 1 hour ±15 minutes, 3 hours ±30 minutes, 7 hours ±1 hour, and 9 hours ±1 hour after the end of the fludarabine infusion. These samples will be taken longitudinally on days 1 and 3 of fludarabine and cyclophosphamide infusion (i.e., Day -5 and Day -3 before CAR T-cell administration on Day 0).
+
+The concentrations of the circulating metabolite of fludarabine (F-ara-A) and the active metabolite of cyclophosphamide (phosphoramide mustard) will be quantified using a validated method according to European guidelines (EMEA 2012) via liquid chromatography coupled with tandem mass spectrometry. All analyses will be centralized at the Biological Pharmacology Laboratory of Saint-Louis Hospital under the supervision of Dr. Laurianne Goldwirt.
+
+Total exposure to F-ara-A (area under the concentration-time curve \[AUC₀-∞\]) will be determined using a population pharmacokinetic model (Langerhorst et al., 2019) with Bayesian estimation (NONMEM software). Exposure to phosphoramide mustard (AUC₀-7h) will be assessed using a non-compartmental approach (PKanalix software). Residual concentrations (T₀) will be measured on Day 3.
+
+The analysis will focus on the level of exposure to lymphodepletion, with patients classified into two groups based on whether their exposure is optimal or not, meaning whether the measured dose is below or above the minimal optimal dose. Further analysis will evaluate CAR T-cell expansion, therapeutic response, patient survival, and toxicities (CRS, ICANS, cytopenia) within these two groups.
+
+Additionally, we will assess HLA-DR expression on monocytes at inclusion, a factor recently identified as predictive of the response to lymphodepletion and CAR T-cell expansion (Bourbon 2022).
+
+We will then assess the the impact of fludarabine exposure and cylophophamide exposure on therapeutic responses after CAR t cells therapy and their toxicities. Global response, complete response, and progression will be measured on month 1, month 3 and at one year. Overall survivall will be assessed throughout the study.

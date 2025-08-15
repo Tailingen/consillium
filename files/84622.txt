@@ -1,0 +1,36 @@
+Ciprofloxacin Compared to Placebo in Diagnosing Prostate Cancer in Patients Undergoing Prostate Biopsy
+This phase II trial studies ciprofloxacin compared to an inactive treatment (placebo) in diagnosing prostate cancer in patients undergoing removal of prostate cells or tissues for examination (biopsy). Ciprofloxacin is an antibiotic, a type of drug used to treat infections caused by bacteria. Giving ciprofloxacin to patients undergoing a prostate biopsy may help to lower abnormal prostate-specific antigen (PSA) levels caused by bacterial infection of the prostate gland and may or may not affect the detection rate of prostate cancer.
+Prostate Cancer
+DRUG: ciprofloxacin|OTHER: placebo|OTHER: quality-of-life assessment|OTHER: laboratory biomarker analysis
+Prostate cancer detection rates, Will be compared between groups using a binomial test to compare rates in the two groups. Groups will also be compared using logistic regression models to adjust for any pre-treatment patient level characteristics., Up to 8 weeks
+Change in PSA, The data will be analyzed on a logarithmic scale to stabilize the variance. The change in log PSA from randomization to biopsy will be compared between the two groups using a two-sample t-test. In addition, the baseline log PSA levels will be compared between the two groups and if they are found to be imbalanced a 1-way analysis of covariance will be used to compare groups by including the baseline pre-randomization log-PSA value as the covariate in the model., Up to 8 weeks|Rates of post-biopsy complications (including duration of hematuria, hematochezia, hematospermia, fever > 101°F, and hospital admission rates related to biopsy, sepsis, and pain), Will be compared between groups using Chi-square tests (or Fisher's Exact tests if the expected cell counts are below 5)., Up to 8 weeks
+BPH or erectile dysfunction, In order to determine if BPH or erectile dysfunction are associated with abnormal PSA or prostatic inflammation reported in the biopsy specimen, 2x2 Chi Square tests will be used where each measure will be dichotomized. In addition, the consistency of these associations across the two treatment groups will be examined using a 3-way table and examining the Breslow Day test to see whether the odds ratios for each treatment are comparable., Up to 8 weeks|Change in urinalysis pre- and post-treatment, In order to determine the correlation between change in PSA from randomization to biopsy and urinalysis pre- and post-ciprofloxacin, the Pearson correlations of the change in PSA with white blood cells pre- and post-ciprofloxacin vs. placebo will be estimated. If the data is found to be non-normal the Spearman rank correlations will be used for this analysis., Up to 8 weeks|Change in prostate massage outcomes, The correlation between change in PSA and prostate massage pre- and post-ciprofloxacin vs placebo will be determined. Will examine whether there is a significant difference in PSA changes between the ciprofloxacin group and placebo group for different prostate massage outcomes using a 2-way analysis of variance (ANOVA) model. Will consider creating contrasts within the ANOVA model to test whether there is an ordered (possibly linear) relationship between levels of prostate massage and PSA change values (i.e., fitting a one-degree of freedom contrast within the ANOVA models)., Up to 8 weeks|Change in flora levels, In order to determine the qualitative and quantitative difference in flora obtained from rectal swab pre- and post- two week course of ciprofloxacin vs. placebo 2-sample t-tests will be used to compare the change in these measures (for quantitative measures) and 2x2 Chi-Square tests to examine qualitative changes (Improve Yes/no by treatment group)., 2 weeks|Prostate symptom severity (IPSS) and erectile function (IIEF-5), To assess the correlation between prostate symptom severity (IPSS) and erectile function (IIEF-5) at baseline to ciprofloxacin or placebo treatment, an analysis of covariance model will be fit that examines the follow-up measure (IPSS) as the outcome, with the treatment indicator and IIEF-5 measure as predictors and their interaction included to see if the relationship depends on treatment., Day 1|Pathology findings, In order to correlate urinary, prostate massage or rectal swab findings to pathology findings including cancer, inflammation, prostatic intra-epithelial neoplasia, atypical acinar proliferation or other findings will either estimate Pearson or Spearman correlations (depending on the distribution of the measures) or one measure is binary (i.e., cancer yes/no) then will examine 2-sample t-tests., Up to 1 month
+PRIMARY OBJECTIVES:
+
+I. To determine the non-inferiority of the rate of detection of prostate cancer in men with decreased serum PSA values treated with placebo compared to ciprofloxacin prior to prostate biopsy.
+
+SECONDARY OBJECTIVES:
+
+I. To compare the change in PSA from randomization to biopsy in men treated with ciprofloxacin versus those treated with placebo.
+
+II. To compare the rates of post-biopsy complications (including duration of hematuria, hematochezia, hematospermia, fever \> 101°F, and hospital admission rates related to biopsy, sepsis, and pain) between men treated with ciprofloxacin versus those treated with placebo.
+
+TERTIARY OBJECTIVES:
+
+I. To determine if benign prostatic hyperplasia (BPH) or erectile dysfunction are associated with abnormal PSA or prostatic inflammation reported in the biopsy specimen.
+
+II. To determine the correlation between change in PSA from randomization to biopsy and urinalysis pre- and post-ciprofloxacin versus placebo.
+
+III. To determine the correlation between change in PSA and prostate massage pre- and post-ciprofloxacin versus placebo.
+
+IV. To determine the qualitative and quantitative difference in flora (ciprofloxacin resistant organisms) obtained from rectal swab pre- and post- two week course of ciprofloxacin vs. placebo.
+
+V. To correlate prostate symptom severity (International Prostate Symptom Score \[IPSS\]) with erectile function (International Index of Erectile Function \[IIEF-5\]) at baseline.
+
+VI. To correlate urinary, prostate massage or rectal swab findings to pathology findings including cancer, inflammation, prostatic intra-epithelial neoplasia (PIN), atypical acinar proliferation (ASAP) or other findings at the end of the study.
+
+OUTLINE: Patients are randomized to 1 of 2 treatment arms.
+
+ARM I: Patients receive ciprofloxacin orally (PO) twice daily (BID) for 2 weeks.
+
+ARM II: Patients receive ciprofloxacin PO BID for 2 weeks.

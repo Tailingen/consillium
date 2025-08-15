@@ -1,0 +1,66 @@
+CD19/CD22 Bicistronic Chimeric Antigen Receptor (CAR) T Cells in Children and Young Adults With Recurrent or Refractory CD19/CD22-expressing B Cell Malignancies
+Background:
+
+Acute lymphoblastic leukemia (ALL) is the most common cancer in children. About 90% of children and young adults who are treated for ALL can now be cured. But if the disease comes back, the survival rate drops to less than 50%. Better treatments are needed for ALL relapses.
+
+Objective:
+
+To test chimeric antigen receptor (CAR) therapy. CARs are genetically modified cells created from each patient s own blood cells. his trial will use a new type of CAR T-cell that is targeting both CD19 and CD22 at the same time. CD19 and CD22 are proteins found on the surface of most types of ALL.
+
+Eligibility:
+
+People aged 3 to 39 with ALL or related B-cell lymphoma that has not been cured by standard therapy.
+
+Design:
+
+Participants will be screened. This will include:
+
+Physical exam
+
+Blood and urine tests
+
+Tests of their lung and heart function
+
+Imaging scans
+
+Bone marrow biopsy. A large needle will be inserted into the body to draw some tissues from the interior of a bone.
+
+Lumbar puncture. A needle will be inserted into the lower back to draw fluid from the area around the spinal cord.
+
+Participants will undergo apheresis. Their blood will circulate through a machine that separates blood into different parts. The portion containing T cells will be collected; the remaining cells and fluids will be returned to the body. The T cells will be changed in a laboratory to make them better at fighting cancer cells.
+
+Participants will receive chemotherapy starting 4 or 5 days before the CAR treatment.
+
+Participants will be admitted to the hospital. Their own modified T cells will be returned to their body.
+
+Participants will visit the clinic 2 times a week for 28 days after treatment. Follow-up will continue for 15 years....
+B-NHL|B-Non Hodgkin Lymphoma|Acute Lymphocytic Leukemia|Acute Lymphoblastic Leukemia|B-precursor ALL|B-All|Lymphoma, Non-Hodgkin|Leukemia, Lymphocytic, B Cell|B-Cell Lymphoma|B-Cell Leukemia|Acute Lymphoid Leukemia
+BIOLOGICAL: CD19/CD22-CAR-transduced T cells|DRUG: cyclophosphamide|DRUG: fludarabine
+Efficacy, Determine the efficacy of CD19/CD22 therapy in participants stratified by disease burden., Monthly until 3 months post CAR T infusion and then at 6 months and every 6 months after that, for 2 years post-infusion for each participant, up to 2 years after the entry date of the last participant.|Safety, Assess the safety of administering escalating doses of autologous CD19/CD22-CAR engineered T cells in children and young adult with B cell ALL (stratified by disease burden) or lymphoma following a cyclophosphamide/fludarabine LD., 30 days post CAR T infusion
+Feasibility, Determine the feasibility of producing CD19/CD22-CAR T cells meeting the established release criteria., Up to two years after the last participant has entered.|Adverse Events, Phase II: Assess the safety of CD19/CD22 therapy in participants based on underlying disease burden., 30 days post CAR T infusion|Persistence and expansion, Evaluate persistence and expansion of C19/CD22-CAR T cells in children and young adults with CD19+CD22+ B-ALL or lymphoma, Up to two years after the last participant has entered.|Progression free survival (PFS) and Overall survival (OS), Evaluate PFS and OS in participants, separately by phase II cohort, Up to two years after the last participant has entered.|Overall response rate, Phase I: Evaluate the ability of CD19/CD22-CAR T cells to mediate clinical activity in children and young adults with CD19+CD22+ B cell ALL or lymphoma., Monthly until 3 months post infusion and then at 6 months and every 6 months after that, for 2 years post-infusion for each participant, for up to two years from the entry date of the last participant|Assess response and toxicity (CRS grade), Assess overall response rate and CRS grades (toxicity) in participants who received subsequent infusion, Up to two years after last participant has entered
+Background:
+
+* Despite improvements in therapy, acute lymphoblastic leukemia (ALL) contributes to significant morbidity and mortality for children and young adults with cancer. CD19-CAR and CD22-CAR therapy have proven highly effective in inducing remission in patients with relapsed/refractory disease.
+* Immune escape has been observed by several groups following CD19-CAR and CD22- CAR therapy for B-ALL. Investigation of this phenomenon reveals a complex biology responsible for loss or downregulation of CD19 and/or CD22 expression observed in these cases.
+* The challenges encountered with currently available CD19- and CD22-directed CAR T cells in B-ALL demonstrates the need for combinatorial treatment strategies simultaneously targeting two antigens, such as CD19 and CD22, to enhance the long-term effectiveness of CARs.
+* We have previously treated patients with B-ALL on a phase 1/2 clinical trial using a bivalent CD19/22 CAR T-cell as a first combinatorial treatment strategy. This CAR T-cell construct is well-tolerated and has yielded responses however there has been limited CAR T cell expansion and persistence. Additionally, the previously tested CD19/CD22 bivalent CAR T-cell construct is limited in its ability to target CD22.
+* This new CD19/22 targeted construct being tested in this clinical trial has improved dual targeting capability based on preclinical data/evaluation.
+
+Objectives:
+
+* Phase I: Assess the safety of administering escalating doses of autologous CD19/CD22- CAR engineered T cells in children and young adults with B cell ALL (stratified by disease burden) or lymphoma following a cyclophosphamide/fludarabine conditioning regimen.
+* Phase II: Determine the efficacy of CD19/CD22 therapy in participants stratified by disease burden.
+
+Eligibility:
+
+-Participants between \>= 3 years and \<= 39 years of age, with CD19+/CD22+ B cell ALL or lymphoma who have relapsed or have refractory disease after at least one standard chemotherapy regimen and one salvage regimen, with no alternative curative options.
+
+Design:
+
+* Phase I, 3 + 3 dose escalation design across 3 cohorts (B-ALL/B-cell lymphoblastic lymphoma: A: low-disease burden (\<25 % marrow blasts without extramedullary disease) vs. B: high-disease burden (\>= 25 % marrow blasts or with EMD): C: B-cell non-Hodgkin lymphoma using the following dose levels: -2: 1 x 10\^5 transduced T cells/kg (+/- 20%); -1: 3 x 10\^5 transduced T cells/kg (+/- 20%); 1: 1 x 10\^6 transduced T cells/kg (+/- 20%); and 2: 3x 10\^6 transduced T cells/kg (+/- 20%). Cohorts will enroll concurrently.
+* Participants will be treated based on disease burden and will receive 1 of 2 lymphodepleting preparative regimens:
+
+  * Lymphodepleting preparative regimen number 1: Fludarabine (30 mg/m\^2/d x 3 on Days -4, -3, -2) and cyclophosphamide (900 mg/m\^2/d x 1 on Day -2) followed by infusion of CD19/CD22-CAR T-cells on D0.
+  * Lymphodepleting preparative regimen #2: Fludarabine (30 mg/m2/d x 4 on Days -5, -4, -3, -2) and cyclophosphamide (600 mg/m2/d x 2 on Days -3, -2) followed by infusion of CD19/CD22-CAR T-cells on D0.
+  * Determination for use of LD regimen #1 versus #2 will be based on pre-treatment absolute lymphocyte count, pre-existing cytopenias, receipt of prior CAR T-cell therapy, high disease burden and assessment of infection risk.
+* Participants will be evaluated sequentially for toxicity, antitumor effects, CAR expansion and persistence, and other biologic correlatives.

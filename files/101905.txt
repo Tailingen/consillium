@@ -1,0 +1,30 @@
+Tomivosertib in Relapsed or Refractory Acute Myeloid Leukemia (AML)
+Phase 1 of the study will open first with a (Bayesian optimal interval BOIN) dose finding design. The starting dose of tomivosertib is 100mgdaily (doses 24 ± 2 hours apart), PO, self-administered with meals. The dose finding follows a BOIN design, with the 100mg BID dose level with a meal being the highest dose. There is one dose level below (dose level -1 = 100mg QD without a meal) that will be given if the de-escalation condition is met during dose finding. Upon completion of the phase 1 dose finding portion of the study, the recommended starting dose of tomivosertib for the subsequent combination with the other agents will be determined, as described in Section 4.3 and Section 8.0.
+
+Tomivosertib will be dosed continuously on days 1-28 of each 28-day cycle at the dose level assigned for that cohort.
+Acute Myeloid Leukemia
+PROCEDURE: Biospecimen Collection|DRUG: Tomivosertib
+Determine the dose of maximum pharmacologic activity (MPA) of tomivosertib, The 'MPA' is defined as the minimum dose of tomivosertib tested in the phase 1 dose-finding portion of the trial that the isotonic estimate of dose-limiting toxicities (DLTs) is below or equal to the target DLT rate of 20% in phase 1 and biologic activity is observed. Whichever dose level is declared the MPA must have at least 6 patients treated at that level., From the initiation of trial therapy (cycle 1 day 1), and throughout the first cycle of treatment for a total of 28 days
+Frequency of adverse events, Safety and tolerability will be summarized by providing a frequency of adverse events (CTCAE version 5.0) by severity, type, timing, and attribution for toxicities of any grade, with rates of \>= grade 3 toxicities also analyzed separately. Adverse event rates will be summarized and accompanied by 95% exact binomial confidence intervals., Up to 18 months|Overall response rate, The proportion of treated patients who experience an objective response (complete remission \[CR\], complete remission with incomplete platelet recovery \[CRp\], complete remission with incomplete hematological recovery \[CRi\] and partial remission \[PR\]) per International Working Group AML Response Criteria. Will be summarized as a proportion with a corresponding exact 95% confidence interval (CI)., Up to 18 months|Complete remission rate (CRR), The proportion of treated patients who experience CR, CRp, and CRi will be reported. The first date of response for CR, CRp, or CRi will be used for the calculation of CRR. Will be summarized as a proportion with a corresponding exact 95% CI., Up to 18 months|Duration of response (DOR), Will be analyzed using the Kaplan-Meier method. The median of DOR, if estimable, will be reported along with the confidence intervals., Time between the day of first documented response to trial therapy (CR, CRp, and CRi or PR), whichever is first recorded, and subsequent disease progression, assessed up to 18 months|Progression free survival (PFS), Will be analyzed using the Kaplan-Meier method. The median of PFS, if estimable, will be reported along with the confidence intervals., Time between the initiation of trial therapy and the day of first documented disease progression or death from any cause, assessed up to 18 months|Overall survival (OS), Will be analyzed using the Kaplan-Meier method. The median of OS, if estimable, will be reported along with the confidence intervals., Time between the initiation of trial therapy and the date of death from any cause, assessed up to 18 months|To assess the pharmacodynamics of tomivosertib by eIF4E phosphorylation before, during, and after cycle 1 treatment, Phosphorylation of eIF4E will be assessed by flow cytometry in order to identify a biologically effective dose., Baseline and after Cycle 1 treatment|OS for patients who proceed to transplant, Will estimate the OS for patients who proceed to transplant, compared to those who do not undergo transplant., From initiation of therapy until the patient completes follow-up, or experiences death from any cause, assessed up to 18 months
+Measure MCL1 expression before and after cycle 1 treatment, Using flow cytometry, the correlation between decreased MCL1 expression after treatment and favorable response to treatment will be determined., Baseline and after Cycle 1 treatment|Assess the steady-state pharmacokinetics of tomivosertib, PK analysis will be done using the PK population, Up to 18 months|Correlate eIF4E phosphorylation before and after cycle 1 treatment with treatment response., correlation between high Correlation of phosphorylation levels of eIF4E at baseline and favorable response to treatment, Baseline and after Cycle 1 treatment|Correlate MCL1 expression before and after treatment with treatment response., Using flow cytometry, view the correlation between decreased MCL1 expression after treatment and favorable response to treatment., Baseline and after Cycle 1 treatment
+PRIMARY OBJECTIVE:
+
+To determine the dose of maximum pharmacologic activity (MPA) of tomivosertib in relapsed/refractory AML .
+
+SECONDARY OBJECTIVES:
+
+1. To assess the adverse event profile of tomivosertib
+2. To estimate the rate of complete remission (CR)
+3. To estimate the rate of overall response
+4. To estimate the duration of response (DOR)
+5. To estimate progression free survival (PFS)
+6. To estimate overall survival (OS)
+7. To assess the outcomes for patients who undergo allogeneic hematopoietic stem cell transplant (HSCT)
+8. To assess the pharmacodynamics of tomivosertib by eIF4E phosphorylation before, during, and after cycle 1 treatment
+9. To measure MCL1 expression before and after cycle 1 treatment
+10. To assess the steady-state pharmacokinetics of tomivosertib
+
+EXPLORATORY OBJECTIVES:
+
+1. To correlate eIF4E phosphorylation before and after cycle 1 treatment with treatment response.
+2. To correlate MCL1 expression before and after treatment with treatment response.

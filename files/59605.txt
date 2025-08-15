@@ -1,0 +1,57 @@
+Hypo Versus Conventional Fractionation in Reconstructed-Breast Cancer Mastectomy Patients
+This randomized Phase III study aims to show major complication rate of hypofractionation radiation therapy is not inferior, compared to conventional fractionation radiation therapy in breast cancer patients undergoing mastectomy and reconstruction surgery.
+Breast Cancer|Radiotherapy; Complications
+RADIATION: Hypofractionation|RADIATION: Conventional Fractionation
+Major Complication Rate, * Unplanned re-hospitalization or re-operation for intervention
+* Implant removal due to infection, autologous flap total failure (reconstruction failure), Up to 2 years after the completion of radiation therapy|Capsular Contracture (If implant-based recontruction is performed), • Baker Scale
+
+* G1: the breast is normally soft and appears natural in size and shape
+* G2: the breast is a little firm, but appears normal
+* G3: the breast is firm and appears abnormal
+* G4: the breast is hard, painful to the touch, and appears abnormal, Up to 2 years after the completion of radiation therapy
+Hematoma, NIH-NCI Common Terminology Criteria for Adverse Events (CTCAE) Ver.5.0
+
+* G1: Mild symptoms; intervention not indicated
+* G2: Minimally invasive evacuation or aspiration indicated
+* G3: Transfusion; invasive intervention indicated
+* G4: Life-threatening consequences; urgent intervention indicated
+* G5: Death, Up to 2 years after the completion of radiation therapy|Wound infection, NIH-NCI Common Terminology Criteria for Adverse Events (CTCAE) Ver.5.0
+
+* G1: Localized, local intervention indicate
+* G2: Oral intervention indicated (e.g., antibiotic, antifungal, or antiviral)
+* G3: IV antibiotic, antifungal, or antiviral intervention indicated; invasive intervention indicated
+* G4: Life-threatening consequences; urgent intervention indicated
+* G5: Death, Up to 2 years after the completion of radiation therapy|Wound Dehiscence, NIH-NCI Common Terminology Criteria for Adverse Events (CTCAE) Ver.5.0
+
+* G1: Incisional separation, intervention not indicated
+* G2: Incisional separation, local care (e.g., suturing) or medical intervention indicated (e.g., analgesic)
+* G3: Fascial disruption or dehiscence without evisceration; revision by operative intervention indicated
+* G4: Life-threatening consequences; symptomatic hernia with evidence of strangulation; fascial disruption with evisceration; major reconstruction flap, grafting, resection, or amputation indicated
+* G5: Death, Up to 2 years after the completion of radiation therapy|Seroma, NIH-NCI Common Terminology Criteria for Adverse Events (CTCAE) Ver.5.0
+
+* G1: Asymptomatic; clinical or diagnostic observations only; intervention not indicated
+* G2: Symptomatic; simple aspiration indicated
+* G3: Symptomatic, elective invasive intervention indicated, Up to 2 years after the completion of radiation therapy
+Arm Lymphedema [Optional], In each follow-up time, arm circumference is measured at 10 cm above the ipsilateral and contralateral anterior cubital fossa. Lymphedema is considered to be occurred if a difference of ≥10% between two measures., Up to 2 years after the completion of radiation therapy|Cosmetic Outcome [Optional], Skin 3D reconstruction was performed based on the radiation therapy plan CT and breast CT at 24 months after radiotherapy. Using in-house software based on deep learning algorithm, cosmetic scores are produced and compared between groups., Up to 2 years after the completion of radiation therapy
+This study is a multicenter, randomized, phase 3 clinical trial. For breast cancer patients who underwent breast reconstruction after mastectomy, the hypofractionation radiotherapy group (experimental group) and the conventional fractionation radiotherapy group (control group) were divided 1:1 and compared to reveal the non-inferiority with hypofractionation in terms of major complication rate.
+
+I. Primary Objective
+
+* To show the non-inferiority of major complication rate in reconstructed-breast between the hypofractionation radiotherapy group (experimental group) and the conventional fractionation radiotherapy group (control group) at 2 years after radiation therapy.
+* The main complications are defined at those requiring hospitalization or surgery among complications.
+
+II. Secondary Objective:
+
+* Comparison of other side effects between the two groups.
+* Comparison of complication rate stratified by reconstruction timing and type of reconstruction
+
+  * Immediate implant-based reconstruction
+  * Immediate autologous reconstruction
+  * Delayed-immediate implant reconstruction (2-stage)
+* Comparison of quality of life between the two groups.
+* Comparison of local and regional control rates between the two groups.
+
+III. Tertiary Objective:
+
+* Comparison of cosmetic evaluations between the two groups.
+* Dosimetry analysis for correlation between the occurrence of complications and the dose profile.

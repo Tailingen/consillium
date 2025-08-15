@@ -1,0 +1,30 @@
+Durvalumab and Grid Therapy for Non-small Cell Lung Cancer in Progression During or After Treatment with PACIFIC Regimen
+This phase II trial tests the safety and side effects of durvalumab and grid therapy in treating patients with non-small cell lung cancer who have progressed during or within 6 months of durvalumab administration for non-small cell lung cancer. Immunotherapy with monoclonal antibodies, such as durvalumab, may help the body's immune system attack the cancer, and may interfere with the ability of tumor cells to grow and spread. Radiation therapy uses high energy sources to kill tumor cells and shrink tumors. Spatially fractionated radiation therapy or "grid therapy" is a technique which delivers high doses of radiation to small areas of the tumor which can lead to more concentrated tumor cell killing and causes less damage to normal tissue. Giving grid therapy with durvalumab may help durvalumab work better to kill tumor cells in patients with non-small cell lung cancer.
+Lung Non-Small Cell Carcinoma|Stage III Lung Cancer AJCC V8
+BIOLOGICAL: Durvalumab|RADIATION: Radiation Therapy|PROCEDURE: Biospecimen Collection
+Incidence of adverse events, Evaluated using Common Terminology Criteria for Adverse Events version 5.0. The maximum grade for each type of adverse event will be recorded for each patient, and frequency tables will be provided. Additionally, the relationship of the adverse event(s) to the study treatment will be taken into consideration., Within 3 months after grid therapy
+Overall response, Overall response by Response Evaluation Criteria in Solid Tumors (RECIST) version 1.1 will be estimated using objective response rate (ORR) where ORR is defined as the number of evaluable patients achieving a response (partial response \[PR\] or better) during treatment with study therapy divided by the total number of evaluable patients. Point estimates will be generated for ORR along with 90% confidence interval using Fisher's exact method. Immune-related (i)RECIST criteria will be used for evaluation of non-irradiated metastatic lesion whereas RECIST 1.1 criterial will be used for evaluation of radiated lesions., Up to 2 years|Number of patients who develop any additional sites of metastatic disease in the setting of oligo-recurrence or local recurrence alone, Will be summarized and reported descriptively., Up to 2 years|Time to change another systemic therapy, Will be estimated as time from study entry to time when patient starts non-protocol therapy or another systemic therapy. This time to event endpoint will be estimated using Kaplan-Meier method. Any patient who hasn't started non-protocol therapy or has died/progressed before starting non-protocol therapy will be censored at the time of their last follow-up., Up to 5 years from registration
+Blood immunity marker (PBMC), Peripheral blood collected during the course of treatment will be monitored for changes for blood immunity marker before and after grid therapy., Up to 5 years after registration
+PRIMARY OBJECTIVE:
+
+I. To describe the safety of grid + durvalumab using Common Terminology Criteria for Adverse Events (CTCAE) version (v)5.0.
+
+SECONDARY OBJECTIVES:
+
+I. Evaluation of overall response rate using Immune-related Response Evaluation Criteria in Solid Tumors (iRECIST) in a non-irradiated metastatic lesion.
+
+II. Evaluation of development of any additional sites of metastatic disease in the setting of oligorecurrence or local recurrence alone.
+
+III. Evaluation of response in the radiated lesion using Response Evaluation Criteria in Solid Tumors (RECIST) 1.1 criteria.
+
+IV. Evaluation of time to change from durvalumab to another systemic therapy.
+
+CORRELATIVE OBJECTIVE:
+
+I. Monitoring of peripheral blood immunity markers before and after grid therapy.
+
+OUTLINE:
+
+Patients receive durvalumab intravenously (IV) over 60 minutes on day 1 of each cycle. Treatment repeats every 28 days for up to 24 cycles in the absence of disease progression or unacceptable toxicity. Patients undergo grid therapy on day 1. Beginning 7-14 days after grid therapy, patients also undergo palliative radiation therapy for 5 fractions. Additionally, patients undergo blood sample collection at baseline and throughout study.
+
+After completion of study treatment, patients are followed up at 30 days and then every 8-12 weeks for up to 5 years from date of registration.

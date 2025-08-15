@@ -1,0 +1,29 @@
+Belinostat and Azacitidine in Treating Patients With Advanced Hematologic Cancers or Other Diseases
+This phase I trial is studying the side effects and best dose of belinostat when given together with azacitidine in treating patients with advanced hematologic cancers or other diseases. Belinostat may stop the growth of cancer cells by blocking some of the enzymes needed for cell growth and by blocking blood flow to the cancer. Drugs used in chemotherapy, such as azacitidine, work in different ways to stop the growth of cancer cells, either by killing the cells or by stopping them from dividing. Giving belinostat together with azacitidine may kill more cancer cells.
+Accelerated Phase of Disease|Adult Acute Myeloid Leukemia With Inv(16)(p13.1q22); CBFB-MYH11|Adult Acute Myeloid Leukemia With t(16;16)(p13.1;q22); CBFB-MYH11|Adult Acute Myeloid Leukemia With t(8;21)(q22;q22); RUNX1-RUNX1T1|Adult Acute Myeloid Leukemia With t(9;11)(p22;q23); MLLT3-MLL|Adult Acute Promyelocytic Leukemia With t(15;17)(q22;q12); PML-RARA|Atypical Chronic Myeloid Leukemia, BCR-ABL1 Negative|Blastic Phase|Chronic Myelogenous Leukemia, BCR-ABL1 Positive|Chronic Myelomonocytic Leukemia|de Novo Myelodysplastic Syndrome|Myelodysplastic/Myeloproliferative Neoplasm, Unclassifiable|Philadelphia Chromosome Negative, BCR-ABL1 Positive Chronic Myelogenous Leukemia|Previously Treated Myelodysplastic Syndrome|Primary Myelofibrosis|Recurrent Adult Acute Lymphoblastic Leukemia|Recurrent Adult Acute Myeloid Leukemia|Recurrent Disease|Secondary Acute Myeloid Leukemia|Secondary Myelodysplastic Syndrome
+DRUG: Belinostat|DRUG: Azacitidine|OTHER: Laboratory Biomarker Analysis
+Maximum tolerated dose of belinostat in combination with azacitidine, Graded using the National Cancer Institute (NCI) Common Terminology Criteria for Adverse Events (CTCAE) version 3.0 or 4.0., Course 1 (28 days)
+Changes in pharmacodynamic variables (target gene expression, apoptosis), Compared between the two groups using two-sample t tests., Course 1 (baseline to day 5)|Association of methylation status, categorized as positive or negative, with changes in target gene expression, Distinguished by sequence-specific polymerase chain reaction (PCR) primers. Compared using a two-sample t or Wilcoxon nonparametric test., Baseline, days 4 or 5, and days 25-28|Clinical activity (complete remission, partial remission, stable disease, hematologic improvement), Recorded and tabulated for both the MTD and randomized cohorts., After 4, 8, and 16 weeks
+PRIMARY OBJECTIVES:
+
+I. Determine the maximum tolerated dose of PXD101 (belinostat) when given in combination with azacitidine (when azacitidine is utilized at a dose range where its effects on cellular differentiation are known to be predominant) in patients with advanced hematologic cancers or other diseases.
+
+SECONDARY OBJECTIVES:
+
+I. Identify any additive or synergistic effects of this regimen on pharmacodynamic parameters, including apoptosis and re-expression of specific target genes.
+
+II. Assess any evidence of clinical activity (complete remission, partial remission, hematologic improvement, stable disease) of this regimen in these patients.
+
+OUTLINE: This is a dose-escalation study of belinostat followed by a randomized study.
+
+Patients receive azacitidine subcutaneously (SC) and belinostat intravenously (IV) over 30 minutes on days 1-5. Courses repeat every 28 days in the absence of disease progression or unacceptable toxicity. Cohorts of 3-6 patients receive escalating doses of belinostat until the maximum tolerated dose (MTD) is determined. The MTD is defined as the dose preceding that at which 2 of 6 patients experience dose-limiting toxicity. After the MTD is determined, additional patients with myelodysplastic syndromes (MDS) or acute myeloid leukemia (with trilineage dysplasia or arising from MDS) are randomized to 1 of 2 treatment arms.
+
+Arm I: Patients receive azacitidine SC on days 1-5.
+
+Arm II: Patients receive azacitidine as in arm I and belinostat at the MTD IV over 30 minutes on days 1-5.
+
+In both arms, courses repeat every 28 days in the absence of disease progression or unacceptable toxicity. After receiving one course, patients randomized to arm I may crossover to receive treatment on arm II.
+
+For patients enrolled in the randomized portion of the study, bone marrow aspirates are obtained at baseline, and after course 1 for correlative studies. Samples are examined by gene expression analysis of p15 and p21, DNA methylation of p15INK4B, and apoptosis by RT-PCR and flow cytometry. Pharmacodynamic assays are also performed.
+
+After completion of study treatment, patients are followed periodically for up to 2 years.

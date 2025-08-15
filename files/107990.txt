@@ -1,0 +1,31 @@
+Sorafenib, Pemetrexed, and Cisplatin in Treating Patients With Advanced Solid Tumors
+RATIONALE: Sorafenib and pemetrexed may stop the growth of tumor cells by blocking some of the enzymes needed for cell growth. Sorafenib may also stop the growth of tumor cells by blocking blood flow to the tumor. Drugs used in chemotherapy, such as cisplatin, work in different ways to stop the growth of tumor cells, either by killing the cells or by stopping them from dividing. Giving sorafenib together with pemetrexed and cisplatin may kill more tumor cells.
+
+PURPOSE: This phase I trial is studying the side effects and best dose of sorafenib when given together with pemetrexed and cisplatin in treating patients with advanced solid tumors.
+Breast Cancer|Colorectal Cancer|Head and Neck Cancer|Lung Cancer|Mesothelioma|Pancreatic Cancer|Prostate Cancer|Sarcoma
+DRUG: cisplatin|DRUG: pemetrexed disodium|DRUG: sorafenib
+Maximum tolerated dose of sorafenib tosylate, This dose level is declared to be above the maximum tolerated dose (MTD) and dose escalation is stopped. Declare the next lower dose the MTD if 6 patients have already been treated at that dose., From first dose to toxicity event
+Disease Response, Each patient will be assigned one of the following Response Evaluation Criteria in Solid Tumors (RECIST) categories:
+
+* complete response;
+* partial response;
+* stable disease;
+* progressive disease;
+* early death from malignant disease;
+* unknown (insufficient evaluation to determine response status)., At 6- 8 weeks|Maximum, Minimum and AUC Concentrations of Sorafenib, Maximum and minimum serum concentrations and area under the concentration time curve (AUC) for sorafenib will be predicted using standard pharmacokinetic software, Day 1 to Day 8
+OBJECTIVES:
+
+Primary
+
+* To determine the maximum tolerated dose of sorafenib tosylate when given in combination with pemetrexed disodium and cisplatin in patients with advanced non-squamous cell solid tumor malignancy including, but not limited to, breast, lung, colon, pancreatic, prostate, or head and neck cancer or sarcoma.
+
+Secondary
+
+* To characterize the quantitative and qualitative toxicities of this regimen in these patients.
+* To obtain preliminary information about the antitumor activity of this regimen in these patients.
+
+OUTLINE: This is a dose-escalation study of sorafenib tosylate.
+
+Patients receive oral sorafenib tosylate once daily on days 1-21 and cisplatin IV over 1-2 hours and pemetrexed disodium IV over 10 minutes on day 1. Courses repeat every 21 days in the absence of disease progression or unacceptable toxicity.
+
+After completion of study treatment, patients are followed at 30 days, every 8 weeks until disease progression, and then every 3 months for up to 6 months.

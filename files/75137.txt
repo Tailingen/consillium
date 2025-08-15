@@ -1,0 +1,30 @@
+Trametinib and Everolimus for Treatment of Pediatric and Young Adult Patients With Recurrent Gliomas (PNOC021)
+This phase I trial studies the side effects and best dose of trametinib and everolimus in treating pediatric and young adult patients with gliomas that have come back (recurrent). Trametinib acts by targeting a protein in cells called MEK and disrupting tumor growth. Everolimus is a drug that may block another pathway in tumor cells that can help tumors grow. Giving trametinib and everolimus may work better to treat low and high grade gliomas compared to trametinib or everolimus alone.
+Recurrent World Health Organization (WHO) Grade II Glioma|Low-grade Glioma|High Grade Glioma
+DRUG: Everolimus|DRUG: Trametinib
+Maximum tolerated dose (MTD) of trametinib in combination with everolimus for both continuous and intermittent dosing schedules, We will employ the Bayesian optimal interval (BOIN) design to find the MTD for both continuous and intermittent dosing schedules. The BOIN design is implemented in a simple way similar to the traditional 3+3 design, but is more flexible and possesses superior operating characteristics that are comparable to those of the more complex model-based designs, such as the continual reassessment method (CRM)., Up to 28 days|Incidence of adverse events for both continuous and intermittent dosing schedules, Toxicities will be graded based on Common Terminology Criteria for Adverse Events (CTCAE) V5 .0 and followed for 30 days after last treatment or until resolution or returned to baseline values., Up to 30 days after the last day of treatment|Dose limiting toxicities (DLTs) of the combination for both continuous and intermittent dosing schedules, Any treatment related adverse event during the first cycle of therapy that leads to a dose reduction or results in delay of treatment \> 7 days or which results in the permanent cessation of therapy will be considered dose limiting., Up to 28 days|Recommended phase 2 dose (RP2D), The RP2D rate is selected based on isotonic regression as specified in Liu and Yuan (2015). This computation is implemented by the shiny app "BOIN" available at http://www.trialdesign.org. Specifically, select as the RP2D the dose for which the isotonic estimate of the toxicity rate is closest to the target toxicity rate., Up to 28 days|Maximum Concentration (Cmax) of trametinib and everolimus, Plasma trametinib and everolimus concentration-time data will be analyzed using a classic non-compartmental approach and/or population-based compartmental methods using non-linear mixed effects modeling. Individual pharmacokinetic parameters of interest after single and repeated doses (i.e., maximum plasma concentration Cmax from 0 to 24h will be calculated from the pharmacokinetic model. Trametinib and everolimus pharmacokinetics after single dose will be compared to trametinib and everolimus pharmacokinetics after repeated doses., Up to 5 years|Area Under the Curve (AUC) of trametinib and everolimus, Plasma trametinib and everolimus concentration-time data will be analyzed using a classic non-compartmental approach and/or population-based compartmental methods using non-linear mixed effects modeling. Individual pharmacokinetic parameters of interest after single and repeated doses (i.e., area under the curve from 0 to 24h will be calculated from the pharmacokinetic model. Trametinib and everolimus pharmacokinetics after single dose will be compared to trametinib and everolimus pharmacokinetics after repeated doses., Up to 5 years
+PRIMARY OBJECTIVES:
+
+I. To estimate the recommended phase 2 dose (RP2D) of trametinib given orally in combination with everolimus in pediatric and young adult patients with gliomas.
+
+II. To describe the toxicity profile and define the dose limiting toxicities (DLTs) of the combination of trametinib and everolimus in pediatric and young adult patients with recurrent low-grade gliomas (LGG) or high grade glioma (HGG).
+
+III. To characterize the pharmacokinetic profile of trametinib and everolimus when given in combination.
+
+EXPLORATORY OBJECTIVES:
+
+I. To describe the objective response rate and the 2-year progression-free survival (PFS) of LGGs to this therapy in the context of a phase I study.
+
+II. To assess quality of life (QOL) and cognitive measures in pediatric and young adult patients with LGG or HGG.
+
+III. To identify potential predictive biomarkers to targeted therapy in pediatric and young adult patients with LGGs.
+
+IV. To assess endocrine outcomes in pediatric and young adult patients with LGGs.
+
+V. To explore magnetic resonance (MR) quantitative measures of relative cerebral blood volume, permeability and apparent diffusion coefficient within the region of hyperintensity on T2-weighted images as markers of disease response and/or progression in comparison to institutional evaluation of disease response and/or progression and quantitative measures of tumor response as determined by central review (based upon both area and volumetric measures).
+
+OUTLINE: This is a dose-escalation study.
+
+Patients receive a combination of trametinib orally (PO) and everolimus in either of two dosing scheduled (continuous and intermittent). Treatment repeats every 28 days for up to 26 cycles in the absence of disease progression or unacceptable toxicity.
+
+After completion of study treatment, patients are followed up at 30 days, every 3 months for 1 year, then every 6 months for 5 years from the start of therapy.

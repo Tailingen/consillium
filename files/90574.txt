@@ -1,0 +1,40 @@
+Oral Iloprost for the Prevention of Lung Cancer In Former Smokers
+This phase II trial tests whether oral iloprost works in preventing lung cancer (chemoprevention) in former smokers. Oral iloprost has previously been shown to reduce abnormal lung cells in former smokers, suggesting a clinically significant impact on lung cancer risk. The use of oral iloprost may help keep cancer from forming and reduce abnormal cells in the lung in order to lower the risk of developing lung cancer in former smokers.
+Bronchial Epithelial Dysplasia|Chronic Obstructive Pulmonary Disease|Lung Carcinoma|Stage I Lung Cancer AJCC v8|Stage II Lung Cancer AJCC v8|Tobacco-Related Carcinoma
+PROCEDURE: Biospecimen Collection|PROCEDURE: Bronchial Brush Biopsy|PROCEDURE: Bronchoscopy|DRUG: Iloprost|DRUG: Placebo Administration|OTHER: Questionnaire Administration
+Change in numerical grade of the worst (highest grade on the WHO scale) dysplastic lesion per subject on bronchoscopy, Histologic response is the mean change between baseline and 6 month follow up bronchoscopy in the numerical grade of the worst (highest grade on the World Health Organization \[WHO\] scale) dysplastic lesion per subject. Will be analyzed using a linear regression models with post-treatment worst grade dysplasia as the outcome variable, and treatment arm (iloprost and placebo) and baseline worst grade dysplasia as predictors., Baseline to 6 month follow up
+Change in the average WHO score of all biopsy sites with a baseline score of 4 or greater, Will be assessed using bronchial biopsies according to the WHO grading system, where 1 is normal and 8 is invasive cancer., Up to 6 months|Incidence of adverse events with oral iloprost, Safety will be assessed according to a comparison of adverse events (AEs) between iloprost and placebo participants. Descriptive statistics (frequency, percent) will be used to summarize participants' worst grade toxicity for each AE type. AE rates will be compared between treatment arms using Fisher's exact test since AE rates are expected to be low., From first dose to end of study, assessed up to 6 months
+Treatment response rate, Treatment response will be defined as \>= 1 point reduction in maximum dysplasia at end of treatment, and response rates will be compared between arms using a chisquared test., Up to 6 months|In vitro response of bronchial epithelial progenitor cells cultured at the air-liquid interface, Will compare the ability of iloprost exposure versus vehicle, to restore differentiation to ciliated and mucus secreting cells. This will then be compared to the in vivo response of the dysplastic lesion at the same biopsy site to iloprost or placebo as a potential predictive biomarker. This endpoint will only be assessed in biopsies from participants enrolled in Colorado., Up to 6 months|Change in glass opacity (GGOs) volume, Changes will be summarized using descriptive statistics, and a two-sample t-test or the Wilcoxon rank-sum test will be used to compare changes between the two arms., Up to 6 months|Organoid formation, Peripheral lung epithelial progenitor cells will be assessed for organoid formation in a three dimensional culture system before and after treatment with iloprost or placebo.The progenitor cells assay will be used to predict whether a participant will respond to iloprost (yes/no)., Up to 6 months|Morphologic analysis of expectorated sputum by LuCED, Will evaluate the ability of 3-dimensional morphologic analysis of expectorated sputum by LuCED compared to standard sputum cytopathology to predict endobronchial dysplasia and measure response to iloprost., Up to 6 months|Histologic response by alternative criteria, Bronchoscopic biopsies of standard and visually abnormal sites will be graded on the WHO scale of dysplasia and assigned numerical scores from 1 (normal) to 8 (invasive cancer). Each lesion will be classified as complete response, partial response, stable disease or progressive disease based on Lam et al. and each response rate will be calculated on a per-site and per-participant basis., Up to 6 months
+PRIMARY OBJECTIVE:
+
+I.To determine if oral iloprost, starting at 50 ug twice daily (BID) and increased monthly to a final dose of 150 ug BID as tolerated, compared to placebo for 6 months is effective in reducing endobronchial dysplasia in former smokers who have mild or worse dysplasia on an endobronchial biopsy at baseline bronchoscopy.
+
+SECONDARY OBJECTIVES:
+
+I. To determine if treatment with oral iloprost compared to placebo results in a change in average dysplasia (over all sites of mild or greater dysplasia).
+
+II. To determine safety of treatment with oral iloprost.
+
+EXPLORATORY OBJECTIVES:
+
+I. To determine if treatment with oral iloprost compared to placebo results in a change in response rate defined as \>= 1 point reduction in maximum dysplasia.
+
+II. To determine if the in vitro differentiation response of bronchial epithelial cell progenitors cultured at the air liquid interface is predictive of the in vivo response of dysplasia improvement (to be done only in participants recruited in Colorado).
+
+III. To determine if treatment with oral iloprost compared to placebo results in a decrease in the volume of pure ground glass opacities (GGOs) on chest computed tomography (CT).
+
+IV. To determine if treatment with oral iloprost compared to placebo increases peripheral lung epithelial progenitor counts, measured by organoid formation in a three dimensional culture system seeded from distal airway brushings (to be done only in participants recruited in Colorado).
+
+V. To determine if oral iloprost reduces the incidence of lung cancer compared to placebo.
+
+VI. To evaluate the ability of 3-dimensional morphologic analysis of expectorated sputum by LuCED compared to standard sputum cytopathology to predict endobronchial dysplasia and measure response to iloprost.
+
+VII. To evaluate histologic response by alternative criteria.
+
+OUTLINE: Patients are randomized in 1 of 2 arms.
+
+ARM I: Patients receive iloprost orally (PO) BID for a 180 days in the absence of unacceptable toxicity. Patients undergo bronchoscopy with biopsies and brushings at day 180.
+
+ARM II: Patients receive iloprost placebo PO BID for a 180 days in the absence of unacceptable toxicity. Patients undergo bronchoscopy with biopsies and brushings at day 180.
+
+After completion of study treatment, patients are followed up for 30 days.

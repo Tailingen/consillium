@@ -1,0 +1,30 @@
+Donor Stem Cell Transplant in Treating Patients With High-Risk Hematologic Cancer
+RATIONALE: Giving low doses of chemotherapy before a donor stem cell transplant helps stop the growth of cancer cells. It may also stop the patient's immune system from rejecting the donor's stem cells. The donated stem cells may replace the patient's immune cells and help destroy any remaining cancer cells (graft-versus-tumor effect). Sometimes the transplanted cells from a donor can also make an immune response against the body's normal cells. Giving a monoclonal antibody, such as alemtuzumab, before transplant and tacrolimus and methotrexate after transplant may stop this from happening.
+
+PURPOSE: This phase II trial is studying the side effects of donor stem cell transplant and to see how well it works in treating patients with high-risk hematologic cancer.
+Leukemia|Lymphoma|Myelodysplastic Syndromes|Myelodysplastic/Myeloproliferative Diseases
+BIOLOGICAL: alemtuzumab|BIOLOGICAL: graft-versus-tumor induction therapy|BIOLOGICAL: rituximab|DRUG: busulfan|DRUG: cyclophosphamide|DRUG: fludarabine phosphate|DRUG: methotrexate|DRUG: tacrolimus|PROCEDURE: allogeneic bone marrow transplantation
+Survival at Day 100, Survival at Day 100, 100 day
+Overall Survival at 1 Year, Evaluation of overall survival at 1 year (# of patients who are alive at 1 year post-transplant), 1 year|Non-relapse Mortality at Day 100, patients are evaluable for their cause of death at Day 100, Day 100|Non-relapse Mortality at 1 Year Post-transplant, Number of patients who died of non-relapse causes at one year. this is in clusive of all patients who were transplanted on study even though only 10 patients died at by 1 year time point. This outcome will be referenced in the donor chimerism outcome. Only 26/36 patients were eligible for this time point as that is all that were alive., 1 year|Complete Donor Chimerism, Complete donor chimerism (defined as \>/= 95% donor cells in peripheral blood CD3+ and CD33+ was measured., 2 years|Neutrophil Recovery, The number of patients experiencing neutrophil recovery post transplant, Day 100|Platelet Engraftment, The number of patients experiencing platelet engraftment post-transplant, Day 100|Number of Patients Requiring the Use of Donor Leukocyte Infusion (DLI) for Early Mixed T-cell Chimerism, DLI is used for patients with mixed chimerism following transplant, Day 100|Number of Patients Experiencing Grade 2-4 Acute Graft-versus-host Disease Post-transplant, patients experiencing acute graft versus host disease post-transplant, patients were followed for 2 years|Number of Patients Experiencing Chronic Graft Versus Host Disease, >100 days post-transplant|Number of Patients Experiencing Veno-occlusive Disease (VOD) Post-transplant, Patients will be evaluated up to 4 years post transplant, 4 years
+OBJECTIVES:
+
+* To evaluate the safety and toxicity of a reduced-intensity conditioning regimen followed by allogeneic bone marrow or peripheral blood stem cell transplantation from an HLA-matched unrelated donor in patients with high-risk hematologic malignancies.
+* To evaluate engraftment by peripheral blood chimerism analysis.
+* To determine the incidence and severity of acute and chronic graft-versus-host disease following the transplant.
+* To examine the possibility of controlling hematologic malignancies by induction of a graft-versus-leukemia/tumor effect.
+* To determine the disease-free survival, relapse, transplant-related mortality, and death from all causes.
+
+OUTLINE:
+
+* Reduced-intensity conditioning regimen: Patients receive 1 of 2 conditioning regimens according to diagnosis.
+
+  * Regimen 1 (acute leukemia, myelodysplastic syndromes, myeloproliferative syndrome, or chronic myelogenous leukemia): Patients receive fludarabine phosphate IV over 30 minutes and busulfan IV over 3 hours on days -6 to -3 or orally 4 times daily on days -7 to -3.
+  * Regimen 2 (lymphoproliferative malignancies): Patients receive fludarabine phosphate IV over 30 minutes and cyclophosphamide IV over 1 hour on days -5 to -3. Patients with CD20+ malignancies also receive rituximab IV over 4-6 hours on days -13, -6, 1, and 8.
+* Transplantation: Patients undergo allogeneic bone marrow or peripheral blood stem cell transplantation on day 0.
+* Graft-versus-host disease (GVHD) prophylaxis: Patients receive low-dose alemtuzumab subcutaneously on days -11 to -9 and tacrolimus IV over 24 hours beginning on day -3 and then orally twice daily beginning on day 14 and continuing until day 60, followed by a taper until day 180 in the absence of clinically significant GVHD. Patients also receive methotrexate on days 1, 3, and 6.
+
+Patients who exhibit persistent mixed chimerism or disease relapse/progression despite full withdrawal of immunosuppression may receive up to 3 donor lymphocyte infusions.
+
+Blood samples are taken on days 30, 60, and 100 and then every 4 weeks thereafter for chimerism studies by PCR analysis.
+
+After completion of study therapy, patients are followed periodically for up to 60 months.

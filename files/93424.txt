@@ -1,0 +1,62 @@
+Cytarabine and Daunorubicin Hydrochloride or Idarubicin and Cytarabine With or Without Vorinostat in Treating Younger Patients With Previously Untreated Acute Myeloid Leukemia
+This randomized phase III trial studies cytarabine and daunorubicin hydrochloride or idarubicin and cytarabine with or without vorinostat to see how well they work in treating younger patients with previously untreated acute myeloid leukemia. Drugs used in chemotherapy, such as cytarabine, daunorubicin hydrochloride, idarubicin, and vorinostat, work in different ways to stop the growth of cancer cells, either by killing the cells, stopping them from dividing, or by stopping from spreading. Giving more than one drug (combination chemotherapy) and giving the drugs in different doses and in different combinations may kill more cancer cells. It is not yet known which combination chemotherapy is more effective in treating acute myeloid leukemia.
+Acute Myeloid Leukemia|Untreated Adult Acute Myeloid Leukemia
+PROCEDURE: Allogeneic Hematopoietic Stem Cell Transplantation|DRUG: Cytarabine|DRUG: Daunorubicin Hydrochloride|DRUG: Idarubicin|OTHER: Laboratory Biomarker Analysis|DRUG: Vorinostat
+Event-free Survival (EFS), EFS is calculated for all patients from the date of initial registration on study until the first of the following: death from any cause, relapse from remission (CR or CRi) or completion of protocol Induction/Re-Induction therapy without documentation of CR or CRi.
+
+2-year EFS by arm will be estimated using the Kaplan-Meier method. EFS will be compared between Arm I and Arm III and between Arm II and Arm III using Cox proportional hazards regression., EFS assessed for up to 5 years, 2 year EFS reported|Rate of Allogeneic HCT, The goal of the transplant objective is to determine whether it is possible to conduct allogeneic HCT on 60% or more of adults with high-risk AML in first complete remission (alternative). If 40% or fewer of high-risk patients in CR can be transplanted, the proposed transplant support system will not be considered feasible. A one-sided binomial test compared to the null transplant rate will be conducted., Up to 5 years
+Disease-free Survival (DFS) Among High Risk Patients, DFS is calculated for patients who have achieved a CR or CRi (complete response with incomplete blood count recovery). DFS will be measured from the date of CR or CRi until relapse from CR or CRi for death from any cause. Observation is censored at the date of last follow-up for patients last known to be alive without report of relapse.
+
+2-year DFS for high risk patients will be estimated using the Kaplan-Meier method., DFS assessed for up to 5 years, 2 year DFS reported|EFS of Arm I Compared to Arm II, EFS is calculated for all patients from the date of initial registration on study until the first of the following: death from any cause, relapse from remission (CR or CRi) or completion of protocol Induction/Re-Induction therapy without documentation of CR or CRi.
+
+A two-sided test of the hazard ratio (HR) of 7:3: IA (versus the null hypothesis of HR =1) will be done using a proportional hazards regression model with the stratification factors included as covariates.
+
+2-year EFS by arm will be estimated using the Kaplan-Meier method., EFS assessed for up to 5 years, 2 year EFS reported|Frequency and Severity of Toxicities, Number of patients with Grade 3-5 adverse events that were possibly, probably or definitely related to study drug are reported by given type of adverse event., Up to 5 years
+Prevalence of the Mutation NPM1 in Patients on This Study., To estimate the prevalence of the mutation NPM1 in this patient population., Baseline|Prevalence of the Mutations IDH1, IDH2, TET2, DMT3A in Patients on This Study, To estimate the prevalence of these mutations in this patient population.
+
+This objective will be analyzed as funding allows., Baseline|Cytogenetic Risk Distribution of Patients on This Study, To estimate the cytogenetic risk distribution of patients on this study., Baseline|Overall Survival (OS), To compare OS between patients who receive standard 7+3 therapy or IA to patients who receive IA + vorinostat.
+
+OS is calculated for all patients from date of registration to date of death due to any cause. Patients last known to be alive are censored at date of last contact.
+
+2-year OS by arm will be estimated using the Kaplan-Meier method., OS assessed for up to 5 years, 2 year OS reported|Complete Response (CR) Rate, To compare the complete response rate between patients who receive standard 7+3 therapy or IA to patients who receive IA + vorinostat.
+
+Complete response is defined as: ANC \>= 1,000/mcl, platelet count \>= 100,000/mcl, \< 5% bone marrow blasts, no Auer rods, no evidence of extramedullary disease (no requirements for marrow cellularity or hemoglobin concentration), Up to 5 years|Disease-free Survival (DFS), To compare the disease-free survival (DFS) between patients who receive standard 7+3 therapy or IA to patients who receive IA + vorinostat.
+
+DFS is calculated for patients who have achieved a CR or CRi (complete response with incomplete blood count recovery) . DFS will be measured from the date of CR or CRi until relapse from CR or CRi for death from any cause. Observation is censored at the date of last follow-up for patients last known to be alive without report of relapse.
+
+2-year DFS by arm will be estimated using the Kaplan-Meier method., DFS assessed for up to 5 years, 2 year DFS reported
+PRIMARY OBJECTIVES:
+
+I. To compare event-free survival (EFS) between patients with acute myeloid leukemia (AML) who receive standard 7+3 (cytarabine and daunorubicin hydrochloride) or idarubicin and high-dose cytarabine (IA) to patients who receive IA + vorinostat. (Chemotherapy) II. To determine whether it is possible to get 60% or more of adults with high-risk AML (by cytogenetics) in first complete remission (CR1) to allogeneic hematopoietic cell transplantation (HCT). (Transplant)
+
+SECONDARY OBJECTIVES:
+
+I. To estimate the frequency and severity of toxicities of the three regimens in this patient population. (Chemotherapy) II. To estimate disease-free survival (DFS) among patients who receive transplant. (Transplant) III. To compare event-free survival (EFS) between patients who receive standard 7 + 3 to patients who receive IA. (Chemotherapy) IV. To estimate the prevalence of the mutations nucleophosmin (nucleolar phosphoprotein B23, numatrin) (NPM1), isocitrate dehydrogenase 1 (NADP+), soluble (IDH1), isocitrate dehydrogenase 2 (NADP+), mitochondrial (IDH2), tet methylcytosine dioxygenase 2 (TET2) and deoxyribonucleic acid (DNA) (cytosine-5-)-methyltransferase 3 alpha (DNMT3A) and the cytogenetic risk distribution of patients on this study and to evaluate the association between these and overall survival (OS), event-free survival (EFS), disease-free survival (DFS), and complete remission rate. (Chemotherapy/Translational Medicine) V. To compare the complete response rate, disease-free survival (DFS), and overall survival (OS) between patients who receive standard 7+3 therapy or IA to patients who receive IA + vorinostat. (Chemotherapy)
+
+TERTIARY OBJECTIVES:
+
+I. Future planned studies will include testing of histone H3 acetylation, induction of gamma H2A histone family, member X (H2AX), analysis of reactive oxygen species (ROS) resistance and DNA methylation profiles. (Chemotherapy/Translational Medicine)
+
+OUTLINE: Patients are randomized to 1 of 3 treatment arms.
+
+INDUCTION/RE-INDUCTION:
+
+ARM I: Patients receive standard dose cytarabine intravenously (IV) continuously on days 1-7 and daunorubicin hydrochloride IV on days 1-3. Patients with residual blasts may receive re-induction treatment beginning on day 15. Patients achieving complete remission (CR) or complete remission with incomplete platelet recover (CRi) may proceed to allogeneic hematopoietic stem cell transplant (HSCT) or to consolidation therapy.
+
+ARM II: Patients receive high dose cytarabine IV continuously on days 1-4 and idarubicin IV over 15 minutes on days 1-3. Patients with residual blasts may receive re-induction treatment beginning on day 28. Patients achieving CR or CRi may proceed to allogeneic HSCT or to consolidation therapy.
+
+ARM III: Patients receive vorinostat orally (PO) thrice daily (TID) on days 1-3, high-dose cytarabine IV continuously on days 4-7, and idarubicin IV over 15 minutes on days 4-6. Patients with residual blasts may receive re-induction treatment beginning on day 28. Patients achieving CR or CRi may proceed to allogeneic HSCT or to consolidation therapy. (Permanently closed to accrual, effective 6/2/2015) Patient previously randomized to Arm III may continue treatment without vorinostat.
+
+CONSOLIDATION:
+
+ARM I: Patients receive cytarabine IV over 3 hours every 12 hours on days 1, 3, and 5.
+
+ARM II: Patients receive cytarabine IV continuously on days 1-3 and idarubicin IV over 15 minutes on days 1-2.
+
+ARM III: Patients receive vorinostat PO TID on days 1-3, cytarabine IV continuously on days 4-6, and idarubicin IV over 15 minutes on days 4-5. (Permanently closed to accrual, effective 6/2/2015) Patient previously randomized to Arm III may continue treatment with or without vorinostat.
+
+In all arms, treatment repeats every 28 days for 4 courses or until transplant in the absence of disease progression or unacceptable toxicity.
+
+TRANSPLANT: Patients may undergo an allogeneic transplant after induction therapy or consolidation therapy.
+
+After completion of study treatment, patients are followed up every 3 months for 1 year, every 6 months for 2 years, and then annually for 2 years.

@@ -1,0 +1,23 @@
+Feasibility and Safety of MiWEndo-assisted Colonoscopy
+The study involves the planned use of a new microwave-based device during colonoscopy procedures in a small group of patients to assess the preliminary safety of its use and lack of normal clinical practice modification. The device is a final design version, which has been previously tested in several preclinical studies, including: phantom studies, an ex vivo study with human tissues, and an in vivo study with animal model (pig).
+Colorectal Cancer|Colorectal Polyp|Colorectal Adenoma|Colorectal Neoplasms|Colorectal Adenomatous Polyp|Colorectal Adenocarcinoma
+DEVICE: MiWEndo-assisted colonoscopy
+Number of incidents and adverse events, To assess the safety of MiWEndo colonoscopy using the lexicon proposed by the American Society of Gastrointestinal Endoscopy (ASGE)., During the procedure and up to 2 weeks after|Number of mural injuries, To assess the safety of MiWEndo colonoscopy according to the Sydney classification for deep mural injuries (DMI), During the procedure|Rate of cecal intubation, To assess the feasibility of performing a complete colonoscopy using the MiWEndo System. This parameter will be measured as complete colonoscopy (yes/no)., During the procedure|Length of colon explored, In case cecum could not be reached, the distance will be measured (in cm)., During the procedure
+Patients' comfort, Subjective assessment from patient following the Gloucester 5-Likert scale, where 1 is no discomfort and 5 is extreme discomfort., Immediately after the procedure and 2 weeks after|Time for reaching the cecum (or maximum explored colon length), Measured in minutes, During the procedure|Total time for completing the procedure, Measured in minutes, Immediately after the procedure|Perception of difficulty, Difficulty by the endoscopist subjectively assessed based on a 5-points Likert scale, where 0 is not difficult and 4 is very difficult., Immediately after the procedure
+This study is designed as a single-center prospective, non-comparative, first in human pilot safety and feasibility study with few patients, whereby data will be subject to an analytical description, rather than to a statistical treatment (refer to Statistical design and analysis).
+
+In this study the principal aim is to assess the clinical safety of the device and the feasibility of its use in assisted colonoscopy. Relevant claims to verify in this study are that the device can be used without ADEs, without any change in the current clinical practice, as well as without any major difficulty by the endoscopist, neither in the preparation nor in the use of the device during exploration.
+
+In addition, the study aims to gather real clinical data with the use of the device to optimise the processing software that will be key to demonstrate MiWEndo's performance on a subsequent clinical investigation (pivotal study).
+
+Consequently, principal and secondary objectives of this investigation, are:
+
+* Principal objectives:
+
+  * To assess the feasibility of performing a complete colonoscopy using the MiWEndo System.
+  * To assess the safety of MiWEndo colonoscopy.
+* Secondary objectives:
+
+  * To assess the perception of difficulty by the endoscopist when the device is used.
+  * To assess the patient's comfort.
+  * To collect data on polyp detection performance to guide possible further improvements of the software before starting the pivotal study.

@@ -1,0 +1,32 @@
+Lenalidomide and Ibrutinib in Treating Patients With Relapsed or Refractory Chronic Lymphocytic Leukemia or Small Lymphocytic Lymphoma
+This phase I trial studies the side effects and best dose of lenalidomide when given together with ibrutinib in treating patients with chronic lymphocytic leukemia or small lymphocytic lymphoma that has returned after a period of improvement (relapsed) or does not respond to treatment (refractory). Biological therapies, such as lenalidomide, may stimulate the immune system in different ways and stop cancer cells from growing. Ibrutinib may stop the growth of cancer cells by blocking some of the enzymes needed for cell growth. Giving lenalidomide together with ibrutinib may work better in treating chronic lymphocytic leukemia or small lymphocytic lymphoma.
+Recurrent B-Cell Prolymphocytic Leukemia|Recurrent Chronic Lymphocytic Leukemia|Recurrent Small Lymphocytic Lymphoma|Refractory B-Cell Prolymphocytic Leukemia|Refractory Chronic Lymphocytic Leukemia|Refractory Small Lymphocytic Lymphoma
+DRUG: Ibrutinib|DRUG: Lenalidomide
+Maximum tolerated dose of lenalidomide when combined with ibrutinib, Defined as the highest dose in which less than or equal to 1/6 patients have dose limiting toxicity. Assessed using National Cancer Institute Common Terminology Criteria for Adverse Events version 5.0. All patient safety information collected will be summarized using descriptive statistics (number of non-missing values, mean, median, standard deviation, minimum and maximum) for continuous variables and counts and percentages for categorical variables, where applicable., 28 days
+Response rates, Response rates will be calculated based on all the intention-to-treat subjects and reported along with its exact 95% confidence interval., Up to 12 months|Remission/response duration, Remission/response duration is measured from the time measurement criteria are met for complete response or partial response (whichever is first recorded) until the first date that recurrent or progressive disease is objectively documented. Response duration will be calculated, and the mean, median, minimum, and maximum values will be reported., Up to 90 days
+Non-compartmental areas under the curve (AUCs) for ibrutinib, The impact of lenalidomide on pharmacokinetics of ibrutinib will be evaluated by comparisons of non-compartmental AUCs for ibrutinib on cycle 0, day 8 versus cycle 2, day 1., Up to day 1 of cycle 2|Ability of ibrutinib to bind to its targets, The impact of lenalidomide on ibrutinib binding to Bruton's tyrosine kinase and interleukin-2 inducible kinase will be evaluated, and the mechanistic interactions between the two agents will be investigated., Up to day 1 of cycle 2|Percentage of occupancy, Defined as the ratio between the signal pre-dose and the signal post-dose. More than 95% occupancy is defined as full occupancy., Up to day 1 of cycle 2|Change in Rho guanosine triphosphate (GTP)ase levels, Comparison of Rho GTPase expression and activation levels, as well as migration before and after treatment with lenalidomide, will be performed using a paired Student t test. The predictive power of the clinical and laboratory values measured for purposes of biomarker discover will be assessed by a multiple comparison analysis of variance test., Baseline to up to day 1 of cycle 2
+PRIMARY OBJECTIVE:
+
+I. To define the safety, tolerability and maximum tolerated dose (MTD) of lenalidomide when used in combination with ibrutinib in adults with relapsed or refractory chronic lymphocytic leukemia (CLL)/small lymphocytic lymphoma (SLL).
+
+SECONDARY OBJECTIVES:
+
+I. To determine the response rate and response duration in relapsed and refractory CLL/SLL patients with ibrutinib and lenalidomide.
+
+II. To characterize the plasma pharmacokinetic (PK) interaction between ibrutinib and lenalidomide.
+
+III. To explore whether pharmacogenetic studies can predict response, resistance or toxicity to ibrutinib and lenalidomide.
+
+IV. To explore the ability of ibrutinib to occupy its targets (Bruton's tyrosine kinase \[BTK\] in B-cells and interleukin-2 inducible kinase \[ITK\] in T-cells), and whether co-administration with lenalidomide influences this binding.
+
+V. To explore the early and late immunologic consequences of combining ibrutinib with lenalidomide in relapsed and refractory CLL.
+
+VI. To explore the impact of ibrutinib and lenalidomide on ras homolog family member H (RhoH) expression and whether baseline RhoH expression predicts outcomes with this regimen.
+
+VII. To explore mechanisms of resistance to ibrutinib. VIII. To explore the influence of traditional and new CLL/SLL clinical and laboratory prognostic factors on response to ibrutinib and lenalidomide.
+
+OUTLINE: This is a dose-escalation study of lenalidomide.
+
+Patients receive a run-up cycle of ibrutinib orally (PO) daily on days 1-28. Patients then receive ibrutinib PO and lenalidomide PO daily on days 1-28. Cycles repeat every 28 days in the absence of disease progression or unacceptable toxicity. After 12 cycles, patients who have achieved complete remission (CR)/CR with incomplete marrow recovery (CRi), nodular partial remission (PR), partial remission with persistent lymphocytosis, partial remission, or who have stable disease discontinue lenalidomide and continue ibrutinib.
+
+After completion of study treatment, patients are followed up for 90 days.

@@ -1,0 +1,35 @@
+Infigratinib Before Surgery for the Treatment of Upper Tract Urothelial Cancer
+This phase Ib trial studies the side effects of infigratinib before surgery in treating patients with upper tract urothelial cancer. Infigratinib may stop the growth of tumor cells by blocking the activities of a gene called FGFR needed for cell growth. Giving infigratinib before surgery may cause the tumor to shrink, which may make the surgical procedure easier and/or reduce the need for more extensive surgery.
+Renal Pelvis and Ureter Urothelial Carcinoma
+DRUG: Infigratinib|OTHER: Quality-of-Life Assessment|OTHER: Questionnaire Administration|PROCEDURE: Surgical Procedure
+Safety and Tolerability - TOX Rate, The study will estimate percentage of patients who are not able to complete treatment (discontinuation) due to excessive toxicity along with the 90% exact confidence interval (NOTE: excessive toxicity is defined as treatment related adverse events that cause patients not to complete 2-cycles of planned treatment schedule, or delay in planned surgery greater than 14 days), From day 1 until 30 days following last dose of infigratinib or until surgery, whichever occurs last, up to a total of 3 months.
+Evaluate the Objective Response Rate (CR+PR) of Infigratinib After 2 Cycles in UTUC With and Without FGFR3alterations, Percentage of patients achieving a point in time objective response (either complete or partial response \[CR or PR\]) after 2 cycles of infigratinib. Tumor mapping will be performed from the endoscopic evaluation (after any biopsies) and this will be used to compare to pathologic (NUx/Ux cohort) or ureteroscopic (endoscopy cohort) findings in order to determine responses. Tumor mapping will be performed based on endoscopic findings, noting location, number of tumors, tumor architecture, and location of biopsies; and will again be performed during pathologic evaluation again noting size, location, number of tumors, architecture, and absence of tumor at any previously identified tumor. A difference of 3mm will be considered within error of measurement. All analyses will be performed on patients stratified as having or not having FGFR3 alterations., Efficacy will be measured at time of surgery or approximately 2 months|To Evaluate Patient-reported Quality of Life (QOL), Categorical variables were tabulated with frequency and percentage; continuous variables were summarized using descriptive statistics. A linear transformation to standardize the raw score was calculated for Functional/symptom scales and global health status (QOL) using the guidance in Scoring the EORTC QLQ-C30 version 3.0, so that scores range from 0 to 100. A higher score represents a higher ("better") level of functioning, or a higher ("worse") level of symptoms.
+
+Wilcoxon signed rank test was applied to compare functional/symptom scales and global health status (QOL) between different time points. A higher score for symptoms represents a worse outcome., QoL surveys were obtained at baseline (day 1), pre-op after having received infigratinib for 2 cycles and 30 days after surgery, up to 3 months
+PRIMARY OBJECTIVE:
+
+I. Evaluate the tolerability of infigratinib in patients with low-grade and high-grade platinum ineligible upper tract urothelial carcinoma (UTUC).
+
+SECONDARY OBJECTIVES:
+
+I. Assess tolerability in those with GFR 30-49. II. Evaluate the objective response rate (complete response \[CR\] + partial response \[PR\]) of infigratinib after 2 cycles in UTUC with and without FGFR3 alterations.
+
+III. Correlate tumor tissue FGFR3 alteration (presence/absence, alteration type, and clonal status) with response and occurrence/severity of adverse events (AEs) such as hyperphosphatemia.
+
+IV. Evaluate upper tract, bladder and local/distant recurrence within 12 months.
+
+V. Evaluate renal function pre-treatment and after two treatments. VI. Evaluate patient-reported quality of life (QOL) outcomes during treatment.
+
+EXPLORATORY OBJECTIVES:
+
+I. Explore intra-tumor heterogeneity, gene expression profiles, and changes in tumor microenvironment using single cell ribonucleic acid (RNA) sequencing (scRNA-seq) and mass cytometry by time-of-flight (CyTOF) pre and post treatment to identify potential mechanisms of response and/or resistance, and correlation with the occurrence/severity of AEs.
+
+II. Explore urinary/upper tract washing FGFR3 alterations as potential biomarker for detection and response.
+
+III. Explore cell free deoxyribonucleic acid (cfDNA) for detection of FGFR3 alterations and as a predictor of response.
+
+OUTLINE:
+
+Patients receive infigratinib orally (PO) once daily (QD) on days 1-21. Treatment repeats every 28 days for up to 2 cycles in the absence of disease progression or unacceptable toxicity. During weeks 8-9 (at least 48 hours after last dose of infigratinib), patients undergo surgery.
+
+After completion of study treatment, patients are followed up at 30 days, then every 3 months for up to 1 year after surgery.

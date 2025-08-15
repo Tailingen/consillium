@@ -1,0 +1,32 @@
+Lenalidomide With or Without Rituximab After Standard Chemotherapy in Treating Patients With Diffuse Large B-Cell Non-Hodgkin Lymphoma
+RATIONALE: Lenalidomide may stop the growth of cancer cells by blocking blood flow to the cancer. It may also stimulate the immune system in different ways and stop cancer cells from growing. Monoclonal antibodies, such as rituximab, can block cancer growth in different ways. Some block the ability of cancer cells to grow and spread. Others find cancer cells and help kill them or carry cancer-killing substances to them. It is not yet known whether lenalidomide is more effective with or without rituximab in treating diffuse large B-cell non-Hodgkin lymphoma.
+
+PURPOSE: This randomized phase II trial is studying lenalidomide to see how well it works when given with or without rituximab after standard chemotherapy in treating patients with diffuse large B-cell non-Hodgkin lymphoma.
+Lymphoma
+DRUG: Lenalidomide|DRUG: Lenalidomide|DRUG: Rituximab
+Disease-free Survival at 1 Year, Disease-free survival is the time from on-treatment to first relapse or death (whichever comes first). Those who are alive and without relapse are censored at the last date known alive., From on-treatment date to disease recurrence, up to 1 year
+Disease-free Survival at 2 Years, Disease-free survival is the estimated probable duration of life from on-study date to date of death from any cause, using the Kaplan-Meier method where death is an event, with censoring for non-expired patients at last known date alive., From on-treatment date to disease recurrence, up to 2 years|Number of Patients With Each Worst-Grade Toxicity, Count of patients according to the worst-grade toxicity experienced by each, where worst-grade toxicity is per NCI common toxicity criteria: grade 1, mild; grade 2, moderate; grade 3, severe; grade 4, life-threatening; grade 5, death. Toxicities present at baseline and continuing without change in grade are excluded when considering worst-grade toxicity., 30 days after completing treatment, for up to 13 months
+Investigate Potential Predictive Biomarkers of Clinical Response or Resistance to Lenalidomide, up to two years|Exploratory: Concordance Between IHC for GCB and Non-GCB Subtypes to the Gene Expression Profiles Associated With the Subtypes, up to two years
+OBJECTIVES:
+
+Primary
+
+* To assess the 1-year disease-free and relapse-free survival of patients with high- or high/intermediate-risk diffuse large B-cell non-Hodgkin lymphoma treated with maintenance therapy comprising lenalidomide with or without rituximab following standard chemotherapy.
+
+Secondary
+
+* To assess the 2-year disease-free survival of patients treated with these regimens.
+* To define the safety and toxicity profile of these regimens.
+* To perform antibody-dependent cellular cytotoxicity assays using peripheral blood mononuclear cell samples from these patients.
+* To assess the change in the number of natural killer cells by flow cytometric analysis.
+* To evaluate cytokines including, but not limited to, sIL-2R, IL-6, IL-15, IL-12, TNF-α, and IFN-γ in these patients.
+* To study the KIR genotype receptor and FCγR polymorphisms.
+
+OUTLINE: This is a multicenter study. Patients are randomized to 1 of 2 treatment arms.
+
+* Arm I: Patients receive oral lenalidomide once daily on days 1-21. Treatment repeats every 28 days for 12 courses in the absence of disease progression or unacceptable toxicity.
+* Arm II: Patients receive lenalidomide as in arm I and rituximab IV on day 8 of courses 1, 3, 5, 7, 9, and 11 in the absence of disease progression or unacceptable toxicity.
+
+Peripheral blood mononuclear cells are collected periodically for correlative studies. Samples are analyzed for change in the number of natural killer cells by flow cytometry; antibody-dependent cellular cytotoxicity by assay; cytokines; KIR genotype receptor; and FCγR polymorphisms.
+
+After completion of study therapy, patients are followed at 30 days and then every 3 months for 1 year.

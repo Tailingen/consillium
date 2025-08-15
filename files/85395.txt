@@ -1,0 +1,19 @@
+DNA Analysis of Tumor Tissue Samples From Young Patients With Acute Lymphoblastic Leukemia
+This laboratory study is looking at DNA in tumor tissue samples from young patients with acute lymphoblastic leukemia. DNA analysis of tumor tissue may help doctors predict how well patients will respond to treatment
+Childhood Acute Lymphoblastic Leukemia in Remission|Recurrent Childhood Acute Lymphoblastic Leukemia
+OTHER: Laboratory Biomarker Analysis
+Leukemia Relapse, Contingency tables will be used to tabulate the relationship between relapse and genotype, race, leukemia cytogenetics, day 7 bone marrow status, and treatment arm, Day 7|Development of veno-occlusive disease in patients on CCG-1952, Classification and Regression Trees (CART), genotype patterning, Multifactor Dimensionality Reduction (MDR) techniques will be used to identify SNP combinations associated with risk of relapse and VOD, Day 28|Development of a predictive model of leukemia relapse, Predictive models will be developed utilizing genetic information obtained in Aim 1.1 and clinical data to predict treatment response, Day 28|Development of a predictive model of leukemia toxicity, Predictive models will be developed utilizing genetic information obtained in Aim 1.1 and clinical data to predict treatment toxicity., Day 28
+Development of grade III/IV toxicity as defined by the CCG toxicity criteria, Contingency tables will be used to tabulate categorical toxicities and toxicity severity grade., Day 28
+PRIMARY OBJECTIVE:
+
+I. To validate significant associations between SNPs and treatment outcome and toxicity on Children's Cancer Group (CCG)-1891 on an independent sample set from a successor CCG study for standard risk acute lymphoblastic leukemia (ALL), CCG-1952.
+
+II. To evaluate the role of SNPs in drug metabolizing enzymes and the development of veno-occlusive disease in patients on CCG-1952.
+
+III. To evaluate interactions among genotypes and other risk factors for treatment response in a combined data set of CCG-1891 and CCG-1952 with recently developed analytic tools for high dimensional data.
+
+IV. To develop predictive models utilizing genetic information obtained in Aim 1.1 and clinical data to predict treatment response and toxicity.
+
+OUTLINE:
+
+Tumor tissue samples undergo genotype assessment on the Pyrosequencing platform. Contingency tables and X\^2 test performs a univariate analysis of the risk of relapse and genotype, and multivariable analyses using logistic regression. Cox proportional hazards evaluate the risk of relapse given genotype and other confounders. Genotype patterning, classification and regression trees, and multifactor dimensionality reduction evaluates for patterns of single nucleotide polymorphisms associated with toxicity and relapse risk.

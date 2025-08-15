@@ -1,0 +1,6 @@
+Analyzing Pulsed Reduced Dose Radiotherapy in Upfront Glioblastoma
+The primary protocol objective is to assess the impact of substituting pulsed reduced dose radiotherapy (pRDR) for standard radiation therapy in the upfront treatment of glioblastoma (GBM) on disease progression.
+Glioblastoma
+DEVICE: Radiation|DRUG: Concurrent Chemotherapy (Temozolomide)|DRUG: Adjuvant Chemotherapy (Temozolomide)
+Progression-free survival, This outcome measure is the number of subjects whose disease has not progressed using the Macdonald Response Criteria, which has the following classifications: complete response, partial response, stable disease and progression., Six months|Death, This outcome measure is the number of subjects expiring from any cause., Six months
+This is a single-arm, single-center phase 2 study designed to assess the efficacy of pulsed reduced dose-rate radiotherapy in the initial treatment of maximally safely resected glioblastoma. The primary endpoint will be progression-free survival at six months. Patients with pathologically confirmed GBM who are planned for six weeks of adjuvant chemoradiation followed by six to12 months of adjuvant chemotherapy will be screened and enrolled after surgery.

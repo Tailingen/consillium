@@ -1,0 +1,26 @@
+Functional Outcomes and Quality of Life in Musculoskeletal Tumor Patients With Distal Femoral Megaprostheses
+This study aims to evaluate the functional outcomes of patients with distal femur tumor prostheses in comparison to a matched control group.
+Distal Femoral Musculoskeletal Tumors
+SF-36 questionnaire, This instrument assesses health-related quality of life and comprises 36 items, organized into eight subscales: physical functioning (10 items), physical role functioning (4 items), bodily pain (2 items), general health perceptions (5 items), vitality (4 items), social functioning (2 items), emotional role functioning (3 items), and mental health (5 items). Each subscale is scored on a scale from 0 to 100, with higher scores indicating better health status in that domain.
+
+In addition to individual subscale scores, two aggregate summary scores are calculated: the Physical Component Summary (PCS) and the Mental Component Summary (MCS). These summary scores are norm-based, with a mean of 50 and a standard deviation of 10, allowing comparison to population averages. Scores above 50 represent better-than-average health, while scores below 50 indicate lower-than-average health-related quality of life., 3 months|Timed Up and Go Test, Participants are seated in a chair with their backs against the backrest and their hands resting on their thighs. Upon the verbal command "GO", they are instructed to stand, walk down a 3-meter pathway, turn around, and return to a seated position as quickly and safely as possible. The recorded parameters include total TUG time (s), rotation speed during the middle and final turns (°/s), and vertical acceleration during the sit-to-stand and stand-to-sit transitions (m/s²), 3 months|6 -Minute Walk Test, This test is conducted in a continuous 30-meter corridor, where participants are instructed to walk for 6 minutes at their own preferred pace. The primary parameter measured is total walking distance (m), 3 months
+Sagittal range of movement of the knee measured with a goniometer, Sagittal range of movement of pathologic knee and healthy knee in controls.Full knee extension is considered 0º. The full range of knee mobility determined by the sum of the degrees of flexion plus the degrees of extension., 3 months|Muscular strength, We measure muscle strength in the quadriceps and hamstrings of the pathological leg in the cases and one of the legs in the controls. For this we use the Medical Research Council Scale.
+
+On this scale, contraction is assessed from 0-5.
+
+Grade 5: Normal
+
+Grade 4: Movement against gravity and resistance
+
+Grade 3: Movement against gravity over (almost) the full range
+
+Grade 2: Movement of the limb but not against gravity
+
+Grade 1: Visible contraction without movement of the limb
+
+Grade 0: No visible contraction, 3 months|MSTS Score, Musculoskeletal Tumour Society (MSTS) Score evaluates patients' subjective functional capabilities. This assessment comprises six subscales: pain, function, emotional acceptance, use of assistive devices for ambulation, walking ability, and gait. Each subscale is rated on a scale from 0 to 5 points, with 5 indicating the most favorable outcome. Total scores are categorized as follows: poor (\<15%), fair (15-17%), moderate (18-20%), good (21-22%), and excellent (23-30%). Higher total scores reflect better functional performance, 3 months
+The aim of this case-control study will be to compare functional outcomes-including results from the TUG and 6MWT, knee flexor and extensor muscle strength, sagittal knee range of motion-and health-related quality of life between patients with distal femoral megaprostheses and healthy controls. By employing both traditional assessments and IMU technology, the investigators will provide a comprehensive evaluation of functional recovery in this population, thereby informing clinical practice and rehabilitation strategies.
+
+Two functional tests that will be conducted are the Time Up and Go Test and the 6-Minute Walk Test. These tests will be administered using a non-invasive Inertial Measurement Unit (IMU), specifically the BTS G-sensor inertial sensor (BTS Bioengineering, Garbagnate Milanese, Italy), positioned at the S1 level to collect spatiotemporal gait data. These data will then be analyzed in comparison to values obtained from healthy participants.
+
+The assessment will include anamnesis and a complete clinical examination of tumor patients with distal femur megaprostheses undergoing surgery at Hospital la Fe in Valencia, focusing on knee joint mobility and muscle group strength. Subjective function will be evaluated using questionnaires such as the SF-36 for both cases and controls and the MSTS (Musculoskeletal Tumor Society Score) for cases.

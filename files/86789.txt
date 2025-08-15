@@ -1,0 +1,18 @@
+Genetic and Epigenetic Determinants of Response to Fluorouracil-based Adjuvant Chemotherapy in Patients With Stage III Colorectal Cancer
+The goal of this laboratory research is to look for genetic and epigenetic markers that can predict which patients with stage III colorectal cancer will benefit from fluorouracil-based adjuvant chemotherapy.
+Stage III Colorectal Cancer
+GENETIC: Gene mutations analysis|GENETIC: Gene methylation analysis|GENETIC: Gene expression analysis|GENETIC: SNP analysis|GENETIC: Protein expression analysis
+Time to recurrence (TTR), Time to any event, except non-cancer-related death. All recurrences, treatment-related deaths, second same or other primary cancers, and deaths from other cancers are considered to be events. Loss to follow-up and non-cancer-related deaths are censored. Associations between TTR and genetic and epigenetic markers will be analyzed., 3 years after surgery
+Disease-free survival (DFS), Time to any event, irrespective of cause. All events are included, except loss to follow-up. Associations between DFS and genetic and epigenetic markers will be analyzed., 3 years, 5 years after surgery|Cancer-specific survival (CSS), Time to death caused by the same cancer, whether due to the original tumor or to a second primary same cancer. The only event is death from the same cancer, without taking into account whether the death is caused by the primary tumor or a second same cancer. Locoregional recurrence, distant metastases, second primary same cancers, and second other primary cancers are ignored. Deaths from other cancers, non-cancer-related deaths, treatment-related deaths, and loss to follow-up are censored. Associations between CSS and genetic and epigenetic markers will be analyzed., 3 years, 5 years after surgery|Overall survival (OS), Time to death, irrespective of cause. There is no need to specify whether the death was due to cancer. Locoregional recurrence, distant metastases, second primary colorectal cancers, and second other primary cancers are ignored. Loss to follow-up is censored. Associations between OS and genetic and epigenetic markers will be analyzed., 3 years, 5 years after surgery
+This is a prospective project in collecting and assessing clinical outcomes data related to molecular profiling of tumors based on samples from peripheral blood, primary tumor, and adjacent normal colorectal tissue.
+
+Objectives:
+
+1. Validation of predictive value of known markers CpG island methylator phenotype (CIMP) and microsatellite instability (MSI) in the response to 5-fluorouracil-based chemotherapy in patients with stage III colorectal cancer.
+2. Exploratory evaluation of the potential predictive values of known genetic variations including, but not limited to, KRAS mutations, BRAF mutations, PIK3A mutations, and EGFR mutations, etc.
+3. Exploratory identification and evaluation of the predictive value of novel methylation aberrations identified by whole-genome bisulfite sequencing.
+4. Exploratory identification and evaluation of the predictive value of novel genetic aberrations discovered by RNA-sequencing (RNA-seq) or genome-wide association study (GWAS).
+
+Outline:
+
+Blood is collected at baseline and examined for single-nucleotide polymorphisms (SNPs) and expression level of specific gene. Tumor and corresponding normal tissue at surgical resection and assessed for gene methylations, mutations, and expressions.

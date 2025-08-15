@@ -1,0 +1,29 @@
+PR104 and G-CSF in Treating Patients With Solid Tumors
+RATIONALE: Drugs used in chemotherapy, such as PR-104, work in different ways to stop the growth of tumor cells, either by killing the cells or by stopping them from dividing. Colony-stimulating factors, such as G-CSF, may increase the number of immune cells found in bone marrow or peripheral blood and may help the immune system recover from the side effects of chemotherapy. Giving PR-104 together with G-CSF may kill more tumor cells.
+
+PURPOSE: This phase I trial is studying the side effects and best dose of PR-104 when given together with G-CSF in treating patients with solid tumors.
+Unspecified Adult Solid Tumor, Protocol Specific
+BIOLOGICAL: filgrastim|DRUG: PR104|OTHER: F-18-fluoromisonidazole
+Maximum tolerated dose of PR-104, 3 weeks (cycle 1)
+Safety profile using CTCAE v3 criteria|Dose-limiting toxicity of PR-104|Pharmacokinetics of PR-104 and its alcohol metabolite in blood|Anti-tumor activity|Biomarkers of tumor hypoxia
+OBJECTIVES:
+
+Primary
+
+* Determine the maximum tolerated dose of PR-104 in combination with filgrastim (G-CSF) in patients with solid tumors.
+
+Secondary
+
+* Characterize the safety of this regimen in these patients.
+* Evaluate the pharmacokinetics of PR-104 and its alcohol metabolite.
+* Evaluate the rate of hypoxia in various solid tumors using F-MISO PET (18F-fluoromisonidazole positron emission tomography) imaging.
+* Assess for antitumor toxicity in these patients.
+* Collect plasma samples for the assessment of potential biomarkers of tumor hypoxia.
+
+OUTLINE: This is a multicenter, dose-escalation study of PR-104.
+
+Patients receive PR-104 IV over 1 hour on day 1 and filgrastim (G-CSF) on day 2. Courses repeat every 21 days in the absence of disease progression or unacceptable toxicity. Patients also undergo 18F-fluoromisonidazole PET scans at baseline and prior to course 3 to assess tumor hypoxia.
+
+Patients undergo blood sample collection periodically during course 1. Samples are analyzed for the pharmacokinetics of PR-104 and for identification of biomarkers for tumor hypoxia.
+
+After completion of study treatment, patients are followed at 30 days.

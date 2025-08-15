@@ -1,0 +1,35 @@
+Entinostat and Anastrozole in Treating Postmenopausal Women With TNBC That Can Be Removed by Surgery
+This phase II trial is studying how well giving entinostat and anastrozole together works in treating postmenopausal women with triple-negative breast cancer that can be removed by surgery. Entinostat may stop the growth of tumor cells by blocking some of the enzymes needed for cell growth. Estrogen can cause the growth of breast cancer cells. Hormone therapy using anastrozole may fight breast cancer by blocking the use of estrogen by the tumor cells. Giving entinostat together with anastrozole may be an effective treatment for breast cancer.
+Estrogen Receptor-negative Breast Cancer|HER2-negative Breast Cancer|Progesterone Receptor-negative Breast Cancer|Stage I Breast Cancer|Stage II Breast Cancer|Stage IIIA Breast Cancer|Triple-negative Breast Cancer
+DRUG: entinostat|DRUG: anastrozole|OTHER: diagnostic laboratory biomarker analysis|PROCEDURE: therapeutic conventional surgery
+Recommended Phase II Dose of Entinostat in Combination With Anastrozole (Pilot), Since the study was terminated early there was insufficient data for analysis and to recommend a phase II dose of entinostat in combination with anastrozole, Duration of the study is 29 days followed by 30 days end of study assessment visit, up to 59 days|Number of Participants With Adverse Events, To address the safety of the regimen, a maximum width 90% confidence interval for any grade 3 or higher toxicity will be approximately 30%. For 5 patients in this study, if the true unknown probability of a rare toxicity is 10%, the probability of observing 1 or more toxicities is 97%, and if the true toxicity rate is 5% then the probability of observing one or more rare toxicities is 83%., Participants were followed during the study and for 30 days post treatment, up to 59 days|Change in Proliferative Index (Ki67) (Phase II), The 95% confidence intervals will be constructed for the observed proportions. Exploratory data analysis and appropriate graphs will be used to decide whether data transformation (e.g. log or square-root) is necessary to assure an approximate normality. All descriptive statistics will be reported for ER and Ki67 expression. The general linear model approach and/or its non parametric alternative, the Wilcoxon test, will be used to assess whether there is any evidence of changes due to treatment., Baseline to the time of surgery, within 6 days after the last dose of entinostat, up to 35 days|Change in Estrogen-receptor (ER) Expression (Phase II), The 95% confidence intervals will be constructed for the observed proportions. Exploratory data analysis and appropriate graphs will be used to decide whether data transformation (e.g. log or square-root) is necessary to assure an approximate normality. All descriptive statistics will be reported for ER and Ki67 expression. The general linear model approach and/or its non parametric alternative, the Wilcoxon test, will be used to assess whether there is any evidence of changes due to treatment., Baseline before the study treatment and at the time of surgery, up to 30 days
+Clinical Response to Entinostat and Anastrozole, Rate of clinical response % of patients responding, Clinical response was assessed during the study treatment and before the surgery, up to 29 days|Change in HER2, Will be treated as continuous variables. Multivariate analysis of variance may also be used to compare correlated biomarkers' expression. Correlation between biomarkers will be estimated and tested. The repeated measures model approach will be also used. Categorical outcome data (e.g., number of proteins expressed) will be recorded, proportions will be estimated and compared using the Fisher's exact test., Baseline before study treatment and at the time of surgery, up to 30 days|The Pathological Response to Entinostat and Anastrozole, Rate of Pathologic response % of patients responding, Pathological response was assessed after the surgery, up to 59 days
+PRIMARY OBJECTIVES:
+
+I. To evaluate the safety and tolerability of entinostat in combination with anastrozole or tamoxifen. (Pilot) II. To determine the optimal dose of entinostat in combination with anastrozole or tamoxifen for phase II. (Pilot) III. To determine baseline and percentage change in proliferative index (Ki67) before and after treatment with entinostat and anastrozole/tamoxifen in triple negative breast cancer (TNBC). (Phase II) IV. To determine the estrogen receptor (ER) expression after treatment with entinostat and anastrozole/tamoxifen in TNBC. (Phase II)
+
+SECONDARY OBJECTIVES:
+
+I. To evaluate baseline and change in the expression levels of progesterone receptor (PR), human epidermal growth factor receptor 2 (HER2), epidermal growth factor receptor (EGFR), cytokeratin 5/6 (CK5/6), and aromatase before and after treatment with entinostat and anastrozole/tamoxifen.
+
+II. To assess baseline and change in tumor tissue histone H3 and H4 acetylation before and after treatment with entinostat and anastrozole/tamoxifen.
+
+III. To assess the clinical and pathological response to preoperative combination of entinostat and anastrozole/tamoxifen in TNBC.
+
+TERTIARY OBJECTIVES:
+
+I. To correlate the levels of histone H3 and H4 acetylation in tumors with the changes in Ki67 and ER.
+
+II. To evaluate baseline and change in gene methylation silencing and expression of candidate genes in tissues and in circulating DNA, including estrogen receptor (ER)-alpha, ER-beta, RAR-beta, cyclin D2, Twist, RASSF1A, and HIN-1.
+
+III. To correlate entinostat trough concentrations with histone H3 and H4 acetylation in tumors as well as the change in Ki67 and ER.
+
+IV. To evaluate baseline and change in the global gene expression profile before and after treatment with entinostat and anastrozole/tamoxifen.
+
+OUTLINE: This is a multicenter, pilot study followed by a phase II study.
+
+Patients receive entinostat orally (PO) once daily on days 1, 8, 15, 22, and 29 and anastrozole PO once daily on days 4-29. Patients then undergo mastectomy or lumpectomy.
+
+Tumor tissue samples are collected at baseline or from original diagnosis, and during surgery for correlative studies by IHC and RT-PCR. Blood samples are also collected at baseline, on days 1 and 15, and during surgery for correlative studies.
+
+After completion of study therapy, patients are followed up for 30 days.

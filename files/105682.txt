@@ -1,0 +1,28 @@
+A Study to Evaluate Sotigalimab (APX005M) in Subjects With Unresectable or Metastatic Melanoma
+This is a multicenter, open label, Phase 2 study, with 3 parallel cohorts. The aim of the study is to evaluate the efficacy of sotigalimab (APX005M) administered at 2 different schedules to adult participants with unresectable or metastatic melanoma. Participants who have not received prior immunotherapy will be alternately assigned to 1 of 2 cohorts with different sotigalimab administration schedules as long as both are open for enrollment. Participants who have failed any number of prior lines of therapy will be assigned to a 3rd cohort of sotigalimab in combination with radiation therapy.
+Unresectable Melanoma|Metastatic Melanoma|Cancer|Cancer of Skin|Melanoma|Melanoma (Skin)
+DRUG: sotigalimab
+Response Evaluation Criteria in Solid Tumors Version 1.1 (RECIST 1.1) Overall Response Rate (ORR), The percentage of participants having reached a confirmed Complete Response (CR) or Partial Response (PR) by RECIST 1.1, relative to the number of participants belonging to the Efficacy Population. Confidence Intervals (CIs) were calculated using exact (Clopper-Pearson) method.
+
+CR: Disappearance of all target lesions and nontarget (NT) lesions; PR: \>30% decrease in the sum of the longest diameter of target lesions and no progressive disease in NT lesions or new lesions., 12 months
+Modified RECIST 1.1 for Immune-based Therapeutics (iRECIST 1.1) Overall Response Rate (iORR), The percentage of participants having reached an immune confirmed Complete Response (iCR) or Partial Response (iPR) by iRECIST 1.1, relative to the number of participants belonging to the Efficacy Population. CIs were calculated using exact (Clopper-Pearson) method.
+
+iCR: Disappearance of all target lesions and NT lesions; iPR: \>30% decrease in the sum of the longest diameter of target lesions and no progressive disease in NT lesions or new lesions., 12 months|RECIST 1.1 Duration of Response (DoR), The DoR was defined as the time (in months) from the first evidence of confirmed objective response (CR or PR) to the event or censoring date. An event was defined as the first documentation of progression disease (PD; disease progression assessed based on tumor assessment or clinical progression) or death due to any cause, whichever occurs earlier. Median DoR was calculated using Kaplan-Meier analysis. CIs were calculated using exact (Clopper-Pearson) method.
+
+CR: Disappearance of all target lesions and NT lesions; PR: \>30% decrease in the sum of the longest diameter of target lesions and no progressive disease in NT lesions or new lesions; PD: \>20% increase in the sum of the longest diameter of target lesions and an absolute increase of ≥5mm, or a measurable increase in a non-target lesion, or the appearance of new lesions., 12 months
+RECIST 1.1 Progression-free Survival (PFS), The PFS was defined as the time (in months) from the first administration of APX005M to the event or censoring date. An event was defined as the first documentation of PD (disease progression assessed based on tumor assessment or clinical progression) or death due to any cause, whichever occurs earlier. Median DoR was calculated using Kaplan-Meier analysis. CIs were calculated using exact (Clopper-Pearson) method.
+
+PD: \>20% increase in the sum of the longest diameter of target lesions and an absolute increase of ≥5mm, or a measurable increase in a non-target lesion, or the appearance of new lesions., 12 months
+This is a multicenter, open label, Phase 2 study, with 3 parallel cohorts. The aim of the study is to evaluate the efficacy of Sotigalimab administered at 2 different schedules to adult participants with unresectable or metastatic melanoma who have not received prior immunotherapy. Enrolled participants will be alternately assigned to one of the following 2 cohorts (groups) as long as both cohorts are open.
+
+Cohort 1: APX005M administered IV at 0.3 mg/kg every 3 weeks (21-day cycle) Cohort 2: APX005M administered IV at 0.3 mg/kg every 2 weeks (14-day cycle) Sotigalimab in combination with stereotactic body radiation therapy (SBRT) in adults with unresectable or metastatic melanoma who have failed any number of prior lines of therapy will be assigned to Cohort 3: Sotigalimab administered IV at 0.3 mg/kg in combination with radiation therapy every 2 weeks (14 day cycle) up to 16 weeks followed by sotigalimab administered IV at 0.3 mg/kg every 2 weeks (14-day cycle).
+
+Primary Objective
+
+• Evaluate the overall response rate (ORR) by RECIST 1.1 measurements in each of the cohorts.
+
+Secondary Objectives
+
+* Evaluate the safety of sotigalimab alone or in combination with radiation therapy in each cohort
+* Evaluate ORR by modified RECIST 1.1 for immune-based therapeutics (iRECIST) in each cohort
+* Evaluate median duration of response (DOR) in each cohort

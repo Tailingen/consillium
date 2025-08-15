@@ -1,0 +1,33 @@
+Postoperative Radiotherapy Followed by Immunotherapy for Locally Advanced Esophageal Carcinoma
+Esophageal squamous cell carcinoma is a common malignancy in China. Although neoadjuvant chemoradiotherapy followed by esophagectomy remains a standard modality for locally advanced esophageal squamous cell carcinoma, esophagectomy followed by postoperative radiotherapy is also prevalent in China. Several retrospective studies demonstrated that postoperative radiotherapy could improve the prognosis of patients. Nevertheless, there still existed approximately 11.5% and 17.2% of total patients developing local-regional relapse and hematological metastasis. The result of Checkmate 577 has shown that postoperative immunotherapy of nivolumab could improve the disease-free survival (median Disease-free Survival 29.7 mos vs. 11.0 mos). Therefore, investigators aimed to implement a pilot study to explore the safety and efficacy of combining postoperative radiotherapy and immunotherapy for patients with locally advanced esophageal squamous cell carcinoma after esophagectomy.
+Esophageal Carcinoma
+DRUG: Immune Checkpoint Inhibitors
+1-year disease-free survival, 1-year disease-free survival, 1 year
+Rate of irradiation-induced or immune-induced pneumonitis, Rate of irradiation-induced or immune-induced pneumonitis, 1 year|3-year disease-free survival, 3-year disease-free survival, 3 year|3-year overall survival, 3-year overall survival, 3 year
+Trial Title: Postoperative radiotherapy followed by immunotherapy for locally advanced esophageal squamous cell carcinoma: A pilot study Trial Objective: To explore the safety and efficacy of combining postoperative radiotherapy and immunotherapy for patients with locally advanced esophageal squamous cell carcinoma after esophagectomy.
+
+Trial Design: To enroll 70 patients with locally advanced esophageal squamous cell carcinoma who would be randomly assigned to experimental arm (esophagectomy followed by postoperative radiotherapy with immunotherapy) and controlled arm (esophagectomy followed by postoperative radiotherapy).
+
+Inclusion Criteria: a. 18-75 years old. b. after esophagectomy. c. confirmation of squamous cell carcinoma by pathological examination. d. pathological staging of pIIb-IVa. e. over 12 lymph nodes dissected during surgery. f. ECOG 0-1. g. signature of inform consent by patients Exclusion Criteria: a. younger than 18 years old or older than 75 years old. b. without esophagectomy. c. non-squamous cell carcinoma. d. pathological staging of pI, IIa, IVb. e. less than 12 lymph nodes dissected during surgery. f. ECOG 2-3 g. no signature of inform consent.
+
+Esophagectomy: Mckeown or Ivor-Lewis surgery
+
+Staging Examination before Postoperative Radiotherapy: a. ECOG scoring. b. PET-CT (preferred), or chest contrast CT, abdominal ultrasonography and bone scan. c. PD-L1 expression level of surgical specimen. d. NRS2002 and PG-SGS scoring.
+
+Postoperative radiotherapy Radiotherapy CT simulation: Intravenous contrast is recommended for CT simulation. Scan thickness should be less than 5 mm. Thermal mask or vacuum bag is recommended.
+
+Delineation of Clinical Tumor Volume (CTV): CTV should involve relative lymphatic drainage area for primary lesion at different site. For cervical and upper-thoracic esophageal squamous cell carcinoma, CTV should involve bilateral supraclavicular (1R), upper and lower paratracheal (2R and 4R), upper and middle paraesophageal (8U and 8M), subcarinal lymphatic drainage area. For middle esophageal squamous cell carcinoma, CTV should involve bilateral supraclavicular (1R), upper and lower paratracheal (2R and 4R), upper, middle and lower paraesophageal (8U, 8M and 8L), subcarinal lymphatic drainage area. For lower esophageal squamous cell carcinoma, CTV should involve middle and lower paraesophageal (8M and 8L), subcarinal lymphatic drainage area.
+
+Production of Planning Tumor Volume (PTV): PTV is produced by a margin of 5 mm added to CTV.
+
+Prescription Dose: 50.4Gy/28f was prescribed to 95% PTV. Dosimetric Limitation: 95% prescription dose should cover 100% PTV and 95% PTV should receive 100% prescription dose. Total Lung: V20\<25%, Dmean\<13Gy, V5\<50%. Spinal Cord: Dmax\<45Gy. Heart: V30\<40%, Dmean\<25Gy. Treatment Implementation: Radiotherapy is implemented every day. Conebeam CT should be utilized per week to confirm set-up error.
+
+Randomization All participants enrolled after postoperative radiotherapy would be randomly assigned to the experimented arm and controlled arm.
+
+Experimental Arm (Immunotherapy Maintenance) Participants enrolled into experimental arm were prescribed to receive immunotherapy maintenance for one year.
+
+Controlled Arm Participants enrolled into controlled arm began to be followed-up after postoperative radiotherapy.
+
+Follow-up: Participants should be follow-up every three months right after the completion of radiotherapy or immunotherapy to 3 years after radiotherapy or immunotherapy. Then follow-up every half year is allowed to 5 years after radiotherapy or immunotherapy. After 5 years, follow-up every year is appropriate. In follow-up, chest CT and abdominal ultrasonography should be implemented.
+
+Primary endpoint: 1-year disease-free survival (RECIST V1.1) Secondary endpoint: Rate of irradiation-induced or immune-induced pneumonitis, 3-year disease-free survival and 3-year overall survival.

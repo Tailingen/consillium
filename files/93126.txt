@@ -1,0 +1,18 @@
+Dual Anti-CD22/CD19 Chimeric Antigen Receptor-directed T Cells (CART2219.1) for Relapsed Refractory B-Lineage Leukaemia
+The purpose of this study is to deliver dual-targeting CAR-T cell therapy (CART 2219.1) as a salvage treatment to patients with relapsed/refractory B-lineage leukaemia in place of stem cell transplant or irradiation.
+Lymphoblastic Leukemia|Lymphoblastic Leukemia, Acute, Childhood|Lymphoblastic Leukemia in Children|Lymphoblastic Leukemia, Acute Adult|CAR
+BIOLOGICAL: Phase I|BIOLOGICAL: Phase II
+Recommended Phase II Dose (Phase I, Cohort 1), The RP2D will be the dose level at which \< 1 DLT in 3 patients or \< 2 DLT in 6 patients is observed in both the adult and paediatric dose escalation stratas., 30 days|Number of patients with dose-limiting toxicities (Phase I, Cohort 1), To be DLTs, adverse events must be suspected to be secondary to CAR-T cell infusion, occur during the first 30 days after infusion and meet at least one of the following criteria:
+
+1. Grade ≥ 3 non-hematologic toxicities, with the following exceptions:
+
+   * Laboratory abnormalities without associated symptomatology or clinical consequence that resolve in less than 7 days;
+   * Grade ≤ 2 cytokine release syndrome;
+   * Grade 3 cytokine release syndrome that improves to grade ≤ 2 within 3 days of intervention;
+   * Grade 3 neurotoxicity that resolves to grade 2 or less within 3 days.
+   * Laboratory abnormalities compatible with tumor lysis syndrome;
+2. Grade ≥ 4 hematologic toxicities that persist at a grade ≥ 3 for \>21 days.
+
+Cytokine release syndrome and immune-effector cell associated neurotoxicity syndrome (ICANS) are graded according to ASTCT consensus grading. Adverse events are graded according to CTCAE version 5.0., 30 days|12-month Leukaemia Free Survival (Phase II, Cohort 2 and 3), Survival with Marrow MRD \<0.01% by flow cytometry, 12 months
+Overall Survival Rate (OS), Percentage of patients in the study who are alive 12 months after CAR-T infusion., 12 months|Overall Response Rate (ORR), Percentage of patients in the study who have a partial or complete response to the treatment within 3 months., 3 months|Duration of Response (DOR), Duration of complete remission (CR or CR with partial/incomplete haematological recovery), Up to 24 months|Duration of CAR-T persistence, Duration of measurable CAR-T above detection limits in peripheral blood and/or marrow, Up to 24 months
+The purpose of this study is to deliver dual-targeting CAR-T cell therapy (CART 2219.1) as a salvage treatment to patients with relapsed/refractory B-lineage leukaemia in place of stem cell transplant or irradiation.

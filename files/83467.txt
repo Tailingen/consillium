@@ -1,0 +1,17 @@
+Flura-seq for Evaluating the Effects of Different Hyperthermic Intraperitoneal Chemotherapy Regimens on the Transcriptome of Pseudomyxoma Peritonei
+The main objective of this study is to combine HIPEC regimens with Flura-seq to detect the effects of different HIPEC regimens (cisplatin vs. cisplatin+ docetaxel) on the nascent transcriptome of PMP tumors, so as to quantitatively assess the efficacy of different HIPEC regimens in the early stage, and to lay the foundation for optimizing the HIPEC regimens and exploring new therapeutic targets.
+Pseudomyxoma Peritonei
+PROCEDURE: intravenously inject with 5-FU (400 mg/m2)
+Changes in Nascent RNA in Tumor Tissues Before and After HIPEC, Main index parameters: information on the amount of differentially expressed genes and the magnitude of change between the cisplatin group and the cisplatin+ docetaxel group. The amount of differentially expressed genes is expressed as mean ± standard deviation and statistically analyzed by t-test or rank-sum test, and the comparison between groups is performed by unpaired t-test. Differences are considered statistically significant when P\< 0.05. Based on the statistical results, the efficacy of the two HIPEC regimens (cisplatin or cisplatin+ docetaxel) on PMP will be analyzed.
+
+Expected results and clinical interpretation: More changes in newly generated RNA in the tumor tissue indicate a greater impact of HIPEC on the transcriptome of the tumor cells, possibly indicating better efficacy., From enrollment to the end of CRS+HIPEC treatment
+1. Participants:
+
+   ① Diagnosed PMP patients;
+
+   ② Patients can receive CRS+HIPEC treatment.
+2. Trial protocol: the patients will be randomly divided into cisplatin group and cisplatin + docetaxel group. Preoperative intravenous bolus injection of 5-FU (400 mg/m2) will be given before CRS+HIPEC treatment. After CRS, the patients will be treated with cisplatin or cisplatin + docetaxel HIPEC, respectively. Cisplatin 120 mg or docetaxel 120 mg + Cisplatin 120 mg will be added to 3,000 ml of saline, heated to 43 ℃, and perfused at a flow rate of 400 ml/min for 60 min.
+3. Sample collection: tumor tissue samples (5-10 g) will be collected before and after HIPEC treatment, and will be stored at 80 ℃ for nascent transcriptome sequencing.
+4. Sequencing analysis of nascent transcriptome: using high-throughput sequencing technology, the RNA extracted from tumor tissue samples before and after treatment with cisplatin or cisplatin + docetaxel HIPEC will be sequenced by Flura-seq to analyze the changes of newly synthesized transcripts in tumor tissue during HIPEC.
+5. Data analysis: the sequencing data will be processed and analyzed by bioinformatics methods. The differentially expressed genes in cisplatin group and cisplatin + docetaxel group will be compared to evaluate the efficacy of different HIPEC regimens on PMP. Functional annotation and pathway analysis of differentially expressed genes will be performed to explore molecular therapeutic targets for PMP-specific RNA.
+6. Treatment regimen for poor therapeutic effect: the study will not change the patient's existing HIPEC regimen. If the results show that HIPEC is not effective in treating the patient, it means that the drug is not effective for the patient during subsequent chemotherapy, and the chemotherapy regimen can be adjusted accordingly based on the Flura-seq results.

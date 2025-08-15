@@ -1,0 +1,23 @@
+Radical Concurrent Chemoradiotherapy With DDP/5-FU and PD-1 Antibody for Non-metastatic Rectal Squamous Cell Carcinoma
+The goal of this clinical trial is to learn if PD-1 monoclonal antibody combined with radical chemoradiotherapy works to treat rectal squamous cell carcinoma (rSCC). lt will also learn about the safety of the regime. The main questions it aims to answer are:
+
+Does PD-1 monoclonal antibody combined with radical chemoradiotherapy improve survival prognosis? What is the complete response rate (CCR) of the regime？ Researchers will compare PD-1 monoclonal antibody combined with radical chemoradiotherapy to previous study to see if this regime works to treat rSCCs.
+
+Participants will receive chemotherapy with DDP and 5-FU, immunotherapy with PD-1 monoclonal antibody and radiotherapy with a total dose of 50-54GY.
+Rectal Squamous Cell Carcinoma
+COMBINATION_PRODUCT: PD-1 and CRT
+3-year tumor-free survival(DFS), The proportion of patients who do not have any of the following events from the beginning of randomization to the end of the first year, 3 year
+1-year overall survival (OS), Time interval from the date of randomization to death, 1 year|1-year relapse-free survival (RFS), Time interval from the date of randomization to the onset of recurrence, 1 year|1-year metastasis free survival (DMFS), Time interval from the date of randomization to the occurrence of distant metastases, 1 year|Incidence of chemotherapy and immunotherapy-related adverse reactions, The occurrence of chemotherapy and immune-related side effects during treatment, through study completion, an average of 6 months|Complete response rate (CRR), The proportion of the total number of patients with complete response after treatment to the total number of evaluable cases in solid tumor treatment studies, through study completion, an average of 6 months|1-year stoma-free survival, The occurrence of stoma, 1 year
+Rectal squamous cell cancer (rSCC) is a rare malignancy, and its incidence is increasing year by year. Due to the rarity of rSCC, there is no consensus on its epidemiology, pathogenesis, prognosis and treatment management. Due to the limitation of clinical data, there is an urgent need for further clinical exploration and research.
+
+In recent years, the combination of CRT and immunotherapy has attracted more and more attention, as they may have more advantages over CRT alone.A number of prospective clinical trials of PD-1 monoclonal antibody combined with CRT for the first-line treatment of advanced aSCC are also underway (NCT03233711, NCT04230759, NCT05661188, NCT05374252, etc.). Similarly, the efficacy and safety of PD-1 monoclonal antibody in rSCC patients are also worthy of further discussion, in order to further improve the survival prognosis of rSCC patients. Our previous study data showed that the 3-year OS and DFS of radical CRT were 88.9% and 66.7%, respectively, for non-metastatic rSCC, and 100% and DFS for radical CRT combined with immunotherapy, respectively, and CRT combined with immunotherapy significantly improved survival compared with radical CRT (P=0.02).
+
+The goal of this clinical trial is to learn if PD-1 monoclonal antibody combined with radical chemoradiotherapy works to treat rectal squamous cell carcinoma (rSCC). lt will also learn about the safety of the regime. Therefore, we plan to conduct a multicenter, prospective, single-arm, phase II study to provide evidence-based medical evidence for the treatment of locally advanced rectal squamous cell carcinoma.
+
+The primary outcome is 1-year tumor-free survival (DFS), and the secondary outcomes are including 1-year overall survival (OS), 1-year relapse-free survival (RFS), 1-year metastasis free survival (DMFS), 1-year stoma-free survival, incidence of chemotherapy and immunotherapy-related adverse reactions and complete response rate (CRR).
+
+Participants will receive interventions below:
+
+1. Chemotherapy (/3w): a)DDP 75 mg/m2, d1, intravenous infusion; b)5-FU 1000 mg/m2, d1-4, continuous pumping intravenously;
+2. Immunotherapy (/3w): PD-1 monoclonal antibody(sintlimab) 200mg, d1, intravenous infusion;
+3. Radiotherapy (at 3rd week after firstime of chemotherapy):Daily single dose of 2Gy, with a total dose of 50-54GY.

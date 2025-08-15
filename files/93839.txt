@@ -1,0 +1,71 @@
+Reduced Intensity Conditioning for Hemophagocytic Syndromes or Selected Primary Immune Deficiencies (BMT CTN 1204)
+HLH, HLH-related disorders, Chronic Granulomatous (CGD), HIGM1, Immune dysregulation, polyendocrinopathy, enteropathy, and X-linked inheritance (IPEX) and severe LAD-I represent primary immune disorders that are typically fatal without Hematopoietic Cell Transplant (HCT). However, transplant is often complicated by inflammation, infection and other co-morbidities. In addition, these disorders have been shown to be cured with partial chimerism, making them an ideal target for the use of reduced intensity approaches, where a portion of patients may not achieve full donor chimerism, but instead achieve stable mixed chimerism. Reduced-intensity conditioning strategies have demonstrated improved survival with decreased Treatment Related Mortality (TRM) in institutional series for patients with HLH (Cooper et al., 2006; Marsh et al., 2010; Marsh et al., 2011). However, graft loss and unstable chimerism remain challenges. An institutional case series from Cincinnati Children's Hospital demonstrated full or high-level chimerism and improved durable engraftment using intermediate (Day -14) timing alemtuzumab (Marsh et al., 2013b). This study aims to test the efficacy of the Intermediate RIC strategy in a prospective multi-center study including HLH as well as other primary immunodeficiencies where allogeneic transplant with RIC has been shown to be feasible and stable chimerism is curative.
+Hemophagocytic Lymphohistiocytosis|Chronic Active Epstein-Barr Virus Infection|Chronic Granulomatous Disease|HIGM-1|Leukocyte Adhesion Deficiency|IPEX
+BIOLOGICAL: Hematopoietic Stem Cell Transplant
+Percentage of Participants With Overall Survival (OS), Overall survival is defined as survival of death from any cause., 1 year and 18 months post-transplant
+Percentage of Participants With Overall Survival (OS) by Disease Type, Overall survival is defined as survival of death from any cause., 1 year and 18 months post-transplant|Percentage of HLH Participants With HLH Reactivation Post-Transplant, Systemic HLH Reactivation: Post-transplant HLH reactivation is defined by clinical and lab evidence of pathologic inflammation (persistent fever, progressive cytopenias, rising ferritin and soluble IL2Rα, decreasing fibrinogen, hepatosplenomegaly, end-organ damage) not attributable to other causes.
+
+Central nervous system (CNS) HLH Reactivation: Reactivation of CNS inflammation in patients with HLH may present with or without altered mental status and is defined by pleocytosis in Cerebrospinal fluid (CSF) or an MRI consistent with CNS inflammation not attributable to other causes., 1 year post-transplant|Percentage of Participants With Neutrophil Engraftment, Time to absolute neutrophil count (ANC) engraftment is defined as the first of three measurements on different days that the patient has an absolute neutrophil count of ≥ 500x10\^6/liter following conditioning regimen induced nadir., Day 42 post-transplant|Percentage of Participants With Platelet Engraftment, Platelet engraftment is defined as the first day of a minimum of three measurements on different days that the patient has achieved a platelet count \> 20,000 / microliter AND the patient is platelet transfusion independent for a minimum of seven days following conditioning regimen induced nadir., Day 100 post-transplant|Percentage of Participants Alive With Sustained Engraftment, Sustained engraftment is defined as the occurrence of whole blood donor chimerism \> 5% by Day 42 accompanied by the absence of any primary or secondary graft failure. Primary graft failure is defined as \< 5% donor chimerism by Day +42, second stem cell infusion, DLI (except in the case of donor CTLs given for infection control), or second HCT following original HCT. Secondary graft failure is defined as \< 5% donor chimerism following initial engraftment., 1 year post-transplant|Percentage of Participants Alive With Sustained Engraftment by Disease Type, Sustained engraftment is defined as the occurrence of whole blood donor chimerism \> 5% by Day 42 accompanied by the absence of any primary or secondary graft failure. Primary graft failure is defined as \< 5% donor chimerism by Day +42, second stem cell infusion, DLI (except in the case of donor CTLs given for infection control), or second HCT following original HCT. Secondary graft failure is defined as \< 5% donor chimerism following initial engraftment., 1 year post-transplant|Number of Participants With Acute Graft-Versus-Host Disease (GVHD), Acute GVHD is graded according to the scoring system proposed by Przepiorka et al.1995:
+
+Skin stage:
+
+0: No rash
+
+1. Rash \<25% of body surface area
+2. Rash on 25-50% of body surface area
+3. Rash on \> 50% of body surface area
+4. Generalized erythroderma with bullous formation
+
+Liver stage (based on bilirubin level)\*:
+
+0: \<2 mg/dL
+
+1. 2-3 mg/dL
+2. 3.01-6 mg/dL
+3. 6.01-15.0 mg/dL
+4. \>15 mg/dL
+
+GI stage\*:
+
+0: No diarrhea or diarrhea \<500 mL/day
+
+1. Diarrhea 500-999 mL/day or persistent nausea with histologic evidence of GVHD
+2. Diarrhea 1000-1499 mL/day
+3. Diarrhea \>1500 mL/day
+4. Severe abdominal pain with or without ileus \* If multiple etiologies are listed for liver or GI, the organ system is downstaged by 1.
+
+GVHD grade:
+
+0: All organ stages 0 or GVHD not listed as an etiology I: Skin stage 1-2 and liver and GI stage 0 II: Skin stage 3 or liver or GI stage 1 III: Liver stage 2-3 or GI stage 2-4 IV: Skin or liver stage 4, 1 year post-transplant|Percentage of Participants With Grade II-IV and Grade III-IV Acute GVHD, Acute GVHD is graded according to the scoring system proposed by Przepiorka et al.1995:
+
+Skin stage:
+
+0: No rash
+
+1. Rash \<25% of body surface area
+2. Rash on 25-50% of body surface area
+3. Rash on \> 50% of body surface area
+4. Generalized erythroderma with bullous formation
+
+Liver stage (based on bilirubin level)\*:
+
+0: \<2 mg/dL
+
+1. 2-3 mg/dL
+2. 3.01-6 mg/dL
+3. 6.01-15.0 mg/dL
+4. \>15 mg/dL
+
+GI stage\*:
+
+0: No diarrhea or diarrhea \<500 mL/day
+
+1. Diarrhea 500-999 mL/day or persistent nausea with histologic evidence of GVHD
+2. Diarrhea 1000-1499 mL/day
+3. Diarrhea \>1500 mL/day
+4. Severe abdominal pain with or without ileus \* If multiple etiologies are listed for liver or GI, the organ system is downstaged by 1.
+
+GVHD grade:
+
+0: All organ stages 0 or GVHD not listed as an etiology I: Skin stage 1-2 and liver and GI stage 0 II: Skin stage 3 or liver or GI stage 1 III: Liver stage 2-3 or GI stage 2-4 IV: Skin or liver stage 4, Day 100 and 6 months post-transplant|Number of Participants With Chronic GVHD, Chronic GVHD is classified per 2005 NIH Consensus Criteria (Filipovich et al. 2005) into categories of severity: none, mild, moderate, and severe., 1 year post-transplant|Percentage of Participants With Chronic GVHD, Chronic GVHD is classified per 2005 NIH Consensus Criteria (Filipovich et al. 2005) into categories of severity: none, mild, moderate, and severe. Occurrence of chronic GVHD is defined as the occurrence of mild, moderate, or severe chronic GVHD per this classification., 1 year post-transplant
+The primary goal of this Phase II clinical trial is to determine the one-year overall survival of patients treated for immune deficiencies including HLH, HLH-like disorders, CGD, HIGM1, IPEX syndrome, and severe LAD-I with Matched Related Donor (MRD)/ Matched Unrelated Donor (MUD) bone marrow transplant using a reduced-intensity conditioning strategy including intermediate-timing of alemtuzumab. The donor choice is an unaffected related bone marrow donor who is a 6/6 match at HLA-A, -B (intermediate or higher resolution) and -DRB1 (at high resolution using DNA-based typing) OR a 7/8 or 8/8 match for human leukocyte antigen (HLA)-A, -B, -C and -DRB1 (at high resolution using DNA-based typing), OR an unrelated bone marrow donor who is a 7/8 or 8/8 match at HLA-A, -B, -C and -DRB1 (at high resolution using DNA-based typing). The transplant conditioning regimen will include fludarabine, melphalan, and alemtuzumab starting at Day -14 (Flu/Mel/Alem). Graft Versus Host Disease (GVHD) prophylaxis will consist of cyclosporine and corticosteroids through engraftment. Post-transplant supportive care will include infection surveillance and prophylaxis, and disease-specific supportive care.

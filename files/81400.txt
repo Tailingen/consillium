@@ -1,0 +1,23 @@
+Onalespib and CDKI AT7519 in Treating Patients With Solid Tumors That Are Metastatic or Cannot Be Removed by Surgery
+This phase I trial studies the side effects and best dose of onalespib and CDKI AT7519 in treating patients with solid tumors that have spread from the primary site (place where they started) to other places in the body (metastatic) or cannot be removed by surgery. Onalespib and CDKI AT7519 may stop the growth of tumor cells by blocking some of the enzymes needed for cell growth.
+Advanced Malignant Solid Neoplasm|Metastatic Malignant Solid Neoplasm|Unresectable Solid Neoplasm
+DRUG: CDK Inhibitor AT7519|OTHER: Laboratory Biomarker Analysis|DRUG: Onalespib|OTHER: Pharmacological Study
+Incidence of adverse events of onalespib and CDKI AT7519, Scored using the National Cancer Institute (NCI) Common Terminology Criteria for Adverse Events (CTCAE) version 5.0., Up to 30 days after the last dose of study drug|Tolerability of onalespib and CDKI AT7519, Assessed using the NCI CTCAE version 5.0., Up to 30 days after the last dose of study drug|Maximum tolerated dose of onalespib and CDKI AT7519, Defined as =\< 1 out of 6 patients experiencing dose limiting toxicity., 21 days
+Pharmacokinetic parameters of onalespib and CDKI AT7519, Individual patient plasma concentration-time curves will be analyzed by noncompartmental methods using routines supplied in the WinNonlin Professional Version 4.0.1 software package. Pharmacokinetic parameters and variables will be calculated according to standard equations. Mean values of the pharmacokinetic parameters will be statistically compared using the paired two-tailed t-test of the log-transformed data., Before infusion, at 30 and 59 minutes of infusion, and at 1.5, 2, 4, 6, 8, and 24 hours at end of infusion on day 1 of course 0 and days 1 and 11 of course 1|Pharmacodynamic (PD) parameters of onalespib and CDKI AT7519, PD effect of the combination of onalespib and CDKI AT7519 on Hsp70 expression and modulation of Hsp90 client proteins in peripheral blood mononuclear cells (PBMCs) will be assessed. All PD evaluations and comparisons will be done with exploratory intent, using primarily descriptive and non-parametric techniques., Prior to onalespib administration during course 0, 2-4 hours after completion of onalespib on day 4 of course 0, and 2-4 hours after completion of CDKI AT7519 on day 11 of course 1|Antitumor activity of the combination, Measured by Response Evaluation Criteria in Solid Tumors version 1.1 (RECIST v.1.1)., Up to 30 days after the last dose of study drug
+PRIMARY OBJECTIVES:
+
+I. To establish the safety, tolerability, and the maximum tolerated dose of the combination of onalespib and AT7519M (CDKI AT7519).
+
+SECONDARY OBJECTIVES:
+
+I. To determine the pharmacokinetics of the combination of onalespib and AT7519M.
+
+II. To assess the pharmacodynamic effect of the combination of onalespib and AT7519M on HSP70 expression and modulation of HSP90 client proteins in peripheral blood mononuclear cells (PBMCs), plasma, and tumor biopsies.
+
+III. To observe and record anti-tumor activity.
+
+OUTLINE: This is a dose-escalation study.
+
+Patients receive onalespib intravenously (IV) over 1 hour on days 1 and 4 (cycle 0 only). Patients then receive onalespib IV over 1 hour and CDKI AT7519 IV over 1 hour on days 1, 4, 8, and 11 (cycle 1 and subsequent cycles thereafter). Cycles repeat every 21 days (7 days for course 0 only) in the absence of disease progression or unacceptable toxicity.
+
+After completion of study treatment, patients are followed up for 30 days.

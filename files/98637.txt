@@ -1,0 +1,33 @@
+Imaging Features for the Risks for Recurrence After Stereotactic Radiosurgery in Brain Metastasis
+This trial uses multi-parametric magnetic resonance imaging (MRI) to develop and validate imaging risk score to predict radiation necrosis in participants with brain metastasis treated with radiation therapy. Diagnostic procedures, such as multi-parametric magnetic resonance imaging (MRI), may improve the ability to diagnose radiation necrosis early and help establish treatment strategies.
+Brain Metastases|Radiosurgery
+DIAGNOSTIC_TEST: Magnetic resonance imaging (MRI)|DIAGNOSTIC_TEST: Diffusion-weighted MRI|DIAGNOSTIC_TEST: Arterial spin labeling (ASL)|DIAGNOSTIC_TEST: Dynamic susceptibility contrast-MRI (DSC-MRI)
+Time to progression, The time from the date of SRS for brain metastasis until the date of progression., up to 24 months
+Response rate, The response is determined by response assessment in neuro-oncology brain metastases (RANO-BM) criteria. Clinical and radiologic assessments per lesion and person are carried out at every MRI follow-up using the MRI before SRS as the baseline., up to 24 months|Occurence rate of radiation necrosis, The rate of occurrence of radiation necrosis per lesion is determined through a combination of imaging findings and clinical evaluation by a multidisciplinary team., 12 months|Imaging risk score for recurrence, To calculate the imaging risk score, three parameters are added together, namely the "solid component score," the "less enhancing component score," and the "blood flow score," using contrast-enhanced T1-weighted image(T1WI), T2-weighted image (T2WI), diffusion-weighted imaging (DWI), and ASL.
+
+The solid component risk score is assigned 0, 1, or 2 points, depending on whether the hypointense lesion on T2WI matches the enhancement in CE-T1WI.
+
+The less-enhancing component risk score evaluates the degree of enhancement of the lesion to the dura. It assigns 0, 1, or 2 points depending on whether it is brighter, similar, or less enhanced.
+
+The blood flow risk score assigns 0, 1, or 2 points based on the degree of blood flow of the lesion in ASL., Baseline imaging before SRS, and follow up imaging every 3 months after SRS, up to 24 months|Tumor habitat analysis, Automated process of tumor habitat analysis will include followings.
+
+A. Methods: preprocessing includes registration, deep learning segmentation, and normalization of contrast-enhanced T1-weighted (CE-T1) and T2-weighted images. K-means clustering is applied to CE-T1-weighted and T2-weighted images to construct structural MRI habitats and to apparent diffusion coefficient (ADC) and cerebral blood volume (CBV) images to construct physiologic habitats.
+
+B. Structural MRI habitats: enhancing tissue habitat, solid low-enhancing habitat, and nonviable tissue habitat
+
+C. Physiologic MRI habitats: hypervascular cellular habitat, hypovascular cellular habitat, and nonviable tissue habitat..
+
+D. Quantitative measurement of each habitat will be performed., Baseline imaging before SRS, and follow up imaging every 3 months after SRS, up to 24 months
+PRIMARY OBJECTIVE:
+
+I. To develop an imaging risk score for recurrence after stereotactic radiosurgery (SRS) in brain metastasis using multiparametric MRI.
+
+II. To validate the imaging risk score in retrospective external validation and prospective internal validation test set.
+
+SECONDARY OBJECTIVE:
+
+I. To predict radiation necrosis using imaging risk score.
+
+OUTLINE:
+
+Participants undergo multi-parametric MRI including 3D pre- and contrast-enhanced T1 weighted image, T2 weighted image, diffusion-weighted image, dynamic susceptibility contrast MRI, and arterial spin labeling image before receiving SRS, and every 3 months after SRS.

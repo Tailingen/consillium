@@ -1,0 +1,37 @@
+Robot-assisted Approach to Cervical Cancer
+The purpose of the RACC trial is to compare the oncologic outcome defined as recurrence-free survival (RFS) between robot-assisted and open radical hysterectomy for the treatment of early stage cervical cancer.
+Cervical Cancer
+PROCEDURE: Abdominal radical hysterectomy|PROCEDURE: Robot-assisted radical hysterectomy|DIAGNOSTIC_TEST: Sentinel lymph node biopsy
+Recurrence-free survival, Time-interval between the date of randomisation and the date of recurrence or the date of death, 60 months from surgery
+Overall survival, Time-interval from the date of randomisation to the date of death (due to any cause), or for patients still alive to the date of last clinical follow-up or contact, 60 months from surgery|Intraoperative complications: number of participants with bowel injuries, urinary tract injuries, hemorrhage requiring vessel suture and/or transfusion, nerve injuries, Assessed according to CLASSIC classification and Kaafarani et al., Complications occurring during intervention (intraoperatively)|Post-operative complications: Number of participants requiring pharmacological treatment (CD II) OR surgical, endoscopic or radiological intervention (CD III) OR life-threatening complications requiring ICU-management (CD IV) OR death (CD V), Assessed according to the Clavien-Dindo (CD) classification, Postoperative complications are assessed at 30 days postoperatively and at 6 months postoperatively|Health-related quality of life (HRQoL) after surgery for early stage cervical cancer using European Organisation for Research and Treatment of Cancer Quality of Life Cancer Patients (EORTC-QLQ)., The response format for the EORTC QLQ is on a four-point scale, from 1 (Not at all) to 4 (Very much). A high score on the functional scales and global quality of life represents a high level of functioning and quality of life. A high score on the symptom scales/items represents a high level of symptoms., Before randomisation, 1 month post surgery, 6 months post surgery, 12 months post surgery, 24 months post surgery, 60 months post surgery|Sentinel lymph node biopsy in cervical cancer, Feasibility of a SLN algorithm: mapping of afferent lymphatic pathways from the cervix to the juxtauterine lymph node. ICG or Technetium99 will be used as tracers.The algorithm comprises removal of suspicious nodes and ultrastaging of sentinel nodes, Through study completion, an average of 5 years|Health care costs, Total health care costs including surgical equipment, capital costs, pharmaceuticals, hospitalisation and costs related to re-admission to hospital., 6 months from surgery
+BACKGROUND Cervical cancer is one of the most common female malignancies worldwide, with the largest proportion of women affected in low income countries. Radical hysterectomy with pelvic lymphadenectomy constitutes the primary treatment of early stage cervical cancer. Surgery has traditionally been performed by laparotomy but the past 20 years, the use of minimally invasive techniques has increased. Several studies suggest that laparoscopic radical hysterectomy is associated with less preoperative morbidity and superior quality of life.
+
+In 2005, the Food and Drug Administration (FDA) approved robot-assisted surgery for gynaecological indications. Observational studies have confirmed advantages in form of shorter hospital stay, less bleeding and acceptable OT. Furthermore, compared to conventional laparoscopy OT is significantly shorter with robot technique. Despite wide acceptance and implementation of the robotic system into gynecological oncology todate there are mainly retrospective observational data published on oncological outcomes, offering a low evidence level.
+
+The sentinel node biopsy concept (SNB) is well established in the surgical management of several malignancies including breast, melanoma and vulvar cancer. Theoretically, the implementation would change the management of patients with early cervical cancer dramatically by avoiding multimodal treatment.
+
+Traditionally, radiotracers (Technetium) with or without augmentation of blue dye have been used for SNB. Novel tracers such as fluorescent dyes (indocyanine green (ICG)) have been demonstrated to be superior.
+
+Apart from detection rate, the rate of bilateral mapping of sentinel nodes and sensitivity (false negative rate included), constitutes the most important aspect of the technique. In recent ESGO guidelines on the management of stage IA disease SNB is recommended as the standard treatment unless in patients with positive LVSI where complete PLND should be considered.
+
+RATIONALE In 2018, the LACC (Laparoscopic Approach to Cervical Cancer) trial was completed and the results demonstrated inferiority for minimally invasive surgery (MIS). In the trial, 631 women were randomized to MIS (85% by traditional laparoscopy and the remaining by robot-assisted surgery). Disease-free and overall survival were significantly worse by MIS with no observed advantage in quality of life or perioperative morbidity.
+
+After the trial was closed, two large population-based studies from the Nordic countries (unpublished data) show no difference in either DFS or OS. The absolute majority in these studies were operated by robot-assisted surgery.
+
+Robot-assisted surgery has replaced traditional laparoscopy for radical hysterectomy. Whether robot-assisted surgery is associated with better oncologic outcomes than traditional laparoscopy is unknown.The purpose of the RACC trial is to assess the safety of robot-assisted laparoscopy for the surgical treatment of early stage cervical cancer.
+
+RATIONALE FOR THE QUALITY OF LIFE ASSESSMENT Two randomised controlled trials (LAP2 and LACE) have demonstrated that MIS is superior to laparotomy i in terms of perioperative morbidity and quality of life. However, the LACC trial did not show any differences between MIS and laparotomy for these outcomes. Whether robot-assisted surgery offers superior outcomes is unknown. In the RACC trial, QoL will be assessed in both arms at 5 time points using the EORTC QLQ-CX24 form and the FSFI (Female Sexual Function Index).
+
+RATIONALE FOR THE SENTINEL NODE ALGORITHM Tumor extension to pelvic lymph nodes is the most important prognostic factor in early stage cervical cancer. Traditionally, nodal assessment has been performed through systematic pelvic lymphadenectomy. Sentinel node concepts have been evaluated in several smaller studies but none with sufficient power to properly assess the diagnostic accuracy.
+
+PRIMARY ENDPOINT
+
+- Recurrence-free survival (RFS) at 60 months
+
+SECONDARY ENDPOINTS
+
+* Overall survival (OS) at 60 months
+* Perioperative morbidity
+* Quality of life
+* Diagnostic accuracy of a sentinel node algorithm in cervical cancer
+* Health care costs

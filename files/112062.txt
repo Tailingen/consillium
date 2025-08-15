@@ -1,0 +1,46 @@
+Focused Radiation Versus Systemic Therapy for Kidney Cancer Patients With Limited Metastasis, SOAR Study
+This phase III trial compares the effect of stero-ablative radiotherapy (SAbR) followed by standard of care systemic therapy, to standard of care systemic therapy alone, in patients with kidney cancer that has spread from where it first started (primary site) to a limited (2-5) number of places in the body (metastatic). Study doctors want to find out if this approach is better or worse than the usual approach for metastatic kidney cancer. The usual approach is defined as the care most people get for metastatic kidney cancer which includes systemic therapy such as immunotherapy (given through the veins) and/or small molecular inhibitor (tablets taken by mouth). Radiotherapy uses high energy x-rays to kill cancer cells and shrink tumors. SAbR uses special equipment to position a patient and deliver radiation to tumors with high precision. Giving SAbR prior to systemic therapy may kill more tumor cells than the usual approach, which is systemic therapy alone.
+Metastatic Renal Cell Carcinoma|Stage IV Renal Cell Cancer AJCC v8
+PROCEDURE: Computed Tomography|PROCEDURE: Magnetic Resonance Imaging|OTHER: Questionnaire Administration|PROCEDURE: Stereotactic Ablative Radiotherapy|PROCEDURE: Systemic Therapy
+Overall survival (OS), The repeated confidence interval method will be utilized. At each scheduled interim analysis, a one-sided 95% repeated confidence interval of hazard ratio (stereotactic ablative radiotherapy \[SAbR\] + standard therapy \[ST\] / ST) will be computed, using the partial likelihood estimate, to test non-inferiority in OS for SAbR+ST arm., From randomization to death from any cause, assessed up to 10 years|Incidence of adverse events (AEs), All patients who receive treatment, regardless of eligibility, will be evaluated for AE/toxicity. AE score will be calculated in 3-month intervals starting from randomization. To calculate the AE score for a 3-month interval, for each patient, the AE sub-score for each Common Terminology Criteria for Adverse Events (CTCAE) categories (there are 26 AE categories listed in CTCAE version 5) will be aggregated based on the highest grade of AE experienced in each CTCAE category., From randomization up to 6 months
+Progression-free survival (PFS), Patients randomized to SAbR will need to first progress on SAbR, then progress on systemic therapy to be counted as an event for progression. Progression on SAbR is when SAbR (sequential SAbR) is unable to control the disease by meeting one of the two criteria: \> 6 metastases in total requiring SAbR (no matter how many metastases a patient was randomized with), or one or more progressing lesions not amenable to SAbR (\> 5% risk of grade 3 toxicity by American Society for Therapeutic Radiology and Oncology definition). This endpoint will be compared between the two arms using stratified log-rank test, at one-sided 0.025 significance level., From randomization to progression of disease, assessed up to 10 years
+PFS-start of systemic therapy (SST), Compare the PFS from the start of systemic therapy (instead of from the time of randomization) of Arm A (after PFS-SAbR) with PFS of upfront systemic therapy in Arm B. This endpoint will be descriptive and will only be explored in arm A. Will explore local control that SAbR provides, by looking at local failures after SAbR in SAbR+ST arm only. Local failure is defined as \> 30% increase in the longest diameter of SAbR-treated lesion, more than 6 months post SAbR treatment., From the start of SST to progression or death, assessed up to 10 years
+PRIMARY OBJECTIVES:
+
+I. To compare overall survival (OS) between patients receiving SAbR + systemic therapy (SABR+ST) versus systemic therapy (ST) only.
+
+II. To compare average adverse event (AE) score between SAbR+ST arm and ST only arm.
+
+SECONDARY OBJECTIVES:
+
+I. To compare global health status / quality of life (QOL) between patients receiving SAbR+ST versus ST only.
+
+II. To compare progression-free survival (PFS) between the arms.
+
+EXPLORATORY OBJECTIVES:
+
+I. To estimate PFS on first line systemic therapy (PFS-SST) in the SAbR+ST arm and compare with first line systemic therapy PFS of the ST arm.
+
+II. To explore local control from SAbR by looking at the amount of local failures after SAbR in the SAbR+ST arm.
+
+III. To assess the cost-effectiveness between the arms in terms of cost per unit gain in quality-of-life years.
+
+QOL OBJECTIVES:
+
+I. To compare global health status / quality of life (QOL) between patients receiving SabR+ST versus ST only using the National Comprehensive Cancer Network (NCCN) / Functional Assessment of Cancer Therapy Kidney Cancer Symptom Index -19 item (NFKSI-19).
+
+II. To compare quality-adjusted survival between patients randomized to receive SabR+ST vs ST alone using European Quality of Life (EUROQOL) 5-dimension, 5-level (EQ-5D-5L) at 3, 6, 9, 12, 18, and 24 months.
+
+III. To compare global health status / QOL of the NFKSI-19 at all of the 3, 6, 9, 12, 18, and 24 month time points between patients randomized to receive SabR+ST versus ST alone.
+
+IV. To compare scale scores of the NFKSI-19 (disease-related symptoms - physical disease-related symptoms - emotional, treatment side effects, and function \& well-being) at 3, 6, 9, 12, 18, 24 months between patients randomized to receive SabR+ST versus ST alone.
+
+V. To compare time to global quality of life deterioration between patients randomized to receive SabR+ST versus ST alone using NFKSI-19.
+
+OUTLINE: Patients are randomized to 1 of 2 arms.
+
+ARM I: Patients receive standard of care systemic therapy on study.
+
+ARM II: Patients undergo repeated SAbR until progression and then receive standard of care systemic therapy on study.
+
+Patients in both arms undergo computed tomography (CT) or magnetic resonance imaging (MRI) throughout the trial.

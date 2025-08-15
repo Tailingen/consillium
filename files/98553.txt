@@ -1,0 +1,18 @@
+Evaluation of Whole Body Examination by MRI Integrating the "Zero Time Eco" Sequence (ZTE, Pseudo-CT) for the Detection of Bone Lesions in Multiple Myeloma: Comparison With Pet / CT and Whole Body Scanner
+To assess the added value of magnetic resonance imaging (MRI) of the skeleton compared to other validated techniques for the detection of bone lesions in patients with multiple myeloma.
+Multiple Myeloma|Bone Metastases
+OTHER: MRI
+Evaluation of the diagnostic performance of the different imaging protocols, The diagnostic performance of the different imaging protocols will be evaluated by analyzing the receptor efficiency function (ROC curve) and by estimating the Sensitivity (Se), Specificity (Sp), Positive Predictive Value (PPV), Negative Predictive Value (NPV) ) as well as the Predictive Accuracy (Acc) of the different imaging protocols., through study completion, an average of 1 year|Comparison of Sensitivity (Se) and Predictive Precision (Acc) of the different imaging protocols, McNemar test on paired data. The Gold Standard will be determined by a panel of independent experts based on all available imaging techniques., through study completion, an average of 1 year
+The aim of our study is to offer patients benefiting from a diagnostic approach to myeloma by PET / CT, a whole body MRI examination (MRI-CE) comprising, in addition to the "classic bone marrow" sequences, a ZTE sequence (see below) . This study is being undertaken to compare and assess the complementarity of imaging techniques in the diagnostic management of this disease.
+
+The stages of the work will be:
+
+Optimizing bone marrow exploration sequences by MRI (F. Lecouvet, N. Michoux, Gaetan Duchêne).
+
+Develop and validate a whole body-wide new MRI sequence "ZTE" capable of detecting and quantifying disease-induced osteolysis in the skeleton.
+
+Optimize the reconstruction of these images (Deep Learning software developed with the firm GE), training of the reconstruction of ZTE images by correlation with the scanner (F. Lecouvet, N. Michoux, Gaetan Duchêne).
+
+This approach is completely original, never having been evaluated: the ZTE sequence is a recent development, made available at CUSL on the new research MRI magnet.
+
+The addition of this sequence to the already major information provided by MRI for the detection of the disease and the evaluation of its response (method of choice, see below) would constitute a major advance in establishing the diagnostic value of this technique. non-irradiating compared to other techniques (PET-CT, low dose scanner, etc.).

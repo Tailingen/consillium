@@ -1,0 +1,23 @@
+Assessing Compliance With Mercaptopurine Treatment in Younger Patients With Acute Lymphoblastic Leukemia in First Remission
+This randomized phase III trial studies compliance to a mercaptopurine treatment intervention compared to standard of care in younger patients with acute lymphoblastic leukemia that has had a decrease in or disappearance of signs and symptoms of cancer (remission). Assessing ways to help patients who have acute lymphoblastic leukemia to take their medications as prescribed may help them in taking their medications more consistently and may improve treatment outcomes.
+Acute Lymphoblastic Leukemia
+BEHAVIORAL: Behavioral Intervention|BEHAVIORAL: Compliance Monitoring|OTHER: Laboratory Biomarker Analysis|DRUG: Mercaptopurine|OTHER: Questionnaire Administration|PROCEDURE: Standard Follow-Up Care
+Proportion of patients with adherence rate greater than or equal to 95% to mercaptopurine as measured by MEMS®, Compared between the IP and EDU groups using logistic regression. Mercaptopurine levels will be modeled as a function of time to examine longitudinal changes to 6TGN levels between the treatment groups using the generalized estimating equation (GEE) method for longitudinal normally distributed data., 4 months|Proportion of patients with adherence rate greater than or equal to 95% to mercaptopurine as measured by red cell TGN levels, Compared between the IP and EDU groups using logistic regression. Mercaptopurine levels will be modeled as a function of time to examine longitudinal changes to 6TGN levels between the treatment groups using the GEE method for longitudinal normally distributed data., 4 months
+Proportion of adherence patients by sociodemographic and psychosocial variables, Evaluated analytically by logistic regression methods., 4 months|Mediating effect of health beliefs/ knowledge on change in adherence with intervention, Evaluated analytically by logistic regression methods., 4 months|Impact of IP vs. EDU on risk of relapse in children with ALL, An intention-to-treat analysis will be used to compare the effectiveness of EDU and IP interventions in decreasing the risk of relapse. Cox proportional hazards regression models will be used to examine the impact of intervention on relapse. Covariates in the analysis will include clinical and sociodemographic predictors, and the intervention arm (IP vs. EDU)., Up to 10 years
+PRIMARY OBJECTIVES:
+
+I. Determine the impact of interventions proposed in intervention program (IP) versus (vs.) education alone (EDU) on adherence to oral 6MP (mercaptopurine) in children with acute lymphoblastic leukemia (ALL). Adherence will be measured by: i) Medication Event Monitoring Systems (MEMS) (primary measure of adherence to oral 6MP, providing real-time data; ii) red cell thioguanine nucleotide (TGN) levels (providing data on chronic, systemic 6MP exposure).
+
+SECONDARY OBJECTIVES:
+
+I. Examine the modifying effect of sociodemographic and psychosocial variables, and the mediating effect of health beliefs/ knowledge on change in adherence with intervention.
+
+II. Determine impact of IP vs. EDU on risk of relapse of ALL.
+
+OUTLINE: Patients are randomized to 1 of 2 intervention arms.
+
+ARM I: Patients receive the Patients Supply Kit containing an electronic pill monitoring system, a MEMS® medication bottle with TrackCap™ with standard resistant cap, and written instructions for the patient and pharmacist. Parents and/or caregivers are also trained to supervise patients' intake of the medication. Beginning on day 1, patients start using the MEMS® medication bottle with TrackCap™. Clinical research assistants contact patients and parents by telephone the next day to confirm that TrackCap™ is being used, to identify any obstacles, and to determine solutions. Beginning on day 29, patients and caregivers view an interactive multimedia educational program on-line or via DVD. Patients also receive a customized electronic mercaptopurine schedule and automated customized text message reminders delivered via cellular phone or web-based interface. Patients and caregivers are instructed to return the MEMS® medication bottle with TrackCap™ to the clinic by day 141.
+
+ARM II: Patients receive the usual standard of care and the mercaptopurine from the MEMS® medication bottle with TrackCap™ as patients in arm I. Patients and caregivers also view an interactive multimedia educational program on day 29.
+
+After completion of study treatment, patients are followed up every 6 months for 5 years and then annually until 10 years from diagnosis.

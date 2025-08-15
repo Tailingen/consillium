@@ -1,0 +1,26 @@
+Nous-PEV: a Novel Immunotherapy for Lung Cancer and Melanoma
+From Protocol v3.0 dated 16Jun2022. This is an international, multicenter, open-label, multiple cohort, First in Human, phase 1b clinical study, designed to evaluate safety, tolerability, and immunogenicity, and to detect any preliminary evidence of anti-tumor activity of a personalized vaccine (PEV) based on GAd-PEV priming and MVA-PEV boosting, combined with SoC first-line immunotherapy using an anti-PD-1 checkpoint inhibitor in patients with unresectable stage III/IV cutaneous melanoma or with stage IV NSCLC (PDL1 ≥ 50%). The PEV vaccines will be prepared on an individual basis, following a tumor biopsy performed at the time of screening and subsequent NGS analysis, to identify patient-specific tumor mutations. Both neoantigen-encoding genetic vaccines are administered intramuscularly using 1 prime with GAd-PEV and 3 boosts with MVA-PEV in combination with the licensed programmed death receptor-1 (PD-1)-blocking antibody pembrolizumab in adult patients in patients with unresectable stage III/IV cutaneous melanoma (Cohort a) or with stage IV NSCLC (PDL1 ≥ 50%) (Cohort b).
+Melanoma (Skin)|Non-Small-Cell Lung Carcinoma
+BIOLOGICAL: GAd-PEV|BIOLOGICAL: MVA-PEV
+Safety and tolerability: incidence of treatment- emerging adverse events. AEs characterized by type, severity (graded by CTCAE v.5.0), Timing, seriousness and relationship to study treatments., * Frequency, duration, and severity of adverse events (AEs) and serious adverse events (SAEs) using CTCAE v5.0 criteria.
+* Changes in vital signs and clinical evaluations.
+* Changes in clinical laboratory blood samples.
+* Dose-limiting toxicity (DLT), Up to 110 weeks
+RP2D confirmation 2. Clinical efficacy:, RP2D confirmation based on safety and tolerability, Up to 110 weeks|Clinical efficacy, Clinical efficacy based on Overall response rate (ORR); Best overall response (BOR); Duration of response (DoR); Progression-free survival (PFS); Overall survival (OS), all as defined in tumor imaging, RECIST 1.1, Up to 110 weeks
+Exploratory outcome: immunogenicity, PBMC-derived T-cell responses against vaccine FSPs, as measured by IFN-gamma ELISpot, Up to 110 weeks
+Overall Study Design:
+
+• This is an open-label, non-randomized, dose-confirmation and cohort expansion phase 1b first-in-human study, in which 28 patients, expandable up to 34 evaluable patients in case of DLT.
+
+Study IMPs:
+
+Nous-PEV vaccine is composed of 2 sets of IMPs:
+
+* GAd-PEV
+* MVA-PEV
+
+Treatment phases:
+
+A) Induction phase with pembrolizumab (cycles 1, 2 and 3). B) Priming phase including 1 GAd-PEV administration with pembrolizumab (cycle 4).
+
+C) Boosting phase including 3 boosting administrations of MVA-PEV with pembrolizumab (cycles 5, 6 and 7).

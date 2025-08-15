@@ -1,0 +1,35 @@
+Gene-Modified T Cells With or Without Decitabine in Treating Patients With Advanced Malignancies Expressing NY-ESO-1
+This phase I/IIa trial studies the side effects and best dose of gene-modified T cells when given with or without decitabine, and to see how well they work in treating patients with malignancies expressing cancer-testis antigens 1 (NY-ESO-1) gene that have spread to other places in the body (advanced). A T cell is a type of immune cell that can recognize and kill abnormal cells of the body. Placing a modified gene for NY-ESO-1 into the patients' T cells in the laboratory and then giving them back to the patient may help the body build an immune response to kill tumor cells that express NY-ESO-1. Drugs used in chemotherapy, such as decitabine, work in different ways to stop the growth of tumor cells, either by killing the cells, by stopping them from dividing, or by stopping them from spreading. It is not yet known whether giving gene-modified T cells with or without decitabine works better in treating patients with malignancies expressing NY-ESO-1.
+Advanced Fallopian Tube Carcinoma|Advanced Malignant Solid Neoplasm|Advanced Melanoma|Advanced Ovarian Carcinoma|Advanced Primary Peritoneal Carcinoma|Advanced Synovial Sarcoma|Clinical Stage III Cutaneous Melanoma AJCC v8|Clinical Stage IV Cutaneous Melanoma AJCC v8|Metastatic Fallopian Tube Carcinoma|Metastatic Melanoma|Metastatic Ovarian Carcinoma|Metastatic Primary Peritoneal Carcinoma|Metastatic Synovial Sarcoma|Pathologic Stage III Cutaneous Melanoma AJCC v8|Pathologic Stage IIIA Cutaneous Melanoma AJCC v8|Pathologic Stage IIIB Cutaneous Melanoma AJCC v8|Pathologic Stage IIIC Cutaneous Melanoma AJCC v8|Pathologic Stage IIID Cutaneous Melanoma AJCC v8|Pathologic Stage IV Cutaneous Melanoma AJCC v8|Platinum-Resistant Fallopian Tube Carcinoma|Platinum-Resistant Ovarian Carcinoma|Platinum-Resistant Primary Peritoneal Carcinoma|Stage III Fallopian Tube Cancer AJCC v8|Stage III Ovarian Cancer AJCC v8|Stage III Primary Peritoneal Cancer AJCC v8|Stage IIIA Fallopian Tube Cancer AJCC v8|Stage IIIA Ovarian Cancer AJCC v8|Stage IIIA Primary Peritoneal Cancer AJCC v8|Stage IIIA1 Fallopian Tube Cancer AJCC v8|Stage IIIA1 Ovarian Cancer AJCC v8|Stage IIIA2 Fallopian Tube Cancer AJCC v8|Stage IIIA2 Ovarian Cancer AJCC v8|Stage IIIB Fallopian Tube Cancer AJCC v8|Stage IIIB Ovarian Cancer AJCC v8|Stage IIIB Primary Peritoneal Cancer AJCC v8|Stage IIIC Fallopian Tube Cancer AJCC v8|Stage IIIC Ovarian Cancer AJCC v8|Stage IIIC Primary Peritoneal Cancer AJCC v8|Stage IV Fallopian Tube Cancer AJCC v8|Stage IV Ovarian Cancer AJCC v8|Stage IV Primary Peritoneal Cancer AJCC v8|Stage IVA Fallopian Tube Cancer AJCC v8|Stage IVA Ovarian Cancer AJCC v8|Stage IVA Primary Peritoneal Cancer AJCC v8|Stage IVB Fallopian Tube Cancer AJCC v8|Stage IVB Ovarian Cancer AJCC v8|Stage IVB Primary Peritoneal Cancer AJCC v8|Unresectable Melanoma|Unresectable Ovarian Carcinoma|Unresectable Synovial Sarcoma
+DRUG: Cyclophosphamide|DRUG: Decitabine|OTHER: Laboratory Biomarker Analysis|PROCEDURE: Leukapheresis|BIOLOGICAL: TGFbDNRII-transduced Autologous Tumor Infiltrating Lymphocytes
+Number of Participants With Dose Limiting Toxicities, Will be assessed using Common Toxicity Criteria. Patients will be monitored by medical histories, physical examinations, ophthalmologic exams, and blood studies to detect potential toxicities from the treatment.
+
+the number of patients experiencing a DLT are reported., Up to 30 days|Number of Participants With Feasibility Concerns in Manufacturing of NY-ESO-1/ dnTGFbetaRII Engineered Cells, Unfeasibility will be defined as 3 or more preparations not meeting the lot release criteria in each cohort. Sufficient numbers of circulating, lot released confirmed T cells will be measured prior to administration.
+
+The count of patients not meeting the preparation criteria are reported., 1 month
+Expression of the NY-ESO-1 T Cell Receptor (TCR) Transgenic Protein in Peripheral Blood Mononuclear Cells (PBMC), TCR and vector presence will be quantitated in PBMC samples, obtained before adoptive transfer and at weeks 1, 2, 4, 8, and 12 after transgenic cell adoptive transfer. Thereafter, sampling will be every 3 months during the first year, and then every 6 to 12 months per schedule of procedures and observations., Up to 15 years|Replication Competent Retrovirus (RCR), Will be assessed in blood by polymerase chain reaction (PCR)., Up to 1 year|Tumor Response (Complete and Partial Response), Will be determined by immune-related Response Evaluation Criteria in Solid Tumors (RECIST) 1.1. Response assessment will be performed by comparing standard computed tomography imaging scans and photographs of target lesions from baseline., Up to 90 days after TCR transgenic PBMC adoptive transfer
+PRIMARY OBJECTIVE:
+
+I. To evaluate the safety and feasibility of adoptive transfer of TGFbDNRII-transduced autologous tumor infiltrating lymphocytes (autologous NY-ESO-1 TCR/dnTGFbetaRII transgenic T cells).
+
+SECONDARY OBJECTIVES:
+
+I. NY-ESO-1 TCR/ dnTGFbetaRII transgenic T cell persistence by analyzing serial peripheral blood samples for the presence of T cells with the NY-ESO-1 TCR by tetramer analysis.
+
+II. To study T cell differentiation that correlates with higher anti-tumor responses.
+
+III. To test the hypothesis that NY-ESO-1 TCR/dnTGFbetaRII will constitute in cells more efficient in inducing tumor regression.
+
+IV. Determine objective tumor responses by immune-related Response Evaluation Criteria in Solid Tumors (irRECIST) 1.1.
+
+EXPLORATORY OBJECTIVE:
+
+I. To evaluate the role of microbiota on the therapeutic efficacy of the proposed therapy.
+
+OUTLINE: This is a phase I, dose-escalation study of NY-ESO-1 TCR/TGFbDNRII-transduced TILs followed by a phase IIa study. Participants are assigned 1 to 2 cohorts.
+
+COHORT I: Patients undergo leukapheresis on day -6, and receive cyclophosphamide intravenously (IV) over 2 hours on days -5 and -4. Patients then receive TGFbDNRII-transduced autologous tumor infiltrating lymphocytes IV over 15 minutes on day 0. Eligible patients who showed initial response/disease control, may receive a second TGFbDNRII-transduced autologous tumor infiltrating lymphocytes infusion at any time after progression is confirmed.
+
+COHORT II: Patients undergo leukapheresis on day -6 and receive decitabine IV over 1 hour on days -6 to -4 and cyclophosphamide IV over 2 hours on days -3 and -2. Patients then receive TGFbDNRII-transduced autologous tumor infiltrating lymphocytes IV over 15 minutes on day 0. Eligible patients who showed initial response/disease control, may receive a second TGFbDNRII-transduced autologous tumor infiltrating lymphocytes infusion at any time after progression is confirmed.
+
+After completion of study treatment, patients are followed up at weeks 1-4, 6, 8, and 12, at 6 and 9 months, every 6 months for 5 years, and then yearly for 10 years.

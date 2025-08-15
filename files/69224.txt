@@ -1,0 +1,28 @@
+A MULTICENTER, SEEKING SIGNAL, RANDOMISED, OPEN-LABEL PHASE II OF RELATLIMAB AND NIVOLUMAB VS NIVOLUMAB ALONE IN LOCALLY ADVANCED CERVICAL CANCERS
+Multicenter, open-label, randomized, seeking signal (non-comparative), Phase II aiming to assess the clinical activity of the combination relatlimab + nivolumab in locally advanced cervical cancer eligible to standard CCRT
+LOCALLY ADVANCED CERVICAL CANCERS
+COMBINATION_PRODUCT: combination of relatlimab and nivolumab wich are two immunotherapy treatments|OTHER: Nivolumab alone
+Primary outcome, Objective response rate at the end of the 6-week induction period is defined as the rate of patients with CR or PR as per RECIST V1.1 at the end of the induction period.
+
+Response will be assessed according to RECIST v1.1 criteria as per investigator assessment.
+
+ORR-6w will be derived as a binary variable (success/failure), based on the following rules:
+
+* Patients showing an objective response based on RECIST tumoral evaluation performed at the end of the induction period will be considered in " success ".
+* Patients showing a progressive disease based on RECIST tumoral evaluation performed at the end of the induction period will be considered in " failure ".
+* Patients with no tumoral evaluation at the end of the induction period and with early death or clinical progression or treatment discontinuation due to toxicity will be considered in " failure ".
+* Patients who do not meet any of the conditions above will be consider as " non evaluable " for the primary endpoint., From the date of randomization until patients operated with late complete debulking surgery, assessed up 100 days
+Progression Free survival (PFS), PFS is defined as the time from randomization until the date of event defined as the first objective documented progression, according to investigator assessment of RECIST v1.1 or death (by any cause in the absence of progression). Patients who have not progressed or died at the time of analysis will be censored at the time of the latest date of assessment from their last evaluable RECIST assessment., From the date of randomization until patients operated with late complete debulking surgery, assessed up 100 days|Time to local progression (TTlP), TTlP will be measured from the date of randomization to the date of event defined as the 1st local progression, and censored at the date of last tumor assessment for patients without event at the time of the analysis., From the date of randomization until patients operated with late complete debulking surgery, assessed up 100 days|Time to metastatic progression (TTmP), TTmP will be measured from the date of randomization to the date of event defined as the 1st metastatic progression, and censored at the date of last tumor assessment for patients without event at the time of the analysis. Patients with no post-baseline tumoral evaluation (e.g withdrawal of consent) will be censored at day 1 for the evaluation of PFS, TTlP and TTmP., From the date of randomization until patients operated with late complete debulking surgery, assessed up 100 days|Overall Survival (OS), OS isis defined as the time from the date of randomization until death due to any cause. Any patient not known to have died at the time of analysis will be censored based on the last recorded date on which the patient was known to be alive., From the date of randomization until patients operated with late complete debulking surgery, assessed up 100 days|ORR after CCRT/at the end of the maintenance period, It is defined as the rate of patients with CR or PR as per RECIST V1.1 after CCRT/at the end of the maintenance period. ORR after CCRT/ at the end of the maintenance period will be derived in the same way as ORR-6w., From the date of randomization until patients operated with late complete debulking surgery, assessed up 100 days
+Primary Objective
+
+\* To evaluate the clinical activity of relatlimab and nivolumab induction treatment before standard CCRT in locally advanced cervical cancer
+
+Secondary Objectives
+
+* To further document the clinical activity of relatlimab and nivolumab
+* To document the safety of the proposed combination in the target population
+
+Exploratory Objectives
+
+* To identify candidate biomarkers that may correlate with likelihood of clinical benefit/response using serial blood and tumor sample collection.
+* To explore the factors (including biomarkers) that may influence response (where response is defined broadly to comprise efficacy, tolerability or safety) or to explore mechanisms of resistance to study treatment.

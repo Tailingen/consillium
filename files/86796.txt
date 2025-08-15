@@ -1,0 +1,32 @@
+Cetuximab in Head and Neck Cancer Patients
+This clinical trial is for participants with head and neck squamous cell carcinoma who are scheduled to have their tumor surgically removed. The study involves obtaining baseline tissue from a clinical biopsy or research biopsy and measurement of circulating tumor cells before surgery to determine whether AXL protein expression pre-treatment correlates to clinical outcomes (change in tumor size) after two doses of cetuximab. The importance of this study is to describe if AXL expression can be used as a biomarker to predict clinical response to cetuximab (CTX) treatment.
+Head and Neck Cancer|Squamous Cell Carcinoma
+DRUG: Cetuximab
+Change in Tumor Size, The tumor size (via clinical measurements) will be measured from the time of diagnosis (pre-CTX) to after treatment with 2 doses of cetuximab and within 48 hours prior to surgery (post-CTX). Response Evaluation Criteria in Solid Tumors (RECIST) 1.1 Committee criteria will be used to define clinical response (partial response, progressive disease, or stable disease) prior to surgery., up to 42 days|Objective Tumor Response Rate - AXL Expression, The levels of AXL expression (low vs high, ranges from 0-4+ with 4+ meaning intense staining in the majority of cancer cells and 0 meaning no staining at all) at the time of diagnosis (pre-CTX) will measured and compared to change in the tumor size as reported in Primary Outcome Measure 1., up to 42 days
+Number of Hospital Re-admission for CTX-related Complications, Hospital re-admission for wound healing, surgical complications, or infection that occur within 28 days after surgery will be categorized as definitely related, probably related, possibility related, unlikely related, or unrelated to cetuximab administration and will be reported as a number of participants., within 28 days after surgery
+Change in Ki67 From Pre- vs Post-CTX Treated Tumors, Summary statistics of the change in Ki67 (ΔKi67), as established by the surgical specimen, will be reported for the response to cetuximab endpoint., up to 30 months|Correlation of Measures of Putative Markers of CTX Sensitivity, Markers include: protein, RNA, circulating tumor cells with CTX response, measured by Ki67. Correlation between ΔKi67 and putative biomarkers will be analyzed as a continuous variable and will be tested using Pearson's correlation coefficient. Correlation between two biomarkers such as AXL and HER3 expression as continuous variables will be investigated using Pearson's correlation coefficient. Summary statistics will be used to report circulating tumor cells at each time point and the changes between time points. The association of change in circulating tumor cells with ΔKi67 (early response) will be explored graphically and with Pearson's correlation coefficient., up to 30 months
+This is a window of opportunity trial evaluating the hypothesis that AXL levels correlate with clinical response to cetuximab in head and neck patients. Patients with head and neck squamous cell carcinoma who are scheduled to undergo surgical resection of their tumor and are candidates for cetuximab chemotherapy are eligible to participate.
+
+Primary:
+
+1. To test the hypothesis that low AXL correlates with clinical response to cetuximab in head and neck cancer patients
+
+Secondary:
+
+1. To further describe the safety of pre-operative administration of cetuximab
+
+Correlative:
+
+1. To correlate AXL expression with change in Ki67 following cetuximab in Head and Neck Cancer (HNC) patients
+2. To examine other putative markers of cetuximab sensitivity such as HER3 and change in circulating tumor cells
+3. To establish the first panel of patient-derived xenografts from patients with known sensitivity or resistance to cetuximab
+
+Following informed consent, tumor tissue from the research biopsy and a blood draw for circulating tumor cells will be obtained. The participant will then receive two weekly doses of pre-operative cetuximab during the interval between diagnostic biopsy and surgery (\~14 days), ensuring that no delay in standard of care (SOC) will occur.
+
+For dose #1, participants will receive cetuximab 400 mg/m2 via intravenous infusion over 2 hours (maximum infusion rate 10 mg/min) as per the standard of care loading regimen for cetuximab monotherapy.
+
+For dose #2, participants will receive cetuximab 250 mg/m2 via intravenous infusion over 1 hour (maximum infusion rate 10 mg/min) as per the standard of care dosing regimen for cetuximab monotherapy.
+
+At the time of surgery, another blood draw will be obtained for analysis of circulating tumor cells, and a portion of the resected tumor will be obtained for study analysis.
+
+Correlative studies will include the measurement of proteins hypothesized to be involved in cetuximab resistance such as AXL, Ki67, EGFR, and HER3 expression from both the biopsy and the surgical specimen. Blood will be analyzed for correlative analysis of circulating tumor cells. Tissue from the research biopsy will be utilized for participant-derived xenograft (PDX) development.

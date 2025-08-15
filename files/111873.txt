@@ -1,0 +1,61 @@
+Physician/Patient Choice of Either High-Dose Recombinant Interferon Alfa-2B or Ipilimumab, Versus Pembrolizumab in Treating Patients With Stage III-IV High Risk Melanoma That Has Been Removed by Surgery
+This randomized phase III trial studies how well pembrolizumab works compared with the current standard of care, physician/patient choice of either high-dose recombinant interferon alfa-2B or ipilimumab, in treating patients with stage III-IV melanoma that has been removed by surgery but is likely to come back or spread. High-dose recombinant interferon alfa-2B may help shrink or slow the growth of melanoma. Immunotherapy with monoclonal antibodies, such as ipilimumab and pembrolizumab, may help the body's immune system attack the cancer, and may interfere with the ability of tumor cells to grow and spread. It is not yet known whether pembrolizumab is more effective than the current standard of care in treating patients with melanoma.
+Clinical Stage III Cutaneous Melanoma AJCC v8|Clinical Stage IV Cutaneous Melanoma AJCC v8|Metastatic Cutaneous Melanoma|Metastatic Mucosal Melanoma|Metastatic Non-Cutaneous Melanoma|Non-Cutaneous Melanoma|Recurrent Cutaneous Melanoma|Recurrent Mucosal Melanoma|Recurrent Non-Cutaneous Melanoma
+PROCEDURE: Biospecimen Collection|PROCEDURE: Computed Tomography|BIOLOGICAL: Ipilimumab|PROCEDURE: Magnetic Resonance Imaging|BIOLOGICAL: Pembrolizumab|PROCEDURE: Positron Emission Tomography|OTHER: Quality-of-Life Assessment|BIOLOGICAL: Recombinant Interferon Alfa-2b
+Overall Survival (OS), Time from date of randomization to date of death due to any cause. Patients known to be alive are censored at date of last contact. The results were presented as 5-year OS estimate., 5 years after last randomization
+Relapse-free Survival (RFS), Time from date of randomization to date of first documentation of relapse or death due to any cause. Patients last known to be alive and relapse-free are censored at date of last contact., 5 years after last randomization|Overall Survival (OS) in Participants Who Are PD-L1 Positive, Time from date of randomization to date of death due to any cause. Patients known to be alive are censored at date of last contact., 94 months; from study start November 10, 2015 to September 15, 2023|Relapse-free Survival (RFS) in Participants Who Are PD-L1 Positive, Time from date of randomization to date of first documentation of relapse or death due to any cause. Patients last known to be alive and relapse-free are censored at date of last contact., 5 years after last randomization|Number of Participants With Gr 3 Through 5 Adverse Events That Are Related to Study Drugs, Only adverse events that are possibly, probably or definitely related to study drug are reported. CTCAE Version 5.0 was used for all AE reporting., Randomized patients will be followed until death or 94 months (from study start November 10, 2015 to September 15, 2023), whichever occurs first.
+PRIMARY OBJECTIVES:
+
+I. To compare overall survival (OS) of patients with resected stage III and IV melanoma treated with physician/patient choice of either high dose interferon recombinant interferon alfa-2b (alfa-2b) or ipilimumab versus MK-3475 (pembrolizumab).
+
+II. Among patients who are PD-L1 positive, to compare OS of patients with resected stage III and IV melanoma treated with physician/patient choice of either high dose interferon alfa-2b or ipilimumab versus MK-3475 (pembrolizumab).
+
+III. To compare relapse-free survival (RFS) of patients with resected stage III and IV melanoma treated with physician/patient choice of either high dose interferon alfa-2b or ipilimumab to MK-3475 (pembrolizumab).
+
+SECONDARY OBJECTIVES:
+
+I. To estimate OS and RFS for patients who are PD-L1 negative or PD-L1 indeterminate in this population.
+
+II. To compare OS and RFS of patients between the two arms within PD-L1 positive and negative subgroups and to look at the interaction between PD-L1 (positive versus negative) and treatment arm.
+
+III. To assess the safety and tolerability of the regimens.
+
+ADDITIONAL OBJECTIVES:
+
+I. To bank tissue and whole blood in anticipation of future correlative studies in this patient population.
+
+II. To evaluate PD-L1 expression through immunohistochemistry assay. III. To evaluate the effect of treatment-related side effects that may have an impact on the health-related domains of quality of life (QOL) using the Functional Assessment of Cancer Therapy (FACT)-Biological Response Modifiers (BRM), European Quality of Life Five Dimension Three Level Scale (EQ-5D-3L), and Functional Assessment of Chronic Illness Therapy Diarrhea (FACIT-D) between patients treated with physician/patient choice of either high-dose interferon alfa-2b or ipilimumab and MK-3475 (pembrolizumab).
+
+IV. Pharmacokinetic (PK) and anti-drug antibody (ADA) testing will be performed on all patients receiving MK-3475 (pembrolizumab).
+
+TRANSLATIONAL OBJECTIVES RELATED TO T-CELL RECEPTOR BETA CHAIN SEQUENCING:
+
+I. To evaluate the association between TCR beta variable gene (TRBV) haplotype and grade 3-4 immune-related adverse events (irAEs) among stage III melanoma patients treated with adjuvant ipilimumab or pembrolizumab.
+
+II. To describe the TRBV haplotype distribution among this cohort of patients studied.
+
+TRANSLATIONAL MEDICINAL OBJECTIVE RELATED TO ASSOCIATION OF CIRCULATING TUMOR DNA (ctDNA) WITH RELAPSE-FREE SURVIVAL IN HIGH-RISK, RESECTED MELANOMA PATIENTS.
+
+I. To evaluate associations between pretreatment ctDNA (present versus absent) and relapse within 2 years of randomization in a case-control analysis across treatment arms.
+
+II. To evaluate associations between pretreatment ctDNA (present versus absent) and relapse within 2 years of randomization in a case-control analysis across treatment arms.
+
+III. To evaluate associations between pretreatment ctDNA and relapse within 2 years of randomization in a case-control analysis within each treatment arm (after treatment arm data are unblinded to investigators).
+
+IV. To evaluate associations between "early-on treatment" ctDNA levels and relapse within 2 years of randomization.
+
+V. To describe ctDNA levels at end of therapy and time of relapse.
+
+OUTLINE: Patients are randomized to 1 of 2 treatment arms.
+
+ARM I:
+
+INDUCTION THERAPY: Patients receive high-dose recombinant interferon alfa-2B intravenously (IV) over 20 minutes on days 1-5. Treatment repeats weekly for 4 weeks in the absence of disease progression or unacceptable toxicity. Or patients receive ipilimumab IV over 90 minutes on day 1. Treatment repeats every 3 weeks for a total of 4 cycles in the absence of disease progression or unacceptable toxicity.
+
+MAINTENANCE THERAPY: Patients receive high-dose recombinant interferon alfa-2B subcutaneously (SC) on days 1, 3, and 5. Treatment repeats every 6 weeks for up to 48 weeks in the absence of disease progression or unacceptable toxicity. Or patients receive ipilimumab IV over 90 minutes on day 1. Treatment repeats every 12 weeks for 3 years in the absence of disease progression or unacceptable toxicity.
+
+ARM II: Patients receive pembrolizumab IV over 30 minutes on day 1. Treatment repeats every 3 weeks for up to 52 weeks in the absence of disease progression or unacceptable toxicity.
+
+Patients undergo computed tomography (CT) scan, positron emission tomography (PET) scan, magnetic resonance imaging (MRI) and blood sample collection throughout the study.
+
+After completion of study treatment, patients are followed up at 30 days, 6 and 12 weeks, every 3 months for 2 years, every 6 months for 3 years, and then every 12 months for 5 years.

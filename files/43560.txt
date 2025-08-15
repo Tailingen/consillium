@@ -1,0 +1,19 @@
+Predictive Model to Calculate the Risk of RBC Transfusion in Elective Brain Tumours Resections (TScoreBTR)
+To validate a predictive model for the risk of receiving RBCs in this population. This model uses four preoperative values (haemoglobin levels, tumour volume, previous craniotomy in the same spot, and number of craniotomies foreseen). The investigators would like to create an online data collection tool and calculator.
+Brain Tumor Adult|Transfusion|Surgery
+OTHER: Red cell concentrate transfusion
+Number of red cell concentrate transfused, Number of red cell concentrate transfused, During the surgery|Number of red cell concentrate transfused, Number of red cell concentrate transfused, Immediately (first 24 hours) after the surgery
+Concentration of hemoglobine, Concentration of pre-surgery hemoglobine, Pre-surgery|Brain tumor volume, Brain tumor volume (mm3) on preoperative MRI, Pre-surgery|Number of patients with previous tumor craniotomy, Number of patients with previous tumor craniotomy at the same place, Pre-surgery|Number of craniotomies, Number of craniotomies, During the surgery
+Observational study collecting data from different institutions and teams groups in Spain. The investigators aim at validating one model (published in Journal of Neurosurgical Anesthesiology) in different settings and populations to see if it can be accurately used to provide an opportunity to optimize both the patient and the surgical plan as well as to guide perioperative crossmatch and RBC orders.
+
+Inclusion criteria - Brain tumour (primary or metastatic) patients undergoing craniotomy for resection.
+
+Exclusion criteria Patients younger than 18 years old. Urgent/emergent surgery. Brain tumours not requiring full craniotomy. Patients with blood conditions causing coagulation abnormalities. Systemic disease associated with significant abnormalities in coagulation times (prothrombin time \<60% or activated thromboplastin time \> 50 sg).
+
+Outcome The investigators aim at developing objective and simple criteria about the probability of requirements RBCs during a brain tumour resection surgery. This way we could create a simple tool that would help to optimize both the patient and the surgical plan as well as to guide perioperative crossmatch and RBCs orders.
+
+Statistical Analysis
+
+Transfusion requirement predictive probability will be calculated as follows:
+
+〖1/(1+e〗\^(-(5.7606 + \[-0.7037\*(PH in g/dL)+ 0.0103\*(BTLTV in mm3)+ 1.0558\*(NC)+ 0.6232\*(PC)\]))) PH: Preoperative haemoglobin; BTLTV: brain tumour lesions total volume; NC: craniotomies number; PC: previous craniotomy. NT=1 if NT\>1, or 0; PC=1 if PC at the same site for resection (not only biopsy), or 0. Model discrimination and calibration will be assessed with area under ROC curve, and Hosmer-Lemeshow test with calibration plot, respectively. P\<0.05 will indicate statistical significance.

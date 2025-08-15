@@ -1,0 +1,33 @@
+Tacrolimus, Nivolumab, and Ipilimumab in Treating Kidney Transplant Recipients With Selected Unresectable or Metastatic Cancers
+This phase I trial studies how well tacrolimus, nivolumab, and ipilimumab work in treating kidney transplant recipients with cancer that cannot be removed by surgery (unresectable) or has spread to other places in the body (metastatic). Tacrolimus may stop the growth of tumor cells by blocking some of the enzymes needed for cell growth. Immunotherapy with monoclonal antibodies, such as nivolumab and ipilimumab, may help the body's immune system attack the cancer, and may interfere with the ability of tumor cells to grow and spread. Giving tacrolimus, nivolumab, and ipilimumab may work better in treating kidney transplant recipients with cancer compared to chemotherapy, surgery, radiation therapy, or targeted therapies.
+Clinical Stage III Cutaneous Melanoma AJCC v8|Clinical Stage III Cutaneous Merkel Cell Carcinoma AJCC v8|Clinical Stage IV Cutaneous Melanoma AJCC v8|Clinical Stage IV Cutaneous Merkel Cell Carcinoma AJCC v8|Metastatic Basal Cell Carcinoma|Metastatic Melanoma|Metastatic Merkel Cell Carcinoma|Metastatic Skin Squamous Cell Carcinoma|Pathologic Stage III Cutaneous Melanoma AJCC v8|Pathologic Stage III Cutaneous Merkel Cell Carcinoma AJCC v8|Pathologic Stage IIIA Cutaneous Melanoma AJCC v8|Pathologic Stage IIIA Cutaneous Merkel Cell Carcinoma AJCC v8|Pathologic Stage IIIB Cutaneous Melanoma AJCC v8|Pathologic Stage IIIB Cutaneous Merkel Cell Carcinoma AJCC v8|Pathologic Stage IIIC Cutaneous Melanoma AJCC v8|Pathologic Stage IIID Cutaneous Melanoma AJCC v8|Pathologic Stage IV Cutaneous Melanoma AJCC v8|Pathologic Stage IV Cutaneous Merkel Cell Carcinoma AJCC v8|Unresectable Basal Cell Carcinoma|Unresectable Melanoma|Unresectable Merkel Cell Carcinoma
+BIOLOGICAL: Ipilimumab|BIOLOGICAL: Nivolumab|DRUG: Prednisone|DRUG: Tacrolimus
+Number (and Percentage) of Outcome Responses After Receiving Nivolumab, Tacrolimus, and Prednisone, Percentage of kidney transplant recipients who experienced complete response (CR), partial response (PR) or stable disease (SD) without allograft loss., At 16 weeks
+Objective Response (CR or PR) Rate (ORR) After Receiving Nivolumab, Tacrolimus, and Prednisone, Number (and percentage) of patients with a complete response (CR) or partial response (PR) based on Response Evaluation Criteria in Solid Tumors (RECIST) 1.1 criteria after receiving at least one dose of nivolumab., Up to 4 months|Rate of Allograft Loss After Receiving Nivolumab, Tacrolimus, and Prednisone, Number of subjects who experienced allograft loss after receiving at least one dose of nivolumab., Up to 4 months|Duration of Progression-free Survival After Receiving Nivolumab, Tacrolimus, and Prednisone, From the first dose of nivolumab to the date of the first documented tumor progression or death due to any cause, whichever occurs first., Up to 4 months|Duration of Overall Survival After Receiving Nivolumab, Tacrolimus, and Prednisone, The time from the participant's first dose of nivolumab to the date of death from any cause., Up to 3 years|Overall Response Rate (ORR) in Patients After Receiving Ipilimumab, Nivolumab, Tacrolimus, and Prednisone, The number of participants with a CR or PR response after receiving ipilimumab, nivolumab, tacrolimus, and prednisone., Up to 3 years|Rate of Allograft Loss After Receiving Ipilimumab, Nivolumab, Tacrolimus, and Prednisone, Number of patients who experienced allograft loss after receiving nivolumab, ipilimumab, tacrolimus, and prednisone., Up to 3 years
+PRIMARY OBJECTIVE:
+
+I. To estimate the percent of kidney transplant recipients with selected advanced cancers for whom standard therapies would be insufficient who, 16 weeks after administration of prednisone, tacrolimus, and nivolumab, experience complete response (CR), partial response (PR), or stable disease (SD) without allograft loss.
+
+SECONDARY OBJECTIVES:
+
+I. To estimate the objective response rate (ORR), rate of allograft loss, and durations of progression-free survival (PFS) and overall survival (OS) in the study population.
+
+II. To estimate the ORR and rate of allograft loss in patients who experience progressive disease (PD) after administration of nivolumab and 1) receive ipilimumab and nivolumab, or 2) decrease or discontinue immunosuppression.
+
+EXPLORATORY OBJECTIVES:
+
+I. To characterize correlates of the host immune response, possibly including, but not limited to:
+
+Ia. Histopathological characteristics of allograft rejection/loss. Ib. Immunological changes in the tumor microenvironment (e.g., changes in T-cell subset populations or expression of immune checkpoint molecules) in paired biopsies obtained pre-treatment and on-treatment.
+
+Ic. Changes in donor-derived cell-free deoxyribonucleic acid (DNA) (dd-cfDNA) as a marker for allograft rejection.
+
+Id. Characteristics of anti-programmed death-1 (PD-1)-associated immune-mediated adverse reactions (IMAR) in this patient population treated with immunosuppression.
+
+OUTLINE:
+
+Patients receive tacrolimus orally (PO) twice daily (BID) and prednisone PO once daily (QD). Within 28 days, patients then receive nivolumab intravenously (IV) over 30 minutes on day 1. Cycles repeat every 4 weeks for up to 24 cycles (96 weeks) in the absence of disease progression or unacceptable toxicity.
+
+Patients who experience progressive disease (PD) or patients who have experienced allograft loss at 16 weeks receive nivolumab IV over 30 minutes and ipilimumab IV over 30 minutes on day 1. Patients also receive tacrolimus PO BID and prednisone PO QD. Cycles repeat every 3 weeks for 4 cycles (12 weeks) in the absence of disease progression or unacceptable toxicity. Starting 6 weeks later, patients receive nivolumab IV over 30 minutes every 4 weeks for up to 21 cycles (84 weeks) in the absence of disease progression or unacceptable toxicity.
+
+After completion of study treatment, patients are followed up for 90 days, every 8 weeks for year 1, every 12 weeks for year 2, every 16 weeks for year 3, then every 24 weeks for year 4. Patients with PD are followed up every 12 weeks for up to 5 years.

@@ -1,0 +1,28 @@
+Radiotherapy,Chemotherapy,Before and After Surgery in Advanced Esophageal or Gastroesophageal Junction Cancer
+RATIONALE: Radiation therapy uses high-energy x-rays to kill tumor cells. Drugs used in chemotherapy, such as cisplatin and fluorouracil, work in different ways to stop the growth of tumor cells, either by killing the cells or by stopping them from dividing. Giving more than one drug (combination chemotherapy) may kill more tumor cells. Cisplatin and fluorouracil may also make tumor cells more sensitive to radiation therapy. Gefitinib may stop the growth of tumor cells by blocking some of the enzymes needed for cell growth. Giving radiation therapy together with combination therapy and gefitinib before surgery may make the tumor smaller and reduce the amount of normal tissue that needs to be removed. Giving these treatments after surgery may kill any tumor cells that remain after surgery.
+
+PURPOSE: This phase II trial is studying how well giving radiation therapy together with combination chemotherapy and gefitinib before and after surgery works in treating patients with advanced esophageal or gastroesophageal junction cancer.
+Esophageal Cancer
+DRUG: cisplatin|DRUG: fluorouracil|DRUG: Iressa|PROCEDURE: conventional surgery|RADIATION: radiation therapy
+Survival at 1 year, Survival at 1 year, 1 year|Distant metastatic control at 1 year, Distant metastatic control at 1 year, 1 year
+Response rate at 6 weeks, Response rate at 6 weeks, 6 weeks|Toxicity of induction chemoradiotherapy and gefitinib as measured by CTC version 2.0 at 6 weeks, Toxicity of induction chemoradiotherapy and gefitinib as measured by CTC version 2.0 at 6 weeks, 6 weeks|Toxicity of maintenance gefitinib as measured by CTC version 2.0 every 8 weeks after the completion of radiotherapy, Toxicity of maintenance gefitinib as measured by CTC version 2.0, 8 weeks
+OBJECTIVES:
+
+Primary
+
+* Determine the activity of gefitinib, in terms of median survival and distant metastatic disease control, in patients treated with neoadjuvant and adjuvant cisplatin, fluorouracil, and radiotherapy who are undergoing surgery for esophageal and gastroesophageal junction cancer.
+
+Secondary
+
+* Determine the pathologic complete and partial response rate in patients treated with this regimen.
+* Determine the toxicity of this regimen in these patients and in patients who are disease free and receiving long-term maintenance gefitinib.
+
+OUTLINE:
+
+* Preoperative regimen: Patients undergo radiotherapy twice a day during days 1-12 (for a total of 10 treatment days). Patients receive fluorouracil IV continuously and cisplatin IV continuously on days 1-4. Patients also receive oral gefitinib once daily on days 1-28. At 6 weeks, patients with locoregionally confined disease undergo surgical resection and then proceed to the postoperative regimen. Patients with a medical contraindication to surgery proceed directly to the postoperative regimen.
+* Postoperative regimen: Beginning 4-10 weeks after surgery or 6 weeks after completing the first course of therapy, patients undergo radiotherapy and receive fluorouracil and cisplatin as in the preoperative regimen.
+* Maintenance regimen: Patients receive oral gefitinib beginning on day 1 of the postoperative regimen and continuing for 2 years in the absence of disease progression or unacceptable toxicity.
+
+After completion of study treatment, patients are followed periodically for 5 years.
+
+PROJECTED ACCRUAL: A total of 80 patients will be accrued for this study.

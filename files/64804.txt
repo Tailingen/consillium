@@ -1,0 +1,26 @@
+Pembrolizumab in Treating Patients With Advanced Merkel Cell Cancer
+This phase II trial studies how well pembrolizumab works in treating patients with Merkel cell cancer that cannot be removed by surgery or controlled with treatment, or has spread to other parts of the body. Pembrolizumab may stimulate the immune system to identify and destroy cancer cells.
+Recurrent Merkel Cell Carcinoma|Stage III Merkel Cell Carcinoma AJCC v7|Stage IIIA Merkel Cell Carcinoma AJCC v7|Stage IIIB Merkel Cell Carcinoma AJCC v7|Stage IV Merkel Cell Carcinoma AJCC v7
+OTHER: Laboratory Biomarker Analysis|BIOLOGICAL: Pembrolizumab
+Objective Response Rate (ORR) Defined as the Proportion of Patients Who Have Achieved Complete Response (CR) or Partial Response (PR) According to Response Evaluation Criteria in Solid Tumors (RECIST) Version 1.1, ORR will be estimated as the number of responders as a percent of the number of eligible participants who received at least one dose of treatment. If a substantial amount of data is missing, analyses will be performed using parametric generalized linear models fit by maximum likelihood. A generalized linear model for the ORR will use a binomial error distribution. The model will include as covariates all available baseline predictors of the missing outcomes. Responses to continued pembrolizumab will be chronicled and reported., Up to 3 years
+Progression-free Survival (PFS) Using RECIST 1.1, Survival curves for PFS will be estimated using the Kaplan-Meier method. Assessed percentage of participants with progression free survival up to 16 months., Time from start of treatment to time of progression or death, whichever occurs first, assessed up to 16 months|Duration of Response (DOR), Survival curves for DOR will be estimated using the Kaplan-Meier method., Time interval between the date of first response (CR/PR) and the date of progression, assessed up to 3 years|Overall Survival (OS), Survival curves for OS will be estimated using the Kaplan-Meier method., Time interval between the start of treatment to death due to any cause, assessed up to 60 months.|Incidence of Adverse Events (AEs) Graded Using the National Cancer Institute (NCI) Common Terminology Criteria for Adverse Events (CTCAE) Version 5.0, Safety will be assessed by quantifying the toxicities and grades experienced by subjects including serious AEs (SAEs) and events of clinical interest. Safety and tolerability will be assessed by clinical review of all relevant parameters including AEs, laboratory tests, vital signs, and electrocardiogram measurements. Assessed number of participants who experienced grade 3 to 5 adverse events., Up to 90 days post-treatment
+Immune Correlates of the Clinical Activity of Pembrolizumab, This will include immunohistochemical and gene expression analysis focusing on delineating the immune components and immunologic milieu within the tumor before therapy., Baseline|Merkel Polyomavirus (MCPyV)-Specific Immune Response, Assessed With Enzyme-linked Immunosorbent Spot and Serology Assays, Responses will be assessed at baseline, after initiating therapy, and correlated with clinical responses over time. Among patients with corresponding MHC-peptide tetramers, pre- and post-treatment samples of circulating MCPyV-specific CD8 T cells will be isolated and subjected to deep immunophenotyping by messenger ribonucleic acid (mRNA) expression analysis., After 2 years of treatment
+PRIMARY OBJECTIVES:
+
+I. To determine the clinical efficacy of MK-3475 (pembrolizumab) as the first systemic intervention for patients with advanced Merkel cell carcinoma (MCC).
+
+SECONDARY OBJECTIVES:
+
+I. To determine the clinical activity of MK-3475 as the first systemic intervention for patients with advanced MCC.
+
+TERTIARY OBJECTIVES:
+
+I. To determine the immune correlates of the clinical activity of MK-3475.
+
+OUTLINE:
+
+Patients receive pembrolizumab intravenously (IV) over 30 minutes on day 1. Treatment repeats every 21 days for up to 24 months in the absence of disease progression\* or unacceptable toxicity.
+
+\* NOTE: Patients with confirmed disease progression may continue to receive treatment if they are otherwise clinically stable until there is an increase in tumor burden of 25% or more following initial confirmation of progression. Under exceptional circumstances, and with protocol principal investigator (P.I.) and Cancer Immunotherapy Trials Network (CITN) P.I. approval, patients may receive treatment beyond 2 years.
+
+After completion of study treatment, patients are followed up at 30 days and then every 3 months for 1 year, every 6 months for 2 years, annually until the patient has completed 3 years of follow up for disease assessment, and then every 12 weeks.

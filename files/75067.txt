@@ -1,0 +1,25 @@
+Carboplatin, Paclitaxel, and Radiation Therapy With or Without Thalidomide in Patients With Stage III Non-small Cell Lung Cancer
+This randomized phase III trial is studying carboplatin, paclitaxel, radiation therapy, and thalidomide to see how well they work compared to carboplatin, paclitaxel, and radiation therapy alone in treating patients with newly diagnosed stage III non-small cell lung cancer. Drugs used in chemotherapy use different ways to stop tumor cells from dividing so they stop growing or die. Thalidomide may stop the growth of non-small cell lung cancer by stopping blood flow to the tumor. It is not yet known if combination chemotherapy plus radiation therapy is more effective with or without thalidomide.
+Lung Cancer
+DRUG: carboplatin|DRUG: paclitaxel|DRUG: thalidomide|RADIATION: radiation therapy
+Overall Survival Time, Survival time is defined as time from study entry to death from any cause, every other month until 24 months from study entry, then every 3 months for year 3, every 4 months for year 4 and every 6 months for year 5
+Time to Disease Progression, Time to disease progression is defined as the time from randomization to documented disease progression or to death without progression. Patients without documented progression or death reported were censored at the time of the last documented disease evaluation. Progression is defined, using the Response Evaluation Criteria In Solid Tumors (RECIST), as a measurable increase in the smallest dimension of any target or non-target lesion, or the appearance of new lesions, since baseline., every other month until 24 months from study entry, every 3 months for year 3, every 4 months for the 4th year and every 6 months for the 5th year|Response Rate at Best Response to Treatment, Proportion of patients with complete or partial response using the Response Evaluation Criteria In Solid Tumors (RECIST) v1.0. Complete response is defined as the complete disappearance of all clinically detectable malignant disease for at least 4 weeks. Partial response is defined as greater than or equal to 50% decrease in tumor size for at least 4 weeks without increase in size of any area of known malignant disease of greater than 25%, or appearance of new areas of malignant disease., every other month until 24 months from study entry, every 3 months for year 3, every 4 months for the 4th year and every 6 months for the 5th year
+OBJECTIVES:
+
+I. Compare the survival and time to progression of patients with stage IIIA or IIIB non-small cell lung cancer when treated with carboplatin, paclitaxel, and chemoradiotherapy with or without thalidomide.
+
+II. Evaluate the toxicity of the thalidomide-containing regimen and compare response rates of the two groups.
+
+III. Determine whether the inactivation of p16, Death-associated protein kinase (DAP-kinase), O6-methylguanine-DNA methyltransferase (MGMT) gene, or tissue-inhibitor of metalloproteinase 3 (TIMP-3) genes can be used to predict survival in these patients treated with this regimen.
+
+IV. Determine whether the detection of a methylation biomarker in serum can be used to predict survival in these patients treated with this regimen.
+
+OUTLINE: This is a randomized study. Patients are stratified according to disease histology (squamous vs nonsquamous), performance status (0 vs 1), disease stage (IIIA vs IIIB), and time of randomization (before addition of chemoradiotherapy vs after). Patients are randomized to one of two treatment arms.
+
+ARM A: Patients receive paclitaxel intravenously (IV) over 3 hours immediately followed by carboplatin IV over 15-30 minutes on days 1 and 22. Treatment continues every 22 days in the absence of unacceptable toxicity or disease progression.
+
+ARM B: Patients receive paclitaxel and carboplatin as in arm A. Patients also receive oral thalidomide and oral low-dose aspirin daily beginning on day 1 for up to 24 months in the absence of disease progression.
+
+Beginning between days 43-50, patients in both arms with stable or responding disease receive chemoradiotherapy comprising paclitaxel IV over 1 hour and carboplatin IV over 15-30 minutes once weekly for 6 weeks and radiotherapy (RT) 5 days a week for 6 weeks. Arm B patients continue oral thalidomide.
+
+Patients are followed every 2 months for 2 years and then every 6 months for 3 years.

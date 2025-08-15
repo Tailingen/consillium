@@ -1,0 +1,22 @@
+Evaluation of Clinical Efficacy of Augmented Reality (AR)-Based Breast Cancer Medical Imaging Solution (SKIA-Breast) Localization Method in Breast Cancer Patients
+This clinical trial aims to evaluate whether an augmented reality (AR)-based medical imaging solution (SKIA-Breast) is non-inferior to conventional ultrasound-guided skin marking in guiding breast-conserving surgery in female patients with breast cancer. Participants will be randomly assigned in a 1:1 ratio to either the AR-based group or the conventional group. All participants will undergo breast-conserving surgery according to their assigned method. The primary outcome is the negative margin resection rate evaluated by histopathological examination. The secondary outcome is the re-excision rate due to positive margins assessed by histopathological examination.
+Breast Neoplasms
+DEVICE: Surgical navigation system with stereotactic guidance|DEVICE: General ultrasound imaging system
+Negative margin resection rate, Each subject will have one surgical margin evaluated, with an independent pathologist determining margin status (negative or positive) based on the permanent postoperative pathology specimen. Measurements of the margin are taken in the medial, lateral, superior, and inferior directions in millimeters, with conservative rounding applied to decimal values., within 4week after biopsy
+re-excision rate, Re-excision rate due to positive margins assessed by histopathological examination, within 4week after biopsy|margin assessment, In breast resections performed after the application of the investigational medical device, pathological assessment of the resection margins will be conducted by an independent evaluator (pathologist). Only the lateral, medial, superior, and inferior directions will be recorded, while the deep and superficial margins will be excluded.
+
+For analysis, the minimum value among the four recorded margins will be selected and classified into the following six categories:
+
+1. Less than 2 mm
+2. 2 mm to less than 5 mm
+3. 5 mm to less than 10 mm
+4. 10 mm to less than 20 mm
+5. 20 mm to less than 30 mm
+6. 30 mm or greater, within 4week after biopsy|Tumor-to-gross area ratio of excised tissue, Tumor-to-gross area ratio of excised tissue (excluding thickness) assessed by histopathology.
+
+Calculation formula: (Tumor surface area / Gross (tumor + margin) surface area) × 100 (%), within 4week after biopsy|User satisfaction, User satisfaction is assessed in the investigator's survey covering usability, safety, overall satisfaction, and reusability. This satisfaction is measured using a 5-point Likert scale, where higher scores indicate greater satisfaction following the application of the investigational medical device., on the day of biopsy
+1. Background With the increasing incidence of early breast cancer due to advancements in diagnostic imaging and screening, breast-conserving surgery (BCS) has become more common, offering improved patient satisfaction and quality of life. Accurate lesion localization is critical for successful BCS. While several localization techniques exist, no single method is widely standardized. Augmented reality (AR) presents a promising non-invasive alternative, enabling real-time visual projection of lesion and lymph node positions onto the skin, potentially improving surgical accuracy and addressing limitations of conventional methods.
+2. Purpose This study aims to evaluate the clinical efficacy of an AR-based medical imaging localization method (SKIA-Breast) compared to conventional ultrasound-guided skin marking in patients diagnosed with breast cancer who require breast-conserving surgery.
+3. Procedure This multicenter, randomized, controlled clinical trial will assess whether the AR-based medical imaging solution (SKIA-Breast) is non-inferior to conventional ultrasound-guided skin marking in guiding breast-conserving surgery. Female patients with breast cancer will be randomly assigned in a 1:1 ratio to either the AR-based group or the conventional group. All participants will undergo breast-conserving surgery according to their assigned method.
+
+The primary outcome is the negative margin resection rate, evaluated by histopathological examination.

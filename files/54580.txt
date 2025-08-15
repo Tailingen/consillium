@@ -1,0 +1,26 @@
+Genetic Analysis-Guided Irinotecan Hydrochloride Dosing of mFOLFIRINOX in Treating Patients With Locally Advanced Gastroesophageal or Stomach Cancer
+This pilot clinical trial studies genetic analysis-guided irontecan hydrochloride dosing of modified fluorouracil, irinotecan hydrochloride, leucovorin calcium, oxaliplatin (mFOLFIRINOX) in treating patients with gastroesophageal or stomach cancer that has spread from where it started to nearby tissue or lymph nodes. Drugs used in chemotherapy, such as fluorouracil, irinotecan hydrochloride, leucovorin calcium, and oxaliplatin, work in different ways to stop the growth of tumor cells, either by killing the cells, by stopping them from dividing, or by stopping them from spreading. Leucovorin calcium may also help fluorouracil work better. Genetic analysis may help doctors determine what dose of irinotecan hydrochloride patients can tolerate.
+Esophageal Adenocarcinoma|Gastric Adenocarcinoma|Stage IIB Gastric Cancer|Stage IIIA Esophageal Adenocarcinoma|Stage IIIA Gastric Cancer|Stage IIIB Esophageal Adenocarcinoma|Stage IIIB Gastric Cancer|Stage IIIC Esophageal Adenocarcinoma|Stage IIIC Gastric Cancer
+DRUG: Oxaliplatin|DRUG: Leucovorin Calcium|DRUG: Irinotecan Hydrochloride|DRUG: Fluorouracil|PROCEDURE: Conventional Surgery
+R0 (analysis will be performed evaluating the R0 rate), Intention-to-treat analysis will be performed, and patients with tumor progression during/after neoadjuvant chemotherapy that precludes surgery will be included as non-R0 resection. A subset analysis will be performed evaluating the R0 rate for those patients actually undergoing surgery., During surgery
+Response rate, Will be evaluated by reporting event rates along with exact (binomial distribution-based) 95% confidence intervals., Up to 5 years|Surgical morbidity, Will be evaluated by reporting event rates along with exact (binomial distribution-based) 95% confidence intervals., Up to 5 years|Pattern of recurrence, Will be evaluated by reporting event rates along with exact (binomial distribution-based) 95% confidence intervals., Up to 5 years|Incidence of toxicity based on NCI-CTCAE v 4.0, Toxicities will be summarized by type, grade, and attribution., Up to 5 years|OS (estimated using the Kaplan-Meier procedure and compared in the subgroups of patients with and without pCR (grade 1a) using the log-rank test), Will be estimated using the Kaplan-Meier procedure and compared in the subgroups of patients with and without pCR (grade 1a) using the log-rank test., Time from enrollment/registration to the time of death, of any cause, assessed up to 5 years|Progression free survival, Will be estimated using the Kaplan-Meier procedure and compared in the subgroups of patients with and without pCR (grade 1a) using the log-rank test., Time from enrollment/registration to time of progression or death from any cause, assessed up to 5 years
+Circulating tumor cell (CTC) numbers derived from portal and peripheral blood samples, Pearson or Spearman rank correlation coefficients will be calculated between CTC numbers derived from portal and peripheral blood samples., Up to 5 years|Change in SUVmax for PET/CT studies, Will be analyzed lesion-by-lesion using paired t-tests or Wilcoxon, signed rank tests., Baseline to after 8 weeks of chemotherapy|Change in SUVmax for the primary esophageal tumor, Will be correlated with clinical and histopathological response rates by logistic regression, and with progression-free and overall survival by Cox regression analysis., Baseline to up to 5 years
+PRIMARY OBJECTIVES:
+
+I. To determine the residual tumor (R) 0 resection rate. II. To determine the pathologic complete response (pCR) rate of up to 36 patients treated with 4 cycles of neoadjuvant mFOLFIRINOX (UGTA1A1 genotype-dosed irinotecan \[irinotecan hydrochloride\]) regimen.
+
+SECONDARY OBJECTIVES:
+
+I. Response rate (radiographic \[computed tomography (CT)\], and metabolic (positron emission tomography \[PET\] maximum standardized uptake value \[SUVmax\]) to chemotherapy.
+
+II. Chemotherapy-related toxicity. III. Surgical morbidity. IV. Overall survival (OS) measured from the time of histologic diagnosis. V. Disease-free survival measured from the time of histologic diagnosis. VI. Pattern of recurrence (distant, locoregional, both). VII. Human epidermal growth factor receptor 2 positive (HER2+) vs HER2 negative (-) difference in clinical outcomes.
+
+OUTLINE:
+
+PREOPERATIVE THERAPY: Patients receive oxaliplatin intravenously (IV) over 2 hours, leucovorin calcium IV over 2 hours, irinotecan hydrochloride IV over 90 minutes, and fluorouracil IV over 46 hours continuously on day 1. Courses repeat every 2 weeks for 4 courses in the absence of disease progression or unacceptable toxicity.
+
+SURGERY: Patients undergo surgery.
+
+POST-OPERATIVE THERAPY: Beginning 5-10 weeks after surgery, patients receive oxaliplatin IV over 2 hours, leucovorin calcium IV over 2 hours, irinotecan hydrochloride IV over 90 minutes, and fluorouracil IV over 46 hours continuously on day 1. Courses repeat every 2 weeks for 4 more courses in the absence of disease progression or unacceptable toxicity.
+
+After completion of study treatment, patients are followed up every 3 months for 2 years and then every 6 months for 3 years.

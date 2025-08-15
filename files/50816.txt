@@ -1,0 +1,34 @@
+Bicalutamide and Raloxifene Hydrochloride in Treating Patients With Prostate Cancer Undergoing Surgery
+This phase II pilot trial studies how well bicalutamide and raloxifene hydrochloride work in treating patients with prostate cancer undergoing surgery. Antihormone therapy, such as bicalutamide and raloxifene hydrochloride, may lessen the amount of androgens made by the body.
+Stage I Prostate Adenocarcinoma|Stage II Prostate Adenocarcinoma
+DRUG: Bicalutamide|OTHER: Laboratory Biomarker Analysis|OTHER: Questionnaire Administration|DRUG: Raloxifene Hydrochloride
+Collection and interrogation of prostate cancer samples, Pathways and biomarkers will be compared to similar analyses that have been and will be performed on in vitro and in vivo experiments. Point estimates and two-sided 95% confidence intervals will be computed., Up to 5 years
+Change in cancer stage/grade via surgical pathology, Will be calculated as the total number who were down staged divided by the number of total evaluable patients. A confidence interval for this rate will be calculated based on properties of the binomial distribution. Point estimates and two-sided 95% confidence intervals will be computed., Baseline up to the time of prostatectomy|Incidence of adverse events assessed by National Cancer Institute Common Terminology Criteria for Adverse Events version 4.0, The maximum grade for each type of adverse event will be recorded for each patient, and frequency tables will be reviewed to determine patterns., Up to 30 days|Percent change in PSA assessed by Prostate Cancer Clinical Trials Working Group, Will be calculated and displayed using waterfall plots., Baseline up to 12 weeks|Tolerance of therapy, Proportion of patients who complete 60 days of treatment will be calculated as the number of who completed 60 days of treatment divided by the total number of evaluable patients. A confidence interval for this rate will be calculated based on properties of the binomial distribution. The proportion of patients who experience a particular event will be calculated as the total number who experienced the event of interest divided by the number of total evaluable patients, with appropriate confidence interval., Up to 60 days
+Change in quality of life assessed using the 6-item Linear Analogue Self-Assessment and the Hormonal Domain scale of the Expanded Prostate Cancer Index Composite survey, Will be examined using stream plots and mean plots with associated two-sided 95% confidence intervals., Baseline up to 5 years|Change in specific pathways and biomarkers, Continuous biomarker levels will be explored in a graphical manner including mean plots and plots of change and percent change from baseline and other summary measures. Any potential relationships between the baseline level or change in the level of each biomarker and clinical outcome will be further analyzed using Wilcoxon rank sum tests or logistic regression methods, as appropriate. Association between a dichotomized biomarker and overall response will be assessed using a chi-squared test., Baseline up to 5 years
+PRIMARY OBJECTIVES:
+
+I. To collect and interrogate samples in patients with prostate cancer that were diagnosed with prostate cancer and are planned for radical prostatectomy at Mayo Clinic Arizona.
+
+SECONDARY OBJECTIVES:
+
+I. To describe the adverse event profile and tolerance of therapy for 60 days of treatment prior to surgery.
+
+II. To assess change in stage and/or grade of cancer and prostate specific antigen (PSA) response to neoadjuvant treatment in patients with hormone sensitive prostate cancer.
+
+TERTIARY OBJECTIVES:
+
+I. To evaluate specific pathways and changes when comparing biopsy specimens to prostatectomy.
+
+II. To describe the quality of life of patients receiving hormonal therapy prior to radical prostatectomy.
+
+OUTLINE: This is a dose-escalation study. Patients are randomized to 1 of 4 arms.
+
+ARM A: Patients receive low dose raloxifene hydrochloride orally (PO) daily on days 1-30. Treatment repeats every 30 days for up to 2 courses in the absence of disease progression or unacceptable toxicity.
+
+ARM B: Patients receive low dose bicalutamide PO daily on days 1-30. Treatment repeats every 30 days for up to 2 courses in the absence of disease progression or unacceptable toxicity.
+
+ARM C: Patients receive low dose raloxifene hydrochloride PO daily and low dose bicalutamide PO on days 1-30. Treatment repeats every 30 days for up to 2 courses in the absence of disease progression or unacceptable toxicity.
+
+ARM D: Patients receive high dose raloxifene hydrochloride PO daily and high dose bicalutamide PO on days 1-30. Treatment repeats every 30 days for up to 2 courses in the absence of disease progression or unacceptable toxicity.
+
+After completion of study treatment, patients are followed up every 3 months.

@@ -1,0 +1,30 @@
+Solid Tumor Analysis for HLA Loss of Heterozygosity (LOH) and Apheresis for CAR T- Cell Manufacturing
+Objective:
+
+To collect information on how often a solid tumor cancer might lose the Human Leukocyte Antigen (HLA) by next generation sequencing and perform apheresis to collect and store an eligible participant's own T cells for future use to make CAR T-Cell therapy for their disease treatment.
+
+Design:
+
+This is a non-interventional, observational study to evaluate participants with solid tumors with a high risk of relapse for incurable disease. No interventional therapy will be administered on this study. Some of the information regarding the participant's tumor analysis may be beneficial to management of their disease. Participants that meet all criteria may be enrolled and leukapheresed (blood cells collected). The participant's cells will be processed and stored for potential manufacture of CAR T-cell therapy upon relapse of their cancer.
+Solid Tumor, Adult|Colorectal Cancer|Non Small Cell Lung Cancer|Pancreatic Cancer|CRC|NSCLC|Pancreas Cancer|Mesothelioma|Ovarian Cancer|Ovarian Neoplasms|Ovarian Carcinoma|Mesothelioma, Malignant|Mesothelioma; Lung|Cancer|Triple Negative Breast Cancer (TNBC)|Renal Cell Carcinoma (Kidney Cancer)|Head and Neck Squamous Cell Carcinoma HNSCC
+OTHER: Apheresis|DIAGNOSTIC_TEST: Next Generation Sequencing (NGS)|DIAGNOSTIC_TEST: Long Range NGS HLA typing
+Percentage of participants who can enroll in an A2 Biotherapeutics, Inc. CAR T-cell therapy study after undergoing apheresis, Participants will be followed for their status of enrollment on an A2 Biotherapeutics, Inc. interventional study, up to 2 years|Percentage of screened participants experiencing loss of heterozygosity (LOH) of HLA-A*02 identified by next generation sequencing, Percentage of participants experiencing LOH will be calculated based on NGS results, Screening
+Percentage of enrolled participants who experience an adverse event (AE) related to apheresis, Adverse events will be collected and monitored for relatedness to apheresis during the course of the study, 7 days
+Background:
+
+Human Leukocyte Antigen (HLA) is a protein on the outside of cells that allows the immune system to recognize it's own cells as normal and leave them alone or respond if infected with a virus or bacteria, or a tumor cell. HLA might not be expressed normally on cancer cells. This may be why cancer can grow undetected by the immune system and is referred to as a tumor escape mechanism. Tumor escape can occur for many reasons, but one reason is Loss of Heterozygosity (LOH). LOH is the loss of one of the genes that encodes HLA protein. A2 Biotherapeutics, Inc. (A2 Bio) is developing therapies to recognize, target, and kill cancer cells that do not express HLA normally, and minimize any damage to normal cells that express normal HLA.
+
+Once participants are identified as having LOH on their tumors, apheresis, a procedure to separate and collect white blood cells will be performed. It is the first required step in manufacturing CAR T-cell therapy. The collected T cells will be stored for patients that are likely to benefit from CAR T-cell therapy during their disease care.
+
+Study Design:
+
+Approximately 1000 participants will be screened for part 1 of the study, including HLA typing, approximately 500 participants will have NGS testing on their tumor samples and be followed for up to 2 years on the study, and up to 200 participants will be screened for part 2 of the study and enrolled if eligible and apheresed and be followed for up to 2 years on the study.
+
+Participants will be screened (Part 1) for HLA type, and based on results, participants will have archived tumor tissue tested by next generation sequencing (NGS) and be followed for up to 2 years. Based on the tumor NGS results, participants will be apheresed (Part 2) for Peripheral Blood Mononuclear Cell (PBMC) collection to store their T cells for a future interventional study upon relapse.
+
+Each participant will proceed through the following study periods:
+
+* Screening (Part 1 and 2)
+* Enrollment (Apheresis)
+* Post Apheresis safety follow-up (Day 7)
+* Two-year long term follow-up

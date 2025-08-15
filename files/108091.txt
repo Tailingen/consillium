@@ -1,0 +1,13 @@
+Studying Pathways of Resistance in KRAS-driven Cancers
+Up to 250 patients from anywhere in the United States can remotely consent and participate to have plasma drawn locally and submitted to Foundation Medicine, Inc. (FMI), for the FoundationOne® Liquid Biopsy Assay. Patients who have had resistance mechanisms determined through other assays can also consent to share these data. The Investigator(s) will compare mechanisms of acquired resistance across drugs (e.g. sotorasib vs adagrasib) and between tumor types (e.g. NSCLC vs CRC) to determine if different resistance mutations arise in these settings.
+KRAS P.G12C
+DIAGNOSTIC_TEST: FoundationOne® Liquid CDx
+Genomic mechanisms of acquired resistance to KRAS inhibitors, The Investigator(s) will summarize mechanisms of acquired resistance with descriptive statistics (percentage and confidence interval), and compare across drugs (e.g., sotorasib vs adagrasib) and between tumor types (e.g., NSCLC vs CRC) to determine if different resistance mutations arise in these settings, using Fisher's exact test., up to 24 months follow-up
+A hypothesis is that a remote participation plasma NGS study will characterize resistance mechanisms arising in KRAS-mutant cancers among individuals experiencing disease progression while on a KRAS-targeting therapy, and that subsequent therapies may be further personalized based on the results of plasma NGS testing.
+
+After a web-based remote consent is obtained, subjects will be sent blood collection kits with the necessary materials for local draws and those specimens will be sent to the Dana-Farber Cancer Institute (DFCI), and rerouted to the central laboratory (Foundation Medicine, Inc.) for plasma NGS and to the ALCMI for storage. Plasma NGS results will be returned to the participant's treating physician, and the study team, aiming to be returned within approximately 2 weeks. In addition, subsequent treatments and clinical outcomes will be prospectively monitored. A correlation between the resistance mechanisms and clinical outcomes will be analyzed.
+
+Patients with KRAS G12C mutant cancers will be enrolled in two cohorts.
+
+* Cohort 1A will enroll patients who are currently progressing on a KRAS G12C inhibitor and plasma for ctDNA analysis will be collected from these patients remotely.
+* Cohort 1B will enroll patients who have already had a sequencing assay performed to determine the resistance mechanism to a KRAS G12C inhibitor. These patients will be invited to share their data and medical history with the study team. Plasma for ctDNA analysis will be optional for this cohort.

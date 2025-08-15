@@ -1,0 +1,96 @@
+Trial of PBF-509 and PDR001 in Patients With Advanced Non-small Cell Lung Cancer (NSCLC)
+The purpose of this study is to determine the safety, tolerability, feasibility and preliminary efficacy of the administration of PBF-509 (Adenosine A2a receptor antagonist) as single agent or in combination with PDR001 (programmed cell death 1 receptor antibody (PD-1 Ab)) to NSCLC patients.
+Non-small Cell Lung Cancer (NSCLC)
+DRUG: PBF-509_80 mg|DRUG: PBF-509_160 mg|DRUG: PBF-509_320 mg|DRUG: PBF-509_640 mg|DRUG: Combo PBF-509 (160 mg) + PDR001|DRUG: Combo PBF-509 (320 mg) + PDR001|DRUG: Combo PBF-509 (640 mg) + PDR001|DRUG: RP2D (PBF-509+PDR001)_immuno naïve|DRUG: Experimental: RP2D (PBF-509+PDR001)_immuno treated
+Maximum Tolerated Dose (MTD) of PBF-509 as single agent, The MTD evaluation will be based on the DLT Evaluable Population which includes all patients enrolled in the dose-escalation portion of the trial, who receive the protocol-assigned treatment with PBF-509 and complete the safety follow-up through the DLT evaluation period, or experience a DLT during the DLT evaluation period., 28 days|Maximum Tolerated Dose (MTD) of the combination (PBF-509+PDR001) treatment, The MTD evaluation will be based on the DLT Evaluable Population which includes all patients enrolled in the dose-escalation portion of the trial, who receive the protocol-assigned treatment with PDR001 and PBF-509 and complete the safety follow-up through the DLT evaluation period, or experience a DLT during the DLT evaluation period., 56 days
+Time to PBF-509 peak concentration in plasma "Tmax", The parameter will be calculated from plasma samples collected at days 1 and 8 after drug administration.
+
+It will consist in the time (in minutes) to reach the maximum "PBF-509" concentration in plasma samples of patients after oral administration of PBF-509., 8 days|Time to PBF-509 peak concentration in plasma at steady state "Tmax,ss", The parameter will be calculated from plasma samples collected at days 1 and 8 after drug administration.
+
+It will consist in the time (in minutes) to reach the maximum "PBF-509" concentration in plasma samples of patients during a dosing interval at steady state., 8 days|PBF-509 peak concentration in plasma "Cmax", The parameter will be calculated from plasma samples collected at days 1 and 8 after drug administration.
+
+It will consist in the maximum plasma concentration (ng/mL) of PBF-509 observed after administration., 8 days|PBF-509 peak concentration in plasma at steady state"Cmax,ss", The parameter will be calculated from plasma samples collected at days 1 and 8 after drug administration.
+
+It will consist in the maximum plasma concentration (ng/mL) of PBF-509 observed during a dosing interval at steady state., 8 days|The area under PBF-509 plasma concentration-time curve to infinite time "AUC(0-inf)", The parameter will be calculated from plasma samples collected at days 1 and 8 after drug administration.
+
+It will consist in the area under the concentration-time curve from zero up to ∞ with extrapolation of the terminal phase. "AUC(0-inf)" will be given in Amount·time/ volume units, 8 days|The area under PBF-509 plasma concentration-time curve up to time 't' "AUC(0-t)", The parameter will be calculated from plasma samples collected at days 1 and 8 after drug administration.
+
+It will consist in the area under the concentration-time curve from zero up to a definite time t. "AUC(0-t)" will be given in Amount·time/ volume units., 8 days|The area under PBF-509 plasma concentration-time curve over the dosing interval "AUC(0-τ)", The parameter will be calculated from plasma samples collected at days 1 and 8 after drug administration.
+
+It will consist in the area under the concentration-time curve over the dosing interval. "AUC(0-τ)" will be given in Amount·time/ volume units., 8 days|PBF-509 half-life in plasma " t½", The parameter will be calculated from plasma samples collected at days 1 and 8 after drug administration.
+
+It will consist in the terminal half-life of PBF-509 in plasma. "t½" will be given in hours (h), 8 days|PBF-509 apparent volume of distribution following extravascular administration"Vd/F", The parameter will be calculated from plasma samples collected at days 1 and 8 after drug administration.
+
+It will consist in the apparent volume of distribution during terminal phase after oral / extravascular administration. "Vd/F" will be given in Volume or volume/kg units., 8 days|PBF-509 total body clearance following extravascular administration "Cl/F", The parameter will be calculated from plasma samples collected at days 1 and 8 after drug administration.
+
+It will consist in the apparent total plasma or serum clearance of drug after oral administration. "Cl/F" will be given in the Volume/ time or volume/ time/ kg units., 8 days|The PBF 509 accumulation index "Rac", The parameter will be calculated from plasma samples collected at days 1 and 8 after drug administration.
+
+It will consist in the accumulation ratio calculated from Cmax,ss at steady state and Cmax after single dosing., 8 days|Efficacy as measured by Objective response rate (ORR), ORR: Response and progression will be evaluated in this study using the new international criteria proposed by the revised Response Evaluation Criteria in Solid Tumors (RECIST) guideline (version 1.1).
+
+ORR is defined as confirmed complete response (CR) or partial response (PR) based on modified RECIST v1.1., 3 years|Efficacy as measured by Disease control rate (DCR), The disease control rate (DCR) will be estimated considering the following variables:
+
+Complete response (CR), Partial response (PR) and stable disease (SD) as described by Response Evaluation Criteria in Solid Tumors (RECIST) guideline (version 1.1).
+
+These variables will be assessed based on Imaging-based evaluation methods as chest x-ray, conventional computed tomography (CT) and magnetic resonance imaging (MRI) that will be performed every 2 cycles of 28 days administration, 3 years|Efficacy as measured by duration of response (DoR), Duration of response (DoR) is defined as the duration from the first documentation of OR to the first documented disease progression or death due to any cause, whichever occurs first., 3 years|Efficacy as measured by progression-free survival (PFS), Progression-free survival (PFS) will be measured from the start of treatment until the documentation of disease progression or death due to any cause, whichever occurs first. For subjects who are alive and progression-free at the time of data cut-off for analysis, PFS will be censored at the last tumor assessment date., 3 years|Efficacy as measured by overall survival (OS), Overall survival (OS) will be determined as the time from the start of treatment until death due to any cause., 3 years
+A single institution phase I/Ib (dose escalation plus expansion) clinical trial of PBF-509 and combination treatment of PDR001 plus PBF-509 in Eastern Cooperative Oncology Group (ECOG) 0-1 patients with immunotherapy naïve and pretreated, advanced or metastatic NSCLC will be conducted to evaluate the safety, tolerability and preliminary efficacy of the combination.
+
+The main objectives of the proposed Phase I trial will be:
+
+Phase I Dose Escalation:
+
+* To determine the safety and tolerability of PBF-509 during a phase I dose escalation trial
+* Determine the pharmacokinetic profile of PBF-509
+* Determine the safety profile of PBF-509
+
+Phase 1 Dose Expansion:
+
+• To further determine safety and tolerability of PBF-509 at the recommended phase II dose (RP2D)
+
+Phase Ib Dose Escalation:
+
+* To determine the dose limiting toxicities (DLT), maximum tolerated dose (MTD) and recommended phase II dose (RP2D) of PBF-509 in combination with PDR001
+* To determine the pharmacokinetics (PK) of PBF-509 in combination with PDR001
+
+Phase Ib Expansion:
+
+* To determine the safety and tolerability of PBF-509 in combination with PDR001, at the RP2D, in both immunotherapy naïve and pretreated advanced NSCLC
+* To evaluate the response rate (ORR) of PBF-509 in combination with PDR001, at the RP2D, in both immunotherapy naïve and pretreated advanced NSCLC
+* To evaluate the progression free (PFS) and overall survival (OS) of PBF-509 in combination with PDR001, at the RP2D, in both immunotherapy naïve and pretreated advanced NSCLC
+* To determine the pharmacokinetics (PK) of PBF-509 in combination with PDR001
+
+Correlative (Exploratory) Studies:
+
+* To evaluate the biological activity of PBF-509 alone and in combination with PDR001 by assessment of potential pharmacodynamic (PD) biomarkers in tumor biopsy specimens of patients with advanced NSCLC
+* To determine association of pre- or on-treatment expression of other immune checkpoints genes with resistance to single agent PBF-509 and dual immune inhibitory (PDR001+ PBF-509) treatment.
+* Determine the pharmacokinetics of PDR001 in combination with PBF-509
+
+The phase I and phase Ib dose escalations will be conducted utilizing the standard 3+3 dose escalation method. Pharmacokinetic (PK) data will be obtained for PBF-509 and PDR001.
+
+The phase Ib dose expansion will consist of 2 independent groups of immunotherapy naïve and pretreated (previous immune checkpoint inhibitors; anti-CTLA-4, anti-PD-1, anti-PD-L1 and/or combinations) patients. Pharmacodynamic (PD) data will be obtained for potential biomarker analysis with pre-treatment and on-treatment tumor biopsies.
+
+Number of Patients:
+
+Phase I Dose escalation and safety expansion: 15-18 patients will be treated with single agent PBF-509 in escalation and up to 20 patients may be treated at the RP2D as a safety expansion group.
+
+Phase Ib Dose escalation: 15-24 patients will be treated
+
+The specific number of patients enrolled will vary depending on whether additional patients could be required during the escalation period if dose de-escalation cohorts or intermediate doses are enrolled, or when a dose-escalation cohort is expanded.
+
+Phase Ib Dose Expansion: 20 patients per group will be enrolled for a total of 40 patients. Assuming 10-15% eligibility/screen failures, a maximum 50 patients will be enrolled.
+
+Safety Assessments:
+
+The maximun tolerated dose (MTD) evaluation will be based on the dose-limiting toxicity (DLT) Evaluable Population which includes all patients enrolled in the dose-escalation portion of the trial, who receive the protocol-assigned treatment with PDR001 and PBF-509 and complete the safety follow-up through the DLT evaluation period, or experience a DLT during the DLT evaluation period.
+
+The safety evaluation will be based on the treated Population, which includes all patients who receive any dose of investigational product, and will include adverse events (AEs), serious adverse event (SAEs), laboratory evaluations and electrocardiogram (ECG) results.
+
+AEs will be graded according to the National Cancer Institute Common Terminology Criteria for Adverse Events (NCI CTCAE) v4.03 and described by system organ class and preferred tem using the Medical Dictionary for Regulatory Activities (MedDRA). Clinically relevant Laboratory abnormalities with toxicity grades according to the NCI CTCAE v4.03 will be derived and summarized.
+
+Efficacy Assessments:
+
+The efficacy analysis will be based on the treated Population which includes all patients who receive any dose of either investigational product. The following efficacy endpoints will be analyzed:
+
+1. Objective Response Rate (ORR) is defined as confirmed complete response (CR) or partial response (PR) based on modified Response Evaluation Criteria in Solid Tumors (RECIST) v1.1. Disease control rate (DCR) is defined as CR, PR, or stable disease (SD) based on modified RECIST v1.1.
+2. Duration of response (DoR) is defined as the duration from the first documentation of Objective response (OR) to the first documented disease progression or death due to any cause, whichever occurs first.
+3. Progression-free survival (PFS) will be measured from the start of treatment until the documentation of disease progression or death due to any cause, whichever occurs first.
+4. Overall survival (OS) will be determined as the time from the start of treatment with PDR001 and PBF-509 until death due to any cause

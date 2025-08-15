@@ -1,0 +1,24 @@
+Selumetinib and Cyclosporine in Treating Patients With Advanced Solid Tumors or Advanced or Metastatic Colorectal Cancer
+This phase I/Ib trial studies the side effects and best dose of selumetinib when given together with cyclosporine in treating patients with solid tumors or colorectal cancer that have spread to other places in the body and cannot be cured or controlled with treatment. Selumetinib may stop the growth of tumor cells by blocking some of the enzymes needed for cell growth. Biological therapies, such as cyclosporine, use substances made from living organisms that may stimulate or suppress the immune system in different ways and stop tumor cells from growing. Giving selumetinib and cyclosporine may be a better treatment for solid tumors or colorectal cancer.
+Recurrent Colorectal Carcinoma|Solid Neoplasm|Stage IIIA Colorectal Cancer AJCC v7|Stage IIIB Colorectal Cancer AJCC v7|Stage IIIC Colorectal Cancer AJCC v7|Stage IVA Colorectal Cancer AJCC v7|Stage IVB Colorectal Cancer AJCC v7
+DRUG: Cyclosporine|OTHER: Laboratory Biomarker Analysis|OTHER: Pharmacological Study|DRUG: Selumetinib
+Incidence of DLT defined as any grade 3 non-hematological toxicity or grade 4 hematological toxicity attributed to selumetinib or cyclosporine graded per National Cancer Institute (NCI) CTCAE version 4.0, The maximum tolerated dose will be defined as the highest dose in which 0 or 1 out of 6 patients have a DLT., 28 days
+Incidence of adverse events that occur after course 1, day 1 assessed using NCI CTCAE version 4.0, Adverse events will be tabulated by type and grade., Up to 30 days after completion of study treatment|Pharmacokinetic (PK) parameters, including the distribution of area under the curve and maximum concentration, Looking at historical data on patients previously treated on single-agent therapy, the distribution of these PK parameters will be estimated in patients treated with single-agent selumetinib and single-agent cyclosporine. The distribution of these parameters in the combination study will be qualitatively compared to the single-agent distribution., Pre-dose, 0.5, 1, 2, 4, 8, and 24 hours on days -7, -3, and 1 of course 1|Objective tumor response based on computed tomography scans (or magnetic resonance imaging if patients are allergic to iodinated contrast) per RECIST 1.1 criteria, Analysis of efficacy measures will be descriptive. Antitumor activity of the combination of selumetinib and cyclosporine will be based on the best overall response. Response rate (complete response \[CR\], partial response \[PR\], CR + PR) will be tabulated with 95% exact binomial confidence intervals. If applicable, response rate will also be tabulated by patients' baseline gene mutation status (eg, KRAS and BRAF). Data listings will present disease response category (eg, CR, PR, stable disease), duration of response, and as appropriate, tumor marker measurements., Up to 30 days after completion of study treatment|Progression-free survival (PFS), PFS will be estimated using the product-limit method of Kaplan and Meier., From first therapy received to documented disease progression or death from any cause, assessed up to 30 days after completion of study treatment
+Change in expression of phosphorylated-mitogen-activated protein kinase 1, Baseline to up to 56 days
+PRIMARY OBJECTIVES:
+
+I. To determine the maximum tolerated dose (MTD) and dose limiting toxicity (DLT) of the combination of AZD6244 (selumetinib) and cyclosporin A (cyclosporine) in adult patients with advanced solid tumors.
+
+SECONDARY OBJECTIVES:
+
+I. To determine the safety profile and tolerability of this regimen in this patient population.
+
+II. To determine the pharmacokinetics of the combination. III. To evaluate the selected biomarkers of drug effect in patients with advanced solid tumors or refractory metastatic colorectal cancer (CRC).
+
+IV. Evaluate the activity of the combination in terms of objective response rate (per Response Evaluation Criteria in Solid Tumors \[RECIST\] 1.1), progression-free survival (PFS).
+
+OUTLINE: This is a phase I, dose-escalation study of selumetinib followed by a phase Ib study.
+
+Patients receive selumetinib orally (PO) twice daily (BID) on day -7 of course 1 and then on days 1-28 (one dose on day 1 only). Patients also receive cyclosporine PO BID on day -3 of course 1 and then on days 1-28 (one dose on day 1 only). Courses repeat every 28 days in the absence of disease progression or unacceptable toxicity.
+
+After completion of study treatment, patients are followed up for 30 days.

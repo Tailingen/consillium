@@ -1,0 +1,20 @@
+Exploration of the Value of PSMA PET/CT in Dynamic Monitoring of the Efficacy of Novel Endocrine Therapy in Patients With Metastatic Hormone Sensitive Prostate Cancer
+1. Based on the treatment response and prognosis of mHSPC patients with novel endocrine therapy, a PSMA PET whole-body tumor burden classification was constructed to guide treatment and evaluate prognosis.
+2. Based on the treatment response and prognosis of mHSPC patients with novel endocrine therapy, a multivariable model will be constructed using quantitative parameters of PSMA PET/CT imaging, pre-treatment gene status, PSA, GS/ISUP and other clinical pathological parameters to further achieve accurate patient classification, guide treatment, and evaluate prognosis.
+Prostate Adenocarcinoma
+DIAGNOSTIC_TEST: PSMA PET/CT
+rPFS, radiological progression free survival, From date of enrollment treatment until the date of first documented progression confirmed by radiological examinations or date of death from any cause, whichever came first, assessed up to 12 months.
+PSA-PFS, PSA progression free survival, From date of enrollment treatment until the date of first documented progression confirmed by blood PSA tests or date of death from any cause, whichever came first, assessed up to 12 months.|OS, overall survival, From date of enrollment treatment until the date of death from any cause, assessed up to 12 months.
+1. Construction of PSMA PET whole-body tumor burden classification:
+
+1. Assessment of whole-body tumor burden on PSMA PET/CT images of mHSPC patients before new endocrine therapy.
+2. PSMA PET/CT imaging evaluation of treatment response of the first three months after start of new endocrine therapy.
+3. Based on the response results, the optimal threshold for whole-body tumor burden is obtained through ROC curve analysis, and a preliminary classification of whole-body tumor burden is obtained.
+
+Verification 1: Follow up preliminary verification/improvement of this subtype Verification 2: External verification, reverifying the predictive performance of typing through the verification cohort.
+
+2. Construction of multivariable predictive model for mHSPC patients with novel endocrine therapy:
+
+1. Molecular imaging parameter measurement and collection of PSMA PET/CT images of mHSPC patients of 3 months after the start of new endocrine therapy.
+2. Complete pre-treatment genetic testing, dynamic evaluation of serum PSA before and after treatment, and collection of clinical and pathological information.
+3. Based on follow-up results, construct a multi factor model, screen significant factors, and achieve a predictive model for novel endocrine therapy in mHSPC patients Verification: External verification, verifying the predictive performance of the model through the verification cohort.

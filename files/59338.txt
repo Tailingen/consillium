@@ -1,0 +1,9 @@
+Hyperthermia Enhanced Re-irradiation of Loco-regional Recurrent Tumors
+This study investiagates deep-regional or superficial hyperthermia to enhance radiotherapy or chemoradiation in patients that suffer recurrent disease after previous radiotherapy.
+Recurrent Cancer|Prostate Cancer|Cervical Cancer|Anal Cancer|Sarcoma|Rectal Cancer|Neuroendocrine Tumors|Esophageal Cancer|Pancreas Cancer|Squamous Cell Carcinoma
+DEVICE: loco-regional hyperthermia
+Local tumor recurrence, Local tumor recurrence of re-irradiated lesions, calculated with the Kaplan-Meier estimates. Local recurrence after hyperthermic re-irradiation will be compared to time-to recurrence after initial treatment., 3 years
+Overall survival, Overall survival after start of re-irradiation, 3 years|Progression-free survival, Progression-free survival after start of re-irradiation, 3 years|Freedom from distant metastases, Freedom from distant metastases after start of re-irradiation, 3 years|Patient reported quality of Life, patient reported quality of life measured by the EORTC qlq-c30 questionnaire., 3 years
+patients that present a relapse within the previously irradiated volume can be included in this trial. These patients will receive re-irradiation according to clinical guidelines and hyperthermia as study intervention. According to tumor location hyperthermia can either be performed by microwave or by capacitive devices.
+
+The primary endpoint of this study is non-inferiority of re-irradiation compared to the initial course of radiotherapy (calculated as time to local failure).

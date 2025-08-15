@@ -1,0 +1,11 @@
+Serial Ultrasound of Solid Tumor Lesions to Detect Early Response to Cancer Immunotherapy
+Primary objective is to assess whether changes in quantitative tumor perfusion parameters after 3 weeks of treatment, as measured by CEUS, can predict initial objective response to therapy, defined by current standard-of-care
+
+Secondary objectives are to evaluate if there is an optimal ultrasound imaging modality (CEUS or conventional power Doppler or LEAD ultrasound) or optimal time point to predict initial objective response and to assess the correlation of tumor perfusion parameters with change in overall tumor burden, change in diameter on a per-lesion basis, and with 12-month progression-free survival (PFS).
+Solid Tumor
+DIAGNOSTIC_TEST: Doppler ultrasound|DIAGNOSTIC_TEST: Long Ensemble Angular-coherence Doppler [LEAD] ultrasound|DIAGNOSTIC_TEST: Contrast-enhanced ultrasound (CEUS)
+Initial objective response per RECIST v1.1, Initial objective response is defined as having either Complete Response (CR) or Partial Response (PR) per RECIST v1.1, 16 weeks
+Initial relative change in tumor burden, defined as relative change in the sum of diameters of all measurable tumors, assessed between treatment 'baseline' and first on-treatment response evaluation, 16 weeks|Initial lesion response, defined as the relative change in tumor diameter of a single lesion between treatment 'baseline' and first on-treatment response evaluation, 16 weeks|progression-free survival (PFS), defined as not having experienced any PD per RECIST v1.1, 12 months
+Primary objective is to assess whether changes in quantitative tumor perfusion parameters after 3 weeks of treatment, as measured by CEUS, can predict initial objective response to therapy, defined by current standard-of-care
+
+Secondary objectives are to evaluate if there is an optimal ultrasound imaging modality (CEUS or conventional power Doppler or LEAD ultrasound) or optimal time point to predict initial objective response and to assess the correlation of tumor perfusion parameters with change in overall tumor burden, change in diameter on a per-lesion basis, and with 12-month progression-free survival (PFS).

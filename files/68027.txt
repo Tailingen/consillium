@@ -1,0 +1,18 @@
+Breast Cancer, Omics, and Precision Medicine
+The standard tissue biopsy strategy for cancer detection is not comprehensive enough to profile the whole epi-genomic signatures of breast cancer (BC) and ensure an accurate prognosis and prediction of drug response. Liquid-based assays have the potential to reduce the molecular heterogeneity of BC and a possible utility for improving disease management. In particular, genomic DNA (gDNA) and circulating tumor (ctDNA) can be sequenced for genetic and epigenetic (DNA methylation) profiling of the BC patients to enhance personalized prognosis and prediction of drug therapy. We describe a study protocol for evaluating the clinical utility of the early use of the network-oriented BR(E)2ASTOME algorithm which combine the power of liquid-based assays, advanced epi-genomics platform, and network analysis to identify improve precision medicine and personalized therapy of BC.
+Breast Cancer
+BIOLOGICAL: Next Generation Sequencing and Network Analysis
+Evaluation of Network-oriented buomarkers in prognosis of BC, We will evaluate whether the network-oriented BR(E)2ASTOME approach will identify BC modules useful for a better stratification of BC severity.
+
+We will measure:
+
+DNA methylation levels and associations with clinical parameters (survival, hospitalization, all-cause mortality).
+
+We will evaluate potential novel genetic mutations in targeted genes and associations with clinical parameters (survival, rate of hospitalization, all-cause mortality), 1 years|Evaluation of Network-oriented buomarkers of Drug Response, We will evaluate whether the network-oriented BR(E)2ASTOME approach will identify BC modules useful for predicting the individual drug response.
+
+We will measure DNA methylation levels, and potential novel genetic mutations, and their association with clinical parameters (poor/good response to drug therapy)., 2 years
+The BR(E)2ASTOME study will be performed at the U.O.C. Patologia Molecolare e Clinica, University of Campania "L. Vanvitelli", Naples (Italy) with a long-standing experience in diagnosis and treatment of BC (Refs.). From each study participant, total of 10 mL of pheripheral blood in EDTA tubes will be collected at time of BC diagnosis. Blood-based assays will be performed to obtain genetic and/or epigenetic big data from ct-DNA and gDNA, respectively. A network-oriented algorithm combined with patient-level clinical information will be applied to big data in order to identify clusters of genes (BC-modules) harboring novel genetic mutations, in the NGS-ctDNA BC-group, and differentially methylated regions (DMRs), in the RRBS-gDNA group, with a potential predictive and prognostic role in BC management. In the NGS-ctDNA-RRBS-gDNA group, we will evaluate whether the multi-omics approach is more informative as compared to the single-omic paradigm.
+
+BC patients (males and females) will be randomized to the 2 study arms: ctDNA-NGS + gDNA-RRBS, and standard of care alone. No modifications of intervention assignment will be possible after randomization process of patients. The BR(E)2ASTOME study will provide evidence about the potential clinical utility of early use liquid-based assays and network-oriented biomarkers in prognosis and prediction of drug response in BC management.
+
+Thus, results from BR(E)2ASTOME study will bring to identify not only new molecular mechanisms associated with BC, but also non-invasive biomarkers that can direct towards an early diagnosis, contribute to monitor the cancer progression and the response to therapeutic treatment.

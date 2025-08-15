@@ -1,0 +1,108 @@
+Early Detection of Relapse in Ovarian Cancer Using Capillary Home-sampling and a Protein Biomarker Test
+PURPOSE/AIMS There is no consensus on optimal follow-up after ovarian cancer. A recent study demonstrated eight months prolonged survival in patients with complete surgical resection. Hence, it is crucial to detect relapses early, when the tumor burden is limited.
+
+The research group have previously identified a plasma protein panel with high accuracy in detecting ovarian cancer at diagnosis and follow-up. The aim with this feasibility study is to validate the panel for its' capacity to detect early relapse in symptom-free patients in a user-friendly non-invasive way i.e. a home-administered capillary sampling. The results will be the foundation for a forthcoming national prospective randomized trial.
+
+METHODS The study is designed as a prospective cohort study including women in the control program after ovarian cancer in Uppsala and Umeå, Sweden. The study participants should have no evidence of disease after primary treatment or after relapse. In addition to standard follow-up, they will be asked to take a capillary home-sample (blood-test from finger) every second month during one year or until relapse. The result of the test will not affect treatment, but solely be used for research purposes.
+
+IMPORTANCE The study aims to clarify following issues:
+
+1. Calibration of the risk score in capillary blood samples.
+2. Evaluation of the logistics in home-sampling.
+3. Evaluation of the acceptability (reasons of drop-out etc.) of home-sampling by structured interviews of a sample of study participants.
+
+CLINICAL SIGNIFICANCE The hypothesis behind the study is that more frequent analysis of a protein panel specific for ovarian cancer, will lead to earlier detection of relapse, earlier treatment and a better prognosis. Additionally, in the future the vision is that women may choose between different ways of follow-up depending on individual risk factors, personal preferences and logistic reasons. In the long-term the results of the applicability of home-administered blood sampling from this study can be useful in other patient groups as well.
+Ovarian Cancer|Fallopian Tube Cancer|Peritoneal Cancer
+Accuracy of capillary home-sampling to detect recurrence, Accuracy (sensitivity/specificity) of the protein panel to detect recurrence, From date of inclusion until the date of first documented progression or date of death from any cause, whichever came first, assessed up to 12 months|Calibration/validation of the risk score in capillary blood samples, Analyses of the optimal protein panel to detect recurrence. Calculation of risk score/cut-off value for recurrence (ROC-curve), Capillary blood samples collected monthly for one year or until relapse
+Evaluate the logistics in home-sampling (patients' instructions, registration, communication.), 1. Tree short questions, regarding difficulties in blood test, by email at every monthly home-sample.
+2. After end of study a e-mail questionnaire including questions about sampling intervals, difficulties with sampling, reasons for drop-out and open question about the study., Monthly short questionnaire and longer questionnaire at end-of study, maximum one year.|Evaluation of acceptability, Evaluate the acceptability of home-sampling by semi-structured interviews of a sample of study participants (reasons of drop-out, communication aspects, pros and cons with repeated sampling), Interviews after end of study, (after first relapse, drop-out or end-of-study) maximum one year.
+Early detection of relapse in ovarian cancer using capillary home-sampling and a multiplex protein biomarker test - a pilot study
+
+PURPOSE AND AIMS Epithelial ovarian cancer (EOC) is the deadliest of all gynecologic cancers, with 700 incident cases per year in Sweden. Even though almost three out of four women with EOC relapse within 2-3 years, there is a striking lack of prospective trials on optimized follow-up after EOC treatment. The research group have previously identified a plasma marker protein panel with high accuracy for ovarian cancer diagnosis and follow-up. The aim with this pilot study is to validate the protein panel for its capacity to detect early relapse in symptom-free patients in a user-friendly, non-invasive way i.e., a home-administered capillary sampling. Further, the results will be the foundation for a forthcoming national prospective randomized trial (RCT) - the FOLL-OV trial.
+
+SURVEY OF THE FIELD/PRELIMINARY RESULTS One of the main purposes with a follow-up program is to find cancer relapse at an early stage and thereby improve the patient's chance of successful treatment and prolonged survival. Yet, there is a striking lack of prospective studies in the field.
+
+A recent RCT demonstrated eight months prolonged overall survival when treated with surgery at first relapse, compared to chemotherapy alone, however, the survival benefit was limited to women where complete surgical resection was achieved (3). Hence, it has become more important than ever to detect relapse as soon as realistically possible, when the tumor burden is limited.
+
+As of present, the Swedish National Guidelines for EOC recommend follow-up 3-4 times/year during the first two years after completed treatment. The follow-up consists of physical (and gynecologic) examination, transvaginal ultrasound, and is many times complemented with the EOC biomarker CA125, but this is optional. CA125 is an unspecific marker, and not elevated in all types of EOC. In a Cochrane review evaluating follow-up strategies of women with EOC, only one RCT was included, and thus further RCTs are needed to evaluate different types of follow-up strategies, using outcomes such as survival, quality of life (QoL), cost and psychological effects. Importantly, in two recent retrospective studies, almost no relapses were detected exclusively on physical examination and the need for regular in-clinic visits were questioned in favor of virtual meetings with a review of symptoms and measurements of tumor marker.
+
+Clearly, better biomarkers for EOC relapse are needed. The research group have recently developed a risk score for detection of EOC based on analysis of 11 plasma proteins. When validated in two independent clinical cohorts, this assay showed a sensitivity of 0.83/0.91 and specificity of 0.88/0.92 for separating EOC and histology benign conditions. Further, we have demonstrated the possibility to track changes in relation to treatment outcome and relapse using the same risk score. Using machine learning, four distinct risk score trajectories are defined, that indicate that it could be possible to detect relapse events up to 60 days prior to the first clinically recorded event. These results were conducted using wet plasma, but previous investigations show that dried blood spots work well for proteomics analyses with the intended assay (PEA), although a re-calibration of the risk-score is needed to accommodate differences between the dry and wet format.
+
+This pilot study, as part of a larger clinical research project, aims to re-calibrate the risk-score and to assess it in a clinical setting using a home-based capillary blood sampling.
+
+AIMS/ OUTCOME
+
+The pilot study will be designed as a prospective cohort study with aim to clarify following questions before planning of a national RCT:
+
+* Calibration/validation of the risk score in capillary blood samples
+* Accuracy of monthly home-sampling and standard Ca125 for diagnosis of relapse
+* Evaluate the logistics in home-sampling (patients' instructions, registration, communication etc.)
+* Evaluate the acceptability of home-sampling by semi-structured interviews of a sample of study participants (reasons of drop-out, communication aspects, pros and cons with repeated sampling)
+
+METHOD The pilot study will be designed as a prospective cohort study.
+
+Study population;
+
+Inclusion criteria:
+
+* ≥18 years of age
+* Included in the control program for ovarian/fallopian/primary peritoneal cancer at Uppsala University Hospital, or at Norrlands University Hospital, Sweden
+* Within 3 years after completed primary treatment for stage III-IV EOC, or after treatment for relapse
+* No evidence of disease (normal CA 125 and no tumor detected on radiology or clinical examination).
+* Patients on maintenance therapy (PARP-inhibitor, bevazicumab) can be included.
+
+Exlusion: Other cancer diagnosis within 2 years (except squamous skin cancer or basalioma). Non-Swedish speaking. Not able to understand instructions.
+
+Intervention The participants will follow the standard follow-up program with scheduled visit 3-4 times/year. The follow-up consists of physical (and gynecologic) examination, transvaginal ultrasound, and sampling of s-CA125.
+
+At inclusion the participants will receive written information and sign informed consent.
+
+Capillary test
+
+Study participants will be asked to take a capillary blood sample:
+
+* at inclusion with assistance from study nurse
+* at home monthly during one year or until relapse
+* at suspicion of relapse The capillary sample and sent in to the laboratory in an envelope provided to the study participants. The result of the capillary test will be retrospectively analyzed and consequently not affect treatment, but solely be used for research purposes. The results will not be communicated to the study participants.
+
+Uppsala biobank In patients already included with written consent in the Uppsala biobank (U-CAN), follow-up blood samples will be taken according to the biobank routine at inclusion and in case of follow-up (https://www.u-can.uu.se).
+
+End of study Relapse or after one year of inclusion
+
+Data management
+
+The following data will be entered and stored in a pseudonymized database (REDCap):
+
+At inclusion:
+
+* patient data (age, BMI, smoking comorbidity, performance status)
+* tumor data (CA125, other tumour markers, histology, differention grade, tumor stage, BRCA/HRD status, radiology findings)
+* previous treatment data (surgical and oncological).
+
+At clinical visits/relapse (planned follow-up or unplanned visits):
+
+* CA125 values
+* symtoms and signs of relapse, including radiology
+* Date and results of capillary tests
+
+The code for personal identification will be stored in a separate file with password. Hence data in the research database cannot be linked to individual patients.
+
+Assessment of feasibility
+
+To evaluate feasibility and acceptability of the study, a short-form questionnaire with 5-7 questions will be handled to study participants at following occasions:
+
+* Declining participation
+* Drop-off from study protocol
+* End of study A semi-structured interviews will be offered to a strategic sample of participants (around 10) with various age, medical history after completion of the study in order to identify pitfalls and areas of improvement.
+
+Statistics/ power With approximately 250 women fulfilling these inclusion criteria at Uppsala University Hospital and Norrlands University Hospital yearly, and an anticipated inclusion rate of 50%, we will reach a study population of 125 women in one year. With a drop-out of 25 persons, 100 will remain for analysis. Around 30% of these women will suffer from relapse during the study period. With approximately 10 samples/ participant, we consider 1000 samples sufficient for the pilot study.
+
+Analyses The collected capillary dry-cards (Ahlström AutoCollect™) are punched in a semi-automated equipment for punches to be analyzed. The laboratory analyses for the plasma protein biomarkers will be carried out at the Affinity Proteomics Facility at SciLifeLab Uppsala, using a custom assay provided by Olink Proteomics based on absolute quantification. The accuracy (sensitivity and specificity) of the risk score to detect relapse and the correlation with s-CA125 will be calculated with aid from machine learning. An optimal cut-off value for the test score will be approximated in ROC-curves, either as an individual increase (for example a doubling of lowest risk score) or at a group level. Time difference between raise in the protein panel score and clinical detection of recurrence will be analyzed.
+
+These results will be used for power calculation and decision of sampling intervals for the forthcoming RCT.
+
+For patients already included in the Uppsala biobank with written consent, venous blood samples will be analysed at follow-up and relapse to be able to validate the results from capillary in venous blood.
+
+Further challenges with inclusion, reasons for drop-out will be analyzed by short-form questionnaire. Qualitative interviews with a selected group of study participants will be carried out to explore patient experience and acceptability and lay the foundation for patient information and communication in the RCT.
+
+Clinical significance The hypothesis is that more frequent analysis of a protein panel specific for EOC, will lead to earlier detection of relapse, earlier treatment and a better prognosis. Additionally, in the future, the vision is that women may choose between different ways of follow-up depending on individual risk factors, personal preferences and logistic reasons. In the long-term the results of the evaluation of the applicability of home-administered blood sampling from this study can be useful in other patient groups as well.

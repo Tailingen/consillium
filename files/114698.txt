@@ -1,0 +1,20 @@
+Extended Follow-up of Women Who Received One, Two, and Three Doses of the HPV Vaccine in the Costa Rica Vaccine Trial (CVT), ESCUDDO-CVT Study
+This study is extending follow up of women who participated in the Costa Rica Vaccine Trial (CVT) and received one dose or two doses of the human papillomavirus (HPV) vaccine, along with a group of women who received three doses. It also studies the stability of HPV defenses in these groups of women for up to 20 years after initial vaccination. Studying samples of blood in the laboratory may provide information on how long one, two, and three doses of the vaccine provide protection against HPV. The results of this study may also help researchers learn whether one dose of HPV vaccine is enough to protect against HPV.
+Human Papillomavirus Infection|Human Papillomavirus-Related Malignant Neoplasm
+PROCEDURE: Biospecimen Collection|OTHER: Questionnaire Administration
+Seropositivity, Negative/positive status will be assessed using the standard predefined cutoffs established at the testing laboratory., Up to 20 years after initial vaccination|Change in antibody levels, Will report the geometric mean titer levels and their 95% confidence intervals at years 1, 2, 3, 4, 7, 9, 11, 14, 16, 18, and 20 for the 1-dose, 2-dose and 3-dose groups and for both human papillomavirus (HPV)-16 and HPV-18 antibodies. Will estimate these quantities using a weighted linear mixed models with log-titer level as the dependent variable and year as the independent variable, adjusting for laboratory batch and including a random-effects for participant and, when needed, participant: study year. For the three-dose analysis, will also include a covariate for study group. Moreover, will model the 19-year trend (e.g. excluding peak titers at year 1) by including time as a single continuous variable (i.e. linear effect) and then model time flexibly using a natural spline to assess a potentially non-linear relationship., Between years 11 and 20 after initial vaccination|Proportion of individuals who serorevert, For each dose regimen and for HPV 16, HPV 18, and a composite endpoint of either HPV type, will estimate the proportion of individuals who serorevert (i.e., become antibody negative by the assay cutoff) in years 1, 2, 3, 4, 7, 9, 11, 14, 16, 18, and 20. Will also report 95% confidence intervals for these estimates. Again, will follow the approach described in our previous work. Note, will consider both standard and updated cutoffs and will use batch-adjusted levels. Can obtain the relative risk for seroreversion and its 95% confidence interval using score tests. Will then use generalized linear mixed models with seroreversion as the outcome and all other parameters similar to above to assess trends over time., Between years 11 and 20 after initial vaccination
+PRIMARY OBJECTIVES:
+
+I. Estimate the change in antibody levels between years 11 and 20. II. Estimate the proportion of individuals who become seronegative (i.e.: serorevert) between years 11 and 20.
+
+SECONDARY OBJECTIVES:
+
+I. Assess the prevalence and distribution of type-specific HPV infections at least 18 years after HPV vaccination.
+
+II. Assess the number and type of premalignant lesions present at least 18 years after vaccination.
+
+III. For each dose regimen, characterize HPV-specific memory B cells and long-lived plasma cells present at least 18 years after HPV vaccination, and compare these characteristics with results from earlier time points.
+
+OUTLINE: This is an observational study.
+
+Patients complete a short questionnaire regarding risk factors for HPV infection and undergo collection of blood samples for testing HPV16 and HPV18 levels on study.

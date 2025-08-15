@@ -1,0 +1,23 @@
+Donor Stem Cell Transplant in Treating Patients With Previously Treated Lymphoma, Multiple Myeloma, or Chronic Lymphocytic Leukemia
+RATIONALE: Giving chemotherapy, such as cyclophosphamide and busulfan, and total-body irradiation before a donor stem cell transplant helps stop the growth of cancer cells. It also stops the patient's immune system from rejecting the donor's stem cells. The donated stem cells from bone marrow or umbilical cord blood may replace the patient's immune cells and help destroy any remaining cancer cells (graft-versus-tumor effect). Sometimes the transplanted cells from a donor can also make an immune response against the body's normal cells. Giving methotrexate and cyclosporine after transplant may stop this from happening.
+
+PURPOSE: This phase II trial is studying how well a donor stem cell transplant works in treating patients with previously treated lymphoma, multiple myeloma, or chronic lymphocytic leukemia.
+Leukemia|Lymphoma|Multiple Myeloma and Plasma Cell Neoplasm
+DRUG: busulfan|DRUG: cyclophosphamide|BIOLOGICAL: Stem cell infusion|RADIATION: Total body irradiation
+Number of Participants With Engraftment Failure, Graft failure is defined as not accepting donated cells. The donated cells do not make the new white blood cells, red blood cells and platelets., 3 Months|Number of Participants With Neutrophil Engraftment, Time to 1st 3 consecutive days with absolute neutrophil count (ANC) \> 5 x 10\^8/L and percentage of patients with neutrophil recovery by day 42 (Cumulative incidence)., Day 42|Number of Participants With Platelet Engraftment, Time to platelets \> 20,000 (first of 3 consecutive days) with no platelet transfusions for seven days and percentage of patients with platelet engraftment \>50,000 by day 100., Day 180|Number of Participants With Grade 3-4 Acute Graft-versus-host Disease, Acute Graft-Versus-Host Disease is a severe short-term complication created by infusion of donor cells into a foreign host., Day 100|Number of Participants With Persistence Disease, the return of disease after its apparent recovery/cessation., 3 Years|Number of Participants With Relapse of Malignancy, the return of disease after its apparent recovery/cessation., 3 Years|Number of Participants With 1 Year Overall Survival, The percentage of people in a study or treatment group who are alive for a certain period of time after they were diagnosed with or treated for a disease, such as cancer. Also called survival rate.
+
+Overall survival will be defined as time from date enrollment to date of death or censored at the date of last documented contact for patients still alive., 1 year|Number of Participants With 2 Year Overall Survival, The percentage of people in a study or treatment group who are alive for a certain period of time after they were diagnosed with or treated for a disease, such as cancer. Also called survival rate.
+
+Overall survival will be defined as time from date enrollment to date of death or censored at the date of last documented contact for patients still alive., 2 year
+Number of Participants With of Chronic GVHD., Chronic Graft-Versus-Host Disease is a severe long-term complication created by infusion of donor cells into a foreign host., 1 Year
+OBJECTIVES:
+
+* Determine if allogeneic stem cell transplantation using unrelated matched or related haploidentical donor bone marrow or unrelated matched cord blood results in timely, complete, and durable engraftment in patients with previously treated lymphoma, multiple myeloma, or chronic lymphocytic leukemia.
+* Determine the incidence and grade of acute and chronic graft-versus-host disease in patients treated with this regimen.
+* Determine if the augmented graft-versus-tumor effect accompanying unrelated or partially matched donor allogeneic transplant reduces the incidence of relapse in these patients.
+
+OUTLINE:
+
+* Preparative regimen: Patients receive cyclophosphamide IV over 2 hours on days -7 and -6 and undergo total-body irradiation (TBI) twice daily on days -4 to -1. Patients who are unable to undergo TBI receive busulfan IV or orally 4 times daily on days -9 to -6 and cyclophosphamide IV over 2 hours on days -5 to -2.
+* Stem cell transplantation: All patients undergo unrelated matched bone marrow or umbilical cord blood transplantation or partially matched related allogeneic bone marrow transplantation on day 0.
+* Graft-versus-host disease (GVHD) prophylaxis: Patients receive GVHD prophylaxis comprising methotrexate and cyclosporine. Patients may be enrolled in other protocols directed towards GVHD prophylaxis.

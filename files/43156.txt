@@ -1,0 +1,80 @@
+Implementing Polygenic Risk Scores for Breast Cancer Prevention: a Feasibility Study
+The goal of this single-arm interventional study is to learn whether integrating a polygenic risk score (PRS) into the CanRisk model can help improve breast cancer risk prediction and prevention in adult women with or without a family history of breast cancer and in women diagnosed with unilateral breast cancer. The main questions it aims to answer are:
+
+1. Is it feasible and acceptable to add PRS testing into standard breast cancer risk assessment for healthcare professionals and patients?
+2. Does PRS testing change the way individuals are categorized into low, moderate, or high-risk groups?
+3. What practical barriers or facilitators do participants and healthcare staff identify when using PRS in a routine clinical setting?
+
+Participants will:
+
+* Provide a blood sample for PRS testing and for pathogenetic variants for breast cancer risk (if they have not already had genetic testing).
+* Complete a questionnaire on their experience and acceptance of PRS.
+
+Because this is a single-arm study, there is no separate comparison group. The study team will use the results to see how well PRS can be integrated into clinical care and whether it offers any improvements in prevention strategies for breast cancer.
+Breast Cancer
+DIAGNOSTIC_TEST: Integrated PRS-Enhanced Breast Cancer Risk Assessment (CanRisk model)
+Number of women accessing the pathway, At the time of participant enrollment in the clinical pathway for risk assessment.|Acceptance rate, Percentage of women accepting PRS testing among those offered, At the time of enrollment, when eligible participants are offered PRS testing.
+Qualitative assessment of PRS fesibility among healthcare professionals, using the CPSET questionnaire, This outcome will be measured using the Care Process Self-Evaluation Tool (CPSET), a validated 29-item instrument developed to assess how the process of care is organized. Three subscales will be used:
+
+* Patient-focused organization;
+* Coordination of care;
+* Monitoring/follow-up of the care process. Each item is rated on a 1-10 scale and a higher total score indicates better organization of the care process. Subscale scores can also be reported to highlight specific areas of care process organization., At the end of the 12-month study period.|Qualitative assessment of PRS feasibility among patients, using CPSET questionnaire, This outcome will be measured using the Care Process Self-Evaluation Tool (CPSET), a validated 29-item instrument developed to assess how the process of care is organized. The CPSET evaluates two subscales (for patients):
+
+* Communication with patients and families;
+* Cooperation with primary care. Each item is rated on a scale from 1 to 10, and a higher total score indicates better organization of the care process. Subscale scores can also be reported to highlight specific areas of care process organization., Immediately after receiving their genetic counseling (on average 2-4 weeks after enrollment).|Risk reclassification rate, Percentage of women whose risk classification changes after PRS integration, (comparing risk category assessed at baseline and reassessed after PRS analysis is complete)., Through study completion, up to 12 months.|Distribution of participants across low, moderate, and high breast cancer risk categories before and after integration of PRS, This outcome measure assesses the distribution of participants across the three risk categories (low, moderate, high) prior to PRS integration, followed by the distribution after PRS results have been incorporated. The number and proportion of participants in each category will be determined, and any changes in distribution attributed to PRS will be evaluated., Through study completion, up to 12 months (the final distribution is calculated once all participants have received their PRS results).
+This single-arm feasibility study will integrate polygenic risk scores (PRS) into the CanRisk breast cancer risk model and evaluate the logistical and organizational aspects of its use in an established clinical setting. By embedding PRS testing into routine patient visits at the Fondazione Policlinico Universitario Agostino Gemelli, the study aims to examine how well these genomic data can be incorporated into existing workflows for breast cancer risk assessment.
+
+Enrolled participants (both healthy individuals with a familial predisposition and those with unilateral breast cancer) will receive standard genetic counseling, including testing for known high-penetrance mutations if not already completed. In addition, they will be offered PRS testing using a SNP-based assay, which aggregates multiple low-penetrance genetic variants to refine the risk estimate provided by CanRisk. All molecular analyses will be performed under standardized laboratory protocols to ensure consistent quality control (QC), including genotyping and imputation steps.
+
+Key technical procedures include:
+
+Blood sample collection (≥0.5 mL) for DNA extraction and SNP genotyping using a commercially available array.
+
+Genetic data management and QC, encompassing alignment to reference panels, imputation of missing genotypes, and filtering out low-frequency variants or those failing QC thresholds.
+
+Integration of PRS results into the patient's risk profile alongside clinical, familial, and lifestyle factors already captured by CanRisk.
+
+Study staff will document any changes (such as shifts in risk category) that occur once PRS results are factored in, as well as any modifications to the care pathway. Feasibility will be assessed using process metrics (e.g., number of participants offered PRS and acceptance rates, time from sample collection to result communication) and through structured questionnaires to both patients and healthcare professionals. These questionnaires capture impressions of risk communication clarity, perceived utility of the PRS, and any challenges or facilitators identified when introducing this genomic tool into routine practice.
+
+Questionnaire to patients:
+
+* Communication with Patients and Families:
+
+  1. Adequate time is allocated to explain PRS tests to patients and their families.
+  2. Dedicated time is scheduled for genetic counseling sessions.
+  3. Sufficient time is provided to explain the combined genetic and PRS results.
+  4. The patients are well informed about their personalized risk assessment.
+* Collaboration with Territorial Services:
+
+  4. General practitioners are informed about the implementation of PRS. 5. There is good coordination between the genetics clinic and primary care. 6. There are clear communication channels between specialists and general practitioners.
+
+Questionnaire to healthcare professionals.
+
+- Patient-centred organization:
+
+1. There is a patient-centered vision for genetic risk assessment within the organization.
+2. The quality of genetic counseling and PRS testing is a priority within the organization.
+3. The genetic counseling coordinator has a patient-centered vision.
+4. The communication of genetic test results and PRS scores is considered important.
+5. The organizational structure supports integrated genetic testing services.
+6. There is a clear vision of the genetic testing policy throughout the hospital.
+
+   - Care process coordination:
+7. The agreements regarding the PRS test workflow are respected.
+8. All team members understand the stages of genetic testing and PRS evaluation.
+9. There is an optimal timeline between genetic testing and PRS analysis.
+10. There are clear protocols for the management of biological samples for PRS testing.
+11. Team members are involved in the coordination of genetic and PRS testing.
+12. Patients receive clear information about the results of both the genetic tests and the PRS.
+13. Follow-up appointments (if applicable) are scheduled appropriately after the communication of results.
+
+    - Monitoring and follow-up
+14. The quality indicators for PRS implementation are clearly defined.
+15. Patients' needs are systematically monitored during the testing process.
+16. Patient satisfaction with combined genetic and PRS testing is monitored.
+17. The objectives of the integrated risk assessment are explicitly described.
+18. There is a monitoring system in place to verify the completion of all testing phases.
+19. The results of the combined risk assessment are systematically tracked.
+20. Variations in PRS results are monitored and documented.
+21. Risk communication processes are systematically evaluated.
+22. The entire testing process is continuously monitored and adjusted.

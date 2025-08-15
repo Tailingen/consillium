@@ -1,0 +1,35 @@
+Testing the Use of Combination Therapy in Patients With Persistent Low Level Acute Myeloid Leukemia Following Initial Treatment, The ERASE Study (A MyeloMATCH Treatment Trial)
+This phase II MyeloMATCH treatment trial compares cytarabine versus (vs.) cytarabine and venetoclax vs. liposome-encapsulated daunorubicin-cytarabine and venetoclax vs. azacitidine and venetoclax for treating patients who have residual disease after treatment for acute myeloid leukemia (AML). Cytarabine is in a class of medications called antimetabolites. It works by slowing or stopping the growth of cancer cells in the body. Venetoclax is in a class of medications called B-cell lymphoma-2 (BCL-2) inhibitors. It may stop the growth of cancer cells by blocking Bcl-2, a protein needed for cancer cell survival. Liposome-encapsulated daunorubicin-cytarabine is a drug formulation that delivers daunorubicin and cytarabine in small spheres called liposomes, which may make the drugs safer or more effective. Azacitidine is a drug that interacts with DNA and leads to the activation of tumor suppressor genes, which are genes that help control cell growth. This study may help the study doctors find out if the different drug combinations are equally effective to the usual approach of cytarabine alone while requiring a shorter duration of treatment. To decide if they are better, the study doctors will be looking to see if the study drugs lead to a higher percentage of patients achieving a deeper remission compared to cytarabine alone.
+Acute Myeloid Leukemia|Acute Myeloid Leukemia Arising From Previous Myelodysplastic Syndrome|Acute Myeloid Leukemia Arising From Previous Myeloproliferative Neoplasm|Acute Myeloid Leukemia Post Cytotoxic Therapy|Secondary Acute Myeloid Leukemia
+DRUG: Azacitidine|PROCEDURE: Bone Marrow Aspiration and Biopsy|DRUG: Cytarabine|PROCEDURE: Echocardiography Test|DRUG: Liposome-encapsulated Daunorubicin-Cytarabine|PROCEDURE: Multigated Acquisition Scan|DRUG: Venetoclax
+Frequency of measurable residual disease (MRD) negative complete remission (CR), Will be centrally evaluated. The MRD negative CR frequency will be compared between each experimental arm and the standard therapy arm using Fisher's exact test with one-sided alpha of 0.10 for each comparison. Test results with one-sided p-value \< 0.10 will be considered statistically significant. Multivariable logistic regression modeling will also be used to examine the treatment effect between each experimental arm and the standard therapy arm, adjusting for stratification factors and other possible clinical and biological risk factors., Following 2 cycles of consolidation (56 days)
+Overall survival, Estimates, including medians and confidence intervals, will be calculated using the Kaplan-Meier method. Comparison between each experimental arm and the standard therapy arm will be conducted using the one-sided log-rank test. Only nominal p-values will be provided. Cox proportional hazards models will also be used to assess the treatment effect, adjusting for stratification factors and other possible clinical and biological risk factors., Between randomization and death from any cause, assessed up to 10 years|Disease-free survival, Estimates, including medians and confidence intervals, will be calculated using the Kaplan-Meier method. Comparison between each experimental arm and the standard therapy arm will be conducted using the one-sided log-rank test. Only nominal p-values will be provided. Cox proportional hazards models will also be used to assess the treatment effect, adjusting for stratification factors and other possible clinical and biological risk factors., From randomization to relapse or death in remission, assessed up to 10 years|Rate of allogeneic transplant, Up to 10 years|Incidence of adverse events, Toxicity will be determined using the Common Terminology Criteria for Adverse Events (CTCAE)., Up to 10 years
+PRIMARY OBJECTIVES:
+
+I. To improve the rate of measurable residual disease (MRD) negative complete remission (CR) in patients with acute myeloid leukemia (AML) who have achieved a MRD positive CR after induction chemotherapy received in a myeloMATCH young adult basket tier-1 protocol.
+
+II. To determine the rate of achieving MRD negative CR after 2 cycles of post-remission therapy with cytarabine vs. cytarabine + venetoclax or liposome-encapsulated daunorubicin-cytarabine (daunorubicin and cytarabine liposome) + venetoclax azacitidine + venetoclax in AML or myelodysplastic syndrome (MDS) who were MRD positive post induction therapy.
+
+SECONDARY OBJECTIVES:
+
+I. To determine the disease-free survival, overall survival in this group of patients.
+
+II. Assess the percentage of patients who receive allogeneic hematopoietic stem cell transplantation (HCT).
+
+III. Compare toxicities of each experimental arm with the control arm.
+
+EXPLORATORY OBJECTIVES:
+
+I. Evaluate MRD kinetics by following patients with detectable MRD through tier 2 and beyond.
+
+II. Evaluate longer term outcomes by treatment arm, genomics, MRD outcome, and other features as patients receive additional myeloMATCH therapies to generate testable hypotheses for more precise patient selection for these therapies aimed at improving outcomes.
+
+OUTLINE: Patients are randomized to 1 of 4 arms.
+
+ARM A: Patients receive cytarabine intravenously (IV) on study. Patients undergo bone marrow aspiration and biopsy on study. Patients may also undergo echocardiogram (ECHO) and/or multigated acquisition scan (MUGA) as clinically indicated.
+
+ARM B: Patients receive cytarabine IV and venetoclax orally (PO) on study. Patients undergo bone marrow aspiration and biopsy on study. Patients may also undergo ECHO and/or MUGA as clinically indicated.
+
+ARM C: Patients receive liposome-encapsulated daunorubicin-cytarabine IV and venetoclax PO on study. Patients undergo bone marrow aspiration and biopsy on study. Patients may also undergo ECHO and/or MUGA as clinically indicated.
+
+ARM D: Patients receive azacitidine IV or subcutaneously (SC) and venetoclax PO on study. Patients undergo bone marrow aspiration and biopsy on study. Patients may also undergo ECHO and/or MUGA as clinically indicated.

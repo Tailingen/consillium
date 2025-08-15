@@ -1,0 +1,17 @@
+Timely Ordering of Pharmacogenetic Testing
+The goal of this trial is to learn if a machine learning (ML) model can help optimize drug therapy in the pediatric population. The main question\[s\] it aims to answer are whether a machine learning model predicting receipt of a targeted medication within the next three months:
+
+* Increases the offering of pharmacogenetic testing prior to receipt of a targeted medication
+* Increases the number of patients with pharmacogenetic results prior to receipt of a targeted medication
+* Increases the number of patients who have alteration in medication choice or dose based on pharmacogenetic results
+
+This trial only focuses on the prediction and provision of participants with a high-risk of receiving a medication with a pharmacogenetic indication in the next three months.
+Machine Learning|Prediction Models|Pediatrics|Precision Medicine
+OTHER: ML-based intervention
+Proportion of Patients with Pharmacogenetic Testing, The primary outcome will be the proportion of patients with pharmacogenetic testing offered among those who receive a medication with a pharmacogenetic indication within three months of prediction time. Testing must be offered prior to receipt of the first targeted medication., Day 1 to 3 months
+Number of patients with pharmacogenetic results available prior to receipt of targeted medication, Measured via chart review, Day 1|Number of patients who have alteration in medication choice or dose based on pharmacogenetic results, Measured via chart review, Day 1
+This study aims to evaluate the effectiveness of a ML model in predicting patients at high risk of requiring a "targeted medication" within the next three months. A machine learning model will predict, the morning following admission to any inpatient service, whether there will be receipt of a targeted medication within the next three months. The research team will be notified regarding eligible patients each morning, and the research team or pharmacogenomics team will approach the patient's primary care team as applicable. By leveraging ML, this study seeks to enhance the identification of patients who would benefit from such medications in a timely and resource-efficient manner.
+
+The study team identified specific medications as indications for pharmacogenetic testing based on prevalence and level of evidence for modifying prescribing practices. These pre-selected medications are referred to as "targeted medications" and are as follows: azathioprine, brivaracetam, clobazam, clopidogrel, flecainide, phenytoin, tacrolimus, voriconazole and warfarin. Only systemically administered (oral, subcutaneous, intramuscular or intravenous) medications or prescriptions (e.g. not topical, intrathecal or intravitreal) are included. Phenytoin was only considered if given orally (to exclude emergency administration without a plan for ongoing treatment).
+
+Pharmacogenetic testing will be offered to participants and conducted as addressed in an associated pharmacogenetic testing protocol (REB# 1000053445 PI: Iris Cohn).

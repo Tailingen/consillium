@@ -1,0 +1,31 @@
+Basiliximab in Treating Patients With Newly Diagnosed Glioblastoma Multiforme Undergoing Targeted Immunotherapy and Temozolomide-Caused Lymphopenia
+RATIONALE: Monoclonal antibodies, such as basiliximab, can block tumor growth in different ways. Some block the ability of tumor cells to grow and spread. Others find tumor cells and help kill them or carry tumor-killing substances to them. Drugs used in chemotherapy, such as temozolomide, work in different ways to stop the growth of tumor cells, either by killing the cells or by stopping them from dividing. Radiation therapy uses high-energy x-rays to kill tumor cells. Vaccines may help the body build an effective immune response to kill tumor cells. Giving these treatments together may kill more tumor cells. Granulocyte Macrophage-Colony Stimulating Factor (GM-CSF) is a powerful adjuvant capable of stimulating macrophage function, inducing proliferation and maturation of DCs, and is able to enhance T-lymphocyte stimulatory function. Intradermal administration of GM-CSF enhances the immunization efficacy at the site of administration
+
+PURPOSE: This clinical trial is studying how well basiliximab works in treating patients with newly diagnosed glioblastoma multiforme and temozolomide-caused lymphopenia who are undergoing targeted immunotherapy.
+Malignant Neoplasms Brain
+BIOLOGICAL: RNA-loaded dendritic cell vaccine|DRUG: basiliximab
+Functional capacity of CD4+,CD25+, CD127- T-regulatory cells, Functional and quantitative recovery of regulatory T cells is measured during and following study treatment and at the time of tumor progression, which is estimated to be about 26 months from time of diagnosis based on expected progression free survival rates with standard of care therapy., Approximately 26 months at time of brain tumor progression
+Safety of CMV pulsed pp65 DC vaccines, Number of patients experiencing WHO Grade 3, 4, and 5 adverse events considered possibly, probably, or definitely related to study treatment, 2 months following last vaccine administration|Effect of basilixiumab on pp65 vaccine, Determine if basiliximab enhances the magnitude or character of pp65-specific vaccine-induced cellular or humoral immune responses, inhibits or enhances activation-induced cell death, or induces immunologic or clinical evidence of autoimmunity, 1 year|Effect of basilixiumab on immune profiles, Determine if basiliximab alters the phenotype (CD56-expression), cytokine secretion profile, or cytotoxicity of CD3-CD56+ NK cells, 1 year|Progression-free survival (PFS), Time in months from the start of study treatment to the date of first progression according to RANO criteria, or to death due to any cause. Patients alive who had not progressed as of the last follow-up had PFS censored at the last follow-up date. Median PFS was estimated using a Kaplan-Meier curve., 1 year|Characterize immune cells in recurrent tumors, Characterize immunologic cell infiltrate in recurrent tumors and seek evidence of antigen escape outgrowth, 1 year
+OBJECTIVES:
+
+Primary
+
+* To determine if basiliximab inhibits the functional and numeric recovery of T-regulatory cells after therapeutic temozolomide (TMZ)-induced lymphopenia in the context of vaccinating adult patients with newly diagnosed glioblastoma multiforme (GBM) using cytomegalovirus (CMV) pp65-lysosomal-associated membrane protein (LAMP) mRNA-loaded dendritic cells (DCs) with GM-CSF in patients who are seropositive and seronegative for CMV.
+
+Secondary
+
+* To evaluate the safety of basiliximab in these patients.
+* To determine if basiliximab enhances the magnitude or character of pp65-specific vaccine-induced cellular or humoral immune responses, inhibits or enhances activation-induced cell death, or induces immunologic or clinical evidence of autoimmunity.
+* To determine if basiliximab alters the phenotype (CD56 expression), cytokine secretion profile, or cytotoxicity of CD3-CD56+ natural killer cells.
+* To determine if basiliximab in addition to vaccination extends progression-free survival compared to historical cohorts.
+* To characterize immunologic cell infiltrate in recurrent tumors and seek evidence of antigen-escape outgrowth.
+
+OUTLINE: Patients undergo leukapheresis for generation of dendritic cells (DCs) after resection. After initial leukapheresis, all patients undergo stereotactic radiotherapy (RT) on days 1-5 and concurrent temozolomide (TMZ) IV on days 1-7 for 6.5 weeks in the absence of disease progression or unacceptable toxicity.
+
+Beginning 3 weeks after completion of RT, patients receive TMZ IV on days 1-5. Treatment repeats every 28 days for 12 courses in the absence of disease progression or unacceptable toxicity. On day 14 ± 2 days of this first cycle of TMZ, patients will receive basiliximab, which is 7 days (± 2 days) before DC vaccine #1 and 2 weeks later, a second dose of basiliximab will be given, which is also 7 days before vaccine # 2.
+
+All patients will undergo leukapheresis again for DC generation and immunologic monitoring with specific assessment of baseline antigen-specific cellular and humoral immune responses 3 + 1 weeks after vaccine #3.
+
+Patients will then be treated monthly with TMZ cycles for a total of 12 cycles . On day 21 ± 2 days of each TMZ cycle, patients will receive monthly vaccines for a total of 8 vaccines. Patients will have blood drawn for immunologic monitoring before basiliximab infusions and prior to vaccines 1, 2, 3, and prior to monthly vaccines and then bimonthly through TMZ cycles without receiving any other prescribed antitumor therapy until progression.
+
+After completion of study treatment, patients are followed every 2 months.

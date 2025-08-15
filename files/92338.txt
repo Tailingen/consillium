@@ -1,0 +1,45 @@
+Bortezomib and Pemetrexed Disodium in Treating Patients With Advanced Non-Small Cell Lung Cancer or Other Solid Tumors
+RATIONALE: Bortezomib and pemetrexed disodium may stop the growth of tumor cells by blocking some of the enzymes needed for cell growth. Giving bortezomib together with pemetrexed disodium may kill more tumor cells.
+
+PURPOSE: This phase I/II trial is studying the side effects and best dose of two different schedules of bortezomib when given together with pemetrexed disodium and to see how well they work in treating patients with advanced non-small cell lung cancer or other solid tumors.
+Lung Cancer|Unspecified Adult Solid Tumor, Protocol Specific
+DRUG: bortezomib|DRUG: pemetrexed disodium|GENETIC: gene expression analysis|GENETIC: mutation analysis|GENETIC: protein expression analysis|GENETIC: reverse transcriptase-polymerase chain reaction|OTHER: flow cytometry|OTHER: immunoenzyme technique|OTHER: immunohistochemistry staining method
+Number of Patients Experiencing a Dose-limiting Toxicity (Phase I), Grade 4 thrombocytopenia or grade 3 thrombocytopenia associated with bleeding, requirement for transfusion or lasting \>7 days; febrile neutropenia; grade 3 neutropenia associated with infection; any other grade \>/=3 non-hematologic toxicity considered by the investigator to be related to study drug., Up to 36 months|Number of Participants Who Experience Adverse Events (Phase I), Number of participants with treatment-related adverse events as assessed by CTCAE v3.0 (Phase I)., Throughout the entire study (up to 36 months).|Number of Patients With Grade ≥ 3 Toxicity (Phase I), Grade 3/4 toxicity occurring in a patient within 1 cycle., First cycle of treatment (3 weeks)|Number of Patients Who Responded to Study Treatment (Phase II), To determine the response rate of bortezomib in combination with pemetrexed in patients with advanced NSCLC. Response rate was assessed by CT scan. CT scans was performed at baseline and every two cycles (prior to 3rd and 5th cycle). The evaluation of response was based on standard RECIST criteria., From start of treatment until disease progression/recurrence.
+Number of Patients With Toxicity by NCI CTC v3.0 (Phase I), Adverse events possibly related to treatment, graded according to the NCI CTCAE v3.0., Up to 36 months|Maximum Tolerated Dose of Bortezomib in Combination With Pemetrexel (Phase I), Up to 36 months|Number of Participants With Response to Therapy as Measured by RECIST (Phase I), Per Response Evaluation Criteria In Solid Tumors Criteria (RECIST) for target lesions and assessed by CT: Complete Response (CR), Disappearance of all target lesions; Partial Response (PR), \>=30% decrease in the sum of the longest diameter of target lesions; Best overall response is the best response recorded from the start of the treatment until disease progression/recurrence., Up to 36 months|Number of Participants With Toxicities (Phase II), Each adverse event will be determined by using the NCI CTCAE, Version 3.0., Up to 36 months|Analysis of Molecular Determinants in Tumor Samples (Phase II), Expression of relevant molecular targets of the proteasome, which is inhibited by bortezomib., Up to 36 months|Importance of Folate-associated Gene Expression and Response or Outcome (Phase II), Overexpression of reduced folate carrier (RFC) protein is thought to contribute to decreased resistance to pemetrexed. Levels of expression will be studied by measuring mRNA transcripts using quantitative Reverse Transcriptase-Polymerase Chain Reaction in archival patient tumor specimens., Up to 36 months|Effect of Bortezomib on Over Expression of NF-kB, BCL-2, and BCL-xL (Phase II), Tumor levels of BCL-2, BCL-xL and BAX will be assessed by immunohistochemistry (IHC)., Up to 36 months
+OBJECTIVES:
+
+Primary
+
+* Determine the safety, including dose-limiting toxicities, and feasibility of combining bortezomib with pemetrexed disodium in patients with advanced non-small cell lung cancer (NSCLC) or other solid tumors. (Phase I)
+* Determine the response rate in patients with advanced NSCLC treated with this regimen. (Phase II)
+
+Secondary
+
+* Compare the toxicity of 2 different schedules of bortezomib and pemetrexed disodium in patients with advanced solid tumors. (Phase I)
+* Determine the maximum tolerated dose (MTD) of bortezomib when administered with pemetrexed disodium in 2 different treatment schedules in these patients. (Phase I)
+* Determine, preliminarily, the efficacy of the combination of bortezomib and pemetrexed disodium in patients with advanced solid tumors. (Phase I)
+* Assess the overall survival and progression-free survival of these patients. (Phase II)
+* Evaluate the frequency and severity of toxicities associated with this regimen. (Phase II)
+
+Tertiary
+
+* Perform laboratory correlative studies on tumor tissue and blood samples to investigate potential predictors of response. (Phase II)
+
+OUTLINE: This is a phase I, dose-escalation study of bortezomib followed by a phase II, open-label study.
+
+* Phase I: Patients will be accrued, in an alternating fashion, to 1 of 2 treatment groups.
+
+  * Group I: Patients receive pemetrexed disodium IV on day 1 and bortezomib IV on days 1, 4, 8, and 11.
+  * Group II: Patients receive pemetrexed disodium IV on day 1 and bortezomib IV on days 1 and 8.
+
+In both groups, treatment repeats every 21 days in the absence of unacceptable toxicity or disease progression.
+
+Cohorts of 3-6 patients per group receive escalating doses of bortezomib until the maximum tolerated dose (MTD) is determined. The MTD is defined as the dose preceding that at which 2 of 3 or 2 of 6 patients experience dose-limiting toxicity.
+
+* Phase II: Patients receive pemetrexed disodium bortezomib (at the MTD) as in either group I or group II of the phase I portion of the study. Selection of the treatment schedule is based upon observed toxicity, safety, tolerability, efficacy, and clinical practicality.
+
+Blood is drawn at baseline and prior to courses 2 and 3 for correlative and molecular studies.
+
+Tumor tissue and blood samples from patients enrolled in the phase II portion of the study are examined for various biological markers. Immunohistochemistry is used to measure BCL-2 gene, BCL-xL gene, BAX gene, and p27. Reverse transcriptase-polymerase chain reaction is used to assay the expression of thymidylate synthase, folsyl-polyglutamate synthase, and reduced folate carrier. Levels of plasminogen-activator inhibitor 1 gene, vascular endothelial growth factor, and osteopontin are measured by immunoenzyme techniques. The nuclear expression of NF-kB and p27 in blood is compared before and after study treatment by flow cytometry.
+
+After completion of study treatment, patients in phase I are followed for 30 days and patients in phase II are followed periodically.

@@ -1,0 +1,43 @@
+Testing the Timing of Pembrolizumab Alone or With Chemotherapy as First Line Treatment and Maintenance in Non-small Cell Lung Cancer
+This phase III trial studies whether pembrolizumab alone as a first-line treatment, followed by pemetrexed and carboplatin with or without pembrolizumab after disease progression is superior to induction with pembrolizumab, pemetrexed and carboplatin followed by pembrolizumab and pemetrexed maintenance in treating patients with stage IV non-squamous non-small cell lung cancer. Immunotherapy with monoclonal antibodies, such as pembrolizumab, may help the body's immune system attack the cancer, and may interfere with the ability of tumor cells to grow and spread. Chemotherapy drugs, such as pemetrexed, work in different ways to stop the growth of tumor cells, either by killing the cells, by stopping them from dividing, or by stopping them from spreading. Carboplatin is in a class of medications known as platinum-containing compounds. It works in a way similar to the anticancer drug cisplatin, but may be better tolerated than cisplatin. Carboplatin works by killing, stopping or slowing the growth of cancer cells. It is not yet known whether giving first-line pembrolizumab followed by pemetrexed and carboplatin with or without pembrolizumab works better in treating patients with non-squamous non-small cell cancer.
+Lung Non-Squamous Non-Small Cell Carcinoma|Stage IIIB Lung Cancer AJCC v8|Stage IIIC Lung Cancer AJCC v8|Stage IV Lung Cancer AJCC v8
+PROCEDURE: Biospecimen Collection|DRUG: Carboplatin|PROCEDURE: Computed Tomography|PROCEDURE: Magnetic Resonance Imaging|BIOLOGICAL: Pembrolizumab|DRUG: Pemetrexed|PROCEDURE: Positron Emission Tomography
+Overall survival (OS), OS distributions will be estimated using the Kaplan-Meier method., From randomization to death from any cause, assessed up to 5 years post treatment
+Progression-free survival (PFS), PFS distributions will be estimated using the Kaplan-Meier method., From randomization to documented disease progression or death from any cause, assessed up to 5 years post treatment|Best objective response, Best objective response will be evaluated via Response Evaluation Criteria in Solid Tumors 1.1 criteria., Up to 5 years post treatment|Incidence of adverse events, Toxicities will be reported via the Common Terminology Criteria for Adverse Events criteria version 5.0. Toxicity rates between arms in the overall population will be compared using Fisher's exact tests with a one-sided type I error rate of 1.25%; multivariable logistic regression modeling will be used to adjust for the effect of any covariates that are associated with these categorical outcomes., Up to 30 days post treatment|PD-L1 positivity, PD-L1 positivity will be defined as \>= 1% Tumor Proportion Score (TPS) for the purpose of enrollment onto the trial. Strongly PD-L1 positive is defined as \>= 50% TPS; weakly positive is defined as 1% - 49% TPS., At baseline
+PRIMARY OBJECTIVE:
+
+I. To evaluate overall survival (OS) in each of the 2 experimental arms (Arms A and B) to control (Arm C).
+
+SECONDARY OBJECTIVES:
+
+I. To evaluate progression-free survival (PFS) per Response Evaluation Criteria in Solid Tumors (RECIST) 1.1 for Arm C versus each of Arms A and B.
+
+II. To evaluate best objective response rates per RECIST 1.1 for Arm C versus each of Arms A and B.
+
+III. To estimate toxicity within each of the treatment arms via the Common Terminology Criteria for Adverse Events (CTCAE) criteria.
+
+IV. To compare outcomes between Arms A and B. V. To compare outcomes by treatment arm within subgroups defined by a cutpoint of PD-L1 expression at \>= 50%.
+
+BIOMARKER OBJECTIVE:
+
+I. To collect and bank tissue and blood for future research studies, including potential development of a prognostic and predictive signature for pembrolizumab (MK-3475) in combination with chemotherapy versus pembrolizumab (MK-3475) alone.
+
+EXPLORATORY IMAGING OBJECTIVES:
+
+I. To collect and bank standard of care computed tomography (CT) imaging at baseline and first three follow-up post-treatment scans on first line treatment for validating the radiomic risk score with the following exploratory objectives:
+
+Ia. To determine the negative predictive value (NPV) by validating the Radiomic Risk score on pre-treatment scans as well as compute differences between pre- and post- treatment scans (delta features) in determining which patients will benefit from first line pembrolizumab in the metastatic setting in both low (\< 50%) and high (\> 50%) PD-L1 cohorts using patients in Arm 1 and Arm 2 of the trial where pembrolizumab is used as first line treatment.
+
+Ib. To determine the positive predictive value (PPV) by validating the Radiomic Risk score in order to predict which patients would benefit from combination pembrolizumab and subsequent chemotherapy versus (vs.) immunotherapy alone in both low (\< 50%) and high (\> 50%) PD-L1 cohorts using patients who went on to receive chemotherapy as second line and stratifying the patients based on those who received benefit from pembrolizumab plus chemotherapy vs.pembrolizumab alone.
+
+OUTLINE: Patients are randomized to 1 of 3 arms.
+
+ARM A: Patients receive pembrolizumab intravenously (IV) over 30 minutes on day 1. Cycles repeat every 21 days for up to 2 years in the absence of disease progression or unacceptable toxicity. Within 6 weeks of disease progression, patients receive pemetrexed IV over 10 minutes and carboplatin IV over 30 minutes on day 1. Treatment repeats every 21 days for up to 4 cycles in the absence of disease progression or unacceptable toxicity. Patients then may receive pemetrexed IV over 10 minutes on day 1. Cycles repeat every 21 days in the absence of disease progression or unacceptable toxicity.
+
+ARM B: Patients receive pembrolizumab IV over 30 minutes on day 1. Cycles repeat every 21 days for up to 2 years in the absence of disease progression or unacceptable toxicity. Within 6 weeks of disease progression, patients receive pembrolizumab IV over 30 minutes, pemetrexed IV over 10 minutes, and carboplatin IV over 30 minutes on day 1. Treatment repeats every 21 days for up to 4 cycles in the absence of disease progression or unacceptable toxicity. Patients then receive pembrolizumab IV over 30 minutes and pemetrexed IV over 10 minutes on day 1. Cycles repeat every 21 days for up to 2 years for pembrolizumab in the absence of disease progression or unacceptable toxicity and until to disease progression for pemetrexed.
+
+ARM C: Patients receive pembrolizumab IV over 30 minutes, pemetrexed IV over 10 minutes, and carboplatin IV over 30 minutes on day 1. Treatment repeats every 21 days for up to 4 cycles in the absence of disease progression or unacceptable toxicity. Patients then receive pembrolizumab IV over 30 minutes and pemetrexed IV over 10 minutes on day 1. Cycles repeat every 21 days for up to 2 years for pembrolizumab in the absence of disease progression or unacceptable toxicity and until to disease progression for pemetrexed.
+
+Patients undergo magnetic resonance imaging (MRI) during screening, CT scan and blood sample collection throughout the study, and may undergo position emission tomography (PET) scan throughout the study.
+
+After completion of study treatment, patients are followed up for 5 years.

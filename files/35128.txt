@@ -1,0 +1,6 @@
+The Role of TextRAd on Detection of Liver Metastasis in Rectal Cancer
+This is a retrospective analysis of all patients diagnosed with LARC who received NCRT and had MRI scans between 2003-2014 at East Suffolk and North Essex NHS Foundation Trust. Region of interest was drawn around the tumor or its location on T2 MRI images. Six texture parameters were systematically extracted from Textural histograms of post-treatment scans. These parameters were examined to determine their ability to predict local recurrence and distant metastases through Kaplan-Meier survival curves and log-rank tests.
+Rectal Cancer
+DIAGNOSTIC_TEST: MRI
+Local recurrence of rectal cancer, 120 months
+This is a retrospective analysis of all patients diagnosed with LARC who received NCRT and had MRI scans between 2003-2014 at East Suffolk and North Essex NHS Foundation Trust. Region of interest was drawn around the tumor or its location on T2 MRI images. Six texture parameters were systematically extracted from Textural histograms of post-treatment scans. These parameters were examined to determine their ability to predict local recurrence and distant metastases through Kaplan-Meier survival curves and log-rank tests.

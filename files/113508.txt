@@ -1,0 +1,47 @@
+Dermoscopy Augmented Histology Trial, Consensus Agreement Diagnosis Made by Dermatopathology Experts
+It has been suggested that pathologists' diagnostic accuracy and confidence could be improved if they gained access to additional clinical information and in-vivo clinical and dermoscopic images of melanocytic tumors. This study examines the effect of digital training for pathologists in interpreting dermoscopic and clinical skin tumor images. The primary outcome of the upcoming DAHT RCT (Dermoscopy Augmented Histology Trial, a randomized controlled trial) is the diagnostic value (accuracy, sensitivity, and specificity) for the intervention and control group. For this purpose, we need an expert agreeable MPATH-Dx classification and diagnosis for all DAHT cases. The DAHT consensus trial strives to establish this gold standard through a four-phased Delphi-like process.
+
+Aim: To establish an expert agreeable MPTAH-Dx classification and diagnosis for all DAHT cases.
+
+Data collection of DAHT cases: Department of plastic surgery, Herlev hospital, year 2020-2021
+
+DAHT platform: Made in 2021-2023 by Melatech
+
+Consensus agreement: Four dermatopathologists assess all DAHT cases, year 2023-2024
+Melanoma (Skin)|Pigmented Lesions
+Gold standard diagnosis by using a Delphi-like process, Diagnostic agreement among participating experts in all DAHT cases with individual assessments and, later on, a discussion about ambiguous cases., 3 months
+Background Several publications suggest that the increasing melanoma incidence may partly be caused by histopathological overdiagnosis (Glasziou, 2020). Pathologists provide the current gold standard in skin lesion diagnostics (Elmore, 2017), most often primarily based on the interpretation of histological slides. Still, it has been suggested that pathologists' diagnostic accuracy and confidence could be improved if they gained access to additional clinical information and in-vivo clinical and dermoscopic images of melanocytic tumors (Scolyer, 2019) (Elder, 2018). This could help the pathologist generate a complete image of the lesion. However, interpreting clinical and dermoscopic images is challenging, and mastery typically requires several years of clinical experience (Ternov 2021). This learning journey can be significantly shortened if the trainee receives comprehensive training in pattern recognition for dermoscopy and clinical images, including immediate, accurate, and individualized feedback and access to a library with a large selection of skin lesion cases (Ericsson, 2015).
+
+This study examines the effect of digital training for pathologists in interpreting dermoscopic and clinical skin tumor images.
+
+Former studies have only focused on melanocytic lesions. Still, most pathologists will receive both melanocytic and pigmented non-melanocytic lesions (seborrheic keratoses, dermatofibromas, etc.) due to clinical suspicion of melanoma. This study includes an un-filtered selection of 211 clinically melanoma-suspect skin lesions excised at a specialized surgical department; this material is named the DAHT cases.
+
+The primary outcome of the upcoming DAHT RCT (Dermoscopy Augmented Histology Trial, a randomized controlled trial) is the diagnostic value (accuracy, sensitivity, and specificity) for the intervention and control group. For this purpose, we need an MPATH-Dx classification and diagnosis for all DAHT cases agreed upon by experts in the field. The DAHT consensus agreement trial strives to establish this through a four-phased Delphi-like process.
+
+Aim: To establish an expert agreeable MPTAH-Dx classification and diagnosis for all DAHT cases.
+
+Method Case Database
+
+Lesion data were collected from patients between 02.11.2020 and 22.01.2021 at the Department of Plastic Surgery, Herlev Hospital. Requirements for eligibility for the current study are:
+
+The patient was referred through the clinical cancer pathways for melanoma. The lesion was excised upon evaluation by the plastic surgeon.
+
+Patients received oral and written information about the project and were asked to sign a consent form before participation. The participation did not affect the included patients' treatment, diagnostics, or follow-up. Upon consent, the following information was collected for each lesion:
+
+Clinical image Dermoscopic image Patient CPR-number (personal ID number) Sex and age of the patient Location of skin tumor (on a 3D avatar) Medical history (former treatment, congenital nevi, if pregnant, time of appearance of skin lesion, change in appearance, symptoms, former melanoma or other skin diseases, family history of melanoma, sun exposure within the last six months) After excision, the specimen was prepared for pathological examination and a representative hematoxylin-eosin stain, and, if available, a MelanA stain for each skin lesion was chosen for the study by an experienced dermatopathologist. These stains were subsequently digitized and coupled with the relevant information (dermoscopic and clinical image, tumor location, sex, age, lesion information, etc.). The CPR number was deleted, rendering the case anonymous. Each case is stored in a database under a random anonymous ID number.
+
+Web-based IT platform
+
+To maximize the number of pathologists included in the study, the investigators have developed an IT platform for the trial (The DAHT platform). The platform enables the following features:
+
+Sign-in Automated randomization Login Case presentation Diagnosis of cases and subquestions Tracking The diagnostic options will be based on the standardized MPATH-Dx version 2.0 (Barnhill, 2023). After diagnosing the lesion, participating pathologists will rate both confidence and difficulty in the chosen diagnosis on a 6-step Likert scale. They will also be asked whether they want a second opinion and what tests/stains they need. The tracking feature will enable search pattern analysis, including time per diagnosis and percentage of time spent looking at histology stains, dermoscopic images, clinical images, and clinical information.
+
+Consensus agreement The consensus agreement on the diagnosis of each case and MPATH-Dx classification will be reached through a Delphi-like process consisting of four phases. Four international well-acknowledged experts in dermatopathology have been invited to participate as the expert panel in this study.
+
+Phase 1 - Online discussion When phase 1 has been concluded, all experts will be invited to an online discussion. Issues and suggestions regarding the DAHT cases and platform will be discussed during the meeting. The primary investigator will formulate a plan to remedy/accommodate these. If the expert group concludes that additional cases are required for the DAHT study, these will be collected by the primary investigator.
+
+Phase 2 - Independent diagnostics All participating experts will be asked to independently review and diagnose all 211 DAHT cases. This will be facilitated through the DAHT platform (developed for the purpose), and the primary investigator will send regular reminders if needed. The website continuously saves the experts' progress, ensuring they can diagnose the 211 cases in small batches over 30 days. All experts will be asked to take notes regarding suggestions to improve the DAHT platform and DAHT dataset.
+
+Phase 3 - Review of ambiguous cases An anonymous report with data from Phase 1 and a list of all ambiguous cases with less than 80% observer agreement and cases in which all experts are rated higher than four on difficulty and confidence will be emailed to the participating experts. The experts will be asked to reevaluate the ambiguous cases independently, with the data from phase 1 at hand. Similar to the previous phase, cases with less than 80% observer agreement/ a confidence and a difficulty level of four or more will go on to phase 4.
+
+Phase 4 - Consensus discussion (online or physical) The primary investigator will facilitate a consensus agreement discussion among the experts regarding the most challenging cases where a disagreement persists beyond Phase 3. An anonymous report on data from Phase 3 will be available during this meeting.

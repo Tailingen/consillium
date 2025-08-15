@@ -1,0 +1,52 @@
+Improving Pancreatic Cancer Care by the Use of Computational Science and Technology
+The goal of the IMPACT project is to set up a data sharing infrastructure between expert centers for pancreatic surgery that enables training, testing and validation of computer science tools to improve quality of care for patients with pancreatic cancer.
+Pancreatic Cancer|Pancreatic Cyst|Pancreatic Adenocarcinoma|Pancreatic Diseases|Pancreas Adenocarcinoma|Pancreas Cyst
+OTHER: No interventions
+Subproject dependent, Endpoints within this project are dependent on the specific subprojects. This study will facilitate the collection of large amounts of real-world data for (future) computer science projects., Through study completion, an average of 5 years.
+Study design: Retrospective, multicenter observational cohort study. Pseudonymized data will be collected retrospectively. Clinical data from patients who underwent diagnostic procedures and treatment for (suspected) benign and malignant pancreatic lesions can be retrieved from the institutional and audit databases and ongoing cohorts of the participating centers. For the collection of clinical data, a Castor Electronic Data Capture (EDC) database will be used. Imaging data, including pseudonymized radiographic images prior to, during and after treatment will be collected via Research Imaging Architecture (RIA) folders and securely stored within the University Medical Center (UMC) Utrecht. Data for artificial intelligence projects can be requested from the central database and is securely shared after approval of each participating site. For this purpose, a project steering committee will be established, which shall consist of one representative of each participating center. The steering committee will be responsible for the overall management of the project, addressing and resolving project management problems, assessing study proposals and deciding on the disclosure of a dataset to the requesting party as described in the Research Collaboration Agreement. Collected data within the consortium database (e.g. preoperative scans, postoperative scans, disease entities, annotations et cetera) will be listed to provide a clear overview of available data.
+
+Study population: All patients who underwent diagnostic procedures and/or treatment for (suspected) benign and malignant pancreatic lesions as registered in the Dutch Pancreatic Cancer Project (PACAP), as well as healthy individuals who received an abdominal CT-scan (controls).
+
+Primary objective: The primary endpoint of this study is dependent on the specific subprojects. This study will facilitate the collection of large amounts of real-world data for (future) computer science projects. The focus of currently prespecified subprojects for the different participating centers are presented below:
+
+1. PI Lois Daamen (Regional Academic Cancer Center Utrecht, UMC Utrecht Cancer Center): To develop an explainable AI (XAI) algorithm that can support clinicians with early local recurrence detection after surgery and local tumor response assessment during (neo)adjuvant and/or definitive chemotherapy and/or radiotherapy in individual patients with pancreatic cancer using common diagnostic modalities. Use of deep learning body composition analysis of clinically acquired Computed Tomography (CT)-scans for personalized chemotherapy dose modification based on (predicted) toxicity profiles.
+2. PI Misha Luyer (Catharina Ziekenhuis Eindhoven): Improved diagnosis and characterization of pancreatic tumors and its relation with surrounding structures. Early detection of primary pancreatic cancer, resectability of pancreatic tumors and evaluation of response to neoadjuvant chemo(radio)therapy.
+3. PI's Jeanin van Hooft, Sven Mieog (Leiden University Medical Center): (Semi)automated pancreas segmentation on Magnetic Resonance Imaging (MRI), development of a classification algorithm for the detection of primary pancreatic cancer and high-grade premalignant lesions on MRI, quantification of longitudinal changes of pancreatic tissue on MRI that may indicate the development of pancreatic cancer. To integrate 3D models of radiological modalities (CT, MRI and PET) to better predict resectability and treatment response of pancreatic tumors.
+4. PI Steven Olde Damink (Maastricht University Medical Center): To define a host phenotype based on medical imaging (body composition variables and radionomics based on CT-imaging analyses) for pancreatic cancer patients to predict postoperative and oncological outcomes.
+5. PI's Joost Klaasse (University Medical Center Groningen) \& Mike Liem (Medisch Spectrum Twente): Use of artificial intelligence for pancreatic cysts.
+6. PI Inez Verpalen (Amsterdam University Medical Center): To develop (1) a model for pancreatic cancer neoadjuvant response evaluation using CT scans (survival and pathology (PA) as outcome), (2) a model for pancreatic carcinoma resectability assessment using CT scans, (3) a multicenter pancreatic carcinoma + vessel segmentation model, (4) a postoperative pancreatic fistula (POPF) prediction model using MRI; (5) an Intraductal papillary mucinous neoplasms (IPMN) segmentation model in MRI; (6) a model for malignancy estimation for IPMN and to perform (7) external validation of POPF prediction using radiomics on CT.
+7. PI Bas Groot Koerkamp (Erasmus Medical Center): i.a. PREOPANC-related projects
+
+Data collection: The following clinical data will be collected:
+
+* Age (years)
+* Gender
+* Height (cm)
+* Weight (kg)
+* Calculated body mass index (BMI; kg/m2)
+* Comorbidity/American Society of Anesthesiologists (ASA) score
+* Eastern Cooperative Oncology Group (ECOG) performance score
+* Date of treatment
+* Type of treatment (i.e. chemotherapy, radiotherapy, surgery, combinations)
+* Complications
+* Histopathological diagnosis
+* Vascular resection
+* Resection margin status (R0/R1/R2)
+* Tumor differentiation
+* Tumor size
+* Pathological tumor, node, metastasis (pTNM) stage
+* Number of positive lymph nodes
+* Presence of recurrence
+* Date of recurrence
+* Recurrence site
+* Vital status
+* Date of death
+* Date of last follow-up Data will be drawn as much as possible from existing clinical databases, including the "Pancreatic Cancer Recurrence in the Netherlands" database (NCT04605237), which includes most of these variables.
+
+Technical data:
+
+* Pre- and post-treatment (follow-up) CT scans
+* Pre- and post-treatment (follow-up) MRI scans
+* Pre- and post-treatment (follow-up) PET-CT scans
+
+Data management is carried out in accordance with the UMC Utrecht Data management policy, as described in the Data Management Plan. Data is collected using a predefined, electronic case record form in Castor EDC. Local clinicians in the participating centers are responsible for data collection. They can, however, transfer this responsibility to the study team. The study team will appoint appropriate personnel for data collection.

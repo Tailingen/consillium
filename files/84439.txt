@@ -1,0 +1,32 @@
+Danvatirsen and Durvalumab in Treating Patients With Advanced and Refractory Pancreatic, Non-Small Cell Lung Cancer, and Mismatch Repair Deficient Colorectal Cancer
+This phase II trial studies how well danvatirsen and durvalumab work in treating patients with pancreatic cancer, non-small cell lung cancer and mismatch repair deficient colorectal cancer that has spread to other places in the body and does not respond to treatment. Danvatirsen may be used to block the production of proteins needed for tumor cell growth. Immunotherapy with monoclonal antibodies, such as durvalumab, may help the body's immune system attack the cancer, and may interfere with the ability of tumor cells to grow and spread. Giving danvatirsen and durvalumab may work better at treating pancreatic cancer, non-small cell lung cancer and mismatch repair deficient colorectal cancer.
+Advanced Colorectal Carcinoma|Advanced Lung Non-Small Cell Carcinoma|Lung Non-Small Cell Carcinoma|Mismatch Repair Deficiency|Refractory Colorectal Carcinoma|Refractory Lung Carcinoma|Refractory Pancreatic Carcinoma|Stage II Pancreatic Cancer AJCC v8|Stage III Colorectal Cancer AJCC v8|Stage III Lung Cancer AJCC v8|Stage III Pancreatic Cancer AJCC v8|Stage IIIA Colorectal Cancer AJCC v8|Stage IIIA Lung Cancer AJCC v8|Stage IIIB Colorectal Cancer AJCC v8|Stage IIIB Lung Cancer AJCC v8|Stage IIIC Colorectal Cancer AJCC v8|Stage IIIC Lung Cancer AJCC v8|Stage IV Colorectal Cancer AJCC v8|Stage IV Lung Cancer AJCC v8|Stage IV Pancreatic Cancer AJCC v8|Stage IVA Colorectal Cancer AJCC v8|Stage IVA Lung Cancer AJCC v8|Stage IVB Colorectal Cancer AJCC v8|Stage IVB Lung Cancer AJCC v8|Stage IVC Colorectal Cancer AJCC v8
+DRUG: Danvatirsen|BIOLOGICAL: Durvalumab
+Incidence of adverse events (AEs), serious AEs, Up to 4 years|Physiological parameters (Laboratory evaluations), Blood samples for routine coagulation assessments will be obtained at screening and once during week 4 of cycle 1., Up to 4 years|Incidence of treatment-emergent AEs (TEAEs), SAEs and death(s), Will be graded in accordance with National Cancer Institute (NCI) Common Terminology Criteria for Adverse Events (CTCAE) version (v)4.03., Up to 4 years|PD-L1 expression, Up to 4 years|Phosphorylated or total STAT3 expression levels, Up to 4 years|Characterization of immune infiltrates, Up to 4 years|Quantification and characterization of CD8 staining pattern, Up to 4 years|PD-L1 protein levels in the membrane of circulating tumor cells, Baseline up to 4 years|Physiological parameters, Vital signs will required at screening before dosing on Day -7 of the Lead-in; before dosing on Days 1, 8, 15, and 22 of each cycle; and at the EOT visit., Up to 4 years|Physical Examinations, A complete physical examination is required at screening, before dosing on Day 7 of the Lead in, before dosing on Day 1 of each cycle, and at the EOT visit. A targeted physical examination as directed by disease, signs and symptoms is required before dosing on Day 15 of each cycle., Up to 4 years
+Disease control, Will be defined as a compete response (CR), partial response (PR) or stable disease (SD), according to Response Evaluation Criteria in Solid Tumors (RECIST) version 1.1 criteria., At 4 months|Objective response, Will be defined as a CR or PR according to RECIST version 1.1., Up to 4 years|Duration of response according to RECIST version 1.1 criteria, From the time measurement criteria are first met for CR or PR, assessed up to 4 years|Best overall response (including CR, PR, SD, and progressive disease [PD], according to RECIST version 1.1 criteria), Up to 4 years|Progression free survival, From allocation assessed up to 4 years|Overall survival, From start of treatment assessed up to 4 years
+Radiomic measurements, These are IRECIST measurements, Baseline up to 4 years
+PRIMARY OBJECTIVES:
+
+I. Evaluate disease control rate (DCR) at 4 months. II. Evaluate tumor-based biomarkers in paired pre and post treatment biopsies (10 in each arm, 30 total) that may correlate with treatment or prospectively identify patients likely to respond to treatment with danvatirsen (AZD9150) in combination with durvalumab (MEDI4736) (may include PD-L1 expression, phosphorylated or total STAT3 expression, tumor genetics, characterization of immune infiltrates, or other stratification markers).
+
+III. Explore the relationship between PD-L1 protein levels in the membrane of circulating tumor cells obtained by peripheral blood draws prior to, during, and after treatment with clinical endpoints including treatment efficacy and toxicity.
+
+SECONDARY OBJECTIVES:
+
+I. Evaluate the frequency of dose limiting toxicities. II. Evaluate frequency of objective response (as defined as partial response \[PR\] or complete response \[CR\] according to Response Evaluation Criteria in Solid Tumors \[RECIST\] 1.1 criteria).
+
+III. Evaluate duration of response (DOR) measured from the time measurement criteria are first met for CR or PR, whichever is first recorded, until the first date that recurrent or progressive disease (PD) is objectively documented.
+
+IV. Evaluate best overall response (including CR, PR, stable disease \[SD\], and PD, according to RECIST version 1.1 criteria).
+
+V. Evaluate progression free survival (PFS) from allocation to the first documentation of PD as determined by the investigator or death from any cause, whichever occurs first.
+
+EXPLORATORY OBJECTIVES:
+
+I. Explore the relationship between radiologic metrics (radiomics) prior to, during, and after treatment with clinical endpoints including treatment efficacy and toxicity.
+
+OUTLINE:
+
+Patients receive danvatirsen intravenously (IV) over 1 hour on days 7, 5 and 3 prior to cycle 1, then on days 1, 8, 15 and 22. Patients also receive durvalumab IV over 1 hour on day 1. Cycles repeat every 28 days in the absence of disease progression or unacceptable toxicity.
+
+After completion of study treatment, patients are followed up at 30 days, 1-3 months, then every 2 months thereafter.

@@ -1,0 +1,17 @@
+Standalone Observational Study Assessing the Performance of an AI/ML Tech-based SaMD on Chest LDCT Images (REALITY)
+This is a Multinational, Multicenter, retrospective study for the evaluation of the standalone efficacy and safety of an Artificial Intelligence/Machine Learning (AI/ML) technology-based end-to-end Computer assisted Detection/Computer Assisted Diagnosis (CADe/CADx) Software as a Medical Device (SaMD) developed to detect, localize and characterize malignant, and suspicious for lung cancer nodules on Low Dose Computed Tomography (LDCT) scans taken as part of a Lung Cancer Screening (LCS) program.
+
+LDCT Digital Imaging and Communications in Medicine (DICOM) images of patients who underwent lung cancer screening were selected and included into the study. Selected scans will then be analyzed by the CADe/CADx SaMD and compared to radiologist generated reference standards including lesions localization and lesion cancer diagnosis.
+
+Figures of merit at patient level and lesion level detection and diagnostic efficacy will be calculated as well as sub-class analysis to ensure algorithm performance generalizability.
+High Risk Cancer
+DEVICE: Median LCS
+AUROC (Area under ROC curve) at patient level, AUROC that measures Median LCS performance at patient level is strictly superior to 0.8.
+
+Support for Primary Endpoint: Derived from the patient level AUROC at the product fixed operating point : Sensitivity, Specificity, PPV, NPV., 12 months
+Sensitivity > 70% when Specificity=70%, 12 months|Specificity > 70% when Sensitivity=70%, 12 months|AUC of LROC > 0.75, In contrast to the receiver operating characteristic (ROC) assessment paradigm, localization ROC (LROC) analysis provides a means to jointly assess the accuracy of localization and detection in an observational study., 12 months|Detection sensitivity>0.8 with average FP rate per scan<1, 12 months|ICC>0.8 for average diameter, Intraclass Correlation Coefficient (ICC), is a descriptive statistic that can be used when quantitative measurements are made on units that are organized into groups. It describes how strongly units in the same group resemble each other., 12 months|ICC>0.8 for long axis diameter, 12 months|ICC>0.8 for short axis diameter, 12 months|ICC>0.75 for Volume, 12 months|DICE Coefficient >0.7, 12 months
+This is a Multinational, Multicenter, retrospective study for the evaluation of the standalone efficacy and safety of an Artificial Intelligence/Machine Learning (AI/ML) technology-based end-to-end Computer assisted Detection/Computer Assisted Diagnosis (CADe/CADx) Software as a Medical Device (SaMD) developed to detect, localize and characterize malignant, and suspicious for lung cancer nodules on Low Dose Computed Tomography (LDCT) scans taken as part of a Lung Cancer Screening (LCS) program.
+
+LDCT Digital Imaging and Communications in Medicine (DICOM) images of patients who underwent lung cancer screening were selected and included into the study. Selected scans will then be analyzed by the CADe/CADx SaMD and compared to radiologist generated reference standards including lesions localization and lesion cancer diagnosis.
+
+Figures of merit at patient level and lesion level detection and diagnostic efficacy will be calculated as well as sub-class analysis to ensure algorithm performance generalizability.

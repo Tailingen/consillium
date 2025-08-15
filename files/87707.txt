@@ -1,0 +1,21 @@
+Metformin Hydrochloride, Carboplatin, and Paclitaxel in Treating Patients With Recurrent Ovarian, Fallopian Tube, or Primary Peritoneal Cancer
+This phase I trial studies the side effects and best way to give metformin hydrochloride, carboplatin, and paclitaxel in treating patients with recurrent ovarian, fallopian tube, or primary peritoneal cancer. Drugs used in chemotherapy, such as metformin hydrochloride, carboplatin, and paclitaxel, work in different ways to stop the growth of tumor cells, either by killing the cells or by stopping them from dividing.
+Ovarian Papillary Serous Carcinoma|Ovarian Serous Cystadenocarcinoma|Recurrent Fallopian Tube Cancer|Recurrent Ovarian Epithelial Cancer|Recurrent Ovarian Germ Cell Tumor|Recurrent Primary Peritoneal Cavity Cancer
+DRUG: metformin hydrochloride|DRUG: carboplatin|DRUG: paclitaxel|OTHER: laboratory biomarker analysis
+Probability of successes in patients receiving the combination therapy, Success for a patient is defined as having a length of remission/progression free survival following this combination therapy that is longer than the length of remission/progression free survival resulting from their immediately prior line of treatment. A one-sided, one sample test of the binomial proportion will be conducted., Up to 2 years
+Time to progression, Summarized using Kaplan-Meier methods., Time from first documentation of recurrence, to the first documentation of progression after initiating on this trial, assessed up to 2 years|Response rate defined by the RECIST, Computed along with 95% two-sided confidence intervals., Up to 2 years|Progression free survival, Summarized using Kaplan-Meier methods., Up to 4 years|Overall survival, Summarized using Kaplan-Meier methods., Up to 4 years
+PRIMARY OBJECTIVES:
+
+I. To determine the duration of response to metformin (metformin hydrochloride), carboplatin and paclitaxel followed by maintenance with metformin as compared to the primary duration of remission in within patient controls.
+
+SECONDARY OBJECTIVES:
+
+I. Determine the in situ effects of metformin on lethal-7 (let-7) expression as determined by in situ hybridization. (Phase Ia) II. To determine the feasibility of using a core biopsy to perform ribonucleic acid (RNA) sequencing. (Phase Ia) III. To determine epigenomic effects of metformin via RNA-sequencing (Seq). (Phase Ia) IV. To determine the biologic effects of metformin through evaluation of pre and post metformin tumor samples for phosphorylated (p) adenosine monophosphate (AMP)-activated protein kinase (AMPK), v-myc myelocytomatosis viral oncogene homolog (avian) (myc), mechanistic target of rapamycin (mTOR) and phosphorylated v-akt Murine Thymoma Viral Oncogene Homolog 1 (pAKT). (Phase Ia) V. To assess safety and tolerability of metformin and carboplatin and paclitaxel in patients with platinum sensitive recurrent ovarian cancer. (Phase Ib)
+
+OUTLINE:
+
+Phase Ia: Patients receive metformin hydrochloride orally (PO) once daily (QD) on days 1-7 and twice daily (BID) on days 8-21.
+
+Phase Ib: Patients receive metformin hydrochloride BID on days 1-21, paclitaxel intravenously (IV) over 3 hours on day 1, and carboplatin IV over 30 minutes on day 1. Treatment repeats every 21 days for 6 courses in the absence of disease progression or unacceptable toxicity.
+
+After completion of study treatment, patients are followed up every 12 weeks.

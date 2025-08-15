@@ -1,0 +1,28 @@
+S0226 Anastrozole With or Without Fulvestrant as First-Line Therapy in Postmenopausal Women With Metastatic Breast Cancer
+RATIONALE: Estrogen can stimulate the growth of breast cancer cells. Hormone therapy using drugs such as anastrozole and fulvestrant may fight breast cancer by blocking the use of estrogen. It is not yet known whether anastrozole is more effective with or without fulvestrant in treating breast cancer.
+
+PURPOSE: This randomized phase III trial is studying giving anastrozole together with fulvestrant to see how well it works compared to anastrozole alone as first-line therapy in treating postmenopausal women with metastatic breast cancer.
+Breast Cancer
+DRUG: anastrozole|DRUG: fulvestrant
+Time to Tumor Progression, Progression is defined using Response Evaluation Criteria In Solid Tumors Criteria (RECIST v1.0), as a 20% increase in the sum of the longest diameter of target measurable lesions over the smallest sum observed (over baseline if no decrease during therapy) using the same techniques as baseline. Unequivocal progression of non-measurable disease in the opinion of the treating physician. Appearance of any new lesion/site. Death due to disease without prior documentation of progression and without symptomatic deterioration. From date of randomization to time of first documentation of progression, symptomatic deterioration or death due to any cause. Patients last known to be alive and progression free are considered at last date of contact., Every 4 weeks while on treatment. Then every 3 months until progression, then six months for two years then annually until four years or until death, which ever occurs first.
+Clinical Benefit (CR, PR, Confirmed or Unconfirmed, or Stable Disease >= 24 Weeks)., Per Response Evaluation Criteria In Solid Tumors Criteria (RECIST v1.0) for target lesions and assessed by MRI: Complete Response (CR), Disappearance of all target lesions; Partial Response (PR), \>=30% decrease in the sum of the longest diameter of target lesions; Stable, Does not qualify for CR, PR, Progression or Symptomatic Deterioration. Clinical Benefit = CR + PR + Stable \>= 24 weeks, Every 4 weeks while on treatment. Then every 3 months until progression, then six months for two years then annually until four years or until death, which ever occurs first.|Overall Survival, From date of randomization to date of death due to any cause. Patients last known to be alive are censored at last date of contact., Every 4 weeks while on treatment. Then every 3 months until progression, then six months for two years then annually until four years or until death, which ever occurs first.|Number of Patients With Gr 3 Through 5 Adverse Events That Are Related to Study Drugs, Adverse Events (AEs) are reported by CTCAE version 3.0 terminology. For each patient, worst grade of each event type is reported. Grade3 (Severe), Grade4 (Life-threatening), Grade 5 (Fatal), Patients were assessed for adverse events after each cycle (1 cycle = 28 days) while on treatment.
+OBJECTIVES:
+
+* Compare the time to tumor progression in postmenopausal women with metastatic breast cancer treated with anastrozole with or without fulvestrant as first-line therapy.
+* Compare the clinical benefit (complete or partial response, confirmed or unconfirmed, or stable disease ≥ 24 weeks) and overall survival of patients treated with these regimens.
+* Compare adverse events in patients treated with these regimens.
+* Determine the prognostic significance of estrogen receptor positivity and HER2/neu status in patients treated with these regimens.
+* Determine parameters of estrogen and clinical pharmacology and estrogen levels in patients treated with these regimens.
+* Compare anastrozole plasma levels at 8, 16, and 24 weeks in patients treated with these regimens (closed as of 4/16/2009).
+* Compare estradiol serum levels at 8, 16, and 24 weeks in patients treated with these regimens (closed as of 4/16/2009).
+
+OUTLINE: This is a randomized, multicenter study. Patients are stratified according to prior adjuvant tamoxifen therapy (yes vs no). Patients are randomized to 1 of 2 treatment arms.
+
+* Arm I: Patients receive oral anastrozole once daily on days 1-28.
+* Arm II: Patients receive oral anastrozole as in arm I. Patients also receive fulvestrant intramuscularly on days 1, 14, and 28 during course 1 and then on day 28 of the subsequent courses.
+
+In both arms, courses repeat every 28 days in the absence of disease progression or unacceptable toxicity.
+
+Patients are followed for up to 4 years.
+
+PROJECTED ACCRUAL: A total of 690 patients (345 per treatment arm) will be accrued for this study within 3 years.

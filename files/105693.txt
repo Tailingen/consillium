@@ -1,0 +1,23 @@
+Companion for CAR-T Web App During Chimeric Antigen Receptor T-cell Therapy
+The complex logistics and unique toxicities of chimeric antigen receptor T-cell (CAR-T) therapy require intensive patient education and careful monitoring. The Companion for CAR-T (CC) web app may be able to assist with patient education and preparation, communication between patients and their multidisciplinary teams, and home-based toxicity monitoring.
+Lymphoma|Leukemia|Plasma Cell Dyscrasia
+OTHER: Web Application
+Percentage of participants who access all four CC web application modules at least once, The percentage of participants who access all four CC web application modules at least once from the date of study enrollment through Day +100 after CAR-T therapy will be reported. To meet the acceptability criteria, a threshold of 70% of participant engagement or higher must be met., Up to 6 months|Percentage of participants agreeing or strongly agreeing with helpfulness of CC web application., Percentage of participants agreeing or strongly agreeing with the statement, "The Companion for CAR-T web app was helpful during my experience with CAR-T therapy." from a one time assessment administered between Day +29 and Day +100 following CAR-T therapy will be reported. This question ranks the helpfulness of the CC application on a scale of 1 (strongly disagree) to 5 (strongly agree). Participants must select an item score of 4 (agree) or 5 (strongly agree). To meet the feasibility criteria, a threshold of 70% of participant agreement or higher must be met., 1 day
+Number of times that temperature >= 38. degrees Celsius (°C) is reported, The number of times (pooled across all patients) that an internal body temperature \>= 38.0°C is reported by the participants via the CC web application between Day +2 to Day +28 following CAR-T therapy., Up to 26 days|Number of times an Electronic immune effector-cell associated encephalopathy assessment (eICE) is reported, The number of times (pooled across all patients) that a new eICE deficit is recorded via the CC web application between Day +2 to Day +28 following CAR-T therapy., Up to 26 days
+This is a single-arm pilot study assessing the feasibility and acceptability of the Companion for CAR-T (CC) web app among patients receiving commercially available CAR-T therapies.
+
+Primary Objectives:
+
+I. To evaluate the feasibility of the CC web app. II. To evaluate the acceptability of the CC web app to patients.
+
+Secondary Objectives:
+
+I. To quantify the incidence of fevers being reported via the CC web app. II. To quantify the incidence of electronic Immune Effector Cell-Associated Encephalopathy (eICE) deficits being recorded via the CC web app.
+
+Exploratory Objectives:
+
+I. To explore patient perceptions regarding the CC web app. II. To explore usage patterns regarding the CC web app. III. To explore trends in patient-reported quality of life (QOL), values, and stressors over time during CAR-T therapy.
+
+IV. To explore responses to abnormal findings reported or recorded using the CC web app
+
+Participants will be given access to the web application from beginning at the day of study enrollment through Day +100 following CAR-T therapy.

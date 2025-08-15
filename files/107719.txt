@@ -1,0 +1,101 @@
+"Studying The Role of Key Epigenetic Mediators in Breast Cancer Patients"
+The role of epigenetic regulators and their dysregulation in cancer have gained much attention recently, as they influence the gene expression of many oncogenes and tumor suppressor genes. Non-coding RNAs (ncRNAs) including (lncRNAs and miRNAs) and chromatin remodeling machinery proteins are key epigenetic regulators playing a key role in carcinogenesis. In addition, they can serve as diagnostic and prognostic markers in many cancer types including breast cancer. Therefore, studying these molecular markers will help in the diagnosis and prognosis as well as in the better understanding of this devastating disease.To the best of our knowledge, This is the first research work measuring the expression level of UPK1A-AS1 and/or UNC5B-AS1 in breast cancer clinical samples.
+
+These data could provide a promising approach in introducing a novel markers that help in the diagnosis and prognosis of breast cancer and provide a potential targets for gene therapy.
+Breast Cancer
+Elucidate the role of our candidate lncRNAs and their downstream targets obtained from breast cancer patients' liquid biopsy and/or tissue samples., around 12 months|Compare the expression level of lncRNA UPK1A- AS1 and/or UNC5B-AS1 and their target miRNAs in serum samples (liquid biopsy) and/or tissue samples from breast cancer patients, using (qRT-PCR) to their expression in healthy volunteers, around 12 months|Compare serum and/or tissue target proteins level, by ELISA to their levels in healthy volunteers., around 12 months|Correlate these ncRNAs and target protein level axis, to the clinicopathological characteristics of breast cancer, around 12 months
+Breast cancer is considered as one of the most frequent malignancies in women worldwide and one of the leading cause of death among women globally. Even with remarkable advances in diagnosis and therapy, the prognosis of breast cancer patients remains disappointing\[1\]\[2\]. Breast cancer is a highly heterogeneous disease that is classified into four subtypes based on the expression of certain hormonal receptors as estrogen receptor ER, progesterone receptor PR and human epidermal growth factor receptor HER2\[2\]. The following are the four subtypes of breast cancer: Luminal A tumors are characterized by the presence of ER and/or PR and the absence of HER2, Luminal B tumors are of higher grade and worse prognosis compared to Luminal A, they are ER positive and can be PR negative and have a high expression of Ki67 (greater than 20%), the HER2-positive group constitutes 10-15% of breast cancers and is characterized by high HER2 expression with absence of ER and PR and Triple-negative breast cancer which lack the expression of the previous three receptors\[3\]\[4\].
+
+Epigenetics regulation of gene expression is the alteration in gene expression function without changing the nucleotide sequence. Both activation and inactivation of cancer-associated genes can occur by epigenetic mechanisms. The major players in epigenetic mechanisms of gene regulation are DNA methylation, histone modification, chromatin remodelers , and noncoding RNA expression\[5\].
+
+Histone modifications are one of the important regulators of chromatin structure which is very crucial for gene expression as it defines accessibility of DNA for transcriptional regulators, affects gene expression, and influences vital cellular processes \[6\].
+
+Histone modifications can recruit transcription factors, chromatin remodelers, and chromatin structural proteins so contribute to the formation and maintenance of active or repressive chromatin state\[6\]. The most important histone modifications are: lysine acetylation, lysine and arginine methylation, serine/threonine/tyrosine phosphorylation, and serine/threonine ubiquitylation \[6\]. Many of histone modification enzymes are frequently mutated in different types of cancer by example: EHMT2 (G9A) encodes a methyltransferase that methylates lysine residues of histone H3, Methylation of H3 at lysine 9 by this protein results in recruitment of additional epigenetic regulators and repression of transcription. The histone methyltransferase G9a is well-documented for its implication in neoplastic growth\[7\]. Another example on histone modification enzymes is KMT5B (SUV420H1) a methyl transferase enzyme that catalyzes the deposition of H4k20me mark, a repressive mark and is believed to have a tumor suppressor role in many cancer types\[8\].
+
+The chromatin structure can also be regulated by chromatin remodelers' complexes, they are four conserved families of ATP-dependent chromatin remodelers in mammals (CHD), (ISWI), (INO80), and (SWI/SNF), and are involved in most essential cell processes \[9\].
+
+Chromatin modification machinery is highly dysregulated in cancers including breast cancer by example: mutations or inactivation of genes encoding subunits of the SWI/SNF complex are found in approximately 20% of cancers\[10\].
+
+Another important epigenetic mechanism is the effect of non-coding RNAs on gene expression.
+
+Non-coding RNAs (ncRNAs) are a heterogeneous group of transcripts that are not translated into proteins. They have emerged as important regulators of multiple biological functions, and their dysregulation has been implicated in diseases including cancer. They have gained a huge interest among the scientific community due to their use as disease biomarkers. There are many types of ncRNAs including miRNAs and lncRNAs\[11\].
+
+MicroRNAs (miRNAs) are small, highly conserved non-coding RNA molecules (18-25) nucleotides involved in the regulation of gene expression. Accumulating studies have identified that microRNAs (miRNAs) are novel regulators acting as tumor suppressors or oncogenes in tumor progression\[12\]. It was reported that exosomal miR-138-5p exerts an oncogenic function in breast cancer patients via inhibiting KDM6B protein\[13\]. Peng Bian MD et al reported that The expression of miR-4306 was reported to be downregulated in breast cancer tissues if compared to adjacent tissues\[14\].
+
+Long non-coding RNAs (lncRNAs) are another type of non-coding RNAs that are more than 200 nucleotides in length and most of them are not translated into proteins\[15\]. In spite of the fact that most lncRNAs are not translated, they have gained huge interest in research due to their regulatory functions on gene expression of other target genes\[15\]. LncRNAs regulate gene expression at the epigenetic, transcriptional, post-transcriptional, translational, and post-translational levels by interacting with mRNA, DNA, protein, and miRNA\[16\]. Additionally, they have a crucial role in maintaining biological processes as histone modification, chromatin remodeling, transcriptional interference, transcriptional activation, mRNA translation and RNA processing\[16\]. Recently it was stated that lncRNAs are involved in many cancers as lung cancer, liver cancer, prostate cancer, bladder cancer and breast cancer\[2\] so, they can be used as a novel biomarker and pharmaceutical target in cancer therapy \[17\]. For example, the oncogenic lncRNA PVT1 promotes the proliferation of breast cancer cell via miR-181a-2-3p/ESR1 axis \[18\]. Importantly, lncRNAs can have a crosstalk with chromatin modifying and remodeling complexes to tightly regulate many normal cellular pathways as well as carcinogenic pathways. They can regulate the chromatin modification machinery whether by direct interaction or indirectly via sponging certain miRNAs. Example on direct interaction in cancer: LncRNA UCA1 regulates chromatin remodeling via binding with SMARCA4 to impair its binding to its region on p21 promoter which leads to bladder cancer proliferation\[19\]. Example on indirect interaction in cancer: LncRNA-MIAT promotes thyroid cancer progression and function as ceRNA to target EZH2 by sponging miR-150-5p\[20\].
+
+LncRNAs can be detected in plasma/serum so function as non-invasive biomarker\[21\].
+
+LncRNA UPK1A-AS1 is a newly identified biomarker in cancer. It was reported that, it has an oncogenic role in pancreatic cancer via conferring platinum resistance through double strand break repair\[22\]. Moreover, it was stated that UPK1A-AS1 promoted the proliferation of HCC by interacting with EZH2\[23\]. Despite the fact that lncRNA UPK1A-AS1 was reported to be oncogenic in HCC, pancreatic cancer and lung cancer cell lines, it was believed that it has a tumor suppressor role in esophageal squamous cell carcinoma cells cancer via sponging miR-1248\[24\]\[25\].
+
+LncRNA UNC5B-AS1 has been recognized as an oncogene in thyroid cancer, prostate cancer and HCC\[26\] \[27\]. It also was stated that it has oncogenic role in ovarian cancer via regulating histone modification\[28\].
+
+However, the role of lncRNAs UPK1A-AS1 and UNC5B-AS1 in the pathogenesis of breast cancer patients haven't been revealed yet.
+
+1.2. Problem Definition. In Egypt, breast cancer is the most common malignancy among females with most of the cases being diagnosed at a late stage with poor prognosis\[29\]. Approximately 46,000 incident cases are forecasted in 2050. Although the incidence rate in Egypt is lower than the global figures., the mortality rate is much higher if compared with the developed countries by approximately 2 folds (41% v 23%) \[30\]. So, providing novel markers for breast cancer diagnosis and/or prognosis as well as understanding the molecular mechanisms underlying their link with carcinogenesis remains a challenge in management and treatment of breast cancer.
+
+1.3. Hypothesis. As the problem statement is to provide novel markers that haven't been studied in breast cancer patients before to help in the diagnosis and prognosis of this aggressive disease. Accordingly, in the present study we will investigate the role of long non-coding RNAs UPK1A-AS1 and/or UNC5B-AS1 as possible diagnostic and/or prognostic markers in breast cancer. In addition, the possible crosstalk and correlation between these long non coding RNAs and chromatin modification enzymes and/or remodeling complexes as KMT5B and G9A via sponging certain target miRNAs as mir-138-5p and mir-4306 will be investigated. 2. PREVIOUS STUDIES FINDINGS 2.1. Zhang et al. reported that: UPK1A-AS1 promotes HCC development by accelerating cell cycle progression through interaction with EZH2 and sponging of miR-138-5p\[23\].
+
+2.2. Wang et al. reported that: UNC5B-AS1 promoted ovarian cancer progression by regulating the H3K27me on NDRG2 via EZH2\[28\].
+
+2.3. Hauang et al. reported that: UNC5B-AS1 promotes the proliferation, migration and EMT of hepatocellular carcinoma cells via regulating miR-4306/KDM2A axis\[26\].
+
+3. AIM OF THE WORK Estimating the expression levels of our candidate lncRNAs UPK1A-AS1 and/or UNC5B-AS1 and correlate it with different clinical parameters in breast cancer patients and, shedding light on their possible crosstalk with chromatin modifying and/or remodeling proteins as KMT5B and G9A in breast cancer patients via sponging certain target miRNAs as mir-138-5p and mir-4306.
+
+4. RESEARCH OBJECTIVE(S) 4.1. Measure lncRNA UPK1A- AS1 and/or UNC5B-AS1 and their target miRNAs gene expression in serum samples (liquid biopsy) and/or tissue samples from breast cancer patients, using quantitative real time polymerase chain reaction technique (qRT-PCR).
+
+4.2. Measure serum and/or tissue target proteins level, by ELISA. 4.3. Compare these ncRNAs expression level to the classical protein tumor markers, 4.4. Correlate these ncRNAs and target protein level axis, to the clinicopathological characteristics of breast cancer as tumor stage and grade, tumor progression (TNM), and other classical clinicopathological prognostic biomarkers such carcinoembryonic antigen (CEA), cancer antigen 15-3 (CA15-3), (ER), (PR), human epidermal growth factor receptor 2 (HER2/neu), the proliferation marker Ki-67 or PCNA and complete blood count (CBC), BMI, BP, blood glucose level and insulin.
+
+5. RESEARCH OUTCOME 5.1. Primary. Elucidate the role of our candidate lncRNAs and their downstream targets obtained from breast cancer patients' liquid biopsy and/or tissue samples.
+
+5.2. Publication(s)/Visibility outcome. Review article + one international Scopus Q1 publication addressing results found + presenting finding(s) in an international high reputation conference.
+
+6. RESEARCH SIGNIFICANCE 6.1. To the best of our knowledge, This is the first research work measuring the expression level of UPK1A-AS1 and/or UNC5B-AS1 in breast cancer clinical samples.
+
+6.2. These data could provide a promising approach in introducing a novel markers that help in the diagnosis and prognosis of breast cancer and provide a potential targets for gene therapy.
+
+7. RESEARCH METHODOLOGY 7.1. Bioinformatics Analysis 7.1.1. Investigating our candidate lncRNAs expression in breast cancer samples from gene expression profiling interactive analysis (GEPIA) based on data from The Cancer Genome Atlas data (TCGA).
+
+7.1.2. Investigating target miRNAs by bioinformatics tools and/or experimental studies by using the online software miRcode (http://mircode.org/index.php).
+
+7.1.3. Investigating selected miRNAs target genes via miRNA online tools: miRDB https://mirdb.org/index.html, starBase or ENCORI: https://rnasysu.com/encori/ and target scan: https://www.targetscan.org/vert_80/.
+
+7.1.4. Pathway analysis or Gene Ontology for list of target genes via enrichr database, the list of target genes was analyzed for their relation with chromatin modifying and/or remodeling proteins.
+
+8. ETHICAL STATEMENT 8.1.1. This research will be performed in accordance with the guidelines set by Declaration of Helsinki referring to the World Medical Association's (WMA) ethics guidelines for medical research with human subjects, originally published in 1964, revised in 2013 and October 2018. (https://www.wma.net/policies-post/wma-declaration-of-helsinki-ethical-principles-for-medical-research-involving-human-subjects/).
+
+Samples will be collected after participant's announcement and signing informed consent.
+
+8.1.2. Ethical Approval and Consent to Participate. This study was first approved by the Research Ethical Committee (REC) of Faculty of Pharmacy, Ain Shams University 9. SAMPLE SIZE AND THE POWER OF STUDY 9.1. Estimated sample size was calculated by G power\* sample size online calculator http://www.gpower.hhu.de/en.html, using the following input data: α error probability is (0.05), the power of study (0.8). Based on the previous studies conducted by Bian et al, 2021 ;Huang et al,2021; Tan et al,2020; Madhvan et al,2014 \[31\] \[12\] \[24\] \[25\] that showed moderate to high effect size, a moderate effect size (0.5) was chosen to calculate the sample size.
+
+Total sample size will be 102 cases, this number will be subdivided into 2 groups either by ratio 50:50 or by ratio 60:40.
+
+9.2. Study Design. Case-controlled, retrospective, mono-center study. 9.3. Study Participants. A series of Egyptian female breast cancer patients will be recruited from the Breast Cancer Unit, Clinical Oncology Department, Ain Shams University, Cairo, Egypt.
+
+Group 1; malignant non-metastatic breast cancer patients; newly diagnosed breast cancer patients.
+
+Group 2; control group; healthy volunteers. 9.3.1Clinico-pathological Criteria. Clinical data obtained from medical records and the original pathology reports. These data to be compiled in a detailed Excel file.
+
+The following clinical data to be recorded and assessed as in the attached excel file.
+
+* Full family history will be recorded for all breast cancer participants.
+* Individual cancer history and the tumor clinical assessment done using the (TNM) classification of American Joint Committee on Cancer (AJCC).
+* The Bloom-Richardson Scale will be used for histological grading.
+* The characteristics of the breast cancer patients with regards to body mass index (BMI), CBC, menopausal status, breast cancer histopathological types; invasive ductal carcinoma (IDC) and invasive lobular carcinoma (ILC). Breast cancer molecular classifications luminal A, B, triple negative breast cancer.
+* Tumor size, as well as clinico-pathological biomarkers CEA, CA15-3, ER, PR, Her2/neu, Ki-67 or PCNA (if any) data will be collected from patient files for further correlations and statistical analysis.
+
+9.3.2. Inclusion Criteria; Egyptian females breast cancer patients aged 18 years and above, newly diagnosed with breast cancer.
+
+9.3.3 Exclusion Criteria; blood diseases, any cancer other than breast cancer, liver cirrhosis and uterine and urinary bladder diseases or breast cancer patients with any evidence of distant metastases.
+
+9.4. Blood Sampling: 6 mls peripheral blood will be collected into polymer gel vacutainers with clot activator (Greiner Bio-One GmbH, Australia), left for 15 min. at room temperature to clot, followed by a 10 min. centrifugation at 10,000g at 4°C, sera obtained will be aliquoted into 5 clean Eppendorf tubes and stored at -80°C, until biochemical assessment at Biochemistry Department, Faculty of Pharmacy, Ain-Shams University.
+
+9.4.1 Stored sera will be used for ELISA technique measurements of target protein levels, using commercially available ELISA kits according to the manufacturer's instructions.
+
+9.4.2. Genomic RNA will be extracted; ncRNAs extraction from serum samples and purification evaluation. ncRNAs expression level quantification, using qRT-PCR by step one plus. We will proceed with total RNA extraction from serum sample using miRNeasy Mini Kit. The c-DNA synthesis will be done afterwards using VERSO c-DNA synthesis kit (Thermo Scientific, USA).
+
+Next, we will carry out quantitative real time PCR (qRT-PCR) analyses using sybr green PCR master mix (Thermo Scientific, USA) and specific primers designed for the target ncRNAs as well as the housekeeping reference gene.
+
+10. STATISTICAL ANALYSIS 10.1. Data will be collected, excel tabulated, 10.2. SPSS IMB USA (SPSS, Chicago, IL) version 20, will be the used program or Stat4 or Graphpad Prism for figures, 10.3. Data will be tested for normality by Shapiro-Wilk calculator, 10.3.1. Normally distributed variables are to be expressed as mean+(S.E.M) and analyzed using two samples independent students t-test and ANOVA are to be used for comparison of 2 or more groups, if normally distributed, respectively.
+
+10.3.2. Adjustment and normalization for confounders as age and BMI, .. between control and patients as well as multiple regression analysis or ANCOVA to predict a confounder, 10.3.3. Data to be presented as median (Range), if not normally distributed, Mann-Whitney (U) or Kruskal-Wallis (H) will be conducted to compare between any two or more independent groups, respectively, 10.4. P-values were two-tailed and considered significant if P \<0.05.11.

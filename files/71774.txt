@@ -1,0 +1,25 @@
+Ixabepilone in Treating Participants With Significant Residual Disease of HER2/Neu Negative Invasive Breast Cancer After Systemic Therapy
+This phase II trial studies how well ixabepilone compared with standard of care works in treating patients with HER2/Neu negative breast cancer that remains after undergoing systemic therapy. Ixabepilone works by blocking cell division which may cause cancer cell death.
+Bilateral Breast Carcinoma|HER2/Neu Negative|Invasive Breast Carcinoma
+OTHER: Best Practice|DRUG: Ixabepilone
+Genomic (transcriptional profiles) and proteomic (pathway activation) features that distinguish tumors, RPPA will be used to objectively quantify (phospho)protein expression. Functional activation of the pathway will be defined as an increase in phosphorylation of at least one half of the components of each pathway above the median RPPA quantified activation across the entire tumor set. Data will be analyzed for the presence of clusters based on differential protein expression by using available methods with the R statistical software package. A variety of unsupervised clustering methods (including hierarchical clustering, K-means, independent component analysis, mutual information, and gene shaving) will be used to classify the samples into statistically similar groups., Up to 5 years|Significant circulating tumor cells (CTCs), Presence of any cell per 7.5 ml of whole blood., At 18 weeks
+Incidence of adverse events in each group, Chi-square tests of independence and generalized logistic regression models will be used., Up to 5 years|Recurrence-free survival, Will be estimated non-parametrically using the Kaplan-Meier product limit method. Cox proportional hazards regression models will be used to model recurrence-free survival as a function of treatment group., Up to 5 years
+PRIMARY OBJECTIVES:
+
+I. To investigate the genomic (transcriptional profiles) and proteomic (pathway activation) features that distinguish tumors that do not achieve a pathologic complete response (pCR) after neoadjuvant systemic therapy (NST) and correlate these features with outcome in the presence and absence of adjuvant ixabepilone.
+
+II. To evaluate the presence of circulating tumor cells (CTCs) at baseline (before chemotherapy starts; if radiation is used, after radiation ends), during and after ixabepilone therapy or during observation.
+
+SECONDARY OBJECTIVES:
+
+I. To collect serial blood samples for future pharmacogenomic studies. II. To determine if the addition of adjuvant ixabepilone will improve recurrence-free survival in patients that have significant residual HER 2/neu-negative breast cancer after NST.
+
+III. To assess the toxicity of adjuvant ixabepilone in this group of patients.
+
+OUTLINE: Participants are randomized to 1 of 2 groups.
+
+GROUP I (IXABEPILONE): Participants receive ixabepilone intravenously (IV) over 3 hours on day 1. Treatment repeats every 21 days for up to 6 courses in the absence of disease progression or unacceptable toxicity.
+
+GROUP II (STANDARD OF CARE): Participants receive standard of care for 18 weeks.
+
+After completion of study treatment, participants are followed up every 3 months for 2 years and every 6 months for 3 years.

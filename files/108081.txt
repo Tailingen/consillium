@@ -1,0 +1,44 @@
+Improvement of Depression in Terminal Cancer Patients
+This study investigates the potential of the water extract of Gastrodia elata Blume (WGE) to alleviate depressive symptoms in terminal cancer patients. In Taiwan, cancer accounts for 25-30% of annual deaths, with terminal patients often experiencing physical pain and psychological distress, including depression. Addressing both physical and psychological challenges is vital in palliative care.
+
+Gastrodia elata Blume is a traditional dietary medicine known for its antidepressant, anti-inflammatory, antioxidant, neurotransmitter-regulating, and neuroprotective properties. This trial will recruit 60 hospice patients, randomly divided into two groups: a control group and a WGE experimental group.
+
+Assessments will include:
+
+1. General examinations (e.g., height, weight, blood pressure).
+2. Non-invasive autonomic nervous system analyses.
+3. Patient-reported measures: Quality of Life Scale (EORTC QLQ-C30), Pain Score, and Hospital Anxiety and Depression Scale (HADS).
+
+The study hypothesizes that WGE can:
+
+1. Alleviate depressive symptoms.
+2. Enhance autonomic nervous system function.
+3. Improve the quality of life for terminal cancer patients.
+
+This research aims to demonstrate the therapeutic potential of WGE, improving psychological and physiological outcomes for hospice patients.
+Depression|Cancer Patients and Depression and Suicide|Life Quality
+DIETARY_SUPPLEMENT: Gastrodia elata Blume water extract
+Reduction in Depressive Symptoms, Hospital Anxiety and Depression Scale (HADS)
+
+Outcome Measure Title: Hospital Anxiety and Depression Scale (HADS) Total Score Description: The HADS is a 14-item questionnaire used to measure anxiety and depression levels in participants. Each item is scored on a 4-point Likert scale ranging from 0 to 3, with separate scores calculated for the Anxiety subscale (HADS-A) and Depression subscale (HADS-D).
+
+Minimum Score: 0 Maximum Score: 21 per subscale (42 total for both subscales combined) Interpretation: Higher scores indicate worse outcomes (greater severity of anxiety or depression)., 1 week|Improvement in Quality of Life, European Organization for the Research and Treatment of Cancer Quality of Life Questionnaire Core 30 (EORTC QLQ-C30)
+
+Outcome Measure Title: European Organisation for Research and Treatment of Cancer Quality of Life Questionnaire Core 30 (EORTC QLQ-C30) Description: The EORTC QLQ-C30 is a 30-item questionnaire designed to assess the quality of life of cancer patients. It includes multi-item scales that evaluate global health status, functional domains (physical, role, emotional, cognitive, and social functioning), and symptom scales (e.g., fatigue, pain, nausea/vomiting).
+
+Minimum Score: 0 Maximum Score: 100 for each scale (scores are linearly transformed to a 0-100 scale).
+
+Interpretation: For global health status and functional scales, higher scores indicate better outcomes (better functioning or quality of life). For symptom scales, higher scores indicate worse outcomes (greater symptom burden)., 1 week|Changes in Pain Score, pain score
+
+Outcome Measure Title:Pain Intensity Measurement Using the Numeric Pain Rating Scale (NPRS) Description of the Measurement Tool:The Numeric Pain Rating Scale (NPRS) is a self-reported measure commonly used to assess pain intensity. It asks participants to rate their pain on a scale from 0 (No Pain) to 10 (Worst Pain Possible). The scale is visualized using smiley faces, transitioning from green (mild/no pain) to red (severe pain).
+
+Scoring Details:
+
+Minimum Value: 0 (indicating no pain). Maximum Value: 10 (indicating the worst pain possible).
+
+Interpretation:
+
+Higher scores indicate worse outcomes (i.e., more severe pain). Lower scores indicate better outcomes (i.e., less or no pain)., 1 week|Changes in heart rate variability, Heart Rate Monitor (GSH751) is a non-invasive device approved by Taiwan's Ministry of Health (Certification No. 006983). It measures heart rate through finger electrodes and uses Bluetooth to transmit data for recording and analysis. The device evaluates heart rate variability (HRV) and autonomic nervous system function, including parameters like heart rate, SDNN (autonomic health indicator), sympathetic (LF), parasympathetic (HF) activity, and LF/HF balance index. Time domain and frequency domain analyses help assess stress, anxiety, sleep disorders, and overall autonomic balance, enabling users to track long-term health trends.
+
+(Model: GSH751, Approved by Taiwan Ministry of Health, Certification No. 006983), 1 week
+In Taiwan, the annual number of cancer-related deaths constitutes approximately 25-30% of the overall mortality rate. Terminal cancer patients often endure physical pain and psychological distress, leading to varying degrees of depression. Aligning with the objectives of palliative care, it is crucial to address both the physical pain and psychological well-being of patients. Gastrodia elata Blume (GE), a key component in traditional dietary medicine, has been extensively studied for its diverse biological activities, including antidepressant effects, anti-inflammatory properties, antioxidant capabilities, neurotransmitter regulation, and neuroprotection. This study aims to harness the antidepressant properties of GE to alleviate depression among hospice patients. The trial plans to recruit 60 subjects from the hospice ward, randomly assigning them to either a non-GE group or a GE experimental group (where subjects will consume water extract from 8 g of dried GE daily). Prior to and post each assessment, medical professionals will conduct general examinations (height, weight, blood pressure) and non-invasive autonomic nervous system analyses. Additionally, subjects will complete the Quality of Life Scale (EORTC QLQ-C30), Pain Score, and Hospital Anxiety and Depression Scale (HADS) to facilitate subsequent statistical analysis and evaluate the antidepressant efficacy of GE water extract. This experiment aims to demonstrate that GE water extract can improve depression in hospice patients, enhancing their autonomic nervous system function and overall quality of life.

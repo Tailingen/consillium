@@ -1,0 +1,12 @@
+Measuring Biomarker Response to AMP-514 in Blood Samples From Patients With Solid Tumors Undergoing Radiotherapy
+This pilot research trial studies the response in blood cells to AMP-514, a drug shown to increase immune response (capacity to fight against infections and cancer) against cancer in patients with solid tumors undergoing radiotherapy. Measuring changes in biomarkers may help doctors decide if AMP-514 should be combined with radiotherapy and when is the best time to combine the drug with radiation.
+Unspecified Adult Solid Tumor, Protocol Specific
+OTHER: Cytology specimen|OTHER: Laboratory biomarker analysis
+Change in peripheral blood T cell proliferation (stimulation) and cytokine production in vitro, Mixed effects linear regression used to model each marker. Markers measured under treated and control conditions at 4 time points. Saturated fixed effects model including fixed effects for treatment condition, evaluation time \& condition by time interaction used. Repeated measures covariance structure that accounts for correlation between treated \& control samples at each time \& correlation among repeated samples from the 4 measurement periods assumed. Overall effect of treatment as well as time-specific estimates of treatment effect estimated along with appropriate 95% confidence intervals., Baseline to up to 1 month after the end of RT
+PRIMARY OBJECTIVES:
+
+I. To evaluate the in-vitro effect of AMP-514, a programmed cell death 1 (PD-1) inhibitor, on peripheral blood T cell proliferation and cytokine production from patients with solid malignancies, treated with radiotherapy (RT).
+
+OUTLINE:
+
+Patients undergo blood sample collection at baseline, during the second week of RT, at the end of RT, and at 1 month after the end of RT.

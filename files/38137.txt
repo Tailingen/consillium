@@ -1,0 +1,36 @@
+MC200708 Pemetrexed and Pembrolizumab for the Treatment of Recurrent and/or Metastatic Salivary Gland Cancer
+This phase II trial studies the effect of pemetrexed and pembrolizumab in treating patients with salivary gland cancer that has come back (recurrent) and/or has spread to other places in the body (metastatic). Chemotherapy drugs, such as pemetrexed, work in different ways to stop the growth of tumor cells, either by killing the cells, by stopping them from dividing, or by stopping them from spreading. Immunotherapy with monoclonal antibodies, such as pembrolizumab, may help the body's immune system attack the cancer, and may interfere with the ability of tumor cells to grow and spread. The purpose of this study is to evaluate whether pembrolizumab, an immunotherapy drug, in combination with the chemotherapy drug, pemetrexed, has an effect on advanced salivary gland cancer.
+Metastatic Salivary Gland Carcinoma|Recurrent Salivary Gland Carcinoma|Stage IV Major Salivary Gland Cancer AJCC v8|Adenoid Cystic Carcinoma
+BIOLOGICAL: Pembrolizumab|DRUG: Pemetrexed Disodium|PROCEDURE: Biospecimen Collection|PROCEDURE: Computed Tomography|PROCEDURE: Positron Emission Tomography|PROCEDURE: Magnetic Resonance Imaging|PROCEDURE: PSMA PET Scan
+Confirmed response rate, Evaluated by Response Evaluation Criteria in Solid Tumors version 1.1., Up to 24 weeks|Clinical benefit rate (CBR), CBR will be defined as the rate of patients with stable disease, partial response or complete response as their best response during treatment., Up to 24 weeks
+Overall survival, Estimated using the Kaplan-Meier method., From study entry to death from any cause, assessed up to 3 years|Progression-free survival, Estimated using the Kaplan-Meier method., From study entry to the first of either disease progression or death from any cause, assessed up to 3 years|Incidence of adverse events, The maximum grade for each type of adverse event will be summarized using Common Terminology Criteria for Adverse Events version 5.0. The frequency and percentage of grade 3+ adverse events will be estimated., Up to 3 years|Response rate [adenoid cystic carcinoma (ACC) cohort], Response rate will be assessed using RECIST 1.1 criteria. The data will be reported descriptively, with frequencies and percentages., Up to 3 years|CBR (non-ACC cohort), CBR will be reported descriptively, with frequencies and percentages., Up to 3 years
+Frequency of MTAP loss, Assessed by immunohistochemistry. Will investigate correlation with enhanced response to pemetrexed. The associations of these markers with response will be done via Chi-square or Fisher's exact tests by cohort for categorical biomarkers and done via 2-sample t-tests (or the Wilcoxon Rank-Sum test) by cohort for continuous biomarker data. Descriptive statistics and tables will be reported., Up to 3 years|Degree of PDL1 expression using formalin-fixed tumor samples, Will determine the extent of PDL1 expression correlation with response to study treatment. The associations of these markers with response will be done via Chi-square or Fisher's exact tests by cohort for categorical biomarkers and done via 2-sample t-tests (or the Wilcoxon Rank-Sum test) by cohort for continuous biomarker data. Descriptive statistics and tables will be reported., Up to 3 years|Expression of thymidylate synthase, Assessed by immunohistochemistry. Will investigate correlation with enhanced response to pemetrexed. The associations of these markers with response will be done via Chi-square or Fisher's exact tests by cohort for categorical biomarkers and done via 2-sample t-tests (or the Wilcoxon Rank-Sum test) by cohort for continuous biomarker data. Descriptive statistics and tables will be reported., Up to 3 years
+PRIMARY OBJECTIVE:
+
+I. To determine the clinical benefit rate (CBR) of the combination of pembrolizumab and pemetrexed in patients with recurrent or metastatic adenoid cystic salivary gland cancer. (Group A1, adenoid cystic carcinoma \[ACC\]) II. To determine the response rate of the combination of pembrolizumab and pemetrexed in patients with recurrent or metastatic salivary gland cancer (recurrent/metastatic salivary gland cancer \[R/M SGC\]). (Groups A and B, ACC and non-ACC)
+
+SECONDARY OBJECTIVES:
+
+I. To determine the progression-free survival (PFS), overall survival (OS), response rate (ACC cohort), CBR rate (non-ACC), and adverse events of the combination of pembrolizumab and pemetrexed in patients with recurrent or metastatic salivary gland cancer (R/M SGC).
+
+II. To assess safety and tolerability of the combination of pembrolizumab and pemetrexed in patients with recurrent or metastatic salivary gland cancer (R/M SGC).
+
+CORRELATIVE RESEARCH OBJECTIVES:
+
+I. To investigate the frequency of MTAP loss by immunohistochemistry in R/M SGC and whether it correlates with enhanced response to pemetrexed.
+
+II. To measure the degree of PDL1 expression using formalin-fixed tumor samples, and determine the extent of PDL1 expression correlates with response to study treatment.
+
+III. To investigate expression of thymidylate synthase by immunohistochemistry in R/M SGC and whether it correlates with enhanced response to pemetrexed.
+
+IV. To investigate circulating tumor deoxyribonucleic acid (DNA) (ctDNA) and correlation with response to study treatment.
+
+V. To prospectively investigate circulating prostate-specific membrane antigen (PSMA) extracellular vesibles (EVs) and correlate with disease burden and treatment response for patients with adenoid cystic carcinoma in Cohort A1.
+
+VI. To prospectively investigate PSMA positron emission tomography (PET)/computed tomography (CT) as an imaging modality for patients with adenoid cystic carcinoma in Cohort A1.
+
+OUTLINE:
+
+Patients receive pembrolizumab intravenously (IV) over 30 minutes and pemetrexed disodium IV over 10 minutes on day 1. Treatment with pembrolizumab repeats every 21 days for up to 35 cycles (2 years) in the absence of disease progression or unacceptable toxicity. Cycles of pemetrexed disodium repeat every 21 days in the absence of disease progression or unacceptable toxicity. Patients who had stable disease, partial response, or complete response after completion of 35 cycles of pembrolizumab, may continue pembrolizumab for an additional 17 cycles (1 year) in the absence of disease progression or unacceptable toxicity. Patients additionally undergo blood sample collection, CT, PET/CT or magnetic resonance imaging (MRI) and may also undergo PSMA PET on study.
+
+After completion of study intervention, patients are followed up at 30 days, and then every 3 months for up to 3 years.

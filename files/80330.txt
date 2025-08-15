@@ -1,0 +1,39 @@
+Cabazitaxel, Carboplatin, and Cetrelimab Followed by Niraparib With or Without Cetrelimab for the Treatment of Aggressive Variant Metastatic Prostate Cancer
+This phase II trial studies the effect of cabazitaxel, carboplatin, and cetrelimab followed by niraparib with or without cetrelimab in treating patients with aggressive variant prostate cancer that has spread to other places in the body (metastatic). Chemotherapy drugs, such as cabazitaxel and carboplatin, work in different ways to stop the growth of tumor cells, either by killing the cells, by stopping them from dividing, or by stopping them from spreading. PARPs are proteins that help repair DNA mutations. PARP inhibitors, such as niraparib, can keep PARP from working, so tumor cells can't repair themselves, and they may stop growing. Immunotherapy with monoclonal antibodies, such as cetrelimab, may help the body's immune system attack the tumor, and may interfere with the ability of tumor cells to grow and spread. Giving niraparib with or without cetrelimab, after treatment with cabazitaxel, carboplatin, and cetrelimab, may help control aggressive variant prostate cancer.
+Aggressive Variant Prostate Carcinoma|Castration-Resistant Prostate Carcinoma|Metastatic Prostate Carcinoma|Metastatic Prostate Neuroendocrine Carcinoma|Metastatic Prostate Small Cell Carcinoma|Stage IV Prostate Cancer AJCC v8
+DRUG: Cabazitaxel|DRUG: Carboplatin|BIOLOGICAL: Cetrelimab|DRUG: Niraparib
+Progression-free survival, Estimated by the methods of Kaplan and Meier. The 2 randomized treatment arms will be compared by a log rank test., Time from randomization until documented disease progression, start of new therapy for prostate cancer in the absence of progression, or death in the absence of progression, whichever comes first, assessed up to 5 years
+Overall survival (OS), Estimated by the methods of Kaplan and Meier. The 2 randomized treatment arms will be compared by a log rank test., Time from randomization until death or last contact, assessed up to 5 years|Response rate, Defined as the proportion of patients with reduction in tumor burden. Evaluated by Response Evaluation Criteria in Solid Tumors (RECIST) version 1.1. Will be reported separately for induction and for each randomized arm., Up to 5 years|Response rate, Defined as the proportion of patients with reduction in tumor burden. Evaluated by prostate specific antigen (PSA) response criteria. PSA will be considered evaluable for assessment of PSA response if \>= 1.0 ng/ml. Will be reported separately for induction and for each randomized arm., Up to 5 years|Response rate by circulating tumor cells, Defined as the proportion of patients with reduction in tumor burden. Will be reported separately for induction and for each randomized arm., Up to 5 years|Incidence of adverse events, Toxicity will be scored using Common Terminology Criteria for Adverse Events (CTCAE) version 5 for toxicity and adverse event reporting. Descriptive tables will be provided for adverse events by grade and attribution for the cabazitaxel/carboplatin for all patients, and then separately for patients receiving niraparib maintenance vs niraparib + cetrelimab. The numbers of cycles prior to and post randomization will be reported for each arm., Up to 30 days after last administration of study drug
+PRIMARY OBJECTIVES:
+
+I. Estimate the progression free survival of men with aggressive variant prostate carcinoma (AVPC) treated with induction cabazitaxel-carboplatin and cetrelimab followed by maintenance niraparib with or without cetrelimab.
+
+II. Evaluate changes in the density and localization of immune markers and cell subsets in AVPC tumors treated with or without cetrelimab added to cabazitaxel-carboplatin induction and niraparib maintenance, and screen for their association with outcomes.
+
+SECONDARY OBJECTIVES:
+
+I. Determine the percentage of patients that are able to complete the 6 cycles of induction chemoimmunotherapy.
+
+II. Estimate the Response Evaluation Criteria in Solid Tumors (RECIST), prostate specific antigen (PSA) and circulating tumor cells (CTC) responses in men with AVPC treated with induction cabazitaxel-carboplatin and cetrelimab followed by maintenance niraparib with or without cetrelimab.
+
+III. Estimate the overall survival of men with AVPC treated with induction cabazitaxel-carboplatin and cetrelimab followed by maintenance niraparib with or without cetrelimab.
+
+IV. Determine the safety and tolerability of each of the regimens. V. Determine the frequency of PD-L1 expression in tumors treated with cabazitaxel-carboplatin induction and niraparib maintenance and its association with outcomes.
+
+VI. Collect and archive solid and liquid tumor samples from study patients for later hypothesis generating associations.
+
+OUTLINE: Patients are randomized to 1 of 2 groups.
+
+GROUP I:
+
+INDUCTION: Patients receive cabazitaxel intravenously (IV) over 60 minutes and carboplatin IV over 60 minutes on day 1. Beginning cycle 2, patients also receive cetrelimab IV over 30-60 minutes on day 1. Treatment repeats for up to 6 cycles in the absence of disease progression or unacceptable toxicity.
+
+MAINTENANCE: Patients receive niraparib orally (PO) once daily (QD) on days 1-28. Cycles repeat every 28 days in the absence of disease progression or unacceptable toxicity.
+
+GROUP II:
+
+INDUCTION: Patients receive cabazitaxel IV over 60 minutes and carboplatin IV over 60 minutes on day 1. Beginning cycle 2, patients also receive cetrelimab IV over 30-60 minutes on day 1. Treatment repeats for up to 6 cycles in the absence of disease progression or unacceptable toxicity.
+
+MAINTENANCE: Patients receive cetrelimab IV over 30 minutes on day 1 and niraparib PO QD on days 1-28. Cycles repeat every 28 days in the absence of disease progression or unacceptable toxicity.
+
+After completion of study treatment patients are followed up for 30 to 90 days (after last dose cetrelimab), and then every 6 months thereafter.

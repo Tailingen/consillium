@@ -1,0 +1,30 @@
+Fluciclovine (Axumin) PET/CT vs. NaF PET/CT in Prostate Cancer Osseous Metastatic Disease
+The purpose of this study is to look at whether F-18 Fluciclovine (i.e. Axumin) is better or as good as F-18 Sodium Fluoride (F-18 NaF) when looking at bone disease from prostate cancer. Axumin is a radioactive agent used on a positron/computed tomography (PET/CT) camera to look for prostate cancer in general.
+Malignant Neoplasm of Prostate
+DEVICE: [F-18] NaF PET/CT|DEVICE: [F-18] fluciclovine PET/CT
+Number of lesions seen by [F-18] NaF PET/CT which are also seen by [F-18] fluciclovine PET/CT, Agreement of imaging methods as measured by number of lesions seen by \[F-18\] NaF PET/CT which are also seen by \[F-18\] fluciclovine PET/CT broken down by diagnostic score on a lesion-by-lesion basis (1 to 5)
+
+1. Definitely benign
+2. Probably benign
+3. Equivocal
+4. Probably malignant
+5. Definitely malignant, At time of scan, up to 60 minutes per scan|Sensitivity, Accuracy of \[F-18\] fluciclovine PET/CT compared to \[F-18\] NaF PET/CT evaluated via sensitivity
+
+Sensitivity is the number of true positives (TP) divided by the sum of TP and false negatives (FN):
+
+Sensitivity = TP / (TP+FN), At time of scan, up to 60 minutes per scan|Specificity, Accuracy of \[F-18\] fluciclovine PET/CT compared to \[F-18\] NaF PET/CT evaluated via specificity
+
+Specificity is the number of true Negatives (TN) divided by the sum of TN and false positives (FP):
+
+Sensitivity = TN / (TN+FP), At time of scan, up to 60 minutes per scan|Positive Predictive Value (PPV), Accuracy of \[F-18\] fluciclovine PET/CT compared to \[F-18\] NaF PET/CT evaluated via PPV
+
+PPV is the number of true TP divided by the sum of TP and FP:
+
+Sensitivity = TP / (TP+FP), At time of scan, up to 60 minutes per scan|Negative Predictive Value (NPV), Accuracy of \[F-18\] fluciclovine PET/CT compared to \[F-18\] NaF PET/CT evaluated via NPV
+
+NPV is the number of true TN divided by the sum of TN and FN:
+
+Sensitivity = TN / (TN+FN), At time of scan, up to 60 minutes per scan|Area under the curve (AUC), Accuracy of \[F-18\] fluciclovine PET/CT compared to \[F-18\] NaF PET/CT evaluated via AUC using Receiver Operating Characteristic (ROC) curves, At time of scan, up to 60 minutes per scan
+The study will assess the diagnostic performance of \[F-18\] fluciclovine PET/CT compared to \[F-18\] NaF PET/CT as the reference standard. Each bone lesion identified on \[F-18\] NaF PET/CT will be compared with the level of \[F-18\] fluciclovine uptake
+
+The primary objective is to assess \[F-18\] fluciclovine efficacy in the evaluation of osseous metastatic disease in prostate cancer on a lesion-by-lesion comparison with \[F-18\] NaF as a the reference standard.

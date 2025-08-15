@@ -1,0 +1,45 @@
+Prediction Models for Complications After CRT in Esophageal Cancer
+The aim of this project is to develop and validate NTCP-models for complications after nCRT (and surgical resection), that can be uses for model-based dose optimization for PhRT and PRT, and for model-based selection for PRT, in patients with esophageal cancer
+The Aim of This Project is to Develop and Validate NTCP-models for Complications After nCRT (and Surgical Resection)
+OTHER: retrospective
+Multivariable NTCP models will be developed for the prediction of the following, Postoperative complications (graded by ECCG classification (3) ):
+
+Atrial fibrillation ≥grade 2
+
+Pneumonia ≥grade 2
+
+Respiratory failure requiring re-intubation
+
+Anastomotic leakage ≥ grade 2, Within 90 days after surgery|Cardiac events grade II or higher (CTCAE v 5.0), including:, Pericardial effusion
+
+Myocardial infarction and other acute coronary events
+
+Heart failure Pericardial effusion
+
+Myocardial infarction and other acute coronary events
+
+Heart failure
+
+Atrial fibrillation, 1 and 2 year after nCRT|Mortality, Mortality, 1 and 2 year after nCRT|Complication Sum Score, that will be determined in Delphi consensus, Complication Sum Score, that will be determined in Delphi consensus, 1 year after nCRT
+Patient-rated dysphagia, Patient-rated dysphagia, Up to 30 days after nCRT|Patient-rated nausea, Patient-rated nausea, Up to 30 day after nCRT|Patient-rated fatigue / daily functioning, Patient-rated fatigue / daily functioning, Up to 6 months after nCRT|Hospitalization after esophagectomy (days), Hospitalization after esophagectomy (days), Hospitalization after esophagectomy, average 12 days|Intensive care unit stay after esophagectomy (days), Intensive care unit stay after esophagectomy (days), Intensive care unit stay after esophagectomy, average 1.5 days
+Plan of investigation
+
+In the present project we aim to evaluate two potential strategies to predict and consider a broad spectrum of complications for radiotherapy plan optimization and patient selection:
+
+A comprehensive set of separate NTCP-models for several cardiopulmonary and post-operative complications after nCRT, which results in an NTCP-profile.
+
+A single multivariable NTCP-model for a so-called Complication Sum Score (CSS), which is a single composite complication endpoint including all complications after nCRT, weighted depending on severity and impact.
+
+These prediction models can be used for RT plan optimization and patient selection.
+
+In order to develop these prediction models the project consortium brings together existing prospective data registries for esophageal cancer, namely the Dutch Upper GI Cancer Audit (DUCA) and the Dutch Cancer Registry (NKR) (as well as the POCOP study).
+
+The data of these registries will be linked to a retrospective radiotherapy database using the ProTRAIT infrastructure, resulting in a dataset of over 2000 patients.
+
+In this retrospective cohort study, we will focus on esophageal cancer patients who were treated with nCRT, and for whom an esophagectomy was intended. We will include the patients who received nCRT and the esophagectomy in one of the participating centers. Patients who only received nCRT in one of the participating centers and for whom surgical resection was omitted will be included as well. Detailed eligibility criteria can be found in that section.
+
+Eligible patients will be identified by the Dutch Cancer Registry. The surviving patients will be asked to provide informed consent for participation in this study, permission to combine the different data registries and for future use of their data. Patients who died will be included as well, unless they objected agains the use of there data in the participating centers.
+
+Of the participating patients, the radiotherapy plan-CT and treatment plans (i.e. RTplan, RT struct, RT dose), will be pseudo-anonymized, uploaded and transferred to the UMCG data platform, by the participating radiotherapy centers.
+
+A third trusted party, Zorg TTP, will be responsible for the pseudonymization of the three data sources; the Dutch upper GI cancer audit (DUCA), the Dutch Cancer Registry (NKR) and the RTregistry. After that the linkage will be performed at the UMCG.

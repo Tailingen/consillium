@@ -1,0 +1,14 @@
+BioForte Technology for in Silico Identification of Candidates for a New Microbiome-based Therapeutics and Diagnostics
+The goal of the project is to develop and validate the BioForte technology. Its main functionality should be to in silico determine candidates for novel microbiome-based therapeutics and diagnostics. Key challenge to be solved using the technology is to detect the differences in gut microbiome between oncology patients who respond to immunotherapies and the ones who do not respond to this treatment.
+
+This technology employs machine learning methods to replace the laboratory procedure for finding valuable genomic features. Such features can be crucial to identify differences between the two populations (e.g. responders vs non-responders) to target specific strains.
+
+The samples and data collected in this clinical study will be used for clinical validation of BioForte technology. For all patients treated with immunotherapy, stool collection will be performed per patient (one stool collection before setting up immunotherapy using anti-PD1 / anti-PDL1 and / or anti CTLA4 antibodies). Samples will be sequenced by long-read sequencing technology. In parallel, we will also collect samples of peripheral blood samples (PBMC) and biopsy (FFPE).
+Non Small Cell Lung Cancer|Microbiome|Metagenome|Immunotherapy|Melanoma
+BIOLOGICAL: Collection of stool, blood (PBMC) and biopsy (FFPE)
+Microbial diversity in stool samples, Microbila DNA - stool samples sequenced by long-read sequencing technology., Inclusion|Number of Responders and Non-responders on immunotherapy (evaluated using RECIST 1.1 criteria), Standard follow-up care after cancer treatment., Up to 6 months
+The goal of the project is to develop and validate the BioForte technology. Its main functionality should be to in silico determine candidates for novel microbiome-based therapeutics and diagnostics. Key challenge to be solved using the technology is to detect the differences in gut microbiome between oncology patients who respond to immunotherapies and the ones who do not respond to this treatment.
+
+This technology employs machine learning methods to replace the laboratory procedure for finding valuable genomic features. Such features can be crucial to identify differences between the two populations (e.g. responders vs non-responders) to target specific strains.
+
+The samples and data collected in this clinical study will be used for clinical validation of BioForte technology. For all patients treated with immunotherapy, stool collection will be performed per patient (one stool collection before setting up immunotherapy using anti-PD1 / anti-PDL1 and / or anti CTLA4 antibodies). Samples will be sequenced by long-read sequencing technology. In parallel, we will also collect samples of peripheral blood samples (PBMC) and biopsy (FFPE).

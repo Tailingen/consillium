@@ -1,0 +1,39 @@
+Testing Obeticholic Acid for Familial Adenomatous Polyposis
+This phase IIa trial investigates if giving obeticholic acid (OCA) is safe and has a beneficial effect on the number of polyps in the small bowel and colon in patients with familial adenomatous polyposis (FAP). FAP is a rare gene defect that increases the risk of developing cancer of the intestines and colon. OCA is a drug similar to a bile acid the body makes. It is fluid made and released by the liver. OCA binds to a receptor in the intestine that is believed to have a positive effect on preventing cancer development. OCA has been effective in treating primary biliary cholangitis (PBC), a liver disease, and is approved by the Food and Drug Administration (FDA) for use at a lower dose (10 mg). There have been studies showing that OCA decreases inflammation and fibrosis. However, it is not yet known whether OCA works on reducing the number of polyps in patients with FAP.
+Attenuated Familial Adenomatous Polyposis|Colorectal Carcinoma|Duodenal Carcinoma|Familial Adenomatous Polyposis
+PROCEDURE: Biopsy Procedure|PROCEDURE: Biospecimen Collection|PROCEDURE: Gastrointestinal Endoscopy|BIOLOGICAL: Obeticholic Acid|DRUG: Placebo Administration|OTHER: Questionnaire Administration
+Percentage change in duodenal polyp burden, Change from baseline will be summarized by treatment arm. The difference in change from baseline between active treatment arms and the placebo arm will also be summarized., Baseline to 6 months
+Incidence of adverse events, Will summarize adverse events for each group by grade and study drug attribution using descriptive statistics., Up to 21 days after completion of treatment|Absolute differences in the levels of serum FGF19 and C4, Differences in the median serum levels of FGF19 and C4 between treatment arms will be compared., Baseline to 6 months|Percentage change in the number of duodenal polyps, Will use parametric models to evaluate the absolute and/or relative changes from baseline of these measures between obeticholic acid (OCA) and placebo groups., Baseline to 6 months|Percentage change in the number of colorectal, rectal/pouch polyps, Will use parametric models to evaluate the absolute and/or relative changes from baseline of these measures between OCA and placebo groups., Baseline to 6 months|Percentage change in colorectal, rectal/pouch polyp burden, Will use parametric models to evaluate the absolute and/or relative changes from baseline of these measures between OCA and placebo groups., Baseline to 6 months|Changes in gene expression (messenger ribonucleic acid) profiles of adenomas and normal mucosa, Will apply methods such as the beta-uniform mixture (BUM) model, the Wilcoxon rank-sum test with empirical Bayes, and the significance analysis of microarrays (SAM) to control the first degree relative (FDR)., Baseline to 6 months|Changes in the microbiome of adenomas and normal mucosa, Will apply methods such as the BUM model, the Wilcoxon rank-sum test with empirical Bayes, and the SAM to control the FDR., Baseline to 6 months|Future candidate biomarkers measured by genomic and transcriptomic platforms in residual tissue biopsies of adenomas and normal mucosa, Will apply methods such as the BUM model, the Wilcoxon rank-sum test with empirical Bayes, and the SAM to control the FDR., At 6 months
+PRIMARY OBJECTIVE:
+
+I. To evaluate the effect of treatment with OCA versus treatment with placebo on duodenal polyp burden (sum of polyp diameters) in participants with FAP.
+
+SECONDARY OBJECTIVES:
+
+I. To assess the safety profile of treatment with OCA versus placebo in participants with FAP.
+
+II. To evaluate the effect of treatment with OCA versus placebo on rectal and pouch polyp burden (sum of polyp diameters) in participants with FAP.
+
+III. To assess the effect of treatment with OCA versus placebo on polyp burden (absolute number) in the duodenum of participants with FAP.
+
+IV. To assess the effect of treatment with OCA versus placebo on polyp burden (absolute number) in the rectum and rectal pouch of participants with FAP.
+
+V. To evaluate the effect of treatment with OCA versus placebo on serum levels of fibroblast growth factor-19 (FGF19) and 7 alpha-hydroxy-4-cholesten-3-one (7AC4, also known as C4) in participants with FAP.
+
+VI. To determine the effects of treatment with OCA versus placebo on gene expression in duodenal, rectal pouch, and rectal adenomas and uninvolved mucosa in participants with FAP:
+
+VIa. Identify differentially expressed genes between duodenal and colorectal adenomas and uninvolved tissue at baseline and post-intervention for participants who received OCA or placebo; VIb. Quantify the effect of OCA on the expression of downstream targets of FXR in adenomas and uninvolved tissue; VIc. Quantify the effect of OCA on the expression of cancer stem cell markers (e.g. LGR5, ASCL2, LRIG, BMI) and intestinal stem cell markers (e.g. Villin, KRT20, MUC, LYZ) in adenomas and uninvolved tissue.
+
+VII. To evaluate the cell-type specific effects of treatment with OCA versus placebo on gene expression and abundance in duodenal, rectal pouch, and rectal adenomas and uninvolved mucosa in participants with FAP via single-cell transcriptomics.
+
+VIII. To evaluate the effect of treatment with OCA versus placebo on microbiome diversity in duodenal, rectal pouch, and rectal adenomas and uninvolved tissue in participants with FAP.
+
+VIIIa. Compare alpha- and beta-diversity analysis and identify differential abundance in adenomas and uninvolved tissue.
+
+OUTLINE: Patients are randomized to 1 of 2 arms.
+
+ARM I: Patients receive OCA 25 mg orally (PO) once daily (QD) for 6 months in the absence of unacceptable toxicity. Patients also undergo gastrointestinal (GI) endoscopy with biopsy and collection of blood samples at screening and on study.
+
+ARM II: Patients receive matching placebo PO QD for 6 months in the absence of unacceptable toxicity. Patients also undergo GI endoscopy biopsy and collection of blood samples at screening and on study.
+
+After completion of the study treatment, patients are followed within 14-21 days.

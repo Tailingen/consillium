@@ -1,0 +1,27 @@
+Development and Evaluation of a Quantitative HP MRI for Clinical Prostate Cancer Exam
+This trial examines if a prostate magnetic resonance spectroscopic imaging can be performed on a 3T scanner using an investigational contrast called hyperpolarized 13-C pyruvate for the development of a clinical prostate cancer exam. 3T refers to the strength of the magnetic resonance spectroscopic imaging (MRSI) machine. MRSI is a magnetic resonance imaging (MRI) technique that can show certain chemical differences in healthy and diseased prostate tumor tissue compared to standard multiparametric MRI that may not detect the tumor. Hyperpolarized (HP) 13-C pyruvate is a contrast drug that may help the scanner see the tumor site better during imaging. Hyperpolarization of 13-C pyruvate may allow pyruvate and its metabolites to be detected upon injection, which in turn, allow the prostate cancer to be found and treated.
+Prostate Adenocarcinoma
+OTHER: Hyperpolarized Carbon C 13 Pyruvate|PROCEDURE: Magnetic Resonance Spectroscopic Imaging|PROCEDURE: Surgical Procedure
+Reproducibility of the kpl measurement, Will be assessed using a test-retest study design. Will be summarized by the intra-class correlation coefficient (ICC). Data from patients at both MD Anderson and University of San Fransisco, San Fransisco (UCSF) will be pooled if possible to increase significance. Bland-Altman analysis will be included if the ICC proves unreliable as a measure of reproducibility. ICC is sensitive to data range; thus, Bland-Altman plot, limits of agreement, repeatability coefficient, and the within-patient coefficient of variation (wCV) may be included as appropriate., 3 years|Reproducibility of the normalized area under the lactate curve (nLac), Will be carried out using data from N=40 patients on active surveillance at MD Anderson. Will be summarized by the ICC. Data from patients at both MD Anderson and University of San Fransisco, San Fransisco (UCSF) will be pooled if possible to increase significance. Bland-Altman analysis will be included if the ICC proves unreliable as a measure of reproducibility. ICC is sensitive to data range; thus, Bland-Altman plot, limits of agreement, repeatability coefficient, and the within-patient coefficient of variation (wCV) may be included as appropriate., 3 years
+Specificity of HP 13-C-pyruvate MRSI for detecting high risk localized prostate cancer, Analysis will be restricted to lesions \> 0.5 cc and the 3 most significant pathologic cancer foci from each patient. Specificity will be calculated as the ratio of true negatives to the sum of true negatives and false positives. Specificity will be assessed using pooled data from MD Anderson (N=25) and UCSF (N=25). A ROC analysis will be carried out., 3 years|Sensitivity of hyperpolarized (HP) 13-C-pyruvate magnetic resonance spectroscopy imaging (MRSI) for detecting high risk localized prostate cancer, Analysis will be restricted to lesions \> 0.5 cc and the 3 most significant pathologic cancer foci from each patient. Sensitivity will be calculated as the ratio of true positives (matches) to the sum of true positives and false negatives. Sensitivity will be assessed using pooled data from MD Anderson (N=25) and UCSF (N=25). A receiver operating characteristic (ROC) analysis will be carried out., 3 years|Kpl, Correspondence between kpl, imaging biomarkers from the multiparametric MRI exam, and tumor grade will be assessed. Imaging biomarkers will be compared with pathologic grade (benign, Epstein grade grouping 1; intermediate, Epstein 2-3; and high-grade, Epstein 4-5) using analysis of variance (ANOVA) with Newman-Keuls post-hoc test to determine associations., 3 years
+PRIMARY OBJECTIVES:
+
+I. To assess reproducibility of quantitative spectroscopic and imaging parameters in hyperpolarized 13-C pyruvate magnetic resonance spectroscopic imaging (MRSI), including kpl, which assesses the rate of conversion of 13-C pyruvate to 13-C lactate in the tissue of interest, using a test-retest study design.
+
+II. To test the reproducibility of the normalized area under the lactate curve (nLac), a semi-quantitative biomarker for tumor metabolism.
+
+SECONDARY OBJECTIVES:
+
+I. To provide initial assessment of the sensitivity and specificity of hyperpolarized 13-C-pyruvate MRSI performed pre-therapy for detecting high risk localized prostate cancer.
+
+II. To assess the correlation between kpl and tumor grade.
+
+OUTLINE: Patients are assigned to 1 of 3 arms.
+
+ARM Ia: Patients receive hyperpolarized carbon C 13 pyruvate intravenously (IV) and undergo MRSI at least 5 weeks after prostate cancer biopsy.
+
+ARM Ib: Patients receive hyperpolarized carbon C 13 pyruvate IV and undergo MRSI at least 5 weeks after prostate cancer biopsy and at a second time 3-4 weeks after.
+
+ARM II: Patients receive hyperpolarized carbon C 13 pyruvate IV and undergo MRSI at least 5 weeks after prostate cancer biopsy, followed by standard of care surgery within 6 months after.
+
+After the completion of study, patients in Arm Ia and Arm Ib are followed up once.

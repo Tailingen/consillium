@@ -1,0 +1,34 @@
+Testing the Combination of XL184 (Cabozantinib), Nivolumab, and Ipilimumab for Poorly Differentiated Neuroendocrine Tumors
+This phase II trial studies how well the combination of XL184 (cabozantinib), nivolumab, and ipilimumab work in treating patients with poorly differentiated neuroendocrine tumors (i.e., neuroendocrine tumor that does not look like the normal tissue it arose from). Cabozantinib may stop the growth of tumor cells by blocking some of the enzymes needed for cell growth. Immunotherapy with monoclonal antibodies, such as nivolumab and ipilimumab, may help the body's immune system attack the cancer, and may interfere with the ability of tumor cells to grow and spread. Giving cabozantinib, nivolumab and ipilimumab may shrink the cancer.
+Metastatic Large Cell Neuroendocrine Carcinoma|Metastatic Neuroendocrine Carcinoma|Metastatic Neuroendocrine Neoplasm|Metastatic Small Cell Neuroendocrine Carcinoma
+DRUG: Cabozantinib S-malate|BIOLOGICAL: Ipilimumab|BIOLOGICAL: Nivolumab
+Overall response rate (ORR), Defined as complete responses (CR) plus partial responses (PR). Responses will be determined via Response Evaluation Criteria in Solid Tumors (RECIST) version (v) 1.1. CR+PR rate will be summarized with a point estimate and a 2-sided Wilson type confidence interval (CI) estimate., Within 6 months of treatment initiation
+Progression free survival (PFS), Analyzed with standard Kaplan-Meier methodology. Point and CI estimates of the median and various time point-specific rates will be derived from the Kaplan-Meier life table. Censored PFS will be analyzed for all registered patients., From start of treatment to time of progression or death, whichever occurs first, assessed up to 1 year|Incidence of adverse events, Safety including specific toxicity types, grades, and attributions will be evaluated and summarized. Toxicity will be assessed in all toxicity-evaluable (t-e) patients using the Common Terminology Criteria for Adverse Events (CTCAE) 5.0 criteria. The t-e population is defined as all patients who have received the study treatment. The resulting binary endpoints of each toxicity type at a specific grade(s), will all be summarized with point estimates and 2-sided Wilson type CI estimates. The grade of each type of toxicity will also be summarized with 1-way frequency distributions., Up to 1 year|Disease control rate (DCR), The binary endpoint of DCR will be defined as the achievement of either CR, or PR, or stable disease (SD) (yes/no). The resulting binary endpoints of DCR will all be summarized with point estimates and 2-sided Wilson type CI estimates., Up to 1 year|Duration of response (DOR), The censored time-to-event distributions of DOR will be analyzed with standard Kaplan-Meier methodology. Point and CI estimates of the median and various time point-specific rates will be derived from the Kaplan-Meier life table. Censored DOR will be analyzed for the combination of all patients who achieve either a CR or a PR., From the time measurement criteria are met for CR/PR (whichever is first recorded) until the first date that recurrent or progressive disease is objectively documented, assessed up to 1 year
+CD8+ T lymphocytes, Will be summarized with descriptive statistics (N, mean, standard deviation, median, interquartile range \[IQR\], minimum, maximum, and a CI for the mean). Statistical graphics (e.g., box plots, dot plots, etc.) will also be created to illustrate the distributions of the various correlative endpoints., Up to 1 year|Myeloid-Derived Suppressor Cells, Will be summarized with descriptive statistics (N, mean, standard deviation, median, IQR, minimum, maximum, and a CI for the mean). Statistical graphics (e.g., box plots, dot plots, etc.) will also be created to illustrate the distributions of the various correlative endpoints., Up to 1 year|Tumor-associated macrophages, Will be summarized with descriptive statistics (N, mean, standard deviation, median, IQR, minimum, maximum, and a CI for the mean). Statistical graphics (e.g., box plots, dot plots, etc.) will also be created to illustrate the distributions of the various correlative endpoints., Up to 1 year
+PRIMARY OBJECTIVE:
+
+I. To evaluate the overall response rate (ORR) associated with the combination of XL184 (cabozantinib), nivolumab, and ipilimumab in patients with advanced poorly-differentiated neuroendocrine carcinomas (NECs), after the failure of at least one line of prior therapy.
+
+SECONDARY OBJECTIVES:
+
+I. To evaluate progression-free survival (PFS). II. To measure the safety and tolerability of the combination of XL184 (cabozantinib), nivolumab, and ipilimumab in patients with advanced, poorly-differentiated NECs.
+
+III. To evaluate disease control rate (DCR). IV. To measure duration of response (DOR). V. To describe the tumor molecular profile using whole exome sequencing (WES) and correlate it with treatment outcome.
+
+VI. To describe the tumor molecular profile using ribonucleic acid (RNA) sequencing (RNAseq) and correlate it with treatment outcome.
+
+EXPLORATORY OBJECTIVES:
+
+I. To measure the tumor-infiltrating CD8+ T lymphocytes in pre- and on-treatment biopsies.
+
+II. To measure tumor-infiltrating myeloid derived suppressor cells (MDSCs) in pre- and on-treatment biopsies.
+
+III. To measure tumor-infiltrating tumor-associated macrophages (TAM) in the pre and on-treatment biopsies.
+
+IV. To measure the expression of programmed death-ligand 1 (PD-L1) in tumor cells and infiltrating immune cells.
+
+OUTLINE:
+
+Patients receive cabozantinib s-malate orally (PO) once daily (QD) on days 1-21 of cycles 1-4 and days 1-28 of subsequent cycles, nivolumab intravenously (IV) over 30 minutes on day 1, and ipilimumab IV over 90 minutes on day 1 of cycles 1-4 only. Treatment repeats every 21 for 4 cycles then every 28 days for subsequent cycles in the absence of disease progression or unacceptable toxicity.
+
+After completion of study treatment, patients are followed up at 4 weeks, and then every 3 months thereafter.

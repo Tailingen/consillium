@@ -1,0 +1,24 @@
+Erlotinib Hydrochloride in Preventing Cancer in Patients With Precancerous Lesions of the Lung
+This phase I trial studies the side effects and best dose of erlotinib hydrochloride in preventing cancer in patients with precancerous lesions of the lung. Erlotinib hydrochloride may stop the growth of tumor cells by blocking some of the enzymes needed for cell growth.
+Dysplasia|Metaplasia|Pulmonary Precancerous Condition
+DRUG: Erlotinib Hydrochloride|OTHER: Laboratory Biomarker Analysis|OTHER: Pharmacological Study
+Change in the ratio of p-EGFR to total EGFR, Baseline up to 90 days
+Change in the expression of p-Akt, Analyzed using an analysis-of-variance (ANOVA) on the change from baseline expression level with a factor for dose (75, 50, 25 or 100). All tests will be two-sided and tested at level alpha=0.05. If the overall comparison is significant, pairwise comparisons will be done using straight Bonferroni adjustments., Baseline up to 90 days|Change in the expression of p-Erk, Analyzed using an ANOVA on the change from baseline expression level with a factor for dose (75, 50, 25 or 100). All tests will be two-sided and tested at level alpha=0.05. If the overall comparison is significant, pairwise comparisons will be done using straight Bonferroni adjustments., Baseline up to 90 days|Change in the expression of Ki67, Analyzed using an ANOVA on the change from baseline expression level with a factor for dose (75, 50, 25 or 100). All tests will be two-sided and tested at level alpha=0.05. If the overall comparison is significant, pairwise comparisons will be done using straight Bonferroni adjustments., Baseline up to 90 days|Incidence of toxicities, graded according to Common Toxicity Criteria, version 3.0, Up to 30 days
+PK/PD parameters, Up to 90 days|Pharmacogenomic profile, Up to 90 days
+PRIMARY OBJECTIVES:
+
+I. To determine the lowest dose of erlotinib (erlotinib hydrochloride) that will decrease the ratio of phosphorylated to total epidermal growth factor receptor (EGFR) (phosphorylated EGFR \[pEGFR\]/EGFR) by at least 20% in subjects with premalignant lesions of the lung. This will be accomplished by implementing a dose de-escalation trial of erlotinib (i.e., 75, 50, and 25 or 100 mg by mouth daily for a 3-month period), and determining the pEGFR/EGFR ratio in premalignant lesions of the lung epithelium by immunohistochemistry. Changes in the pEGFR/EGFR ratio will be assessed by comparing the pre-treatment (baseline) ratio to that of the post-treatment (3 month) ratio, measured in paraffin embedded biopsy specimens.
+
+SECONDARY OBJECTIVES:
+
+I. To determine the effect of erlotinib on the following biomarkers of potential biological relevance in paraffin embedded lung biopsies, p-v-akt murine thymoma viral oncogene homolog 1 (Akt), p-mitogen-activated protein kinase 1 (Erk), and marker of proliferation Ki-67 (Ki67).
+
+II. To characterize the toxicity profile of erlotinib in this cohort of subjects.
+
+III. To analyze and model erlotinib's pharmacokinetic/pharmacodynamic (PK/PD) profile. Serial blood samples will be drawn at the beginning and at the end of erlotinib treatment, and pharmacokinetic parameters will be determined. The status of EGFR genotype (and that of others genes linked to erlotinib PK/PD) clinical toxicity, and dose will be examined as possible other influential covariates by comparing them to experimentally measured PK profiles, and PD profiles (in particular, the pEGFR/EGFR ratio). The goal of these studies will be to determine the optimal biologic concentration (OBC) of Erlotinib that is associated with the lowest toxicity and highest effect, for a given subject's pharmacogenomic profile.
+
+OUTLINE:
+
+Patients receive erlotinib hydrochloride orally (PO) once daily (QD) for 90 days in the absence of disease progression or unacceptable toxicity.
+
+After completion of study treatment, patients are followed up at 30 days.

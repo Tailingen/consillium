@@ -1,0 +1,93 @@
+Combination Chemotherapy With or Without Bortezomib in Treating Younger Patients With Newly Diagnosed T-Cell Acute Lymphoblastic Leukemia or Stage II-IV T-Cell Lymphoblastic Lymphoma
+This randomized phase III trial compares how well combination chemotherapy works when given with or without bortezomib in treating patients with newly diagnosed T-cell acute lymphoblastic leukemia or stage II-IV T-cell lymphoblastic lymphoma. Bortezomib may help reduce the number of leukemia or lymphoma cells by blocking some of the enzymes needed for cell growth. It may also help chemotherapy work better by making cancer cells more sensitive to the drugs. It is not yet known if giving standard chemotherapy with or without bortezomib is more effective in treating newly diagnosed T-cell acute lymphoblastic leukemia and T-cell lymphoblastic lymphoma.
+Adult T Acute Lymphoblastic Leukemia|Ann Arbor Stage II Adult Lymphoblastic Lymphoma|Ann Arbor Stage II Childhood Lymphoblastic Lymphoma|Ann Arbor Stage III Adult Lymphoblastic Lymphoma|Ann Arbor Stage III Childhood Lymphoblastic Lymphoma|Ann Arbor Stage IV Adult Lymphoblastic Lymphoma|Ann Arbor Stage IV Childhood Lymphoblastic Lymphoma|Childhood T Acute Lymphoblastic Leukemia
+DRUG: Bortezomib|DRUG: Cyclophosphamide|DRUG: Cytarabine|DRUG: Daunorubicin|DRUG: Daunorubicin Hydrochloride|DRUG: Dexamethasone|DRUG: Doxorubicin|DRUG: Doxorubicin Hydrochloride|DRUG: Etoposide|DRUG: Hydrocortisone Sodium Succinate|DRUG: Ifosfamide|DRUG: Leucovorin Calcium|DRUG: Mercaptopurine|DRUG: Methotrexate|DRUG: Pegaspargase|RADIATION: Radiation Therapy|DRUG: Thioguanine|DRUG: Vincristine|DRUG: Vincristine Sulfate
+Event-free Survival (EFS) for Modified Augmented Berlin-Frankfurt-Munster Backbone With or Without Bortezomib in All Randomized Patients, EFS is calculated as time from randomization at study entry to first event (induction failure, induction death, relapse, second malignancy, remission death) or date of last contact. Three-year EFS rates will be calculated for both groups., 3 years
+Toxicity Rates Associated With Modified Standard Therapy, Including Dexamethasone and Additional Pegaspargase, Percentage of patients who experienced Grade 3 or higher Toxicity Assessed by the National Cancer Institute (NCI) Common Terminology Criteria for Adverse Events (CTCAE) Version 4.0, 3 years from start of therapy by patient|EFS for Standard (SR) and Intermediate Risk (IR) T-ALL Patients on the Non-bortezomib Containing Arm on This Study (no Cranial Radiation Therapy [CRT]) and Similar Patients on AALL0434 (Received CRT), EFS is calculated as time from randomization at study entry to first event (induction failure, induction death, relapse, second malignancy, remission death) or date of last contact., 3 years|Cumulative Incidence Rates of Isolated Central Nervous System (CNS) Relapse for SR and IR T-ALL Patients on the Non-bortezomib Containing Arm on This Study (no CRT) and Similar Patients on AALL0434 (Receive CRT), Cumulative incidence of isolated CNS relapse adjusting for competing risks using the method of: Gray R, A class of K-sample tests for comparing the cumulative incidence of a competing risk. Ann Stat 1141:1154, 1988, 3 years|EFS for Very High Risk (VHR) T-ALL Patients Treated With High Risk (HR) Berlin-Frankfurt-Munster (BFM) Intensification Blocks Who Become Minimal Residual Disease (MRD) Negative and Those Who Remain MRD Positive at the End of HR Block 3, EFS will be calculated as time from the end of the three high-risk blocks of therapy to first event (relapse, second malignancy, remission death) or date of last contact., 3 years|EFS for Very High Risk (VHR) T-LLy Patients Treated With HR Berlin-Frankfurt-Munster (BFM) Intensification Blocks Who Have Complete or Partial Remission and Those Who do Not Respond, EFS for very high risk (VHR) T-LLy patients treated with HR Berlin-Frankfurt-Munster (BFM) intensification blocks who have complete or partial remission and those who do not respond, 3 years
+PRIMARY OBJECTIVES:
+
+I. To compare event-free survival (EFS) in patients with newly diagnosed T-cell acute lymphoblastic leukemia (T-ALL) and T-cell lymphoblastic lymphoma (T-LLy) who are randomized to a modified augmented Berlin-Frankfurt-Munster (ABFM) backbone versus bortezomib plus the modified ABFM backbone.
+
+SECONDARY OBJECTIVES:
+
+I. To determine the safety and feasibility of modifying standard therapy for T-ALL and T-LLy based on the results of UKALL 2003, which includes a dexamethasone-based induction, additional doses of pegaspargase (PEG-ASP) during induction and delayed intensification (DI), and dexamethasone pulses during maintenance therapy.
+
+II. To determine if prophylactic (presymptomatic) cranial radiation therapy (CRT) can be safely and effectively eliminated in the 85-90% of T-ALL patients classified as standard or intermediate risk.
+
+III. To determine the proportion of end of consolidation (EOC) minimal residual disease (MRD) \>= 0.1% T-ALL patients who become MRD negative (undetectable by flow cytometry) after intensification of chemotherapy, using three high risk (HR) BFM blocks, and to compare EFS between the patients who become MRD negative after the three HR BFM blocks and continue on chemotherapy with those who continue to have detectable MRD and are eligible for other treatment strategies, including hematopoietic stem cell transplant (HSCT).
+
+IV. To compare the EFS between very high risk (induction failure) T-LLy patients treated with HR BFM intensification blocks who have partial or complete response (PR or CR) with those who do not respond (NR).
+
+CORRELATIVE OBJECTIVES:
+
+I. To investigate the prognostic significance of day 29 bone marrow (BM) MRD in T-LLy patients.
+
+II. To determine if protein expression patterns can predict bortezomib response and drug resistance in T-ALL.
+
+III. To analyze and target relevant signaling pathways in T-ALL blasts, focusing on early T cell precursor (ETP) acute lymphoblastic leukemia (ALL).
+
+OUTLINE: Patients are randomized to 1 of 2 treatment arms. Patients are risk assigned based on data from end of induction and/or consolidation therapy; this then modifies the subsequent therapy received.
+
+T-ALL Risk Group Definitions:
+
+Standard Risk (SR): CNS1\*, lumbar puncture prior to steroid therapy (not steroid pretreated), Day 29 (end of induction) bone marrow M1, Day 29 bone marrow minimal residual disease (MRD) \<=0.01%, no testicular leukemia at diagnosis.
+
+Intermediate Risk (IR): Not SR or VHR.
+
+Very High Risk (VHR): M3 marrow at Day 29 and/or end of consolidation (EOC) MRD \>=0.1%.
+
+\*CNS2 and CNS3 cannot be SR and are assigned to IR or VHR based on marrow response.
+
+T-LL Risk Group Definitions:
+
+Standard Risk (SR): CNS1\*, MRD at diagnosis \<1% in bone marrow, lumbar puncture prior to steroid therapy (not steroid pretreated), Day 29 (end of induction) complete response (CR) or partial response (PR).
+
+Intermediate Risk (IR): Not SR or VHR.
+
+Very High Risk (VHR): Stable Disease (SD)/No response (NR) at Day 29 (End of Induction).
+
+\*CNS2 and CNS3 cannot be SR and are assigned to IR or VHR based on radiographic response.
+
+ARM A INDUCTION: Patients receive cytarabine intrathecally (IT) at time of diagnostic lumbar puncture (if within 72 hours from start of protocol therapy) OR day 1; vincristine sulfate intravenously (IV) over 1 minute on days 1, 8, 15, and 22; dexamethasone orally (PO) twice daily (BID) on days 1-28 (no taper); daunorubicin hydrochloride IV over 1-15 minutes on days 1, 8, 15, and 22; pegaspargase IV over 1-2 hours on days 4 and 18; and methotrexate IT on days 8 and 29 (and on days 15 and 22 for central nervous system 3 involvement \[CNS3\] T-ALL patients).
+
+ARM A CONSOLIDATION: Beginning on day 36 from Induction, patients receive methotrexate IT on days 1, 8, 15, and 22 (days 1 and 8 only for CNS3 T-ALL or CNS3 T-LLy patients); cyclophosphamide IV over 30-60 minutes on days 1 and 29; cytarabine IV over 1-30 minutes or subcutaneously (SC) on days 1-4, 8-11, 29-32, and 36-39; mercaptopurine PO once daily (QD) on days 1-14 and 29-42; pegaspargase IV over 1-2 hours on days 15 and 43; and vincristine sulfate IV on days 15, 22, 43, and 50. Patients with persistent testicular disease undergo radiation therapy.
+
+Patients are then assigned to subsequent therapy according to risk assignment. Patients with standard risk (SR) disease receive Interim Maintenance with Capizzi methotrexate (CMTX); patients with intermediate risk (IR) disease receive Interim Maintenance with high-dose methotrexate (HDMTX), Delayed Intensification, and then Interim Maintenance with CMTX; and patients with very high risk (VHR) disease receive 3 HR Intensification Blocks, Delayed Intensification, and then Interim Maintenance with CMTX.
+
+ARM A CMTX INTERIM MAINTENANCE: Patients receive vincristine sulfate IV over 1 minute on days 1, 11, 21, 31, and 41; methotrexate IV over 2-5 minutes (undiluted) or 10-15 minutes (diluted) on days 1, 11, 21, 31, and 41; pegaspargase IV over 1-2 hours on days 2 and 22; and methotrexate IT on days 1 and 31. The next course (based on risk assignment) begins on day 57 or when blood counts recover (whichever occurs later).
+
+ARM A DELAYED INTENSIFICATION: Patients receive vincristine sulfate IV over 1 minute on days 1, 8, 15, 43, and 50; dexamethasone PO BID or IV on days 1-7 and 15-21; doxorubicin hydrochloride IV over 15 minutes on days, 1, 8, and 15; pegaspargase IV over 1-2 hours on days 4, 18, and 43; methotrexate IT on days 1, 29, and 36; cyclophosphamide IV over 30-60 minutes on day 29; cytarabine IV over 1-30 minutes or SC on days 29-32 and 36-39; and thioguanine PO on days 29-42. The next course (based on risk assignment) begins on day 64 or when blood counts recover (whichever occurs later).
+
+ARM A HDMTX INTERIM MAINTENANCE: Patients receive high-dose methotrexate IV over 24 hours on days 1, 15, 29, and 43; leucovorin calcium IV or PO on days 3-4, 17-18, 31-32, and 45-46; vincristine sulfate IV on days 1, 15, 29, and 43; mercaptopurine PO QD on days 1-56; and methotrexate IT on days 1 and 29. The next course (based on randomization assignment) begins on day 57 or when blood counts recover (whichever occurs later).
+
+ARM A INTENSIFICATION BLOCK I: Patients receive dexamethasone IV or PO BID on days 1-5; high-dose methotrexate IV over 24 hours on day 1; leucovorin calcium IV or PO on days 3-4; vincristine sulfate IV on days 1 and 6; cyclophosphamide IV over 1-6 hours on days 2-4; high-dose cytarabine IV over 3 hours every 12 hours on day 5; pegaspargase IV over 1-2 hours on day 6; and triple IT therapy comprising methotrexate IT, hydrocortisone IT, and cytarabine IT on day 1. The next course (Intensification Block II) begins on day 22 or when blood counts recover (whichever occurs later).
+
+ARM A INTENSIFICATION BLOCK II: Patients receive dexamethasone PO BID or IV on days 1-5; high-dose methotrexate IV over 24 hours on day 1; leucovorin calcium PO or IV on days 3-4; vincristine sulfate IV on days 1 and 6; ifosfamide IV over 1 hour every 12 hours on days 2-4; daunorubicin hydrochloride IV over 30 minutes on day 5; pegaspargase IV over 1-2 hours on day 6; and triple IT therapy on day 1 as in Intensification Block I. The next course (Intensification Block III) begins on day 22 or when blood counts recover (whichever occurs later).
+
+ARM A INTENSIFICATION BLOCK III: Patients receive dexamethasone PO BID or IV on days 1-5; high-dose cytarabine IV over 3 hours every 12 hours on days 1-2; etoposide IV over 1-2 hours every 12 hours on days 3-5; pegaspargase IV over 1-2 hours on day 6; and triple IT therapy on day 5 as in Intensification Block I. The next course (based on randomization) begins on day 22 or when blood counts recover (whichever occurs later).
+
+ARM A MAINTENANCE THERAPY: All patients receive vincristine sulfate IV over 1 minute on days 1, 29, and 57; dexamethasone PO BID or IV on days 1-5, 29-33, and 57-61; mercaptopurine PO on days 1-84; methotrexate PO on days 8, 15, 22, 29, 36, 43, 50, 57, 64, 71, and 78 (omit day 29 for SR patients during the first 4 cycles); methotrexate IT on day 1 (and day 29 during the first 4 cycles for SR patients and during the first 2 cycles for IR patients). Patients with CNS1-3VHR and CNS2 VHR, and CNS3 IR disease also undergo cranial radiation therapy during the first 4 weeks (cycle 1). Treatment in female patients with T-ALL and patients with T-LLY repeats every 12 weeks for up to 2 years from the start of Interim Maintenance (week 119). Treatment in male patients with T-ALL repeats every 12 weeks for up to 3 years from the start of Interim Maintenance (week 171).
+
+ARM B INDUCTION: Patients receive bortezomib IV over 3-5 seconds on days 1, 4, 8, and 11(1.3 mg/m\^2 per dose); and cytarabine, vincristine sulfate, dexamethasone, daunorubicin hydrochloride, pegaspargase, and methotrexate as in Induction Arm A.
+
+ARM B CONSOLIDATION: Beginning on day 36 from Induction, patients receive methotrexate IT on days 1, 8, 15, and 22 (days 1 and 8 only for CNS3 T-ALL or CNS3 T-LLy patients); cyclophosphamide IV over 30-60 minutes on days 1 and 29; cytarabine IV over 1-30 minutes or subcutaneously (SC) on days 1-4, 8-11, 29-32, and 36-39; mercaptopurine PO once daily (QD) on days 1-14 and 29-42; pegaspargase IV over 1-2 hours on days 15 and 43; and vincristine sulfate IV on days 15, 22, 43, and 50. Patients with persistent testicular disease undergo radiation therapy.
+
+Patients are then assigned to subsequent therapy according to risk assignment. Patients with standard risk (SR) disease receive Interim Maintenance with Capizzi methotrexate (CMTX); patients with intermediate risk (IR) disease receive Interim Maintenance with high-dose methotrexate (HDMTX), Delayed Intensification, and then Interim Maintenance with CMTX; and patients with very high risk (VHR) disease receive 3 HR Intensification Blocks, Delayed Intensification, and then Interim Maintenance with CMTX.
+
+ARM B CMTX INTERIM MAINTENANCE: Patients receive vincristine sulfate IV over 1 minute on days 1, 11, 21, 31, and 41; methotrexate IV over 2-5 minutes (undiluted) or 10-15 minutes (diluted) on days 1, 11, 21, 31, and 41; pegaspargase IV over 1-2 hours on days 2 and 22; and methotrexate IT on days 1 and 31. The next course (based on risk assignment) begins on day 57 or when blood counts recover (whichever occurs later).
+
+ARM B DELAYED INTENSIFICATION: Patients receive bortezomib IV over 3-5 seconds on days 1, 4, 15, and 18 (1.3 mg/m\^2 per dose); and vincristine sulfate, dexamethasone, doxorubicin hydrochloride, pegaspargase, methotrexate, cyclophosphamide, cytarabine, and thioguanine as in Delayed Intensification Arm A. The next course (based on risk assignment) begins on day 64 or when blood counts recover (whichever occurs later).
+
+ARM B HDMTX INTERIM MAINTENANCE: Patients receive high-dose methotrexate IV over 24 hours on days 1, 15, 29, and 43; leucovorin calcium IV or PO on days 3-4, 17-18, 31-32, and 45-46; vincristine sulfate IV on days 1, 15, 29, and 43; mercaptopurine PO QD on days 1-56; and methotrexate IT on days 1 and 29. The next course (based on randomization assignment) begins on day 57 or when blood counts recover (whichever occurs later).
+
+ARM B INTENSIFICATION BLOCK I: Patients receive dexamethasone IV or PO BID on days 1-5; high-dose methotrexate IV over 24 hours on day 1; leucovorin calcium IV or PO on days 3-4; vincristine sulfate IV on days 1 and 6; cyclophosphamide IV over 1-6 hours on days 2-4; high-dose cytarabine IV over 3 hours every 12 hours on day 5; pegaspargase IV over 1-2 hours on day 6; and triple IT therapy comprising methotrexate IT, hydrocortisone IT, and cytarabine IT on day 1. The next course (Intensification Block II) begins on day 22 or when blood counts recover (whichever occurs later).
+
+ARM B INTENSIFICATION BLOCK II: Patients receive dexamethasone PO BID or IV on days 1-5; high-dose methotrexate IV over 24 hours on day 1; leucovorin calcium PO or IV on days 3-4; vincristine sulfate IV on days 1 and 6; ifosfamide IV over 1 hour every 12 hours on days 2-4; daunorubicin hydrochloride IV over 30 minutes on day 5; pegaspargase IV over 1-2 hours on day 6; and triple IT therapy on day 1 as in Intensification Block I. The next course (Intensification Block III) begins on day 22 or when blood counts recover (whichever occurs later).
+
+ARM B INTENSIFICATION BLOCK III: Patients receive dexamethasone PO BID or IV on days 1-5; high-dose cytarabine IV over 3 hours every 12 hours on days 1-2; etoposide IV over 1-2 hours every 12 hours on days 3-5; pegaspargase IV over 1-2 hours on day 6; and triple IT therapy on day 5 as in Intensification Block I. The next course (based on randomization) begins on day 22 or when blood counts recover (whichever occurs later).
+
+ARM B MAINTENANCE THERAPY: All patients receive vincristine sulfate IV over 1 minute on days 1, 29, and 57; dexamethasone PO BID or IV on days 1-5, 29-33, and 57-61; mercaptopurine PO on days 1-84; methotrexate PO on days 8, 15, 22, 29, 36, 43, 50, 57, 64, 71, and 78 (omit day 29 for SR patients during the first 4 cycles); methotrexate IT on day 1 (and day 29 during the first 4 cycles for SR patients and during the first 2 cycles for IR patients). Patients with CNS1-3VHR and CNS2 VHR, and CNS3 IR disease also undergo cranial radiation therapy during the first 4 weeks (cycle 1). Treatment in female patients with T-ALL and patients with T-LLY repeats every 12 weeks for up to 2 years from the start of Interim Maintenance (week 119). Treatment in male patients with T-ALL repeats every 12 weeks for up to 3 years from the start of Interim Maintenance (week 171).
+
+All treatment continues in the absence of disease progression or unacceptable toxicity.
+
+After completion of study treatment, patients are followed up periodically for up to 10 years.

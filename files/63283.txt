@@ -1,0 +1,32 @@
+Radiation Therapy in Treating Patients With Stage II or Stage III Prostate Cancer
+RATIONALE: Radiation therapy uses high-energy x-rays and other sources to damage tumor cells. Internal radiation therapy uses radioactive material placed directly into or near a tumor to kill tumor cells. Giving radiation therapy in different ways may kill more tumor cells.
+
+PURPOSE: This phase II trial is studying how well giving internal radiation therapy together with external-beam radiation therapy works in treating patients with stage II or stage III prostate cancer.
+Prostate Cancer
+RADIATION: High Dose brachytherapy boost|RADIATION: External beam radiotherapy
+Percentage of Participants With Late Grade 3-5 Genitourinary (GU) and Gastrointestinal (GI) Adverse Events (AE) at 18 Months, Adverse events (AE) were graded using the Common Terminology Criteria for Adverse Events (CTCAE) v3.0. Grade refers to the severity of the AE. The CTCAE v3.0 assigns Grades 1 through 5 with unique clinical descriptions of severity for each AE based on this general guideline: Grade 1 Mild, Grade 2 Moderate, Grade 3 Severe, Grade 4 Life-threatening or disabling, Grade 5 Death related to AE. "Late" is defined as occurring after 9 months from the start of study treatment. Because of the lead time of 9 months, the percentage at 18-months was estimated by the 9-month rate using the cumulative incidence method starting at the 10th month. Death was treated as a competing risk., From 9 to 18 months after start of study treatment
+Number of Participants With Acute Grade 3-5 Genitourinary (GU) and Gastrointestinal (GI) Adverse Events (AE), Adverse events (AE) were graded using the Common Terminology Criteria for Adverse Events (CTCAE) v3.0. Grade refers to the severity of the AE. The CTCAE v3.0 assigns Grades 1 through 5 with unique clinical descriptions of severity for each AE based on this general guideline: Grade 1 Mild, Grade 2 Moderate, Grade 3 Severe, Grade 4 Life-threatening or disabling, Grade 5 Death related to AE. Acute is defined as occurring within 9 months from the start of study treatment., From treatment start to 9 months|Percentage of Participants With Biochemical Failure at 10 Years Using American Society for Therapeutic Radiation and Oncology (ASTRO) Definition, The ASTRO criteria for biochemical failure is three consecutive rises in prostate-specific antigen (PSA) level above the nadir after radiation therapy. The PSA nadir is defined as as the lowest PSA value reached immediately before a biochemical failure. The date of failure is midway between the last non-rising PSA and the first rise in PSA. Time to failure is defined as time from registration to the date of first failure, last known follow-up (censored), or death without failure (competing risk). Failure rate is estimated using the cumulative incidence method., From registration to ten years|Percentage of Participants With Biochemical Failure at 10 Years Using the Phoenix Definition, The Phoenix criteria for biochemical failure is a rise of 2 ng/mL or more above the nadir after radiation therapy. Time to failure is defined as time from registration to the date of first failure, last known follow-up (censored), or death without failure (competing risk). Failure rate is estimated using the cumulative incidence method., From registration to ten years|Percentage of Participants Alive at 10 Years, Overall survival time is defined as time from registration to the date of death from any cause or last known follow-up (censored). Overall survival rate is estimated by the Kaplan-Meier method., From registration to 10 years|Percentage of Participants With Death Due to Prostate Cancer at 10 Years, The following will be considered as death due to prostate cancer (failure):
+
+* Death certified as due to prostate cancer.
+* Death from other causes with active malignancy (clinical or biochemical progression).
+* Death due to complications of treatment, irrespective of the status of malignancy.
+
+Time to failure is defined as time from registration to the date of first failure, last known follow-up (censored), or death without failure (competing risk). Failure rate is estimated using the cumulative incidence method., From registration to ten years|Percentage of Participants With Distant Failure at 10 Years, Distant failure required documentation of regional nodal recurrence or distant disease relapse. Time to failure is defined as time from registration to the date of first failure, last known follow-up (censored), or death without failure (competing risk). Failure rate is estimated using the cumulative incidence method., From registration to ten years|Percentage of Participants With Local Failure at 10 Years, Local failure is defined as documented local progression as determined by clinical exam. Time to failure is defined as time from registration to the date of first failure, last known follow-up (censored), or death without failure (competing risk). Failure rate is estimated using the cumulative incidence method., From registration to ten years
+OBJECTIVES:
+
+Primary
+
+* Determine the rate of late grade 3 or greater genitourinary and gastrointestinal toxicity after treatment with external beam radiotherapy and high-dose rate brachytherapy in patients with stage II or III adenocarcinoma of the prostate.
+
+Secondary
+
+* Determine acute grade 3 or greater genitourinary and gastrointestinal toxicity in patients treated with this regimen.
+* Determine freedom from biochemical failure in patients treated with this regimen.
+* Determine overall survival of patients treated with this regimen.
+* Determine disease-specific survival of patients treated with this regimen.
+* Determine clinical relapse (local and/or distant) in patients treated with this regimen.
+* Develop a quality assurance process for high-dose rate prostate brachytherapy.
+
+OUTLINE: This is a multicenter study. Patients are stratified according to prostate-specific antigen (≤ 10 ng/mL vs 11-20 ng/mL), T stage (T1c-T2c vs T3a-T3b), combined Gleason score (2-6 vs 7 vs 8-10), prior hormonal therapy (no vs yes), and timing of high-dose rate brachytherapy (before external beam radiotherapy vs after external beam radiotherapy).
+
+Patients are followed at 3, 7, 9, and 12 months, every 6 months for 5 years, and then annually thereafter.

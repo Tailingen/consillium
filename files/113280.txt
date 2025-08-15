@@ -1,0 +1,38 @@
+Prostate Hyperfixation on PET-choline in Patients With Prostate Cancer: Correlation With MRI and Pathological Data (LOC-CHOLINE)
+In France, when prostate cancer is suspected, multiparametric MRI is the reference imaging technique for tumor localization, and is used to guide biopsies in order to characterize the tumor as accurately as possible.
+
+Under the hypothesis that 18 F-choline PET-CT is not inferior to MRI in localizing intra-prostate tumor foci, and could provide complementary data for biopsy, the localizing performance of these two imaging modalities is compared retrospectively, in patients with newly diagnosed prostate tumor treated by surgery.
+Prostatic Neoplasms
+Local diagnostic performances of PET-choline in prostate cancer, For each sextant (i.e. base, middle, apex, right and left), the presence or absence (rated 1 or 0) of asuspicious focus on PET-choline will be compared with the presence or absence of a tumour focus on gold-standard (prostatectomy specimen). The diagnostic performances (sensitivity, specificity, negative predictive value and positive predictive value) of PET-choline will be deduced., 8 months
+Comparaison between IRM diagnostic performances and diagnostic PET-Choline performances, For each sextant (i.e. base, middle, apex, right and left), the presence or absence (rated 1 or 0) of a suspicious focus on mpMRI will be compared with the presence or absence of a tumour focus on gold-standard (prostatectomy specimen). The diagnostic performances (sensitivity, specificity, negative predictive value and positive predictive value) of mpMRI are then deduced.
+
+These performances will then be compared with those of PET-choline, Through study completion, an average of 8 months|Local diagnostic performances of PET-choline in prostate cancer by subgroup, PSA level at diagnosis (i.e. PSA \< 10 ng/ml and PSA ≥ 10 ng/ml), Clinical T stage (≤ T2a, T2b, and \> T2b), ISUP stage of the prostatectomy specimen (ISUP \< 3 and ≥ 3), derived from the Gleason histopronostic score, AMICO classification risk group, combining the results of Gleason score, clinical T stage and PSA level (Low-risk tumors : Stage T1c or T2a, PSA \< 10 ng/mL and Gleason 6 // Intermediate-risk tumors : Stage T2b or T2c, PSA between 10 and 20 ng/mL and Gleason 7 // High-risk tumors (Stage T3, PSA \> 20 ng/mL and Gleason \> 7), 8 months
+Prostate cancer is the most common cancer among men in France. Diagnosis is based on multiple biopsies, including targeted biopsies after multiparametric MRI. Improving the precision of these targeted biopsies would improve early detection and staging of the disease.
+
+PET-choline has already proved its superiority over MRI in localizing tumor foci in certain indications, particularly in prostate cancer.
+
+Under the hypothesis that 18 F-choline PET-CT is not inferior to multiparametric MRI for the detection and localization of intraprostatic tumor foci, and could provide additional data for biopsy guidance, the performance of these two examinations was calculated in comparison with the gold standard (prostatectomy specimen), and then compared with each other, in patients newly diagnosed with prostate cancer and treated by radical prostatectomy.
+
+For this purpose, all patients treated at Brest University Hospital by radical prostatectomy for prostatic neoplasia, and who underwent preoperative mpMRI and PET-choline from January 1, 2015 to April 30, 2020, were retrospectively analyzed.
+
+Data were collected from available electronic medical records, including variables such as age at diagnosis, time between PET-choline and prostate biopsies, and the various clinico-biological components of the d'Amico classification (clinical T stage, PSA at diagnosis, biopsy Gleason score).
+
+All multiparametric MRI, performed during the workup for suspected prostate cancer, were carried out in accordance with French recommendations (pelvi-prostatic MRI, 1.5T or 3T magnetic field, with the following sequences: three-dimensional T2-weighted over the prostate lodge; axial T2-weighted over the abdomino-pelvic floor; axial T1-weighted before and after dynamic injection of Gadolinium; axial diffusion-weighted over at least two different b-factors, with reconstruction of an ADC (Apparent Diffusion Coefficient) map).
+
+All MRI were analyzed by an experienced radiologist specialized in prostate MRI interpretation. The MRI report was edited in accordance with AFU recommendations. It included the prostate volume with calculation of PSA density, a description of each suspicious area (PI-RADS ≥ 3) with its precise location and suspicion score according to the latest version of the PI-RADS score at the time the examination was carried out, and a standardized diagram showing the targets, their location and their PI-RADS score. In the case of suspected foci within the SFMA (Stroma Fibro-Musculaire Antérieur), the laterality of the focus was noted.
+
+All 18F-choline PET/CT scans, performed as part of the prostate cancer extension work-up, were carried out in accordance with the French recommendation (3MBq/kg 18F-choline, 4h fasting, iodinated contrast medium and furosemide administered to patients in the absence of contraindication).
+
+PET-choline data were analyzed by a nuclear physician experienced in analyzing these images. The prostate was segmented by sextant (6 segments: base/middle/apex, right/left). A segment was considered pathological if a hyperfixing focus stood out visually from the prostate background (as performed in routine practice). If a hyperfixing focus was located on several segments, a segment was considered pathological if the focus occupied more than 5mm within it.
+
+The respective diagnostic performances of PET-choline and mpMRI (sensitivity, specificity) with 95% CI were calculated on the basis of the following definitions: true positive (TP): suspicious focus on imaging, confirmed as tumoral on the prostatectomy specimen; true negative (TN): no suspicious focus on imaging, no tumoral focus on prostatectomy specimen; false positive (FP): suspicious focus on imaging, no tumoral focus on prostatectomy specimen; false negative (FN): no suspicious focus on imaging, tumoral focus on prostatectomy specimen.
+
+An analysis per patient, per lobe (i.e. right lobe/left lobe) and per segment was performed. For the per-patient analysis, since neither true negatives nor false positives (all patients had a prostate tumor) could be obtained, only sensitivity was calculated.
+
+The respective diagnostic performances of PET-choline and mpMRI by lobe and by sextant were then compared, using statistical analyses such as Mac Nemar test and association coefficients.
+
+Diagnostic performance according to sextant segmentation was then calculated by subgroup.
+
+The relationship between the SUVmax of hyperfixing foci corresponding to tumor foci (VP), and the PSA level at diagnosis as well as the ISUP score of the tumor on the prostatectomy specimen was studied.
+
+The respective mismatches between PET-choline and mpMRI imaging versus pathology on sextant analysis were described. The sextant diagnostic performance of the PET-choline/MRI combination was calculated, a sextant being considered positive if it presented a suspicious focus on MRI or a hyperfixed focus standing out from the prostatic background on PET-choline.

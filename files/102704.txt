@@ -1,0 +1,34 @@
+Nivolumab in Treating Patients With High-Risk Kidney Cancer Before Surgery
+This pilot phase I trial studies the side effects of nivolumab and how well it works in treating patients with high-risk kidney cancer before surgery. Immunotherapy with monoclonal antibodies, such as nivolumab, may help the body's immune system attack the cancer, and may interfere with the ability of tumor cells to grow and spread.
+Clear Cell Renal Cell Carcinoma|Metastatic Renal Cell Carcinoma|Stage I Renal Cell Cancer AJCC v6 and v7|Stage II Renal Cell Cancer AJCC v7|Stage III Renal Cell Cancer AJCC v7|Stage IV Renal Cell Cancer AJCC v7
+PROCEDURE: Metastasectomy|PROCEDURE: Nephrectomy|BIOLOGICAL: Nivolumab
+Feasibility of a patient to receive at least 3 doses of nivolumab and complete surgery without significant delay attributable to nivolumab therapy, Significant delay is defined as delay of \> 112 days after the first dose of nivolumab, which would constitute a doubling of the 'planned delay' that our design requires for administration of preoperative therapy (56 days)., Up to 8 weeks
+Incidence of toxicity, Will be defined per Common Terminology Criteria for Adverse Events version 4.0 (version 5.0 beginning April 1, 2018). All patients who receive any amount of the study drug will be evaluable for toxicity. Toxicity will be summarized according to grade as a number and percentage of participants. Each adverse event will be summarized as the highest grade experienced for an individual patient. Descriptive statistics will be used for summaries of the reported toxicity., Up to 90 days|Surgical complications, Defined per Clavien-Dindo Complications score., Up to 90 days|Overall response rate, Will be measured by radiographic response assessment for each cross sectional scan obtained using Response Evaluation Criteria in Solid Tumors 1.1. All patients will be categorized per their best radiographic response (complete response/partial response/stable disease/progressive disease), and the frequency of each category will be determined. The overall response rate will be calculated by dividing the sum of all patients achieving a complete response or confirmed partial response by the number of all evaluable patients., Up to 2 years|Recurrence free survival, Recurrence free survival will be estimated using the Kaplan-Meier method. Two-year recurrence free survival will be provided along with 95% confidence interval. Patients who are unable to undergo nephrectomy or metastasectomy for any reason will not be included in the analysis., Time from the start of the treatment to recurrence or death, assessed up to 2 years
+Feasibility of biomarker analysis, Will be defined as ability to procure sufficient quantity and quality of tumor tissue and peripheral blood for testing. Will be descriptive or graphical in nature, and are designed to generate new hypotheses to be tested in future clinical studies. When parameters of immune response are measured, continuous variables will be summarized with means and standard deviations. Dichotomous and categorical variables will be summarized using proportions with exact 95% confidence intervals and counts, respectively. For each patient, comparisons in the pre and post-nivolumab responses will be compared using paired t-tests (or Wilcoxon signed rank tests if appropriate) for continuous variables., Up to 90 days
+PRIMARY OBJECTIVE:
+
+I. To study the safety and feasibility of preoperative nivolumab administration in subjects with resectable, high-risk, non-metastatic and metastatic renal cell carcinoma undergoing planned cytoreductive nephrectomy or metastasectomy.
+
+SECONDARY OBJECTIVES:
+
+I. To assess overall response rate in patients receiving preoperative nivolumab.
+
+II. To assess recurrence free survival at 2 years in patients receiving preoperative nivolumab in patients with high-risk, non-metastatic disease.
+
+EXPLORATORY OBJECTIVES:
+
+I. To evaluate the association between baseline tumor mutational burden and both immune infiltration and radiographic tumor response to nivolumab.
+
+II. To explore predicted and expressed tumor neoantigens and their correlation with radiographic tumor response to nivolumab.
+
+III. To explore the association between the predicted immune signature (via ribonucleic acid sequencing \[RNAseq\]) in the tumor microenvironment with radiographic tumor response to nivolumab.
+
+IV. To determine whether changes in the tumor microenvironment before, during, and after therapy are associated with response.
+
+V. To assess the potential association between PD-L1 expression (by immunohistochemistry \[IHC\]) and radiographic tumor response to nivolumab.
+
+OUTLINE:
+
+Patients receive nivolumab intravenously (IV) over 30 minutes on days -56, -42, -28, and -14 in the absence of disease progression or unacceptable toxicity. Patients then undergo nephrectomy or metastasectomy on day 0.
+
+After completion of study treatment, patients are followed up at 14-28 days, at 90 days, and then at 24-28 months.

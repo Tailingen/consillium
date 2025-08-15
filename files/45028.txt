@@ -1,0 +1,53 @@
+Immunotherapy Before and After Surgery for Treatment of Recurrent or Progressive High Grade Glioma in Children and Young Adults
+This phase I trial studies the side effects of nivolumab before and after surgery in treating children and young adults with high grade glioma that has come back (recurrent) or is increasing in scope or severity (progressive). Immunotherapy with monoclonal antibodies, such as nivolumab, may help the body's immune system attack the cancer, and may interfere with the ability of tumor cells to grow and spread.
+Glioblastoma|Malignant Glioma|Recurrent Glioblastoma|Recurrent Malignant Glioma|Recurrent Grade III Glioma|Grade III Glioma
+BIOLOGICAL: Nivolumab|OTHER: Quality-of-Life Assessment|OTHER: Questionnaire Administration
+Percentage change in cell cycle-related genetic signature, Will assess the percentage change in cell cycle-related genetic signature post administration of neoadjuvant treatments when compared to archived recurrent pediatric HGG group. The number of participants with high cell cycle gene signature (positive median gene set variation analysis (GSVA) score) will be tabulated. Variables involved in the primary analyses will be examined graphically and summarized by descriptive statistics., From screening to surgery visit (neoadjuvant treatment groups); at time of recurrent high grade glioma (HGG) tissue collection (for archived non-treated samples)|Proportion of participants with treatment-related adverse events, Adverse events will be monitored throughout the trial and graded in severity according to the guidelines outlined in the National Cancer Institute Common Terminology Criteria for Adverse Events version 5.0 from initiation of study treatment until 2 years after treatment discontinuation or until study treatment related adverse events resolve or return to baseline, Adverse experiences (specific terms as well as system organ class terms) and predefined limits of change in laboratory, and vital sign parameters that are not pre-specified as events of interest will be summarized with descriptive statistics (counts, percentage, mean, standard deviation, etc.)., Up to 2 years
+Overall survival, Survival will be assessed at 6 months and 12 months from the time of enrollment until the time of death. Kaplan-Meier survival analyses will be performed. Medians together with 2-sided 95% confidence intervals will be computed using a log-log transformation., Up to 12 months|Progression-free survival (PFS), PFS is defined as the time of enrollment until the time of progressive disease or death. Kaplan-Meier survival analyses will be performed. Medians together with 2-sided 95% confidence intervals will be computed using a log-log transformation., Up to 12 months
+PRIMARY OBJECTIVES:
+
+I. To measure the relative changes in cell cycle-related genetic signature of the tumor microenvironment post administration of neoadjuvant nivolumab in children and young adults with recurrent or progressive HGG when compared to a cohort of archived non-treated recurrent pediatric HGG samples.
+
+II. To characterize the safety and tolerability of neoadjuvant nivolumab followed by adjuvant nivolumab in children and young adults with recurrent or progressive HGG.
+
+SECONDARY OBJECTIVES:
+
+I. To determine the 6 month and 12 month overall survival (OS) in children and young adults with recurrent or progressive HGG treated with neoadjuvant nivolumab followed by adjuvant nivolumab.
+
+II. To determine the 6 month and 12 month progression-free survival (PFS) in children and young adults with recurrent or progressive HGG treated with neoadjuvant nivolumab followed by adjuvant nivolumab.
+
+EXPLORATORY OBJECTIVES:
+
+I. To measure relative changes in interferon gamma associated genetic signature within the tumor microenvironment post administration of neoadjuvant nivolumab in children and young adults with recurrent or progressive HGG compared to archived non-treated recurrent pediatric HGG samples.
+
+II. To explore the correlation of interferon-gamma-associated genetic signature, cell cycle-related genetic signature and infiltrating T lymphocyte (TIL) density and clonality with clinical responses.
+
+III. To measure TIL density post administration of neoadjuvant nivolumab in children and young adults with recurrent or progressive HGG.
+
+IV. To estimate the objective response rate (ORR) in children and young adults with recurrent or progressive HGG treated with neoadjuvant nivolumab followed by adjuvant nivolumab.
+
+V. To evaluate the association between advanced MRI parameters (ADC on DWI, rCBV on dynamic susceptibility contrast (DSC) perfusion MRI, pre-contrast T1 shortening on T1-weighed images, and/or MTRasym on pH-Weighted Amine CEST-EPI) and tumor and peripheral blood immune responses.
+
+VI. To measure relative change in peripheral T-cell response and post administration of neo-adjuvant nivolumab in children and young adults with recurrent or progressive HGG.
+
+VII. To measure PD-1 and PDL-1 expression by immunohistochemistry for children and young adults with recurrent or progressive HGG post neoadjuvant nivolumab and evaluate the differences between the treatment cohort and archived non-treated recurrent pediatric HGG samples.
+
+VIII. To explore the correlation of tumor mutational load with clinical response for children and young adults with recurrent or progressive HGG treated with neoadjuvant nivolumab followed by adjuvant nivolumab.
+
+IX. To assess Quality of Life (QOL) and cognitive measures in children and young adults with recurrent or progressive HGG treated with neoadjuvant nivolumab followed by adjuvant nivolumab.
+
+X. To assess patient and/or proxy satisfaction with study participation via patient-reported outcome (PRO) measures in the context of race ethnicity and other health related social risks.
+
+XI. To assess on therapy toxicity in the context of race, ethnicity and other health related social risks.
+
+OUTLINE: Neoadjuvant nivolumab followed by adjuvant nivolumab evaluation.
+
+NEOADJUVANT TREATMENT: Participants will receive a single infusion of nivolumab of 3 mg/kg 14± 5 days prior to surgery. When scheduling, please keep in mind that the two pre-surgical plasma samples (day of neoadjuvant dose and day of surgery) should be drawn greater than 10 days apart.
+
+Tumor samples will be obtained at time of surgery. The tissue from this surgery (fresh, frozen and FFPE) and the archived tissue (FFPE) from the most recent surgery prior to registration revealing HGG will be processed so as to best achieve the primary, secondary and exploratory objectives.
+
+ADJUVANT TREATMENT: Infusion Cycle #1 should begin as soon as participant has recovered from surgery and has been tapered off of steroids. A maximum dexamethasone dose of 0.1 mg/kg/day is allowed, but preferably have been discontinued (inhaled or topical use of steroids is allowed).
+
+Maintenance Cycle 1+ Day 1 \& 15: Participants will receive nivolumab (3mg/kg) IV every 2 weeks until progression or development of unacceptable toxicities or withdrawal. Blood samples will be obtained as pharmacodynamic markers throughout the study (Day 1 of every other cycle). Dose interruptions and symptomatic management will occur based upon preset adverse event determination.
+
+After completion of study treatment, patients are followed up at 30 days and then every 2 months for up to 5 years.

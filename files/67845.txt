@@ -1,0 +1,30 @@
+S0622, Dasatinib in Treating Patients With Stage IV Breast Cancer That Has Spread to the Bone
+RATIONALE: Dasatinib may stop the growth of tumor cells by blocking some of the enzymes needed for cell growth.
+
+PURPOSE: This randomized phase II trial is studying two different schedules of dasatinib to compare how well they work in treating patients with stage IV breast cancer that has spread to the bone.
+Breast Cancer|Metastatic Cancer
+DRUG: dasatinib
+Progression-free Survival, RECIST progression defined as 20% increase in the sum of longest diameters of target measurable lesions over the smallest sum observed, unequivocal progression of non-measurable disease, the appearance of any new lesion/site, death due to disease without prior documentation of progression and without symptomatic deterioration, development of one or more new bone lesions from baseline, or symptomatic deterioration related to disease progression. Time from date of registration to date of first documentation of progression or symptomatic deterioration, or death due to any cause. Patients last known to be alive and progression-free are censored at last date of contact., Up to 2 years
+Response Rate (Complete and Partial, Confirmed and Unconfirmed), Complete Response (CR) is complete disappearance of all measurable and non-measurable disease. No new lesions, no disease related symptoms, normalization of markers and other abnormal lab values. Partial Response (PR) is greater than or equal to 30% decrease under baseline of the sum of longest diameters of all target measurable lesions. No unequivocal progression of non-measurable disease. No new lesions. Confirmation of CR or PR means a repeat scan at least 4 weeks apart documented before progression or symptomatic deterioration. Progression is 20% increase in sum of longest diameters of target measurable lesions over smallest sum observed, unequivocal progression of non-measurable disease, appearance of any new lesion/site, death due to disease without prior documentation of progression and without symptomatic deterioration. Symptomatic deterioration is global deterioration of health status requiring discontinuation of treatment without objective evidence of progression., Up to 2 years|MUC-1 Antigen Response, MUC-1 Complete Response is reduction in MUC-1 such that MUC-1 \<= ULN. MUC-1 Partial Response is greater than or equal to a 50% reduction in MUC-1 from baseline, but not qualifying as a CR. MUC-1 Progression is greater than or equal to a 50% increase in MUC-1 from baseline. MUC-1 Stable Disease is MUC-1 response not qualifying as CR, PR, or Progression., at 4, 8, 16, and 24 weeks|Circulating Tumor Cells (CTC) Response Rate, CTC response at 4 weeks is defined as the number of patients with initially elevated CTCs (\>= 5 cells/7.5 ml), whose CTC level drops to \< 5., Up to 4 weeks|Change in Serum Bone Turnover Markers Over Time -- NTx, Analysis included mean values of the serum biomarker NTx at baseline, 4, and 8 weeks., at baseline, 4, and 8 weeks|Change in Serum Bone Turnover Markers Over Time -- BAP, Analysis included mean values of the serum biomarker BAP at baseline, 4, and 8 weeks., at baseline, 4, and 8 weeks|Change in Serum Bone Turnover Markers Over Time, Analysis included mean values of the serum biomarkers sRANKL, IL-6, DKK, VEGF at baseline, 4, and 8 weeks., at baseline, 4, and 8 weeks|Change in Serum Bone Turnover Markers Over Time -- OC, Analysis included mean values of the serum biomarker OC at baseline, 4, and 8 weeks., at baseline, 4, and 8 weeks|Change in Serum Bone Turnover Markers Over Time -- OPG, Analysis included mean values of the serum biomarker OPG at baseline, 4, and 8 weeks., at baseline, 4, and 8 weeks|Change in Serum Bone Turnover Markers Over Time -- TRAP, Analysis included mean values of the serum biomarker TRAP at baseline, 4, and 8 weeks., at baseline, 4, and 8 weeks|Number of Patients With Grade 3 Through 5 Adverse Events That Are Related to Study Drug, Only adverse events that are possibly, probably or definitely related to study drug are reported., Up to 2 years|Mean Patient-reported Pain, Patient's rating of "worst pain" experienced between prestudy and week 24. Changes of \>=2 points on the Brief Pain Inventory (BPI) are of interest. Pain is self-reported on the Brief Pain Inventory Short Form, on a 0-10 response scale, with higher scores reflecting more pain and more interference with functioning., Baseline, 8, 16, and 24 weeks
+OBJECTIVES:
+
+* Compare the progression-free survival of patients with stage IV bone metastasis-predominant breast cancer treated with 1 of 2 treatment schedules of dasatinib.
+* Compare the response rate (complete and partial, confirmed and unconfirmed) in patients treated with these regimens.
+* Compare the MUC-1 antigen response rate (CA 15-3 or CA 27-29) in patients treated with these regimens.
+* Compare the circulating tumor cell response rate in patients treated with these regimens.
+* Compare the anti-osteoclast activity, as measured by changes in bone turnover markers, in patients treated with these regimens.
+* Compare the frequency and severity of toxicities of these regimens in these patients.
+* Compare the pain profiles of these patients and explore changes over time.
+
+OUTLINE: This is a randomized, multicenter study. Patients are stratified according to concurrent trastuzumab (Herceptin®) treatment (yes vs no). Patients are randomized to 1 of 2 treatment arms.
+
+* Arm I: Patients receive oral dasatinib once daily.
+* Arm II: Patients receive oral dasatinib twice daily. In both treatment arms, treatment continues for at least 24 weeks in the absence of disease progression or unacceptable toxicity.
+
+Blood samples are acquired from patients once weekly in weeks 1, 4, 8, 16, and 24. Samples are analyzed for tumor markers, circulating tumor cells, and bone markers.
+
+Patients complete a self-reported brief pain inventory questionnaire at baseline and once in weeks 8, 16, and 24.
+
+After completion of study treatment, patients are followed every 3-6 months for up to 2 years.
+
+PROJECTED ACCRUAL: A total of 80 patients will be accrued for this study.

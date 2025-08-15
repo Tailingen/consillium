@@ -1,0 +1,42 @@
+Palbociclib in Treating Patients With Metastatic HER-2 Positive Breast Cancer With Brain Metastasis
+The purpose of this study is to evaluate if the study drug palbociclib has anti-tumor activity against the breast cancer that has spread to the brain and also to determine the overall radiographic response rate in the CNS. Palbociclib is an anti-cancer medication that has been shown to stop cancer cells from growing. It has been approved in hormone positive breast cancer, along with other hormone therapies and has been found to be effective. The preclinical studies suggest that the drug may also have activity in other types of breast cancer, such as HER2 positive breast cancer. The purpose of this study is to see if the study drug is effective in patients with brain metastasis, who have HER2-positive breast cancer.
+Breast Carcinoma Metastatic in the Brain|Estrogen Receptor Negative|HER2/Neu Negative|HER2/Neu Positive|Progesterone Receptor Negative|Recurrent Breast Carcinoma|Stage IV Breast Cancer
+PROCEDURE: Cognitive Assessment|DRUG: Palbociclib|PROCEDURE: Quality-of-Life Assessment|BIOLOGICAL: Trastuzumab
+Radiographic Response Rate (RRR) in the CNS in Patients With HER2-positive Breast Cancer Who Have Brain Metastasis Treated With Palbociclib, Assess the Radiographic Response Rate (RRR) in the CNS by modified Response Assessment in Neuro-Oncology Criteria Brain Metastasis (modifiedRANO-BM). Maximum response prior to disease progression will be used. In General:
+
+Complete Response : Disappearance of all lesions Partial Response: At least a 30% decrease in the sum of the diameters of target lesions, taking as reference the baseline sum diameters.
+
+Stable Disease: Neither sufficient shrinkage to qualify for PR nor sufficient increase to qualify for PD, taking as reference the smallest sum of diameters while on study.
+
+Progressive Disease: At least a 20% increase in the sum of diameters of target lesions, taking as reference the smallest sum on study (this includes the baseline sum if that is the smallest on study). In addition to the relative increase of 20%, the sum must also demonstrate an absolute increase of at least 5 mm. (Note: the appearance of one or more new lesions is also considered progression.), Up to 3 years
+Incidence of Adverse Events, Determine the safety and tolerability of palbociclib in patients with HER2-positive breast cancer by evaluating number, frequency, and severity of adverse events using Common Terminology Criteria for Adverse Events version 4.03. The number of patients that experienced SAEs that were determined to be at least possibly related to study drug are reported below., Up to 3 years|Overall Survival (OS), Evaluate OS in patients with HER2-positive breast cancer who have brain metastasis treated with palbociclib. OS is defined as the time from treatment initiation until death due to any cause. Number of patients remaining alive as of the last follow up date, is reported below., Up to 3 years|Progression Free Survival (PFS), Determine the PFS in patients with HER2-positive breast cancer who have brain metastasis treated with palbociclib where PFS is defined as the time from treatment initiation to documented disease progression or death for any reason. Below shows the number of patient who discontinued treatment due to progression of disease., Up to 3 years|Overall Response Rate (ORR), Evaluate systemic ORR defined as partial response or complete response assessed by Response Evaluation Criteria in Solid Tumors (RECIST) version 1.1 where:
+
+Complete Response = complete disappearance of all lesions Partial Response = At least 30% decrease in the sum of the diameters of target lesions, taking as reference the baseline sum of diameters., Up to 3 years|Time to CNS Progression, Time to CNS progression will be defined as the time from treatment initiation to documented disease progression (modified RANO-BM criteria) in the CNS., Up to 3 years
+Change in Cognitive Function in Patients Receiving Palbociclib, Change in cognitive function will be assessed at baseline, 2 months and 4 months and will be collected using patient reported outcome questionnaires: Functional assessment of Cancer Therapy-Cognitive function Version 3.0 (Fact -Cog), At baseline, 2 months and 4 months|Change in Genomic Landscape of Available CNS and Non-CNS Tumors, To evaluate genomic landscape of available CNS and non-CNS tumors, and describe any discordance. Genotyping of CNS and non-CNS tumors will be performed from archival tissue that will be obtained at baseline. Genotyping will be performed through commercial next generation sequencing assays., At baseline|Change in Quality of Life in Patients Receiving Palbociclib, Quality of life measures will be assessed at baseline, 2 months and 4 and will be collected using patient reported outcome questionnaires: Functional Assessment of Cancer Therapy-Brain (FACT-Br) Version 4.0, At baseline, 2 months and 4 months|Cyclin D1 Aberrations Assessed by Circulating Tumor DNA, Analyze circulating tumor DNA to assess cyclin D1 aberrations and if this is predictive of response to treatment. Circulating tumor DNA will be collected from whole blood at baseline, 2 and 4 months through commercial next generation sequencing assays., At baseline, 2 months and 4 months
+PRIMARY OBJECTIVES:
+
+I. To determine the radiographic response rate in the central nervous system (CNS) in patients with HER2-positive breast cancer who have brain metastasis treated with palbociclib.
+
+SECONDARY OBJECTIVES:
+
+I. To determine the progression-free survival (PFS) and overall survival (OS) in patients with HER2-positive breast cancer who have brain metastasis treated with palbociclib.
+
+II. To determine time to CNS progression in patients with HER2-positive breast cancer who have brain metastasis treated with palbociclib.
+
+III. To determine systemic overall response rate (ORR) in patients with HER2-positive breast cancer who have brain metastasis treated with palbociclib.
+
+IV. To determine the safety and tolerability of palbociclib in patients with and HER2-positive breast cancer.
+
+TERTIARY OBJECTIVES:
+
+I. To evaluate circulating tumor deoxyribonucleic acid (DNA) at baseline, 2 month and 4 months; particularly to assess cyclin D1 aberrations, and if this is predictive of responses.
+
+II. To evaluate genomic landscape of available CNS and non-CNS tumors, and describe any discordance.
+
+III. To evaluate cognitive function and quality of life at baseline, 2 and 4 months in patients receiving palbociclib.
+
+OUTLINE:
+
+Patients receive palbociclib orally (PO) daily on days 1-21. Courses repeat every 28 days in the absence of disease progression or unacceptable toxicity. Patients with HER2 positive breast cancer may also receive trastuzumab intravenously (IV) as standard of care concurrently with palbociclib.
+
+After completion of study treatment, patients are followed up at 3, 6, 9, and 12 months, and then every 6 months for up to 3 years.

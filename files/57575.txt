@@ -1,0 +1,17 @@
+Predictive Model of Axillary Nodal Status After Neoadjuvant Chemotherapy in Breast Cancer Patients
+The management of patients diagnosed with breast cancer (BC) with axillary nodal involvement is still a controversial topic. These patients' treatment usually involves the administration of a neoadjuvant chemotherapy (NAC) in order to improve survival rates and increase local disease control. Depending on the tumor subtype, an axillary pathologic complete response (pCR) is achieved in 40-70% of initially axillary node-positive patients (cN+). Concerning patients with an axillary pCR, thus a clinically negative node status (cN0), axillary lymphadenectomy (ALND) might be replaced by less invasive surgical approaches and sentinel lymph node biopsy (SLNB) is considered, in these cases, an effective alternative treatment.
+
+However, the relatively high false negative rates, reported in several validation trials, points out the complexity concerning these patients' treatment. Moreover, histological findings' predictive and prognostic value, after SLNB, of micrometastases and isolated tumor cells (ITCs) is still unclear.
+
+Currently, dual-tracer-guided lymph node biopsy and the surgical removal of ≥ 3 sentinel lymph nodes are known as effective strategies aimed to reduce the false negative rates.
+
+There are several ongoing clinical trials to understand and define the best approach for these patients.
+
+Nowadays, there's great interest in potential prognostic role of systemic inflammation's biochemical markers such as neutrophil-to-lymphocyte ratio (NLR). Systemic inflammation's markers may be nodal pCR's predictors after NAC in node-positive breast cancer patients.
+
+The aim of the study is to develop and validate a pre-operative model, able to predict pCR after NAC to select the patients suitable for a surgery de-escalation strategy.
+Breast Cancer
+Selection of features, Identification of pre-operative clinical-pathological features predictive for ypN0 status after NAC in patients with cN+ breast cancer (Logistic regression model will be performed), 48 months|Nomogram, Development and validation of a nomogram, based on selected clinical-pathological features, able to predict nodal status after neoadjuvant chemotherapy, 48 months
+This is a retrospective, observational, multicentric and no profit study. The study involves patients with diagnosis of cN+ breast cancer who underwent neoadjuvant treatment and then treated with lymph node biopsy or axillary lymphadenectomy, referring to the participating centers.
+
+For each patient the following clinical-anamnestic information will be collected: age, pre-NAC blood cell count, tumor dimension, clinical staging (cT, cN), histological information (tumor subtype, grading, receptors' status, Ki-67 value), neoadjuvant treatment regimen, clinical and radiological local response after NAC, clinical and radiological nodal response after NAC, type of surgery, number of examined lymph nodes, number of positive lymph nodes, pathological staging after surgery (ypT, ypN).

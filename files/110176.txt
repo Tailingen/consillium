@@ -1,0 +1,53 @@
+Radiation Therapy and Docetaxel in Treating Patients Who Are Undergoing Surgery for Localized Prostate Cancer
+RATIONALE: Radiation therapy uses high-energy x-rays to kill tumor cells. Drugs used in chemotherapy, such as docetaxel, work in different ways to stop the growth of tumor cells, either by killing the cells or by stopping them from dividing. Giving radiation therapy together with chemotherapy before surgery may make the tumor smaller and reduce the amount of normal tissue that needs to be removed.
+
+PURPOSE: This phase I/II trial is studying the side effects and best dose of docetaxel when given together with radiation therapy and to see how well they work in treating patients who are undergoing surgery for high-risk localized prostate cancer.
+Prostate Cancer
+RADIATION: Intensity-Modulated Radiation Therapy (IMRT)|DRUG: Docetaxel+IMRT
+Maximum Tolerated Dose (MTD), Maximal tolerated dose (MTD) of the combination radiation (45 Gy) and docetaxel.
+
+The dose of radiation will be fixed at 45 Gy while the dose of docetaxel will be escalated. The starting dose of docetaxel will be 10 mg/m2 and will be escalated in increments of 10 mg/m2 up to a dose of 30 mg/m2 the pre-planned ceiling).
+
+MTD will be the dose that is associated with no more than 1 dose limiting toxicity (DLT) up to 6 patients. The DLT will be defined as clinically significant grade 3 non-hematologic or grade 4 hematologic toxicity, attributable to the chemoirradiation. If 2 of 3 patients experience a DLT, dose escalation will stop and the previous dose level will be considered the MTD. If 1 of 3 has DLT, additional 3 patients will be enrolled at the same dose level. If none of the additional 3 patients has DLT, the dose escalation will continue. If 1 additional patient has DLT, the previous dose will be considered the MTD and dose escalation will be stopped., 5 weeks|Pathologic Response Rate at the Phase II Dose, Pathologic response rate is determined post-prostatectomy by pathologist laboratory analyses. The TNM system is the most widely used cancer staging system. Most hospitals and medical centers use the TNM system as their main method for cancer reporting. In the TNM system:
+
+The T refers to the size and extent of the main/primary tumor. T1, T2, T3, T4: Refers to the size and/or extent of the main tumor. The higher the number after the T, the larger the tumor or the more it has grown into nearby tissues. T's may be further divided to provide more detail, such as T3a and T3b., 4-6 weeks after study treatment
+Prostate-specific Antigen Short-term Response Rate Measured as a Percentage Change in PSA, All participants were combined for this assessment as pre-specified in the protocol.
+
+The percentage change for patients were determined from pre- and post- treatment PSA values. The mean percentage change in PSA will be reported.
+
+PSA will be monitored every 3-6 months during the first 5 years, then annually after surgery for up to 10 years, Baseline (pre-treatment) and 1 month after surgery (post-treatment)|Long-term Safety, An adverse event is any unfavorable and unintended sign (including an abnormal laboratory finding), symptom, or disease temporally associated with the use of a medical treatment or procedure that may or may not be considered related to the medical treatment or procedure., Regular intervals both study-related and clinical standard of care-related; assessed at end of study treatment. Average timeframe to follow safety was 1 year and includes all grade 3-4 adverse events|Clinical Response to Treatment as Measured by Urologic Examination, Biochemical Recurrence is defined as a detectable or rising PSA value after surgery that is 0.2 ng/mL or greater with a second confirmatory level of 0.2 ng/mL or greater., Each participant was examined 3, 6, 9, 12 months, and annually for an average of 10 years after surgery.|Surgical Margin Status at Time of Prostatectomy (Count of Subjects With Negative Surgical Margins), Pathologic response rate is determined post-prostatectomy by pathologist laboratory analyses. The TNM system is the most widely used cancer staging system. Most hospitals and medical centers use the TNM system as their main method for cancer reporting. In the TNM system:
+
+The M refers to whether the cancer has metastasized. This means that the cancer has spread outside of the primary tumor to other parts of the body., 5 weeks|Efficacy Assessed Using Health-Related Quality of Life by Expanded Prostate Cancer Index Composite and Urinary Symptom Scores by American Urological Association's Measures, Mean change in score from Baseline to 12-months pot-op. A single outcome, Health Related Quality of Life (QOL), was specified in the protocol. All 6 score means and confidence intervals are reported here as a single outcome; a separate row for each score.
+
+AUA Symptom Score is designed to measure lower urinary tract symptoms (LUTS) resulting from benign prostatic hyperplasia or other causes in men. Higher scores indicate more LUTS (scale 0-35). 1-7, mild; 8-19, moderate; 20-35, severe.
+
+EPIC quality of life instruments is a 32-item self-report questionnaire that measures the QOL of prostate cancer patients. 4 subscales measuring urinary (further consisting of two sub-components, EPIC Urinary Incontinence Score and EPIC Urinary Obstructive/Irritative Score), bowel, sexual and hormonal changes. Scores for each of the subscales, as well as for each sub-component within the Urinary sub scale, are transformed linearly to a 0-100 scale with higher scores representing better QOL., Baseline and 12 Months Post-Prostatectomy|Clinical Progression-free Rate as Determined by <0.1ng PSA Results, The estimated percentage of participants who were progression-free at 5 years per analyses of PSA results post-study treatment., 3, 6, 9, 12 months and annually, up to 5 years
+OBJECTIVES:
+
+Primary
+
+* Determine the maximum tolerated dose (MTD) of neoadjuvant radiotherapy and docetaxel in patients who are undergoing prostatectomy for high-risk localized prostate cancer.
+* Determine the pathologic response rate in patients treated at the phase II dose.
+
+Secondary
+
+* Determine the prostate-specific antigen (PSA) short-term response rate in patients treated with this regimen.
+* Determine the long-term safety of this regimen prior to radical prostatectomy in these patients.
+* Determine the clinical response to this regimen by urologic examination of these patients.
+* Determine the surgical margin status at the time of prostatectomy in patients treated with this regimen.
+* Determine the effect of this regimen, in terms of Health-Related Quality of Life by Expanded Prostate Cancer Index Composite (EPIC) and urinary symptom scores by the American Urological Association's measures, in these patients.
+* Determine the clinical progression-free rate in patients treated with this regimen.
+* Identify pretreatment predictors of response in these patients by examining tissue biomarkers in preserved pretreatment biopsy specimens.
+* Determine the biologic impact of this regimen on these patients by examining the prostatectomy specimens.
+* Collect frozen serum for future analysis of correlative biomarkers.
+* Compare the RNA content (gene expression profile) of pre- and post-treatment tumor specimens in order to describe the molecular impact of this regimen on prostate cancer.
+
+OUTLINE: This is a phase I, dose-escalation study of docetaxel followed by a phase II study. All patients undergo a biopsy of the prostate to gather research-only specimens prior to the beginning of treatment.
+
+* Phase I: Patients undergo radiotherapy once daily, 5 days a week, for 5 weeks. Patients also receive docetaxel IV on days 1, 8, 15, 22, and 29. Treatment continues in the absence of disease progression or unacceptable toxicity. Approximately 4-6 weeks after completion of chemoradiotherapy, patients undergo a radical prostatectomy.
+
+Cohorts of 3-6 patients receive escalating doses of docetaxel until the maximum tolerated dose (MTD) is determined. The MTD is defined as the dose preceding that at which 2 of 3 or 2 of 6 patients experience a dose-limiting toxicity. At least 6 patients are treated at the MTD.
+
+* Phase II: Patients undergo radiotherapy as in phase I. Patients also receive docetaxel at the MTD determined in phase I and then undergo prostatectomy as in phase I.
+
+PROJECTED ACCRUAL: A total of 42 patients will be accrued for this study.

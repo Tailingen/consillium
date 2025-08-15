@@ -1,0 +1,30 @@
+Digital Patient Support Program for Self-efficacy and Medication Adherence in Women on Adjuvant Endocrine Treatment for Breast Cancer
+This is a randomized, controlled study to assess the effect of Sidekick Health's digital program on self-efficacy and medication adherence in breast cancer patients prescribed adjuvant anti-hormonal treatment. Participants will be treated with the digital program in addition to standard of care (SoC), or SoC only.
+Breast Cancer|Cancer
+DEVICE: Sidekick digital patient support program for patients with breast cancer|OTHER: Standard of care for breast cancer patients
+Self-efficacy and health education impact, Difference in change in total score of the Health Education Impact Questionnaire (heiQ) between the intervention and control groups.
+
+The heiQ has 8 subscales and is composed of in total 42 questions with a Likert scale of 4 options where 1 represents "strongly disagree" to 4 "strongly agree". Scores on the heiQ range from 42 to 168, with a lower score representing a low impact on patient education., 12 weeks from baseline
+Medication adherence according to MARS-5 questionnaire, Group difference in self-reported adherence according to MARS-5 questionnaire at 12 weeks The MARS-5 questionnaire consists of five questions measuring adherence ranging from "never" (5 points) to "always" (1 points), therefore the score has a range from 5 - 25 points with higher score indicating high medication adherence., 12 weeks from baseline|Self-efficacy and health-education impact after 24 weeks and 1 year, Group differences in self-efficacy measured by eight scales of Health Education Impact Questionnaire (heiQ) at 24 weeks and 1 year., 24 weeks and 1 year|Medication adherence after 24 weeks and 1 year according to MARS-5, Group difference in self-reported adherence according to MARS-5 questionnaire after 24 weeks and 1 year., 24 weeks and 1 year|Adherence (PDC) to adjuvant endocrine treatment over 1 year, Adherence to adjuvant endocrine breast cancer treatment over 1 year based on percentage of days covered (PDC) from data from the Icelandic Medicine Registry.
+
+The proportion of days covered (PDC) is used to estimate medication adherence by looking at the proportion of days in which a person has access to the medication, over a given period of interest, in this case 1 year., 1 year|Medication persistence, Compare the difference between groups in the proportion of participants still taking antihormonal therapy after 1, 2, 3 and 5 years, based on data from the Icelandic Medicine Registry., 1, 2, 3 and 5 years|BMI, Group difference in Body Mass Index (BMI) calculated from self-reported weight and height at 12, 24 weeks and 1 year.
+
+BMI = weight (kg) ÷ height2 (meters), 12, 24 weeks and 1 year|Physical activity from IPAQ-SF, Group difference in self-reported physical activity according to IPAQ-SF at 12, 24 weeks and 1 year., 12, 24 weeks and 1 year|Endocrine treatment symptom management, Group difference in total score of Endocrine Therapy Symptoms from Endocrine Symptoms Questionnaire at 12, 24 weeks and 1 year
+
+The questionnaire is composed of 11 questions, where 10 are answered on a Likert scale of 4 options where 1 represents "not at all" to 4 "very much", and 1 question with a 2-option yes or no., 12, 24 weeks and 1 year|Work status questionnaire, Work status is a categorical variable representing participants' self-reported employment condition at each follow-up time point. This outcome will be used to assess potential group differences over time.
+
+No validation measurement tool is used, only questions regarding participant status.
+
+Work full time Work part-time 50-99% Work part-time, \<50% Not on the labor market And reason for not being on labor market or working part time Sick leave Disability Pension Unemployed Other, 12, 24 weeks and 1 year|In app PRO on sleep, energy, stress, quality of life, One PRO that asks users to rate the quality of sleep, energy level, stress level and quality of life.
+
+The longitudinal change of in-app ePRO in the intervention group will be analysed for these parameters:
+
+* quality of sleep
+* energy levels
+* stress levels
+* quality-of-life thermometer, 12 and 24 weeks|User satisfaction in intervention group by MAUQ, Scores in the mHealth App Usability Questionnaire (MAUQ) of the intervention group.
+
+The MAUQ is an 18-item questionnaire. It is composed of questions with Likert scales of 7 options where 1 represents "strongly disagree" to 7 "strongly agree". Scores on the MAUQ range from 18 to 126, with a higher score representing a higher usability., 12 weeks|Engagement, retention and overall activity in the digital intervention, Percentage of users that are active in the digital program, finish the program and engage with the content of the Sidekick digital Program, 12 and 24 weeks
+Sidekick Health has developed a digital patient support tool delivered via mobile application (app), to support people who have been diagnosed with breast cancer with self-efficacy in managing their symptoms and with medication adherence and holistic lifestyle modification. The Sidekick platform includes a medication center, including behavioral change material and tools aimed at improving adherence.
+
+The study will be a 2-arm, parallel-group, randomized (1:1) controlled trial to evaluate the performance of Sidekick's digital patient support program for patients with breast cancer on patients' self-efficacy and medication adherence in women undergoing adjuvant endocrine treatment. 140 participants will be included, and eligible participants will be randomized to receive the Sidekick digital support program plus standard of care, or standard of care only.

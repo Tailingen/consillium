@@ -1,0 +1,30 @@
+Dalteparin and Sunitinib Malate as First-Line Therapy in Treating Patients With Kidney Cancer That is Metastatic or Cannot Be Removed by Surgery
+This phase I trial studies the side effects and best dose of dalteparin when given together with sunitinib malate in treating patients with kidney cancer that has spread to other parts of the body or cannot be removed by surgery. Anticoagulants, such as dalteparin, help prevent blood clots and have been shown to increase survival in patients with cancer. Anticoagulants may also prevent the formation of new blood vessels. Sunitinib malate may stop the growth of tumor cells by blocking some of the enzymes needed for cell growth and by inhibiting new blood vessels and blocking blood flow to the tumor. Giving dalteparin together with sunitinib malate may starve tumors and kill more tumor cells.
+Clear Cell Sarcoma of the Kidney|Recurrent Renal Cell Carcinoma|Stage III Renal Cell Cancer|Stage IV Renal Cell Cancer
+DRUG: Dalteparin|OTHER: Pharmacological Study|DRUG: Sunitinib Malate
+Early signs of clinical activity of the combination of sunitinib malate and dalteparin, Up to 4 years|Incidence of toxicities for the combination of dalteparin and sunitinib malate, Toxicities will be summarized by tabulation. Summaries will be made across all types of toxicities and by grade and type., Up to 4 weeks after last treatment|Recommended dosing for the combination of dalteparin and sunitinib malate, The maximally tolerated dose (MTD) will be the highest dose at which \< 33% of patients (=\< 2 out of 6 patients) suffer from dose limiting toxicities (DLTs) related to the combination treatment., Up to 4 weeks
+Clinical response rate of dalteparin and sunitinib malate, determined as the proportion of treated patients who had partial or complete response according to Response Evaluation Criteria in Solid Tumors (RECIST) 1.0, Up to 4 weeks after last treatment|Overall survival, Described in all patients using Kaplan-Meier curves., Up to 4 years|TTP, Described in all patients using Kaplan-Meier curves., Up to 4 years
+Changes in angiogenesis parameters in blood, Each will be explored to determine if transformations (e.g. log or square-root) are necessary to achieve normality. For each of baseline and changes, exploratory plots (e.g. histograms, boxplots) will be created and means will be estimated along with 95% confidence intervals. Wilcoxon signed-rank tests will be used to determine whether or not the data shows evidence of changes from baseline., Baseline to 4 weeks after last treatment|Changes in plasma coagulation parameters, Each will be explored to determine if transformations (e.g. log or square-root) are necessary to achieve normality. For each of baseline and changes, exploratory plots (e.g. histograms, boxplots) will be created and means will be estimated along with 95% confidence intervals. Wilcoxon signed-rank tests will be used to determine whether or not the data shows evidence of changes from baseline., Baseline to 4 weeks after last treatment
+PRIMARY OBJECTIVES:
+
+I. To determine the recommended dosing for the combination of sunitinib (sunitinib malate) and dalteparin in patients with metastatic renal cell carcinoma.
+
+II. To evaluate safety and tolerability for the combination of sunitinib and dalteparin in patients with metastatic renal cell carcinoma.
+
+III. To determine early signs of clinical activity of the combination of sunitinib and dalteparin in patients with metastatic renal cell carcinoma.
+
+SECONDARY OBJECTIVES:
+
+I. To determine the clinical response rate of sunitinib and dalteparin in patients with metastatic renal cell carcinoma.
+
+II. To determine time-to-progression (TTP) and overall survival amongst patients with metastatic renal cell carcinoma receiving sunitinib and dalteparin.
+
+III. To determine the effect of sunitinib alone and dalteparin alone compared to the combination of dalteparin plus sunitinib on plasma coagulation parameters.
+
+IV. To determine the effect of sunitinib alone and dalteparin alone compared to the combination of dalteparin plus sunitinib on angiogenesis parameters in blood.
+
+OUTLINE: This is a dose-escalation study of dalteparin.
+
+Patients receive sunitinib malate orally (PO) once daily (QD) in weeks 1-4 and dalteparin subcutaneously (SC) QD in week 6 during course 1. In all subsequent courses, patients receive sunitinib malate PO QD in weeks 1-4 and dalteparin SC QD in weeks 1-6. Courses repeat every 6 weeks in the absence of disease progression or unacceptable toxicity.
+
+After completion of study treatment, patients are followed up at 4 weeks and then every 3 months for 3 years.

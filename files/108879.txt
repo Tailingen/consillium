@@ -1,0 +1,29 @@
+Vidutolimod (CMP-001) in Combination With Nivolumab for the Treatment of Metastatic Castration Resistant Prostate Cancer
+This phase II trial tests whether vidutolimod with nivolumab works to destroy tumor cells in patients with castration resistant prostate cancer that has spread to other places in the body (metastatic). Nivolumab is an antibody working by attaching to and blocking a molecule called PD 1. PD 1 is a protein that is present on different types of cells in the immune system and controls parts of the immune system by shutting it down. Antibodies (proteins in the immune system which act to stop infection harming the body) that block PD 1 can potentially prevent PD 1 from shutting down the immune system, thus allowing immune cells to recognize and destroy cancer cells. Vidutolimod (CMP-001) is a Toll-like receptor 9 (TLR9) agonist, with the ability to generate tumor-targeted T cells capable of killing a tumor both locally and systemically in combination with checkpoint inhibitors (nivolumab, in this case), thus potentially improving outcomes for people whose tumors are progressing. Giving nivolumab and vidutolimod may kill more cancer cells in patients with metastatic prostate cancer.
+Metastatic Prostate Adenocarcinoma|Stage IV Prostate Cancer AJCC v8
+DRUG: VLP-encapsulated TLR9 Agonist CMP-001,|BIOLOGICAL: Nivolumab
+Safety of Treatment, Will be summarized descriptively using frequencies and percentages of all captured toxicities by severity and relevance., Up to 24 months
+Serum prostate-specific antigen (PSA) response, Defined as: PSA decline \>= 25%, according to PCWG3. Will be calculated along with 95% exact confidence intervals (CI)., Up to 24 weeks from treatment initiation|Radiographic progression free survival (rPFS), Will be determined by applicable disease criteria or death, according to PCWG3, and estimated with the Kaplan-Meier method with time-specific (e.g., 6-month, 12-month) rate estimated with 95% CI., At 1 year|Overall survival (OS), Will be estimated with the Kaplan-Meier method with time-specific (e.g., 6-month, 12-month) rate estimated with 95% CI., At 1 year|Objective response rate (ORR), Will be determined by immune-related Response Evaluation Criteria in Solid Tumors (irRECIST),, Up to 24 months|ORR, Will be determined based on RECIST version 1.1, Up to 24 months
+Primary Objective:
+
+I. To evaluate the safety and tolerability of vidutolimod (CMP-001) in combination with nivolumab in patients with metastatic castration resistant prostate cancer.
+
+Secondary Objectives:
+
+I. To evaluate prostate-specific antigen (PSA) response rate. II.To evaluate PSA undetectable rate. III. To evaluate time to PSA progression according to PCWG3. IV. To evaluate the confirmed objective response rate (ORR) based on Response Evaluation Criteria in Solid Tumors (RECIST) version (v) 1.1.
+
+V. To evaluate the 1-year radiographic progression free survival (rPFS) according to PCWG3.
+
+VI. To determine the 1-year overall survival (OS). VII. To evaluate the confirmed ORR by immune-related RECIST (irRECIST).
+
+Exploratory Objective:
+
+I. To evaluate the effect of treatment on the following changes, and others:
+
+Ia. Numbers of CD8 T-cells in tumors; Ib. Dendritic cell activation status (CD80, CD86, CD40) in tissue biopsy; Ic. Tumor specific T-cells in the blood (human leukocyte antigen \[HLA\]-DR+/CD38+ with T-cell receptor \[TCR\] sequencing).
+
+OUTLINE:
+
+Patients receive vidutolimod subcutaneously (SC) on days 1 and 7 of cycle 1, intratumorally (IT) on day 14 of cycle 1 and days 1 and 14 of cycle 2, and then SC on day 1 of subsequent cycles. Patients also receive nivolumab intravenously (IV) over 30 minutes on days 1 and 14 of cycle 2 and on day 1 of subsequent cycles. Cycles of nivolumab repeat every 4 weeks for up to 24 months in the absence of disease progression or unacceptable toxicity. Cycles of vidutolimod repeat every 4 weeks for up to 6 months in the absence of disease progression or unacceptable toxicity.
+
+After completion of the study treatment, patients are followed up for 30 days and then every 12 weeks thereafter.

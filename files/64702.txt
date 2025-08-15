@@ -1,0 +1,21 @@
+Ex Vivo-Activated Lymph Node Lymphocytes in Treating Patients With Stage IIIC-IV Melanoma
+This phase I trial studies the safety and best dose of ex-vivo activated lymph node lymphocytes (X-ACT) as well as how well the immune system responds to X-ACT treatment in participants with stage IIIC-IV melanoma. X-ACT treatment involves removing a participant's lymph node(s) close to a melanoma tumor. These lymph nodes contain special kind of cells (called T cells) which can be activated (getting the cells to start up certain responses in the immune system) outside of the body in an approved laboratory. The activated T cells are then injected back into the same participant using an i.v. to help the participant's immune system to target melanoma. The participant will undergo regular blood testing to determine whether the X-ACT treatment has resulted in changes to the immune system and also whether the T cells which were given back to the patient persist in the blood stream over time. In addition, the effect of the X-ACT treatment on the growth or shrinkage of the participant's melanoma will be measured.
+Stage IIIC Skin Melanoma|Stage IV Melanoma
+PROCEDURE: lymph node|BIOLOGICAL: X-ACT
+Incidence of dose-limiting toxicity, Number of patients with dose-limiting toxicity will be reported for each treatment group. Maximum tolerated dose may be determined if dose-limiting toxicity is observed., At least 30 days after last infusion
+Prevalence of each biomarker in peripheral blood over time, The temporal profiles of the two biomarkers will be summarized as mean +/- standard deviation at each time point and visualized using scatter plot stratified by dose level and schedule., Up to 1 year|Clinical response defined by Response Evaluation Criteria In Solid Tumors 1.1, Will be estimated based on the number of clinical responses observed using a binomial distribution and its confidence intervals will be estimated using Wilson's method. A complete response (CR) is defined as the disappearance of all target lesions. Any pathological lymph nodes must have reduction in short axis to \<10mm. A partial response (PR) is defined as at least a 30% decrease in the sum of diameters of target lesions, taking as reference the baseline sum of diameters. Progressive disease (PD) is defined as at least a 20% increase in the sum of diameters of target lesions taking as reference the smallest sum on study. In addition to the relative increase of 20%, the sum must also demonstrate an absolute increase of at least 5mm. Stable disease (SD) is defined as neither sufficient shrinkage to qualify for PR nor sufficient increase to qualify for PD, taking as reference the smallest sum diameters while on study., Up to 1 year
+PRIMARY OBJECTIVES:
+
+I. Assess the safety and toxicity profile of repeated infusions of ex-vivo activated tumor-draining lymphocytes (X-ACT) in participants with advanced melanoma.
+
+SECONDARY OBJECTIVES:
+
+I. Assess the feasibility of multiple infusions of X-ACT. II. Assess the effect of dose and schedule on immunologic parameters using two novel biomarkers.
+
+III. Observe the clinical outcomes of participants receiving X-ACT therapy.
+
+OUTLINE: This is a dose-escalation study.
+
+STEP 1: Participants undergo lymph node biopsy for collection of at least one melanoma-draining lymph node (MDLN). MDLN cells will then be cryopreserved into aliquots until they are needed to generate an activated T cell culture.
+
+STEP 2: Cryopreserved lymph node cells are thawed and then undergo activation with anti-cluster of differentiation (CD)3/anti-CD28 microbeads. The cultures then undergo expansion over 14-18 days in the presence of recombinant human interleukin-2 and anti-vascular endothelial growth factor antibody. The activated X-ACT cells are then transferred i.v. into the same participant from which they were derived with no additional therapy.

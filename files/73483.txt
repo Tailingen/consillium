@@ -1,0 +1,20 @@
+The Postoperative Radiotherapy in N1 Breast Cancer Patients
+This study is a multicenter, randomized, phase 3 clinical trial in patients with breast cancer, randomizing radiotherapy group (postmastectomy radiation therapy (PMRT)/whole breast irradiation plus regional radiotherapy (WBI+regional RT) versus and no PMRT/WBI alone group. This is a non-inferiority study aiming that there is no significant difference in the 7-year disease-free survival rate between the two groups.
+Radiotherapy|Breast Cancer
+RADIATION: No PMRT for mastectomy / No regional RT for BCS|RADIATION: PMRT for mastectomy / WBI + Regional RT for BCS
+Disease-Free Survival, Time from randomization to local recurrence, regional recurrence, distant metastases, or breast cancer-related death., 7-Year
+Locoregional-Recurrence Free Survival, Time from randomization to recurrence of tumors in the ipsilateral chest wall, breast or regional lymph nodes (ipsilateral axillary/internal mammary/supraclavicular lymph nodes) or breast cancer-related death.
+
+\*\* Recurrence should be confirmed by histological diagnosis, but local recurrence can be diagnosed by clinical examination only when regional/remote or distant metastases already exist., 7-Year|Distant Metastases Free Survival, Time from randomization to the development of distant metastases or breast cancer-related death., 7-Year|Overall Survival, Time from randomization to the death due to any cause., 7-Year
+Dermatitis, Common Terminology Criteria for Adverse Events (CTCAE) 5.0 Scale, Every 6 month during 1 years, then every 1 year till 7 years after randomization|Radiation-related pneumonitis, Common Terminology Criteria for Adverse Events (CTCAE) 5.0 Scale, Every 6 month during 1 years, then every 1 year till 7 years after randomization|Major complication rate for reconstructed breast, For patients who received breast reconstruction after mastectomy, Every 6 month during 1 years, then every 1 year till 7 years after randomization|Occurence of contralateral in-situ or invasive breast cancer, Pathologic confirmation, Every 6 month during 1 years, then every 1 year till 7 years after randomization|Major cardiac event, Myocardial infarction / Ischemic heart failure / Unstable angina / Sudden death, Every 6 month during 1 years, then every 1 year till 7 years after randomization|Ipsilateral rib fracture, Symptom or radiologic diagnosis, Every 6 month during 1 years, then every 1 year till 7 years after randomization|Arm Lymphedema, Symptom / Diagnosis from the related-department (e.g. rehab) / Expert opinion, Every 6 month during 1 years, then every 1 year till 7 years after randomization
+1:1 randomization to the control group and experimental group, stratified by the type of surgery (breast-conserving surgery (BCS) versus mastectomy) and the type of histologic type (triple negative breast cancer (TNBC) versus non-TNBC)
+
+The control group:
+
+* If patients received BCS, WBI+Regional RT
+* If patients received mastectomy, PMRT
+
+The experimental group:
+
+* If patients received breast conserving surgery, WBI alone
+* If patients received mastectomy, No PMRT

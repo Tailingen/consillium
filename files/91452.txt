@@ -1,0 +1,32 @@
+Gemcitabine and Docetaxel in Treating Patients With Recurrent Osteosarcoma (Closed to Accrual as of 12/21/06) or Ewing's Sarcoma or Unresectable or Locally Recurrent Chondrosarcoma
+RATIONALE: Drugs used in chemotherapy, such as gemcitabine and docetaxel, work in different ways to stop tumor cells from dividing so they stop growing or die. Combining gemcitabine with docetaxel may kill more tumor cells.
+
+PURPOSE: Phase II trial to study the effectiveness of combining gemcitabine with docetaxel in treating patients who have recurrent osteosarcoma, recurrent Ewing's sarcoma, or unresectable or locally recurrent chondrosarcoma.
+Sarcoma
+BIOLOGICAL: filgrastim|BIOLOGICAL: pegfilgrastim|DRUG: docetaxel|DRUG: gemcitabine hydrochloride|GENETIC: microarray analysis|OTHER: laboratory biomarker analysis|OTHER: pharmacokinetic study
+Objective Response Rate, Patients will be evaluated up to 4 time points(after 2,4,8 and 12 cycles of therapy), each cycle is 21 days. Per RECIST 1.0 and assessed by CT/MRI disease status will be categorized as R=CR/PR(response), F=progressive disease or death(failure), or S(stable disease=neither R nor F) based on the change from baseline. A patient with outcome R or F at any stage is scored as having that overall outcome, a patient with outcome S is re-evaluated after subsequent cycles of therapy. Patients who receive more than 14 cycles of therapy will be scored as the outcome at completion of cycle 14., After 2, 4, 8 and 12 cycles of therapy, each cycle is 21 days
+Time to Progression, Stable disease is measured from the start of the treatment until the criteria for disease progression are met, taking as reference the smallest measurements recorded since the treatment started. The clinical relevance of the duration of stable disease varies for different tumor types and grades. Bayesian statistical model is used. Timepoints for evaluation are post-cycle 2, 4, 8 and 12 using RECIST 1.0 criteria., post-cycle 2, 4, 8 and 12|Toxicity as Assessed by NCI CTCAE v3.0, Toxicity was graded according to Common Terminology Criteria for Adverse Events v.3.0 (CTCAE v.3.0). For gemcitabine or docetaxel related grade 3 or 4 non-hematological toxicities or hematological toxicities (grade 3 or 4 neutropenia for ≥ 7 days, grade 4 thrombocytopenia, or any platelet transfusion), both agents were withheld until the toxicity was ≤ grade 1. If the toxicity recovered to ≤ grade 1 by cycle day 35, the dose of both agents was reduced for all subsequent cycles. If the toxicity did not resolve by day 35, protocol therapy was discontinued., Throughout the study|Pharmacokinetics of Gemcitabine Alone and Gemcitabine Followed by Docetaxel at Protocol Specified Timeframe in Participants Enrolled on Study, Blood samples for the determination of gemcitabine (and its metabolite dFdU) will be obtained prior to infusion, at 75 and 85 minutes (steady state), and 95 105 and 120 minutes, after the start of the 90 minute infusion on day 1 and day 8 of cycle 1. On day 8, docetaxel pharmacokinetics will be performed prior to infusion, 55 minutes (5 minutes prior to the end of infusion), 30 minutes post infusion, 5 hr and 24hr post infusion., Gemcitibine: 0hr, 75, 85, 95, 105 and 120 min after the start of the 90 minute infusion; docetaxel: 0hr, 55 min, 30 min post infusion, 5hr and 24hr post infusion.
+OBJECTIVES:
+
+Primary
+
+* Determine the objective response rate in patients with recurrent osteosarcoma or Ewing's sarcoma or unresectable or locally recurrent chondrosarcoma treated with sequential gemcitabine and docetaxel.
+
+Secondary
+
+* Determine the time to progression in patients treated with this regimen.
+* Assess the toxicity of this regimen in these patients.
+* Compare the pharmacokinetics of this regimen vs gemcitabine alone in these patients.
+* Obtain tumor samples for cDNA microarray analysis of gene expression and development of cell lines and xenotransplantation models.
+
+OUTLINE: This is a nonrandomized, multicenter study.
+
+Patients are stratified according to diagnosis recurrent osteosarcoma vs recurrent Ewing's sarcoma vs unresectable or locally recurrent chondrosarcoma).
+
+Patients receive gemcitabine intravenously over 90 minutes on days 1 and 8 and docetaxel intravenously over 1 hour on day 8. Patients also receive filgrastim (G-CSF) subcutaneously (SC) beginning on day 9 and continuing until blood counts recover. Patients may receive pegfilgrastim SC on day 9 (once per course) as an alternative to G-CSF. Treatment repeats every 21 days in the absence of disease progression or unacceptable toxicity.
+
+Optional blood samples are collected at baseline and periodically during study for pharmacokinetics studies. Optional tumor tissue samples from biopsy or surgical resection are analysed for cDNA microarray analysis of gene expression.
+
+Patients are followed every 3 months for 1 year and then every 6 months for 1 year.
+
+PROJECTED ACCRUAL: A maximum of 120 patients (40 per stratum) will be accrued for this study within 17-24 months.

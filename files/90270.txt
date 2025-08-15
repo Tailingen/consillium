@@ -1,0 +1,27 @@
+Radiation Therapy in Treating Patients With Extensive Stage Small Cell Lung Cancer
+RATIONALE: Radiation therapy uses high energy x-rays to kill tumor cells. This may be an effective treatment for extensive stage small cell lung cancer.
+
+PURPOSE: This randomized phase II trial is comparing how well radiation therapy to the brain works when given with or without radiation therapy to other areas of the body in treating patients with extensive stage small cell lung cancer.
+Lung Cancer
+RADIATION: Prophylactic Cranial Irradiation|RADIATION: Radiation Therapy
+Overall Survival (12-month Rate Reported), Survival time is defined as time from randomization to date of death from any cause and is estimated by the Kaplan-Meier method. Patients last known to be alive are censored at the date of last contact. This analysis was planned to occur when all patients had been potentially followed for at least 12 months. The 12-month rate is reported., From randomization to last follow-up. Analysis occurred after all patients had been potentially followed for at least 12 months. Maximum follow-up at time of analysis was 46.0 months.
+Percentage of Patients Experiencing a Grade 3 or Higher Adverse Event, Adverse events (AE) are graded using CTCAE v4.0. Grade refers to the severity of the AE. The CTCAE v4.0 assigns Grades 1 through 5 with unique clinical descriptions of severity for each AE based on this general guideline: Grade 1 Mild AE, Grade 2 Moderate AE, Grade 3 Severe AE, Grade 4 Life-threatening or disabling AE, Grade 5 Death related to AE., From randomization to last follow-up. Analysis occurred after all patients had been potentially followed for at least 12 months. Maximum follow-up at time of analysis was 46.0 months.|Patterns of Failure - Number of Patients With Failure by Site, Failure was defined as progressive disease in areas treated with radiation development of measurable disease at sites that had achieved a complete response either with chemotherapy prior to study entry or following radiation, or development of new disease characteristic of small-cell lung cancer dissemination as determined by imaging \[per the Response Evaluation Criteria in Solid Tumors (RECIST) v1.1\] and physical examination. A patient could be counted in more than one category., From randomization to last follow-up. Analysis occurred after all patients had been potentially followed for at least 12 months. Maximum follow-up at time of analysis was 46.0 months.|First Failure (12-month Rate Reported), Failure was defined as progressive disease in areas treated with radiation development of measurable disease at sites that had achieved a complete response either with chemotherapy prior to study entry or following radiation, or development of new disease characteristic of small-cell lung cancer dissemination as determined by imaging \[per the Response Evaluation Criteria in Solid Tumors (RECIST) v1.1\] and physical examination. Time to first failure is defined as time from randomization to the date of first failure, last known follow-up (censored), or death (competing risk). First failure rates are estimated using the cumulative incidence method., From randomization to last follow-up. Analysis occurred after all patients had been potentially followed for at least 12 months. Maximum follow-up at time of analysis was 46.0 months.|Percentage of Planned Radiotherapy Dose (All Sites) That Was Delivered, Total dose to the brain was to be 25 Gy for all patients. For patients on PCI+consolidative RT, patients were to get 45 Gy at 3 Gy per fraction to the locoregional area as well as to residual metastatic disease. Alternatively, these regions could have received 30-40 Gy in 10 fractions. The total planned dose was determined, and a percentage was calculated based for each patient as total delivered dose / total planned dose., From start to end of radiation therapy; up to 32 days for Prophylactic Cranial Irradiation arm, up to 68 days for Prophylactic Cranial Irradiation + Consolidation Radiotherapy arm.
+OBJECTIVES:
+
+Primary
+
+* To compare the 1-year overall median survival rate in patients with extensive stage small cell lung cancer treated with prophylactic cranial irradiation with vs without consolidative extracranial radiotherapy following platinum-based chemotherapy.
+
+Secondary
+
+* To compare treatment-related adverse events in these patients.
+* To evaluate patterns of failure in these patients.
+* To compare the time to first failure in these patients.
+* To evaluate the percentage of the planned radiotherapy dose given to each site.
+
+OUTLINE: This is a multicenter study. Patients are stratified according to response to prior treatment (complete response vs partial response) and number of metastatic lesions (1 vs 2-3). Patients are randomized to 1 of 2 treatment arms.
+
+* Arm I: Patients undergo prophylactic cranial irradiation 5 days per week for 2 weeks.
+* Arm II: Patients undergo prophylactic cranial irradiation as in arm I. Patients also undergo consolidative extracranial radiotherapy to locoregional and residual metastatic disease 5 days per week for 2-3 weeks.
+
+After completion of study treatment, patients are followed up at 2 weeks; at 1, 2, 6, 9, and 12 months; every 6 months for 2 years; and then annually thereafter.

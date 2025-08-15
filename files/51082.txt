@@ -1,0 +1,40 @@
+Dual Epidermal Growth Factor Receptor Inhibition With Erlotinib and Panitumumab With or Without Chemotherapy for Advanced Colorectal Cancer
+RATIONALE: Erlotinib hydrochloride may stop the growth of tumor cells by blocking some of the enzymes needed for cell growth. Monoclonal antibodies, such as panitumumab, can block tumor growth in different ways. Some block the ability of tumor cells to grow and spread. Others find tumor cells and help kill them or carry tumor-killing substances to them. Panitumumab may also stop the growth of colorectal cancer by blocking blood flow to the tumor. Drugs used in chemotherapy, such as irinotecan hydrochloride, work in different ways to stop the growth of tumor cells, either by killing the cells or by stopping them from dividing. It is not yet known whether erlotinib hydrochloride given together with panitumumab is more effective with or without irinotecan in treating patients with metastatic colorectal cancer.
+
+PURPOSE: This randomized phase II trial is studying giving erlotinib hydrochloride together with panitumumab to see how well it works with or without irinotecan hydrochloride as second-line therapy in treating patients with metastatic colorectal cancer.
+Colorectal Cancer
+BIOLOGICAL: panitumumab|DRUG: erlotinib hydrochloride|DRUG: irinotecan hydrochloride
+Tumor Response Rate Based on Complete Response (CR)+ Partial Response (PR) + Stable Disease (SD), Tumor response rate will be measured by CT scan of the chest and CT scan or MRI scan of abdomen and pelvis every 8 weeks until disease progression response rate will be measured per Response Evaluation Criteria In Solid Tumors Criteria (RECIST v1.0) for target lesions evaluated using Response Evaluation Criteria In Solid Tumors Criteria (RECIST v1.0) for target lesions.
+
+Complete Response (CR): Disappearance of all target lesions.
+
+Partial Response (PR): At least a 30% decrease in the sum of the longest diameter (LD)of target lesions, taking as reference the baseline sum LD.
+
+Progressive Disease (PD): At least a 20% increase in the sum of the LD of target lesions,taking as reference the smallest sum LD recorded since the treatment started or the appearance of one or more new lesions.
+
+Stable Disease (SD): Neither sufficient shrinkage to qualify for PR nor sufficient increase to qualify for PD, taking as reference the smallest sum LD since the treatment started, At baseline and every 8 weeks during treatment until progressive disease for maximum of 51 cycles where 1 cycle = 2 weeks.
+Time to Disease Progression, Time to disease progression will be measured by CT scan of the chest and CT scan or MRI scan of abdomen and pelvis every 8 weeks until disease progression . Time to disease progression will be defined as the time elapsed from the day of 1st study drug administration to the day disease progression is documented or death occurs and will .
+
+Progressive Disease will be defined using Response Evaluation Criteria In Solid Tumors Criteria (RECIST v1.0) : At least a 20% increase in the sum of the longest diameter (LD) of target lesions,taking as reference the smallest sum LD recorded since the treatment started or the appearance of one or more new lesions., At baseline and every 8 weeks during treatment until disease progression and for a maximum of 51 cycles where 1 cycle = 2 weeks|Time to Treatment Failure, Time to treatment failure will be measured as the time elapsed from the day of first study drug administration to the date a subject stops all study drugs for any reason., From first day of study drug treatment until the date of stopping all study drugs for any reason for a maximum of 51 cycles where 1 cycle=2weeks|Toxicity of the Combination of Study Drugs, Data on the toxicity of the combination of study drugs is assessed by laboratory blood draws done on day 1 of every treatment cycle and by patient report while on study treatment and up to 30 days after the last treatment. Grade 3 and grade 4 adverse events (AE) where the relationship between the AE and at least one of the study drugs were considered to be definite, probable or possible, were collected using National Cancer Institute's Common Toxicity Criteria for adverse events version 3.0 (CTCAE v3.0). AEs are graded as:
+
+Grade 1 Mild AE Grade 2 Moderate AE Grade 3 Severe AE Grade 4 Life-threatening or disabling AE Grade 5 Death related to AE, Day 1 of every 2 week treatment cycle while on study treatment and 30 days after the last treatment for a maximum of 51 cycles.|Effect on Downstream Targets of Epidermal Growth Factor Receptor (EGFR) in Skin Rash Associated With Pharmacologic EGFR Inhibition, Effect on downstream targets of EGFR in skin rash associated with pharmacologic EGFR inhibition. Skin biopsies will be performed at baseline (before the first days of treatment) and and at a time-point reflecting maximum rash intensity determined by a dermatologist., At baseline and at a time-point reflecting maximum rash intensity during treatment, at a maximum of 51 cycles.
+OBJECTIVES:
+
+Primary
+
+* Determine the response rate in patients with metastatic colorectal cancer treated with erlotinib hydrochloride and panitumumab with versus without irinotecan hydrochloride as second-line therapy .
+
+Secondary
+
+* Determine time to disease progression and time to treatment failure in patients treated with these regimens.
+* Determine the safety of these regimens in these patients.
+* Determine the effect of these regimens on downstream targets of EGFR in skin rash associated with pharmacologic EGFR inhibition (exploratory).
+* Determine the association between KRAS mutations and response to EGFR inhibition (exploratory).
+
+OUTLINE: This is a multicenter study. Patients are stratified according to wild-type Kras tumors ( 6/6 UGT1A1 vs 6/7 UGT1A1), and are randomized to 1 of 2 treatment arms. Patients with wild-type Kras tumor 7/7 UGT1A1 receive treatment in arm III.
+
+* Arm I: Patients receive oral erlotinib hydrochloride once daily on days 1-14, panitumumab IV over 30-90 minutes on day 1, and irinotecan hydrochloride IV over 90 minutes on day 1. Treatment repeats every 2 weeks in the absence of disease progression or unacceptable toxicity.
+* Arm II: Patients receive oral erlotinib hydrochloride once daily on days 1-14 and panitumumab IV over 30-90 minutes on day 1. Treatment repeats every 2 weeks in the absence of disease progression or unacceptable toxicity. Upon disease progression, patients receive irinotecan hydrochloride as in arm I.
+* Arm III: Patients receive erlotinib hydrochloride and panitumumab as in arm II. Skin biopsies and blood samples may be collected for further analysis.
+
+After completion of study therapy, patients are followed every 6 weeks.

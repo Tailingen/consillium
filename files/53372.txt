@@ -1,0 +1,77 @@
+Research on the Correlation Between Organoid Drug Sensitivity Testing and Precise Treatment of Gastrointestinal Tumors
+Study the correlation between in vitro drug sensitivity screening of digestive tract tumor organoids and their clinical efficacy in anti-tumor treatment, evaluate the use of digestive tract tumor organoid drug sensitivity to predict the therapeutic effect of anti-tumor drugs, and explore new methods for personalized and precise treatment of esophageal cancer, gastric cancer, colorectal cancer, and gastrointestinal stromal tumors.
+Gastrointestinal Tumors，3D Organoids，Drug Sensitivity
+OTHER: Based on diagnostic and treatment guidelines/expert consensus, as well as clinical treatment experience, it is recommended that no more than 9 drugs be used for drug sensitivity testing each time.
+Progression-free survival（PFS）, Progression-free survival, up to 100 months
+Overall survival（OS）, Overall survival, up to 100 months
+This trial is a single arm, multicenter, open label, prospective clinical study.
+
+1. Sample size This study is a clinical exploratory study and does not estimate sample size. It is expected to include 68 patients with digestive tract tumors, including 16 cases each of esophageal cancer, gastric cancer, and colorectal cancer, and 20 cases of gastrointestinal stromal tumors.
+
+1.1Participation Center Approximately 10-15 research centers are involved nationwide. 2.Case selection 2.1Selection criteria
+
+To be selected, all of the following conditions must be met:
+
+1. Age range from 18 to 75 years old, regardless of gender;
+2. Patients with esophageal cancer, gastric cancer, colorectal cancer, and gastrointestinal stromal tumors confirmed by histopathology/cytology;
+3. The subject's condition meets one of the following conditions:
+
+   Esophageal cancer: clinical staging is stage II (cT1-2N1-3M0/cT3-4NOMO) or stage III (cT3-4aN1-3MO); Gastric cancer: Clinical staging is stage II (cT1-2N1-3M0/cT3-4N0MO) or stage III (cT3-4aN1-3MO); Colorectal cancer: clinical staging is stage II (cT1-2N1-3M0/cT3-4N0MO) or stage III (cT3-4aN1-3MO) Gastrointestinal stromal tumors: Primary stromal tumors with locally advanced risk classification (spontaneous rupture of the tumor; tumor diameter\>10cm; mitotic image\>10/5mm) ²; Tumor diameter\>5cm and mitotic count\>5/5mm ²; 5cm ≤ tumor diameter\>2cm and mitotic image\>5/5mm ² Non gastric primary; 10cm ≤ tumor diameter\>5cm and mitotic image ≤ 5/5mm ² (Non primary gastric stromal tumor) or recurrent metastatic/unresectable gastrointestinal stromal tumor.
+4. The patient or legal representative voluntarily participates in this study and signs 2.2 Exclusion criteria
+
+One of the following situations cannot be included in this trial:
+
+1. Suffering from systemic inflammatory diseases and/or coagulation disorders;
+2. There are serious liver and kidney diseases, cardiovascular diseases, respiratory diseases or uncontrolled diabetes;
+3. Suffering from other malignant tumors of the system;
+4. Patients with mental illness who are unable to cooperate in completing the study;
+5. Known allergies to potential chemotherapy drugs or surgical contraindications;
+6. Patients whose condition cannot be reversed or in a dying state;
+7. Unable to obtain sufficient tumor tissue through biopsy surgery for organoid culture and histological analysis;
+8. Pregnancy or lactation, or planning to have a fertility plan within the next 6 months;
+9. Poor health status, KPS score\<70 points, or ECOG score ≥ 3 points;
+10. Receiving any other anti-cancer drug treatment, biological therapy, radiation therapy, or immunosuppressive therapy within 4 weeks; 3.Research method 3.1Collection of Tumor Organ Samples Fresh tissue, appropriate and sufficient sample size, try to completely remove normal tissue to reduce interference.
+
+Endoscopic biopsy: Take 3 or more pieces with forceps, with a total amount of ≥ 0.5g, and collect rich areas of cancer cells; Puncture biopsy: with a total length of ≥ 3cm (each piece is 1cm or more, a total of 3 pieces), collect rich areas of cancer cells; Ascites puncture/drainage: Total volume above 250ml, to avoid impurities and ensure the presence of tumor cells.
+
+3.2 Cold chain transportation The collected tumor samples should be stored on ice at 2-8 ℃ for 24 hours and delivered to the laboratory.
+
+3.3 Organ model drug sensitivity testing
+
+1. Organoid culture I Obtaining Cell Suspension
+
+   ① Tumor cell suspension: After removing necrotic tissue, adipose tissue, and fibrous tissue from the sample, the effective sample is cut into tumor tissue fragments with a diameter of 1mm, and then the tissue fragments are digested using tissue dissociation solution. Use 70-100 μ M's sterile filter filters the digested tissue, and the filtrate is centrifuged for 5 minutes before discarding the supernatant. Use red blood cell lysase to lyse the red blood cells in the suspension, centrifuge, and suspend the precipitate using PBS.
+   * Malignant fluid cell suspension: using 70-100 μ M sterile filter is used to filter malignant fluid, remove solid suspension, centrifuge, and suspend the precipitate using PBS.
+
+   II Cell viability verification: Use trypan blue staining method to observe cell viability and ensure that the proportion of live cells is greater than 80%.
+2. Establishment of organoids Spread the mixed matrix gel of tumor live cells evenly onto the pre prepared culture plate, add suitable cell culture medium, and then place it in a 37 ℃, 5% CO ₂ incubator for static cultivation.
+3. Verification of organogenesis rate Pathological, genetic testing, and immunohistochemical validation are performed on samples of successfully cultured organoids to confirm the successful construction of tumor organoids. If the validation is for normal tissue, the sample fails and timely feedback is provided to the clinical sampling doctor.
+4. Sensitivity verification of organoid drugs After successful cultivation, the organoids were divided into the following four groups: zeroing group (excluding organoids, only containing cell culture medium); Negative control (organoid+drug solvent); Positive control (organoid+astrosporin); Drug sensitivity testing group (organoid+test drug); Each group has three wells, and the selected drug for drug sensitivity testing is based on the recommendations of the researchers and the diagnosis and treatment guidelines of the Chinese Society of Clinical Oncology. The clinical dose is used as the basis, and three concentrations of high, medium, and low are set with a 3-fold gradient.
+5. Cell viability testing Cell viability was measured using ATP biofluorescence drug sensitivity detection technology (ATP-TCA). The complex of fluorescent pigment and fluorescent enzyme can undergo a chemical reaction with the participation of ATP to produce fluorescence. The fluorescence intensity emitted reflects the content of ATP, which in turn reflects the number of live cells. ATP biofluorescence drug sensitivity detection technology uses intracellular ATP content as the endpoint for measuring cell activity, which can measure the differences between different drugs and the same drug at different concentrations.
+6. Acquisition of drug sensitivity indicators Organ like growth inhibition rate: The inhibition rate (IR) of different drug concentrations on organoids.
+
+Drug sensitivity assessment: The drug's growth inhibition rate on organoids at clinical action concentration is used as a sensitivity indicator for tumor organoids to drugs. An inhibition rate less than 20 indicates that organoids are resistant to the drug, an inhibition rate of 20-40 indicates mild sensitivity, an inhibition rate of 40-70 indicates moderate sensitivity, and an inhibition rate greater than 70 indicates that organoids are highly sensitive to the drug.
+
+The above technical support is provided by a third-party professional technical platform: Shanghai Biomass Drug Evaluation/Luzhou Health Product Testing Center; The time for issuing drug sensitivity results is about 2 weeks. The drug sensitivity testing of gastrointestinal stromal tumors will be carried out based on the exploration results of the 3D culture method and agreed upon with the main unit of the project.
+
+3.4 Developing medication plans Construct a tumor organoid model based on biopsy specimens, and develop a treatment plan based on organoid drug sensitivity results, combined with diagnostic and treatment guidelines/expert consensus, and clinical experience of researchers.
+
+The overall treatment plan for all subjects is formulated by the sub center researchers based on their condition.
+
+4.Research Procedures This study is divided into four parts: screening period, planning period, treatment observation period, and progression follow-up period.
+
+5. Efficacy evaluation After treatment, evaluate and compare tumors of the same category. 5.1Efficacy evaluation indicators
+
+* Compare the differences between the organoid drug sensitivity results and the recommended treatment plans based on guidelines/consensus; ② Changes in target lesions compared to baseline after 3 drug cycles of treatment: chest and abdominal CT or MRI or PET-CT;
+
+  * Recurrence rate; Based on patient follow-up information; ④ Median progression free survival time and median survival time of patients: combined with the cycle information of each tumor during patient follow-up.
+
+5.2 Criteria for determining efficacy
+
+The efficacy is evaluated according to the World Health Organization (WHO) criteria for solid tumors:
+
+* Complete response (CR): All target lesions disappear, and the short axis values of all pathological lymph nodes are less than 10 mm;
+
+  * Partial response (PR): refers to the sum of the critical radius, with a minimum reduction of 30% in the sum of all target lesion radii; ③ Stable disease (SD): refers to the minimum value of the total observed target lesions, which does not meet the progression criteria and also does not meet the remission criteria; ④ Progressive disease (PD): The minimum value of the total observed target lesions, the minimum increase of 20% in the total radius of all target lesions, and the absolute value of the total increase in the radius of the target lesions\>5mm. Calculation: Effective rate after treatment=(CR+PR)/total number of cases x 100.0%; The objective response rate (OR) includes CR+PR confirmed at least 4 weeks apart; The disease control rate (DCR) includes confirmed tumor remission (CR+PR) and patients who have been recorded as SD after at least 4 weeks of drug use, i.e. CR+PR+SD.
+
+    * Tumor recurrence: During imaging examination after treatment, it was found that the tumor expanded again 6 months after partial remission, and new tumors were found to recur in other parts or distant areas of the primary lesion; After 6 months of complete remission, tumor recurrence (including local recurrence, regional recurrence, and distant recurrence) was discovered through imaging examination.

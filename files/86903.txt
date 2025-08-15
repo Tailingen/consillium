@@ -1,0 +1,33 @@
+A Study Developing a Non-invasive Urine-based Proteomic Model for Early Lung Cancer Detection.
+Brief Summary:
+
+The goal of this observational study is to develop a non-invasive urine proteomic diagnostic model to improve early-stage lung cancer detection. The study aims to answer the following main questions:
+
+Can urine proteomics reliably differentiate early-stage lung cancer from benign conditions? How does the diagnostic model compare to current clinical and imaging methods in accuracy?
+
+Participants will:
+
+Provide preoperative urine samples. Undergo proteomic analysis of urine samples. Have clinical, imaging, and proteomic data integrated into an AI-assisted diagnostic model.
+
+The study will evaluate the sensitivity and specificity of this innovative diagnostic approach.
+Early-Stage Lung Cancer|NSCLC|Pulmonary Nodule
+Prediction Accuracy of Diagnostic Models, The primary outcome measure is the accuracy of preoperative predictions (sensitivity and specificity) for early-stage non-small cell lung cancer (NSCLC) diagnosis. Predictions are based on:
+
+1. Urine proteomics in the experimental group.
+2. Chest CT imaging in the control group.
+
+Accuracy will be assessed by comparing preoperative predictions with postoperative pathological findings, including tumor histopathological subtypes, lymph node metastasis, and other pathological factors., Within 2 weeks post-surgery.
+Cut-off Value for Urine Proteomics Diagnostic Test, Determination of the optimal cut-off value for urine proteomic markers to maximize diagnostic sensitivity and specificity for early-stage non-small cell lung cancer (NSCLC)., Within 1 month after data analysis.|Comparative Performance of Diagnostic Models, Evaluation of the diagnostic performance (sensitivity, specificity, and area under the curve \[AUC\]) of the urine proteomic model versus chest CT imaging for predicting tumor histopathological subtypes, lymph node metastasis, and staging., Within 2 months post-surgery.|Long-term Diagnostic Effectiveness, Evaluation of the correlation between preoperative diagnostic accuracy and 2-year postoperative clinical outcomes (e.g., recurrence rates, survival outcomes)., Up to 2 years post-surgery.
+Detailed Description:
+
+This study focuses on developing a urine proteomic-based diagnostic model to improve the early detection of lung cancer. It leverages non-invasive urine sampling, proteomic analysis, and artificial intelligence to create a high-sensitivity, high-specificity diagnostic tool.
+
+The study will recruit 480 participants with suspected early-stage lung cancer (I-IIIA, non-N2). Urine samples will be collected before surgery, and participants will undergo standard imaging and diagnostic evaluations, including chest CT, abdominal ultrasound or CT, brain MRI or CT, and bone scans.
+
+The primary objectives of the study include:
+
+1. Biomarker Identification: Identifying differentially expressed urine proteins associated with early-stage lung cancer.
+2. Diagnostic Model Construction: Combining proteomic findings with clinical and imaging data to construct a diagnostic model using AI-based algorithms.
+3. Validation: Evaluating the model's diagnostic accuracy compared to current clinical practices.
+
+Participants will contribute to the advancement of a novel diagnostic method that aims to minimize unnecessary invasive procedures and improve lung cancer prognosis through early and accurate detection.

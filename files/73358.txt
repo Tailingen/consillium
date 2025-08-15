@@ -1,0 +1,7 @@
+A Study Using 18F-FAPI PET to Evaluate Treatment Response in Pancreatic Adenocarcinoma
+To explore the potential utility of 18F-FAPI-04 PET/CT for pathologic response evaluation to systemic treatment in PDAC
+18F-FAPI|Pancreas Adenocarcinoma|Systemic Treatment|Pathologic Response
+DIAGNOSTIC_TEST: 18F-FAPI PET/CT
+Change of Maximum standardized uptake value, Change of SUVmax before and after treatment, Baseline and preoperation|Change of Mean standardized uptake value, Change of SUVmean before and after treatment, Baseline and preoperation
+Maximum standardized uptake value, Baseline SUVmax at diagnosis, Baseline|Mean standardized uptake value, Baseline SUVmean at diagnosis, Baseline|Metabolic Tumor Volume, Baseline MTV at diagnosis, Baseline|Total Lesion FAP expression, Baseline TLF at diagnosis, Baseline|Change of Metabolic Tumor Volume, Change of MTV before and after treatment, Baseline and preoperation|Change of Total Lesion FAP expression, Change of TLF before and after treatment, Baseline and preoperation
+To explore the potential utility of 18F-FAPI-04 PET/CT for pathologic response evaluation to systemic treatment in PDAC

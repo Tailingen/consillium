@@ -1,0 +1,22 @@
+The Role of PET/MRI in Predicting the Outcome of Definitive Chemoradiotherapy for Esophageal Cancer Patients
+PET/MRI has the advantage to assess the metabolism, diffusion, and perfusion parameters of the tumor simultaneously and has been investigated in some cancers with promising results. In this study, we prospectively investigate the role of PET/MRI in evaluating the outcome of patients with esophageal cancer treated by definitive chemoradiotherapy.
+Esophageal Cancer
+DIAGNOSTIC_TEST: PET/MRI
+Overall survival, Being calculated from the date of diagnosis to the date of death or censor at the date of the last follow- up for surviving patients, 3 years
+Background:
+
+In recent years, the survival of patients with esophageal cancer has been improved by the use of chemoradiotherapy. But reliable imaging modality parameters for prognostic prediction in these patients are still lacking.
+
+Traditionally, clinicians rely on endoscopic ultrasound (EUS) and computed tomography (CT) to evaluate the treatment response of esophageal cancer patients. The accuracy of EUS for assessment of treatment response for primary tumor or regional nodal sites is reported to be 27-81% and 49-78%, respectively. As for CT, the reported sensitivity is also suboptimal, ranging from 33 to 55%. The specificity is 50-71%. In this regard, 18F-FDG PET/CT has higher sensitivity and specificity of 57-86% and 46-93% than other imaging modalities. But it is still difficult to precisely assess the treatment response depending on these imaging studies.
+
+Functional MRI has been proven to be useful to evaluate treatment response in various cancers. However, the application of functional MRI in esophageal cancer is limited. One investigator has reported that apparent diffusion coefficient (ADC) value derived from diffusion MRI (DWI) had the potential to predict response of esophageal cancer patients. After treatment, the velocity of contrast across the vascular wall was also reported to change substantially in the dynamic contrast MRI (DCE MRI) study for esophageal cancer patients.
+
+Integrated PET/MRI has the advantage to perform multiparametric imaging and to assess tumor metabolism (SUV, TLG), ADC, and DCE MRI parameters simultaneously. Recently, PET/MRI has been investigated in several cancers with promising results. In this study, the investigators prospectively explore the role of multiparametric PET/MRI imaging in evaluating the treatment response of patients with esophageal cancer.
+
+Material and method:
+
+The study patients receive 18F-FDG PET/MRI before and during definitive chemoradiotherapy. And the corresponding functional imaging parameters are calculated and correlated with the treatment outcome.
+
+18F-FDG PET/MRI: PET/MRI is performed on a Biograph mMR (Siemens Healthcare, Erlangen, Germany). The PET/MRI system is equipped with 3-T magnetic field strength, total imaging matrix coil technology covering the entire body with multiple integrated radiofrequency surface coils, and a fully functional PET system with avalanche photodiode technology embedded in the magnetic resonance gantry.
+
+Statistical analysis: Overall survival (OS) serves as the main outcome measure. OS is calculated from the date of diagnosis to the date of death or censored at the date of the last follow-up for surviving patients. The cutoff values for the clinical variables and imaging parameters in survival analysis are determined using the log-rank test. Survival curves are plotted using the Kaplan-Meier method. The effect of each individual variable is initially evaluated using univariate analysis. Cox regression models are used to identify the predictors of survival. Two-tailed P values \< 0.05 are considered statistically significant.

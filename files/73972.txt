@@ -1,0 +1,38 @@
+Chemotherapy for the Treatment of Patients With Newly Diagnosed Very Low-Risk and Low Risk Fusion Negative Rhabdomyosarcoma
+Rhabdomyosarcoma is a type of cancer that occurs in the soft tissues in the body. This phase III trial aims to maintain excellent outcomes in patients with very low risk rhabdomyosarcoma (VLR-RMS) while decreasing the burden of therapy using treatment with 24 weeks of vincristine and dactinomycin (VA) and examines the use of centralized molecular risk stratification in the treatment of rhabdomyosarcoma. Another aim of the study it to find out how well patients with low risk rhabdomyosarcoma (LR-RMS) respond to standard chemotherapy when patients with VLR-RMS and patients who have rhabdomyosarcoma with DNA mutations get separate treatment. Finally, this study examines the effect of therapy intensification in patients who have RMS cancer with DNA mutations to see if their outcomes can be improved.
+Embryonal Rhabdomyosarcoma|Fusion-Negative Alveolar Rhabdomyosarcoma|Spindle Cell/Sclerosing Rhabdomyosarcoma
+PROCEDURE: Biopsy|PROCEDURE: Bone Scan|PROCEDURE: Computed Tomography|DRUG: Cyclophosphamide|BIOLOGICAL: Dactinomycin|PROCEDURE: Magnetic Resonance Elastography|PROCEDURE: Positron Emission Tomography|RADIATION: Radiation Therapy|DRUG: Vincristine
+Failure free survival (FFS) for very low risk patients, The Kaplan-Meier method will be used to estimate 3-year FFS along with 80% log-minus-log transformed confidence limits for very low risk (VLR) patients., From study enrollment to disease progression, recurrence, or death as a first event, assessed up to 3 years|Failure free survival (FFS) for low risk patients, The Kaplan-Meier method will be used to estimate 3 year FFS along with 80% log-minus-log transformed confidence limits for low risk (LR) patients., From study enrollment to disease progression, recurrence, or death as a first event, assessed up to 3 years
+Overall survival (OS) for very low risk patients, Log-rank test will be used to compare the OS of patients with VLR rhabdomyosarcoma (RMS) treated with 24 weeks of vincristine, dactinomycin (VA) to the VLR RMS patients from ARST0331 and D9602 with the same inclusion criteria., From study entry to death of any cause, assessed up to 5 years|Overall survival (OS) for low risk patients, Log-rank test will be used to compare the OS from LR RMS patients to LR RMS patients from ARST0331 and D9602 with the same inclusion criteria., From study entry to death of any cause, assessed up to 5 years|Feasibility of central molecular risk stratification of patients assessed by the percentage of patients who have molecular testing results returned by 6 weeks, If the percentage of patients who have molecular testing results returned by 6 weeks is \>= 80% then the central molecular risk stratification is considered feasible., Up to 24 weeks
+Methylation array profile of patients with fusion negative, low-risk rhabdomyosarcoma, Summary statistics will be used to describe the methylation array profile of patients with fusion negative, low-risk rhabdomyosarcoma. Correlation between methylation patterns and clinical presentation, histology, and genetics will be evaluated., Up to 5 years|Descriptive analysis of patients treated on Regimen M, Summary statistics will be used to provide a descriptive analysis of patients treated on Regimen M, including patient demographics, clinical characteristics and outcomes., Up to 5 years
+PRIMARY OBJECTIVES:
+
+I. To evaluate the failure free survival (FFS) of patients with very low-risk (VLR) rhabdomyosarcoma (RMS) (fusion negative \[FN\], stage 1, clinical group \[CG\] I, MYOD1 wildtype \[WT\], TP53 \[WT\]) when treated with 24 weeks of vincristine and dactinomycin (VA).
+
+II. To evaluate the FFS of patients with low-risk (LR) RMS (FN, stage 1 CG II, or stage 2 CG I/II or CG III \[orbit only\], MYOD1 WT, TP53 WT) when treated with 12 weeks of vincristine, dactinomycin and cyclophosphamide (VAC) followed by 12 weeks of VA.
+
+SECONDARY OBJECTIVES:
+
+I. To evaluate the overall survival (OS) of patients with VLR RMS treated with 24 weeks of VA.
+
+II. To evaluate the OS of patients with LR RMS treated with 12 weeks of VAC followed by 12 weeks of VA.
+
+III. To demonstrate the feasibility of central molecular risk stratification of patients with newly diagnosed RMS in the context of a prospective clinical trial.
+
+EXPLORATORY OBJECTIVES:
+
+I. To collect blood and tissue samples for banking at baseline, during treatment, at the end of therapy, and at the time of progression to bank for future research.
+
+II. To describe the methylation array profile of patients with fusion negative, low-risk rhabdomyosarcoma.
+
+III. To describe the outcomes of patients with VLR or LR RMS and MYOD1 or TP53 mutations treated with intensified therapy.
+
+OUTLINE: Patients are assigned to 1 of 2 regimens based on clinical features. Patients with positive mutation status are transitioned to a third regimen, Regimen M.
+
+REGIMEN VA: Patients with VLR RMS receive vincristine intravenously (IV) on day 1 of each cycle and days 8 and 15 of cycles 1, 3, 5, and 7 and dactinomycin IV over 1-5 minutes or over 10-15 minutes on day 1 of each cycle. Treatment repeats every 21 days for 8 cycles in the absence of disease progression or unacceptable toxicity. Patients with MYOD1 or TP53 mutated tumors transition to Regimen M at cycle 2 (if mutation status is determined to be positive at week 3) or cycle 3 (if mutation status is determined to be positive after week 3).
+
+REGIMEN VAC/VA: Patients with LR RMS receive vincristine IV on day 1 of each cycle and days 8 and 15 of cycles 1-3. Patients also receive dactinomycin IV over 1-5 minutes or 10-15 minutes and cyclophosphamide IV over 60 minutes on day 1 of each cycle. Treatment repeats every 21 days for 4 cycles in the absence of disease progression or unacceptable toxicity. Patients then receive vincristine IV on day 1 of each cycle and days 8 and 15 of cycles 5-7 and dactinomycin IV over 1-5 minutes or over 10-15 minutes on day 1 of each cycle. Treatment repeats every 21 days for 4 cycles in the absence of disease progression or unacceptable toxicity. Patients with MYOD1 or TP53 mutated tumors transition to Regimen M at cycle 2 (if mutation status is determined to be positive at week 3) or cycle 3 (if mutation status is determined to be positive after week 3). Patients may also undergo radiation therapy at cycle 5.
+
+REGIMEN M: Patients receive vincristine IV on day 1 of each cycle and days 8 and 15 of cycles 2-4, 7-8, and 11-12 and dactinomycin IV over 1-5 minutes or 10-15 minutes on day 1 of cycles 2-5 and 8-14. Patients also receive cyclophosphamide IV over 60 minutes on day 1 of each cycle. Treatment repeats every 21 days for 12-13 cycles in the absence of disease progression or unacceptable toxicity. Patients may also undergo radiation therapy at cycle 5.
+
+Patients undergo computed tomography (CT) scan, magnetic resonance imaging (MRI), bone scan, positron emission tomography (PET) scan and tumor biopsy throughout the study.

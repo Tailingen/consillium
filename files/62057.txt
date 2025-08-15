@@ -1,0 +1,33 @@
+Genetic Testing in Predicting Tumor Response in Patients With Stage I-III HER2 Negative Invasive Breast Cancer
+This phase II trial studies how well genetic testing works in predicting tumor response in patients with stage I-III HER2 negative invasive breast cancer. Genetic testing is a procedure that tests tumor samples to learn if certain genes are activated (turned on) in the tumor and if the activation of these genes may predict if the tumor will be sensitive or resistant to routine breast cancer treatments, such as chemotherapy or hormonal therapy.
+Anatomic Stage I Breast Cancer AJCC v8|Anatomic Stage IA Breast Cancer AJCC v8|Anatomic Stage IB Breast Cancer AJCC v8|Anatomic Stage II Breast Cancer AJCC v8|Anatomic Stage IIA Breast Cancer AJCC v8|Anatomic Stage IIB Breast Cancer AJCC v8|Anatomic Stage III Breast Cancer AJCC v8|Anatomic Stage IIIA Breast Cancer AJCC v8|Anatomic Stage IIIB Breast Cancer AJCC v8|Anatomic Stage IIIC Breast Cancer AJCC v8|Anatomic Stage IV Breast Cancer AJCC v8|Invasive Breast Carcinoma|Prognostic Stage I Breast Cancer AJCC v8|Prognostic Stage IA Breast Cancer AJCC v8|Prognostic Stage IB Breast Cancer AJCC v8|Prognostic Stage II Breast Cancer AJCC v8|Prognostic Stage IIA Breast Cancer AJCC v8|Prognostic Stage IIB Breast Cancer AJCC v8|Prognostic Stage III Breast Cancer AJCC v8|Prognostic Stage IIIA Breast Cancer AJCC v8|Prognostic Stage IIIB Breast Cancer AJCC v8|Prognostic Stage IIIC Breast Cancer AJCC v8|Prognostic Stage IV Breast Cancer AJCC v8
+PROCEDURE: Biopsy|PROCEDURE: Conventional Surgery|OTHER: Genetic Testing
+Feasibility defined as the ability to classify patients into 1 of 4 cohorts, The study will use the methods of Thall et al. to monitor the ability to classify patients into 1 of 4 groups (success rate) throughout the trial. Will use summary statistics to describe the demographic and clinical characteristics of patients overall and within each subgroup (Groups A-D)., Up to 5 years
+Disease-free survival (DFS), The study will estimate 3-year DFS with 95% confidence intervals within each subgroup (Groups A-D) using the Kaplan-Meier estimator. Will also use a Cox proportional hazards regression model to estimate the association between DFS and subgroup, genomic predictions of treatment response, treatment, age at diagnosis, tumor stage at diagnosis, clinical nodal status at diagnosis, and histologic grade., Time between diagnostic tumor biopsy and the first failure event, assessed at 3 and 5 years|Frequency of tumors, The study will estimate the relative frequency of tumors classified within each prediction cohort (groups A-D) with 95% confidence intervals., Up to 5 years|Concordance of genomic analysis with immunohistochemistry (IHC), The study will tabulate the estrogen receptor (ER) status and Her2 status of tumors as determined by the genomic analysis and by IHC. Will estimate the concordance between these 2 methods for ER status and for Her2 status with 95% confidence intervals., Up to 5 years|Indeterminate Results, The study will use descriptive statistics to summarize the data in an effort to understand reasons for obtaining indeterminate results when trying to classify patients into 1 of the 4 subgroups (Groups A-D). Will summarize these data overall and separately for each biopsy method (e.g., fine needle aspiration, core needle biopsy, surgical resection)., Up to 5 years
+PRIMARY OBJECTIVE:
+
+I. To determine the feasibility of implementation of molecular (genomic) predictive testing for patients with localized (stage I-III) invasive carcinoma of the breast who are candidates for either adjuvant or neoadjuvant treatment of their breast cancer.
+
+SECONDARY OBJECTIVES:
+
+I. Estimate the frequency of tumors in each of the four molecularly defined cohorts, overall and within subsets defined by nodal status and estrogen receptor (ER) status.
+
+II. Estimate the concordance of genomic analysis of gene expression levels for ER and HER2 from the microarray (published previously), compared with standard testing with immunohistochemistry (IHC) and fluorescence in situ hybridization (FISH) to determine ER and HER2 status in these tumors.
+
+III. Estimate the rates of indeterminate results and other variables of feasibility for tissue obtained by different procurement methods including: fine needle aspiration, core needle biopsy or surgical resection.
+
+IV. Estimate the impact of adjuvant therapy as measured by disease free survival (DFS) at 3 and 5 years for the patients within each cohort who received a neoadjuvant or adjuvant treatment that is concordant with the application of the prediction result (i.e. chemotherapy \[CT\] with sequential taxane and anthracycline regimens +/- subsequent endocrine therapy \[ET\] if hormone receptor-positive) as follows: Group A: ET alone (without CT); Group B: CT followed by ET; Group C: CT alone; Group D: CT, followed by ET if hormone receptor positive.
+
+V. Estimate the impact of neoadjuvant therapy for patients within each cohort, as measured by pathologic response in the breast and regional lymph nodes (pathologic complete response rate \[pCR\] and residual cancer burden \[RCB\]).
+
+VI. Estimate the predictive performance of other pre-validated and published genomic predictors of chemotherapy or endocrine therapy sensitivity by calculating those predictions from the microarray data that are produced or by using available results if the test was performed separately for clinical use.
+
+VII. Determine molecular characteristics of residual disease by analyzing resected surgical specimens of residual disease in patients who have received neoadjuvant chemotherapy.
+
+VIII. Determine molecular characteristics of recurrent or metastatic disease by analyzing tumor tissue obtained from diagnostic biopsies of a recurrent or metastatic tumor and comparing these samples to the primary tumor.
+
+OUTLINE:
+
+Patients undergo biopsy or surgery to obtain tumor sample for genetic testing. Patients are then assigned to 4 treatment cohorts as determined by genetic test results.
+
+After completion of study, patients are followed up for 5 years.

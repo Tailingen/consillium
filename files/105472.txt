@@ -1,0 +1,84 @@
+Ipilimumab and Decitabine in Treating Patients With Relapsed or Refractory Myelodysplastic Syndrome or Acute Myeloid Leukemia
+This phase I trial studies the side effects and best dose of ipilimumab when given together with decitabine in treating patients with myelodysplastic syndrome or acute myeloid leukemia that has returned after a period of improvement (relapsed) or does not respond to treatment (refractory). Immunotherapy with monoclonal antibodies, such as ipilimumab, may help the body's immune system attack the cancer, and may interfere with the ability of tumor cells to grow and spread. Drugs used in chemotherapy, such as decitabine, work in different ways to stop the growth of cancer cells, either by killing the cells, by stopping them from dividing, or by stopping them from spreading. Giving ipilimumab and decitabine may work better in treating patients with relapsed or refractory myelodysplastic syndrome or acute myeloid leukemia.
+Previously Treated Myelodysplastic Syndrome|Recurrent Acute Myeloid Leukemia|Recurrent Acute Myeloid Leukemia, Myelodysplasia-Related|Recurrent Myelodysplastic Syndrome|Refractory Acute Myeloid Leukemia|Refractory Myelodysplastic Syndrome|Secondary Acute Myeloid Leukemia|Secondary Myelodysplastic Syndrome
+DRUG: Decitabine|BIOLOGICAL: Ipilimumab
+Maximum Tolerated Dose (Recommended Phase 2 Dose) of Ipilimumab in Combination With Decitabine, Defined as the highest dose at which 1 or fewer of 6 patients experience a dose limiting toxicity graded by Common Terminology Criteria for Adverse Events version 5.0 criteria., Monitoring for DLTs occurs continuously on treatment during the first 8 weeks of combination therapy (56 days from the start of combination) during the induction phase only.
+Anti-leukemic Activity Described in Terms of Best Overall Response Rate, Will be assessed by 2003 International Working Group response criteria for acute myeloid leukemia and 2006 International Working Group criteria for myelodysplastic syndrome. For acute myeloid leukemia, overall response rate includes complete remission + complete remission with incomplete count recovery; for myelodysplastic syndrome, overall response rate includes complete remission + marrow complete remission + partial remission + hematologic improvement., Up to 52 weeks|Anti-leukemic Activity Described in Terms of Progression Free Survival, Will be assessed by 2003 International Working Group criteria for acute myeloid leukemia and 2006 International Working Group criteria for myelodysplastic syndrome. Time to event summaries will use the Kaplan-Meier method., Time from registration to the earlier of progression or death due to any cause, assessed up to 52 weeks|Anti-leukemic Activity Described in Terms of Overall Survival, Will be assessed by 2003 International Working Group criteria for acute myeloid leukemia and 2006 International Working Group criteria for myelodysplastic syndrome. Time to event summaries will use the Kaplan-Meier method., Time from registration to death due to any cause or censored at the date last known alive, assessed up to 52 weeks|Incidence of Acute Graft-versus-host Disease, Will be separately evaluated in patients in the post-allogeneic hematopoietic stem cell transplant cohort, and compared to events with response to treatment. Graft-versus-host disease for the patients on the post-transplant arm will be estimated and reported with a 90% exact binomial confidence interval., Up to 100 days|Incidence of Chronic Graft-versus-host Disease, Will be separately evaluated in patients in the post-allogeneic hematopoietic stem cell transplant cohort, and compared to events with response to treatment. Graft-versus-host disease for the patients on the post-transplant arm will be estimated and reported with a 90% exact binomial confidence interval., Up to 52 weeks
+Ability of Absolute Lymphocyte Count to Predict Response, Absolute lymphocyte count levels will be measured prior to treatment and after cycle 2. ALC changes (from baseline to cycle 2) will be compared between responders and non-responders., Up to cycle 3 day 1
+PRIMARY OBJECTIVES:
+
+I. To determine the maximum tolerated dose (MTD) or recommended phase 2 dose (RP2D) of combination decitabine and ipilimumab for relapsed or refractory myelodysplastic syndrome (MDS) or relapsed or refractory acute myeloid leukemia (AML) in patients who are post allogeneic hematopoietic stem cell transplant (allo-HCT).
+
+II. To determine the MTD or RP2D of combination decitabine and ipilimumab for relapsed or refractory MDS or relapsed or refractory AML in patients who are transplant naive.
+
+SECONDARY OBJECTIVES:
+
+I. To observe and record anti-tumor activity. II. To determine the overall response rate (ORR) including complete remission (CR) and complete remission with incomplete count recovery (CRi) for AML following 2003 International Working Group (IWG) response criteria.
+
+III. To determine the ORR including CR, partial remission, marrow CR, hematologic improvement for MDS using 2006 IWG criteria.
+
+IV. To determine the overall survival and progression free survival at 1 year. V. To determine the duration of remission. VI. To capture the incidence and severity of acute graft-versus-host disease (GVHD) in the post allo-HCT cohort.
+
+VII. To capture the incidence and severity of chronic graft-versus-host disease (GVHD) in the post allo-HCT cohort.
+
+EXPLORATORY OBJECTIVES:
+
+I. To measure the absolute lymphocyte count (ALC) prior to treatment and during treatment.
+
+II. To evaluate the genome for evidence of clonal evolution among longitudinal samples (prior to treatment, during treatment, and at relapse if relevant) from individual patients.
+
+III. To evaluate the histopathologic findings of immune response using immunohistochemistry.
+
+IV. To determine the immune response in the AML tumor microenvironment by using flow cytometry and single cell mass cytometry to evaluate T cell subsets.
+
+OUTLINE: This is a dose-escalation study of ipilimumab.
+
+ARM A (PATIENTS POST ALLO-HCT, dose level 0):
+
+PRIMING PHASE: Post allo-HCT patients receive decitabine intravenously (IV) over 60 minutes on days 1-5 out of 28 days.
+
+INDUCTION PHASE: Post allo-HCT patients receive decitabine IV over 60 minutes on days 1-5 and ipilimumab IV (3 mg/kg) over 90 minutes on day 1. Treatment repeats every 28 days for up to 4 cycles in the absence of disease progression or unacceptable toxicity.
+
+MAINTENANCE PHASE: Post allo-HCT patients receive decitabine IV over 60 minutes on days 1-5 and ipilimumab IV (3 mg/kg) over 90 minutes on day 1. Treatment repeats every 4 or 8 weeks for up to 4 cycles in the absence of disease progression or unacceptable toxicity.
+
+ARM B (TRANSPLANT NAIVE PATIENTS, dose level 0):
+
+PRIMING PHASE: Transplant naive patients receive decitabine IV over 60 minutes on days 1-5 out of 28 days.
+
+INDUCTION PHASE: Transplant naive patients receive decitabine IV over 60 minutes on days 1-5 and ipilimumab IV (3 mg/kg) over 90 minutes on day 1. Treatment repeats every 28 days for up to 4 cycles in the absence of disease progression or unacceptable toxicity.
+
+MAINTENANCE PHASE: Transplant naive patients receive decitabine IV over 60 minutes on days 1-5 and ipilimumab IV (3 mg/kg) over 90 minutes on day 1. Treatment repeats every 4 or 8 weeks for up to 4 cycles in the absence of disease progression or unacceptable toxicity.
+
+ARM A (PATIENTS POST ALLO-HCT, dose level 1):
+
+PRIMING PHASE: Post allo-HCT patients receive decitabine IV over 60 minutes on days 1-5 out of 28 days.
+
+INDUCTION PHASE: Post allo-HCT patients receive decitabine IV over 60 minutes on days 1-5 and ipilimumab IV (5 mg/kg) over 90 minutes on day 1. Treatment repeats every 28 days for up to 4 cycles in the absence of disease progression or unacceptable toxicity.
+
+MAINTENANCE PHASE: Post allo-HCT patients receive decitabine IV over 60 minutes on days 1-5 and ipilimumab IV (5 mg/kg) over 90 minutes on day 1. Treatment repeats every 4 or 8 weeks for up to 4 cycles in the absence of disease progression or unacceptable toxicity.
+
+ARM B (TRANSPLANT NAIVE PATIENTS, dose level 1):
+
+PRIMING PHASE: Transplant naive patients receive decitabine IV over 60 minutes on days 1-5 out of 28 days.
+
+INDUCTION PHASE: Transplant naive patients receive decitabine IV over 60 minutes on days 1-5 and ipilimumab IV (5 mg/kg) over 90 minutes on day 1. Treatment repeats every 28 days for up to 4 cycles in the absence of disease progression or unacceptable toxicity.
+
+MAINTENANCE PHASE: Transplant naive patients receive decitabine IV over 60 minutes on days 1-5 and ipilimumab IV (5 mg/kg) over 90 minutes on day 1. Treatment repeats every 4 or 8 weeks for up to 4 cycles in the absence of disease progression or unacceptable toxicity.
+
+ARM A (PATIENTS POST ALLO-HCT, dose level 2):
+
+PRIMING PHASE: Post allo-HCT patients receive decitabine IV over 60 minutes on days 1-5 out of 28 days.
+
+INDUCTION PHASE: Post allo-HCT patients receive decitabine IV over 60 minutes on days 1-5 and ipilimumab IV (10 mg/kg) over 90 minutes on day 1. Treatment repeats every 28 days for up to 4 cycles in the absence of disease progression or unacceptable toxicity.
+
+MAINTENANCE PHASE: Post allo-HCT patients receive decitabine IV over 60 minutes on days 1-5 and ipilimumab IV (10 mg/kg) over 90 minutes on day 1. Treatment repeats every 4 or 8 weeks for up to 4 cycles in the absence of disease progression or unacceptable toxicity.
+
+ARM B (TRANSPLANT NAIVE PATIENTS, dose level 2):
+
+PRIMING PHASE: Transplant naive patients receive decitabine IV over 60 minutes on days 1-5 out of 28 days.
+
+INDUCTION PHASE: Transplant naive patients receive decitabine IV over 60 minutes on days 1-5 and ipilimumab IV (10 mg/kg) over 90 minutes on day 1. Treatment repeats every 28 days for up to 4 cycles in the absence of disease progression or unacceptable toxicity.
+
+MAINTENANCE PHASE: Transplant naive patients receive decitabine IV over 60 minutes on days 1-5 and ipilimumab IV (10 mg/kg) over 90 minutes on day 1. Treatment repeats every 4 or 8 weeks for up to 4 cycles in the absence of disease progression or unacceptable toxicity.
+
+After completion of study treatment, patients are followed up every 3 months for up to 52 weeks (1 year).

@@ -1,0 +1,9 @@
+Identifying MSI Status From ctDNA in Chinese Patients With Refractory Advanced Solid Tumors
+This is a molecular epidemiological investigation aiming to identify microsatellite instability status from circulating tumor DNA in Chinese patients with refractory advanced solid tumors.
+Solid Tumor
+DIAGNOSTIC_TEST: SPANOM (identifying MSI status from ctDNA)
+Incidence of MSI-H across different cancer types in Chinese patients, Two years
+Incidence of Lynch syndrome across different cancer types, Two years|Concordance between blood-MSI and corresponding tissue-MSI status, In patients who are able to provide tumor tissue samples, concordance between blood-MSI status by SPANOM technique and tissue-MSI status by polymerase chain reaction (PCR) method will be calculated.
+
+DNA extracted from each tumor tissue will be amplified by standard PCR using six microsatellite loci: NR-21, BA-26, NR-27, BA-25, NR-24, MONO-27. Tumors are designated MSI-H if more than two loci were instable, MSI-L if one locus is instable, and MSS if all loci are stable., Two years
+This study is conducted in Chinese patients with advanced refractory metastatic solid tumors. A total of 8-10 mL of blood will be collected from eligible patients and used for extracting circulating tumor DNA. Blood-MSI status will be tested based on SPANOM technique developed by 3D Medicines Inc. Shanghai, China. Patients are encouraged to provide tissues collected from progressive disease for tissue-MSI testing (not required for inclusion).

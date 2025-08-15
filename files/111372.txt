@@ -1,0 +1,13 @@
+Pharmacokinetics and Pharmacogenetics-based Adaptive Dosing of 5-fu (5-Fluorouracile) in Head & Neck Cancer Patient Undergoing Docetaxel, Cisplatin, 5-Fluorouracile (=TPF) Therapy
+Docetaxel, Cisplatin, 5-Fluorouracile (=TPF) is a mainstay for treating head and neck cancers, but elderly or fragile patients are often precluded because of the risk of severe toxicities associated with this protocol. DPD (Dihydro Pyrimidine Dehydrogenase) deficiency is a pharmacogenetic syndrome responsible for most of the severe/lethal toxicities showing in 5-FU (5-Fluorouracile)-treated patients, and our institute has developed a strategy for the routine determination of Dihydro Pyrimidine Dehydrogenase (DPD) status prior to starting giving the 5-FU so as to roughly adapt drug dosage according to the Dihydro Pyrimidine Dehydrogenase (DPD) status. This project aims at developing a Bayesian strategy to further individualize 5-FU dosing to reach a target exposure of area under curve (AUC). To this end, 100 patients with head and neck cancer and scheduled for a Docetaxel, Cisplatin, 5-Fluorouracile (=TPF) regimen will be included.
+Patients With Head and Neck Cancer (ORL)
+DRUG: Cisplatin|DRUG: Docetaxel|DRUG: 5-Fluorouracile
+Determination of 5-FU (5-Fluorouracile), Concentration of 5-FU in nanograms per milliliter. Circulating 5-FU will be quantified by immunoassay., 24 months|Toxicities, will be graded according to Common toxicity Criteria (CTC) 2.0 standards., 24 months
+Crop the plasma exposure of 5-FU (5-Fluorouracile) around a predefined target area under the curve 30 (AUC30) in patients with head and neck cancer treated with Docetaxel, Cisplatin, 5-Fluorouracile (=TPF) protocols and correlate adaptive Bayesian procedure to tolerability.
+
+* Develop a population die from a group of 20 patients for which a pharmacokinetic study will be carried out
+* Evaluate obtaining effective concentration of 5-FU in the context of a Docetaxel, Cisplatin, 5-Fluorouracile (=TPF) protocol adapted by the Bayesian procedure.
+* Compare recommendations in terms of dosage adjustment of Bayesian approach with the recommendations of a simplified graphical approach.
+* Test the measure of Dihydro Pyrimidine Dehydrogenase (DPD) activity Dihydrouracil/Uracile (UH2 / U ratio) as a co-variable adjustment of 5-Fluorouracile (5-FU) regimens in Pharmacogenomics/Pharmacokinetic (PGx / PK) model.
+* Evaluate a prototype of urinary dipsticks for the early detection of toxicity from the assay as a marker of Dihydro Pyrimidine Dehydrogenase (DPD) activity.
+* Assess the cost-benefit of dosage targeting, in terms of reduction resulting costs to the management of chemotherapy-induced toxicities.

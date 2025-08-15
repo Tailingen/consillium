@@ -1,0 +1,39 @@
+IMMUNOtherapy and Stereotactic ABlative Radiotherapy (IMMUNOSABR) a Phase II Study
+This will be a phase II trial testing if the combination of stereotactic ablative body radiotherapy (SABR) and L19-IL2 improve the progression-free survival in patients with limited metastatic non-small cell lung cancer (NSCLC). The trial consists of one cohort with two arms; C-arm and an E-arm.
+
+Patients with oligometastatic disease will receive SABR to minimal 1 and max all metastatic sites (max 5 sites irradiated) and patients with diffuse metastatic lesions (6 to max 10) will receive radiotherapy to max 5 sites. In the experimental arm, immunotherapy will be given after irradiation.
+NSCLC Stage IV|Metastatic Disease
+DRUG: Darleukin|RADIATION: Radiation
+Progression-free survival, The main objective of the trial is to test the hypothesis that the combination of (SAB)R and L19-IL2 in patients with metastatic NSCLC will resulting in improved progression-free survival (PFS) compared to the SOC., 18 months after randomization of the last patient
+Overall survival, Assesment of the overall survival of the patient cohort., 18 months after randomization of the last patient|Change in score of The EORTC quality of life questionnaire (QLQ) core module (C30), The EORTC QLQ assesses health-related QoL of cancer patients; it consists of 30 items and covers 9 domains + 6 single symptoms. There are 5 functional scales: physical, role functioning, cognitive, emotional, social; 3 symptom scales: fatigue, pain, nausea + vomiting; a global health and QoL scale, and 6 single items. Each item has four response alternatives: 1) not at all, 2) a little 3) quite a bit 4) very much (score 1-4 with range 3); except for the global health-status/quality of life scale, which has options ranging from 1) very poor to 7) excellent (score 1-7, range 6). Answers are combined into dimensions and scores are linearly transformed into a score of 0 to 100 according to the scoring manual of the EORTC QoL group. For functional and global QoL scales, higher scores mean better level of functioning. For symptom-oriented scales, a higher score means more severe symptoms. Scores are reported as mean and standard deviation. Scores will be used in multilevel-analysis., baseline and at 3, 6, 9, 12, 15, 18, 21, 24 months after treatment|Change in score of The EORTC quality of life questionnaire (QLQ) - Lung cancer module (LC13), The EORTC QLQ-LC13 The Lung Cancer Module is a supplementary questionnaire module to be employed in conjunction with the QLQ-C30. The QLQ-LC13 incorporates one multi-item scale to assess dyspnoea, and a series of single items assessing pain, coughing, sore mouth, dysphagia, peripheral neuropathy, alopecia, and haemoptysis. All items are scored 1 to 4, giving range = 3. After linear transformation scores range from 0 to100. A high score represents a high level of symptomatology or problems., baseline and at 3, 6, 9, 12, 15, 18, 21, 24 months after treatment|Change in score of The Euro Quality of Life - 5 dimensions - 5 levels (EQ-5D-5L), EQ-5D-5L is a standardized instrument developed by the EuroQol Group as a measure of general health-related quality of life that can be used in a wide range of health conditions and treatments. The descriptive system comprises five dimensions: mobility, self-care, usual activities, pain/discomfort and anxiety/depression. Each dimension has 5 levels: no problems, slight problems, moderate problems, severe problems and extreme problems (score 1-5). The scores for the five dimensions are combined into a 5-digit number that describes the patient's health state., baseline and at 3, 6, 9, 12, 15, 18, 21, 24 months after treatment|Change in score of The Euro Quality of Life (EQ) visual analogue scale (VAS), The EQ VAS records the patient's self-rated health on a vertical visual analogue scale from 0-100. This can be used as a quantitative measure of health outcome that reflects the patient's own judgement., baseline and at 3, 6, 9, 12, 15, 18, 21, 24 months after treatment|Change in out of field radio-immune (OFRI) response, To assess the occurrence of an out of field radio-immune (OFRI) response, with a scan. Assessment will be based on the RECIST criteria., at 3, 6, 9, 12, 15, 18, 21, 24 months after treatment|Immunoresponse blood biomarkers by enzyme-linked immunosorbent assay (ELISA), To perform correlative biomarker studies related to treatment response immunoresponse blood biomarkers will be measured: osteopontin (OPN), carbonic anhydrase IX (CA-IX)\], interleukin-6 (IL-6), interleukin-8 (IL-8), C-reactive protein (CRP), carcinoembryonic antigen (CEA), cytokeratin fragment 21-1 (Cyfra 21-1), alpha-2-macroglobulin (α2M), serum interleukin-2 receptor (sIL2r), toll-like receptor 4 (TLR4), vascular endothelial growth factor (VEGF), extradomain-B fibronectin (EDB). This part of the study is exploratory., baseline and at 3, 6 and 9 months after treatment
+IMMUNOSABR will include 126 patients. In this single-stage controlled randomised open-label phase II trial, we aim to demonstrate an absolute increase in progression-free survival (primary endpoint). PFS will be determined as the time between randomisation and disease progression, according to RECIST 1.1, death due to any cause or last patient contact alive and progression-free. Patients will be randomized between control (no immunocytokine) and experimental arms (with immunocytokine L19-IL2) in a 1:1 ratio. The accrual period will be 29 months (or 2.41 years), and the minimum follow-up will be 18 months (or 1.5 years), making the total study duration 47 months. Comparison between control and experimental arms will be made using the Log-Rank statistic. This test for superiority will be one-sided with the desired type I error of 0.10 and power of 0.90.
+
+Patients enrolled in the trial will be randomised into the control arm (C-arm) or experimental arm (E-arm).
+
+* C-arm: Standard of Care (SOC) according to the local and national guidelines: (wait and see or surgery and/or chemotherapy and/or standard (symptomatic) radiotherapy and/or SABR, oligometastatic disease.
+* E-arm: SABR (oligometastatic disease) or radiotherapy (diffuse disease) + L19-IL2 up to 6 cycles (+ aPD(L)1 if SOC)
+
+The expected 1.5-year PFS is 15% in the C-arm and 35% in the E-arm. A sample size of 116 patients (58 patients per treatment arm) is needed to show this difference of 20% in PFS, using a logrank test with a two-sided alpha of 0.05 and power of 85%. Patients will be evenly divided over the two arms. Assuming a drop-out rate of 10%, a total of 126 patients (63 per arm) need to be included.
+
+Primary objective The main objective of the trial is to test if the activity of the combination of (SAB)R and L19-IL2 in patients with metastatic NSCLC will result in improved progression-free survival (PFS) compared to the SOC.
+
+Secondary Objectives
+
+* Assessment of the PFS of the patient cohort, at 5 years after randomisation.
+* Assessment of the overall survival of the patient cohort, at 5 years after randomisation.
+* To assess the toxicity of this treatment schedule;
+* To assess Quality of Life (QoL);
+* To assess the occurrence of an Out of Field Radio-Immune (OFRI) response / abscopal effect using imaging;
+* To assess the occurrence of an In Field Radio-Immune (IFRI) response using imaging;
+* To perform correlative biomarker studies related to treatment response.
+
+Exploratory endpoints:
+
+* Correlative biomarker studies:
+
+  * Tumour tissue: e.g EDB expression, non-synonymous mutations, immune monitoring;
+  * Blood: e.g. EDB expression, cfDNA, and immune monitoring;
+  * Radiomics on CT and if available MRI;
+  * Faeces: diversity in microbiota.
+* iRECIST
+* Tumour grow kinetics

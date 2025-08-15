@@ -1,0 +1,18 @@
+Checklist Tool in Engaging Patients in the Discharge Planning Process
+This clinical trial studies how well a checklist tool works in engaging patients in the discharge planning process. Engaging patients in the discharge process may increase participation in the discharge process and improve discharge outcomes, understanding of care after hospitalization, and decrease complications.
+Hospitalization|Malignant Neoplasm|Transitional Care Planning
+OTHER: Communication Intervention|OTHER: Questionnaire Administration|OTHER: Survey Administration
+Average score from the PADQ-E, A simple analysis of variance (ANOVA) model with floor as a fixed blocking factor treatment (TEPID or no TEPID) as a fixed factor. Unit appears in the model as a nested factor within treatment, and statistical tests will be adjusted for this nesting structure. The main test of interest in each model is the overall effect of treatment, which quantifies the effect of TEPID on the average score for the response. P-values below 0.05 for this effect will be considered statistically significant., Up to 12 months|Average score from the Readiness for Hospital Discharge Scale, A simple ANOVA model with floor as a fixed blocking factor treatment (TEPID or no TEPID) as a fixed factor. Unit appears in the model as a nested factor within treatment, and statistical tests will be adjusted for this nesting structure. The main test of interest in each model is the overall effect of treatment, which quantifies the effect of TEPID on the average score for the response. P-values below 0.05 for this effect will be considered statistically significant., Up to 12 months|Emergency department visits, A generalized linear model will be used for the binary responses (readmission and ED visit)., Up to 12 months|Patient satisfaction as measured by the Press Ganey Consumer Assessment of Healthcare Providers and Systems Survey, A simple ANOVA model with floor as a fixed blocking factor treatment (TEPID or no TEPID) as a fixed factor. Unit appears in the model as a nested factor within treatment, and statistical tests will be adjusted for this nesting structure. The main test of interest in each model is the overall effect of treatment, which quantifies the effect of TEPID on the average score for the response. P-values below 0.05 for this effect will be considered statistically significant., Up to 12 months|Readmission rates, A generalized linear model will be used for the binary responses (readmission and ED visit)., Up to 12 months
+PRIMARY OBJECTIVES:
+
+I. Measure the impact on discharge and transition satisfaction of utilizing questions from the Consumer Assessment of Healthcare Providers and Systems (CHAPS) patient satisfaction survey.
+
+II. Measure the impact of the Tool to Engage Patients in Discharge (TEPID) on patient's Readiness for Hospital Discharge and Problems After Discharge Questionnaire-English (PADQ-E) results.
+
+III. Measure the impact on decreasing healthcare utilization measures: readmission rates within 30 days from hospital discharge, hospital length of stay of admission in hospital, and emergency department visits within 30 days of hospital discharge.
+
+OUTLINE:
+
+Patients complete the TEPID checklist of items during hospital stay.
+
+After completion of the study, patients are followed up for 35 days.

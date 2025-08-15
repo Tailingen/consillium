@@ -1,0 +1,146 @@
+Video Analysis of Errors and Technical Performance Within Minimally Invasive Surgery Short Title: Video Analysis in Minimally Invasive Surgery (VAMIS)
+Despite the high volumes, advanced minimally invasive surgery is non-standardised and variations often occur in surgical technique, performance, delivery, team communication, and surgical approach. Such variations can result in errors and complications that can potentially be avoided.
+
+This project aims to analyse surgical phases (stage of the operation), skill and errors to anonymised, surgical video data through Medtronic's Touch Surgery™ Enterprise DS1 Computer which can capture video data anonymously in any minimally invasive (key hole) procedure in the operating room, allowing immediate, upload of data to a platform for immediate feedback and assessment to surgeons. The investigators hypothesise that understanding technical performance and surgical processes, may reduce unwarranted variations, errors and near misses, and improve the performance of the entire surgical team that is ultimately hoped to enhance patient safety and outcomes. Investigators plan to develop assessment tools with the hope to improve feedback, learning and ultimately surgeons' performances. The latest methodology of manual (OCHRA) and automated assessment (artificial intelligence) will be applied. Investigators aim to validate these methods by correlating video "scores" of skill/errors to patient outcomes e.g. complications, cancer outcome.
+Prostate Cancer|Rectal Cancer
+OTHER: Video and kinematic data recording of minimally invasive surgical procedure
+Number of errors in an operation using validated methodology- Objective Clinical Human Reliability Analysis (OCHRA), Objective Clinical Human Reliability Analysis (OCHRA) methodology will be applied to video visual data to assess number, type and severity of errors within the operation., 2 years of video data will be recorded prospectively
+Secondary outcome measure- Age, Age (years), Up to 5 years, the normal time period of follow-up for cancer related outcomes|Secondary outcome measure- ASA grade, ASA grade I-V (internationally accepted anaesthetic risk score), Up to 2 years and 6 months, duration of the study|Secondary outcome measure -BMI, weight and height will be combined to report BMI in kg/m\^2, Up to 2 years and 6 months, duration of the study|Secondary outcome measure, neoadjuvant treatment (Type-chemotherapy/radiotherapy- Yes or No, Up to 2 years and 6 months, duration of the study|Secondary outcome measure, Total operating time (minutes), Up to 2 years and 6 months, duration of the study|Secondary outcome measure, Operative blood loss (millilitres), Up to 2 years and 6 months, duration of the study|Secondary outcome measure, Conversion to open surgery (binary- Yes or No), Up to 2 years and 6 months, duration of the study|Secondary outcome measure, length of post-operative stay (days), Up to 2 years and 6 months, duration of the study|Secondary outcome measure, 30-day readmission rate (Yes or No), Up to 2 years and 6 months, duration of the study|Secondary outcome measure, 30 day readmission reason (aetiology), Up to 2 years and 6 months, duration of the study|Secondary outcome measure, histolopathological outcomes (pTNM cancer staging), Up to 2 years and 6 months, duration of the study|Secondary outcome measure, Postoperative complications using Clavien-Dindo classification (1-5 scale of severity and necessary corrective action), Up to 2 years and 6 months, duration of the study|Secondary outcome measure, 30-day mortality (Yes or No), Up to 2 years and 6 months, duration of the study|Secondary outcome measure, All cause mortality (Yes or No), Up to 2 years and 6 months, duration of the study|Application of Machine learning and Artificial Intelligence to video analysis, Using AI and machine learning to identify surgical phases and errors based on kinematic and video data, or video data alone, Up to 2 years and 6 months, duration of the study
+There are 2.5 million people who have cancer in the UK, projected to increase to 4M by 2030. Over the past three decades, there has been a rapid uptake of minimally invasive (keyhole) surgery i.e. laparoscopic and robotic techniques, to treat cancer across different specialties. Robotic surgery is a well-established modality; the most commonly used robot for surgery (da Vinci) has been used in more than 8.5 million procedures, 1.25 million of which were in 2020.
+
+Previous research from our group developed valid methods to accurately assess surgical skill and errors in laparoscopic procedures using video analysis of rectal cancer surgery. The methods and tools developed were able to link surgeons' technical skill, including errors made, to patient outcome i.e. those who scored better had better outcomes. Investigators hypothesise that understanding and optimising surgical processes and errors will reduce unwarranted variations and improve the performance of the entire surgical team that is ultimately hoped to enhance patient safety and outcomes.
+
+With an increasing use of robotic systems across different specialties, there is an need to standardize training, assessment, testing and sign-off as a competent robotic surgeon in order to improve patient safety. A study from the 1990s estimated that more than 250,000 people die in the USA every year from medical error. Another study from the USA reported between 2000-2013 10,624 adverse events relating to robotic procedures. Experts raised concerns over surgical curricula being random and insufficient to ensure patient safety, leading to the development of EAU Robotic Urology Section Curriculum (ERUS). In addition, an independent review by the Emergency Care Research Institute (ECRI) on health technology hazards identified a lack of robotic surgical training as one of the top 10 risks to patients. Comparisons are frequently made between the aviation industry and surgery in terms of adverse event analysis and non-technical skills. The aviation industry, however, has mandatory, recurrent, reassessment and requalification throughout the career pathway and an internationally agreed standard for training, which robotic surgery does not.
+
+Our research group has a track record in developing objecting assessment tools to aid training and accredit laparoscopic surgery and will utilise this expertise to enrichen assessment tools in robotic surgery.
+
+Given the link between surgical skill and error counts to patient outcome, this research team aims to analyse surgical video within robotic surgery in different procedures to further understand the surgical process and errors made.
+
+Further understanding of these processes could enhance our knowledge and ability to provide meaningful feedback and accurately assess surgeons. This in turn, it is hoped, will enhance performance and improve patient outcomes.
+
+Aim This research project aims to assess robotic techniques for surgical phases and error detection that would permit the objective assessment of surgical performance, allowing the assessment of surgeon and procedure specific proficiency gain curves (learning curves) and identifying training needs.
+
+4.1 Objectives
+
+1. Develop a standardised and agreed segmentation of the operations (Delphi system)
+2. Video error analysis: Application of OCHRA into Robotic assisted radical prostatectomy
+3. Video error analysis: Application of OCHRA into robotic rectal cancer surgery (anterior resection TME)
+4. Validation of assessment tool scoring, video analysis to patient outcomes i.e., morbidity, histopathological data
+5. Development of formative assessment tools for generic and specific-procedures
+6. Video error analysis: Development, evaluation and application of automation and video error analysis (artificial intelligence and machine learning) in minimally-invasive surgery.
+7. Qualitative data review of surgeons' perception of TSE after using the platform.
+8. Qualitative data review of surgeons' perception of effect on learning curve.
+9. Analyse kinematic data to further understand its role in errors and skill in minimally-invasive surgery
+10. Development of summative assessment tools to aid certification and accreditation.
+
+    . Study design: Observational study collecting anonymised video data and uploaded to Touch Surgery platform.
+
+    Recruiting sites and Principal investigators: University College London Hospitals (Mr Ashwin Sridhar), Yeovil District Hospital NHS Foundation Trust (Professor Nader Francis), Queen Alexandra Hospital, Portsmouth (Professor Jim Khan), The Christie (Mr Chelliah Selvasekar) and Northwick Park \& St Marks Hospitals (Mr Danilo Miskovic).
+
+    Prospective data upload:
+
+    Patient identification: The local team will identify patients in clinic/multi disciplinary team meetings based on adherence to inclusion criteria. The patient will be approached by a GCP trained member of the research team ideally at least 24 hours after they have been informed about the study and have had time to read the patient information sheet provided in clinic or posted to them. If the team is only able to provide information on the day of surgery, considering video recording is standard and it doesn't affect their care, this would be deemed acceptable. Consent and information sheets will be kept short in order to minimise disruption to patient care.
+
+    Any surgeon willing to contribute their video data for analysis will be given access to the Touch Surgery Platform to review their own videos and annotate, these videos will also be added to a shared group with the clinical research team for analysis. The surgeon will be consented to allow their data to be analysed and results disseminated, which will be anonymised. If they wish, they can ask for analysis feedback.
+
+    Surgeons will be recruited by their local Principal Investigator at each site, who will be working closely with the research team at The Griffin Institute.
+
+    Data capture and analysis Surgical videos will be recorded via an encrypted hard drive or The Touch Surgery™ Enterprise DS1 Computer.
+
+    The Touch Surgery™ Enterprise DS1 Computer is connected to the operating room's video imaging system with a HDMI cable (or other compatible wired connectivity). A member of the operating room staff uses the Touch Surgery™ Enterprise DS1 Wireless Controller to select the procedure and surgeon name. A custom file name and notes can also be added, and users are prompted with a reminder not to input any patient personal information. Throughout the case, and whilst the recording is in process, the video passes through our AI-powered safeguard, RedactOR™, before it is saved to the Touch Surgery™ Enterprise DS1 Computer. RedactOR™ works on the video in real-time to determine when the scope has exited the patient. The algorithm then pixelates the video frames, and will continue to do so, until the scope re-enters the patient. All videos will be uploaded to TSE and therefore be processed through RedactOR™. This redaction is irreversible, thereby giving additional confidence that visual information that could identify a patient is transmitted, processed or stored. Upon direction by the authorised user, the video is uploaded from the Touch Surgery™ Enterprise DS1 Computer to our secure cloud provided by Amazon Web Services (AWS). AWS complies with ISO 9001, ISO 27001, ISO 27017, and ISO 27018, and audited against HDS (France).
+
+    Touch SurgeryTM Enterprise DS1 Computer will record, process and provide analytics on video recordings of minimal-access surgical procedures. These are recorded through the standard operating stack and require no additional steps or changes to standard care. Currently, procedures are routinely recorded in the operating room for training purposes to allow review and debrief after a procedure or to evaluate where improvements could be made.
+
+    The dVLogger box additional records endoscope video in stereo and robotic movement data. No audio will be recorded. This data is collected by an encrypted hard drive and used by WEISS who will anonymise the data sent to Intuitive Surgical Inc. WEISS will have access to the study ID to link analysis to patient data, Intuitive will not.
+
+    This research team does not anticipate that there will be any new material ethical issues associated with the recording system and surgical video feed.
+
+    Operative steps will be closely analysed using this software, applying machine learning and OCHRA methodology techniques to identify phases and errors of minimally-invasive surgical operations.
+
+    Researchers trained in these methodologies will be observing and analysing the data. Data upload to TSE will be anonymised with no patient identifiable data, but the clinical research team will pseudonymise patient data and outcomes including demography, identifiers to follow up outcome, surgeons' grade/level of expertise. Video editing software will be used to annotate and highlight surgical video data to categorise phases and errors.
+
+    STUDY SETTING Data will be collected at multiple centres that have the capability to capture minimally-invasive surgery videos in the following procedures initially: patients undergoing a robotic-assisted cancer procedures including prostatectomy, cystectomy and anterior resection (rectal cancer operation). Patients will be approached during the consent process at participating research sites: University College London Hospitals, Queen Alexandra Hospital (Portsmouth), The Christie (Manchester) Northwick Park \& St Mark's Hospitals and Yeovil District Hospital NHS Foundation Trust. However, it will expand to any NHS site performing minimally-invasive surgery and willing to participate.
+
+    It is appropriate to have multiple sites, as this will provide the most data and ensure a richer data set to address the research objectives Site requirements; to perform minimally-invasive surgery and have video capturing devices installed.
+
+    Data will be collected at each site and analysed by the clinical research team.
+
+    Sampling including size of sample
+
+    Sampling will be from a clinical setting during the consent process.
+
+    Participant number:
+
+    This project requires uploading a large number of video recorded cases in order to conduct the research and achieve all the primary and secondary end points.
+
+    The type of cases will vary from generic laparoscopic procedures that will aid development initial phases of the project such as segmentation, to more advanced procedure segmentation e.g. Robotic prostatectomy and robotic rectal cancer surgery.
+
+    Since OCHRA was applied extensively in laparoscopic rectal cancer surgery, a comparison will also be made with robotic, hence, video recording of laparoscopic colorectal cases will be required. In order to achieve this number investigators will partner with a number of hospitals including Yeovil District Hospital NHS Foundation Trusts, University College London Hospitals, Queen Alexandra Hospital (Portsmouth), The Christie (Manchester) and Northwick Park \& St Marks Hospital.
+
+    There is no formal power calculation in this study but investigators aim to record as many procedures as possible within the time frame of the project and with a maximum 250 from each centre.
+
+    The researchers aim to conduct full OCHRA analysis including error annotation up to 50 videos per specialty.
+
+    7.3 Recruitment Patients at sites contributing to video analysis will be identified before surgery and consented using a standardised form and information leaflet.
+
+    Patients will be identified and clinic or multidisciplinary team meetings and approached by the local research team by a GCP trained healthcare professional. They will explain the study and provide a patient information sheet which they can read at home. Over 24 hours after the first approach they will then be asked if they would consent to the study, this would be easily done on the day of the operation, using a separate consent form to the procedure consent form.
+
+    There is minimal risk of coercion as it is a low risk, observational study, with no intervention or change to standard care.
+
+    7.3.1 Sample identification Healthcare professionals such as doctors, clinical nurse specialists or research nurses can identify patients who may be eligible for the study. Similarly, if trained appropriately, any of the above could take consent as it is low risk. If any healthcare professional not involved in the study is asked questions about it, they could let the research team know to contact the patient.
+
+    Patients will be identified before surgery and will be provided with a patient information sheet and consented using a standardised form stating that the data will be anonymised and used for video analysis only. Clinical data and patient participants will be pseudonymized with a unique study identification number. Study ID numbers will be assigned with a local trust code e.g. UCL-001 and in order of upload to Touch Surgery, there is no need to randomise the numbers.
+
+    There will be no advertisements or external recruitment, patients will only be approached if they are undergoing a minimally-invasive surgical procedure and have capacity and time to consent. A Participant Information Sheet will be provided to the identified patient to describe the study and what their involvement means explaining they can withdraw at any time, that it is anonymous and investigators believe ultimately through their involvement they will improve patient care through improving knowledge of surgical skill.
+
+    7.3.2 Consent Patient consent will be informed and at the same time of procedure consent, as all ethical concerns that could be associated with the study have been addressed, and due to the standard of routine recording surgeries in the participating sites.
+
+    Participants will be allowed to ask questions, withdraw without reason at any time and it will not affect their care.
+
+    Research entry and consent would take place at the same time as procedure consent. The use of translators (friends/relatives or professional services) would be at the discretion of the PI or co-investigator taking consent. Research entry is not possible without informed written consent.
+
+    Where possible, translation for the PIS and consent form will be provided through the Trust translational services. If it is not available or there is not enough time pre-operatively, non-English speakers will be excluded from the study if they do not have the fluency to read \& comprehend PIS and ICF.
+
+    ETHICAL AND REGULATORY CONSIDERATIONS Patient confidentiality Patient confidentiality will be maintained. Surgical videos will be stored securely on Touch SurgeryTM Enterprise (TSE; https://www.touchsurgery.com/). No patient identifying information will be attached to the videos that are uploaded to the Touch SurgeryTM Enterprise platform, which will be monitored at the point of capture, using a real-time safeguarding algorithm, to ensure confidentiality. No audio is collected to maintain confidentiality. Clinical data will be collected and accessed by only the clinical research team, who all have employment or honorary contracts at the clinical sites. All clinical data will be kept on NHS password-protected computers, on a password-protected Microsoft Excel spreadsheet on Trust premises, accessible only by the clinical research team. Digital Surgery Ltd team cannot access clinical data and patient participants will be assigned with a unique study identification number, so the identity of the patient is not known to them, to preserve patient confidentiality.
+
+    The data from dVLogger data sent to Intuitive is anonymised and sent on an encrypted hard drive.
+
+    Data protection To capture the surgical videos, a video cable non-intrusively connects the standard video outputs of the surgical video monitor, surgical robotic device, or stack into the Touch SurgeryTM Enterprise encrypted computing equipment, the DS1. The DS1 is not a medical device. The DS1 runs Digital Surgery Limited's proprietary, in-situ AI safeguarding algorithm (RedactOR™), which redacts, via automatic pixelation, out-of-body surgical video footage, to remove identifiable personal data, in real-time. The encrypted computing equipment then transfers the anonymised videos to Touch SurgeryTM Enterprise platform; built upon a secure cloud server provided by Amazon Web Services in Europe, operated by Digital Surgery Limited. All anonymised data handling will be performed by designated, trained members of the clinical research team at TGI and technical research team at Digital Surgery Limited. All clinical data handling will be performed only by designated, trained members of the clinical team at The Griffin Institute. Digital Surgery Limited products and services (Touch Surgery ™ Enterprise) are compliant with the General Data Protection Regulation of 2018 (GDPR) and UK Data Protection Act of 2018 (UK GDPR).
+
+    The data custodian will be the Chief Investigator Professor Nader Francis. Personal data will be stored in line with respective trust data retention standard procedures. This will remain for up to 5 years.
+
+    Potential risks Investigators expect no difference between those patients in the trial or not. All patients require the operation as part of their routine care and this study does not alter the way the surgeon performs the case in any way, routinely surgeons will record operations, there is no change to standard care nor are additional patient visits required. Any potential risk to patient confidentiality has been addressed and sufficiently mitigated by the study protocol. There are no additional risks to the staff as part of this study. It will not impact surgical rotas; theatre lists or scheduled operations.
+
+    The only possible potential risk with this study is identification of significant errors on the video analysis that are not detected by the operating team and therefore no corrective action taken. However, the nature of this project involves reviewing the videos a significant period of time after the operation. Any sequelae from this event would have been apparent in the post operative period well before video analysis is conducted. If there are any learning points, however, these will be communicated with the PI at each site.
+
+    Potential benefits Researchers hypothesise that understanding and optimising surgical processes, and errors will reduce unwarranted variations and improve the performance of the entire surgical team that will ultimately enhance the patient's surgery and outcomes. It is noted that there is no direct benefit to the individual patient taking part other than potentially helping to improve the safety of standard routine surgical procedures in future operations.
+
+    Researchers hope that this technology will be used to improve surgical training and preparation of the entire operating theatre team and optimise performance and standardisation. It is hypothesised that the implementation of this technology may benefit patients by reducing surgical variations and errors and may also enable monitoring and assessment of surgical competence based on reliable, actionable data.
+
+    If patient loses capacity to consent during study If the patient loses capacity before consent then they will not be invited to participate (in accordance with inclusion criteria). If they are suspected of losing capacity afterwards then the participant will remain in the study at the clinician's discretion as this is an observational study will no unremediated risks.
+
+    Physical security arrangements for storage of personal data Videos will be in electronic format and retained in encrypted storage. Procedural data will be directly uploaded from the device to a secure cloud server provided by AWS (Ireland, Europe), which is GDPR compliant. AWS will be used to store all media and data, which conforms to the ISO 27001 security management standard and is a member of the Cloud Security Alliance. Any transfer between the study sites would be in encrypted storage formats or through a secured internet connection.
+
+    Data from the video recordings of surgery will be extracted, transferred and analysed using computerised software based at Digital Surgery Ltd. in London, UK. No patient data will be shared with Digital Surgery Limited in the duration of this study. Only Yeovil District Hospital NHS Foundation Trust/TGI (restricted to the clinical research team) will access and retain identifiable information such as study files. Yeovil District Hospital NHS Foundation Trust will only collect the minimum required information for the purposes of the study.
+
+    Recruitment Arrangements and informed Consent Following informed consent to participate, the study patient participants will be assigned with a unique study identification number. This identifier is pseudo anonymised to the clinical research team. Patient consent forms will be securely stored in locked cupboards and password protected NHS equipment, NHS sites, with access restricted to the only authorised members of the clinical research team.
+
+    How will researchers ensure the confidentiality of personal data? / Who will have access to participants' personal data during the study? The surgical video and associated metadata on Touch SurgeryTM Enterprise cannot identify the participant. Participant personal data (any data that may identify a participant) is not necessary for the service Touch SurgeryTM Enterprise provides to the study site.
+
+    Only the clinical research team has access to identifiable information about the participant. Access restrictions are in place to mitigate any risk to confidentiality of participant personal data.
+
+    Data will be used, stored and transferred in an encrypted format, and handled in accordance with the UK Data Protection Act of 2018 (UK GDPR).
+
+    Where will the data generated by the study be analysed and by whom? Data generated will be analysed by the clinical research team. Only anonymised data will be transferred to Touch SurgeryTM Enterprise (UK) and analysed by authorised members of the Digital Surgery Limited team for the purpose of the study, to identify key markers such as surgical phases and associated variations.
+
+    Intuitive Surgical Inc. will receive anonymised data from the dVLogger via an encrypted hard drive.
+
+    Pseudonymised data will be analysed by the research team at TGI and WEISS. This will be stored on secure servers with access limited to the team.
+
+    Based on previous similar uses of OCHRA errors in colonic surgery, error count results are expected to be normally distributed (however, this will be confirmed using detrended QQ statistical plots prior to analysis). Task and type specific error counts can be compared with Mann-Whitney U test.
+
+    OCHRA as previously described is a validated methodology to manually, accurately and reliably assess errors in a minimally invasive procedure. Data from this can then be statistically analysed and linked to patient data including demography and outcome Digital Surgery data science team will be involved in video analysis through analytic reporting.
+
+    Qualitative questionnaires will be used at the end of the study to evaluate surgeons' opinion and gain insights on the use of surgical video and novel analytics. This will be done using thematic analysis.
+
+    SPSS will be used for all data analysis.

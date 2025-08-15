@@ -1,0 +1,37 @@
+Genetically Modified Neural Stem Cells, Flucytosine, and Leucovorin for Treating Patients With Recurrent High-Grade Gliomas
+This phase I trial studies the side effects and determines the best dose of genetically modified neural stem cells and flucytosine when given together with leucovorin for treating patients with recurrent high-grade gliomas. Neural stem cells can travel to sites of tumor in the brain. The neural stem cells that are being used in this study were genetically modified express the enzyme cytosine deaminase (CD), which converts the prodrug flucytosine (5-FC) into the chemotherapy agent 5-fluorouracil (5-FU). Leucovorin may help 5-FU kill more tumor cells. The CD-expressing neural stem cells are administered directly into the brain. After giving the neural stem cells a few days to spread out and migrate to tumor cells, research participants take a 7 day course of oral 5-FC. (Depending on when a research participant enters the study, they may also be given leucovorin to take with the 5-FC.) When the 5-FC crosses into brain, the neural stem cells convert it into 5-FU, which diffuses out of the neural stem cells to preferentially kill rapidly dividing tumor cells while minimizing toxicity to healthy tissues. A Rickham catheter, placed at the time of surgery, will be used to administer additional doses of NSCs every two weeks, followed each time by a 7 day course of oral 5-FC (and possibly leucovorin). This neural stem cell-based anti-cancer strategy may be an effective treatment for high-grade gliomas.
+
+Funding Source - FDA OOPD
+Adult Anaplastic Astrocytoma|Adult Anaplastic Oligodendroglioma|Adult Giant Cell Glioblastoma|Adult Glioblastoma|Adult Gliosarcoma|Recurrent Adult Brain Tumor|Anaplastic Oligoastrocytoma
+BIOLOGICAL: E. coli CD-expressing genetically modified neural stem cells|DRUG: flucytosine|DRUG: leucovorin calcium|OTHER: pharmacological study|OTHER: laboratory biomarker analysis
+Number of Participants With Dose Limiting Toxicities (DLTs) and Maximum Tolerated Dose (MTD), Number of DLTs per dose level and the MTD/MFD., Day 28 of course 1|Number of Participants With Mechanical Issues With Repeat Administrations of NSCs Via Rickham, Number of participants with mechanical issues with repeat administrations of NSCs via Rickham., 28 days after last infusion of NSCs, up to 6 months total
+Number of Participants Developing Antibodies Against NSCs, Development of a antibody response to the NSCs will be evaluated by flow cytometry. Data from assessing for possible development of NSC immunogenicity with repeat exposure will be presented in an exploratory fashion using descriptive statistics., While receiving treatment, up to 6 months.|Average Steady State Levels of 5-FC and 5-FU in the Brain, Pharmacokinetic (PK) data from the patients who undergo intracerebral microdialysis (dose level 4) will be summarized using descriptive statistics. All summaries will be exploratory in spirit., Following the first dose of 5-FC, samples were collected every hour for 24 hours and then every 3 hours thereafter until the end of the 7-day course of 5-FC or until the microdialysis catheter stopped functioning.|Average Steady State Levels of 5-FC Concentrations in Plasma, PK data from the patients who undergo intracerebral microdialysis (dose level 4) will be summarized using descriptive statistics., Samples were obtained prior to the first dose of 5-FC then every 30 minutes for 3 hours, additional samples at 4 and 6 hours after the morning doses on days 4, 5. On days 6, 7, 8 blood samples were collected just before morning dose and 90 minutes later|Comparison of 5-FC in the Brain to 5-FC in the Plasma, PK data from the patients who undergo intracerebral microdialysis (dose level 4) will be summarized using the mean ratio of average brain interstitial 5-FC concentrations to the average steady-state plasma levels., The ratio of average brain interstitial 5-FC and 5-FU concentrations to average plasma steady-state levels was calculated using all measured data.|Summary of Tumor Response Using the Response Assessment in Neuro-Oncology (RANO) Criteria, Per RANO criteria:
+
+Complete Response (CR): Complete disappearance of all enhancing disease that is sustained for at least 4 weeks, stable or improved non-enhancing FLAIR/T2 lesions, no new lesions, off corticosteroids, and neurologically stable or improved.
+
+Partial Response (PR): \>= 50% decrease of all measurable enhancing lesions, sustained or at least 4 weeks, no progression of non-measurable disease, stable or improved non-enhancing FLAIR/T2 lesions, non new lesions, corticosteroid dose stable or reduced, and neurologically stable or improved.
+
+Stable Disease (SD): Dose not qualify for CR, PR, or PD, stable non-enhancing FLAIR/T2 lesions, stable or reduced corticosteroids, clinically stable.
+
+Progressive Disease (PD): \>=25% increase in enhancing lesion despite stable or increasing steroid dose, increase (significant) in non-enhancing T2/FLAIR lesions that is not attributable to other non-tumor causes, any new lesions, clinical deterioration, Up to 3 years post NSC infusion
+PRIMARY OBJECTIVES:
+
+I. To define the phase II recommended dose of intracerebrally administered cytosine deaminase (CD)-expressing neural stem cells (NSCs) in combination with oral 5-fluorocytosine (FC) (flucytosine) and leucovorin.
+
+II. To determine the feasibility of treating study patients with more than 1 dose of NSCs followed by 7-day courses of 5-FC and leucovorin.
+
+SECONDARY OBJECTIVES:
+
+I. To assess for possible development of NSC immunogenicity (anti-NSC T cell and/or antibody response) with repeat doses of NSCs.
+
+II. To characterize the relationship between intracerebral and systemic concentrations of 5-FC and 5-FU at the maximum tolerated dose/maximum feasible dose level.
+
+III. To describe the clinical benefit (defined as stable disease, partial response, or complete response) of this treatment regimen.
+
+IV. To determine, at time of autopsy, the fate of the NSCs.
+
+OUTLINE: This is dose-escalation study of CD-expressing genetically modified neural stem cells and flucytosine.
+
+Patients receive CD-expressing neural stem cells intracranially (IC) on days 1 and 15 and flucytosine orally (PO) every 6 hours on days 4-10 and 18-24. Depending on when a subject enters the study, they may also be given leucovorin orally every 6 hours on days 4-10 and 18-24. Courses repeat every 28 days in the absence of disease progression or unacceptable toxicity.
+
+After completion of study treatment, patients are followed at 30 days, 3 months, 6 months, 1 year, and then annually thereafter.

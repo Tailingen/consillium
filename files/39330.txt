@@ -1,0 +1,87 @@
+T Cells Expressing Fully-human Anti-CD19 and Anti-CD20 Chimeric Antigen Receptors for Treating B-cell Malignancies and Hodgkin Lymphoma
+Background:
+
+-Cluster of differentiation 19 (CD19) and cluster of differentiation 20 (CD20) are often found on certain cancer cells. Researchers think that a person's T cells can be modified in a lab to kill cells that have CD19 and CD20 on the surface.
+
+Objective:
+
+-To see if it is safe to give anti-CD19 and anti-CD20 CAR T cells to people with a B cell cancer or Hodgkin lymphoma.
+
+Eligibility:
+
+-People ages 18 and older with a B cell cancer or Hodgkin lymphoma that has not been controlled with standard therapies
+
+Design:
+
+* Participants will be screened under protocol 01C0129 with:
+* Medical history
+* Physical exam
+* Blood and heart tests
+* Bone marrow biopsy: A needle is inserted into the participant's hip bone to remove a small amount of marrow.
+
+Scans
+
+* Participants will have apheresis: Blood will be removed through a vein. The blood with circulate through a machine that removes the T cells. The rest of the blood will be returned to the participant.
+* Once a day for 3 days before they get the T cells, participants will receive chemotherapy through a vein.
+* Participants will receive the T cells through a vein. They will stay in the hospital for at least 9 days.
+* Participants may have a lumbar puncture: A needle will remove fluid from the spinal cord.
+* Participants may have a tumor biopsy.
+* Participants will repeat the screening tests throughout the study.
+* Participants will have follow-up visits 2 weeks after infusion; monthly for 4 months; at 6, 9, and 12 months; every 6 months for 3 years; and then annually for 5 years. Participants will then be contacted annually for 15 years.
+Lymphoma, B-Cell|Lymphoma, Non-hodgkins|Chronic Lymphocytic Leukemia|B-Cell Chronic Lymphocytic Leukemia
+BIOLOGICAL: Anti-cluster of differentiation 19 (CD19)-Chimeric Antigen Receptors (CAR) and Anti-cluster of differentiation 20 (CD20)-CAR T cells|DRUG: Cyclophosphamide|DRUG: Fludarabine
+Number of Participants Administered T Cells Expressing a Novel Fully- Human Anti-cluster of Differentiation 19 (CD19) and Anti-cluster of Differentiation 20 (CD20) Chimeric Antigen Receptors (CAR) Who Experienced a Dose-limiting Toxicity (DLT), A DLT are defined as toxicities assessed by the Common Terminology Criteria for Adverse Events v5.0 that are possibly, probably, or definitely attributable to protocol interventions and occurring between the first protocol treatment through 28 days after the CAR T-cell infusion., First protocol treatment through 28 days after the CAR T-cell infusion.
+Percentage of Peak Blood Chimeric Antigen Receptors (CAR) T Cells, We measured CAR T-cell persistence by detecting the CAR gene in peripheral blood mononuclear cells (PBMC) by polymerase chain reaction (PCR)., 119 days after CAR T-cell infusion|Percentage of Peripheral Blood Mononuclear Cells (PBMC) of Chimeric Antigen Receptors (CAR) T Cells, Peak blood levels of Chimeric Antigen Receptors (CAR) T cells were measured by exact Wilcoxon rank sum test., pretreatment and multiple days from day 1 to day 173 after infusion.|Number of Participants With Clinical Response, Response for lymphoma was assessed by the Revised Response Criteria for Malignant Lymphoma and The Lugano Classification. Complete Remission (CR) is complete disappearance of all detectable clinical evidence of disease. Partial Remission (PR) is ≥ 50% decrease in nodes or masses. Progressive Disease (PD) is Response ≥ 50% increase in a single node. Stable Disease (SD) is neither sufficient shrinkage to qualify for PR nor PD. For participants with Chronic Lymphocytic Leukemia (CLL),response was assessed by the International Workshop on CLL. CR is no lymph nodes ≥ 1.5 cm on physical exam or relevant computed tomography. PR is a ≥ 50% decrease in peripheral B lymphocyte count from pre-treatment value. PD is a ≥ 50% increase in the greatest diameter of any lymph node that was enlarged pretreatment. And SD are participants who do not fulfill the criteria for CR, PR or PD., Approximately 1 year 5 months|Last Time-Point at Which Chimeric Antigen Receptors (CAR) T Cells Were Detected in the Blood, Chimeric Antigen Receptors (CAR) T cell persistence was measured in the blood by quantitative polymerase chain reaction (PCR). CAR T cells that are detected in the participant's blood that persist for a significant length of time is a positive finding., 119 days after CAR T-cell infusion
+Number of Participants With Serious and Non-serious Adverse Events Assessed by the Common Terminology Criteria for Adverse Events (CTCAE v5.0), Here is the number of participants with serious and non-serious adverse events assessed by the Common Terminology Criteria for Adverse Events (CTCAE v5.0). A non-serious adverse event is any untoward medical occurrence. A serious adverse event is an adverse event or suspected adverse reaction that results in death, a life-threatening adverse drug experience, hospitalization, disruption of the ability to conduct normal life functions, congenital anomaly/birth defect or important medical events that jeopardize the patient or subject and may require medical or surgical intervention to prevent one of the previous outcomes mentioned., Date treatment consent signed to date off study, approximately 7 months and 18 days.|Maximum Tolerated Dose (MTD) of Chimeric Antigen Receptors (CAR) T Cells, The maximum tolerated dose is the dose at which a maximum of 1 of 6 participants has a dose-limiting toxicity (DLT). A DLT are defined as toxicities that are possibly, probably, or definitely attributable to protocol interventions and occurring between the first protocol treatment through 28 days after the CAR T-cell infusion., First protocol treatment through 28 days after the CAR T-cell infusion.
+Background:
+
+* Improved treatments for a variety of treatment-resistant malignancies including B-cell lymphomas, and chronic lymphocytic leukemia (CLL) and Hodgkin lymphoma are needed.
+* A particular need is development of new treatments for chemotherapy-refractory B-cell malignancies.
+* T cells can be genetically modified to express chimeric antigen receptors (CARs) that specifically target malignancy-associated antigens.
+* Autologous T cells genetically modified to express CARs targeting the B-cell antigen CD19 have caused complete remissions in patients with leukemia or lymphoma. These results have established anti-cluster of differentiation 19 (CD19) CAR T cells as an important therapy for relapsed lymphoma, but only about 40% of patients receiving anti-CD19 CAR T cells have durable complete remissions.
+* Most B-cell malignancies express CD19 and cluster of differentiation 20 (CD20), but expression of CD19 and CD20 can be lost or diminished.
+* The malignant cells of Hodgkin lymphoma, Hodgkin Reed-Sternberg cells, originate from B cells, which is the rationale for treating Hodgkin lymphoma with T cells targeting CD19 and CD20.
+* CD19 and CD20 are not expressed by normal cells except for B cells and some plasma cells.
+* We have constructed a novel gene therapy construct that encodes a fully-human anti-CD19 CAR with a cluster of differentiation 28 (CD28) domain and a fully-human anti-CD20 CAR with a 4-1BB (cluster of differentiation 37) domain.
+* T cells expressing this CAR construct, called Hu1928-Hu20BB, can specifically recognize CD19 and CD20-expressing target cells in vitro and eradicate CD19 or CD20-expressing tumors in mice.
+* One CAR expressed in this CAR construct, Hu19-CD828Z has been tested in humans before. The other CAR in the total construct, Hu20-CD8BBZ, has not been tested in humans before.
+* Possible toxicities include cytokine-associated toxicities such as fever, hypotension, and neurological toxicities. Elimination of normal B cells is probable, and unknown toxicities are also possible.
+
+Objectives:
+
+Primary
+
+-Determine the safety and feasibility of administering T cells expressing a novel fully-human anti- CD19 and anti-CD20 CAR construct to patients with advanced B-cell malignancies and Hodgkin lymphoma.
+
+Exploratory
+
+* Evaluate serum cytokine levels and associations with anti-malignancy efficacy and toxicity
+* Evaluate clinical predictors of anti-lymphoma responses and toxicity.
+* Evaluate phenotype of infused CAR T cells and CAR T cells from the blood of patients.
+
+Eligibility:
+
+* Patients must have any B-cell lymphoma, or CLL/small lymphocytic lymphoma (SLL), Gray-zone lymphoma, nodular lymphocyte-predominance Hodgkin lymphoma, or classical Hodgkin lymphoma with any CD19 or CD20 expression on Reed-Sternberg cells. Lower grade lymphomas transformed to diffuse large B-cell lymphoma (DLBCL) are potentially eligible as is primary mediastinal B-cell lymphoma and all other subtypes of DLBCL. Burkitt and mantle cell lymphoma are potentially eligible.
+* Patients must have malignancy that is measurable on a computed tomography (CT) scan or by flow cytometry of bone marrow or blood.
+* Patients must have a creatinine of 1.5 mg/dL or less and a normal cardiac ejection fraction.
+* An Eastern Cooperative Oncology Group (ECOG) performance status of 0-1 is required.
+* No active infections are allowed including hepatitis B or hepatitis C.
+* Absolute neutrophil count\>=1000/mL, platelet count\>=50,000/mL, hemoglobin\>=8g/dL
+* Serum alanine aminotransferase (ALT) and aspartate aminotransferase (AST) less or equal to 3 times the upper limit of the institutional normal unless liver involvement by malignancy is demonstrated.
+* At least 14 days must elapse between the time of any prior systemic treatment (including corticosteroids) and protocol-required leukapheresis or CAR T-cell infusion. Thirty days must elapse from therapy with antibodies targeting CD19 or CD20 and CAR T-cell infusion.
+* The patient's malignancy will need to be assessed for CD19 and C20 expression by flow cytometry or immunohistochemistry performed at the National Institutes of Health (NIH). If unstained, paraffin-embedded bone marrow or lymphoma tissue sections are available from prior biopsies, these can be used to determine CD19 and CD20 expression by immunohistochemistry; otherwise, patients will need to come to the NIH for a biopsy to determine CD19 and CD20 expression. The sample for CD19 and CD20 expression must come from a biopsy obtained after any CD19 or CD20-targeted therapies such as monoclonal antibodies if such antibodies or CAR T-cell therapies have been received by the patient.
+* For classical Hodgkin lymphoma only, a biopsy from any time from any institution that shows any CD19 or CD20 expression on Reed-Sternberg cells is adequate for eligibility. CD19 or CD20 expression on the Reed-Sternberg cells that is weak or only present on some Reed-Sternberg cells by immunohistochemistry is compatible with protocol eligibility.
+* For all lymphoma types except for classical Hodgkin lymphoma, either CD19 or CD20 expression must be uniform. Uniform CD19 or CD20 expression is defined as no obvious lymphoma population lacking antigen expression can be present. Antigen expression can be assessed by either immunohistochemistry or flow cytometry.
+
+Design:
+
+* This is a phase I dose-escalation trial
+* Patients will undergo leukapheresis
+* T-cells obtained by leukapheresis will be genetically modified to express the Hu1928-Hu20BB CAR construct.
+* Patients will receive a lymphocyte-depleting chemotherapy conditioning regimen with the intent of enhancing the activity of the infused CAR-expressing T cells.
+* The chemotherapy conditioning regimen is cyclophosphamide 500 mg/m squared daily for 3 days and fludarabine 30 mg/m squared daily for 3 days. Fludarabine will be given on the same days as the cyclophosphamide.
+* Two days after the chemotherapy ends, patients will receive an infusion of anti-CAR-expressing T cells.
+* The initial dose level of this dose-escalation trial will be 0.66x10\^6 CAR+ T cells/kg of recipient bodyweight.
+* The cell dose administered will be escalated until a maximum tolerated dose is determined.
+* Following the T-cell infusion, there is a mandatory 9-day inpatient hospitalization to monitor for toxicity.
+* Outpatient follow-up is planned for 2 weeks, 16 days (neurologic checks), 21 days (neurologic checks) and 1, 2, 3, 4, 6, 9, and 12 months after the CAR T- cell infusion; less frequent follow-up is required more than 1 year after infusion. Long-term gene-therapy follow-up for a total of 15 years after infusion is required.

@@ -1,0 +1,44 @@
+Effect of Cyclosporine Therapy on Gene Expression in Patients With Large Granular Lymphocyte Leukemia
+Background:
+
+* Large granular lymphocyte (LGL) leukemia is a low-grade non-Hodgkin's lymphoma.
+* LGL is associated with low numbers of white blood cells (leading to recurring infections), red blood cells (causing anemia) and platelets (causing abnormal bleeding).
+* Cyclosporine (CSA) is an immunosuppressive drug that improves low blood cell counts in about 50 percent of patients with LGL leukemia.
+
+Objectives:
+
+* To identify what factors determine why cyclosporine works in some patients and not in others.
+* To identify what causes low blood counts in LGL leukemia.
+
+Eligibility: Patients 18 years of age and older with LGL leukemia.
+
+Design:
+
+* Patients have a medical history, physical examination blood tests, bone marrow biopsy and x-ray studies, including chest x-rays and computed tomography (CT) scans of the chest, abdomen and pelvis. Patients with an easily accessible enlarged lymph node have a node biopsy (removal of a small piece of tissue for microscopic examination).
+* Patients take cyclosporine twice a day by mouth. Blood samples are taken at least weekly to adjust the cyclosporine dosing to maintain therapeutic serum levels.
+* Patients undergo apheresis (collection of white blood cells) at a number of different time points in the study (maximum 6 times) to look at the differences in the leukemia cells before and during treatment with cyclosporine. For apheresis, blood is withdrawn through a needle in an arm vein and directed through a catheter (plastic tube) into a machine that separates it into its components. The white cells are extracted and the rest of the blood is returned through the same needle or through a second needle in the other arm.
+Large Granular Lymphocytic Leukemia|LGL Leukemia
+DRUG: Cyclosporine|GENETIC: Gene expression analysis|GENETIC: Microarray analysis|OTHER: Laboratory biomarker analysis
+Changes in Gene Expression Patterns, The goal was to examine which genes had a 2-fold gene expression between pre-treatment (baseline) and post treatment (12 weeks). Genes significant at the 0.001 level will be considered as differentially expressed due to treatment., Baseline and 12 weeks
+Number of Participants With Adverse Events, Here are the number of participants with adverse events. For the detailed list of adverse events see the adverse event module., 3 months
+Background:
+
+* LGL leukemia is a low grade non-Hodgkins Lymphoma characterized by tissue invasion of the marrow, spleen and liver
+* Recurrent infections due to chronic neutropenia and transfusion-dependent anemia are the principal causes for initiation of therapy
+* Approximately 50% of patients treated with cyclosporine (CSA) respond to treatment. CSA appears to correct the associated cytopenia without decreasing LGL numbers, suggesting it may inhibit LGL secretion of yet unidentified mediators of neutropenia and anemia.
+* Analysis of differential gene expression profiles in patients with LGL leukemia treated with cyclosporine has the potential to detect as yet unidentified, therapeutic targets and possibly provide predictors of CSA responsiveness.
+
+Objective:
+
+* Identify changes in gene expression patterns induced by cyclosporine therapy in patients with LGL leukemia
+* Identify differences between responding and non-responding patients
+
+Eligibility:
+
+-Patients with Large Granular Lymphocyte leukemia
+
+Design:
+
+* Patients will be treated with cyclosporine at a dose of 5-10mg/kg/day in divided doses, with doses adjusted to maintain a therapeutic serum level between 200-400ng/ml. These therapeutic levels shall be maintained for 3 months.
+* Tumor response will be evaluated after 3 months therapy, the dose of CsA may then be tapered to that required to sustain a response or discontinued if no evidence of response, or after relapse.
+* Blood sampling or Lymphapheresis for collection of circulating malignant cells will be performed at a number of different time points. Gene expression profiling will be carried out on Affymetrix microarrays to compare pretreatment and post-treatment samples.

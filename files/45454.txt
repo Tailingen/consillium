@@ -1,0 +1,19 @@
+Fludarabine Phosphate, Clofarabine, and Busulfan With Vorinostat in Treating Patients With Acute Leukemia in Remission or Relapse Undergoing Donor Stem Cell Transplant
+This phase I trial studies the side effects and best dose of vorinostat when given together with fludarabine phosphate, clofarabine, and busulfan in treating patients with acute leukemia that is under control (remission) or has returned (relapse) undergoing donor stem cell transplant. Vorinostat may stop the growth of cancer cells by blocking some of the enzymes needed for cell growth. Drugs used in chemotherapy, such as fludarabine phosphate, clofarabine, and busulfan, work in different ways to stop the growth of cancer cells, either by killing the cells, by stopping them from dividing, or by stopping them from spreading. Giving vorinostat together with fludarabine phosphate, clofarabine, and busulfan before a donor stem cell transplant may be a better treatment for patients with acute leukemia.
+Acute Lymphoblastic Leukemia in Remission|Acute Myeloid Leukemia in Remission|Allogeneic Hematopoietic Stem Cell Transplantation Recipient|Myelodysplastic Syndrome|Previously Treated Myelodysplastic Syndrome|Recurrent Acute Lymphoblastic Leukemia|Recurrent Acute Myeloid Leukemia
+PROCEDURE: Allogeneic Bone Marrow Transplantation|PROCEDURE: Allogeneic Hematopoietic Stem Cell Transplantation|BIOLOGICAL: Anti-Thymocyte Globulin|DRUG: Busulfan|DRUG: Clofarabine|DRUG: Fludarabine Phosphate|PROCEDURE: Peripheral Blood Stem Cell Transplantation|OTHER: Pharmacological Study|DRUG: Vorinostat
+Maximum tolerated dose of vorinostat when given in combination with fludarabine phosphate, clofarabine, and busulfan before stem cell transplant assessed using Common Terminology Criteria for Adverse Events version 4, The 2-stage time-to-event continual reassessment method will be used. Toxicity will be tabulated by dose, type, and grade. The probability of toxicity over 30 days as a function of dose will be estimated by fitting a Bayesian binary outcome regression model., 30 days
+Recurrence-free survival, Will be estimated by the Kaplan and Meier method., Up to 5 years|Overall survival, Will be estimated by the Kaplan and Meier method., Up to 5 years
+PRIMARY OBJECTIVES:
+
+I. To determine the maximum tolerated dose (MTD) of SAHA (vorinostat) in combination with the preparative regimen fludarabine (fludarabine phosphate), clofarabine, and busulfan followed by allogeneic hematopoietic stem cell transplantation (SCT) for patients with advanced acute leukemia.
+
+SECONDARY OBJECTIVES:
+
+I. To determine the rate of graft versus host disease (GVHD), engraftment, progression-free survival (PFS) and overall survival (OS) for this treatment regimen.
+
+OUTLINE: This is a dose-escalation study of vorinostat.
+
+CONDITIONING REGIMEN: Patients receive vorinostat orally (PO) once daily (QD), fludarabine phosphate intravenously (IV) over 1 hour, clofarabine IV over 1 hour, and busulfan IV over 3 hours on days -6 to -3. Patients receiving a transplant from a human leukocyte antigen (HLA)-matched unrelated donor, receive anti-thymocyte globulin IV over 4 hours on days -3 to -1.
+
+TRANSPLANT: Patients undergo allogeneic peripheral blood stem cell or bone marrow transplant on day 0.

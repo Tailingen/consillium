@@ -1,0 +1,39 @@
+Phase Ib Study of SAR650984 in Combination With Carfilzomib for Treatment of Relapsed or Refractory Multiple Myeloma
+This phase Ib trial studies the side effects and best dose of isatuximab when given together with carfilzomib with or without dexamethasone and lenalidomide in treating patients with multiple myeloma that has returned after a period of improvement (relapsed) or has not respond to previous treatment (refractory). Immunotherapy with monoclonal antibodies, such as isatuximab, may induce changes in the body's immune system and may interfere with the ability of tumor cells to grow and spread. Carfilzomib may stop the growth of cancer cells by blocking some of the enzymes needed for cell growth. Drugs used in chemotherapy, such as dexamethasone and lenalidomide, work in different ways to stop the growth of cancer cells, either by killing the cells, by stopping them from dividing, or by stopping them from spreading. Giving isatuximab and carfilzomib with or without dexamethasone and lenalidomide may be a better treatment for patients with multiple myeloma.
+Multiple Myeloma
+BIOLOGICAL: Isatuximab|DRUG: Carfilzomib|DRUG: Dexamethasone
+ARM I: Incidence of Dose-Limiting Toxicities (DLT), Treatment-related Adverse events resulting in a DLT will be summarized by maximum toxicity grade for each dose level of isatuximab., Up to 60 days of the last dose of study drug|ARM I: Maximum tolerated dose (MTD) of isatuximab, The MTD is defined as the dose level below the lowest dose that induces dose- limiting toxicity in at least one-third of patients Adverse events will be summarized by maximum toxicity grade and by dose level for each ARM of the trial using NCI CTCAE v4.03, At the end of Cycle 1 (each cycle is 28 days)|ARM II: Overall Response Rate (ORR), Overall response rate (ORR) as define by the International Myeloma Working Group (IMWG) uniform response criteria of patients obtaining Stringent Complete Remission (sCR), Complete Remission (CR), Very Good Partial Remission (VGPR), Partial Remission (PR), or Minimal Remission (MR), Up to 60 days of the last dose of study drug
+ARM I: Pharmacokinetic (PK) profile of isatuximab, Individual plasma concentrations and PK parameters of SAR650984 will be tabulated with standard descriptive statistics. Pharmacokinetic analyses will be carried out in the Pharmacokinetics, Dynamics and Metabolism Department at Sanofi for SAR650984 and carfilzomib., Baseline, 2 hours mid-infusion, 4, 7, and 11 hours after end of infusion on day 1, days 2, 3, 8, and 15 of course 1, and 0 and 4 hours after end of infusion on day 1 of courses 2-8 (and 0 hours on day 15 of course 2 only)|ARM I: Overall Response Rate (ORR), Overall response rate; defined as sCR+CR+VGPR + PR utilizing IMWG Uniform Response Criteria, Up to 60 days of the last dose of study drug|ARM I: Clinical benefit response (CBR), defined as CR + VGPR + PR + minor response (MR), utilizing International Myeloma Working Group (IMWG) Uniform Response Criteria, Up to 60 days of the last dose of study drug|ARM I: Incidence of isatuximab-specific antidrug antibodies (ADA), Analysis of Incidence of isatuximab-specific antidrug antibodies (ADA) to be performed by Sanofi-Oncology., Up to 1 year|ARM I: Percentage of bone marrow cells expressing cell surface determinant, CD38 and receptor density, The overall percentage of bone marrow cells expressing cell surface determinant, CD38 and receptor density will be reported., Up to 30 days of the last dose of study drug|Overall survival (OS), Duration of time from start of treatment to death on study from any cause,, assessed at 1, 2, and 3 years from start of treatment|Progression Free Survival (PFS), Duration of time from start of treatment to the first occurrence of disease progression or death on study from any cause, whichever occurs earlier,, from start of treatment up to 1 year|Time To Progression (TTP), Defined as the duration from start of treatment until the first occurrence of disease progression with deaths from causes other than disease progression, censored, from start of treatment up to 1 year|Duration of Response (DOR), The duration of overall response is defined as the time period when criteria are met for MR or better (whichever is first recorded) until the first date that recurrent or progressive disease is objectively documented. The duration of CR is defined as the time when criteria are first met for CR until the first date that IMWG relapse is objectively documented, up to 60 days of the last dose of study drug|Changes in pharmacodynamics variables as they relate to dose, response, and toxicity of carfilzomib in combination with isatuximab, Changes from baseline in pharmacodynamic markers and proliferation markers, will be evaluated and summarized for each dose cohort., Baseline to up to 30 days of the last dose of study drug
+PRIMARY OBJECTIVES:
+
+ARM 1: To determine the maximum tolerated dose (MTD) of SAR650984 in combination with standard carfilzomib (Arm 1 is complete).
+
+ARM 2: To determine the safety AND efficacy (objective response rate (ORR)) of adding SAR650984 10mg/kg weekly x 4 doses then every other week in combination with weekly carfilzomib (70 mg/m2) and dexamethasone, in patients with relapsed or refractory myeloma. ORR will be defined using the International Myeloma Working Group (IMWG) uniform response criteria.
+
+SECONDARY OBJECTIVES:
+
+ARM 1:
+
+1. To evaluate the safety, including immunogenicity (ARM 1), of SAR650984 in combination with carfilzomib, in patients with relapsed or refractory myeloma after receiving 1+ prior lines of therapy. The severity, frequency and incidence of all toxicities will be assessed.
+2. To evaluate the pharmacokinetics (PK) of SAR650984 and carfilzomib when administered in ARM 1 (completed).
+3. To assess the relationship between clinical (adverse event and/or tumor response) effects and pharmacologic parameters (PK/PD), and/or biologic (correlative laboratory) results.
+4. To estimate the activity (ORR) using the International Myeloma Working Group (IMWG) defined response criteria of SAR650984 plus carfilzomib (ARM 1)
+5. To describe progression free survival (PFS), time to disease progression (TTP) and 1-year overall survival (OS) in patients treated with SAR650984 plus standard carfilzomib, and SAR650984 with weekly carfilzomib and dexamethasone.
+
+EXPANSION COHORTS:
+
+ARM 1:
+
+1. To further evaluate safety, PK, PD and to estimate the anti-tumor activity (response rates) using IMWG defined response criteria of study therapy (SAR650984 plus carfilzomib).
+
+ARM 1 and 2:
+
+1. To describe progression-free survival, 1-year OS, and TTP in patients with relapsed or refractory myeloma treated with these combinations.
+
+OUTLINE: This is a dose-escalation study of isatuximab. Patients are randomized to 1 of 2 arms.
+
+ARM I: Patients receive dexamethasone intravenously (IV) on days 1, 8, 15, and 22 of cycle 1, and orally (PO) or IV on days 1 and 15 of subsequent cycles. Patients receive isatuximab IV over 4-6 hours on days 1, 8, 15, and 22 of cycle 1 and days 1 and 15 of subsequent cycles, and carfilzomib IV over 10 minutes on days 1, 2, 8, 9, 15, and 16. Treatment repeats every 28 days for up to 8 cycles in the absence of disease progression or unacceptable toxicity. Patients may continue treatment after 8 cycles if clinical benefit is present at the investigator's discretion (carfilzomib may be switched to days 1, 2, 15, and 16 per investigator discretion).
+
+ARM II: Patients receive dexamethasone IV or PO on days 1, 8, 15, and 22, isatuximab IV over 4-6 hours on 1, 8, 15, and 22 of cycle 1 and days 1 and 15 of subsequent cycles, and carfilzomib IV over 30 minutes on days 1, 8, and 15. Cycles repeat every 28 days in the absence of disease progression or unacceptable toxicity.
+
+After completion of study treatment, patients are followed up at 30 and 60 days and then every 3 months for up to 3 years.

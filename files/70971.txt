@@ -1,0 +1,20 @@
+MONDRIAN: Multi-omics Integrative Modelling for Stereotactic Body Radiotherapy in Early-stage Non-small Cell Lung Cancer
+Stereotactic Body Radiotherapy (SBRT) is a form of high-precision radiotherapy playing a major role in patients diagnosed with early-stage non-small cell lung cancer (NSLCL), especially when surgery cannot be performed. It is a non-invasive, well-tolerated treatment, with an excellent ability to control disease recurrence. However, in some patients, disease response is suboptimal: understanding why this happens may open doors to more aggressive approaches, such as the combination with systemic therapies.
+
+Hence, the goal of this observational trial is to understand which clinical, imaging, and biological factors are associated with response to SBRT through the development of complex models. In other words, the main question it aims to answer is: "Will this patient respond to radiation treatment based on the characteristics of their disease?".
+
+Participants will be treated according to the best clinical practice standards, in agreement with international, national, and internal guidelines.
+
+Researchers will compare data collected from patients treated with SBRT with those collected from a similar group of patients, who will be treated with surgery, to see which factors are actual predictors of response to SBRT, or rather are indicators of more or less aggressive disease behavior.
+Lung Neoplasm Malignant
+RADIATION: SBRT|PROCEDURE: Surgery
+Progression-Free Survival (PFS), The time between the beginning of SBRT or date of surgery, and any disease progression (local, regional, distant), death from any cause, or last follow-up, whichever comes first., 24 months
+The overall planned duration of the study is 60 months.
+
+The project is structured into five main tasks, as following:
+
+* Task 1_Clinical study: Routine clinical data will be collected from eligible patients, including demographics, disease and treatment characteristics, pulmonary function, and blood count parameters.
+* Task 2_Radiomics study: Quantitative imaging analysis will be performed on both diagnostic computed tomographies (CTs) and positron emission tomographies (PETs). A software compliant with the Imaging Biomarker Standardization Initiative (IBSI) will be used to extract radiomic features at baseline and at the first clinical progression (or at the last available follow-up, whichever comes first). Clinically established qualitative and semiquantitative metrics (e.g. pleural effusion in CT images and standardized uptake value in PET images) will be retrieved, as well.
+* Task 3_Gene expression study: Gene expression profiling will be performed at baseline in both cohorts to investigate the presence of a prognostic pretreatment signature. The analysis will be performed on formalin-fixed paraffin-embedded (FFPE) tissue samples (namely, resected tumor in the surgical cohort and bioptic sample- whenever available- in the SBRT group). A next-generation sequencing (NGS)-based assay which targets 395 immune-related genes and named as Oncomine™ Immune Response Research Assay, will be employed.
+* Task 4_Proteomics study: Proteomics will integrate the study of RNA expression performed in Task 3. As in Task 3, the analysis will be performed on FFPE samples, from both patients' cohorts.
+* Task 5_Integrative model building: Integration of all previous features in a unique classification model able to determine a precise estimate of individuals with high vs low risk of disease progression and, at the same time, identify relevant predictive factors. The proposed classification model will integrate data from different sources using a multi-layer deep neural network. Federated learning techniques will also be used to reduce the bias due to the choice of a specific trial or data source.

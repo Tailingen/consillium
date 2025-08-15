@@ -1,0 +1,40 @@
+Low-Intensity Chemotherapy and Venetoclax in Treating Patients With Relapsed or Refractory B- or T-Cell Acute Lymphoblastic Leukemia
+This phase I/II trial studies the side effects and best dose of venetoclax and how well it works in combination with low-intensity chemotherapy in patients with B- or T-cell acute lymphoblastic leukemia that has not responded to treatment or that has come back. Venetoclax may stop the growth of tumor cells by blocking some of the enzymes needed for cell growth. Drugs used in chemotherapy, including vincristine, cyclophosphamide, dexamethasone, rituximab, methotrexate, and cytarabine, work in different ways to stop the growth of tumor cells, either by killing the cells, by stopping them from dividing, or by stopping them from spreading. Giving venetoclax with low-intensity chemotherapy may work better in treating patient with B- or T-cell acute lymphoblastic leukemia.
+Recurrent B Acute Lymphoblastic Leukemia|Recurrent T Acute Lymphoblastic Leukemia|Refractory B Acute Lymphoblastic Leukemia|Refractory T Acute Lymphoblastic Leukemia
+DRUG: Cyclophosphamide|DRUG: Cytarabine|DRUG: Dexamethasone|DRUG: Methotrexate|DRUG: Nelarabine|DRUG: Pegaspargase|DRUG: Prednisone|BIOLOGICAL: Rituximab|DRUG: Venetoclax|DRUG: Vincristine
+Maximum tolerated dose (MTD) (Phase I), The MTD is the highest dose level in which \< 2 patients of 6 develop first cycle dose-limiting toxicity (DLT)., Up to 28 days|DLT (Phase I), A non-hematologic DLT is defined as a clinically significant (as assessed by treating physician) grade 3 or 4 adverse event or abnormal laboratory value (according to Common Terminology Criteria for Adverse Events \[CTCAE\] criteria). Toxicity type, severity and attribution will be summarized for each patient using frequency tables., Up to 28 days
+Overall response rate (Phase II), Will be defined as the percentage of patients achieving a complete response (CR) or CR with inadequate count recovery (CRi). Will estimate the overall response (OR) for the combination treatment, along with the 95% credible interval., Up to 56 days (2 courses)|Minimal residual disease (MRD) negativity, Will be summarized using descriptive statistics such as mean, standard deviation, median and range., Up to 4 years|Duration of response (DOR), Will be summarized using descriptive statistics such as mean, standard deviation, median and range. The association between response and patient's clinical characteristics will be examined by Wilcoxon's rank sum test or Fisher's exact test, as appropriate., Up to 4 years|Event-free survival (EFS), The association between response and patient's clinical characteristics will be examined by Wilcoxon's rank sum test or Fisher's exact test, as appropriate., From the first day of treatment until any failure (resistant disease, relapse, or death), assessed up to 4 years|Overall survival (OS), The association between response and patient's clinical characteristics will be examined by Wilcoxon's rank sum test or Fisher's exact test, as appropriate., From the first day of treatment to time of death from any cause, assessed up to 4 years|Incidence of adverse events, Will be summarized using descriptive statistics such as mean, standard deviation, median and range., Up to 4 years
+Apoptotic protein expression and Bcl-2 dependency, Apoptotic protein expression and Bcl-2 dependency will be correlated on response and resistance to the combination regimen., Up to 4 years
+PRIMARY OBJECTIVES:
+
+I. Determine the maximum tolerated dose (MTD) and dose-limited toxicities (DLTs) of venetoclax in combination with low-intensity chemotherapy in patients with relapsed/refractory acute lymphoblastic leukemia (ALL) (Phase I).
+
+II. Evaluate the overall response rate (complete response \[CR\] + CR with inadequate count recovery \[CRi\]) of the regimen after 2 cycles. (Phase II)
+
+SECONDARY OBJECTIVES:
+
+I. Evaluate other clinical efficacy endpoints (minimal residual disease \[MRD\] negativity, duration of response \[DOR\], event-free survival \[EFS\] and overall survival \[OS\]).
+
+II. Determine the safety of the combination regimen.
+
+EXPLORATORY OBJECTIVES:
+
+I. To correlate apoptotic protein expression and Bcl-2 dependency on response and resistance to the combination regimen.
+
+OUTLINE: This is a phase I, dose-escalation study of venetoclax, followed by a phase II study.
+
+CHEMOTHERAPY AND VENETOCLAX:
+
+CYCLE 1: Patients receive venetoclax orally (PO) once daily (QD) on days 1-21, vincristine intravenously (IV) over 15 minutes on days 7 and 17, cyclophosphamide IV twice daily (BID) over 3 hours on days 7-9, and dexamethasone IV over 30 minutes or PO QD on days 7-10 and 17-20. Patients may also receive rituximab IV over 4-6 hours on days 7 and 17 per physician discretion.
+
+CYCLES 2, 4, 6, and 8: Patients receive venetoclax PO QD on days 1-21, methotrexate IV over 24 hours on day 1, and cytarabine IV BID over 3 hours on days 2 and 3. Patients may also receive rituximab IV over 4-6 hours on days 1 and 8 per physician discretion.
+
+CYCLES 3, 5, and 7: Patients receive venetoclax PO QD on days 1-21, cyclophosphamide IV BID over 3 hours on days 1-3, vincristine IV over 15 minutes on days 1 and 11, and dexamethasone IV over 30 minutes or PO QD on days 1-4 and 11-14. Patients may also receive rituximab IV over 4-6 hours on days 1 and 11 per physician discretion.
+
+T-CELL ALL: After the first 4 cycles, patients receive nelarabine IV over 2 hours on days 1-5 and pegaspargase IV over 2 hours on day 5. Cycles repeat every 28 days for 2 cycles (after cycle 4 and 5) in the absence of disease progression or unacceptable toxicity.
+
+MAINTENANCE THERAPY: Patients may receive prednisone PO QD on days 1-5, vincristine IV over 15 minutes on day 1, and venetoclax, PO QD on days 1-21. Cycles repeat every 28 days for 2 years in the absence of disease progression or unacceptable toxicity.
+
+T-CELL ALL (MAINTENANCE THERAPY): After the first 5 cycles of maintenance therapy, patients who received nelarabine and pegaspargase will receive nelarabine IV QD over 2 hours on days 1-5 and pegaspargase IV over 2 hours on day 5 during maintenance cycles 6 and 7 instead of prednisone, vincristine, and venetoclax.
+
+After completion of study treatment, patients are followed up for 30 days and then every 3 months thereafter.

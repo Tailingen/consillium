@@ -1,0 +1,34 @@
+Trial Testing Safety of IL-21 NK Cells for Induction of R/R AML
+This phase I trial studies the side effects of donor natural killer (NK) cell therapy in treating patients with acute myeloid leukemia that has come back (recurrent) or has not responded to treatment (refractory). Natural killer cells are a type of immune cell. Immunotherapy with genetically modified NK cells from donors may induce changes in the body's immune system and may interfere with the ability of cancer cells to grow and spread.
+Allogeneic Stem Cell Transplant Recipient|Blasts 10 Percent or More of Bone Marrow Nucleated Cells|Recurrent Acute Myeloid Leukemia|Refractory Acute Myeloid Leukemia
+DRUG: Cytarabine Hydrochloride|DRUG: Fludarabine|BIOLOGICAL: Membrane-bound Interleukin-21-Expanded Haploidentical Natural Killer Cells
+Maximum tolerated dose (MTD) of membrane-bound interleukin-21-expanded haploidentical natural killer (NK) cells, The MTD will be defined as the highest safely tolerated dose where at most one patient in six experiences dose-limiting toxicity (DLT) during DLT observation period. DLT is defined as any steroid refractory acute graft versus host disease., Up to 63 days|Incidence of adverse events, Toxicities will be assessed by type and grade using Common Terminology Criteria for Adverse Events version 5.0 and displayed in summary form by cohort and overall. Toxicities will be summarized and reported regardless of attribution and also only those attributed to NK cells., Up to day 28
+Complete response (CR), Response rate with a 95% confidence interval (CI) will be reported for all evaluable patients, assuming a binomial distribution. Response rate will also be reported for those who received all 6 doses of NK cells., Up to day 56|CR with incomplete hematologic recovery, Response rate with a 95% CI will be reported for all evaluable patients, assuming a binomial distribution. Response rate will also be reported for those who received all 6 doses of NK cells., Up to day 56|Morphologic leukemia-free state, Response rate with a 95% CI will be reported for all evaluable patients, assuming a binomial distribution. Response rate will also be reported for those who received all 6 doses of NK cells., Up to day 56|Median relapse free survival, Will use descriptive statistics to summarize the demographic and clinical characteristics of the patients on this study., Up to day 56|Median time to neutrophil and platelet count recovery, Will use descriptive statistics to summarize the demographic and clinical characteristics of the patients on this study., Up to day 56|Median duration of remission, Will use descriptive statistics to summarize the demographic and clinical characteristics of the patients on this study., Up to day 56|Incidence of infectious complications, Will use descriptive statistics to summarize the demographic and clinical characteristics of the patients on this study., Up to day 56|Percentage of patients receiving the regimen who are rendered transplant-eligible, Will use descriptive statistics to summarize the demographic and clinical characteristics of the patients on this study., Up to day 56
+Identification of In-vivo expansion of NK cells, Peripheral blood will be obtained before therapy, during the NK cell treatment period, and after NK cell treatment. The studies may include flow cytometry analyses and sorting and molecular studies. Donor NK-cell expansion will be defined as an absolute circulating donor-derived NK cell count that increases above the post-infusion level., Up to day 56|Chimerism analysis to determine origin and number of circulating NK cells, Chimerism may be determined by flow cytometry using haplotype-specific antibodies. Chimerism may be determined by short tandem repeat polymorphisms. When there is a sex-mismatch between the donor and the recipient, assays based on determining the frequency of sex-chromosomes may be used. Testing may be altered by principal investigator or designee., Up to day 56|Number of donor human leukocyte antigen (HLA) detection, Donors with distinct HLA A or B antigens that can be detected by flow cytometry will be chosen. This will enable tracking of infused cells., Up to day 56
+PRIMARY OBJECTIVE:
+
+I. To determine the safety of adoptive NK cell therapy using membrane-bound interleukin-21 (mbIL21)-expanded, off-the-shelf, third-party donor-derived NK cells in patients with relapsed/refractory acute myeloid leukemia (AML).
+
+SECONDARY OBJECTIVES:
+
+I. Estimate the complete response (CR, CR with incomplete hematologic recovery \[CRi\] \& morphologic leukemia-free state \[MLFS\]).
+
+II. Estimate the median relapse free survival. III. Estimate the median time to neutrophil and platelet count recovery. IV. Estimate the median duration of remission. V. Estimate the incidence of infectious complications. VI. Estimate percentage of patients receiving this regimen who are rendered transplant-eligible.
+
+CORRELATIVE OBJECTIVES:
+
+I. Determine the persistence of ex-vivo expanded, off-the-shelf, third-party NK cells.
+
+II. Characterize in vivo expansion of third-party NK cells and if it differs based on the conditioning regimen as defined by NK chimerism assay.
+
+III. Determine the immunophenotype and function of expanded cells. IV. Chimerism analysis in patients who have had post-transplant relapses.
+
+OUTLINE: This is a dose-escalation study of membrane-bound interleukin-21-expanded haploidentical natural killer cells.
+
+INDUCTION: Patients receive fludarabine intravenously (IV) and cytarabine IV on days -6 to -2 in the absence of disease progression or unacceptable toxicity.
+
+COHORT II: Patients who are \>= 60 years old, unable/unwilling to tolerate intensive chemotherapy, or disease insensitive to cytarabine (tp53, TET2 mutations) receive fludarabine IV on days -5 to -2 and decitabine IV on days -6 to -2 in the absence of disease progression or unacceptable toxicity.
+
+All patients receive membrane-bound interleukin-21-expanded haploidentical natural killer cells via infusion on days 0, 2, 4, 7, 9, and 11.
+
+After completion of study treatment, patients are followed up to day 56.

@@ -1,0 +1,11 @@
+Capsule Endoscopy in Iron Deficiency Anaemia
+This project aim to investigate whether wireless capsule endoscopy(WCE) has a similar diagnostic yield as conventional endoscopy in detecting the cause of iron deficiency anemia (IDA)
+Iron Deficiency Anemia|Bowel Cancer
+PROCEDURE: Endoscopy
+Diagnostic yield, Mucosal lesions detected, 90 minutes
+Small bowel lesions, Number of lesions detected in the small bowel, 90 minutes|Complete examination, Proportion of complete examinations, 90 minutes|Bowel preparation, Proportion of satisfactory bowel preparation, 90 minute|Adequate examinations, Proportion of adequate examinations defined as both satisfactory bowel preparation and complete examination, 90 minutes
+IDA is common and 90-95% of cases are caused by bleeding from ulcers, tumours or vascular malformations in the oesophagus, stomach, duodenum, small intestine or the large bowel.Bleeding from more than one localisation is common.
+
+International guidelines recommend bidirectional endoscopy(gastro- and colonoscopy) to detect and treat the source of bleeding.
+
+Our hypothesis is that WCE is non-inferior to the combination of gastroscopy and colonoscopy in locating GI-bleeding and that complete examinations will be achieved in ≥90% of the examinations.

@@ -1,0 +1,39 @@
+Venetoclax, Cladribine, Low Dose Cytarabine, and Azacitidine in Treating Patients With Previously Untreated Acute Myeloid Leukemia
+This phase II trial studies how well venetoclax, cladribine, low dose cytarabine, and azacitidine work in treating patients with acute myeloid leukemia that has previously not been treated. Drugs used in chemotherapy, such as venetoclax, cladribine, and low dose cytarabine, work in different ways to stop the growth of cancer cells, either by killing the cells, by stopping them from dividing, or by stopping them from spreading. Azacitidine may stop the growth of cancer cells by blocking some of the enzymes needed for cell growth. Giving venetoclax, cladribine, low dose cytarabine induction followed by cladribine, low dose cytarabine, and azacitidine consolidation may work better in treating patients with acute myeloid leukemia.
+Acute Myeloid Leukemia
+DRUG: Azacitidine|DRUG: Cladribine|DRUG: Cytarabine|DRUG: Venetoclax
+Rate of complete response (CR/complete response with incomplete recovery [CRi]), The optimum two-stage design will be implemented. Will be estimated along with the 95% confidence intervals., Up to completion of cycle 2 (each cycle is 28 days)
+Overall response rate, Will be estimated along with the 95% confidence intervals., Up to 5 years|Overall survival (OS), Kaplan-Meier method will be used to assess the OS probabilities. The median OS will be reported, along with the 95% confidence intervals., Time interval between treatment start and the date of death or last follow-up, whichever occurred first, assessed up to 5 years|Disease-free survival (DFS), Kaplan-Meier method will be used to assess the DFS probabilities. The median DFS will be reported, along with the 95% confidence intervals., Time interval between treatment start and the date of death or last follow-up, whichever occurred first, assessed up to 5 years|Incidence of adverse events graded according to National Cancer Institute Common Terminology Criteria for Adverse Events version 4.0, The Bayesian approach will be implemented for toxicity monitoring, where toxicity is defined as any grade 3 or higher non-hematological toxicity which is at least possibly related to the treatment that occurs during the first 2 cycles of treatment. Safety data will be summarized by category, severity and frequency., Up to 5 years
+PRIMARY OBJECTIVE:
+
+I. To assess the complete response (CR/complete response with incomplete recovery \[CRi\]) rate of patients with acute myeloid leukemia (AML) treated with venetoclax combined with cladribine (2-CDA) plus low-dose cytarabine (LDAC) alternating with 5-azacytidine.
+
+SECONDARY OBJECTIVES:
+
+I. To assess overall survival (OS) of patients with AML treated with venetoclax added to cladribine plus LDAC alternating with 5-azacytidine.
+
+II. To assess the disease free survival (DFS) patients with AML treated with venetoclax added to cladribine plus LDAC alternating with 5-azacytidine and achieved a complete response (CR/CRi).
+
+III. To assess the overall response rate of patients with AML treated with venetoclax added to cladribine plus LDAC alternating with 5-azacytidine.
+
+IV. To assess toxicity and induction mortality of patients with AML treated with venetoclax added to cladribine plus LDAC alternating with 5-azacytidine.
+
+EXPLORATORY OBJECTIVES:
+
+I. Evaluate and determine venetoclax pharmacokinetics (pK) in presence or absence of concomitantly administered drugs such as posaconazole, voriconazole, isafuconazole, and fluconazole.
+
+II. Investigate the correlation between venetoclax pK with toxicities and efficacy.
+
+III. Investigate the correlation of baseline cytogenetic and mutational data with likelihood of response and resistance to the regimen.
+
+IV. Evaluate the depth of response with minimal residual disease (MRD) testing and correlate with long term outcome.
+
+OUTLINE:
+
+INDUCTION: Patients receive cladribine intravenously (IV) daily over 1-2 hours on days 1-5, cytarabine subcutaneously (SC) twice daily (BID) on days 1-10, and venetoclax orally (PO) daily on days 1-21. Treatment continues for 28 days in the absence of disease progression or unacceptable toxicity. Patients who do not achieve a CR or CRi after cycle 1 may receive a second induction cycle. Patients who do not achieve CR or CRi after second induction cycle may proceed to cycle 3 of consolidation per investigator.
+
+CONSOLIDATION/MAINTENANCE:
+
+Patients who achieve CR or CRi after cycle 1 of induction receive cladribine IV over 1-2 hours daily on days 1-3, cytarabine SC BID on days 1-10, and venetoclax PO once daily (QD) on days 1-21 of cycle 2. All patients receive cladribine IV daily over 1-2 hours of cycles 5-6, 9-10, 13-14, and 17-18, cytarabine SC BID on days 1-3 of cycles 5-6, 9-10, 13-14, and 17-18, venetoclax PO QD on days 1-21 of cycle 3-18, and azacitidine SC daily or IV over 30-60 minutes on days 1-7 of cycles 3-4, 7-8, 1-12, and 15-18. Treatment repeats every 28 days for up to 18 cycles in the absence of disease progression or unacceptable toxicity.
+
+After completion of study treatment, patients are followed up every 6-12 months for 5 years.

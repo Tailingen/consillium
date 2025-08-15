@@ -1,0 +1,48 @@
+Testing the Addition of an Immunotherapy Drug, Atezolizumab, to the Usual Chemotherapy Treatment During Radiation Therapy for Superior Sulcus Non-small Cell Lung Cancer
+This phase II trial tests the effect of atezolizumab given with usual chemotherapy during radiation therapy in treating patients with superior sulcus non-small cell lung cancer. Immunotherapy with monoclonal antibodies, such as atezolizumab, may help the body's immune system attack the cancer, and may interfere with the ability of tumor cells to grow and spread. Chemotherapy drugs, such as cisplatin, carboplatin, etoposide, paclitaxel and pemetrexed, work in different ways to stop the growth of tumor cells, either by killing the cells, by stopping them from dividing, or by stopping them from spreading. Radiation therapy uses high energy beams to kill tumor cells and shrink tumors. Giving atezolizumab with usual chemotherapy and radiation therapy may lower the chance of the tumor from growing or spreading.
+Lung Non-Small Cell Carcinoma|Stage IIB Lung Cancer AJCC v8|Stage IIIA Lung Cancer AJCC v8|Superior Sulcus Lung Carcinoma
+BIOLOGICAL: Atezolizumab|PROCEDURE: Biopsy|PROCEDURE: Biospecimen Collection|DRUG: Carboplatin|DRUG: Cisplatin|PROCEDURE: Computed Tomography|DRUG: Etoposide|RADIATION: External Beam Radiation Therapy|PROCEDURE: Magnetic Resonance Imaging|DRUG: Paclitaxel|DRUG: Pemetrexed|PROCEDURE: Positron Emission Tomography|PROCEDURE: Therapeutic Conventional Surgery
+Pathologic complete response (pCR) by local review, Up to 6 years
+Event-free survival (EFS), Defined as From date of Step1 Randomization to date of first documentation of progression that renders participant unable to receive planned protocol surgery, off protocol therapy for any reason without subsequent protocol surgery, relapse after surgery, symptomatic deterioration or death due to any reason, whichever comes first. The primary analysis of EFS will be done using a 1-sided 15% level log-rank test. Will be estimated using the method of Kaplan-Meier. 95% confidence intervals for the medians will be constructed using the method of Brookmeyer-Crowley. Fine-Gray method will be used for a competing risk analysis., Up to 6 years|Overall survival (OS), Will be estimated using the method of Kaplan-Meier. 95% confidence intervals for the medians will be constructed using the method of Brookmeyer-Crowley., From date of Step 1 Randomization to date of death due to any cause, assessed up to 6 years|Surgical resection rate, Up to 6 years|Complete resection (R0) rate, Up to 6 years|Progression-free survival (PFS), Will be assessed per Response Evaluation Criteria in Solid Tumors (RECIST) 1.1. Will be estimated using the method of Kaplan-Meier. 95% confidence intervals for the medians will be constructed using the method of Brookmeyer-Crowley., From date of Step 1 Randomization to date of first documentation of progression or symptomatic deterioration, or death due to any cause, whichever comes first, assessed up to 6 years|Incidence of adverse events, Will compare the frequency and severity of toxicities between the arms., Up to 6 years
+Bank blood and tissue for future research, Up to 6 years|Major pathologic response, Defined by the International Association for the Study of Lung Cancer, will be associated with and survival outcomes (OS, PFS)., Up to 6 years|pCR by centralized review, Will be associated with survival outcomes (OS, PFS)., Up to 6 years|Changes in fludeoxyglucose F-18-positron emission tomography metrics, Baseline up to 6 years|Changes in diffusion weighted imaging (DWI)-magnetic resonance imagining (MRI) metrics, Changes in DWI-MRI metrics will be associated with pCR between arms., Baseline up to 6 years|Changes in computed tomography tumor volume, Will assess unidimensional lesion changes per RECIST 1.1 and bidimensional lesion changes per World Health Organization (WHO) criteria. Will be associated with pCR in participants randomized to receive trimodality therapy alone or in combination with atezolizumab., Baseline up to 6 years
+PRIMARY OBJECTIVE:
+
+I. To compare the pathologic complete response (pCR) by local review between participants randomized to conventional trimodality therapy, with or without atezolizumab.
+
+SECONDARY OBJECTIVES:
+
+I. To compare event-free survival (EFS) between the arms. II. To compare overall survival (OS) between the arms. III. To compare surgical resection rate and complete resection (R0) rate between the arms.
+
+IV. To evaluate progression-free survival (PFS) per Response Evaluation Criteria in Solid Tumors (RECIST) 1.1 among participants who do not undergo surgical resection, by treatment arm.
+
+V. To compare the frequency and severity of toxicities between the arms.
+
+ADDITIONAL OBJECTIVES:
+
+I. To bank blood and tissue for future research. II. To evaluate the association between major pathologic response (MPR), as defined by the International Association for the Study of Lung Cancer (IASLC), and survival outcomes (OS, PFS).
+
+III. To evaluate the association between pCR by centralized review and survival outcomes (OS, PFS).
+
+IV. Evaluate the changes in fludeoxyglucose F-18 (FDG)-positron emission tomography (PET) metrics (e.g., standardized uptake value \[SUV\] maximum \[max\], SUVpeak, SUVmax tumor-to-liver, SUVpeak tumor-to-liver, metabolic tumor volume, total lesion glycolysis, etc.) in participants randomized to receive trimodality therapy alone or in combination with atezolizumab and to evaluate the association with pCR.
+
+V. Evaluate the extent to which the changes in diffusion weighted imaging (DWI)-magnetic resonance imagining (MRI) metrics (e.g., mean apparent diffusion coefficient or apparent diffusion coefficient \[ADC\] for the primary tumor, etc.) are associated with pCR in participants randomized to receive trimodality therapy alone or in combination with atezolizumab.
+
+VI. Evaluate the extent to which changes in computed tomography (CT) tumor volume, unidimensional lesion changes per RECIST 1.1 and bidimensional lesion changes per World Health Organization (WHO) criteria are associated with pCR in participants randomized to receive trimodality therapy alone or in combination with atezolizumab.
+
+OUTLINE: Patients are randomized to 1 of 2 arms.
+
+ARM I: Patients receive atezolizumab intravenously (IV) over 30-60 minutes on day 1. Patients also receive one of the chemotherapy combinations below depending on their previous therapy and disease. Between the first day of chemotherapy and the first day of cycle 2 of chemotherapy, patients undergo external beam radiation therapy 5 days per week. Treatment repeats every 21 days for up to 4 cycles in the absence of disease progression or unacceptable toxicity. Beginning 21 and 90 days after treatment, patients undergo surgery. Within 42 days after completion of surgery, patients then receive atezolizumab IV over 30-60 minutes on day 1. Treatment repeats every 21 days for up to 17 cycles in the absence of disease progression or unacceptable toxicity.
+
+ARM II: Patients receive one of the chemotherapy combinations below depending on their previous therapy and disease. Between the first day of chemotherapy and the first day of cycle 2 of chemotherapy, patients also undergo external beam radiation therapy 5 days per week. Treatment repeats every 21 days for up to 4 cycles in the absence of disease progression or unacceptable toxicity. Beginning 21 and 90 days after treatment, patients undergo surgery.
+
+Patients receive one of the chemotherapy combinations:
+
+1. Cisplatin IV over 2 hours on day 1 and etoposide IV over 30-60 minutes on days 1-3.
+2. Carboplatin IV over 60 minutes on day 1 and etoposide IV over 30-60 minutes on days 1-3.
+3. Paclitaxel IV over 3 hours and carboplatin IV over 60 minutes on day 1.
+
+   Patients with non-squamous NSCLC may receive one of the following combinations:
+4. Pemetrexed IV over 10 minutes and carboplatin IV over 60 minutes on day 1.
+5. Pemetrexed IV over 10 minutes and cisplatin IV over 2 hours on day 1.
+
+Patients may undergo a PET scan, CT scan, and MRI on study. Patients also undergo tumor biopsies and blood sample collection throughout the trial.

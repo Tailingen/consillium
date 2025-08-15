@@ -1,0 +1,12 @@
+MR-target Biopsy vs. TRUS-biopsy in Men With Suspicious Prostate Cancer
+This paired cohort blinded trial aims to assess the detection rate of clinically significant cancer of MRI-targeted biopsy compared to standard 12-core TRUS biopsy in men referred with clinical suspicion of prostate cancer who have had no prior prostate biopsy. The investigators hypothesize that additional MRI-targeted biopsy will detect more clinically significant cancers than standard TRUS biopsy.
+
+Main objective: To compare MR-target vs. standard 12-cores TRUS-biopsy for the diagnosis of clinically significant prostate cancer.
+Prostate Cancer
+DEVICE: Artemia
+Proportion of clinically significant prostate cancer (≥Gleason score 3+4), 2 week after the procedure
+Proportion of clinically insignificant prostate cancer (Gleason score 6), 2 week after the procedure|Proportion of men in whom mpMRI score (PI-RADS) for suspicion of clinically significant cancer was 3, 4 or 5, 2 week after the procedure|Correlation of prostate health index (Phi), phi density and MRI fusion Bx in predicting clinically significant prostate cancer, 2 week after the procedure|Cancer core length of the most involved biopsy core (maximum cancer core length, mm), 2 week after the procedure|Proportion of men who go on to definitive local treatment or systemic treatment, 2 week after the procedure|Proportion of Gleason grade upgrading in men undergoing radical prostatectomy, 2 week after the surgery|Adverse events of post-biopsy (pain, infection, bleeding etc.), 2 week after the procedure|Inter-observer variability among radiologists, 2 week after the procedure
+Before prostate biopsy, all patients be preceded by mpMRI. The mpMRI is read by an experienced radiologist according to the PI-RADS version 2 scoring system. PI-RADS scoring system is used to assign a degree of doubt prostate cancer. Depending on the PI-RADS score, MR targeted biopsy is determined.
+
+1. MR-targeted biopsy using Artemis device fusion of MRI and ultrasound images would be performed. MR targeted biopsy would be performed by radiologist.
+2. Next conventional ultrasound-guided 12-core systematic biopsy would be performed by urologist. This portion will be performed without information of the MRI report.

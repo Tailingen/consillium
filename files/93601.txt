@@ -1,0 +1,15 @@
+Gene Expression in Predicting Outcome in Samples From Patients With High-Risk Neuroblastoma
+RATIONALE: Studying samples of tumor tissue from patients with cancer in the laboratory may help doctors learn more about changes that occur in RNA and predict how patients will respond to treatment. It may also help doctors find better ways to treat cancer.
+
+PURPOSE: This research trial studies gene expression in predicting outcomes in samples from patients with high-risk neuroblastoma.
+Neuroblastoma
+GENETIC: RNA analysis|GENETIC: gene expression analysis|OTHER: laboratory biomarker analysis
+Linear correlation between the nCounter™ Analysis System and the expression data obtained in microarray platforms|nCounter™ Analysis System and microarray platforms equally predictive of outcome in the high-risk group of neuroblastoma patients
+OBJECTIVES:
+
+* To test the correlation of a previously published microarray gene expression signature with the gene expression obtained with the nCounter™ Analysis System using RNA isolated from formalin-fixed, paraffin-embedded (FFPE), high-risk neuroblastoma samples.
+* To construct, test, and validate a novel robust classifier that can be readily integrated into the clinic.
+
+OUTLINE: This is a multicenter study.
+
+RNA samples extracted from paraffin-embedded tissue are analyzed for gene signature expression levels by nCounter™ Analysis System and correlated with published microarray expression data. Results are then used to develop a refined gene-expression-profile classifier of ultra high-risk neuroblastoma.

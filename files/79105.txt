@@ -1,0 +1,45 @@
+Hypofraction Radiotherapy for Locally Advanced Non-small Cell Lung Cancer
+Definitive concurrent chemoradiotherapy followed by durvalumab (Pacific protocol) has been the standard modality for stage III locally advanced non-small cell lung cancer. In spite of the median overall survival of 47.5 months, there still existed 38.5% and 6.9% patients who finally developed intra-thorax and extra-thorax recurrence respectively in long-term follow-up. The relatively low local control rate has been the bottleneck for further improvement of overall survival. Hypofraction radiotherapy has been validated to be able to increase the local control rate in two prospective trials. Therefore, this trial is designed to explore the safety and primary efficacy of hypofraction radiotherapy followed by immune checkpoint inhibitors for stage III locally advanced non-small cell lung cancer.
+Toxicity Due to Radiotherapy|Non-small Cell Lung Cancer
+RADIATION: High-dose fractionated radiotherapy|RADIATION: Low-dose fractionated radiotherapy
+Rate of radiation-induced pneumonitis (CTCAE V4.0), Rate of radiation-induced pneumonitis (CTCAE V4.0), 1 to 2 years|Rate of radiation-induced esophagitis (CTCAE V4.0), Rate of radiation-induced esophagitis (CTCAE V4.0), 1 to 2 years|Rate of myelosuppression (CTCAE V4.0), Rate of myelosuppression (CTCAE V4.0), 1 to 2 years
+1 year locoregional control rate (RECIST 1.1), 1 year locoregional control rate (RECIST 1.1), 1 year|1 year progression-free rate (RECIST 1.1), 1 year progression-free rate (RECIST 1.1), 1 year|1 year overall survival rate (RECIST 1.1), 1 year overall survival rate (RECIST 1.1), 1 year
+Trial title: Hypofraction radiotherapy followed by immune checkpoint inhibitors for locally advanced non-small cell lung cancer: A phase I/II clinical trial.
+
+Trial objective: To explore the safety and primary efficacy of hypofraction radiotherapy followed by immune checkpoint inhibitors for stage III locally advanced non-small cell lung cancer.
+
+Trial Design: To enroll 36 patients diagnosed with stage III locally advanced non-small cell lung cancer to receive hypofraction radiotherapy (18 patients receiving high dose of 60-68 (Gray, Gy) /15-17 (fraction, f) and 18 patients receiving low dose of 48Gy/12f) followed by 1-year maintenance of immune checkpoint inhibitors.
+
+Inclusion Criteria: a. 18-70 years old; b. Eastern Cooperative Oncology Group (ECOG) 0-1; c. non-small cell lung cancer including squamous cell carcinoma, adenocarcinoma, adenosquamous carcinoma, large-cell carcinoma; d. wild-type of driven genes; e. stage III (AJCC 8th Edition) confirmed by cranial MRI, chest CT, abdominal ultrasonograph, bone scan or cranial MRI and Positron Emission Tomography (PET-CT); f. surgically unresectable or deny of surgery; g. signature of inform consent.
+
+Exclusion Criteria: a. younger than 18 years old or older than 70 years old; b. ECOG\>1; c. small-cell lung cancer and other neuroendocrine carcinoma including typical or atypical carcinoid, large-cell neuroendocrine carcinoma; d. mutant type of driven genes; e. non stage III (AJCC 8th Edition) confirmed by cranial MRI, chest CT, abdominal ultrasonograph, bone scan or cranial MRI and PET-CT; f. surgically resectable; g. no signature of inform consent.
+
+Staging Examination before Radiotherapy: a. ECOG scoring. b. Cranial contrast MRI and PET-CT, or cranial contrast MRI (preferred), chest contrast CT, abdominal ultrasonography and bone scan. c. Bronchoscopy for centrally-located lung cancer. d. Staging examination is mandatory after inductive chemotherapy \& chemotherapy with immunotherapy. e. Pulmonary function test.
+
+Inductive therapy before radiotherapy: Chemotherapy or chemotherapy combined with immunotherapy is allowed as inductive therapy. Detailed regimen could refer to NCCN guidelines. Tyrosine kinase inhibitors are not allowed as inductive therapy.
+
+Randomization: Patients would be randomly assigned to high dose group and low dose group using random number table method.
+
+Radiotherapy CT simulation: 4-Dimensional CT (4D-CT) with intravenous contrast is recommended for simulation. Scan thickness should be less than 5 mm. Thermal mask or vacuum bag is recommended.
+
+Target Delineation: Considering hypofraction and involved field irradiation (IFI), only Internal Tumor Volume (ITV) should be delineated without the need to delineate Clinical Tumor Volume (CTV).
+
+Delineation of ITV: ITV should include pulmonary gross tumor and metastatic mediastinal lymph nodes. PET-CT registration with simulation CT is recommended for patients with obstructive atelectasis. For patients with suspected mediastinal lymph nodes, Endobronchial Ultrasound-guided Transbronchial Needle Aspiration (EBUS-TBNA) is recommended.
+
+Production of Planning Tumor Volume (PTV):
+
+Low Dose Hypofraction Arm (48Gy/12f) PTV: PTV is produced by a margin of 5 mm added to ITV. Modification of PTV is suggested to respect anatomic boundary.
+
+High Dose Hypofraction Arm (60-68Gy/15-17f) PTV: Planning Tumor Volume (PTV) is produced by a margin of 5 mm added to ITV. Modification of PTV is suggested to respect anatomic boundary. For patients with ITV abutting esophagus, the technique of Esophagus-Sparing Simultaneous Integrated Boost (ES-SIB) should be utilized. PTV should be modified not to cover esophagus to ensure that the maximum dose to esophagus should be ≤ 45Gy. The dose to PTV in adjacent to esophagus could be compromised (D99% of PTV should be ≥ 51Gy).
+
+Dosimetric Limitation: 95% prescription dose should cover 100% PTV and 95% PTV should receive 100% prescription dose. Total Lung: V20\<25%, Dmean\<13Gy, V5\<50%. Spinal Cord: Dmax\<40Gy. Heart: V30\<40%, Dmean\<25Gy.
+
+Treatment Implementation: Radiotherapy is implemented every day. Cone-beam CT should utilized every day to minimize set-up error.
+
+Concurrent Chemotherapy: If patients have received over 4 cycles of inductive chemotherapy with or without immunotherapy, no concurrent chemotherapy is needed. If patients have received less than 4 cycles of inductive chemotherapy with or without immunotherapy, concurrent chemotherapy is needed to ensure 4 cycles of chemotherapy. Adenocarcinoma: Pemetrexed combined with platinum is recommended. Squamous-cell lung cancer: Etoposide combined with platinum is recommended. One month after completion of radiotherapy, chest CT and abdominal ultrasonography should be undertaken. After exclusion of disease progression and grade 2 or more radiation-induced pneumonitis, consolidative immunotherapy should be started. Durvalumab maintenance for one year is recommended.
+
+Follow-up: Patients should be follow-up every three months right after the completion of radiotherapy to 3 years after radiotherapy. Then follow-up every half year is allowed to 5 years after radiotherapy. After 5 years, follow-up every year is appropriate. In follow-up, chest CT and abdominal ultrasonography should be implemented. Cranial MRI should be performed every half year for patients with adenocarcinoma. Bone scan should be undertaken every year for all patients.
+
+Primary Endpoint: Rate of radiation-induced pneumonitis, esophagitis, myelosuppression (CTCAE V4.0).
+
+Secondary Endpoint: 1-year local-regional control rate, 1-year progression-free survival rate, 1-year overall survival rate (RECIST v1.1).

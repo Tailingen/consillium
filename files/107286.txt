@@ -1,0 +1,17 @@
+Durvalumab Alone or With Tremelimumab in Refractory Germ Cell Tumors
+Background:
+
+The prognosis of pts who have failed multiple chemotherapy (CT) regimens is quite dismal. PD-L1 is frequently expressed by immunohistochemistry (IHC) in germ cell tumors (GCT). D is a monoclonal antibody (mAb) that inhibits the binding of PD-L1. T, an anti-CTLA4 mAb, is an immunomodulatory therapy. Combination immunotherapy has shown improved activity compared to monotherapy. The investigators aimed to investigate the activity of D, alone or in combination with T, in chemorefractory GCT.
+
+Trial Design:
+
+This is an open-label, randomized, 3-stage, phase 2 study. Pts who have failed ≥2 prior CT regimens (including high-dose CT) will be randomized to receive one of the following: D, 1.5 g via IV infusion q4w, for up to a total of 12 months (13 doses/cycles) alone or with T, 75 mg IV q4w, starting on week 0, for up to 4 months (4 doses/cycles). Serum tumor markers, computed tomography and fluorodeoxyglucose positron emission tomography (FDG-PET) scans will be repeated q8 weeks. The primary endpoint is the objective response-rate (ORR=complete response or partial response with normal markers). H0: ORR rate ≤10%, H1: ORR ≥25%, type I and II error rates at 10%.
+
+In stage 1, 11 pts will be allocated in each arm. According to Gehan's rule, the trial will be terminated whenever no response will be observed. 29 additional pts will be added to each arm fulfilling stage 1 criteria. ORR in ≥7 pts will be required. In stage 3, pts from stage 1-2 of both arms will be retrospectively evaluated for Programmed cell Death Ligand-1(PD-L1) IHC. The Ventana PD-L1 IHC assay will be used. In case of negative findings at the end of stage 2, if the target benefit is likely to occur only in PD-L1+ pts, further study prosecution in accordance with an enrichment strategy will be undertaken.
+
+In particular, predictive power (PP) will be calculated assuming expansion of PD-L1+ cohorts up to a maximum of 60 pts. Each arm will be categorized as not promising (PP\<30%) or promising (PP ≥30%). The promising one will enter the stage 3. Should both arms be judged promising, the one yielding ≥20% PP advantage will be selected; monotherapy will be preferred otherwise. Details on the algorithm to be used for PD-L1 IHC in this study will be finalized (EudraCT number 2016-001688-35).
+Germ Cell Tumor
+DRUG: Durvalumab|DRUG: Tremelimumab
+Objective response-rate, Objective response-rate by computed tomography scan in accordance with the RECIST 1.1 criteria, 8 weeks
+Overall survival, Number of subjects alive, 6 months|Progression-free survival, Number of subjects alive and progression-free, 3 months|Incidence of Adverse Events, Number of subjects developing side effects, graded according to the CTCAE v4.03, 8 weeks
+This is an open-label, randomized, 3-stage, phase 2 study. Pts who have failed ≥2 prior CT regimens (including high-dose CT) will be randomized to receive one of the following: D, 1.5 g via IV infusion q4w, for up to a total of 12 months (13 doses/cycles) alone or with T, 75 mg IV q4w, starting on week 0, for up to 4 months (4 doses/cycles).

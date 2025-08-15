@@ -1,0 +1,50 @@
+Salvage Systemic Therapy With or Without Stereotactic Ablative Radiotherapy for Recurrent Ovarian Cancer
+Rationale Ovarian cancer is the 3rd most common gynecologic malignancy in Korea. The standard treatment is tumor debulking surgery with or without adjuvant chemotherapy. However, with a recurrence rate of 80%, the treatment results are the worst among gynecological cancers. The use of target and immune agents have demonstrated to improve survival. However, long-term maintenance of systemic therapy is often difficult because recurrent tumors do not respond uniformly to systemic therapy.
+
+In the 1980\~1990s, whole abdomen irradiation had been tried and faded out owing to many side effects with the introduction of taxane. Efforts have been made to find the role of salvage radiation therapy (RT) in recurrent ovarian cancer. Involved field radiotherapy (IFRT) emerged to cover the gross tumor plus regional microscopic disease in addition to salvage chemotherapy. It showed high local control, provided chemotherapy holiday in selected cases, but did not prevent out-field progression. Stereotactic ABlative Radiotherapy (SABR) is the latest treatment using an intensity modulated technique to increase the fractional dose, reduces the number of treatments, and destroys the tumor with high accuracy. SABR-COMET study, a representative clinical study, showed a significant increase in overall survival in solid cancers.
+
+Objectives The primary objective; to evaluate whether the addition of SABR to standard salvage treatment significantly improves 3-year overall survival (OS) in patients with recurrent ovarian cancer.
+
+The secondary objectives;
+
+* to check whether it significantly affects quality of life (Health-related QoL), patient-reported outcome (PRO)
+* to develop an deep learning-based predictive model for the treatment response of ovarian cancer subjects using radiomic and genomic analysis.
+
+Study design Arm 1; Standard salvage therapy Subjects will continue to receive current salvage treatment suitable for subjects at the discretion of their doctor, considering the location and size of recurrence, and the patient's comorbidities.
+
+Arm 2; Standard salvage therapy+ SABR Subjects receive SABR for lesions found in imaging studies. Before or After SABR, standard salvage treatment continues as planned at the discretion of the doctor.
+
+Stratification factors
+
+1. The number of No ascites, Platinum-sensitive, Normal CA125 and ECOG０-１; 0\~3 vs. 4
+2. Location of the lesion; Lymph node lesion vs. Non-lymph node lesion
+3. PARP inhibitor; Used vs. Not used
+
+Randomization Arm 1 : Arm 2 = 1 : 2
+
+Estimated Accrual :
+
+* The sample size 270 was calculated by setting the sample size to a Type I error rate (α) of 0.05 and Statistical Power of 80% using 2-Sided Equity and log-rank test.
+* Accurate time: 2 years, Follow-up: 3 years (total 5 years)
+* Alpha = 0.05, Power = 80%
+* 1 year drop-out: 5% per group
+* 3 year survival proportion: RT group 74.42%, No RT group 58%
+* Arm 1: Arm 2 = 1 : 2 ratio
+Recurrent Epithelial Ovarian Cancer
+OTHER: Standard salvage therapy|RADIATION: Standard salvage therapy + SABR
+overall survival (OS), to evaluate whether the addition of SABR to standard salvage treatment significantly improves 3-year overall survival (OS) in patients with recurrent ovarian cancer, 3year
+Treatment Plan Arm 2; SABR Number of Fractions Preferred Doses Acceptable Doses
+
+1 20 Gy 16-24 Gy 3 30 Gy 24-33 Gy 5 35 Gy 25-40 Gy 10 40 Gy 35-45 Gy
+
+Patient Evaluation:
+
+* Interviews
+* It was performed 3, 6, 9, 12, 18, 24, 30, and 36 months after the end of treatment.
+* Medical history listening, physical examination and assessment of all possible side effects
+* The relevant examination can be prescribed if necessary.
+* Imaging examination
+* one of CT or PET-CT including areas suspected of recurrence or treatment is possible.
+* If PET-CT was not performed within two months before treatment, it is recommended to perform PET-CT before treatment NOTE: Before treatment, it is recommended to perform the same examination as the imaging test that evaluated the treatment site.
+* Tumor marker CA125 examination: performed on every visit after radiation therapy.
+* Survey EORTC-QLQ-C30 questionnaire; prior to radiation therapy, 12, 24, and 36 months after treatment FACIT-TS-G (Arm 2 subjects); before radiation therapy, 12, 24, and 36 months after treatment.

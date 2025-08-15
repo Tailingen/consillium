@@ -1,0 +1,95 @@
+A Study of Treatment-Related Toxicities and Quality of Life After Local Therapy in Chinese Breast Cancer Patients
+This study, called PERSEVERE, examines how local treatment for early breast cancer affects people's health and daily lives over time.
+
+People who join the study will have early-stage breast cancer and receive treatment such as surgery and other therapies that are used before or after surgery. The study does not include people with late-stage (metastatic) breast cancer.
+
+Researchers want to learn about short- and long-term side effects that can happen during or after treatment. These may include tiredness, trouble sleeping, emotional distress, pain, or changes in heart or lung function. The study also looks at how these effects impact participants' quality of life.
+
+Participants will be asked to complete surveys about how they feel. They will also have health checks, such as heart tests, lung function tests, and blood samples. Tissue samples from surgery will also be collected.
+
+The goal is to understand better how different people respond to breast cancer treatment and find ways to support long-term recovery.
+Breast Neoplasms|Quality of Life (QOL)|Toxicities|Breast Diseases
+PROCEDURE: blood sampling
+Change in Quality of Life Score Measured by EORTC QLQ-C30, Quality of life will be measured using the European Organisation for Research and Treatment of Cancer Quality of Life Questionnaire Core 30 (EORTC QLQ-C30). The focus will be on global health status, functional scales (physical, emotional, cognitive, social, role), and symptom burden. Higher scores on functional and global health subscales indicate better quality of life, while higher symptom scores indicate greater symptom burden. Changes from baseline will be assessed at follow-up timepoints., Baseline, 1week, 1 month, 3 months, 6 months, 12 months, annually up to 5 years
+Trajectories and Risk Factors for Cancer-Related Fatigue, Cancer-related fatigue (CRF) will be measured using the EORTC QLQ-FA12 questionnaire. This outcome will assess changes in fatigue severity over time across physical, emotional, and cognitive domains. The study will examine the longitudinal pattern of fatigue symptoms and analyze their associations with treatment modalities (e.g., chemotherapy, radiotherapy), clinical characteristics (e.g., comorbidities), biological markers (e.g., inflammation), and psychosocial factors (e.g., stress and social support)., Baseline, 1 week, 1 month, 3 months, 6 months, 12 months, then annually up to 5 years
+PERSEVERE is a prospective, multi-modal cohort study designed to evaluate treatment-related toxicities and quality of life in people with stage I-III early breast cancer receiving local therapy in China. Participants will be eligible if they either:
+
+Receive neoadjuvant therapy (such as chemotherapy or targeted therapy) prior to surgery, or
+
+Undergo surgery followed by postoperative adjuvant therapy, including chemotherapy, radiotherapy, endocrine therapy, or targeted therapy.
+
+The study does not include individuals with recurrent or metastatic breast cancer.
+
+Study Objectives and Methods This study aims to understand the short- and long-term physical, psychological, and social effects of breast cancer treatment and how they impact participants' recovery and daily life.
+
+At baseline, the study collects comprehensive information on participants':
+
+Sociodemographic status: marital status, education level, and household income
+
+Anthropometric measurements: height, weight, body mass index (BMI), waist and hip circumference
+
+Medical history: personal medical history, comorbidities, and past treatments
+
+Reproductive history: menstrual and fertility history
+
+Participants also undergo baseline clinical assessments, including:
+
+Echocardiography (e.g., LVEF) to screen for cardiotoxicity
+
+Pulmonary function testing, conducted for participants aged 70 or older
+
+Routine laboratory tests, such as liver and kidney function, lipid metabolism, and inflammation markers
+
+Biospecimens collected at baseline include:
+
+Peripheral blood (plasma and PBMCs)
+
+Tumor and adjacent normal tissue from surgery
+
+These samples are stored for future biomarker discovery, multi-omics analyses, and translational research on treatment-related toxicities.
+
+Following baseline assessments, participants complete a series of validated patient-reported outcome (PRO) questionnaires, which provide insight into their physical symptoms, emotional well-being, and quality of life. These include:
+
+EORTC QLQ-C30 and QLQ-BR23 for cancer-related quality of life
+
+HADS (Hospital Anxiety and Depression Scale)
+
+Pittsburgh Sleep Quality Index (PSQI) for sleep disturbances
+
+Brief Pain Inventory - Short Form (BPI-SF)
+
+Perceived Stress Scale (PSS-10) for psychological stress
+
+Social Support Rating Scale (SSRS) for social support assessment
+
+Follow-up and Data Collection
+
+Participants are followed using standardized electronic questionnaires administered via the REDCap platform at:
+
+Postoperative week 1, month 1, month 3, and every 6-12 months thereafter for up to 5 years
+
+No repeat biospecimen or clinical tests are collected after baseline. Follow-up focuses on tracking changes in symptoms and quality of life through PROs, enabling analysis of individual recovery trajectories.
+
+Quality Assurance Data collection uses REDCap with built-in logic and range validation
+
+A structured data dictionary ensures consistency across sites
+
+SOPs guide recruitment, consent, biospecimen handling, adverse event reporting, and data entry
+
+Source data verification will be conducted on a sample of participants
+
+Missing data will be managed using statistical imputation and sensitivity analysis
+
+Study Innovation and Impact
+
+PERSEVERE is one of the first large-scale prospective cohort studies in China specifically focused on treatment-related toxicities and quality of life in breast cancer patients. It is designed to:
+
+Capture a comprehensive picture of treatment-related toxicities, beyond acute effects
+
+Enable integrative analysis of biological, physical, and psychological indicators
+
+Build a clinical-biological dataset for developing prediction tools and AI-driven recovery models
+
+Guide personalized supportive care strategies based on Chinese breast cancer patients' needs
+
+The findings will provide new insights into survivorship and recovery and help clinicians deliver evidence-based, patient-centered care.

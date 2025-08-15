@@ -1,0 +1,83 @@
+T Cells Expressing a Fully-Human Anti-CD30 Chimeric Antigen Receptor for Treating CD30-Expressing Lymphomas
+Background:
+
+* Improved treatments for a variety of treatment-resistant, TNFRSF8 (CD30)-expressing malignancies including Hodgkin lymphoma, anaplastic large cell lymphoma, and other CD30- expressing lymphomas are needed.
+* T cells can be genetically modified to express chimeric antigen receptors (CARs) that specifically target malignancy-associated antigens.
+* Autologous T cells genetically modified to express CARs targeting the B-cell antigen B-lymphocyte antigen CD19 (CD19) have caused complete remissions in a small number of patients with lymphoma. These results demonstrate that CAR-expressing T cells can have anti-lymphoma activity in humans.
+* CD30 expression can be easily detected by immunohistochemistry on lymphoma cells, which allows selection of CD30-expressing malignancies for treatment.
+* CD30 is not known to be expressed by normal cells except for a small number of activated lymphocytes.
+* We have constructed a novel fully-human anti-CD30 CAR that can specifically recognize CD30-expressing target cells in vitro and eradicate CD30-expressing tumors in mice.
+* This particular CAR has not been tested before in humans.
+* Possible toxicities include cytokine-associated toxicities such as fever, hypotension, and neurological toxicities. Elimination of a small number of normal activated lymphocytes is possible, and unknown toxicities are also possible.
+
+Objectives:
+
+Primary
+
+-Determine the safety and feasibility of administering T-cells expressing a novel fully human anti-CD30 CAR to patients with advanced CD30-expressing lymphomas.
+
+Eligibility:
+
+* Patients must have anaplastic large cell lymphoma, peripheral T-cell lymphoma not otherwise specified, diffuse large B-cell lymphoma not otherwise specified, primary mediastinal B-cell lymphoma, grey zone lymphoma, enteropathy associated T-cell lymphoma, or extranodal natural killer (NK)/T-cell lymphoma, nasal type
+* Patients must have malignancy that is both measurable on a computed tomography (CT) scan with a largest diameter of at least 1.5 cm and possessing increased metabolic activity detectable by positron emission tomography (PET) scan. Alternatively, patients with lymphoma detected by flow cytometry of bone marrow are eligible.
+* Patients must have a creatinine of 1.6 mg/dL or less and a normal cardiac ejection fraction.
+* An Eastern Cooperative Oncology Group (ECOG) performance status of 0-2 is required.
+* No active infections are allowed including evidence of active human immunodeficiency virus (HIV), hepatitis B, or hepatitis C. At the time of protocol enrollment patients must be seronegative for cytomegalovirus (CMV) by antibody testing or must have a negative blood CMV polymerase chain reaction (PCR).
+* Absolute neutrophil count greater than or equal to 1000/micro L, platelet count greater than or equal to 55,000/micro L, hemoglobin greater than or equal to 8g/dL
+* Serum alanine aminotransferase (ALT) and aspartate aminotransferase (AST) less or equal to 3 times the upper limit of the institutional normal unless liver involvement by malignancy is demonstrated.
+* At least 14 days must elapse between the time of any prior systemic treatment (including corticosteroids above 5 mg/day of prednisone or equivalent corticosteroid dose) and initiation of required leukapheresis.
+* Clear CD30 expression must be detected on 75% or more of malignant cells from either bone marrow or lymphoma mass by flow cytometry or immunohistochemistry. The patient s malignancy will need to be assessed for CD30 expression by flow cytometry or immunohistochemistry performed at the National Institutes of Health (NIH). If unstained, paraffin-embedded bone marrow or lymphoma sections are available from prior biopsies, these can be used to determine CD30 expression by immunohistochemistry; otherwise, patients will need to come to the NIH for a biopsy to determine CD30 expression. The sample for CD30 expression can come from a biopsy obtained at any time before enrollment, unless the patient has received a prior anti-CD30 monoclonal antibody, in which case the sample must come from a biopsy following completion of the most recent anti-CD30 monoclonal antibody treatment.
+* Eligible patients with diffuse large B-cell lymphoma or primary mediastinal B-cell lymphoma must have received 2 prior treatment regimens at least 1 of which included an anthracycline and an anti-CD20 monoclonal antibody.
+* Patients who have never had an allogeneic hematopoietic stem cell transplant as well as patients who have had a 9/10 or 10/10 human leukocyte antigen (HLA)-matched sibling or a 9/10 or 10/10 HLA- matched unrelated donor hematopoietic stem cell transplant are potentially eligible.
+* Women who are pregnant or plan to become pregnant will be excluded.
+Lymphoma, Large-Cell, Anaplastic|Enteropathy-Associated T-Cell Lymphoma|Lymphoma, Large B-Cell, Diffuse|Lymphoma, Extranodal NK-T-Cell|Lymphoma, T-Cell, Peripheral
+BIOLOGICAL: Anti-Tumor Necrosis Factor (TNF) Receptor Superfamily Member 8 (CD30) Chimeric Antigen Receptor (CAR) T cells|DRUG: Cyclophosphamide|DRUG: Fludarabine
+Maximum Tolerated Dose of Anti-Tumor Necrosis Factor (TNF) Receptor Superfamily Member 8 (CD30) Chimeric Antigen Receptor (CAR) in Participants With Advanced CD30-expressing Lymphomas, Maximum tolerated dose is defined as the dose at which a maximum of 1 of 6 participants has a dose-limiting toxicity (DLT). A DLT is defined as toxicities occurring within 30 days of CAR T-cell infusion. DLT's are Grade 3 or Grade 4 toxicities possibly, probably, or definitely related to either the anti-CD30 CAR T cells or the fludarabine and cyclophosphamide chemotherapy conditioning regimen and lasting more than 7 days. A DLT will only be considered in participants who have received CAR T-cell infusions., 4-5 weeks after first dose
+Peak Percentage and Persistence at 1 Month of Peripheral Blood Mononuclear Cells (PBMC) That Expressed the Chimeric Antigen Receptor (CAR) T-cells, Peak percentage and the percentage 1 month after infusion of peripheral blood mononuclear cells (PBMC) that expressed the Chimeric Antigen Receptor (CAR) T-cells assessed by polymerase chain reaction (PCR)., From time of infusion until 1 month after infusion|Number of Participants With Complete Response (CR), Partial Response (PR), Stable Disease (SD), or Progression as Their Best Response, Response was measured using the Cheson et al. Revised Response Criteria for Malignant Lymphoma, Journal of Clinical Oncology 2007 and Recommendations for Initial Evaluation, Staging, and Response Assessment of Non-Hodgkin Lymphoma: The Lugano Classification Journal of Clinical Oncology, 2014). Complete Response (CR) is complete disappearance of all detectable clinical evidence of disease and disease-related symptoms if present before therapy. Partial Response (PR) is ≥ 50% decrease in sum of the product of the diameters (SPD) of up to 6 of the largest dominant nodes or nodal masses. Progressive Disease (PD) ≥ 50% increase from nadir in the sum of the products of at least two lymph nodes, or appearance of a new lesion greater than 1.5 cm in any axis even if other lesions are decreasing in size. Stable Disease (SD) is neither sufficient shrinkage to qualify for PR nor sufficient increase to qualify for PD., Responses will be assessed as long as the patient is on-study at the following time-points: 1, 2, 3, 4, 6, 9, and 12 months after CAR T-cell infusion. Then responses were assessed every 6 months up until 3 years after CAR T-cell infusion.
+Number of Participants With Serious and/or Non-serious Adverse Events Assessed by the Common Terminology Criteria for Adverse Events (CTCAE v5.0), Here is the number of participants with serious and/or non-serious adverse events assessed by the Common Terminology Criteria for Adverse Events (CTCAE v5.0). A non-serious adverse event is any untoward medical occurrence. A serious adverse event is an adverse event or suspected adverse reaction that results in death, a life-threatening adverse drug experience, hospitalization, disruption of the ability to conduct normal life functions, congenital anomaly/birth defect or important medical events that jeopardize the patient or subject and may require medical or surgical intervention to prevent one of the previous outcomes mentioned., Date treatment consent signed to date off study, approximately 11 months and 26 days, 7 months and 10 days, 39 months and 7 days, 17 months and 3 days, 6 months and 15 days, and 1 month and 7 days for each group respectively.|Number of Participants With a Dose Limiting Toxicity (DLT), A DLT is defined as toxicities occurring within 30 days of CAR T-cell infusion. DLT's are Grade 3 or Grade 4 toxicities possibly, probably, or definitely related to either the anti-CD30 CAR T cells or the fludarabine and cyclophosphamide chemotherapy conditioning regimen and lasting more than 7 days. A DLT will only be considered in participants who have received CAR T-cell infusions., 30 days within CAR T-cell infusion
+Background:
+
+* Improved treatments for a variety of treatment-resistant, TNFRSF8 (CD30)-expressing malignancies including Hodgkin lymphoma, anaplastic large cell lymphoma, and other CD30- expressing lymphomas are needed.
+* T cells can be genetically modified to express chimeric antigen receptors (CARs) that specifically target malignancy-associated antigens.
+* Autologous T cells genetically modified to express CARs targeting the B-cell antigen B-lymphocyte antigen CD19 (CD19) have caused complete remissions in a small number of patients with lymphoma. These results demonstrate that CAR-expressing T cells can have anti-lymphoma activity in humans.
+* CD30 expression can be easily detected by immunohistochemistry on lymphoma cells, which allows selection of CD30-expressing malignancies for treatment.
+* CD30 is not known to be expressed by normal cells except for a small number of activated lymphocytes.
+* We have constructed a novel fully-human anti-CD30 CAR that can specifically recognize CD30-expressing target cells in vitro and eradicate CD30-expressing tumors in mice.
+* This particular CAR has not been tested before in humans.
+* Possible toxicities include cytokine-associated toxicities such as fever, hypotension, and neurological toxicities. Elimination of a small number of normal activated lymphocytes is possible, and unknown toxicities are also possible.
+
+Objectives:
+
+Primary
+
+-Determine the safety and feasibility of administering T-cells expressing a novel fully-human anti-CD30 CAR to patients with advanced CD30-expressing lymphomas.
+
+Eligibility:
+
+* Patients must have anaplastic large cell lymphoma, angioimmunoblastic T-cell lymphoma, peripheral T-cell lymphoma not otherwise specified, diffuse large B-cell lymphoma not otherwise specified, primary mediastinal B-cell lymphoma, grey zone lymphoma, enteropathy-associated T-cell lymphoma, or extranodal natural killer (NK)//T-cell lymphoma, nasal type
+* Patients must have malignancy that is both measurable on a computed tomography (CT) scan with a largest diameter of at least 1.5 cm and possessing increased metabolic activity detectable by positron emission tomography (PET) scan. Alternatively, patients with lymphoma detected by flow cytometry of bone marrow are eligible.
+* Patients must have a creatinine of 1.6 mg/dL or less and a normal cardiac ejection fraction.
+* An Eastern Cooperative Oncology Group (ECOG) performance status of 0-2 is required.
+* No active infections are allowed including evidence of active human immunodeficiency virus (HIV), hepatitis B, or hepatitis C. At the time of protocol enrollment, patients must be seronegative for cytomegalovirus (CMV) by antibody testing or must have a negative blood CMV polymerase chain reaction (PCR).
+* Absolute neutrophil count greater than or equal to 1000/micro L, platelet count greater than or equal to 55,000/micro L, hemoglobin greater than or equal to 8g/dL
+* Serum alanine aminotransferase (ALT) and aspartate aminotransferase (AST) less or equal to 3 times the upper limit of the institutional normal unless liver involvement by malignancy is demonstrated.
+* At least 14 days must elapse between the time of any prior systemic treatment (including corticosteroids above 5 mg/day of prednisone or equivalent corticosteroid dose) and initiation of required leukapheresis.
+* Clear CD30 expression must be detected on 75% or more of malignant cells from either bone marrow or lymphoma mass by flow cytometry or immunohistochemistry. The patient s malignancy will need to be assessed for CD30 expression by flow cytometry or immunohistochemistry performed at the National Institutes of Health (NIH). If unstained, paraffin-embedded bone marrow or lymphoma sections are available from prior biopsies, these can be used to determine CD30 expression by immunohistochemistry; otherwise, patients will need to come to the NIH for a biopsy to determine CD30 expression. The sample for CD30 expression can come from a biopsy obtained at any time before enrollment, unless the patient has received a prior anti-CD30 monoclonal antibody, in which case the sample must come from a biopsy following completion of the most recent anti-CD30 monoclonal antibody treatment.
+* Eligible patients with diffuse large B-cell lymphoma or primary mediastinal B-cell lymphoma must have received 2 prior treatment regimens at least 1 of which included an anthracycline and an anti-CD20 monoclonal antibody.
+* Patients who have never had an allogeneic hematopoietic stem cell transplant as well as patients who have had a 9/10 or 10/10 human leukocyte antigen (HLA)-matched sibling or a 9/10 or 10/10 HLA- matched unrelated donor hematopoietic stem cell transplant are potentially eligible.
+* Women who are pregnant or plan to become pregnant will be excluded.
+
+Design:
+
+* This is a phase I dose-escalation trial.
+* Patients will undergo leukapheresis.
+* T cells obtained by leukapheresis will be genetically modified to express an anti-CD30 CAR.
+* Patients will receive a lymphocyte-depleting chemotherapy conditioning regimen with the intent of enhancing the activity of the infused anti-CD30 CAR-expressing T cells.
+* A chemotherapy conditioning regimen of cyclophosphamide and fludarabine will be administered prior to all CAR T-Cell infusions. Fludarabine will be given on the same days as the cyclophosphamide.
+* Two days after the chemotherapy ends, patients will receive an infusion of anti-CD30-CAR-expressing T cells.
+* The initial dose level of this dose-escalation trial will be 0.3x10(6) CAR+ T cells/kg of recipient bodyweight for Cohort 1. The initial dose level will be 1 x 10 (6) CAR+T cells/kg for Cohort 2.
+* The cell dose administered will be escalated until a maximum tolerated dose is determined.
+* Following the T-cell infusion, there is a mandatory 9-day inpatient hospitalization to monitor for toxicity.
+* Outpatient follow-up is planned for 2 weeks and 1, 2, 3, 4, 6, 9, and 12 months after the CAR T-cell infusion. Long-term gene-therapy follow-up consisting of yearly visits to a doctor near the patients home for 4 more years and then yearly telephone contact for 10 additional years will be required.
+* As of Amendment E (Protocol version: 08/03/2018), repeat treatments consisting of the conditioning chemotherapy followed by a CAR T-cell infusion at the maximum tolerated dose (MTD) for the patients cohort are allowed for eligible patients with any best responses except continuing complete remission or progressive malignancy.
+* Re-enrollment will be allowed for a small number of subjects.

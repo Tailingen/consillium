@@ -1,0 +1,79 @@
+Inherited Cancer Early Diagnosis (ICED) Study
+ICED is a prospective sample collection research study, aiming to develop or validate a blood/urine biomarker which could potentially detect cancers early in individuals at high risk of developing cancers, due to certain germline alterations.
+Li Fraumeni Syndrome|Lynch Syndrome|Hereditary Diffuse Gastric Cancer|Cowden Syndrome|Peutz-Jeghers Syndrome|Familial Adenomatous Polyposis|SMAD4 Gene Mutation|MutYH-associated Polyposis
+Primary hypothesis, Cancer specific genetic and epigenetic changes will be combined to provide a circulating tumour DNA signal that is present in patients who receive a confirmed diagnosis of cancer and not in patients who do not develop cancer, 2 years
+Secondary hypothesis, Biomarkers, clinical data, imaging data and tissue will be combined to enhance malignancy detection in patients with inherited cancer syndromes, 2 years
+Heritable genetic alterations play a major role in up to 10% of all cancers. There are more than 50 hereditary cancer syndromes identified which predispose an individual to developing certain tumours, resulting in high mortality when the cancer has been diagnosed at an advanced stage. Currently there are established surveillance guidelines for majority of these syndromes, however these imply frequent clinical, laboratory, radiological studies and invasive investigations that are costly, time consuming and might omit detection of early tumours. It has been shown that by diagnosing a cancer before metastasis, cancer-related deaths could be potentially reduced by 15% within 5 years.
+
+Limitations of clinical and radiological surveillance in patients with genetic conditions At present, the only recommendation for a full-body scan in a cancer predisposition syndrome is for patients with a germline TP53 mutation. Whole body-MRI (WB-MRI) is an expensive technique and requires access to specialist radiologists. Whilst it can detect a malignant process, WB-MRI also has a high rate of detection of benign lesions which will require further tests, accounting for considerable additional distress and waiting time for patients. However, in the UK, access to whole-body MRI is variable across the country and not routinely funded. The NHS breast screening programme (BSP) offers surveillance for breast cancer with mammography or breast MRIs to women carrying a germline mutated BRCA1, BRCA2, TP53, A-T homozygotes, PALB2, PTEN, STK11 or CDH1. (15). This targeted screening might reduce the incidence of a breast cancer however it does not screen for any other potential tumours which may arise in a woman with a germline mutation of the beforementioned genes. Colonoscopy can detect early colorectal cancer, although, it is an invasive, expensive and time-consuming procedure. Finally, clinical examination is often not sufficient in detecting asymptomatic tumours and most patients unfortunately will present with advanced malignancies when curative treatment is no longer feasible.
+
+There is a clear need for newer approaches for early detection of cancer in these high-risk cohorts, which are less invasive for the patient, less resource-intensive and of improved sensitivity.
+
+This study will inform whether the use of peripheral blood ctDNA and the detection of genetic and epigenetic changes could serve as a blood biomarker to detect tumour development in patients at high-risk of cancer for earlier diagnosis of such tumours.
+
+Data Acquisition
+
+Eligible patients will have blood and optional urine samples collected at screening, as well as a medical history sheet and symptom questionnaire.
+
+Analysis
+
+Plasma and optional urine for genetic and epigenetic studies will be collected, processed (Category 2 laboratories) and stored as per PHE guidelines (7) within the RM Centre for Molecular Pathology (ISO15189 accredited (UKAS registered number 9839). RMH CMP is the cancer diagnostic laboratory for the North Thames GLH, one of seven NHS England Genomic Laboratory Hubs. High volume, and cost-effective high throughput sequencing can be performed on the centres Illumina NovaSeq 6000 sequencer. This proposal lends itself to rapid and significant scalability. The Unit has an internationally leading track record in ctDNA research and has already validated ctDNA gene panels against tissue based molecular diagnostics for paediatrics (ct PED, in use, CR-UK stratified medicine program to avoid biopsies in children) and colorectal cancer - (ct GI) for detection of minimal residual disease in colorectal cancer as the pilot to the NIHR funded TRACC study (£3m grant; Jan 2020 for 8 years). The 23 gene ctGI panel has been validated to a VAF detection sensitivity of 0.125% and can be run with a buffy coat (germline) control to eliminate CHIP artefacts. The panel is suitable for detecting variants in GI and lung cancer and can be implemented immediately. A similar panel has been developed for use in breast cancers. These panels have been successfully used in a the NIHR funded pan cancer diagnostic triage study PREVAIL. The advantage of the in-house ctGI panel is cost \~ £300 per test (consumables plus sequencing) - versus several thousands of pounds through a commercial provider. Cost is therefore less than an invasive diagnostic test (i.e. endoscopic ultrasound and fine needle biopsy with associated staff and theatre time). A sub-set of patients (n = 10) will also have plasma and urinary derived ctDNA subjected to cross platform comparison with low-pass whole genome sequencing (low-pass WGS).
+
+At the study enrolment, the patient will have the option to complete a symptom questionnaire, The purpose of this questionnaire is to document the presence or absence of symptoms throughout the study participation. All patients will be asked to complete it every time there is a specimen collection (baseline at month 0/ month 6 (optional) /end of study at month 12).
+
+The clinical research team assessing each patient at any of the research visits, is responsible for the review of the symptom questionnaires filled up by patients. If there are any new or worsening symptoms, the research team will flag these to the treating team or General Practitioner (GP) of the patient, to ensure that the patient has appropriate follow-up or investigations if required
+
+Retrospective collection of clinical and radiological information
+
+The results from radiological or interventional (biopsies, endoscopies) studies, undertaken by the patients' clinical team as part of their standard of care, will be collected by the ICED study physicians, in order to allow correlative analysis with the results of blood and optional urine sequencing and patient questionnaire.
+
+The data collected will include clinical information such as signs, symptoms and result of the clinical examination performed by the treating clinician, radiological reports, if patients will undergo routine radiological surveillance as per local practice and guideline, histopathological diagnosis for patients undergoing biopsies or surgeries.
+
+Statistical consideration
+
+Oversight of statistical analysis and bioinformatics will be provided by Dr Andrew Feber (ICR Group leader and UCL) and Dr Catey Bunce (RM CTU Manager - Statistics \& Training, RMH)
+
+This study is an exploratory biomarker study, and the primary objective is to assess whether a ctDNA signal detected through genetic or epigenetic changes.
+
+In general, results will be reported as effect sizes with 95 % confidence intervals as opposed to presenting p values. Since the study is not powered, caution will be applied to the interpretation of findings.
+
+This is the first study of its kind. It is not invasive beyond standard tests that would be made on these patients as part of their standard care. It is primarily a study of estimation rather than one testing against pre-defined hypotheses and as such the investigators have not included a formal power calculation. In reality, providing such a calculation would be somewhat academic since there are no studies which would provide robust evidence in relation to the parameters required for sample size calculations.
+
+Analysis will be mostly descriptive. Continuous variables will be reported as means and standard deviations if approximately normal (assessed by inspection of histograms or medians and interquartile ranges if there is overt departure from normality. Categorical variables will be summarised using frequencies and percentages. An analysis plan will be written prior to analysis.
+
+Results will be presented according to whether or not the patient has developed cancer whilst under follow-up.
+
+1. Sample size The estimated sample size for this study is approximately 80-100 individuals, including 40-50 patients in each of the two cohorts. This number of patients is based on the actual number of germline variant carriers registered on the carrier registry at any given time in the Cancer Genetics unit at the RMH and and are on surveillance. The estimated number of patients who will develop a malignancy and will have a detected ctDNA during their study participation is lower than the total number of patients enrolled (approximately 30-35% of patients). This sample size estimation is based on two prospective studies, one including patients with LI Fraumeni syndrome, where the rate of malignancy detected by an one-off whole Body MRI Was 13.6% (PMID 28091804), and a second prospective multicentric study enrolling Lynch patients, where the rate of detection of colorectal cancer was 58% over a period of 2.5 years (PMID 26657901). Based on the available evidence, our estimation is that 30-35% of patients will develop a malignancy during the study participation or will have an asymptomatic cancer detected at the time of enrollment.
+
+   If fewer patients that expected will develop cancer, recruitment will not be extended and the data will be presented as obtained. The sample size split will be approximately 50% between the two cohorts. The analysis will be carried out separately for each cohort. Patients enrolled in the Li Fraumeni cohort have the option of enrollment in a parallel study (SIGNIFIED), which will investigate the cost-efficiency of undergoing a whole-body MRI at 12 months apart in tp53 carriers. This will potentially allow for correlative analysis of whole-body MRI results and the blood/urine biomarker study for patients who opt to take part in both studies at the same time.
+2. Statistical analysis
+
+Patient flow through the study will be reported in consort like flow chart. If patients are lost to follow up the reasons for this will be reported where known.
+
+Endpoint 1:
+
+The proportion of patients who develop cancer that have ctDNA in advance of their cancer will be reported with 95 % confidence intervals calculated by the exact binomial method.
+
+Endoint 1: Relative risk of cancer will be calculated in patients with ctDNA compared to those without cdNA detected.
+
+The proportion of patients who develop a diagnosis of cancer whilst under follow up will be reported with 95 % confidence intervals calculated by the exact binomial method.
+
+The proportion with patients who do not develop cancer will also be reported with 95% confidence intervals calculated by the exact binomial method.
+
+The proportion of patients who do not develop cancer but have a ctDNA signal detected will also be reported with 95% confidence intervals calculated by the exact binomial method.
+
+Equally, the proportion of patients who develop cancer but do not have a ctDNA signal detected will be reported with 95% confidence intervals as above.
+
+Endpoint 3:
+
+In the situation where patients undergo surgery, the findings will be presented as following: if there will be less than 5 five patients who will have a surgery, the raw data will be individually described. If there will be more than 5 patients, then the results will report the difference in mean (SD)/median (range) ctDNA level before and after surgery.
+
+Statistical analysis will be performed separately for each cohort (Li Fraumeni and GI cohort) and for each of the endpoints mentioned in the Endpoints paragraph (paragraph 6.1 and 6.2). The results for each endpoint will be estimated with a 95% confidence interval computed by the exact binomial method. Group refers to patients in whom a ctDNA signal is detected vs patients in whom not ctDNA is detected; group will also refer to patients who develop a malignancy vs patient who do not develop a malignancy. Although it is unlikely that patients who present a ctDNA signal will not have a malignancy diagnosed (during the follow-up period), this will be clarified when describing the findings of previous analysis.
+
+Endpoint 4:
+
+Change in HRQoL and symptoms during the follow-up period will be presented using descriptive statistics such as mean and standard deviation after each visit. The mean (SD) scores over time will also be presented graphically. Participants will be asked to complete the questionnaire at baseline, at follow-up visit (6 months) and at the end of study participation (12 months +/- 2 months to allow for patient availability).
+
+In terms of an analysis population, the investigators will report characteristics on all patients recruited for the study. If they are lost to follow up, the investigators will report the available data and report the proportion lost and any differences between the proportion lost and those not lost to follow-up.
+
+The main limitation of this study is the low number of patients expected to develop cancer in a given period of time, therefore the findings will be reported as exploratory.

@@ -1,0 +1,40 @@
+Generation and Validation of Predictive Models for Localized Prostate Cancer Treated With External Radiotherapy.
+The generation of predictive models in radiotherapy has seen a significant increase. In 2017, Raymond published the largest systematic review of predictive prognostic models for biochemical relapse (BR), metastasis-free survival, and overall survival in patients with localized prostate cancer treated with radiotherapy (14), attempting to identify whether they were adequately developed and validated.
+
+He found 72 unique predictive models for external radiotherapy: 22 corresponding to BR risk, 20 corresponding to Cancer-Specific Survival, 10 corresponding to Overall Survival, and 20 for Disease/Metastasis-Free Survival detection. In his analysis, he highlighted a significant variation in the quality of these predictive models, understanding that they were developed prior to the existence of TRIPOD guidelines.
+
+In this regard, he pointed out that 54% of these models did not report their accuracy, and 61% of the models lacked validation (either internal or external). He also noted that they had limited follow-up (only 65% had follow-up beyond 5 years), that the treatment doses in these models were lower than current standards, and that the radiation techniques were different from current practices. Although in his final assessment, Raymond maintains that predictive models provide more certainty in predicting oncological outcomes than professional assessments, he considers it vital to validate these models for each population that wants to use them (the vast majority of these models are based on U.S. populations) or, even better, to generate predictive models specific to the local population while adhering to the TRIPOD guidelines.
+
+Probably due to the lack of validation in our patients for existing predictive models and/or the absence of predictive models originating from our population, in our routine clinical practice (Multidisciplinary Oncology Committees), phisycians do not apply any predictive models to patients diagnosed with localized prostate cancer.
+Predictive Cancer Model|Localized Prostate Carcinoma
+RADIATION: EXTERNAL RADIOTHERAPY
+Biochemical recurrence (BR) as an increase of 2 ng/ml or more above the nadir of PSA, 2 ng/ml + nadir, 5-10 years|Overall Survival (OS), As the time in months from diagnosis until death or the last follow-up., 5-10 years
+Grade II toxicity in bladder and rectal, Grade II toxicity in bladder and rectal , according to the Common Terminology Criteria for Adverse Events (CTCAE version 4.03)., 5-10 years
+The general objective of the study is to develop a predictive model for oncological outcomes and bladder and rectal toxicities based on the analysis of patients with localized prostate cancer who have received external radiotherapy, useful for medical decision-making. This objective is divided into three specific objectives:
+
+1) Estimate a predictive model for oncological outcomes, such as the probability of Biochemical Recurrence (BR), Disease-Free or Metastasis-Free Time (DFT), Overall Survival (OS), and Cancer-Specific Survival (CSS).
+
+2) Estimate a predictive model for bladder and rectal toxicities in patients with localized prostate cancer who have received external radiotherapy.
+
+3) Analyze the feasibility and impact of implementing an individualized decision-making model based on this model, and its implementation in oncology committees and in initial (informative) visits in radiation oncology.
+
+* Hypotheses\*\*:
+
+  1. The developed predictive model will have adequate predictive values.
+  2. Validate and compare the model with other shared decision-making methods in localized prostate cancer in Radiation Oncology Services.
+  3. Professionals and patients will show appropriate satisfaction with the use of this type of model for shared decision-making with the patient in radiation oncology.
+* Method\*\*:
+
+This study is divided into phases for its execution:
+
+1. Retrospective analysis of 400 patients diagnosed with localized prostate cancer and treated with external radiotherapy between January 2014 and December 2019. Sub-analyses of the population will be conducted to evaluate different oncological outcomes and the produced toxicities, with particular emphasis on distinguishing differences that technological variables may justify.
+2. Generation and validation of a predictive model for treatment oncological outcomes and bladder and rectal toxicities. The development of the model will follow the TRIPOD guidelines.
+3. Analysis of the model's implementation in patient decision-making, for which a validated questionnaire will be applied to measure satisfaction with the decision made in patients diagnosed with prostate neoplasia (15). The predictive model will be applied through a pilot study involving 30 patients who will be presented with treatment options based on different outcome scenarios. The questionnaire will be administered after the first visit to radiation oncology to assess the use of predictive models as part of the information provided. This questionnaire will evaluate improvements in the patient's knowledge of prostate cancer, clarity of personal values, decision efficacy, and reduction of uncertainty regarding the decision made.
+
+   * Statistical Analysis\*\*:
+
+Phase 1: The annual incidence rate will be calculated using the actuarial method for oncological outcomes, estimating the annual number of cases divided by the sum of the total person-years at risk per 100 treated patients. Rates will be calculated as crude and age-standardized rates, stratified by relevant sociodemographic and clinical characteristics. Rates will be summarized as cumulative incidences over time using a Kaplan-Meier estimator. Individual associations between predictive factors and complication outcomes will be calculated using a bivariate binomial logistic prediction model. The optimal prediction time will be estimated by comparing changes in odds at different time-to-event cutoff points.
+
+Phase 2: The risk prediction model will be constructed using penalized logistic regression techniques to optimize predictive accuracy for the occurrence of oncological outcomes. Model development will be conducted on a subset of training data using k-fold validation, and diagnostic prediction will be calculated using the recalibrated algorithm. The predictive model's performance will be evaluated by calculating the area under the receiver operating characteristic curve and other measures of accuracy for various cutoff points (percentage of patients at maximum risk, maximization of positive and negative predictive value, and F-score).
+
+Phase 3: The predictive model will be applied to 30 new patients. Mean satisfaction with the provided information will be estimated using questionnaire results. Changes in uncertainty before and after receiving information will be assessed using paired-sample t-tests.

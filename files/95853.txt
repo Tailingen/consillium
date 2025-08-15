@@ -1,0 +1,17 @@
+Point-of-Care Ultraviolet Microscopy for Cervical Cancer Screening
+This study aims to determine the image features of cervical cells, as measured via ultraviolet microscopy, that would constitute a positive screening and a negative screening result for cervical dysplasia, a precursor to cervical cancer, as measured against liquid-based Papanicolaou testing.
+Cervical Cancer
+DIAGNOSTIC_TEST: Ultraviolet Microscopic Analysis
+Cellular features, The extracted features from the UV microscopic analysis will be compared with the results from the standard-of-care cytology. Gaussian distributions will be plotted for each feature, with a separate distribution plotted for patients who screen positive and who screen negative based on standard-of-care cytology results. Combinations of UV microscopy features compared to the standard-of-care cytology results; and, if applicable, their colposcopy results; will be recorded and plotted as well. Areas of overlap between these distributions will be used to select an appropriate threshold value, with a target false negative rate of 14% or better, One year
+The study population will consist of patients presenting to one of the three outpatient gynecology clinics within the Banner University Medical Center system for either a routine or follow up cervical cancer screening. Eligible subjects will be informed of the study and asked to consent to participate in accordance with standard informed consent protocol.
+
+The subject will undergo a Papanicolaou screening test, using both a spatula and a cytobrush and collected in a Thinprep specimen container according to the manufacturer's instructions. This specimen will be used for standard-of-care cytology. A second specimen will then be obtained in an identical fashion, labeled with a deidentified code unique to the subject, and held under refrigeration pending microscopy.
+
+The second specimen will be taken from the clinic for processing in preparation for UV microscopy. A sample of the specimen will be smeared onto a UV slide and images taken. The UV images will be then analyzed to extract the following features for determining the stage of cervical lesion:
+
+* Cellularity: The density of cells in the sample. A high cellularity indicates an abnormal growth of cells.
+* Nuclear features: The size and shape of the nuclei in the cells. Abnormal nuclear features, such as enlarged nuclei or irregular chromatin distribution, can indicate the presence of a cervical lesion.
+* Cytoplasmic features: The appearance of the cytoplasm in the cells. Abnormal cytoplasmic features, such as vacuolation or hyperchromasia, can indicate the presence of a cervical lesion.
+* Cellular architecture: The organization and arrangement of the cells in the sample. Abnormal cellular architecture, such as loss of polarity or crowding of cells, can indicate the presence of a cervical lesion.
+
+A second subject arm will consist of patients presenting to colposcopy clinic for colposcopy due to LSIL or HSIL findings on a screening Pap test. Subjects with test results of ASCUS or ASC-H will be excluded. A cervical cytology specimen will be taken from these subjects using both a spatula and a cytobrush, labeled with a deidentified code unique to the subject, and held under refrigeration pending microscopy in a manner identical to the second specimen processing described above. Participants will then undergo colposcopy according to the standard of care based upon their prior cytology results.

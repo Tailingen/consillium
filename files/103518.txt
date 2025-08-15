@@ -1,0 +1,109 @@
+FDG-PET/CT vs. CT for Monitoring Metastatic Breast Cancer
+Several studies have shown improved sensitivity of FDG-PET/CT compared with conventional imaging for diagnosing metastatic breast cancer in retrospective and smaller prospective studies. For response monitoring, we expect FDG-PET/CT to detect disease progression earlier than CT in patients treated for metastatic breast cancer, enabling earlier start of second-line therapies.
+
+Current knowledge about the potential benefit of FDG-PET/CT for response monitoring of patients with metastatic breast cancer comes from observational studies. Consequently, current evidence is only hypothesis-generating and prospective, randomized trials such as the MONITOR-RCT are needed to corroborate these findings.
+
+The MONITOR-RCT clinical trial aims to investigate whether monitoring with FDG-PET/CT can improve survival in patients diagnosed with metastatic breast cancer. It is a parallel group comparative randomized trial comparing an experimental monitoring strategy based on FDG-PET/CT with a standard monitoring strategy based on CT.
+
+Participating patients should have newly diagnosed metastatic breast cancer and be considered eligible for initiating first-line medical treatment and subsequent regular response monitoring. A total of 420 patients will be included in the study, with recruitment taking place across 11 participating hospital sites in Denmark, Germany, and Italy.
+
+The main questions it aims to answer are:
+
+* Can monitoring with FDG-PET/CT compared to conventional CT prolong the overall survival of MBC patients?
+* Is this-as expected-due to earlier detection of disease progression and earlier initiation of second-line therapies?
+* Is this accompanied by less need for additional diagnostics, less need for hospitalization, and improved quality of life?
+
+Participants will:
+
+* Undergo FDG-PET/CT scans at scheduled intervals to monitor disease progression.
+* Be given standard treatments as part of oncological care, which is informed by the FDG-PET/CT scans
+* Fill out questionnaires about their quality of life at various time points throughout the study.
+
+Objectives are:
+
+Primary: To demonstrate superiority in overall survival of response monitoring with FDG-PET/CT in patients with metastatic breast cancer over response monitoring based on CT. Appropriately adapted PERCIST criteria for FDG-PET/CT and the RECIST1.1 criteria for CT will be used.
+
+Secondary: To demonstrate superiority in quality of life and exposure to oncologic treatment with FDG-PET/CT and to investigate the cost-effectiveness.
+Metastatic Breast Cancer|Response Monitoring
+DIAGNOSTIC_TEST: FDG-PET/CT|DIAGNOSTIC_TEST: CE-CT
+Overall survival, Time from randomization until death for any reason, From date of randomization until the date of death assessed up to 54 months.
+Quality of life: FACT-B, The average FACT-B score experienced by the patient, Measured at baseline, after 3, 6, 9, 12, 18, 24, 30, 36, 42, 48 and 54 months - if the patient is still alive. Average over all time points wil be reported.|Quality of Life: Patient complaints, Complaints related to the conduct of scans can be reported by the patients in an open question., Assessed at baseline, after 3, 6, 9, 12, 18, 24, 30, 36, 42, 48 and 54 months - if the patient is still alive. Reporting will not be time point specific.|Experience of progression, The number of progressions experienced by the patient, The corresponding events will be continuously documented from randomization for up to 54 months.|Start of a new treatment line due to progression, The number of start points of a new treatment line experienced by the patient, The corresponding events will be continuously documented from randomization for up to 54 months.|Time to first progression, Time from randomization until first progression, From date of randomization until the date of first documented progression assessed up to 54 months.|Time from first to second progression, From date of first documented progression until the date of second documented progression assessed up to 54 months.|Time from second to third progression, From date of second documented progression until the date of third documented progression assessed up to 54 months.|Hospitalization, Number of hospitalizations, The corresponding events will be continuously documented from randomization for up to 54 months.|Experiencing other diagnostic procedures, The number of additional scans used during the monitoring period, The corresponding events will be continuously documented from randomization for up to 54 months.|Cost effectiveness, Cost-effective analyses will be based on computing an incremental cost effectiveness ratio (ICER). Effectiveness will be assessed by the gain in quality adjusted life years (QUAL) based on the data from the EQ-5D-5L and survival. Costs will be assessed by two different approaches: A) Difference in costs related to the scans and subsequent oncological treatment. B) Difference in cost of using of health care as documented in registry data., EQ-5D-5L will be assessed after 0, 3, 6, 9, 12, 18, 24, 30, 36, 42, 48, and 54m. Survival will be assessed as described above. Costs are based on continouos documentation of treatment/scans and on registry data. All data will be assessed up to 54 months.
+Background Breast cancer is the most commonly diagnosed cancer in Europe and worldwide. With a continuously increasing incidence, it is estimated that by 2040, the breast cancer burden will increase to more than three million new cases per year worldwide, with more than one million breast cancer-related deaths per year (50% increase).
+
+The prognosis of breast cancer is steadily improving due to the early detection of primary cancer through screening programs and revolutionising treatment development. Despite this, approximately one-third of patients diagnosed with primary breast cancer will develop metastatic disease. In the metastatic setting, therapy improvements have made breast cancer a chronic disease with declining mortality rates, and several effective treatment lines are available for metastatic breast cancer patients today and in the future. This favourable situation requires accurate methods to assess response to treatment to achieve the most effective treatment planning.
+
+FDG-PET/CT is increasingly used in cancer staging. Several studies have shown improved sensitivity of FDG-PET/CT compared with conventional imaging for diagnosing metastatic breast cancer in retrospective and smaller prospective studies. We expect FDG-PET/CT to detect disease progression earlier than CT in patients treated for metastatic breast cancer, enabling earlier start of second-line therapies. This has the potential to increase the beneficial effect of second-line therapies at the individual level and result in a delayed need for third-line therapies, prolonged overall survival, and improved quality of life compared with patients monitored with conventional CT.
+
+Currently, no specific recommendations are provided for a diagnostic modality to monitor treatment response in patients with metastatic breast cancer. European clinical practice guidelines (ESMO) state that there is no evidence of any staging or monitoring approach for metastatic breast cancer patients that provides overall survival benefit over another approach. ESMO suggests that FDG-PET/CT might provide earlier guidance in the monitoring of bone-only or bone-predominant metastasis, but it is emphasised that prospective trials are needed to study the impact of this on treatment decisions and overall survival. This is the evidence that MONITOR-RCT will deliver.
+
+Study objectives The primary objective of the MONITOR-RCT is to demonstrate that in patients with metastatic breast cancer, response monitoring based on FDG-PET/CT is superior to response monitoring based on CT with respect to overall survival. The objective will be based on applying standardized response evaluation criteria, using an appropriate adaptation of the PERCIST criteria for FDG-PET/CT and the RECIST1.1 criteria for CT.
+
+Secondary objectives of the MONITOR-RCT are to demonstrate superiority with respect to the quality of life and exposure to oncologic treatment and to investigate the cost-effectiveness.
+
+Consequently, the primary endpoint of the study is overall survival. Secondary endpoints are quality of life, exposure to oncologic treatment, and cost-effectiveness.
+
+Study design The MONITOR-RCT study will be an international multicenter study. The design will be a parallel group comparative randomized trial comparing an experimental monitoring strategy based on FDG-PET/CT with a standard monitoring strategy based on CT. Eight hospital sites in Denmark, two in Italy, and one in Germany will participate in patient recruitment and the conduction of the study.
+
+Inclusion criteria
+
+Criteria for inclusion will be:
+
+Women and men aged ≥18 years Diagnosis of distant relapsed metastatic breast cancer (biopsy-verified) or de novo breast cancer. In patients with distant relapsed metastatic breast cancer, biopsy verification from a distant metastasis is required. In patients with de novo metastatic breast cancer, biopsy verification of primary tumor and diagnostic imaging with distant metastasis with a typical pattern of metastatic breast cancer is required.
+
+Considered eligible for first-line systemic treatment Considered eligible for continuous treatment monitoring by scans. Signed informed consent Participants must have the ability to read and understand the following languages based on their country of participation: in Denmark, patients must be able to read and understand Danish; in Italy, they must be able to read and understand Italian or English; and in Germany, they must be able to read and understand German or English.
+
+Exclusion criteria
+
+Criteria for exclusion will be:
+
+Pregnant or lactating women Ongoing oncological treatment for another cancer Exclusively brain metastasis Allergy to FDG
+
+Target population Participating patients should have newly diagnosed metastatic breast cancer and be considered eligible for initiating first-line medicinal treatment and subsequent regular response monitoring.
+
+This is the patient population for whom a benefit from FDG-PET/CT-based response monitoring is expected. They are very similar to the criteria defining the populations investigated in Vogsen et al. (2023) and Naghavi-Behzad et al. (2022).
+
+Quality of life questionnaires Quality of life questionnaires will be completed at home every three months during the first year and every six months later.
+
+Two questionnaires will be used:
+
+EQ-5D-5L FACT-B In addition, patients can report complaints related to the conduct of scans in a final open question at the end of the questionnaires.
+
+Interventions The intervention of interest is the use of FDG-PET/CT for response monitoring compared with CT for response monitoring. The use of CT as a monitoring modality represents the usual care in patients with metastatic breast cancer.
+
+FDG-PET/CT scans will be evaluated using the standardized response evaluation criteria for patients with metastatic breast cancer (PREMIO criteria), whereas the CT scan will be evaluated using the RECIST 1.1 criteria. Both criteria aim at classifying the patient as having complete (metabolic) response (CR/CMR), partial (metabolic) response (PR/PMR), stable (metabolic) disease (SD/SMD), equivocal metabolic disease (EMD) or progressive (metabolic) disease (PD).
+
+The PREMIO set of response evaluation criteria is an adaptation of PERCIST (for monitoring patients with metastatic breast cancer. The PREMIO criteria are defined based on data from the MESTAR study, Vogsen et al. (2023), introducing the nadir scan for comparison in cases where the disease has regressed compared with the baseline scan.
+
+Clinical decision-making: For patients in the intervention group, clinical decision-making will be supported by FDG-PET/CT and PREMIO, while the conventional group will be supported by the CE-CT and RECIST 1.1. The decision-making will be in both groups following the current standard according to the local practice and following international guidelines. The decision-making may include a request for further imaging procedures. Parameters such as toxicity profile and the patient's general condition will also influence treatment decisions. Major components of patient management and the main reasons for treatment decisions will be registered throughout the study.
+
+Scan procedure and interpretation: All patients will have baseline scans performed before treatment and according to the randomization group. Treatment and follow-up scans will be approximated at regular intervals of 9-12 weeks or according to local guidelines. The choice of the diagnostic modality does not influence the monitoring intervals or time points.
+
+Contrast-enhanced CT of at least the thorax and abdomen will be performed using diagnostic scan quality. Pelvic CT may be added based on clinical need. The scan reports will be made by specialists in radiology with an assessment according to the RECIST 1.1 criteria. FDG-PET/CT will follow standard guidelines from the European Association of Nuclear Medicine. FDG-PET/CT scans will be conducted on EARL2 certified PET scanners, and the quantitative assessment, using the SULpeak value of the hottest metastatic lesion, will based on the EARL2 reconstruction. The CT performed along with the PET scan will be of diagnostic quality and will have contrast enhancement, if not contraindicated. The scans will be assessed by specialists in nuclear medicine according to the suggested PREMIO criteria.
+
+According to RECIST 1.1 and PREMIO, disease measurability will be evaluated at the baseline and during follow-up in each study group. In cases of no measurable disease according to the respective criteria applied, the patient's scans will be assessed qualitatively with a parallel response categorization. This categorization slightly differs from the one used in the case of measurable disease, but it still allows for the distinction of progressive disease from all other states.
+
+CT and FDG-PET/CT scans will be viewed based on the existing standard software. Viewing of FDG-PET/CT scans will be further supported by software developed as part of the establishment of the PREMIO criteria. Application of the criteria remains a task for radiologists or nuclear medicine specialists.
+
+Outcome variables The primary endpoint "Overall survival" will be addressed based on the primary outcome variable "Time from randomization until death".
+
+The secondary endpoint "Quality of life" will be addressed by two outcome variables. The first is the overall summary score of the FACT-B, the second the complaints related to the conduct of scans reported by the patients.
+
+The secondary endpoint "Exposure to oncologic treatment" will be addressed by the following outcome variables describing different aspects of oncological treatment:
+
+Experience of progression Start of a new treatment line because of progression Time to first progression Time from first to second progression Time from second to third progression Experiencing other diagnostic procedures Hospitalization
+
+The secondary endpoint "Cost-effectiveness" will be addressed based on relating the outcome variables "Overall survival" and "Quality of Life" to the outcome variable "Costs".
+
+These outcome variables correspond to the expected benefits described above.
+
+Sample size considerations Sample size considerations are based on using a direct comparison of the survival rates at 42 months. The statistical test finally used will be more powerful due to summarizing the information from all time points and adjustment for prognostic covariates.
+
+In the study of Naghavi-Behzad et al. (2022), the survival rate after 42 months was 34% in the CT group and 51% in the FDG-PET/CT group. Due to the introduction of new, more effective treatment lines in the last decade, we expect higher survival rates in this RCT. Sample size calculations are based on the assumption that true survival probabilities will be 39% and 56%, respectively. Under this assumption, we have to include overall 420 patients to reach a power of 87% (based on two-sided testing at the 5% level).
+
+According to the timeline of the study, the minimal (planned) follow-up time of the patients will be 36 months, and the maximal follow-up time will be 54 months. In the above calculations, a uniform distribution of the follow-up time was assumed.
+
+With respect to the primary outcome (survival), we do not expect drop outs, as we can rely also on national registries. Hence drop-outs are not accounted for in the sample size calculation.
+
+Significance level A significance level of 5% (two-sided) will be applied.
+
+Exposure to radiation The radiation dose is an issue of consideration. The average radiation dose per patient per scan procedure is estimated, in conventional diagnostic CT, to be 9 mSv and in conventional 18F-FDG-PET/CT to an additional 4 mSv, respectively.

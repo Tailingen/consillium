@@ -1,0 +1,24 @@
+Volatile Organic Compounds as Breath Biomarkers in Squamous Oesophageal Neoplasms
+Oesophageal Squamous Cell Carcinoma (OSCC) is a cancer of the food pipe that affects around 2000 patients in the UK every year. It is often detected at an advanced stage, resulting in poor survival (5-year survival less than 20%). Early detection can improve survival (5-year survival \>70%). Therefore, early detection is vital to improving survival.
+
+There are no national screening guidelines, and an endoscopy (A camera test to look at the food pipe) is the only available test to detect OSCC.
+
+Early detection of OSCC is challenging for many reasons. Firstly, early disease symptoms are non-specific, which patients often overlook. Secondly, 'Alarm' symptoms such as weight loss, difficulty swallowing or vomiting blood are signs of advanced stage. Lastly, endoscopy is an invasive test with associated risks and significant discomfort.
+
+The investigators propose to develop a breath test for patients with non-specific symptoms. Breath testing has the ideal characteristics for a triage test because it is non-invasive, simple to perform, cost-effective and highly acceptable to patients. The test is based on identifying volatile organic compounds (VOCs, small molecules) that are produced by the cancer and released in breath.
+
+The breath test will be offered by General Practitioners (GPs) to patients with non-specific symptoms. Those who test positive will be referred for an urgent camera test, and those who test negative can be reassured.
+Oesophageal Squamous Cell Carcinoma|Oesophageal Cancer
+OTHER: Exhaled breath sampling
+To develop a breath test for detection of OSCC, The investigators hypothesise that breath VOCs in OSCC are unique and different to those in non-cancer patients. Replicate breath samples will be analysed by two independent assays using different Thermal Desorption - Gas Chromatography - Time of Flight Mass Spectrometry (TD-GC-TOF-MS) instruments. One assay will use a mid-polar, and the other a polar column stationary phase for optimal determination of VOC chemical classes. The samples will then be recollected and analysed by two-dimensional (2D) TD-GC-TOF-MS for robust VOC identification. Confirming the identity of the top VOCs driving the model will provide chemical validation. Data obtained will be used to refine the model using molecular network analysis. Statistical methods will estimate the probability of OSCC as a function of measured VOCs. Calibrations and method validation will be used to assess and correct for discrimination., 36 months
+To evaluate the effects of known confounding variables on the target VOCs in OSCC, To develop this clinical triage test, the investigators will use logistic regression modelling. They will assess the linearity of relationships between OSCC risk and continuous variables and explore categorical variables and two-way interactions. Inclusion of patient characteristics (e.g., age, gender, alcohol use and smoking), clinical variables (e.g., symptoms) and VOCs in the model will be determined using a combination of statistical significance (Wald p\<0.05), size of the model coefficients and clinical opinion, drawing on contemporary methods for clinical prediction rules.
+
+The investigators will use model reduction techniques such as the LASSO (least absolute shrinkage and selection operator) or Harrell's step-down approach to prevent over-fitting. They will also assess optimism. If there is missing data, the investigators will apply multiple imputation techniques., 36 months
+In this prospective multicentre case-control study, the investigators will recruit a total of 518 patients. These will be divided into the following groups:
+
+1. Cancer group (n=259): Patients with treatment naive, histopathology confirmed OSCC.
+2. Control group (n=259): Patients who have undergone or are undergoing an upper gastrointestinal (GI) endoscopy as part of their investigation for upper GI symptoms and are found to have either - (i) A normal upper GI tract or (ii) Benign upper GI disease.
+
+Eligible and willing participants will be asked to provide two breath samples by exhaling into single-use breath collection bags. Using a custom designed gas sampling pump, the breath VOCs will be transferred onto thermal desorption (TD) tubes at a controlled flow rate. When the participants' breath sampling is complete, room air (Blank) samples will be taken onto additional TD tubes using the same process.
+
+Once collected, the TD tubes will be transported to Imperial College London (The Hanna lab), where they will be analysed.

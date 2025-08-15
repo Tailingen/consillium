@@ -1,0 +1,45 @@
+Separation Surgery Followed by Stereotactic Ablative Body Radiotherapy (SABR) Versus SABR Alone for Spinal Metastases
+This is a non-inferiority, randomised controlled trial to investigate the effect of stereotactic ablative body radiotherapy (SABR) compared to separation surgery followed by SABR in ambulatory patients with malignant epidural spinal cord compression (MESCC).
+
+The primary objective of the project is investigating the effect of SABR compared to separation surgery followed by SABR in ambulatory patients with MESCC on retaining ambulatory function. The primary endpoint of the study is ambulatory function 3 months post treatment defined as: being able to walk 10m without aid; being able to walk 10m with aid (cane, rollator, one persons help, ...); not being able to walk. Secondary outcomes are local control, progression free survival, early and late adverse effects, quality of life, effect on pain and need for reintervention.
+
+The aim is to randomise 128 patients 1:1 to either "separation surgery" followed by SABR (5x 8.0 Gy postoperative) (control arm) vs. SABR alone (5x 8.0 Gy) (study arm).
+
+Patients will be evaluated at 3 and 6 months after treatment with MRI scan, quality of life questionnaires, anamnestic and clinical evaluation at clinical follow ups for assessment of ambulatory function, acute and late toxicity and need for reintervention. Moreover, at 6 weeks, 12 months and 24 months after treatment a teleconsult for assessment of ambulatory function, and need for reintervention will be performed.
+Solid Tumor|Spinal Neoplasms|Spinal Tumor
+RADIATION: SABR|PROCEDURE: Separation surgery
+Proportion of ambulant patients at 3 months, The ambulatory status is scored binary (without or with aid vs not being able to walk), 3 Months post treatment
+Local recurrence rate, Time between date of study registration and date of local recurrence, Up to 24 months post treatment|Time to loss of ambulation, Time between date of study registration and date of loss of ambulation (in days), Up to 24 months post treatment|Progression free survival (PFS), Time between date of study registration and date of local recurrence, Up to 24 months post treatment|Overall survival, Time between date of study registration and date of death of any cause or last follow-up, Up to 24 months post treatment|Number of patients with re-intervention and time to re-intervention (surgery, RT, …), Time between date of treatment and date of re-intervention, Up to 24 months post treatment|Acute and late toxicity, Incidence of Adverse Events as assessed by the CTCAE version 5.0, Up to 6 months post treatment|Quality of life measurement by QLQ-BM22 and QLQ-C15-PAL questionnaires, Difference in QLQ-BM22 and QLQ-C15-PAL scale scores, Up to 6 months post treatment|Pain response (VAS score), Improvement by ≥ 2 points on the pain (VAS score) at the treatment site, Up to 6 months post treatment
+In this study, patients with malignant epidural spinal cord compression (MESCC), Bilsky grade 1c, 2 and 3 who are ambulatory with or without aid (rollator, cane, one persons help) will be treated by separation surgery followed by SABR (5x 8.0 Gy postoperative) (control arm) or SABR alone (5x 8.0 Gy) (study arm). The primary objective of the study is investigating the effect of SABR compared to separation surgery followed by SABR in ambulatory patients with MESCC on retaining ambulatory function. The primary endpoint of the study is ambulatory function 3 months post treatment defined as: being able to walk 10m without aid; being able to walk 10m with aid (cane, rollator, one persons help, ...); not being able to walk. Secondary outcomes are local control, progression free survival, early and late adverse effects, quality of life, effect on pain and need for reintervention.
+
+For each participant, the study starts once written informed consent is provided and is composed by 4 study phases: a screening phase, randomisation, a treatment phase and a follow-up phase.
+
+The screening phase will allow for assessment of subject eligibility before randomisation and treatment. Demographic data, disease and spinal metastases characteristics and previous anticancer therapies will be recorded. Once all screening procedures are completed, eligibility will be determined according to the inclusion/exclusion criteria. Randomisation will be performed in a 1:1 ratio to the control arm (separation surgery followed by SABR) and the study arm (SABR) using an electronic randomisation tool in the eCRF.
+
+Treatment will be aimed to start as soon as possible, but certainly within 21 days after randomisation (surgery or upfront SABR). Surgical planning is done by the treating neurosurgeon in the participating center where the patient was included. Image-guided fractionated SABR using a SIB technique to the high-dose PTV will be delivered in 5 fractions of 8 Gy to a total of 40 Gy and to the conventional-dose PTV delivered simultaneously in 5 fractions of 4 Gy to a total of 20 Gy.
+
+At 6 weeks (+/-1 week) after the last RT session following information will be obtained (preferentially by digital consult):
+
+1. Ambulatory status defined as: being able to walk 10m without aid, being able to walk 10m with aid (cane, rollator, one persons help, ...), not being able to walk
+2. WHO performance status
+3. Acute and late toxicity assessment: as measured with CTCAE version 5.0
+4. Need for re-intervention, date and type of reintervention (surgery or radiotherapy), reason (wound infection, neurologic decline, loss of ability to walk or other)
+5. Pain response: VAS pain score
+6. Survival data (survival status, date of death, primary cause of death)
+
+At 3 and 6 months (+/-3 weeks) after the last RT session following information will be obtained by physical or digital consult:
+
+1. Ambulatory status defined as: being able to walk 10m without aid, being able to walk 10m with aid (cane, rollator, one persons help, ...), not being able to walk
+2. WHO performance status
+3. Concomitant medications and systemic anticancer therapies
+4. QoL according to the EORTC QLQ-C15 \& BM22 questionnaires
+5. Acute and late toxicity assessment: as measured with CTCAE version 5.0
+
+7. Need for re-intervention, date and type of reintervention (surgery or radiotherapy), reason (wound infection, neurologic decline, loss of ability to walk or other) 6. Pain response: VAS pain score 7. Physical examination: body weight 8. Local control 9. Survival data (survival status, date of death, primary cause of death)
+
+At 12 and 24 months (+/-3 weeks) after the last RT session following information will be obtained (preferentially by digital consult):
+
+1. Ambulatory status defined as: being able to walk 10m without aid, being able to walk 10m with aid (cane, rollator, one persons help, ...), not being able to walk
+2. Need for re-intervention, type of reintervention
+3. Survival data (survival status, date of death, primary cause of death)
+4. Local control (only if information is available in medical record as per standard of care)

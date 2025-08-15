@@ -1,0 +1,45 @@
+DOAC - Dosing Options in AntiCoagulation Prophylaxis
+Blood clots, also known as venous thromboembolism (VTE), are a common and serious complication for people with cancer. They can lead to pain, hospitalizations, delayed cancer treatment, and even death. Although national guidelines recommend using blood thinners (anticoagulants) to prevent clots in cancer patients who are at higher risk, these medications are not commonly prescribed due to concerns about bleeding and inconvenience.
+
+This study will test different ways of using a commonly prescribed blood thinner called apixaban (brand name Eliquis) to see if it can safely and effectively reduce the risk of blood clots and death in cancer patients who are at moderate risk for VTE. The study focuses on people who have a "Khorana score" of 2, which puts them at intermediate risk for developing blood clots.
+
+The study will include approximately 996 participants with solid tumors or lymphoma who are starting or recently started cancer-directed therapy. Participants will be randomly assigned to one of three groups:
+
+Group 1: Apixaban 2.5 mg twice a day (standard prophylactic dose)
+
+Group 2: Apixaban 5 mg once a day (an alternative, more convenient dose)
+
+Group 3: No anticoagulant (standard care)
+
+Participants will take the assigned treatment (if applicable) for 6 months. Researchers will monitor whether participants develop blood clots, experience serious bleeding events, or die from any cause during the study period.
+
+By comparing these three groups, the researchers hope to learn whether a once-daily dose of apixaban can work as well as the standard twice-daily dose, and whether either dosing strategy is better than no anticoagulation at all. If successful, the study may help increase the safe use of VTE prevention in cancer patients and improve overall outcomes, especially in patients at intermediate risk.
+
+This is a pragmatic trial, meaning it is designed to fit into real-world clinical practice with minimal extra procedures. The study drug is not provided by the sponsor and will be prescribed and filled through usual care channels. Participants and their doctors will decide whether to continue the medication after the study ends.
+Cancer|VTE (Venous Thromboembolism)
+DRUG: Apixaban 2.5 mg twice daily|DRUG: Apixaban 5 mg once daily|DRUG: No anticoagulation
+Incidence of VTE in Participants Receiving Apixaban 2.5 mg Twice Daily vs No Anticoagulation, This outcome compares the incidence of venous thromboembolism (VTE) - including deep vein thrombosis, pulmonary embolism, and other clinically relevant thromboses - between participants receiving apixaban 2.5 mg BID and those receiving no anticoagulation prophylaxis. Events will be identified through clinical care and confirmed via chart review. Both symptomatic and incidental VTEs will be included., 6 months|Incidence of VTE in Participants Receiving Apixaban 5 mg Once Daily vs No Anticoagulation, This outcome compares the incidence of venous thromboembolism (VTE) between participants randomized to apixaban 5 mg once daily and those receiving no anticoagulation. VTEs may include DVT, PE, or other thromboses, whether symptomatic or incidental. Events will be confirmed through medical record review. The goal is to determine whether this simplified dosing schedule provides effective VTE prevention in cancer patients with Khorana Risk Score of 2., 6 months
+All-Cause Mortality in Participants Receiving Apixaban 2.5 mg Twice Daily vs No Anticoagulation, This outcome compares all-cause mortality at 6 months between participants randomized to apixaban 2.5 mg twice daily and those receiving no anticoagulation prophylaxis. Vital status will be determined through medical record review and/or survival follow-up., 6 months|All-Cause Mortality in Participants Receiving Apixaban 5 mg Once Daily vs No Anticoagulation, This outcome compares all-cause mortality at 6 months between participants receiving apixaban 5 mg once daily and those receiving no anticoagulation. Vital status will be assessed using clinical follow-up and medical record review., 6 months|Incidence of Clinically Significant Bleeding Events (CTCAE Grade ≥3), This outcome evaluates the incidence of clinically significant bleeding events (CTCAE v5.0 Grade ≥3) in participants randomized to apixaban 2.5 mg twice daily, 5 mg once daily, or no anticoagulation. Events include bleeding requiring hospitalization, transfusion, or occurring at critical sites (e.g., intracranial, GI). Bleeding events will be identified through routine clinical care and confirmed via chart review., 6 months
+Venous thromboembolism (VTE) is a leading cause of morbidity and mortality in ambulatory patients with cancer, particularly within the first several months after initiating cancer-directed therapy (CDT). The Khorana Risk Score (KRS) is a validated tool used to identify cancer patients at increased risk of VTE. While patients with a KRS ≥ 2 are eligible for VTE prophylaxis under current clinical guidelines, there remains a major gap between these recommendations and clinical practice. Implementation of prophylaxis is low due to concerns about bleeding, uncertainty regarding net clinical benefit, and challenges with medication adherence-particularly with twice-daily dosing regimens.
+
+Apixaban, a direct oral anticoagulant (DOAC), is FDA-approved and supported by NCCN and ASH guidelines for VTE prevention in high-risk ambulatory cancer patients. The AVERT trial demonstrated that apixaban 2.5 mg twice daily significantly reduced VTE events in cancer patients with a KRS ≥ 2 but increased the risk of major bleeding. However, this dosing strategy remains underutilized. The possibility of once-daily dosing with apixaban, which could improve adherence and acceptance among patients and physicians, has not been adequately studied in this population.
+
+This single-center, phase III, open-label, pragmatic randomized clinical trial will evaluate two dosing strategies of apixaban for VTE prevention in cancer outpatients with a KRS of 2. A total of 996 participants will be randomized 1:1:1 to receive:
+
+Arm 1: Apixaban 2.5 mg twice daily
+
+Arm 2: Apixaban 5 mg once daily
+
+Arm 3: No anticoagulant prophylaxis (standard care)
+
+The primary objective is to compare the incidence of VTE across these arms over a 6-month treatment period. Secondary objectives include comparisons of all-cause mortality and rates of clinically significant bleeding events (CTCAE grade ≥ 3).
+
+Participants must have a solid tumor or lymphoma and be initiating or recently initiated on CDT. Those with recent VTE, active anticoagulation for another indication, hematologic malignancies (e.g., acute leukemia, myeloma), or high bleeding risk are excluded.
+
+Randomization occurs after eligibility is confirmed via chart review and informed consent is obtained. In line with a pragmatic trial design, there are no mandated study visits beyond a brief 2-month patient-reported outcomes (PRO) check-in. All other data, including VTE events, mortality, bleeding, and adherence, are captured via electronic health record abstraction and PRO questionnaires.
+
+Drug is not provided as part of the study; apixaban will be prescribed as part of usual clinical care and filled through the participant's pharmacy. Participants who are unable to obtain the drug due to insurance or financial barriers will still be followed in their assigned study arm per intent-to-treat principles.
+
+The study will use a formal interim analysis following the O'Brien and Fleming approach, with stopping rules for futility and efficacy. Final analyses will compare VTE incidence and other endpoints using chi-square tests and Kaplan-Meier survival analysis, as appropriate.
+
+This trial is designed to generate real-world evidence to inform anticoagulant prescribing practices in cancer outpatients at intermediate risk for VTE. Results may support broader, more personalized adoption of thromboprophylaxis strategies that balance effectiveness, safety, and feasibility.

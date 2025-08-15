@@ -1,0 +1,34 @@
+Salvage Radiation Therapy in Treating Patients With Metastatic Cancer That Has Progressed After Systemic Immunotherapy
+This phase II trial studies the side effects and best dose of radiation therapy and to see how well it works in treating patients with cancer that has spread to other places in the body (metastatic) or has increased in size after being treated with immunotherapy. Giving radiation therapy may help to control the cancer after the disease has gotten worse after receiving immunotherapy in patients with cancer that has spread to the other places in the body.
+Hematopoietic and Lymphoid Cell Neoplasm|Metastatic Malignant Solid Neoplasm
+RADIATION: External Beam Radiation Therapy|OTHER: Laboratory Biomarker Analysis|RADIATION: Stereotactic Body Radiation Therapy
+Number of patients with stable disease, To be evaluable for efficacy patients must receive at least one set of systemic imaging \>= 4 weeks after completion of radiation. For all control cohorts, efficacy will be evaluated based off of retrospective review of control patients. Corollary investigation will be conducted utilizing immune-related response criteria (ir-RC). Significance testing will assess differences in the frequency of disease control rate via Fisher Exact (if n =\< 20) or Chi-squared (if n \> 20) test., At 4 months|Objective response (partial response or complete response), To be evaluable for efficacy patients must receive at least one set of systemic imaging \>= 4 weeks after completion of radiation. For all control cohorts, efficacy will be evaluated based off of retrospective review of control patients. Corollary investigation will be conducted utilizing ir-RC. Significance testing will assess differences in the frequency of objective response via Fisher exact (if n =\< 20) or Chi-squared (if n \> 20) test., Up to 1 year|Incidence of adverse events, Assessed with Common Terminology Criteria for Adverse Events version 4.0. To be evaluable for toxicity, patients must be on the trial for at least 8 weeks. For a toxicity to be considered a dose limiting toxicity, the toxicity must be grade 3+ non-dermatologic and non-laboratory, grade 4+ laboratory, or grade 4+ dermatologic. In addition the toxicity must meet the following criteria:
+
+1. The toxicity must be immune-related.
+2. The toxicity must be attributable to radiation. Exploratory analyses will compare specific treatment groups with the corresponding control group when available. Significance testing will assess differences in dose limiting toxicities via Fisher Exact (if n =\< 20) or Chi-Squared (if n \> 20) test., Up to 1 year
+Overall survival, Will be calculated utilizing the method of Kaplan and Meier. Exploratory analyses will compare specific treatment groups with the corresponding control group when available. Differences in overall survival will be compared utilizing Log-Rank test and Cox proportional hazards regression adjusting for factors including treatment group, disease histology, previous response with the most recent immunotherapy based treatment., Up to 1 year|Progression free survival, Will be calculated via RECIST 1.1 utilizing the method of Kaplan and Meier. Exploratory analyses will compare specific treatment groups with the corresponding control group when available. Differences in progression free survival will be compared utilizing Log-Rank test and Cox proportional hazards regression adjusting for factors including treatment group, disease histology, previous response with the most recent immunotherapy based treatment., Up to 1 year
+PRIMARY OBJECTIVES:
+
+I. To identify immunotherapy-based treatments where salvage radiation produces systemic disease control after initial progressive disease.
+
+II. To identify immunotherapy-based treatments where salvage radiation produces a high rate of treatment-related toxicities.
+
+SECONDARY OBJECTIVES:
+
+I. To determine the frequency of systemic disease control (objective response or stable disease) after salvage radiation following progression on immunotherapy among all patients and within each treatment group.
+
+II. Determine the frequency of dose limiting toxicities (DLTs) with salvage radiation after progression on treatment with an immunotherapy agent among all patients and within each treatment group.
+
+III. To determine the rate of systemic objective response among all patients and within each treatment group among all patients and within each treatment group.
+
+IV. To determine the duration of response in patients who achieve disease control among all patients and within each treatment group.
+
+V. To determine the overall survival after salvage radiation among all patients and within each treatment group.
+
+VI. To determine the systemic progression free survival after salvage radiation among all patients and within each treatment group.
+
+OUTLINE:
+
+Patients undergo either 4, 5, or 10 fractions of stereotactic body radiation therapy (SBRT), or 5-15 fractions of external beam radiation therapy (EBRT) to any site of metastatic disease daily for any time between 4 days and 3 weeks as determined by the treating radiation oncologist. Patients with at least stable disease (SD) after the second imaging evaluation may undergo additional SBRT in 4 fractions or EBRT in 3 fractions.
+
+After completion of study treatment, patients are followed up at 30 days, then every 12 weeks for up to 1 year.

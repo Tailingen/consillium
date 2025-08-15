@@ -1,0 +1,22 @@
+Comparison of Breast Cancer Screening With CESM to DBT in Women With Dense Breasts
+The over-arching goal of the Contrast-Enhanced Spectral Mammography Imaging Screening Trial (CMIST) is to determine if dual-energy contrast-enhanced spectral mammography (CESM) can detect more cancers with fewer false positives than digital breast tomosynthesis (DBT) in women with dense breasts.
+
+Aim 1: To evaluate the performance of CESM compared to DBT at baseline for breast-cancer screening in women with dense breasts.
+
+Aim 2: To evaluate the performance of CESM compared to DBT at the 1-year follow up for breast-cancer screening in women with dense breasts.
+Breast Cancer
+DIAGNOSTIC_TEST: Dual-Energy Contrast-Enhanced Spectral Mammography (CESM)
+Cancer Detection Rate, The cancer detection rate (CDR) at the participant level at Year 0. This measure will be evaluated for CESM and DBT, Year 0|Recall Rate, The recall rate for participants at Year 1, which will be estimated for each imaging modality separately., 1 Year
+The Contrast-Enhanced Spectral Mammography Imaging Screening Trial (CMIST), which will be managed by the American College of Radiology (ACR), Center for Research and Innovation (CRI), seeks to determine if dual-energy contrast-enhanced spectral mammography (CESM) screening provides more accurate cancer detection compared to digital breast tomosynthesis (DBT) in women with dense breasts.
+
+Year 0 Visit:
+
+All women aged 45 to 74 years of age known mammographically dense breasts, as reported on their most recent prior mammogram who are scheduled for a routine annual screening DBT will be offered CESM in addition to DBT. Baseline imaging (Year 0) will be performed within 30 days after participant registration. Standard DBT screening views followed by standard CESM screening views will be performed on the same day and prior to any additional workup.
+
+Year 1 Visit (12 Months ±2 Months After Year 0 Imaging):
+
+Standard DBT screening views followed by standard CESM screening views will be performed on the same day and prior to any additional workup.
+
+Year 2 Visit: Follow-Up - Return for Standard Mammography Screening (12 Months ±2 Months After Year 1 Imaging):
+
+The 2-year participant follow-up contact (email, text, or phone calls) should be performed 12 months (±2 months) after the Year 1 imaging to confirm the participant has not been diagnosed with an interval breast cancer. If 2-year imaging has not been scheduled, the 2-year participant follow-up contact should be performed prior to 14 months post year 1 visit. Participants diagnosed with breast cancer in the interval between the Year 1 and Year 2 imaging studies will have no subsequent follow-up and will not undergo the Year 2 study imaging in the scope of the study. The participant will be asked for AEs/SAEs with a non-leading question.

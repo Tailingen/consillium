@@ -1,0 +1,37 @@
+A Vaccine (MV-s-NAP) for the Treatment of Patients with Invasive Metastatic Breast Cancer
+This phase I trial investigates the side effects and best dose of using a modified measles virus, MV-s-NAP, in treating patients with invasive breast cancer that has spread to other places in the body (metastatic). Both the unmodified vaccination measles virus (MV-Edm) and this modified virus (MV-s-NAP) have been shown to multiply in and destroy breast cancer cells in the test tube and in research mice. MV-s-NAP has been altered by having an extra gene (piece of deoxyribonucleic acid \[DNA\]) so that virus can make a protein called helicobacter pylori neutrophil activating protein (NAP) which is normally expressed in inflammatory reactions. Monitoring blood, urine, tissue, and throat swab samples, and using imaging tests may help to determine whether MV-s-NAP has any impact on the amount of disease present in metastatic breast cancer patients.
+Anatomic Stage IV Breast Cancer AJCC V8|Invasive Breast Carcinoma|Metastatic Breast Adenocarcinoma|Recurrent Breast Carcinoma|Stage IV Breast Cancer AJCC V6 and V7
+BIOLOGICAL: Oncolytic Measles Virus Encoding Helicobacter pylori Neutrophil-activating Protein|PROCEDURE: Computed Tomography|PROCEDURE: Magnetic Resonance Imaging|PROCEDURE: Biopsy|PROCEDURE: Biospecimen Collection
+Maximum tolerated dose, This is defined as the highest dose level among those under consideration where at most one of 6 patients develops a dose limiting toxicity, and two or more of the 3-6 patients treated at the next higher dose level develop a dose limiting toxicity., During the first cycle of treatment (each cycle = 21 days)|Best tumor response, The best tumor response in the injected and non-injected lesion will be determined using Response Evaluation Criteria in Solid Tumors (RECIST) criteria. Results will be tabulated for the entire cohort and by breast cancer subtype in terms of whether there was response in none of the lesions, only the injected lesion, or both lesions., Up to 2 years|Incidence of adverse events, The maximum grade of each type of toxicity will be recorded for each patient. For each toxicity reported by dose level, the percentage of patients developing any degree of that toxicity, as well as the percentage of patients developing a severe (grade 3 or higher) toxicity, will be determined., Up to 2 years|Measles virus viremia, Defined as detection of any titer of virus by quantitative real time-polymerase chain reaction performed with patient peripheral blood mononuclear cells. Viremia will be examined in terms of the day and dose level it was detected, as well as the time to recovery., Up to 2 years|Peripheral immune response, Peripheral immune response specific to measles virus is defined as detection of serum IgG anti-measles antibody levels of \> 20.0 EU/mL by the Enzyme Immunoassay. Peripheral anti-neutrophil activating protein (NAP) transgene response will be represented by antibody titers determined by an antigen-mediated enzyme linked immunosorbent assay against purified helicobacter pylori NAP antigen. Systemic induction of HMGB1 will also be determined. All of these factors will be examined in terms of the day and dose level they were detected, as well as the time to recovery. For each dose level, the point at which viral replication and measles virus shedding is no longer seen will be tabulated., Up to 2 years
+Tumor response, The best tumor response in the injected and non-injected lesion will be determined using Response Evaluation Criteria in Solid Tumors (RECIST). Results will be tabulated by dose level and whether there was a response in none of the lesions, only the injected lesion, or both lesions., Up to 2 years|Progression-free survival (PFS), PFS is defined as the time from study entry to the documentation of disease progression., Up to 2 years|Overall survival (OS), OS is defined as the time from study entry to death due to any cause., Up to 2 years
+PRIMARY OBJECTIVES:
+
+I. To determine the maximally tolerated dose (MTD) of intratumoral administration of an Edmonston strain measles virus genetically engineered to express NAP (oncolytic measles virus encoding helicobacter pylori neutrophil-activating protein (modified virus strain neutrophil activating protein \[MV-s- NAP) in patients with metastatic breast cancer.
+
+II. To determine the safety and toxicity of one-time intratumoral administration of MV-s-NAP in patients with metastatic breast cancer.
+
+III. To determine the safety and toxicity of serial intratumoral administration of MV-s-NAP in patients with metastatic breast cancer.
+
+SECONDARY OBJECTIVES:
+
+I. To assess in a preliminary fashion antitumor efficacy of this approach by following radiographic response and time to progression.
+
+Ia. Response at and away from the site of MV-s-NAP administration will be evaluated.
+
+CORRELATIVE OBJECTIVES:
+
+I. To assess viremia, viral replication, and measles virus shedding/persistence following intratumoral administration.
+
+II. To determine the time course of viral infection and viral gene expression in treated/untreated lesions.
+
+III. To determine immune response development against MV, the therapeutic s-NAP transgene, and the tumor.
+
+IV. To obtain preliminary assessments of PD-L1 expression in tumor cells and tumor infiltrating lymphocytes (TILs).
+
+OUTLINE: Patients are assigned to 1 of 2 cohorts.
+
+COHORT 1: Patients receive MV-s-NAP intratumorally (IT) on day 1 in the absence of disease progression or unacceptable toxicity. Patients undergo computed tomography (CT) scan, magnetic resonance imaging (MRI), tumor biopsy and blood sample collection throughout the study.
+
+COHORT 2: Patients receive MV-s-NAP IT on day 1 of each cycle. Cycles repeat every 21 days for up to 3 cycles in the absence of disease progression or unacceptable toxicity. Patients undergo CT scan, MRI, tumor biopsy and blood sample collection throughout the study.
+
+After completion of study treatment, patients are followed up every 3 months during year 1, and then every 6 months during year 2.

@@ -1,0 +1,46 @@
+Ipilimumab With or Without High-Dose Recombinant Interferon Alfa-2b in Treating Patients With Stage III-IV Melanoma That Cannot Be Removed by Surgery
+This randomized phase II trial studies how well ipilimumab with or without high-dose recombinant interferon alpha-2b works in treating patients with stage III-IV melanoma that cannot be removed by surgery. Monoclonal antibodies, such as ipilimumab, may block tumor growth by targeting certain cells. Recombinant interferon alfa-2b may interfere with the growth of tumor cells. It is not yet known whether ipilimumab is more effective with or without high-dose recombinant interferon alfa-2b in treating melanoma.
+Recurrent Melanoma|Stage IIIA Cutaneous Melanoma AJCC v7|Stage IIIB Cutaneous Melanoma AJCC v7|Stage IIIC Cutaneous Melanoma AJCC v7|Stage IV Cutaneous Melanoma AJCC v6 and v7
+BIOLOGICAL: Ipilimumab|OTHER: Laboratory Biomarker Analysis|BIOLOGICAL: Recombinant Interferon Alfa-2b
+Progression-free Survival (PFS), Progression-free survival (PFS) was defined as time from randomization to any documented disease progression or death from any cause, whichever occurred first (event), or censored at last date known alive., Assessed every 3 months for two years, then every 6 months for 3 years, then every 12 months for up to 10 years
+Progression-free Survival, Progression-free survival (PFS) was defined as time from randomization to any documented disease progression or death from any cause, whichever occurred first (event), or censored at last date known alive., Assessed every 3 months for two years, then every 6 months for 3 years, then every 12 months for up to 10 years|Overall Survival (OS), Time from randomization to death (event), or censored at last date known alive, Assessed every 3 months for two years, then every 6 months for 3 years, then every 12 months for up to 10 years|Overall Survival, Time from randomization to death (event), or censored at last date known alive., Assessed every 3 months for two years, then every 6 months for 3 years, then every 12 months for up to 10 years
+Clinical Response Rate, Defined as the number of complete responses and partial responses per RECIST version 1.1 divided by the total number of evaluable cases, Assessed every 12 weeks for 3 years|Immune-related Response Rate Per Immune-related Response Criteria, Defined as the number of complete and partial responses per immune-related response criteria (irRC) divided by the total number of evaluable patients, Assessed every 12 weeks for 3 years
+PRIMARY OBJECTIVES:
+
+I. Test the hypothesis that the combination of ipilimumab and high-dose interferon-alpha 2b (HDI \[recombinant interferon alfa-2b\]) will improve progression free survival (PFS) of patients with advanced metastatic melanoma as compared to ipilimumab alone (across ipilimumab treatment status).
+
+SECONDARY OBJECTIVES:
+
+I. Test the hypothesis that the combination of ipilimumab and HDI will prove to be safe and tolerable.
+
+II. Within the constraints of the sample size, attempt to test the hypotheses that (1) ipilimumab 10 mg/kg will lead to improved PFS in comparison to ipilimumab 3 mg/kg (across HDI treatment status); (2) the combination of ipilimumab and HDI will improve overall survival (OS) of patients with advanced metastatic melanoma as compared to ipilimumab alone (across ipilimumab treatment status) and (3) ipilimumab 10 mg/kg will lead to improved OS in comparison to ipilimumab 3 mg/kg (across HDI treatment status).
+
+OUTLINE: Patients are randomized to 1 of 4 treatment arms.
+
+ARM A:
+
+INDUCTION PHASE: Patients receive higher dose ipilimumab intravenously (IV) over 90 minutes once every 3 weeks for 4 doses and recombinant interferon alfa-2b IV over 20 minutes 5 days a week for 4 weeks and then subcutaneously (SC) 3 times weekly for 8 weeks.
+
+MAINTENANCE PHASE: Patients receive higher dose ipilimumab IV over 90 minutes once every 12 weeks for 4 doses beginning in week 24 and recombinant interferon alfa-2b SC 3 times weekly for 48 weeks.
+
+ARM B:
+
+INDUCTION PHASE: Patients receive higher dose ipilimumab IV over 90 minutes once every 3 weeks for 4 doses.
+
+MAINTENANCE PHASE: Patients receive higher dose ipilimumab IV over 90 minutes once every 12 weeks for 4 doses beginning in week 24.
+
+ARM C:
+
+INDUCTION PHASE: Patients receive lower dose ipilimumab IV over 90 minutes once every 3 weeks for 4 doses and recombinant interferon alfa-2b IV over 20 minutes 5 days a week for 4 weeks and then SC 3 times weekly for 8 weeks.
+
+MAINTENANCE PHASE: Patients receive lower dose ipilimumab IV over 90 minutes once every 12 weeks for 4 doses beginning in week 24 and recombinant interferon alfa-2b SC 3 times weekly for 48 weeks.
+
+ARM D:
+
+INDUCTION PHASE: Patients receive lower dose ipilimumab IV over 90 minutes once every 3 weeks for 4 doses.
+
+MAINTENANCE PHASE: Patients receive lower dose ipilimumab IV over 90 minutes once every 12 weeks for 4 doses beginning in week 24.
+
+In all arms, treatment continues in the absence of disease progression or unacceptable toxicity.
+
+After completion of study treatment, patients are followed up every 3 months for 2 years, every 6 months for 3 years, and then annually for up to 5 years.

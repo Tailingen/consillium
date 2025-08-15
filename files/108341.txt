@@ -1,0 +1,9 @@
+Effect of Two Colonoscopy AI Systems for Colon Polyp Detection
+Computer-aided detection (CADe) systems have been actively researched for polyp detection in colonoscopy. The investigators aim to identify the effect of two CADe systems according to the system performance on false positive rate
+Adenoma|Colonoscopy|Sessile Serrated Adenoma
+DEVICE: Assist by artificial intelligence system for colon polyp detection
+Adenoma detection rate, proportion of colonoscopies with at least one adenoma detected overall and as detected by the physician., 12 months|Sessile serrated lesion detection rate, proportion of colonoscopies with at least one sessile serrated lesion detected overall and as detected by the physician., 12 months
+polyp detection rate, proportion of colonoscopies with at least one polyp detected overall and as detected by the physician., 12 months
+Artificial intelligence technology based on deep learning is being applied in various medical fields, and research is being actively conducted to develop computer-aided detection (CADe) systems for colonoscopies to overcome the limitation of the variance of human skills. These well-trained CADe systems demonstrated high performance for neoplastic polyp detection and reported a 44% increase in adenoma detection rate (ADR) for endoscopists. However, the level of performance in the CADe system is not clear for expert endoscopists to be useful for ADR increase.
+
+Furthermore, false positives(FPs) of the CADe system may negatively influence ADR during a screening colonoscopy. Accordingly, the investigators sought to identify the effect of the colonoscopy CADe system according to FP performance in endoscopists with various levels. The investigators hypothesized that the CADe system with low FPs would be useful to prevent the decrease in ADR in case of a high endoscopy workload according to the performance of CADe systems.

@@ -1,0 +1,29 @@
+Genetically Engineered Lymphocytes, Cyclophosphamide, and Aldesleukin in Treating Patients With Relapsed or Refractory Mantle Cell Lymphoma or Indolent B-Cell Non-Hodgkin Lymphoma
+This phase I trial is studying the side effects of giving genetically engineered lymphocytes together with cyclophosphamide and aldesleukin in treating patients with relapsed or refractory mantle cell lymphoma or indolent B-cell non-Hodgkin lymphoma. Placing a gene that has been created in the laboratory into white blood cells may make the body build an immune response to kill cancer cells. Drugs used in chemotherapy, such as cyclophosphamide, work in different ways to stop the growth of cancer cells, either by killing the cells or by stopping them from dividing. Aldesleukin may stimulate the white blood cells to kill lymphoma cells. Giving genetically engineered lymphocytes together with cyclophosphamide and aldesleukin may be an effective treatment for mantle cell lymphoma and B-cell non-Hodgkin lymphoma
+B-cell Chronic Lymphocytic Leukemia|Extranodal Marginal Zone B-cell Lymphoma of Mucosa-associated Lymphoid Tissue|Nodal Marginal Zone B-cell Lymphoma|Recurrent Grade 1 Follicular Lymphoma|Recurrent Grade 2 Follicular Lymphoma|Recurrent Mantle Cell Lymphoma|Recurrent Marginal Zone Lymphoma|Recurrent Small Lymphocytic Lymphoma|Refractory Chronic Lymphocytic Leukemia|Splenic Marginal Zone Lymphoma|Waldenström Macroglobulinemia
+BIOLOGICAL: therapeutic autologous lymphocytes|DRUG: cyclophosphamide|BIOLOGICAL: aldesleukin|GENETIC: polymerase chain reaction|GENETIC: gene rearrangement analysis|PROCEDURE: lymph node biopsy|BIOLOGICAL: genetically engineered lymphocyte therapy|PROCEDURE: bone marrow aspiration|OTHER: flow cytometry|OTHER: laboratory biomarker analysis|OTHER: enzyme-linked immunosorbent assay
+Feasibility of transfecting and expanding the necessary numbers of T cells and the types of problems and toxicities which might be encountered, graded according the National Cancer Institute Common Terminology Criteria for Adverse Events version 3.0, A true grade 3 or higher toxicity rate in excess of 20% attributed to T cell infusions will be considered grounds for stopping the study and amending the protocol to lower the cell infusion doses. If there ever exists sufficient evidence to suggest that the true T cell-related toxicity rate (grade 3 or higher, with the exception of fever \> 40 degrees Celsius lasting less than 24 hours) exceeds 20%, the study will be stopped., Up to 2 years after final T cell infusion
+Comparison of the percentages of CD20-specific T cells and malignant B cells present in the blood before and after each T cell infusion, Numbers and percentages of CD20-specific T cells and of malignant B cells will also be quantified in lymph node (LN) and bone marrow (BM)., Up to 4 weeks after the third infusion|Immune response as assessed by ELISA and percent chromium release in cytotoxicity assays, Means, medians and standard deviation (S.D.) of the Ab titers observed will be computed., Up to 12 months following treatment|Absolute numbers of T cells expressing the chimeric T Cell receptor (cTCR) per cubic uL of blood, Up to 1 year
+PRIMARY OBJECTIVES:
+
+I. To assess the feasibility, safety and toxicity of cellular immunotherapy utilizing ex-vivo expanded autologous T cells genetically modified to express a "second generation' cluster of differentiation (CD)20-specific scFvFc:CD28:CD137:zeda chimeric immunoreceptor in patients with recurrent or refractory CD20+ mantle cell or indolent lymphoma.
+
+SECONDARY OBJECTIVES:
+
+I. To determine the duration of in vivo persistence of adoptively transferred CD20-specific T cells transfected with a CD20-specific scFvFc:CD28:CD137:zeda chimeric immunoreceptor.
+
+II. To assess the trafficking of CD20-specific T cells to lymphoma masses. III. To evaluate the development of host anti-CD20 scFvFc:CD28:CD137:zeda chimeric immunoreceptor and anti-neomycin-resistance gene (NeoR) immune responses in study subjects.
+
+OUTLINE:
+
+CHEMOTHERAPY: Patients receive cyclophosphamide IV over 60 minutes.
+
+IMMUNOTHERAPY: Beginning 2 days after completion of cyclophosphamide, patients receive autologous CD20-specific T-cells IV over 30 minutes. Treatment repeats every 2-5 days for 3 courses.
+
+MAINTENANCE THERAPY: Beginning 2 hours after the last T-cell infusion, patients receive low-dose aldesleukin subcutaneously twice daily for 14 days.
+
+Treatment continues in the absence of disease progression or unacceptable toxicity.
+
+Subjects who have achieved at least a partial remission lasting a minimum of 6 months may, on a case-by-case basis, receive additional stored T cells following relapse.
+
+After completion of study treatment, patients are followed up weekly for one month, monthly for 1 year, and then annually for up to 2 years.

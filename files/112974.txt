@@ -1,0 +1,6 @@
+Modeling Organ Motion During Abdominal Imaging in Healthy Volunteers
+In this study, we plan to systematically analyze the motion of organs and tissues in the abdomen, to understand the physical mechanisms of three-dimensional (3D) motion and interactions of abdominal organs and tissues. This work will allow us to learn how to mathematically model and predict abdominal organ motion.
+Healthy Volunteers
+OTHER: MRI
+abdominal respiratory motion as measured by MRI, baseline|gastrointestinal motility motion as measured by MRI, baseline|inter-fractional motion as measured by MRI, inter-fractional motion is defined as the change in motion of organs and tissues between different image examinations on different days, baseline, up to 6 months
+Specifically, we plan to conduct this study in 3 steps, in an order of increasing complexity, starting with the (intra-fractional) respiratory only motion, then adding intra-fractional GI motility motion, and finally the inter-fractional anatomical variations (adding food intakes and fecal excretion). The research methods described will allow the study team to develop the ability to estimate the motion of both tumor target and critical organs given the patient's MRI, CBCT or x-ray fluoroscopy images on the day of radiation treatment.

@@ -1,0 +1,84 @@
+MRI and PET/FMISO In Assessing Tumor Hypoxia in Patients With Newly Diagnosed Glioblastoma Multiforme
+This phase II trial is studying how well positron emission tomography (PET) scan using 18F-fluoromisonidazole works when given together with magnetic resonance imaging (MRI) ) in assessing tumor hypoxia in patients with newly diagnosed glioblastoma multiforme (GBM). Diagnostic procedures, such as MRI and PET scan using 18F-fluoromisonidazole (FMISO), may help predict the response of the tumor to the treatment and allow doctors to plan better treatment.
+Adult Giant Cell Glioblastoma|Adult Glioblastoma|Adult Gliosarcoma
+DRUG: FMISO|OTHER: MRI|OTHER: PET|OTHER: MRS
+Association of Baseline FMISO PET and MRI Features With OS as Assessed Using Cox-regression Model, Overall Survival (OS) was evaluated every 3 months through end of the study (up to 5 years). A variety of continuous quantitative (functional) imaging features measuring abnormal tumor vasculature (MRI) and hypoxia (FMISO) were evaluated at baseline for their association with Survival time.
+
+Features include
+
+PET Hypoxia measures:
+
+Peak standardized uptake values (SUVpeak); maximum tumor:blood ratio (T/Bmax); and Hypoxia Volume (HV)
+
+DCE MRI perfusion measures:
+
+Mean/median volume transfer constant for gadolinium between blood plasma and the tissue extravascular extracellular space (ktrans)
+
+DSC MRI tumor vasculature:
+
+Normalized Relative cerebral blood volume (nRCBV); and Cerebral blood flow (CBF)
+
+DWI MRI magnitude of diffusion of water through tissue (cell density):
+
+Apparent diffusion coefficient (ADC) using low and high Gaussian distributions, "assessed from baseline up to 5 years, survival status at 1-year reported
+Association of Baseline FMISO PET and MRI Features With Time-to-Progression (TTP), Disease progression was defined by Macdonald criteria. PFS was evaluated every 3months through the end of study (up to 5yrs), features were measured at baseline.
+
+Quantitative imaging features measuring abnormal tumor vasculature (MRI) and hypoxia (FMISO) were evaluated for their association with TTP (cox model) and to discriminate between responders and non-responders at 6 and 9 mos (PFS6 and PFS9) (logistic) Features include
+
+PET Hypoxia measures:
+
+Peak standardized uptake values (SUVpeak); maximum tumor:blood ratio (T/Bmax); and Hypoxia Volume (HV)
+
+DCE MRI perfusion measures:
+
+Mean/median volume transfer constant for gadolinium between blood plasma and the tissue extravascular extracellular space (ktrans)
+
+DSC MRI tumor vasculature:
+
+Normalized Relative cerebral blood volume (nRCBV); and Cerebral blood flow (CBF)
+
+DWI MRI magnitude of diffusion of water through tissue (cell density):
+
+Apparent diffusion coefficient (ADC) using low and high Gaussian distributions, assessed from baseline up to 5 years, progression status at months 6 and 9 reported|Reproducibility of the Baseline FMISO PET Uptake Parameters as Assessed by Baseline "Test" and "Retest" PET Scans, Reproducibility, defined as the variation of repeated measurements in an experiment performed under the same conditions, will be measured as the within subject coefficient of variation with upper an lower repeatability coefficients (LRC, URC) computed as percents from log-transformed data, per Velaquez, et al (J Nucl Med. 2009 Oct;50(10):1646-54. doi: 10.2967/jnumed.109.063347. Epub 2009 Sep 16. PMID: 19759105 ).
+
+Where Within Subject Coefficient of Variation (wCV) is a percentage defined as wCV(%)=100\* (exp( SD\[ld\]/√2) - 1)
+
+and LRC and URC are calculated as: RC=100 (exp(±1.96 SD\[ld\]) -1).
+
+here SD\[ld\] is the standard deviation of the difference of the log-transformed PET measurements. These bounds provide an estimate of the lower and upper bounds of percent change observed between scans for each measurement., Baseline and retest within 1 to 7 days after (but prior to the start of therapy)|Correlation Between T/Cmax and T/Bmax, Pearson correlation coefficient will be used to quantify the correlation between T/Bmax, the maximum tissue-to-blood ratio activity value, and T/Cmax, the tissue-to-cerebellum activite value Since T/Cmax does not requiring blood sampling and is image derived, a high correlation would indicate that T/Cmax could be an advantageous surrogate for T/Bmax., At baseline|Correlation Between MRS Markers and MR Imaging Markers of Vascularity as Well as Between MRS Markers and PET Markers of Tumor Hypoxia, Correlation between MRS markers and MR imaging markers and PET markers of tumor hypoxia
+
+MRS markers include:
+
+NAA/Cho, Cho/Cr, Lac/Cr, and Lac/NAA measured within tumor and at the periphery.
+
+MR imaging markers of vascularity include: CBV, CBF, and ktrans PET tumor hypoxia marker: SUVmax, baseline
+Overall and Progression Free Survival, Disease progression was defined by Macdonald criteria. Survival and Progression were evaluated every 3months and at the end of study (up to 5 years) and time to event evaluated., Baseline, every 3 months through study completion (up to 5 years for progression and survivorship)|SUVpeak and T/Bmax as Measures of Tumor Hypoxia, The FMISO image data were normalized by the average blood activity to produce pixel level tissue-to-blood ratio (T/B) values for all image slices. And the severity of the hypoxia was determined by the pixel with the maximum T/B value (TBmax).
+
+FMISO SUVpeak was determined as the average SUV from a 1 cm circular ROI centered over the hottest pixel. Since FMISO selectively binds to hypoxic tissues, SUVpeak within a region provides a measure of tumor hypoxia., baseline|Hypoxic Volume as a Measure of Tumor Hypoxia, The hypoxic volume (HV) was determined as the volume of pixels in the tumor on in the FMISO\\PET with a tumor to blood activity ratio ≥ 1.2.
+
+HV is a measure of the spatial extent of tumor hypoxia (in milliliters), baseline|DWI Apparent Diffusion Coefficient (ADC), Apparent Diffusion Coefficient (ADC) measures water diffusion through tissue (mm\^2/s). Cerebral infarction leads to diffusion restriction resulting in a low ADC signal in the infarcted area.
+
+A double Gaussian mixed model was fit to the ADC histogram and the mean of the lower and the mean of the higher ADC curves were evaluated, baseline|Normalized Relative Cerebral Blood Volume (nRCBV) and Normalized Cerebral Blood Flow (nCBF), Relative cerebral blood volume (RCBV) maps, computed from the integral of ∆R2\*(t), were corrected for leakage effects and normalized to normal appearing white matter (nRCBV); nRCBV provides a measure of tumor vasculature Cerebral blood flow (CBF) maps were was normalized to the mean of the region of interest (ROI) in normal appearing white matter (nCBF); nCBF provides a measure of vascular permeability and perfusion, baseline|Summary of Mean and Median Ktrans Across Participants., ktrans is a measure of vascular permeability and reflects the rate of gadolinium moves from plasma to extravascular extracellular space (predominantly though blood flow and capillary leakage), which can be represented by the mean or median rate.
+
+Mean \& Median ktrans within subject were computed using a matrix-based linearization method to fit tissue ∆R1(t) to the extended Tofts model.
+
+The mean across subjects is presented below (Mean (Mean-ktrans) and Mean(Median-Ktrans)), baseline
+PRIMARY OBJECTIVES:
+
+I. To determine the association of baseline FMISO PET uptake (hypoxic volume \[HV\]), highest tumor:blood ratio \[T/Bmax\]) and MRI parameters (Ktrans, CBV) with overall survival (OS) in participants with newly diagnosed GBM.
+
+SECONDARY OBJECTIVES:
+
+I. To determine the association of baseline FMISO PET uptake (HV, T/Bmax) and MRI parameters (Ktrans, CBV) with time to progression (TTP) and 6-month progression free survival (PFS-6) in participants with newly diagnosed GBM.
+
+II. To assess the reproducibility of the baseline FMISO PET uptake parameters by implementing baseline "test" and "retest" PET scans (performed within 1 to 7 days of each other).
+
+III. To assess the correlation between highest tissue:cerebellum ratio \[T/Cmax\] and T/Bmax at baseline.
+
+IV. To assess the correlation between other MRI parameters (for example Gadolinium-enhanced T1-weighted (T1Gd), vessel caliber index (VCI), , CBV-S, apparent diffusion coefficient (ADC) , N-acetylaspartate (NAA) to choline (Cho) ratio, blood oxygenation level-dependent (BOLD), T2) and OS, TTP, and PFS-6.
+
+OUTLINE: This is a multicenter study.
+
+Two weeks before initiation of chemoradiotherapy with temozolomide, patients undergo MRI and PET scan using FMISO. A subset of 15 patients undergo FMISO PET scans approximately 1 week before chemoradiotherapy. Blood samples are collected at baseline and periodically during study to compare image measures of tissue uptake of FMISO to blood concentrations. Tumor samples are collected from diagnostic biopsy or surgery for analysis of tumor hypoxic markers and methylguanine methyl transferase by immunohistochemical and Polymerase chain reaction (PCR) assays.
+
+After completion of study therapy, patients are followed up every 3 months for up to 5 years.

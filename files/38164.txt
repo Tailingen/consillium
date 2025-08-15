@@ -1,0 +1,28 @@
+Bexarotene in Preventing Breast Cancer in Patients at High Risk for Breast Cancer
+This phase I trial studies the side effects and best dose of bexarotene in preventing breast cancer in patients at high risk for breast cancer. Bexarotene belongs to a class of drugs that are called rexinoids, and it may reduce the incidence of breast tumors.
+Breast Atypical Ductal Hyperplasia|Breast Atypical Lobular Hyperplasia|Breast Ductal Carcinoma In Situ|Breast Lobular Carcinoma In Situ|Invasive Breast Carcinoma
+DRUG: Bexarotene|OTHER: Questionnaire Administration
+Number of Participants With Incidence of Adverse Events (Dose Limiting Toxicities), Dose Limiting Toxicity (DLT) is defined as a grade 2 skin adverse event that persists for at least 6 days or any grade 3 or greater adverse event possibly, probably, or definitely related to the study drug. In addition, a DLT will be a grade 2 skin adverse event that recurs and persists for at least 3 days., 4 weeks of treatment, Up to 30 days after completion of study drug for AE assessments
+Number of Participants With Changes in Markers of Systemic Toxicity, Serum biomarkers to be tested will be total cholesterol, triglycerides, low-density lipoprotein, high-density lipoprotein, thyroid-stimulating hormone, T4, T3, and calcium. Will be summarized using mean, standard deviation and median (range) for continuous variables at each time point. Wilcoxon rank-sum test may be used to examine the difference of continuous variables between participants' characteristics groups. Will be plotted as functions of time (baseline, week 1, week 2, and week 4). Linear mixed effect model will be applied to model the biomarker change over time for all participants. Appropriate transformation and regression model will be used to ensure the model fit., Baseline up to 28 days|Number of Participants With Trace Level of Bexarotene Concentration in Plasma Detected, Plasma concentrations of bexarotene were evaluated in all participants at baseline and at end of study. Plasma samples: ND = Not detected (below the quantitation limit of 0.5 ng/mL) TDL = Trace levels detected (below the LOQ of 0.5ng/mL; estimated value), baseline and end of treatment, up to 4 weeks|Number of Participants With Bexarotene Concentration in Tissue, Breast tissue concentrations were available only in those women who underwent breast biopsies. Tissue samples: Not detected (below the quantitation limit of 2.5 ng/g for a 10mg sample) and Trace levels detected (below the LOQ of 2.5ng/g; estimated value)., end of treatment, up to 4 weeks
+Tissue Markers, One of the four cores collected from the core biopsies from baseline (in dose expansion cohort only) and post treatment (all dose expansion cohort participants and optional for dose escalation group) will be formalin-fixed and paraffin embedded (FFPE) for histological analysis. One of the four cores collected from the core biopsies from baseline and post treatment will be placed in RNALater and utilized for gene expression of ribonucleic acid (RNA) biomarkers. Gene expression will be performed., baseline, 15, and Day 28 visits
+PRIMARY OBJECTIVES:
+
+I. To determine the recommended phase II dose of topical bexarotene 1% (weight by weight \[w/w\]) gel for evaluation in healthy women. (Dose Escalation Group) II. Conduct an intervention of topical 1% bexarotene gel to an unaffected breast of healthy women at high risk for breast cancer for 4 weeks at the maximum tolerated dose (MTD) as determined during the dose escalation group phase to assess bexarotene concentration in the breast tissue. (Dose Expansion Group)
+
+SECONDARY OBJECTIVES:
+
+I. To detect bexarotene concentration in the serum at baseline and at 4 weeks of treatment.
+
+II. To detect bexarotene concentration in the breast tissue at 4 weeks of treatment in the dose escalation group.
+
+III. To investigate the effects of topical bexarotene on serum biomarkers, we will determine the change from baseline in i) lipid biomarkers (total cholesterol, triglycerides, low density lipoprotein \[LDL\], high density lipoprotein \[HDL\]), ii) thyroid function biomarkers (thyroid stimulating hormone \[TSH\], T4, T3), iii) calcium.
+
+EXPLORATORY OBJECTIVE:
+
+I. To examine changes in gene expression associated with retinoid action. (Dose Expansion Group)
+
+OUTLINE: This is a dose-escalation study.
+
+Group 1 will apply 10mg bexarotene topically to one breast every other day (QOD) for 4 weeks; Group 2 will apply 10mg bexarotene topically to one breast every other day (QOD) for 1 week and then daily for 3 weeks after confirmation that toxicity is at an acceptable range; Group 3 will apply 10mg bexarotene topically to one breast every other day (QOD) for 1 week, then daily for 1 week, and then 20mg daily for 2 weeks after confirmation that toxicity is at an acceptable range.
+
+After completion of study treatment, patients are followed up at 30 days.

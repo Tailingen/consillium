@@ -1,0 +1,56 @@
+Acalabrutinib With or Without Obinutuzumab in Treating Patients With Early-Stage Chronic Lymphocytic Leukemia or Small Lymphocytic Lymphoma
+This phase II trials studies how well acalabrutinib with or without obinutuzumab works in treating patients with early-stage chronic lymphocytic leukemia or small lymphocytic lymphoma. Acalabrutinib may stop the growth of cancer cells by blocking some of the enzymes needed for cell growth. Immunotherapy with monoclonal antibodies, such as obinutuzumab, may help the body's immune system attack the cancer, and may interfere with the ability of tumor cells to grow and spread. It is not yet known whether giving acalabrutinib with or without obinutuzumab will work better in treating patients with early-stage chronic lymphocytic leukemia or small lymphocytic lymphoma.
+Chronic Lymphocytic Leukemia|Small Lymphocytic Lymphoma
+DRUG: Acalabrutinib|OTHER: Laboratory Biomarker Analysis|BIOLOGICAL: Obinutuzumab|OTHER: Patient Observation|OTHER: Quality-of-Life Assessment
+Rate of minimal residual disease (MRD)-negative complete response (Arm A and Arm B), Defined as an objective status of complete response (CR) or CR with incomplete marrow recovery (CRi) along with MRD negativity in the bone marrow by flow cytometry. Will be compared between the two arms. The proportion of successes will be estimated in each arm by the number of successes divided by the total number of evaluable patients. Ninety-five percent confidence intervals for the true success proportion will be calculated in each arm based on the normal approximation. Comparison of MRD-negative complete response rates between the two treatment groups will be performed using a one-sided z-test (based on normal approximation with pooled variance of standardized test statistics) at significance level 0.10., After 12 courses|Time to first therapy in patients (Arm C), Will be estimated using the method of Kaplan-Meier., From the date of registration, assessed after 12 courses
+Overall response rate (Arms A and B), Will be estimated in each arm by the number of patients who achieve a CR, CRi, clinical complete response (CCR), nodular partial response (nPR), or partial response (PR) at any time during treatment divided by the total number of evaluable patients. Exact binomial 95% confidence intervals for the true success rate will be calculated., Up to 10 years|Progression-free survival (Arms A and B), Will be estimated in each arm using the method of Kaplan-Meier. Progression-free survival will be compared between the two arms using log-rank statistics., From randomization up to 10 years|Time to next therapy (Arms A and B), Will be estimated in each arm using the method of Kaplan-Meier. Time to next therapy will be compared between the two arms using log-rank statistics., From the date of randomization up to 10 years|Overall survival (Arms A and B), Will be estimated in each arm using the method of Kaplan-Meier. Overall survival will be compared between the two arms using log-rank statistics., From randomization up to 10 years|Progression-free survival (Arm C), Will be estimated in using the method of Kaplan-Meier., From randomization up to 10 years|Overall survival (Arm C), Will be estimated in using the method of Kaplan-Meier., From randomization up to 10 years|Incidence of adverse events rates (Arms A and B), Will be assessed according to Common Terminology Criteria for Adverse Events version 4.0. The maximum grade for each type of adverse event will be recorded for each patient, and frequency tables will be reviewed for each arm to determine patterns. Additionally, the relationship of the adverse event(s) to the study treatment will be taken into consideration., Up to 10 years
+Quality of life measures, Will be assessed used Functional Assessment of Cancer Therapy-General (FACT-G). Descriptive statistics by arm at each time point will include means, standard deviations, medians, and ranges for each scale. Descriptive graphical techniques will include mean plots by arm over time for each scale. For evaluating changes over time in each score, a minimally important difference will be defined as a change of 7 points, based on previously established cutoffs for the transformed FACT-G scores. Changes from baseline will be assessed using a paired sample t-test., Up to 10 years|T-cells, natural killer (NK)-cells, and NK-T cells, Will be assessed in peripheral blood immune profile using 8-color flow cytometry. Values over time will be summarized graphically and descriptively. Paired sample approaches (Wilcoxon signed rank test) for these types of quantitative measures will be used to assess differences over time. Differences between treatments (Arms A and B only) will be assessed., Baseline|Bone marrow hematopoiesis (Arms A and B), will be evaluated by estimation of colony forming capacity by purified hematopoietic stem cells (HSCs) and their differentiated progeny (i.e. multipotent progenitor, common myeloid progenitor, common lymphoid progenitor) as continuous measures. Degree of cytopenia in the peripheral blood will be evaluated on a continuous scale for each blood cell component (hemoglobin, platelets, etc.). In each arm, correlation between each blood cell component and its corresponding pre-cursor will be evaluated using Spearman's rank correlation coefficients., Up to 10 years|Percent killing of chronic lymphocytic leukemia (CLL) B-cells (Arms A and B), Will be measured as a continuous measure. In each arm, the relationship between percent killing and response (responder versus \[vs.\] non-responder) after 12 cycles of treatment will be evaluating using Wilcoxon's rank sum test., After 12 courses|Somatic genetic mutations (Arms A and B), Will be evaluated as present vs. absent for each gene. In each arm, the relationship between each mutation and response (responder vs. non-responder) after 12 cycles of treatment will be evaluated using Fisher's exact test., After 12 courses
+PRIMARY OBJECTIVES:
+
+I. To compare the bone marrow minimal residual disease (MRD)-negative complete response (CR) rate of acalabrutinib alone and acalabrutinib/obinutuzumab in early stage asymptomatic chronic lymphocytic leukemia (CLL)/small lymphocytic lymphoma (SLL) patients who are high and very high risk by CLL-International Prognostic Index (IPI). (Arms A and B) II. To evaluate time to first therapy (TFT) in early stage asymptomatic CLL/SLL patients with low and intermediate-risk by CLL-IPI. (Arm C)
+
+SECONDARY OBJECTIVES:
+
+I. To compare the safety of acalabrutinib alone and acalabrutinib/obinutuzumab in early stage asymptomatic CLL/SLL patients who are high and very high risk by CLL-IPI.
+
+II. To compare the overall response rate (ORR), progression-free survival (PFS), time to next therapy (TNT) and overall survival (OS) of acalabrutinib alone and acalabrutinib/obinutuzumab in early stage asymptomatic CLL/SLL patients who are at high and very high risk by CLL-IPI.
+
+III. To determine the progression-free survival (PFS) and overall survival (OS) in early stage asymptomatic CLL/SLL patients with low and intermediate risk by CLL-IPI.
+
+EXPLORATORY OBJECTIVE:
+
+I. To evaluate the quality of life using Functional Assessment of Cancer Therapy-General (FACT-G) quality of life (QOL) survey.
+
+CORRELATIVE RESEARCH:
+
+I. To compare the peripheral blood immune profile using 8-color flow cytometry, to assess changes in T-cells, natural killer (NK)-cells, and NK-T cells at baseline and during active treatment among patients receiving either acalabrutinib alone or acalabrutinib and obinutuzumab.
+
+II. To determine changes in the peripheral blood immune profile using 8-color flow cytometry to assess changes in T-cells, NK-cells, and NK-T cells at baseline and during event monitoring in patients with low and intermediate risk by CLL-IPI.
+
+III. Signal pathway studies-BTK, ERK, PLC gamma and S6 protein levels and phosphorylation status will be assessed by Western blot methodology using specific antibodies to pull down specific proteins from cell lysates.
+
+IV. To confirm if in vitro cell killing is via apoptosis we will also assess PARP and caspase 3 cleavage.
+
+V. Apoptotic protein studies-MCL-1, XIAP levels will be determined by Western blot methodology using specific antibodies to pull down these specific proteins from cell lysates.
+
+VI. Bone marrow aspirates will be studied for hematopoietic function in two ways:
+
+VIa. Estimation of colony forming capacity by purified hematopoietic stem cells (HSCs).
+
+VIb. Evaluation of the levels of HSCs and their differentiated progeny (i.e. MPP, CMP, CLP).
+
+VII. Paired bone marrow and blood samples will be evaluated for the levels of innate effector cells.
+
+VIII. Perform targeted sequencing of 59 genes mainly grouped in 8 biological pathways: NOTCH1, B-cell signaling, deoxyribonucleic acid (DNA) damage response, chromatin modifiers, ribonucleic acid (RNA) metabolism, NF-kappaB pathway, cell cycle and apoptosis.
+
+IX. Screen 2 genes previously associated with resistance to BTK inhibitors (BTK and PLCG2).
+
+OUTLINE: Patients with high or very high risk CLL-IPI are randomized to Arm A or Arm B. Patients with intermediate or low risk are assigned to Arm C.
+
+ARM A: Patients receive acalabrutinib orally (PO) twice daily (BID) on days 1-28. Treatment repeats every 28 days for 6 cycles in the absence of disease progression or unacceptable toxicity. Patients then receive acalabrutinib PO BID on days 1-84. Treatment repeats every 84 days for 6 cycles in the absence of disease progression or unacceptable toxicity. Patients may continue treatment with acalabrutinib If MRD negative CR/CR with incomplete marrow recovery (CRi) is not achieved after 12 cycles.
+
+ARM B: Patients receive acalabrutinib orally (PO) twice daily (BID) on days 1-28 and obinutuzumab intravenously (IV) on days 1, 2, 8, and 15 of cycle 1 and days 1 of subsequent cycles. Treatment repeats every 28 days for 6 cycles in the absence of disease progression or unacceptable toxicity. Patients then receive acalabrutinib PO BID on days 1-84. Treatment repeats every 84 days for 6 cycles in the absence of disease progression or unacceptable toxicity. Patients may continue treatment with acalabrutinib If MRD negative CR/CRi is not achieved after 12 cycles.
+
+ARM C: Patients will be observed every 6 months for up to 2 years.
+
+After completion of study treatment, patients are followed up every 6 months for up to 10 years.

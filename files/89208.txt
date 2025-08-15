@@ -1,0 +1,40 @@
+Testing the Combination of an Anti-Cancer Drug, Iadademstat, With Other Anti-Cancer Drugs (Venetoclax and Azacitidine) for Treating AML
+This phase I trial tests safety, side effects and best dose of iadademstat with azacitidine and venetoclax for the treatment of patients with acute myeloid leukemia (AML) who have not receive treatment (treatment naive). Chemotherapy drugs, such as iadademstat and azacitidine work in different ways to stop the growth of cancer cells, either by killing the cells, by stopping them from dividing, or by stopping them from spreading. Venetoclax is in a class of medications called B-cell lymphoma-2 (BCL-2) inhibitors. It may stop the growth of cancer cells by blocking Bcl-2, a protein needed for cancer cell survival. Giving iadademstat with azacitidine and venetoclax may be safe and tolerable in treating patients with treatment naive AML.
+Acute Myeloid Leukemia
+DRUG: Azacitidine|PROCEDURE: Biospecimen Collection|PROCEDURE: Bone Marrow Aspiration|PROCEDURE: Buccal Swab|DRUG: Iadademstat|DRUG: Venetoclax
+Incidence of dose limiting toxicity (DLT), DLT is defined as any of the following treatment emergent adverse events occurring in the first cycle that are related (possibly, probably, or definitely) to administration of the study agents. Will utilize National Cancer Institute (NCI)-Common Terminology Criteria for Adverse Events (CTCAE) version (v) 5.0 for toxicity grading and reporting., Up to completion of cycle 1|Incidence of adverse events (AEs), Will utilize NCI-CTCAE v5.0 for AE grading and reporting., Up to completion of therapy
+Objective response rate, The probability of achieving a complete remission (CR), CR with incomplete hematologic recovery (CRi), CR with partial hematologic recovery (CRh), will be estimated with exact 95% binomial confidence intervals., Up to 4 years|Morphologic leukemia free state, Up to 4 years|Minimal residual disease (MRD)-negative composite complete remission (cCR), Will be estimated with exact 95% binomial confidence intervals., After completion of 2 cycles|Event free survival, Will be estimated by the Kaplan-Meier method, along with 95% confidence regions., From study enrollment to disease progression, treatment failure (failure to achieve CR or <5% bone marrow blasts) confirmed relapse or death, up to 4 years|Overall survival, Will be estimated by the Kaplan-Meier method, along with 95% confidence regions., Up to 4 years|Duration of response, Will be estimated by the Kaplan-Meier method, along with 95% confidence regions., Up to 4 years|Proportion of patients with high risk molecular and cytogenetic markers, Will be estimated with exact 95% binomial confidence intervals and compared between baseline, during treatment, and at progression of disease., At baseline, during treatment, and at progression of disease, up to 4 years
+MRD-negative cCR and molecular/cytogenetic risk group status, Rates of MRD-negative cCR will be tabulated descriptively across molecular (PTPN11, NRAS, KRAS, NF1, and TP53) and cytogenetic (complex karyotype) subgroups. Will be estimated with exact 95% binomial confidence intervals., After cycles 1, 3 and 6|Percentage LSD1 target engagement by chemoprobe in peripheral blood mononuclear cells, Changes in %LSD1 target engagement will be compared between patients and between dose levels to confirm target engagement. Data between dose levels will be compared with a rank sum test and within patients with a signed rank test and/or mixed effects regression. Data between dose levels will be compared with a rank sum test and within patients with a signed rank test and/or mixed effects regression., Up to 4 years|BCL-2 mutations by next generations sequencing (NGS) in bone marrow (BM) of patients who initially respond and then progress, At baseline, during treatment, and at progression of disease, up to 4 years|BAX mutations by NGS in BM of patients who initially respond and then progress, At baseline, during treatment, and at progression of disease, up to 4 years|Mutations by NGS in relevant genes in BM of patients who initially respond and then progress, At baseline and at progression of disease, up to 4 years|Expression of MCL-1, BCL-XL and related proteins in PBMCs of patients who initially respond and then progress, At baseline, during treatment, and at progression of disease, up to 4 years|Venetoclax trough, Day 5, 8 and 12|Iadademstat through and derived pharmacokinetic parameters, Up to 4 years
+PRIMARY OBJECTIVE:
+
+I. To determine the recommended phase 2 dose (RP2D) and safety profile of iadademstat in combination with venetoclax and azacitidine.
+
+SECONDARY OBJECTIVES:
+
+I. To observe and record anti-tumor activity, including evaluating the overall response rate (ORR), defined as complete remission (CR), CR with incomplete hematologic recovery (Cri), or CR with partial hematologic recovery (CRh).
+
+II. To evaluate the measurable residual disease (MRD)-negative composite CR (cCR) rate after 1, 2, and 3 cycles using multiparameter flow cytometry (MFC) and evaluate event-free survival (EFS), overall survival (OS), and duration of response (DoR).
+
+III. To determine if treatment will be associated with expansion of high risk molecular (PTPN11, NRAS, KRAS, NF1, and TP53) and cytogenetic (complex karyotype) markers over time.
+
+EXPLORATORY OBJECTIVES:
+
+I. To determine the rate of MRD-negative cCR across molecular (PTPN11, NRAS, KRAS, NF1, and TP53) and cytogenetic (complex karyotype) subgroups.
+
+II. To document the effect of therapy on LSD1-target engagement.
+
+III. To determine if secondary resistance (remission with therapy then relapse) in both arms is associated with:
+
+IIIa. Acquisition of resistance mutations including BCL-2 and BAX; IIIb. Development or expansion of mutations that activate RAS/MAPK/FLT3 including NRAS, KRAS, PTPN11, NF1, and FLT3-ITD; IIIc. Over-expression of resistance proteins such as MCL-1 or BCL-XL. IV. To determine pharmacokinetics (PK) in the triplet therapy of iadademstat, azacitidine, and venetoclax.
+
+V. To explore PK/pharmacodynamic (PD) relationship of iadademstat and venetoclax in patients who received the triplet therapy of iadademstat, azacitidine, and venetoclax.
+
+VI. To evaluate the association between time to achieve an MRD-negative cCR and EFS, OS, and DoR.
+
+OUTLINE: This is a dose-escalation study of iadademstat and venetoclax in combination with azacitidine.
+
+INDUCTION: Patients receive iadademstat orally (PO) once per day (QD) on days 1-5, 8-12, and may also receive it on days 15-19, venetoclax PO QD on days 1-14 or 1-21 and azacitidine intravenously (IV) over 10-40 minutes or subcutaneously (SC) on days 1-7 or 1-5 and 8-9 of each cycle. Cycles repeat every 28 days for 3 cycles in the absence of disease progression or unacceptable toxicity. Patients may also undergo buccal swab collection on study.
+
+CONSOLIDATION: Patients receive iadademstat PO QD on days 1-5, 8-12 and may also receive it on days 15-19, venetoclax PO QD on days 1-7 or 1-14 and azacitidine IV over 10-40 minutes or SC on days 1-7 or 1-5 and 8-9 of each cycle. Cycles repeat every 28 days for up to 2 years in the absence of disease progression or unacceptable toxicity. Patients undergo blood sample collection and may undergo bone marrow aspiration throughout the study.
+
+After completion of study treatment, patients are followed every 3-4 months for up to 2 years.

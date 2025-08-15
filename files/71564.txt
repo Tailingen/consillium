@@ -1,0 +1,24 @@
+Stereotactic Radiation Therapy in Treating Patients With Brain Metastases
+RATIONALE: Stereotactic radiation therapy may be able to send x-rays directly to the tumor and cause less damage to normal tissue.
+
+PURPOSE: This phase II trial is study how well stereotactic radiation therapy works in treating patients with brain metastases
+Metastatic Cancer|Unspecified Adult Solid Tumor, Protocol Specific
+RADIATION: Radiation Therapy
+Proportion of Patients Dying of Neurological Death, Defined as Dying With Progressive Neurological Dysfunction Regardless of Systemic Disease Status, Neurological death is defined as dying with progressive neurological dysfunction regardless of systemic disease status. Patients wtih severe neurological disability who die of intercurrent illness will also be considered to have died of neurological death., Up to 5 years
+Progression-free Survival (PFS), Time from enrollment to first date of progressive or recurrent disease. Worsening of neurological symptoms is considered indicative of neurological disease progression. Patients who die of disease-related or treatment-related causes will be considered to have progressed at their date of death; i.e., not be considered 'censored'. PFS will be considered censored only if no progression is noted or if the patient dies of a clearly non-cancer-related event such as accident., Up to 5 years|Time to Neurological Death, Time from enrollment to date of death directly due to brain metastases. Deaths from other causes including hemorrhage or infection will be considered 'censored' observations in the setting of neurologic improvement or stabilization. If the patient dies of any cause with worsening of neurologic symptoms, the death will be counted as an 'event' or neurological death., From time of enrollment up to 5 years|Time to Systemic Death, Descriptive analysis will be conducted using Kaplan-Meier survival analysis, From time of enrollment up to 5 years|Karnofsky Decay Time, Time from enrollment to the date the patient's Karnofsky performance score drops below 60. If the patient dies of any cause with no documentation of a drop in their Karnofsky score to less than 60, the date of death will be used as the date of worsening of the Karnofsky score. A patient with a Karnofsky score of 60 or greater requires occasional assistance, but is able to care for most of his/her needs. A patient's Karnofsky decay time will be considered censored if the patient is still under follow up with a Karnofsky score of 60 or greater and if the patient dies of a non-cancer-related cause., From time of enrollment up to 5 years
+OBJECTIVES:
+
+Primary
+
+* To determine the neurological death rate following the initiation of conformal stereotactic radiotherapy in patients with 1-3 brain metastases.
+
+Secondary
+
+* To determine the overall survival rate at 6 months.
+* To determine the progression-free survival rate or brain metastases recurrence rate at 6 months.
+* To determine the time to neurological death, time to systemic death, and Karnofsky decay time.
+* To determine the frequency and severity of adverse events associated with conformal stereotactic radiotherapy.
+
+OUTLINE: Patients undergo conformal stereotactic radiotherapy over 5 days to an area including 3 mm around the metastases or the surgical cavity. Patients may receive additional radiotherapy if symptomatic metastases emerge at different sites.
+
+After completion of study treatment, patients are followed up at 1 and 2 months and then every 3 months thereafter.

@@ -1,0 +1,53 @@
+Planning Operative Strategy Using a Digital Renal Artery Clamping Tool
+A proposed new tool ('DIPLANN-tool' - Digital Planning in Nephrectomy) for predicting kidney perfusion zones on a segmented 3D model during robot-assisted partial nephrectomy (RAPN) for localized renal cancer demonstrated high accuracy when planning selective clamping (SC) for RAPN. However, the tool's clinical added value still needs to be confirmed. Therefore, a randomized controlled trial using a study and control group is the preferred study design.
+
+Experimental group: the use of the DIPLANN-tool + conventional computed tomography (CT) imaging for preoperative planning and perioperative guidance during RAPN.
+
+Control group: the use of only conventional CT imaging for preoperative planning and perioperative guidance during RAPN (= current standard of care).
+
+The primary endpoint is planning and performing as planned a SC strategy. Secondary endpoints include patients' health, patients' insight and surgeons' benefits.
+Kidney Cancer|Kidney Neoplasms|Kidney Diseases|Renal Cancer|Renal Cell Carcinoma|Renal Disease
+DEVICE: Pre-operative explanation of the procedure (DIPLANN + CT)|DEVICE: Pre-operative surgical planning (DIPLANN + CT)|PROCEDURE: RAPN (DIPLANN + CT)|DEVICE: Pre-operative explanation of the procedure (CT only)|DEVICE: Pre-operative surgical planning (CT only)|PROCEDURE: RAPN (CT only)
+Selective clamping, Planning and performing as planned a selective clamping (SC) strategy (considered by the surgeon at the end of surgery, objectified pre- and postoperatively through online assessment on study website and controlled through video-analysis): planning SC and performing the planned SC strategy = positive outcome; planning SC and performing another SC strategy or full clamping (FC) = negative outcome; planning FC = negative outcome., During surgery
+eGFR 6 months, Change in eGFR at 6 months after surgery compared to eGFR preoperatively., 6 months postoperatively|Clamping strategy, Clamping strategy performed (selective clamping or full clamping)., During surgery|Hilar dissection time, Time to dissect hilum (minutes) as analyzed on postoperative surgical video analysis., During surgery|Conversion to full clamp, Conversion from SC to FC., During surgery
+Complications, Intra-operative and 90-day postoperative complications., 90 days postoperatively|Estimated blood loss, Estimated blood loss during surgery (mL)., During surgery|Perfusion model validation, Concordance between 3D perfusion model and peroperative kidney surface perfusion as visualized by ICG as estimated by postoperative surgical video analysis., During surgery|Low eGFR 6 months, eGFR (CKD-EPI) \<45 ml/min at 6 months after surgery., 6 months postoperatively|Postoperative eGFR, Change in eGFR (CKD-EPI) after surgery at other time points up to 1 year (postoperative day 1, last measurement before discharge, postoperatively 1 month, 3 months, 12 months) compared to eGFR preoperatively., up to 12 months postoperatively|Ischemia time, Ischemia time during surgery (seconds)., During surgery|Positive surgical margin rate, Positive surgical margin (PSM), as analyzed on histopathological examination., Postoperatively on average 10 days after surgery|Console time, Robotic console time of surgery (minutes)., During surgery|Hospital stay, Length of hospital stay after surgery (days)., From day of surgery to day of discharge from the hospital: number of days includes day of the surgery as the first day and day of discharge from the hospital as the final day (estimated at 3 days, longer if more complicated hospitalisation)|Patient quality of life, Quality of life (according to the European Organisation for Research and Treatment of Cancer (EORTC) QLQ-C30 questionnaire: higher score = worse quality of life) up until 1 year after surgery (preoperatively, postoperatively at 3 months, 6 months, 12 months)., up to 12 months postoperatively|Anxiety 1, Preoperative anxiety for surgery questionnaire: Hospital Anxiety and Depression Scale (HADS): higher score = more anxiety., Preoperatively|Anxiety 2, Preoperative anxiety for surgery questionnaire: Symptom Distress Thermometer (SDT): higher score = more anxiety., Preoperatively|Patient knowledge, Preoperative patient knowledge questionnaire. Higher score = more knowledge., Preoperatively|Kidney dissection time, Time to dissect kidney (minutes) as analyzed on postoperative surgical video analysis., During surgery|Superselective clamping rate, Superselective clamping (yes/no) as analyzed on postoperative surgical video analysis., During surgery|Ischemic renal parenchyma, Percent renal parenchyma rendered ischemic., During surgery|Conversion rate, Conversion from partial to radical nephrectomy., During surgery
+BACKGROUND:
+
+For patients diagnosed with localized kidney cancer, two main options exist to surgically remove the kidney tumor. During radical nephrectomy (RN), the entire kidney is removed. During partial nephrectomy (PN), only the tumor is resected, safeguarding the function of the remaining healthy kidney tissue. This last procedure is preferred, but not always technically feasible. To resect only the tumor, a balance has to be found in the clamping approach: clamping the blood supply to the kidney assures bloodless tumor resection, yet compromises the postoperative renal function due to the temporary ischemia. Tumor resection without clamping on the other hand, might lead to substantial blood loss. That is why "selective clamping" (SC) is proposed. In this approach, only those selective arteries are clamped that perfuse the zone including the tumor. The main drawback of this strategy is that it is often not clear which arteries should be clamped based on standard preoperative imaging, while misjudgment can lead to a high-risk surgery with excessive bleeding or prolonged ischemia time. Therefore, RN is currently recommended when PN is considered not feasible. Better prediction of individual kidney perfusion will allow to perform more frequently a PN and thus save healthier kidney tissue. Additionally, it is difficult for patients to assess their own individual oncological situation based on 2D CT images.
+
+With this project, the investigators want to offer the surgeon an easy-to-use virtual planning tool that facilitates the decision-making process regarding the feasibility of PN and the corresponding optimal clamping strategy. This tool uses virtual 3D models based on CT scans, to visualize precise information on the different anatomical structures and perfusion zones. This may also improve patients' understanding of their own individual situation. The proposed new tool (DIPLANN-tool) for predicting kidney perfusion zones on a segmented 3D model during robot-assisted partial nephrectomy (RAPN) for localized renal cancer demonstrated high accuracy when planning selective clamping (SC) for RAPN. However, the tool's clinical added value still needs to be confirmed. Therefore, a randomized controlled trial using a study and control group is the preferred study design.
+
+DESIGN:
+
+A confirmatory, multicentric, unblinded, randomized, controlled, pivotal trial using parallel group assignment and stratified randomization.
+
+Experimental group: the use of the DIPLANN model + conventional CT imaging for preoperative planning and perioperative guidance.
+
+Control group: the use of only conventional CT imaging for preoperative planning and perioperative guidance (= current standard of care).
+
+METHODOLOGY:
+
+Sample size calculation: 235 patients.
+
+Patients will be randomized according to a 1:1 allocation ratio to either the experimental group (the DIPLANN-tool in combination with conventional CT imaging) or the control group (conventional CT imaging alone), using permuted block randomization with blocks of varying size.
+
+Randomization will be stratified on the following variables:
+
+* Whether SC is deemed possible according to the DIPLANN-tool in combination with conventional CT imaging or on conventional CT imaging alone, as assessed by an independent surgeon (between inclusion and randomization) who will not be not involved in the RAPN surgical procedure (yes vs no).
+* Hospital where surgery is performed.
+* PADUA classification (low (\<8) and intermediate (8-9) vs high-risk (\>9)). In case of multiple masses, the mass with the highest individual PADUA classification will be used.
+
+PRIMARY OBJECTIVE:
+
+To assess if the DIPLANN-tool in combination with conventional CT imaging is superior to conventional CT imaging alone, with respect to planning and performing as planned a SC strategy during RAPN, in patients diagnosed with localized kidney cancer who are planned to undergo renal cancer surgery and in whom SC is deemed possible either according to the DIPLANN-tool in combination with conventional CT imaging or according to conventional CT imaging only, as assessed between inclusion and randomization by an independent surgeon.
+
+SECONDARY OBJECTIVES:
+
+* To assess if the DIPLANN-tool in combination with conventional CT imaging is superior to conventional CT imaging alone, with respect to planning and performing as planned a SC strategy during RAPN, in patients diagnosed with localized kidney cancer who are planned to undergo renal cancer surgery.
+* To compare the DIPLANN-tool in combination with conventional CT imaging to conventional CT imaging alone with respect to: patients' health, patients' insight, and surgeons' benefits.
+
+ENDPOINTS:
+
+The primary endpoint is planning and performing as planned a SC strategy. Secondary endpoints include patients' health, patients' insight and surgeons' benefits.
+
+Extended listing of all outcome measures: see below.
