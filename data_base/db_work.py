@@ -74,7 +74,7 @@ def upload_to_qdrant(client: QdrantClient, biobert_tokenizer, biobert_model):
         raise ValueError("Модели BioBERT не инициализированы")
 
     # Конфигурация
-    TEXTS_DIR = "/content/drive/MyDrive/Клинические_рекомендации_eng"
+    TEXTS_DIR = "C:\\papka\\python\\consillium\\files"
     BATCH_SIZE = 16
     DEVICE = "cuda" if torch.cuda.is_available() else "cpu"
     COLLECTION_NAME = "medical_texts_local"
@@ -172,8 +172,8 @@ def upload_to_qdrant(client: QdrantClient, biobert_tokenizer, biobert_model):
         # Не закрываем client здесь, так как он передан извне
         # (закрытие должно быть на уровне вызывающего кода)
 
-biobert_tokenizer, biobert_model, llm = initialize_models()
 
+biobert_tokenizer, biobert_model, llm = initialize_models()
 qdrant_client = qdrant_initialize()
 
 try:
