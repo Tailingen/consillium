@@ -1,7 +1,0 @@
-Real-Time CAD for Colonic Neoplasia: A RCT
-This study assesses the sensitivity and added benefits of computer-aided detection compared to standard care (white-light) in detecting colon polyps in patients undergoing colonoscopy.
-Colorectal Cancer|Colorectal Neoplasms
-DEVICE: Real-Time Computer Aided Detection|PROCEDURE: Stanford Colonoscopy
-Adenoma Detection Rate, 1 year
-Adenomas Per Colon, 1 year|Sessile Serrated Lesion Detection Rate, 1 year|Sessile Serrated Lesions Per Colon, 1 year|False Neoplasia Rate, 1 year|Withdrawal Time, 1 year
-Failure in polyp detection leads to colon cancer after colonoscopy. Artificial intelligence systems allow real-time computer-aided detection of polyps with high-accuracy. This study will compare GI-Genius, a real-time CAD system to standard colonoscopy in terms of how many colonoscopies detect an adenoma.

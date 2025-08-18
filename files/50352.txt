@@ -1,6 +1,0 @@
-Clinical Study of Magnetic Resonance Imaging and Deep Learning of Joint Synovial Disease
-Through the high-throughput feature extraction of magnetic resonance images, the deep learning prediction model of joint synovial lesions is constructed used for the diagnosis, differential diagnosis and curative effect monitoring of joint synovial lesions.
-Synovial Diseases|Pigmented Villonodular Synovitis|Gout|Rheumatoid Arthritis
-DIAGNOSTIC_TEST: Synovitis diagnosis
-Patient's diagnosis, Type of synovitis disease in patients with a clear comprehensive diagnosis, 2019-2022
-The study applies magnetic resonance and deep learning (DL) to the diagnosis of joint synovial lesions, aims to have a more comprehensive understanding of the pathophysiology of the occurrence and development of joint synovial lesions. As a non-invasive imaging method to assess the condition of the disease, DL methods excavates the deep features contained in the image, quantifies the joint synovial lesions, and then gives more information to the clinician in the diagnosis and differential diagnosis of the joint synovial lesions, provide important information for the planning of individualized treatment plans for patients with joint synovial diseases.

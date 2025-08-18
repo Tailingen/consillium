@@ -1,7 +1,0 @@
-Model of Predicting Biochemical Recurrence After Radical Prostate Cancer Based on Pre-treatment PSMA PET / MR Image Features
-The purpose of this study is to investigate the predictive value of preoperative 18F-PSMA-1007 PET/MR in the predictive effect of biological recurrence (BCR) after radical prostatectomy (RP) for localized prostate cancer (PCa).
-Prostate Cancer
-OTHER: Observe
-18F-PSMA-1007 PET/MR image parameters, Before surgery
-Biochemical recurrence-free survival time, 3 years
-Construct a predictive model for biochemical recurrence (BCR) in patients after radical prostatectomy using imaging parameters from preoperative 18F-PSMA-1007 PET/MRI, and compare the predictive performance of this model with existing clinical models. Data from three centers will be collected, with datasets from two centers used as the training set for the selection of predictive factors and model construction, while the dataset from the remaining center will serve as the validation set to assess the predictive performance of the model for BCR after prostatectomy.

@@ -1,6 +1,0 @@
-Study of bladdeR Cancer Detection in Standard White Light Versus AI-Supported Endoscopy-02
-This study is being conducted to investigate if an artificial intelligence support tool is non-inferior in detecting bladder cancer compared to the traditional method, standard white light cystoscopy (WLC). The researchers will compare how well the artificial intelligence tool and WLC perform in detecting bladder cancer through a controlled, organized testing process.
-Bladder Cancer
-DEVICE: AI supported detection of bladder cancer
-Sensitivity of standard WLC compared to WLC assisted by the AI model evaluated with a non-inferiority margin of 5%., To determine whether the AI model is non-inferior with regards to sensitivity compared to standard WLC in a randomized controlled trial., 7 month
-This clinical investigation aims to confirm that an artificial intelligence model utilizing a Convolutional Neural Network (CNN) can achieve sensitivity in detecting bladder cancer that is non-inferior to traditional white light cystoscopy (WLC) in a randomized controlled trial. The investigational artificial intelligence device leverages the advanced capabilities of CNNs, a type of deep learning model designed to analyze visual imagery with high precision.

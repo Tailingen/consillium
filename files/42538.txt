@@ -1,7 +1,0 @@
-4D-CT-based Ventilation Imaging for Adaptive Functional Guidance in Radiotherapy
-To develop and investigate a novel radiotherapy technique for preserving lung function based on a map of lung function.
-Lung Cancer
-DEVICE: Real-time Position Management system|DEVICE: Discovery ST multislice PET/CT scanner|DEVICE: Infinia Hawkeye SPECT/CT gamma camera|DEVICE: Pinnacle3 treatment planning system|DEVICE: SKYLight nuclear camera|DRUG: DTPA|DRUG: TECHNETIUM TC 99M MAA
-The overall correlation between the 4D-CT and the SPECT ventilation images., 24 months
-The difference between the local ventilation at simulation and during the treatment. Dose-volume or functional dose-volume metrics. The regression coefficient between the regional ventilation and time. The mean dose to the high-functional lung region., 24 months
-To develop and investigate a novel radiotherapy technique for preserving lung function based on a map of lung function.

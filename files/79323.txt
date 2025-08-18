@@ -1,6 +1,0 @@
-Predicting Pathological Complete Response of Rectal Cancer With Magnetic Resonance(MR) Radiomics
-This study plans to construct a MR radiomics model for predicting pathological complete response(pCR) to neoadjuvant chemoradiotherapy(CRT) in locally advanced rectal cancer(LARC) patients.
-Locally Advanced Rectal Cancer
-DIAGNOSTIC_TEST: pelvic MR examination
-Pathological complete response(pCR), Pathological complete response was defined as the absence of viable tumor cells in the primary tumor and lymph nodes., within one week after surgery
-We propose to develop and validate a radiomics model for individualized pCR evaluation after CRT in patients with LARC. We plan to use both pre- and post-CRT MRI data to construct the predictive radiomics model for evaluating if LARC patients achieve pCR after CRT. The ultimate aim is to select appropriate LARC patients for omission of surgery.

@@ -1,9 +1,0 @@
-Artificial Intelligence for Real-time Detection and Monitoring of Colorectal Polyps
-The investigators hypothesize that the clinical implementation of a deep learning AI system is an optimal tool to monitor, audit and improve the detection and classification of polyps and other anatomical landmarks during colonoscopy. The objectives of this study are to generate preliminary data to evaluate the effectiveness of AI-assisted colonoscopy on: a) the rate of detection of adenomas; b) the automatic detection of the anatomical landmarks (i.e., ileocecal valve and appendiceal orifice).
-Adenomatous Polyps
-DIAGNOSTIC_TEST: Polyps detection by Artificial Intelligence
-Number of polyps detected, Efficacy of AI assisted colonoscopy to detect the proportion of patients with at least 1 polyp. Polyp detection rate with an AI., Day 1|Evaluation of the automatic report of the colonoscopy quality indicators, Compare of the automatic detection of the ileocecal valve, appendiceal orifice, and the automatic calculation of the withdrawal time with manual detection, Day 1
-In this trial, the investigators aim to evaluate the followings:
-
-1. the accuracy of automatic detection of important anatomical landmarks (i.e., ileocecal valve, appendiceal orifice);
-2. the accuracy of automatic detection of polyps/adenomas (PDR/ADR);

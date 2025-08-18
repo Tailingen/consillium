@@ -1,8 +1,0 @@
-18F-FDG PET Radiomics of Diffuse Large B-cell Lymphoma
-This study aims to investigate the prognostic value of 18F-fluorodeoxyglucose (18F-FDG) positron emission tomography (PET) radiomics in diffuse large B-cell lymphoma (DLBCL) and its additional value to the International Prognostic Index (IPI).
-Lymphoma, Large B-Cell, Diffuse
-OTHER: FDG PET radiomic feature evaluation
-Overall Survival, the period from the initial diagnosis to the death from any cause, From date of the initial diagnosis until the date of death from any cause, whichever came first, up to 8 years|Progression-free Survival, the period from the initial diagnosis to the progression, relapse or death from any cause, From date of the initial diagnosis until the date of first documented progression, relapse or death from any cause, whichever came first, up to 8 years
-Several studies have shown that 18F-FDG PET radiomics is predictive of survival in DLBCL. However, to the best of the investigator's knowledge, a multi-feature radiomic signature for prognosis assessment of DLBCL has not yet been described. Furthermore, it remains unclear whether PET-based radiomics could add more prognostic values to the IPI in DLBCL.
-
-This study aims to develop 18F-FDG PET radiomic signature, and investigate whether the radiomic signature could improve the prognostic value of the IPI score in predicting progression-free survival (PFS) and overall survival (OS) in DLBCL.

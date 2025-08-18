@@ -1,9 +1,0 @@
-Using Radiomics to Predict Neoadjuvant Chemotherapy Efficacy
-Neoadjuvant chemotherapy (NC) is an important treatment for advanced gastric cancer (AGC). However, tools that effectively predict the efficacy of NC before treatment are lacking. Computed tomography images before and after NC were used to construct a deep learning-based radiomics signature to predict the efficacy of NC, prognoses and postoperative adjuvant chemotherapy benefit.
-Gastric Cancer
-OTHER: response to neoadjuvant chemotherapy
-AUC for ICSS, The predictive performance of imaging change scoring system before and after neoadjuvant chemotherapy (ICSS), 2022-01-01 to 2022-07-31|AUC for BNCISS, The predictive performance of before neoadjuvant chemotherapy imaging scoring system (BNCISS), 2022-01-01 to 2022-07-31
-overall survival, 3 year overall survival, 2010-01-01 to 2022-07-31|disease free survival, 3 year disease free survival, 2010-01-01 to 2022-07-31
-Background: Neoadjuvant chemotherapy (NC) is an important treatment for advanced gastric cancer (AGC). However, tools that effectively predict the efficacy of NC before treatment are lacking.
-
-Methods: Computed tomography images before and after NC were used to construct a deep learning-based radiomics signature to predict the efficacy of NC, prognoses and postoperative adjuvant chemotherapy benefit. Tumor regression grade (TRG) =0 or 1 was defined as a good response to neoadjuvant chemotherapy (GRNC), and TRG=2 or 3 was defined as a poor response to neoadjuvant chemotherapy (PRNC). 193 patients with AGC from January 2010 to December 2018 in two different China university hospitals were included in this study. The before neoadjuvant chemotherapy imaging scoring system (BNCISS), imaging change scoring system before and after neoadjuvant chemotherapy (ICSS), which were constructed based on computed tomography images before after treatment.

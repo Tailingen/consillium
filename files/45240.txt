@@ -1,7 +1,0 @@
-Development and Validation of a Deep Learning System for Nasopharyngeal Carcinoma Using Endoscopic Images
-Develop a deep learning algorithm via nasal endoscopic images from eight NPC treatment centerto detect and screen nasopharyngeal carcinoma(NPC).
-Nasopharyngeal Carcinoma
-OTHER: Diagnostic
-Area under the receiver operating characteristic curve of the deep learning algorithm, The investigators will calculate the area under the receiver operating characteristic curve of deep learning algorithm and compare this index between deep learning system and human doctors., baseline
-Sensitivity of the deep learning system, The investigators will calculate the sensitivity of deep learning algorithm and compare this index between deep learning system and human doctors., baseline|Specificity of the deep learning system, The investigators will calculate the specificity of deep learning algorithm and compare this index between deep learning system and human doctors., baseline
-Nasopharyngeal carcinoma (NPC) is an epithelial cancer derived from nasopharyngeal mucosa. Nasal endoscopy is the conventional examination for NPC screening. It is a major challenge for inexperienced endoscopists to accurately distinguish NPC and other benign dieseases. In this study, we collcet multi-center endoscopic images and train a deep learning model to detect NPC and indicate tumor location. Then, the model perfomance will be compared with endoscopists and be tested prospectively with external dataset.

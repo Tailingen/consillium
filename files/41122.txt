@@ -1,6 +1,0 @@
-Artificial Intelligence Model for Growth Prediction of Ovarian Cancer Organoids
-The present study aims to collect early bright field image of patient-derived organoids with ovarian cancer. By leveraging artificial intelligence, this study will seek to construct and refine algorithms that able to predict growth of ovarian cancer organoids.
-Ovarian Cancer
-OTHER: growth prediction of ovarian cancer organoids in the frame of bright field image by leveraging AI
-AUC of growth prediction performance using deep learning model, AUC =Area under receiver operating characteristic curve, up to 3 years|Accuracy of growth prediction using deep learning model, Accuracy=( the number of correctly classified samples)/( the number of total samples), up to 3 years
-The present study aims to collect early bright field image of patient-derived organoids with ovarian cancer. By leveraging artificial intelligence, this study will seek to construct and refine algorithms that able to predict growth of ovarian cancer organoids.

@@ -1,6 +1,0 @@
-Computer Aided Diagnosis of Colorectal Neoplasms During Colonoscopic Examination
-An NBI-based diagnosis requires training and experience. We are developing a system of computerized image recognition, which can detect possible NBI features of polyps, and provide a more objective diagnosis, which allows nonexpert endoscopists to achieve a high diagnostic accuracy.
-Colon Polyp
-DIAGNOSTIC_TEST: Computer-aided diagnosis
-Sensitivity, Specificity, False Positive, False Negative, Diagnostic accuracy, Duration between endoscopic diagnosis and pathologic diagnosis is about one week
-An NBI-based diagnosis requires training and experience. We are developing a system of computerized image recognition, which can detect possible NBI features of polyps, and provide a more objective diagnosis, which allows nonexpert endoscopists to achieve a high diagnostic accuracy.

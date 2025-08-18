@@ -1,7 +1,0 @@
-System to Evaluate the Risk of Lymph Node Metastasis Preoperatively in Cervical Cancer
-The lymph node status is difficult to be assessed preoperatively, this study aimed to develop a scoring system for predicting the risk of LNM in cervical cancer patients before operation.
-Cervical Cancer
-PROCEDURE: surgery
-Overall survival, death or loss of follow-up, 60 months
-Risk factors influenced LNM, A multivariable logistic regression analysis was used to analysis the independent factors that contribute to LNM., 60 months|The accuracy of the model, The AUC curve was used to assess the discrimination of the scoring system. The comparison between predicted (mean ± SD) and observed rates of LNM was used to test the calibration. The Hosmer-Lemeshow test evaluated the model fit., 60 months
-Lymph nodes metastasis (LNM) was proved to be a critical risk factor related to the survival to cervical cancer survival. However, preoperative pelvic magnetic resonance imaging (MR) or computed tomography (CT) tests are less sensitive to assess the risk of lymph node metastasis. PET-CT is too expensive and radiative to be widely used in clinical practice. A model was constructed based on clinical indicators to predict lymph node metastasis preoperatively, providing a reference for clinical treatment.

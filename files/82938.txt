@@ -1,9 +1,0 @@
-A Combined Biomarker Model for Risk Stratification of Indeterminate Pulmonary Nodules
-This is a prospective, multicenter observational study aim at estimating the potential clinical utility of the CBM and at establishing the SOPs and protocols for a future randomized control trial.
-Pulmonary Nodule
-PROCEDURE: Blood collection|PROCEDURE: Chest Computed Tomography
-The proportion of patients with benign disease who underwent invasive diagnostic procedures., Up to approximately 2 years|The time to diagnosis (in days) for patients with cancer., Up to approximately 2 years|Measure time needed to provide the CBM Value to clinician, Number of days, Up to approximately 2 years|Measure time needed to obtain hs CYFRA 21-1 values, Number of hours (days), Up to approximately 2 years|Measure time needed to perform radiomics, Number of hours (days), Up to approximately 2 years
-Objectives:
-
-* To obtain the combined biomarker model (hs-CYFRA 21-1, radiomics, Mayo) score in a prospective observational trial and estimate potential clinical utility compared to the Mayo Model.
-* To establish standard operating procedures (SOPs) and protocols in a prospective observational trial in anticipation of a future randomized control trial. These include the REDCAP data input protocols, the radiomic protocols, blood draws in the CLIA environment, and estimating the CBM score in a time reasonable for clinical practice (\< 2 weeks).

@@ -1,9 +1,0 @@
-Artificial Intelligence in Endoscopic Ultrasound
-The objective of the study is to determine if this artificial intelligence system is capable of detecting abnormalities in the pancreas that are identified by an endoscopist at endoscopic ultrasound procedures.
-Pancreatic Cancer|Pancreas Disease|Pancreatic Cyst
-DEVICE: Patients undergoing endoscopic ultrasound procedures
-Rate of detection pancreatic abnormalities by AI, Ability of AI to detect pancreatic abnormalities as identified by an endoscopist during EUS examination of the pancreas., 1 day
-Rate of detection pancreatic solid mass lesions by AI, Ability of AI to detect pancreatic solid mass lesions as identified by an endoscopist during EUS examination of the pancreas., 1 day|Rate of detection pancreatic cystic lesions by AI, Ability of AI to detect pancreatic cystic lesions as identified by an endoscopist during EUS examination of the pancreas., 1 day
-Endoscopic Ultrasound (EUS) is an equipment where an ultrasound transducer is attached to the tip of the endoscope. When advanced to the stomach the organs outside such as the pancreas and liver can be visualized in great detail. This enables diagnosis of conditions such as pancreatic cancer. However, an endoscopist must undergo training to accurately interpret these ultrasound images.
-
-The investigators are in the process of developing an artificial intelligence system that could potentially interpret EUS images. The objective of the study is to determine if this artificial intelligence system is capable of detecting abnormalities in the pancreas that are identified by an endoscopist at endoscopic ultrasound procedures. Such correlation if established will lead to possible development of an artificial intelligence platform that can diagnose pancreatic diseases. Such development will potentially minimize human error and decrease learning curve to gain proficiency in EUS.

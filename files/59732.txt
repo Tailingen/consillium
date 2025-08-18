@@ -1,7 +1,0 @@
-Prostate Specific Membrane Antigen PET/CT Imaging in PSMA-Related Disease Patients
-To evaluate the potential usefulness of 68Ga/18F-PSMA positron emission tomography/computed tomography (PET/CT) for the diagnosis of primary and metastatic lesions in various PSMA-related disease patients.
-PSMA-related Disease|Prostate Cancer|Positron Emission Tomography|Metastasis
-DIAGNOSTIC_TEST: 68Ga/18F-PSMA
-Standardized uptake value (SUV), Standardized uptake value (SUV) of PSMA for each target lesion of subject or suspected primary tumor or/and metastasis., 30 days
-Diagnostic efficacy, The sensitivity, specificity and accuracy of PSMA PET/CT were calculated., 30 days
-Subjects with various PSMA-related disease patients underwent 68Ga/18F-PSMA/PSFA PET/CT either for an initial assessment or for recurrence detection. Lesions uptake was quantified by the maximum standard uptake value (SUVmax). The sensitivity, specificity, positive predictive value (PPV), negative predictive value (NPV) and accuracy of 68Ga/18F-PSMA/PSFA PET/CT were calculated.

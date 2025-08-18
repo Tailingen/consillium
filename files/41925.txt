@@ -1,9 +1,0 @@
-Impact of AI on Trainee ADR
-Adenoma detection rate (ADR) is a validated quality metric for colonoscopy with higher ADR correlated with improved colorectal cancer outcomes. Artificial intelligence (AI) can automatically detect polyps on the video monitor which may allow endoscopists in training to improve their ADR. Objective and Purpose of the study: Measure the effect of AI in a prospective, randomized manner to determine its impact on ADR of Gastroenterology trainees.
-Adenoma|Adenoma Colon|Colorectal Cancer
-DIAGNOSTIC_TEST: AI use in Endoscopy Room|OTHER: Non-AI use Standard of Care endoscopy room
-Average adenoma detection rate, Adenoma detection rate with and without AI, Throughout study, an average of 2 years
-Average of polyps detection rate, Polyp detection rate with and without AI, Through out study, an average of 2 years
-Our objective is to determine the impact of AI on the adenoma detection rate of Gastroenterology trainees. The secondary aim of this quality improvement study is to determine the impact of AI based endoscopy on the rate of recording of quality improvement metrics versus historical performance in our program.
-
-Fellows will undergo educational session prior to the start of study, describing commonly used metrics for assessing quality of colonoscopy and how to use the artificial intelligence software. Gastroenterology fellows will be consented for the study prior to initiation. The fellows will be randomized on a daily basis to perform colonoscopies in a room. Outcomes will measure the effects of AI in fellows

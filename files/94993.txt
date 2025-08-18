@@ -1,8 +1,0 @@
-Machine Learning to Predict Acute Care During Cancer Therapy
-The objective of this study is to apply a validated machine-learning based model (SHIELD-RT, NCT04277650) to a cohort of patients undergoing systemic therapy as outpatient cancer treatment to generate an automatic system for the prediction of unplanned hospital admission rates and emergency department encounters.
-Chemotherapeutic Toxicity
-OTHER: Machine learning algorithm
-number of unplanned of hospital admission or emergency department visits during systemic therapy, 12 months
-A previously described machine learning (ML)-based model accurately predicted ED visits or hospitalizations for cancer patients undergoing radiation therapy or chemoradiation. An IRB approved prospective randomized trial, SHIELD-RT (NCT04277650) found that preemptive intervention for patients undergoing radiation and chemoradiation based on the ML model's risk stratification decreased the relative risk of acute care visits by 50%, showing that ML-guided escalation of care improved personalized supportive care and treatment compliance while decreasing healthcare costs.
-
-The objective of this study is to apply this validated ML based model to a cohort of patients undergoing systemic therapy as outpatient cancer treatment to generate an automatic system for the prediction of unplanned hospital admission rates and emergency department encounters. Once validated, this study will add to the previously published body of evidence supporting a randomized trial evaluating the ML algorithm's ability to assign intervention for patients receiving systemic therapy at highest risk for acute care encounters.

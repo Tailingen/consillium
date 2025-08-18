@@ -1,6 +1,0 @@
-Discovering Urinary Protein Biomarkers for Hepatocellular Carcinoma in Chronic Hepatitis B Population
-Chronic hepatitis B (CHB) can lead to hepatocellular carcinoma (HCC), imposing a significant health and economic burden globally. Early detection of hepatitis B virus-related HCC (HBV-HCC) in CHB with potential biomarkers has become a pressing and difficult challenge. Recent advancements in urinary proteomics offer a promising approach for HBV-HCC biomarker identification, utilizing Liquid chromatography with tandem mass spectrometry for urine proteome analysis. Differential analysis using limma in R software will uncover upregulated proteins in HBV-HCC.
-Hepatocellular Carcinoma|Hepatitis B
-DIAGNOSTIC_TEST: Urine test
-upregulated proteins, 2024-5|downregulated proteins, 2024-5
-Chronic hepatitis B (CHB) can lead to hepatocellular carcinoma (HCC), imposing a significant health and economic burden globally. Early detection of hepatitis B virus-related HCC (HBV-HCC) in CHB with potential biomarkers has become a pressing and difficult challenge. Recent advancements in urinary proteomics offer a promising approach for HBV-HCC biomarker identification, utilizing Liquid chromatography with tandem mass spectrometry for urine proteome analysis. Differential analysis using limma in R software will uncover upregulated proteins in HBV-HCC.

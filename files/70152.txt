@@ -1,7 +1,0 @@
-Evaluation of TaiHao Breast Ultrasound Diagnosis Software RN-CES Descartes
-A standard of truth "SOT" is determined based on the interpretation results of the case data by interpretation experts, and the SOT is compared with the detection results of this program's function for detecting suspected breast cancer (CADe function). Estimate the detectability of the CADe function by comparing.
-Breast Cancer|Breast Diseases
-DIAGNOSTIC_TEST: Define Standard of Truth (SOT) by Taihao Breast Cancer Diagnostic Software
-The average performance of the 4 machines, in terms of sensitivity for detecting suspicious breast cancer, is not inferior to Siemens performance., The average of 4 types of machines (Canon Aplio i800, GE Logiq E10, GE Invenia ABUS, Fuji ARIETTA 60) performance compared to Siemens performance which was submitted to PMDA last time., 1 week
-The performance of each of the 4 machines, in terms of sensitivity for detecting suspicious breast cancer, is not inferior to Siemens' performance., Each machine (Canon Aplio i800, GE Logiq E10, GE Invenia ABUS, Fuji ARIETTA 60) performance compared to Siemens performance which was submitted to PMDA last time., 1 week
-A standard of truth "SOT" is determined based on the interpretation results of the case data by interpretation experts, and the SOT is compared with the detection results of this program's function for detecting suspected breast cancer (CADe function). Estimate the detectability of the CADe function by comparing.

@@ -1,6 +1,0 @@
-Assessment of the 90-day Mortality Risk Score After VATS Lobectomy
-A five classes (A-E) aggregate risk score predicting 90-day mortality after video-assisted thoracoscopic lobectomy for lung cancer, including as independent factors male sex (3 points), carbon monoxide lung diffusion capacity \<60% (1 point) and operative time \>150 minutes (1 point), has been recently published. This study aims to assess the effectiveness and reliability of this risk model in a large, independent cohort of patients, in order to confirm its generalizability.
-Lung Cancer|Surgery--Complications|Morality
-PROCEDURE: VATS lobectomy
-90-day postoperative mortality, Alive/Death (cause of death), 90 day post surgical procedure
-From the Italian VATS Group Database, we selected patients who underwent video-assisted thoracoscopic lobectomy for non-small cell lung cancer. We calculated the aggregate risk score and the corresponding class of 90-day mortality risk for each patient. The correlation between risk classes and mortality rates was tested by Spearman's rho-test. Model calibration was evaluated by Hosmer-Lemeshow goodness-of-fit test.

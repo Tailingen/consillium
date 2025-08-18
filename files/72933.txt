@@ -1,9 +1,0 @@
-EUS-FNB With MOSE vs EUS-FNA With ROSE
-Endoscopic ultrasound-guided fine needle aspiration (EUS-FNA) is an indispensable tool for tissue acquisition for pancreatic lesions. However, FNA alone has several limitations including inadequate acquisition of cells, and unable to provide core tissue for further histological analysis. The use of rapid on-site evaluation (ROSE) by cytopathologist has the biggest impact on improving diagnostic accuracy and is regarded as the gold standard for EUS-FNA. Unfortunately, it is not widely available due to limited resources.
-
-In order to overcome these limitations, new fine needle biopsy (FNB) needles have been recently developed to collect not only cells but also the entire core tissue for histological analysis. Having core biopsy with preserved tissue provides additional advantages of allowing molecular analysis, which are of emerging importance in cancer management. Early results comparing FNB with FNA showed the superiority of FNB over FNA in the absence of ROSE. Data comparing FNB and FNA with ROSE are limited. In order to study to true merits of FNB over FNA, comparison with the most optimal method is necessary.
-Pancreatic Neoplasms
-DIAGNOSTIC_TEST: MOSE|DIAGNOSTIC_TEST: ROSE
-Diagnostic yield, the proportion of patients with adequate tissue for diagnosis, 1 month after Procedure
-morbidity rate, Procedure-related morbidity, 1 month after Procedure
-The purpose of this study is to compare the diagnostic yield of EUS-FNB with MOSE vs EUS-FNA with ROSE.

@@ -1,7 +1,0 @@
-Diagnosis and Survival Prediction of Pancreatic Cancer by Machine Learning of Image Data
-This prospective cohort study is designed to investigate the diagnostic ability and prediction accuracy of pancreatic cancer by radiomics data and clinical data.
-Pancreatic Cancer
-Patient overall survival, Patient overall survival, from the time of diagnosis of pancreatic tumor to the death of the patient., up to 3 years
-Pathology diagnosis, Pathology diagnosis of the patient, such as adenocarcinoma, pancreatic neuroendocrine tumors, intraductal Papillary Mucinous Neoplasm, et al., intraoperative
-Progression-free Survival, Patient progression-free survival, the length of time during and after the treatment of the tumor, that a patient lives with the disease but it does not get worse., up to 3 years
-In this study, investigators aimed to investigate the diagnostic performance and prediction accuracy of pancreatic cancer by radiomics data and clinical data, which include CT scan, MRI, PET-CT, PET-MR, ultrasound, and clinical data.

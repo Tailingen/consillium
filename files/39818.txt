@@ -1,7 +1,0 @@
-Accuracy of Robotically Assisted Cranial Biopsies
-This is an observational post-market study determining biopsy accuracy in a clinical environment using Cirq® Robotic Alignment Module Cranial. The goal is to determine whether the robotic procedure to be examined can achieve a clinically acceptable value of at least 90% in terms of diagnostic yield.
-Intracranial Neoplasm
-DEVICE: Cirq® Robotic Alignment Module Cranial
-Diagnostic yield, Determine the percentage of diagnostically significant biopsies determined histologically, 24 months
-Target point and entry point error, Determine accuracy of biopsy needle by comparing the target and entry point location to the planned location, 24 months|Time for procedure, Determine the time needed for the intraoperative biopsy procedure, 24 months
-The goals of the project are to determine the accuracy of Cirq® Robotic Alignment Module Cranial navigated biopsy procedures, Automatic Image Registration accuracy within the workflow, and compatibility of Cirq® Robotic Alignment Module Cranial in the clinical workflow. Patients will undergo cranial biopsies according to standard of care using released products within their intended use with the exception that the accuracy of the biopsy needle will be measured using a specific intraoperative workflow.

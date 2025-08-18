@@ -1,9 +1,0 @@
-Impact of Computer-Aided Detection (CAD) as Second Reader in CT Colonography
-RATIONALE: CT colonography accurately detects large polyps and masses. However, the test is less accurate in identifying lesions between 6 and 9 mm.Use of computer-aided detection (CAD) has shown promising results in providing uniform accuracy and improving CT colonography sensitivity.
-
-PURPOSE:This clinical trial compared the performance of CT colonography with unassisted and CAD-assisted reading in detecting patients with colorectal lesions.
-Individuals With Suspected Colorectal Disease
-PROCEDURE: CT colonography|PROCEDURE: colonoscopy|DEVICE: CT Colonography with computer assisted diagnosis (CAD),CADCOLON -im3D SpA., Torino Italy
-Sensitivity of CT colonography with unassisted and CAD-assisted reading in detecting individuals with lesions 6 to 9 mm|Specificity of CT colonography with unassisted and CAD-assisted reading in detecting individuals with no clinical relevant lesions
-Sensitivity of CT colonography with unassisted and CAD-assisted reading in detecting individuals with lesions 10 mm or larger|Sensitivity of CT colonography with unassisted and CAD-assisted reading in detecting lesions 6 mm or larger
-Design: multicenter, cross-sectional study. Each participant underwent CT colonography and colonoscopy on the same day. Expert readers interpreted CT colonography unassisted and then reviewed all colorectal lesion-like structures pinpointed by the CAD algorithm.

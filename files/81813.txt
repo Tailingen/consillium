@@ -1,9 +1,0 @@
-First Optical Coherence Microscopy in Dermato-oncology
-OCTAV is a medical device class I, not CE marked, based on a new technique for high-resolution imager (cell) internal microstructures of all types of biological tissues in vivo or ex vivo, to a depth of penetration 800 .mu.m. It allows to explore the epidermis, the dermo-epidermal junction and middle dermis in a totally non-invasive (direct contact with the tissue without sampling).
-Skin Cancer
-DEVICE: OCTAV Patient|DEVICE: OCTAV Control group
-Sensitivity, Sensitivity measures the proportion of positive skin cancers (according to the OCTAV device) that are correctly identified as such (according to gold standard : histology), Day 1|Specificity, Specificity measures the proportion of negative skin cancers (according to the OCTAV device) that are correctly identified as such (according to gold standard : histology), Day 1
-Measure of the thickness of the different skin layers (mm), Only for the non skin cancer group. Theses measures will identify the different skin layers (Epidermis, Dermis, Subcutaneous tissue, Cross-section), Day 1
-At the coming of the patient in Dermatology for resection / biopsy of the tumor (usual practice), for the study, an image of the tumor will be performed with the OCTAV device (about 5 minutes) for the study. Then, according to usual practice, resection / biopsy will be performed.
-
-This study aims to validate the clinical relevance of this device to characterize the 3 main skin cancers and to obtain the necessary data for the implementation of future clinical trials.

@@ -1,9 +1,0 @@
-Accuracy of the LiverVision® Semi-automated Liver Volumetry Software
-The LiverVision® software was designed to provide three-dimensional (3D) visualisation of the liver using Computed Tomography (CT) scans. It provides semi-automated volumetry measurements, vascular structure and territory tools.
-Liver Diseases|Liver Cancer
-DIAGNOSTIC_TEST: Liver volumetry of the graft on CT
-Accuracy of the LiverVision® software volumetric measurements, Accuracy of the LiverVision® software volumetric measurements assessed by correlation and agreement statistics with the manual volumetric measurements as well as the actual graph weight (reference standard)., Baseline (CT performed prior to donation).
-Learning curve of the raters, Assessment of the learning curve of the raters when using LiverVision® software assessed by the time required for the volumetric measurements and the accuracy of the results., Baseline (CT performed prior to donation).|Certainty and accuracy of the volumetric measurements., Correlation of the degree of certainty of the raters with the accuracy of their volumetric measurements., Baseline (CT performed prior to donation).|Comparison, Comparison of the accuracy among junior, senior, surgeons and radiologists (4 groups), Baseline (CT performed prior to donation).
-Liver volumetry has been widely used in liver surgery and living donor liver transplantation to estimate the future liver remnant or the required liver volume for the recipient, respectively.
-
-Liver volumetry is typically performed using CT imaging with specially designed software. Such manual measurements are time consuming and there is an ongoing debate whether the they reflect the actual liver volume when performed by radiologists or surgeons as well as according to the different software currently available in the market.

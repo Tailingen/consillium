@@ -1,7 +1,0 @@
-Follow-up Strategy for Esophageal Cancer Patients
-The recurrence risk of patients with esophageal cancer was stratified by integrating different stages and pathological factors. The risk of recurrence was dynamically estimated for each group of patients, and the optimal follow-up strategy was developed based on the recurrence risk.
-Esophagus Cancer
-OTHER: follow-up with different time intervals
-disease-free survival, disease-free survival, 2008-2020
-local relapse-free survival, 2008-2020|distant metastasis-free survival, 2008-2020
-Patients with histologically proven, esophageal cancer (EC) patients diagnosed between 2008 and 2018 were recruited. Recursive partition analysis was applied to develop recurrence risk stratification for patients. The follow-up strategies of each stratification were developed based on monthly recurrence probability and validated by bootstrap validation and an external dataset. Markov decision-analytic models were constructed to evaluate the cost-effectiveness of the follow-up strategies.

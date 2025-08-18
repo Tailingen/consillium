@@ -1,6 +1,0 @@
-Multi-parametric Magnetic Resonance Imaging for Prostate Cancer Patients
-This is a pilot study of implement multi-parametric MR imaging for organ delineation and tumor response assessment of prostate cancer patients being treated with radiation therapy.
-Prostate Cancer
-DEVICE: Multiparametric MRI
-Detection of Imaging Biomarkers to Localize the Intraprostatic Lesions and Predict Radiation Treatment Response, Identify the radiomics features selected from multimodal MRI to distinguish the dominant lesions from the normal tissues within the prostate. Track the changes of these features with longitudinal MRI scans to identify its correlation with the local control., 2 years|Tumor Response, Tumor response as measured by an increase in PSA., 2 years
-The study aims to generate intraprostatic lesions maps based on imaging, perform the treatment planning to compute the highest feasible simultaneous boosting dose to intraprostatic lesion and characterize longitudinal changes in imaging characteristics.

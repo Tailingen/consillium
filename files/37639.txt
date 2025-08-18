@@ -1,6 +1,0 @@
-Detecting the Rest Tremor Associated With Parkinson's Disease Using Analysis of the Muscle Contractions Rhythmicity
-Resting tremors associated with Parkinson's disease (PD) remains difficult to quantify and track during disease progression. This study propose to explore the rhythmicity of distal muscle contractions in the upper limb to characterize resting tremor and discriminate it from cerebellar tremor (CT) based on the frequency spectrum of the EMG signal.
-Parkinson|Cerebellar Tumor|Rest Tremor|Diagnoses Disease|Movement; Abnormal, Involuntary
-DIAGNOSTIC_TEST: EMG in wrist flexor-pronators and extensor-supinators
-rhythmicity index, The rhythmicity index (RI) is calculated from the ratio of the area of the maximum power peak to the total area of the spectrum between 1.5-12Hz., 10 seconds
-This retrospective study analyzed surface EMG recordings of wrist flexor-pronators and extensor-supinators from patients with PD or CT bilaterally in five 10-second conditions: rest with contralateral motor distraction, symmetrical arms extended forward posture with hands pronated, semi-pronation, supination, and elbows flexed with hands pronated. The rhythmicity index (RI) is calculated from the ratio of the area of the maximum power peak to the total area of the spectrum between 1.5-12Hz.

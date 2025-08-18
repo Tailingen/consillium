@@ -1,8 +1,0 @@
-Randomized Phase 2 Study With Gemcitabine Alone and Combination Therapy for Patients With Advanced Biliary Tract Cancer
-To investigate efficacy and safety of gemcitabine combined with cisplatin and of gemcitabine alone by comparison in patients with advanced biliary tract cancer
-Biliary Tract Cancer
-DRUG: gemcitabine|DRUG: cisplatin
-Percentage of Patients Alive at 1 Year (1-Year Survival Rate), Percentage of patients alive at 1 year., 1 year
-Tumor Response, Response Evaluation Criteria In Solid Tumors - define when cancer patients improve ("respond"), stay the same ("stabilize"), or worsen ("progression") during treatments. Complete response (CR) = disappearance of all target lesions; Partial Response (PR) = 30% decrease in the sum of the longest diameter of target lesions; Progressive Disease (PD) = 20% increase in the sum of the longest diameter of target lesions; Stable Disease (SD) = small changes that do not meet above criteria., baseline to measured progressive disease (up to 2 years)|Progression Free Survival, The period from study entry until disease progression, death or date of last contact., baseline to measured progressive disease (up to 2 years)
-Survival Time, Data of patients lost to follow-up were censored at the last date of confirmation of their survival., baseline to date of death due to any cause (up to 2 years)
-To investigate efficacy and safety of gemcitabine combined with cisplatin and of gemcitabine alone by comparison in patients with advanced biliary tract cancer

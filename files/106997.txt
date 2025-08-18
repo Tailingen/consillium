@@ -1,7 +1,0 @@
-System for High-Intensity Evaluation During Radiotherapy
-This quality improvement project will evaluate the implementation of a previously described intervention (twice per week on-treatment clinical evaluations) in a feasible fashion using a previously described machine learning algorithm identifying patients identified at high risk for an emergency visit or hospitalization during radiation therapy.
-Radiation Therapy Complication|Chemotherapeutic Toxicity
-OTHER: Machine learning algorithm
-Number of unplanned emergency department visits or hospital admissions, 6 months
-Number of unplanned emergency department visits or hospital admissions up to 15 days post radiation treatment, up to 15 days post radiation treatment|Number of missed clinical evaluation visits, 6 months|Number of acute care visits with listed reason as anemia, nutrition (including dehydration), diarrhea, emesis, infectious (including fever, pneumonia, and sepsis), nausea, neutropenia, pain category, 6 months
-This quality improvement project will evaluate the implementation of a previously described intervention (twice per week on-treatment clinical evaluations) in a feasible fashion using a previously described machine learning algorithm identifying patients identified at high risk for an emergency visit or hospitalization during radiation therapy.

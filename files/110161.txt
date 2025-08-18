@@ -1,6 +1,0 @@
-Signature for Precise Chemosensitivity Prediction in PDAC
-Pancreatic ductal adenocarcinoma (PDAC) is largely heterogeneous. We sought to develop and validate a signature to precisely predict chemotherapy sensitivity in PDAC. Genetic events of the four most commonly mutated genes in PDAC and expressions of 12 PI3K/AKT/mTOR pathway markers were examined in consecutive patients with PDAC. A 9-feature signature for prediction of chemotherapy benefits was constructed using the LASSO Cox regression model, and validated in two independent cohorts.
-Pancreatic Cancer
-DRUG: Chemotherapy
-Overall survival, Time between resection and death of any cause, 3-year
-Pancreatic ductal adenocarcinoma (PDAC) is largely heterogeneous. We sought to develop and validate a signature to precisely predict chemotherapy sensitivity in PDAC. Genetic events of the four most commonly mutated genes in PDAC and expressions of 12 PI3K/AKT/mTOR pathway markers were examined in consecutive patients with PDAC. A 9-feature signature for prediction of chemotherapy benefits was constructed using the LASSO Cox regression model, and validated in two independent cohorts.

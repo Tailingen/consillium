@@ -1,7 +1,0 @@
-MPI Predicts Outcome of CRC Elderly Patients (MPI=MULTIDIMENSIONAL PROGNOSTIC INDEX; CRC=COLORECTAL CANCER)
-Patients aged ≥75 year scheduled for CRC surgery were studied (104 cases) and variables associated with major postoperative complications / mortality were evaluated. The importance of this report is that MPI-score resulted strongly associated with major complications and it was a primary component of an individual prediction model.
-Colorectal Cancer|Fragility|Elderly
-PROCEDURE: surgery
-MPI and major morbidity, The primary goal of the FRAGIS (Frailty Assessment by Geriatric Investigation in Surgery) study was to evaluate the association between the MPI score and the occurrence of major postoperative complications within 30 days of CRC surgery., 30 days
-Prediction of complication, The secondary goal was to develop a model to predict the individual risk of postoperative complications, allowing the appropriate patient selection for surgery., 90 days
-Patients aged ≥75 year scheduled for CRC surgery were studied (104 cases) and variables associated with major postoperative complications / mortality were evaluated. The MPI (multidimensional prognostic index)-score resulted strongly associated with major complications. also, it was a primary component of an individual prediction model (LASSO model).

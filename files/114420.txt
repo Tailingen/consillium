@@ -1,7 +1,0 @@
-Bladder Cancer and Neoadjuvant Chemotherapy Efficiency Before Cystectomy
-This study will allow the investigators to better assess the efficiency of neoadjuvant chemotherapy before cystectomy by training a predictive model on different patient cohorts with bladder cancer.
-Bladder Cancer|Genomic Instability
-COMBINATION_PRODUCT: neoadjuvant chemotherapy with cisplatine
-Progression-free survival, The time from enrollment to progression or death, 3 years
-Overall survival, The time from enrollment to death, 5 years
-The project is based on three prospective cohorts of patients with MIBC: the VESPER trial (n=296), the St-Louis Hospital cohort (n=99), and the COBLAnCE cohort (n=312). Using WES and RNAseq, the investigators will determine genomic instability, DDR gene mutation and molecular subtypes. After digitization of tumour slides, the investigators will train and test predictive models based on deep learning approaches to predict outcome after neoadjuvant chemotherapy, either by estimating molecular subtypes and genetic features from pathological images, or by directly defining a prognostic signature. The statistical analyses will assess the performance of the models combining genomic instability, DNA Damage Response mutations and/or molecular subtyping to predict outcome after neoadjuvant chemotherapy and compare them with the models based on WSI deep learning approaches. These results will help to design new therapeutic strategies.

@@ -1,7 +1,0 @@
-WSI Based DL for Diagnosing the IASLC Grading System of Lung Adenocarcinoma
-The purpose of this study is to evaluate the performance of a whole slide image based deep learning model for diagnosing the IASLC grading system in resected lung adenocarcinoma based on a multicenter prospective cohort.
-Lung Adenocarcinoma|Whole Slide Image|IASLC Grading System|Artificial Intelligence
-DIAGNOSTIC_TEST: Whole Slide Image based Deep Learning
-Agreement rate of the IASLC grading system, Agreement rate between the deep learning model and pathologists in diagnosing the IASLC grade of lung adenocarcinoma., 2024.11.01-2024.12.31
-Agreement rate of the predominant subtypes, Agreement rate between the deep learning model and pathologists in diagnosing the predominant growth patterns of lung adenocarcinoma., 2024.11.01-2024.12.31
-The purpose of this study is to evaluate the performance of a whole slide image based deep learning model for diagnosing the IASLC grading system in resected lung adenocarcinoma based on a multicenter prospective cohort.

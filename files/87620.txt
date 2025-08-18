@@ -1,9 +1,0 @@
-Quantification With Lutetium-177 on Cadmium-Zinc-Telluride Camera 3D
-The main of this study is to demonstrate the feasibility of carrying out quantitative acquisitions regardless of the energy peak considered (113 keV (kiloelectronVolts) or 208 keV or a combination of the 2 energy peaks). A study on phantom will optimise the reconstruction parameters. These parameters will then be applied to a population of patients who have already benefited from a recording on a 3D CZT camera (retrospective data).
-Prostate Cancer
-Demonstrate that the quantification of images obtained with the 113 keV peak is equivalent to the quantification obtained with the 208 keV peak., Measurement of contrast coefficients and metabolic volumes on reconstructed images, one day
-Lutetium 177 is a beta emitter - and is used in therapy. It also emits during its radioactive decay, two gamma photons of energy 113 and 208 keV allowing to produce images. The dosimetry committee of the European Association for Nuclear Medicine (EANM) recommends using only the peak at 208 keV to obtain so-called quantitative images using a conventional camera also called an Anger camera.
-
-For several years, new semiconductor cameras (CZT cameras) have been available in nuclear medicine departments. They offer better performances particularly in terms of detection sensitivity and energy resolution. The nuclear medicine team has already carried out studies with Lutetium-177 with these semiconductor cameras on phantoms as well as dosimetry studies after treatment using Lutetium-177.
-
-This study should demonstrate the feasibility of carrying out quantitative acquisitions regardless of the energy peak considered (113 keV or 208 keV or a combination of the 2 energy peaks). A study on phantom will optimise the reconstruction parameters. These parameters will then be applied to a population of patients who have already benefited from a recording on a 3D CZT camera (Retrospective data).

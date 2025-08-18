@@ -1,7 +1,0 @@
-Lung Nodule Imaging Biobank for Radiomics and AI Research
-This study will collect retrospective CT scan images and clinical data from participants with incidental lung nodules seen in hospitals across London. The investigators will research whether machine learning can be used to predict which participants will develop lung cancer, to improve early diagnosis.
-Lung Cancer|Pulmonary Nodule, Multiple|Pulmonary Nodule, Solitary|Lung Neoplasms
-DIAGNOSTIC_TEST: Machine Learning Classification
-Development of an imaging biobank, The primary endpoint will be met if we are able to store baseline CT scans and the minimum clinical data set for 1000 patients., 1 year
-Discovery of a CT-thorax based radiomics profile to predict cancer risk., We aim to identify distinct clusters of radiomics variables to generate a radiomics predictive vector (RPV), which can be used to stratify patients according to malignancy risk. This vector will be used in multivariate analysis and compared to existing risk models., 1 year
-This study will collect retrospective CT scan images and clinical data from participants with incidental lung nodules seen in hospitals across London. The investigators will research whether machine learning can be used to predict which participants will develop lung cancer, to improve early diagnosis.

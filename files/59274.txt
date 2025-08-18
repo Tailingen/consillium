@@ -1,6 +1,0 @@
-Modelling Internal Hepatic Movement With an External Abdominal Marker
-This study tests the feasibility and reproducibility of patient-specific motion models. These will be used for quantification of safe margin reduction. Patient-specific motion models will be built by post-processing 4D MRI data with non-rigid registration. By comparing these models between visits, model reproducibility will be assessed, and the methodology refined.
-Patients With Liver Metastases From Colorectal Cancer
-The study will use a real time position management (RPM) system for respiratory gating. The RPM system senses the respiration motion of the patient by tracking a pair of reflective markers on a lightweight "marker block" constructed of a synthetic material. This block is placed on the patient's abdomen.
-
-During Radiotherapy, the beam is only switched on at pre-determined phases of respiration. The appropriate phase of respiration is determined by the RPM system. This implies a reliable correlation of external block motion to internal hepatic movement. This correlation is not a simple one, and requires "modeling".

@@ -1,8 +1,0 @@
-Postoperative Adjuvant Immunotherapy for Hepatocellular Carcinoma: Risk Factor Analysis and Prognostic Modelling
-The aim of this study was to analyse the independent risk factors for hepatocellular carcinoma (HCC) patients undergoing adjuvant immunotherapy after liver resection surgery, and to develop a prognostic model based on these factors.
-Hepatocellular Carcinoma|Adjuvant Immunotherapy|Checkpoint Inhibitor
-DRUG: Anti-PD-1 monoclonal antibody
-Recurrence-Free Survival (RFS), RFS is defined as the time from randomization to the first documented occurrence of local, regional, or metastatic HCC as determined by BIRC, or death from any cause (whichever occurs first)., 2019-2023
-Overall Survival (OS), OS is defined as the time from randomization to death from any cause, 2019-2023
-Imaging data (enhanced CT and MRI） and histopathology data, if available., Pre-surgical imaging data will be collected for machine learning to synthesise imaging features prognostic factors., 2019-2023
-By retrospectively collecting patient data from a single centre of liver surgery at Tongji Hospital between February 2019 and February 2023, the study aimed to comprehensively evaluate patients' demographic characteristics, oncological parameters, surgical details and response to immunotherapy to identify the key factors affecting postoperative recurrence and survival.

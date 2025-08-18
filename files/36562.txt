@@ -1,7 +1,0 @@
-Systematic Review and Meta-analysis of Cereal or Grain Consumption and Gastric Cancer
-This project involved a systematic literature review of published trials of cereal or grain in relation to the risk of gastric cancer. Data was extracted from the publications on PubMed, EMBASE, Cochrane Library.A traditional meta-analysis, subgroup analysis, and heterogeneity was conducted on the extracted data.
-Gastric Cancer
-DIETARY_SUPPLEMENT: cereal or grain consumption
-the relationship between overall cereal consumption and gastric cancer occurance, perform a pooled analysis of included studies with OR through STATA 12.0, up to 2 years
-the relationship between whole grain and gastric cancer occurance, perform a subgroup analysis to summarize the related OR through STATA 12.0, up to 2 years|the relationship between refined grain and gastric cancer occurance, perform a subgroup analysis to summarize the related OR through STATA 12.0, up to 2 years|the relationship between other grain and gastric cancer occurance, perform a subgroup analysis to summarize the related OR through STATA 12.0, up to 2 years
-Investigators searched PubMed, EMBASE, Cochrane Library for studies focusing on cereal or grain in relation to the risk of gastric cancer up to October 2017. Summary odd ratios (OR) and 95% confidence intervals (CI) were calculated by using either random effect models or fixed effect models according to the heterogeneity of included studies. Subgroup analysis, heterogeneity, and publication bias were also performed.

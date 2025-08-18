@@ -1,6 +1,0 @@
-Results Comparison of Cervical Cancer Early Detection Using Cerviray With VIA Test
-Cervical cancer, primarily caused by Human Papilloma Virus (HPV), is a significant global health concern, ranking as the fourth most common cancer in women worldwide. In Indonesia, it stands as the second most frequent cancer among women. This study investigates the performance of Cerviray® AI and Cerviray® AI Evaluation, an artificial intelligence (AI) technology for diagnosing cervical cancer, aiming to compare its sensitivity, specificity, positive predictive value (PPV), and area under the receiver operating characteristic curve (AUC ROC) with the Visual Inspection with Acetic Acid (VIA) test.
-Cervical Cancer
-DIAGNOSTIC_TEST: Cerviray AI
-Cerviray AI, The target population screened using Cerviray AI tools and Cerviray AI evaluation and will be compared to VIA test and confirmed by the anatomical pathology examination. The data will be shown as analytical results of the Cerviray AI tool., 1 day
-The study involved 44 patients from various health centers in West Java Province. Cerviray® AI, Cerviray® AI Evaluation, and VIA tests were administered to high-risk women of childbearing age.

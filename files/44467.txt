@@ -1,9 +1,0 @@
-Image-derived Prediction of Response to Chemo-radiation in Glioblastoma
-This study seeks to investigate if advanced image-analysis of diagnostic scans, can be used to predict how aggressive brain tumors (glioblastoma) respond to standard chemo- and radiation treatment.
-Glioblastoma
-RADIATION: Radiotherapy|DRUG: Temozolomide
-Sensitivity and specificity of predicted response, Tumor response is measured as contrast-enhancing tumor on T1-weighted MRI and by metabolic active tumor using 18F-fluroethyl-tyrosine (FET)-PET. Pre-treatment risk map is constructed using machine learning methods and compared to post-treatment scans., 3 months post radiotherapy
-DICE-similarity coefficient and percentage overlap of 64Cu-ATSM and contrast-enhanced T1-weighted MRI, Pre-chemoradiotherapy 64Cu-ATSM-PET is used as a surrogate marker for hypoxia and compared to treatment response, measured as contrast-enhancing tumor on T1-weighted MRI, 3 months post radiotherapy|Correlation (volume and maximum values) between lactate and hypoxia, Lactate measured by MR spectroscopy is compared to metabolic uptake of 64Cu-ATSM-PET, 1 week before start of chemoradiotherapy
-Generally, response prediction models seeks to predict time to an event, e.g. time-to-progression and/or overall survival. The aim of this study is to explore the feasibility of establishing an individualized response model, that, based on several morphologic, physiologic and metabolic parameters extracted from computed tomography (CT), positron emission tomography (PET) and magnetic resonance imaging (MRI), is able to predict the tumor response at the level of an imaging voxel, using machine learning techniques.
-
-Imaging modalities include MRI, PET/CT with 18F-fluroethyltyrosine (18F-FET), and PET/MRI with 64Cu-diacetyl-bis(N4-methylthiosemicarbazone) (64Cu-ATSM).

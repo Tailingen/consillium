@@ -1,8 +1,0 @@
-Gastric Cancer Survival Without Chemotherapy
-This study is observational study to analyze the actual overall survival of the patients who did not receive adjuvant chemotherapy after curative gastrectomy for gastric cancer.
-
-The investigators developed prediction model for the overall survival of these patients and validated.
-Gastric Cancer
-OTHER: No adjuvant chemotherapy
-Overall survival, Overall survival of the patients, June-01-2021
-Adjuvant chemotherapy (AC) after curative gastrectomy is the standard treatment for patients with locally advanced gastric adenocarcinoma in East Asia; however, for various reasons, some patients do not receive this treatment. The aim of this study was to develop a system that reflects the survival rate of patients without AC. A survival prediction model was developed based on the modified staging system and risk factors for overall survival (OS), which were examined using the Cox proportional hazards regression model. The model was validated for the power of prediction and discrimination, compared with the American Joint Committee on Cancer (AJCC) Cancer Staging Manual 8th edition; it was externally validated using an independent dataset. the newly developed survival prediction model improves the accuracy of OS prediction for stage II and III gastric cancer patients without AC after curative gastrectomy.

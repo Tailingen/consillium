@@ -1,6 +1,0 @@
-Deep Learning Radiomics Model for Predicting Post-cystectomy Outcome in Muscle Invasive Bladder Cancer
-Muscle invasive bladder cancer (MIBC) has a poor prognosis even after radical cystectomy. Postoperative survival stratification based on radiomics and deep learning may be useful for treatment decisions to improve prognosis. This study was aimed to develop and validate a deep learning radiomics model based on preoperative enhanced CT to predict postoperative survival in MIBC.
-Bladder Cancer
-OTHER: develop and validate a deep learning radiomics model based on preoperative enhanced CT image
-Overall survival（OS）, the time from the date of surgery to death from any cause or the date of last contact (censored observation) at the date of data cut-off., up to 10 years|Recurrence free survival（RFS), the time from the date of surgery to the date of first documented disease recurrence. Patients without recurrence at the time of analysis will be censored., up to 10 years
-Muscle invasive bladder cancer (MIBC) has a poor prognosis even after radical cystectomy. Postoperative survival stratification based on radiomics and deep learning may be useful for treatment decisions to improve prognosis. This study was aimed to develop and validate a deep learning radiomics model based on preoperative enhanced CT to predict postoperative survival in MIBC.
